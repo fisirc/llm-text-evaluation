@@ -4,13 +4,15 @@
 module Main where
 
 import Data.Aeson (encode, FromJSON, ToJSON)
-import Data.Text (pack)
 import GHC.Generics (Generic)
 import Network.Wreq (get, responseBody)
 import Text.HTML.TagSoup (parseTags, Tag (TagText))
 import Control.Lens ((^.))
-import qualified Data.ByteString.Lazy as BL
+import Data.Char (isSpace)
+import Data.List (dropWhileEnd)
 import Control.Monad (foldM)
+import Text.Regex.Posix
+import qualified Data.ByteString.Lazy as BL
 import qualified Data.List.NonEmpty as NEL
 import qualified Data.Text as T
 import qualified Data.List
@@ -19,7 +21,16 @@ import qualified Data.Text.Lazy.Encoding as TLE
 import qualified Data.Text.Lazy as TL
 
 cleanTxt :: String -> T.Text
-cleanTxt = T.replace (T.pack "\160") (T.pack "") . T.pack
+cleanTxt = T.replace (T.pack "\160") (T.pack " ") . T.pack
+
+cleanString :: String -> String
+cleanString = T.unpack . cleanTxt
+
+trim :: String -> T.Text
+trim = T.pack . dropWhileEnd isSpace . dropWhile isSpace . cleanString
+
+trimString :: String -> String
+trimString = dropWhileEnd isSpace . dropWhile isSpace
 
 data Alternative = Alternative {
     code :: Char,
@@ -90,8 +101,8 @@ process (questions, ParsingContent content) next = do
     case next of
         TagText txt
             -- move to alternatives
-            | "A) " `Data.List.isPrefixOf` txt ->
-                return (questions, ParsingAlternatives content [Alternative { code = 'A', content = cleanTxt txt }])
+            | Just rest <- "a) " `Data.List.stripPrefix` lowerStr txt ->
+                return (questions, ParsingAlternatives (trim (T.unpack content)) [Alternative { code = 'A', content = trim rest }])
             -- continue parsing content
             | otherwise ->
                 return (questions, ParsingContent (content <> cleanTxt txt))
@@ -106,40 +117,46 @@ process (questions, ParsingAlternatives content alternatives) next =
             -- continue parsing alternatives
             | otherwise -> do
                 let (code, alternative) = splitAt 3 txt
-                return (questions, ParsingAlternatives content (alternatives ++ [Alternative { code = head code, content = cleanTxt alternative }]))
+                if trim code /= T.pack "" then
+                    return (questions, ParsingAlternatives content (alternatives ++ [Alternative { code = Char.toUpper . head $ trimString code, content = trim alternative }]))
+                else
+                    return (questions, ParsingAlternatives content alternatives)
         _ -> return (questions, ParsingAlternatives content alternatives) -- not there yet
 
 process (questions, ParsingExplanation content alternatives explanation) next =
     case next of
         TagText txt
-            -- move to answer
-            | "rpta" `Data.List.isInfixOf` lowerStr txt -> do
-                let (_, code) = splitAt 9 txt
-                let q = Question { questionContent = content, alternatives = alternatives, explanation = explanation, answer = head code }
-                return (questions ++ [q], WaitingStart)
+            -- parse the correct answer
+            | any (\x -> x `Data.List.isInfixOf` lowerStr txt) ["rpta", "clave"] -> do
+                let codeRegex = head (txt =~ "Rpta\\. ?: \"([A-E])\"?|Clave ([A-E])" :: [[String]])
+                let code = (!!0) . last $ filter (not . null) codeRegex
+
+                let q = Question { questionContent = content, alternatives = alternatives, explanation = trim (T.unpack explanation), answer = code }
+                return (questions ++ [q], WaitingStart) -- reset again
             -- continue parsing alternatives
             | otherwise ->
                 return (questions, ParsingExplanation content alternatives (explanation <> cleanTxt txt))
         _ -> return (questions, ParsingExplanation content alternatives explanation)
 
 
+parseFile :: String -> IO [Question]
+parseFile filename = do
+    response <- get filename
 
+    let bodyRaw = response ^. responseBody
+    let body = TL.unpack (TLE.decodeUtf8 bodyRaw)
+    let htmlTags = parseTags body
+
+    (questions, _) <- runFsm process ([], WaitingStart) htmlTags
+
+    return questions
 
 main :: IO()
 main = do
     -- let result :: [Question] = []
+    questions <- mapM parseFile sourcesUrl
+    let allQuestions = concat questions
 
-    response <- get $ head sourcesUrl
-
-    let body = response ^. responseBody
-    let output = TL.unpack (TLE.decodeUtf8 body)
-
-    writeFile "file.txt" output
-
-    let tags = parseTags output
-
-    (questions, _) <- runFsm process ([], WaitingStart) tags
-
-    let encoded = encode questions
+    let encoded = encode allQuestions
     BL.writeFile "solution.json" encoded
     print encoded
