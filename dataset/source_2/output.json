@@ -600,19 +600,19 @@
         "content": "4"
       },
       {
-        "code": "b",
+        "code": "B",
         "content": "2"
       },
       {
-        "code": "c",
+        "code": "C",
         "content": "3"
       },
       {
-        "code": "d",
+        "code": "D",
         "content": "1"
       },
       {
-        "code": "e",
+        "code": "E",
         "content": "5"
       }
     ],
@@ -654,19 +654,19 @@
         "content": "3"
       },
       {
-        "code": "b",
+        "code": "B",
         "content": "2"
       },
       {
-        "code": "c",
+        "code": "C",
         "content": "4"
       },
       {
-        "code": "d",
+        "code": "D",
         "content": "5"
       },
       {
-        "code": "e",
+        "code": "E",
         "content": "1"
       }
     ],
@@ -681,19 +681,19 @@
         "content": "4"
       },
       {
-        "code": "b",
+        "code": "B",
         "content": "5"
       },
       {
-        "code": "c",
+        "code": "C",
         "content": "1"
       },
       {
-        "code": "d",
+        "code": "D",
         "content": "2"
       },
       {
-        "code": "e",
+        "code": "E",
         "content": "3"
       }
     ],
@@ -708,19 +708,19 @@
         "content": "1"
       },
       {
-        "code": "b",
+        "code": "B",
         "content": "2"
       },
       {
-        "code": "c",
+        "code": "C",
         "content": "3"
       },
       {
-        "code": "d",
+        "code": "D",
         "content": "4"
       },
       {
-        "code": "e",
+        "code": "E",
         "content": "5"
       }
     ],
@@ -735,19 +735,19 @@
         "content": "1"
       },
       {
-        "code": "b",
+        "code": "B",
         "content": "2"
       },
       {
-        "code": "c",
+        "code": "C",
         "content": "3"
       },
       {
-        "code": "d",
+        "code": "D",
         "content": "4"
       },
       {
-        "code": "e",
+        "code": "E",
         "content": "5"
       }
     ],
@@ -762,19 +762,19 @@
         "content": "4"
       },
       {
-        "code": "b",
+        "code": "B",
         "content": "1"
       },
       {
-        "code": "c",
+        "code": "C",
         "content": "3"
       },
       {
-        "code": "d",
+        "code": "D",
         "content": "2"
       },
       {
-        "code": "e",
+        "code": "E",
         "content": "5"
       }
     ],
@@ -816,19 +816,19 @@
         "content": "1"
       },
       {
-        "code": "b",
+        "code": "B",
         "content": "2"
       },
       {
-        "code": "c",
+        "code": "C",
         "content": "3"
       },
       {
-        "code": "d",
+        "code": "D",
         "content": "4"
       },
       {
-        "code": "e",
+        "code": "E",
         "content": "5"
       }
     ],
@@ -870,19 +870,19 @@
         "content": "1"
       },
       {
-        "code": "b",
+        "code": "B",
         "content": "2"
       },
       {
-        "code": "c",
+        "code": "C",
         "content": "3"
       },
       {
-        "code": "d",
+        "code": "D",
         "content": "4"
       },
       {
-        "code": "e",
+        "code": "E",
         "content": "5"
       }
     ],
@@ -897,19 +897,19 @@
         "content": "3"
       },
       {
-        "code": "b",
+        "code": "B",
         "content": "5"
       },
       {
-        "code": "c",
+        "code": "C",
         "content": "4"
       },
       {
-        "code": "d",
+        "code": "D",
         "content": "1"
       },
       {
-        "code": "e",
+        "code": "E",
         "content": "2"
       }
     ],
@@ -1217,19 +1217,19 @@
         "content": "1"
       },
       {
-        "code": "b",
+        "code": "B",
         "content": "2"
       },
       {
-        "code": "c",
+        "code": "C",
         "content": "3"
       },
       {
-        "code": "d",
+        "code": "D",
         "content": "5"
       },
       {
-        "code": "e",
+        "code": "E",
         "content": "4"
       }
     ],
@@ -1376,6 +1376,33 @@
     "alternatives": [
       {
         "code": "A",
+        "content": "5"
+      },
+      {
+        "code": "B",
+        "content": "4"
+      },
+      {
+        "code": "C",
+        "content": "1"
+      },
+      {
+        "code": "D",
+        "content": "2"
+      },
+      {
+        "code": "E",
+        "content": "3"
+      }
+    ],
+    "answer": "B",
+    "explanation": "El ejercicio nos habla de los sonidos que uno puede escuchar teniendo que eliminar la cuarta oración pues habla del parpadear de una fogata (sentido de la visión) alejándose definitivamente del tema.",
+    "questionContent": "¿Cuál es la oración que debe eliminarse afectar el sentido: del texto formado por restantes? (1) El campo estaba en silencio, (2) Ahora, pasan grandes insectos que zumban un instante, (3) Los grillos abren su coro rítmico: los comunes, notas rápidas y afanosas; los reales en una la amplia y sostenida nota sonora. (4) De pronto parpadea a lo lejos una fogata. (5) Y de los confines remotos llega y retumba en todo el valle el formidable y sordo rumor de un tren que pasa."
+  },
+  {
+    "alternatives": [
+      {
+        "code": "A",
         "content": "3"
       },
       {
@@ -1397,7 +1424,7 @@
     ],
     "answer": "D",
     "explanation": "El texto desarrolla el tema de la violencia intrafamiliar. La primera oración presenta al tema como problema consuetudinario; a partir de allí, se intenta dar explicaciones en la tercera y cuarta oración. La tercera oración presenta el punto de vista de los sociólogos; la cuarta, la opinión de otros expertos. La quinta oración nos presenta una síntesis del tema. La oración que se elimina es la segunda, puesto que nos habla de la aparición de noticias sobre la violencia creciente en el ámbito familiar.",
-    "questionContent": "¿Cuál es la oración que debe eliminarse afectar el sentido: del texto formado por restantes? (1) El campo estaba en silencio, (2) Ahora, pasan grandes insectos que zumban un instante, (3) Los grillos abren su coro rítmico: los comunes, notas rápidas y afanosas; los reales en una la amplia y sostenida nota sonora. (4) De pronto parpadea a lo lejos una fogata. (5) Y de los confines remotos llega y retumba en todo el valle el formidable y sordo rumor de un tren que pasa. A. 5 B. 4 C. 1 D. 2 E. 3 ResoluciónEl ejercicio nos habla de los sonidos que uno puede escuchar teniendo que eliminar la cuarta oración pues habla del parpadear de una fogata (sentido de la visión) alejándose definitivamente del tema. Rpta. : \"B\"PREGUNTA 40(1) La violencia intrafamiliar, como problema social consuetudinario, va en aumento y no es exclusivo de ambientes marginales y desestructurados. (2) Aparece noticias sobre una violencia creciente en el ámbito familiar y estas son cada vez más habituales. (3) Los sociólogos intentan explicar las posibles causas de esta forma de violencia: situación socioeconómica familiar, el factor educativo, los medios de comunicación y los videojuegos. (4) Hay expertos, en la materia, que consideran que la violencia familiar es una consecuencia de la crisis de la familia tradicional. Otro aspecto a considerar es la crisis de valores en el conjunto de la sociedad, una crisis que provoca tensiones y conflictos en el núcleo familiar. (5) Como se puede apreciar, no hay un elemento que desencadena la violencia familiar, sino que se trata de un problema multifactorial."
+    "questionContent": "(1) La violencia intrafamiliar, como problema social consuetudinario, va en aumento y no es exclusivo de ambientes marginales y desestructurados. (2) Aparece noticias sobre una violencia creciente en el ámbito familiar y estas son cada vez más habituales. (3) Los sociólogos intentan explicar las posibles causas de esta forma de violencia: situación socioeconómica familiar, el factor educativo, los medios de comunicación y los videojuegos. (4) Hay expertos, en la materia, que consideran que la violencia familiar es una consecuencia de la crisis de la familia tradicional. Otro aspecto a considerar es la crisis de valores en el conjunto de la sociedad, una crisis que provoca tensiones y conflictos en el núcleo familiar. (5) Como se puede apreciar, no hay un elemento que desencadena la violencia familiar, sino que se trata de un problema multifactorial."
   },
   {
     "alternatives": [
@@ -1457,6 +1484,60 @@
     "alternatives": [
       {
         "code": "A",
+        "content": "v"
+      },
+      {
+        "code": "B",
+        "content": "III"
+      },
+      {
+        "code": "C",
+        "content": "I"
+      },
+      {
+        "code": "D",
+        "content": "II"
+      },
+      {
+        "code": "E",
+        "content": "IV"
+      }
+    ],
+    "answer": "E",
+    "explanation": "Tema: La marinera , origen y desarrollo. Los enunciados I – II – III – V se refieren al tema. El enunciado IV no se refiere directamente al tema.",
+    "questionContent": ": (I) Hay varias hipótesis sobre el origen de la marinera. (II) Su nacimiento se sitúa en España o en África. (III) La marinera es un baile nacional. (IV) No existe una vestimenta típica para la marinera. (V) Este baile se desarrolla en varias zonas del Perú."
+  },
+  {
+    "alternatives": [
+      {
+        "code": "A",
+        "content": "v"
+      },
+      {
+        "code": "B",
+        "content": "II"
+      },
+      {
+        "code": "C",
+        "content": "I"
+      },
+      {
+        "code": "D",
+        "content": "III"
+      },
+      {
+        "code": "E",
+        "content": "IV"
+      }
+    ],
+    "answer": "D",
+    "explanation": "Tema: La competitividad en un mundo globalizado. Los enunciados I – II – IV– V se refieren al tema. El enunciado III trata de otra temática.",
+    "questionContent": ": (I) El avance tecnológico y la globalización exigen mayor competividad a todo nivel. (II) La competitividad compromete a cada uno de los sectores de la economía. (III) Hay necesidad de fortalecer la política de apoyo a la empresa privada. (IV) En el mundo globalizado , los consumidores exigen mejorar la calidad. (V) Esto implica la obligación de ser más competitivo: aumentar la eficiencia y la eficacia y reducir costos."
+  },
+  {
+    "alternatives": [
+      {
+        "code": "A",
         "content": "iii"
       },
       {
@@ -1478,7 +1559,7 @@
     ],
     "answer": "A",
     "explanation": "Temática: Las obras de arte como documentos históricos. Las proposiciones I – II – IV– V son pertinentes al tema. La proposición III se refiere a otra temática: sobre el concepto de arte y sus diferentes formas.",
-    "questionContent": ": (I) Hay varias hipótesis sobre el origen de la marinera. (II) Su nacimiento se sitúa en España o en África. (III) La marinera es un baile nacional. (IV) No existe una vestimenta típica para la marinera. (V) Este baile se desarrolla en varias zonas del Perú. A)V B) III C) I D) II E) IV RESOLUCIÓN : Tema: La marinera , origen y desarrollo. Los enunciados I – II – III – V se refieren al tema. El enunciado IV no se refiere directamente al tema. Rpta. : \"E\"PREGUNTA 4 : (I) El avance tecnológico y la globalización exigen mayor competividad a todo nivel. (II) La competitividad compromete a cada uno de los sectores de la economía. (III) Hay necesidad de fortalecer la política de apoyo a la empresa privada. (IV) En el mundo globalizado , los consumidores exigen mejorar la calidad. (V) Esto implica la obligación de ser más competitivo: aumentar la eficiencia y la eficacia y reducir costos. A)V B) II C) I D) III E) IV RESOLUCIÓN :Tema: La competitividad en un mundo globalizado. Los enunciados I – II – IV– V se refieren al tema. El enunciado III trata de otra temática. Rpta. : \"D\"PREGUNTA 5 : (I) Las obras de arte , a menudo , sirven como documentos. (II) Nos dan ideas sobre las transformaciones culturales y el desarrollo de una civilización. (III) Las definiciones del arte varían según el tiempo y el lugar. (IV) A veces , se puede reconstruir la historia de un pueblo a través de su arte. (V) Las obras de arte son maneras de reflexionar sobre la vida cotidiana y , también , sobre los acontecimientos importantes."
+    "questionContent": ": (I) Las obras de arte , a menudo , sirven como documentos. (II) Nos dan ideas sobre las transformaciones culturales y el desarrollo de una civilización. (III) Las definiciones del arte varían según el tiempo y el lugar. (IV) A veces , se puede reconstruir la historia de un pueblo a través de su arte. (V) Las obras de arte son maneras de reflexionar sobre la vida cotidiana y , también , sobre los acontecimientos importantes."
   },
   {
     "alternatives": [
@@ -4234,6 +4315,33 @@
     "alternatives": [
       {
         "code": "A",
+        "content": "ii - iv - i - v - iii"
+      },
+      {
+        "code": "B",
+        "content": "II - I - IV - III - V"
+      },
+      {
+        "code": "C",
+        "content": "II - IV - III - I - V"
+      },
+      {
+        "code": "D",
+        "content": "II - IV - I - III - V"
+      },
+      {
+        "code": "E",
+        "content": "II - I - III - V - IV"
+      }
+    ],
+    "answer": "B",
+    "explanation": "El orden lógico del ejercicio es II - IV - I - III - V. Inicia con la oración II donde nos presenta al matrimonio Curie. Sigue el enunciado IV donde nos habla del motivo de la separación. Continúa el enunciado I donde se especifica lo ocurrido. Luego, sigue el enunciado III que aborda lo que ocurrió con Marie Curie luego del accidente. El orden lógico finaliza con el enunciado V pues indica el Premio Nobel que recibió Marie Curie en 1911.",
+    "questionContent": "I. Pierre sufrió un terrible accidente. II. El matrimonio de Pierre y Marie Curie fue uno de los más célebres de la historia de la ciencia, al ganar en conjunto un premio Nobel de Física en 1903. III. Después de esta terrible tragedia, la carrera científica de Marie Curie siguió dando frutos. IV. Desafortunadamente, en el año de 1906, la muerte los separó. V. En 1911, recibió su segundo Nobel en la categoría de Química por el descubrimiento del radio y el polonio."
+  },
+  {
+    "alternatives": [
+      {
+        "code": "A",
         "content": "iv - iii - ii - i - v"
       },
       {
@@ -4259,7 +4367,7 @@
     ],
     "answer": "E",
     "explanation": "El orden lógico del ejercicio es V - IV - I - II - III. Inicia con la oración V, donde se plantea una larga tradición de la ingeniería. Sigue el enunciado IV, donde nos habla del siglo de su surgimiento y de su madurez. Continúa el enunciado I, donde se señala una diferencia con las épocas anteriores. Luego, sigue el enunciado II que aborda la manera cómo se hace referencia a esta época. El orden lógico finaliza con el enunciado III, pues indica las contradicciones, en el uso de la tecnología, surgidas en esta época.",
-    "questionContent": "I. Pierre sufrió un terrible accidente. II. El matrimonio de Pierre y Marie Curie fue uno de los más célebres de la historia de la ciencia, al ganar en conjunto un premio Nobel de Física en 1903. III. Después de esta terrible tragedia, la carrera científica de Marie Curie siguió dando frutos. IV. Desafortunadamente, en el año de 1906, la muerte los separó. V. En 1911, recibió su segundo Nobel en la categoría de Química por el descubrimiento del radio y el polonio. A) II - IV - I - V - III B) II - I - IV - III - V C) II - IV - III - I - V D) II - IV - I - III - V E) II - I - III - V - IV ResoluciónEl orden lógico del ejercicio es II - IV - I - III - V. Inicia con la oración II donde nos presenta al matrimonio Curie. Sigue el enunciado IV donde nos habla del motivo de la separación. Continúa el enunciado I donde se especifica lo ocurrido. Luego, sigue el enunciado III que aborda lo que ocurrió con Marie Curie luego del accidente. El orden lógico finaliza con el enunciado V pues indica el Premio Nobel que recibió Marie Curie en 1911.  Rpta. : \"B\"PREGUNTA 21I. Sin embargo, actualmente, tiene características que lo diferencian fuertemente de épocas anteriores. II. Para referirse a esta época se habla de globalización, de sociedad del conocimiento y de sistemas nacionales de innovación. III. Esta es una época caracterizada por contradicciones, pues se ha optimizado la tecnología que ha permitido una mejora en la calidad de vida. IV. Como disciplina se inició en el siglo XVI, y en el siglo XX llegó a su madurez. V. La ingeniería tiene una larga e histórica tradición."
+    "questionContent": "I. Sin embargo, actualmente, tiene características que lo diferencian fuertemente de épocas anteriores. II. Para referirse a esta época se habla de globalización, de sociedad del conocimiento y de sistemas nacionales de innovación. III. Esta es una época caracterizada por contradicciones, pues se ha optimizado la tecnología que ha permitido una mejora en la calidad de vida. IV. Como disciplina se inició en el siglo XVI, y en el siglo XX llegó a su madurez. V. La ingeniería tiene una larga e histórica tradición."
   },
   {
     "alternatives": [

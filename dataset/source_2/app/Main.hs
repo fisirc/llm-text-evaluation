@@ -100,7 +100,9 @@ process (questions, ParsingContent content) next = do
     case next of
         TagText txt
             -- move to alternatives
-            | Just rest <- "a) " `Data.List.stripPrefix` lowerStr txt ->
+            | Just rest <- "a)" `Data.List.stripPrefix` (trimString . lowerStr $ txt) ->
+                return (questions, ParsingAlternatives (trim (T.unpack content)) [Alternative { code = 'A', content = trim rest }])
+            | Just rest <- "a." `Data.List.stripPrefix` (trimString . lowerStr $ txt) ->
                 return (questions, ParsingAlternatives (trim (T.unpack content)) [Alternative { code = 'A', content = trim rest }])
             -- continue parsing content
             | otherwise ->
@@ -157,4 +159,4 @@ main = do
 
     let encoded = encode allQuestions
     BL.writeFile "output.json" encoded
-    print encoded
+    print "Dataset output written to output.json"
