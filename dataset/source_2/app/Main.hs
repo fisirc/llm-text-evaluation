@@ -1,5 +1,4 @@
 {-# LANGUAGE DeriveGeneric #-}
-{-# OPTIONS_GHC -Wno-incomplete-patterns #-}
 
 module Main where
 
@@ -11,7 +10,7 @@ import Control.Lens ((^.))
 import Data.Char (isSpace)
 import Data.List (dropWhileEnd)
 import Control.Monad (foldM)
-import Text.Regex.Posix
+import Text.Regex.Posix ((=~))
 import qualified Data.ByteString.Lazy as BL
 import qualified Data.List.NonEmpty as NEL
 import qualified Data.Text as T
@@ -138,9 +137,9 @@ process (questions, ParsingExplanation content alternatives explanation) next =
                 return (questions, ParsingExplanation content alternatives (explanation <> cleanTxt txt))
         _ -> return (questions, ParsingExplanation content alternatives explanation)
 
-
-parseFile :: String -> IO [Question]
-parseFile filename = do
+-- Parse all the questions for a single source
+parseQuestionsForSource :: String -> IO [Question]
+parseQuestionsForSource filename = do
     response <- get filename
 
     let bodyRaw = response ^. responseBody
@@ -153,10 +152,9 @@ parseFile filename = do
 
 main :: IO()
 main = do
-    -- let result :: [Question] = []
-    questions <- mapM parseFile sourcesUrl
+    questions <- mapM parseQuestionsForSource sourcesUrl
     let allQuestions = concat questions
 
     let encoded = encode allQuestions
-    BL.writeFile "solution.json" encoded
+    BL.writeFile "output.json" encoded
     print encoded
