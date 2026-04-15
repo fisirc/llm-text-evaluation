@@ -1,0 +1,873 @@
+[
+  {
+    "type": "reading_comprehension",
+    "statement": "Al igual que un termitero, el Eastgate está ventilado, refrigerado y calefaccionado por medios totalmente naturales. El edificio tiene cuatro paredes gruesas de mampostería en el exterior y un atrio de siete pisos de altura en el interior. El aire exterior ingresa a través de múltiples ventilaciones y la masa del edificio lo calienta o lo enfría en función de cuál está más caliente: el hormigón de la estructura o el aire. La ventilación del Eastgate cuesta una décima parte de la ventilación de un edificio equipado con aire acondicionado estándar y consume un 35% menor de energía que seis edificios convencionales. Tal como lo descubrieron los propietarios del Eastage, un edificio que tenga un uso eficiente de la energía también puede resultar bueno para el bolsillo. Durante los primeros cinco años del edificio, ahorraron $3,5 millones en gasto",
+    "questions": [
+      {
+        "statement": "I. El edificio tiene un diseño poco convencional.",
+        "alternatives": [
+          "C) Compatible",
+          "I) Incompatible"
+        ],
+        "correct": 0,
+        "rationale": null
+      },
+      {
+        "statement": "II. Socialmente, este edificio está diseñado solo para billonarios.",
+        "alternatives": [
+          "C) Compatible",
+          "I) Incompatible"
+        ],
+        "correct": 1,
+        "rationale": null
+      },
+      {
+        "statement": "III. Permite una interesante comparación con un termitero.",
+        "alternatives": [
+          "C) Compatible",
+          "I) Incompatible"
+        ],
+        "correct": 0,
+        "rationale": null
+      },
+      {
+        "statement": "IV. En conclusión, la obra resultó muy onerosa.",
+        "alternatives": [
+          "C) Compatible",
+          "I) Incompatible"
+        ],
+        "correct": 1,
+        "rationale": null
+      },
+      {
+        "statement": "V. Frente a otros edificios, este ahorra más.",
+        "alternatives": [
+          "C) Compatible",
+          "I) Incompatible"
+        ],
+        "correct": 0,
+        "rationale": null
+      },
+      {
+        "statement": "VI. El hormigón del edificio es siempre más caliente que el aire.",
+        "alternatives": [
+          "C) Compatible",
+          "I) Incompatible"
+        ],
+        "correct": 1,
+        "rationale": null
+      },
+      {
+        "statement": "VII. El uso eficiente de la energía demanda gastos elevados.",
+        "alternatives": [
+          "C) Compatible",
+          "I) Incompatible"
+        ],
+        "correct": 1,
+        "rationale": null
+      },
+      {
+        "statement": "VIII. La exclusividad del diseño se pierde en el primer lustro.",
+        "alternatives": [
+          "C) Compatible",
+          "I) Incompatible"
+        ],
+        "correct": 1,
+        "rationale": null
+      },
+      {
+        "statement": "IX. Los edificios convencionales consumen mucha más energía.",
+        "alternatives": [
+          "C) Compatible",
+          "I) Incompatible"
+        ],
+        "correct": 0,
+        "rationale": null
+      },
+      {
+        "statement": "X. 3,5 millones es lo que demandó la venta del diseño.",
+        "alternatives": [
+          "C) Compatible",
+          "I) Incompatible"
+        ],
+        "correct": 1,
+        "rationale": null
+      }
+    ]
+  },
+  {
+    "type": "reading_comprehension",
+    "statement": "La Apología de Sócrates pertenece al periodo socrático del pensamiento de Platón, por lo que trata de reflejar fielmente el pensamiento vivo de Sócrates y se detiene en un momento estelar de la vida de este gran hombre: el enfrentamiento final contra la sociedad ateniense con el fin de insuflarle la búsqueda de la virtud. En la Apología ,se trata de poner de relieve la sabiduría humana, lo que más tarde Nicolás de Cusa, en un hermoso oxímoron, llamaría «docta ignorancia». De hecho, los primeros diálogos de Platón giran entorno a la figura de Sócrates. En la Apología , en particular, Platón presenta su versión de la célebre defensa que Sócrates hace de sí mismo en el funesto juicio al que lo sometieron los atenienses. La sentencia y la muerte de Sócrates dejaron una huella indeleble en el espíritu del joven Platón. Según su juicio severo, riguroso, implacable, la democracia ateniense fue la responsable de tan nefasto magnicidio. Este suceso decidió la acerba opinión de Platón en contra de la democracia, lo que según Karl Popper (en The Open Society and its Enemies )lo condujo a idear una ucronía totalitaria. Raymundo Casas Navarro",
+    "questions": [
+      {
+        "statement": "I. Según Sócrates, temo a la muerte por lo que ignoro de ella.",
+        "alternatives": [
+          "C) Compatible",
+          "I) Incompatible"
+        ],
+        "correct": 0,
+        "rationale": null
+      },
+      {
+        "statement": "II. En lo de la muerte como otra vida, el autor es un misógino.",
+        "alternatives": [
+          "C) Compatible",
+          "I) Incompatible"
+        ],
+        "correct": 1,
+        "rationale": null
+      },
+      {
+        "statement": "III. En tanto transformación, Sócrates vela muerte como benéfica.",
+        "alternatives": [
+          "C) Compatible",
+          "I) Incompatible"
+        ],
+        "correct": 0,
+        "rationale": null
+      },
+      {
+        "statement": "IV. Para Sócrates, el que no fue justo en vida, lo será ya muerto.",
+        "alternatives": [
+          "C) Compatible",
+          "I) Incompatible"
+        ],
+        "correct": 1,
+        "rationale": null
+      },
+      {
+        "statement": "V. La muerte como vacuidad es descanso perfecto.",
+        "alternatives": [
+          "C) Compatible",
+          "I) Incompatible"
+        ],
+        "correct": 0,
+        "rationale": null
+      },
+      {
+        "statement": "VI. Comparar vidas y padecimientos pasados es solo fuente de angustia.",
+        "alternatives": [
+          "C) Compatible",
+          "I) Incompatible"
+        ],
+        "correct": 1,
+        "rationale": null
+      },
+      {
+        "statement": "VII. La muerte es o solo vacío, o transformación o algo más.",
+        "alternatives": [
+          "C) Compatible",
+          "I) Incompatible"
+        ],
+        "correct": 1,
+        "rationale": null
+      },
+      {
+        "statement": "VIII. La vida después de la muerte carece de certeza absoluta.",
+        "alternatives": [
+          "C) Compatible",
+          "I) Incompatible"
+        ],
+        "correct": 0,
+        "rationale": null
+      },
+      {
+        "statement": "IX. El autor y el Gran Rey piensan lo mismo de la muerte.",
+        "alternatives": [
+          "C) Compatible",
+          "I) Incompatible"
+        ],
+        "correct": 1,
+        "rationale": null
+      },
+      {
+        "statement": "X. Para Sócrates, la mejor muerte es la que uno dispone para sí.",
+        "alternatives": [
+          "C) Compatible",
+          "I) Incompatible"
+        ],
+        "correct": 1,
+        "rationale": null
+      }
+    ]
+  },
+  {
+    "type": "reading_comprehension",
+    "statement": "Que la Tierra era redonda lo sabía naturalmente Ptolomeo, de otro modo no habría podido dividirla en trescientos sesenta grados de meridiano; lo sabía Eratóstenes, que en el siglo tercero antes de Cristo calculó con una buena aproximación la longitud del Ecuador; lo sabían Pitágoras, Parménides, Eudoxo, Platón, Aristóteles, Euclides, Aristarco, Arquímedes, y se descubre que los únicos que no lo creyeron eran solo dos materialistas como Leucipo y Demócrito. Que la Tierra era redonda lo sabían perfectamente Macrobio y Marciano Capella, hacia los siglos IV y V de nuestra era. Por lo que concierne a los Padres de la Iglesia, tenían que medirse con el texto bíblico que hablaba de la forma rectangular del tabernáculo, pero Agustín, aunque no tenía opiniones seguras al respecto, conocía las de los antiguos y concedía que el texto sagrado hablara por metáforas. Su posición era más bien otra, bastante común al pensamiento patrístico :puesto que no salvamos el alma conociendo la forma de la Tierra, la cuestión le parecía de escaso interés. Isidoro de Sevilla (que desde luego no era un modelo de meticulosidad científica) calcula la longitud ecuatorial en ochenta mil estadios. ¿Podía pensar que la Tierra era plana? Incluso un estudiante de primero de bachillerato puede deducir fácilmente que si Dante entra en el embudo infernal y sale por la otra parte viendo estrellas desconocidas al pie de la montaña del Purgatorio, eso significa que sabía perfectamente que la Tierra era redonda. El hecho es que de la misma opinión fueron cristianos tempranos como Orígenes y Ambrosio, y en el periodo escolástico pensaban en y hablaban de una Tierra esférica Alberto Magno y Tomás de Aquino, Roger Bacon, Juan de Sacrobosco, Pierre d’Ailly, Egidio Romano, Nicolás de Oresme y Juan Buridán, por citar a algunos.",
+    "questions": [
+      {
+        "statement": "1. Básicamente, el texto constituye un alegato contra el mito",
+        "alternatives": [
+          "A) de la arraigada creencia de que la Tierra era plana.",
+          "B) de la doctrina bíblica de la esfericidad de la Tierra.",
+          "C) de la profunda ignorancia de los autores medievales.",
+          "D) de la Tierra esférica defendida por Dante Alighieri.",
+          "E) del interés de los Padres de la Iglesia por la salvación."
+        ],
+        "correct": 0,
+        "rationale": null
+      },
+      {
+        "statement": "2. El antónimo contextual del verbo CONCEDER es",
+        "alternatives": [
+          "A) arrebatar.",
+          "B) quitar.",
+          "C) recibir.",
+          "D) refutar.",
+          "E) retacear."
+        ],
+        "correct": 3,
+        "rationale": null
+      },
+      {
+        "statement": "3. Resulta incompatible con lo planteado en el texto pretender que los representantes__________________eran partidarios de la esfericidad de la Tierra.",
+        "alternatives": [
+          "A) de la academia platónica",
+          "B) de la escuela aristotélica",
+          "C) del atomismo materialista",
+          "D) del periodo escolástico",
+          "E) del pensamiento patrístico"
+        ],
+        "correct": 2,
+        "rationale": null
+      },
+      {
+        "statement": "4. Se infiere del texto que a Agustín lo motivaba principalmente un propósito",
+        "alternatives": [
+          "A) alegórico.",
+          "B) bíblico.",
+          "C) científico.",
+          "D) literario.",
+          "E) soteriológico."
+        ],
+        "correct": 4,
+        "rationale": null
+      },
+      {
+        "statement": "5. Si Leucipo y Demócrito hubiesen coincidido con sus contemporáneos en el tema que constituye lo central del texto, la tesis de la esfericidad de la Tierra",
+        "alternatives": [
+          "A) carecería absolutamente de interés.",
+          "B) habría pasado desapercibida hasta hoy.",
+          "C) habría llegado a ser unánime entonces.",
+          "D) habría sido planteada en el medievo.",
+          "E) ni siquiera habría sido planteada."
+        ],
+        "correct": 2,
+        "rationale": null
+      }
+    ]
+  },
+  {
+    "type": "reading_comprehension",
+    "statement": "A la rama de las matemáticas que se denomina combinatoria se la conoce en ocasiones\ncomo conteo avanzado. Contra lo que se suele pensar, esta no se agota en sumar una\ncolumna de cifra s mentalmente. «¿Cuántos? » es una pregunta, pero también lo es\n«¿Cómo pueden combinarse los objetos? ». A veces los problemas se exponen de\nmanera sencilla, sin que los acompañe la pesada superestructura de la teoría matemática.\nEsto hace que los problemas de combinatoria resulten atractivos. Pero deberían llevar\nuna advertencia sanitaria: es posible desarrollar una adicción a ellos y sin duda pueden\nprovocar insomnio .\nLos niños pueden empezar con la combinatoria a una temprana edad. Hay una\ncanción infantil tradicional que plantea una pregunta combinatoria:\n\nDe camino a St. Yves,\nMe encontré con un hombre que tenía siete esposas;\nCada esposa tenía siete sacos,\nEn cada saco había siete gatos,\nCada gato tenía siete gatitos,\nCada gatito, siete garrapatas.\nGarrapatas, gatitos, gatos, sacos y esposas,\n¿Cuántos iban a St. Yves?\n\nEl último verso es la pregunta con trampa. Pero siempre se puede dar la vuelta a\ncualquier pregunta: ¿cuántos venían de St. Yves?\nLa interpretación es importante. ¿Podemos estar seguros de que el hombre y sus\nsiete esposas estaban, todos ellos, alejándose de St. Yves? ¿Las esposas estaban\nacompañando al hombre cuando fue encontrado, o estaban en algún otro lugar? El primer\nrequisito de un problema de combinatoria es que esté claramente expuesto y que se\nentienda.\nSupondremos que el séquito venía por el único camino que se aleja de la ciudad\ncostera de Cornualles y que «las garrapatas, gatitos, gatos, sacos y esposas » estaban\ntodos presentes. ¿Cuántos venían desde St. Yves? La siguiente tabla nos da una\nsolución.\n\nhombre 1 1\nesposas 7 7\nsacos 7 x 7 49\ngatos 7 x 7 x 7 343\ngatitos 7 x 7 x 7 x 7 2401\ngarrapatas 7 x 7 x 7 x 7 x 7 16 807\nTotal 19 608\n\nEn 1858, Alexander Rhind, un anticuario escocés de visita en Luxor, se encontró\ncon un p apiro de 5 metros de largo lleno de matemáticas egipcias del periodo de 1800 a.\nC. Lo compró. Unos años después fue adquirido por el Museo Británico y sus jeroglíficos\ntraducidos. El problema 79 del papiro del Rhind es un problema de casas, gatos, ratones,\nespigas y granos de trigo muy similar al de las garrapatas, gatitos, gatos, sacos y esposas\n\nAdaptado de Tony Crilly, 50 cosas que hay que saber sobre matemáticas , Ariel,\nBarcelona, 2 014, pp. 170 -171",
+    "questions": [
+      {
+        "statement": "Básicamente, el autor desarrolla el tema",
+        "alternatives": [
+          "A) del arte combinatorio.",
+          "B) del conteo progresivo.",
+          "C) de una canción infantil.",
+          "D) de preguntas capciosas.",
+          "E) de la teoría matemática."
+        ],
+        "correct": 0,
+        "rationale": "El tema del texto es el conteo avanzado, otro nombre para el arte combinatorio de las matemáticas."
+      },
+      {
+        "statement": "En el texto, INSOMNIO connota",
+        "alternatives": [
+          "A) zozobra.",
+          "B) patología.",
+          "C) dedicación.",
+          "D) padecimiento.",
+          "E) preocupación."
+        ],
+        "correct": 2,
+        "rationale": "Si bien se habla de una advertencia, es claro que el sentido va por el tema de la dedicación que este tipo de ejercicio concita."
+      },
+      {
+        "statement": "Si los gatitos estuvieran libres de garrapatas, ¿cuán numeroso sería el séquito entonces?",
+        "alternatives": [
+          "A) 400",
+          "B) 2401",
+          "C) 2801",
+          "D) 5602",
+          "E) 16 807"
+        ],
+        "correct": 2,
+        "rationale": "En tal caso habría que eliminar la última línea del cuadro y el total del séquito sería 2801."
+      },
+      {
+        "statement": "Resulta erróneo afirmar que el papiro Rhind constituye",
+        "alternatives": [
+          "A) la base para el desarrollo del conteo avanzado.",
+          "B) un documento de unos 3800 años de antigüedad.",
+          "C) una muestra de matemática de los antiguos egipcios.",
+          "D) muestra del peso de Luxor en la antigua cultura egipcia.",
+          "E) un caso de la cultura egipcia usufructuada por europeos."
+        ],
+        "correct": 0,
+        "rationale": "Si bien no se habla en el texto del origen del conteo avanzado, es claro que el célebre papiro del Rhind constituye en este caso una coincidencia rara y feliz."
+      }
+    ]
+  },
+  {
+    "type": "reading_comprehension",
+    "statement": "Oficialmente, la Administración Norteamericana de la Aeronáutica y el Espacio (NASA, por sus siglas en inglés) expone cinco grandes razones por las que considera necesario continuar la investigación espacial y, en concreto, llevar a cabo misiones espaciales a Marte. Estas son las siguientes: 1) para profundizar en la búsqueda de los orígenes de la vida en la Tierra y extender la vida en el sistema solar; 2) para comprender el pasado y futuro de la Tierra aprovechando los nuevos descubrimientos que se obtengan sobre el pasado y futuro de otros planetas; 3) para expandir nuestra existencia en el sistema solar, aprendiendo a vivir y trabajar en otros planetas; 4) para continuar la búsqueda de la humanidad en los campos del conocimiento y la experiencia y así mantener los esfuerzos científicos realizados desde hace siglos; 5) para abrir posibles oportunidades al desarrollo comercial. De otro lado, en diferentes círculos se esgrimen argumentos contra la investigación del espacio por parte de la humanidad o, cuando menos, contra la forma en que se está realizando. A saber: 1) Las prioridades terrestres . La humanidad debe destinar sus recursos a resolver primero los múltiples problemas que hay en la Tierra. Con el dinero que se destina a la carrera espacial se podría ayudar a paliar el hambre en el mundo, se podría avanzar en el desarrollo de tecno logía que permitiera el uso de energías alternativas no contaminantes y, en general, a resolver otras muchas necesidades para permitir una vida mejor en nuestro planeta. 2) No a la contaminación espacial . Algunas voces críticas advierten que, tras contaminar la Tierra, la humanidad está haciendo lo mismo con el espacio. Se calcula que alrededor de 150 000 fragmentos considerados «basura espacial » circulan por el espacio y se estima que pueden representar unos tres millones de toneladas de desechos debidos a la acción humana. De hecho, solo el 5% de los objetos que el hombre ha enviado a la galaxia están en actividad, la parte restante son fragmentos de satélites, cohetes y objetos creados por el hombre que no se encuentran operativos. 3) No a la comercialización del universo . Para algunos, la forma en que se está desarrollando la investigación de la galaxia tiende a reproducir las desigualdades que dominan en la Tierra. Ese proceso se estaría agudizando con los proyectos de comercialización que se barajan, entre los cuales figura a largo plazo incluso la posibilidad de crear centros hoteleros y de ocio en el espacio. De hecho, el turismo espacial ya fue inaugurado por el millonario Dennis Tito. Pero los críticos cuestionan a quién correspondería la «propiedad » del espacio y defienden que debería ser protegido antes que «Patrimonio de la Humanidad», procura evitar la cuestión del sesgo",
+    "questions": [
+      {
+        "statement": "Resulta incompatible en relación con el contenido del texto pretender que el turismo espacial",
+        "alternatives": [
+          "A) implicará largas temporadas de permanencia en el espacio.",
+          "B) planteará problemas técnicos de seguridad y logística.",
+          "C) puede llegar a convertirse en fuente de discriminación.",
+          "D) será una realidad popular y generalizada a mediano plazo.",
+          "E) supondrá diversos líos judiciales de tenencia y propiedad."
+        ],
+        "correct": 3,
+        "rationale": "Si bien ya se ha dado inicio al turismo espacial, pretender que se generalice en un plazo próximo es a todas luces una ingenuidad."
+      },
+      {
+        "statement": "Dado el contexto, la palabra GALAXIA está por",
+        "alternatives": [
+          "A) espacio.",
+          "B) estrella.",
+          "C) órbita.",
+          "D) satélite.",
+          "E) vía láctea."
+        ],
+        "correct": 0,
+        "rationale": "Se habla de objetos que el hombre ha enviado a la galaxia, esto es, al espacio."
+      },
+      {
+        "statement": "Un contraargumento que los partidarios de la ex ploración espacial pueden esgrimir es que, de ser cierto y de agravarse el fenómeno del calentamiento global,",
+        "alternatives": [
+          "A) permitiría desaparecer la marcada desigualdad hoy imperante.",
+          "B) resultaría prioritario hallar un lugar en el espacio para colonizar.",
+          "C) se lo controlaría para evitar poblaciones en el espacio exterior.",
+          "D) se podrían evitar los climas extremos habitando algún otro planeta.",
+          "E) se recuperarían las pérdidas por inundaciones con turismo global."
+        ],
+        "correct": 1,
+        "rationale": "Con el tiempo, y no a muy largo plazo, la Ti erra o parte de ella se volvería inhabitable, obligando a la colonización de otros mundos."
+      },
+      {
+        "statement": "Resulta incompatible con el texto afirmar que entre los argumentos a favor de la exploración espacial el que prima a todas luces es el de carácter",
+        "alternatives": [
+          "A) científico.",
+          "B) cognoscitivo.",
+          "C) comercial."
+        ],
+        "correct": 2,
+        "rationale": "Uno entre otros cinco, y con serios problemas técnicos por enfrentar, no parece tratarse del argumento de mayor peso por ahora."
+      },
+      {
+        "statement": "De los argumentos esgrimidos por los críticos de la exploración espacial resalta la preocupación por la posibilidad de",
+        "alternatives": [
+          "A) contaminar lo que nos rodea con los grandes logros del hombre.",
+          "B) explotar la galaxia con el riesgo de que colapse a mediano plazo.",
+          "C) exportar las fortalezas y las debilidades de la raza humana.",
+          "D) extender al espacio los yerros y flaquzas del ser humano.",
+          "E) extrapolar a otros mundos lo bueno y lo malo del hombre."
+        ],
+        "correct": 3,
+        "rationale": "Llegar al espacio significa para la humanidad portar sus flaquezas y fortalezas ; obviamente, deberían preocuparla aquellas."
+      }
+    ]
+  },
+  {
+    "type": "reading_comprehension",
+    "statement": "Intentemos un experimento: preguntémosle a algunas personas corrientes qué quería demostrar Cristóbal Colón cuando pretendía alcanzar el levante por el poniente, y qué se obstinaban en negar los sabios de Salamanca para impedir su viaje. La respuesta en la mayoría de los casos será que Colón consideraba que la Tierra era redonda, mientras que los sabios de Salamanca consideraban que la Tierra era plana y que tras un breve camino las carabelas se precipitarían en el abismo cósmico. El pensamiento laico decimonónico, irritado por el hecho de que la Iglesia no aceptara la hipótesis heliocéntrica, atribuyó a todo el pensamiento cristiano (patrístico y escolástico) la idea de que la Tierra era plana. El siglo XIX positivista y anticlerical se deleitó con ese cliché que, como ha demostrado Jeffrey Burton Russell ( Inventing the Flat Earth , Nueva York, 1991), se reforzó en el curso de la lucha de los partidarios de la hipótesis darwiniana contra toda forma de fundamentalismo. Se trataba de demostrar que, así como se habían equivocado sobre la esfericidad de la Tierra, igualmente las iglesias podían equivocarse sobre los orígenes de las especies. ¿Cuál era entonces la materia de discusión en los tiempos de Colón? Era que los sabios de Salamanca habían llevado a cabo cálculos más precisos que los suyos y",
+    "questions": [
+      {
+        "statement": "De los argumentos esgrimidos por los críticos de la exploración espacial resalta la preocupación por la posibilidad de",
+        "alternatives": [
+          "A) contaminar lo que nos rodea con los grandes logros del hombre.",
+          "B) explotar la galaxia con el riesgo de que colapse a mediano plazo.",
+          "C) exportar las fortalezas y las debilidades de la raza humana.",
+          "D) extender al espacio los yerros y flaquezas del ser humano.",
+          "E) extrapolar a otros mundos lo bueno y lo malo del hombre."
+        ],
+        "correct": 3,
+        "rationale": "Llegar al espacio significa para la humanidad portar sus flaquezas y fortalezas ; obviamente, deberían preocuparla aquellas."
+      },
+      {
+        "statement": "Los partidarios de la exploración espacial fallarían si apelasen al argumento de que la NASA los apoya porque en sus próximas misiones prevé",
+        "alternatives": [
+          "A) alcanzar algunos de los cientos de exoplanetas ya des cubiertos.",
+          "B) aprender a vivir y trabajar en planetas cercanos, como Marte.",
+          "C) comprender el pasado y futuro de la Tierra conociendo el de Marte.",
+          "D) expandir nuestra existencia en el sistema, colonizando Marte.",
+          "E) profundizar en Marte la búsqueda de los inicios de la vida."
+        ],
+        "correct": 0,
+        "rationale": "El objetivo inmediato es nuestro sistema solar. Los exoplanetas se encuentran más allá de nuestro sistema."
+      },
+      {
+        "statement": "Por mor de coherencia, quien se oponga a la exploración espacial debería también oponerse",
+        "alternatives": [
+          "A) a la inversión en aprovechamiento energético no contaminante.",
+          "B) al desarrollo y difusión de tecnologías que beneficien aún más la vida.",
+          "C) al logro de modos de obtención de energía no contaminantes.",
+          "D) a los esfuerzos por paliar y aun terminar con el hambre en el mundo.",
+          "E) al proyecto de alcanzar el núcleo de la Tierra con una nave tripulada."
+        ],
+        "correct": 4,
+        "rationale": "Procurar enviar una nave tripulada al núcleo ígneo terrestre debe ser tan oneroso como se prevé la exploración espacial."
+      },
+      {
+        "statement": "considerado en el texto es el",
+        "alternatives": [
+          "A) de contaminar la Tierra con elementos alienígenas.",
+          "B) de cometer todas las injusticias y tropelías terrestres.",
+          "C) de satisfacer cada una de las necesidades terrícolas.",
+          "D) del modo correcto de evitar el «chatarreo espacial».",
+          "E) de construir una estación espacial habitable en la Luna."
+        ],
+        "correct": 0,
+        "rationale": "Se ha contemplado la contaminación espacial del hombre, pero no la del planeta por lo que se pudiera traer del espacio exterior."
+      },
+      {
+        "statement": "Según el texto, el 95% de los objetos enviados fuera de la Tierra desde mediados del siglo XX constituyen «basura espacial». Lo que resulta falso es afirmar que dicha basura",
+        "alternatives": [
+          "A) es resultado de la actividad humana y su irresistible curiosidad por el espacio.",
+          "B) está constituida por fragmentos de cohetes, satélites de manufactura humana.",
+          "C) se compone, aproximadamente, de 150 000 fragmentos de diversos tamaños.",
+          "D) se ha acumulado a lo largo de décadas de exploración y uso del espacio.",
+          "E) se reduce a equipos y aparatos completos que solo han dejado de funcionar."
+        ],
+        "correct": 4,
+        "rationale": "No se trata solo de objetos o aparatos no operativos; se trata en la mayor parte de los casos de fragmentos de los mismos."
+      }
+    ]
+  },
+  {
+    "type": "reading_comprehension",
+    "statement": "Intentemos un experimento: preguntémosle a algunas personas corrientes qué quería demostrar Cristóbal Colón cuando pretendía alcanzar el levante por el poniente, y qué se obstinaban en negar los sabios de Salamanca para impedir su viaje. La respuesta en la mayoría de los casos será que Colón consideraba que la Tierra era redonda, mientras que los sabios de Salamanca consideraban que la Tierra era plana y que tras un breve camino las carabelas se precipitarían en el abismo cósmico. El pensamiento laico decimonónico, irritado por el hecho de que la Iglesia no aceptara la hipótesis heliocéntrica, atribuyó a todo el pensamiento cristiano (patrístico y escolástico) la idea de que la Tierra era plana. El siglo XIX positivista y anticlerical se deleitó con ese cliché que, como ha demostrado Jeffrey Burton Russell ( Inventing the Flat Earth , Nueva York, 1991), se reforzó en el curso de la lucha de los partidarios de la hipótesis darwiniana contra toda forma de fundamentalismo. Se trataba de demostrar que, así como se habían equivocado sobre la esfericidad de la Tierra, igualmente las iglesias podían equivocarse sobre los orígenes de las especies. ¿Cuál era entonces la materia de discusión en los tiempos de Colón? Era que los sabios de Salamanca habían llevado a cabo cálculos más precisos que los suyos y consideraban que la Tierra, redondísima, era más vasta de lo que creía el genovés y, por tanto, era una locura intentar circunnavegarla llegando a oriente pasando por occidente. Naturalmente no él ni los sabios de Salamanca sospechaban que entre Europa y Asia había otro continente. Y, por lo tanto, vean lo complicada que es la vida, y lo sutiles que son los confines entre verdad y error, razón y sinrazón. Teniendo razón, los doctores de Salamanca estaban equivocados; y Colón, estando equivocado, persiguió con constancia el propio error y tuvo razón al final.",
+    "questions": [
+      {
+        "statement": "El caso expuesto por el autor tiene el pr opósito de resaltar",
+        "alternatives": [
+          "A) el pensamiento decimonónico laico, positivista y anticlerical.",
+          "B) el lío entre Colón y los salmantinos sobre la forma de la Tierra.",
+          "C) la ironía histórica que supone alcanzar la verdad por el error.",
+          "D) la superioridad de Cristóbal Colón sobre los sabios de Salamanca.",
+          "E) lo poco que sabemos de los tiempos de Colón y sus contemporáneos."
+        ],
+        "correct": 2,
+        "rationale": "El acierto de los salmantinos devino en error; el yerro de Colón, en verdad histórica."
+      },
+      {
+        "statement": "En el texto, la expresión FUEGO SAGRADO connota",
+        "alternatives": [
+          "A) capricho.",
+          "B) ciencia.",
+          "C) claridad.",
+          "D) obsesión.",
+          "E) religión."
+        ],
+        "correct": 3,
+        "rationale": "Tratándose de Cristóbal Colón y su búsqueda de una vía a las Indias, esta constituyó en él toda una obsesión."
+      },
+      {
+        "statement": "Resulta incompatible con lo desarrollado en el texto asumir que los sabios salmantinos eran partidarios de la idea",
+        "alternatives": [
+          "A) del abismo cósmico.",
+          "B) de la esfericidad terrestre.",
+          "C) de la Tierra como globo.",
+          "D) de llegar a India por oriente.",
+          "E) de viajar por levante a India."
+        ],
+        "correct": 0,
+        "rationale": "Los sabios salmantinos sabían mejor que Colón las dimensiones de la Tierra; ello implica que la suponían, como este, esférica."
+      },
+      {
+        "statement": "Se infiere del texto que los enemigos decimonónicos de la Iglesia",
+        "alternatives": [
+          "A) alcanzaron el occidente yiendo al oriente.",
+          "B) fueron identificados por J effrey Burton Russell.",
+          "C) pudieron llegar al poniente a través del levante.",
+          "D) parangonaban los casos de Colón y Darwin.",
+          "E) preferían a los salmantinos antes que a Colón."
+        ],
+        "correct": 3,
+        "rationale": "Es una inferencia directa del segundo párrafo."
+      },
+      {
+        "statement": "probablemente,",
+        "alternatives": [
+          "A) habría rechazado también el evolucionismo.",
+          "B) lucharía contra toda forma de fundamentalismo.",
+          "C) recusaría también la esfericidad de la Tierra.",
+          "D) reivindicaría la teoría darwini ana de las especies.",
+          "E) tomaría el pensamiento cristiano como un todo."
+        ],
+        "correct": 0,
+        "rationale": "El pensamiento laico del siglo XIX aceptaba a la par –por la misma razón – el heliocentrismo y el evolucionismo. De rechazar uno, habría rechazado probablemente el otro."
+      }
+    ]
+  },
+  {
+    "type": "reading_comprehension",
+    "statement": "El pensamiento laico del siglo XIX aceptaba a la par –por la misma razón – el heliocentrismo y el evolucionismo. De rechazar uno, habría rechazado probablemente el otro. Una taza de 2600 años de antigüedad, que desde hace mucho tiempo se está exponiendo en el Museo Arqueológico de Lamia en Grecia, se pensaba que representaba una mezcla aleatoria de los animales. Sin embargo, ahora un grupo de investigadores sugiere que puede contener en realidad una de las primeras representaciones griegas de las constelaciones, según muestra un nuevo análisis publicado en la revista Hesperia . Los investigadores del estudio plantean que otras representaciones artísticas antiguas de animales también pueden remitir a las constelaciones, y dar pistas sobre lo que los antiguos griegos sabían de astronomía, indica el investigador del estudio John Barnes, un estudiante de doctorado de arqueología clásica en la Universidad de encuentran en la cerámica, pero estos artefactos son relativamente raros, y lo que queda de ellos por lo general solo muestran uno o dos constelaciones. Barnes no se propuso encontrar antiguas representaciones de las constelaciones griegas, sino más bien tropezó con esta copa durante su visita al Museo Arqueológico de Lamia. El artefacto, que se remonta al 625 a. C., fue descubierto originalmente en 1990, en una zanja llena de escombros junto a un templo en la Acrópolis de Halai, que se encuentra a unos 40 kilómetros al norte de Tebas, Grecia. Alrededor de un tercio de la copa de vino (incluyendo un mango) no se encuentra. Lo que queda representa una gran variedad de animales: un toro con solo la parte de atrás conservado, una serpiente, una liebre o un pequeño perro, un perro grande, un escorpión, un delfín y la mitad delantera de una pantera o león. Lo más probable es que estos animales representen constelaciones, dice Barnes. El toro es Tauro; la serpiente es probablemente Hydra (en lugar de Serpens o Draco, otras dos constelaciones serpiente reconocidas por los griegos); el conejo es Lepus; el perro es el Can Mayor o Canis Minor; el escorpión es Scorpius; el delfín es Delphinus; y el león es Leo. Curiosamente, Barnes añade que los animales no están dispuestos en la copa en el orden en que aparecen en el cielo. Agrega que él piensa que hay un aspecto estacional de la disposición, con las constelaciones separadas en grupos de otoño, invierno, primavera y verano. Alexandra Hernández Muro, «Encuentran copa de la antigua Grecia con aparentes dibujos de constelaciones». wwwspphimania.pe.(Adaptado)",
+    "questions": [
+      {
+        "statement": "Fundamentalmente, el texto vincula",
+        "alternatives": [
+          "A) alfarería y astrología.",
+          "B) astrología y zodíaco.",
+          "C) religión y alfarería.",
+          "D) zodíaco y religión.",
+          "E) zoología y astronomía."
+        ],
+        "correct": 0,
+        "rationale": "Fragmentos de alfarería de lo que habría sido una copa para vino, con lo que presumiblemente era representación de constelaciones, es lo central de lo que se ocupa el texto."
+      },
+      {
+        "statement": "El antónimo contextual del verbo CONFIAR es",
+        "alternatives": [
+          "A) descreer.",
+          "B) ignorar.",
+          "C) preguntar.",
+          "D) restaurar.",
+          "E) vituperar."
+        ],
+        "correct": 1,
+        "rationale": "Es claro que en el contexto se trata de que los investigadores consideran –confían – en las representaciones visuales que pueden recuperar. Lo opuesto sería que las ignoraran o no las considerasen."
+      },
+      {
+        "statement": "Una plausible escena de caza podría ser la lectura o interpretación de los restos hallados si estos se limitaran a las representaciones",
+        "alternatives": [
+          "A) de la serpiente y la liebre.",
+          "B) del conejo y el perro grande."
+        ],
+        "correct": 1,
+        "rationale": "Si solo se tratara de la posible representación de un perro grande tras una liebre o conejo, podría pensarse en una elemental escena de caza."
+      },
+      {
+        "statement": "Gráficamente, la hipótesis de John Barnes podría verse reforzada por",
+        "alternatives": [
+          "A) la distancia relativa entre los dibujos de los animales .",
+          "B) la forma casi semiesférica del cuenco o copa.",
+          "C) la secuencia de animales mostrada en la copa.",
+          "D) los colores empleados por los artesanos alfareros.",
+          "E) los símbolos entre los animales (las cruces, no las letras)."
+        ],
+        "correct": 4,
+        "rationale": "Se puede apreciar entre las representaciones de los animales lo que parecen ser pequeñas cruces, que bien podrían representar estrellas; si así fuera, ello reforzaría la hipótesis del doctorando."
+      },
+      {
+        "statement": "Si fuera cierta la hipótesis de Barnes, resultaría falso afirmar que",
+        "alternatives": [
+          "A) es como los griegos veían los cielos una noche cualquiera.",
+          "B) la copa de las constelaciones pudo tener un propósito ritual.",
+          "C) los griegos distinguían las constelaciones según las estaciones.",
+          "D) los griegos ponían nombres de animales a las constelaciones.",
+          "E) lo que falta de la copa puede que muestre a otros animales."
+        ],
+        "correct": 0,
+        "rationale": "Para Barnes, «hay un aspecto estacional en la disposición » de las representaciones. Es claro que difícilmente se verá así el cielo griego en una noche cualquiera."
+      }
+    ]
+  },
+  {
+    "type": "reading_comprehension",
+    "statement": "Los casos de ayuda mutua entre las termitas, hormigas y abejas son tan conocidos para casi todos los lectores, en especial gracias a los populares libros de Romanes, Büchner y John Lubbock, que puedo limitarme a muy pocas citas. Si tomamos un hormiguero, no solo veremos que todo género de trabajo ––la cría de la descendencia, el aprovisionamiento, la construcción, la cría de los pulgones, etc. ––, se realiza de acuerdo con los principios de ayuda mutua voluntaria, sino que, junto con F orel, debemos también reconocer que el rasgo fundamental de la vida de muchas especies de hormigas es que cada hormiga comparte y está obligada a compartir su alimento, ya deglutido y en parte digerido, con cada miembro de la comunidad que haya manifestado su demanda de ello. Dos hormigas pertenecientes a dos especies diferentes o a dos hormigueros enemigos, en un encuentro casual, se evitarán la una a la otra. Pero dos hormigas pertenecientes al y si especialmente en ese momento la otra tiene el papo lleno, entonces la primera pide inmediatamente alimento ». La hormiga a la cual se dirigió el pedido de tal modo, nunca se rehúsa; separa sus mandíbulas, y dando a su cuerpo la posición conveniente, devuelve una gota de líquido transparente, que la hormiga hambrienta sorbe. La devolución de alimentos para nutrir a otros es un rasgo tan importante de la vida de la hormiga (en libertad) y se aplica tan constantemente, tanto para la alimentación de los camaradas hambrientos como para la nutrición de las larvas, que, según la opinión de Forel, los órganos digestivos de las hormigas se componen de dos partes diferentes; una de ellas, la posterior, se destina al uso especial de la hormiga misma, y la otra, la anterior, principalmente a utilidad de la comunidad. Si cualquier hormiga con el papo lleno, mostrara ser tan egoísta que rehusara alimento a un ca marada, la tratarían como enemiga o peor aún. Si la negativa fuera hecha en el momento en que sus congéneres luchan contra cualquier especie de hormiga o contra un hormiguero extraño, caerían sobre su codiciosa compañera con mayor furor que sobre sus propias enemigas. Pero si la hormiga no se rehusara a alimentar a otra hormiga perteneciente a un hormiguero enemigo, entonces las congéneres de la última la tratarían como amiga. Todo esto está confirmado por observaciones y experiencias sumamente precisas, que no dejan ninguna duda sobre la autenticidad de los hechos mismos ni sobre la exactitud de su interpretación.",
+    "questions": [
+      {
+        "statement": "En el texto, el antónimo contextual de FUROR es",
+        "alternatives": [
+          "A) impaciencia.",
+          "B) exasperación.",
+          "C) violencia.",
+          "D) indiferencia.",
+          "E) mordacidad."
+        ],
+        "correct": 3,
+        "rationale": "En el fragmento, el término FUROR significa VEHEMENCIA. Entonces, su antónimo contextual es INDIFIRENCIA porque este significa INSENSIBILIDAD."
+      },
+      {
+        "statement": "El fragmento leído gira entorno a las hormigas y",
+        "alternatives": [
+          "A) los principios de ayuda mutua voluntaria.",
+          "B) la capacidad de solicitar alimento a otras.",
+          "C) la práctica de la solidaridad entre ellas.",
+          "D) sus órganos digestivos fragmentados.",
+          "E) su obligación de compartir el alimento."
+        ],
+        "correct": 4,
+        "rationale": "Kropotkin, en consonancia con Forel, afirma que « el rasgo fundamental de la vida de muchas especies de hormigas es que cada hormiga comparte y está obligada a compartir su alimento, ya deglutido y en parte digerido, con cada miembro de la comunidad que haya manifestado su demanda de ello ». "
+      },
+      {
+        "statement": "Indique la secuencia correcta de oraciones compatibles (C) e incompatibles (I).\ni) Las hormigas han suprimido por completo la lucha entre hormigueros.\nii) Las hormigas se caracterizan por carecer de formas de comunicación.\nii) Las hormigas en cautiverio nutren a otras hormiga s constantemente.",
+        "alternatives": [
+          "A) IICCI",
+          "B) CIICC",
+          "C) IIICC",
+          "D) IIIIC",
+          "E) IICCC"
+        ],
+        "correct": 2,
+        "rationale": "i) Incompatible: Una colonia de hormigas puede luchar contra otra colonia de hormigas.ii) Incompatible: Las hormigas hambrientas solicitan alimento a las hormigas que tienen el papo lleno iii) Incompatible: En el texto se especifica que son las hormigas en libertad las que practican la devolución de alimentos. iv) Compatible: En las postrimerías del fragmento se afirma que los naturalistas confirman las hormigas se ayudan obligatoriamente en la alimentación. v) Compatible: Las hormigas que no comparten el alimento que llevan en sus papos son castigadas severamente."
+      },
+      {
+        "statement": "Se desprende del texto que la solidaridad de las hormigas en la alimentación",
+        "alternatives": [
+          "A) está basada en la convivencia pacífica.",
+          "B) es una característica privativa de ellas.",
+          "C) está sujeta al control de la colectividad.",
+          "D) es producto de la división del trabajo.",
+          "E) permite que las hormigas sean libres."
+        ],
+        "correct": 2,
+        "rationale": "Las hormigas que no comparten el alimento que llevan en el papo son castigadas, incluso con la muerte; es decir, la colonia se encarga de garantizar que la solidaridad en la alimentación se practique obligatoriamente."
+      },
+      {
+        "statement": "Si las hormigas no hubiesen desarrollado la ayuda mutua en la alimentación, posiblemente,",
+        "alternatives": [
+          "A) sería imposible que puedan alimentarse.",
+          "B) tendrían los órganos digestivos simples.",
+          "C) la comunidad de hormigas este en guerra.",
+          "D) estas estarían condenadas a la extinción.",
+          "E) se exterminarían inexorablemente entre sí."
+        ],
+        "correct": 1,
+        "rationale": "Explica Forel que los órganos digestivos de las hormigas se componen de dos partes diferentes :una de ellas, la posterior, se destina al uso especial de la hormiga misma, y la otra, la anterior, principalmente a utilidad de la comunidad."
+      }
+    ]
+  },
+  {
+    "type": "reading_comprehension",
+    "statement": "Explica Forel que los órganos digestivos de las hormigas se componen de dos partes diferentes :una de ellas, la posterior, se destina al uso especial de la hormiga misma, y la otra, la anterior, principalmente a utilidad de la comunidad. En el lejano norte, los ciervos se reúnen en innumerables rebaños, y aún más al norte, encontramos rebaños de toros almizcle ros e incontables sociedades de zorros polares. Las costas del océano están animadas por manadas de focas y morsas, y sus aguas por manadas de animales sociales pertenecientes a la familia de las ballenas; por último, y viven en sociedades y en grupos que cuentan, a veces, cientos de miles de individuos, a pesar de que ahora, después de tres siglos de civilización a base de pólvora, quedan únicamente restos lastimosos de aquellas incontables sociedades animales que existían en tiempos pasados. ¡Qué insignificante, en comparación con ella, es el número de los carnívoros! ¡Y qué erróneo, en consecuencia, el punto de vista de aquellos que hablan del mundo animal como si estuviera compuesto solamente de leones y hienas que clavan sus colmillos ensangrentados en la presa! Es lo mismo que si afirmásemos que toda la vida de la humanidad se reduce solamente a las guerras y a las masacres. Las asociaciones y la ayuda mutua son regla en la vida de los mamíferos. La costumbre de la vida social se encuentra hasta en los carnívoros, y en toda esta vasta clase de animales solamente podemos nombrar una familia de felinos (leones, tigres, leopardos, etc.), cuyos miembros realmente prefieren la vida solitaria a la vida social, y solo raramente se encuentran, por lo menos ahora, en pequeños grupos. Además, aun entre los leones, «el hecho más común es cazar en grupos », dice el célebre cazador y conocedor S. Baker. Hace poco, N. Schillings, que estaba cazando en el este del África Ecuatorial, fotografió de noche ––al fogonazo repentino de la luz de magnesio –– leones que se habían reunido en grupos de tres individuo s adultos, y que cazaban en común ;por la mañana, contó en el río, adonde durante la sequía acudían de noche a beber los rebaños de cebras, las huellas de una cantidad mayor aún de leones –– que iban a cazar cebras, y naturalmente, nunca, en muchos años, ni Schillings ni otro alguno, oyeron decir que los leones se pelearan o se disputaran la presa. En cuanto a los leopardos, y esencialmente al puma sudamericano, su sociabilidad es bien conocida. El puma, en consecuencia, como lo describió Hud son, se hace amigo del hombre gustosamente. En la familia de los viverridoe, carnívoros que representan algo intermedio entre los gatos y las martas, y en la familia de las martas (marta, armiño, comadreja, garduña, tejón, etc.), también predomina la forma de vida solitaria. Pero puede considerarse plenamente establecido que en épocas no más tempranas que el final del siglo XVIII, la comadreja vulgar (Mustela vulgaris) era más social que ahora; se encontraba entonces en Escocia y también en el cantón de Unt Erwald, en Suiza, en pequeños grupos. Además, aun entre los leones, «el hecho más común es cazar en grupos», dice el célebre cazador y conocedor S. Baker. 1. En el fragmento, el término COMÚN implica A) una acción que persigue el bien de la colectividad. B) un comportamiento caracterizado por el salvajismo. C) la asociación para poder sobrevivir el exterminio. D) una conducta signada por la vida pacífica colectiva. E) una naturaleza eminentemente feroz y antisocial. Solución: En el contexto, COMÚN hace referencia a que los leones se encontraban cazando en conjunto con la finalidad de poder obtener alimento para cada uno de ellos. Rpta.: A 2. En el texto Kropotkin defiende principalmente la idea de que entre los mamíferos A) se encuentra bien extendida la vida gregaria. B) los casos de salvajismo están disminuyendo. C) la exterminación los empuja a la extinción. Solución: Kropotkin sostiene que los mamíferos ,antes de ser exterminados por el hombre, se caracterizaban por vivir en grupos numerosos, es decir, los caracterizaba la sociabilidad, salvo excepciones. Rpta.: A 3. Es incompatible con el fragmento afirmar que la lucha por la existencia de los mamíferos A) caracteriza la vida de leones y zorros. B) se fundamenta en prácticas colectivas. C) está exenta de prácticas sanguinarias. D) supone enfrentamientos de colectivos. E) implica también coexistencia pacífica. Solución: La lucha por la existencia de lo s mamíferos se caracteriza por la cacería en común y la resistencia en conjunto. Obviamente, la cacería supone prácticas sanguinarias. Rpta.: C 4. Se infiere del fragmento que sostener que entre los mamíferos se lleva a cabo una lucha sanguinaria de todos contra todos sin cuartel demostraría A) una actitud anticientífica porque se estaría generalizando un suceso general de la vida de los mamíferos. B) un desatino total porque la lucha por la existencia es una metáfora que excluye de raíz la agresividad. C) que lo más importante es la forma como actúan todos los mamíferos y los hombres en su vida cotidiana. D) miopía en la concepción y estrechez de entendimiento a la luz de la vida en sociedad de los mamíferos. E) un error porque la lucha sanguinaria, según Kropotkin, está totalmente ausente en la lucha por la vida. Solución: Pensar que la vida de los mamíferos se reduce a la lucha sanguinaria de todos contra todos sin cuartel es un desatino total por no apreciar y comprender que la regla en la vida de esto s animales es la ayuda mutua y las asociaciones. Rpta.: D 5. Si la regla general en la vida de los mamíferos fuera la vida solitaria y el comportamiento salvaje y sanguinario de todos contra todos, entonces, A) la lucha por la vida todavía significaría ayuda mutua. B) la lucha por la existencia sería un suceso misterioso. C) los mamíferos estarían encaminados a la extinción. D) la argumentación de Kropotkin carecería de asidero. Solución: La argumentación de Kropotkin se basa en la abundancia de evidencias sobre la vida en sociedad de los mamíferos.  Las poblaciones de los «perros de las praderas » (Cynomys ),en las llanuras de la América del Norte, presentan uno de los espectáculos m ás atrayentes. Hasta donde el ojo puede abarcar, en la extensión de la pradera se ven, por doquier, pequeños montículos de tierra, y sobre cada uno se encuentra una bestezuela, en conversación animadísima con sus vecinos, valiéndose de sonidos entrecortados parecidos al ladrido. Cuando alguien da la señal de la aproximación del hombre, todos, en un instante, se zambullen en sus pequeñas cuevas, desapareciendo como por encanto. Pero no bien el peligro ha pasado, las bestezuelas salen inmediatamente. Familias enteras salen de sus cuevas y comienzan a jugar. Los jóvenes se arañan y provocan mutuamente, se enojan, se paran graciosamente sobre las patas traseras, mientras los viejos vigilan. Familias enteras se visitan y los senderos bien trillados entre los montículos de tierra demuestran que tales visitas se dan muy a menudo. Dicho más brevemente, algunas de las mejores páginas de nuestros mejores naturalistas están dedicadas a la descripción de las sociedades de los perros de las praderas de América, de las mar motas del Viejo Continente y de las marmotas polares de las regiones alpinas. A pesar de eso, tengo que repetir, respecto a las marmotas lo mismo que dije sobre las abejas. Han conservado sus instintos bélicos,",
+    "questions": [
+      {
+        "statement": "1. En el fragmento, el término COMÚN implica",
+        "alternatives": [
+          "A) una acción que persigue el bien de la colectividad.",
+          "B) un comportamiento caracterizado por el salvajismo.",
+          "C) la asociación para poder sobrevivir el exterminio.",
+          "D) una conducta signada por la vida pacífica colectiva.",
+          "E) una naturaleza eminentemente feroz y antisocial."
+        ],
+        "correct": 0,
+        "rationale": "En el contexto, COMÚN hace referencia a que los leones se encontraban cazando en conjunto con la finalidad de poder obtener alimento para cada uno de ellos."
+      },
+      {
+        "statement": "2. En el texto Kropotkin defiende principalmente la idea de que entre los mamíferos",
+        "alternatives": [
+          "A) se encuentra bien extendida la vida gregaria.",
+          "B) los casos de salvajismo están disminuyendo.",
+          "C) la exterminación los empuja a la extinción."
+        ],
+        "correct": 0,
+        "rationale": "Kropotkin sostiene que los mamíferos ,antes de ser exterminados por el hombre, se caracterizaban por vivir en grupos numerosos, es decir, los caracterizaba la sociabilidad, salvo excepciones."
+      },
+      {
+        "statement": "3. Es incompatible con el fragmento afirmar que la lucha por la existencia de los mamíferos",
+        "alternatives": [
+          "A) caracteriza la vida de leones y zorros.",
+          "B) se fundamenta en prácticas colectivas.",
+          "C) está exenta de prácticas sanguinarias.",
+          "D) supone enfrentamientos de colectivos.",
+          "E) implica también coexistencia pacífica."
+        ],
+        "correct": 2,
+        "rationale": "La lucha por la existencia de lo s mamíferos se caracteriza por la cacería en común y la resistencia en conjunto. Obviamente, la cacería supone prácticas sanguinarias."
+      },
+      {
+        "statement": "4. Se infiere del fragmento que sostener que entre los mamíferos se lleva a cabo una lucha sanguinaria de todos contra todos sin cuartel demostraría",
+        "alternatives": [
+          "A) una actitud anticientífica porque se estaría generalizando un suceso general de la vida de los mamíferos.",
+          "B) un desatino total porque la lucha por la existencia es una metáfora que excluye de raíz la agresividad.",
+          "C) que lo más importante es la forma como actúan todos los mamíferos y los hombres en su vida cotidiana.",
+          "D) miopía en la concepción y estrechez de entendimiento a la luz de la vida en sociedad de los mamíferos.",
+          "E) un error porque la lucha sanguinaria, según Kropotkin, está totalmente ausente en la lucha por la vida."
+        ],
+        "correct": 3,
+        "rationale": "Pensar que la vida de los mamíferos se reduce a la lucha sanguinaria de todos contra todos sin cuartel es un desatino total por no apreciar y comprender que la regla en la vida de esto s animales es la ayuda mutua y las asociaciones."
+      },
+      {
+        "statement": "5. Si la regla general en la vida de los mamíferos fuera la vida solitaria y el comportamiento salvaje y sanguinario de todos contra todos, entonces,",
+        "alternatives": [
+          "A) la lucha por la vida todavía significaría ayuda mutua.",
+          "B) la lucha por la existencia sería un suceso misterioso.",
+          "C) los mamíferos estarían encaminados a la extinción.",
+          "D) la argumentación de Kropotkin carecería de asidero."
+        ],
+        "correct": 3,
+        "rationale": "La argumentación de Kropotkin se basa en la abundancia de evidencias sobre la vida en sociedad de los mamíferos."
+      }
+    ]
+  },
+  {
+    "type": "reading_comprehension",
+    "statement": "La argumentación de Kropotkin se basa en la abundancia de evidencias sobre la vida en sociedad de los mamíferos. Las poblaciones de los «perros de las praderas » (Cynomys ),en las llanuras de la América del Norte, presentan uno de los espectáculos m ás atrayentes. Hasta donde el ojo puede abarcar, en la extensión de la pradera se ven, por doquier, pequeños montículos de tierra, y sobre cada uno se encuentra una bestezuela, en conversación animadísima con sus vecinos, valiéndose de sonidos entrecortado s parecidos al ladrido. Cuando alguien da la señal de la aproximación del hombre, todos, en un instante, se zambullen en sus pequeñas cuevas, desapareciendo como por encanto. Pero no bien el peligro ha pasado, las bestezuelas salen inmediatamente. Familias enteras salen de sus cuevas y comienzan a jugar. Los jóvenes se arañan y provocan mutuamente, se enojan, se paran graciosamente sobre las patas traseras, mientras los viejos vigilan. Familias enteras se visitan y los senderos bien trillados entre los montículos de tierra demuestran que tales visitas se dan muy a menudo. Dicho más brevemente, algunas de las mejores páginas de nuestros mejores naturalistas están dedicadas a la descripción de las sociedades de los perros de las praderas de América, de las mar motas del Viejo Continente y de las marmotas polares de las regiones alpinas. A pesar de eso, tengo que repetir, respecto a las marmotas lo mismo que dije sobre las abejas. Han conservado sus instintos bélicos, que se manifiestan también en cautiverio. Pero en sus grandes asociaciones, en contacto con la naturaleza libre, los instintos antisociales no encuentran terreno para su desarrollo, y el resultado finales la paz y la armonía. Aun animales tan gruñones como las ratas, que siempre se pelean en nuestro s sótanos, son lo bastante inteligentes no solo para no enojarse cuando se entregan al saqueo de las despensas, sino para prestarse ayuda mutua durante sus asaltos y migraciones. Sabido es que a veces hasta alimentan a sus inválidos.",
+    "questions": [
+      {
+        "statement": "En el fragmento, la frase CONVERSACIÓN ANIMADÍSIMA entraña",
+        "alternatives": [
+          "A) eliminación del carácter salvaje.",
+          "B) vida entregada a la gandulería.",
+          "C) desarrollo progresivo intelectual.",
+          "D) situación de inminente amenaza.",
+          "E) estimulación del instinto belicoso."
+        ],
+        "correct": 2,
+        "rationale": "Según Kropotkin, la vida en sociedad y la ayuda mutua permitió el desarrollo progresivo de la anatomía, de la fisiología, del intelecto y de la moral. Entonces, si estos animales están «conversando animadamente» es porque han desarrollado un sistema de comunicación."
+      },
+      {
+        "statement": "En el fragmento, Kropotkin asevera fundamentalmente que",
+        "alternatives": [
+          "A) los roedores viven en paz y armonía.",
+          "B) pocos animales tienen instintos bélicos.",
+          "C) los viejos vigilan y los jóvenes juegan.",
+          "D) las familias de animales aman el juego.",
+          "E) los animales libres viven pacíficamente."
+        ],
+        "correct": 4,
+        "rationale": "Kropotkin sostiene principalmente que diversos animales, en estado de libertad, viven armoniosamente, incluso aquellos que aún conservan sus instintos bélicos."
+      },
+      {
+        "statement": "Es compatible con el fragmento afirmar que las ratas",
+        "alternatives": [
+          "A) son animales anormales.",
+          "B) practican la solidaridad.",
+          "C) asaltan a los migrantes.",
+          "D) son familia de los Cynom ys.",
+          "E) conversan animadamente."
+        ],
+        "correct": 1,
+        "rationale": "Las ratas a veces alimentan a sus inválidos."
+      },
+      {
+        "statement": "Se colige del texto que los animales en c autiverio",
+        "alternatives": [
+          "A) forman grandes asociaciones en paz.",
+          "B) se encuentran en estado de extinción.",
+          "C) mantienen su conducta pusilánime.",
+          "D) no desarrollaron un tipo de lenguaje.",
+          "E) pueden tener conductas antisociales."
+        ],
+        "correct": 4,
+        "rationale": "Los animales en libertad no tienen conductas antisociales, sino que viven en paz y armonía."
+      },
+      {
+        "statement": "Si los «perros de las praderas» fuesen indiferentes a la presencia humana, es probable que",
+        "alternatives": [
+          "A) estos jamás necesitarían zambullirse en sus cuevas.",
+          "B) los hombres los habrían utilizado para alimentarse.",
+          "C) este los habría llevado ya a un proceso de extinción.",
+          "D) los perros estarían emparentados con los Cynomys.",
+          "E) los viejos Cynomys no necesitarían estar vigilantes."
+        ],
+        "correct": 2,
+        "rationale": "Así como a otras especies de animales."
+      }
+    ]
+  },
+  {
+    "type": "reading_comprehension",
+    "statement": "EVALUACIÓN DE LA AYUDA MUTUA ENTRE LOS ANIMALES Piotr Kropotkin",
+    "questions": [
+      {
+        "statement": "Según Kropotkin, el método de la inducción se tiene que fundamentar en",
+        "alternatives": [
+          "A) una abundancia de evidencias.",
+          "B) varias conjeturas verosímiles.",
+          "C) la voz de algunas autoridades.",
+          "D) indagaciones de corte teórico.",
+          "E) la forma de percibir el mundo."
+        ],
+        "correct": 0,
+        "rationale": "En la página 39, Kropotkin acude al párrafo titulado «La lucha por la existencia es rigurosísima entre individuos y variedades de una misma especie », y critica que no se encuentra en él aquella abundancia de pruebas y ejemplos que estamos acostumbrados a encontrar en toda la obra de Darwin"
+      },
+      {
+        "statement": "Según Huxley, los animales más fuertes, los más ágiles y los más astutos son los que sobreviven únicamente, y estos son los aptos para salir avante en la lucha sin cuartel de todos contra todos. Ante este razonamiento, Kropotkin le refuta aseverando que",
+        "alternatives": [
+          "A) un animal puede ser ágil y astuto pero no fuerte, y aun así podría sobrevivir sin ayuda porque sus atributos le permitirían evitar a los a nimales más fuertes.",
+          "B) la lucha sin cuartel de todos contra todos afecta solamente a los menos aptos, es decir, afecta a aquellos animales que se niegan a la migración individual.",
+          "C) la lucha por la existencia es un factor que no tiene ningún asidero en la realidad, de manera que es una idea descabellada que promueve el racismo.",
+          "D) los animales que adquirieron costumbres gregarias son más inteligentes, o sea, son más aptos y capaces de defender su territorio los 365 días del año.",
+          "E) los animales que adquirieron las costumbres de la lucha mutua son los más aptos, aun cuando se trate de animales insignificantes vistos individualmente."
+        ],
+        "correct": 4,
+        "rationale": "Muchos animales, como insectos y aves, que individualmente son vulnerables al ataque de sus depredadores, son capaces de resistir y de pasar al ataque cuando están dispuestos en sociedad."
+      },
+      {
+        "statement": "Es incompatible con la lectura sostener que Kropotkin",
+        "alternatives": [
+          "A) especies.",
+          "B) reconoce que la vida en sociedad de diversos animales les ha sido beneficioso.",
+          "C) recusa que la lucha por la existencia es la única característica de los animales.",
+          "D) rechaza que la abundancia de especies diferentes en una región decante en lucha.",
+          "E) niega la existencia de animales que pueden vivir aislados o en grupos minúsculos."
+        ],
+        "correct": 4,
+        "rationale": "En el apartado dedicado a las sociedades de los monos, Kropotkin reconoce que los orangutanes viven aislados en grupos de tres o cuatro individuos."
+      },
+      {
+        "statement": "Se deduce del texto que entre la vida en sociedad y el desarrollo de las capacidades intelectuales existe una relación",
+        "alternatives": [
+          "A) directamente proporcional.",
+          "B) que no se puede demostrar.",
+          "C) que no necesita evidencia.",
+          "D) hipotéticamente indiscutible.",
+          "E) inversamente proporcional."
+        ],
+        "correct": 0,
+        "rationale": "Se desprende de los pasajes de la lectura que la vida en sociedad ha permitido el desarrollo de las capacidades intelectuales de los animales."
+      },
+      {
+        "statement": "Según Kropotkin, podemos evidenciar arquitectura, calidad de vida, agricultura, división del trabajo y más en la sociedad humana porque",
+        "alternatives": [
+          "A) la iniciativa personal ha excluido la vida en sociedad.",
+          "B) la naturaleza provee al hombre de hartos alimentos.",
+          "C) los hombres han sabido valerse de la ayuda mutua.",
+          "D) los humanos se han beneficiado del individualismo.",
+          "E) los hombres han exterminado a sus competidores."
+        ],
+        "correct": 2,
+        "rationale": "Según Kropotkin, los hormigueros ostentan principios arquitectónicos, buena calidad de vida, agricultura y división del trabajo porque estos han descubierto los beneficios de la ayuda mutua. Entonces, podemos extrapolar plausiblemente estas características a la sociedad humana."
+      }
+    ]
+  },
+  {
+    "type": "sentence_elimination",
+    "statement": "6. Según Kropotkin, podemos evidenciar arquitectura, calidad de vida, agricultura, división del trabajo y más en la sociedad humana porque",
+    "alternatives": [
+      "A) la iniciativa personal ha excluido la vida en sociedad.",
+      "B) la naturaleza provee al hombre de hartos alimentos.",
+      "C) los hombres han sabido valerse de la ayuda mutua.",
+      "D) los humanos se han beneficiado del individualismo.",
+      "E) los hombres han exterminado a sus competidores."
+    ],
+    "correct": 2,
+    "rationale": "Según Kropotkin, los hormigueros ostentan principios arquitectónicos, buena calidad de vida, agricultura y división del trabajo porque estos han descubierto los beneficios de la ayuda mutua. Entonces, podemos extrapolar plausiblemente estas características a la sociedad humana."
+  },
+  {
+    "type": "sentence_elimination",
+    "statement": "8. Si un naturalista evidenciara que las focas organizadas les declaran la guerra a las manadas de morsas cuando estas ocupan el espacio costero habitual de los primeros, entonces,",
+    "alternatives": [
+      "A) de esta manera quedaría desbarat ada la hipótesis de Kropotkin.",
+      "B) la noción de «lucha por la existencia» alcanzaría el estatus de ley.",
+      "C) la hipótesis de la Mutual Aid de Kropotkin permanecería incólume.",
+      "D) este hecho demostraría que las focas no practican la ayuda mutua.",
+      "E) Darwin habría acertado al afirmar que las especies luchan por su vida."
+    ],
+    "correct": 2,
+    "rationale": "La guerra entre morsas y focas en estas condiciones sería un hecho particular que no refutaría la tendencia general de la ayuda mutua, pues podría ser tratada como un hecho excepcional."
+  },
+  {
+    "type": "sentence_elimination",
+    "statement": "9. Si en el altiplano peruano -boliviano se experimentara una severa sequía de un año de manera que los brotes de ichu disminuyen, entonces",
+    "alternatives": [
+      "A) toda la fauna de aquel lugar se extinguiría inexorablemente por la falta de agua.",
+      "B) la competencia por hacerse con los escasos brotes de ichu se tornaría en mortal.",
+      "C) quizás los mamíferos del altiplano se comerían a los más débiles para sobrevivir.",
+      "D) las aves de aquel lugar tendrían que emigrar y adaptarse a nuevas circunstancias.",
+      "E) las alpacas salvaje s se matarían entre sí para eliminar los posibles competidores."
+    ],
+    "correct": 3,
+    "rationale": "Como expone Kropotkin en su obra, cuando acontece un obstáculo natural, en este caso la severa sequía anual, algunos los animales se adaptarían a las nuevas circunstancias y podrían resistir, mientras que otros buscarían un nuevo hábitat y tendrían que adaptarse a la ingesta de un nuevo género de alimentos."
+  }
+]

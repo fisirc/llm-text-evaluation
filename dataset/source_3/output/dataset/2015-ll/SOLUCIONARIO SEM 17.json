@@ -1,0 +1,581 @@
+[
+  {
+    "type": "reading_comprehension",
+    "statement": "publicaba a veces en La Industria ,me animaba incansablemente a perseverar y ser un\nescritor, porque, acaso hablando de sí mismo, me aseguraba que no seguir la propia vocación es traicionarse y condenarse a la infelicidad.\n—Es una tontería pensar que esto puede ser una broma —dijo Patricia —. Llamemos\na Álvaro, Gonzalo y Morgana de una vez.\nLlamamos a Álvaro a Washington, a Gonzalo a Santo Domingo y a Morgana a Lima,\ny todavía faltaban siete u ocho minutos para la hora señalada. Yo pensé en Lucho Loayza\ny Abelardo Oquendo, los amigos de adolescencia, y de las feroces discusiones que a veces\nteníamos sobre si Borges era más importante que Sartre oeste que aquel. Yo sostenía lo\núltimo y ellos lo primero y eran ellos, por supuesto, quienes llevaban la razón. Fue entonces\ncuando me pusieron el apodo (que a mí me encantaba): «el Sartrecillo Valiente».\nPensé en el concurso de La Revue Francaise que gané el año 1957, con mi cuento\n«El desafío», que me deparó un viaje a París, donde pasé un mes de total felicidad, viviendo\nen el hotel Napoleón, en las cuatro palabras que cambié con Albert Camus y María Cas ares\nen las puertas de un teatro de los Grandes Bulevares, y mis desesperados y estériles\nesfuerzos para ser recibido por Sartre aunque fuera solo un minuto para verle la cara y\nestrecharle la mano. Recordé mi primer año en Madrid y las dudas que tuve ante s de\ndecidirme a enviar los cuentos de Los jefes al Premio Leopoldo Alas, creado por un grupo\nde médicos de Barcelona, encabezado por el doctor Rocas y asesorado por el poeta\nEnrique Badosa, gracias a los cuales tuve la enorme alegría de ver mi primer libro impreso.\nPensé que, si la noticia era cierta, tenía que agradecer públicamente a España lo\nmucho que le debía, pues, sin el extraordinario apoyo de personas como Carlos Barral,\nCarmen Balcells y tantas otras, editores, críticos, lectores, jamás hubieran alcanzado mis\nlibros la difusión que han tenido.\nY pensé lo increíblemente afortunado que yo he sido en la vida por seguir el consejo\ndel tío Lucho y haber decidido, a mis 22 años, en aquella pensión madrileña de la calle de\nDoctor Castello, en algún momento de agosto de 1958, que no sería abogado sino escritor,\ny que, desde entonces, aunque tuviera que vivir a tres dobles y un repique, organizaría mi\nvida de tal manera que la mayor parte de mi tiempo y energía se volcaran en la literatura, y\nque sólo busca ría trabajos que me dejaran tiempo libre para escribir. Fue una decisión algo\nquimérica, pero me ayudó mucho, por lo menos psicológicamente, y, creo que, en sus\ngrandes rasgos, la cumplí en mis años de París, pues los trabajos en la Escuela Berlitz, la\nAgence France Presse y la Radio Televisión Francesa me dejaron siempre algunas horitas\ndel día para leer y escribir.\nY pensé en la extraña paradoja de haber recibido tantos reconocimientos, como este\n(si la noticia no era una broma de mal gusto), por dedicar mi vida a un quehacer que me ha\nhecho gozar infinitamente, en la que cada libro ha sido una aventura llena de sorpresas, de\ndescubrimientos, de ilusiones y de exaltación, que compensaban siempre con creces las\ndificultades, dolores de cabeza, depresiones y estreñimientos. Y pensé en lo maravillosa\nque es la vida que los hombres y las mujeres inventamos, cuando todavía andábamos en\ntaparrabos y comiéndonos los unos a los otros, para romper las fronteras tan estrechas de\nla vida verdadera, y trasladarnos a otra, más rica, más intensa, más libre, a través de la\nficción.\nA las seis en punto de la mañana las radios, la televisión e Internet confirmaron que\nla noticia era cierta. Como predijo Patricia, la casa se volvió un loquerío y desde entonces\nyo dejé de pensar y, casi casi, hasta de respirar.\n\nVARGAS LLOSA, Mario. (10 de octubre de 2010). «14 minutos de reflexión». En: El País .\nRecuperado el 06 de diciembre de\nhttp://elpais.com/diario/2010/10/10/opinion/1286661611_850215.html",
+    "questions": [
+      {
+        "statement": "Resulta incompatible con el texto afirmar que Mario Vargas Llosa buscó trabajos que",
+        "alternatives": [
+          "A) le dejaran tiempo para dedicarse a su vocación literaria.",
+          "B) materializaran la de cisión de vivir para ser un escritor.",
+          "C) le permitieran vivir con holgura y sin complicaciones.",
+          "D) posibilitaran la lectura a despecho de las vicisitudes.",
+          "E) se ciñeran a una decisión que lo ayudó mentalmente."
+        ],
+        "correct": 2,
+        "rationale": "El texto desarrolla gradualmente el cúmulo de pensamientos y la incertidumbre que la premiación generó; este temor desaparece cuando se confirma la noticia. Clave: C"
+      },
+      {
+        "statement": "En virtud del desarrollo textual, se infiere que el temor padecido por Vargas Llosa",
+        "alternatives": [
+          "A) fue una pesadilla motivada por su carácter obsesivo.",
+          "B) se concretó cuando recibió la llamada al amanecer.",
+          "C) lo dejó perplejo e incapaz de aclarar sus pensamientos.",
+          "D) fue infundido por el c arácter dubitativo de su esposa.",
+          "E) desapareció al confirmarse la noticia de su premiación."
+        ],
+        "correct": 4,
+        "rationale": "El texto desarrolla gradualmente el cúmulo de pensamientos y la incertidumbre que la premiación generó; este temor desaparece cuando se confirma la noticia. Clave: E"
+      },
+      {
+        "statement": "La expresión NOCHE CERRADA puede entenderse como",
+        "alternatives": [
+          "A) nocturnidad visible.",
+          "B) medianoche hermética.",
+          "C) lugar solemne.",
+          "D) amanecer cercano.",
+          "E) miedo inexplicable."
+        ],
+        "correct": 0,
+        "rationale": "La expresión «noche cerrada» hace referencia a una etapa en la que aún no se vela claridad del amanecer. Clave: A"
+      },
+      {
+        "statement": "Se colige del texto que la valoración del narrador sobre Jean Paul Sartre",
+        "alternatives": [
+          "A) se mantuvo incólume a pesar del tiempo transcurrido.",
+          "B) cambió diametralmente a favor de Jorge Luis Borges.",
+          "C) fue refrendada por la amable recepción de este último.",
+          "D) se vio fortalecida por el recibimiento del Premio Nobel.",
+          "E) únicamente fue una pose por la influencia de su época."
+        ],
+        "correct": 1,
+        "rationale": "En el texto se afirma que «eran ellos, por supuesto, quienes llevaban la razón», refiriéndose a los amigos que ponderaban a Borges como un escritor más auténtico en comparación a Sartre. Clave: B"
+      },
+      {
+        "statement": "La palabra ESTÉRIL se puede reemplazar por",
+        "alternatives": [
+          "A) yermo.",
+          "B) feraz.",
+          "C) proficuo.",
+          "D) inútil.",
+          "E) baldío."
+        ],
+        "correct": 3,
+        "rationale": "El autor hace mención de los «estériles esfuerzos» que realizó para contactarse con Sartre, esfuerzos vanos que no lograron obtener una respuesta concreta. Clave: D"
+      }
+    ]
+  },
+  {
+    "type": "reading_comprehension",
+    "statement": "En este mísero, en este\nmortal planeta o signo,\nnació Segismundo, dando\nde su condición indicios,\npues dio la muerte a su madre,\ncon cuya fiereza dijo:\n«Hombre soy, pues que ya empiezo\na pagar mal beneficios».\nYo, acudiendo a mis estudios,\nen ellos y en todo miro\nque Segismundo sería\nel hombre más atrevido,\nel príncipe más cruel\ny el monarca más impío,\npor quien su reino vendría\na ser parcial y diviso,\nescuela de las traiciones\ny academia de los vicios;\ny él, de su furor llevado,\nentre asombros y delitos,\nhabía de poner en mí\nlas plantas, y yo, rendido,\na sus pies me había de ver Pues dando crédito yo\na los hados, que adivinos\nme pronosticaban daños\nen fatales vaticinios,\ndeterminé de encerrar\ndla fiera que había nacido,\npor ver si el sabio tenía\nen las estrellas dominio.\nPublicose que el infante\nnació muerto , y prevenido\nhice labrar una torre\nentre las peñas y riscos\nde esos montes, donde apenas\nla luz ha hallado camino,\npor defenderle la entrada\nsus rústicos obeliscos.\nLas graves penas y leyes,\nque con públicos edictos\ndeclararon que ninguno\nentrase a un vedado sitio\ndel monte, se ocasionaron\nde las causas que os he dicho.\n\nsiendo alfombra de sus plantas\nlas canas del rostro mí o.\n¿Quién no da crédito al daño,\ny más al daño que ha visto\nen su estudio, donde hace\nel amor propio su oficio? mísero, pobre y cautivo,\nadonde sólo Clotaldo\nle ha hablado, tratado y visto.\nÉste le ha enseñado ciencias;\nÉste en la ley le ha instruido\ncatólica, siendo solo\nde sus miserias testigo.\n\nCALDERÓN DE LA BARCA, Pedro. (1987). La vida es sueño . Madrid: Cátedra, pp. 98 -100.",
+    "questions": [
+      {
+        "statement": "1. El fragmento de La vida es sueño aborda , medularmente ,",
+        "alternatives": [
+          "A) las razones, esgrimidas por Basilio, por las que dio encierro a su hijo Segismundo.",
+          "B) las peripecias que debe pasar Segismundo para poder recuperar su título de príncipe.",
+          "C) la congoja que abate a Clotaldo por las magras condiciones en que vive Segismundo.",
+          "D) los presagios infaustos que antecedieron a la manumisión del príncipe Segismundo.",
+          "E) la venganza de Segismundo ante la condenable decisión de Basilio, rey de Polonia."
+        ],
+        "correct": 0,
+        "rationale": "El texto, que corresponde a la sexta escena de la pri mera jornada, es una intervención del rey Basilio, el cual expone las razones que lo impelieron a encerrar a su hijo Segismundo apenas este último nació.Clave: A"
+      },
+      {
+        "statement": "2. La expresión PUBLICOSE QUE EL INFANTE NACIÓ MUERTO hace referencia a",
+        "alternatives": [
+          "A) lo crucial de la decisión tomada por Basilio al encerrar a su hijo.",
+          "B) la posición de Clotaldo ante la muerte del rey de Polonia, Basilio.",
+          "C) la penosa situación en la que se encuentra el príncipe Segismundo.",
+          "D) una noticia fraudulenta respecto del nacimiento de Segismundo.",
+          "E) la fiereza que, finalmente, determinó que Segismundo esté preso."
+        ],
+        "correct": 3,
+        "rationale": "La expresión se relaciona con la noticia que fue difundida acerca del nacimiento «fallido» de Segismundo; no obstante, lo real era que este nació vivo e inmediatamente fue encerrado.Clave: D"
+      },
+      {
+        "statement": "3. En el texto, la palabra VEDADO adquiere el sentido de",
+        "alternatives": [
+          "A) fraudulento.",
+          "B) prohibido.",
+          "C) accesible.",
+          "D) confuso.",
+          "E) infructuoso."
+        ],
+        "correct": 1,
+        "rationale": "El término se usa con la finalidad de referirse al lugar en el que fue aprisionado Segismundo, al cual solamente podía tener acceso Clotaldo.Clave: B"
+      },
+      {
+        "statement": "4. La palabra LABRAR adquiere el sentido de",
+        "alternatives": [
+          "A) remover.",
+          "B) remodelar.",
+          "C) asolar.",
+          "D) acopiar.",
+          "E) edificar."
+        ],
+        "correct": 4,
+        "rationale": "El término se usa para referirse a la construcción de la torre en la que es encerrado Segismundo. El sentido es, por lo tanto, «construir, edificar».Clave: E"
+      },
+      {
+        "statement": "5. Se deduce del texto que la madre de Segismundo",
+        "alternatives": [
+          "A) fue la primera víctima del tirano príncipe.",
+          "B) fue muerta por este de manera premeditada.",
+          "C) estuvo de acuerdo con el encierro de su hijo.",
+          "D) vaticinó que Segismundo sería desdichado.",
+          "E) murió debido a las complicaciones del parto."
+        ],
+        "correct": 4,
+        "rationale": "En el texto se menciona que Segismundo al nacer «dio muerte a su madre». Esto significa que la madre de Segismundo muere en las labores de parto.Clave: E"
+      }
+    ]
+  },
+  {
+    "type": "reading_comprehension",
+    "statement": "Edgar Allan Poe nace por accidente en los Estados Unidos de América en 1809. Digo por accidente porque Poe vivió y murió en su patria sin tener jamás ningún punto de contacto espiritual con el mundo que le rodeaba. Nadie más alejado de aquella «América en marcha», de aquellos pioneros de manos rudas, sonrisas limpias y francas, llenos de simplicidad. No, nada más lejos de todo esto que Edgar Allan Poe. Su obra, hasta su propia persona, parece impregnada del aroma nocivo y atrayente que despedía la exquisita podredumbre de la Europa romántica. El romanticismo que imperaba en el viejo continente llegaba a América como un débil eco. Solo Poe enarboló su bandera ,siendo tal vez por eso, por su soledad, por lo que su figura se agiganta mucho más. Poe es un coloso . Fue principio y fin de un género literario. Su mano trémula de alcohólico abrió una nueva puerta en la literatura universal: la puerta del terror. Con Poe, lo las pinturas negras de Goya, los relatos de Poe siguen siendo hoy obra de vanguardia. El ejército de los románticos hizo historia en la literatura, pero pasó. Todos han pasado; sus estilos, sus temas, sus personajes, hoy nos resultan falsos, carentes de vida, de fuerza, anticuados. Poe no, su obra sigue palpitando, sigue siendo un autor «de mañana». Profundo conocedor del idioma, como poeta hace que las palabras adquieran en sus versos vibraciones insospechadas. Sus poemas, más que rimar, resuenan. Al leer a Poe intuimos que el fin que persigue con sus narraciones no es el de interesarnos por una trama, ni el de hacer gala de su calidad literaria, ni de su fluidez, ni de la pureza de su idioma. No, lo que Poe persigue es impresionar al lector. En sus narraciones no hay lección m oralizante ni mensaje alguno. Solo hay colores fuertes, sensaciones extremas. Poe intenta y logra aterrar, entristecer, desesperar. Su agudo sentido crítico, su cinismo, su extraordinaria inteligencia, su inmensa soberbia, le granjean la enemistad de cuantos le tratan. Su obra se yergue solitaria en medio del vacío literario de su época. Como ser humano, es también un hombre solitario, rodeado de una m asa gris y vulgar que no sabe comprenderle. Una madrugada de 1849 fue encontrado en un callejón de Nueva York, a pocos metros de una taberna, un borracho semiinconsciente, descuidado y sucio. Era Poe. Pocas horas después moría en un hospital. Su fallecimiento pasó inadvertido. Ninguno de los pocos a migos con los que aún contaba se molestó en pagar su entierro. Fue una muerte más entre las que se producían a diario en la gran cuidad. Nadie en América lo advirtió, en esa América confiada y sonriente que amasaba su futuro; no, América no supo que con la muerte de ese borracho había perdido la figura cumbre de su literatura.",
+    "questions": [
+      {
+        "statement": "En última instancia, el autor del texto hace",
+        "alternatives": [
+          "A) un análisis minucioso de la magna obra de Poe.",
+          "B) escarnio del alcoholismo de Edgar Allan Poe.",
+          "C) una semblanza del mayor poeta americano.",
+          "D) alarde de su conocimiento de la obra de Poe.",
+          "E) una apología de la figura de Edgar Allan Poe."
+        ],
+        "correct": 4,
+        "rationale": "En definitiva, el texto es un escrito que ensalza la figura de Poe debido a sus cualidades literarias y a su genio creativo. Poe es considerado por el autor como la figura cumbre de la literatura estadounidense."
+      },
+      {
+        "statement": "La expresión ENARBOLAR LA BANDERA significa",
+        "alternatives": [
+          "A) permanecer en soledad.",
+          "B) defender una causa.",
+          "C) enardecer los ánimos.",
+          "D) poner algo en marcha.",
+          "E) izar el pabellón nacional."
+        ],
+        "correct": 1,
+        "rationale": "Poe estuvo solo cuando defendió la causa del movimiento romántico en un momento en que este llegaba a América como un débil eco procedente de Europa."
+      },
+      {
+        "statement": "El término TRÉMULA denota",
+        "alternatives": [
+          "A) temblor.",
+          "B) firmeza.",
+          "C) donaire.",
+          "D) inspiración.",
+          "E) rigidez."
+        ],
+        "correct": 0,
+        "rationale": "Trémulo significa tembloroso. La mano trémula de un alcohólico «abrió una nueva puerta en la literatura universal»."
+      },
+      {
+        "statement": "No se condice con el texto sostener que Edgar Allan Poe",
+        "alternatives": [
+          "A) fue un hombre solitario incomprendido por sus contemporáneos.",
+          "B) es un notable conocedor de las virtudes de la lengua anglosajona.",
+          "C) pretendió que su obra tenga la m isma finalidad que las fábulas.",
+          "D) desconoció la fama e, incluso, su muerto pasó desapercibida.",
+          "E) logró sobrevivir a la debacle misma del movimiento romántico."
+        ],
+        "correct": 4,
+        "rationale": "La obra de Poe no tiene lección moralizante ni mensaje alguno. Sólo hay colores fuertes, sensaciones extremas."
+      }
+    ]
+  },
+  {
+    "type": "synonyms_and_antonyms",
+    "statement": "3. El término TRÉMULA denota",
+    "alternatives": [
+      "A) temblor.",
+      "B) firmeza.",
+      "C) donaire.",
+      "D) inspiración.",
+      "E) rigidez."
+    ],
+    "correct": 0,
+    "rationale": "Trémulo significa tembloroso. La mano trémula de un alcohólico «abrió una nueva puerta en la literatura universal»."
+  },
+  {
+    "type": "sentence_elimination",
+    "statement": "I) Basil Berstein, preocupado por el proceso de socialización de los individuos, prestó mucha atención al lugar que ocupa el lenguaje en este proceso. II) esta consideración de Berstein dio lugar a una teoría denominada la Teoría del déficit. III) El déficit se define como la parte que falta para levantar las cargas del Estado, reunidas todas las cantidades destinadas a cubrirlas. IV) La teoría del déficit distingue dos formas de expresión lingüística, de uso de la lengua o de códigos: el restringido y el elaborado. V) El código restringido predomina en la clase trabajadora; el código elaborado, en las clases medias.",
+    "alternatives": [
+      "A) IV",
+      "B) I",
+      "C) III",
+      "D) V",
+      "E) II"
+    ],
+    "correct": 2,
+    "rationale": "Se elimina la III por impertinencia. El tema es la Teoría del déficit de Berstein."
+  },
+  {
+    "type": "sentence_elimination",
+    "statement": "I) Tutmosis III, quien gobernó de 1479 a 1425 a. C., es el sexto faraón de la dinastía XVIII de Egipto. II) Tutmosis III fue un constructor de monumentos, pero también un guerrero sin par, el llamado Napoleón del antiguo Egipto. III) En 19 años condujo 17 campañas en el Levante mediterráneo, incluyendo una victoria en contra de los cananeos en Mégido, en el actual territorio de Israel. IV) En el transcurso de su reinado, el imperio egipcio alcanzó su máxima extensión territorial. V) La madre de Tutmosis III fue la quinta gobernante de dicha dinastía, quien gobernó con el nombre de Maatkara Hatshepsut y llegó a ser la mujer que más tiempo estuvo en el trono.",
+    "alternatives": [
+      "A) IV",
+      "B) II",
+      "C) III",
+      "D) V",
+      "E) I"
+    ],
+    "correct": 3,
+    "rationale": "Se elimina la V oración por inatingencia. La s oraciones giran alrededor del «reinado de Tutmosis III»."
+  },
+  {
+    "type": "sentence_elimination",
+    "statement": "I) En un curso sobre gramática latina, Nietzsche sentencia que los conocimientos más profundos están ya preparados en el lenguaje. II) Nietzsche se sirve de la figura de Zaratustra para desarrollar y enlazar los elementos sobre los que se asienta su obra. III) Nuestras más sofisticadas teorías acerca de la realidad están anticipadas en los modos de decir y en el hecho de que tengamos que decir para saber y hacer saber a otros. IV) N o existe una distancia significativa entre el modo como tratamos las cosas y el modo como las conocemos y nombramos, según Nietzsche. V) Este sería, a grandes rasgos, el punto de partida de una pragmática vitalista del lenguaje para Nietzsche.",
+    "alternatives": [
+      "A) II",
+      "B) III",
+      "C) IV",
+      "D) I",
+      "E) V"
+    ],
+    "correct": 0,
+    "rationale": "Se elimina la II por inatingencia. El tema desarrolla la apreciación de Nietzsche acerca del lenguaje y la forma en que este contribuye a poner el mundo a disposición del hombre."
+  },
+  {
+    "type": "sentence_elimination",
+    "statement": "Alexis II presidió la Iglesia Ortodoxa Rusa desde el renacimiento de esta, en 1990, hasta su muerte en diciembre de 2008. III) Su historia es la historia de la Iglesia y su lucha contra el Estado. IV) Alexis sirvió como sacerdote y obispo durante 58 años bajo el régimen soviético, que redujo a la Iglesia a un culto poco tolerado. V) Alexis tomó como personal la misión de identificar a las víctimas de persecución comunista que, a ojos de la Iglesia, murieron por su fe cristiana.",
+    "alternatives": [
+      "A) IV",
+      "B) III",
+      "C) II",
+      "D) I",
+      "E) V"
+    ],
+    "correct": 3,
+    "rationale": "Se elimina la I por impertinencia. El tema es la importancia de Alexis II en la constitución de la Iglesia Ortodoxa Rusa."
+  },
+  {
+    "type": "sentence_elimination",
+    "statement": "5. I) Las azoteas de muchas edificaciones norteamericanas están conformadas por\njardines alternativos que cuentan con plantas que almacenan agua, y absorben la\nlluvia que en un techo normal pasaría a filtrarse. II) La tierra natural se vuelve\nexcesivamente pesa da al saturarse de agua en los techos, así que los arquitectos de\ntechos verdes utilizan tierra compuesta. III) El exceso de agua pluvial se filtra hacia\nuna capa de receptáculos o piedrecillas antes de derramarse hacia un drenaje; y, en\ntemporadas secas, las raíces absorben el agua acumulada. IV) La barrera de raíces\ny una membrana impermeable aíslan el sistema de tejado vivo del edificio sobre el\nque se desarrolla. V) La azotea verde de muchas edificaciones en EE. UU. está\ncompuesta por un conjunto de cap as esenciales que cumplen funciones específicas\nde absorción, drenaje, entre otras.\n\nA) III B) V C) II D) IV E) I\n\nSolución:\n\nSe elimina la V por redundancia. Se encuentra implicada en las demás\nClave: B",
+    "alternatives": [
+      "A) III",
+      "B) V",
+      "C) II",
+      "D) IV",
+      "E) I"
+    ],
+    "correct": 1,
+    "rationale": "Se elimina la V por redundancia. Se encuentra implicada en las demás"
+  },
+  {
+    "type": "reading_comprehension",
+    "statement": "Es sabido que los cuervos son animales extremadamente inteligentes, como demuestra su\ncapacidad para usar herramientas para buscar alimento. Lo que hasta la fecha se\ndesconocía es por qué estas aves se congregan ruidosamente alrededor de sus congéneres fallecidos. Este comportamiento, observado en numerosas ocasiones por la\ncomunidad científica, intrigaba a Kaeli N. Swift, etóloga de la Universidad de Washington,\nquien decidió llevar a cabo un experimento cuyas conclusiones han sido publicadas en la\nrevista Animal Behaviour .\nEn primer lugar, Swift esparció comida durante varios días consecutivos en un punto\ndeterminado para que los cuervos se habituaran a congregarse allí para buscar alimento.\nMás tarde un grupo de voluntarios cubiertos de máscaras de látex (para evitar ser reconocidos por las aves) acudía al lugar con un ejemplar muerto entre las manos, mientras\nla investigadora examinaba su reacción . Swift observó que en la mayoría de los casos los\ncuervos arremetían contra los voluntarios o emitían graznidos de alerta ,aunque lo hacían\ncon menor frecuencia cuando en lugar de un cuervo muerto portaban el ca dáver de una\npaloma. Si, por el contrario, los voluntarios avanzaban con las manos vacías, los cuervos\nno les hostigaban, aunque se alejaban y no volvían hasta comprobar que no había nadie.\nLa investigadora comprobó además que durante los días posteriores al experimento las\naves tardaban bastante más en acudir al lugar en busca de comida, mientras que la imagen\ncongéneres muerto s como un peligro potencial. Los graznidos ruidosos , aclaran, podrían\nser una forma de compartir la información con el grupo . De esta forma estas aves, de las\nque se sabe que tienen buena memoria, recopilarían información sobre las amenazas por\nsu propia seguridad. «Saber que tienes que tener cuidado en un lugar concreto es algo\nvalioso para ellas», aclara Swift.\n\nNational Geographic . (2015). «¿Por qué afecta a los cuervos la muerte de sus\ncongéneres?». Recuperado el 07 de diciembre de 2015 de\nhttp://www.nationalgeographic.com.es/articulo/ng_magazine/actualidad/10815/por_que_af\necta_los_cuervos_muerte_sus_congeneres.html",
+    "questions": [
+      {
+        "statement": "1. El tema central del texto es",
+        "alternatives": [
+          "A) las palomas muertas como señal de carencia de peligro para la acusada inteligencia\nde los cuervos.",
+          "B) la publicación sobre los estudios sobre el comportamiento de los cuervos en la\nrevista Animal Behavior .",
+          "C) el peligro patente que los cuervos advierten cuando se aproximan a su hábitat los\nseres humanos.",
+          "D) una investigación sobre las causas por las que los cuervos se ven afectados por la\nmuerte de un congénere.",
+          "E) la buena memoria de los cuervos y su utilidad en la detección y selección de lugares\ndonde hay comida."
+        ],
+        "correct": 3,
+        "rationale": "En el texto se aborda el caso de una propuesta científica que plantea una respuesta\nal misterio de la perturbación que evidencian los cuervos cuando muere un congénere."
+      },
+      {
+        "statement": "2. En el texto, la palabra PUNTO puede ser reemplazada por",
+        "alternatives": [
+          "A) pieza.",
+          "B) lugar.",
+          "C) dimensión.",
+          "D) distancia.",
+          "E) señal."
+        ],
+        "correct": 1,
+        "rationale": "El vocablo alude al lugar específico en el que los investigadores colocaban la comida."
+      },
+      {
+        "statement": "3. Es incompatible con el desarrollo textual afirmar que los cuervos",
+        "alternatives": [
+          "A) frente al cadáver de una paloma se alteraban en menor grado.",
+          "B) comparten la información entre el grupo a través de graznidos.",
+          "C) se reúnen ruidosamente alrededor de sus congéneres muertos.",
+          "D) poseen la capacidad de usar herramientas para obtener alimento.",
+          "E) carecen de la capacidad para retener información topográfica."
+        ],
+        "correct": 4,
+        "rationale": "Los cuervos tienen la capacidad de retener información sobre el lugar preciso que podría ser peligroso."
+      },
+      {
+        "statement": "4. muere un congénere",
+        "alternatives": [
+          "A) ha determinado la desaparición masiva de estos en las ciudades.",
+          "B) es asumido por los ejemplares machos como señal de procreación.",
+          "C) permite que los cuervos puedan planificar distancias muy extensas.",
+          "D) contra lo que podría intuirse, está lejos de ser una conducta emotiva.",
+          "E) es un mecanismo que estos usan para obtener un lugar para anidar."
+        ],
+        "correct": 3,
+        "rationale": "La investigación de Swift resuelve que se trata de un mecanismo para advertir un\npotencial peligro y no de una respuesta emotiva."
+      },
+      {
+        "statement": "5. Si los cuervos emitieran graznidos cuando muere un congénere de la misma forma\nque cuando buscan comida ,",
+        "alternatives": [
+          "A) los investigadores considerarían que estos son especies inopinadas.",
+          "B) los vuelos de los cuervos alcanzarían distancias demasiado cortas.",
+          "C) sería irrelevante buscar un patrón conductual relativo a la muerte.",
+          "D) las causas de los continuos graznidos serían de carácter ignoto.",
+          "E) las emisiones de desesperación serían causadas por falta de comida."
+        ],
+        "correct": 2,
+        "rationale": "Si no existe un patrón conductual distintivo ante la muerte de un congénere, entonces\nsería irrelevante formular un problema relativo a este."
+      }
+    ]
+  },
+  {
+    "type": "reading_comprehension",
+    "statement": "Explicar qué es el tiempo y cómo medirlo jamás fue cosa fácil. Ya en el siglo IV de nuestra\nera Agustín de Hipona se hizo esa pregunta « ¿Qué es, pues el tiempo? Si nadie me lo\npregunta, lo sé; pero si quiero explicárselo a quien me lo pregunta, no lo sé». Galileo Galilei,\n1300 años después, se las ingenió para medirlo contando el número de oscilaciones de la\ngran lámpara que colgaba del techo de la catedral de Pisa y comparó ese ir y venir con las\npulsaciones de su corazón, una observación que resultó esencial para inventar los relojes\nmodernos.\nGracias a un reciente estudio realizado por el grupo de la División de Neurociencias\nde la Universidad Pablo de Olavide de Sevilla y dirigido por el José María Delgado y Agnès\nGruart, publicado en la revista The Journal of Neuroscience ,podemos también saber cómo\nmiden el tiempo las neuronas. Una importante función que cumplen esas células\nespecializadas del cerebro, encargadas de recibir y emitir los estímulos nerviosos\nesenciales para que el ser humano y el resto de animales realicen sus funciones vitales, es\nla medida del tiempo entre dos señales sucesivas. De ello se encargan, en particular,\naquellas que se encuentran en la porción más anterior, o frontal del cerebro (especialmente\nimportantes en los primeros años cuando los niños comienzan a educarse). Los\ninvestigadores han chequeado la actividad cerebral que permite calcular el tiempo entre\ndos estímulos sucesivos, registrando los pequeñísimos cambios en la actividad eléctrica de\nneuronas prefrontales durante una prueba de aprendizaje.\nLo que han averiguado es que esas neuronas se activan mediante un oscilador, una\nespecie de reloj interno que realiza una pulsación cada 100 milisegundos aproximadamente . O lo que es lo mismo: unas diez veces por segundo. Un «reloj» que\nsirve especialmente para medir tiempos muy cortos, de menos de un segundo de duración.\nGracias a ese patrón de oscilaciones del tiempo, somos capaces de desarrollar tareas que,\n\nque Christiaan Huygens llevó a cabo en 1656. Un sistema similar, aunque mucho más\npreciso, encapsulado dentro de neuronas. Qué maravilla.\n\nVAN DEN BERG, Eva. (2015). «¿Cómo miden el tiempo las neuronas?». De: National\nGeographic . Recuperado el 07 de diciembre de 2015 de\nhttp://www.nationalgeographic.com.es/articulo/ng_magazine/actualidad/10877/como_mide\ntiempo_las_neuronas.html",
+    "questions": [
+      {
+        "statement": "1. El tema central del texto es",
+        "alternatives": [
+          "A) cambios en la actividad de neuronas prefrontales.",
+          "B) el importante estudio sobre la actividad cerebral.",
+          "C) el primer reloj neuronal de Christiann Huygens.",
+          "D) la forma en que las neuronas miden el tiempo.",
+          "E) el oscilador neuronal basado en el de Galileo."
+        ],
+        "correct": 3,
+        "rationale": "A propósito de una investigación, el texto desarrolla los mecanismos neuronales que\npermiten m edir el tiempo."
+      },
+      {
+        "statement": "2. En el texto, el término DIRECCIONAR adquiere el sentido de",
+        "alternatives": [
+          "A) rematar.",
+          "B) perfilar.",
+          "C) enrumbar.",
+          "D) conducir.",
+          "E) posibilitar."
+        ],
+        "correct": 4,
+        "rationale": "El término se refiere a la forma en que el oscilador de Galileo hizo posible, esto es,POSIBILITÓ la creación del primer reloj pendular."
+      },
+      {
+        "statement": "3. Es incompatible con el desarrollo textual afirmar que las neuronas",
+        "alternatives": [
+          "A) dejan evidencia de análisis mediante actividad eléctrica.",
+          "B) prefrontales fueron analizadas durante la investigación.",
+          "C) se activan a través de una especie de oscilador interno.",
+          "D) permiten que hagamos tareas mediante tiempos largos.",
+          "E) ubicadas en la parte frontal del cerebro miden el tiempo."
+        ],
+        "correct": 3,
+        "rationale": "La coordinación de tareas involucra actividad de medición neuronal de breves lapsos de tiempo."
+      },
+      {
+        "statement": "4. Se deduce del texto que las células de la zona más anterior del cerebro",
+        "alternatives": [
+          "A) funcionan de manera muy marginal respecto de otras zonas.",
+          "B) permiten que la actividad cardiaca aumente cuando dormimos.",
+          "C) se comportan de forma muy similar a los latidos del corazón.",
+          "D) están involucradas en el proceso de adiestramiento escolar.",
+          "E) son las encargadas de procesar datos sobre lo sentimental."
+        ],
+        "correct": 3,
+        "rationale": "En el texto se mencionan que son especialmente importantes cuando inicia el proceso educativo. Por lo tanto, estas células están relacionadas con las actividades de aprendizaje."
+      },
+      {
+        "statement": "temporal tan precisos, probablemente",
+        "alternatives": [
+          "A) los estudios acerca de la red neuronal humana decrezcan.",
+          "B) nuestra coordinación para realizar tareas sea implausible.",
+          "C) los datos sobre la actividad eléctrica carezca n de precisión.",
+          "D) las investigaciones sobre el cerebro puedan ser objetivas.",
+          "E) el carácter rápido de nuestras acciones pueda aumentar."
+        ],
+        "correct": 1,
+        "rationale": "La gran velocidad para medir tiempos sumamente cortos hace posible la coordinación."
+      }
+    ]
+  },
+  {
+    "type": "reading_comprehension",
+    "statement": "Conquistadores como Hernán Cortés, Bernal Díaz del Castillo y Andrés de Tapia los mencionaron. También frailes y cronistas como Bernardino de Sahagún. Este último confirmó, en Tenochtitlán, la existencia de varios tzompantlis, estructuras en las que se ensartaban, dispuestos en hileras, los cráneos perforados de las víctimas de los sacrificios. Los arqueólogos del Instituto Nacional de Antropología e Historia de México creen haber hallado el Huey Tzompantli, el gran tzompantli de México -Tenochtitlán, mencionado en las crónicas y representado en los códices. Los trabajos realizados entre los pasados meses de febrero y junio en la calle de Guatemala, en el Centro Histórico de la Ciudad de México, sacaron a la luz una sección de una plataforma rectangular que se encontraba a unos dos metros de profundidad, según informa el INAH. Este hallazgo constituye una prueba irrefutable de la existencia de los tzompantlis. Solo se ha excavado una parte de esta plataforma, cuya longitud ha sido estimada en más de 34 metros. En su núcleo ha aparecido un elemento circular formado por cráneos humanos unidos con argamasa de cal, arena y gravilla de tezontle, de origen volcánico. La sección hallada mide unos 13 metros de largo y 6 metros de ancho. Sobre la plataforma había mandíbulas y fragmentos de cráneos dispersos, unos 35 según el arqueólogo Raúl Barrera, aunque «deben de ser muchos más». Por sus características y materiales asociados, el tzompantli corresponde a la sexta etapa constructiva del Templo Mayor (1486 -1502), es decir, poco antes de la entrada de los españoles. Una parte de esta estructura arquitectónica fue destruida en la época colonial durante la construcción de un edificio, pero en la superficie aún se distinguen los orificios de los postes o vigas de madera en los que se ensartaban los cráneos, pertenecientes en su mayoría a hombres adultos y jóvenes, pero también a mujeres y niños. «Esta estructura tenía un simbolismo específico y muchos de estos cráneos podrían ser de enemigos de los mexicas que eran capturados, sacrificados y decapitados, como una advertencia de su poderío», afirma Eduardo Matos, investigador emérito del INAH. National Geographic . (2015). « Descubren el gran Tzompantli de Tenochtitlán». Recuperado el 07 de diciembre de 2015 de http://www.nationalgeographic.com.es/articulo/historia/actualidad/10609/descubren_gran_tzompantli_tenochtitlan.html",
+    "questions": [
+      {
+        "statement": "El tema central del texto es",
+        "alternatives": [
+          "A) la plataforma rectangular hallada durante excavaciones hechas en junio.",
+          "B) los cráneos humanos hallados en la etapa constructiva del Templo Mayor.",
+          "C) los datos históricos sobre el uso del tzompantli en la época prehispánica.",
+          "D) el tzompantli detectado en el Centro Histórico de la Ciudad de México.",
+          "E) la destrucción de la estructura arquitectónica precolombina en México."
+        ],
+        "correct": 3,
+        "rationale": null
+      },
+      {
+        "statement": "En el texto, la palabra DISPUESTO se puede reemplazar por",
+        "alternatives": [
+          "A) determinado.",
+          "B) colocado.",
+          "C) despejado.",
+          "D) preparado.",
+          "E) mandado."
+        ],
+        "correct": 1,
+        "rationale": "Los cráneos estaban puestos en hileras, a saber, COLOCADOS en hileras."
+      },
+      {
+        "statement": "Es incompatible afirmar que los tzompantlis",
+        "alternatives": [
+          "A) involucraban la perforación craneal de cadáveres producto del sacrificio.",
+          "B) fueron mencionados por frailes y cronistas como Bernardino de Sahagún.",
+          "C) al parecer fueron reconocidos por conquistadores como Hernán Cortés.",
+          "D) se elaboraban con el añadido de cráneos de guerreros de la realeza.",
+          "E) habrían servido para simbolizar el poderío ostentado por los aztecas."
+        ],
+        "correct": 3,
+        "rationale": "Eran cráneos que pertenecían a personas sacrificadas no a guerreros."
+      },
+      {
+        "statement": "Se deduce del desarrollo textual que la existencia de los tzompantlis",
+        "alternatives": [
+          "A) era una señal de que el Imperio azteca estaba por desparecer.",
+          "B) simbolizaba una advertencia ante la amenaza de los invasores.",
+          "C) hasta hace poco solo era reconocida por testimonios pasados.",
+          "D) permitió que los españoles conquisten México de manera veloz.",
+          "E) fue mencionada por Hernán Cortés porque fue un arma española."
+        ],
+        "correct": 2,
+        "rationale": "En el texto se menciona que este descubrimiento constituye una prueba contundente de la existencia de estas piezas. De ahí se infiere que hasta ese momento solo se sabía de los tzompantlis gracias a los códices y las crónicas coloniales."
+      },
+      {
+        "statement": "Si los cráneos encontrados hubieran estado dispersos en la excavación,",
+        "alternatives": [
+          "A) los espacios monumentales sería n abiertamente cuestionados.",
+          "B) los hallazgos actuales les restarían importancia a las crónicas.",
+          "C) no habría forma de corroborar los salvajes sacrificios aztecas.",
+          "D) los invasores habrían creado un mito para asesinar sin piedad.",
+          "E) la conjetura de que se trataba de un tzompantli se debilitaría."
+        ],
+        "correct": 4,
+        "rationale": "Los cráneos se ensartaban y se disponían en hileras. De haberse detectado dispersos, no constituiría una evidencia sólida de la existencia de los tzompantlis."
+      }
+    ]
+  },
+  {
+    "type": "verbal_series",
+    "statement": "Pietista, asceta; dad ivoso, mezquino; estulto, necio,",
+    "alternatives": [
+      "A) imparcial, ecuánime .",
+      "B) aprensivo, flatoso .",
+      "C) flexuoso, ondulado .",
+      "D) temerario, prudente .",
+      "E) gitanesco, flamenco ."
+    ],
+    "correct": 3,
+    "rationale": "La serie verbal está formada por una secuencia de sinónimos, antónimos y sinónimos. Corresponde el par de antónimos TEMERARIO , ‘demasiado atrevido’, y PRUDENTE, ‘cauteloso’."
+  },
+  {
+    "type": "verbal_series",
+    "statement": "Pietista, asceta; dad ivoso, mezquino; estulto, necio, La serie verbal está formada por una secuencia de sinónimos, antónimos y sinónimos. Corresponde el par de antónimos TEMERARIO , ‘demasiado atrevido’, y PRUDENTE, ‘cauteloso’.",
+    "alternatives": [
+      "A) imparcial, ecuánime .",
+      "B) aprensivo, flatoso .",
+      "C) flexuoso, ondulado .",
+      "D) temerario, prudente .",
+      "E) gitanesco, flamenco ."
+    ],
+    "correct": 3,
+    "rationale": "La serie verbal está formada por una secuencia de sinónimos, antónimos y sinónimos. Corresponde el par de antónimos TEMERARIO , ‘demasiado atrevido’, y PRUDENTE, ‘cauteloso’."
+  },
+  {
+    "type": "verbal_series",
+    "statement": "Agraciado, bonito, hermoso,",
+    "alternatives": [
+      "A) hercúleo .",
+      "B) bellido .",
+      "C) galante .",
+      "D) esbelto .",
+      "E) airoso ."
+    ],
+    "correct": 1,
+    "rationale": "La serie se completa con un sinónimo de bello, hermoso; a saber, BELLIDO."
+  },
+  {
+    "type": "verbal_series",
+    "statement": "Enojo, enfado, disgusto,",
+    "alternatives": [
+      "A) maraña .",
+      "B) intriga .",
+      "C) mohína .",
+      "D) frenesí .",
+      "E) letargo ."
+    ],
+    "correct": 2,
+    "rationale": "La serie se completa con un sinónimo de enojo, enfado y disgusto; a saber, MOHÍNA."
+  },
+  {
+    "type": "verbal_series",
+    "statement": "Ñu, antíl ope; mono, gibón; epeira, araña;",
+    "alternatives": [
+      "A) ave, gerifalte .",
+      "B) uro, cebú .",
+      "C) mandril, nutria .",
+      "D) urubú, zopilote .",
+      "E) ñorbo, ñandú ."
+    ],
+    "correct": 0,
+    "rationale": "La serie está formada por pares con la relación de especie -género; género, especie; especie, género. El parque completa la serie debe mantener el orden género -especie. En este sentido, AVE, GERIFALTE (‘halcón’) cumple este requisito."
+  },
+  {
+    "type": "verbal_series",
+    "statement": "Laudabl e, encomiable; lascivo, luju rioso; nulo,",
+    "alternatives": [
+      "A) latoso .",
+      "B) írrito .",
+      "C) risible .",
+      "D) infundado .",
+      "E) irredento ."
+    ],
+    "correct": 1,
+    "rationale": "La serie está formada por sinónimos; de esta forma, el único sinónimo de nulo es ÍRRITO."
+  },
+  {
+    "type": "verbal_series",
+    "statement": "Diez amigos abordan el tren; en ese momento hay solo cuatro asientos disponibles y alineados . ¿De cuántas maneras diferentes pueden sentarse los amigos en los cuatro asientos disponibles?",
+    "alternatives": [
+      "A) 5040",
+      "B) 504",
+      "C) 990",
+      "D) 720",
+      "E) 1320"
+    ],
+    "correct": 0,
+    "rationale": "La clave A."
+  },
+  {
+    "type": "verbal_series",
+    "statement": "1. Diez amigos abordan el tren; en ese momento hay so lo cuatro asientos disponibles y alineados . ¿De cuántas maneras diferentes pueden sentarse los amigos en los cuatro asientos disponibles?",
+    "alternatives": [
+      "A) 5040",
+      "B) 504",
+      "C) 990",
+      "D) 720",
+      "E) 1320"
+    ],
+    "correct": 0,
+    "rationale": null
+  },
+  {
+    "type": "verbal_series",
+    "statement": "2. Con las cifras 1,2, 3,…, 8 y 9, ¿c uántos números de cuatro dígitos se pueden formar si el último d ígito ha de ser cinco y no se permite repeticiones?",
+    "alternatives": [
+      "A) 302",
+      "B) 336",
+      "C) 360",
+      "D) 361",
+      "E) 340"
+    ],
+    "correct": 1,
+    "rationale": null
+  }
+]

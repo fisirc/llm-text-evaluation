@@ -1,0 +1,657 @@
+[
+  {
+    "type": "synonyms_and_antonyms",
+    "statement": "1. TORPEDEADAS",
+    "alternatives": [
+      "A) Acicateadas",
+      "B) Frustradas",
+      "C) Distorsionadas",
+      "D) Aplazadas",
+      "E) Repudiadas"
+    ],
+    "correct": 1,
+    "rationale": "Las pocas posibilidades de paz fueron frustradas: es decir, fueron un fracaso."
+  },
+  {
+    "type": "synonyms_and_antonyms",
+    "statement": "2. REHABILITACIÓN",
+    "alternatives": [
+      "A) Renacimiento",
+      "B) Reestreno",
+      "C) Reposición",
+      "D) Recuperación",
+      "E) Reencuentro"
+    ],
+    "correct": 3,
+    "rationale": "Se refiere a la recuperación de los vencidos."
+  },
+  {
+    "type": "synonyms_and_antonyms",
+    "statement": "3. REPRESIÓN",
+    "alternatives": [
+      "A) Sometimiento",
+      "B) Humillación",
+      "C) Envilecimiento",
+      "D) Azuzamiento",
+      "E) Sosiego"
+    ],
+    "correct": 0,
+    "rationale": "Alude al sometimiento al que fue sometido Alemania."
+  },
+  {
+    "type": "synonyms_and_antonyms",
+    "statement": "5. IMPOTENTE",
+    "alternatives": [
+      "A) Desautorizado",
+      "B) Infecundo",
+      "C) Descalificado",
+      "D) Desdeñado",
+      "E) Imposibilitado"
+    ],
+    "correct": 4,
+    "rationale": "Reprimida Alemania se encontraba imposibilitada frente a sus enemigos.."
+  },
+  {
+    "type": "synonyms_and_antonyms",
+    "statement": "5.  IMPOTENTE",
+    "alternatives": [
+      "A) Desautorizado",
+      "B) Infecundo",
+      "C) Descalificado",
+      "D) Desdeñado",
+      "E) Imposibilitado"
+    ],
+    "correct": 4,
+    "rationale": "La opción correcta es E) Imposibilitado."
+  },
+  {
+    "type": "synonyms_and_antonyms",
+    "statement": "6.  ACOSADOS",
+    "alternatives": [
+      "A) Acorralados",
+      "B) Atribulados",
+      "C) Encauzados",
+      "D) Sumidos",
+      "E) Atormentados"
+    ],
+    "correct": 4,
+    "rationale": "La opción correcta es E) Atormentados."
+  },
+  {
+    "type": "synonyms_and_antonyms",
+    "statement": "7.  ENTUSIASMO",
+    "alternatives": [
+      "A) Convicción",
+      "B) Alegría",
+      "C) Interés",
+      "D) Asentimiento",
+      "E) Afabilidad"
+    ],
+    "correct": 2,
+    "rationale": "La opción correcta es C) Interés."
+  },
+  {
+    "type": "reading_comprehension",
+    "statement": "Todas estas sociedades –desde el poderoso Imperio Inca, que consiguió encuadrar a varios millones de hombres en un sistema económico y político de singular eficacia, hasta los pequeños grupos nómadas de recolectores de plantas silvestres de Australia – son comparables, en el siguiente aspecto por lo menos: todas ellas ignoraban, o ignoran todavía, el arte de escribir. Solo podían conservar de su pasado lo que una memoria humana puede retener. Esta afirmación es válida para el conjunto de esas sociedades, incluso para el número reducido de las que suplieron el desconocimiento de la escritura con ciertos procedimientos mnemotécnicos, como los quipus incaicos o los símbolos gráficos de los nativos de la Isla de Pascua y algunas tribus africanas. Aunque estas sociedades no sean más “primitivas” que las nuestras en sentido estricto, su pasad o es cualitativamente distinto. La falta de escritura no les permitía almacenar la memoria del pasado para utilizarla a cada momento en beneficio del presente. Ese pasado fluido solo se podía preservar en una proporción reducida, mientras que el excedente , a medida que se iba acumulando, estaba condenado a perderse irremediable y definitivamente. Si recurrimos a un símil utilizando el lenguaje de la navegación, podríamos decir que las sociedades que poseen la escritura disponen de un medio para conservar en la memoria sea tan larga como la de las anteriores – se ven forzadas a seguir un derrotero fluctuante que puede conducirles, en definitiva, a un punto muy próximo del que zarparon o impedirles al menos alejarse de él, esto es, progresar. Por eso, recomendamos a los lectores –e incluso a los especialistas – que desconfíen de términos tan ambiguos como los de salvaje, primitivo o arcaico. Al adoptar como criterio exclusivo la presencia o la ausencia de la escritura en las sociedades que estudiamos, recurrimos ante todo a una característica objetiva que no supone ningún postulado de tipo filosófico o moral. Al mismo tiempo, nos referimos a la única característica adecuada para interpretar la diferencia real que las distingue de nosotros. La noción de “sociedad primitiva” es engañosa. En cambio, la de “sociedad sin escritura” nos permite acceder a un aspecto esencial del desarrollo de la humanidad, explica la historia y facilita las previsiones acerca del futuro de los pueblos en cuestión, así como la posibilidad de influir en él. Claude Lévi -Strauss,  Primitivo, un adjetivo falaz",
+    "questions": [
+      {
+        "statement": "1. En el texto, el término EXCEDENTE implica",
+        "alternatives": [
+          "A) una sociedad cada vez más compleja.",
+          "B) carencia de recursos mnemotécnicos.",
+          "C) memoria profunda del pasado histórico.",
+          "D) desconocimiento del arte de la escritura.",
+          "E) acumulación de conocimientos sustanciales."
+        ],
+        "correct": 3,
+        "rationale": "El excedente es la memoria que no se puede preservar a causa del desconocimiento de la escritura."
+      },
+      {
+        "statement": "2. El sinónimo contextual de la palabra ENCUADRAR es",
+        "alternatives": [
+          "A) conformar.",
+          "B) gobernar.",
+          "C) organizar.",
+          "D) orientar.",
+          "E) sojuzgar."
+        ],
+        "correct": 2,
+        "rationale": "Encuadrar significa organizar. En el contexto, organizar a millones de personas en un sistema económico."
+      }
+    ]
+  },
+  {
+    "type": "sentence_elimination",
+    "statement": "2. El sinónimo contextual de la palabra ENCUADRAR es",
+    "alternatives": [
+      "A) conformar.",
+      "B) gobernar.",
+      "C) organizar.",
+      "D) orientar.",
+      "E) sojuzgar."
+    ],
+    "correct": 2,
+    "rationale": "Encuadrar significa organizar. En el contexto, organizar a millones de personas en un sistema económico."
+  },
+  {
+    "type": "sentence_elimination",
+    "statement": "3. En el texto, el vocablo ESTELA denota",
+    "alternatives": [
+      "A) intensidad.",
+      "B) resplandor.",
+      "C) señal.",
+      "D) sensación.",
+      "E) intuición"
+    ],
+    "correct": 2,
+    "rationale": "Esta palabra significa conservar en la memoria señales o rastros del derrotero o camino."
+  },
+  {
+    "type": "sentence_elimination",
+    "statement": "4. La intención principal del autor es",
+    "alternatives": [
+      "A) destacar que los recursos mnemotécnicos fueron suficientes para forjar\nsociedades muy eficaces.",
+      "B) refutar la noción “sociedad  primitiva” como categoría para estudiar las\nsociedades del pasado.",
+      "C) señalar que el arte de la escritura conduce indefectiblemente al progreso a los\npueblos primitivos.",
+      "D) relievar que la escritura, y no los recursos mnemotécnicos, permite preservar la\nmemoria histórica del pasado.",
+      "E) proponer la adopción de la escritura como criterio exclusivo para hacer"
+    ],
+    "correct": 4,
+    "rationale": "Para el autor, adoptar como criterio exclusivo la presencia o la ausencia de la escritura en las sociedades es recurrir, ante todo, a una característica objetiva y única adecuada para interpretar la diferencia real que las sociedades."
+  },
+  {
+    "type": "sentence_elimination",
+    "statement": "5. Con respecto a al quipu, se deduce que",
+    "alternatives": [
+      "A) fue un recurso indispensable para construir el gran Imperio Inca.",
+      "B) fue ineficaz para mantener la memoria histórica de los incas.",
+      "C) es un indicio que diferenció a los incas de los pueblos primitivos.",
+      "D) es una fuente suficiente para conocer el pasado histórico incaico.",
+      "E) fue un sistema de conteo que permitió registrar grandes cantidades."
+    ],
+    "correct": 1,
+    "rationale": "Según el autor, incluso pueblos que contaban recursos mnemotécnicos como el quipu solo podían conservar de su pasado lo que una memoria humana puede retener."
+  },
+  {
+    "type": "sentence_elimination",
+    "statement": "6. Es incompatible afirmar que, para el autor, las sociedades sin escritura",
+    "alternatives": [
+      "A) son como los navegantes que carecen de un derrotero.",
+      "B) tienen limitaciones para conservar su pasado histórico.",
+      "C) algunas, fueron imperios política y económicamente sólidas.",
+      "D) son pueblos primitivos que se han detenido en el pasado.",
+      "E) pueden repetir las mismas experiencias de sus antepasados."
+    ],
+    "correct": 3,
+    "rationale": "El autor afirma que la identificación de los pueblos sin escritura con los primitivos es engañosa. No admite esta identificación."
+  },
+  {
+    "type": "reading_comprehension",
+    "statement": "El autor afirma que la identificación de los pueblos sin escritura con los primitivos es engañosa. No admite esta identificación.",
+    "questions": [
+      {
+        "statement": "7. Si abordáramos la situación de los “pueblos sin escritura” con la noción de “sociedad primitiva”",
+        "alternatives": [
+          "A) careceríamos de una visión real y de una política adecuada para contribuir al progreso de estos pueblos.",
+          "B) solo nos limitaríamos a estudiar a los pueblos que carecen de una memoria profunda de su pasado.",
+          "C) adoptaríamos un concepto adecuado para distinguir a las sociedades primitivas de las que no lo son.",
+          "D) descubriríamos por qué algunas sociedades se encuentran atrasadas y otras,  en un franco progreso.",
+          "E) se velaría la importancia de los procedimientos mnemotécnicos, como el quipu, en desarrollo de estos pueblos."
+        ],
+        "correct": 0,
+        "rationale": "La noción de “sociedad primitiva” es engañosa. En cambio, la de “sociedad sin escritura” facilita las previsiones acerca del futuro de los pueblos en cuestión, así como la posibilidad de influir en él."
+      },
+      {
+        "statement": "Según el autor, estos pueblos solo podían preservar su memoria histórica en una proporción reducida, mientras que el excedente , a medida que se iba acumulando, estaba condenado a perderse irremediable y definitivamente.",
+        "alternatives": [
+          "A) contaron con una numerosa población dedica da a las actividades agrícolas.",
+          "B) sin escritura, corrían el riesgo de perder valiosos saberes de sus antepasados.",
+          "C) se asentaron, fundamentalmente, en los valles  agrícolas de la región andina.",
+          "D) suplieron con éxito la falta de escritura con procedimientos mnemotécnicos.",
+          "E) de no haber mediad o la invasión española, habrían progresado continuamente."
+        ],
+        "correct": 1,
+        "rationale": "Según el autor, estos pueblos solo podían preservar su memoria histórica en una proporción reducida, mientras que el excedente , a medida que se iba acumulando, estaba condenado a perderse irremediable y definitivamente."
+      }
+    ]
+  },
+  {
+    "type": "reading_comprehension",
+    "statement": "Ya desde la antigüedad se manifiesta la antifilosofía , a la cual han sido sensibles los grandes pensadores clásicos. Platón ha dejado un testimonio insuperable de esta actitud en el discurso que pone en boca de Calicles, un opositor de Sócrates en el diálogo de Georgias . Para Calicles, la filosofía es una prenda  estimable en la juventud,  una ocupación que va bien con los jóvenes, es decir, a quienes no tienen una función en la vida; pero es inaceptable en el adulto. Quien continúa filosofando en la madurez o en la ancianidad se cubre de ridículo, pierde el sentido de las tareas serias y provechosas de la ciudad y, más aún, camina a su perdición. Es que la filosofía lo hace ignorante de sus intereses reales e inerme ante la fuerza y la astucia de los demás –piensa Calicles. Lejos pues, de ayudar al filósofo en la conducción de su vida y de permitirle socorrer y orientar rectamente a la sabiduría es convertido aquí en el desvalor de la ignorancia de la vida, una ignorancia, además, culpable, porque aleja al hombre de sus obligaciones ciudadanas y lo pone en contradicción con las costumbres y el orden de la sociedad. Ante la condena y la ejecución de Sócrates, Calicles habría podido decir que la filosofía inevitablemente lo perdió y que la ciudad tenía razón contra él. La muerte del filósofo ateniense, como otras muertes parecidas que la historia de la filosofía recuerda, sería la prueba de que la filosofía no es una sabiduría de la vida, sino justamente lo contrario, la destrucción de los valores reales de la vida.",
+    "questions": [
+      {
+        "statement": "En el texto, la palabra SENSIBLE es antónimo de",
+        "alternatives": [
+          "A) discrepante.",
+          "B) insensible.",
+          "C) indiferente.",
+          "D) incoherente.",
+          "E) escéptico."
+        ],
+        "correct": 0,
+        "rationale": "En el texto, sensible tiene el sentido de partidario de la antifilosofía; su antónimo, discrepante."
+      },
+      {
+        "statement": "En el texto, el término PRENDA alude a una reflexión",
+        "alternatives": [
+          "A) muy perspicaz.",
+          "B) llana y simple.",
+          "C) llena de ímpetu.",
+          "D) de la juventud.",
+          "E) intrascendente."
+        ],
+        "correct": 4,
+        "rationale": "Se refiere a una filosofía propia de quienes no tienen función en la vida que aleja al hombre de sus obligaciones ciudadanas."
+      },
+      {
+        "statement": "El autor desarrolla, principalmente, la idea de que",
+        "alternatives": [
+          "A) la práctica de la filosofía es muy fructífera solo cuando la realizan los jóvenes.",
+          "B) en Sócrates, la filosofía se convierte en un desvalor de la ignorancia de la vida.",
+          "C) pensadores de la antigüedad, como Platón, condenaron la práctica de la filosofía.",
+          "D) en el diálogo de Georgias, Platón condena la práctica de la filosofía a través de Calicles.",
+          "E) Platón justificó la muerte de Sócrates por haber practicado la filosofía en su vida adulta."
+        ],
+        "correct": 2,
+        "rationale": "El autor desarrolla la idea de que desde la antigüedad se manifiesta la antifilosofía,  y los grandes filósofos no fueron ajenos a ella. Así, Platón, en sus Diálogos , a través de su personaje Calicles condena la práctica de la filosofía  por ser un desvalor que conduce a la ignorancia de la vida."
+      },
+      {
+        "statement": "Si Platón hubiese puesto en boca de Calicles la idea de que la filosofía hace que el hombre asuma con más responsabilidad las tareas y los valores de la vida,",
+        "alternatives": [
+          "A) la práctica de la filosofía se habría extendido aun más entre los jóvenes.",
+          "B) sería la mejor prueba de que la vida de Sócrates era la más provechosa.",
+          "C) los ciudadanos atenienses habrían preferido tener gobernantes jóvenes.",
+          "D) Calicles habría condenado la pena de muerte impuesta contra Sócrates.",
+          "E) el diálogo de Georgias  habría sido el texto más leído por los atenienses."
+        ],
+        "correct": 3,
+        "rationale": "En el texto, Calicles considera perniciosa para la vida la práctica de la filosofía; por lo tanto, para él la ciudad de Atenas tenía razón de condenar a muerte a Sócrates. Y si, por el contrario, hubiera considerado a la filosofía como una labor beneficiosa, habría condenado dicha pena de muerte."
+      }
+    ]
+  },
+  {
+    "type": "reading_comprehension",
+    "statement": "El autor desarrolla la idea de que desde la antigüedad se manifiesta la antifilosofía, y los grandes filósofos no fueron ajenos a ella. Así, Platón, en sus Diálogos, a través de su personaje Calicles condena la práctica de la filosofía por ser un desvalor que conduce a la ignorancia de la vida.",
+    "questions": [
+      {
+        "statement": "Si Platón hubiese puesto en boca de Calicles la idea de que la filosofía hace que el hombre asuma con más responsabilidad las tareas y los valores de la vida,",
+        "alternatives": [
+          "A) la práctica de la filosofía se habría extendido aun más entre los jóvenes.",
+          "B) sería la mejor prueba de que la vida de Sócrates era la más provechosa.",
+          "C) los ciudadanos atenienses habrían preferido tener gobernantes jóvenes.",
+          "D) Calicles habría condenado la pena de muerte impuesta contra Sócrates.",
+          "E) el diálogo de Georgias  habría sido el texto más leído por los atenienses."
+        ],
+        "correct": 3,
+        "rationale": "En el texto, Calicles considera perniciosa para la vida la práctica de la filosofía; por lo tanto, para él la ciudad de Atenas tenía razón de condenar a muerte a Sócrates. Y si, por el contrario, hubiera considerado a la filosofía como una labor beneficiosa, habría condenado dicha pena de muerte."
+      },
+      {
+        "statement": "Si los ciudadanos atenienses hubieran discrepado de la idea de que la filosofía aleja a los hombres de sus obligaciones sociales, probablemente",
+        "alternatives": [
+          "A) la ciudad de Atenas habría alcanzado un mayor esplendor.",
+          "B) los adultos habrían desplazado de esta práctica a los jóvenes.",
+          "C) habrían promovido esta actividad, incluso, entre los adultos.",
+          "D) Sócrates habría sido reivindicado después de su muerte.",
+          "E) Platón, a través de Calicles, habría ensalzado a la filosofía."
+        ],
+        "correct": 2,
+        "rationale": "Si se hubiera discrepado de la filosofía como actividad que aleja de las actividades cotidianas, lejos de condenarla. se la habría preciado, incluso como práctica entre los adultos."
+      },
+      {
+        "statement": "Si el autor del texto hubiera sido partícipe de las ideas de Calicles con respecto a la filosofía, habría",
+        "alternatives": [
+          "A) inducido a los jóvenes a ser responsables con su sociedad.",
+          "B) promovido la práctica de esta sólo entre los jóvenes listos.",
+          "C) eximido de toda responsabilidad a todos los filósofos ancianos.",
+          "D) desdeñado la promoción de la astucia como un valor para la vida.",
+          "E) condenado su práctica por atentar contra los valores de la vida."
+        ],
+        "correct": 4,
+        "rationale": "Habría considerado la práctica de la filosofía como un desvalor, por lo que merecía ser erradicada, condenada. En este caso, el autor compartiría con Calicles la idea de que la práctica de la filosofía es negativa; en consecuencia la condenaría."
+      },
+      {
+        "statement": "Con respecto a la antifilosofía es incompatible afirmar que",
+        "alternatives": [
+          "A) desdeña a la filosofía y la considera frívola.",
+          "B) en Georgias , Platón aporta argumentos a su favor.",
+          "C) fundamentó la condena a muerte de Sócrates.",
+          "D) repercutió en la conducta acerba de Calícles.",
+          "E) Calicles fue quien mejor sistematizó esta actitud."
+        ],
+        "correct": 4,
+        "rationale": "Calicles, personaje creado por Platón, fue vocero de las ideas de este."
+      }
+    ]
+  },
+  {
+    "type": "reading_comprehension",
+    "statement": "En la exposición acerca de su conducta pública en el tiempo que ejerció la Presidencia de la República del Perú, publicada en Londres en 1824, Riva Agüero se defendió de las acusaciones lanzadas sobre él con motivo de sus tratos con el virrey. Según afirmó , si hubiera querido unirse a los españoles, no habría necesitado sino un fácil desplazamiento de tropas. Para explicar su actitud, menciona el peligro que corría el Perú por la desorganización existente, tanto más cuanto que la llegada de diputados españoles para celebrar la paz en Buenos Aires y México, hacía temer que se concentraran todos los esfuerzos de la metrópoli en la recuperación total de aquel país. Invoca el hecho de las negociaciones análogas que llevó a cabo más tarde Bolívar para ganar tiempo; y aduce que aun suponiendo el fracaso de las que él, Riva -Agüero, iniciara, el armisticio habría salvado al ejército que se encontraba entonces en el Sur, en la segunda campaña de Intermedios. Y en todo caso, en cuanto al texto de sus propuestas, no era otro que el de la fórmula presentada por San Martín en las conferencias de Punchauca. Bien probado está que no se trató de traición, o sea de fuga al campamento del enemigo, en el caso de Riva -Agüero la independencia del Perú estuvo siempre en su mente. Lo que le diferenció de Bolívar en un momento crítico fue la apreciación sobre la manera de alcanzarla, sobre los elementos que integrarían el Estado Independiente (peruanos y colombianos o peruanos y españoles) y sobre la forma de gobierno. Más tarde, la actitud de Torre Tagle frente a Bolívar y los sucesos de 1827, revelaron que su posición no quedó aislada. Pero, política y militarmente, en ese momento, ella era un error. Riva Agüero solo tenía tropas dispersas en un territorio anarquizado por las diferencias de opiniones, en tanto que el virrey mandaba un ejército aguerrido y victorioso. Aun suponiendo que los generales españoles hubieran aceptado el avenimiento, la Corte de Madrid los habría desautorizado. A causa de esta íntima certidumbre, su aceptación era muy improbable. San Martín no la había obtenido en un momento en que la situación de los separatistas era más halagüeña y en que todavía no se había jurado la independencia. De todos modos, Bolívar, las tropas colombianas, los peruanos que los rodeaban y los republicanos en general habrían continuado guerreando tenazmente. En aquel momento, el cambio de frente implicaba confusión y desorden. Riva -Agüero apelaba, es cierto, al plan de San Martín; pero en una encrucijada de su vida, urgido por una situación desesperada y no, como San Martín, con serenidad y desinterés y cuando ya el Congreso había adoptado solemnemente la forma republicana de gobierno y le había conferido a él la suprema magistratura del nuevo Estado con la denominación de Presidente. Para explicar, además, la posición de Riva -Agüero, precisa comprender su actitud ante Bolívar y ante la intervención colombiana en el Perú. Riva -Agüero se consideraba como el adalid de la libertad y de la independencia peruanas frente a la ocupación extranjera. Comparaba la situación entonces existente a la de la invasión de España por Napoleón en 1808, doliéndose de que, en este caso, el país invadido fuese superior al invasor. Le movían, junto con los sentimientos nacionalistas, atávicos vínculos a la metrópoli, olvidados en horas juveniles, pero nunca extintos. Sobre su capa de conspirador se había puesto la banda presidencial; pero sin quitarse la aristocrática casaca de marqués. Su espíritu de casta se conmovía ante una lucha que no resultaba fácil, sin o larga y cruenta; y tras de cuyo final se vislumbraba que predominaran, si no los extranjeros, en el mejor de los casos, naciones indeseables.",
+    "questions": [
+      {
+        "statement": "En el texto la palabra Invocar es sinónimo contextual de",
+        "alternatives": [
+          "A) inferir.",
+          "B) argumentar.",
+          "C) relievar.",
+          "D) concluir.",
+          "E) reflexionar"
+        ],
+        "correct": 1,
+        "rationale": "Riva Agüero presente las negociaciones de Bolívar como un argumento a favor del trato establecido por él con los españoles."
+      },
+      {
+        "statement": "En el texto, la palabra ATÁVICOS alude a",
+        "alternatives": [
+          "A) relaciones muy directas.",
+          "B) sentimientos aristocráticos.",
+          "C) pasado aristocrático.",
+          "D) dolor por la invasión.",
+          "E) permanente conspiración."
+        ],
+        "correct": 1,
+        "rationale": "Esta palabra se refiere a sentimientos aristocráticos, olvidados en horas juveniles, pero que  nunca se extinguieron."
+      },
+      {
+        "statement": "En el texto, el autor, fundamentalmente,",
+        "alternatives": [
+          "A) considera erróneos los planes de San Martín y Riva Agüero de llegar a acuerdos políticos con los españoles.",
+          "B) niega que Riva Agüero haya sido un traidor por haber establecido tratos político -militares con el virrey.",
+          "C) critica la defensa de Riva Agüero frente a las acusaciones lanzadas contra él con motivo de sus tratos con el virrey.",
+          "D) relieva la importancia de las circunstancias militares cuando se establece trato con los enemigos extranjeros.",
+          "E) denuncia que Riva Agüero generó caos y confusión en las fuerzas patriotas cuando estableció trato con el virrey."
+        ],
+        "correct": 2,
+        "rationale": "El autor no pone en duda que Riva Agüero haya sido partidario de la Independencia; sin embargo, critica su trato con el virrey calificándolo de política y militarmente erróneo, de aceptación improbable, de generar confusión y desorden, y que en última instancia respondía a su atávico vínculo con  la metrópoli."
+      }
+    ]
+  },
+  {
+    "type": "reading_comprehension",
+    "statement": "En la historia de la ciencia, todo ocurre como si el hombre hubiera concebido con mucha anticipación el programa de sus investigaciones y, una vez determinado este, tuviese que esperar siglos para estar en condiciones de ejecutarlo. Desde los comienzos de la reflexión científica, los filósofos griegos se plantearon los problemas físicos en términos de átomo. Sólo veinticinco siglos más tarde –y de una manera que sin duda ellos no habían previsto – estamos empezando, apenas, a rellenar los esquemas que trazaron. Otro tanto ocurre con la aplicación de las matemáticas a los problemas humanos ya que, en este caso también, las especulaciones de los primeros geómetras y aritméticos apuntaban más al hombre que al mundo físico. El pensamiento de Pitágoras, por ejemplo, estaba totalmente impregnado de la significación antropológica de los números y las figuras geométricas, y una preocupación idéntica estaba presente en el de Platón. Desde hace diez años las meditaciones de los filósofos antiguos han cobrado actualidad, y es probablemente en el ámbito de las ciencias humanas donde se ha producido la evolución más sensacional. Quizás esto sea así porque estas ciencias parecen, a primera vista, las más distantes de toda noción de rigor y medida, pero quizás se deba también al carácter esencialmente cualitativo de su objeto, que les ha impedido aferrarse y ponerse a remolque de las matemáticas tradicionales –como lo que han hecho las ciencias sociales durante tanto tiempo –, obligándolas a orientarse desde un principio hacia formas audaces e innovadoras del pensamiento matemático. […] Lo que se puede reprochar desde luego a los psicólogos experimentales de principios de este siglo XX, así como a los economistas y demógrafos tradicionales, no es que hubieran centrado demasiado su atención en las matemáticas, sino más bien que no lo hubieran hecho suficientemente, limitándose a tomar de ellas los métodos cuantitativos que tienen un carácter tradicional y considerablemente anticuado dentro de la propia disciplina matemática. También se les puede reprochar que no se hubieran percatado del nacimiento de las nuevas matemáticas que, hoy en día, se hallan en plena expansión. Matemáticas a las que bien podríamos llamar “cualitativas” –por paradójico que pueda parecer el calificativo – ya que han introducido la independencia entre la noción de rigor y la de medida. Gracias a estas nuevas matemáticas –que además fundamentan las especulaciones de los pensadores de la Antigüedad y las desarrollan – sabemos que el ámbito de la necesidad no se confunde forzosamente con el de la cantidad. Claude Lévi -Strauss, Las matemáticas del hombre",
+    "questions": [
+      {
+        "statement": "En el texto, el vocablo TRADICIONAL alude a una matemática que relieva",
+        "alternatives": [
+          "A) la innovación.",
+          "B) la cualidad.",
+          "C) el rigor.",
+          "D) la cantidad.",
+          "E) al objeto."
+        ],
+        "correct": 3,
+        "rationale": "Estas matemáticas se limitan a los métodos cuantitativos."
+      },
+      {
+        "statement": "El sentido denotativo de la palabra AFERRARSE",
+        "alternatives": [
+          "A) relacionarse.",
+          "B) organizarse.",
+          "C) agruparse.",
+          "D) ceñirse.",
+          "E) cerciorarse."
+        ],
+        "correct": 3,
+        "rationale": "Esta palabra que significa ceñirse, ajustarse o  sujetarse."
+      },
+      {
+        "statement": "El autor destaca, fundamentalmente, la idea de que",
+        "alternatives": [
+          "A) desde la antigüedad, la física y la matemática se orientan a los problemas sociales.",
+          "B) a diferencia de la matemática tradicional, la matemática “cualitativa” es más rigurosa.",
+          "C) gracias a la matemática “cualitativa”, las investigaciones sociales son más rigurosas.",
+          "D) hoy, se expande la matemática “cualitativa”, que se aplica a los problemas humanos.",
+          "E) la matemática “cualitativa” se diferencia de la tradicional por su ámbito de aplicación."
+        ],
+        "correct": 3,
+        "rationale": "El autor destaca la idea de que, desde hace una década, han cobrado actualidad y se expanden las meditaciones de los filósofos antiguos respecto de las matemáticas"
+      }
+    ]
+  },
+  {
+    "type": "sentence_elimination",
+    "statement": "1. En última instancia, el autor tiene la intención de",
+    "alternatives": [
+      "A) justificar la esclavitud sobre la base de una ley natural.",
+      "B) definir la palabra parte como pertenencia a otra cosa.",
+      "C) señalar la ley natural como fundamento de la propiedad.",
+      "D) explicar que el esclavo es un instrumento, un valor de uso.",
+      "E) establecer que la pertenencia define el valor de uso del hombre."
+    ],
+    "correct": 0,
+    "rationale": "En el último párrafo, el autor argumenta que la esclavitud se basa en una ley natural que hace que el esclavo, no obstante ser hombre, no se pertenece a sí, sino a otro, situación que lo convierte naturalmente en esclavo."
+  },
+  {
+    "type": "sentence_elimination",
+    "statement": "2. Del texto se infiere que sin la propiedad de los instrumentos de primera necesidad,",
+    "alternatives": [
+      "A) estos no cumplirían ninguna función social.",
+      "B) los esclavos  tendrían la condición de señores.",
+      "C) la ciencia doméstica sería conocimiento superfluo.",
+      "D) la vida correría peligro y la dicha sería inalcanzable.",
+      "E) los esclavos y sus dueños serían seres desdichados."
+    ],
+    "correct": 3,
+    "rationale": "En texto se dice que para vivir y ser dichoso se requiere de las cosas de primera necesidad"
+  },
+  {
+    "type": "sentence_elimination",
+    "statement": "3. De la referencia a las estatuas de Dédalo o los trípodes de Vulcano se colige que",
+    "alternatives": [
+      "A) los instrumentos sin vida podrían cumplir sus funciones sin la labor de los operarios.",
+      "B) los esclavistas desearían reemplazar a los esclavos con los instrumentos sin vida.",
+      "C) los hombres deberían de preocuparse por dar vida a todos los instrumentos sin vida.",
+      "D) es posible que los hombres puedan alcanzar la dicha sin el concurso de los esclavos.",
+      "E) los empresarios y los señores de los esclavos aún no han alcanzado una dicha"
+    ],
+    "correct": 1,
+    "rationale": "El autor dice que si los instrumentos sin vida cumplieran sus funciones por sí, como lo hacen las estatuas, prescindirían de los operarios y los esclavos. En consecuencia, los esclavistas desearían reemplazar a los esclavos con los instrumentos sin vida"
+  },
+  {
+    "type": "sentence_elimination",
+    "statement": "4. Es incompatible con el texto aseverar que los instrumentos propiamente dichos",
+    "alternatives": [
+      "A) con respecto a su función, se distinguen de la labor de los esclavos.",
+      "B) generan en su propietario el derecho de apropiarse de su producción.",
+      "C) son como la lanzadera, y no como el vestido, la cama o la vivienda.",
+      "D) son manipulados por esclavos en la producción de los objetos de uso.",
+      "E) son instrumentos con vida para satisfacer directamente una necesidad."
+    ],
+    "correct": 4,
+    "rationale": "Soluc ión: Son los objetos de uso los que sirven para satisfacer directamente una necesidad: un vestido, una cama, y no los instrumentos propiamente dichos."
+  },
+  {
+    "type": "sentence_elimination",
+    "statement": "5. Si la propiedad no implicara pertenencia,",
+    "alternatives": [
+      "A) la propiedad del esclavo por el esclavista se consolidaría aun más.",
+      "B) la apelación a la ley natural para explicar la esclavitud se justificaría.",
+      "C) el argumento principal para justificar la esclavitud carecería de asidero.",
+      "D) aun así, se mantendría la distinción entre el esclavo y el señor esclavista.",
+      "E) el esclavo, como propiedad, pasaría ser un instrumento de uso colectivo."
+    ],
+    "correct": 2,
+    "rationale": "El argumento principal para justificar la esclavitud es entender la propiedad como pertenencia. El esclavo pertenece a otro distinto a él, si la propiedad se entendiera sólo como parte de un todo, dicho argumento carecería de asidero."
+  },
+  {
+    "type": "sentence_elimination",
+    "statement": "6. Si el esclavo fuera un instrumento sin vida,",
+    "alternatives": [
+      "A) dejaría de ser propiedad y recuperaría su libertad.",
+      "B) su pertenencia al señor esclavista sería prescindible.",
+      "C) el esclavista lo reemplazaría por las estatuas de Dédalo.",
+      "D) recuperaría plenamente su condición de ser humano.",
+      "E) sería reducido a la condición de simple objeto de uso."
+    ],
+    "correct": 1,
+    "rationale": "Al carecer de esta propiedad no podría cumplir su función productiva; entonces su propiedad sería prescindible."
+  },
+  {
+    "type": "sentence_elimination",
+    "statement": "1. I. Se sabe que el calcio desempeña una función importante para nuestros huesos y dientes, y tiene efectos en los procesos de aprendizaje y memoria. II. Investigadores del Instituto de investigación Scripps  acaban de hallar nuevos indicios que demuestran cómo el calcio influye en las mitocondrias (la fuente de energía de las células) y puede contribuir al desarrollo del cerebro y de la cognición. III. El equipo descubrió en moscas de la fruta  (Drosophila mel anogaster ) que el bloqueo de un canal por el que llega el calcio a la mitocondria, llamado uniportador mitocondrial de calcio, causa un deterioro de la memoria. IV. «Al eliminar la actividad del uniportador, observamos que las moscas presentaban déficits de memoria», indica Ron Davis, autor del estudio. V. «Pero nos sorprendió que todavía eran capaces de aprender, aunque fuera solo con un recuerdo fugaz », agrega.",
+    "alternatives": [
+      "A) III",
+      "B) V",
+      "C) I",
+      "D) II",
+      "E) V"
+    ],
+    "correct": 2,
+    "rationale": "El tema es los resultados de la investigación del Instituto de Investigación Scripps."
+  },
+  {
+    "type": "sentence_elimination",
+    "statement": "2. I) La bacteria  Yersinia pestis  ha estado infectando la peste a los seres humanos durante más de cinco mil años. II) Esta bacteria fue responsable de la peste que provocó millones de muertes en los siglos VI y XIV. III) La primera gran epidemia de peste apareció durante el siglo VI, cuando el Imperio Bizantino se encontraba bajo el mandato del emperador Justiniano I.  IV) Esta epidemia se extendió por todo el Mediterráneo, causó alrededor de 50 millones de muertes y recibió el nombre de plaga de Justiniano. V) La segunda comenzó con la infame Peste Negra que, durante el siglo XIV, provocó la muerte de hasta el 50 % de la población europea.",
+    "alternatives": [
+      "A) V",
+      "B) II",
+      "C) I",
+      "D) IV",
+      "E) III"
+    ],
+    "correct": 1,
+    "rationale": "Repite las oraciones IV y V ."
+  },
+  {
+    "type": "sentence_elimination",
+    "statement": "Repite las oraciones IV y V.",
+    "alternatives": [
+      "A) V",
+      "B) II",
+      "C) I",
+      "D) IV",
+      "E) III"
+    ],
+    "correct": 1,
+    "rationale": null
+  },
+  {
+    "type": "sentence_elimination",
+    "statement": "Repite las oraciones III, IV y V.",
+    "alternatives": [
+      "A) III",
+      "B) I",
+      "C) V",
+      "D) II",
+      "E) IV"
+    ],
+    "correct": 1,
+    "rationale": null
+  },
+  {
+    "type": "sentence_elimination",
+    "statement": "Tema: Definición y objeto de estudio de la sociología del arte. Se elimina V por inatingencia.",
+    "alternatives": [
+      "A) III",
+      "B) I",
+      "C) IV",
+      "D) V",
+      "E) II"
+    ],
+    "correct": 3,
+    "rationale": null
+  },
+  {
+    "type": "verbal_series",
+    "statement": "Embuste, infundio; procacidad, insolencia; veracidad, sinceridad;",
+    "alternatives": [
+      "A) alabanza, templanza.",
+      "B) ventura, estrago.",
+      "C) pigricia, poltronería.",
+      "D) embeleso, afabilidad.",
+      "E) apología, diatriba."
+    ],
+    "correct": 2,
+    "rationale": null
+  },
+  {
+    "type": "verbal_series",
+    "statement": "Sesgado, imparcial; inmarcesible, perecedero; cicatero, tacaño;",
+    "alternatives": [
+      "A) traidor, pérfido.",
+      "B) letal, ponzoñoso.",
+      "C) reparador, constructor.",
+      "D) farsante, embaucador.",
+      "E) deleznable, sólido."
+    ],
+    "correct": 4,
+    "rationale": null
+  },
+  {
+    "type": "verbal_series",
+    "statement": "Estólido , necio ; perspicaz , obtuso ; cándido , ingenuo;",
+    "alternatives": [
+      "A) avezado , perito.",
+      "B) acaramelado , meloso.",
+      "C) sapiente, ignaro.",
+      "D) conspicuo, prominente.",
+      "E) insipiente, incipiente."
+    ],
+    "correct": 2,
+    "rationale": null
+  },
+  {
+    "type": "verbal_series",
+    "statement": "Sedicioso, sumiso; estragado, asolado; felón, leal;",
+    "alternatives": [
+      "A) probo, honrado.",
+      "B) locuaz, afable.",
+      "C) roñoso, silente.",
+      "D) risueño, risible.",
+      "E) sosegado, atosigado."
+    ],
+    "correct": 0,
+    "rationale": null
+  },
+  {
+    "type": "verbal_series",
+    "statement": "Estólido , necio ; perspicaz , obtuso ; cándido , ingenuo;",
+    "alternatives": [
+      "A) avezado , perito.",
+      "B) acaramelado , meloso.",
+      "C) sapiente, ignaro.",
+      "D) conspicuo, prominente.",
+      "E) insipiente, incipiente."
+    ],
+    "correct": 2,
+    "rationale": "Serie verbal mixta: Sinónimos, antónimos, sinónimos, antónimos."
+  },
+  {
+    "type": "verbal_series",
+    "statement": "Sedicioso, sumiso; estragado, asolado; felón, leal;",
+    "alternatives": [
+      "A) probo, honrado.",
+      "B) locuaz, afable.",
+      "C) roñoso, silente.",
+      "D) risueño, risible.",
+      "E) sosegado, atosigado."
+    ],
+    "correct": 0,
+    "rationale": "Serie de sinónimos."
+  },
+  {
+    "type": "synonyms_and_antonyms",
+    "statement": "Intimidar, acobardar, amedrentar",
+    "alternatives": [
+      "A) pergeñar",
+      "B) embotar",
+      "C) compungir",
+      "D) acoquinar",
+      "E) recular"
+    ],
+    "correct": 3,
+    "rationale": "Sinonimia, acoquinar es amilanar, acobardar, hacer perder el ánimo."
+  },
+  {
+    "type": "verbal_series",
+    "statement": "Caduco, anticuado, obsoleto,",
+    "alternatives": [
+      "A) corroído.",
+      "B) decaído.",
+      "C) abatido.",
+      "D) redimido.",
+      "E) perimido."
+    ],
+    "correct": 4,
+    "rationale": "Sinonimia, perimido es anticuado, obsoleto."
+  }
+]

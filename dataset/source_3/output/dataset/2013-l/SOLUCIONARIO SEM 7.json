@@ -1,0 +1,389 @@
+[
+  {
+    "type": "verbal_series",
+    "statement": "Baladí, anodino, inane,",
+    "alternatives": [
+      "A) insustancial.",
+      "B) apócrifo.",
+      "C) inatingente.",
+      "D) inverosímil.",
+      "E) esencial."
+    ],
+    "correct": 1,
+    "rationale": null
+  },
+  {
+    "type": "verbal_series",
+    "statement": "Disoluto, disipado, crápula,",
+    "alternatives": [
+      "A) asceta.",
+      "B) ateo.",
+      "C) libertino.",
+      "D) ladino.",
+      "E) dicaz."
+    ],
+    "correct": 2,
+    "rationale": null
+  },
+  {
+    "type": "verbal_series",
+    "statement": "Señale el término que no pertenece a la serie verbal.",
+    "alternatives": [
+      "A) Prudente",
+      "B) Moderado",
+      "C) Cauteloso",
+      "D) Veleidoso",
+      "E) Mesurado"
+    ],
+    "correct": 3,
+    "rationale": "Campo semántico de la persona prudente, es decir, moderada y cautelosa."
+  },
+  {
+    "type": "verbal_series",
+    "statement": "Señale el término que no pertenece a la serie verbal.",
+    "alternatives": [
+      "A) Benigno",
+      "B) Misericordioso",
+      "C) Piadoso",
+      "D) Bondadoso",
+      "E) Laico"
+    ],
+    "correct": 4,
+    "rationale": "Campo semántico de la persona que se inclina a la piedad."
+  },
+  {
+    "type": "verbal_series",
+    "statement": "Tenaz, testarudo; dogmático, heterodoxo; ufano, infatuado;",
+    "alternatives": [
+      "A) lascivo, si calíptico.",
+      "B) cuerdo, imprudente.",
+      "C) locuaz, gárrulo.",
+      "D) orate, insano.",
+      "E) procaz, grosero."
+    ],
+    "correct": 1,
+    "rationale": "Serie verbal mixta, se completa con una pareja de antónimos."
+  },
+  {
+    "type": "reading_comprehension",
+    "statement": "Luego del profundo cambio de época acontecido a finales del siglo XX, la economía y la sociedad planetaria siguen buscando un equilibrio esquivo. Convergen hechos notables como la caída del socialismo real, el capitalismo en China, el notable aumento de la producción y el comercio y el deslizamiento de las manufacturas hacia países emergentes. Especialmente destacable es el alineamiento de las estrategias nacionales hacia sistemas más democráticos, más liberales y de mayor conformidad con el mercado. Por más que siempre parece poco, es destacable el progreso registrado. Hobsbawm señala que hace 80 años existían solamente 12 democracias en el mundo. Cuando coinciden cambios semejantes, las piezas demoran en ajustarse. La inestabilidad se prolonga como los temblores que siguen al terremoto. El primer mundo arrastra una prolongada recesión. El desempleo y la debilidad de sus inversiones se asocian al éxito manufacturero de China. No obstante, Occidente mantiene el liderazgo en la innovación y el conocimiento, lo cual alienta su recuperación aunque por el camino quedarán algunos blasones. África es el nuevo blanco de las ambiciones puestas en los recursos naturales y se sumará al rol de América en la oferta de alimentos, energía y minerales. En nuestra comarca, a Chile, Colombia y Perú -que presentan un proyecto abierto al mundo desde el liberalismo - les seguirá yendo mejor que a Venezuela, Argentina o Brasil que defienden un ideal que mira al pasado. El Mercosur nos encarceló y la ideología nos paraliza. Renunciamos a un mundo abierto que es el único que premia a los países pequeños. Contra toda evidencia, confiamos en la decepcionante tutela brasileña. Nuestro país también inicia una inflexión en su historia. Las tendencias mundiales nos favorecieron pero no obtuvimos el fruto posible. Durante 10 años la economía creció como nunca y más que casi todos. Sin embargo, no avanzamos en el logro de los éxitos más valiosos que caracterizan a los países de primera. Somos más prósperos pero más subdesarrollados. Una sociedad más conflictiva, incapaz de mejorar la gestión de los asuntos públicos que hacen a la convivencia. Algo de eso registra el \"Informe de desarrollo humano\" de la ONU. Somos el país del continente que menos ha progresado en el índice que combina un conjunto de indicadores económicos y sociales. Coincide una explosión del gasto público con los peores resultados. Un derroche colosal. En el empeño por elevar el gasto, se ha venido afectando en forma creciente la producción de bienes transables los cuales son la medida de nuestra competitividad en el mundo. Desde 2008, el PIB de la industria y el agro sumados no crecen (solo 0,4% anual). Solamente crecen los servicios que no compiten en el mundo. En los años que vienen todo será más difícil. Bajarán los precios de exportación y se debilitará la inversión extranjera. La inercia del gasto y los salarios será difícil de frenar mientras la inflación no cede. El atraso cambiario alcanzará niveles desconocidos. En este contexto, el gobierno opta por aumentar impuestos. Más grave aún, crea los impuestos que se descartaron cuando se trató la reforma tributaria: impuestos a la tierra y al patrimonio. Los tributos que desalientan la inversión y el crecimiento de los sectores más competitivos y con mayor potencial de crecer en condiciones adversas. Es la consigna de una revolución achacosa que sigue pensando que la riqueza no se crea, sino que solamente hay que repartida.",
+    "questions": [
+      {
+        "statement": "Se colige que la intención del autor es",
+        "alternatives": [
+          "A) comparar la situación de su país con la situación de Venezuela, Argentina y Brasil.",
+          "B) criticar al sistema económico de su país que no es liberal y que tiene resultados negativos.",
+          "C) evaluar lo desastroso que fue para su país seguir bajo los lineamientos de Brasil.",
+          "D) establecer el mejor modelo económico que deben seguir los países de Latinoamérica.",
+          "E) explicar cómo es posible que su país crezca y a pesar de ello sea subdesarrollado."
+        ],
+        "correct": 1,
+        "rationale": "El autor analiza la situación de su país que se resume en crecimiento y subdesarrollo y critica el modelo seguido que no es un modelo liberal abierto al mundo, que no busca crear riqueza sino solo repartirla."
+      },
+      {
+        "statement": "En el texto el término ENCARCELAR tiene el sentido de",
+        "alternatives": [
+          "A) recluir.",
+          "B) impedir.",
+          "C) parametr.",
+          "D) encerrar.",
+          "E) presionar."
+        ],
+        "correct": 2,
+        "rationale": "‘El Mercosur nos encarceló y la ideología nos paraliza’ se entiende que el país en cuestión estaba limitado a seguir las reglas del Mercosur por eso encarcelar tiene el sentido de parametrar, limitar."
+      },
+      {
+        "statement": "Marque la alternativa que es incompatible con el texto.",
+        "alternatives": [
+          "A) Chile, Colombia y Perú presentan un proyecto económico abierto al mundo.",
+          "B) El crecimiento económico implica necesariamente el desarrollo humano.",
+          "C) La economía abierta al mundo favorece a los países que son pequeños .",
+          "D) El desempleo en Occidente se asocia al éxito manufacturero de China.",
+          "E) En Latinoamérica hay países que sostienen que la riqueza se reparte."
+        ],
+        "correct": 1,
+        "rationale": "El autor dice que la economía de su país creció durante 10 años y ahora son más prósperos pero más subdesarrollados."
+      },
+      {
+        "statement": "Se colige que el factor principal para que un país prospere es",
+        "alternatives": [
+          "A) el estancamiento económico.",
+          "B) un gobierno retrógrado.",
+          "C) el aumento del gasto público.",
+          "D) la competitividad comercial.",
+          "E) la redistribución de la riqueza."
+        ],
+        "correct": 3,
+        "rationale": "Los bienes transables son la medida de la competitividad en el mundo, esta competitividad es la fundamental en un proyecto abierto al mundo que asegura un futuro abierto al mundo que asegura un futuro mejor a ciertos países y a otros no."
+      },
+      {
+        "statement": "El autor plantea una paradoja entre el _________y _______________.",
+        "alternatives": [
+          "A) pago de tributos - el crecimiento económico",
+          "B) crecimiento económico -la creación de la riqueza",
+          "C) gobierno dictatorial -la distribución de la riqueza",
+          "D) gobierno democrático -un proyecto abierto al mundo",
+          "E) crecimiento económico constante - el subdesarrollo"
+        ],
+        "correct": 4,
+        "rationale": "El autor dice que ‘en 10 años la economía creció como nunca, somos más prósperos pero más subdesarrollados’."
+      },
+      {
+        "statement": "La causa del subdesarrollo, a pesar de tener crecimiento económico, es haber",
+        "alternatives": [
+          "A) mermado los bienes que compiten en el mundo.",
+          "B) implementado una política tributaria incorrecta.",
+          "C) adoptado un proyecto económico abierto al mundo.",
+          "D) seguido la ruta trazada por Chile, Colombia y Perú.",
+          "E) negado totalmente los lineamientos del Mercosur."
+        ],
+        "correct": 0,
+        "rationale": "Se habla de un país con crecimiento económico pero subdesarrollado a causa de un gasto público enorme muy mal enfocado que afectó en forma creciente la producción de bienes transables que son la medida de nuestra competitividad en el mundo dentro de una economía liberal abierta."
+      },
+      {
+        "statement": "Si el Brasil hubiese asumido un proyecto liberal de economía de mercado,, posiblemente",
+        "alternatives": [
+          "A) el Mercosur hubiera tenido resultados decepcionantes.",
+          "B) Venezuela y Argentina hubieran empeorado su situación.",
+          "C) el país del autor tendría un mayor desarrollo humano.",
+          "D) el gasto público del país del autor sería mucho mayor.",
+          "E) la inflación en Brasil y Argentina sería mucho mayor."
+        ],
+        "correct": 2,
+        "rationale": "El autor dice que contra toda evidencia confiamos en la decepcionante tutela brasileña, de un país que mira al pasado y no asume un proyecto abierto al mundo, de allí que el autor hable de un país con crecimiento económico y más subdesarrollado."
+      },
+      {
+        "statement": "Si un país de la región quiere incentivar el crecimiento de la inversión en épocas de crisis, debería",
+        "alternatives": [
+          "A) tratar de integrarse al Mercosur.",
+          "B) incrementar más la deuda pública.",
+          "C) disminuir los tributos al patrimonio.",
+          "D) distribuir la riqueza dentro de él.",
+          "E) concentrarse en ofertar alimentos."
+        ],
+        "correct": 2,
+        "rationale": "Los impuestos a la tierra y al patrimonio son tributos que desalientan la inversión y el crecimiento de sectores claves en condiciones adversas, un país que desee incentivarlo debería disminuir estos tributos."
+      }
+    ]
+  },
+  {
+    "type": "reading_comprehension",
+    "statement": "Hasta que apareció Un mundo para Julius, Al fredo Bryce Echenique era un autor\nconocido solo por círculos bastante reducidos. La obra de Bryce se inició con una familia\nde cuentos en la que un personaje - Manolo- encarna un conjunto de experiencias más o\nmenos comunes a jóvenes de la pequeña burguesía limeña a partir de la adolescencia, y\nejemplifica un aprendizaje de la vida frustrante y enajenante. En esos cuentos, están los\ngérmenes de Un mundo para Julius :apuntan ya un enfoque personal de la realidad y las\ndirecciones generales del proyecto literario de un autor que tiende a una representación\nde la vida a través de anécdotas simples, casi triviales, a una representación centrada en\nessa cotidianidad de universos pequeños pero abiertos a la totalidad del contexto en que se dan. Bien dotado para recrear aspectos de la realidad, Bryce tiene trazado así un amplio\ncuadro de Lima.\nEl narrador de Un mundo para Julius no se identifica plenamente con nada; es más,\ninterpone un calculado espacio entre su mirada y lo que observa, ejercita un\ndistanciamiento que le confiere la perspectiva que necesita para vera cada uno de los\npersonajes desde los ojos de los demás sin dejar de verlos con los propios. Ese narrador, al carecer de una posición cabalmente asumida, complementa la ambigüedad que también posee Julius, si bien este la debe no solo a su carácter, sino también a su\ncondición infantil: como niño pequeño, Julius no está todavía \"en su sitio\" y esto le permite un activo comercio con la servidumbre, incursionar ingenuamente por mundos que están debajo del suyo, ignorar los linderos que habrá de marcarle en el futuro su\nclase social.\nUn mundo para Julius reproduce, con rara imparcialidad, la vida privilegiada de los\nseñores y la precaria de los siervos; compendia la injusticia social en un hogar de familia, simplificante espejo de un sistema económico en cuyo centro se coloca, como una acusación, la perpleja inocencia de Julius, el niño sensible y solitario que va descubriendo una realidad cruel que no comprende pero que aprende con tristeza y pesar. Así, Julius no es solo el protagonista del libro, sino también su instrumento de exploración.\nEn torno de él, la novela crece y abarca un vasto panorama que aspira a representar\ne l de la sociedad donde su acción se desarrolla. Cuadros de costumbres, rápidos y certeros; incisivos esb ozos de la vida en los distintos estratos de Lima -desde las zonas\nresidenciales lujosas hasta las miserables barriadas, pasando por los sectores intermedios emergentes o en deterioro- configuran una sucesión de contrastes\nsemejantes a la que se da en el desfile de los personajes, no por fugaces o simplificados menos nítidos, que pueblan el libro y subrayan la fastuosa frivolidad albergada en el palacio de Julius, en los palacios. Los dos de Julius, además, sirven para representar cambios en nuestra sociedad, una evolución que no solo se marca en la diversa y aun\nopuesta semiología de la arquitectura y la decoración que distingue al palacio paterno del construido por Juan Lucas, sino también en las actitudes del personal de servicio doméstico que va reemplazando al antiguo a partir del despido de Vilma, esa manzana\narrojada del paraíso.",
+    "questions": [
+      {
+        "statement": "1. Fundamentalmente el texto es una ________de la obra de Alfredo Bryce Un mundo para Julius .",
+        "alternatives": [
+          "A) crítica de la visión de la realidad",
+          "B) apología a la estructura narrativa",
+          "C) síntesis del contenido temático",
+          "D) interpretación de índole literaria",
+          "E) crítica de la falta de objetividad"
+        ],
+        "correct": 3,
+        "rationale": "El texto es fundamentalmente un análisis literario de Un mundo para Julius ."
+      },
+      {
+        "statement": "2. En el texto el término COMERCIO tiene el senti do de",
+        "alternatives": [
+          "A) compañía.",
+          "B) acuerdo.",
+          "C) posición",
+          "D) interacción.",
+          "E) complicidad."
+        ],
+        "correct": 3,
+        "rationale": "‘Y esto le permite un activo comercio con la servidumbre, incursionar ingenuamente por mundos que están debajo del suyo’ se refiere al trato o interacción que tiene Julius con su servidumbre."
+      },
+      {
+        "statement": "3. En el texto el término INCISIVO tiene el sentido de",
+        "alternatives": [
+          "A) agudo.",
+          "B) acre.",
+          "C) mordaz.",
+          "D) crítico.",
+          "E) dicaz."
+        ],
+        "correct": 0,
+        "rationale": "Incisivos esbozos de la vida en los distintos estratos de Lima, es decir penetrante, perspic az o agudas representaciones."
+      },
+      {
+        "statement": "1. Marque la alternativa que es incompatible con Un mundo para Julius .",
+        "alternatives": [
+          "A) La novela presenta la frivolidad de la casa de Julius.",
+          "B) Soslaya tajantemente los elementos costumbristas.",
+          "C) Presenta el contraste entre las clases sociales.",
+          "D) Julius se lleva bien con la servidumbre de su casa.",
+          "E) Presenta la percepción de Julius sobre la sociedad."
+        ],
+        "correct": 1,
+        "rationale": "Un mundo para Julius presenta cuadros de costumbres, rápidos y certeros."
+      },
+      {
+        "statement": "2. Se colige que el personaje Julius cumple fundamentalmente la función de",
+        "alternatives": [
+          "A) presentar las costumbres de la sociedad limeña.",
+          "B) presentar la injusticia social de su entorno.",
+          "C) denunciar la visión del mundo que tiene un niño.",
+          "D) mostrar exclusivamente la vida de la alta sociedad.",
+          "E) comparar los negocios de los ricos y los pobres."
+        ],
+        "correct": 1,
+        "rationale": "‘El niño sensible y solitario que va descubriendo una realidad cruel que no comprende pero que aprende con tristeza y pesar’, Julius presenta la realidad cruel o injusta que va conociendo, la presencia de Julius se presenta como una acusación de esa injusticia."
+      },
+      {
+        "statement": "3. Se colige que la intención de Bryce en Un mundo para Julius fue",
+        "alternatives": [
+          "A) elaborar una crítica de la desigualdad social.",
+          "B) escribir un éxito en ventas a nivel mundial.",
+          "C) redactar una novela de carácter costumbrista.",
+          "D) relatar la vida de un niño limeño muy rico.",
+          "E) presentar los cambios en la sociedad limeña."
+        ],
+        "correct": 0,
+        "rationale": "La novela presenta el contraste entre ricos y pobres que aprecia Julius, es un simplificante espejo de un sistema económico en cuyo centro se coloca, como una acusación, la perpleja inocencia de Julius."
+      },
+      {
+        "statement": "4. Se desprende que, en Un mundo para Julius, Bryce",
+        "alternatives": [
+          "A) se aparta de la realidad para imaginar una sociedad ideal.",
+          "B) presenta el enfoque de la realidad de los pobres de la novela.",
+          "C) quiere recrear el entorno social en el cual él mismo vivió.",
+          "D) representa varios episodios de su vida durante su infancia.",
+          "E) trata de presentar una descripción neutral de la realidad."
+        ],
+        "correct": 4,
+        "rationale": "El autor dice que el narrador de Un mundo para Julius no se identifica plenamente con nada; es más, interpone un calculado espacio entre su mirada y lo que observa, ejercita un distanciamiento que le confiere la perspectiva que necesita para vera cada uno de los personajes desde los ojos de los demás sin dejar de verlos con los propios. Si bien hay un enfoque personal de la realidad la descripción procura ser ‘imparcial’ o neutral."
+      },
+      {
+        "statement": "5. Si Julius fuese un personaje que sale de la adolescencia y entra en la juventud, entonces",
+        "alternatives": [
+          "A) Bryce se identificaría con el personaje Julius.",
+          "B) la novela no se desarrollaría en las dos casas de Julius.",
+          "C) Julius soslayaría la realidad social de su entorno.",
+          "D) habría sido sancionada su relación con la servidumbre.",
+          "E) la novela no tendría como protagonista a Julius."
+        ],
+        "correct": 3,
+        "rationale": "Julius se relaciona con la servidumbre porque es un niño que no está todavía “en su sitio” y esto le permite un activo comercio con la servidumbre, incursionar ingenuamente por mundos que están debajo del suyo, ignorar los linderos que habrá de marcarle en el futuro su clase social."
+      }
+    ]
+  },
+  {
+    "type": "sentence_elimination",
+    "statement": "5. Se colige que el nuevo plan de estudios del Bachillerato tiene como valor rector",
+    "alternatives": [
+      "A) la ciencia.",
+      "B) la filosofía.",
+      "C) el conocimiento.",
+      "D) la eficacia.",
+      "E) la belleza."
+    ],
+    "correct": 3,
+    "rationale": "La solución indica D. El texto señala que el plan valorará la eficacia."
+  },
+  {
+    "type": "sentence_elimination",
+    "statement": "6. Se colige que para los gobernantes debe sustituirse __________por__________.",
+    "alternatives": [
+      "A) la reflexión – la eficacia",
+      "B) el poder – el conocimiento",
+      "C) el arte – la tecnología",
+      "D) las humanidades – la reflexión",
+      "E) las tecnologías – la publicidad"
+    ],
+    "correct": 0,
+    "rationale": "A la filosofía se le asigna la función de reflexionar sobre los fines; ello es reemplazado por la eficacia."
+  },
+  {
+    "type": "sentence_elimination",
+    "statement": "7. A lo largo del texto, el autor le atribuye a la filosofía un carácter",
+    "alternatives": [
+      "A) dogmático.",
+      "B) metafísico.",
+      "C) científico.",
+      "D) anacrónico.",
+      "E) reflexivo."
+    ],
+    "correct": 4,
+    "rationale": "El autor dice que se pretende reforzar las asignaturas instrumentales pero a costa de guillotinar las que sirven para reflexionar sobre los fines que pretendemos alcanzar con tales herramientas, en ese sentido le da a la filosofía una función reflexiva."
+  },
+  {
+    "type": "sentence_elimination",
+    "statement": "8. Es comp atible con lo sostenido por el autor afirmar que la filosofía",
+    "alternatives": [
+      "A) es incompatible con las asignaturas instrumentales.",
+      "B) es algo fundamental para las demás humanidades.",
+      "C) es innecesaria para el Bachillerato del siglo XXI.",
+      "D) según el nuevo plan del Bachillerato nos humaniza.",
+      "E) es ajena al laicismo propio de las democracias."
+    ],
+    "correct": 1,
+    "rationale": "Según el autor la ausencia o minimización de la filosofía permitirá luego ir prescindiendo del resto de las humanidades, porque sin ella el arte o la historia quedarían como estrategias político-publicitarias que pronto serán sustituidas por mecanismos menos engorrosos. En ese sentido la filosofía es fundamental para no desnaturalizar las humanidades."
+  },
+  {
+    "type": "reading_comprehension",
+    "statement": "La desigualdad impulsa la libertad; por tanto, la igualdad absoluta generaría lo contrario.\n\n¿Qué pasa si quienes salen del poder creen en la democracia, mientras que quienes los reemplazan no? El solo pensar esto nos lleva a la clara conclusión de que la democracia no se trata meramente de elecciones. De hecho, los primeros partidarios de la democracia tenían eso en mente. Por ejemplo, John Stuart Mill consideraba la \"nacionalidad\", una sociedad cohesiva dentro de fronteras nacionales, como una precondición para la democracia. Otra precondición para Mill era la capacidad y el deseo de los ciudadanos de elegir de manera informada y ponderada. Hoy ya no damos por hecho la existencia de tales virtudes. Probablemente eran ejercidas por una minoría, incluso en la época en que Mill escribió acerca del gobierno representativo. Hoy la democracia tiene que significar \"democracia más algo\", pero ¿qué es ese algo? Hay algunas medidas técnicas que se pueden tomar, como prohibir a los partidos y candidatos que hacen campaña contra la democracia, o cuyos antecedentes democráticos sean insuficientes. Sin embargo, es fácil ver los problemas: ¿quién juzga la idoneidad de los candidatos y cómo se hacen cumplir tales juicios? En cierto sentido, sería mejor dejar que tales movimientos lleguen al gobierno y esperar que fracasen. Por tanto, los ciudadanos activos que defienden el orden liberal deben ser su salvaguarda. Pero hay otro y más importante elemento que proteger: el imperio de la ley. Imperio de la ley no es lo mismo que democracia, ni son elementos que necesariamente se garanticen mutuamente. El imperio de la ley es la aceptación de que las leyes dictadas no por alguna autoridad suprema, sino por la ciudadanía, rigen para todos: quienes están en el poder, los que están en la oposición y quienes están fuera del juego del poder. Es algo que se debe defender; las así llamadas \"leyes de excepción\" que suspenden el imperio de la ley son la primera arma de los dictadores. Pero es más difícil usar el imperio de la ley para socavar la ley que usar las elecciones populares contra la democracia. \"Elecciones más algo\" significa, por lo tanto, democracia más imperio de la ley.\n\n1. Medularmente, el autor sostiene que la democracia\n\nA) debe complementarse con el respeto irrestricto de las leyes.*\nB) se fundamente principalmente en elecciones periódicas.\nC) requiere de precondiciones como una sociedad cohesiva.\nD) es socavada cuando los dictadores dictan leyes de excepción.\nE) debe ser concebida como algo más que una Constitución.\n\nSolución : El autor considera que la democracia no es solo elecciones, es algo más; esto\nes, elecciones más imperio de la ley.\n\n2. La expresión ELECCIÓN PONDERA DA implica\n\nA) evaluación cuidadosa.*\nB) valoración del tiempo.\nC) elogio a los partidos.\nD) aprobación total.\nE) decisión inmediata.\n\nSolución\n\n: La elección ponderada como precondición para la democracia implica que sea realizada con plena conciencia de la importancia y con conocimiento de los políticos participantes.\n\n3. Resulta incompatible afirmar que la democracia\n\nA) implica elecciones periódicas sin coacción.\nB) es inviable si se preserva el estado de derecho.*\nC) corre peligro con un estado de ex cepción.\nD) requiere de ciudadanos activos para subsistir.\nE) puede ser socavada por gobernantes elegidos.\n\nSolución\n\n: Según el autor se requiere del imperio de la ley o estado de derecho para\npreservar la democracia.\n\n4. Se infiere que la existencia de un electorado totalmente prudente\n\nA) es condición sine qua non para la democracia.\nB) es suficiente para decir que gobiernan capitalistas.\nC) se constituye en una utopía en la actualidad.*\nD) se lograría solo si hay un gobierno populista.\nE) contraviene todos los anhelos de J. S. Mill.\n\nSolución : Hoy ya no damos por hecho la existencia de virtudes como la capacidad y el\ndeseo de los ciudadanos de elegir de manera informada y ponderada.\n\n5. Si el autor tuviera que sugerir algo para que una genuina democracia sea duradera, recomendaría que\n\nA) se castigue duramente la corrupción en el Estado.*\nB) se organicen elecciones presidenciales cada año.\nC) solo exista un partido político con poder omnímodo.\nD) los antidemócratas no tengan derecho a defensa.\nE) los presidentes puedan transgredir la Constitución.\n\nSolución : La corrupción quebrante el imperio de la ley que propugna el autor a lo largo del texto.\n\nAlguien trajo, cierto día, a mi laboratorio unos conejos procedentes del mercado. Los\ncolocó sobre una mesa, donde se orinaron, y observé por casualidad que la orina era clara y ácida. El hecho me sorprendió, puesto que los conejos tienen una orina turbia y alcalina, como todos los herbívoros, mientras que los carnívoros, por el contrario, tienen la orina clara y ácida. El observar la acidez de la orina en los conejos me hizo suponer que aquellos animales se encontraban en una condición alimenticia de carnívoros. Supuse que probablemente no habrían comido desde muchos días atrás y que, debido al ayuno, se ha brían transformado en verdaderos animales carnívoros que vivirían de su propia sangre. Nada más fácil que verificar por la experiencia esta idea preconcebida. Di a comer hierba a los conejos y unas horas después su orina se había vuelto turbia y alcalina. Puse inmediatamente a ayunar a aquellos conejos y, después de veinticuatro horas, su orina se había vuelto otra vez clara y muy ácida. Repetí esta experiencia tan simple gran número de veces con los mismos conejos y siempre obtuve el mismo resultado. La repetí luego con un caballo, animal también herbívoro. Así llegué al final de estas experiencias a esta proposición general, desconocida hasta entonces, a saber, que en ayunas todos los animales se nutren de carne, de modo que los herbívoros poseen, en este caso, orina semejante a la de los carnívoros.\nSe trata aquí de un hecho particular muy simple, que permite seguir fácilmente la evolución del razonamiento experimental. Cuando uno ve un fenómeno que no tiene costumbre de ver, hay que preguntarse siempre a qué se debe o bien, dicho de otra manera, cuál es su causa; entonces se hace presente al pensamiento una respuesta o una idea que es preciso someter a experiencia. Al observar la orina ácida en los conejos, me pregunté cuál podía ser la causa. La idea experimental consistía en la relación que mi mente había establecido entre la acidez de la orina en el conejo y el estado de ayunas que yo consideré como una verdadera alimentación carnívora. El razonamiento que implícitamente hice fue el siguiente: La orina de los carnívoros es ácida; ahora bien, los conejos que tengo ante mis ojos tienen orina ácida; por tanto son carnívoros en ayunas, es decir, mientras están en situación de ayunas. Esto último era lo que debía establecerse por la experiencia. Pero, con el fin de probar que mis conejos en ayunas eran verdaderamente carnívoros, tuve que realizar una contraprueba. Por esto hice alimentar conejos con carne de buey hervida fría. Mi previsión se verificó una vez más, y mientras duró este tipo de alimentación animal los conejos tuvieron una orina clara y ácida.",
+    "questions": [
+      {
+        "statement": "La intención fundamental del autor es presentar",
+        "alternatives": [
+          "A) un caso insólito de conejos carnívoros.",
+          "B) las dificultades para distinguir a los herbívoros.",
+          "C) el desarrollo del razonamiento experimental.",
+          "D) cómo se comenten errores en la ciencia.",
+          "E) la realización de contrapruebas experimentales."
+        ],
+        "correct": 2,
+        "rationale": "El autor emplea el caso de la experimentación con los animales para mostrar el desarrollo del razonamiento experimental."
+      },
+      {
+        "statement": "En el texto, la expresión ID EA PRECONCEBIDA se puede reemplazar por",
+        "alternatives": [
+          "A) método.",
+          "B) reglamento.",
+          "C) hipótesis.",
+          "D) ley.",
+          "E) prueba."
+        ],
+        "correct": 2,
+        "rationale": "La idea preconcebida aparece como respuesta a la situación problemática y debe someterse a experiencia."
+      },
+      {
+        "statement": "Resulta incompatible afirmar que el método científico",
+        "alternatives": [
+          "A) se relaciona con la predicción de sucesos.",
+          "B) implica construir enunciados hipotéticos.",
+          "C) únicamente exige el empleo de los sentidos.",
+          "D) requiere de ingenio para la contraprueba.",
+          "E) se emplea para hallar la causa de los fenómenos ."
+        ],
+        "correct": 2,
+        "rationale": "El autor habla de razonamiento y de ideas, estos, es, concebidas conceptualmente o racionalmente."
+      },
+      {
+        "statement": "Se colige que la experimentación científica",
+        "alternatives": [
+          "A) es inaplicable para casos inesperados.",
+          "B) no puede contradecir las teorías vigentes.",
+          "C) requiere de un continuo y diligente control.",
+          "D) hace inútil la realización de una contraprueba.",
+          "E) parte de causas que se observan directamente."
+        ],
+        "correct": 2,
+        "rationale": "Así lo atestiguan los ejemplos y la contraprueba."
+      },
+      {
+        "statement": "Si alguien quisiera repetir la metodología esbozada por el autor, debería seguir la secuencia",
+        "alternatives": [
+          "A) problema; hipótesis; experimento; contraprueba. ",
+          "B) asombro; razonamiento; resultado; proposición.",
+          "C) hecho; observación; experimento; prueba.",
+          "D) razonamiento; hipótesis; ley; teorema.",
+          "E) predisposición; problema; prueba; contraprueba."
+        ],
+        "correct": 0,
+        "rationale": "La secuencia presentada por el autor parte del problema y termina en una contraprueba."
+      }
+    ]
+  }
+]

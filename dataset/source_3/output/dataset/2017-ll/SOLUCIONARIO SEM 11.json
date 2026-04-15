@@ -1,0 +1,706 @@
+[
+  {
+    "type": "reading_comprehension",
+    "statement": "SEMANA 11 A\n\nEXTRAPOLACIÓN\n\nLa extrapolación consiste en contrastar el contenido de un texto determinado con\ninformación metatextual. El propósito es evaluar, de un lado, la plausibilidad de este\ncontenido, es decir, su admisibilidad o validez y, de otro, su fecund idad, su capacidad\npara generar más conocimiento. En los test de comprensión lectora, la extrapolación es\nuna forma de determinar el más alto nivel de comprensión. Si el contenido de un texto\nadquiere valor con este traslado conceptual (extrapolar es, justamente, colocar algo fuera,\nen otro polo), demuestra su eficiencia, su productividad, su fertilidad: se torna un elemento\nfundamental del conocimiento adaptativo. Asimismo, la extrapolación puede determinar la\npoca o nula fecundidad de las ideas desplegadas en un texto. La extrapolación puede\nrealizarse de dos formas básicas: cognitiva y referencial.\n\nEXTRAPOLACIÓN COGNITIVA\n\nLa extrapolación cognitiva es un modo de razonamiento que consiste en hacer un\nviraje en las ideas propugnadas en el texto con el p ropósito de determinar las\nconsecuencias que acarrearía en la consideración de un aspecto o problema.\nUna forma típica de esta extrapolación efectúa una oscilación en el pensamiento y\nse lo conduce a una posición diametralmente opuesta. Por ejemplo: si un psicólogo\nabandonara la posición del conductismo radical, reconocería la importancia de las\nintenciones en la explicación del comportamiento humano.\n\nLa experimentación con animales ha jugado un rol vital en la casi totalidad de los\ndescubrimientos médicos de la última década. Prácticamente todos los premiados con el\nNobel de Medicina desde 1901 —por ejemplo Pavlov, Golgi, Ramón y Cajal, Fleming y\nmás— han confiado en los datos obtenidos de modelos animales.\nY es que compartimos el 95% de nuestros genes con los ratones, lo que los hace un\nmodelo efectivo para aplicar en humanos. De manera que los animales y los humanos\nson muy similares; tenemos los mismos sistemas orgánicos que realizan las mismas\nfunciones más o menos de la misma forma. Así mismo, los animales se aquejan de\nenfermedades similares al de los humanos, por ejemplo, cáncer, tuberculosis, gripes y\nasma.\nSi bien los métodos alternativos a los animales juegan un papel importante, no\npueden remplazar por completo el uso de la ex perimentación animal. Muchos\nmedicamentos de uso veterinario son utilizados también en humanos, a saber:\nantibióticos, analgésicos y tranquilizantes. Es así como los anestésicos modernos, las\nvacunas del tétano, la penicilina y la insulina han dependido de la experimentación con\nanimales para su desarrollo.",
+    "questions": [
+      {
+        "statement": "Si la experimentación con animales hubiese estado totalmente prohibidas durante todo el siglo XX,",
+        "alternatives": [
+          "A) no se hubiesen salvado vidas con aplicaciones médicas.",
+          "B) ningún avance médico se hubiese podido lograr entonces.",
+          "C) posiblemente los avances médicos hubiesen sido mínimos.",
+          "D) la veterinaria hubiera sido permitida sin ninguna restricción.",
+          "E) las muertes durante el siglo XX hubiesen sido espantosas."
+        ],
+        "correct": 2,
+        "rationale": "En el texto se afirma que la experimentación con animales fueron vitales para los avances médicos. Si no se hubiera experimentado con animales, es posible que no se hubiese avanzado en medicina."
+      },
+      {
+        "statement": "Si Pavlov hubiese concebido a los animales como sujetos de derecho, entonces,",
+        "alternatives": [
+          "A) posiblemente no hubiese sido reconocido como un investigador importante.",
+          "B) hubiese optado por otros medios para modelar sus investigaciones médicas.",
+          "C) este se hubiera dedicado solo a las investigaciones en medicina veterinaria.",
+          "D) inexorablemente el Premio Nobel de Medicina no le hubiera sido otorgado.",
+          "E) igualmente habría estado de acuerdo con las experimentaciones con animales."
+        ],
+        "correct": 1,
+        "rationale": "En el texto se afirma que casi todos los ganadores del premio Nobel de Medicina han experimentado con animales ,por ejemplo Iván Pavlov, quien ganó el premio en 1904 por estudiar la fisiología de la digestión."
+      },
+      {
+        "statement": "entonces,",
+        "alternatives": [
+          "A) el funcionamiento de los órganos de estos seres vivos no se podría modelar.",
+          "B) estos organismos vivos no estarían compuestos por genes a nivel celular.",
+          "C) estos no serían atacados por enfermedades que les ocasionen la muerte.",
+          "D) sería infructuoso experimentar con ellos medicinas de futuro uso humano.",
+          "E) ninguna investigación médica se hubiese interesado en estos organismos."
+        ],
+        "correct": 3,
+        "rationale": "El organismo de los animales se parece mucho al organismo humano, es más, le\natacan enfermedades que también atacan a los hombres, por eso, es provechosa la\ninvestigación de medicinas que en el futuro se utilizarán con humanos."
+      },
+      {
+        "statement": "Hay gente demasiado audaz, que propone abolir la esclavitud. Dicen que siendo\nlibres, las personas que ahora viven bajo esclavitud serían más felices y productivas y que\nes, en todo caso, su derecho el asociarse o no asociarse libremente con quien ellas\ndecidan.\nHay muchas personas que viven bajo esclavitud que si esta se aboliera, no sabrían\nqué hacer con su vida. ¿A qué se dedicarían? ¿Quién les ofrecería trabajo? ¿Cuánto\nhabría que pagarles? ¿Qué seguridad absoluta tendríamos de que todos conseguirían\ntrabajo? ¿Cómo asegurarnos de que ninguno de ellos moriría de hambre? Es gracias a\nque hay esclavitud que hoy tienen trabajo y alimento. Porque la esclavitud es un requisito\npara poder realizar cualquier actividad productiva.\nLa esclavitud se instituyó desde hace siglos y no conocemos otra forma de vivir. Por\neso, un esclavo debe tener un solo dueño, debe concedérsele al amo el monopolio de la\ncoacción y la violencia sobre la vida de su esclavo. Quien agreda al esclavo de otro amo\nes un delincuente y como tal debe perseguírsele y castigársele. Si los esclavos no\ntuvieran un solo amo, no tendrían esta garantía. Sin esclavitud, cualquiera que encuentre\na uno de estos desgraciado s en la calle sería capaz de matarle. No tendrían la seguridad\nde la que ahora gozan.",
+        "alternatives": [
+          "A) el autor consideraría que la gente se caracteriza por la prudencia.",
+          "B) todas las personas es tarían en las antípodas del autor del texto.",
+          "C) los esclavos serían personas que se caracterizan por ser felices.",
+          "D) los amos protegerían con mayor eficacia a todos sus esclavos.",
+          "E) los esclavos tendrían trabajo asegurado en condiciones dignas."
+        ],
+        "correct": 0,
+        "rationale": "El autor considera que aquellos que propugnan la abolición de la esclavitud son\naudaces, es decir, imprudentes o irreflexivos por los riesgos que entraña o por no\napreciar la realidad."
+      }
+    ]
+  },
+  {
+    "type": "reading_comprehension",
+    "statement": "El creacionismo afirma que el universo no surgió de la nada sino que se originó por un acto creador. Tal afirmación es lógica y razonable porque se fundamenta en el principio científico de la causalidad; todo efecto obedece a una causa. El estudio de la naturaleza mediante el método científico nos proporciona un torrente inagotable de evidencias que señalan a la intervención de un diseñador.\nDesde el surgimiento de la ciencia moderna, miles de científicos han expresado su convicción en el creacionismo, pues conciben que el universo es la obra de un autor. Por ejemplo, algunos de estos científicos del siglo XVI fueron Francis Bacon (1561 -1626), quien fue el precursor del método científico; también, Galileo Galilei (1564 -1642), quien fue un famoso experto en física y astronomía; y otro gran representante es Johan Kepler (1571 -1630), reputado especialista en astronomía.",
+    "questions": [
+      {
+        "statement": "Si Francis Bacon hubiese estado convencido de que el universo ha llegado a existir solo por medio de explosiones, descargas eléctricas, mutaciones aleatorias o selección natural, entonces,",
+        "alternatives": [
+          "A) no sería precursor del método científico.",
+          "B) él sería un representante del naturalismo.",
+          "C) Bacon sería creyente de que existe Dios.",
+          "D) coincidiría en esta idea con Galileo Galilei.",
+          "E) sabría que después de morir iría al Infierno."
+        ],
+        "correct": 1,
+        "rationale": "Si Bacon hubiera concebido que el universo existe por medio de causas naturales, entonces, sería un representante del naturalismo."
+      },
+      {
+        "statement": "Si Galileo hubiese propugnado la idea de que el hombre es producto del azar, mas no de la intervención de Dios,",
+        "alternatives": [
+          "A) hubiese desdeñado la actividad científica.",
+          "B) aun así sería un convencido de la creación.",
+          "C) coincidiría con teóricos como Francis Bacon.",
+          "D) estaría en las antípodas de Bacon y Kepler.",
+          "E) sería un exponente del idealismo absoluto."
+        ],
+        "correct": 3,
+        "rationale": "Si Galileo no hubiese creído en que el universo es obra de Dios, entonces, hubiera sido opositor de Bacon y Kepler."
+      }
+    ]
+  },
+  {
+    "type": "reading_comprehension",
+    "statement": "En las mejores bibliotecas de universidades y centro de estudios del Perú y del mundo, podemos encontrar infinidad de libros de historia que narran con lujo y detalles sobre la llegada de los españoles a tierras del Tahuantinsuyo, pero no tan ciertas como imaginamos. Sabemos que , al inicio ,la historia lo escribieron los ganadores, y la engendran estéticamente como si todo lo sucedido hubiese sido color de rosa. Para el 26 de julio de 1529, cuando la esposa de Carlos V, Isabel de Portugal, le entregó a Francisco Pizarro las capitulaciones para la «conquista» del Tahuantinsuyo, territorio que recibió el nombre español de «Nueva Castilla », el Imperio inca sobrepasaba en dimensión a todo el vasto Imperio español. Su poder militar se extendía por toda Sudamérica, ya que los incas poseían una poderosa flota de barcos construidos de madera «balsa» y juncos de totora del lago Titicaca. Era una civilización de veinte millones de personas con un poderoso ejército de dos millones de aguer ridos súbditos a la orden del rey inca. Tal era la magnificencia de esa civilización andina, que sus ciclópeas ciudades, murallas, pirámides, templos y fortines, aún hoy retan la imaginación de ingenieros y arquitectos. Ese poderoso imperio americano, que era la envidia de Europa y el mundo, no sucumbió por la espada española, sino por una moderna arma de «destrucción masiva» que ha sido utilizada por los imperios por más de trece mil años: la guerra bacteriológica. Todo el imperio supo de la llegada de los barcos españoles y el ejército inca esperó pacientemente la intención de los extranjeros. Pizarro se mantuvo en su barco. En su insaciable codicia y maldad, el conquistador español preparaba el arma bacteriológica: la viruela, enfermedad infectocontagiosa de carácter epidémico; tuberculosis, enfermedad que ataca a hombres y animales provocando lesión pulmonar e intestinal; peste negra, enfermedad infecciosa provocada por la pulga que infecta a las ratas. Fueron terribles enfermedades que, solo en el 1350 , diezmaron una tercera parte de la población europea. Un emisario español llevó una cajita que entregó personalmente al emperador inca Huaina Cápac. En su interior había una hermosa mariposa de bronce que le obsequiaba el extranjero, cuyos barcos habían fondeado en la costa del Pacífico. El rey inca creyó luego, sus esposas, sus hijos menores y sus colaboradores, en una epidemia de muerte que, en pocos días, se extendió a doscientas mil almas que enfermaban misteriosamente. En Cuzco, por orden de su hijo Atahualpa, el cadáver de Huaina Cápac fue momificado y su cabeza cubierta con una máscara de oro para ser conducido en procesión por los pueblos incas; lo irónico fue que más y más eran las personas que se infectaban de las misteriosas enfermedades llegadas de Europa, cada vez que besaban los pies del cadáver en su último adiós, hechos que favorecieron la caída del último imperio americano. Pizarro entró victorioso a la capital del Imperio inca seis años después, con apenas 70 jinetes y 110 infantes. Para ese entonces, prácticamente casi toda la población peruana había perecido por la guerra bacteriológica.",
+    "questions": [
+      {
+        "statement": "Si la historia también la hubiesen podido escribir quienes se vieron perjudicados por la llegada de los españoles, es posible que a día de hoy",
+        "alternatives": [
+          "A) la heroica resistencia de los incas hubiese sido narrada con precisión.",
+          "B) posiblemente el Imperio de los incas podría haberse mantenido en pie.",
+          "C) los españoles no hubiesen tenido la oportunidad de mentir al respecto.",
+          "D) tanto perdedores como ganadores demostrarían la misma perspectiva.",
+          "E) se cuente con una versión alternativa y nada edulcorada de ese suceso."
+        ],
+        "correct": 4,
+        "rationale": "En el primer párrafo se afirma que la historia la escriben los ganadores y que la llegada de los españoles se codificó como un acontecimiento color de rosa. Por ello, si los debelados hubieran podido escribir la historia desde su perspectiva, entonces, habría una historia diferente que narre sucesos grotescos tal y como acontecieron."
+      },
+      {
+        "statement": "Si los incas hubiesen tenido una flota moderada de barcos de madera y totora, entonces,",
+        "alternatives": [
+          "A) Pizarro hubiese optado por otras estrategias para vencer.",
+          "B) igualmente hubieran podido dominar un vasto territorio.",
+          "C) posiblemente su dominio territorial hubiese sido menor.",
+          "D) inexorablemente hubieran podido derrotar a los europeos.",
+          "E) ellos no hubieran podido comerciar de ninguna manera."
+        ],
+        "correct": 2,
+        "rationale": "En el segundo párrafo se afirma que el poder militar de los incas se extendía por toda Sudamérica, ya que los incas poseían una poderosa flota de barcos construidos de madera «balsa» y juncos de totora del lago Titicaca."
+      },
+      {
+        "statement": "Si el ejército inca hubiese tenido en sus filas a un contingente de un millón de súbditos, probablemente,",
+        "alternatives": [
+          "A) Pizarro hubiese apelado a la guerra bacteriológica igualmente.",
+          "B) Francisco Pizarro hubiese tenido que negociar con el rey inca.",
+          "C) el vasto territorio del Imperio incaico hubiese sido inexpugnable.",
+          "D) los españoles hubiesen tenido que volver a Europa derrotados."
+        ],
+        "correct": 0,
+        "rationale": "Se deduce de la lectura que los guerreros españoles no pasaban de mil."
+      }
+    ]
+  },
+  {
+    "type": "reading_comprehension",
+    "statement": "¿Cuál es la relación de nuestras mentes con el resto del universo? Este, estoy seguro que se reconocerá, es el problema tradicional mente -cuerpo o mente -cerebro. En su versión contemporánea toma usualmente la form a: ¿cómo se relaciona la mente con el cerebro? Creo que el problema mente -cuerpo tiene una solución más bien simple, una solución que es coherente tanto con lo que sabemos de neurofisiología, como con nuestra concepción de sentido común acerca de la naturaleza de los estados mentales :dolores, creencias, deseos y así sucesivamente. Pero antes de presentar esa solución, quiero preguntar por qué el problema mente -cuerpo parece tan intratable. ¿Por qué tenemos todavía en filosofía y en psicología, después de todos esos siglos, un «problema mente -cuerpo» en un sentido en que no tenemos, por así decirlo, un «problema digestión - sobre un problema del siglo XX en un vocabulario anticuado del siglo XVII. Cuando yo era estudiante de los primeros cursos de carrera, recuerdo que estaba insatisfecho con las elecciones de las que aparentemente se disponía en filosofía de la mente: se podía ser o monista o dualista. Si se era monista se podía ser o materialista o idealista; si se era materialista se podía ser o conductista o fisicalista. Y así sucesivamente. Una de mis aspiraciones en lo que sigue es intentar superar esas viejas y tediosas categorías. Obsérvese que nadie tiene la sensación de que tenga que elegir entre monismo y dualismo cuando lo que está en juego es el problema «digestión -estómago». ¿Por qué ha de suceder algo diferente con el problema «mente -cuerpo»? Pero, vocabulario aparte, hay aún un problema o familia de problemas. Desde Descartes, el problema mente -cuerpo ha tomado la forma siguiente: ¿Cómo podemos dar cuenta de las relaciones entre dos géneros de cosas, en apariencia totalmente diferentes? Por un lado hay cosas materiales, tales como nuestros pensamientos y sensaciones: pensamos de ellos que son subjetivos, conscientes e inmateriales. Por otro lado, hay cosas físicas; pensamos de ellas que tienen una masa, que se extienden en el espacio y que interactúan causalmente con otras cosas físicas. La mayor parte de las soluciones intentadas al problema mente -cuerpo concluyen negando la existencia de, o degradando de algún modo el estatus de, uno u otro de esos tipos de cosa. Dado el éxito de las ciencias físicas no es sorprendente que en nuestro estadio de desarrollo intelectual la tentación sea degradar el estatus de las entidades mentales. Así, la mayor parte de las concepciones materialistas de la mente, actualmente en boga —tales como el conductismo, el funcionalismo y el fisicalismo — terminan negando implícita o explícitamente que haya cosas tales como las mentes del modo en que las pensamos ordinariamente. Esto es, niegan que, en realidad, tengamos intrínsecamente estados subjetivos, conscientes mentales, y que sean tan reales y tan irreductibles como cualquier cosa del universo.",
+    "questions": [
+      {
+        "statement": "El texto trata fundamentalmente sobre",
+        "alternatives": [
+          "A) una presentación del problema mente -cuerpo.",
+          "B) el enfoque del problema mente cuerpo en el tiempo.",
+          "C) porque el problema mente -cuerpo persiste hasta hoy.",
+          "D) la solución que da el autor al problema mente cuerpo.",
+          "E) las soluciones dadas al problema mente -cuerpo."
+        ],
+        "correct": 2,
+        "rationale": "El autor presenta el problema mente cuerpo y luego quiere explicar porque este problema ha persistido en el tiempo hasta la actualidad."
+      },
+      {
+        "statement": "En el texto el término ESTADIO puede reemplazarse por",
+        "alternatives": [
+          "A) ámbito.",
+          "B) grado.",
+          "C) tipo.",
+          "D) acervo.",
+          "E) vigencia."
+        ],
+        "correct": 3,
+        "rationale": "El autor considera que una parte de la dificultad es el uso de un lenguaje filosófico anticuado, pero no sostiene que ese sea el púnico motivo, luego hace mención a la distinción entre inmaterial y físico de Descartes."
+      },
+      {
+        "statement": "Se puede deducir que el conductismo entre otros, al negar que haya un a mente de la manera como la pensamos ordinariamente, representa una forma de",
+        "alternatives": [
+          "A) cartesianismo.",
+          "B) idealismo.",
+          "C) monismo.",
+          "D) eclecticismo.",
+          "E) dualismo."
+        ],
+        "correct": 2,
+        "rationale": "Para el autor el conductismo es una forma de materialismo y el materialismo como se presenta en el segundo párrafo es una forma de monismo. Además es un monismo porque niega el elemento inmaterial, la mente, y se queda con el elemento físico."
+      }
+    ]
+  },
+  {
+    "type": "reading_comprehension",
+    "statement": "El autor considera que una parte de la dificultad es el uso de un lenguaje filosófico anticuado, pero no sostiene que ese sea el púnico motivo, luego hace mención a la distinción entre inmaterial y físico de Descartes.",
+    "questions": [
+      {
+        "statement": "Se puede deducir que el conductismo entre otros, al negar que haya un a mente de la manera como la pensamos ordinariamente, representa una forma de",
+        "alternatives": [
+          "A) cartesianismo.",
+          "B) idealismo.",
+          "C) monismo.",
+          "D) eclecticismo.",
+          "E) dualismo."
+        ],
+        "correct": 2,
+        "rationale": "Para el autor el conductismo es una forma de materialismo y el materialismo como se presenta en el segundo párrafo es una forma de monismo. Además es un monismo porque niega el elemento inmaterial, la mente, y se queda con el elemento físico."
+      },
+      {
+        "statement": "Si Descartes no hubiese establecido el problema de cómo dar cuenta de las relaciones entre dos géneros de cosas, entonces, el problema mente -cuerpo",
+        "alternatives": [
+          "A) se tornaría insoluble para los filósofos de la mente.",
+          "B) nunca se habría planteado dentro de la filosofía.",
+          "C) se solucionaría con un reduccionismo idealista.",
+          "D) debería enfocarse desde una óptica dualista.",
+          "E) se podría solucionar con un lenguaje apropiado."
+        ],
+        "correct": 4,
+        "rationale": "Para el autor parte de la dificultad de que el problema mente -cuerpo persista se debe al uso de un lenguaje filosófico anticuado, a ello se suma los problemas planteados desde Descartes. Si la familia de problemas planteada por Descartes no se diese la persistencia del problema mente -cuerpo se debería al uso de un lenguaje anticuado."
+      },
+      {
+        "statement": "El diálogo se torna muy difícil entre los dirigentes sociales y las autoridades estatales debido a la postura intransigente de una de las partes.",
+        "alternatives": [
+          "A) intolerante, xenófobo, intemperante",
+          "B) avasallador, cortante, inexorable",
+          "C) inflexible, consistente, firme",
+          "D) recalcitrante, incorregible, duro",
+          "E) deleznable, empedernido, indómito"
+        ],
+        "correct": 2,
+        "rationale": "En el enunciado, INTRANSIGENTE significa «actitud de no aceptar, las ideas olas opiniones distintas de las propias»."
+      },
+      {
+        "statement": "Elija el antónimo c ontextual de INTRANSIGENTE.",
+        "alternatives": [
+          "A) tendencioso",
+          "B) desinteresado",
+          "C) piadoso",
+          "D) necesario",
+          "E) contemporizador"
+        ],
+        "correct": 4,
+        "rationale": "El término CONTEMPORIZADOR refiere a alguien que se adecúa al gusto o al dictamen ajeno por respeto u otro fin."
+      },
+      {
+        "statement": "Elija la alternativa que contenga merónimos de BICICLETA.",
+        "alternatives": [
+          "A) Transmisión, sillín, fuselaje",
+          "B) Freno, manubrio, volante",
+          "C) Redoblante, rueda, badajo",
+          "D) Timón, estabilizador, freno",
+          "E) Biela, cuadro, cadena"
+        ],
+        "correct": 4,
+        "rationale": "La biela es la barra o palanca que une el peda l con el plato. El cuadro es el chasis. La cadena es la serie de eslabones metálicos que transmiten el impulso del pedaleo a las ruedas."
+      },
+      {
+        "statement": "Elija el holónimo de CENTRIOLO, MITOCONDRIA, NÚCLEO.",
+        "alternatives": [
+          "A) León, tigre, otorongo",
+          "B) Puma, leopardo, kiwi",
+          "C) Gato, guepardo, lince",
+          "D) Hurón, jaguar, chinchay",
+          "E) Serval, marmota, ocelote"
+        ],
+        "correct": 1,
+        "rationale": "Las partes de una CÉLULA son los centriolos, orgánulos que ayudan a mantener la forma de las células; mitocondria, que permite la oxidación de metabolitos (ciclo de Krebs) y la obtención de adenosín trifosfato (ATP); núcleo, que permite la integridad de los genes."
+      }
+    ]
+  },
+  {
+    "type": "analogies",
+    "statement": "3. Elija el holónimo de CENTRIOLO, MITOCONDRIA, NÚCLEO.",
+    "alternatives": [
+      "A) corazón",
+      "B) célula",
+      "C) cerebro",
+      "D) hueso",
+      "E) órgano"
+    ],
+    "correct": 1,
+    "rationale": "Las partes de una CÉLULA son los centriolos, orgánulos que ayudan a mantener la forma de las células; mitocondria, que permite la oxidación de metabolitos (ciclo de Krebs) y la obtención de adenosín trifosfato (ATP); núcleo, que permite la integridad de los genes."
+  },
+  {
+    "type": "analogies",
+    "statement": "5. Elija la alternativa que contenga el hiperónimo de DROMEDARIO, ALPACA, GUANACO.",
+    "alternatives": [
+      "A) camélido",
+      "B) rumiante",
+      "C) batracio",
+      "D) auquénido",
+      "E) cánido"
+    ],
+    "correct": 0,
+    "rationale": "La familia CAMELIDAE está formada por tres géneros: CAMELUS (bactriano, dromedario), VICUGNA (vicuña, alpaca), LAMA (gua naco, llama)."
+  },
+  {
+    "type": "synonyms_and_antonyms",
+    "statement": "6. Autócrata, déspota, absolutista,",
+    "alternatives": [
+      "A) vetusto.",
+      "B) rapaz.",
+      "C) liberal.",
+      "D) tirano.",
+      "E) avaro."
+    ],
+    "correct": 3,
+    "rationale": "El campo semántico es de quien gobierna sin sujeción a las leyes, que trata con dureza a sus subordinados y abusa de su poder, o sea, un TIRANO."
+  },
+  {
+    "type": "synonyms_and_antonyms",
+    "statement": "7. Insufrible, intolerable; gravoso, oneroso; presuntuoso, petulante;",
+    "alternatives": [
+      "A) flébil, lacrimoso.",
+      "B) exultante, triste.",
+      "C) mohíno, alegre.",
+      "D) pletórico, vacío.",
+      "E) ubicuo, limitado."
+    ],
+    "correct": 0,
+    "rationale": "Pares de sinónimos."
+  },
+  {
+    "type": "verbal_series",
+    "statement": "8. Cortapisa, óbice; perspicacia, necedad; incuria, negligencia;",
+    "alternatives": [
+      "A) idiosincrasia, peculiaridad.",
+      "B) disposición, apariencia.",
+      "C) prevención, organización.",
+      "D) procacidad, insolencia.",
+      "E) distensión, desasosiego."
+    ],
+    "correct": 4,
+    "rationale": "Serie verbal mixta: sinónimos, antónimos, sinónimos, antónimos."
+  },
+  {
+    "type": "reading_comprehension",
+    "statement": "En una primera votación, el Tribunal Constitucional (TC) decidió por mayoría (cinco votos contra dos) acoger en parte la demanda de parlamentarios de cuatro bancadas de dejar sin efecto la restricción reglamentaria que impide a renunciantes o expulsados de una bancada integrarse a otra o formar una nueva. Si bien esta decisión aún debe oficializarse y para ello el TC tiene un plazo mínimo, no obstante, congresistas de Fuerza Popular y del APRA ya expresaron su pleno rechazo ante este parcial fallo. «Lo que ha hecho el TC es actuar de manera golpista y antidemocrática. Buscan dividir y debilitar a los partidos políticos», sostuvo la congresista de Fuerza Popular Karina Beteta en declaraciones a El Comercio. Su compañera de bancada, la congresista Rosa Bartra, aunque prefirió no comentar el fallo hasta que este sea oficial, adelantó que, de confirmarse el mismo, se estaría dando lugar a una intromisión al parlamento, en tanto se estaría intentando regular un poder del Estado que tiene su propia regulación. De opinión parecida es el tercer vicepresidente del Congreso, Mauricio Mulder, quien afirmó que el fallo del TC es inaplicable porque dicha institución no es un órgano superior al Congreso; en tal sentido, sentenció que solo «acataremos lo que podamos acatar, porque de ninguna manera puede permitirse que un órgano extraño al Congreso organice la vida interna del Parlamento». Por otro lado, representantes de otros bloques parlamentarios emplearon calificativos duros para cuestionar la eventual negativa de sus homónimos de acatar la resolución del Tribunal Constitucional (TC). Miembros de Peruanos por el Kambio y del bloque Nuevo Perú —conformado por 10 renunciantes del Frente Amplio — consideran que negarse a acatar dicha resolución es demostrar actitudes golpistas y antidemocráticas. «No acatar el fallo sería dar un golpe de Estado a la democracia y al Congreso. Las interpretaciones de mis colegas están fuera de todo contexto constitucional y son muy peligrosas para el sistema democrático», sentenció el congresista oficialista Salvador Heresi. Los más beneficiados con un retroceso en la modificación reglamentaria serían los congresistas no agrupados, sobre todo la facción del Frente Amplio denominada ahora Nuevo Perú, que por cierto, ya se prepara ante un escenario desfavorable: que el Congreso se niegue a aceptar el fallo del TC. «Recurriremos a hacer una acusación constitucional en contra de quienes lo descarten. Hacer eso es ignorar el contenido de la Constitución. El TC está por encima de cualquier norma pública, entre ellas el reglamento del Congreso», adelantó su portavoz, Alberto Quintanilla. Por su parte, siendo disidente con su bancada, el congresista Kenji Fujimori aseveró que es indispensable respetar las sentencias del TC. «Es la forma de fortalecer la institucionalidad y el Estado de derecho», escribió en su Twitter. FUENTE: Texto editado de la nota de prensa de Diego Chirinos, «Fuerza Popular y el APRA cuestionan decisión del Tribunal Constitucional», publicado el 31 de agosto de 2017. http://elcomercio.pe/politica/fuerza -popular -apra-cuestionan -decision -tribunal- constitucional -noticia -454520.",
+    "questions": [
+      {
+        "statement": "2. Los sinónimos contextuales de los términos PARCIAL Y DURO, son respectivamente",
+        "alternatives": [
+          "A) injusto e intolerable.",
+          "B) momentáneo e inflexible.",
+          "C) inicuo e indolente.",
+          "D) efímero y consistente.",
+          "E) improcedente y rígido."
+        ],
+        "correct": 1,
+        "rationale": "Ambos términos aparecen secuencialmente en contextos en los que se trasmiten las ideas que la decisión no es oficial y que se elevan críticas a actitudes antidemocráticas; en ese sentido, los sinónimos contextuales tienen que ser palabras que expresen, respectivamente, que dicha decisión tendría que oficializarse y el uso de palabras severas en contra de a quienes se critica."
+      },
+      {
+        "statement": "3. En relación a lo planteado por Kenji Fujimori, es incompatible afirmar que",
+        "alternatives": [
+          "A) está p redispuesto a acatar el fallo del Tribunal Constitucional.",
+          "B) su posición es común a la del congresista Salvador Heresi.",
+          "C) es respaldado unánimemente por los miembros de su bancada.",
+          "D) desplegar una actitud desdeñosa al fallo es antidemocrático.",
+          "E) expresa su turbación por las implicancias en el Estado de derecho."
+        ],
+        "correct": 2,
+        "rationale": "En el texto los fujimoristas expresan que el fallo del TC en sí es antidemocrático, razón por la cual no lo acatarían; contrario a esta posición, Kenji Fujimori sostuvo «que es indispensable respetar las sentencias del TC»; en ese sentido, resulta incompatible señalar que su posición sea respaldada por su bancada ."
+      },
+      {
+        "statement": "4. De los argumentos expuestos por Mauricio Mulder, podemos colegir que",
+        "alternatives": [
+          "A) con el tiempo podría considerar acatar el fallo del Tribunal Constitucional.",
+          "B) aprovecharía el fallo cuando oportunamente decida renunciar al APRA.",
+          "C) estos se basan en su formación política en el Partido Aprista Peruano.",
+          "D) tiene una posición firme respecto a la división de los poderes del Estado."
+        ],
+        "correct": 3,
+        "rationale": "Los argumentos expuestos por Mauricio Mulder respecto al fallo del TC, evidencia que el congresista siente indignación por el supuesto control que dicho tribunal busca llevar a cabo en contra de la autonomía del Congreso; de allí que podamos deducir que su posición respecto a la división de los poderes del Estado es firme."
+      },
+      {
+        "statement": "5. Si el Tribunal Constitucional diera marcha atrás sobre su primera decisión tomada,entonces",
+        "alternatives": [
+          "A) el fallo oficial que emitiría el TC se vería exento de opositores.",
+          "B) los congresistas sí podrían renunciar a sus partidos políticos.",
+          "C) dejaría un precedente del control político por parte del Congreso.",
+          "D) la cultura política en los partidos políticos peruanos se vigorizaría.",
+          "E) la presunta intromisión del TC no sería empleada como argumento."
+        ],
+        "correct": 4,
+        "rationale": "En el texto se desarrolla la idea que quienes se oponen a la decisión tomada hasta el momento por el TC se mantienen firmes en su actitud de rechazo y no acatamiento por considerarla una intromisión de dicho tribunal al parlamento; en ese sentido, este argumento esgrimido por sus críticos, no podría ser empleado si el TC cambiara y emitiera un fallo distinto o contrario al ya tomado."
+      }
+    ]
+  },
+  {
+    "type": "reading_comprehension",
+    "statement": "El barco medieval yacía a más de 800 metros al fondo del mar Negro (enla zona\ncorrespondiente a Bulgaria), con mástiles, vigas y armazones que permanecieron\nimperturbables en la oscuridad durante 7 u 8 siglos. La ausencia de oxígeno en las\nprofundidades heladas había ahuyentado a las criaturas que suelen hacerse un festín con\nla madera sumergida. El hallazgo fue logrado mediante la sumersión de un robot\nempleado por el equipo de arqueólogos, con el cual pudieron capturar fotografías en alta\nresolución, las mismas que fueron organizadas por una computadora, permitiéndoles\naseverar que dicho navío podría ser de los siglos XIII o XIV.\n«Desde el punto de vista arqueológico, nunca se había visto nada parecido», dijo\nRodrigo Pacheco Ruiz, un miembro de la expedición del Centro de Arqueología Marina de\nthe Universidad de Southampton, en Gran Bretaña. «No podía creer lo que estábamos\nviendo», añadió. Asimismo, Shelley Wachsmann, del Instituto de Arqueología Náutica de\nla Universidad Texas A&M, sostuvo que con este descubrimiento «podemos esperar que\nhaya verdaderos aportes a nuestra comprensión de las antiguas rutas comerciales», en\ntanto que para los europeos, el mar Negro brindaba acceso al tramo norte de la Ruta de la\nSeda, permitiéndo les la importación de seda, satén, almizcle, perfumes, especias y joyas.\nDurante muchos años, el mar Negro fue una vía navegable activa que sirvió a los\nBalcanes, a las estepas euroasiáticas, al Cáucaso, a Asia menor, a Mesopotamia y a\nGrecia. Desde hace mucho atraía la atención de los arqueólogos porque sabían que sus\naguas profundas no tenían oxígeno, una rareza en las grandes masas de agua.\nPor su parte, Foley, quien ha explorado varios de los naufragios en el mar Negro,\nseñaló que en toda la extensión del mar existen sin duda decenas de miles de barcos\nperdidos, agregando que todo lo que se encuentre en la profundidad de sus aguas, se\nencuentra en buen estado de conservación, de allí que muchos expertos piensen que\npaíses como Rusia, Turquía, Georgia, Ucrania y Rumania, podrían emular el ejemplo\n\ndicen los científicos que descubrieron un mundo perdido de naufragios» publicado en The New York Times\nes, edición del 1 de diciembre de 2016. https://www.nytimes.com/es/2016/12/01/nunca -se-habia -visto-nada -\nparecido -dicen -los-cientificos -que-descubrieron -un-mundo -perdido -de-\nnaufragios/?rref=collection%2Fsectioncollection%2Fnyt -\nes&action=c lick&contentCollection=cultura&region=stream&module=stream_unit&version=latest&contentPla\ncement=229&pgtype=collection.",
+    "questions": [
+      {
+        "statement": "La intención del autor del texto es",
+        "alternatives": [
+          "A) reflexionar sobre los avances y aportes de la arqueología subacuática como disciplina para conocer el pasado de las sociedades europeas mediterráneas.",
+          "B) informar sobre la relevancia, para la historia comercial de Europa, del descubrimiento de una nao medieval en las profundidades del mar Negro.",
+          "C) espolear a los estudiantes de arqueología a espe cializarse en la arqueología submarina por la rentabilidad de su ejercicio profesional.",
+          "D) profundizar en el estudio de la historia económica medieval de Europa, enfatizando el protagonismo del mar Negro en el comercio ultramarino.",
+          "E) patentizar la importa ncia del comercio marítimo y la industria naviera en el desarrollo económico y cultural de las sociedades desde su época prístina."
+        ],
+        "correct": 1,
+        "rationale": null
+      },
+      {
+        "statement": "En el texto, el término IMPERTURBABLE connota.",
+        "alternatives": [
+          "A) exasperación por emerger.",
+          "B) estoicismo ante saqueadores.",
+          "C) quietud ante las ondas marinas.",
+          "D) buen estado de conservación.",
+          "E) corrosión del armazón del buque."
+        ],
+        "correct": 3,
+        "rationale": null
+      },
+      {
+        "statement": "En relación al mar Negro, es incompatible afirmar que",
+        "alternatives": [
+          "A) al igual que otros mares en el orbe, carece de oxígeno.",
+          "B) se podía acceder a la Ruta de la Seda navegándolo.",
+          "C) sirvió como ruta para comercializar perfumes y joyas.",
+          "D) en su profundidad se descubrió un navío medieval.",
+          "E) explorarlo resulta de mucho interés para los arqueólogos."
+        ],
+        "correct": 0,
+        "rationale": null
+      },
+      {
+        "statement": "Basándonos en el del descubrimiento del navío en las profundidades del mar Negro, podemos inferir que",
+        "alternatives": [
+          "A) la emergencia de la nao resultó un éxito rotundo.",
+          "B) la investigación contó con buzos profesionales.",
+          "C) la tecnología empleada jugó un papel importante.",
+          "D) las pesquisas de los arqueólogos fueron in situ.",
+          "E) existen otros buques en igual estado de conservación."
+        ],
+        "correct": 2,
+        "rationale": null
+      },
+      {
+        "statement": "Si Perú, un país que cuenta con cientos de naufragios en sus aguas, desarrollar a arqueología subacuática, probablemente",
+        "alternatives": [
+          "A) la historia quedaría relegada a un papel secundario en parangón con la arqueología.",
+          "B) los arqueólogos peruanos podrían ufanarse frente a sus colegas chilenos y ecuatorianos.",
+          "C) la arqueología descollaría de entre todas las ciencias sociales por su aporte al conocimiento.",
+          "D) universidades extranjeras ofertarían equipos de alta ingeniería idóneos para la investigación.",
+          "E) el conocimiento de la historia peruana se vería enriquecido por nuevos descubrimientos."
+        ],
+        "correct": 4,
+        "rationale": null
+      }
+    ]
+  },
+  {
+    "type": "reading_comprehension",
+    "statement": "En tierra, los guepardos superan en velocidad a todos los demás animales; en el aire, los halcones son más rápidos que sus compañeros; y en el mar, los marlines, o peces vela, aventajan al resto. Hasta cierto punto, la velocidad máxima aumenta con el tamaño de un animal. Ello se debe a que las especies más grandes disponen de un mayor número de un tipo de células que intervienen en la aceleración, las fibras de contracción rápida. Sin embargo, no está claro por qué los animales más grandes de nuestro planeta no son los más rápidos.\nAhora, un equipo dirigido por Myriam Hirt, del Centro Alemán para la Investigación Integral de la Biodiversidad, en Leipzig, ha aportado algunas pistas tras modelar la velocidad máxima que alcanzan los animales en función de su masa corporal. Los investigadores analizaron una gran variedad de especies, que van desde moscas hasta ballenas. En concreto, 474 especies de los medios terrestre, acuático y aéreo, con un intervalo de masas corporales de 30 microgramos a 100 toneladas métricas. Descubrieron que las velocidades máximas alcanzadas primero aumentan con el tamaño corporal del animal, pero, a partir de cierto punto crítico, disminuyen.\nLa explicación parece residir en una restricción metabólica: las fibras musculares de contracción rápida, que intervienen en la aceleración, generan más potencia más rápidamente que las fibras de contracción lenta, pero también agotan antes la energía fácilmente disponible. Los animales solo disponen de un breve tiempo para acelerar, ya que los músculos dependen de un suministro limitado de energía durante la aceleración.\nDe este modo ,los elefantes y las ballenas se quedan sin combustible celular mucho antes\nde que puedan alcanzar la velocidad máxima basada en el número total de fibras.\n\nTomado de http://www.investigacionyciencia.es/noticias/por -qu-los-animales -ms-grandes -no-son-los-ms-\nrpidos -15509",
+    "questions": [
+      {
+        "statement": "Medularmente, el texto trata sobre",
+        "alternatives": [
+          "A) El tamaño de un animal se halla sujeto a la cantidad de sus fibras musculares de contracción.",
+          "B) Los animales muy grandes agotan más rápido su energía por lo que no logran ser más veloces.",
+          "C) La cantidad de masa corporal de un animales muy favorable para el incremento de su velocidad.",
+          "D) Las fibras musculares de contracción rápida de un animal propician el aumento de energía.",
+          "E) La velocidad máxima de un animales inversamente proporciona l al tamaño que posee."
+        ],
+        "correct": 0,
+        "rationale": null
+      },
+      {
+        "statement": "Se co ndice con el gráfico sostener que",
+        "alternatives": [
+          "A) los animales de tamaño medio son veloces sin usar energía durante la aceleración.",
+          "B) los animales de complexión voluminosa resultan ser extraordinariamente veloces.",
+          "C) la alometría de velocidad máxima se registró en animales de diversos tamaños.",
+          "D) la velocidad máxima de un elefante es superior, debido a su ostentosa corpulencia.",
+          "E) los animales pequeños solo recorren tramos cortos al carecer de velocidad máxima."
+        ],
+        "correct": 2,
+        "rationale": "En el gráfico, se observa que la investigación diseñó la alometría en relación a\nanimales de diversos tamaños."
+      },
+      {
+        "statement": "En el texto, la frase PARECE RESIDIR connota",
+        "alternatives": [
+          "A) fundamento.",
+          "B) inviabilidad.",
+          "C) refutación.",
+          "D) escepticismo.",
+          "E) certeza."
+        ],
+        "correct": 1,
+        "rationale": "En el texto, la explicación del porqué los animales más grandes no son los más veloces PARECE RESIDIR en que al tener mayor cantidad de fibras musculares gastan más rápido la energía disponible y se quedan sin energía para acelerar. Entonces, la frase PARECE RESIDIR connota fundamento, razón o motivo."
+      },
+      {
+        "statement": "5. Si los músculos de los animales no dependieran de un suministro limitado de energía durante la aceleración, entonces",
+        "alternatives": [
+          "A) las fibras de contracción rápida disminuirían su potencia y así ahorrar su energía.",
+          "B) la velocidad máxima de un animal no estaría sujeta al número de fibras musculares.",
+          "C) todos los animales, al margen de su masa corporal, tendrían velocidades afines.",
+          "D) los animales más grandes de nuestro planeta no serían los más veloces o rápidos.",
+          "E) los animales con mayor número de fibras lograrían alcanzar la mayor velocidad."
+        ],
+        "correct": 4,
+        "rationale": "Se espera que los animales más grandes sean los más veloces, pues cuentan con mayor cantidad de fibras musculares de contracción rápida. Sin embargo, estos animales no son los más veloces, pues al tener más fibras musculares agotan su energía antes de lograr acelerar para la velocidad máxima."
+      }
+    ]
+  },
+  {
+    "type": "reading_comprehension",
+    "statement": "El descubrimiento del exoplaneta habitable más cercano a la Tierra supone un hallazgo tan asombroso como frustrante. Próxima Centauri, una enana roja, está a 4,5 años luz, una distancia ínfima si se piensa en las descomunales dimensiones de nuestra galaxia y el resto del Universo. En torno a este astro hay por lo menos un planeta que posiblemente está cubierto de agua líquida. Pero la distancia que nos separa de este mundo, y de las posibles formas de vida que puede albergar, es también abrumadora. La mejor de las sondas espaciales actuales tardaría unos 70 000 años en alcanzar este\n\npresentaron un proyecto para alcanzar Alfa Centauri, el sistema de tres estrellas del que\nforma parte Próxima, con una sonda espacial que tardaría en llegar apenas 20 años\ndespués del lanzamiento y podría realizar las primeras imágenes del exoplaneta. Hace\nunas semanas, las naves encargadas de realizar esta hazaña pasaron su primera prueba\nen el espacio. Se trata de unos prototipos conocidos como Sprites, chips cuadrados de\napenas 3,5 c entímetros de lado y unos cuatro gramos de peso. Este tipo de naves\nsuponen el próximo paso en la miniaturización de sondas y satélites y, según algunos\nexpertos, suponen la opción más razonable para diseñar misiones capaces de recorrer\nlas grandes distancias que nos separan de los astros más cercanos al Sistema Solar.\nEl pasado mes de junio se lanzaron al espacio dos de estos dispositivos adosados a\ndos nanosatélites, el Max Vallier y el Venta, en lo que fue el primer vuelo exitoso de las\nnaves espaciales más pequeñas del mundo, según sus creadores. Los sencillos equipos\nmontados en los Sprites —un pequeño panel solar, una antena, una radio, un giroscopio y\nun magnetómetro — funcionaron bien y pudieron comunicarse con la Tierra. Los aparatos\nseguirán en órbita dos años. « We hope to release a few more chips that must fly by\nthemselves in space », explica a Materia Zach Manchester, investigador de la Universidad\nde Harvard (EE. UU.) y diseñador de los prototipos.\nManchester lleva diseñando los Sprites desde 2 008. Hasta ahora se habían enviado\na la Estación Espacial Internacional, pero sin posibilidad de comunicarse con la Tierra,\npues el objetivo era probar la resistencia de sus materiales. En 2014, se lanzó al espacio\nuna nave nodriza con 100 chips, «but a te chnical problem prevented them from being\ndetached and the artifact burned in the Earth's atmosphere», explica Manchester.\nLos Sprites se inspiran en el comportamiento de las partículas de polvo. «Hemos\ncomprobado que cuando tienes un objeto muy pequeño en el espacio, las fuerzas de\nrozamiento, el viento solar y los campos magnéticos hacen que se muevan mucho más\ndeprisa que objetos de mayor tamaño», explica Manchester. El objetivo de estas pruebas\niniciales es también comprobar cómo de pequeño tendría que ser un chip para aprovechar\nestas fuerzas a su favor y desplazarse usando la mínima energía posible.\n\nTomado de https://elpais.com/elpais/2017/08/08/ciencia/1502191039_316963.html",
+    "questions": [
+      {
+        "statement": "Medularmente, el texto trata sobre",
+        "alternatives": [
+          "A) el empleo de los Sprites en las expediciones espaciales.",
+          "B) el descubrimiento de un exoplaneta en Alfa Centauri.",
+          "C) la notable labor científica Stephen Hawking y Yuri Milner.",
+          "D) el aporte científico de Manchester al diseñar los Sprites.",
+          "E) la revolución espacial de los Sprites de sde el año 2008"
+        ],
+        "correct": 0,
+        "rationale": "El texto se centra en dar a conocer la incursión de las mininaves llamadas Sprites en las expediciones espaciales."
+      },
+      {
+        "statement": "En el texto, el sinónimo contextual del término RAZONABLE es",
+        "alternatives": [
+          "A) prudente.",
+          "B) infalible.",
+          "C) inviable.",
+          "D) apropiado.",
+          "E) temerario."
+        ],
+        "correct": 3,
+        "rationale": "Según algunos expertos, el uso de los Sprites es la opción más razonable o apropiada para diseñar misiones capaces de recorrer las grandes distancias que nos separan de los astros más cercanos al Sistema Solar."
+      }
+    ]
+  },
+  {
+    "type": "reading_comprehension",
+    "statement": "El texto se centra en dar a conocer la incursión de las mininaves llamadas Sprites en las expediciones espaciales. Según algunos expertos, el uso de los Sprites es la opción más razonable o apropiada para diseñar misiones capaces de recorrer las grandes distancias que nos separan de los astros más cercanos al Sistema Solar. Ya en junio se ha logrado lanzar al espacio de manera exitosa estas naves Sprites. A pesar de que se hallan en un estado inicial de observación, estos Sprites han generado expectativas para lograr con éxito expediciones espaciales muy largas. Las mininaves Sprites se inspiran en el comportamiento de las partículas de polvo. Se ha comprobado que cuando se tiene un objeto muy pequeño en el espacio, las fuerzas de rozamiento, el viento solar y los campos magnéticos hacen que se mueva mucho más deprisa que objetos de mayor tamaño.",
+    "questions": [
+      {
+        "statement": "En el texto, el sinónimo contextual del término RAZONABLE es",
+        "alternatives": [
+          "A) prudente.",
+          "B) infalible.",
+          "C) inviable.",
+          "D) apropiado.",
+          "E) temerario."
+        ],
+        "correct": 3,
+        "rationale": "Rpta.: D"
+      },
+      {
+        "statement": "Según el texto, se puede afirmar que los Sprites son",
+        "alternatives": [
+          "A) exoplanetas.",
+          "B) naves espaciales.",
+          "C) astros.",
+          "D) giroscopios.",
+          "E) nanosatélites."
+        ],
+        "correct": 1,
+        "rationale": "Rpta.: B"
+      },
+      {
+        "statement": "Es posible inferir que los Sprites",
+        "alternatives": [
+          "A) dentro de 20 años llegarán a Alfa Centauri y tomarán imágenes de Próxima.",
+          "B) fueron diseñados por Stephen Hawking y Yuri Milner hace más de un lustro.",
+          "C) demandan un gran presupuesto, debido a su estructura sumamente compleja .",
+          "D) presentan un desplazamiento contrario a las partículas de polvo cósmico.",
+          "E) han generado expectativa para lograr con éxito las expediciones espaciales."
+        ],
+        "correct": 4,
+        "rationale": "Rpta.: E"
+      },
+      {
+        "statement": "Si los Sprites fueran naves espaciales tradicionales, entonces,",
+        "alternatives": [
+          "A) en tan solo 20 a ños lograrían llegar y mandar imágenes del exoplaneta de Alfa Centauri.",
+          "B) las fuerzas de rozamiento, el viento solar y los campos magnéticos no les serían propicios para sus movimientos.",
+          "C) sería inexorable la llegada de estas naves a la enana roja Próx ima Centauri en no más de 70.000 años.",
+          "D) ya desde el año 2008, estas naves espaciales habrían logrado orbitar sin ninguna dificultad.",
+          "E) el diseño y la complejidad de estas naves reducirían el presupuesto espacial de la NASA."
+        ],
+        "correct": 1,
+        "rationale": "Rpta.: B"
+      }
+    ]
+  },
+  {
+    "type": "reading_comprehension",
+    "statement": "El teatro medieval, tanto en España como en los otros países europeos, nada debió\nen sus comienzos al arte dramático de los griegos y romanos: nació, como flor\nespontánea, a la sombra de los claustros monacales. El deseo de los monjes de dar\nmayor vida y plasticidad a las ceremonias litúrgicas, a fin de hacerlas más comprensibles\nal rústico y fervoro so pueblo, constituye la razón y origen del incipiente teatro, en cuyo\ninicial desenvolvimiento tienen notable participación las instituciones monásticas\nfrancesas establecidas en la Península.\nAlgunas de esas ceremonias se prestaban fácilmente para ser llevadas a las tablas,\nen particular las de Navidad y Semana Santa. Los tropos o interpolaciones dialogadas,\nintroducidos en los «responsorios» del oficio divino y en los «introitos» de las misas\nsolemnes, avivaron, por otra parte, el instinto dramático de aquellos obscuros\neclesiásticos, y no tardaron en surgir, primero, el drama litúrgico en latín, y enseguida, los\njuegos escolares, también en latín, que durante el siglo XII fueron casi la única\nmanifestación del teatro público. El grande éxito alcanzado por estos conatos escénicos,\nindujo a los monjes y clérigos a componer dramas religiosos en romance vulgar,\ndenominados misterios por los franceses y autos por los españoles. Los autos o\nmisterios eran representados en el interior de los templos por los sacerdotes. En un\nprincipio, se inspiraron solo en la Navidad y la Pasión, pero paulatinamente ampliaron su\nestrecho marco hasta abarcar la vida entera de Jesús. El único monumento español\nque hoy conocemos de este género de representaciones es el Auto de los Reyes Magos.\nNo obstante, la frecuencia y popularidad de ellas se encuentran atestiguadas por las\ncontinuas referencias de que son objeto en el Fuero Juzgo, las Partidas y los cánones de\nlos Concilios. Al margen del teatro religioso y como una derivación de él, surgieron ciertas\nrepresentaciones profanas o juegos de escarnio, los cuales, a juzgar por las\ncondenaciones de los Concilios y las leyes, parecen haber sido parodias de los oficios\neclesiásticos que, a menudo, degeneraban en burlas obscenas e inmorales. El Código de\nAlfonso el Sabio define con claridad ambas dramaturgias, la religiosa y la profana.\nNo solamente en estos juegos de escarnio —de los cuales ninguno ha llegado hasta\nnosotros — se contienen gérmenes del futuro teatro español; también los hay en las\n\ncuerpo, La razón de Amor con los denuestos del agua y el vino. «El juglar que recita su\ndecir o disputa y tiene desarrollado el instinto para imitar diversas voces, para subrayar\ndeterminadas actitudes y provocar la hilaridad del público —según expresa un tratadista —\nse ha convertido en un actor y su poema en un drama, en algo teatral; dado el primer\nd paso, lo demás es obra del tiempo».\nGarcía, J. (1972). Historia de la Literatura Española. Barcelona: Vinces.",
+    "questions": [
+      {
+        "statement": "1. Básicamente, el autor del texto tiene la intención de",
+        "alternatives": [
+          "A) parangonar el teatro religioso y pagano en el Medioevo.",
+          "B) explicar las características del teatro en la Edad Media.",
+          "C) revalorar los elementos místicos en el teatro español.",
+          "D) dilucidar el origen del teatro en la España medieval.",
+          "E) justificar la labor eclesiástica en las obras teatrales."
+        ],
+        "correct": 3,
+        "rationale": "En el primer párrafo del texto, el autor plantea el tema que abordará. En torno al entramado textual, es evidente que tiene la intención de dilucidar el origen del teatro en la España medieval."
+      },
+      {
+        "statement": "2. En el texto, el t érmino OBSCURO puede ser reemplazado por",
+        "alternatives": [
+          "A) sencillo.",
+          "B) prístino.",
+          "C) nimio.",
+          "D) tedioso.",
+          "E) enigmático."
+        ],
+        "correct": 4,
+        "rationale": "Los responsorios avivaron el instinto dramático de aquellos obscuros eclesiásticos. El término “obscuro” significa “enigmático, misterioso”."
+      },
+      {
+        "statement": "3. Es incongruente con el texto afirmar que los juegos de escarnio",
+        "alternatives": [
+          "A) habrían representado a los sacerdotes en situaciones sórdidas.",
+          "B) dejaron remanentes en las representaciones teatrales posteriores.",
+          "C) parodiaban los vicios y virtudes del pueblo español de Edad Media.",
+          "D) eran piezas teatrales hilarantes que buscaban distraer al público.",
+          "E) deben haber sido dirigidos y representados por hombres rústicos."
+        ],
+        "correct": 2,
+        "rationale": "Los juegos de escarnio, según el autor, parecen haber parodiado a los oficios eclesiásticos."
+      },
+      {
+        "statement": "4. Del texto se colige que el teatro religioso",
+        "alternatives": [
+          "A) motivó la creación de un teatro más allegado al pueblo.",
+          "B) buscó criticar la falsa moral de la sociedad española.",
+          "C) tuvo la misma intención que el teatro pagano medieval.",
+          "D) se caracterizó por enaltecer la vida del hombre profano."
+        ],
+        "correct": 0,
+        "rationale": "Como una derivación del teatro religioso surgieron las representaciones profanas o juegos de escarnio. Por tanto, el teatro religioso motivó la creación de un teatro más allegado al pueblo."
+      },
+      {
+        "statement": "5. Si el teatro medieval de España se hubiera originado del arte dramático grecolatino,",
+        "alternatives": [
+          "A) ciertamente, habría estado signado por un espíritu y sentimiento paganos.",
+          "B) las ceremonias litúrgicas habrían prescindido representaciones bíblicas.",
+          "C) de igual manera, los clérigos habrían sido víctima de personificaciones viles.",
+          "D) carecería de originalidad, asimismo habría perdido su esencia cristiana.",
+          "E) no habría recibido las condenacion es y prohibiciones de los Concilios."
+        ],
+        "correct": 0,
+        "rationale": "El arte dramático grecolatino se origina en rituales paganos a Dionisio. De allí que se representaron conflictos humanos. Entonces si el teatro medieval de España se hubiera originado del arte dramático grec olatino, ciertamente, habría estado signado por un espíritu y sentimiento pagano."
+      }
+    ]
+  },
+  {
+    "type": "reading_comprehension",
+    "statement": "La mayoría de experimentos realizados en animales no humanos no tienen finalidad biomédica, es decir, no buscan obtener mejoras en la salud humana. En algunos casos se trata de pruebas de impacto medioambiental de productos químicos. En otros se trata de pruebas de seguridad de productos cosméticos o del hogar. En otras ocasiones se emplea a animales no humanos en la investigación militar.\nTodos estos casos tienen en común que el beneficio que los seres humanos pueden recibir gracias a estas prácticas es irrelevante o inexistente. Pese a ello, se somete a un gran número de animales no humanos a daños graves. Ahora bien, razonar éticamente requiere rechazar toda forma de discriminación basada en características de los individuos que no tienen que ver con su capacidad para ser dañados o beneficiados. No tener en cuenta los daños que los animales padecen en estos experimentos, o darles una menor importancia, simplemente porque no pertenecen a la especie humana, es un tipo de discriminación arbitraria , el especismo. Del mismo modo que no respetar a alguien por su color de piel o su género está injustificado, también lo está no respetarle por su especie. Desde un punto de vista imparcial, el sufrimiento y muerte de estos animales pesa más que el beneficio trivial obtenido por los seres humanos.\nLa experimentación con animales con fines medioambientales, cosméticos o militares debe ser, por lo tanto, rechazada. Afortunadamente, parte de estas prácticas ya están siendo prohibidas en algunos ordenamientos jurídicos, como es el caso de la experimentación para productos cosméticos en la Unión Europea o India.\n\nLa experimentación en animales se lleva a cabo para mejorar la vida humana. Este tipo de investigaciones ha permitido que se descubran maneras de curar enfermedades y prolongar la vida del ser humano.\nEn la medicina, se usan animales para probar medicamentos antes de ser probados en humanos. Para esto, los animales son enfermados para poder observar los efectos de algún fármaco. Si bien, algunas personas ven esta práctica como inhumana, conlleva menos problemas éticos que probar nuevos fármacos en humanos, donde se puede incluso causar la muerte al voluntario.\nLa experimentación en animales ha coadyuvado a la creación de vacunas, el desarrollo de los trasplantes, las transfusiones sanguíneas, las diálisis, técnicas quirúrgicas y la prueba de medicinas, entre muchos otros.\nLa transferencia de una enfermedad de un animal a otro se tiene como la forma más confiable de demostrar que una enfermedad es causada por un agente infectivo.\nUn ejemplo más reciente lo constituyó el aislamiento del virus de la hepatitis C humano usando chimpancés, a los que se transfirió la enfermedad. Se logró aislar una proteína viral en la sangre del chimpancé que reaccionando con anticuerpos de pacientes humanos, sirvió como prueba de diagnóstico.\nLos resultados de la investigación con modelos animales proporcionan información necesaria para diseñar pruebas humanas. Es necesario conocer cómo un nuevo fármaco o procedimiento afectará a un sistema biológico completo antes de usarlo en humanos.",
+    "questions": [
+      {
+        "statement": "1. En última instancia, ambos textos (Ay B) tratan sobre",
+        "alternatives": [
+          "A) los problemas éticos en la utilización de animales.",
+          "B) la permisibilidad de la experimentación en animales.",
+          "C) los diversos fines de la experimentación animal.",
+          "D) la inviabilidad de la experimentación en animales.",
+          "E) la discriminación arbitraria en experimentos animales."
+        ],
+        "correct": 1,
+        "rationale": "Ambos textos centran su discurso entorno a la experimentación en animales. No obstante, cada uno plantea su posición sobre los fines de se justifican o no a través de esta."
+      },
+      {
+        "statement": "2. En el texto A, la frase DISCRIMINACIÓN ARBITRARIA implica, excepto",
+        "alternatives": [
+          "A) selectividad.",
+          "B) abuso.",
+          "C) inocuidad.",
+          "D) exclusión.",
+          "E) maltrato."
+        ],
+        "correct": 2,
+        "rationale": "En el texto A, la expresión DISCRIMINACIÓN ARBITRARIA implica el maltrato hacia los animales al someterlos a experimentos donde padecen, incluso mueren, pues se les considera inferior a la especie humana. Entonces, esta frase no implica INOCUIDAD."
+      }
+    ]
+  },
+  {
+    "type": "reading_comprehension",
+    "statement": "Ambos textos centran su discurso entorno a la experimentación en animales. No obstante, cada uno plantea su posición sobre los fines de se justifican o no a través de esta.",
+    "questions": [
+      {
+        "statement": "En el texto A, la frase DISCRIMINACIÓN ARBITRARIA implica, excepto",
+        "alternatives": [
+          "A) selectividad.",
+          "B) abuso.",
+          "C) inocuidad.",
+          "D) exclusión.",
+          "E) maltrato."
+        ],
+        "correct": 2,
+        "rationale": "La frase implica maltrato hacia los animales; no implica inocuidad."
+      },
+      {
+        "statement": "Es posible inferir que ambos textos (Ay B) no apelarían a favor de",
+        "alternatives": [
+          "A) la experimentación animal con fines médicos y no biomédicos.",
+          "B) la manipulación de animales para la mejora de la salud humana.",
+          "C) la discriminación arbitraria en animales humanos y no humano s.",
+          "D) la prohibición legal para erradicar la experimentación animal.",
+          "E) los adelantos terapéuticos a costa de la experimentación animal."
+        ],
+        "correct": 3,
+        "rationale": "Ambos textos no cuestionan la experimentación con animales con fines biomédicos."
+      },
+      {
+        "statement": "Si las leyes solo permitieran la experimentación en animales con fines biomédicos, entonces",
+        "alternatives": [
+          "A) sería inviable diseñar pruebas humanas para lograr la mejora y la prolongación de la vida.",
+          "B) los fármacos nuevos tendrían que ser probados en personas que padecen una enfermedad.",
+          "C) los ensayos de las vacunas, los trasplantes y las técnicas quirúrgicas estarían proscritas.",
+          "D) las polémicas éticas entorno a la utilización a la manipulación de animales habría llegado a su fin.",
+          "E) las investigaciones cosméticas, militares o medioambientales omitirían emplear animales."
+        ],
+        "correct": 4,
+        "rationale": "Al haber un marco legal sobre la experimentación con animales, se regularía su práctica; según el texto A, la respuesta es E."
+      }
+    ]
+  }
+]

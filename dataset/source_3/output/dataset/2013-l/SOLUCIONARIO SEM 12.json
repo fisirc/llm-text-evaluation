@@ -1,0 +1,15 @@
+[
+  {
+    "type": "sentence_elimination",
+    "statement": "1. El texto trata sobre\nI) El antisemitismo es la doctrina o actitud hostil a los judíos y existió desde los primeros tiempos del cristianismo al ser considerados como un pueblo deicida. II) En la Edad Media el antisemitismo se agudizó, pues a los motivos religiosos se unieron razones económicas. III. En la Edad Media los judíos se dedicaron a la industria, al comercio y, sobre todo al préstamo, prohibido a la población cristiana, y se vieron protegidos por los monarcas porque sus actividades eran fuente de riqueza. IV. A fines el siglo XIX , el antisemitismo como doctrina hizo su aparición en la mayor parte de los países europeos. V. La aparición de las doctrinas seudocientíficas sobre la superioridad del hombre ario (Chamberlain, Gobineau y Rosenberg) desencadenaron una nueva etapa de antisemitismo que culminó en la Alemania Hitleriana.",
+    "alternatives": [
+      "A) I",
+      "B) II",
+      "C) III",
+      "D) IV",
+      "E) V"
+    ],
+    "correct": 2,
+    "rationale": null
+  }
+]

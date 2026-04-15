@@ -1,0 +1,577 @@
+[
+  {
+    "type": "sentence_elimination",
+    "statement": "de 2 cm de arista, cada un a de las 8 esquinas, como se muestra en la figura. Halle el número de caras que tiene la figura resultante.",
+    "alternatives": [
+      "A) 6",
+      "B) 30",
+      "C) 24",
+      "D) 18",
+      "E) 36"
+    ],
+    "correct": 1,
+    "rationale": "Solución : 2) Número caras: 30\nRpta.: B"
+  },
+  {
+    "type": "reading_comprehension",
+    "statement": "Sin duda, la muerte o el maltrato de un ser querido convoca nuestros sentimientos más destructivos. Sin embargo, el sistema judicial está para velar por la democracia y la justicia. Pa ra proteger los derechos humanos de todos y que el culpable sea castigado. Con esta convicción, considero que la pena de muerte es deshumanizante porque nadie tiene el derecho a quitarle la vida a nadie. Para eso existen castigos suficientemente severos y terribles como la cárcel y la cadena perpetua, que implican la exclusión social de estos individuos. Eliminar al sujeto no es una lección para él, sino, supuestamente, para los próximos delincuentes. Pero lo más probable es que surta poco efecto en la conciencia de esta gente y que muchos inocentes mueran. El riesgo de mandar a la muerte a un inocente es suficiente motivo como para no contemplar tal medida, jamás. El problema reales que tenemos un sistema judicial poco efectivo que no es capaz de hacer cumplir la ley. Si los delincuentes cumplieran condenas duras, no negociables e hicieran trabajos forzados, en aplicar la pena de muerte, se debería iniciar una reforma judicial eficiente.\n\nAdaptado de http://www.idl.org.pe/idlrev/revistas/180/penademuerte.pdf . Visitado por última vez el 25 de octubre 2015.\n\nEl pueblo de Chile merece seguridad . ¿Es seguro para la sociedad chilena que criminales de alta peligrosidad sigan vivos después de haber cometido atroces crímenes? Que la pena de muerte no exista más en Chile disminuye la seguridad de su pueblo. La pena de muerte reduce la posibilidad de futuros crímenes. No nos referimos a la falta original que llevó al encarcelamiento, sino a los crímenes que se planean dentro de la cárcel chilena. En nuestro país, el precario sistema penitencial fomenta el odio y la maldad. Los reos tienen las facilidades dentro de la cárcel para planear nuevos crímenes, ya que mantienen contactos dentro y fuera de la cárcel. Es por lo anterior, que se hace preciso erradicar a esas mentes malévolas de forma más radical, de manera que la sociedad se libre realmente de esos peligros, y no sientan temor a futuras reincidencias o represalias por parte de los delincuentes. Las cárceles chilenas están sobrepobladas, en un nivel que se estima entre el 60 o 70%. Esto genera condiciones que impiden que el sistema sea administrado en forma ordenada y eficaz, que se respeten los derechos de las personas recluidas y que se lleve a cabo la misión de rehabilitación de quienes cumplen condenas. Si bien esto es un problema, existe por otro lado la pregunta de si realmente los del incuentes de alto calibre son capaces de rehabilitarse. Es común que el tipo de personalidad que está detrás de personas que cometen crímenes corresponde a seres carentes de culpa, lo cual corresponde en psicología a un tipo de personalidad psicopática, patología muy difícil o prácticamente imposible de corregir. Es normal en la naturaleza del ser humano querer evitar todo aquello que nos cause dolor.La pena de muerte al ser un castigo radical y perpetuo, genera mayor temor en los criminales. Si bien lo que se usa es una política del miedo, es de poca discusión que el miedo ha llevado a mantener el orden, en especial en Chile (régimen militar).\nAl común de la gente le parece obvio pensar dos veces si se va a llevar a cabo un crimen cuando la consecuencia puede ser la muerte. Pero existen personas que no tienen esa capacidad de evaluar las consecuencias de la situación y no les importa hacerle mal a mucha gente con tal de salirse con la suya. Es por esto mismo, por la falta de conciencia de estas personas y la maldad intrínseca que existe en su seres que no queda más remedio que eliminar a los delincuentes que no tienen rehabilitación y son un peligro extremo para la sociedad.\nEn conclusión, la pena de muerte se debe ejercer en Chile en casos extremos por el bien común de la nación, por su seguridad. Debido principalmente a que las personalidades psicopáticas tienen muy pocas posibilidades de rehabilitación. Sin dejar de mencionar que en las cárceles chilenas no existen las condiciones adecuadas para un reclutamiento seguro, y es posible que se dé espacio para la planeación de nuevos crímenes.\nAdaptado de http://penamuertechile.blogspot.pe/ . Visitado por última vez el 25 de octubre 2015",
+    "questions": [
+      {
+        "statement": "1. En el texto A, la palabra MITO connota",
+        "alternatives": [
+          "A) inexistencia.",
+          "B) inefectividad.",
+          "C) irracionalidad.",
+          "D) inexactitud",
+          "E) intrascendencia"
+        ],
+        "correct": 2,
+        "rationale": "El término MITO alude, según al contexto, a la poca o ninguna efectividad de la ley ante el delito."
+      },
+      {
+        "statement": "2. Un aspecto en el que ambos textos coinciden es en reconocer que la pena de muerte",
+        "alternatives": [
+          "A) implica la aplicación de una política del miedo bastante efectiva.",
+          "B) surge como remedio para un sistema judicial poco efectivo.",
+          "C) es admisible en regímenes dictatoriales o poco democráticos.",
+          "D) quizá tenga un escaso efecto disuasivo entre ciertos delincuentes.",
+          "E) entraña una omisión de los derechos humanos del criminal."
+        ],
+        "correct": 3,
+        "rationale": "En ambos textos se menciona que existen personas cuya consciencia no se ve alterada por la posibilidad de ser condenado a muerte."
+      },
+      {
+        "statement": "3. Se puede afirmar que en el texto B, el autor tiene, con respecto al del texto A, una visión más",
+        "alternatives": [
+          "A) pragmática.",
+          "B) principista.",
+          "C) deontológica.",
+          "D) idealista.",
+          "E) ambivalente."
+        ],
+        "correct": 0,
+        "rationale": "El autor del texto B utiliza argumentos referidos principalmente a la efectividad o inefectividad de las medidas que la sociedad toma para garantizar su seguridad."
+      },
+      {
+        "statement": "4. En la perspectiva del texto A, si el sistema judicial garantizara la infalibilidad de las sentencias de muerte",
+        "alternatives": [
+          "A) aún sería reprobable la ejecución de los delincuentes.",
+          "B) los criminales sí se sentirían amedrentados.",
+          "C) estas no implicarían violación de derechos humanos.",
+          "D) muchos ciudadanos estarían a favor de tal medida.",
+          "E) el sistema judicial no necesitaría ninguna reforma."
+        ],
+        "correct": 4,
+        "rationale": "La alternativa E refuta directamente la aseveración del autor acerca de que nadie puede asumir el derecho de tomar una vida ajena."
+      },
+      {
+        "statement": "5. Según la visión expresada en ambos textos, si los criminales realizaran sus actividades delictivas con plena consciencia y control de ellos,",
+        "alternatives": [
+          "A) la ley dejaría por fin de ser un mito.",
+          "B) nuestros derechos estarían garantizados.",
+          "C) las cárceles estarían menos pobladas.",
+          "D) los delitos disminuirían drásticamente."
+        ],
+        "correct": 1,
+        "rationale": "Si actúan sin sentimiento de culpa y sin poder evaluar la consecuencia de sus actos, los derechos estarían garantizados."
+      },
+      {
+        "statement": "6. Cuando el autor del texto B dice: “Es por esto mismo, por la falta de conciencia de estas personas y la maldad intrínseca que existe en su seres que no queda más remedio que eliminar a los delincuentes que no tienen rehabilitación y son un peligro extremo para la sociedad”, exhibe una concepción ________del hombre.",
+        "alternatives": [
+          "A) determinista",
+          "B) teleológica",
+          "C) naturalista",
+          "D) dialéctica",
+          "E) liberal"
+        ],
+        "correct": 0,
+        "rationale": "Según el autor, ciertas personas llevan la maldad dentro de sí y no tienen posibilidad de cambiar este hecho."
+      },
+      {
+        "statement": "7. En la perspectiva del texto A, si el sistema judicial garantizara la infalibilidad de las sentencias de muerte",
+        "alternatives": [
+          "A) aún sería reprobable la ejecución de los delincuentes.",
+          "B) los criminales sí se sentirían amedrentados.",
+          "C) estas no implicarían violación de derechos humanos.",
+          "D) muchos ciudadanos estarían a favor de tal medida.",
+          "E) el sistema judicial no necesitaría ninguna reforma."
+        ],
+        "correct": 0,
+        "rationale": "Aunque se solventara ese punto, aún serían válidas las otras objeciones que formula el autor."
+      },
+      {
+        "statement": "8. Según la visión expresada en ambos textos, si los criminales realizaran sus actividades delictivas con plena consciencia y control de ellos,",
+        "alternatives": [
+          "A) la ley dejaría por fin de ser un mito.",
+          "B) nuestros derechos estarían garantizados.",
+          "C) las cárceles estarían menos pobladas.",
+          "D) los delitos disminuirían drásticamente."
+        ],
+        "correct": 1,
+        "rationale": "La visión indica que nuestros derechos estarían garantizados."
+      }
+    ]
+  },
+  {
+    "type": "sentence_elimination",
+    "statement": "I) Los antiguos griegos adoptaron el alfabeto fenicio y lo difundieron por sus ciudades -estado entorno al 1000 a. de C. II) Las inscripciones más antiguas que se conocen del alfabeto griego datan del siglo VIII a. de C. III) Es posible que el alfabeto griego, que ocupa un puesto importante en la evolución de la comunicación gráfica, evolucionase antes del siglo VIII. IV) Los griegos tomaron el alfabeto fenicio o semítico septentrional y convirtieron cinco consonantes en vocales para elaborar su alfabeto. V) No se sabe a ciencia cierta quién transportó el alfabeto de Fenicia a Grecia, pero las fuentes mitológicas apuntan hacia Cadmo de Mileto.",
+    "alternatives": [
+      "A) I",
+      "B) II",
+      "C) III",
+      "D) IV",
+      "E) V"
+    ],
+    "correct": 4,
+    "rationale": "Se elimina la oración I por impertinencia. Las oraciones giran entorno al tema del alfabeto griego."
+  },
+  {
+    "type": "sentence_elimination",
+    "statement": "I) Los antiguos griegos adoptaron el alfabeto fenicio y lo difundieron por sus ciudades -estado entorno al 1000 a. de C. II) Las inscripciones más antiguas que se conocen del alfabeto griego datan del siglo VIII a. de C. III) Es posible que el alfabeto griego, que ocupa un puesto importante en la evolución de la comunicación gráfica, evolucionase antes del siglo VIII. IV) Los griegos tomaron el alfabeto fenicio o semítico septentrional y convirtieron cinco consonantes en vocales para elaborar su alfabeto. V) No se sabe a ciencia cierta quién transportó el alfabeto de Fenicia a Grecia, pero las fuentes mitológicas apuntan hacia Cadmo de Mileto.\n\nA) I B) II C) III D) IV E) V\n\nSolución : Se elimina la oración I por impertinencia. Las oraciones giran entorno al tema del alfabeto griego.\nRpta.: E",
+    "alternatives": [
+      "A) I",
+      "B) II",
+      "C) III",
+      "D) IV",
+      "E) V"
+    ],
+    "correct": 4,
+    "rationale": "Se elimina la oración I por impertinencia. Las oraciones giran entorno al tema del alfabeto griego."
+  },
+  {
+    "type": "sentence_elimination",
+    "statement": "2. I) Genji monogatari (Historia de Genji) es a menudo considerada la primera gran novela en la literatura mundial. II ) La autora de la obra Genji monogatari , Murasaki Shibuku, nació alrededor del año 978 y pasó la mayor parte de su vida en o cerca de la corte imperial en Kioto. III ) La novela consta de 54 libros o capítulos que narran la vida y los romances de l Príncipe Genji, el joven, guapo y talentoso hijo de un emperador. IV ) La novela se destaca por su estilo elegante, los complejos retratos de personajes y las descripciones de las emociones humanas. V ) No se conoce su método de composición ni la fecha exacta en la que se escribió la Historia de Genji.\n\nA) I B) II C) III D) IV E) V\n\nSolución : Se elimina la oración V por impertinencia. El tema refiere a la primera gran novela de la literatura mundial, no a la vida de su autora.\nRpta.: B",
+    "alternatives": [
+      "A) I",
+      "B) II",
+      "C) III",
+      "D) IV",
+      "E) V"
+    ],
+    "correct": 1,
+    "rationale": "Se elimina la oración V por impertinencia. El tema refiere a la primera gran novela de la literatura mundial, no a la vida de su autora."
+  },
+  {
+    "type": "sentence_elimination",
+    "statement": "3. I) Un depredador puede causarle suficiente estrés a una libélula para que, literalmente, se muera de miedo ,incluso sino supone una amenaza real, según ha descubierto un equipo de biólogos canadienses. II) En sus experimentos, Rowe y sus colegas hicieron crecer a un grupo de larvas de libélula de la especie Leucorrhinia intacta en grandes acuarios donde también había peces e insectos depredadores a los que las libélulas podían ver y oler (aunque no sabían que los peces no podían alcanzarlas). III) Otro grupo de larvas de libélula permaneció en tanques de agua sin depredadores a la vista. IV) Las larvas de libélula expuestas a la presencia de peces o insectos que suponían una amenaza tuvieron un índice de supervivencia entre 2,5 y 4,3 veces menor que aquellas que fueron ubicadas en tanques desde donde los peces e insectos peligrosos eran imperceptibles. V) En un segundo experimento, los científicos observaron que e l 11% de las libélulas juveniles en presencia de depredadores moría en el proceso de meta morfosis hacia insectos adultos, mientras que en un ambiente libre de peces, el índice de mortalidad fue de solo un 2%.\n\nA) I B) II C) III D) IV E) V\n\nSolución : Se elimina la oración III por redundancia, pues está incluida en la oración II.\nRpta.: D",
+    "alternatives": [
+      "A) I",
+      "B) II",
+      "C) III",
+      "D) IV",
+      "E) V"
+    ],
+    "correct": 3,
+    "rationale": "Se elimina la oración III por redundancia, pues está incluida en la oración II."
+  },
+  {
+    "type": "sentence_elimination",
+    "statement": "4. acumulación de objetos en cantidades desorbitadas o fuera de lo aceptado socialmente. II) El SAC es un trastorno mental definido como un tipo trastorno obsesivo -compulsivo (TOC). III) El Síndrome de Acumulación Compulsiva nace de la necesidad irrefrenable de adquirir objetos (normalmente de poco valor económico), guardarlos o almacenarlos y ser incapaz de deshacerse de ninguno de ellos. IV) La conducta repetitiva de acumulación no produce ningún tipo de malestar emocional, a diferencia de lo que sucede en otros trastornos obsesi vo-compulsivos (TOC). V) El trastorno mental conocido como Síndrome de Acumulación Compulsiva constituye un problema cuando el que lo sufre siente interferencias en su día a día ,como el hecho de no poder realizar las tareas cotidianas (cocinar, limpiar...) con normalidad por la falta de movilidad a causa de la acumulación de cosas, ola convivencia con familia, amigos o vecinos se vuelva problemática.\n\nA) I B) II C) III D) IV E) V\n\nSolución : Se elimina la oración II por redundancia con la IV y V.\nRpta.: B",
+    "alternatives": [
+      "A) I",
+      "B) II",
+      "C) III",
+      "D) IV",
+      "E) V"
+    ],
+    "correct": 1,
+    "rationale": "Se elimina la oración II por redundancia con la IV y V."
+  },
+  {
+    "type": "sentence_elimination",
+    "statement": "5. I) El miedo a ser el elemento discordante de un grupo sienta las bases de una patología muy bien estudiada, conocida como Síndrome de Solomon . II) El Síndrome de Solomon se caracteriza porque el individuo toma decisiones o lleva a cabo conductas evitando destacar o sobresalir por encima de los demás, es decir, sobre el entorno social que le rodea . III) El deseo de evitar destacar, típico del Síndrome de Solomon, lleva a estas personas a ponerse obstáculos a sí mismas con objeto de continuar en la senda de la mayoría. IV) Las personas afectadas por el Síndrome de Solomon tienen baja autoestima y también falta de confianza en sí mismas, lo que les lleva a evaluarse según las valoraciones de su propio entorno y no según sus propias apreciaciones. V) E l miedo a destacar por encima de los demás es uno de los pilares del Síndrome de Solomon.\n\nA) II B) III C) I D) IV E) V\n\nSolución : Se elimina la oración V por redundancia.\nRpta.: E",
+    "alternatives": [
+      "A) II",
+      "B) III",
+      "C) I",
+      "D) IV",
+      "E) V"
+    ],
+    "correct": 4,
+    "rationale": "Se elimina la oración V por redundancia."
+  },
+  {
+    "type": "sentence_elimination",
+    "statement": "6. I) Un equipo de científicos de la Universidad Vanderbilt en Nashville, Tennessee (EE.UU .)concluyó que reírse durante 15 minutos al día puede ayudar a perder peso. II) La risa hace que el corazón lata más rápido, trabajando a la vez una serie de músculos, lo que redunda en un aumento del gasto de energía. III) La vibración del diafragma generada por la risa provoca un masaje interno tanto en el estómago como en el hígado, lo cual genera jugos gástricos que reducen los ácidos grasos y nos ayudan a eliminar toxinas del organismo. IV) Podemos llegar a perder 2 kg al año con nuestro aporte de risa diario. V) Con la risa, nuestro córtex cerebral libera impulsos eléctricos que obstruyen el paso de pensamientos negativos justo un segundo después de que empecemos a reír.\n\nA) I B) IV C) III D) V E) II\n\nSolución : Se elimina la oración V por impertinencia.\nRpta.: D",
+    "alternatives": [
+      "A) I",
+      "B) IV",
+      "C) III",
+      "D) V",
+      "E) II"
+    ],
+    "correct": 3,
+    "rationale": "Se elimina la oración V por impertinencia."
+  },
+  {
+    "type": "sentence_elimination",
+    "statement": "8. I) Tener una mascota, particularmente un perro, puede ayudar a reducir el riesgo de enfermedades del corazón, según el estudio del Michael E. DeBakeyVeteransAdministration Medical Center de Houston (EE.UU.). II) La investigación contó con más de 5 200 propietarios de perros adultos y los resultados revelaron que aquellos que paseaban a sus mascotas tenían un estado físico un 54% mejor que aquellos que no lo hacían . III) Desafortunadamente, una proporción significativa de los dueños de perros no suele pasear regularmente a sus perros, aclar a también el estudio. IV ) El estudio no deja claro si esta consecuencia positiva es porque las mascotas tienden a volvernos más activos físicamente por tener que salir a pasear con ellos o si las personas más saludables tienen más posibilidades de ser propietarios de mascotas. V) El hecho es que los datos han revelado una mejora en la relación de los niveles de colesterol y triglicéridos así como un menor riesgo de sufrir enfermedades cardiovasculares en las personas que poseen perros .\n\nA) I B) IV C) II D) III E) V\n\nSolución : Por impertinencia, se elimina la oración III.\nRpta.: D",
+    "alternatives": [
+      "A) I",
+      "B) IV",
+      "C) II",
+      "D) III",
+      "E) V"
+    ],
+    "correct": 3,
+    "rationale": "Por impertinencia, se elimina la oración III."
+  },
+  {
+    "type": "reading_comprehension",
+    "statement": "Todo aquel que tome en cuenta los datos biogeográficos, escribió Darwin, debe verse sorprendido por el misterioso patrón de agrupamiento entre las que denominó especies “íntimamente afines”, es decir, criaturas similares que comparten más o menos el mismo diseño corporal. Dichas especies íntimamente afines tienden a encontrarse en el mismo continente (varias especies de cebras en África) o dentro del mismo grupo de islas oceánicas (docenas de aves mieleras en Hawá i, 13 especies de pinzones de las Galápagos), a pesar de las preferencias particulares de la especie con respecto a diferentes hábitats, fuentes alimenticias o condiciones de clima. Zonas adyacentes a Suramérica, observó Darwin, están ocupadas por dos especies parecidas de grandes aves no voladoras (los ñandúes, Rhea americana y Pterocnemiapennata), y no por avestruces como en África o emúes como en Australia. Suramérica también tiene coipos y copibaras en los pantanos, tres formas muy similares de sinsonte, cada una en una isla distinta\n¿Por qué las especies “íntimamente afines” han de vivir en extensiones vecinas de hábitat? ¿Y por qué los hábitats parecidos en continentes diferentes han de estar ocupados por especies que no son tan íntimamente afines? “Observamos en estos hechos la existencia de un profundo lazo orgánico a través del tiempo y el espacio”, escribió Darwin. “Este lazo, según mi teoría, es simplemente la herencia. Especies parecidas se desarrollan en espacios cercanos porque descienden de ancestros comunes ”.",
+    "questions": [
+      {
+        "statement": "1. Se deduce que las especies Rhea americana y Pterocnemiapennata",
+        "alternatives": [
+          "A) presentan ancestros comunes .",
+          "B) poseían la capacidad de volar.",
+          "C) ocupan los mismos hábitats.",
+          "D) presentan diferencias notorias.",
+          "E) requieren el mismo clima para vivir."
+        ],
+        "correct": 0,
+        "rationale": "Estas especies viven en extensiones vecinas de hábitat porque descienden de ancestros comunes."
+      },
+      {
+        "statement": "2. Con respecto a la teoría de Darwin es compatible con el texto afirma r que",
+        "alternatives": [
+          "A) se sustenta en una clara evidencia genética.",
+          "B) se fundamenta en la observación atenta y persistente .",
+          "C) no toma en cuenta los datos biogeográficos.",
+          "D) este no tuvo ningún atisbo de ella hasta la madurez.",
+          "E) fue confirmada por numerosos y costosos experimentos."
+        ],
+        "correct": 1,
+        "rationale": "La teoría fue producto de observaciones y no experimentos."
+      },
+      {
+        "statement": "3. Si se verificara la existencia de especies íntimamente afines en hábitats parecidos, ubicados en continentes diferentes ,",
+        "alternatives": [
+          "A) cada una de las especies de sinsonte vivirían en una isla distinta.",
+          "B) las distintas especies de ñandúes vivirían en islas muy cercanas.",
+          "C) la teoría sustentada por Darwin sería evidentemente refutada.",
+          "D) aun en este caso, la herencia explicaría la semejanza corporal.",
+          "E) Darwin habría rastreado mejor el remoto pasado de los pinzones."
+        ],
+        "correct": 2,
+        "rationale": "Al negar el punto de partida de la teoría de Darwin, esta sería refutada."
+      },
+      {
+        "statement": "4. La idea principal que desarrolla el texto es que",
+        "alternatives": [
+          "A) según investigaciones de Darwin, especies íntimamente afines comparten hábitas parecidos en continentes diferentes.",
+          "B) investigaciones biogeográficas confirman que, debido a ancestros comunes, especies íntimamente afines viven en espacios cercanos.",
+          "C) está demostrado que las especies íntimamente afines son criaturas similares que comparten más o menos el mismo diseño corporal.",
+          "D) los estudios biogeográficos han develado un misterio: el agrupamiento de especies íntimamente afines en hábitats semejantes.",
+          "E) Darwin fue un acucioso investigador que, a bordo del Beagle, hizo observaciones sorprendentes en las islas Galápagos."
+        ],
+        "correct": 1,
+        "rationale": "Con respecto a la teoría de Darwin es compatible con el texto afirma r que"
+      }
+    ]
+  },
+  {
+    "type": "reading_comprehension",
+    "statement": "No está muy lejos el tiempo en el que la psiquiatría ha sido un «saco» de gran utilidad en el que el poder político y social ha metido y ha aislada a muchos individuos inconvenientes para ese mismo orden social. En su libro A question of madness , el científico ruso Zhores Medvedev (1974) cuenta la historia de su enca rcelación, al parecer causada solo por la oposición que él presentó al partido y estado soviético, y su posterior internamiento en un hospital psiquiátrico. ¿Cuál fue el diagnóstico? Esquizofrenia progresiva, paranoia y pobre adaptación al medio social en el que se vive.",
+    "questions": [
+      {
+        "statement": "1. En el texto, el sentido contextual del término CLARA es",
+        "alternatives": [
+          "A) blanca.",
+          "B) concisa.",
+          "C) sencilla.",
+          "D) tajante.",
+          "E) iluminada."
+        ],
+        "correct": 3,
+        "rationale": "CLARA indica que la distinción es tajante, contundente."
+      },
+      {
+        "statement": "2. En el texto, el término DIFUSO es sinónimo de",
+        "alternatives": [
+          "A) complicado.",
+          "B) variado.",
+          "C) borroso.",
+          "D) preclaro.",
+          "E) anodino."
+        ],
+        "correct": 2,
+        "rationale": "DIFUSO alude a límites poco claros, borrosos."
+      },
+      {
+        "statement": "3. En el texto, el límite entre lo normal y lo patológico es muy tenue en la nueva psiquiatría.",
+        "alternatives": [
+          "A) el mundo de la genialidad tiene el mismo valor que el nivel mental prosaico.",
+          "B) todos los trastornos psiquiátricos se pueden subsumir en la esquizofrenia.",
+          "C) el límite entre lo normal y lo patológico es muy tenue en la nueva psiquiatría.",
+          "D) el orden social hace frecuentemente un mal uso de las categorías psiquiátricas.",
+          "E) la estructura cognitiva normal de una persona está impregnada de hipomanías."
+        ],
+        "correct": 2,
+        "rationale": "“No siempre es clara la línea divisoria entre lo enfermo y lo normal” ."
+      },
+      {
+        "statement": "4. Resulta incompatible con el texto aseverar que",
+        "alternatives": [
+          "A) se puede hallar en los lunáticos rasgos de normalidad.",
+          "B) hay convergencia entre lo normal y el carácter insano.",
+          "C) la nueva neuropsicología enfatiza la diversidad humana.",
+          "D) hay señales inequívocas para determinar la diabetes.",
+          "E) la hipomanía revela un fuerte nivel de depresión mental."
+        ],
+        "correct": 4,
+        "rationale": "En el texto la hipomanía es relacionada con la alegría y la desinhibición."
+      },
+      {
+        "statement": "5. Se deduce del texto que un individuo llamado normal",
+        "alternatives": [
+          "A) está totalmente caracterizado por la depresión endógena.",
+          "B) tiene la seguridad de no sufrir nunca una manía psicológica.",
+          "C) puede llegar con facilidad a las cimas de la genialidad.",
+          "D) puede presentar ciertos rasgos de problemas mentales.",
+          "E) se define por su pobre adaptación al medio social en que vive."
+        ],
+        "correct": 3,
+        "rationale": "Existen «piezas anormales» en la estructura cognitiva del hombre normal."
+      },
+      {
+        "statement": "6. Si un sistema totalitario quisiera eliminar a un enemigo del régimen ,",
+        "alternatives": [
+          "A) lo catalogaría como un elemento prosaico.",
+          "B) lo tildaría de insano e inadaptado social.",
+          "C) lo presentaría con un tipo de hipomanía.",
+          "D) trataría de adscribirlo a una idea de genio.",
+          "E) intentaría ligarlo con un tipo de deshinibición."
+        ],
+        "correct": 3,
+        "rationale": "Es el caso del científico ruso Zhores Medvedev."
+      },
+      {
+        "statement": "7. Si hubiese personas sanas, normales y perfectas,",
+        "alternatives": [
+          "A) se recusaría el criterio de la neuropsiquiatría cognitiva.",
+          "B) sería imposible que existieran personas con esquizofrenia.",
+          "C) no habría ningún paciente con un tumor en el cerebro.",
+          "D) resultaría imposible definir científicamente lo patológico.",
+          "E) no habría una clara bifurcación entre lo normal y lo insano."
+        ],
+        "correct": 4,
+        "rationale": "La neuropsiquiatría cognitiva sostiene que la línea entre sano e insano es difusa."
+      }
+    ]
+  },
+  {
+    "type": "reading_comprehension",
+    "statement": "SEMANA 14 C\n\n“Las leyes son como las salchichas, que más vale no ver cómo las hacen”, dijo el canciller Otto Von Bismarck, que siendo alemán sabría de lo que hablaba, y un siglo y medio después la Organización Mundial de la Salud ha venido en su apoyo. Las salchichas son seguramente el epítome de las carnes procesadas a las que la OMS viene poniendo en su punto de mira, que también acecha como rapaz al bacon y la panceta ahumada, el choped, los embutidos y hasta unas carnes rojas y no tan rojas de las que ni Bismarck habría osado recelar. Pero otra agencia de Naciones Unidas menos preocupada de que la gente coma sano que del mero hecho de que coma algo, la FAO (organización para la alimentación y la agricultura) lleva unos años proponiendo una carne alternativa abundante, saludable y que camina sobre seis patas: los insectos. Serán asquerosos, pero al menos no hay problema en ver cómo se hacen, pues son obra de la madre naturaleza.\nUna plaga de langosta puede alimentar a un pueblo, y en el mundo hay tantas hormigas que sus huevas —el escamole, o caviar mexicano — llevarán el lujo incluso a la mesa más pobre antes de que se extingan; en el sur de África se hace un pan aceptable con larvas de polillas, lo que de paso mejora el aspecto del armarito ropero, y los gusanos del escarabajo y el saltamontes son una buena fuente de proteínas allí donde el hambre supere a los escrúpulos. Si uno mira bien a una gamba, podrá ver que los consumidores de los países ricos ya son hoy capaces de llevarse a la boca más cosas de las que podría suponer un marciano. Los biólogos agrupan a la nécora y la araña, la cigala y la escolopendra, la hormiga y el bogavante bajo el mismo y decoroso epígrafe de artrópodos. Y las cosas que la evolución ha situado juntas suelen saber muy parecido. Piénsenlo antes de descartar a los insectos y los arácnidos (que no tienen seis patas, sino ocho) como fuente de nutrientes y placeres desconocidos.\nPiensen también que 100 gramos de termitas tienen el doble de proteínas que una hamburguesa del mismo peso, y también más grasas y calorías. En 2050 habrá 2 000 millones más de personas en el mundo, y a este paso, cuando lleguen a este valle de lágrimas lo más probable es que no encuentren una vaca a la que hacer filetes, una gallina ponedora ni un pez en el mar que no tenga más espinas que omega -3. En realidad, un tercio de la población mundial ya come insectos, un grupo biológico prolijo y prolífico que incluye cerca de 2 000 especies comestibles conocidas, y al que no va a resultar tan fácil extinguir ni queriendo, como sabe cualquiera que tenga cucarachas en su casa.\nAsí que ya saben ustedes: antes de criticar a una agencia de la ONU, escuchen lo que dice la otra. Coman menos salchichas y más escarabajos: sino logran vivir más, al menos honrarán la memoria del canciller Bismarck.\nJavier Sampedro, “Carne saludable y abundante en seis patas”. En El País , España, 2 de noviembre de 2015",
+    "questions": [
+      {
+        "statement": "1. El origen germánico de la salchicha y similares",
+        "alternatives": [
+          "A) El origen germánico de la salchicha y similares",
+          "B) El papel de la OMS y la FAO en la alimentación",
+          "C) Las alternativas a la carne propuestas por la FAO",
+          "D) El consumo de insectos como opción ante la carne",
+          "E) Los problemas a la salud derivados de la carne"
+        ],
+        "correct": 3,
+        "rationale": "El autor del texto explica su posición favorable al consumo de insectos en lugar de carne."
+      },
+      {
+        "statement": "2. Es incompatible con el sentido del texto afirmar que",
+        "alternatives": [
+          "A) en un futuro más o menos cercano la producción de carne será inviable .",
+          "B) los insectos constituyen una fuente difícilmente agotable de alimentos .",
+          "C) algunos organismos de la ONU no son muy sensibles al problema del hambre .",
+          "D) la alimentación que incluye insectos se limita hoy a los sectores más pobres .",
+          "E) el consumo de insectos se ve limitado por las aprehensiones de los consumidores ."
+        ],
+        "correct": 3,
+        "rationale": "En el texto, se señala que los ricos comen gambas (un artrópodo marino)."
+      },
+      {
+        "statement": "3. En esencia, el autor sostiene que",
+        "alternatives": [
+          "A) debemos buscar opciones saludables a la carne .",
+          "B) podemos encontrar muchos insectos comestibles .",
+          "C) ingerir insectos es una alternativa a comer carne .",
+          "D) las personas sin escrúpulos comen insectos .",
+          "E) una gran parte de la población mundial come insectos ."
+        ],
+        "correct": 2,
+        "rationale": "El autor esgrime variadas razones para comer insectos como alternativa frente a la carne."
+      }
+    ]
+  },
+  {
+    "type": "reading_comprehension",
+    "statement": "Muchos de los que leemos el periódico en papel estamos acostumbrados a empezar por lo malo: política nacional e internacional, opinión pesimista o peregrina o (qué alivio) a veces balsámica; economía, sucesos, salud (casi siempre mala y desalentadora, cuando no alarmante). Luego aparecen las secciones más amables o sosegadas, o menos indignantes, aquellas que no nos suelen dar sobresaltos ni disgustos: sociedad, cultura, espectáculos, deportes, algún cotilleo o curiosidad. Uno agradecía asomarse a esas esferas de relativa armonía, o por lo menos de inocuidad, tras pasar por las atrocidades cotidianas, las sandeces, c orrupciones e irresponsabilidades de demasiados políticos, los amenazantes vaivenes laborales y financieros y la ristra de asesinatos individuales, cometidos cada uno en un lugar. Por eso, a mí, me dice más sobre el estado del mundo lo que traen y reflejan esos ámbitos “ligeros” que las noticias “de peso”, que siempre han sido preocupantes o directamente horribles y lo seguirán siendo siempre.\nLo que me hace ver nuestra época como particularmente tenebrosa no son las salvajadas del Daesh (que también), ni la crisis de los refugiados, ni que Donald Trump y Putin cosechen más entusiastas cuanto más rebuznan, ni la furia sádica de los cárteles mexicanos, ni la dictadura chavista , ni el auge de Le Pen, ni la tabula rasa que Rajoy parece tener por cerebro, ni la posesión de Artur Mas (que cada vez se cree más Napoleón, como si fuera un loco de chiste anticuado; solo que estos acostumbraban a estar encerrados), ni la tontuna parvularia de sus cerrajeros de la CUP (de ellos depende que pueda utilizar su llave). Con todo esto uno ya cuenta. Con que los países a menudo los rigen deficientes, sanguinarios o no, y aspiran a regirlos otros deficientes, elegidos en las urnas o no. Lo que me indica la gravedad de la situación es comprobar que las irritaciones y estupefacciones no terminan donde deberían sino que se extenden hasta esas secciones inofensivas y las invaden, normalmente de estupidez, con ocasionales gotas de envilecimiento.\nLlega uno a Cultura y con frecuencia se encuentra a palmarios farsantes a los que se dedican páginas injustificables. Llega a Deportes y lo que allí lo aguarda son los amaños del nefasto Blatter y sus acólitos, ola enésima pitada a Piqué por parte de cenutrios que ni siquiera saben por qué le pitan, como antes se abucheaba a Casillas por ser sobresaliente y haber rendido incomparables servicios a su club y a su selección. Llega a Espectáculos y se topa con noticias como esta: en pocas horas se han recogido 95.000 firmas en “la Red” protestando porque en una nueva película relacionada con Peter Pan se ha encomendado la encarnación de la Princesa Tigrilla a una actriz blanca y no a una “nativo -americana” – india piel roja, para entendernos –, puesto que ese personaje de fantasía pertenece a dicha raza. No es el primer caso de “ofensa”, cuenta Irene Crespo: la pecosa actriz Emma Stone pidió disculpas (!) por haber interpretado a una piloto mitad asiática y mitad hawaiana. Ridley Scott se la cargó por no contar con actores árabes para Éxodo ,que transcurría en Egipto… en los tiempos de Moisés. ¿Y cómo se atrevió Johnny Depp con el papel del amigo indio del Llanero Solitario, siendo él caucásico a más no poder? Según esto, Mac beth solo lo podrían hacer actores escoceses y Hamlet, daneses. Y Don Quijote, manchegos. Y Don Juan, sevillanos. Y Quasimodo, jorobados de verdad. No quiero ni pensar la que le habría caído hoy a Marlon Brando, que en 1956 hizo de japonés en La casa de té de la luna de agosto . (Cierto que estaba para darle de bofetadas durante todo el metraje, como alguna vez más, pero esa es otra cuestión )\nUno se pregunta qué ha pasado para que parte de la humanidad ya no distinga entre realidad y ficción, algo que la especie sabía hacer desde siglos antes de Cristo. O cuándo optó por el “realismo” a pie juntillas y decidió inmiscuirse en los criterios de los artistas y protestar por lo que estos inventen. También cuándo dejó de entender que las instituciones y clubs privados tienen sus reglas y que nadie está obligado a pertenecer a ellos. Si para la Iglesia c atólica abortar lleva o llevaba aparejada la excomunión, la opción es clara: si se forma parte de esa fe religiosa, o no se aborta o se expone uno a las consecuencias; lo que Real Academia Española es preceptivo llevar corbata, y yo lo sabía antes de entrar en ella. Si un día aparezco sin esa prenda, supongo que no me permitirán pasar y no armaré un escándalo por ello. Sabía a qué me atenía al aceptar.\nUno se pregunta por qué grandes porciones del mundo han dejado de entender lo que era fácilmente comprensible hasta hace cuatro días. Por qué ha habido un retroceso generalizado del entendimiento y del sentido común. Por qué no hay mayor placer que el de quejarse y protestar por todo, más cuanto más inexistente el motivo. Cuando la estupidez se apodera de las secciones amables del periódico; cuando estas prolongan la irritación, en vez de apaciguar, es síntoma de que todo es ominoso y anda fatal. No es de extrañar que luego la gente vote o ensalce a idiotas, pirados o malvados, y que las secciones “de peso” nos hundan cada mañana el ánimo.\nJavier Marías. “Cuando pesa lo ligero”. En El País , España. 2 de noviembre de 2015",
+    "questions": [
+      {
+        "statement": "1. La expresión CON TODO ESTO UNO YA CUENTA connota",
+        "alternatives": [
+          "A) tedio .",
+          "B) obsesión.",
+          "C) seguridad.",
+          "D) expectativa.",
+          "E) rutina."
+        ],
+        "correct": 3,
+        "rationale": "La expresión alude a la actitud del autor de estar acostumbrado a las tonterías y horrores que difunden los medios de comunicación porque tienen un carácter reiterativo."
+      },
+      {
+        "statement": "2. ¿Cuál es la idea principal del texto?",
+        "alternatives": [
+          "A) Las secciones culturales de los periódicos se ven invadidas por noticias intrascendentes.",
+          "B) Las manifestaciones artísticas están sometidas hoy más que nunca a la crítica del hombre común.",
+          "C) Cada institución y comunidad tiene sus propias reglas y es estúpido tratar de contrariarlas.",
+          "D) Los medios de comunicación enfatiza cada vez más lo terrorífico, lo grosero y lo perverso.",
+          "E) La estupidez y el envil ecimiento han invadido los ámbitos que tradicionalmente estaban libres de ellos."
+        ],
+        "correct": 4,
+        "rationale": "“Cuando la estupidez se apodera de las secciones amables del periódico; cuando estas prolongan la irritación, en vez de apaciguar, es síntoma de que todo es ominoso y anda fatal” ."
+      },
+      {
+        "statement": "5. Si las secciones ligeras del periódico cumplieran el cometido para el que fueron creadas,",
+        "alternatives": [
+          "A) las noticias nacionales e internacionales serían más balsámicas.",
+          "B) las secciones “de peso” no nos abatirían tanto el ánimo.",
+          "C) la gente protestaría menos por cuestiones intrascendentes.",
+          "D) el ámbito cultural no estaría plagado de farsantes palmarios.",
+          "E) podría suponerse que la situación del mundo ha mejorado."
+        ],
+        "correct": 4,
+        "rationale": "El autor señala que si las noticias que deberían ser ligeras se llenan de estupidez es que el mundo debe andar muy mal."
+      }
+    ]
+  },
+  {
+    "type": "verbal_series",
+    "statement": "1. ¿Cuál es el término que no corresponde a la misma serie verbal?",
+    "alternatives": [
+      "A) Patidifuso",
+      "B) Suspenso",
+      "C) Intonso",
+      "D) Estupefacto",
+      "E) Turulato"
+    ],
+    "correct": 2,
+    "rationale": "Intonso significa ignorante, vulgar. No corresponde al mismo campo semántico de sorprendido ."
+  },
+  {
+    "type": "verbal_series",
+    "statement": "2. ¿Cuál es el término que no corresponde a la misma serie verbal?",
+    "alternatives": [
+      "A) Sonsonete",
+      "B) Cantinela",
+      "C) Tonillo",
+      "D) Estribillo",
+      "E) Retintín"
+    ],
+    "correct": 3,
+    "rationale": "Estribillo alude a un verso que se repite, y, por extensión, a la palabra o frase repetida de manera viciosa. Los demás términos aluden a un sonido repetitivo, un tonillo al hablar, muchas veces con connotación irónica."
+  },
+  {
+    "type": "verbal_series",
+    "statement": "3. ¿Cuál es el término que no corre sponde a la misma serie verbal?",
+    "alternatives": [
+      "A) Tortuoso",
+      "B) Sinuoso",
+      "C) Escarpado",
+      "D) Serpenteante",
+      "E) Ondulante"
+    ],
+    "correct": 2,
+    "rationale": "Escarpado significa de pendiente muy pronunciada. Los demás términos aluden a lo torcido, que hace ondas."
+  },
+  {
+    "type": "verbal_series",
+    "statement": "6. Encaramar, empinar, alzar ,",
+    "alternatives": [
+      "A) guarecer",
+      "B) deprecar",
+      "C) alambicar",
+      "D) entorchar",
+      "E) encumbrar"
+    ],
+    "correct": 4,
+    "rationale": "Serie de sinónimos. Se completa con la palabra encumbrar."
+  },
+  {
+    "type": "verbal_series",
+    "statement": "4. Arrebujar, reburujar; trozar, unir; adagio, apotegma ;",
+    "alternatives": [
+      "A) erebo, báratro .",
+      "B) prosapia, estirpe .",
+      "C) fárrago, orden .",
+      "D) marbete, membrete .",
+      "E) azorar, conturbar ."
+    ],
+    "correct": 2,
+    "rationale": "Es una serie mixta de sinónimos -antónimos -sinónimos. Falta antónimos."
+  },
+  {
+    "type": "verbal_series",
+    "statement": "6. Encaramar, empinar, alzar ,",
+    "alternatives": [
+      "A) guarecer .",
+      "B) deprecar .",
+      "C) alambicar .",
+      "D) entorchar .",
+      "E) encumbrar ."
+    ],
+    "correct": 4,
+    "rationale": "Serie de sinónimos. Se completa con la palabra encumbrar ."
+  },
+  {
+    "type": "verbal_series",
+    "statement": "7. Almibarado, empalagoso, meloso,",
+    "alternatives": [
+      "A) ríspido .",
+      "B) azucarado .",
+      "C) acerbo .",
+      "D) engolado .",
+      "E) alevoso ."
+    ],
+    "correct": 1,
+    "rationale": "Es una serie de sinónimos."
+  },
+  {
+    "type": "verbal_series",
+    "statement": "8. Chabacano, refinado; envite, apuesta; sesgado, enderezado ;",
+    "alternatives": [
+      "A) saldar, finiquitar .",
+      "B) inmarcesible, transitorio .",
+      "C) ruano, terso .",
+      "D) zopenco, zarco .",
+      "E) cenagoso, drenado ."
+    ],
+    "correct": 0,
+    "rationale": "Serie mixta de antónimos -sinónimos -antónimos. Falta sinónimos."
+  },
+  {
+    "type": "verbal_series",
+    "statement": "9. Límpido, impoluto; imberbe, lampiño; irrogar,",
+    "alternatives": [
+      "A) desembolsar .",
+      "B) acarrear .",
+      "C) calibrar .",
+      "D) encanutar .",
+      "E) calafatear ."
+    ],
+    "correct": 1,
+    "rationale": "Serie mixta de sinónimos -antónimos -sinónimos. Acarrear completa la pareja de sinónimos."
+  },
+  {
+    "type": "verbal_series",
+    "statement": "10. ¿Cuál es el término que no corresponde a la misma serie verbal?",
+    "alternatives": [
+      "A) Tiara",
+      "B) Tocado",
+      "C) Pamela",
+      "D) Chistera",
+      "E) Bacía"
+    ],
+    "correct": 4,
+    "rationale": "Bacía es una vasija. No corresponde al campo semántico de sombreros."
+  }
+]

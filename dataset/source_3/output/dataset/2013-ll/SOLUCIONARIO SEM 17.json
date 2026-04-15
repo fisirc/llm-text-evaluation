@@ -1,0 +1,654 @@
+[
+  {
+    "type": "reading_comprehension",
+    "statement": "No es fácil abordar el tema de los intelectuales. Existe el riesgo de no aportar ideas sólidas; se pueden cometer serios desacatos a la ciencia; igual se puede desacreditar a grandes personajes o quemar incienso a otros con los que hemos desarrollado cierta empatía.\n\nDeberíamos comenzar por definir qué o quién es un intelectual. Para algunos, un intelectual es una persona con barba recortada en forma de candado, con anteojos como los de Fernando Savater o los de John Lenon, y vestimenta aparentemente despreocupada; aunque si se observa bien, resulta que la camisa, el saco y la corbata son de marca altamente costosa. Otros creen que el intelectual es una persona que habla en términos difíciles de entender, y cita como si fueran sus amigos a Heidegger, Kierkegaard, Habermas, o habla de semiótica y del pensamiento complejo, como si en verdad supiera de qué está hablando. Los más asumen que un intelectual es un comentarista de prensa o televisión, que siempre encuentra transgresiones a la moral ahí donde los políticos solo ven «una buena negociación, o un punto de acuerdo». El intelectual, dice el diccionario, es la persona que se dedica al estudio y la reflexión crítica de la realidad, y comunica sus ideas con la pretensión de influir con ellas, alcanzando un estatus de autoridad ante la opinión pública.\n\nEl término «intelectual» fue acuñado en Francia como un calificativo peyorativo por Maurice Barrès y Ferdinand Brunetière para designar a personajes de la ciencia, del arte y la cultura, como Zola, Octave Mirbeau o Anatole France, porque apoyaban la liberación del capitán judío Alfred Dreyfus acusado injustamente de traición. Posteriormente, el término se ha utilizado con connotaciones positivas para designar a las personas que gozan de prestigio gracias a su inteligencia superior.\n\nPudiéramos no estar de acuerdo totalmente con ninguna definición, pero lo que sí queda claro es que los «intelectuales» juegan un papel muy importante en la sociedad, ya que son, al mismo tiempo, de desarrolladores, innovadores, censores, contralores y, de alguna manera, «la conciencia ciudadana» frente a quienes detentan la hegemonía y que eventualmente o permanentemente se empeñan en orientar la vida social de acuerdo con sus particulares intereses.",
+    "questions": [
+      {
+        "statement": "1. En el texto, la expresión QUEMAR INCIENSO connota",
+        "alternatives": [
+          "A) manutención.",
+          "B) preservación.",
+          "C) extravagancia.",
+          "D) ensalzamiento.",
+          "E) indefensión."
+        ],
+        "correct": 3,
+        "rationale": "la expresión QUEMAR INCIENSO, en el contexto que se encuentra, quiere decir que podemos correr el r iesgo de elogiar, alabar o ensalzar a alguien que no lo merece."
+      },
+      {
+        "statement": "2. En la lectura, el término PEYORATIVO supone",
+        "alternatives": [
+          "A) chanza.",
+          "B) ludibrio.",
+          "C) mofa.",
+          "D) desdoro.",
+          "E) lealtad."
+        ],
+        "correct": 3,
+        "rationale": "El término “intelectual” fue utilizado como un calificativo peyorativo para desprestigiar a personajes como Zola, Mirbeau o Anatole France."
+      },
+      {
+        "statement": "3. El tema central del texto es",
+        "alternatives": [
+          "A) la apariencia de varios intelectuales.",
+          "B) la definición del término «intelectual».",
+          "C) la función social de los intelectuales.",
+          "D) la definición relativa de «intelectual».",
+          "E) el papel los intelectuales literarios."
+        ],
+        "correct": 2,
+        "rationale": "El texto desarrolla en todos los párrafos el tema del “intelectual”. El autor menciona que claramente el “intelectual” tiene un rol social innegable."
+      },
+      {
+        "statement": "4. ¿Cuál es la idea princi pal del texto?",
+        "alternatives": [
+          "A) La función social de los intelectuales es incontrovertible.",
+          "B) Los literatos intelectuales deben luchar contra la injusticia.",
+          "C) Los intelectuales tienen la apariencia de ser desaliñados.",
+          "D) El término «intelectual» se define sobre una base relativa.",
+          "E) El término «intelectual» tiene referentes dispares siempre."
+        ],
+        "correct": 0,
+        "rationale": "El intelectual tiene un claro papel social como innovadores, desarrolladores, censores, contralores y frente a los que pretenden aprovecharse de los demás."
+      },
+      {
+        "statement": "5. Es incompatible con el texto sostener que un «intelectual» es una persona",
+        "alternatives": [
+          "A) superflua en la sociedad.",
+          "B) que parecería desaliñado.",
+          "C) competente léxicamente.",
+          "D) que aparece en televisión.",
+          "E) que tal vez sea músico."
+        ],
+        "correct": 0,
+        "rationale": "Según el autor, un “in telectual” tiene un papel preponderante en la sociedad."
+      },
+      {
+        "statement": "6. Es compatible con el texto aseverar que el referente para definir «intelectual» es",
+        "alternatives": [
+          "A) preciso.",
+          "B) difuso.",
+          "C) riguroso.",
+          "D) detallista.",
+          "E) exótico."
+        ],
+        "correct": 1,
+        "rationale": "El referente que muchas veces se tiene para definir el término “intelectual” es impreciso y poco claro, por lo tanto, para definir “intelectual” no debemos tomar en cuenta el referente, sino la función que debería desempeñar el “intelectual”."
+      },
+      {
+        "statement": "7. Es incompatible con la lectura sostener que el autor del texto",
+        "alternatives": [
+          "A) define “intelectual” con base de la función que este tiene.",
+          "B) advierte que podemos llamar “intelectual” a una amiga.",
+          "C) está de acuerdo con la sentencia contra Alfred Dreyfus.",
+          "D) aconseja cuidarnos de calificar a alguien de “intelectual”.",
+          "E) conoce el significado de “intelectual” del diccionario RAE."
+        ],
+        "correct": 2,
+        "rationale": "El autor califica la sentencia contra el capitán judío Alfred Dreyfus como un juicio “injusto”."
+      },
+      {
+        "statement": "8. Es compatible con el texto afirmar que los ciudadanos",
+        "alternatives": [
+          "A) descalifican como “intelectuales” a sus amistades más cercanas.",
+          "B) se basan siempre en el rigor científico para definir “intelectual”.",
+          "C) tienen miramientos cuando califican a alguien como “intelectual”.",
+          "D) a veces rehúyen enfrentarse a personas con poder hegemónico.",
+          "E) desdeñan de los músicos como claros ejemplos de intelectuales."
+        ],
+        "correct": 3,
+        "rationale": "Según el texto, los intelectuales cumplen una función social de “defensores” de las personas frente al papel hegemónico que representan personas o grupos con intereses propios frente a los intereses de los ciudadanos, quienes no siempre podrían enfrentar a quienes se aprovechan de estos últimos."
+      },
+      {
+        "statement": "9. Resulta incompatible con el texto que la apariencia desaliñada de algunos «intelectuales»",
+        "alternatives": [
+          "A) se basa en buen poder adquisitivo.",
+          "B) es mera apariencia y no la realidad.",
+          "C) puede confundir sino se mira bien.",
+          "D) puede resultar ser ropa que es cara.",
+          "E) sea siempre producto del desinterés."
+        ],
+        "correct": 4,
+        "rationale": "Según el texto, la apariencia desaliñada puede no corresponder a la realidad; se trata de una apariencia."
+      },
+      {
+        "statement": "10. Se deduce del texto que las diferentes definiciones del término «intelectual» son",
+        "alternatives": [
+          "A) dogmáticas.",
+          "B) definitivas.",
+          "C) totales.",
+          "D) absolutas.",
+          "E) relativas."
+        ],
+        "correct": 4,
+        "rationale": "Las definiciones de “intelectual” dependen del referente que las personas tengan cerca."
+      }
+    ]
+  },
+  {
+    "type": "sentence_elimination",
+    "statement": "Se infiere del texto que la utilización terapéutica del ozono",
+    "alternatives": [
+      "A) contrarresta algunos males.",
+      "B) aún no se ha masificado.",
+      "C) complementa tratamientos.",
+      "D) es un regulador metabólico.",
+      "E) no se utiliza en ginecología."
+    ],
+    "correct": 1,
+    "rationale": "La ozonoterapia puede complementar fácilmente a diferentes tera pias médicas como en la ginecología, en la cardiología, etcétera, porque no produce efectos secundarios."
+  },
+  {
+    "type": "sentence_elimination",
+    "statement": "Si la atmósfera terrestre no estuviera deteriorada por la contaminación; entonces, es probable que",
+    "alternatives": [
+      "A) los rayos ultravioletas nos afecten más.",
+      "B) la ozonoterapia no sea recomendada.",
+      "C) el ozono sea mucho menos conocido.",
+      "D) se excluya el oxígeno de las terapias.",
+      "E) el ozono no combine con el oxígeno."
+    ],
+    "correct": 2,
+    "rationale": "En el texto se afirma que el ozono es conocido mayoritariamente porque está involucrado en la contaminación ambiental porque se está deteriorando. Si estuviera incólume, es seguro que menos personas sepan de él."
+  },
+  {
+    "type": "sentence_elimination",
+    "statement": "Si la utilización médica del ozono no fuera compatible con cualquier otro tratamiento médico, es posible que",
+    "alternatives": [
+      "A) la ozonoterapia deje de ser vanguardista.",
+      "B) se aplique indirectamente para no afectar.",
+      "C) los ginecólogos lo utilicen frecuentemente.",
+      "D) deje de tener sus propiedades asépticas.",
+      "E) ya no se le considere un buen germicida."
+    ],
+    "correct": 0,
+    "rationale": "La ozonoterapia es una técnica de vanguardia porque tiene un espectro amplio de aplicaciones y también porque complementa tratamientos al no dejar efectos secundarios. Si esto último no fuera cierto, dejaría de ser una aplicación de vanguardia porque dejaría malestar y con el malestar ya no se produce calidad de vida."
+  },
+  {
+    "type": "sentence_elimination",
+    "statement": "Si el ozono no se mezclara con el oxígeno, entonces, es probable que",
+    "alternatives": [
+      "A) sea una sustancia completamente nociva.",
+      "B) las infecciones serían más recurrentes.",
+      "C) siga teniendo propiedades terapéuticas.",
+      "D) en Italia se desdeñaría de la ozonoterapia.",
+      "E) dejaría de sanar heridas y quemaduras."
+    ],
+    "correct": 2,
+    "rationale": "Se mezcla el ozono con oxígeno para potenciar sus propiedades terapéuticas, es decir, sin el oxígeno, el ozono tiene todavía propiedades terapéuticas pero con menor fuerza."
+  },
+  {
+    "type": "sentence_elimination",
+    "statement": "Si se descubriera que la mezcla de ozono y oxígeno no fuera un buen regulador metabólico solamente, entonces, la ozonoterapia",
+    "alternatives": [
+      "A) dejaría de ser una técnica innovadora y vanguardista.",
+      "B) en Cuba se continuaría investigando sus propiedades.",
+      "C) Alemania buscaría mezclarlo con otro gas terapéutico.",
+      "D) Cuba ya no sería un país vanguardista medicinalmente.",
+      "E) todavía seguiría teniendo una amplia gama terapéutica."
+    ],
+    "correct": 4,
+    "rationale": "Si la mezcla de O2 y O3 dejara de ser un buen regulador metabólico solamente, sus otras propiedades terapéuticas continuarían vigentes, por lo tanto, sería aún una técnica vanguardista."
+  },
+  {
+    "type": "reading_comprehension",
+    "statement": "Aquella tarde, cuando Matusalén llegó a su casa, casi al ponerse el sol, se desvistió lentamente y se acostó sobre su cama. El cansancio, ya crónico, no solo le producía una enorme fatiga al menor esfuerzo, sino que también le hacía olvidar cosas sencillas, y lo obligaba a recordar, con nostalgia, pasajes importantes de su vida y a reflexionar sobre su propia existencia.\n\nEse día recordó que Adán, su bisabuelo y primer hombre sobre la Tierra, había vivido 930 años y además había perdido la oportunidad – y con él toda la humanidad – de vivir eternamente con felicidad en el Paraíso. Y trajo a la memoria a Set, su abuelo, a quien alcanzó a conocer y que rer, pues vivió 912 años, y a su padre Enoc, a quien siempre admiró por su rectitud y religiosidad.\n\nPero a quienes más recordaba con cariño ese día, el cual estaba cargado de nubes y relámpagos como los de las últimas dos semanas, era a su hijo Lamec, a quien había engendrado muy joven, cuando tenía 187 años, y a su nieto Noé, al que desde hacía varios meses veía acompañado de su familia mientras cortaban árboles y le daban forma a un enorme arca –construcción– que nunca abordó, a la parque reunían en eno rmes corrales a numerosas parejas de animales de todas las especies, todo ello porque Dios le advirtió que desaparecería a la humanidad con un diluvio.\n\nAl recordarlos, repasaba también el número de años que había vivido, los que le parecían una eternidad, pues desde hacía un par de centurias le parecía que el tiempo fluía lentamente. Todos los días le parecían iguales, y las horas pasaban sin que nada lo motivara o ilusionara o lo distrajera. Matusalén se preguntaba, como lo venía haciendo durante los últimos años, si su existencia estaba desprovista de sentido, dado que el hastío lo había conducido a esa tristeza que tenazmente lo acompañaba y que en muchas ocasiones lo empujaba al borde de la desesperación.\n\nTambién se preguntaba si esa inquietud interior que tenía, esa terrible desolación, esa ansiedad por sentirse aburrido (que lo afligían intensamente) eran consecuencia de los numerosos años vividos. «¿Por qué Dios ha prolongado mi edad, cuando mi padre mi abuelo y mi bisabuelo vivieron menos que yo?», pensaba Matusalén.\n\nLo que no sabía – no podía saberlo – era el hecho de que más adelante se reducirían drásticamente los años que vivirían los humanos en las distintas eras, pues, para el Paleolítico Superior, la esperanza de vida al nacer sería de 33 años, para bajar en el Neolítico a 20, incrementarse luego en la Edad de Bronce a 35, descender enseguida en la Grecia Clásica y la Antigua Roma a 28 años, y quedar en la Edad Media en 30.\n\nUNMSM II 22\n\nSobre todo, ignoraba que, a partir del siglo XIX, la humanidad lograría enormes avances mediante mejoras higiénicas y sanitarias como agua potable entubada, calles empedradas y posteriormente pavimentadas, con viviendas dignas, con piso de cemento y servicios sanitarios.\n\nIgnoraba que con el descubrimiento de microorganismos como agentes causales de enfermedades, y con la creación de nuevos y efectivos medicamentos como la penicilina en 1982 y con los métodos para la producción en masa de los fármacos, la mortalidad infantil se reduciría, y la esperanza de vida general tendría un aumento de dos años y medio cada década.\n\nOtros datos que desconocía, y que de haberlos sabido le agudizarían su tristeza, es que en el siglo XXI, existirían grandes diferencias en la esperanza de vida entre los países, producto de sus niveles de riqueza y pobreza, ya que habría algunos con muy bajas expectativas, como en 2005 en Zambia con 37.5 años, en Malawi con 39.7 años, y Sierra Leona con 40.8. En el mismo año, Andorra llegaría a 83.5 años, Japón a 82, y España a 81.\n\nLejos estaba Matusalén de imaginar que en el siglo XX se sabría que en los humanos, como en cualquier otro organismo multicelular, existe un modo común de muerte celular programada llamada apoptosis, mediante el cual las células diseñan y ejecutan su propia muerte. Y que, por esa misma época, se llegaría a conocer el Ácido Desoxirribonucleico o ADN, molécula celular donde no solo se guarda la historia y los secretos de cada ser humano, sino que también ha permitido a nuestra especie sobrevivir y evolucionar a las más altas manifestaciones del arte, la ciencia, la religión e incluso el deporte.",
+    "questions": [
+      {
+        "statement": "En el texto, el término CRÓNICO refiere a",
+        "alternatives": [
+          "A) una sensación frecuente.",
+          "B) un malestar insoportable.",
+          "C) las ganas de querer morir.",
+          "D) sus constantes recuerdos.",
+          "E) su recurrente duda de vivir."
+        ],
+        "correct": 0,
+        "rationale": "la palabra “crónico” está relacionado con lo “cronológico”, es decir, con el tiempo. De ahí que un mal crónico sea un mal recurrente. Tal es el caso de Matusalén."
+      },
+      {
+        "statement": "En el texto, la expresión MUY JOVEN connota",
+        "alternatives": [
+          "A) ironía.",
+          "B) repulsa.",
+          "C) desdén.",
+          "D) desaire.",
+          "E) calvario."
+        ],
+        "correct": 0,
+        "rationale": "El autor del texto explica que Matusalén tuvo un hijo a la “muy joven edad” de 187 años. Es a todas luces una ironía."
+      },
+      {
+        "statement": "El antónimo contextual de TENAZMENTE es",
+        "alternatives": [
+          "A) fogosamente.",
+          "B) gradualmente.",
+          "C) desconsuelo.",
+          "D) excitadamente.",
+          "E) felizmente."
+        ],
+        "correct": 1,
+        "rationale": "Matusalén, en su lecho, se preguntaba cómo venía viviendo los últimos días. Estaba hastiado de su vida, consecuentemente, una tristeza lo acompañaba tenazmente, es decir, con asiduidad. Lo contrario ser-ía que la tristeza se manifieste raramente."
+      },
+      {
+        "statement": "¿Cuál es el tema central de la lectura?",
+        "alternatives": [
+          "A) El descubrimiento del gen.",
+          "B) El bíblico Diluvio Universal.",
+          "C) La dilatada vida de Matusalén.",
+          "D) La esperanza de vida al nacer",
+          "E) La muerte a partir del pecado."
+        ],
+        "correct": 3,
+        "rationale": "El texto presenta a Matusalén como una manera de entrar al tema de la esperanza de vida al nacer."
+      },
+      {
+        "statement": "Se desprende del texto que Matusalén",
+        "alternatives": [
+          "A) vivió largo tiempo.",
+          "B) era casi inmortal.",
+          "C) estaba artrítico.",
+          "D) casi era agnóstico.",
+          "E) murió ahogado."
+        ],
+        "correct": 4,
+        "rationale": "como Matusalén nunca subió al arca de Noé, entonces, él murió ahogado en el Diluvio Universal."
+      },
+      {
+        "statement": "Se deduce de la lectura que para cuando Matusalén se acostó",
+        "alternatives": [
+          "A) empezaba ya a diluviar.",
+          "B) empezó a recordar todo.",
+          "C) sentía dolores de cadera.",
+          "D) sentía demasiada tristeza.",
+          "E) había vivido ya mil años."
+        ],
+        "correct": 0,
+        "rationale": "A) empezaba ya a diluviar."
+      }
+    ]
+  },
+  {
+    "type": "reading_comprehension",
+    "statement": "como Matusalén nunca subió al arca de Noe, entonces, él murió ahogado en el Diluvio Universal.",
+    "questions": [
+      {
+        "statement": "Se deduce de la lectura que para cuando Matusalén se acostó",
+        "alternatives": [
+          "A) empezaba ya a diluviar.",
+          "B) empezó a recordar todo.",
+          "C) sentía dolores de cadera.",
+          "D) sentía demasiada tristeza.",
+          "E) había vivido ya mil años."
+        ],
+        "correct": 0,
+        "rationale": "En el tercer párrafo se menciona que el cielo estaba cargado de nubes y relámpagos desde hace dos semanas. Es de suponer que ya estaba empezando el Diluvio Universal."
+      },
+      {
+        "statement": "Se colige del texto que, respecto a la Edad Media, la esperanza de vida al nacer en el siglo XXI",
+        "alternatives": [
+          "A) aumento como mínimo 7.5 años.",
+          "B) aumentó como máximo 7.5 años.",
+          "C) aumentó como mínimo 53.5 años.",
+          "D) aumentó como mínimo 52 años.",
+          "E) es un regalo del Dios creador."
+        ],
+        "correct": 0,
+        "rationale": "En la Edad Media, la esperanza de vida al nacer fue de 30 años. Luego, en el siglo XXI, la esperanza mínima de vida al nacer se registró en Zambia con 37.5 años, es decir como mínimo 7.5 años."
+      },
+      {
+        "statement": "Si Dios le hubiera anunciado a Matusalén el porqué de su dilatada existencia, entonces, tal vez",
+        "alternatives": [
+          "A) no hubie se empezado a recordar a sus familiares y amigos.",
+          "B) habría ayudado a juntar parejas de animales para el arca.",
+          "C) Adán no habría cometido el pecado original y seguiría vivo.",
+          "D) habría asumido su prolongada senescencia con aplomo.",
+          "E) habría dado a vivir con circunspección y volubilidad."
+        ],
+        "correct": 3,
+        "rationale": "Matusalén vivía con inquietudes porque siempre se preguntaba por qué el tenía que haber vivido más que sus antepasados. Si se le hubiera revelado el porqué de su prolongada existencia, entonces, esa inquietud hubiera desaparecido."
+      }
+    ]
+  },
+  {
+    "type": "verbal_series",
+    "statement": "Contubernio, confabulación; baqueteado, bisoño; testarudo, porfiado;",
+    "alternatives": [
+      "A) benevolente, magnánimo.",
+      "B) tergiversar, confundir.",
+      "C) intrínseco, inherente.",
+      "D) deformar, distorsionar.",
+      "E) extrínseco, fundamental."
+    ],
+    "correct": 4,
+    "rationale": "Serie mixta: sinónimos, antónimos, sinónimos, ANTÓNIMOS."
+  },
+  {
+    "type": "verbal_series",
+    "statement": "Disoluto, frugal; voluptuoso, concupiscente; reluctancia, deleite;",
+    "alternatives": [
+      "A) samaritano, filántropo.",
+      "B) acometer, retroceder.",
+      "C) desriñonar, reanimar.",
+      "D) robustecer, marchitar.",
+      "E) apoltronar, esforzarse."
+    ],
+    "correct": 0,
+    "rationale": "Serie mixta: antónimos, sinónimos, antónimos SINÓNIMOS."
+  },
+  {
+    "type": "verbal_series",
+    "statement": "Yerro, acierto; sinuoso, rectilíneo; agazaparse, erguirse;",
+    "alternatives": [
+      "A) iluso, quijotesco",
+      "B) premura, prontitud.",
+      "C) mediocre, regular.",
+      "D) prudente, excesivo.",
+      "E) prosperar, medrar."
+    ],
+    "correct": 3,
+    "rationale": "Serie basada en la relación semántica de antonimia."
+  },
+  {
+    "type": "verbal_series",
+    "statement": "Abarrotar, vaciar; atosigar, tranquilizar; abuchear, ovacionar;",
+    "alternatives": [
+      "A) acallar, adormecer.",
+      "B) acantonar, acuartelar.",
+      "C) acaparar, distribuir.",
+      "D) acendrar, acrisolar.",
+      "E) acibarar, acidular."
+    ],
+    "correct": 2,
+    "rationale": "Serie basada en la relación semántica de antonimia."
+  },
+  {
+    "type": "sentence_elimination",
+    "statement": "I) La esplenomegalia [espleno „bazo + -mega - „tamaño excesivo + -ia] es un agrandamiento patológico del bazo más allá de sus dimensiones (11 cm). II) La hepatomegalia [hepato „hígado + -mega - „tamaño excesivo + -ia] es un aumento patológico del hígado. III) La acromegalia [acro „punta, extremo + -mega - „tamaño excesivo + -ia] es una enfermedad producida por la excesiva secreción de la hormona del crecimiento. IV) Megalomanía [megal - „tamaño excesivo + manía „locura, adicción] es un desequilibrio mental que consiste en un agrandamiento o aumento de los delirios de grandeza. V) La clitoromegalia [clítoris „clítoris + -megal - „tamaño excesivo + -ia] es un aumento anormal del tamaño del clítoris.",
+    "alternatives": [
+      "A) IV",
+      "B) I",
+      "C) V",
+      "D) II",
+      "E) III"
+    ],
+    "correct": 1,
+    "rationale": "Por impertinencia se elimina la oración I porque no desarrolla el tema de «nombres de patologías con el sufijo -megal»."
+  },
+  {
+    "type": "sentence_elimination",
+    "statement": "I) La alegría, como emoción o alteración del ánimo, es un sentimiento grato y vivo que suele manifestarse con signos exteriores. II) El miedo, como emoción básica humana, es una perturbación angustiosa del ánimo por un riesgo o daño real o imaginario. III) La ira es una alteración del ánimo humano que se expresa como indignación, enojo, furia o violencia. IV) El aburrimiento es una sensación de cansancio o fastidio originado generalmente por disgustos o molestias, o por no contar con algo que distraiga o divierta. V) El asco es una emoción humana causada por la repugnancia que se tiene a algo.",
+    "alternatives": [
+      "A) III",
+      "B) I",
+      "C) V",
+      "D) II",
+      "E) IV"
+    ],
+    "correct": 4,
+    "rationale": "El tema es «emociones o alteraciones del ánimo», por lo tanto, se elimina la oración IV porque tiene por tema a «el aburrimiento como sensación»."
+  },
+  {
+    "type": "sentence_elimination",
+    "statement": "I) La piscina es un estanque artificial destinado al baño y la natación. II) Las piscinas pueden ser fijas, portátiles o desmontables. III) Las piscinas fijas emulan a las laguna s o albercas o estanques naturales, pero no lo son. IV) En las piscinas, las personas sumergen total o parcialmente sus cuerpos. V) Una vez que la persona está dentro de la piscina, puede comenzar a trasladarse de un lugar a otro ayudándose de los movimientos de sus brazos o pies.",
+    "alternatives": [
+      "A) I",
+      "B) V",
+      "C) III",
+      "D) IV",
+      "E) II"
+    ],
+    "correct": 0,
+    "rationale": "La oración redunda con la oración III (estanque artificial), IV (bañarse significa sumergirse en el agua) y la oración V (nadar es desplazarse en el agua)."
+  },
+  {
+    "type": "sentence_elimination",
+    "statement": "La oración redunda con la oración III (estanque artificial), IV (bañarse significa sumergirse en el agua) y la oración V (nadar es desplazarse en el agua).\n\n4.\n\nI) La palabra «inocuidad» está formada por el prefijo in- más la palabra nocuus. II) El prefijo in- significa “negación”, de ahí que este niegue la característica de ser nocuus. III) Por su parte, nocuus tiene la misma raíz de nocere que significa “que hace daño”, la misma que encontramos en palabras como nocivo, nocente, pernicioso, etc. IV) Más aún, nocuus tiene dos partes: la raíz noc más el sufijo de activo o pasivo – uus, por ello significa “que ocasiona perjuicio o hace daño”. V) La palabra «inicuo» tiene dos partes: el prefijo in- más la raíz aequus que significa „igual, equilibrado, justo; por lo tanto, “inicuo” significa “malvado, injusto”.",
+    "alternatives": [
+      "A) V",
+      "B) IV",
+      "C) II",
+      "D) III",
+      "E) I"
+    ],
+    "correct": 0,
+    "rationale": "Por inatingencia, se elimina la oración V porque no desarrolla el tema de «la etimología de la palabra “inocuo”»."
+  },
+  {
+    "type": "reading_comprehension",
+    "statement": "Probablemente todos hayamos vivido alguna vez la situación de tener delante a una persona que nos saluda, pero a la que no logramos identificar con precisión. Para la mayoría de la gente esa experiencia es una excepción. En cambio, esa situación es la regla para algunas de las personas que padecen de prosopagnosia, un mal que puede impedir reconocer incluso a amigos cercanos o familiares.\n\n«Una vez encontré en la calle a una chica que me saludó amablemente, y yo no tenía ni la más mínima idea de quién se trataba», cuenta Sylvia Tippmann, una bioinformática de 29 años de edad, aclarando que «fue bastante extremo, porque nos habíamos encontrado ya en tres ocasiones y habíamos conversado una hora. Es desagradable que te consideren arrogante por no saludarlos o reconocerlos». El problema de Sylvia es que ella padece este mal también conocido como “ceguera de caras”, que Janek Lobmeier, profesor de psicología biológica y cognitiva de la Universidad de Berna, define así: «Es una discapacidad selectiva. Quienes la padecen están, en principio, plenamente sanos y no tienen otro problema que el de no poder reconocer o procesar rostros».\n\nEn el cerebro está el origen de este trastorno. El profesor Lobmaier explica que «cuando una persona sana ve un rostro, primero analiza mentalmente la estructura y luego se transmiten informaciones a determinadas regiones». Una región del cerebro registra, por ejemplo, la mímica; otra zona se encarga de las características permanentes de una cara, y una tercera región determina si ya se ha compartido alguna vivencia con la persona en cuestión. «Es como una orquesta en que todos deben tocar juntos para que realmente sea posible reconocer a alguien», dice Lobmaier.\n\nUna lesión de partes del cerebro puede provocar que la orquesta ya no funcione. En casos extremos, el afectado puede llegar a no reconocer que tiene ante sí un rostro. Pero en la mayoría de los casos el trastorno se tiene de nacimiento y no es tan severo.\n\nSi bien ya había antecedentes, el primer caso documentado data del siglo XX. Los médicos constataron que un teniente alemán, que había resultado herido en la cabeza durante la guerra, no podía identificar caras. Fue el alemán Joachim Bodamer quien efectuó un estudio clínico de este mal en 1947, luego, a partir de agnosia acuño el nombre «prosopagnosia».\n\nEl profesor Lobmaier calcula que cerca del tres por ciento de la gente sufre una prosopagnosia congénita. Pero advierte que el porcentaje podría ser mayor. «Ello obedece a que hay mucha gente que no sabe lo que le pasa. Estas personas creen que no pueden concentrarse cuando les presentan a alguien o piensan que se trata de un problema de memoria. Cuando se les diagnostica prosopagnosia, por lo general sienten alivio, porque obtienen por fin una explicación de lo que les ocurre», señala el especialista.\n\nTodavía no se conoce un remedio para la prosopagnosia. Pero hay al menos una serie de trucos que los afectados pueden usar para identificar mejor a las personas en la vida diaria, como cuenta Sylvia Tippman: «Cuando uno no puede retener caras, uno comienza a registrar más otras características, por ejemplo, la forma en que una persona camina, su estilo de vestirse ola voz».",
+    "questions": [
+      {
+        "statement": "En el texto, el sentido contextual del verbo ACUÑAR es",
+        "alternatives": [
+          "A) fabricar.",
+          "B) componer.",
+          "C) edificar.",
+          "D) construir.",
+          "E) cimentar."
+        ],
+        "correct": 1,
+        "rationale": "El primero en acuñar y utilizar el término 'prosopagnosia' fue el alemán Joachim Bodamer, quien fusionó el término griego prosop- 'cara, máscara, personaje' a la base agnosia 'sin conocimiento'; por lo tanto, fue él quien compuso ese término."
+      },
+      {
+        "statement": "En el texto, el término ORQUESTA supone",
+        "alternatives": [
+          "A) musicalización.",
+          "B) encantamiento.",
+          "C) interpretación.",
+          "D) sincronización.",
+          "E) introspección."
+        ],
+        "correct": 3,
+        "rationale": "Diferentes áreas corticales funcionan al mismo tiempo, como una orquesta, para procesar o recordar un rostro, en otras palabras, existe una sincronización."
+      },
+      {
+        "statement": "El tema central del texto es",
+        "alternatives": [
+          "A) el origen de la prosopagnosia.",
+          "B) la prosopagnosia y su expresión.",
+          "C) las consecuencias de olvid ar.",
+          "D) las consecuencias de la ceguera.",
+          "E) el remedio a la prosopagnosia."
+        ],
+        "correct": 0,
+        "rationale": "El texto entero gira alrededor del origen genético o adquirido de la prosopagnosia, así como sus consecuencias y la falta de una cura."
+      },
+      {
+        "statement": "¿Qué enunciado es el mejor resumen de la lectura?",
+        "alternatives": [
+          "A) La prosopagnosia es una enfermedad que produce olvido en las personas que las padecen, de ahí que no recuerden nada, pues su origen se encuentra en sus cerebros.",
+          "B) Diferentes áreas cerebrales se encargan de procesar y recordar los rostros de las personas que conocemos, entonces, si una de estas áreas deja de funciona, no recordaremos nada.",
+          "C) La prosopagnosia es un mal genético o adquirido que perjudica el concierto de las diferentes áreas neuronales que se encargan de procesar o reconocer rostros.",
+          "D) La prosopagnosia tiene un origen genético y se expresa en el daño de áreas corticales que se especializan en el procesamiento de rostros, formas de caminar, etc.",
+          "E) La enfermedad llamada prosopagnosia es un mal clínico documentado desde hace mucho tiempo, y consiste en el olvido de los rostros de las personas que nos rodean."
+        ],
+        "correct": 2,
+        "rationale": "La alternativa C tiene el tema central, el origen de la prosopagnosia, así como la idea principal: la prosopagnosia es la incapacidad de recordar los rostros, más un compendio más para sintetizar el texto."
+      },
+      {
+        "statement": "Es incompatible con el texto sostener que las personas con prosopagnosia",
+        "alternatives": [
+          "A) dejan de recordar el rostro del amigo.",
+          "B) pueden estar agobiadas o preocupadas.",
+          "C) olvidan el rostro hasta de sus madres.",
+          "D) olvidan el caminar de las personas.",
+          "E) olvidan la configuración de las caras."
+        ],
+        "correct": 3,
+        "rationale": "Las personas que padecen prosopagnosia olvidan el rostro de las persona, pero pueden recordar otras características de ellas: forma de caminar, el tono de la voz, etc."
+      },
+      {
+        "statement": "Se colige del texto que una persona con prosopagnosia puede",
+        "alternatives": [
+          "A) no reconocer el rostro de su propia madre.",
+          "B) olvida por completo la apariencia de todos.",
+          "C) tiene un severísimo problema de memoria.",
+          "D) deberá ser intervenido quirúrgicamente.",
+          "E) no podrá establecer amistad con nadie."
+        ],
+        "correct": 0,
+        "rationale": "Como esta afección es severa, no sería extraño que este problema pueda llevar a que alguien pueda no reconocer el rostro de su progenitora."
+      },
+      {
+        "statement": "Se deduce de la lectura que los que padecen de ceguera de caras",
+        "alternatives": [
+          "A) pueden llegar a olvidar dónde es que viven.",
+          "B) tienen una memoria relativamente normal.",
+          "C) siempre tiene un origen genético-cerebral.",
+          "D) dejan de saludar por completo a los demás.",
+          "E) se convierten en personas muy arrogantes."
+        ],
+        "correct": 1,
+        "rationale": "El problema con estas personas se hay en áreas cerebrales específicas que no alteran para anda la memoria, sino el procesamiento de rostros. Aún más, los prosopagnósicos pueden recordar el sonido de la voz de las personas, así como sus vestimentas, etc."
+      },
+      {
+        "statement": "Si una persona con prosopagnosia no visita al neurólogo, entonces es posible que",
+        "alternatives": [
+          "A) viva abrumada por tener problemas para relacionarse con los demás.",
+          "B) deje de conocer que tiene que operarse para volver a la normalidad.",
+          "C) tenga que recurrir a las personas conocidas mayores para conversar.",
+          "D) haya olvidado el rostro del médico y el camino para llegar al hospital.",
+          "E) deje de ser considerada una persona normal hasta sería agredida."
+        ],
+        "correct": 0,
+        "rationale": "Los prosopagnósicos creen que tienen un problema de memoria, cuando no es así. Esto recién lo esclarecen cuando visitan al neurólogo. Después viven tranquilamente."
+      }
+    ]
+  },
+  {
+    "type": "reading_comprehension",
+    "statement": "El hambre es el mayor riesgo para la salud. En el mundo, cada año mueren más personas de malnutrición que de sida, malaria y tuberculosis juntos, y la población mundial crece más rápido de lo que aumenta la productividad de la producción alimentaria. Plantas genéticamente modificadas son la solución, dicen algunos, sobre todo, los portavoces de las grandes empresas de productos para la agricultura.\n\nBernward Geier, experto en políticas agrarias y ambientales, ve en cambio las cosas de una forma crítica: «Pese a las afirmaciones de querer acabar con el hambre, no hay un solo cultivo genéticamente modificado que cumpla la meta de incrementar la productividad», dijo Geier durante una conferencia en la Universidad de Colonia, en noviembre de 2012. En Europa, la resistencia contra la ingeniería genética es especialmente fuerte.\n\nEs un hecho que, en teoría, el cultivo de plantas genéticamente modificadas es más productivo. El tipo de maíz SmartStax del gigante estadounidense de productos para la agricultura Monsanto, por ejemplo, es más resistente contra insectos y herbicidas. El problema es la estructura del mercado de dichos cultivos: según Greenpeace, un 90% del mercado está en manos de una sola empresa, y esa es Monsanto.\n\nA fines de los años 80, Monsanto empezó patentar genes e incluso métodos del cultivo selectivo convencional. Junto con una intensa estrategia de compra de empresas productoras de semillas, la empresa estadounidense consiguió dicha posición preponderante en el mercado.\n\n«Un monopolio de tales dimensiones bloquea el progreso», opina Christoph Then, asesor de Greenpeace. Los dueños de las patentes prohíben el uso de los productos con fines de investigación. Por otro lado, gran parte de las investigaciones de las empresas titulares de las patentes se limitan al desarrollo de productos complementarios de sus propias plantas, como herbicidas. «De esta forma, se crean vínculos de dependencia con los agricultores para asegurar los réditos, pero la productividad no aumenta», dice Bernward Geier.\n\nA fines de junio 2013, el Parlamento alemán prohibió patentar genes convencionales y productos del cultivo selectivo convencional. De esta manera se impidió que Monsanto patentase un tipo de brócoli en Alemania. Sin embargo, no hay claridad en la legislación sobre el término “convencional”: «Todavía falta una definición exacta de lo que se considera “producto de ingeniería genética”, porque se mezclan los nuevos métodos con los convencionales», explica el ecologista Then.\n\nUNMSM II 29\n\nDe todos modos se trata de un reglamento a nivel nacional. Si la Comisión Europea permite la importación de productos de Monsanto, como lo anunció con respecto al SmartStax, el permiso será válido para todos los Estados miembros.\n\nEs indudable que las nuevas tecnologías tienen potencial, pero de la manera en que se utilizan actualmente no contribuyen a la lucha contra la escasez alimentaria en el mundo. Es más: a largo plazo, el cultivo de plantas genéticamente modificadas puede conllevar consecuencias graves para el medio ambiente: «La ingeniería genética fomenta formas de monocultivo que son muy rentables pero hace caso omiso de los grandes riesgos para el medio ambiente», advierte la organización no gubernamental NABU (Organización Alemana para la Protección del Medio Ambiente).\n\nDe todos modos, en cuanto al hambre mundial, Bernward Geier estima que la productividad agrícola ni siquiera es el punto clave: «Tenemos alimentos en exceso, producimos tanto que cada persona podría consumir 4000 calorías al día». Según el experto, la distribución desigual de los alimentos constituye el mayor problema. Si bien Smartstax resiste a los insectos, no puede combatir la pobreza.",
+    "questions": [
+      {
+        "statement": "En el texto, la expresión NO HAY CLARIDAD refiere a",
+        "alternatives": [
+          "A) la falta de significado.",
+          "B) una mojiganga.",
+          "C) la falta de ideas.",
+          "D) la carencia de luz.",
+          "E) una inexactitud."
+        ],
+        "correct": 4,
+        "rationale": "En el texto se utiliza la frase NO HAY CLARIDAD para referirse a la imprecisión que existe acerca del término “convencional”."
+      },
+      {
+        "statement": "En el texto, el sentido contextual del término PREPONDERANTE es",
+        "alternatives": [
+          "A) altisonante.",
+          "B) predominante.",
+          "C) grandilocuente.",
+          "D) rimbombante.",
+          "E) sentencioso."
+        ],
+        "correct": 1,
+        "rationale": "La solución es B: predominante."
+      }
+    ]
+  },
+  {
+    "type": "reading_comprehension",
+    "statement": "En el texto se utiliza la frase NO HAY CLARIDAD para referirse a la imprecisión que existe acerc a del término “convencional”.",
+    "questions": [
+      {
+        "statement": "En el texto, el sentido contextual del término PREPONDERANTE es",
+        "alternatives": [
+          "A) altisonante.",
+          "B) predominante.",
+          "C) grandilocuente.",
+          "D) rimbombante.",
+          "E) sentencioso."
+        ],
+        "correct": 1,
+        "rationale": "la empresa Monsanto es poderosa justamente por posicionar se en el mercado mediante un monopolio que la vuelve dominante, prevaleciente o predominante."
+      },
+      {
+        "statement": "El autor del texto afirma principalmente que",
+        "alternatives": [
+          "A) la ingeniería genética y agrícola pueden producir vegetales en ingentes cantidades, sin embargo, no pueden combatir la pobreza ni el hambre.",
+          "B) la ingeniería genética y agrícola son las alternativas correctas para combatir la desigualdad, el hambre y la malnutrición rápidamente a nivel mundial.",
+          "C) la empresa estadounidense Monsanto todavía presenta imperfecciones en el mercado, pero que los puede solucionar para beneficiar al mundo.",
+          "D) la empresa Monsanto ha sido proscrita de países europeos porque presenta una estructura de mercado demasiado problemática por ser monopólica.",
+          "E) los alimentos transgénicos son la salvación para el mundo, pero que todavía tiene que solucionarse el problema de la estructura de la sociedad mundial."
+        ],
+        "correct": 0,
+        "rationale": "El autor sostiene que si bien Monsanto puede producir semillas genéticamente tratadas y resistentes a plagas y, consecuentemente, producir más alimentos; el problema radica en la estructura de mercado que no beneficia a los países necesitados, sino solamente a Monsanto."
+      },
+      {
+        "statement": "Es incompatible con el texto sostener que",
+        "alternatives": [
+          "A) la variedad de maíz SmartStax es un producto de la ingeniería genética.",
+          "B) el hambre mata más gente que el sida, la malaria y la tuberculosis juntos.",
+          "C) Monsanto favorecería el monocultivo en detrimento de las variedades.",
+          "D) el maíz SmartStax ha sido creado para que resista el ataque de plagas.",
+          "E) la empresa Monsanto utiliza tecnologías genéticas y agrícolas sofisticadas."
+        ],
+        "correct": 1,
+        "rationale": "En el texto se afirma que la malnutrición mata más gente que el sida, la malaria y la tuberculosis juntos. No afirma que es el hambre."
+      },
+      {
+        "statement": "Se deduce del texto que el autor del texto critica",
+        "alternatives": [
+          "A) las prohibiciones de los alemanes.",
+          "B) la especialización en la agricultura.",
+          "C) las innovaciones de la genética.",
+          "D) el uso de nuevas tecnologías.",
+          "E) el acaparamiento de Monsanto."
+        ],
+        "correct": 4,
+        "rationale": "El autor critica que Monsanto privilegie el monopolio en el mercado, mas no la justa distribución de alimentos."
+      },
+      {
+        "statement": "Si Monsanto estimulara una estructura de mercado que favorezca la producción y la distribución equitativa, entonces, es posible que",
+        "alternatives": [
+          "A) Monsanto no encuentre tantos óbices en muchos países.",
+          "B) los mercados tensen sus fronteras a favor de Monsanto.",
+          "C) la tecnología genética se implemente en muchos países.",
+          "D) Greenpeace no tenga que bloquear los monocultivos.",
+          "E) los ecologistas dejarían de defender la naturaleza."
+        ],
+        "correct": 0,
+        "rationale": "Tal vez si la empresa Monsanto se preocupara también por la equitativa distribución de alimentos, este no encontraría muchas trabas a sus productos en los diferentes mercados del mundo."
+      }
+    ]
+  },
+  {
+    "type": "sentence_elimination",
+    "statement": "I) El jabón líquido es más higiénico que el jabón de barra. II) Los usuarios de jabón líquido no tienen contacto con él, conque no se produce una cadena de trasmisión de bacterias. III) Los ingredientes de jabón líquido tienden a ser más suaves para la piel. IV) El jabón de barra, a diferencia del jabón líquido, ensucia las superficies donde se ubica. V) El usuario tiene contacto directo con el jabón en barra y puede ser agresivo con la piel.",
+    "alternatives": [
+      "A) II",
+      "B) IV",
+      "C) III",
+      "D) I",
+      "E) V"
+    ],
+    "correct": 3,
+    "rationale": "Se elimina la oración I porque redunda con las oraciones II, III, IV y V."
+  },
+  {
+    "type": "sentence_elimination",
+    "statement": "2.\n\nI) En algunas comunidades afrodescendientes habitualmente se suele preparar\nguisos con carne de gato, por ejemplo, en el festival del Curruñau durante el mes de\nseptiembre en Cañete. II) Es una costumbre que en algunos pueblos andinos\ntambién se coma gato, por ejemplo, en Pomabamba y en la región de Conchucos,\npor eso, estos últim\nos son llamados\nmishi kankas\n\nque significa “come gatos”. III) No\nobstante, muchas personas se oponen a la ingesta de carne de gato, pues en su\nproceso de formación se les ha prohibido comer tal carne. IV) Por ejemplo, en\nseptiembre de 2013, el Poder Judicial de Cañete, sobre la base del derecho de los\nanimales, prohibió la matanza de gatos en el contexto del festival llamado\n“Miaustura”. V) En conclusión, para algunas personas el comer gato es parte de una\n“tradición”; pero para otras personas, comer gato\nes un tabú que transgrede los\nderechos de los gatos.",
+    "alternatives": [
+      "A) V",
+      "B) I",
+      "C) IV",
+      "D) II",
+      "E) III"
+    ],
+    "correct": 0,
+    "rationale": "La oración V es redundante."
+  },
+  {
+    "type": "sentence_elimination",
+    "statement": "3.\n\nI) En estos días la especie humana viene afrontando una revolución comparable a la\nrevolución en la física que condujo a la crea\nción de la bomba atómica: la revolución\nreproductiva. II) La revolución demográfica empezó en julio de 1978, cuando nació\nLouis Brown, primer humano concebido fuera del cuerpo humano mediante la\ntécnica de la fecundación\nin vitro\n. III) La revolución reprod\nuctiva es un concepto de\ncarácter sistémico aplicado a la eficiencia reproductiva de la población humana. IV)\nLa eficiencia reproductiva es la transformación radical de la eficiencia con que los\nseres humanos consiguen reemplazarse con nuevos seres humanos\n\nantes de morir.\nV) La revolución reproductiva se utiliza para referirse a los avances técnicos tanto en\nel tratamiento de la infertilidad, la anticoncepción, así como la descripción de\nhipotéticos escenarios reproductivos humanos que influyen en la eficie\nncia\nreproductiva humana.",
+    "alternatives": [
+      "A) I",
+      "B) V",
+      "C) III",
+      "D) IV",
+      "E) II"
+    ],
+    "correct": 3,
+    "rationale": "IV"
+  }
+]

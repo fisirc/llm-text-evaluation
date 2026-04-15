@@ -1,0 +1,743 @@
+[
+  {
+    "type": "reading_comprehension",
+    "statement": "Se estima que en nuestra galaxia hay aproximadamente 1011 estrellas, de las que, pongamos, una décima parte tiene un planeta. De estas 1010 estrellas ,aproximadamente una de cada cien, quizá, tiene un planeta en la zona viva de la estrella. Nos quedan aproximadamente 108 estrellas de la galaxia que podrían tener vida inteligente en su sistema planetario. Como la mayoría son bastante menores que nuestro sol, solo habría que considerar una décima parte de ellas como candidatas serias a tener planetas con vida inteligente. Esto nos deja con 107 estrellas, solo en nuestra galaxia, susceptibles de tener vida inteligente, y quizás en una décima parte de ellas se haya producido ya. Supongamos que en nuestra propia galaxia haya efectivamente un millón de estrellas con planetas que tienen vida inteligente. ¿Por qué no nos llega ninguna evidencia de ello? En primer lugar, porque nuestra galaxia es un lugar muy grande, con un volumen de unos 1014 años luz cúbicos. Por tanto, cada una de este millón de estrellas tiene en promedio un volumen de unos 108 años luz cúbicos. La raíz cúbica de 108 es aproximadamente 500, con lo que la distancia media entre una estrella con vida inteligente y su vecina más próxima es de unos 500 años luz: ¡unos diez mil millones de veces la distancia de la tierra a la luna! Esta distancia parece lo bastante grande como para excluir la posibilidad de que las visitas de cortesía sean frecuentes. La segunda razón por la que es del todo improbable que nos encontremos con algún marcianito, es que las civilizaciones que puedan haber existido habrán estado dispersas en el tiempo, naciendo en una época y desapareciendo después. Incluso suponiendo que la duración media de tales formas de vida avanzada sea de 100 millones de años, si distribuimos uniformemente estos intervalos de tiempo en la historia de nuestra galaxia, de unos 12 -15 mil millones de años, encontraremos que la vida avanzada se da simultáneamente en menos de 10.000 estrellas de nuestra galaxia. En esta situación, la distancia media entre vecinos pasa a ser mayor de 2.000 años luz. La tercera razón por la que no han venido turistas extraterrestres es que aunque se haya desarrollado vida inteligente en cierto número de planetas de la galaxia, es poco probable que les hayamos interesado lo suficiente. Esas formas de vida podrían consistir en grandes nubes de gas metano, en campos magnéticos auto orientados o grandes entes planetarios que se pasan la vida cantando sinfonías complejas. No tenemos motivos para suponer que ninguna de las formas de vida citadas vaya a tener nuestras mismas aspiraciones ni nuestra misma psicología e intente llegar hasta nosotros. Los analfabetos matemáticos, también llamados individuos anuméricos, están considerados considerablemente más predispuestos que el resto de la gente a creer en visitantes procedentes del espacio exterior. Aunque probablemente hay vida en otros planetas de nuestra propia galaxia, las observaciones OVNI, casi con absoluta certeza, no son más que eso: observaciones de objetos voladores no identificados. No identificados, pero no inidentificables ni extraterrestres.",
+    "questions": [
+      {
+        "statement": "El empleo del término MARCIANITO connota",
+        "alternatives": [
+          "A) exactitud.",
+          "B) alegría.",
+          "C) sorna.",
+          "D) dil ección.",
+          "E) tirria."
+        ],
+        "correct": 2,
+        "rationale": "El vocablo se emplea para hacer burla de la creencia popular que tiende a denominar de ese modo a cualquier criatura extraterrestre."
+      },
+      {
+        "statement": "La idea principal del texto sostiene que",
+        "alternatives": [
+          "A) la distancia media entre una es trella con vida inteligente y su vecina más próxima depende del volumen de la galaxia.",
+          "B) los cálculos efectuados para poder estimar la probabilidad de la llegada de extraterrestres a la Tierra son engorrosos.",
+          "C) los analfabetos matemáticos tienen serios problemas para comprender adecuadamente los fenómenos naturales.",
+          "D) la ejecución de unos cálculos aproximados muestra con claridad que las visitas extraterrestres son altamente improbables.",
+          "E) existe una probabilidad considerablemente alta de que haya vida inteligente en algún otro planeta de nuestra galaxia."
+        ],
+        "correct": 3,
+        "rationale": "Los analfabetos matemáticos están más predispuestos que el resto de las personas a creer en visitantes procedentes del espacio exterior."
+      },
+      {
+        "statement": "Resulta compatible afirmar que el hecho de que las posibles civilizaciones con vida inteligente hayan estado dispersas en el tiempo",
+        "alternatives": [
+          "A) hace que la probabilidad de visitas alienígenas a la Tierra sea igual a 1.",
+          "B) sugiere que nuestra galaxia es mucho más antigua de lo que creíamos.",
+          "C) torna más probable que la Tierra haya recibido visitas extraterrestres.",
+          "D) permite concluir que los cálculos realizados en el texto son incorrectos.",
+          "E) hace menos probable la visita de criaturas extraterrestres a la Tierra."
+        ],
+        "correct": 4,
+        "rationale": "En la situación de civilizaciones dispersas en el tiempo, la distancia media entre vecinos con vida inteligente pasa a ser mayor de 2.000 años luz."
+      },
+      {
+        "statement": "Se deduce que el volumen de cada una de las 106 estrellas referidas en el segundo párrafo",
+        "alternatives": [
+          "A) es asumido como si fuera un cubo para simplificar los cálculos.",
+          "B) permite aseverar que nuestra galaxia es sumamente pequeña.",
+          "C) es de aproximadamente un cuarto del volumen de la galaxia.",
+          "D) muestra que somos los únicos seres inteligentes del universo.",
+          "E) indica que entre estrella s con vida inteligente hay 100 años luz."
+        ],
+        "correct": 0,
+        "rationale": "La raíz cúbica de 108 es aproximadamente 500. El sólido cuya medida de su lado es la raíz cúbica de su volumen es el cubo."
+      },
+      {
+        "statement": "Si supusiéramos que la duración media de las formas de vida avanzada sea de 1000 millones de años",
+        "alternatives": [
+          "A) el encuentro entre tales formas de vida procedentes de distintas partes de la galaxia ocurriría con suma frecuencia.",
+          "B) la probabilidad de un encuentro de dos formas de vida inteligente y procedencias",
+          "C) la distancia promedio entre estrellas vecinas con vida inteligente sería exactamente de 1000.000 de años luz.",
+          "D) tendríamos 20 mil años luz de distancia media entre estrellas con la capacidad de albergar vida inteligente.",
+          "E) la distancia media entre estrellas vecinas con vida inteligente pasaría a ser de aproximadamente 1000 años luz."
+        ],
+        "correct": 4,
+        "rationale": "Reemplazando 109 años en vez de 108 años y efectuando las operaciones correspondientes se obtiene aproximadamente 103 años luz."
+      }
+    ]
+  },
+  {
+    "type": "reading_comprehension",
+    "statement": "El 18 de diciembre de 1912 hubo una reunión en la sede de la Geological Society de Inglaterra. Dos hombres se dirigieron a la audiencia expectante: Charles Dawson, secretario de la Sussex Archaeological Society , y Arthur Smith Woodward, geólogo del British Museum. Anunciaron haber encontrado el cráneo humano más antiguo jamás desenterrado en la isla. Ello halagaba la vanidad británica, fuertemente sacudida por el éxito de franceses y alemanes en desenterrar fósiles antiquísimos. Se anunció que el eslabón perdido era inglés. El espécimen, llamado el hombre de Piltdown, ocupó un lugar de honor en los catálogos de fósiles por cuarenta años. El cráneo de Piltdown, fue considerado el famoso «eslabón perdido» entre el mono y el hombre, previsto por la teoría de la evolución: el cráneo de este fósil se caracterizaba como perfectamente humano, mientras que la mandíbula se parecía a la de un chimpancé. En 1953, el British Museum tuvo que reconocer oficialmente que el «hombre de Piltdown» era una falsificación: se había combinado un cráneo de hombre moderno con una mandíbula de orangután y el conjunto había sido cuidadosamente amañado para dar la impresión de «antiguo». Este fraude fue planeado y ejecutado en algún momento entre 1907 y 1911. La falsa calavera de homínido fue fabricada con el cráneo de un hombre moderno que fue engrosado por una enfermedad sufrida durante su vida, dándole un aspecto primitivo, y media mandíbula inferior de un orangután, de la cual fueron removidas partes que podían descubrir su procedencia, y cuyos dientes habían sido limados para parecer dientes humanos, y un canino alterado que estaba suelto. Al mismo tiempo se plantaron en el lugar artefactos antiguos y huesos de mamíferos extintos. En total, se colocaron 37 piezas de hueso y piedra, cada uno cuidadosamente elegido para un determinado propósito, cada uno alterado y teñido hasta alcanzar la coloración de la grava donde se los encontró. Lo que es más, otros diez fragmentos de huesos humanos y animales fueron preparados y plantados en dos lugares diferentes de la zona de Piltdown. Desde 1912 a 1913 los fragmentos fueron descubiertos, muchos de ellos por Dawson, algunos por Smith Woodward, y el canino «arreglado», por Pierre Teilhard de Chardin, un seminarista jesuita que se transformó luego en un famoso paleontólogo y evolucionista. Smith Woodward usó el cráneo y la mandíbula para reconstruir una cabeza completa del «homínido». Si bien muchos científicos encontraron sospechoso el material, muchos otros lo tomaron por legítimo. Sin embargo, aún los más críticos no sospecharon que era un fraude.",
+    "questions": [
+      {
+        "statement": "El término SACUDIDA connota",
+        "alternatives": [
+          "A) oscilación",
+          "B) detrimento.",
+          "C) vacilación",
+          "D) consunción",
+          "E) pánico"
+        ],
+        "correct": 1,
+        "rationale": "La vanidad británica fue fuertemente menoscabada por el éxito de franceses y alemanes"
+      },
+      {
+        "statement": "¿Cuál es el tema central del texto?",
+        "alternatives": [
+          "A) El procedimiento de falsificación del cráneo del hombre de Piltdown",
+          "B) Un afamado caso de deshonestidad científica ocurrido en Inglaterra",
+          "C) El reconocimiento del hombre de Piltdown como el eslabón perdido",
+          "D) Las circunstancias que generaron el hallazgo del cráneo de Piltdown",
+          "E) El descubrimiento del hombre de Piltdown como un fraude científico"
+        ],
+        "correct": 4,
+        "rationale": "El autor destaca el descubrimiento de un famoso fraude: el hombre de Piltdown."
+      },
+      {
+        "statement": "Se infiere que el fraude del cráneo de Piltdown",
+        "alternatives": [
+          "A) implicó solo a personajes desconocidos para los antropólogos de Inglaterra.",
+          "B) tuvo como único responsable al seminarista jesuita P. Teilhard de Chardin.",
+          "C) generó una radical reformulación de las hipótesis evo lucionistas de Darwin.",
+          "D) resistió por más de 40 años a las investigaciones de diversos especialistas.",
+          "E) fue fabricado exclusivamente con huesos de un orangután y un chimpancé."
+        ],
+        "correct": 3,
+        "rationale": "En 1953, el British Museum tuvo que reconocer oficialmente que el «hombre de Piltdown» era una falsificación. Este fraude fue planeado y ejecutado en algún momento entre 1907 y 1911."
+      },
+      {
+        "statement": "Es incompatible sostener que los dientes hallados en la zona de Piltdown",
+        "alternatives": [
+          "A) correspondieron a un hombre que sufría una extra ña enfermedad.",
+          "B) tenían un desgaste que no correspondía a una masticación natural.",
+          "C) fueron limados para que se parecieran a los de los seres humanos.",
+          "D) aparecieron acompañando a una mandíbula que había sido teñida.",
+          "E) fueron manipulados con el claro fin de provocar un fraude científico."
+        ],
+        "correct": 0,
+        "rationale": "La media mandíbula inferior era de un orangután, de la cual fueron removidas partes que podían descubrir su procedencia, y cuyos dientes habían sido limados para parecer dientes humanos."
+      },
+      {
+        "statement": "Si el hombre de Piltdown no hubiera sido un fraude, probablemente",
+        "alternatives": [
+          "A) solo Dawson habría anunciado que encontró dichos restos.",
+          "B) Inglaterra habría sido considerada la cuna de la humanidad.",
+          "C) Woodward y Dawson habrían sido depuestos de sus cargos.",
+          "D) no habría ocupado un lugar honorífico en la paleontología.",
+          "E) sería una prueba sólida para refutar la teoría evolucionista."
+        ],
+        "correct": 4,
+        "rationale": "El cráneo de Piltdown fue considerado el famoso «eslabón perdido» entre el mono y el hombre, previsto por la teoría de la evolución."
+      }
+    ]
+  },
+  {
+    "type": "verbal_series",
+    "statement": "¿Qué vocablo se aleja del campo semántico?",
+    "alternatives": [
+      "A) Fundar",
+      "B) Instituir",
+      "C) Erigir",
+      "D) Constituir",
+      "E) Impeler"
+    ],
+    "correct": 4,
+    "rationale": "Impeler significa estimular."
+  },
+  {
+    "type": "verbal_series",
+    "statement": "Indolente, gandul, poltrón,",
+    "alternatives": [
+      "A) bohemio.",
+      "B) remolón.",
+      "C) taimado.",
+      "D) negligente.",
+      "E) moderado."
+    ],
+    "correct": 1,
+    "rationale": "Se trata de una serie verbal sinonímica."
+  },
+  {
+    "type": "verbal_series",
+    "statement": "El sinónimo de PARSIMONIOSO es",
+    "alternatives": [
+      "A) sosegado.",
+      "B) gradual.",
+      "C) cachazudo.",
+      "D) apremiante.",
+      "E) concienzudo."
+    ],
+    "correct": 2,
+    "rationale": "Cachazudo significa lento."
+  },
+  {
+    "type": "verbal_series",
+    "statement": "Elija el término que no corresponde al campo semántico.",
+    "alternatives": [
+      "A) Tonto",
+      "B) Estólido",
+      "C) Mentecato",
+      "D) Palurdo",
+      "E) Estulto"
+    ],
+    "correct": 3,
+    "rationale": "El campo semántico está asociado a sinónimos de tonto."
+  },
+  {
+    "type": "verbal_series",
+    "statement": "Gamberro, disoluto; ominoso, vitando; lacónico,",
+    "alternatives": [
+      "A) prolijo",
+      "B) ampuloso",
+      "C) compendioso",
+      "D) facundo",
+      "E) gárrulo"
+    ],
+    "correct": 2,
+    "rationale": "Serie verbal de sinónimos."
+  },
+  {
+    "type": "verbal_series",
+    "statement": "¿Qué palabra no forma parte del campo semántico?",
+    "alternatives": [
+      "A) Epígrafe",
+      "B) Introito",
+      "C) Exordio",
+      "D) Preámbulo",
+      "E) Epílogo"
+    ],
+    "correct": 4,
+    "rationale": "El campo semántico está asociado con la introducción."
+  },
+  {
+    "type": "verbal_series",
+    "statement": "Lagarto, serpiente; revólver, arma; sustantivo, adverbio;",
+    "alternatives": [
+      "A) remedio, fármaco",
+      "B) terremoto, temblor",
+      "C) aleación, bronce",
+      "D) topacio, gema",
+      "E) año, mes"
+    ],
+    "correct": 3,
+    "rationale": "Cohipónimos, hipónimo -hiperónimo, cohipónimos."
+  },
+  {
+    "type": "verbal_series",
+    "statement": "Elija el término que no pertenece a la serie verbal.",
+    "alternatives": [
+      "A) boyada",
+      "B) recua",
+      "C) hatajo",
+      "D) aquelarre",
+      "E) cáfila"
+    ],
+    "correct": 3,
+    "rationale": "Se trata de una serie de sustantivos colectivos de animales."
+  },
+  {
+    "type": "verbal_series",
+    "statement": "Frío, templado, caliente,",
+    "alternatives": [
+      "A) gélido",
+      "B) tibio",
+      "C) urente",
+      "D) álgido",
+      "E) cálido"
+    ],
+    "correct": 2,
+    "rationale": "Las palabras establecen una relación de menor a mayor intensidad."
+  },
+  {
+    "type": "verbal_series",
+    "statement": "Natural, icástico; pertinaz , obstinado; ignavo, indolente;",
+    "alternatives": [
+      "A) ignaro, docto",
+      "B) garrulo, refinado",
+      "C) inopinado, súbito",
+      "D) remolón, diligente",
+      "E) baqueteado, novel"
+    ],
+    "correct": 2,
+    "rationale": "Se trata de una serie verbal sinonímica."
+  },
+  {
+    "type": "verbal_series",
+    "statement": "5. Gamberro, disoluto; ominoso, vitando; lacónico,",
+    "alternatives": [
+      "A) prolijo",
+      "B) ampuloso",
+      "C) compendioso",
+      "D) facundo",
+      "E) gárrulo"
+    ],
+    "correct": 2,
+    "rationale": "Serie verbal de sinónimos."
+  },
+  {
+    "type": "sentence_elimination",
+    "statement": "6. ¿Qué palabra no forma parte del campo semántico?",
+    "alternatives": [
+      "A) Epígrafe",
+      "B) Introito",
+      "C) Exordio",
+      "D) Preámbulo",
+      "E) Epílogo"
+    ],
+    "correct": 4,
+    "rationale": "El campo semántico está asociado con la introducción."
+  },
+  {
+    "type": "analogies",
+    "statement": "7. Lagarto, serpiente; revólver, arma; sustantivo, adverbio;",
+    "alternatives": [
+      "A) remedio, fármaco",
+      "B) terremoto, temblor",
+      "C) aleación, bronce",
+      "D) topacio, gema",
+      "E) año, mes"
+    ],
+    "correct": 3,
+    "rationale": "Cohipónimos, hipónimo -hiperónimo, cohipónimos"
+  },
+  {
+    "type": "sentence_elimination",
+    "statement": "8. Elija el término que no pertenece a la serie verbal.",
+    "alternatives": [
+      "A) boyada",
+      "B) recua",
+      "C) hatajo",
+      "D) aquelarre",
+      "E) cáfila"
+    ],
+    "correct": 3,
+    "rationale": "Se trata de una serie de sustantivos colectivos de animales."
+  },
+  {
+    "type": "sentence_elimination",
+    "statement": "9. Frío, templado, caliente,",
+    "alternatives": [
+      "A) gélido",
+      "B) tibio",
+      "C) urente",
+      "D) álgido",
+      "E) cálido"
+    ],
+    "correct": 2,
+    "rationale": "Las palabras establecen una relación de menor a mayor intensidad."
+  },
+  {
+    "type": "sentence_elimination",
+    "statement": "10. Natural, icástico; pertinaz , obstinado; ignavo, indolente;",
+    "alternatives": [
+      "A) ignaro, docto",
+      "B) garrulo, refinado",
+      "C) inopinado, súbito",
+      "D) remolón, diligente",
+      "E) baqueteado, novel"
+    ],
+    "correct": 2,
+    "rationale": "Se trata de una serie verbal sinonímica."
+  },
+  {
+    "type": "reading_comprehension",
+    "statement": "Las diez plagas que, según el Antiguo Testamento, Dios envió a los egipcios para que el faraón dejara partir a los hebreos pueden ser mucho más que una terrible historia bíblica. Según recientes investigaciones científicas, la cadena de castigos bíblicos comenzó de la siguiente forma: El aumento de las temperaturas secó el Nilo, convirtiendo el río en un curso lento de aguas fangosas. Estas condiciones fueron perfectas para la llegada de la primera plaga: el agua convertida en sangre. Obviamente no se trató de sangre; probablemente fue la Oscillatoria rubescens ,conocida como alga Sangre Borgoña, que tiene una antigüedad de al menos 3 000 años y sigue provocando, cuando muere, los mismos efectos en la actualidad. La invasión de las algas abrió la puerta a la llegada de la segunda, tercera y cuarta plaga. Hordas de ranas, mosquitos y otros insectos capaces de dañar a las personas y el ganado. Posiblemente, la llegada de las algas tóxicas obligó a las ranas a dejar, con consecuencias mortales, el agua donde vivían. La ulterior multiplicación de los insectos causó a su vez la quinta y sexta plaga, que la Biblia describe como pestilencia, enfermedades epidémic as que exterminaron el ganado, y úlceras y sarpullidos incurables, enfermedades que afectaron seriamente a la población y que pudieron ser transmitidas por mosquitos como el de la malaria. Por si fuera poco, otro desastre natural ocurrido a más de 400 kilómetros de distancia pudo ser el origen de la séptima, octava y novena plaga, que traen el granizo de fuego, las langostas y la oscuridad a Egipto. Una de las erupciones volcánicas más grandes de la historia se produjo cuando el antiguo volcán Thera explotó hace unos 3 500 años, lanzando miles de millones de toneladas de cenizas en la atmósfera. Expertos del Instituto de Física Atmosférica en Alemania consideran que la ceniza volcánica podría haber chocado con tormentas sobre Egipto y producir un espectacular granizo. ¿Y las langostas? Según ha explicado el biólogo canadiense Siro Trevisanato, la precipitación y aumento de la humedad, condiciones idóneas para las langostas. De igual forma, la ceniza también pudo haber bloqueado la luz solar (la plaga de la oscuridad). La plaga final, el castigo más duro, es la muerte de los primogénitos de Egipto, por la que el primer hijo de cada pareja moría sin remedio. La causa pudo ser un hongo que envenenó los suministros de grano. Como los primeros hijos varones tenían privilegios, quizás comían primero convirtiéndose en las primeras víctimas.",
+    "questions": [
+      {
+        "statement": "1. El texto gira entorno a",
+        "alternatives": [
+          "A) las diversas anomalías climáticas del Antiguo Egipto.",
+          "B) una explicación científica de la diez plagas de Egipto.",
+          "C) la etiología de una desagradable enfermedad bíblica.",
+          "D) una elucidación histórica de las diez plagas bíblicas.",
+          "E) los factores que generaron epidemias en todo Egipto."
+        ],
+        "correct": 1,
+        "rationale": "Las diez plagas que, s egún el Antiguo Testamento, Dios envió a los egipcios para que el faraón dejara partir a los hebreos pueden ser mucho más que una terrible historia bíblica."
+      },
+      {
+        "statement": "2. El término ESPECTACULAR connota",
+        "alternatives": [
+          "A) esplendor.",
+          "B) fastuosidad.",
+          "C) ostentación.",
+          "D) profusión.",
+          "E) excelencia."
+        ],
+        "correct": 3,
+        "rationale": "La ceniza volcánica podría haber chocado con tormentas sobre Egipto y producir abundante granizo."
+      },
+      {
+        "statement": "3. Se infiere que la Oscillatoria rubescens",
+        "alternatives": [
+          "A) solo puede crecer a muy bajas temperaturas.",
+          "B) es una especie extinta en su estado silvestre.",
+          "C) no podría multiplicarse en las aguas fangosas.",
+          "D) coloreó de rojo, al morir, las aguas del río Nilo.",
+          "E) es un alga que no podría brotar en un lodazal."
+        ],
+        "correct": 3,
+        "rationale": "Obviamente no se trató de sangre; probablemente fue la Oscillatoria rubescens ,conocida como alga Sangre Borgoña, que tiene una antigüedad de al menos 3 000 años y sigue provocando, cuando muere, los mismos efectos en la actualidad."
+      },
+      {
+        "statement": "4. Se colige del texto que la proliferación de los mosquitos y las moscas se debió",
+        "alternatives": [
+          "A) al clima templado característico de Egipto.",
+          "B) a la muerte de uno de sus depredadores.",
+          "C) a la pestilencia que asoló al Antiguo Egipto.",
+          "D) al ínfimo nivel de humedad propio de Egipto.",
+          "E) a la gran cantidad de muertos por las plagas."
+        ],
+        "correct": 1,
+        "rationale": "Posiblemente, la llegada de las algas tóxicas obligó a las ranas a dejar, con consecuencias mortales, el agua donde vivían. La ulterior multiplicación de los insectos causó a su vez la quinta y sexta plaga."
+      },
+      {
+        "statement": "5. Si la descendencia en el Antiguo Egipto hubiera sido tratada por igual en el acceso a la comida y la décima plaga hubiese persistido,",
+        "alternatives": [
+          "A) ningún primogénito se habría convertido en víctima de envenenamiento.",
+          "B) la hipótesis del envenenamiento de los suministros no tendría asidero.",
+          "C) no se habría desencadenado ninguna de las plagas que asoló a Egipto.",
+          "D) todos los egipcios, sin distinción, se habrían salvado del envenenamiento.",
+          "E) no se habría llevado a cabo el castigo más duro para todos los egipcios."
+        ],
+        "correct": 1,
+        "rationale": "La causa pudo ser un hongo que envenenó los suministros de grano. Como los primeros hijos varones tenían privilegios, quizás comían primero convirtiéndose en las primeras víctimas."
+      }
+    ]
+  },
+  {
+    "type": "sentence_elimination",
+    "statement": "1. I) Cuanto más alta es una mujer tras la menopausia, mayor es su riesgo de desarrollar cáncer, según un estudio publicado en Cancer Epidemiology, Biomarkers & Prevention. II) La altura estaría relacionada con los cánceres de mama, colon, endometrio, riñón, ovario, recto, y de la tiroides, así como con el mie loma múltiple y melanoma. III) Según un estudio de la Universidad de Groningen (Holanda) publicado hace poco en la revista Plos one ,la altura puede ser un condicionante a la hora de escoger pareja. IV) Investigadores de la Universidad de Tampere concluyeron que los individuos más bajitos (menos de 160 centímetros) tienen 1.5 veces más probabilidades de padecer patologías cardíacas. V) Las personas obesas y altas tienen más riesgo de desarrollar tromboembolismos, en las venas de las piernas y en los pulmones, que las personas rellenitas pero de corta estatura.",
+    "alternatives": [
+      "A) I",
+      "B) II",
+      "C) III",
+      "D) IV",
+      "E) V"
+    ],
+    "correct": 2,
+    "rationale": "Se aplica el criterio de impertinencia."
+  },
+  {
+    "type": "reading_comprehension",
+    "statement": "Según algunos, Nicolás II, el último Zar de Rusia, fue un monarca por debajo de lo normal. Fue acusado de torpe durante la guerra Ruso-Japonesa de 1904-1905, y su régimen estaba plagado de corrupción e incompetencia. Aun así, probablemente no mereció el destino que tuvo él y su familia una noche de verano de 1918. Como veremos, la comprensión completa de este hecho depende, por encima de todo, del DNA Después de haber sido forzado a abdicar en 1917, finalizando los 300 años de reinado de los Romanov, el Zar Nicolás y la familia imperial fueron desterrados a Ekaterimburgo, en el oeste de Siberia. Allí, se creía, estarían fuera del alcance de los feroces Bolcheviques antiimperialistas, que estaban luchando para obtener el control del país. Pero los Bolcheviques capturaron finalmente a los Romanov. En una noche de Julio de 1918, el Zar Nicolás, la Zarina Alejandra (nieta de la Reina Victoria), sus cinco hijos (Olga, 22; Tatiana, 21; María, 19; Anastasia, 17 y Alexei, 13), el médico de la familia y tres de sus sirvientes, fueron despertados y llevados a una habitación del piso inferior de la casa en donde se les mantuvo prisioneros. Se les pidió que formaran una fila doble contra la pared, probablemente para que se les pudiera fotografiar. En vez de ello, prorrumpieron en el cuarto 11 hombres con revólveres y abrieron fuego. Después de agotar su munición, hundieron sus bayonetas en los cuerpos y destrozaron sus rostros con las culatas de los rifles. Luego, llevaron los cadáveres en carro y los arrojaron en el pozo de una mina y solo dos días más tarde los sacaron y los descargaron en una fosa poco profunda, los rociaron con ácido sulfúrico y los enterraron. Allí estuvieron durante más de 60 años. Muy pronto, el asesinato de los Roma nov se rodeó de un aire de misterio. ¿Murieron todos los hijos de Nicolás y Alejandra con sus padres aquella noche sangrienta o se salvó la hija más joven, Anastasia? Durante años, la posibilidad de que Anastasia escapara milagrosamente de la ejecución ha inspirado incontables libros, una película de Hollywood, un ballet, una obra de teatro de Broadway y, más recientemente, una película de dibujos animados. En todas estas nuevas versiones, Anastasia reaparece reclamando su derecho como el único miembro sobreviviente de los Romanov. Al misterio se añadió una tal Anna Anderson. Dos años después de ser recuperada de un canal de Berlín después de un intento de suicidio en 1920, comenzó a pretender que era la gran duquesa Anastasia. A pesar de su historial de desequilibrio mental y de una curiosa incapacidad para hablar ruso, logró convencer a muchas personas. El misterio comenzó a desenredarse en 1979, cuando un geólogo siberiano y un director de cine moscovita descubrieron cuatro cráneos que creyeron pertenecían a la familia del Zar. No fue hasta el verano de 1991, después de la «glasnost», que comenzó la exhumación. En conjunto, se recuperaron casi 1.000 fragmentos de huesos, que sirvieron para reconstruir nueve esqueletos, cinco de mujeres y cuatro de hombres. Basándose en la medida de los huesos y superponiendo los cráneos en fotografías con ayuda informática, se identificaron los restos como pertenecientes posiblemente a los Romanov asesinados. Pero todavía faltaban dos cuerpos, uno de las hijas (quese creía podría ser de Anastasia) y del joven Alexei. El siguiente paso para autentificar los restos implicaba estudios de DNA, llevados a cabo por Pavel lvanov, el líder de los forenses rusos, analista de DNA, en colaboración con Peter Gill, del Servicio Científico Forense Británico. Su objetivo fue establecer las relaciones familiares entre los restos, y luego determinar, en comparación con parientes vivos, si el grupo familiar era de hecho de los Romanov. Congelaron los fragmentos de los huesos de los nueve esqueletos en nitrógeno líquido, los trituraron en un polvo fino y extrajeron pequeñas cantidades de DNA, que comprendía tanto DNA nuclear como mitocondrial (mtDNA). El análisis genómico del DNA de cada esqueleto confirmó las relaciones familiares y demostró que, realmente, faltaba una de las princesas y Alexei. Ahora, la prueba final de que los huesos pertenecían a los Romanov esperó al análisis del mtDNA. El DNA mitocondrial es ideal para estudios forenses por varias razones. Primero, ya que todas las mitocondrias de las células humanas derivan de las mitocondrias presentes en el óvulo, el mtDNA se transmite estrictamente de la madre a los descendientes, nunca del padre a los descendientes. Por ello, las secuencias del mtDNA se pueden utilizar para seguir la línea materna, sin los efectos complicados del entrecruzamiento en la meiosis, mtDNA es pequeño (16.600 pares de bases) y hay entre 500 y 1.000 copias por célula, por lo que es mucho más fácil recuperarlo intacto que el DNA nuclear. El grupo de lvanov amplificó dos regiones muy variables del mtDNA aislado de las nueve muestras de huesos y determinó la secuencia de nucleótidos de dichas regiones. Comparando estas secuencias con los parientes vivos de los Romanov, esperaban establecer la identidad de los restos de Ekaterimburgo de una vez por todas. Las secuencias de la Zarina Alejandra encajaban perfectamente con las del príncipe Felipe de Edimburgo, que es su sobrino nieto, verificando su identidad. Sin embargo, la autentificación del Zar fue más complicada. Las secuencias del Zar se compararon con las de los dos únicos parientes vivos a los que se pudo persuadir que participaran en el estudio, el Conde Xenia Cheremeteff-Sfiri (su sobrino biznieto) y de James George Alexander Bannerman Carnegie, tercer duque de Fife (un pariente más alejado, descendiente de mujeres estrechamente relacionadas con la abuela del Zar). Estas comparaciones dieron una sorpresa. En la posición 16.169 del mtDNA del Zar parecía que había ola base C ola T. No obstante, el conde y el duque tenían solo T. La conclusión fue que el Zar Nicolás tenía en sus células dos poblaciones distintas de mitocondrias, cada una con una base distinta en la posición 16.169 de su mtDNA. Esta situación, llamada heteroplasmia, se cree que se produce en el 10 al 20 por ciento de los humanos. La ambigüedad entre el supuesto Zar y sus dos parientes maternos vivos arrojó dudas sobre la identificación de los restos. Afortunadamente, el gobierno ruso aprobó la petición de analizar los restos del hermano más joven del Zar, el gran duque Georgij Romanov, que murió en 1899 de tuberculosis. Se encontró que el mtDNA del gran duque tenía la misma variante heteroplásmica en la posición 16.169, con C o con T. Se concluyó que los huesos de Ekaterimburgo eran de la familia imperial asesinada. Con años de controversia resueltos finalmente, los restos autentificados del Zar Nicolás II, la Zarina Alejandra y tres de sus hijas fueron enterrados en la Catedral de San Pedro y San Pablo de San Petersburgo el 17 de Julio de 1998, 80 años después del día en que fueron asesinados. Sin embargo, este análisis del DNA no resolvió el misterio del destino de Anastasia. ¿Murió ella con sus padres, hermanas y hermano en 1918? ¿O es posible que Anna Anderson dijera la verdad y que ella fuera la duquesa escapada? En un estudio distinto, se recuperó el DNA nuclear y el mtDNA de tejido intestinal de Anna Anderson, conservado de una operación realizada cinco años antes de su muerte en 1984. Los análisis de este DNA confirmaron que ella no era Anastasia, sino una campesina polaca llamada Francisca Schanzkowska. Si los restos de Anastasia no se encontraron entre los de sus padres y hermanas y si Anna Anderson era una impostora, ¿qué le sucedió a Anastasia? Muchas evidencias sugieren que Anastasia y su hermano Alexei no se encontraron con los otros en la fosa común debido a que sus cuerpos fueron quemados sobre la tumba dos días después de los asesinatos y sus cenizas, esparcidas, nunca se encontrarán. No exactamente como un final de Hollywood. Primer nivel: Pregunta por un término o de paráfrasis.",
+    "questions": [
+      {
+        "statement": "1. La expresión FINAL DE HOLLYWOOD sugiere",
+        "alternatives": [
+          "A) violencia en las acciones.",
+          "B) misterio en relación con Anastasia.",
+          "C) un desenlace venturoso.",
+          "D) impunidad para los Bolcheviques.",
+          "E) una cruenta venganza."
+        ],
+        "correct": 2,
+        "rationale": "SOLUCIÓN: El final de la familia Romanov fue trágico, murieron violentamente y sus cadáveres fueron incinerados. CLAVE : C"
+      },
+      {
+        "statement": "2. La palabra DESENREDARSE que figura en el cuarto párrafo puede ser reemplazada por",
+        "alternatives": [
+          "A) elucidarse.",
+          "B) encriptarse.",
+          "C) difuminarse.",
+          "D) difundirse.",
+          "E) cifrarse."
+        ],
+        "correct": 0,
+        "rationale": "SOLUCIÓN: El misterio que envolvía a la princesa Anastasia comenzó a aclararse en el año 1979. CLAVE : A"
+      },
+      {
+        "statement": "3. En el contexto del segundo párrafo de la lectura, la palabra AGOTAR connota",
+        "alternatives": [
+          "A) extenuación.",
+          "B) consunción.",
+          "C) adormecimiento.",
+          "D) ajusticiamiento.",
+          "E) carestía."
+        ],
+        "correct": 3,
+        "rationale": "SOLUCIÓN: Los Bolcheviques dispararon contra los prisioneros y trataron de deshacerse de los cadáveres. CLAVE : D"
+      },
+      {
+        "statement": "4. La palabra CURIOSA, en el tercer párrafo del texto, connota",
+        "alternatives": [
+          "A) animadversión.",
+          "B) desinterés.",
+          "C) afabilidad.",
+          "D) escrupulosidad.",
+          "E) suspicacia."
+        ],
+        "correct": 4,
+        "rationale": "SOLUCIÓN: La incapacidad para hablar ruso de Anna Anderson no ayuda a probar que ella sea Anastasia. Por el contrario, es motivo de desconfianza de que así sea. CLAVE : E"
+      },
+      {
+        "statement": "5. El texto gira fundamentalmente entorno a",
+        "alternatives": [
+          "A) la estructura interna del ADN mitocondrial y su relación con el ADN nuclear.",
+          "B) la dilucidaci ón del misterio de los Romanov a través del análisis del mtDNA.",
+          "C) el complejo perfil genético del Zar que fue asesinado por los bolcheviques.",
+          "D) los intentos fallidos por resolver el misterio de la dinastía rusa Romanov.",
+          "E) la inexplicable e inopinada de saparición de la duquesa Anastasia de Rusia."
+        ],
+        "correct": 1,
+        "rationale": "SOLUCIÓN: La noción capital del texto alude al esclarecimiento del caso Romanov mediante el análisis molecular del ADN mitocondrial. CLAVE : B"
+      },
+      {
+        "statement": "6. La idea principal del texto asevera que",
+        "alternatives": [
+          "A) Las dinastías europeas estaban emparentadas por vínculos de consanguinidad que debilitaban su estirpe.",
+          "B) la genética concibe la verdad como una idea regulativa que favorece la indagación y el descubrimiento.",
+          "C) el análisis del DNA mitocondrial fue crucial para resolver el mis terio del",
+          "D) la revolución bolchevique le puso término al gobierno despótico de una dinastía que duró muchos siglos.",
+          "E) el destino final de la gran duquesa Anastasia de Rusia permanece totalmente incierto hasta la actualidad."
+        ],
+        "correct": 2,
+        "rationale": "SOLUCIÓN: El desarrollo esencial del tema central debe señalar, bajo la forma de una oración, la importancia del análisis del mtDNA para la resolución del caso en cuestión. CLAVE : C"
+      },
+      {
+        "statement": "7. Señale la mejor síntesis del texto.",
+        "alternatives": [
+          "A) Anna Anderson pretendió ser la gran duquesa Anastasia durante mucho tiempo. Esta mujer que convenció a muchas personas sobre su identidad no podía expresarse en ruso, padecía de afecciones que alteraban su equilibrio mental y murió en 1984.",
+          "B) El asesinato de la familia real rusa inspiró a la literatura, el cine e incluso el teatro para la elaboración de versiones edulcoradas en las que la hija menor del Zar Nicolás II escapa a la ejecución de 1918 y vuelve más tarde para reclamar sus derechos.",
+          "C) Las investigaciones científicas en el terreno de la genética prosperaron lo suficiente durante la segunda mitad del siglo XX como para poder identificar personas a partir del análisis molecular de restos óseos de muchos años de antigüedad.",
+          "D) La revolución bolchevique exterminó a la dinastía Romanov y marcó un hito fundamental en la historia humana. Muchos años después, la glasnost liberalizó el sistema político del país y lo insertó en el contexto capitalista contemporáneo.",
+          "E) En 1918, los bolcheviques ejecutan a la dinastía Romanov y se teje un halo de misterio entorno a los asesinatos. Se exhuman unos cadáveres, se analizan y solo el examen del mtDNA resuelve el caso identificando a los miembros de la familia."
+        ],
+        "correct": 4,
+        "rationale": "SOLUCIÓN: Se trata de un texto que narra una historia real que podría resumirse esencialmente enunciando el inicio, el nudo y el desenlace. CLAVE : E"
+      },
+      {
+        "statement": "8. Se infiere que la dilación en la exhumación de los restos de la familia Romanov se debió a obstáculos de índole",
+        "alternatives": [
+          "A) científica .",
+          "B) religiosa.",
+          "C) filosófica.",
+          "D) política.",
+          "E) teórica."
+        ],
+        "correct": 3,
+        "rationale": "SOLUCIÓN: Los restos se hallan en 1979. Sin embargo, no fue hasta 1991, después de la «glasnost», que comenzó la exhumación. CLAVE : D"
+      },
+      {
+        "statement": "9. Con respecto a los sirvientes del zar, es posible inferir que",
+        "alternatives": [
+          "A) se trataba de dos varones y una mujer.",
+          "B) estuvieron coludidos con los Bolcheviques.",
+          "C) eran miembros de la familia Romanov.",
+          "D) carecían insólitamente de ADN mitocondrial."
+        ],
+        "correct": 0,
+        "rationale": "SOLUCIÓN: Se logró reconstruir nueve esqueletos; cinco mujeres y cuatro varones. Solo faltaban dos cuerpos; una de las hijas y el joven Alexei. CLAVE : A"
+      },
+      {
+        "statement": "10. Se colige del texto que los verdugos de la familia Romanov",
+        "alternatives": [
+          "A) sintieron retorcida fruición al ultimar a los Romanov.",
+          "B) hicieron un acto de contrición después de lo cometido.",
+          "C) pertenecían realmente a una poderosa dinastía enemiga.",
+          "D) no quedaron impunes por los crímenes que cometieron.",
+          "E) buscaban imposibilitar la identificación de sus víctimas."
+        ],
+        "correct": 4,
+        "rationale": "SOLUCIÓN: Los asesinos de los Ro manov destrozaron los rostros de los cadáveres a culatazos. Adicionalmente, rociaron los cuerpos con ácido sulfúrico. CLAVE : E"
+      }
+    ]
+  },
+  {
+    "type": "reading_comprehension",
+    "statement": "El texto gira fundamentalmente entorno a la dilucidación del misterio de los Romanov a través del análisis del mtDNA.",
+    "questions": [
+      {
+        "statement": "El texto gira fundamentalmente entorno a",
+        "alternatives": [
+          "A) la estructura interna del ADN mitocondrial y su relación con el ADN nuclear.",
+          "B) la dilucidaci ón del misterio de los Romanov a través del análisis del mtDNA.",
+          "C) el complejo perfil genético del Zar que fue asesinado por los bolcheviques.",
+          "D) los intentos fallidos por resolver el misterio de la dinastía rusa Romanov.",
+          "E) la inexplicable e inopinada de saparición de la duquesa Anastasia de Rusia."
+        ],
+        "correct": 1,
+        "rationale": "La noción capital del texto alude al esclarecimiento del caso Romanov mediante el análisis molecular del ADN mitocondrial."
+      },
+      {
+        "statement": "La idea principal del texto asevera que",
+        "alternatives": [
+          "A) las dinastías europeo s estaban emparentadas por vínculos de consanguinidad que debilitaban su estirpe.",
+          "B) la genética concibe la verdad como una idea regulativa que favorece la indagación y el descubrimiento.",
+          "C) el análisis del DNA mitocondrial fue crucial para resolver el mis terio del",
+          "D) la revolución bolchevique le puso término al gobierno despótico de una dinastía que duró muchos siglos.",
+          "E) el destino final de la gran duquesa Anastasia de Rusia permanece totalmente incierto hasta la actualidad."
+        ],
+        "correct": 2,
+        "rationale": "El desarrollo esencial del tema central debe señalar, bajo la forma de una oración, la importancia del análisis del mtDNA para la resolución del caso en cuestión."
+      },
+      {
+        "statement": "Señale la mejor síntesis del texto.",
+        "alternatives": [
+          "A) Anna Anderson pretendió ser la gran duquesa Anastasia durante mucho tiempo. Esta mujer que convenció a muchas personas sobre su identidad no podía expresarse en ruso, padecía de afecciones que alteraban su equilibrio mental y murió en 1984.",
+          "B) El asesinato de la familia rea l rusa inspiró a la literatura, el cine e incluso el teatro para la elaboración de versiones edulcoradas en las que la hija menor del Zar Nicolás II escapa a la ejecución de 1918 y vuelve más tarde para reclamar sus derechos.",
+          "C) Las investigaciones científicas en el terreno de la genética prosperaron lo suficiente durante la segunda mitad del siglo XX como para poder identificar personas a partir del análisis molecular de restos óseos de muchos años de antigüedad.",
+          "D) La revolución bolchevique exterminó a la dinastía Romanov y marcó un hito fundamental en la historia humana. Muchos años después, la «glasnost» liberalizó el sistema político del país y lo insertó en el contexto capitalista contemporáneo.",
+          "E) En 1918, los bolcheviques ejecutan a la dinastía Ro manov y se teje un halo de misterio entorno a los asesinatos. Se exhuman unos cadáveres, se analizan y solo el examen del mtDNA resuelve el caso identificando a los miembros de la familia."
+        ],
+        "correct": 4,
+        "rationale": "Se trata de un texto que narra una historia real que podría resumirse esencialmente enunciando el inicio, el nudo y el desenlace."
+      },
+      {
+        "statement": "Se infiere que la dilación en la exhumación de los restos de la familia Romanov se debió a obstáculos de índole",
+        "alternatives": [
+          "A) científica .",
+          "B) religiosa.",
+          "C) filosófica.",
+          "D) política.",
+          "E) teórica."
+        ],
+        "correct": 3,
+        "rationale": "Los restos se hallan en 1979. Sin embargo, no fue hasta 1991, después de la «glasnost», que comenzó la exhumación."
+      },
+      {
+        "statement": "Con respecto a los sirvientes del zar, es posible inferir que",
+        "alternatives": [
+          "A) se trataba de dos varones y una mujer.",
+          "B) estuvieron coludidos con los Bolcheviques.",
+          "C) eran miembros de la familia Romanov.",
+          "D) carecían insólitamente de ADN mitocondrial."
+        ],
+        "correct": 0,
+        "rationale": "Se logró reconstruir nueve esqueletos; cinco mujeres y cuatro varones. Solo faltaban dos cuerpos; una de las hijas y el joven Alexei."
+      },
+      {
+        "statement": "Se colige del texto que los verdugos de la familia Romanov",
+        "alternatives": [
+          "A) sintieron retorcida fruición al ultimar a los Romanov.",
+          "B) hicieron un acto de contrición después de lo cometido.",
+          "C) pertenecían realmente a una poderosa dinastía enemiga.",
+          "D) no quedaron impunes por los crímenes que cometieron.",
+          "E) buscaban imposibilitar la identificación de sus víctimas."
+        ],
+        "correct": 4,
+        "rationale": "Los asesinos de los Ro manov destrozaron los rostros de los cadáveres a culatazos. Adicionalmente, rociaron los cuerpos con ácido sulfúrico."
+      },
+      {
+        "statement": "Se desprende del texto que la dinastía Romanov",
+        "alternatives": [
+          "A) promovía subrepticiamente la gran revolución en Rusia.",
+          "B) tenía como único sobreviviente al forense ruso Pavel Ivanov.",
+          "C) puso en práctica la filantropía durante su reinado en Rusia.",
+          "D) tenía vínculos de consanguinidad con la familia real británica.",
+          "E) proscribió en Rusia el estudio de la genética mendeliana."
+        ],
+        "correct": 3,
+        "rationale": "La zari na Alejandra era nieta de la reina Victoria. Las secuencias de Alejandra encajaban con las del príncipe Felipe de Edimburgo."
+      },
+      {
+        "statement": "En última instancia, que el zar haya tenido dos poblaciones distintas de mitocondrias en sus células",
+        "alternatives": [
+          "A) significó que él y la zarina eran en realidad hermanos solo de madre.",
+          "B) incrementó ostensiblemente la probabilidad de una muerte violenta.",
+          "C) imposibilitó la autentificación de la identidad de los restos hallados.",
+          "D) permitió identificar sus restos de manera mucho más concluyente.",
+          "E) incrementó las posibilidades de heredar la heteroplasmia a su prole."
+        ],
+        "correct": 3,
+        "rationale": "La heteroplasmia le da mayor contundencia a las conclusiones del estudio comparativo entre el zar y Georgij Romanov pues solo le ocurre a un 20% de la población."
+      },
+      {
+        "statement": "Un enunciado incompatible con la perspectiva científica del autor afirmaría que",
+        "alternatives": [
+          "A) la identificación del zar Nicolás II fue más compleja que la de la zarina.",
+          "B) el mtDNA es una estructura mo lecular más escasa que el DNA nuclear.",
+          "C) el análisis genético de los restos desentrañó relaciones de parentesco.",
+          "D) la literatura ofreció una versión romántica de la desaparecida Anastasia.",
+          "E) Francisca Schanzkowska no estaba emparentada con la familia real rusa."
+        ],
+        "correct": 1,
+        "rationale": "Hay entre 500 y 1000 copias de mtDNA por célula, por lo que es mucho más fácil recuperarlo intacto que el DNA nuclear."
+      },
+      {
+        "statement": "Respecto a la meiosis, resulta incongruente sostener que",
+        "alternatives": [
+          "A) recombina los genes nucleares maternos y p aternos.",
+          "B) tiene efectos que resultan muy difíciles de analizar .",
+          "C) es un óbice para la variabilidad genética en humanos.",
+          "D) no es capaz de alterar la configuración del mtDNA.",
+          "E) es un fenómeno que se repite cada vez que hay cruce."
+        ],
+        "correct": 2,
+        "rationale": "La meiosis recombina los genes nucleares maternos y paternos y con ello favorece la variabilidad genética."
+      },
+      {
+        "statement": "En relación con la identificación de los restos de la familia real rusa, no se condice con el texto decir que",
+        "alternatives": [
+          "A) fue una tarea que implicó a varios nobles de otras nacionalidades.",
+          "B) tuvo la aquiescencia de las autoridades del moderno estado ruso.",
+          "C) contó con la participación de un experto de nacionalidad británica.",
+          "D) requirió únicamente de los adelantos logrados en materia genética.",
+          "E) habría sido imposible durante un régimen político de corte comunista."
+        ],
+        "correct": 3,
+        "rationale": "No solo se necesitó conocimientos de genética, sino también de informática y hasta de genealogía."
+      },
+      {
+        "statement": "Con respecto a la heteroplasmia, es incongruente sostener que",
+        "alternatives": [
+          "A) se expresa con bases distintas en la secuencia del mtDNA.",
+          "B) afecta a entre la décima y la quinta parte de las personas .",
+          "C) se trata de una condición hereditaria por línea paterna.",
+          "D) hizo que identificar al zar requiriera una prueba ulterior.",
+          "E) es una condición que los hermanos pueden compartir."
+        ],
+        "correct": 2,
+        "rationale": "La heteroplasmia consiste en tener dos poblaciones distintas de mitocondrias. Las mitocondrias de las células humanas derivan del óvulo progenitor."
+      },
+      {
+        "statement": "Si los bolcheviques no hubiesen tenido éxito en su lucha por conquistar el poder político en Rusia,",
+        "alternatives": [
+          "A) Ekaterimburgo sería la capital de la Rusia actual.",
+          "B) los restos de los Romanov no habrían aparecido.",
+          "C) la dinastía Romanov no habría sido ejecutada.",
+          "D) la genética no habría desarrollado como lo hizo.",
+          "E) el zar habría tenido que dimitir de todos modos."
+        ],
+        "correct": 2,
+        "rationale": "Hay una relación causal entre el éxito de los revolucionarios bolcheviques y la ejecución de los Romanov. El zar y su familia eran una amenaza para la revolución."
+      },
+      {
+        "statement": "Si la identificación de los restos del zar se hubiera efectuado utilizando información genética de parientes vivos de la línea paterna,",
+        "alternatives": [
+          "A) se habría descubierto la hemofilia del zar.",
+          "B) los Bolcheviques impugnarían el estudio.",
+          "C) la revolución rusa hallaría justificación.",
+          "D) los restos de Alexei se habrían hallado.",
+          "E) habría sido una tarea mucho más ardua."
+        ],
+        "correct": 4,
+        "rationale": "El ADN mitocondrial puede ser estudiado sin tomar en cuenta los complicados efectos del entrecruzamiento en la meiosis."
+      },
+      {
+        "statement": "Si Anna Anderson hubiera presentado la variante en la posición 16.169 de la secuencia de su mtDNA,",
+        "alternatives": [
+          "A) quedaría probado que mentía al afirmar que era Anastasia.",
+          "B) habría sido con toda seguridad una hija de la reina Victoria.",
+          "C) su historial de desequilibrio mental tendría una explicación.",
+          "D) presentaría más copias de DNA nuclear que mitocondrial.",
+          "E) estaría totalmente claro que no padecía de heteroplasmia."
+        ],
+        "correct": 0,
+        "rationale": "No podría ser la gran duquesa Anastasia porque la heteropl ia no se hereda por vía paterna."
+      },
+      {
+        "statement": "Si el gran duque Georgij Romanov y el zar Nicolás II solo hubieran tenido al padre como progenitor común,",
+        "alternatives": [
+          "A) los bolcheviques cifrarían sus esperanzas libertarias en el príncipe Alexei.",
+          "B) se habría dado origen a una sangrienta guerra de sucesión en la gran Rusia.",
+          "C) las pruebas realizadas al hermano menor del zar no habrían sido decisivas.",
+          "D) con toda certeza el duque Georgij tendría la misma variante heteroplásmica.",
+          "E) habrían estado más unidos para enfrentar a los revolucionarios bolcheviques."
+        ],
+        "correct": 2,
+        "rationale": "Las pruebas realizadas al cadáver de Georgij Romanov fueron decisivas pues revelaron que también él presentaba la heteroplasmia que ambos habrían heredado de la madre."
+      }
+    ]
+  }
+]

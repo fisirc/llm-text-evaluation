@@ -1,0 +1,85 @@
+[
+  {
+    "type": "reading_comprehension",
+    "statement": "El texto explica los dos principios del movimiento establecidos por el físico Galileo Galilei. La ‘idealización’ hecha por Galileo se ejemplifica con el caso del movimiento de una pelota en una situación de simplificación (sin fuerzas obstructoras). La fri cción reduce la velocidad porque ofrece resistencia al movimiento del objeto. Galileo  aseguró, contrariamente a lo que dijo Aristóteles, que no hacía falta fuerza alguna para mantener en movimiento un cuerpo una vez iniciado ése.",
+    "questions": [
+      {
+        "statement": "2. Dado el ejemplo, es claro que el sentido en que  se emplea en el texto el gerundio IDEALIZANDO es el de",
+        "alternatives": [
+          "A) deduciendo.",
+          "B) esquematizando.",
+          "C) estilizando.",
+          "D) generalizando.",
+          "E) simplificando."
+        ],
+        "correct": 4,
+        "rationale": "La ‘idealización’ hecha por Galileo se ejemplifica con el caso del movimiento de una pelota en una situación de simplificación (sin fuerzas obstructoras)."
+      },
+      {
+        "statement": "3. El sentido preciso en que se emplea el término FRICCIÓN, en el segundo párrafo, es el de",
+        "alternatives": [
+          "A) conflicto.",
+          "B) contacto.",
+          "C) emulación.",
+          "D) rechazo.",
+          "E) resistencia."
+        ],
+        "correct": 4,
+        "rationale": "La fri cción reduce la velocidad porque ofrece resistencia al movimiento del objeto."
+      },
+      {
+        "statement": "4. Resulta incompatible con lo planteado en el texto afirmar que la asunción de  fuerza  supone que esta",
+        "alternatives": [
+          "A) bien puede acelerar o desacelerar a un móvil.",
+          "B) es capaz d e cambiar la dirección de un móvil.",
+          "C) puede dar inicio al movimiento de un cuerpo.",
+          "D) puede hacer que un móvil quede en reposo.",
+          "E) solo se aplica a un ob jeto en movimiento."
+        ],
+        "correct": 4,
+        "rationale": null
+      },
+      {
+        "statement": "5. Se desprende del texto que, según Aristóteles, el movimiento",
+        "alternatives": [
+          "A) no puede darse indefinidamente.",
+          "B) no puede partir del reposo.",
+          "C) nunca es del todo rectilíneo.",
+          "D) puede detenerse como una fuerza.",
+          "E) siempre es constante y rectilíneo."
+        ],
+        "correct": 0,
+        "rationale": "Galileo  aseguró, contrariamente a lo que dijo Aristóteles, que no hacía falta fuerza alguna para mantener en movimiento un cuerpo una vez iniciado ése."
+      }
+    ]
+  },
+  {
+    "type": "reading_comprehension",
+    "statement": "Una revolución silenciosa está en marcha: la nanotecnología. Sin bombo y platillos se anunci an las grandes innovaciones. Algunas parecen obra de magia, como el material creado en 2004 por el profesor Ray Baugham y su equipo de científicos de la Universidad de Texas, en Dallas. Es más fuerte que el acero, transparente y extremadamente ligero. Una hoja de una hectárea de tamaño pesaría sólo 280 gramos. Cuando Baugham declaró que aún no decidía cómo llamar al material, empezó a recibir sugerencias de nombres por correo electrónico de todo el orbe. «Como es tan liviano y resistente, la gente propuso  llamarlo mitrilo , nombre del preciado metal de las armaduras de El señor de los anillos », relata Baugham. Aunque otros inventos no son tan sorprendentes como éste, su utilidad es innegable. Hoy día se fabrican calcetines que no conservan olores, pantalone s a prueba de manchas, ventanas que repelen la mugre, retretes que se limpian solos, pelotas de tenis que no pierden el rebote y pelotas de golf que corrigen su trayectoria. Todo esto es resultado de la exploración del mundo de lo infinitamente pequeño. La nanotecnología («nano»  deriva de un a palabra griega que significa «enano» ) suele definirse como el estudio y manipulación de materia que mide menos de 100 nanómetros: el tamaño de las moléculas y los virus. Diez átomos de hidrógeno agrupados miden apenas  un nanómetro de largo, y un millón de nanómetros equivalen a un milímetro. Un ejemplo más: si cada individuo de una urbe de 10 millones midiera un nanómetro de ancho y todos formaran una fila hombro con hombro, cabrían en la uña del pulgar de un adulto.",
+    "questions": [
+      {
+        "statement": "1. La lectura propuesta dista de ser un texto de",
+        "alternatives": [
+          "A) actualización tecnológica.",
+          "B) avances tecnológicos.",
+          "C) ciencia ficción.",
+          "D) divulgación científica."
+        ],
+        "correct": 2,
+        "rationale": "El texto no corresponde a un relato de ciencia ficción, s on resultados de la actual tecnología."
+      },
+      {
+        "statement": "2. En el texto, la expresión HOMBRO CON HOMBRO implica básicamente",
+        "alternatives": [
+          "A) apoyo.",
+          "B) contigüidad.",
+          "C) continuidad.",
+          "D) proximidad.",
+          "E) solidaridad."
+        ],
+        "correct": 1,
+        "rationale": "Una fila hombro con hombro se refiere a estar j untos, en contacto,  formando una dicha hilera."
+      }
+    ]
+  }
+]

@@ -1,0 +1,450 @@
+[
+  {
+    "type": "reading_comprehension",
+    "statement": "Por no esperar un tiempo no largo, atenienses, vais a tener la fama y la culpa, por parte de los que quieren difamar a la ciudad, de haber matado a Sócrates, un sabio. Pues afirmarán que soy sabio, aunque no lo soy, los que quieren injuriaros. En efecto, si hubierais esperado un poco de tiempo, esto habría sucedido por sí mismo. Veis, sin duda, que mi edad está ya muy avanzada en el curso de la vida y próxima a la muerte. No digo estas palabras a todos vosotros, sino a los que me han condenado a muerte. Pero también les digo a ellos lo siguiente. Quizá creáis, atenienses, que yo he sido condenado por faltarme las palabras adecuadas para haberos convencido, si yo hubiera creído que era preciso hacer y decir todo, con tal de evitar la condena. Está muy lejos de ser así. Pues bien, he sido condenado por falta no ciertamente de palabras, sino de osadía y desvergüenza, y por no querer deciros lo que os habría sido más agradable oír: lamentarme, llorar o hacer y decir otras muchas cosas indignas de mí, como digo, y que vosotros tenéis costumbre de oír a otros. Pero ni antes creí que era necesario hacer nada innoble por causa del peligro, ni ahora me arrepiento de haberme defendido así, sino que prefiero con mucho morir habiéndome defendido de este modo, a vivir habiéndolo hecho de ese otro modo. En efecto, ni ante la justicia ni en la guerra, ni yo ni ningún otro deben maquinar cómo evitar la muerte a cualquier precio. Pues también en los combates muchas veces es evidente que se evitaría la muerte abandonando las armas y volviéndose a suplicar a los perseguidores. Hay muchos medios, en cada ocasión de peligro, de evitar la muerte, si se tiene la osadía de hacer y decir cualquier cosa. Pero no es difícil, atenienses, evitar la muerte, es mucho más difícil evitar la maldad; en efecto, corre más de prisa que la muerte. Ahora yo, como soy lento y viejo, he sido alcanzado por la más lenta de las dos. En cambio, mis acusadores, como son temibles y ágiles, han sido alcanzados por la más rápida, la maldad. Ahora yo voy a salir de aquí condenado a muerte por vosotros, y éstos, condenados por la verdad, culpables de perversidad e injusticia. Yo me atengo a mi estimación y éstos, a la suya. Quizá era necesario que esto fuera así.",
+    "questions": [
+      {
+        "statement": "En el texto, Sócrates, principalmente, enfatiza que",
+        "alternatives": [
+          "A) la dignidad de la persona debe prevalecer en toda circunstancia, incluso frente a la muerte.",
+          "B) la perversidad y la desvergüenza caracterizan a quienes persiguen a los hombres justos.",
+          "C) los hombres justos deben temer más a la injuria de quienes los acusan con perversidad.",
+          "D) los atenienses han procedido de manera apresurada e injusta al condenarlo a muerte.",
+          "E) frente a la justicia y la guerra, los hombres dignos deben proceder con suma ecuanimidad."
+        ],
+        "correct": 0,
+        "rationale": "A lo largo del discurso, Sócrates enfatiza su actitud digna frente a la justicia. Dice que ni ante la justicia ni en la guerra, ni yo ni ningún otro deben maquinar cómo evitar la muerte a cualquier precio."
+      },
+      {
+        "statement": "Se infiere que, ante el tribunal, Sócrates",
+        "alternatives": [
+          "A) se erigió como un verdadero filósofo.",
+          "B) fue muy ignaro, bromista e inverecundo.",
+          "C) apeló a su condición de hombre senil.",
+          "D) hizo una apología de la crueldad bélica.",
+          "E) se mostró muy obsecuente y sumiso."
+        ],
+        "correct": 0,
+        "rationale": "Enseñó que en toda circunstancia la dignidad debe ser guía de nuestras acciones."
+      },
+      {
+        "statement": "Si Sócrates hubiera compartido los valores que prevalecían entre los atenienses,\nhabría",
+        "alternatives": [
+          "A) sido más firme y vehemente en su defensa.",
+          "B) conseguido persuadir al tribunal ateniense.",
+          "C) sido reconocido como un ciudadano probo.",
+          "D) trascendido su condición de maestro.",
+          "E) esperado la muerte con la frente en alto."
+        ],
+        "correct": 1,
+        "rationale": "El tribunal ateniense valora la defensa de la vida a cualquier precio, incluso recurriendo a acciones indignas. Si Sócrates hubiera compartido esta valoración, habría conseguido la indulgencia de dicho tribunal."
+      },
+      {
+        "statement": "En el texto, la expresión yo me atengo a mi estimación connota una",
+        "alternatives": [
+          "A) dolorosa resignación ante la inminencia de la muerte.",
+          "B) grave denuncia contra el abuso que está en curso.",
+          "C) firme defensa del derecho a la vida y a la integridad.",
+          "D) clara valoración de la decisión de tribunal ateniense.",
+          "E) reafirmación en los valores de la dignidad y la verdad."
+        ],
+        "correct": 4,
+        "rationale": "¿Qué aprecia Sócrates? La dignidad y la verdad; en consecuencia, esta expresión es una reafirmación en dichos valores."
+      },
+      {
+        "statement": "Resulta incompatible con el texto decir que Sócrates quiere",
+        "alternatives": [
+          "A) lograr la dignidad en la vida.",
+          "B) ser una persona racional.",
+          "C) valorar la justicia ante todo.",
+          "D) justipreciar una muerte honrosa.",
+          "E) seguir viviendo a costa de todo."
+        ],
+        "correct": 4,
+        "rationale": "Sócrates prefiere morir que vivir sacrificando sus ideales."
+      }
+    ]
+  },
+  {
+    "type": "reading_comprehension",
+    "statement": "La infografía y el cuadro se refieren sobre todo a la condición mental o psicológica en nuestro país.",
+    "questions": [
+      {
+        "statement": "El problema central que la infografía y el cuadro abordan es el",
+        "alternatives": [
+          "A) de la condición psicológica en nuestro país.",
+          "B) del alcance de la salud mental en el Perú.",
+          "C) de la geografía psicológica de nuestro Perú.",
+          "D) de la salud mental en el Perú y el mundo.",
+          "E) de nuestra distribución geográfica de salud."
+        ],
+        "correct": 0,
+        "rationale": null
+      },
+      {
+        "statement": "En lo que a la salud mental de sus respectivas poblaciones se refiere, del cuadro se desprende que",
+        "alternatives": [
+          "A) Estados Unidos no gasta como lo hacen las otras naciones desarrolladas.",
+          "B) la Argentina solo se preocupa por aquellos que habitan en Buenos Aires.",
+          "C) solamente las naciones más desarrolladas se interesan por la salud mental.",
+          "D) Suecia y Nueva Zelanda no tienen mayores problemas de salud mental.",
+          "E) Uruguay y Costa Rica están a la par de las naciones más desarrolladas."
+        ],
+        "correct": 0,
+        "rationale": null
+      },
+      {
+        "statement": "Del mapa se deduce que, en términos de atención y proximidad, el mayor contraste en lo que a gasto en salud mental se refiere se da entre",
+        "alternatives": [
+          "A) el Callao y Áncash.",
+          "B) Lima Metropolitana y Lima Provincias.",
+          "C) Lima y el Callao.",
+          "D) Madre de Dios y Amazonas.",
+          "E) Tacna y Tumbes."
+        ],
+        "correct": 1,
+        "rationale": null
+      },
+      {
+        "statement": "Resulta incompatible con lo mostrado en la infografía asumir que los casi seis millones de peruanos que requieren atención psicológica",
+        "alternatives": [
+          "A) podrían acudir a algún centro público de atención.",
+          "B) podrían incluir el porcentaje mencionado de niños.",
+          "C) reciben una atención sumamente diferenciada.",
+          "D) se concentran en Lima, Callao y Lima Provincias.",
+          "E) tienen expedita la atención en el sector privado."
+        ],
+        "correct": 3,
+        "rationale": null
+      },
+      {
+        "statement": "Si la distribución del gasto por persona para la atención de salud mental fuese homogénea en todo el territorio nacional, ello se debería, probablemente,",
+        "alternatives": [
+          "A) a haber alcanzado el nivel de las naciones desarrolladas.",
+          "B) a la superación del tradicional centralismo limeño.",
+          "C) al descentralismo implementado en las últimas décadas.",
+          "D) a una distribución poblacional igualmente homogénea.",
+          "E) a un sinceramiento de la información disponible."
+        ],
+        "correct": 3,
+        "rationale": null
+      }
+    ]
+  },
+  {
+    "type": "reading_comprehension",
+    "statement": "La principal amenaza para la supervivencia de los pueblos indígenas proviene del\ncambio climático, que afecta gravemente a sus economías de subsistencia. Además, los\nproyectos denominados “de desarrollo” ‒ represas, plantaciones, minas y otras actividades\nextractivas‒ causan estragos, al igual que las políticas que combaten la diversidad y\nfomentan la homogeneidad. Los Estados tienen una mayor tendencia a penalizar las\nopiniones discordantes, y la violación de derechos aumenta: somos testigos de un alza sin\nprecedentes del número de indígenas acosados, detenidos, encarcelados e incluso\nejecutados sumariamente por haber osado defender sus territorios.\n\nPero lo que a menudo se olvida, cuando se evocan estas amenazas, es su\nrepercusión en las culturas y los valores autóctonos. Los pueblos indígenas derivan sus\nidentidades, valores y sistemas de conocimientos de la interacción con el medio, los\nmares o los bosques. Sus lenguas son el producto de ese entorno, ya que las formas de\ndescribir lo que les rodea constituyen la base de su especificidad lingüística. Cuando ese\nmedio se modifica, la cultura y la lengua se ven afectadas.\n\nLos inuits, por ejemplo, tienen unos cincuenta términos para describir la nieve en\nsus diferentes estados. Al ser esta su principal elemento natural, los nativos han adquirido\nun conocimiento profundo de ella. Lo mismo ocurre con los igorotes de la cordillera en\n\nFilipinas cuando hablan del arroz, desde que es solo una semilla hasta que las espigas\nestán maduras para la cosecha, pasando por el aspecto de los granos recién cocidos y\nlistos para el consumo, y el alcohol que se obtiene de ellos.\n\nLas nuevas tecnologías de la información y la comunicación podrían contribuir a\nmejorar el proceso de aprendizaje y convertirse en un instrumento de preservación de las\nlenguas vernáculas. Lamentablemente, no es así. Habida cuenta de que los pueblos\nindígenas son considerados minoritarios, las políticas estatales de preservación lingüística\nsuelen hacer caso omiso de sus idiomas. En Filipinas, por ejemplo, el gobierno permite el\nuso de las lenguas maternas en la escuela, pero no financia ni los docentes ni los\nmateriales que permitirían que los niños indígenas aprendiesen en su idioma. Resultado:\nlos alumnos terminan por dominar otra lengua y pierden la suya propia.\nDegawan, Minnue: Lenguas indígenas, conocimientos y esperanzas. Recuperado el 30-\n03-19\nhttps://es.unesco.org/courier/2019-1/lenguas-indigenas-conocimientos-y-\nesperanza",
+    "questions": [
+      {
+        "statement": "1. En el texto, el término COMBATIR es antónimo de",
+        "alternatives": [
+          "A) triunfar.",
+          "B) preservar.",
+          "C) establecer.",
+          "D) construir.",
+          "E) incrementar."
+        ],
+        "correct": 1,
+        "rationale": "Combatir la diversidad y fomentan la homogeneidad es sinónimo de eliminar; en consecuencia, es antónimo de preservar."
+      },
+      {
+        "statement": "2. El tema central que se desarrolla en el texto es",
+        "alternatives": [
+          "A) el cambio climático como amenaza principal para la supervivencia de los pueblos y la cultura indígenas.",
+          "B) la pérdida de las lenguas indígenas en las nuevas generaciones por la indiferencia del Estado y los medios de comunicación.",
+          "C) la penalización de las opiniones contra las políticas de gobierno que amenazan la vida y cultura indígenas.",
+          "D) las amenazas que se ciernen sobre la vida de los pueblos indígenas y su repercusión en la cultura y valores autóctonos.",
+          "E) el peligro de extinción de la cultura y lengua indígenas a causa de los proyectos denominados “de desarrollo”."
+        ],
+        "correct": 3,
+        "rationale": "Aparte del cambio climático, el autor denuncia las amenazas que ponen en peligro la vida, la cultura y la lengua indígenas."
+      },
+      {
+        "statement": "3. Respecto de las nuevas tecnologías de la información y la comunicación, es incompatible afirmar que",
+        "alternatives": [
+          "A) están fuera del alcance de los pueblos indígenas.",
+          "B) son indiferentes frente a la problemática indígena.",
+          "C) como el Estado, soslayan la cultura y lengua indígena.",
+          "D) desdeñan los valiosos aportes de la cultura indígena.",
+          "E) contribuyen a la extinción de las lenguas indígenas."
+        ],
+        "correct": 0,
+        "rationale": "Porque estas tecnologías están al alcance de los pueblos indígenas, el autor dice que estas podrían contribuir a mejorar el proceso de aprendizaje y convertirse en un instrumento de preservación de las lenguas vernáculas."
+      },
+      {
+        "statement": "4. Se deduce que la especificidad de las culturas y lenguas nativas",
+        "alternatives": [
+          "A) se desarrolla según la complejidad del entorno.",
+          "B) se determina mediante estudios lingüísticos.",
+          "C) define la identidad de los pueblos indígenas.",
+          "D) es fruto de la interacción de los pueblos indígenas.",
+          "E) se afectan cuando se proyectan graves amenazas."
+        ],
+        "correct": 2,
+        "rationale": "La especificidad lingüística y cultural de los pueblos indígenas son fruto de la forma como describen su entorno. Esta especificidad constituye la base de la identidad de dichos pueblos."
+      },
+      {
+        "statement": "5. Si las nuevas tecnologías de la información y la comunicación se comprometieran a preservar las lenguas nativas,",
+        "alternatives": [
+          "A) se conocería plenamente el entorno indígena.",
+          "B) los indígenas difundirían directamente su cultura.",
+          "C) también los Estados asumirían dicho compromiso.",
+          "D) se dejarían de penalizar las opiniones discordantes.",
+          "E) aun así, estas lenguas estarían en peligro de extinción."
+        ],
+        "correct": 4,
+        "rationale": "Pues, el compromiso del Estado es decisivo."
+      }
+    ]
+  },
+  {
+    "type": "reading_comprehension",
+    "statement": "SEMANA 18 B\n\nSegún la Asociación Psiquiátrica Norteamericana, los hipocondríacos son pacientes\ny cuyos temores de tener una dolencia grave persisten por lo menos durante seis meses y\ncontinúan aún después de que los médicos les aseguren que están sanos.\n\nCáncer, infartos y patologías que aún los médicos no han descubierto suelen\natormentar a los que padecen hipocondría, una fantasía que se alimenta cuando el\nenfermo imaginario se obsesiona con sus funciones corporales normales, como los latidos\ncardíacos, el sudor o los movimientos intestinales; también se preocupa en exceso por\nanormalidades físicas menores, como pequeñas heridas o tos ocasional; y le presta\nexcesiva atención a sensaciones físicas vagas y ambiguas, como tener el «corazón\ncansado» olas «venas dolorosas». El individuo atribuye todos estos síntomas o signos a\nla afección temida y se encuentra convencido de su significado, su autenticidad y su\ncausa.\n\nPara el psicólogo clínico Antonio Maldonado Cervera, este trastorno no sólo afecta a\nla persona, sino a los que tiene a su lado, y señala que en la población hipocondríaca se\ndistinguen quienes evitan las visitas a los médicos para que no les confirmen los males\nque temen (nosofobia), y los que acuden con bastante frecuencia al doctor, pero al ir y\ndescubrir que están sanos sólo se alivian de manera pasajera para, a las pocas horas o\ndías, volver a pensar que padecen esa enfermedad mortal (nosofilia).\n\n",
+    "questions": [
+      {
+        "statement": "Centralmente, el texto versa sobre",
+        "alternatives": [
+          "A) la gestión de los psiquiatras.",
+          "B) los hipocondríacos y sus síntomas.",
+          "C) el trastorno de la hipocondría.",
+          "D) el diagnóstico de la hipocondría.",
+          "E) el hipocondríaco y sus hábitos."
+        ],
+        "correct": 2,
+        "rationale": "Medularmente, se aborda el sorprendente trastorno del enfermo imaginario."
+      },
+      {
+        "statement": "Se infiere del texto que un hipocondríaco",
+        "alternatives": [
+          "A) pasa la mayor parte del tiempo enfermo.",
+          "B) suele sufrir muy graves accidentes.",
+          "C) propende a pensar hiperbólicamente.",
+          "D) tiende a sufrir un tipo de cáncer.",
+          "E) debe tener una gran suma de dinero."
+        ],
+        "correct": 2,
+        "rationale": "El enfermo imaginario exagera una anomalía insignificante y la percibe como un\npeligroso daño a la salud."
+      },
+      {
+        "statement": "En el texto, entre DOLENCIA y MAL se establece una relación de",
+        "alternatives": [
+          "A) sinonimia.",
+          "D) paralelismo.",
+          "B) antonimia.",
+          "E) secuencialidad.",
+          "C) causalidad."
+        ],
+        "correct": 4,
+        "rationale": "Son términos con significado muy aproximado."
+      },
+      {
+        "statement": "Si un hipocondríaco tuviese una pequeña herida en el pie,",
+        "alternatives": [
+          "A) buscaría a una enfermera para un diagnóstico.",
+          "B) pensaría que la dolencia no reviste gravedad.",
+          "C) se sometería a tratamientos de acupuntura.",
+          "D) la explicaría como un efecto psicosomático.",
+          "E) creería que sufre una infección gravísima."
+        ],
+        "correct": 0,
+        "rationale": "En la lógica del texto, el hipocondríaco tiende a pensar en lo peor."
+      },
+      {
+        "statement": "Si X es un enfermo imaginario que va constantemente al hospital, se puede decir\nque X",
+        "alternatives": [
+          "A) carece de hipocondría.",
+          "C) es un tipo estoico.",
+          "E) muestra una gran nosofobia.",
+          "B) padece de nosofilia.",
+          "D) siente pasión por la medicina."
+        ],
+        "correct": 1,
+        "rationale": "En la hipocondría, la nosofilia implica ir siempre al hospital."
+      }
+    ]
+  },
+  {
+    "type": "incomplete_sentences",
+    "statement": "6. Si X es un enfermo imaginario que va constantemente al hospital, se puede decir",
+    "alternatives": [
+      "A) carece de hipocondría.",
+      "C) es un tipo estoico.",
+      "E) muestra una gran nosofobia.",
+      "B) padece de nosofilia.",
+      "D) siente pasión por la medicina."
+    ],
+    "correct": 1,
+    "rationale": "En la hipocondría, la nosofilia implica ir siempre al hospital."
+  },
+  {
+    "type": "reading_comprehension",
+    "statement": "5. Si los físicos solo hubieran formulado reglas y no leyes científicas, la teoría física\n\nA) habría llegado a un complejo nivel de máxima generalidad.\nB) habría encaminado correctamente toda la investigación.\nC) podría llegar a un nivel de formulación rigurosa y sólida.\nD) debiera ser considerada una disciplina muy superior.\nE) entraría en crisis por no alcanzar un nivel científico.\n\nSolución:\n\nSi en la física solo se hubieran formulado reglas, la explicación en dicho campo\ntambién tendría vacíos epistemológicos.\n\nRpta.: E\n\nLa idea de Dios es la idea de un ente infinitamente sabio, infinitamente poderoso,\ninfinitamente bueno, etc. Hume se pregunta de dónde procede tal idea, y observa que ella\nno es más que la reunión y multiplicación al infinito de ideas de cualidades características\nde nuestro propio espíritu. Pues mediante la reflexión me doy cuenta de que poseo\nalgunos conocimientos, un cierto saber; la reflexión me permite también observar en mí\ncierta capacidad para hacer cosas, un cierto poder; y me percato, asimismo, de que hay\nen mí cierta bondad. Multiplico luego al infinito la idea de saber, y obtengo la idea de\nsabiduría infinita y perfecta; hago lo mismo con la idea de poder, y formo la idea\nde poder infinito u omnipotencia; y extendiendo igualmente la idea de bondad, llego a forjarme la\nidea de bondad absoluta y perfecta. Enlazo por último estas tres ideas -omnisciencia,\nomnipotencia y bondad suma- en una sola idea compleja, y entonces tendré formada la\nidea de Dios. En tanto que para Descartes la idea de Dios era una idea innata, que el\nhombre no es capaz de producir, para Hume es una idea construida por el espíritu sobre\nla base del material que proporcionan impresiones de la reflexión. Y mientras que el\n\nfilósofo francés se sentía forzado a sostener que a esa idea correspondía en la realidad\nun ente efectivamente existente, Hume se limita tan solo a comprobar que de hecho\ntenemos tal idea, pero que, por el momento al menos, no es sino una idea más, sin\nningún privilegio respecto de las otras, y comparable por tanto a la idea de centauro, a la\nde sirena o a la de montaña de oro. Quizás a la idea de Dios corresponda una realidad, es\nposible que haya Dios (como tal vez haya sirenas en algún remoto lugar del océano), pero\ntambién es posible que no exista; por lo tanto, Dios no es por lo pronto, según Hume,\nnada más que una mera idea.\nRecuperado de https://perio.unlp.edu.ar/catedras/system/files/carpio-_hume.pdf\n\nSi pensamos en la cosa más grandiosa y perfecta que pudiera concebirse, lo\nprimero que se viene a la cabeza es la idea de Dios, pues parece más evidente que Dios\nes lo máximo pensable; ya que todos los hombres (incluso el ateo que afirma que Dios no\nexiste) tienen una idea preconcebida de Dios, entiendo por “Dios” un único ser\nperfectísimo, un ser tal que es imposible pensar en otro ser mayor que él.\n\nAhora bien, si Dios existe en nuestra mente o entendimiento, ya que podemos\npensar en él, sería un contenido mental de nuestra inteligencia; pero si Dios existiese\nademás fuera de ese contenido mental, en realidad sería aún más grandioso o perfecto.\nAsí, si tenemos dos objetos, uno que existe y otro que no, parece bastante lógico afirmar\nque el que existe es más perfecto que el que no existe. Y la perfección es la característica\nque resume los atributos esenciales de Dios (omnipotente, omnisciente y omnipresente).\n\nFinalmente, si Dios solo existiera en nuestra mente, se podría pensar en otro ser\nsuperior a él que existiera también en la realidad. Pero como Dios es lo máximamente\npensable (lo más perfecto que la mente humana puede concebir), ha de existir también en\nla realidad, ya que en caso contrario sería una contradicción patente y no sería\nmáximamente pensable. Por ello, Dios necesariamente ha de existir.\nRecuperado de https:/www.guioteca.com/fenómenos-paranormales/san-anselmo-y-su-\nargumento-ontológico-sobre-la existencia-de-dios-como-lo-demostro/\n\n1. El tema central que se contrapone en los textos A y B responde a la siguiente\npregunta:\n\nA) ¿Cuáles son los límites de Dios?\nC) ¿Cuál es la naturaleza de Dios?\nE) ¿Cuál es la finalidad de Dios?\n\nB) ¿Cuál es el origen de Dios?\nD) ¿Cuál es la relación hombre-Dios?\n\nSolución:\n\nPara Hume (texto A), Dios es una idea; para San Anselmo (texto B), Dios es lo más\nperfecto, lo máximamente pensable.\n\nRpta.: C\n\n2.\n\n¿Cuál es el antónimo contextual de EVIDENTE?\n\nA) inconcuso\nD) apodíctico\n\nB) patente\nE) aporético\n\nC) axiomático\n\nSolución:\n\nLo evidente es lo patente, lo perfectamente claro. Se opone a lo aporético, esto es,\nlo que implica una aporía.\n\nRpta.: E\n\n3. Una conclusión válida que se puede extraer de la concepción humeana de Dios es\n\nque\n\nA) el hombre tiene las mismas cualidades de Dios, pero infinitamente inferiores.\nB) el hombre es un ser singular que tiene capacidad de reflexión hasta el infinito.\nC) Dios es fruto de la reflexión hasta el infinito de algunas cualidades del hombre.\nD) Dios es un ser complejo, a la vez, omnisciente, omnipotente, de suma bondad.\nE) la capacidad de multiplicación hasta el infinito conduce al reconocimiento de Dios.\n\nSolución:\n\nLa idea de Dios omnisciente, omnipotente, de suma bondad es construida por el\nhombre mediante la reflexión y la multiplicación hasta el infinito de las cualidades de\nsu propio espíritu.\n\nRpta.: A\n\n4. En incongruente afirmar que para San Anselmo (Texto B)\n\nA) Dios es omnipotente, omnisciente, de suma bondad, y puede alcanzar hasta lo\n\ninfinito.\n\nB) al existir fuera de la mente, Dios llega a la perfección en tanto que es un ser\n\ninfinito.\n\nC) los hombres conciben a Dios como una idea única y perfecta, imposible de\n\npensar en algo mayor que él.\n\nD) la perfección y grandiosidad de Dios es solamente posible en la propia mente del\n\nser humano.\n\nE) Dios necesariamente ha de existir fuera de la mente, de lo contrario sería una\n\ncontradicción patente.\n\nSolución:\n\nPorque Dios es lo máximamente pensable, lo más perfecto que la mente humana\npuede concebir; por ello, ha de existir también en la realidad, fuera de la mente.\n\nRpta.: D\n\n5. Si Hume asumiera que Dios es un ser que existe en el entendimiento y en la\nrealidad,\n\nA) refutaría la idea de la multiplicación hasta el infinito de los atributos divinos.\nB) examinaría la base material que proporciona impresiones para la reflexión.\nC) reflexionaría entorno a la existencia puramente mental de la divinidad.\nD) cuestionaría que la idea de Dios es producida por la mente del humano.\nE) sostendría que la idea de Dios es como la ficción de una sirena.\n\nSolución:\n\nAsumiría la concepción de Dios de San Anselmo; en consecuencia, renunciaría a la\nidea de que los atributos de Dios son producidos por el hombre\n\nRpta.: D\n\nSEMANA 18 C\n\nPeter Fromherz ha ideado la computadora biológica como Sapiens biónico. Él ha",
+    "questions": [
+      {
+        "statement": "1. El tema central que se contrapone en los textos A y B responde a la siguiente pregunta:",
+        "alternatives": [
+          "A) ¿Cuáles son los límites de Dios?",
+          "C) ¿Cuál es la naturaleza de Dios?",
+          "E) ¿Cuál es la finalidad de Dios?",
+          "B) ¿Cuál es el origen de Dios?",
+          "D) ¿Cuál es la relación hombre-Dios?"
+        ],
+        "correct": 1,
+        "rationale": "Para Hume (texto A), Dios es una idea; para San Anselmo (texto B), Dios es lo más perfecto, lo máximamente pensable."
+      },
+      {
+        "statement": "2. ¿Cuál es el antónimo contextual de EVIDENTE?",
+        "alternatives": [
+          "A) inconcuso",
+          "D) apodíctico",
+          "B) patente",
+          "E) aporético",
+          "C) axiomático"
+        ],
+        "correct": 3,
+        "rationale": "Lo evidente es lo patente, lo perfectamente claro. Se opone a lo aporético, esto es, lo que implica una aporía."
+      },
+      {
+        "statement": "3. Una conclusión válida que se puede extraer de la concepción humeana de Dios es que",
+        "alternatives": [
+          "A) el hombre tiene las mismas cualidades de Dios, pero infinitamente inferiores.",
+          "B) el hombre es un ser singular que tiene capacidad de reflexión hasta el infinito.",
+          "C) Dios es fruto de la reflexión hasta el infinito de algunas cualidades del hombre.",
+          "D) Dios es un ser complejo, a la vez, omnisciente, omnipotente, de suma bondad.",
+          "E) la capacidad de multiplicación hasta el infinito conduce al reconocimiento de Dios."
+        ],
+        "correct": 0,
+        "rationale": "La idea de Dios omnisciente, omnipotente, de suma bondad es construida por el hombre mediante la reflexión y la multiplicación hasta el infinito de las cualidades de su propio espíritu."
+      },
+      {
+        "statement": "4. En incongruente afirmar que para San Anselmo (Texto B)",
+        "alternatives": [
+          "A) Dios es omnipotente, omnisciente, de suma bondad, y puede alcanzar hasta lo infinito.",
+          "B) al existir fuera de la mente, Dios llega a la perfección en tanto que es un ser infinito.",
+          "C) los hombres conciben a Dios como una idea única y perfecta, imposible de pensar en algo mayor que él.",
+          "D) la perfección y grandiosidad de Dios es solamente posible en la propia mente del ser humano.",
+          "E) Dios necesariamente ha de existir fuera de la mente, de lo contrario sería una contradicción patente."
+        ],
+        "correct": 3,
+        "rationale": "Porque Dios es lo máximamente pensable, lo más perfecto que la mente humana puede concebir; por ello, ha de existir también en la realidad, fuera de la mente."
+      },
+      {
+        "statement": "5. Si Hume asumiera que Dios es un ser que existe en el entendimiento y en la realidad,",
+        "alternatives": [
+          "A) refutaría la idea de la multiplicación hasta el infinito de los atributos divinos.",
+          "B) examinaría la base material que proporciona impresiones para la reflexión.",
+          "C) reflexionaría entorno a la existencia puramente mental de la divinidad.",
+          "D) cuestionaría que la idea de Dios es producida por la mente del humano.",
+          "E) sostendría que la idea de Dios es como la ficción de una sirena."
+        ],
+        "correct": 3,
+        "rationale": "Asumiría la concepción de Dios de San Anselmo; en consecuencia, renunciaría a la idea de que los atributos de Dios son producidos por el hombre"
+      }
+    ]
+  },
+  {
+    "type": "sentence_elimination",
+    "statement": "5. Si Hume asumiera que Dios es un ser que existe en el entendimiento y en la realidad,",
+    "alternatives": [
+      "A) refutaría la idea de la multiplicación hasta el infinito de los atributos divinos.",
+      "B) examinaría la base material que proporciona impresiones para la reflexión.",
+      "C) reflexionaría entorno a la existencia puramente mental de la divinidad.",
+      "D) cuestionaría que la idea de Dios es producida por la mente del humano.",
+      "E) sostendría que la idea de Dios es como la ficción de una sirena."
+    ],
+    "correct": 3,
+    "rationale": "Asumiría la concepción de Dios de San Anselmo; en consecuencia, renunciaría a la idea de que los atributos de Dios son producidos por el hombre"
+  },
+  {
+    "type": "reading_comprehension",
+    "statement": "Peter Fromherz ha ideado la computadora biológica como Sapiens biónico. Él ha conectado una neurona de sanguijuela y un chip de silicio y ha logrado establecer una comunicación entre la materia viva y la materia inanimada electrónica. La neurona se mantiene viva en su líquido fisiológico y extiende las dendritas –es decir, sus ramificaciones– en el circuito integrado. Y, al ser sometida a un pequeño campo eléctrico, reacciona emitiendo una señal eléctrica que es detectada y recogida por el propio chip en el que reposa.\n\nFromherz utiliza neuronas de sanguijuela porque son fácilmente manipulables genéticamente para que sobrevivan durante dos semanas sobre el silicio. Y, para hacerlas activas, impregna la placa electroquímica con laminina, una sustancia que incita a las neuronas a que busquen el contacto con el circuito integrado.\n\nEste profesor alemán busca multiplicar la potencia de las actuales computadoras, porque aunque su capacidad, precisión y velocidad sean impresionantes, los informáticos las consideran aún escasas y lentas, y quieren ir mucho más lejos: construir una máquina cuyo poder de procesamiento y agilidad se aproximen a los del cerebro, que en el caso del de un perro, por ejemplo, es capaz de reconocer a su amo en unas millonésimas de segundo. Y en el hombre, simplemente cuando se identifica a una persona, realiza en unos microsegundos miles de millones de operaciones distintas.\n\nAmbos\n\nla capacidad de\n\nresultados sobrepasan con creces\n\nlas mejores\ncomputadoras, que deberían dar un salto cuantitativo gigantesco y precisarían multiplicar enormemente su poder. Es cierto que hoy pueden hacer mil millones de operaciones en un segundo, pero todavía están muy lejos de los diez trillones que realiza el cerebro en el mismo tiempo.\nY simplemente acercarse a una capacidad de procesamiento como esta –no hablamos ya de alcanzarla– resulta imposible con las actuales computadoras, debido a que tienen unas limitaciones que nacen del propio silicio, pues la progresiva miniaturización de las pistas de los circuitos está a punto de llegar a la frontera física que impedirá integrar más los circuitos.\n\nLa microelectrónica convencional va a alcanzar muy pronto la llamada barrera infranqueable del silicio establecida en 0.05 micrómetros, porque por debajo de esta medida los principios de la física convencional quedan invalidados y comienzan a producirse efectos cuánticos que alteran los resultados. Y cuando los transistores tengan dimensiones moleculares –hoy existen chips que contienen 16 millones de conmutadores–, ya no podrán ser más pequeños.\n\nSe trabaja ya con moléculas de organismos vivos para que realicen operaciones\núnicos soportes susceptibles de sustituir al silicio. Se busca lograr la computadora que habrá que construirse con materia orgánica; se compondrá de neuronas naturales insertadas en un circuito electrónico. Será un cerebro artificial más inteligente que el humano.\n\nLa investigación bioinformática se basa en dos frentes: por un lado, conseguir la unión entre una neurona y las microestructuras de silicio y, por otro, cultivar redes neuronales naturales en diferentes soportes. Así, el componente electrónico de Fromherz abarca los dos campos de estudio; “y ahora estamos desarrollando con Siemens un nuevo componente de 2024 transistores sobre el que pondremos redes de neuronas”, dice el científico alemán.\n\nLa unión entre el chip y la neurona por ahora dura sólo dos semanas. De ahí que otro reto de los investigadores es conseguir que la asociación entre la materia viva y la electrónica sea permanente. Cuando esta unión sea posible las computadoras tendrán una capacidad casi ilimitada, pues “el contacto de unos días con una sola neurona no tiene que ver con un contacto estable a largo plazo entre millones de neuronas”, agrega Fromherz.\n",
+    "questions": [
+      {
+        "statement": "1. El texto gira entorno a",
+        "alternatives": [
+          "A) la miniaturización del chip hasta 0.05 micrómetros.",
+          "B) una propuesta bioinformática revolucionaria.",
+          "C) la comparación de la computadora con el cerebro.",
+          "D) la complejidad de todos los circuitos de silicio.",
+          "E) el poco tiempo de vida de la neurona en el silicio."
+        ],
+        "correct": 1,
+        "rationale": "En la medida en que rompe con el patrón que viene siendo utilizado en la informática y que consiste básicamente en la miniaturización de las pistas de los circuitos, se trata de una propuesta revolucionaria."
+      },
+      {
+        "statement": "2. El hecho de que Fromherz use neuronas de sanguijuela se debe a una razón de tipo",
+        "alternatives": [
+          "A) teórico.",
+          "D) reivindicativo.",
+          "B) económico.",
+          "E) pragmático.",
+          "C) contingente."
+        ],
+        "correct": 4,
+        "rationale": "Se señala en el texto que se usa neuronas de sanguijuela porque son fácilmente manipulables, es decir, se trata de una opción práctica."
+      },
+      {
+        "statement": "3. En el tercer párrafo, el vocablo PODER significa",
+        "alternatives": [
+          "A) capacidad.",
+          "D) estructura.",
+          "B) sistema.",
+          "E) virtualidad.",
+          "C) fuerza."
+        ],
+        "correct": 0,
+        "rationale": "En el texto se habla de una máquina que se aproxime al “poder de procesamiento” del cerebro biológico, o sea, a la capacidad de procesamiento."
+      },
+      {
+        "statement": "4. Se colige del texto que la progresiva miniaturización de los chips busca",
+        "alternatives": [
+          "A) hacer más manipulables las computadoras digitales.",
+          "B) asegurar la confiabilidad de las operaciones numéricas.",
+          "C) imitar el modo de trabajo de las dendritas en el cerebro.",
+          "D) crear un cerebro biológico con una inteligencia superior.",
+          "E) incrementar la velocidad del procesamiento informático."
+        ],
+        "correct": 4,
+        "rationale": "La miniaturización de las pistas de los circuitos hace posible la integración de los mismos, lo que a su vez incrementa la velocidad de procesamiento."
+      },
+      {
+        "statement": "5. Si un can observase a su dueño con la velocidad de una computadora electrónica,",
+        "alternatives": [
+          "A) se demoraría más en su reconocimiento.",
+          "B) sería capaz de advertir detalles mínimos.",
+          "C) se convertiría en un animal más sutil.",
+          "D) se convertiría en un ser automatizado.",
+          "E) su fidelidad podría ser más persistente."
+        ],
+        "correct": 0,
+        "rationale": "El cerebro de un perro procesa mucho más rápido que una computadora: si tuviese la velocidad de esta, podría demorarse en reconocer a su dueño."
+      }
+    ]
+  },
+  {
+    "type": "sentence_elimination",
+    "statement": "Si un can observase a su dueño con la velocidad de una computadora electrónica,",
+    "alternatives": [
+      "A) se demoraría más en su reconocimiento.",
+      "B) sería capaz de advertir detalles mínimos.",
+      "C) se convertiría en un animal más sutil.",
+      "D) se convertiría en un ser automatizado.",
+      "E) su fidelidad podría ser más persistente."
+    ],
+    "correct": 0,
+    "rationale": "El cerebro de un perro procesa mucho más rápido que una computadora: si tuviese la velocidad de esta, podría demorarse en reconocer a su dueño."
+  },
+  {
+    "type": "sentence_elimination",
+    "statement": "Las limitaciones de las actuales computadoras con respecto a la capacidad cerebral se deben",
+    "alternatives": [
+      "A) a la falta de ingenio de los informáticos.",
+      "B) a un problema de diseño en la máquina.",
+      "C) al material con el que se fabrican los chips.",
+      "D) a que el cerebro humano es insuperable.",
+      "E) a un problema de ingeniería del software."
+    ],
+    "correct": 2,
+    "rationale": "Se trata de un problema que tiene que ver con el material con el que se fabrican los chips: el silicio."
+  }
+]

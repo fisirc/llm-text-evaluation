@@ -1,0 +1,305 @@
+[
+  {
+    "type": "reading_comprehension",
+    "statement": "Alibaba es una de las empresas más importantes de la actualidad. Apoyada en un sistema efectivo de comercio electrónico, esta empresa domina Asia y no le teme a Amazon, su rival occidental. Parte de su éxito se apoya en el liderazgo y visión de su cofundador, Jack Ma, quien recientemente explicó que la base de sus logros se apoya en el sistema 996.\n\n¿De qué se trata? Básicamente, el empresario es un defensor de la jornada laboral de 12 horas diarias, seis días de la semana. Esta postura fue defendida también por el empresario Richard Liu, jefe de la tienda JD.com. Por su parte, Ma caracterizó esta forma de trabajar como una «bendición». Para sostener su postura, Ma asegura que el crecimiento económico de China provocó un incremento de «haraganes» en el país. Cabe destacar que China experimentó un crecimiento económico de cerca del 10% por más de 25 años —de finales de la década del 70 hasta mediados de la década de 2000—, pero, en años subsiguientes, este crecimiento se limitó a un 6%.\n\nEstos comentarios surgen al mismo tiempo que desde JD.com están recortando puestos de trabajo bajo el lema de «reestructuración y transformación». «En los últimos cuatro o cinco años, JD no ha hecho recortes de personal, y este se ha expandido rápidamente. El número de personas que dan órdenes ha crecido y crecido, mientras que el de aquellos que trabajan ha caído», aseguró su CEO.\n\nY agregó: «¡Pero el número de haraganes ha crecido rápidamente! ¡Si esto continúa, no hay esperanzas para JD! ¡Y la compañía acabará siendo empujada del mercado sin piedad! ¡Los vagos no son mis amigos!». \n\nBBC (2019). «Qué es el sistema de trabajo 996 y por qué Jack Ma, el fundador de Alibaba, dice que es “una bendición”» en BBC Mundo. Recuperado de https://www.bbc.com/mundo/noticias-47937908. (Texto editado).",
+    "questions": [
+      {
+        "statement": "Un argumento para rebatir la postura del cofundador de Alibaba en defensa del sistema 996 sería el siguiente:",
+        "alternatives": [
+          "A) En países como Japón, se toma en cuenta las necesidades del mercado.",
+          "B) El exceso de trabajo induce un resto de eficacia u optimidad en la producción.",
+          "C) La empresa JD.com aún no efectúa cambios con respecto a su régimen laboral.",
+          "D) En los mercados actuales, el trabajo a tiempo completo lo define cada empresa."
+        ],
+        "correct": 1,
+        "rationale": null
+      },
+      {
+        "statement": "Si el aumento de horas de trabajo no significara un incremento en los ingresos de los trabajadores, el sistema de Alibaba podría ser calificado como",
+        "alternatives": [
+          "A) una auténtica bendición.",
+          "C) un modo de holgazanería.",
+          "B) un milagro económico.",
+          "D) una forma de explotación."
+        ],
+        "correct": 3,
+        "rationale": null
+      },
+      {
+        "statement": "Se infiere que una de las claves del éxito de Alibaba es haber aprovechado",
+        "alternatives": [
+          "A) el enorme capital financiero chino.",
+          "B) la cultura socialista del pueblo chino.",
+          "C) el mecanismo que brinda la Internet.",
+          "D) el sistema de publicidad occidental."
+        ],
+        "correct": 2,
+        "rationale": null
+      }
+    ]
+  },
+  {
+    "type": "sentence_elimination",
+    "statement": "3. Con relación a la información sobre los elementos que motivan el etiquetado de productos consignada en la infografía, podemos inferir que",
+    "alternatives": [
+      "A) las grasas saturadas constituyen un peligro menor que el sodio para la salud.",
+      "B) el máximo lícito de azúcar es de 22.5 g a los 6 meses de aprobado el Manual.",
+      "C) todos los productos etiquetados implican un riesgo de similares dimensiones.",
+      "D) el azúcar, sodio o grasas saturadas son menos nocivos que las grasas trans."
+    ],
+    "correct": 3,
+    "rationale": "En la infografía observamos que el único octógono que indica contiene es el de las grasas trans. Ello implica que el solo hecho de que un producto las contenga es signo de alerta, mientras que existen unos niveles aceptados por la ley para el azúcar, sodio o grasas saturadas."
+  },
+  {
+    "type": "sentence_elimination",
+    "statement": "4. Tomando en cuenta el texto y la infografía, es compatible aseverar que el nivel de sodio permitido en los productos",
+    "alternatives": [
+      "A) es de máximo 100 gramos en bebidas de 100 ml y 22.5 gramos en comidas.",
+      "B) se encuentra únicamente en el 20% de productos actuales en el mercado.",
+      "C) depende del tiempo de aprobación del Manual de Advertencias Publicitarias.",
+      "D) es reconocido con facilidad tanto por nutricionistas como por madres de familia."
+    ],
+    "correct": 2,
+    "rationale": "El nivel de sodio máximo permitido en alimentos sólidos (en porciones de 100 gramos) a los 6 meses de aprobación es de 800 gramos. A los 39 meses, de 400 gramos."
+  },
+  {
+    "type": "sentence_elimination",
+    "statement": "5. Si, encontrándose la ley en su segunda etapa, un producto lácteo de 100 ml contuviera 5,5 gramos de azúcar y no llevara el octógono correspondiente, entonces",
+    "alternatives": [
+      "A) la empresa estaría dentro de los límites establecidos y no tendría inconvenientes.",
+      "B) los nutricionistas descartarían recomendar tal producto lácteo de todos modos.",
+      "C) el Minsa podría multar a la empresa productora con un importe muy significativo.",
+      "D) los niveles de sodio y azúcar tendrían que estar por encima del límite establecido."
+    ],
+    "correct": 2,
+    "rationale": "El texto indica que, en su primera etapa, se permite un máximo de 800 miligramos de sodio para alimentos. De lo anterior, concluimos que la primera etapa comprende los 6 primeros meses de aprobación y la segunda etapa los 39 meses de aprobación del Manual de Advertencias Publicitarias. Por tanto, una bebida con más de 5 gramos en una porción de 100 ml en esta etapa estaría quebrantando la ley y, en consecuencia, puede recibir una multa de hasta 3 millones de soles."
+  },
+  {
+    "type": "reading_comprehension",
+    "statement": "Una de las propuestas básicas de la filosofía utilitaria (Jeremy Bentham) es defender el mayor grado de bienestar y comodidad para la mayoría a través de diversos medios. Estos, no importan su naturaleza, serán considerados válidos en la medida en que garanticen la felicidad de los individuos en una sociedad determinada. Un problema que los defensores de la filosofía utilitaria tienen que responder es la idea de que cualquier individuo puede ser utilizado como un instrumento o medio en la maquinaria social con tal de lograr la felicidad de los demás como en masa colectiva. Si así son las cosas, pareciera que el problema se reduce a una cuestión matemática. Por poner un crudo ejemplo, mil individuos valen más que uno. Si ese solo individuo es un óbice para la felicidad de los otros, entonces es justificable su aniquilamiento.\n\nEn su forma extrema, la filosofía utilitaria ha sido utilizada por aquellos que defienden la práctica de tortura. Y el problema se vuelve un asunto controversial en sociedades democráticas, pues sin duda la práctica de tortura es una acción contraria a derechos básicos, donde los que gobiernan tienen autorizado un grupo claramente definido de acciones que pueden afectar o restringir la libertad de cualquier individuo en esa sociedad de leyes. En otras palabras, la justificación de tortura no encajaría en una sociedad de leyes y límites a la autoridad punitiva. Sin embargo, en tiempos de terrorismo y radicalismos ideológicos, el debate se ha vuelto recurrente y los defensores de la práctica de tortura pugnan por darle más poder a la autoridad punitiva, algunas veces incluso transgrediendo leyes constitucionales.\n\nEl discurso de los defensores de la práctica de tortura, en los tiempos presentes, tiene la siguiente forma: en aras de proteger a la población, aterrada por acciones violentas y criminales por parte de grupos terroristas o de crimen organizado o carteles de la droga, será justificable torturar a una persona para obtener cierto tipo de información. Esta, evidentemente, tiene que ser relevante. Por ejemplo, sobre dónde está escondido el latente peligro —una bomba a punto de estallar—. Finalmente, el acto que se pretende impedir desencadenará un daño para un número considerable de personas —muchos inocentes pueden morir—. Se tiene que minimizar el dolor y maximizar el bienestar. De ahí, entonces, que algunas veces será justificable el uso de la tortura, porque la seguridad de la mayoría es más importante que la violación de garantías individuales o derechos humanos.\n\nUn argumento contrario a las ideas utilitarias y, por ende, a la práctica de tortura sería aquel basado en las ideas filosóficas de Immanuel Kant. Para este filósofo, moralidad significa respeto a las personas como entes individuales. Un ser humano, sin importar su raza, origen o nacionalidad, no puede ser utilizado para alcanzar determinados fines. No importa si esos fines son aprobados por la mayoría o reputados como buenos o positivos. Una persona es un fin en sí mismo, no un medio o instrumento que puede ser utilizado para alcanzar algún supremo fin. La idea de un salvador o líder que puede usar a las masas ignorantes o inconscientes de su realidad —por ejemplo, trabajadores sin acceso a educación o indígenas sojuzgados por centurias— para alcanzar un estado justo es descartada bajo la óptica kantiana. Según Kant, hay ciertos deberes universales y categóricos; por ejemplo, respetar a cualquier persona en tanto que es portadora de dignidad.\n\nSamuel (2012). «Tortura: argumentos a http://lecturasennewyorkcity.blogspot.com/2012/11/torture-of-cuauhtemoc-by-leandro.html. (Texto editado).\n\nfavor y en contra» en Blogspot.com. Recuperado de",
+    "questions": [
+      {
+        "statement": "En el texto anterior, hay una polémica entorno",
+        "alternatives": [
+          "A) a la tortura como una práctica existente en la historia humana.",
+          "B) al deber del filósofo a la hora de decidir si debemos torturar.",
+          "C) a la plausibilidad de aplicar la tortura en algunas situaciones.",
+          "D) a los planteamientos de Kant respecto del criterio del deber."
+        ],
+        "correct": 2,
+        "rationale": "El texto dialéctico continuo discute si es necesario aplicar la tortura ante situaciones en donde el sacrificio de uno pueda representar el beneficio de muchos."
+      },
+      {
+        "statement": "El término ÓBICE se puede reemplazar por",
+        "alternatives": [
+          "A) pilar.",
+          "B) escollo.",
+          "C) punto.",
+          "D) límite."
+        ],
+        "correct": 1,
+        "rationale": "En el texto, la palabra se usa como impedimento o escollo."
+      },
+      {
+        "statement": "Se infiere del texto que el utilitarismo defendería el método de la tortura como",
+        "alternatives": [
+          "A) último recurso.",
+          "B) ley universal.",
+          "C) forma irracional.",
+          "D) axioma político."
+        ],
+        "correct": 0,
+        "rationale": "El texto indica que la filosofía utilitaria «en su forma extrema» defiende la tortura."
+      }
+    ]
+  },
+  {
+    "type": "reading_comprehension",
+    "statement": "SEMANA 17 B\n\nCiudad del Cabo enfrenta la poco envidiable situación de poder convertirse en unas\nsemanas en la primera gran ciudad del mundo moderno en quedarse sin agua potable. No\nobstante, la sequía que enfrenta esta ciudad sudafricana es apenas uno de los ejemplos\nextremos de un problema del que muchos expertos llevan tiempo advirtiendo: la escasez\nde agua.\n\nA pesar de que el agua cubre 70% de la superficie de la Tierra, el agua dulce no es tan\nabundante como se piensa: solo representa 3%. Más de 1 000 millones de personas no\ntienen acceso a agua y a otros 2 700 millones les hace falta por lo menos un mes del año.\nUna investigación de las 500 ciudades más grandes del mundo publicada en 2014\nestimó que una de cada cuatro de las municipalidades de esas ciudades atraviesa una\nsituación de «estrés de agua», lo que según Naciones Unidas sucede cuando los\nsuministros anuales descienden por debajo de 1 700 metros cúbicos por persona.\n\nSegún las proyecciones de expertos respaldados por la ONU, la demanda global de\nagua potable sobrepasará el suministro en 40% para el año 2030, gracias a una\ncombinación de factores como el cambio climático, la acción humana y el crecimiento\ndemográfico.\n\nNo debería sorprender, entonces, que Ciudad del Cabo sea la punta del iceberg.\nEn cada continente, importantes centros urbanos enfrentan escasez en una carrera\ncontra el tiempo para encontrar una solución. Aquí te presentamos 11 de las ciudades con\nmayor probabilidad de quedarse sin agua en un futuro próximo:\n\nBBC (2018). «11 de las grandes urbes del mundo con más probabilidades de quedarse sin agua potable\ncomo Ciudad del Cabo» en BBC Mundo. Recuperado de https://www.bbc.com/mundo/noticias-42975307.\n(Texto editado).",
+    "questions": [
+      {
+        "statement": "De manera holística, el texto y la imagen afirman en esencia que",
+        "alternatives": [
+          "A) un grupo de ciudades está en riesgo de quedarse sin agua en el futuro.",
+          "B) Ciudad del Cabo es el primer centro urbano considerado en sequía total.",
+          "C) la falta de agua dulce ha obligado a 11 ciudades a tomar medidas extremas.",
+          "D) según las Naciones Unidas, el denominado «estrés de agua» es indetenible."
+        ],
+        "correct": 0,
+        "rationale": "El texto toma el ejemplo de Ciudad del Cabo para enfatizar que hay muchas ciudades (11) en riesgo de quedarse sin agua."
+      },
+      {
+        "statement": "De acuerdo con el contexto, el término CUBRIR es equivalente a",
+        "alternatives": [
+          "A) tapar.",
+          "B) abarcar.",
+          "C) tapizar.",
+          "D) abrigar."
+        ],
+        "correct": 1,
+        "rationale": "En el texto, CUBRIR hace referencia a ABARCAR, COMPRENDER, CONTENER."
+      },
+      {
+        "statement": "Es posible inferir a partir del texto en conjunto que el agua dulce del planeta",
+        "alternatives": [
+          "A) no es tan abundante puesto que solo representa el 6% del total de agua.",
+          "B) es insuficiente en muchas ciudades, pero a niveles menos alarmantes.",
+          "C) requerirá ser destinada únicamente a las ciudades en mayor riesgo el 2030.",
+          "D) abarca una gran extensión terrestre ocupando el 70% de la superficie."
+        ],
+        "correct": 1,
+        "rationale": "Antes de la infografía, el texto señala que existen 500 ciudades en donde existe un problema relacionado a la falta de agua."
+      }
+    ]
+  },
+  {
+    "type": "sentence_elimination",
+    "statement": "3. Es posible inferir a partir del texto en conjunto que el agua dulce del planeta",
+    "alternatives": [
+      "A) no es tan abundante puesto que solo representa el 6% del total de agua.",
+      "B) es insuficiente en muchas ciudades, pero a niveles menos alarmantes.",
+      "C) requerirá ser destinada únicamente a las ciudades en mayor riesgo el 2030.",
+      "D) abarca una gran extensión terrestre ocupando el 70% de la superficie."
+    ],
+    "correct": 1,
+    "rationale": "Antes de la infografía, el texto señala que existen 500 ciudades en donde existe un problema relacionado a la falta de agua."
+  },
+  {
+    "type": "sentence_elimination",
+    "statement": "4. Se corresponde con lo leído en el texto aseverar que Ciudad del Cabo",
+    "alternatives": [
+      "A) es la única ciudad en riesgo de quedarse sin agua potable.",
+      "B) refleja la ineptitud de sus autoridades en gestión ambiental.",
+      "C) tiene serios problemas económicos por la falta de suministro.",
+      "D) está próxima a sufrir un verdadero cataclismo en agua potable."
+    ],
+    "correct": 3,
+    "rationale": "El texto indica que «en unas semanas» esta ciudad se quedaría sin agua. Por tanto, de acuerdo a las proyecciones, pasado al menos un año esta ciudad tendría que quedar desabastecida."
+  },
+  {
+    "type": "sentence_elimination",
+    "statement": "5. Si se optimizara el sistema de distribución de agua potable en las ciudades de mayor",
+    "alternatives": [
+      "A) probablemente sería ignorado por ciudades como Bangalore, Tokio o Estambul.",
+      "B) requeriría de una inversión que muchas de estas ciudades no pueden asumir.",
+      "C) sería un esfuerzo fútil, ya que estas ciudades quedarán desabastecidas igual.",
+      "D) el problema de la rigurosa escasez de agua podría mitigarse a nivel mundial."
+    ],
+    "correct": 3,
+    "rationale": "La infografía muestra que uno de los problemas relacionados con el agua es la falla en los sistemas de tubería y las fugas."
+  },
+  {
+    "type": "reading_comprehension",
+    "statement": "HAMLET.– Ser o no ser. Esa es la cuestión. ¿Qué es más noble? ¿Permanecer impasible ante los avatares de una fortuna adversa o afrontar los peligros de un turbulento mar y, desafiándolos, terminar con todo de una vez? Morir es… dormir… Nada más. Y durmiendo se acaban la ansiedad y la angustia y los miles de padecimientos de que son herederos nuestros míseros cuerpos. Es una deseable consumación: morir… dormir… dormir… tal vez soñar. Ah, ahí está la dificultad. Es el miedo a los sueños que podamos tener al abandonar este breve hospedaje lo que nos hace titubear, pues a través de ellos podrían prolongarse indefinidamente las desdichas de esta vida. Si pudiésemos estar absolutamente seguros de que un certero golpe de daga terminaría con todo, ¿quién soportaría los azotes y desdenes del mundo, la injusticia de los opresores, los desprecios del arrogante, el dolor del amor no correspondido, la desidia de la justicia, la insolencia de los ministros, y los palos inmerecidamente recibidos? Es lo que inmoviliza la voluntad y nos hace concluir que mejor es el mal que padecemos que el mal que está por venir. La duda nos convierte en cobardes y nos desvía de nuestro racional curso de acción. Pero… interrumpamos nuestras filosofías, pues veo allí a la bella Ofelia. Ninfa de las aguas, perdona mis pecados y ruega por mí en tus plegarias.\n\nOFELIA.– Señor, ¿cómo estáis? Hace muchos días que no sé de vos.\nHAMLET.– Muy bien… Te doy las gracias por preguntar.\nOFELIA.– Aquí os traigo algunos regalos vuestros que hace ya muchos días quería devolveros. Os pido que los aceptéis.\n\nHAMLET.– ¿Regalos míos? No, yo nunca te regalé nada.\nOFELIA.– Señor, vos sabéis muy bien que me los disteis. Y con tan dulces palabras que los hizo doblemente valiosos para mí. Pero ahora que su perfume se ha disipado, quiero devolvéroslos. Para las almas nobles los regalos pierden su valor cuando la persona que los ha dado muestra poca gentileza.\nHAMLET.– ¡Ah! ¿tenéis un alma noble?\nOFELIA.– ¿Señor?\nHAMLET.– ¿Eres bella?\nOFELIA.– ¿Qué queréis decir?\nHAMLET.– Que si eres bella y de alma noble, entonces no deberías permitir que se hablara de tu belleza.\nOFELIA.– ¿Es posible hablar de belleza sin nobleza?\nHAMLET.– ¡Absolutamente! La belleza fácilmente corrompe un alma noble, pero un alma noble difícilmente hará virtuosa a la belleza. Para los antiguos eso era una paradoja, pero en los tiempos que corren es un casi un axioma. Hubo un tiempo en que te amaba…\nOFELIA.– Así me lo hicisteis creer, señor.\nHAMLET.– Pues no deberías haberlo creído. La verdad ya no se encuentra en los hombres, aunque finjan decirla. Nunca te amé…",
+    "questions": [
+      {
+        "statement": "1. Entre paradoja y axioma hay",
+        "alternatives": [
+          "A) una perfecta sinonimia.",
+          "B) una nítida equivalencia.",
+          "C) un agudo contraste.",
+          "D) cierto paralelismo."
+        ],
+        "correct": 2,
+        "rationale": "Mientras que la paradoja implica hesitación, el axioma implica certeza."
+      },
+      {
+        "statement": "2. El diálogo entre Hamlet y Ofelia revela, centralmente,",
+        "alternatives": [
+          "A) el amor intenso de Hamlet.",
+          "B) la locura de la bella Ofelia.",
+          "C) la certeza de Hamlet.",
+          "D) los desvaríos de Hamlet."
+        ],
+        "correct": 3,
+        "rationale": "En la conversación con Ofelia, Hamlet se revela errático."
+      },
+      {
+        "statement": "3. Resulta incompatible con el pensamiento de Hamlet decir que",
+        "alternatives": [
+          "A) los sueños pueden ser intimidantes para los seres humanos.",
+          "B) los hombres suelen hablar y solo fingen que dicen la verdad.",
+          "C) un alma noble puede ser corrompida por la belleza humana.",
+          "D) la incertidumbre es un sentimiento vivificante para los hombres."
+        ],
+        "correct": 3,
+        "rationale": "La duda paraliza, no vivifica"
+      }
+    ]
+  },
+  {
+    "type": "reading_comprehension",
+    "statement": "El modo más frecuente de ablandar los corazones de aquellos a quienes hemos ofendido, cuando tienen la venganza en su mano y estamos bajo su yugo, es conmoverlos por sumisión a conmiseración y piedad; a veces la bravura, resolución y firmeza, medios en todo contrarios, sirvieron para el logro del mismo fin.\n\nEduardo, príncipe de Gales, el que durante tanto tiempo gobernó nuestra Guinea, personaje cuya condición y fortuna tienen tantas partes de grandeza, habiendo sido duramente ofendido por los lemosines y apoderándose luego de su ciudad por medio de las armas, no le detuvieron en su empresa los gritos del pueblo, mujeres y niños, entregados a la carnicería, que le pedían favor arrojándose a sus pies, y su cólera fue implacable hasta el momento en que, penetrando más adentro en la ciudad, vio tres franceses nobles que con un valor heroico querían contrarrestar los esfuerzos de los vencedores. La consideración y respeto de virtud tan noble detuvo primeramente su cólera, y merced a los tres caballeros comenzó a mirar misericordiosamente a todos los demás moradores de la ciudad.\n\nScanderberg, príncipe del Epiro, que seguía a uno de sus soldados para matarlo, habiendo la víctima intentado apaciguar la cólera del soberano con toda suerte de humillaciones y de súplicas, resolvió de pronto hacerle frente con la espada en la mano; tal resolución detuvo la furia de su dueño, quien habiéndole visto tomar determinación tan digna le concedió su gracia. Este ejemplo podrá ser interpretado de distinto modo por aquellos que no tengan noticia de la prodigiosa fuerza y valentía de este príncipe.\n\nEl emperador Conrado III, que tenía cercado a Guelfo, duque de Baviera, no quiso condescender a condiciones más suaves por más satisfacciones cobardes y viles que se le ofrecieron, que consentir solamente en que las damas nobles sitiadas que acompañaban al duque, salieran a pie con su honor salvo y con lo que pudieran llevar consigo. Estas, que tenían un corazón magnánimo, quisieron echar sobre sus hombros a sus maridos, a sus hijos y al duque mismo; el emperador experimentó placer tanto de tal valentía que lloró de satisfacción y se amortiguó en él toda la terrible enemistad que había profesado al duque. De entonces en adelante trató con humanidad a su enemigo y a sus tropas. Ambos medios arrastraríanme fácilmente, pues yo me inclino en extremo a la misericordia y a la mansedumbre. De tal modo, que, a mi entender, mejor me dejaría llevar a la compasión que al peso del delito. Si bien la piedad es una pasión viciosa a los ojos de los estoicos, quieren estos que se socorra a los afligidos, pero no que se transija con sus debilidades.\n\nEsos ejemplos me parecen más adecuados, con tanta más razón cuanto que se ven aquellas almas (asediadas y probadas por los dos medios) doblegarse ante el uno permaneciendo inalterables ante el otro.",
+    "questions": [
+      {
+        "statement": "1. Se infiere que el príncipe de Gales fue ganado por la piedad",
+        "alternatives": [
+          "A) cuando vio a muchos niños indefensos.",
+          "B) al vera mujeres indefensas e inermes.",
+          "C) porque le daba valor a la noble gallardía.",
+          "D) puesto que todos le rogaban por su vida."
+        ],
+        "correct": 2,
+        "rationale": "Al verla gallardía en sus rivales, se generó un sentimiento de piedad en el príncipe de Gales."
+      },
+      {
+        "statement": "2. Si se concluyera que el príncipe Scanderberg fue intimidado por el soldado que, finalmmente, decidió enfrentársele,",
+        "alternatives": [
+          "A) se razonaría correctamente amparado en el conocimiento histórico.",
+          "B) constituiría una mala inferencia, pues el príncipe era muy intrépido.",
+          "C) se podría extraer la tesis legítima de que los príncipes son cobardes.",
+          "D) se obtendría una prueba fehaciente de la nobleza del ser humano."
+        ],
+        "correct": 1,
+        "rationale": "El príncipe no fue intimidado, sería una mala inferencia llegar a tal conclusión."
+      },
+      {
+        "statement": "3. ¿Cuál es el tema central del texto?",
+        "alternatives": [
+          "A) El rigor severo de los vencedores",
+          "C) El honor de los hombres nobles",
+          "B) La fina astucia de los vencidos",
+          "D) El valor de la misericordia humana"
+        ],
+        "correct": 3,
+        "rationale": "La argumentación y los ejemplos de Montaigne giran entorno a la misericordia humana como un valor fundamental."
+      }
+    ]
+  },
+  {
+    "type": "sentence_elimination",
+    "statement": "¿Cuál es el tema central del texto?",
+    "alternatives": [
+      "A) El rigor severo de los vencedores",
+      "C) El honor de los hombres nobles",
+      "B) La fina astucia de los vencidos",
+      "D) El valor de la misericordia humana"
+    ],
+    "correct": 3,
+    "rationale": "La argumentación y los ejemplos de Montaigne giran entorno a la misericordia humana como un valor fundamental."
+  },
+  {
+    "type": "sentence_elimination",
+    "statement": "¿Los ejemplos citados por Montaigne permiten ilustrar que",
+    "alternatives": [
+      "A) en el campo de batalla se nubla la razón y sale la bestialidad.",
+      "B) de nada vale en la historia tener un corazón bueno y magnánimo.",
+      "C) la gente de alcurnia suele ser temeraria, imprudente y vengativa.",
+      "D) la misericordia se puede lograr con una actitud decidida de aplomo."
+    ],
+    "correct": 3,
+    "rationale": "En general, la argumentación por el ejemplo tiene como norte poner de relieve el valor de la misericordia."
+  },
+  {
+    "type": "sentence_elimination",
+    "statement": "Si los tres franceses nobles hubiesen implorado por la piedad de Eduardo,",
+    "alternatives": [
+      "A) el príncipe de Gales no habría mostrado piedad y habría aplicado toda su furia.",
+      "B) las mujeres y los niños se habrían salvado de la terrible carnicería perpetrada.",
+      "C) Montaigne los elogiaría por su espíritu indomable, astuto y lleno de valentía.",
+      "D) Eduardo habría cambiado de actitud y se habría apaciguado muy rápidamente."
+    ],
+    "correct": 0,
+    "rationale": "En ese caso, no habría remitido la furia del príncipe de Gales"
+  }
+]

@@ -1,0 +1,15 @@
+[
+  {
+    "type": "sentence_elimination",
+    "statement": "La figura mostrada es una estructura cuadrangular hecha de alambre. Una araña parte del punto M y viaja a velocidad constante de 4 cm/s. ¿Cuál será el tiempo mínimo, en segundos, que empleará la araña en recorrer toda la estructura de alambre? (Las longitudes de los números de la figura están en centímetros)",
+    "alternatives": [
+      "A) 5√2 + 12",
+      "B) 2√2 + 10",
+      "C) 4√2 + 8",
+      "D) 2√2 + 12",
+      "E) 5√2 + 10"
+    ],
+    "correct": 0,
+    "rationale": "Resolución:\nEn la figura se muestra los tres trazos a repetir:\n\nLongitud mínima = 4(5√2+12) cm.\nTiempo mínimo = \n\nClave: A"
+  }
+]

@@ -1,0 +1,524 @@
+[
+  {
+    "type": "reading_comprehension",
+    "statement": "Las frías cifras han irrumpido en la campaña electoral para recordar a los europeos el drama de la inmigración irregular. Según la agencia de fronteras europeas Frontex, el número de detenciones de personas que intentan entrar en la Unión Europea de manera irregular se ha triplicado con respecto al año pasado. El norte de África sigue siendo una olla a presión difícil de contener dada la inestabilidad de los países de la ribera sur del Mediterráneo. De ahí provienen —muchos de ellos en tránsito desde la zona subsahariana — los más de 40.000 inmigrantes que entre enero y abril han intentado establecerse en Europa; la mayoría de ellos embarcados en Libia. La abismal diferencia de riqueza entre ambos continentes es el más potente efecto llamada para una población africana joven que huye de la pobreza y la violencia. Los sirios, víctimas de una cruenta guerra civil, son parte importante de esos flujos migratorios que enfrentan a la UE a sus propias contradicciones. La gran defensora de los Derechos Humanos y de la cooperación repele de manera expeditiva a los inmigrantes y demandantes de asilo, una actitud que el papa Francisco ha calificado de “cínica”. Europa, sumida todavía en una crisis económica que ha desbocado el paro —e insensible al drama de los inmigrantes. Ni los naufragios ni los ahogamientos frente a playas del norte ni las heridas que sufren los que pretenden sortear las vallas reducen un ápice el sentimiento de acoso que alimenta la xenofobia. Lo demuestra el ascenso de los partidos más radicales en este terreno. Además, Londres quiere establecer cupos y restringir las ayudas sociales a búlgaros y rumanos y en España se usan métodos para contener a los inmigrantes que han merecido el rechazo de la Defensora del Pueblo. La UE ha suscrito ya acuerdos bilateral es de inmigración con Marruecos y Túnez. Seguir explorando esa vía es la opción más interesante, aunque no la panacea ni la solución a corto plazo. Cada día entran nuevos inmigrantes en los centros de internamiento del sur de Europa y nuevos demandantes de asilo en los del norte. Una distribución europea equitativa y solidaria garantizaría unas mejores y más dignas condiciones para los extranjeros. Si las fronteras exteriores son comunes, también debería comunitarizarse la responsabilidad conjunta del fenómeno migratorio. A medio plazo, además de los acuerdos bilaterales, se imponen campañas de información que eviten demonizar la inmigración y pongan en valor la realidad, como ayer mismo hacía el británico Instituto Nacional de Investigación Económica y Social asegurando que el impacto de la inmigración es ampliamente positivo para la economía europea. Pero frente a la marea migratoria hay una corriente de opinión que disuade a muchos políticos de debatir sosegadamente sobre este asunto, temerosos de perder votos.",
+    "questions": [
+      {
+        "statement": "En el texto, el término REPELE se puede reemplazar por",
+        "alternatives": [
+          "A) rechaza.",
+          "B) repugna.",
+          "C) incluye.",
+          "D) incorpora.",
+          "E) destruye."
+        ],
+        "correct": 0,
+        "rationale": "La gran defensora de los Derechos Humanos y de la cooperación repele de manera expeditiva a los inmigrantes."
+      },
+      {
+        "statement": "¿Cuál es la idea principal del texto?",
+        "alternatives": [
+          "A) El conflicto sirio y el descontrol en la zona de Libia triplican los intentos de acceder a la UE.",
+          "B) Frente al drama de la inmigración irregular, triunfa en Europa la xenofobia con argumentos populistas.",
+          "C) La Unión Europea invierte tiempo y dinero en reforzar sus puertas de entrada por contener el éxodo.",
+          "D) Bruselas registra 42.000 entradas ilegales de africanos y búlgaros desde enero de 2013.",
+          "E) Europa, sumida todavía en una crisis económica, se muestra insensible al drama de los inmigrantes."
+        ],
+        "correct": 1,
+        "rationale": "Cada día entran nuevos inmigrantes en los centros de internamiento del sur de Europa y nuevos demandantes de asilo en los del norte."
+      },
+      {
+        "statement": "Es incompatible con el texto afirmar que",
+        "alternatives": [
+          "A) Londres planea establecer cupos y restringir las ayudas sociales a búlgaros y rumanos",
+          "B) cada día entran nuevos inmigrantes en los centros de internamiento del sur de Europa.",
+          "C) la oleada de sin papeles procedentes de África tiene en máxima alerta a varios",
+          "D) según Frontex, el número de detenciones de personas que intentan entrar en la UE se ha triplicado.",
+          "E) la Unión Europea suscribirá acuerdos bilaterales de inmigración con Marruecos y Túnez."
+        ],
+        "correct": 4,
+        "rationale": "Solución E: La UE ha suscrito ya acuerdos bilaterales de inmigración con Marruecos y Túnez."
+      },
+      {
+        "statement": "Si el norte de África fuese una zona próspera, probablemente",
+        "alternatives": [
+          "A) no serían necesarios los acuerdos bilaterales con Marruecos.",
+          "B) la xenofobia se reduciría drásticamente en Europa.",
+          "C) la inmigración sería positiva para la economía europea.",
+          "D) todos los inmigrantes africanos dejarían de ser denostados.",
+          "E) la inmigración irregular a tierras europeas disminuiría."
+        ],
+        "correct": 4,
+        "rationale": "Solución E : El norte de África sigue siendo una olla a presión difícil de contener dada la inestabilidad de los países de la ribera sur del Mediterráneo."
+      },
+      {
+        "statement": "Respecto de la inmigración irregular, el autor se muestra",
+        "alternatives": [
+          "A) tolerante.",
+          "B) sumamente indiferente.",
+          "C) claramente intransigente.",
+          "D) entusiasta con la idea.",
+          "E) permisivo."
+        ],
+        "correct": 0,
+        "rationale": "Si las fronteras exteriores son comunes, también debería comunitarizarse la responsabilidad conjunta del fenómeno migratorio."
+      }
+    ]
+  },
+  {
+    "type": "reading_comprehension",
+    "statement": "Besar es todo un arte, pero también tiene su propia ciencia. Se llama filematología , y las últimas investigaciones en esta disciplina revelan que intercambiar saliva nos ayuda a escoger la pareja más adecuada. Según explicaba la neurocientífica Wendy Hill durante una reciente reunión de la Asociación Americana para el Avance de la Ciencia ( AAAS), las sustancias químicas que contiene la saliva nos ayudan a evaluar a una posible pareja para decidir si es la más idónea. Además, besarnos reduce los niveles de cortisol ,la hormona del estrés, y aumenta los niveles de oxitocina ,siempre y cuando besemos a la persona adecuada. Helen Fisher ,profesora de antropología en la Universidad Rutger y experta mundial en la biología del amor, también ha analizado el papel del beso, y asegura que “besar es un poderoso mecanismo de adaptació n” presente en más del 90% de las sociedades humanas. Sin olvidar, añade, que “los chimpancés y los bonobos se besan, los zorros se lamien sus hocicos entre sí, las aves se picotean y los elefantes ponen sus trompas en las bocas de los otros miembros de sus mana das”. En los humanos, el beso es fundamentalmente una cuestión química , según Fisher. La saliva masculina tiene testosterona y los hombres prefieren los besos húmedos porque “inconscientemente intentan transferir testosterona para provocar el apetito sexual en las mujeres”, según la experta. Además, este tipo de besos podría ayudarles a “medir los niveles de estrógenos femeninos de su pareja, para hacerse una idea de su grado de fertilidad”. En cuanto a las mujeres, el beso les sirve para detectar el estado del sistema inmune de su posible pareja y saber “cuánto se cuida”. Por otra parte, la antropóloga sostiene que existen tres sistemas cerebrales reprodución. El primero es el deseo sexual alimentado por la testosterona ,tanto en hombres como en mujeres. El segundo regula el amor pasional u obsesivo y parece estar vinculado a una actividad elevada de la dopamina ,un estimulante natural. El tercero, que controla el apego y permite a una pareja permanecer unida suficiente tiempo como para criar hijos, está ligado a un nivel mayor de oxitocina . El beso, probablemente, permite que se estimulen esos tres sistemas, concluye Fisher.",
+    "questions": [
+      {
+        "statement": "En el texto, el término IDÓNEA se puede reemplazar por",
+        "alternatives": [
+          "A) adecuada.",
+          "B) inteligente.",
+          "C) perspicaz.",
+          "D) diestra.",
+          "E) ágil."
+        ],
+        "correct": 0,
+        "rationale": "Intercambiar saliva nos ayuda a escoger la pareja más adecuada."
+      },
+      {
+        "statement": "¿Cuál es el tema central del texto?",
+        "alternatives": [
+          "A) El deseo sexual alimentado por la testosterona.",
+          "B) Las tres áreas cerebrales dé l deseo sexual.",
+          "C) El control de apego y la unión de la pareja.",
+          "D) La importancia del beso en los seres vivos ",
+          "E) La filematología, una ciencia oculta."
+        ],
+        "correct": 3,
+        "rationale": "Besar es todo un arte, pero también tiene su propia ciencia. Se llama filematología."
+      },
+      {
+        "statement": "Resulta incompatible con el texto afirmar que",
+        "alternatives": [
+          "A) la filematología es la ciencia que estudia los besos.",
+          "B) el amor pasional surge por el aumento de la dopamina.",
+          "C) el beso manifiesta el estado del sistema inmune.",
+          "D) los besos son poderosos mecanismos de ad aptación.",
+          "E) Fisher es neuróloga, experta en redes neuronales."
+        ],
+        "correct": 4,
+        "rationale": "Fisher es experta en estudiar la biología del beso."
+      },
+      {
+        "statement": "Se deduce del texto que el beso",
+        "alternatives": [
+          "A) es responsable de las relaciones duraderas.",
+          "B) idealiza a las personas menos i ndicadas.",
+          "C) enfoca el amor desde lo espiritual.",
+          "D) permite el emparejamiento eterno.",
+          "E) es un mecanismo de adaptación."
+        ],
+        "correct": 0,
+        "rationale": "Intercambiar saliva nos ayuda a escoger la pareja más adecuada."
+      },
+      {
+        "statement": "Si la saliva no tuviera las bondades expuestas en el texto, entonces",
+        "alternatives": [
+          "A) sería considerada una sustancia insignificante.",
+          "B) la valoración de la posible pareja sería imposible.",
+          "C) Helen Fisher no tendría autoridad en el tema.",
+          "D) no tendría utilidad para los seres vivos."
+        ],
+        "correct": 1,
+        "rationale": "No se podría evaluar a una posible pareja para decidir si es la más idónea, apto o adecuada."
+      }
+    ]
+  },
+  {
+    "type": "sentence_elimination",
+    "statement": "I) Oscar -Claude Monet fue uno de los fundadores de la pintura impresionista. II) El término impresionismo deriva del título de su obra Impresión, sol naciente, creada en 1872. III) Sus primeras obras, hasta la mitad de la década de 1860, son de estilo realista. IV) A partir del final de la década de 1860 comenzó a pintar obras impresionistas. V) Claude Monet nació el 14 de noviembre de 1840 en la Rue Lafitt e 45 de París.",
+    "alternatives": [
+      "A) IV",
+      "B) V",
+      "C) I",
+      "D) II",
+      "E) III"
+    ],
+    "correct": 2,
+    "rationale": "Se elimina la V por impertinencia."
+  },
+  {
+    "type": "sentence_elimination",
+    "statement": "I) El sistema respiratorio se compone de la boca, nariz, espacio faríngeo, tráquea y bronquios. II) En los lóbulos pulmonares se produce el intercambio de gases. III) Gracias al sistema, se inhala oxígeno y se exhala anhídrido carbónico. IV) Los orificios nasales son importantes porque filtran el aire que se aspira. V) Las alergias pueden provocar goteos nasales, estornudos, picazón, sarpullidos, edema (hinchazón) o asma.",
+    "alternatives": [
+      "A) I",
+      "B) II",
+      "C) III",
+      "D) V",
+      "E) IV"
+    ],
+    "correct": 3,
+    "rationale": "Se elimina la V por impertinencia."
+  },
+  {
+    "type": "sentence_elimination",
+    "statement": "I) El genial músico Wolfang A. Mozart nació en Australia en 1756. II) Murió joven, no llegó a cumplir los 36 años. III) Pese a su corta vida (35 años), produjo una obra rica y variada. IV) Su obra genial, sin embargo, fue subestimada en vida del compositor. V) Su revaloración comienza a principios del siglo XIX y, actualmente, tiene un carácter superlativo.",
+    "alternatives": [
+      "A) II ",
+      "B) III",
+      "C) I",
+      "D) IV",
+      "E)V"
+    ],
+    "correct": 0,
+    "rationale": "Se elimina la oración II por redundancia."
+  },
+  {
+    "type": "sentence_elimination",
+    "statement": "I) La molécula de ADN tiene una función central en la vida. II) Presenta en las bacterias (primeros habitantes de la tierra). III) El ADN contiene la información genética que permite a todos los seres vivos desarrollarse, funcionar y reproducirse. IV) Las investigaciones científicas avanzan si dejamos de lado la subjetividad. V) Más, se ignora cómo se formaron los elementos que componían la primera molécula de la vida.",
+    "alternatives": [
+      "A) I",
+      "B) II",
+      "C) V",
+      "D) IV",
+      "E) III"
+    ],
+    "correct": 0,
+    "rationale": "Se elimina la oración I por redundancia."
+  },
+  {
+    "type": "verbal_series",
+    "statement": "1. ¿Qué palabra no corresponde a la serie verbal?",
+    "alternatives": [
+      "A) remiso ",
+      "B) ecuménico",
+      "C) cosmopolita",
+      "D) mundial.",
+      "E) universal"
+    ],
+    "correct": 0,
+    "rationale": "El campo semántico de lo universal."
+  },
+  {
+    "type": "sentence_elimination",
+    "statement": "I) Oscar -Claude Monet fue uno de los fundadores de la pintura impresionista. II) El término impresionismo deriva del título de su obra Impresión, sol naci ente, creada en 1872. III) Sus primeras obras, hasta la mitad de la década de 1860, son de estilo realista. IV) A partir del final de la década de 1860 comenzó a pintar obras impresionistas. V) Claude Monet nació el 14 de noviembre de 1840 en la Rue Lafitt e 45 de París.",
+    "alternatives": [
+      "A) IV",
+      "B) V",
+      "C) I",
+      "D) II",
+      "E) III"
+    ],
+    "correct": 2,
+    "rationale": "Se elimina la V por impertinencia."
+  },
+  {
+    "type": "sentence_elimination",
+    "statement": "I) El sistema respiratorio se compone de la boca, nariz, espacio faríngeo, tráquea y bronquios. II) En los lóbulos pulmonares se produce el intercambio de gases. III) Gracias al sistema, se inhala oxígeno y se exhala anhídrido carbónico. IV) Los orificios nasales son importantes porque filtran el aire que se aspira. V) Las alergias pueden provocar goteos nasales, estornudos, picazón, sarpullidos, edema (hinchazón) o asma.",
+    "alternatives": [
+      "A) I",
+      "B) II",
+      "C) III",
+      "D) V",
+      "E) IV"
+    ],
+    "correct": 3,
+    "rationale": "Se elimina la V por impertinencia."
+  },
+  {
+    "type": "sentence_elimination",
+    "statement": "I) El genial músico Wolfang A. Mozart nació en Australia en 1756. II) Murió joven, no llegó a cumplir los 36 años. III) Pese a su corta vida (35 años), produjo una obra rica y variada. IV) Su obra genial, sin embargo, fue subestimada en vida del compositor. V) Su revaloración comienza a principios del siglo XIX y, actualmente, tiene un carácter superlativo.",
+    "alternatives": [
+      "A) II",
+      "B) III",
+      "C) I",
+      "D) IV",
+      "E)V"
+    ],
+    "correct": 0,
+    "rationale": "Se elimina la oración II por redundancia."
+  },
+  {
+    "type": "sentence_elimination",
+    "statement": "I) La molécula de ADN tiene una función central en la vida. II) Presenta en las bacterias (primeros habitantes de la tierra). III) El ADN contiene la información genética que permite a todos los seres vivos desarrollarse, funcionar y reproducirse. IV) Las investigaciones científicas avanzan si dejamos de lado la subjetividad. V) Más, se ignora cómo se formaron los elementos que componían la primera molécula de la vida.",
+    "alternatives": [
+      "A) I",
+      "B) II",
+      "C) V",
+      "D) IV",
+      "E) III"
+    ],
+    "correct": 0,
+    "rationale": "Se elimina la oración I por redundancia."
+  },
+  {
+    "type": "verbal_series",
+    "statement": "1. ¿Qué palabra no corresponde a la serie verbal?",
+    "alternatives": [
+      "A) remiso ",
+      "B) ecuménico",
+      "C) cosmopolita",
+      "D) mundial",
+      "E) universal"
+    ],
+    "correct": 0,
+    "rationale": "El campo semántico de lo universal."
+  },
+  {
+    "type": "verbal_series",
+    "statement": "2. Quelonio, tortuga; ce táceo, orca; marsupial, koala;",
+    "alternatives": [
+      "A) dromedario, camello.",
+      "B) auquénido, vicuña.",
+      "C) tiburón, escualo.",
+      "D) molusco, pez.",
+      "E) murciélago, vampiro."
+    ],
+    "correct": 1,
+    "rationale": "Serie verbal de género -especie."
+  },
+  {
+    "type": "verbal_series",
+    "statement": "3. Analice la serie verbal y seleccione el vocablo que no pertenece a ella.",
+    "alternatives": [
+      "A) azuzar.",
+      "B) estimular.",
+      "C) incitar.",
+      "D) retraer.",
+      "E) instigar."
+    ],
+    "correct": 2,
+    "rationale": "El campo semántico de la instigación."
+  },
+  {
+    "type": "verbal_series",
+    "statement": "4. Insustancial, fútil, inane,",
+    "alternatives": [
+      "A) fútil.",
+      "B) obscuro.",
+      "C) literal.",
+      "D) fulero.",
+      "E) furtivo."
+    ],
+    "correct": 0,
+    "rationale": "Campo semántico de lo inane."
+  },
+  {
+    "type": "verbal_series",
+    "statement": "5. Álgido, tórrido; esmirriado, fornido; contrito, eufórico;",
+    "alternatives": [
+      "A) infame, indigno.",
+      "B) urente, ígneo.",
+      "C) albino, níveo.",
+      "D) blondo, rubio",
+      "E) caliginoso, diáfano."
+    ],
+    "correct": 4,
+    "rationale": "Serie verbal antonímica."
+  },
+  {
+    "type": "sentence_elimination",
+    "statement": "Although parece i ncreíble, el inventor más prolífico de la historia ,creador de aparatos como la bombilla, el fonógrafo y el proyector de películas, solo pudo ir a la escuela durante tres meses. Natural de Milan (Ohio), el joven Thomas Alva Edison tuvo que ponerse a vender periódicos a la edad de 12 años para contribuir a la precaria economía familiar. No obstante, inquieto como era, dedicó su tiempo libre a experimentar con aparatos mecánicos y eléctricos. Becado con un curso de telegrafía por haber salvado la vida al hijo de un jefe de estación, desarrolló en 1863 su primer invento –un equipo telegráfico simplificado –, mientras trabajaba de telegrafista en el ferrocarril. Perdió su empleo por incendiar un vagón durante un experimento, pero Edison no se rindió y con el dinero que ganó registrador eléctrico de votos , así como un indicador de variaciones bursátiles . A estos ingenios le siguieron el fonógrafo , precursor del tocadiscos, y los fusibles de plomo . En 1879 logra la lámpara incandescente y hace la primera instalación eléctrica de iluminación: 115 bombillas en el vapor Columbia. En 1881 crea en Nueva York la primera central de luz y energía del mundo, con redes subterráneas para llevar corriente eléctrica . Dos años d espués patenta el kinetógrafo ,una cámara para 17 metros de cinta, y el kinetoscopio ,un equipo ocular individual para ver imágenes sucesivas. Por fin, en 1896, logra el cinetófono . La mente de este gran mito norteamericano solo descansó con su muerte en 1 931.",
+    "alternatives": [
+      "A) la vida fructífera de Alva Edison, gran inventor norteamericano.",
+      "B) la primera patente del registrador eléctrico de votos.",
+      "C) el impresionante descubrimiento de un equipo telegráfico simple.",
+      "D) las fan tásticas ideas de Thomas Alva Edison sobre la electricidad .",
+      "E) la primera central con redes subterráneas en EEUU."
+    ],
+    "correct": 0,
+    "rationale": "Desde el inicio, se afirma que Alva Edison es el inventor más prolífico de la Historia Norteamericana."
+  },
+  {
+    "type": "sentence_elimination",
+    "statement": "2. En el texto, el antónimo de PROLÍFICO es",
+    "alternatives": [
+      "A) diligente.",
+      "B) notable .",
+      "C) infructuoso",
+      "D) pródigo.",
+      "E) fecundo."
+    ],
+    "correct": 2,
+    "rationale": "El inventor más prolífico de la historia, prolífico significa fecundo. En consecuencia, el antónimo contextual es estéril."
+  },
+  {
+    "type": "sentence_elimination",
+    "statement": "3. Respecto a Thomas Alva Edison, resulta incompatible afirmar que",
+    "alternatives": [
+      "A) logró instalar por primera vez un laboratorio.",
+      "B) fue becado al curso de telegrafía por su jefe.",
+      "C) es el precursor del tocadiscos y los fusibles.",
+      "D) crea la primera red eléctrica de iluminación.",
+      "E) tuvo una f ormación educativa muy rigurosa."
+    ],
+    "correct": 4,
+    "rationale": "Es incompatible debido a que Thomas Edison logró ir al colegio solo tres meses, de allí podemos afirmar que su aprendizaje se desarrolló en el transcurso de la vida."
+  },
+  {
+    "type": "sentence_elimination",
+    "statement": "4. Se infiere del texto que el kinestoscopio es",
+    "alternatives": [
+      "A) un indicador de variaciones bursátiles .",
+      "B) el primer invento rentable de Thomas Alva Edison.",
+      "C) uno de las máquinas más costosas en su fabricación.",
+      "D) el precedente del moderno proyector cinematográfico.",
+      "E) el invento más importante de Alv a Edison."
+    ],
+    "correct": 3,
+    "rationale": "Podemos deducir que el Kinestoscopio es un equipo ocular individual para ver imágenes sucesivas entonces son inicios del cine, imágenes en."
+  },
+  {
+    "type": "sentence_elimination",
+    "statement": "5. Se infiere del texto que la ciudad de Nueva York",
+    "alternatives": [
+      "A) fue modelo al instalarse una central eléctrica.",
+      "B) es la ciudad natal del Thomas Alva Edison.",
+      "C) instaura la primera estación central con vagones.",
+      "D) es cuna de los más conspicuos inventores.",
+      "E) ya tenía redes subterráneas aunque precarias."
+    ],
+    "correct": 0,
+    "rationale": "En Nueva York, en 1881 se crea la primera central de luz y energía del mundo, con redes subterráneas para llevar corriente eléctrica ,es decir fue su centro piloto."
+  },
+  {
+    "type": "reading_comprehension",
+    "statement": "Las intrusiones armadas llevadas a cabo durante el siglo XIX por aventureros estadounidenses contra países que se hallaban en paz con Estados Unidos han sido llamadas Expediciones filibusteras. El término filibustero procede de la palabra holandesa vrijbuiter (free-booter), que en el siglo XVII se aplicó a los bucaneros ingleses, y hoy en día ha pasado a significar aventurero.\nLos objetivos de las incursiones que se llevaron a cabo a partir de la década de 1830, tras alcanzar su independencia, eran México y los estados de América del Sur, Central y del Caribe, que tenían gobiernos relativamente débiles. El ímpetu del filibusterismo creció más allá del sentimiento expansionista del oeste y del sur agrícola de Estados Unidos, alentado por la doctrina del destino manifiesto explicaba la necesaria expansión estadounidense no sólo como algo inevitable, sino como un mandato divino.\nEstas expediciones privadas a menudo causaron complicaciones diplomáticas entre el gobierno de Estados Unidos y el del país en cuestión, y en muchos casos el gobierno estadounidense hizo lo posible por reprimir dichas invasiones. Además de la adquisición de territorio existían otros motivos para el oportunismo, tales como el beneficio personal para los líderes y militares que participaban en la expedición, las ventajas políticas o económicas para sus partidarios de Estados Unidos y, de algún modo, la lucrativa\n\nSólo contra Cuba se organizaron desde Estados Unidos durante el siglo XIX más de 70 expediciones. Texas, declarada independiente en 1836, y el norte de México, también fueron objeto de una gran actividad filibustera. El vicepresidente de Estados Unidos Aaron Burr, junto con el aventurero James Wilkinson, estuvo implicado en 1806 en una controvertida disputa relacionada con el territorio del valle del Mississippi.",
+    "questions": [
+      {
+        "statement": "Los filibusteros justificaban sus incursiones armadas con el argumento de que las hacían",
+        "alternatives": [
+          "A) contra países que se hallaban en paz.",
+          "B) atendiendo a un mandato divino.",
+          "C) contra gobiernos más precarios.",
+          "D) más allá del sentimiento expansionista.",
+          "E) solamente contra Cuba y el Caribe."
+        ],
+        "correct": 1,
+        "rationale": "Solución B: En el texto se afirma que el filibusterismo se originó “ alentado por la doctrina del destino manifiesto” que sostenía la expansión estadounidense “como un mandato divino”"
+      },
+      {
+        "statement": "Fundamentalmente, el texto trata sobre",
+        "alternatives": [
+          "A) las causas de l crecimiento del filibusterismo.",
+          "B) la necesaria expansión estadounidense en América.",
+          "C) el filibusterismo estadounidense durante el siglo XIX.",
+          "D) las expediciones desde el siglo XIX contra Cuba.",
+          "E) la conquista de territorios por parte del filibusterismo."
+        ],
+        "correct": 2,
+        "rationale": "Solución C: El texto se concentra en explicar el filibusterismo estadounidense en el siglo XIX."
+      },
+      {
+        "statement": "Puede deducirse del texto que",
+        "alternatives": [
+          "A) el vocablo filibustero procede de un término que significaba pirata.",
+          "B) los bucaneros ingleses solían atacar a la isla de Cuba en el XIX.",
+          "C) los EE.UU. defendieron la esclavitud como política de gobierno.",
+          "D) dentro de los EE.UU. había quienes apoyaba n a los filibusteros . ",
+          "E) México no fue atacado porque tenía un gobierno sólido y fuerte ."
+        ],
+        "correct": 3,
+        "rationale": "Solución D: En el texto se afirma: “ Además de la adquisición de territorio existían otros motivos para el oportunismo, tales como el beneficio personal para los líderes y militares que participaban en la expedición, las ventajas políticas o económicas para sus partidarios de Estados Unidos”. De la última frase se puede colegir la respuesta correcta."
+      },
+      {
+        "statement": "En el texto, el término INCURSIÓN se refiere a",
+        "alternatives": [
+          "A) éxodo",
+          "B) inspección",
+          "C) entrada",
+          "D) arribada",
+          "E) invasión."
+        ],
+        "correct": 4,
+        "rationale": "Solución E: El vocablo en cuestión es otra forma que emplea el texto para denominar las intrusiones armadas."
+      },
+      {
+        "statement": "Si México no hubiese tenido un gobierno débil, entonces, muy probablemente,",
+        "alternatives": [
+          "A) no habría sido el blanco de los filibusteros.",
+          "B) habría sido el objetivo preferido de los filibusteros .",
+          "C) las incursiones piratas habrían sido constantes.",
+          "D) habría sido tratado como Cuba por los aventureros.",
+          "E) se habría aliado con los bucaneros ingleses."
+        ],
+        "correct": 0,
+        "rationale": "Solución A: El objetivo de los filibusteros eran los países con gobiernos débiles, de no haber sido el caso de México, estos no habrían incursionado en su territorio."
+      }
+    ]
+  },
+  {
+    "type": "reading_comprehension",
+    "statement": "En la actualidad, tendemos a considerar plenamente asumidas las ideas de tolerancia y pluralismo. Por otra parte, si tomamos en cuenta el hecho de que en la antigua Atenas, o en el Imperio Romano tardío, existía una enorme pluralidad de puntos de vista y un vasto contraste de opiniones diferentes, probablemente pensaremos que se trata de un indicio de la vitalidad de aquellas sociedades. Sin embargo, muy pocos comprenden que ésta no es la forma en la cual ellos consideraban la cuestión. Los pensadores clásicos veían la diversidad de opiniones como un signo de decadencia y de herejía; sólo a partir del Iluminismo hemos podido juzgarla un bien positivo. Un autor ha sostenido que, únicamente cuando la sociedad ha comenzado a cimentarse \"mediante una alianza de intereses personales esclarecidos, en lugar de propiciar creencias religiosas y morales compartidas\", entonces, y sólo entonces, es posible que \"el florecimiento de la diversidad y el pluralismo, que en el pasado sólo existía como subproducto y síntoma de la declinación política, pueda ser aceptada por vez primera como una forma de prosperidad social\". Si bien este autor exagera (la fuerza que consolida los estados liberales modernos es la del sentimiento y la tradición, en un grado no menor que la de los intereses personales, esclarecidos o no), y si bien tampoco niega que la creencia en la tolerancia es, en sí misma, una \"creencia moral compartida\", así como también una creencia importantísima, no es menos cierto que las sociedades modernas no se han mantenido unidas por una única y compartida concepción global del mundo. No existe una religión que asuma por sí sola esta tarea, y si bien todavía existen creencias morales compartidas, no hay ninguna creencia moral que sea incontrovertible. Es más; excepto dentro de una minoría reaccionaria, nadie parece creer que nuestra sociedad vaya a encontrar un motivo propio para congregarse entorno a un sistema incuestionado de creencias morales y religiosas. Apreciamos la libertad cuando se trata de elegir nuestros \"destinos\", y en ese caso la libertad no se concibe simplemente como la libertad de elegir un oficio o una profesión, sino que involucra también la libertad de decidir por nosotros mismos respecto de nuestros valores, nuestras metas, normas concretas e incluso, dentro de ciertos límites, nuestras costumbres y nuestros hábitos de vida.\nLo que llamamos \"Ilustración\" ha sido, en gran medida, un movimiento intelectual destinado a proveer algún tipo de fundamento estable para esta \"sociedad abierta\"; no solamente un fundamento político e histórico, sino también epistemológico, un fundamento que incluyese \"argumentos acerca de la falta de certeza de nuestros conocimientos morales y religiosos\\”. Y los problemas generados por el Iluminismo son todavía los nuestros: apreciamos la tolerancia y el pluralismo, pero nos preocupa el escepticismo epistemológico que los ha acompañado.",
+    "questions": [
+      {
+        "statement": "La idea principal del texto sostiene que",
+        "alternatives": [
+          "A) actualmente los valores de la tolerancia y el pluralismo son vistos como algo normal.",
+          "B) nuestra consideración de la tolerancia y el pluralismo es opuesta a la del mundo antiguo.",
+          "C) nuestra tolerancia y pluralismo se basa en una alianza de intereses personales esclarecidos.",
+          "D) los estados se basan en el sentimiento y la tradición y en los sentimientos personales.",
+          "E) la ilustración dio un fundamento político, histórico y epistemológico a nuestra sociedad abierta."
+        ],
+        "correct": 4,
+        "rationale": "Solución E: Es un texto sintetizante el autor parte de dos valores de tolerancia y pluralismo nos dice que los juzgamos como un bien positivo a partir del Iluminismo y al final nos dice que fue la Ilustración lo que dio los fundamentos de la tolerancia y pluralismo a nuestra sociedad abierta."
+      },
+      {
+        "statement": "En el texto el término VITALIDAD connota",
+        "alternatives": [
+          "A) anomia.",
+          "B) decadencia.",
+          "C) heterodoxia.",
+          "D) astenia.",
+          "E) ortodoxia."
+        ],
+        "correct": 4,
+        "rationale": "Solución E: Los pensadores clásicos veían la diversidad de opiniones como un signo de decadencia y herejía, la vitalidad aludía a un pensamiento uniforme por lo que connota ortodoxia."
+      },
+      {
+        "statement": "En el texto el antónimo de CIMENTARSE sería",
+        "alternatives": [
+          "A) consolidarse.",
+          "B) Limitarse.",
+          "C) erosionarse.",
+          "D) erigirse.",
+          "E) decantarse."
+        ],
+        "correct": 2,
+        "rationale": "Solución C : “ha comenzado a cimentarse”, es decir, a consolidarse, su antónimo sería erosionarse."
+      },
+      {
+        "statement": "Marque la alternativa que es incompatible con el texto.",
+        "alternatives": [
+          "A) Actualmente asumimos plenamente las ideas de tolerancia y pluralismo en la sociedad.",
+          "B) El sentimiento y la tradición consolida a los Estados en menor grado que los intereses personales.",
+          "C) La Ilustración fue un movimiento intelectual que dio fundamentos estables para la sociedad abierta.",
+          "D) Ninguna religión puede dar una única y compartida concepción global del mundo a la sociedad.",
+          "E) En el mundo antiguo la diversidad y el pluralismo eran síntomas de declinación política."
+        ],
+        "correct": 1,
+        "rationale": "Solución B : El autor dice que la fuerza que consolida los Estados liberales modernos es la del sentimiento y la tradición, en un grado no menor que los de los intereses personales."
+      },
+      {
+        "statement": "Se colige que la tolerancia y el pluralismo serían una consecuencia de",
+        "alternatives": [
+          "A) el hecho que no haya ninguna creencia moral que sea incontrovertible.",
+          "B) la desaparición del mundo antiguo sus creencias y valores políticos.",
+          "C) la cimentación de la sociedad sobre intereses personales esclarecidos.",
+          "D) la decadencia política y social de las sociedades en la actualidad.",
+          "E) las creencias religiosas y morales incontrovertibles de la sociedad."
+        ],
+        "correct": 0,
+        "rationale": "Solución A: El texto establece una relación entre la tolerancia y el pluralismo por un lado y la imposibilidad de establecer una creencia incontrovertible y universal desde la Ilustración."
+      },
+      {
+        "statement": "Si la sociedad se congregase entorno a un sistema de creencias morales y religiosas, entonces",
+        "alternatives": [
+          "A) ello sería un indicio de la vitalidad de nuestra sociedad en la actualidad.",
+          "B) el pluralismo y la tolerancia se acentuarían más en la sociedad actual.",
+          "C) esa sería una concepción global del mundo única e incontrovertible. ",
+          "D) se necesitaría nuevos argumentos contra el escepticismo epistemológico.",
+          "E) la prosperidad social se basaría en los intereses personales esclarecidos."
+        ],
+        "correct": 2,
+        "rationale": "Solución C: El autor sostiene que las sociedades modernas no se han mantenido unidas por una única y compatible concepción global del mundo y que no hay ninguna creencia moral que sea incontrovertible. Y nadie parece creer que nuestra sociedad vaya a encontrar un motivo propio para congregarse entorno a un sistema de creencias morales y religiosas. Si la sociedad se congregase entorno a un sistema de creencias morales y religiosas esta sería una única y compatible concepción global del mundo además de incontrovertible."
+      }
+    ]
+  }
+]

@@ -1,0 +1,701 @@
+[
+  {
+    "type": "reading_comprehension",
+    "statement": "Algunas veces me pregunté si en países como el mío, con escasos lectores y tantos pobres, analfabetos e injusticias, donde la cultura era privilegio de tan pocos, escribir no era un lujo solipsista. Pero estas dudas nunca asfixionaron mi vocación y seguí siempre escribiendo, incluso en aquellos períodos en que los trabajos alimenticios absorbían casi todo mi tiempo. Creo que hice lo justo, pues, si para que la literatura florezca en una sociedad fuera requisito alcanzar primero la alta cultura, la libertad, la prosperidad y la justicia, ella no hubiera existido nunca. Por el contrario, gracias a la literatura, a las conciencias que formó, a los deseos y anhelos que inspiró, al desencanto de lo real con que volvemos del viaje a una bella fantasía, la civilización es ahora menos cruel que cuando los contadores de cuentos comenzaron a humanizar la vida con sus fábulas. Seríamos peores de lo que somos sin los buenos libros que leímos, más conformistas, menos inquietos e insumisos y el espíritu crítico, motor del progreso, ni siquiera existiría. Igual que escribir, leer es protestar contra las insuficiencias de la vida. Quien busca en la ficción lo que no tiene, dice, sin necesidad de decirlo, ni siquiera saberlo, que la vida tal como es no nos basta para colmar nuestra sed de absoluto, fundamento de la condición humana, y que debería ser mejor. Inventamos las ficciones para poder vivir de alguna manera las muchas vidas que quisiéramos tener cuando apenas disponemos de una sola.\n\nVargas Llosa, Mario. (2010) «Elogio de la lectura y la ficción» (Discurso Nobel). Fragmento recuperado de The Official web Site of the Nobel Prize (Nobelprize.org):\n<http://www.nobelprize.org/nobel_prizes/literature/laureates/2010/vargas_llosa -lecture_sp.html>.",
+    "questions": [
+      {
+        "statement": "1. ¿Cuál es el tema central del texto?",
+        "alternatives": [
+          "A) La añeja y sólida protesta de los lectores recalcitrantes de obras literarias",
+          "B) El atraso y la carencia de lectores en sociedades bestializadas por la rutina",
+          "C) El papel edificante y subversivo de la lectura en el devenir de la humanidad",
+          "D) La vocación literaria y los avatares en la vida del escritor para afianzarla",
+          "E) La importancia del forjamiento de una élite cultural para crear buenas obras"
+        ],
+        "correct": 2,
+        "rationale": "El texto desarrolla los efectos de la lectura en las personas, estos, en efecto, son de carácter edificante y suponen una actitud de rebeldía."
+      },
+      {
+        "statement": "2. ¿Cuál es la idea principal del texto?",
+        "alternatives": [
+          "A) Las ficciones se crean y recrean con la finalidad de hacer de este mundo injusto uno más llevadero y auténtico.",
+          "B) Nuestras múltiples vidas son posibles gracias a la creación de obras literarias de carácter universal.",
+          "C) Existe una disyuntiva entre la constitución de un nivel alto de cultura y la aparición de la literatura gracias a este.",
+          "D) La vocación del escritor debe enfrentarse a la exigencia que imponen las múltiples obligaciones y necesidades.",
+          "E) La lectura permite que la condición humana se erija y nos vuelve rebeldes impenitentes de la realidad monótona."
+        ],
+        "correct": 4,
+        "rationale": "La lectura de obras literarias permite que alcancemos nuestra condición humana y constituye un acto de rebeldía sostenida ante nuestra realidad, siempre lineal y monótona."
+      }
+    ]
+  },
+  {
+    "type": "reading_comprehension",
+    "statement": "Creo que la frase lectura obligatoria es un contrasentido, la lectura no debe ser obligatoria. ¿Debemos hablar de placer obligatorio? ¿Por qué? El placer no es obligatorio, el placer es algo buscado. ¿Felicidad obligatoria? La felicidad también la buscamos. Yo he sido profesor de literatura inglesa durante veinte años en la Facultad de Filosofía y Letras de la Universidad de Buenos Aires y siempre les aconsejé a mis estudiantes: si un libro los aburre, déjenlo, no lo lean porque es famoso, no lean un libro porque es moderno, no lean un libro porque es antiguo. Si un libro es tedioso para ustedes, déjenlo… ese libro no ha sido escrito para ustedes. La lectura debe ser una forma de la felicidad. No hay que caer en la tristeza de las bibliografías, de las citas de Fulano y luego un paréntesis, luego dos fechas separadas por un guión (sic), y luego una lista de libros críticos que han escrito sobre ese autor. Todo eso es una desdicha. Yo nunca les di una bibliografía a mis alumnos. Les dije que no lean nada de lo que se ha escrito sobre Fulano de Tal (...)Si Shakespeare les interesa, está bien. Si les resulta tedioso, déjenlo. Shakespeare no ha escrito aún para ustedes. Llegará un día que Shakespeare será digno de ustedes y ustedes serán dignos de Shakespeare, pero mientras tanto no hay que apresurar las cosas.\n\nBorges, Jorge Luis (2013) «“La lectura no debe ser obligatoria”: Borges y cómo ser mejores profesores de Literatura». Fragmento de entrevista recuperado de Red de Bibliotecas:\n<www.reddebibliotecas.org>",
+    "questions": [
+      {
+        "statement": "4. En el texto, la palabra DIGNO adquiere el sentido de",
+        "alternatives": [
+          "A) sutil para ser recreado y publicado por un escritor.",
+          "B) correspondiente a la condición o mérito de alguien",
+          "C) bloqueado por la desventura de leer por obligación.",
+          "D) acorde con la moral y la decencia de un individuo."
+        ],
+        "correct": 1,
+        "rationale": "La palabra DIGNO adquiere el sentido de correspondiente a la condición o mérito de alguien."
+      },
+      {
+        "statement": "5. En el texto, la expresión CAER EN LA TRISTEZA connota",
+        "alternatives": [
+          "A) congoja.",
+          "B) embuste.",
+          "C) melancolía.",
+          "D) frivolidad.",
+          "E) tedio."
+        ],
+        "correct": 0,
+        "rationale": "La expresión hace referencia a la molestia o el tedio de lidiar con los datos bibliográficos como imposición. La lectura es placer."
+      }
+    ]
+  },
+  {
+    "type": "reading_comprehension",
+    "statement": "Las ilusiones ópticas —figuras, objetos o sucesos que no son lo que aparentan al ser percibidos — han tenido y tienen todavía importante papel en las bellas artes, en matemáticas, en psicología e incluso en la filosofía. Los antiguos griegos deformaron las columnas del Partenón con el fin de que pa recieran perfectamente rectas al ser vistas desde el suelo de la gente. En sus grandes obras murales, los pintores renacentistas solían distorsionar las figuras con objeto de que, miradas desde abajo, parecieran ser de proporciones normales. El interés de los matemáticos por las ilusiones ópticas se debe a que muchas de ellas guardan relación con la perspectiva (una rama de la geometría proyectiva) y con otras cuestiones geométricas. Los psicólogos estudian las ilusiones para saber cómo interpreta el cerebro los datos que le llegan a través de los sentidos. Y los filósofos de diversas escuelas de realismo directo, que mantienen que nosotros percibimos objetos reales externos a nuestras mentes, tienen el problema de explicar cómo pueden entonces presentarse errores de percepción.\n\nGardner, Martin (1988). Circo Matemático . Madrid: Alianza Editorial.",
+    "questions": [
+      {
+        "statement": "6. Resulta incompatible con el texto afirmar que las ilusiones ópticas",
+        "alternatives": [
+          "A) se relacionan con la perspectiva y por ello motiva a los matemáticos.",
+          "B) tienen un papel relevante en el campo artístico y en el arquitectónico",
+          "C) carecen de la relevancia para ser abordado por varias disciplinas.",
+          "D) permiten investigar algunos aspectos del funcionamiento cerebral.",
+          "E) fueron aplicadas por los muralistas renacentistas en sus creaciones."
+        ],
+        "correct": 2,
+        "rationale": "En el texto se indica que las ilusiones ópticas resultan intrigantes para especialistas de varias disciplinas. Es incompatible afirmar que no tienen tal relevancia."
+      }
+    ]
+  },
+  {
+    "type": "reading_comprehension",
+    "statement": "F. Pregunta por extrapolación . Consiste en una lectura metatextual en la medida en que presenta una condición que va más allá del texto. Se sitúa el texto en una nueva situación y se predice la consecuencia de tal operación. Se formula generalmente mediante implicaciones subjuntivas: Si Platón hubiese desdeñado el valor de las matemáticas, no habría colocado en el frontispicio de su Academia: «No entre aquí el que no sepa geometría».",
+    "questions": [
+      {
+        "statement": "excéntrico y aislado por la población india, posiblemente",
+        "alternatives": [
+          "A) las autoridades inglesas habrían acentuado las m edidas de naturaleza represiva.",
+          "B) la humanidad habría alcanzado un estadio de paz absoluta gracias a este acto.",
+          "C) esta habría soslayado la presencia de un líder que los liberaría del yugo inglés.",
+          "D) Gandhi habría sido capturado y ajusticiado por los ingleses de forma rigurosa.",
+          "E) la filosofía llamada satyagraha habría tenido repercusiones en todo Occidente."
+        ],
+        "correct": 4,
+        "rationale": "Solución: El acto de recojo ilegal de sal fue simbólico para los indios y generó una ola de protesta que devino en la liberación de la población india. De haber sido asumido solo como un acto excéntrico, el líder encarnado en Gandhi habría sido soslayado."
+      }
+    ]
+  },
+  {
+    "type": "reading_comprehension",
+    "statement": "La bóveda de la capilla Sixtina, con su extensión y su altura, habría hecho temblar a los más expertos pintores. Los problemas comenzaron ya con el andamiaje. El erigido por Bramante, cuenta Vasari, fue criticado por Miguel Ángel, hasta el punto de que con siguió que lo desmantelasen y construyesen uno basado en su propio diseño. Pero la mayor dificultad era precisamente el fresco. Una técnica que no permite errores o vueltas atrás , y exige tiempos muy breves: una vez preparados los cartones de los dibujos hay que dividir el conjunto en partes que puedan ser completadas en un día, pues, pasado este tiempo, el enlucido se seca y ya no absorbe el color. La sección de pared elegida se prepara primero con el encalado y luego con el enlucido, una mezcla de puzolan a, cal y agua. Una vez trasladado el dibujo sobre el enlucido todavía fresco, se extiende inmediatamente el color. Miguel Ángel trajo de Florencia, como colaboradores, a unos pocos artistas de confianza. Sin embargo, los primeros intentos fueron decepcionantes. El fresco del Diluvio universal, realizado con técnicas heterogéneas, acabó en desastre: la receta «florentina» del enlucido no funcionaba con los materiales y el clima de Roma. En poco tiempo afloraron mohos y la pintura hubo de ser parcialmente suprimida y rehecha desde el principio. Hicieron falta meses de angustia y dificultades hasta que el artista consiguió dominar la técnica, lo que le permitió prescindir de sus ayudantes. El análisis de los gastos que realizó en la obra parece confirmar la leyenda según la cual él lo habría hecho todo, o casi todo. En un soneto célebre el artista nos habla de los prolongados esfuerzos a los que se sometió trabajando sin descanso durante años en una postura muy incómoda: «Los lomos se me han metido en la tripa y con las posaderas hago de contrapeso y me muevo en vano sin poder ver». Mientras, el papa estaba impaciente, hasta el punto de que, según el biografo Condivi, amenazó con tirar al artista de los andamios y en una ocasión «le dio con un palo». Ablandado por medio de regalos, amenazado, acosado, Miguel Ángel acabó por fin la obra, que se inauguró el 31 de octubre de 1512. De su belleza había sido testigo, un poco antes de que se mostrara a todos, Alfonso d’Este, duque de Ferrara. Subido al andamiaje, la admiró durante largo tiempo, y cuando bajó se negó a ir a visitar las estancias donde trabajaba el gran rival de Miguel Ángel, Rafael.",
+    "questions": [
+      {
+        "statement": "En el texto, la expresión VUELTAS ATRÁS se puede reemplazar por",
+        "alternatives": [
+          "A) dilaciones.",
+          "B) distancias.",
+          "C) arreglos.",
+          "D) afeites.",
+          "E) retrocesos."
+        ],
+        "correct": 2,
+        "rationale": "La expresión «vueltas atrás» hace referencia a los posibles arreglos que eran imposibles de hacerse, si acaso se cometía algún error, cuando la técnica era el fresco."
+      },
+      {
+        "statement": "La palabra ABLANDADO en el texto se puede reemplazar por",
+        "alternatives": [
+          "A) aceitado.",
+          "B) disuadido.",
+          "C) suavizado.",
+          "D) debilitado.",
+          "E) amortiguado."
+        ],
+        "correct": 2,
+        "rationale": null
+      },
+      {
+        "statement": "Se deduce del texto que la belleza arrobadora de los frescos de la Capilla Sixtina,",
+        "alternatives": [
+          "A) estuvo a punto de echarse a perder debido a las lluvias.",
+          "B) tuvo como germen fundamental el juicio final de la Biblia.",
+          "C) contrasta con lo penoso de su ejecución para su creador.",
+          "D) se debe a la destreza para pintar frescos de su creador.",
+          "E) buscaba confrontar con la figura autoritaria del papa."
+        ],
+        "correct": 1,
+        "rationale": "El proceso creativo de la Capilla Sixtina fue sumamente trabajoso para Miguel Ángel. Incluso compuso un soneto al respecto. La belleza del producto final, en consecuencia, contrasta con lo dificultoso del proceso."
+      },
+      {
+        "statement": "Resulta incompatible aseverar que la técnica del fresco usada en la Capilla Sixtina",
+        "alternatives": [
+          "A) se ajustó a las condiciones climáticas de Roma.",
+          "B) demandó un esfuerzo mayúsculo para M. Ángel.",
+          "C) fue finalmente aprendida por Miguel Ángel B.",
+          "D) amerita de precisión y destreza en su ejecución.",
+          "E) impide que el artista cometa deslices de seriedad."
+        ],
+        "correct": 0,
+        "rationale": "El clima de Roma fue una causal de desastre para una de las fases de ejecución del fresco: el enlucido."
+      },
+      {
+        "statement": "respecto de la escultura, posiblemente",
+        "alternatives": [
+          "A) la Capilla Sixtina sentía considerada una obra menor por parte de los estudiosos.",
+          "B) el papa que pidió la obra habría contratado a un artista menos afamado y rico.",
+          "C) la genialidad de Miguel Ángel habría sido sensiblemente menor a la de Rafael.",
+          "D) obras como La Piedad o El David habrían sido desplazadas por su arte pictórico.",
+          "E) los avatares no habrían sido tan graves y las demoras habrían sido manejables."
+        ],
+        "correct": 4,
+        "rationale": "Miguel Ángel, sobre la marcha, tuvo que aprender a ejecutar la técnica del fresco. De haber contado previamente con la experticia, el padecimiento hubiera sido mucho menor."
+      }
+    ]
+  },
+  {
+    "type": "sentence_elimination",
+    "statement": "A. CRITERIO DE INATINGENCIA Se elimina la oración que no hace referencia al tema clave o que habla de él tangencialmente.",
+    "alternatives": [
+      "I) Left 4 Dead 2 (L4D2) es un videojuego de disparos en primera persona cooperativo.",
+      "II) L4D2 es de tipo survival horror, es decir, los personajes deben sobrevivir a una amenaza y alcanzar la meta.",
+      "III) La prestigiosa compañía Valve Software fue la creadora de L4D2, la segunda versión del famoso juego.",
+      "IV) L4D2 se lanzó al mercado el 17 de noviembre de 2009 en Estados Unidos y Latinoamérica.",
+      "V) La primera versión del juego, Left 4 Dead (L4D), tenía una precaria calidad de imagen y la capacidad de movimiento era bastante pobre."
+    ],
+    "correct": 4,
+    "rationale": "El tema es L4D2, la segunda versión del juego. La oración V se centra en la primera versión."
+  },
+  {
+    "type": "sentence_elimination",
+    "statement": "1. I) La NASA dio a conocer una nueva imagen de la Twin Jet Nebula (también llamada PN M2 -9) captada por el telescopio Hubble. II) Los colores brillantes visibles en esta imagen dejan verla extraordinaria complejidad de la nebulosa PN M2 -9. III) En la imagen de la Twin Jet Nebula destacan los lóbulos que se desprenden de la estrella central que expulsan gas a presión, a una velocidad superior al millón de kilómetros hora. IV) La mariposa cósmica PN M2 -9 fue descubierta en 1947 por el astrónomo germano -estadounidense Rudolph Minkowski, y se trata de una nebulosa bipolar. V) Una nebulosa planetaria ordinaria tiene una estrella en su centro, mientras que las bipolares tienen dos, pues se forman en un sistema estelar binario.",
+    "alternatives": [
+      "A) I",
+      "B) II",
+      "C) III",
+      "D) IV",
+      "E) V"
+    ],
+    "correct": 4,
+    "rationale": "La V oración es inatingente."
+  },
+  {
+    "type": "sentence_elimination",
+    "statement": "2. I) Alan Mathison Turing, matemático inglés fallecido en 1954, ha sido uno de los pioneros más creativos de las ciencias de cómputo. II) Turing es conocido por la idea de una máquina hipotética, llamada «Máquina de Turing» la cual no posee un mecanismo específico. III) Alan Turing, gracias a su capacidad inventiva, planteó un juego que deriva en controversias irresolubles además de una máquina hipotética. IV) Turing también planteó un juego que conduce a profundas controversias de carácter filosófico, hoy todavía por resolver. V) Turing demostró que su dispositivo ideal puede ser programado para realizar, en su desmañado estilo, cualquier cosa que pueda ejecutar el más potente ordenador.",
+    "alternatives": [
+      "A) I",
+      "B) II",
+      "C) III",
+      "D) IV",
+      "E) V"
+    ],
+    "correct": 2,
+    "rationale": "La oración III es redundante."
+  },
+  {
+    "type": "sentence_elimination",
+    "statement": "3. I) El Gugelhupf era uno de los favoritos del emperador austríaco Francisco José I, el esposo de la célebre emperatriz Isabel («Sissi») . II) El Gugelhupf tradicional se prepara en el sur de Alemania, Suiza y Austria . III) El Gugelhupf admite una gran cantidad de variantes y recetas de acuerdo al gusto del comensal . IV) Algunos cocineros preparan una variante mediterránea del Gugelhupf con aceitunas, queso mascarpone y tomate. V) Nunca hubo una receta estándar para el Gugelhupf, pues se le solía añadir lo que había a mano: mantequilla, almendras, limón y a veces pasas de uva y chocolate.",
+    "alternatives": [
+      "A) I",
+      "B) II",
+      "C) III",
+      "D) IV",
+      "E) V"
+    ],
+    "correct": 0,
+    "rationale": "La oración I no es atingente."
+  },
+  {
+    "type": "sentence_elimination",
+    "statement": "4. I) En los restaurantes modestos de Sri Lanka muchas veces no hay cubiertos, sino que se come con los dedos. II) En restaurantes de baja condición en Sri Lanka, ante la carencia de cubiertos, se come con los dedos de la mano izquierda para sentir la comida sin sabor a metal. III) Al principio, hay que amasar bien el arroz con las yemas de los dedos y los diferentes trozos de verdura y llevar todo elegantemente a la boca en algunos restaurantes de Sri Lanka. IV) Solo con las puntas de los dedos de la mano derecha, nunca con la palma de la mano y jamás con la mano izquierda ,es posible comer en ciertos lugares de Sri Lanka. V) Muchos habitantes de Sri Lanka creen que así sabe mejor la comida, pues no quieren sentir algún metal en la boca.",
+    "alternatives": [
+      "A) I",
+      "B) II",
+      "C) III",
+      "D) IV",
+      "E) V"
+    ],
+    "correct": 1,
+    "rationale": "La oración II es redundante."
+  },
+  {
+    "type": "sentence_elimination",
+    "statement": "5. I) Un grupo de estudiantes creó una higuera capaz de aprovechar la radiación solar y transformarla en energía . II) La higuera solar se compone de seis paneles fotovoltaicos cuya posición respecto al Sol puede moverse según la época del año . III) La higuera creada por estudiantes funcionaría en cualquier época del año y se compone, entre otras, por un generador y un acumulador. IV) La higuera se compone de un generador solar que transforma las radiaciones solares en corriente continua a baja tensión . V) La higuera también presenta un acumulador que almacena la energía producida por",
+    "alternatives": [
+      "A) I",
+      "B) II",
+      "C) III",
+      "D) IV",
+      "E) V"
+    ],
+    "correct": 4,
+    "rationale": null
+  },
+  {
+    "type": "sentence_elimination",
+    "statement": "4. I) En los restaurantes modestos de Sri Lanka muchas veces no hay cubiertos, sino\nque se come con los dedos. II) En restaurantes de baja condición en Sri Lanka, ante\nla carencia de cubiertos, se come con los dedos de la mano izquierda para sentir la\ncomida sin sabor a metal. III) Al principio, hay que amasar bien el arroz con las yemas\nde los dedos y los diferentes trozos de verdura y llevar todo elegantemente a la boca\nen algunos restaurantes de Sri Lanka. IV) Solo con las puntas de los dedos de la mano\nderecha, nunca con la palma de la mano y jamás con la mano izquierda ,es posible\ncomer en ciertos lugares de Sri Lanka. V) Muchos habitantes de Sri Lanka creen que\nasí sabe mejor la comida, pues no quieren sentir algún metal en la boca.",
+    "alternatives": [
+      "A) I",
+      "B) II",
+      "C) III",
+      "D) IV",
+      "E) V"
+    ],
+    "correct": 1,
+    "rationale": "La oración II es redundante."
+  },
+  {
+    "type": "sentence_elimination",
+    "statement": "5. I) Un grupo de estudiantes creó una higuera capaz de aprovechar la radiación solar y\ntransformarla en energía . II) La higuera solar se compone de seis paneles fotovoltaicos\ncuya posición respecto al Sol puede moverse según la época del año . III) La higuera\ncreada por estudiantes funcionaría en cualquier época del año y se compone, entre\\_otras, por un generador y un acumulador. IV) La higuera se compone de un generador\nsolar que transforma las radiaciones solares en corriente continua a baja tensión . V)\nLa higuera también presenta un acumulador que almacena la energía producida por\nel generador y permite disponer de corriente eléctrica fuera de las horas de luz o días\nnublados.",
+    "alternatives": [
+      "A) I",
+      "B) II",
+      "C) III",
+      "D) IV",
+      "E) V"
+    ],
+    "correct": 2,
+    "rationale": "Solución: Se aplica el criterio de redundancia. El enunciado III redunda con los demás."
+  },
+  {
+    "type": "sentence_elimination",
+    "statement": "6. I) El mito del autismo de Einstein ha sido difundido por Baron -Cohen, Legdin, Muir y\nMarlin . II) El autismo es un desorden mental, del cual todavía se discute en qué\nproporción es generado por factores genéticos y en qué proporción por disfunciones\ndel sistema familiar. III) En el caso de Einstein, este diagnóstico parece estar basado\nen un primer error que consiste en que Baron -Cohen considera, correctamente, que\nlos autistas son motivados para sistematizar y no para empatizar e, incorrectamente,\nque Einstein sistematizaba compulsivamente. IV) Einstein no sistematizaba con la\ncompulsión obsesiva de un autista, sino al contrario, rechazando la sistematización de\nconocimientos de física de su época, se abrió camino con creatividad en terrenos\ndesconocidos. V) El segundo errores de lógica, pues vemos en el fenómeno de su\npoca comunicación con compa ñeros de la escuela de su edad el efecto del autismo,\npero este se puede atribuir a un interés muy creativo y precoz en cuestiones de física.",
+    "alternatives": [
+      "A) I",
+      "B) II",
+      "C) III",
+      "D) IV",
+      "E) V"
+    ],
+    "correct": 1,
+    "rationale": "La oración II es impertinente."
+  },
+  {
+    "type": "sentence_elimination",
+    "statement": "8. I) La famosa edificación de China, considerada maravilla del mundo moderno, ha\ncomenzado a sufrir el desgaste propio del turismo y más gravemente el robo de sus\npartes. II) La construcción ha perdido cerca del 30% de longitud porque sus ladrillos\\se están utilizando para la construcción de viviendas de acuerdo a una publicación en\nla edición digital de La Jornada . III) La Administración del Estado ha señalado que\ncerca de 2 mil kilómetros ya han desaparecido y 1200 kilómetros están seriamente\ndañados. IV) C hang Dalin, experto de la Comisión de Estudios de la Gran Muralla,\ndetalló que los habitantes que residen cerca del monumento tenían la costumbre de\nutilizar los ladrillos de ésta para construir viviendas, por lo que muchas secciones de\nla fortaleza han quedado destruidas. V) La Gran Muralla no es continua, sino que está\nconstituida por un conglomerado de porciones construidas en diferentes periodos,\ndesde el siglo III a.C.",
+    "alternatives": [
+      "A) I",
+      "B) II",
+      "C) III",
+      "D) IV",
+      "E) V"
+    ],
+    "correct": 0,
+    "rationale": "Solución: Se elimina la oración V por impertinencia."
+  },
+  {
+    "type": "reading_comprehension",
+    "statement": "A las kumaris se las admira en la comunidad Newar . Se cree que tienen poderes para predecir el futuro y curar enfermos (en especial aquellos que sufren desórdenes sanguíneos), cumplir con ciertos deseos y conceder bendiciones de protección y prosperidad. Sobre todo, se dice que ofrecen una conexión inmediata entre este mundo y el divino, y que reparten el maitri bhavana, el espíritu de la bondad amorosa hacia los demás, entre sus devotos.\nLa tradición se remonta por lo menos al siglo X, cuando las niñas y los niños en todo el sur de Asia participaban en rituales hindúes y budistas como agentes para la adivinación.\nSu supuesta conexión con lo divino y su habilidad para predecir el futuro eran de un interés particular para los gobernantes de Asia. Siglos después, la tradición fue tomada por los pueblos que vivían en la periferia del subcontinente indio —en Cachemira, Assam, Bengala, Tamil, Nadu y Nepal —, que siguieron religiones subversivas que enfatizaban el poder femenino, o shakti, y la posesión tántrica, un estado logrado mediante invocaciones mágicas y rituales, y mediante el cual supuestamente los humanos pueden transformarse\nvirgen» en nepalí) solo se convirtió en un culto profundamente arraigado en la remota e impenetrable región montañosa de Nepal, y sólo ahí esta tradición aún se practica con vigor.\nEntre los budistas newar, las kumari se consideran la personificación de Vajeadevi, la deidad femenina suprema, una Buda. En la actualidad solo hay 10 kumaris en Nepal, nueve de ellas en el valle de Katmandú. Se siguen seleccionando solo de familias ligadas a comunidades que habitan entorno a un patio central, y todos sus ancestros deben venir de una casta alta. Ser escogida para el puesto se considera el honor más alto, el mismo que puede conceder innumerables bendiciones a la familia de una kumari. De modo que, a pesar de la carga financiera y los sacrificios personales que implica mantener a una niña como una diosa viviente, y las dificultades de su rehabilitación una vez que alcanza la pubertad y tiene que vivir de nuevo una vida normal, algunas familias siguen dispuestas a presentar a sus hijas a la selección .\nTree, Isabela. (2015). «Las diosas vivientes de Nepal». En Natgeo en español . Recuperado de <http://www.ngenespanol.com/el -mundo/culturas/15/06/26/ -las-diosas -vivientesdenepal.html>.",
+    "questions": [
+      {
+        "statement": "La expresión SUBVERSIVAS connota",
+        "alternatives": [
+          "A) rebelión.",
+          "B) desprecio.",
+          "C) terror.",
+          "D) masacre.",
+          "E) transgresión."
+        ],
+        "correct": 4,
+        "rationale": "La palabra implica una religión que rompe con el dogma tradicional. En tal sentido, connota TRANSGRESIÓN."
+      },
+      {
+        "statement": "No es congruente con el texto afirmar que las kumaris",
+        "alternatives": [
+          "A) son admiradas en la comunidad de Newar.",
+          "B) conceden m uchas bendiciones a su familia.",
+          "C) acarrean una considerable carga financiera.",
+          "D) deben ser reh abilitadas durante la pubertad.",
+          "E) poseen una conexión divina imperecedera."
+        ],
+        "correct": 4,
+        "rationale": "En el texto se indica que al alcanzar la pubertad las kumaris siguen una vida normal. Esto es, sus poderes divinos se manifiestan en un periodo específico de vida."
+      },
+      {
+        "statement": "Centralmente, el texto trata sobre",
+        "alternatives": [
+          "A) la glorificación de niñas preadolescentes en el continente asiático.",
+          "B) las religiones subversivas que enfatizaban el poder de la mujer.",
+          "C) la admiración que originan las kumaris en la comunidad de Newar.",
+          "D) la participación de niños y niñas en rituales hindúes del siglo X.",
+          "E) las kumaris del Nepal, sus poderes mágicos y su conexión divina."
+        ],
+        "correct": 4,
+        "rationale": "El texto gira entorno a las kumaris del Nepal y su halo mágico -religioso."
+      },
+      {
+        "statement": "A) el siglo X dejaría de aparecer como antecedente de la deificación de niñas.\nB) podrían eventualmente participar niñas de otros estratos socioeconómicos.\nC) la mistificación y la divinización de estas desaparecerían por los prejuicios.\nD) las familias carecerían de capacidad para recibir innumerables bendiciones.\nE) las adolescentes del lugar alcanzarían el estatus de semidiosas perpetuas.",
+        "alternatives": [
+          "A) el siglo X dejaría de aparecer como antecedente de la deificación de niñas.",
+          "B) podrían eventualmente participar niñas de otros estratos socioeconómicos.",
+          "C) la mistificación y la divinización de estas desaparecerían por los prejuicios.",
+          "D) las familias carecerían de capacidad para recibir innumerables bendiciones.",
+          "E) las adolescentes del lugar alcanzarían el estatus de semidiosas perpetuas."
+        ],
+        "correct": 1,
+        "rationale": "Las kumaris son seleccionadas de familias cuyos ancestros pertenecen a una clase alta; es decir, pertenecen a familias de alcurnia. De ser una elección más democrática, niñas de otros estratos socioeconómicos serían escogidas."
+      },
+      {
+        "statement": "5. Podemos inferir del texto que la costumbre de divinizar niñas",
+        "alternatives": [
+          "A) soslayaba la capacidad de estas para adivinar y hacer magia.",
+          "B) era definido por la capacidad de la familia para obtener poder.",
+          "C) propiciaba el castigo de niñas provenientes de estratos pobres.",
+          "D) posiblemente se practicaba en otras zonas, más allá de Nepal.",
+          "E) carecía de fundamento para las comunidades de cariz budista."
+        ],
+        "correct": 3,
+        "rationale": "En el texto se señala que solo en Nepal aún se practica con vigor, y que en esta región se afianzó la costumbre. No obstante, la historia señala en los antecedentes lugares como Cachemira, Bengala, Tamil, etc. Es decir, en el pasado no fue exclusiva de Nepal."
+      }
+    ]
+  },
+  {
+    "type": "reading_comprehension",
+    "statement": "Hasta los italianos se ponen pálidos de envidia: los indios son los protagonistas del mayor concierto ocasionado por bocinas en el mundo. Usan su claxon como intermitente al salir del hueco para estacionar, para saludar al vecino, para manifestar su irritación ante el semáforo rojo y como señal de advertencia para los conductores de bicitaxis cuando se les quieren adelantar. Como la India es uno de los países más poblados del mundo, el uso del claxon en las ciudades adquiere la dimensión de un ruido permanente casi insoportable. Una y otra vez, las organizaciones cívicas intentan detener el ruido en las grandes metrópolis con letreros que dicen «No toquen el claxon», hasta ahora sin éxito. El claxon sigue siendo un arma para todos los fines que todos usan, desde el conductor de un triciclo hasta el chofer de un coche de gran lujo. La bocina suena cuando el coche que va adelante se estaciona en tercera fila, cuando uno se ve atrapado en un embotellamiento e incluso para espantar un pájaro en la calle, puesto que existe la posibilidad que uno se reencarne como pájaro. La mayoría de los conductores creen que el uso del claxon evita que sufran accidentes chocando con carretas tiradas por bueyes, peatones y cabras. Incluso en las autoescuelas se enseña el uso de la bocina como forma de autoprotección. Por esto, en la India hay pintores especializados que dedican s u vida profesional a escribir letras adornadas sobre el chasis de los camiones, que dicen: «Tocar el claxon, por favor».",
+    "questions": [
+      {
+        "statement": "1. Campestre, pastoril, campesino,",
+        "alternatives": [
+          "A) áspero.",
+          "B) montaraz.",
+          "C) cerril.",
+          "D) bucólico.",
+          "E) grosero."
+        ],
+        "correct": 3,
+        "rationale": "Serie basada en la sinonimia."
+      },
+      {
+        "statement": "2. ¿Cuál es el término que no corresponde al campo semántico?",
+        "alternatives": [
+          "A) Mofletudo",
+          "B) Parsimonioso",
+          "C) Lento",
+          "D) Flemático",
+          "E) Cachazudo"
+        ],
+        "correct": 0,
+        "rationale": "Mofletudo significa rollizo."
+      },
+      {
+        "statement": "3. Señale el antónimo de la serie conformada por las palabras DILAPIDAR, DESPILFARRAR y MALGASTAR.",
+        "alternatives": [
+          "A) Reservar",
+          "B) Disponer",
+          "C) Mezquinar",
+          "D) Discurrir",
+          "E) Malquistar"
+        ],
+        "correct": 0,
+        "rationale": "La palabra RESERVAR ‘guardar algo para el futuro’ es el antónimo de la serie."
+      },
+      {
+        "statement": "4. Pendenciero, pacífico; inicuo, bondadoso; austero, excesivo;",
+        "alternatives": [
+          "A) jactancioso, pedante.",
+          "B) parvo, ingente.",
+          "C) reticente, dudoso.",
+          "D) mezquino, pipiolo.",
+          "E) astuto, huraño."
+        ],
+        "correct": 1,
+        "rationale": "La serie verbal está conformada por antónimos. Se completa con las palabras PARVO, INGENTE."
+      },
+      {
+        "statement": "6. Diferir, discordar; acometer, sofrenar; inquirir, indagar;",
+        "alternatives": [
+          "A) discurrir, conjeturar.",
+          "B) abjurar, reafirmar.",
+          "C) prescribir, recetar.",
+          "D) modelar, acuciar.",
+          "E) someter, coaccionar."
+        ],
+        "correct": 1,
+        "rationale": "La serie es mixta. Se completa con los antónimos ABJURAR y REAFIRMAR."
+      },
+      {
+        "statement": "7. Esponjoso, blando, inconsistente,",
+        "alternatives": [
+          "A) mísero.",
+          "B) obsceno.",
+          "C) virtuoso.",
+          "D) soso.",
+          "E) fofo."
+        ],
+        "correct": 4,
+        "rationale": "Serie de sinónimos. Se completa con la palabra FOFO."
+      }
+    ]
+  },
+  {
+    "type": "verbal_series",
+    "statement": "1. Campestre, pastoril, campesino,",
+    "alternatives": [
+      "A) áspero.",
+      "B) montaraz.",
+      "C) cerril.",
+      "D) bucólico.",
+      "E) grosero."
+    ],
+    "correct": 3,
+    "rationale": "Serie basada en la sinonimia."
+  },
+  {
+    "type": "verbal_series",
+    "statement": "2. ¿Cuál es el término que no corresponde al campo semántico?",
+    "alternatives": [
+      "A) Mofletudo",
+      "B) Parsimonioso",
+      "C) Lento",
+      "D) Flemático",
+      "E) Cachazudo"
+    ],
+    "correct": 0,
+    "rationale": "Mofletudo significa rollizo."
+  },
+  {
+    "type": "verbal_series",
+    "statement": "3. Señale el antónimo de la serie conformada por las palabras DILAPIDAR, DESPILFARRAR y MALGASTAR.",
+    "alternatives": [
+      "A) Reservar",
+      "B) Disponer",
+      "C) Mezquinar",
+      "D) Discurrir",
+      "E) Malquistar"
+    ],
+    "correct": 0,
+    "rationale": "La palabra RESERVAR ‘guardar algo para el futuro’ es el antónimo de la serie."
+  },
+  {
+    "type": "verbal_series",
+    "statement": "4. Pendenciero, pacífico; inicuo, bondadoso; austero, excesivo;",
+    "alternatives": [
+      "A) jactancioso, pedante.",
+      "B) parvo, ingente.",
+      "C) reticente, dudoso.",
+      "D) mezquino, pipiolo.",
+      "E) astuto, huraño."
+    ],
+    "correct": 1,
+    "rationale": "La serie verbal está conformada por antónimos. Se completa con las palabras PARVO, INGENTE."
+  },
+  {
+    "type": "verbal_series",
+    "statement": "6. Diferir, discordar; acometer, sofrenar; inquirir, indagar;",
+    "alternatives": [
+      "A) discurrir, conjeturar.",
+      "B) abjurar, reafirmar.",
+      "C) prescribir, recetar.",
+      "D) modelar, acuciar.",
+      "E) someter, coaccionar."
+    ],
+    "correct": 1,
+    "rationale": "La serie es mixta. Se completa con los antónimos ABJURAR y REAFIRMAR."
+  },
+  {
+    "type": "verbal_series",
+    "statement": "7. Esponjoso, blando, inconsistente,",
+    "alternatives": [
+      "A) mísero.",
+      "B) obsceno.",
+      "C) virtuoso.",
+      "D) soso.",
+      "E) fofo."
+    ],
+    "correct": 4,
+    "rationale": "Serie de sinónimos. Se completa con la palabra FOFO."
+  },
+  {
+    "type": "verbal_series",
+    "statement": "6. Diferir, discordar; acometer, sofrenar; inquirir, indagar;",
+    "alternatives": [
+      "A) discurrir, conjeturar.",
+      "B) abjurar, reafirmar.",
+      "C) prescribir, recetar.",
+      "D) modelar, acuciar.",
+      "E) someter, coaccionar."
+    ],
+    "correct": 1,
+    "rationale": "La serie es mixta. Se completa con los antónimos ABJURAR y REAFIRMAR."
+  },
+  {
+    "type": "verbal_series",
+    "statement": "7. Esponjoso, blando, inconsistente,",
+    "alternatives": [
+      "A) mísero.",
+      "B) obsceno.",
+      "C) virtuoso.",
+      "D) soso.",
+      "E) fofo."
+    ],
+    "correct": 4,
+    "rationale": "Serie de sinónimos. Se completa con la palabra FOFO."
+  },
+  {
+    "type": "verbal_series",
+    "statement": "8. Esclarecido, distinguido; inmarcesible, perecible; estocástico, azaroso;",
+    "alternatives": [
+      "A) afluente, abundante.",
+      "B) gravoso, costoso.",
+      "C) terco, testarudo.",
+      "D) oficioso, remolón.",
+      "E) malinche, traidor."
+    ],
+    "correct": 3,
+    "rationale": "Serie verbal mixta: Sinónimos, antónimos, sinónimos. Se completa con los antónimos OFICIOSO y REMOLÓN."
+  },
+  {
+    "type": "verbal_series",
+    "statement": "9. Rocadero, rueca; camión, vagoneta; babor, embarcación;",
+    "alternatives": [
+      "A) casquillo, ráfaga.",
+      "B) flauta, fístula.",
+      "C) peonza, punta.",
+      "D) canoa, veta.",
+      "E) chasís, camión."
+    ],
+    "correct": 2,
+    "rationale": "Serie verbal mixta: PARTE -TODO; TODO -PARTE; PARTE -TODO. Se completa con el par de palabras PEONZA -PUNTA (peonza en su acepción de trompo)."
+  },
+  {
+    "type": "verbal_series",
+    "statement": "10. Gesto, semblante, rostro,",
+    "alternatives": [
+      "A) complexión.",
+      "B) filigrana.",
+      "C) cubierta.",
+      "D) catadura.",
+      "E) sesera."
+    ],
+    "correct": 3,
+    "rationale": "Serie verbal basada en sinónimos. Se completa con la palabra CATADURA."
+  },
+  {
+    "type": "reading_comprehension",
+    "statement": "Un pariente de las pirañas con un mítico gusto por la carne humana fue encontrado en un lago de Nueva Jersey hace unos días, desencadenando temores sobre la propagación de especies invasoras. El pez, considerado un pacú sudamericano, es famoso personas, a pesar de su parentesco con las pirañas. Pero ocasionalmente comen otros peces y pueden vencer especies nativas o propagar parásitos o enfermedades. Los pacús normalmente transitan por las aguas del Amazonas y otros sistemas pluviales de América del Sur, pero el pescador Ron Rossi atrapó uno en el lago Swedes, en el sur de Nueva Jersey. El Departamento de Protección Ambiental del Estado dijo en un comunicado: «Muchas veces, estos peces son depositados en lagos por propietarios de mascotas. Estos peces no sobreviven en agua fría, por lo que pedimos a las personas que no los liberen en el medio natural, sino que humanamente destruyan los peces». Los pacús a menudo son tratados como mascotas de acuario, aunque pueden crecer y pesar mucho (1 m de largo y 20 kilos) como para que personas cuiden de ellos. El espécimen encontrado en Nueva Jersey parece tener sólo una s cuantas pulgadas de largo, de acuerdo con una foto. El pez Pacú tiene una mala reputación en línea, pues muchas personas creen que muerde los testículos humanos, supuestamente porque los confunde con frutos secos. Los temores se han generalizado de tal m anera que incluso algunos funcionarios han recomendado que los hombres naden con sus trajes de baño bien atados. Se han reportado algunos incidentes de mordeduras en humanos, pero los temores de que ellos elijan como blanco a las personas son desmedidos , dice Peter Rask Møller, experto en peces de la Universidad de Dinamarca en Copenhague. «Sus dientes y su poderosa mordedura seguro son un peligro, pero sufrir una mordedura es muy poco probable», insiste Møller. Howard, Bryan (2015). «Encuentran pez pacú con dientes de humano». En National Geographic en Español. Recuperado de <http://www.ngenespanol.com/naturaleza/animales/15/06/26/encuentran -en- nuevajerseypezpacucondientesdehumano.html>.",
+    "questions": [
+      {
+        "statement": "1. Centralmente, el autor aborda",
+        "alternatives": [
+          "A) los incidentes de mordeduras en humanos ocasionados por los peces pacús.",
+          "B) el hallazgo de un pez pacú con dientes similares a los humanos en New Jersey.",
+          "C) la investigación de los pacús por el experto en peces de Dinamarca, Rask Møller .",
+          "D) el tratamiento de los pacús como mascotas en acuarios de coleccionistas de peces .",
+          "E) las exageradas historias de cercenamientos de testículos por la mordida de pacús."
+        ],
+        "correct": 1,
+        "rationale": "El texto aborda el tema del hallazgo de un espécimen de pez pacú con dientes similares a los humanos en Nueva Jersey."
+      },
+      {
+        "statement": "2. La palabra DESMEDIDO en el texto se puede reemplazar por",
+        "alternatives": [
+          "A) esforzado.",
+          "B) arriscado.",
+          "C) asolado.",
+          "D) exagerado.",
+          "E) interminable."
+        ],
+        "correct": 3,
+        "rationale": "El vocablo es usado para referirse al miedo exagerado que ha originado este pez. Por esa razón, DESMEDIDO es sinónimo de EXAGERADO."
+      },
+      {
+        "statement": "3. Resulta compatible con el desarrollo textual afirmar que el espécimen encontrado en Nueva Jersey",
+        "alternatives": [
+          "A) cuenta con apenas unas pulgadas de longitud a diferencia de otras especies.",
+          "B) presenta dientes filosos similares a los de las pirañas de ríos desconocidos.",
+          "C) es excesivamente violento y se han reportado casos de ataques a humanos.",
+          "D) se ha compro bado que es capaz de morder los testículos de los pobladores.",
+          "E) la longitud, sensiblemente menor en comparación con otras especies sudamericanas."
+        ],
+        "correct": 0,
+        "rationale": null
+      },
+      {
+        "statement": "4. Es posible deducir del desarrollo textual que el temor desmedido que despierta el pacú",
+        "alternatives": [
+          "A) se sustenta en el descomunal tamaño que adquiere este pez en New Jersey.",
+          "B) desaparecería si los dientes de este fueran similares a los de una piraña de río.",
+          "C) fue ocasionado por la recomendación persistente realizada por los funcionarios.",
+          "D) carece de fundamentos consistentes, pues es poco probable que ataque gente.",
+          "E) se debe al documentado estudio llevado a cabo por el experto danés R. Møller ."
+        ],
+        "correct": 3,
+        "rationale": "El temor que se siente por este pez carece de sustento, pues según el especialista danés, es poco probable que el pez ataque humanos."
+      },
+      {
+        "statement": "5. Si los estudios de Rask Møller arrojaran pruebas contundentes de mordidas mortales del pacú en humanos",
+        "alternatives": [
+          "A) los especímenes detectados habrían de contar con una gran longitud y peso.",
+          "B) la Universidad de Dinamarca sería pionera en la captura de este gran pez.",
+          "C) este carecería de poder para propagar enfermedades mortales o parásitos.",
+          "D) la dentadura del pez tendría que tener una mayor similitud con carnívoros.",
+          "E) se justificaría el accionar llevado a cabo por funcionarios en Nueva Jersey."
+        ],
+        "correct": 4,
+        "rationale": "Si los ataques estuvieran documentados, la exhortación a la protección y la toma de medidas para evitarlos se justificarían."
+      }
+    ]
+  },
+  {
+    "type": "reading_comprehension",
+    "statement": "El 1 de julio, a las 01:59:59, cambiarán los relojes para que 2015 sea un segundo más largo. El objetivo de sumar el llamado segundo intercalar o adicional es compensar el hecho de que el tiempo real de rotación de la Tierra es ligeramente superior a las 24 horas de tiempo atómico. Si no se realizara este ajuste, ambos tiempos se distanciarían cada vez más.\nA comienzos de año, la diferencia entre el tiempo real de rotación y el atómico (que se mide de manera independiente a los movimientos de la Tierra), difería en 0.5 segundos.\n«El 1 de junio, la diferencia era ya de 0.65 segundos», señala el experto alemán Andreas Bauch. Y según está internacionalmente acordado, el Tiempo Universal Coordinado (UTC, por sus siglas en inglés) y el solar (UT1) no deben distanciarse en más de 0.9 segundos.\nDesde 1972, los relojes atómicos de más de 70 institutos de todo el mundo se encargan de medir el UTC. Para sincronizarlo con el UT1, es decir, con el ritmo en que la Tierra gira sobre sí misma, hay años en los que se añade un segundo extra al último día de junio o al de diciembre. El segundo intercalar de este verano es el número 26 que se in inserta desde entonces. El Servicio Internacional de Rotación de la Tierra y Sistemas de Referencia (IERS) es el encargado de decidir cuándo se introduce el segundo intercalar.\nSin embargo, el ajuste no está exento de polémica. Y es que entre los inconvenientes de esta sincronización figuran por ejemplo determinadas reacciones en cadena en la red eléctrica, explica Bauch. El cálculo del flujo eléctrico se realiza en microsegundos, al igual que el de la sobrecarga de la red. Pero si debido al segundo intercalar se produce un error de cálculo en uno de los valores y éste es detectado como un problema, se producirá un corte. \"Son decisiones automáticas pensadas para proteger la alta tensión\", aclara el experto.\n\nen Español. Recuperado de <http://www.ngenespanol.com/ciencia/el -espacio/15/06/26/ - los-relojes -delmundoseadelantaran1segundo.html>.",
+    "questions": [
+      {
+        "statement": "La idea principal del texto es tablece que",
+        "alternatives": [
+          "A) a comienzos de año, la diferencia entre el tiempo real de rotación y el atómico (medido independientemente a los movimientos de la Tierr",
+          "A) difería en 0.5 segundos",
+          "B) los relojes del mundo se adelantarán un segundo a fin de compensar la superioridad del tiempo real de rotación de la Tierra respecto del tiempo atómico",
+          "C) está internacionalmente acordado que el Tiempo Universal Coordinado (UTC, por sus siglas en inglés) y el solar (UT1) no deben distanciarse en más de 0.9 segundos",
+          "D) debido al segundo inter calar es posible que se produzca un error de cálculo en uno de los valores y este produzca un corte del flujo eléctrico a nivel mundial",
+          "E) el Servicio Internacional de Rotación de la Tierra y Sistemas de Referencia (IERS) es el encargado de decidir cuándo se introduce el segundo intercalar ."
+        ],
+        "correct": 1,
+        "rationale": "La idea que desarrolla el tema del adelanto de un segundo para equiparar la diferencia del tiempo real de rotación de la Tierra respecto del tiempo atómico es la detectada en (B)."
+      },
+      {
+        "statement": "En el texto, el vocablo INCONVENIENTE se puede reemplazar por",
+        "alternatives": [
+          "A) extenuación.",
+          "B) demora.",
+          "C) escollo.",
+          "D) molestia.",
+          "E) extensión."
+        ],
+        "correct": 2,
+        "rationale": "El vocablo se refiere a la dificultad que enfrenta este adelanto de un segundo en los relojes del mundo."
+      },
+      {
+        "statement": "Resulta compatible con el desarrollo textual afirmar que el tiempo atómico",
+        "alternatives": [
+          "A) es inmanejable pues ocasiona problemas de carácter económico y político.",
+          "B) genera controversias en los grupos de empresarios y especialistas del mundo.",
+          "C) se mantiene constante debido a la medición en setenta institutos del mundo.",
+          "D) carecía de diferencias con el tiempo real de rotación a inicios de este año.",
+          "E) se corresponde asimétricamente con el tiempo real de rotación de la Tierra."
+        ],
+        "correct": 4,
+        "rationale": "Existe un a diferencia; por tal razón, esta debe compensarse periódicamente. Es decir, la correspondencia es asimétrica."
+      },
+      {
+        "statement": "Es posible colegir del UTC,",
+        "alternatives": [
+          "A) escrupulosa.",
+          "B) interesada.",
+          "C) inexacta.",
+          "D) irrelevante.",
+          "E) inasequible."
+        ],
+        "correct": 0,
+        "rationale": "Las diferencias son mínimas y casi imperceptibles, pero son detectables debido a que el trabajo, se deduce, es sumamente escrupuloso o cuidadoso."
+      }
+    ]
+  }
+]

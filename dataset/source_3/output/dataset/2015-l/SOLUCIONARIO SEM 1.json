@@ -1,0 +1,632 @@
+[
+  {
+    "type": "reading_comprehension",
+    "statement": "Uno de los hallazgos más comunes de los investigadores que estudian el proceso de comprensión lectora es que el hacer inferencias es fundamental para la comprensión (Anderson y Pearson, 1984). Las inferencias son el alma del proceso de comprensión y se recomienda enseñar al estudiante a hacerlas desde los primeros grados hasta el nivel universitario; pero, ¿qué es una inferencia? De acuerdo con Cassany, Luna y Sanz (2007) «es la habilidad de comprender algún aspecto determinado del texto a partir del significado del resto. Consiste en superar lagunas que por causas diversas aparecen en el proceso de construcción de la comprensión». Esto ocurre por diversas razones: porque el lector desconoce el significado de una palabra; porque el autor no lo presenta explícitamente; porque el escrito tiene errores tipográficos; porque se ha extraviado una parte, etc. Los lectores competentes aprovechan las pistas contextuales, la comprensión lograda y su conocimiento general para atribuir un significado coherente con el texto a la parte que desconoce. Por ejemplo, si desconoce el significado de una palabra, leerá cuidadosamente y tratará de inferir el significado de la misma en el contexto.\n\nDennett, D. (2004) La evolución de la libertad . Barcelona: Paidós",
+    "questions": [
+      {
+        "statement": "1. ¿Cuál es el tema central del texto?",
+        "alternatives": [
+          "A) El leer bien como ejercicio del pensamiento",
+          "B) El analfabetismo funcional a escala global",
+          "C) Las diferentes formas de pensamiento",
+          "D) Las características de las buenas lecturas",
+          "E) La importancia de erradicar el analfabetismo"
+        ],
+        "correct": 0,
+        "rationale": "Solución : El autor reflexiona entorno a la comprensión lectora y define lo que es leer"
+      },
+      {
+        "statement": "2. ¿Cuál es la idea principal del texto?",
+        "alternatives": [
+          "A) El analfabetismo funcional ha sido denunciado por todos los maestros del planeta.",
+          "B) Leer adecuadamente implica razonar e incluye diferentes formas de pensamiento.",
+          "C) La formulación de juicios y la resolución de problemas son procesos mentales.",
+          "D) Los errores en un examen se deben a que no se comprenden las instrucciones.",
+          "E) La mayoría de las escuelas consiguen que sus estudiantes aprendan a leer."
+        ],
+        "correct": 1,
+        "rationale": "Solución : Leer bien es razonar bien y ejercitar uno de los más elevados procesos mentales, que incluye diferentes formas del pensamiento."
+      },
+      {
+        "statement": "3. ¿Cuál es el mejor resumen del texto?",
+        "alternatives": [
+          "A) Todos al cursar nuestros estudios debemos leer, pero uno piensa que eso lo aprendió desde la primaria y que a estas alturas es absurdo que se nos enseñe a leer.",
+          "B) La mayoría de los errores cometidos por los estudiantes al enfrentarse a un examen se deben a que no comprenden las instrucciones, pues no saben leer en forma crítica.",
+          "C) Aunque tenemos que leer toda la vida, muchos no aprenden a leer bien ya que desconocen que esto implica razonar y ejercitar diferentes formas de pensamiento.",
+          "D) La mayoría de las escuelas consiguen que los alumnos aprendan a leer, pero están incapacitados para desarrollar sus propias ideas y opiniones a través del razonamiento.",
+          "E) Dado que la mayoría de las personas no sabe leer críticamente, los profesores han denunciado el analfabetismo funcional reinante en países como el nuestro."
+        ],
+        "correct": 2,
+        "rationale": "Solución : El autor nos introduce al tema mostrando los problemas de comprensión, para luego señalar lo que implica leer bien."
+      },
+      {
+        "statement": "4. En el texto, el término ALMA adquiere el sentido de",
+        "alternatives": [
+          "A) sutileza.",
+          "B) finalidad.",
+          "C) esencia.",
+          "D) energía.",
+          "E) inspiración."
+        ],
+        "correct": 2,
+        "rationale": "Solución : El alma del proceso es su parte más fundamental o esencial."
+      },
+      {
+        "statement": "5. En el texto, la palabra LAGUNAS se puede reemplazar por",
+        "alternatives": [
+          "A) vacíos.",
+          "B) depósitos.",
+          "C) defectos.",
+          "D) frivolidades.",
+          "E) engaños."
+        ],
+        "correct": 0,
+        "rationale": "Solución : Las lagunas o vacíos en la lectura se pueden completar cuando se realizan inferencias."
+      },
+      {
+        "statement": "6. La libertad humana es más joven que la especie. Sus caracteres principales tienen únicamente unos miles de años de antigüedad —un parpadeo dentro de la historia evolutiva—, pero en ese tiempo ha transformado el planeta de una forma tan palpable como pudieran hacerlo grandes transiciones biológicas como la creación de una atmósfera rica en oxígeno y la creación de la vida multicelular. La libertad tuvo que evolucionar igual que todos los demás elementos de la biosfera, y continúa su evolución en la actualidad. La libertad es real hoy en algunas partes afortunadas del planeta, y aquellos que la aman tienen razón de hacerlo, pero está lejos de se r inevitable, y lejos de ser universal. Si llegamos a comprender científicamente su origen, tal vez podamos orientar mejor nuestros esfuerzos para preservarla de cara al futuro, y protegerla de sus muchos enemigos naturalmente.",
+        "alternatives": [
+          "A) ha sido objeto de continua evolución.",
+          "B) puede ser estudiada científicamente.",
+          "C) está presente en todas las sociedades.",
+          "D) posee algunos enemigos naturales.",
+          "E) es amada por algunos seres humanos."
+        ],
+        "correct": 2,
+        "rationale": "Solución : La libertad es real hoy solo en algunas partes afortunadas del planeta."
+      },
+      {
+        "statement": "7. Se puede inferir del texto que el síndrome tecnológico",
+        "alternatives": [
+          "A) es continuo pero siempre trivial.",
+          "B) niega toda esperanza en el futuro.",
+          "C) no admite una solución definitiva.",
+          "D) admite una solución no racional.",
+          "E) está ligado a los juegos de azar."
+        ],
+        "correct": 2,
+        "rationale": "Solución : Sea cual sea el porvenir, debemos efectivamente vivir en la sombra de una calamidad amenazante, un peligro permanente. Además, no hay un remedio para este síndrome."
+      },
+      {
+        "statement": "8. Si la ciencia fuera un sistema de conocimientos perfecto,",
+        "alternatives": [
+          "A) la investigación científica ya no sería necesaria.",
+          "B) la humanidad alcanzaría el bienestar absoluto.",
+          "C) los científicos serían los mejores gobernantes.",
+          "D) desaparecerían las necesidades espirituales.",
+          "E) se probaría la existencia de un Dios todopoderoso."
+        ],
+        "correct": 0,
+        "rationale": "Solución : Dada esta condición no sería factible la continua investigación científica que es la que permite alcanzar nuevas ideas."
+      }
+    ]
+  },
+  {
+    "type": "reading_comprehension",
+    "statement": "Desde que un buen día se publicó la noticia de que una abuela había dado a luz a su nieta, la sociedad supo que en materia de reproducción todo era ya posible. Y así ha sido.\n\nrecientemente para autorizar una nueva técnica que ha provocado una cierta polémica.\nEn realidad, la gran revolución fue poder engendrar un bebé en una probeta. Logrado ese hito, las posibilidades de intervenir en el proceso de gestación de la vida no han dejado de avanzar. El caso que nos ocupa es un nuevo paso en la posibilidad de intervenir en la fase embrionaria para evitar una enfermedad hereditaria. Se trata de impedir que una mujer que sufre sordera por un defecto genético, transmita la enfermedad a su descendencia. Y la técnica consiste en modificar el material genético del óvulo de la enferma. Como toda célula, el óvulo está formado por el núcleo que contiene el ADN y el citoplasma, donde se encuentran una serie de orgánulos que controlan funciones del ADN, entre ellos las mitocondrias, que se transmiten por vía materna.\nLa enfermedad se debe a un fallo en las mitocondrias. Se trata, pues, de sustituir la parte del citoplasma que contiene el defecto. Para ello se obtienen dos óvulos, uno de la mujer enferma y otro de una donante sana. Se extrae el núcleo del primero y se implanta en el óvulo de la donante, que luego es fecundado con el esperma del padre. El bebé tendrá material genético de tres personas, pero el de la donante apenas representará el 0,2% del total, el del citoplasma sustituido. La finalidad es claramente terapéutica y no representa, como algunos pretenden, ninguna amenaza de manipulación genética.\nEl País (04 de febrero de 2015). “Con los genes de tres padres” . Recuperado el 04 de marzo de 2015, de El País: http://elpais.com/elpais/2015/02/03/opinion/1422989196_824813.html",
+    "questions": [
+      {
+        "statement": "1. ¿Cuál es la idea principal del texto?",
+        "alternatives": [
+          "A) La verdadera revolución en fertilidad se llevó a cabo cuando se logró engendrar, por primera vez, un bebé en una probeta.",
+          "B) En Gran Bretaña se ha generado una intensa polémica entorno a la autorización de una novedosa técnica de fertilidad.",
+          "C) Una nueva técnica, que contempla el engendrar un hijo a partir de tres padres, impediría ciertas enfermedades hereditarias.",
+          "D) Una nueva técnica revela que las posibilidades de intervenir en el proceso de gestación de la vida no han dejado de avanzar.",
+          "E) En la actualidad, la sociedad es totalmente consciente de que en materia de reproducción lo inimaginable ya es posible."
+        ],
+        "correct": 2,
+        "rationale": "Solución : El autor del texto se enfoca en una técnica cuya finalidad es claramente terapéutica."
+      },
+      {
+        "statement": "2. La expresión NUEVA FRONTERA connota",
+        "alternatives": [
+          "A) dilación.",
+          "B) distancia.",
+          "C) adelanto.",
+          "D) intención.",
+          "E) infalibilidad."
+        ],
+        "correct": 2,
+        "rationale": "Solución : El engendrar bebés con material genético de tres padres constituye un notable avance científico."
+      },
+      {
+        "statement": "3. Se infiere que, en el proceso de aplicación de la técnica mencionada,",
+        "alternatives": [
+          "A) la donante afronta un riesgo mayor que la mujer enferma.",
+          "B) el núcleo del óvulo de la donante no es tomado en cuenta.",
+          "C) se intentaría reparar las mitocondrias del óvulo donado.",
+          "D) el bebé recibe solo la información genética de sus padres.",
+          "E) se busca sustituir el citoplasma del óvulo de la donante."
+        ],
+        "correct": 1,
+        "rationale": "Rpta .:B"
+      },
+      {
+        "statement": "4. Resulta incompatible aseverar que la técnica en cuestión",
+        "alternatives": [
+          "A) generó diferencias de opinión en Gran Bretaña.",
+          "B) tiene una finalidad que es claramente terapéutica.",
+          "C) impediría algunas enfermedades mitocondriales.",
+          "D) estaría exenta de propiciar controversias éticas.",
+          "E) busca sustituir la parte defectuosa del citoplasma."
+        ],
+        "correct": 3,
+        "rationale": "Solución : El Parlamento de Gran Bretaña votó recientemente para autorizar una nueva técnica que ha provocado una cierta polémica."
+      },
+      {
+        "statement": "5. Si la tercera parte del material genético del bebé correspondiera a la donante, la nueva técnica",
+        "alternatives": [
+          "A) sería legalizada sin mayor dilación.",
+          "B) estaría libre de cualquier objeción.",
+          "C) sería considerada más polémica.",
+          "D) no generaría controversias éticas.",
+          "E) sería prohibida en todos los países."
+        ],
+        "correct": 2,
+        "rationale": "Solución : La nueva técnica es polémica aun cuando el material genético de la donante apenas representa el 0,2% del total."
+      }
+    ]
+  },
+  {
+    "type": "reading_comprehension",
+    "statement": "Centralmente, el autor aborda la",
+    "questions": [
+      {
+        "statement": "1. Centralmente, el autor aborda la",
+        "alternatives": [
+          "A) guillotina como sucedáneo de las torturas.",
+          "B) Ilustración y la creación de la pena de muerte.",
+          "C) historia acerca de la invención de la guillotina.",
+          "D) reforma penal de Joseph Ignace Guillotin.",
+          "E) imprecisión en el empleo de «guillotina»."
+        ],
+        "correct": 4,
+        "rationale": "Solución : El texto aborda los aspectos históricos de la invención de la guillotina."
+      },
+      {
+        "statement": "2. En el vocablo «celeridad» se describe la idea de",
+        "alternatives": [
+          "A) denuedo.",
+          "B) apremio.",
+          "C) urgencia.",
+          "D) defección.",
+          "E) celeridad."
+        ],
+        "correct": 4,
+        "rationale": "Solución : El vocablo es usado para referirse a la acción de decapitar de manera veloz; pues los verdugos cometían errores, de lo que se desprende que en ciertos casos el decapitado agonizaba tortuosamente."
+      },
+      {
+        "statement": "3. Resulta incompatible con el desarrollo textual afirmar que la aplicación de la pena capital en Francia",
+        "alternatives": [
+          "A) excluía a los estratos socioeconómicos bajos en casos de decapitación.",
+          "B) generó el rechazo por parte de quienes abogaban por su proscripción.",
+          "C) fue aplicada según los principios de igualdad durante todo el siglo XVIII.",
+          "D) fue debatida en la segunda mitad del siglo XVIII, entre otros, por Guillotin.",
+          "E) debía ser sin distingo de clase según la propuesta de Joseph I. Guillotin."
+        ],
+        "correct": 2,
+        "rationale": "Solución : La pena de muerte era aplicada de forma desigual, pues la decapitación era privilegio de la aristocracia. Es incompatible, por lo tanto, afirmar que era aplicada equitativamente."
+      },
+      {
+        "statement": "4. Es posible deducir del desarrollo textual que la decapitación sin guillotina",
+        "alternatives": [
+          "A) era utilizada exclusivamente en la Francia revolucionaria.",
+          "B) fue una idea presentada por el sanguinario Joseph Guillotin.",
+          "C) era aplicada por verdugos que mantenían un nexo con el clero.",
+          "D) generaba en ciertos casos una agonía mayor en el ejecutado.",
+          "E) se aplicaba a los aristócratas para aproximarse a la virtud."
+        ],
+        "correct": 3,
+        "rationale": "Solución : La creación de la guillotina se explica por la necesidad de contar con un medio más rápido y eficaz de matar al ejecutado. Los verdugos muchas veces cometían errores, de lo que se desprende que en ciertos casos el decapitado agonizaba tortuosamente."
+      },
+      {
+        "statement": "5. Si Guillotin hubiera sido soslayado de la invención del método de decapitación creado por Antoine Louis, es probable que",
+        "alternatives": [
+          "A) la palabra «guillotina» se habría estandarizado en países como Francia y España.",
+          "B) se habría reconocido a la Academia de Cirugía como la creadora de la guillotina.",
+          "C) este habría pedido que su método de redención quede patentado solo en Francia.",
+          "D) la conversión del apellido de aquel en nombre común no se habría realizado.",
+          "E) la palabra louison habría quedado para siempre olvidada en los libros de historia."
+        ],
+        "correct": 3,
+        "rationale": "Solución : La asociación de Guillotin con el invento de Antoine Louis devino en el uso extendido del vocablo «guillotina»; de no haberse establecido la conexión, el objeto de decapitación no se conocería nominalmente como tal."
+      }
+    ]
+  },
+  {
+    "type": "reading_comprehension",
+    "statement": "Al inicio de la historia de Egipto, las esfinges representaron la fuerza y la sabiduría del rey. Entre todas ellas destaca la Gran Esfinge de Gizeh , erigida en tiempos de la dinastía IV, en la meseta del mismo nombre y en la época más gloriosa del Imperio Antiguo. Cuerpo de león y cabeza humana. Este extraño ser híbrido, al que conocemos con el término de esfinge,\n\nSimbolizaban la idea de fuerza y poder, y generalmente se representaba al faraón bajo esta forma. Así lo indica el hecho de que las esfinges portaran el pañuelo real nemes, el ureo (representación de la diosa cobra Uadyet) y a menudo la barba postiza ritual, signos característicos de los soberanos egipcios.\nEn Egipto, desde tiempos predinásticos y posiblemente antes, la figura del león se relacionó con los jefes tribales y más tarde a los faraones. El rey era el guardián y protector de su pueblo, al que conducía victorioso al combate contra sus enemigos. Es por ello natural que, en el pensamiento de aquellos pueblos primitivos, la figura de este vigoroso y bello animal fuera asimilada al monarca. Por sus características, los egipcios imaginaron el león como un poderoso guardián, y por ello se lo representaba en amuletos, muebles y también en las puertas de los templos, en relieve o esculpido. Asimismo, algunos relieves del Imperio Nuevo muestran un león domesticado que acompaña al monarca en las batallas o en ceremonias religiosas. Es muy probable, pues, que la imagen de la esfinge surgiera en la mente de los egipcios como una manera de fundir la belleza y la ferocidad del león con la sabiduría del rey.\n\nNational Geographic. España (s.f.) “La gran Esfinge de Gizeh” . Recuperado el 28 de marzo de 2015, de National Geographic . España:\nhttp://www.nationalgeographic.com.es/articulo/historia/secciones/7796/gran_esfinge_gizeh.html",
+    "questions": [
+      {
+        "statement": "1. La idea principal del texto es",
+        "alternatives": [
+          "A) los antiguos egipcios denominaban Shesep -ankh , «imagen viviente», a las esfinges y también a las estatuas reales.",
+          "B) desde tiempos prístinos la esfinge fue asociada con los jefes tribales por su poder y su determinación en la cultura egipcia.",
+          "C) se conjetura que la imagen de la esfinge sugiere en la mente de los egipcios una manera de representar la belleza y la sabiduría.",
+          "D) los egipcios imaginaron al león como un poderoso guardián que debían representar en sus amuletos, muebles y puertas.",
+          "E) en la meseta de Gizeh se esculpió un increíble monumento durante la dinastía IV: la Gran Esfinge, que simbolizaba fuerza y poder."
+        ],
+        "correct": 4,
+        "rationale": "Solución : El tema central del texto es la Gran Esfinge de Gizeh; por consiguiente, es esencial indicar que esta se esculpió en la meseta del mismo nombre durante la dinastía IV y simbolizaba fuerza y poder."
+      },
+      {
+        "statement": "2. En el texto, el vocablo ASIMILADA se puede reemplazar por",
+        "alternatives": [
+          "A) sopesada.",
+          "B) detectada.",
+          "C) asociada.",
+          "D) comprendida.",
+          "E) examinada."
+        ],
+        "correct": 2,
+        "rationale": "Solución : El vocablo en cuestión se usa para hacer referencia a la relación o asociación entre el rey y el león."
+      },
+      {
+        "statement": "3. Resulta compatible con el desarrollo textual afirmar que la parafernalia real",
+        "alternatives": [
+          "A) carecía de prescripción para ser configurada en los jeroglíficos.",
+          "B) excluía a las mujeres de su uso por la capacidad de los faraones.",
+          "C) era representada simbólicamente en los monumentos egipcios.",
+          "D) solo constaba de tocados que eran utilizados en ceremonias.",
+          "E) constaba de trajes de león que el faraón usaba en las guerras."
+        ],
+        "correct": 2,
+        "rationale": "Solución : La única aseveración que es consistente con el texto afirma que, en efecto, la parafernalia real era configurada en monumentos; las esfinges son muestra de ello."
+      },
+      {
+        "statement": "4. Si las esfinges hubieran carecido de adornos distintivos de los soberanos egipcios, probablemente,",
+        "alternatives": [
+          "A) las jeroglíficos habrían simbolizado a los leones con figura de faraón.",
+          "B) el periodo dinástico habría alcanzado su máximo apogeo mucho antes.",
+          "C) los faraones las habrían utilizado como construcción de tipo mortuorio.",
+          "D) habrían ostentado una connotación simbólica disociada de la realeza.",
+          "E) los leones habrían dejado de ser animales silvestres domesticados."
+        ],
+        "correct": 3,
+        "rationale": "Solución : Los atuendos reales permiten conjeturar el engarce simbólico entre el león y el soberano, incluso desde tiempos prístinos. De no haber atuendos reales en la figura de la esfinge, probablemente la connotación simbólica diverja de la realeza."
+      },
+      {
+        "statement": "5. Si las esfinges hubieran carecido de adornos distintivos de los soberanos egipcios, probablesmente,",
+        "alternatives": [
+          "A) los jeroglíficos habrían simbolizado a los leones con figura de faraón.",
+          "B) el periodo dinástico habría alcanzado su máximo apogeo mucho antes.",
+          "C) los faraones las habrían utilizado como construcción de tipo mortuorio.",
+          "D) habrían ostentado una connotación simbólica disociada de la realeza.",
+          "E) los leones habrían dejado de ser animales silvestres domesticados."
+        ],
+        "correct": 3,
+        "rationale": "Solución : Los atuendos reales permiten conjeturar el engarce simbólico entre el león y el soberano, incluso desde tiempos prístinos. De no haber atuendos reales en la figura de la esfinge, probablemente la connotación simbólica diverja de la realeza."
+      }
+    ]
+  },
+  {
+    "type": "reading_comprehension",
+    "statement": "Durante el siglo XVIII, con el triunfo de la Ilustración, muchos juristas y hombres de letras denunciaron el recurso a la tortura, las penas desproporcionadas y los privilegios de la aristocracia; algunos llegaron a pedir la abolición de la pena de muerte. Se puede destacar en este sentido el Tratado sobre la tolerancia de Voltaire (1763) y De los delitos y las penas ,de Cesare Beccaria (1764). Todos ellos inspiraron la obra de la Revolución francesa de 1789. Una de las primeras tareas que emprendió la Asamblea Nacional Constituyente fue la elaboración de un código penal acorde con los principios del derecho natural, y fue en ese contexto en el que se planteó el debate sobre la pena de muerte.\nEl 10 octubre de 1789, un médico de 50 años llamado Joseph Ignace Guillotin presentó una propuesta para establecer la igualdad ante la ley también en los asuntos de derecho penal: «Los delitos del mismo género se castigarán con el mismo género de pena, sean cuales sean el rango o condición del culpable», afirmaba. Este principio, que ahora parece natural, era revolucionario en Francia y tardó años en ser aprobado en el resto de países.\nGuillotin no ponía en cuestión la pena capital. Su propuesta consistía en igualar las penas y a la vez humanizar su aplicación. Para ello, propuso extender el método de la decapitación, hasta entonces privilegio de la aristocracia, a los reos de todas las clases sociales. Al mismo tiempo, a fin de evitar los inconvenientes y errores que a menudo cometían los verdugos en el uso del hacha o de la espada, proponía emplear un aparato «cuyo mecanismo cortaría la cabeza en un abrir y cerrar de ojos ». La referencia de Guillotin a este «mecanismo» de decapitación dio enseguida mucho que hablar, pero es errónea la creencia común de que él fue el inventor de lo que conocemos como guillotina. Desde al menos el siglo XVI se utilizaban artilugios parecidos en diversos países de Europa, si bien no parece que fueran muy habituales, y en todo caso estaban reservados a los reos de clase alta. Guillotin pensaba seguramente en la posibilidad de perfeccionar uno de ellos, tarea que finalmente recaería en otro personaje: en marzo de 1792, la Asamblea Legislativa, en cumplimiento del nuevo código penal, encargó al médico cirujano Antoine Louis, secretario perpetuo de la Academia de Cirugía, la elaboración definitiva del nuevo aparato para realizar las ejecuciones.\nLa aportación principal de Louis fue el modelo de hoja con filo oblicuo, «para que corte limpiamente y alcance su objetivo», según afirmó él mismo. Sin embargo, tanto Louis como Guillotin terminaron lamentando que su nombre quedara asociado a la nueva invención, que pronto fue conocida como louison o louisette y, más comúnmente, guillotina.",
+    "questions": [
+      {
+        "statement": "1. Centralmente, el autor aborda la",
+        "alternatives": [
+          "A) guillotina como sucedáneo de las torturas.",
+          "B) Ilustración y la creación de la pena de muerte.",
+          "C) historia acerca de la invención de la guillotina.",
+          "D) reforma penal de Joseph Ignace Guillotin.",
+          "E) imprecisión en el empleo de «guillotina»."
+        ],
+        "correct": 4,
+        "rationale": "Solución : El texto aborda los aspectos históricos de la invención de la guillotina."
+      },
+      {
+        "statement": "2. En el vocablo que se usa para referirse a la acción de decapitar de manera veloz, ¿cuál es la opción correcta?",
+        "alternatives": [
+          "A) denuedo.",
+          "B) apremio.",
+          "C) urgencia.",
+          "D) defección.",
+          "E) celeridad."
+        ],
+        "correct": 4,
+        "rationale": "Solución : El vocablo es usado para referirse a la acción de decapitar de manera veloz; pues los verdugos cometían errores, de lo que se desprende que en ciertos casos el decapitado agonizaba tortuosamente."
+      },
+      {
+        "statement": "3. Resulta incompatible con el desarrollo textual afirmar que la aplicación de la pena capital en Francia",
+        "alternatives": [
+          "A) excluía a los estratos socioeconómicos bajos en casos de decapitación.",
+          "B) generó el rechazo por parte de quienes abogaban por su proscripción.",
+          "C) fue aplicada según los principios de igualdad durante todo el siglo XVIII.",
+          "D) fue debatida en la segunda mitad del siglo XVIII, entre otros, por Guillotin.",
+          "E) debía ser sin distingo de clase según la propuesta de Joseph I. Guillotin."
+        ],
+        "correct": 2,
+        "rationale": "Solución : La pena de muerte era aplicada de forma desigual, pues la decapitación era privilegio de la aristocracia. Es incompatible, por lo tanto, afirmar que era aplicada equitativamente."
+      },
+      {
+        "statement": "4. Es posible deducir del desarrollo textual que la decapitación sin guillotina",
+        "alternatives": [
+          "A) era utilizada exclusivamente en la Francia revolucionaria.",
+          "B) fue una idea presentada por el sanguinario Joseph Guillotin.",
+          "C) era aplicada por verdugos que mantenían un nexo con el clero.",
+          "D) generaba en ciertos casos una agonía mayor en el ejecutado.",
+          "E) se aplicaba a los aristócratas para aproximarse a la virtud."
+        ],
+        "correct": 3,
+        "rationale": "Solución : La creación de la guillotina se explica por la necesidad de contar con un medio más rápido y eficaz de matar al ejecutado. Los verdugos muchas veces cometían errores, de lo que se desprende que en ciertos casos el decapitado agonizaba tortuosamente."
+      },
+      {
+        "statement": "5. Si Guillotin hubiera sido soslayado de la invención del método de decapitación creado por Antoine Louis, es probable que",
+        "alternatives": [
+          "A) la palabra «guillotina» se habría estandarizado en países como Francia y España.",
+          "B) se habría reconocido a la Academia de Cirugía como la creadora de la guillotina.",
+          "C) este habría pedido que su método de redención quede patentado solo en Francia.",
+          "D) la conversión del apellido de aquel en nombre común no se habría realizado.",
+          "E) la palabra louison habría quedado para siempre olvidada en los libros de historia."
+        ],
+        "correct": 3,
+        "rationale": "Solución : La asociación de Guillotin con el invento de Antoine Louis devino en el uso extendido del vocablo «guillotina»; de no haberse establecido la conexión, el objeto de decapitación no se conocería nominalmente como tal."
+      }
+    ]
+  },
+  {
+    "type": "reading_comprehension",
+    "statement": "Al inicio de la historia de Egipto, las esfinges representaron la fuerza y la sabiduría del rey. Entre todas ellas destaca la Gran Esfinge de Gizeh , erigida en tiempos de la dinastía IV, en la meseta del mismo nombre y en la época más gloriosa del Imperio Antiguo. Cuerpo de león y cabeza humana. Este extraño ser híbrido, al que conocemos con el término de esfinge,\n\nSimbolizaban la idea de fuerza y poder, y generalmente se representaba al faraón bajo esta forma. Así lo indica el hecho de que las esfinges portaran el pañuelo real nemes, el ureo (representación de la diosa cobra Uadyet) y a menudo la barba postiza ritual, signos característicos de los soberanos egipcios.\nEn Egipto, desde tiempos predinásticos y posiblemente antes, la figura del león se relacionó con los jefes tribales y más tarde a los faraones. El rey era el guardián y protector de su pueblo, al que conducía victorioso al combate contra sus enemigos. Es por ello natural que, en el pensamiento de aquellos pueblos primitivos, la figura de este vigoroso y bello animal fuera asimilada al monarca. Por sus características, los egipcios imaginaron el león como un poderoso guardián, y por ello se lo representaba en amuletos, muebles y también en las puertas de los templos, en relieve o esculpido. Asimismo, algunos relieves del Imperio Nuevo muestran un león domesticado que acompaña al monarca en las batallas o en ceremonias religiosas. Es muy probable, pues, que la imagen de la esfinge surgiera en la mente de los egipcios como una manera de fundir la belleza y la ferocidad del león con la sabiduría del rey.\n\nNational Geographic. España (s.f.) “La gran Esfinge de Gizeh” . Recuperado el 28 de marzo de 2015, de National Geographic . España:\nhttp://www.nationalgeographic.com.es/articulo/historia/secciones/7796/gran_esfinge_gizeh.html",
+    "questions": [
+      {
+        "statement": "1. La idea principal del texto es",
+        "alternatives": [
+          "A) los antiguos egipcios denominaban Shesep -ankh , «imagen viviente», a las esfinges y también a las estatuas reales.",
+          "B) desde tiempos prístinos la esfinge fue asociada con los jefes tribales por su poder y su determinación en la cultura egipcia.",
+          "C) se conjetura que la imagen de la esfinge sugiere en la mente de los egipcios una manera de representar la belleza y la sabiduría.",
+          "D) los egipcios imaginaron al león como un poderoso guardián que debían representar en sus amuletos, muebles y puertas.",
+          "E) en la meseta de Gizeh se esculpió un increíble monumento durante la dinastía IV: la Gran Esfinge, que simbolizaba fuerza y poder."
+        ],
+        "correct": 4,
+        "rationale": "Solución : El tema central del texto es la Gran Esfinge de Gizeh; por consiguiente, es esencial indicar que esta se esculpió en la meseta del mismo nombre durante la dinastía IV y simbolizaba fuerza y poder."
+      },
+      {
+        "statement": "2. En el texto, el vocablo ASIMILADA se puede reemplazar por",
+        "alternatives": [
+          "A) sopesada.",
+          "B) detectada.",
+          "C) asociada.",
+          "D) comprendida.",
+          "E) examinada."
+        ],
+        "correct": 2,
+        "rationale": "Solución : El vocablo en cuestión se usa para hacer referencia a la relación o asociación entre el rey y el león."
+      },
+      {
+        "statement": "3. Resulta compatible con el desarrollo textual afirmar que la parafernalia real",
+        "alternatives": [
+          "A) carecía de prescripción para ser configurada en los jeroglíficos.",
+          "B) excluía a las mujeres de su uso por la capacidad de los faraones.",
+          "C) era representada simbólicamente en los monumentos egipcios.",
+          "D) solo constaba de tocados que eran utilizados en ceremonias.",
+          "E) constaba de trajes de león que el faraón usaba en las guerras."
+        ],
+        "correct": 2,
+        "rationale": "Solución : La única aseveración que es consistente con el texto afirma que, en efecto, la parafernalia real era configurada en monumentos; las esfinges son muestra de ello."
+      },
+      {
+        "statement": "4. Si las esfinges hubieran carecido de adornos distintivos de los soberanos egipcios, probablemente,",
+        "alternatives": [
+          "A) las jeroglíficos habrían simbolizado a los leones con figura de faraón.",
+          "B) el periodo dinástico habría alcanzado su máximo apogeo mucho antes.",
+          "C) los faraones las habrían utilizado como construcción de tipo mortuorio.",
+          "D) habrían ostentado una connotación simbólica disociada de la realeza.",
+          "E) los leones habrían dejado de ser animales silvestres domesticados."
+        ],
+        "correct": 3,
+        "rationale": "Solución : Los atuendos reales permiten conjeturar el engarce simbólico entre el león y el soberano, incluso desde tiempos prístinos. De no haber atuendos reales en la figura de la esfinge, probablemente la connotación simbólica diverja de la realeza."
+      },
+      {
+        "statement": "5. Si las esfinges hubieran carecido de adornos distintivos de los soberanos egipcios, probablesmente,",
+        "alternatives": [
+          "A) los jeroglíficos habrían simbolizado a los leones con figura de faraón.",
+          "B) el periodo dinástico habría alcanzado su máximo apogeo mucho antes.",
+          "C) los faraones las habrían utilizado como construcción de tipo mortuorio.",
+          "D) habrían ostentado una connotación simbólica disociada de la realeza.",
+          "E) los leones habrían dejado de ser animales silvestres domesticados."
+        ],
+        "correct": 3,
+        "rationale": "Solución : Los atuendos reales permiten conjeturar el engarce simbólico entre el león y el soberano, incluso desde tiempos predynásticos. De no haber atuendos reales en la figura de la esfinge, probablemente la connotación simbólica diverja de la realeza."
+      }
+    ]
+  },
+  {
+    "type": "reading_comprehension",
+    "statement": "Durante el siglo XVIII, con el triunfo de la Ilustración, muchos juristas y hombres de letras denunciaron el recurso a la tortura, las penas desproporcionadas y los privilegios de la aristocracia; algunos llegaron a pedir la abolición de la pena de muerte. Se puede destacar en este sentido el Tratado sobre la tolerancia de Voltaire (1763) y De los delitos y las penas ,de Cesare Beccaria (1764). Todos ellos inspiraron la obra de la Revolución francesa de 1789. Una de las primeras tareas que emprendió la Asamblea Nacional Constituyente fue la elaboración de un código penal acorde con los principios del derecho natural, y fue en ese contexto en el que se planteó el debate sobre la pena de muerte.\nEl 10 octubre de 1789, un médico de 50 años llamado Joseph Ignace Guillotin presentó una propuesta para establecer la igualdad ante la ley también en los asuntos de derecho penal: «Los delitos del mismo género se castigarán con el mismo género de pena, sean cuales sean el rango o condición del culpable», afirmaba. Este principio, que ahora parece natural, era revolucionario en Francia y tardó años en ser aprobado en el resto de países.\nGuillotin no ponía en cuestión la pena capital. Su propuesta consistía en igualar las penas y a la vez humanizar su aplicación. Para ello, propuso extender el método de la decapitación, hasta entonces privilegio de la aristocracia, a los reos de todas las clases sociales. Al mismo tiempo, a fin de evitar los inconvenientes y errores que a menudo cometían los verdugos en el uso del hacha o de la espada, proponía emplear un aparato «cuyo mecanismo cortaría la cabeza en un abrir y cerrar de ojos ». La referencia de Guillotin a este «mecanismo» de decapitación dio enseguida mucho que hablar, pero es errónea la creencia común de que él fue el inventor de lo que conocemos como guillotina. Desde al menos el siglo XVI se utilizaban artilugios parecidos en diversos países de Europa, si bien no parece que fueran muy habituales, y en todo caso estaban reservados a los reos de clase alta. Guillotin pensaba seguramente en la posibilidad de perfeccionar uno de ellos, tarea que finalmente recaería en otro personaje: en marzo de 1792, la Asamblea Legislativa, en cumplimiento del nuevo código penal, encargó al médico cirujano Antoine Louis, secretario perpetuo de la Academia de Cirugía, la elaboración definitiva del nuevo aparato para realizar las ejecuciones.\nLa aportación principal de Louis fue el modelo de hoja con filo oblicuo, «para que corte limpiamente y alcance su objetivo», según afirmó él mismo. Sin embargo, tanto Louis como Guillotin terminaron lamentando que su nombre quedara asociado a la nueva invención, que pronto fue conocida como louison o louisette y, más comúnmente, guillotina.",
+    "questions": [
+      {
+        "statement": "1. Centralmente, el autor aborda la",
+        "alternatives": [
+          "A) guillotina como sucedáneo de las torturas.",
+          "B) Ilustración y la creación de la pena de muerte.",
+          "C) historia acerca de la invención de la guillotina.",
+          "D) reforma penal de Joseph Ignace Guillotin.",
+          "E) imprecisión en el empleo de «guillotina»."
+        ],
+        "correct": 4,
+        "rationale": "Solución : El texto aborda los aspectos históricos de la invención de la guillotina."
+      },
+      {
+        "statement": "2. En el vocablo que se usa para referirse a la acción de decapitar de manera veloz, ¿cuál es la opción correcta?",
+        "alternatives": [
+          "A) denuedo.",
+          "B) apremio.",
+          "C) urgencia.",
+          "D) defección.",
+          "E) celeridad."
+        ],
+        "correct": 4,
+        "rationale": "Solución : El vocablo es usado para referirse a la acción de decapitar de manera veloz; pues los verdugos cometían errores, de lo que se desprende que en ciertos casos el decapitado agonizaba tortuosamente."
+      },
+      {
+        "statement": "3. Resulta incompatible con el desarrollo textual afirmar que la aplicación de la pena capital en Francia",
+        "alternatives": [
+          "A) excluía a los estratos socioeconómicos bajos en casos de decapitación.",
+          "B) generó el rechazo por parte de quienes abogaban por su proscripción.",
+          "C) fue aplicada según los principios de igualdad durante todo el siglo XVIII.",
+          "D) fue debatida en la segunda mitad del siglo XVIII, entre otros, por Guillotin.",
+          "E) debía ser sin distingo de clase según la propuesta de Joseph I. Guillotin."
+        ],
+        "correct": 2,
+        "rationale": "Solución : La pena de muerte era aplicada de forma desigual, pues la decapitación era privilegio de la aristocracia. Es incompatible, por lo tanto, afirmar que era aplicada equitativamente."
+      },
+      {
+        "statement": "4. Es posible deducir del desarrollo textual que la decapitación sin guillotina",
+        "alternatives": [
+          "A) era utilizada exclusivamente en la Francia revolucionaria.",
+          "B) fue una idea presentada por el sanguinario Joseph Guillotin.",
+          "C) era aplicada por verdugos que mantenían un nexo con el clero.",
+          "D) generaba en ciertos casos una agonía mayor en el ejecutado.",
+          "E) se aplicaba a los aristócratas para aproximarse a la virtud."
+        ],
+        "correct": 3,
+        "rationale": "Solución : La creación de la guillotina se explica por la necesidad de contar con un medio más rápido y eficaz de matar al ejecutado. Los verdugos muchas veces cometían errores, de lo que se desprende que en ciertos casos el decapitado agonizaba tortuosamente."
+      },
+      {
+        "statement": "5. Si Guillotin hubiera sido soslayado de la invención del método de decapitación creado por Antoine Louis, es probable que",
+        "alternatives": [
+          "A) la palabra «guillotina» se habría estandarizado en países como Francia y España.",
+          "B) se habría reconocido a la Academia de Cirugía como la creadora de la guillotina.",
+          "C) este habría pedido que su método de redención quede patentado solo en Francia.",
+          "D) la conversión del apellido de aquel en nombre común no se habría realizado.",
+          "E) la palabra louison habría quedado para siempre olvidada en los libros de historia."
+        ],
+        "correct": 3,
+        "rationale": "Solución : La asociación de Guillotin con el invento de Antoine Louis devino en el uso extendido del vocablo «guillotina»; de no haberse establecido la conexión, el objeto de decapitación no se conocería nominalmente como tal."
+      }
+    ]
+  },
+  {
+    "type": "reading_comprehension",
+    "statement": "Al inicio de la historia de Egipto, las esfinges representaron la fuerza y la sabiduría del rey. Entre todas ellas destaca la Gran Esfinge de Gizeh , erigida en tiempos de la dinastía IV, en la meseta del mismo nombre y en la época más gloriosa del Imperio Antiguo. Cuerpo de león y cabeza humana. Este extraño ser híbrido, al que conocemos con el término de esfinge,\n\nSimbolizaban la idea de fuerza y poder, y generalmente se representaba al faraón bajo esta forma. Así lo indica el hecho de que las esfinges portaran el pañuelo real nemes, el ureo (representación de la diosa cobra Uadyet) y a menudo la barba postiza ritual, signos característicos de los soberanos egipcios.\nEn Egipto, desde tiempos predinásticos y posiblemente antes, la figura del león se relacionó con los jefes tribales y más tarde a los faraones. El rey era el guardián y protector de su pueblo, al que conducía victorioso al combate contra sus enemigos. Es por ello natural que, en el pensamiento de aquellos pueblos primitivos, la figura de este vigoroso y bello animal fuera asimilada al monarca. Por sus características, los egipcios imaginaron el león como un poderoso guardián, y por ello se lo representaba en amuletos, muebles y también en las puertas de los templos, en relieve o esculpido. Asimismo, algunos relieves del Imperio Nuevo muestran un león domesticado que acompaña al monarca en las batallas o en ceremonias religiosas. Es muy probable, pues, que la imagen de la esfinge surgiera en la mente de los egipcios como una manera de fundir la belleza y la ferocidad del león con la sabiduría del rey.\n\nNational Geographic. España (s.f.) “La gran Esfinge de Gizeh” . Recuperado el 28 de marzo de 2015, de National Geographic . España:\nhttp://www.nationalgeographic.com.es/articulo/historia/secciones/7796/gran_esfinge_gizeh.html",
+    "questions": [
+      {
+        "statement": "1. La idea principal del texto es",
+        "alternatives": [
+          "A) los antiguos egipcios denominaban Shesep -ankh , «imagen viviente», a las esfinges y también a las estatuas reales.",
+          "B) desde tiempos prístinos la esfinge fue asociada con los jefes tribales por su poder y su determinación en la cultura egipcia.",
+          "C) se conjetura que la imagen de la esfinge sugiere en la mente de los egipcios una manera de representar la belleza y la sabiduría.",
+          "D) los egipcios imaginaron al león como un poderoso guardián que debían representar en sus amuletos, muebles y puertas.",
+          "E) en la meseta de Gizeh se esculpió un increíble monumento durante la dinastía IV: la Gran Esfinge, que simbolizaba fuerza y poder."
+        ],
+        "correct": 4,
+        "rationale": "Solución : El tema central del texto es la Gran Esfinge de Gizeh; por consiguiente, es esencial indicar que esta se esculpió en la meseta del mismo nombre durante la dinastía IV y simbolizaba fuerza y poder."
+      },
+      {
+        "statement": "2. En el texto, el vocablo ASIMILADA se puede reemplazar por",
+        "alternatives": [
+          "A) sopesada.",
+          "B) detectada.",
+          "C) asociada.",
+          "D) comprendida.",
+          "E) examinada."
+        ],
+        "correct": 2,
+        "rationale": "Solución : El vocablo en cuestión se usa para hacer referencia a la relación o asociación entre el rey y el león."
+      },
+      {
+        "statement": "3. Resulta compatible con el desarrollo textual afirmar que la parafernalia real",
+        "alternatives": [
+          "A) carecía de prescripción para ser configurada en los jeroglíficos.",
+          "B) excluía a las mujeres de su uso por la capacidad de los faraones.",
+          "C) era representada simbólicamente en los monumentos egipcios.",
+          "D) solo constaba de tocados que eran utilizados en ceremonias.",
+          "E) constaba de trajes de león que el faraón usaba en las guerras."
+        ],
+        "correct": 2,
+        "rationale": "Solución : La única aseveración que es consistente con el texto afirma que, en efecto, la parafernalia real era configurada en monumentos; las esfinges son muestra de ello."
+      },
+      {
+        "statement": "4. Si las esfinges hubieran carecido de adornos distintivos de los soberanos egipcios, probablemente,",
+        "alternatives": [
+          "A) las jeroglíficos habrían simbolizado a los leones con figura de faraón.",
+          "B) el periodo dinástico habría alcanzado su máximo apogeo mucho antes.",
+          "C) los faraones las habrían utilizado como construcción de tipo mortuorio.",
+          "D) habrían ostentado una connotación simbólica disociada de la realeza.",
+          "E) los leones habrían dejado de ser animales silvestres domesticados."
+        ],
+        "correct": 3,
+        "rationale": "Solución : Los atuendos reales permiten conjeturar el engarce simbólico entre el león y el soberano, incluso desde tiempos predinásticos. De no haber atuendos reales en la figura de la esfinge, probablemente la connotación simbólica diverja de la realeza."
+      },
+      {
+        "statement": "5. Si las esfinges hubieran carecido de adornos distintivos de los soberanos egipcios, probablesmente,",
+        "alternatives": [
+          "A) los jeroglíficos habrían simbolizado a los leones con figura de faraón.",
+          "B) el periodo dinástico habría alcanzado su máximo apogeo mucho antes.",
+          "C) los faraones las habrían utilizado como construcción de tipo mortuorio.",
+          "D) habrían ostentado una connotación simbólica disociada de la realeza.",
+          "E) los leones habrían dejado de ser animales silvestres domesticados."
+        ],
+        "correct": 3,
+        "rationale": "Solución : Los atuendos reales permiten conjeturar el engarce simbólico entre el león y el soberano, incluso desde tiempos predinásticos. De no haber atuendos reales en la figura de la esfinge, probablemente la connotación simbólica diverja de la realeza."
+      }
+    ]
+  },
+  {
+    "type": "reading_comprehension",
+    "statement": "Durante el siglo XVIII, con el triunfo de la Ilustración, muchos juristas y hombres de letras denunciaron el recurso a la tortura, las penas desproporcionadas y los privilegios de la aristocracia; algunos llegaron a pedir la abolición de la pena de muerte. Se puede destacar en este sentido el Tratado sobre la tolerancia de Voltaire (1763) y De los delitos y las penas ,de Cesare Beccaria (1764). Todos ellos inspiraron la obra de la Revolución francesa de 1789. Una de las primeras tareas que emprendió la Asamblea Nacional Constituyente fue la elaboración de un código penal acorde con los principios del derecho natural, y fue en ese contexto en el que se planteó el debate sobre la pena de muerte.\nEl 10 octubre de 1789, un médico de 50 años llamado Joseph Ignace Guillotin presentó una propuesta para establecer la igualdad ante la ley también en los asuntos de derecho penal: «Los delitos del mismo género se castigarán con el mismo género de pena, sean cuales sean el rango o condición del culpable», afirmaba. Este principio, que ahora parece natural, era revolucionario en Francia y tardó años en ser aprobado en el resto de países.\nGuillotin no ponía en cuestión la pena capital. Su propuesta consistía en igualar las penas y a la vez humanizar su aplicación. Para ello, propuso extender el método de la decapitación, hasta entonces privilegio de la aristocracia, a los reos de todas las clases sociales. Al mismo tiempo, a fin de evitar los inconvenientes y errores que a menudo cometían los verdugos en el uso del hacha o de la espada, proponía emplear un aparato «cuyo mecanismo cortaría la cabeza en un abrir y cerrar de ojos ». La referencia de Guillotin a este «mecanismo» de decapitación dio enseguida mucho que hablar, pero es errónea la creencia común de que él fue el inventor de lo que conocemos como guillotina. Desde al menos el siglo XVI se utilizaban artilugios parecidos en diversos países de Europa, si bien no parece que fueran muy habituales, y en todo caso estaban reservados a los reos de clase alta. Guillotin pensaba seguramente en la posibilidad de perfeccionar uno de ellos, tarea que finalmente recaería en otro personaje: en marzo de 1792, la Asamblea Legislativa, en cumplimiento del nuevo código penal, encargó al médico cirujano Antoine Louis, secretario perpetuo de la Academia de Cirugía, la elaboración definitiva del nuevo aparato para realizar las ejecuciones.\nLa aportación principal de Louis fue el modelo de hoja con filo oblicuo, «para que corte limpiamente y alcance su objetivo», según afirmó él mismo. Sin embargo, tanto Louis como Guillotin terminaron lamentando que su nombre quedara asociado a la nueva invención, que pronto fue conocida como louison o louisette y, más comúnmente, guillotina.",
+    "questions": [
+      {
+        "statement": "1. Centralmente, el autor aborda la",
+        "alternatives": [
+          "A) guillotina como sucedáneo de las torturas.",
+          "B) Ilustración y la creación de la pena de muerte.",
+          "C) historia acerca de la invención de la guillotina.",
+          "D) reforma penal de Joseph Ignace Guillotin.",
+          "E) imprecisión en el empleo de «guillotina»."
+        ],
+        "correct": 4,
+        "rationale": "Solución : El texto aborda los aspectos históricos de la invención de la guillotina."
+      },
+      {
+        "statement": "2. En el vocablo de referencia para la acción de cortar la cabeza de manera veloz, ¿cuál es la opción correcta?",
+        "alternatives": [
+          "A) denuedo.",
+          "B) apremio.",
+          "C) urgencia.",
+          "D) defección.",
+          "E) celeridad."
+        ],
+        "correct": 4,
+        "rationale": "Solución : El vocablo es usado para referirse a la acción de decapitar de manera veloz."
+      },
+      {
+        "statement": "3. Resulta incompatible con el desarrollo textual afirmar que la aplicación de la pena capital en Francia",
+        "alternatives": [
+          "A) excluía a los estratos socioeconómicos bajos en casos de decapitación.",
+          "B) generó el rechazo por parte de quienes abogaban por su proscripción.",
+          "C) fue aplicada según los principios de igualdad durante todo el siglo XVIII.",
+          "D) fue debatida en la segunda mitad del siglo XVIII, entre otros, por Guillotin.",
+          "E) debía ser sin distingo de clase según la propuesta de Joseph I. Guillotin."
+        ],
+        "correct": 2,
+        "rationale": "Solución : La pena de muerte era aplicada de forma desigual, pues la decapitación era privilegio de la aristocracia. Es incompatible, por lo tanto, afirmar que era aplicada equitativamente."
+      },
+      {
+        "statement": "4. Es posible deducir del desarrollo textual que la decapitación sin guillotina",
+        "alternatives": [
+          "A) era utilizada exclusivamente en la Francia revolucionaria.",
+          "B) fue una idea presentada por el sanguinario Joseph Guillotin.",
+          "C) era aplicada por verdugos que mantenían un nexo con el clero.",
+          "D) generaba en ciertos casos una agonía mayor en el ejecutado.",
+          "E) se aplicaba a los aristócratas para aproximarse a la virtud."
+        ],
+        "correct": 3,
+        "rationale": "Solución : La creación de la guillotina se explica por la necesidad de contar con un medio más rápido y eficaz de matar al ejecutado. Los verdugos muchas veces cometían errores."
+      },
+      {
+        "statement": "5. Si Guillotin hubiera sido soslayado de la invención del método de decapitación creado por Antoine Louis, es probable que",
+        "alternatives": [
+          "A) la palabra «guillotina» se habría estandarizado en países como Francia y España.",
+          "B) se habría reconocido a la Academia de Cirugía como la creadora de la guillotina.",
+          "C) este habría pedido que su método de redención quede patentado solo en Francia.",
+          "D) la conversión del apellido de aquel en nombre común no se habría realizado.",
+          "E) la palabra louison habría quedado para siempre olvidada en los libros de historia."
+        ],
+        "correct": 3,
+        "rationale": "Solución : La asociación de Guillotin con el invento de Antoine Louis devino en el uso extendido del vocablo «guillotina»; de no haberse establecido la conexión, el objeto de decapitación no se conocería nominalmente como tal."
+      }
+    ]
+  }
+]

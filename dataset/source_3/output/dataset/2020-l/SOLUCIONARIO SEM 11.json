@@ -1,0 +1,261 @@
+[
+  {
+    "type": "reading_comprehension",
+    "statement": "Los niños y las lenguas son codependientes. Si se invierte la forma en que pensamos sobre el problema y hacemos del niño el amo y del lenguaje el esclavo, surge el rompecabezas siguiente: ¿cómo llegó hasta nosotros la lengua materna con todos sus verbos excepcionales, a los que la primera generación de niños que se enfrentó con su aprendizaje debería haber puesto en su sitio?\n\nHay dos formas para salir de esta paradoja, pero ninguna de ellas satisface. Una de las propuestas es que es posible que los niños cometan errores, pero sus padres los corrigen, con lo cual los aleccionan para que no usen nunca más ese verbo ofensivo en esa construcción. Esto es improbable. Pese a la generalizada opinión de los psicólogos de que los padres son los responsables de todo lo que se desarrolla en sus hijos, se han observado pocos intentos repetidos de demostrar que los padres corrigen las frases incorrectas de sus hijos, o incluso que reaccionan de distinta forma ante ellas. A los padres les interesa mucho más el significado del habla de sus hijos que su forma, y cuando realmente intentan corregirlos, los niños prestan poca atención. El siguiente es un intercambio típico:\n\nNIÑO: He cerrado la lluvia.\nPADRE: Querrás decir que has cerrado el aspersor.\nNIÑO: He cerrado la lluvia del aspersor.\n\nE incluso cuando, en alguna que otra ocasión, se muestran sorprendidos ante el uso extraño de la lengua de los niños, y éstos prestan atención, el efecto no bastaría para resolver el problema. Muchos de los verbos llamativos son raros, pero las personas tienen una gran intuición sobre lo que pueden o no pueden hacer.\n\nLa segunda opción es que los niños no acuñen estas reglas en absoluto. Tal vez realmente guarden en la memoria aquellas combinaciones de verbos y construcciones que han oído en el habla de sus mayores, y solo se ajusten a esas combinaciones. Con esta teoría, ocurriría lo que le ocurre a Marvin en la tira cómica del mismo nombre:\n\nBueno, pues eso solucionaría el problema, sin duda. Los niños nunca se sentirían tentados a decir Pour the cup with juice (vierte la copa con zumo) ni Cover an afghan onto the bed (Cubre una manta de punto sobre la cama) porque nunca habrían oído a nadie que dijera cosas como estas.\n\nAlgunos lingüistas se han tomado en serio esta teoría, pero no parece que sea correcta. Por una parte, sería raro que los niños fueran tan conservadores, puesto que tienen un lenguaje infinito que dominar y solo una muestra finita de habla en la que basarse. Por otro lado, parece que las lenguas se expanden rápidamente para acomodar nuevos verbos en construcciones nuevas, lo cual indica que, cuando alcanzan la madurez, los hablantes no son conservadores ni memorizadores de verbos.\n\nPinker, S. (2007). El mundo de las palabras. Una introducción a la naturaleza humana. Barcelona: Paidos.",
+    "questions": [
+      {
+        "statement": "¿Cuál es el tema central del texto?",
+        "alternatives": [
+          "A) Hipótesis acerca del desarrollo lingüístico de la especie humana",
+          "B) Perspectivas de análisis de la comisión de errores gramaticales",
+          "C) Soluciones respecto del conocimiento de los sistemas lingüísticos",
+          "D) Dos propuestas sobre la adquisición del conocimiento lingüístico"
+        ],
+        "correct": 3,
+        "rationale": "Se reflexiona acerca de dos propuestas sobre el desarrollo lingüístico: la corrección de errores, y la imitación y el almacenaje de emisiones lingüísticas."
+      },
+      {
+        "statement": "Tanto la palabra AMO como ESCLAVO implican",
+        "alternatives": [
+          "A) dependencia inopinada.",
+          "C) dominancia extrema.",
+          "B) correlación jerárquica.",
+          "D) conexión irrelevante."
+        ],
+        "correct": 1,
+        "rationale": "Ambos vocablos están referidos a la relación existente entre el individuo y el lenguaje. Tal binomio puede vincularse en términos de la dominancia de uno de los elementos: el lenguaje respecto del niño y el niño respecto del lenguaje. Por ello, supone jerarquía."
+      },
+      {
+        "statement": "En el texto, el vocablo SOLUCIONAR presupone",
+        "alternatives": [
+          "A) conjetura razonable.",
+          "C) hipótesis taxativa.",
+          "B) arreglo necesario.",
+          "D) afirmación especial."
+        ],
+        "correct": 0,
+        "rationale": "Se refiere a una hipótesis que resulta admisible, aunque, por supuesto, sea problemática."
+      },
+      {
+        "statement": "Es incompatible con el desarrollo textual afirmar que la viñeta de Marvin refleja",
+        "alternatives": [
+          "A) el influjo de los padres en el conocimiento lingüístico de un niño.",
+          "B) la capacidad de almacenar oraciones que se oyen previamente.",
+          "C) el conocimiento de reglas lingüísticas desde antes del nacimiento.",
+          "D) la escasa probabilidad de cometer errores de carácter gramatical."
+        ],
+        "correct": 2,
+        "rationale": "Las reglas se derivan de la experiencia, no son anteriores a ella."
+      },
+      {
+        "statement": "Sobre la posición de Pinker acerca del desarrollo lingüístico, es incompatible afirmar que",
+        "alternatives": [
+          "A) este considera que el estímulo recibido por el niño es determinante del lenguaje.",
+          "B) esta se decanta por la refutación de la imitación como mecanismo sine qua non.",
+          "C) deslinda de la consideración de que el niño almacena oraciones que oyó antes.",
+          "D) asume que un hablante dista de ser conservador o memorizador de oraciones."
+        ],
+        "correct": 0,
+        "rationale": "Pinker se aleja de una propuesta conductista en la cual el estímulo define la capacidad lingüística."
+      }
+    ]
+  },
+  {
+    "type": "reading_comprehension",
+    "statement": "SECCIÓN B Frank et al. sostienen que «consideraciones de simplicidad y continuidad evolutiva nos fuerzan a considerar que la estructura secuencial es fundamental para el procesamiento del lenguaje humano» (2012, p. 4528). Si bien es cierto que la historia evolutiva se simplifica si lo único que pueden hacer todos los animales es procesar secuencialmente elementos ordenados, este punto de vista tiene un problema. Es incorrecto. Las representaciones jerárquicas son omnipresentes en la sintaxis del lenguaje humano.\n\nAunque Frank et al. hacen todo lo posible para argumentar que las representaciones no pueden ser jerárquicas —por ejemplo, dicen que los trozos de palabras no tienen «ninguna estructura jerárquica interna, sino solo elementos dispuestos secuencialmente» (2012, p. 6)—, no están en lo cierto, y tiene que ser jerárquica, porque de lo contrario el sistema no podría manejar adecuadamente casos como el siguiente: instintivamente los pájaros que vuelan nadan. Recordemos que en este ejemplo, instintivamente modifica a nadan, no a vuelan, porque nadan está solo un nivel jerárquico «más abajo», mientras que vuelan está dos niveles «más abajo». Como muestra la figura 4.1, en este caso instintivamente está realmente más cerca de nadan que de vuelan en términos de distancia estructural. Según parece, no es la distancia lineal la que manda en la sintaxis humana, solamente la distancia estructural. Esta propiedad se cumple en todas las construcciones relevantes de todas las lenguas, y se puede suponer que está enraizada en profundos principios de diseño óptimo, como ya hemos indicado anteriormente.\n\nBerwick, R. C. y Chomsky N. (2016). ¿Por qué solo nosotros? Lenguaje y evolución. Barcelona, Editorial Kairós. pp. 132-133.",
+    "questions": [
+      {
+        "statement": "1. Determine el tema central de la lectura.",
+        "alternatives": [
+          "A) Las similitudes entre el lenguaje secuencial y el jerarquizado",
+          "B) Los factores de la sintaxis jerarquizada en el lenguaje humano",
+          "C) La plausibilidad de la estructura sintáctica humana jerarquizada",
+          "D) El efecto cerebral de desarrollar sintaxis secuencial y jerarquías"
+        ],
+        "correct": 2,
+        "rationale": "El texto desarrolla con consistencia las razones por las que es posible sostener que el lenguaje humano se sustenta en jerarquías sintácticas, en contraposición con la propuesta de la linealidad de elementos."
+      },
+      {
+        "statement": "2. En la lectura, el vocablo PROBLEMA connota",
+        "alternatives": [
+          "A) pobreza.",
+          "C) dificultad.",
+          "B) confutación.",
+          "D) propensión."
+        ],
+        "correct": 2,
+        "rationale": "El vocablo se usa para hacer referencia a las deficiencias de una hipótesis, de manera que connote refutación."
+      },
+      {
+        "statement": "3. Sobre la oración Instinctively birds that fly swim, es incompatible afirmar que",
+        "alternatives": [
+          "A) se explica sólidamente mediante patrones secuenciales.",
+          "B) presenta un adverbio (Instinctively) que modifica a swim.",
+          "C) constituye evidencia patente en contra de la secuencialidad.",
+          "D) se explica por una relación jerárquizada de constituyentes."
+        ],
+        "correct": 0,
+        "rationale": "Para los autores, se trata de jerarquías, no de secuencias."
+      }
+    ]
+  },
+  {
+    "type": "reading_comprehension",
+    "statement": "Edward Teller, un notable físico nacido en Hungría, quedó marcado de joven por la revolución comunista de Béla Kun en Hungría, en la que se expropiaron las propiedades de familias de clase media como la suya, y por la pérdida de una pierna, que le producía un dolor permanente, en un accidente de circulación. Fue él quien acompañó al físico Leo Szilard a vera Albert Einstein cuando se encontraba de vacaciones en Long Island en julio de 1939, una reunión que llevó a la carta histórica de Einstein al presidente Franklin Roosevelt en la que le apremiaba, a la vista de los acontecimientos científicos y políticos de la Alemania nazi, a desarrollar una bomba de fisión o «atómica». Reclutado para trabajar en el «Proyecto Manhattan», Teller llegó a Los Álamos y poco después se negó a colaborar... no porque le desesperara lo que podría llegar a hacer una bomba atómica, sino por lo contrario: porque quería trabajar en un arma mucho más destructiva, la bomba de fusión, termonuclear o de hidrógeno, la cual carece de un límite superior práctico en su rendimiento o energía destructiva. Pero esta necesita una bomba atómica como detonante.\n\nUna vez inventada la bomba de fisión, después de la rendición de Alemania y Japón, terminada la guerra, Teller siguió defendiendo con ahínco lo que se llamó «la súper», con la intención específica de intimidar a la Unión Soviética. Encontró un importante obstáculo en la persona de Oppenheimer, que se había convertido en presidente del Comité Asesor General de la Comisión de Energía Atómica de la testimonio crítico en una audiencia del gobierno posguerra. Teller expresó un cuestionando la lealtad de Oppenheimer a Estados Unidos. Se suele creer que la participación de Teller jugó un importante papel en sus repercusiones: aunque el comité de revisión no impugnó exactamente la lealtad de Oppenheimer, por algún motivo se le negó la acreditación de seguridad y fue apartado de la Comisión de Energía Atómica. Teller pudo emprender el camino hacia la «súper», libre de óbices.\n\nla\n\nCuando\n\ninvestigación científica proporciona unos poderes\n\nformidables,\nciertamente temibles, a naciones y líderes políticos falibles, aparecen muchos peligros: uno es que algunos científicos implicados pueden perder la objetividad. Como siempre, el poder tiende a corromper. En estas circunstancias, la institución del secreto es especialmente perniciosa y los controles y equilibrios de una democracia adquieren un valor especial (Teller, que ha prosperado en la cultura del secreto, también la ha atacado repetidamente). El inspector general de la CIA comentaba en 1995 que «el secreto absoluto corrompe absolutamente». La única protección contra un mal uso peligroso de la tecnología suele ser el debate más abierto y vigoroso.\n\nSagan, C. (2000). El mundo y sus demonios. La ciencia como una luz en la oscuridad. Barcelona: Planeta.",
+    "questions": [
+      {
+        "statement": "¿Cuál es el mejor resumen del texto?",
+        "alternatives": [
+          "A) Teller nació en Hungría y sufrió los embates del régimen comunista, además de perder una pierna, lo cual definió su carácter perverso.",
+          "B) El poder tiende a corromper a hombres nobles como Edward Teller, quien vio en la física la ciencia para ayudar al mundo cuando joven.",
+          "C) Los científicos pueden perder la objetividad y enceguecerse por el poder: el caso del físico Edward Teller es una prueba patente de ello.",
+          "D) Edward Teller atacó de forma perseverante la cultura del secreto, aun cuando él mismo la puso en práctica en no pocas oportunidades."
+        ],
+        "correct": 2,
+        "rationale": "La idea principal está vinculada con la corrupción de los científicos, de manera que el caso de Edward Teller es paradigmático de este proceso de perversión de un hombre de ciencia."
+      },
+      {
+        "statement": "El término ÓBICE se entiende como",
+        "alternatives": [
+          "A) enigma.",
+          "B) escollo.",
+          "C) inquietud.",
+          "D) confusión."
+        ],
+        "correct": 1,
+        "rationale": "Un óbice es un escollo o un impedimento en contra de algo. En este caso, Oppenheimer se oponía al proyecto de Teller."
+      },
+      {
+        "statement": "Respecto de la avidez de Teller por crear una bomba de un poder destructivo mayor al de la bomba atómica, resulta incompatible sostener que",
+        "alternatives": [
+          "A) el físico, aun cuando tuvo en Oppenheimer un claro obstáculo, pudo de forma maniquea alcanzar el objetivo propuesto.",
+          "B) esta empresa evidenció una clara motivación intimidatoria que lo hizo inicialmente renunciar ante la imposibilidad de concretarla.",
+          "C) posiblemente los hechos aciagos que padeció de niño definieron el escenario posterior de su vida como hombre de ciencia.",
+          "D) esta se fundó en un legítimo deseo inventivo vinculado con los objetivos más idealistas de la práctica científica."
+        ],
+        "correct": 3,
+        "rationale": "Fueron intereses subjetivos los que motivaron a Teller a la invención de un arma de destrucción masiva excesivamente potente."
+      },
+      {
+        "statement": "A partir del caso de Teller, se colige que",
+        "alternatives": [
+          "A) los científicos no son inmunes a los efectos de la ideología.",
+          "B) la ciencia siempre carece de consecuencias de orden práctico.",
+          "C) los intereses solidarios están motivados por el comunismo.",
+          "D) el efecto de una niñez insana es la codicia y el afán de poder."
+        ],
+        "correct": 0,
+        "rationale": "Teller es el mejor ejemplo de cómo el poder corrompe a los científicos, y los podría hacer perder por completo la objetividad."
+      }
+    ]
+  },
+  {
+    "type": "sentence_elimination",
+    "statement": "A partir del caso de Teller, se colige que",
+    "alternatives": [
+      "A) los científicos no son inmunes a los efectos de la ideología.",
+      "B) la ciencia siempre carece de consecuencias de orden práctico.",
+      "C) los intereses solidarios están motivados por el comunismo.",
+      "D) el efecto de una niñez insana es la codicia y el afán de poder."
+    ],
+    "correct": 0,
+    "rationale": "Teller es el mejor ejemplo de cómo el poder corrompe a los científicos, y los podría hacer perder por completo la objetividad."
+  },
+  {
+    "type": "sentence_elimination",
+    "statement": "Si el régimen comunista en Hungría hubiese respetado las propiedades de la familia de Teller,",
+    "alternatives": [
+      "A) la actitud de Teller frente a los rusos no habría sido tan pugnaz.",
+      "B) la bomba de hidrógeno se usaría para mejorar la infraestructura.",
+      "C) habría trabajado en labores de contraespionaje en favor de Rusia.",
+      "D) algunos científicos reputados habrían considerado darle su apoyo."
+    ],
+    "correct": 0,
+    "rationale": "Uno de los sucesos que marcó su derrotero científico posterior, y el deseo de intimidar a Rusia con un arma monstruosa, fue la expropiación de bienes durante el régimen comunista."
+  },
+  {
+    "type": "sentence_elimination",
+    "statement": "4. Se infiere del texto 3B que las atenciones médicas mediante aplicativos",
+    "alternatives": [
+      "A) resultarían necesarias en países en los cuales las citas médicas son lentas, además de que tendrían consecuencias en la higiene.",
+      "B) determinarían la disminución de hospitales públicos y de la demanda médica en países con problemas de asistencia social.",
+      "C) posibilitaría el acceso a clínicas costosas y médicos reputados en tiempo real a aquellas personas en pobreza extrema.",
+      "D) aumentaría el cierre de las facultades de medicina y la deserción universitaria en lugares en los que los médicos no son útiles."
+    ],
+    "correct": 0,
+    "rationale": "En efecto, según el autor de 3B, estas prácticas son ágiles y permiten ahorrar dinero. En tal sentido, en aquellos países en los que la obtención de citas es lenta sería de mucha utilidad, además de no tener que ir a un entorno poco seguro."
+  },
+  {
+    "type": "sentence_elimination",
+    "statement": "5. Si las videollamadas permitieran realizar un diagnóstico complejo que posibilite la atención de pacientes en casos de aislamiento obligatorio por pandemias,",
+    "alternatives": [
+      "A) la práctica médica sería ejecutada por autómatas en centros especializados de diagnóstico.",
+      "B) los médicos serían reemplazados por smartphones de alta gama en países en vías de desarrollo.",
+      "C) aun así el autor de 3A consideraría que es el médico el agente más importante en una acción integral.",
+      "D) las enfermedades mortales se tratarían de manera más efectiva sin la necesidad de un médico."
+    ],
+    "correct": 2,
+    "rationale": "Para Huerta el médico se sirve de estos medios, de manera que sería irremplazable en última instancia."
+  },
+  {
+    "type": "reading_comprehension",
+    "statement": "Joker has divided critics, but there’s one thing they agree on: Mr. Phoenix (Arthur in Joker) is a great dancer. They’re right. It’s not just the way he moves— dreamily, animalistic, like a rock star. Or how, when he stretches his arms out side to side, he evokes the ghosts of Jim Morrison or Brandon Lee. It has more todo with the way his body can express emotion. Arthur, shirtless and in jeans that hang loosely around his hips, has little joy. But as he starts to move, gun in hand, his arms drift above his head. He seems more confident. He sways from side to side and holds a conversation with himself as if on a talk show. “Hey, what’s your name?” “Arthur.” “Hey, Arthur, you’re a really good dancer.” His arms float overhead to form something like a diamond crown. “I know.” “You know who’s not? Him.” He aims his gun and fires at the imaginary him. The bullet hits a wall and, in that moment, Arthur is both alarmed and exhilarated: Dance is his path to bravery, something he’s never known.",
+    "questions": [
+      {
+        "statement": "1. What is the passage about?",
+        "alternatives": [
+          "A) The importance of Arthur’s dance in Joker",
+          "B) The movie Joker and the reaction of critics",
+          "C) Arthur’s frenzied and dramatic movements",
+          "D) The bravery linked with rhythmic dance"
+        ],
+        "correct": 3,
+        "rationale": "The passage reveals that the dance makes Arthur feel brave."
+      },
+      {
+        "statement": "2. Based on the passage, what is the antonym of CONFIDENT?",
+        "alternatives": [
+          "A) positive",
+          "B) insecure",
+          "C) convinced",
+          "D) truthful"
+        ],
+        "correct": 1,
+        "rationale": "If someone is confident, he or she is not insecure."
+      },
+      {
+        "statement": "3. About the information from the passage we can infer that the expression “something he’s never known” reveals about Arthur",
+        "alternatives": [
+          "A) the desire he has about being interviewed on a talk show.",
+          "B) the lies he has to repeat to himself to feel better or strong.",
+          "C) Arthur likes to talk to himself because he gains firmness.",
+          "D) it is the act of dancing that makes him feel brave and secure."
+        ],
+        "correct": 3,
+        "rationale": "Dance is his path to bravery, says the passage."
+      },
+      {
+        "statement": "4. It is not compatible with the passage to affirm that",
+        "alternatives": [
+          "A) Arthur seems more confident when he can dance.",
+          "B) Arthur feels brave only because he has a gun in his hands.",
+          "C) Phoenix's body language is key to his good performance.",
+          "D) Morrison and Lee are other good examples of performers."
+        ],
+        "correct": 0,
+        "rationale": "Arthur seems more confident when he starts to move."
+      },
+      {
+        "statement": "5. If Arthur showed confidence just by holding a gun in his hand,",
+        "alternatives": [
+          "A) nobody would know how good a dancer he is.",
+          "B) his body would be incapable to show any emotion.",
+          "C) he would have kills himself without hesitation.",
+          "D) dance for him just would be a playful hobby."
+        ],
+        "correct": 0,
+        "rationale": "The passage shows that Arthur is more confident when he starts to move in a dance."
+      }
+    ]
+  }
+]

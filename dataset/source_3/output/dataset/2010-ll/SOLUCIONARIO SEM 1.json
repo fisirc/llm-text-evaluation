@@ -1,0 +1,436 @@
+[
+  {
+    "type": "sentence_elimination",
+    "statement": "I) Los rosales son arbustos floridos y espinosos que abundan en los jardines por su hermosura. II) Los rosales pueden ser colgantes y pueden llegar hasta 5 metros de alto. III) Las rosas pueden tener colores muy vistosos. IV) Los rosales que, sin ser cultivados, crecen en la naturaleza son llamados silvestres. V) Los rosales crecen desde la primavera hasta principios de invierno.",
+    "alternatives": [
+      "A)I",
+      "B) V",
+      "C) II",
+      "D) IV",
+      "E) III"
+    ],
+    "correct": 4,
+    "rationale": "Se elimina por impertinencia, pues el tema se centra en los rosales, no en las rosas."
+  },
+  {
+    "type": "sentence_elimination",
+    "statement": "I) La aritmética es la más antigua rama de la matemática utilizada para tareas de cálculo. II) Se encarga de estudiar ciertas operaciones con los números y sus propiedades fundamentales. III) La aritmética más antigua trabaja sólo con números enteros en operaciones de suma y resta. IV) La prístina aritmética operaba con adiciones y sustracciones .V) Con la introducción de los números arábigos, se pudo desarrollarla aritmética de modo impresionante .",
+    "alternatives": [
+      "A)V",
+      "B) IV",
+      "C) II",
+      "D) I",
+      "E) III"
+    ],
+    "correct": 1,
+    "rationale": "Se elimina por redundancia, la IV está contenida en la III."
+  },
+  {
+    "type": "sentence_elimination",
+    "statement": "I) La floricultura es el arte de cultivo de las plantas con el fin de obtener flores para deleite personal o para la comercialización. II) En la naturaleza, las flores pueden aparecer solitarias o en parejas. III) La jardinería es la forma de la floricultura con fines come rciales y es practicada regularmente por aficionados. IV) La floricultura con fines comerciales suele ser una práctica intensiva desde el cultivo de semillas. V) La floricultura comercial está orientada al lucro y puede ser ornamental, industrial o medicinal.",
+    "alternatives": [
+      "A)II",
+      "B) V",
+      "C) I",
+      "D) IV",
+      "E) III"
+    ],
+    "correct": 0,
+    "rationale": "Se elimina la oración II por impertinencia, pues el tema se centra en la floricultura como arte de cultivo."
+  },
+  {
+    "type": "sentence_elimination",
+    "statement": "La floricultura es el arte de cultivo de las plantas con el fin de obtener flores para deleite personal o para la comercialización. En la naturaleza, las flores pueden aparecer solitarias o en parejas. La jardinería es la forma de la floricultura con fines come rciales y es practicada regularmente por aficionados. La floricultura con fines comerciales suele ser una práctica intensiva desde el cultivo de semillas. La floricultura comercial está orientada al lucro y puede ser ornamental, industrial o medicinal.",
+    "alternatives": [
+      "A)II",
+      "B) V",
+      "C) I",
+      "D) IV",
+      "E) III"
+    ],
+    "correct": 0,
+    "rationale": null
+  },
+  {
+    "type": "sentence_elimination",
+    "statement": "La natación fue un deporte muy apreciado en la Antigüedad y era una actividad esencial para preparar a guerreros. La natación sincronizada es una actividad deportiva reciente que se originó en Canadá en 1920. Se extendió por América y el primer país en obtener premios en natación sincronizada fue Estados Unidos, a partir de 1930. La natación sincronizada se exhibió en los Juegos Olímpicos de 1985 y exige muchas horas de entrenamiento. La natación sincronizada requiere de fuerza corporal, gracia, belleza, agilidad y sensibilidad musical.",
+    "alternatives": [
+      "A)V",
+      "B) IV",
+      "C) II",
+      "D) I",
+      "E) III"
+    ],
+    "correct": 3,
+    "rationale": null
+  },
+  {
+    "type": "reading_comprehension",
+    "statement": "Quienes conocen la sierra conocen las consecuencias de la altura, las que varían de una persona a otra. En casos extremos, a la víctima del mal de altura, o soroche ,se le debe proporcionar oxígeno y debe ser evacuada. Al otro extremo ,hay personas que casi no se ven afectadas por la altura, al menos por un tiempo, y pueden pasear por la sierra densa: menos aire y, por consiguiente, menor presión. Al poseer menos aire, y mantenerse la proporción de los gases que lo componen (aproximadamente 80% nitrógeno y 20% oxígeno), hay menos oxígeno disponible. Esto activa un complejo mecanismo de compensación en el organismo. Por no haber tenido tiempo para adaptarse a la altura, el organismo humano sufre deficiencias. Al haber menos oxígeno, el organismo trata de aprovechar más el existente. Se puede hacer un paralelo entre la sangre que transporta oxígeno y una flota de camiones que transporta arena. Si el oxígeno es la arena, la sangre es el sistema de transporte y los pulmones las palas cargadoras. La arena es llevada en las tolvas de camiones y el oxígeno es llevado por los glóbulos rojos de la sangre. Si la sangre es la flota de camiones, los glóbulos rojos son las tolvas. Cuando las palas cargan menos arena y la demanda en la obra no ha variado, los camiones van más rápido. Aunque no se llenan las tolvas porque la carga es deficiente, al circular más rápido, los camiones compensan en algo la deficiencia. El organismo reacciona acelerando el pulso. El corazón late más rápido, la sangre se bombea a mayor velocidad y, aunque parte de los glóbulos rojos va sin cargar oxígeno, vuelven más rápido a los pulmones para cargar de nuevo. Sin embargo, esto no basta. La siguiente reacción es aumentar el número de camiones para que, aun con la tolva a medio cargar, compensen la demanda. Esto equivale a aumentar la cantidad de sangre disponible para cargar oxígeno. Esto tampoco es suficiente porque, aunque hay muchos camiones corriendo, la cantidad de arena entregada sigue siendo baja. El siguiente paso es aumentar la proporción de glóbulos rojos en la sangre. Esto equivale a aumentar el tamaño de las tolvas para que, a pesar de un mecanismo de carga deficiente, se pueda llevar la arena necesaria. Así, en la altura aumentan el volumen de la sangre y la proporción de glóbulos rojos. Con esto el corazón puede bajar su número de latidos. Esto equivale a poner un mayor número de camiones con tolvas más grandes circulando a una velocidad normal. Pero así como hay un límite al tamaño de la tolva que se le puede poner a un camión, lo mismo sucede con la cantidad de glóbulos rojos que soporta la sangre. Una tolva excesivamente grande impide que el camión circule bien. Normalmente, a 4 500 metros de altura, la proporción de glóbulos rojos en la sangre aumenta en un 20%, pero hay casos en que llega hasta 60%. Esto acarrea problemas. Siendo la fluidez de la sangre inversamente proporcional a la cantidad de glóbulos rojos, la superproducción de glóbulos rojos espesa la sangre. Al llegar los glóbulos rojos a un 60%, la sangre pierde fluidez. Esto equivale a una congestión de los camiones en las partes más angostas de la carretera, que son los vasos capilares por donde debe circular la sangre. Esta deficiencia circulatoria causa el dolor de cabeza y otros síntomas que son parte del soroche. Pero las consecuencias de la altura no se limitan a la relación oxígeno -sangre. Aunque esta es probablemente la de mayor impacto en la fisiología del cuerpo en la altura, existen otros cambios cuyas consecuencias pueden ser importantes. El organismo, al igual que los camiones, intenta mejorar el suministro. Para los camiones el problema está en la menor disponibilidad de arena, para el organismo está en la menor disponibilidad de oxígeno. El sistema de carga en el cuerpo son los pulmones y una manera de compensar la deficiencia es haciéndolos trabajar más. El organismo recoge información de los órganos y la comunica a los centros nerviosos que dan instrucciones compensatorias cuando detectan una deficiencia. Ante la deficiencia de oxígeno se dan instrucciones al diafragma y a los músculos de la caja torácica para activar más los pulmones. Este fenómeno se llama hiperventilación y consiste en respirar de palas que cargan los camiones. A la larga, este aumento en la respiración produce cajas torácicas más grandes y pulmones capaces de inhalar más aire. Se trata de un ejercicio permanente que da al habitante de la altura una mayor capacidad pulmonar.",
+    "questions": [
+      {
+        "statement": "1.El sentido de ACARREAR es",
+        "alternatives": [
+          "A) cargar.",
+          "B) llevar.",
+          "C) atraer.",
+          "D) imponer.",
+          "E) ocasionar."
+        ],
+        "correct": 4,
+        "rationale": "'Acarrear' significa generar, producir, ocasionar efectos o consecuencias."
+      },
+      {
+        "statement": "2.Entre la sangre que tr ansporta oxígeno y la flota de camiones que lleva arena, el autor establece",
+        "alternatives": [
+          "A) una antítesis.",
+          "B) un símil.",
+          "C) una síntesis.",
+          "D) un contraste.",
+          "E) un enigma."
+        ],
+        "correct": 1,
+        "rationale": "Para explicar los efectos de la altura en los organismos humanos no adaptados, el autor recurre a un parangón, un símil."
+      },
+      {
+        "statement": "3.¿Cuál es el tema central del texto?",
+        "alternatives": [
+          "A) La hiperventilación y los efectos del soroche.",
+          "B) Los glóbulos rojos a más de 4 mil metros.",
+          "C) La densidad de la atmósfera en la altura.",
+          "D) El mecanismo fisiológico del mal de altura.",
+          "E) El peligro del soroche en las ciudades costeras."
+        ],
+        "correct": 3,
+        "rationale": "El texto se refiere centralmente al soroche y, mediante una analogía iluminadora, explica su mecanismo fisiológico."
+      }
+    ]
+  },
+  {
+    "type": "reading_comprehension",
+    "statement": "Una solución para la vida en la altura es la práctica de la hiperventilación. Con el correr del tiempo, ello determina cajas torácicas más amplias, como las que muestran los andinos. A)Quienes han viajado a la sierra conocen los molestos efectos del soroche; mientras que algunos experimentan un gran sufrimiento y necesitan oxígeno para respirar, otros pueden caminar por las serranías sin experimentar las consecuencias del llamado sor oche o mal de altura. B)Para combatir el fenómeno del mal de altura que se produce a más de cuatro mil metros sobre el nivel del mar, en el organismo humano tiene que darse un aumento en la respiración ,lo que conlleva como consecuencia cajas torácicas más grandes y pulmones capaces de inhalar más aire. C) Dado que en la altura hay menos oxígeno disponible, ello genera que en el organismo humano se activen mecanismos de compensación (como la aceleración de los latidos del corazón o el aumento de glóbulos rojos en la sangre) con consecuencias conocidas como soroche. D)Para explicar los efectos del soroche en los diversos organismos humanos, se establece un paralelo entre la sangre que transporta oxígeno y una flota de camiones que transporta arena: si el oxígeno es la arena, la sangre es el sistema de transporte y los pulmones las palas cargadoras. E)Ante la deficiencia de oxígeno típica en las ciudades de altura, el sistema humano dainstrucciones al diafragma y a los músculos de la caja torácica para activar más los pulmones, así se produce la llamada hiperventilación, que consiste en respirar más hondo, inhalando más aire.",
+    "questions": [
+      {
+        "statement": "Se deduce que una persona con un buen nivel de oxígeno en la sangre",
+        "alternatives": [
+          "A) no debe viajar a las altas serranías.",
+          "B) suele recurrir a la hiperventilación.",
+          "C) resistirá mejor los efectos del soroche.",
+          "D) tiene un bajísimo nivel de glóbulos rojos.",
+          "E) solamente puede vivir en balnearios."
+        ],
+        "correct": 2,
+        "rationale": "Con un buen nivel de oxígeno en la sangre, se puede resistir el mal de altura, dado que hay condiciones para no sufrir el soroche."
+      },
+      {
+        "statement": "Se deduce que una persona con un buen nivel de oxígeno en la sangre",
+        "alternatives": [
+          "A) no debe viajar a las altas serranías.",
+          "B) suele recurrir a la hiperventilación.",
+          "C) resistirá mejor los efectos del soroche.",
+          "D) tiene un bajísimo nivel de glóbulos rojos.",
+          "E) solamente puede vivir en balnearios."
+        ],
+        "correct": 2,
+        "rationale": "Con un buen nivel de oxígeno en la sangre, se puede resistir el mal de altura, dado que hay condiciones para no sufrir el soroche."
+      },
+      {
+        "statement": "Determine el valor de verdad (Vo F) de los siguientes enunciados.",
+        "alternatives": [
+          "A) VVFFV",
+          "B) VVVFF",
+          "C) VVFVV"
+        ],
+        "correct": 0,
+        "rationale": "En virtud de la información brindada en el texto, los valores de verdad de los enunciados son VVFFV."
+      },
+      {
+        "statement": "Se deduce que en un lugar como Ticlio, situado a 4800 metros de altura,",
+        "alternatives": [
+          "A) no es recomendable el método de la hiperventilación.",
+          "B) el nitrógeno de la atmósfera puede llegar casi al 90%.",
+          "C) hay un descenso notable en el volumen del oxígeno.",
+          "D) el riesgo de sufrir consecuencias del soroche es mínimo.",
+          "E) todas las personas deben tener un balón de oxígeno."
+        ],
+        "correct": 2,
+        "rationale": "Dado que la presión atmosférica es menor, hay menos aire. Por ello, en ciudades como Ticlio se generan problemas con la altura."
+      }
+    ]
+  },
+  {
+    "type": "verbal_series",
+    "statement": "Unión, enlace, trabazón,",
+    "alternatives": [
+      "A) ruptura.",
+      "B) vacuidad.",
+      "C) ligazón.",
+      "D) referencia.",
+      "E) anotación."
+    ],
+    "correct": 2,
+    "rationale": "El campo semántico designa al engarce de una cosa con otra."
+  },
+  {
+    "type": "synonyms_and_antonyms",
+    "statement": "Gaje, emolumento, remuneración,",
+    "alternatives": [
+      "A) estipendio.",
+      "B) impuesto.",
+      "C) remesa.",
+      "D) erario.",
+      "E) gravamen."
+    ],
+    "correct": 0,
+    "rationale": null
+  },
+  {
+    "type": "synonyms_and_antonyms",
+    "statement": "El campo semántico designa la ociosidad, la falta de voluntad para trabajar.",
+    "alternatives": [
+      "A) turbio.",
+      "B) deshonesto.",
+      "C) avieso.",
+      "D) obcecado.",
+      "E) holgazán."
+    ],
+    "correct": 4,
+    "rationale": null
+  },
+  {
+    "type": "synonyms_and_antonyms",
+    "statement": "Elija la serie formada por tres sinónimos.",
+    "alternatives": [
+      "A) cándido, astuto, ingenuo",
+      "B) triste, lamentable, sensato",
+      "C) demente, iracundo, apurado",
+      "D) osado, valiente, intrépido",
+      "E) vulgar, locuaz, directo"
+    ],
+    "correct": 3,
+    "rationale": null
+  },
+  {
+    "type": "synonyms_and_antonyms",
+    "statement": "Amable, amigable, cordial,",
+    "alternatives": [
+      "A) serio",
+      "B) afable",
+      "C) veraz",
+      "D) útil",
+      "E) rígido"
+    ],
+    "correct": 1,
+    "rationale": null
+  },
+  {
+    "type": "verbal_series",
+    "statement": "¿Cuál de las siguientes palabras no pertenece a la serie?",
+    "alternatives": [
+      "A) brillante",
+      "B) perfumado",
+      "C) oloroso",
+      "D) fragante",
+      "E) aromático"
+    ],
+    "correct": 0,
+    "rationale": null
+  },
+  {
+    "type": "synonyms_and_antonyms",
+    "statement": "Bidón, garrafa, tonel,",
+    "alternatives": [
+      "A) damajuana",
+      "B) líquido",
+      "C) vino",
+      "D) cestería",
+      "E) caño"
+    ],
+    "correct": 0,
+    "rationale": null
+  },
+  {
+    "type": "reading_comprehension",
+    "statement": "Son tres los criterio s que definen la raza social de una persona, con hincapié distinto según la región en que se apliquen: ascendientes, apariencia física y estatus sociocultural. El indio ha sido definido sucesivamente por su ocupación: “proletario rural” y “campesino”; por su cultura o su lenguaje: aquel que habla una lengua indígena, viste trajes de factura casera, calza ojotas o anda descalzo y masca coca; y por el tipo de establecimiento al que se asocia: el que ha nacido en una comunidad indígena, pertenece a ella y comparte su cultura.\nAnte estas definiciones se ha argüido y se arguye todavía que en el Perú existen porciones considerables del proletariado rural y del campesinado a las que no se considera como indios, mientras que es relativamente frecuente que el indígena aparezca en otros contextos ocupacionales; que el lenguaje no distingue, porque muchos blancos y mestizos hablan el quechua o el aimara y no son raros los indígenas que pueden expresarse en castellano; que tampoco contribuyen en muchos otros rasgos culturales porque se superponen demasiado y sufren variaciones regionales, de modo que los que marcan al mestizo en una parte, marcan más allá al indio y viceversa; que tampoco es de utilidad remitirse al establecimiento, puesto que los indios aparecen indistintamente en la “comunidad de indígenas”, la hacienda, el pueblo y hasta la ciudad. Alfred Metraux, desalent ado, debió de concluir que, a fin de cuentas, “el indio es un individuo que es reconocidos como tal en la sociedad en la que habita y que acepta esa calificación”. No es otro el caso del mestizo, al que suele definirse de modo dependiente a lo haya dicho del indígena; un poco por negación de los rasgos atribuidos al indio, un poco por mayor aproximación al modelo cultural europeo, otro poco afi rmando su condición de intermediario social y cultural. La misma terminología contribuye a oscurecer definiciones y se modifica según la perspectiva que adoptemos: un indígena no utilizará espontáneamente el término “indio” sino que preferirá señalarse res idencialmente como llactaruna, hombre del pueblo, o como haciendaruna ,hombre de esta hacienda. Si es apurado a decirlo en castellano, se llamará a sí mismo un natural que equivale a decir “un lugareño”. Por encima de él, percibe al “misti” y luego al “esp añol” y al “gringo”, categorías, ambas, a las que se dirige respetuosamente con el apelativo de “Wiracocha”. El residente no indígena de un pueblo campesino reconoce por debajo de él al “indio” o “chuto”, pero para sí prefiere eludir el término racial y se da el nombre de “vecino”. La perspectiva un poco más sofisticada de las ciudades provincianas incorpora la categoría de “mestizo”, al lado de otras intermedias como la de “mozo” o “majta”. “Criollo” es un término empleado de preferencia en las ciudades y áreas rurales de la costa, pero no faltan descripciones de la sociedad serrana en las que aparece como alternativo a “blanco”. La mayoría de estos términos han pasado a incorporarse, como categorías, a las sinónimos y reducirlos a la tradicional escala de tres gradas: “indio”, “chuto”, “llactaruna”, “haciendar una”, “natural”; “misti”, “mestiz o”, “vecino”; “criollo”, “blanco”. La sinonimia, con todo, no es completa y deja fuera de lugar a categorías imprecisas como la de “majta”. Terminan por elevarse voces discordantes como la de Gabriel Escobar, quien ha alegado que el “misti” y el “mestizo” constituyen dos estratos diferentes, y ha incorporado a este último al grupo “cholo”. Una cosa es evidente para quien tenga conocimiento de primera mano de la sociedad andina. No solo la “raza” es relativa. También son relativos los criterios socioculturales según el grupo y la región en que se aplican. El lenguaje tiende a reflejar percepciones limitadas a contextos de grupo y de localidad. Su empleo riguroso y su generalización demandan una previa y cuidadosa discriminación de esos contextos.",
+    "questions": [
+      {
+        "statement": "En eltexto, el término APURADO se puede reemplazar por",
+        "alternatives": [
+          "A) acelerado.",
+          "B) causado.",
+          "C) abreviado.",
+          "D) turbado.",
+          "E) obligado."
+        ],
+        "correct": 4,
+        "rationale": "En el contexto de ‘apurado a responder’, el término ‘apurado’ se puede reemplazar convenientemente por ‘obligado’."
+      },
+      {
+        "statement": "¿Cuál es el tema central del texto?",
+        "alternatives": [
+          "A) El problema de la definición del indio como categoría racial.",
+          "B) Las agudas diferencias existentes entre indios y mestizos.",
+          "C) El carácter histórico de la noción de comunidad indígena.",
+          "D) La cuestión étnica y cultural del campesinado peruano.",
+          "E) La naturaleza bastante difusa de la historia social andina."
+        ],
+        "correct": 0,
+        "rationale": "El autor se centra en el carácter esquivo de la definición de la categoría ‘indio’."
+      },
+      {
+        "statement": "La definición lingüística de ‘indio’ es inadecuada porque",
+        "alternatives": [
+          "A) casi todos los indios se desarrollan en las haciendas rurales.",
+          "B) el mestizaje es un proceso que empezó en la época colonial.",
+          "C) no todos los llamados proletarios rurales se describen como indios.",
+          "D) la expresión ‘llactaruna’ no se puede tr aducir a la lengua castellana.",
+          "E) varios indígenas emplean el castellano, una lengua occidental."
+        ],
+        "correct": 4,
+        "rationale": "No se puede definir indio como el que habla quechua o aimara, dado que varios indios hablan castellano."
+      }
+    ]
+  },
+  {
+    "type": "reading_comprehension",
+    "statement": "En la explicación brindada, el mascar coca se presenta como un acto simbólico del mundo indígena.",
+    "questions": [
+      {
+        "statement": "¿Cuál es la idea principal del texto?",
+        "alternatives": [
+          "A)La terminología propia de las ciencias sociales contribuye a oscurecer las definiciones, por cuanto no goza de una cuidadosa discriminación lógica de contextos.",
+          "B)La definición de indio y de mestizo adolece de una vaguedad difícil de controlar, razón por la cual se necesita aclarar la terminología en virtud de una indagación rigurosa.",
+          "C)En la abundante literatura de las ciencias sociales, se ha establecido, con carácter tentativo, un juego de sinónimos entre “llactaruna”, “indio”, “chuto” y “natural”.",
+          "D)La categoría de “mestizo” se suele diferenciar del término “cholo” e “indígena” por ciertas consideraciones negativas y en su definición sobresale un valor intermediario.",
+          "E)Los términos raciales con los que nos referimos a los indígenas encubren un juego dinámico de prejuicios contra la cultura desarrollada por los hombres andinos."
+        ],
+        "correct": 1,
+        "rationale": "Se dilucida el carácter difu so de la definición de ‘indio’ y ‘mestizo’; en consecuencia, se necesita aplicar más rigor intelectual."
+      },
+      {
+        "statement": "Se deduce que, en los pueblos campesinos, el término “chuto” tiene un contenido",
+        "alternatives": [
+          "A) objetivo.",
+          "B) histórico.",
+          "C) místico.",
+          "D) religioso.",
+          "E) peyorativo."
+        ],
+        "correct": 4,
+        "rationale": "Dado que es un apelativo no aceptado de buen grado, se deduce que encierra un contenido peyorativo."
+      },
+      {
+        "statement": "Si no hubiese sinonimia entre “indio” y “llactaruna”",
+        "alternatives": [
+          "A) el argumento de Escobar carecería de sustento.",
+          "B) habría una radical diferencia entre blanco y criollo.",
+          "C) el requisito del lenguaje dejaría de ser unívoco.",
+          "D) el criterio racial no concordaría con el residencial."
+        ],
+        "correct": 3,
+        "rationale": "El término ‘indio’ tiene un sentido racial y el término ‘llactaruna’ se refiere al lugar de residencia."
+      },
+      {
+        "statement": "Determine el valor de verdad (Vo F) de los siguientes enunciados.",
+        "alternatives": [
+          "A) VFFFV",
+          "B) VVFFF",
+          "C) VFFVV",
+          "D) FFFFV",
+          "e) FFVFV"
+        ],
+        "correct": 0,
+        "rationale": "En virtud del contenido del texto, los valores de verdad de los enunciados son VFFFV."
+      },
+      {
+        "statement": "Dado que muchos indios pueden desempeñar labores muy variadas,",
+        "alternatives": [
+          "A) los indios solamente pueden vivir en las haciendas.",
+          "B) los indígenas no se pueden definir por su apariencia.",
+          "C) es objetable la definición que se basa en la ocupación.",
+          "D) se puede establecer que el quechua está en extinción.",
+          "E) la definición racial es la única que puede defenderse."
+        ],
+        "correct": 2,
+        "rationale": "La definición basada en la ocupación presupone una ocupación única o muy preferida por los indígenas. En tal sentido, esa definición es seriamente objetada por el hecho de que los indios desempeñen labores muy variadas."
+      },
+      {
+        "statement": "Si el indio se pudiese definir adecuadamente por su fisonomía, primaría un criterio",
+        "alternatives": [
+          "A) fenotípico.",
+          "B) cultural.",
+          "C) económico.",
+          "D) histórico.",
+          "E) educativo."
+        ],
+        "correct": 0,
+        "rationale": "Dado que la fisonomía revela rasgos aparentes del rostro, primaría un criterio basado en el fenotipo, no en lo simbólico, económico o cultural."
+      }
+    ]
+  },
+  {
+    "type": "reading_comprehension",
+    "statement": "Cheryl Dinges es originaria de Saint Louis, tiene 29 años y es sargento del ejército estadounidense. Su trabajo consiste en entrenar a soldados para el combate cuerpo a cuerpo. Esta mujer podría afrontar una lucha aún más difícil en los próximos años, dado que pertenece a una familia portadora del gen del insomnio familiar letal . Obviamente, el incapaz de dormir en absoluto. El síndrome suele atacar alrededor de los cincuenta años, tiene una duración de un año y siempre termina con la muerte. El insomnio familiar letal es una enfermedad espantosa, agravada por el hecho de que sabemos muy poco cómo funciona. Los investigadores han descifrado que proteínas malformadas (priones) atacan el tálamo, una estructura cerebral profunda, y ello interfiere con el sueño. Sin embargo, ignoran por q ué sucede esto, cómo detenerlo o cómo aliviar sus brutales síntomas. Antes de que se estudiara este insomnio, los investigadores ni siquiera sabían que el tálamo tuviera algo que ver con el sueño. El insomnio familiar letal es sumamente escaso, pues sólo se conoce en cuarenta familias en todo el mundo. Si no sabemos por qué no podemos dormir, se debe en parte a que, en primer lugar, desconocemos, en realidad, por qué necesitamos dormir. Sabemos que extrañamos el sueño sino dormimos. Y sabemos que, no importa cuánto nos resistamos, al final el sueño nos vence. Sabemos que entre siete y nueve horas después de haber cedido al sueño, la mayoría de nosotros está lista para levantarse de nuevo. Durante los últimos cincuenta años, hemos sabido que dividimos nuestro sueño en períodos de ondas profundas y en lo que se denomina fase de movimiento ocular rápido del sueño, cuando el cerebro está tan activo, como cuando estamos despiertos, pero nuestros músculos voluntarios están paralizados. Sabemos que todos los mamíferos y las aves duermen. La teoría predominante en materia de sueño es que el cerebro lo exige.",
+    "questions": [
+      {
+        "statement": "1.En el texto, el término ESCASO significa específicamente",
+        "alternatives": [
+          "A) pequeño.",
+          "B) ralo.",
+          "C) débil.",
+          "D) vacío.",
+          "E) esporádico."
+        ],
+        "correct": 4,
+        "rationale": "Cuando se dice que una enfermedad es escasa se quiere decir que ocurre con muy poca frecuencia. En tal sentido, el significado específico es ‘esporádico’."
+      },
+      {
+        "statement": "2.¿Cuál es el tema central del texto?",
+        "alternatives": [
+          "A) El enigma del síndrome del insomnio familiar letal.",
+          "B) Las causas superficiales del insomnio familiar letal.",
+          "C) La historia de Cheryl Dinges, valiente mujer de 29 años.",
+          "D) La función vital del sueño en los mamíferos y las aves.",
+          "E) Los priones como agentes de enfermedades letales."
+        ],
+        "correct": 0,
+        "rationale": "Se incide en el síndrome de l insomnio familiar letal como un misterio para la ciencia."
+      },
+      {
+        "statement": "3.Se infiere que, actualmente, Cheryl Dinges",
+        "alternatives": [
+          "A) sufre síntomas graves del síndrome familiar.",
+          "B) tiene altas probabilidades de evitar el insomnio.",
+          "C) duerme, en promedio, entre siete a nueve horas.",
+          "D) experimenta total incapacidad para las siestas."
+        ],
+        "correct": 2,
+        "rationale": "En virtud de la explicación del texto, el terrible síndrome suele manifestarse a los cincuenta años. Luego, en la actualidad, C heryl no lo experimenta y, por ello, debe de tener un sueño normal."
+      },
+      {
+        "statement": "4.Con respecto al insomnio familiar letal, es incompatible aseverar que",
+        "alternatives": [
+          "A) suele aparecer alrededor de los cincuenta años.",
+          "B) se manifiesta de manera gradiente y secuencial.",
+          "C) constituye un serio reto para la medicina actual.",
+          "D) es producido por un virus de acción muy lenta.",
+          "E) se puede describir como un mal ineluctable."
+        ],
+        "correct": 3,
+        "rationale": "Se trata de una enfermedad hereditaria y que involucra la acción de priones."
+      },
+      {
+        "statement": "5.Si, en el futuro, se pudiese restaurar un tálamo lesionado,",
+        "alternatives": [
+          "A) ya no habría necesidad de sueño profundo.",
+          "B) se podría curar el insomnio familiar letal.",
+          "C) ya no habría enfermedades de priones.",
+          "D) el sueño podría durar unas cuatro horas.",
+          "E) ya no habría necesidad de tomar la siesta."
+        ],
+        "correct": 1,
+        "rationale": "Dado que los priones atacan el tálamo y ello es fatal para el sueño, la restauración del tálamo podría implicar una cura del insomnio familiar letal."
+      }
+    ]
+  }
+]

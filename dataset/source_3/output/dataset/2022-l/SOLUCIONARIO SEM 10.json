@@ -1,0 +1,86 @@
+[
+  {
+    "type": "reading_comprehension",
+    "statement": "El queso y los gusanos.\n\nEl cosmos,\n\nsegún un molinero\ndel siglo\n\nXVI. Barcelona:\n\nMuchnik",
+    "questions": [
+      {
+        "statement": "1. El tema central del texto es",
+        "alternatives": [
+          "A)la biografía",
+          "B)la manera cómo operaba",
+          "C)las ideas disidentes",
+          "O)la razón por la cual Menocchio fue procesado por el Santo Oficio."
+        ],
+        "correct": 2,
+        "rationale": "Solución: El texto trata sobre por qué el Santo Oficio razon es sus ideas heréticas, procesó más de una vez a Menocchio, y la tal como lo expresó uno de sus acusadores."
+      },
+      {
+        "statement": "2. El sinónimo contextual de DURA es",
+        "alternatives": [
+          "A)grave.",
+          "B)firme.",
+          "C)densa.",
+          "O)intrincada."
+        ],
+        "correct": 3,
+        "rationale": "Solución: En el texto se emplea dicha palabra situación no era fácil, sino más bien preocupante. para indicar que, por su actitud constante, su"
+      },
+      {
+        "statement": "3. Se desprende del texto que Menocchio en su encaro más de un proceso seguido contra por el Santo Oficio porque",
+        "alternatives": [
+          "A)era un hombre recalcitrante",
+          "B)se ganó la enemistad de",
+          "C)en su primer proceso declaró",
+          "D)había cometido actos de cohecho como camarero."
+        ],
+        "correct": 0,
+        "rationale": "Solución: En el texto se afirma que Menocchio años, lo que nos hace pensar que tuvo más de un proceso."
+      },
+      {
+        "statement": "4. Dado que Menocchio ejerció como camarero de la parroquia de Montereale, podemos deducir que",
+        "alternatives": [
+          "A)tenía habilidades cognitivas",
+          "B)había deseado ser religioso.",
+          "C)tenía una fe inquebrantable.",
+          "D)buscó protección de clérigos."
+        ],
+        "correct": 0,
+        "rationale": "Solución: En el texto se afirma que para ocupar el cargo de camarero la escuela, desarrolló a leer y a calcular, que le permitieron habilidades cognitivas"
+      },
+      {
+        "statement": "5. Sobre los datos biográficos de Menocchio, es compatible con el texto aseverar que",
+        "alternatives": [
+          "A)jamás se mudó de casa.",
+          "C)era un hombre pacífico.",
+          "B)mintió",
+          "D)fue padre de once hijos."
+        ],
+        "correct": 3,
+        "rationale": "Solución: En el texto se dice que Menocchio habían fallecido, de tal modo que llegó a ser padre de once hijos en total. además de sus siete hijos, tuvo otros cuatro que"
+      },
+      {
+        "statement": "6. Es incompatible con el texto sostener que Menocchio siempre vivió en Montereale porque",
+        "alternatives": [
+          "A)viajaba",
+          "B)como molinero,",
+          "C)al ser acusado de herejía por periodo",
+          "D)fue desterrado"
+        ],
+        "correct": 3,
+        "rationale": "Solución: En el texto se dice que Menocchio, tal manera que en esos dos anos no pudo seguir viviendo por una rina, fue desterrado en Montereale. entre 1564 y 1565, de"
+      }
+    ]
+  },
+  {
+    "type": "sentence_elimination",
+    "statement": "5. Siguiendo posible que la argumentación es del texto B, si en el Perú la prostitución fuera legal, podrían",
+    "alternatives": [
+      "A)muchas mujeres",
+      "B)las trabajadoras sexuales",
+      "C)algunas peruanas mujeres",
+      "D)las mujeres"
+    ],
+    "correct": 0,
+    "rationale": "Solución: Se argumenta en contra de su voluntad."
+  }
+]

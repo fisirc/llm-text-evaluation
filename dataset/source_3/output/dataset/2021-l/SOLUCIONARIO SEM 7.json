@@ -1,0 +1,283 @@
+[
+  {
+    "type": "reading_comprehension",
+    "statement": "LECTURA INFERENCIAL 3\n\nLo sólito, en el siglo XIX, en Lima, en el Cuzco y en otras partes del Perú, era la matanza de perros vagos. Solencia que continuó en las dos primeras décadas del siglo XX, y como aún no regía la política de protección a los animales, entonces no resultaba inadmisible la publicación de un artículo titulado ‹‹¿Tienen los perros derecho a la vida?››. Yerovi, que lo comenta, responde afirmativamente, aunque refiriéndose solo a los perros que tengan ‹‹la medalla municipal de salvación››. (Leonidas Yerovi, Obra Completa, II), y los encargados de llevar a cabo dicha acción no eran sino los propios trabajadores ediles: los aguadores, quienes tenían por obligaciones regar la respectiva plazuela un día por semana y matar a los perros sin dueño (Manuel Cisneros Sánchez, Pancho Fierro y la Lima del 800).\n\nAsimismo, el viajero norteamericano George Squier afirmaba que, en el Cusco, en 1864, se solía matar perros vagos todos los jueves, por orden municipal, tal como lo cuenta Rivera Martínez en la edición del 26 de marzo de 2006 de El Comercio, que a la letra dice:\n\n‹‹Por cierto que en esos días todos los canes decentes eran retenidos en casa por sus dueños, en tanto que los proletarios quedaban librados a su suerte. Y la matanza, encargada a los indios, se realizaba de modo tan sorprendente como cruel: dos campesinos espantaban con palos a los animales a la entrada de una calle y los arreaban hacia la salida de la misma, donde otros dos los aguardaban con una cuerda que sostenían, de acera a acera, y cuando un perro pasaba por encima, la tensaban de súbito y con un fuerte envión lo levantaban por el aire, y después de que caía al suelo, todo aturdido, lo remataban con sus cachiporras››.\n\nAhora bien, antes de reprobar añejas prácticas, conviene averiguar si durante su vigencia regían también los sentimientos y actitudes que hoy nos mueven a condenarlas. Nos parece actualmente cruel el maltrato de animales y con cuanta mayor razón su matanza, aunque naturalmente hay excepciones; pero en lo antiguo no era así: torturar animales no era execrable, ni costumbre vitanda matarlos. Recordemos además que el existencialismo —de acuerdo con Fatone— al negar que el animal existe, repite, sin tener ciencia de ello, una vieja posición que consistió siempre en abrir un abismo entre el hombre y el resto de la realidad. Esta posición es la que en el siglo XVII hizo considerar a los animales como autómatas, siendo Descartes quien extremó la posición, al decir que los animales no pensaban, ni siquiera sufrían, sino que respondían a los excitantes, como responde un mecanismo sin tener conciencia. ‹‹Y hasta fue moda mundana la de entretenerse en herir a los animales para oírlos gemir, porque ¡los animales gemían como los relojes daban campanadas! ¡Su respuesta, al gemir, era como la del reloj: mecánica!››.\n\nDENEGRI, MARCO AURELIO. (2014). «La solencia decimonónica de matar perros». En Polimatía (saber que abarca diversos conocimientos). Lima: Universidad Inca Garcilaso de la Vega. (Texto editado)\n",
+    "questions": [
+      {
+        "statement": "Inferencia holística: Se infiere que el marco general que gobierna el texto incide en",
+        "alternatives": [
+          "A) el antiguo hábito de matar perros callejeros en el Perú.",
+          "B) el maltrato animal en el Perú de mediados del siglo XIX.",
+          "C) las costumbres execrables del republicanismo prístino.",
+          "D) las funciones de los aguadores en el Perú republicano."
+        ],
+        "correct": 0,
+        "rationale": "Tanto el texto como la imagen refieren a la matanza de perros callejeros que se realizaba frecuentemente en el Perú de mediados del XIX y principios del XX."
+      },
+      {
+        "statement": "Inferencia de datos: De la información proporcionada en el texto sobre el perpetrador de la matanza de perros y el personaje de la imagen, se desprende que este",
+        "alternatives": [
+          "A) fue mordido previamente por el can.",
+          "B) no reside en la ciudad del Cusco.",
+          "C) intenta ahuyentar al perro con el palo.",
+          "D) quiere castigar al can lúdicamente."
+        ],
+        "correct": 1,
+        "rationale": "El texto indica en Lima quienes mataban a los perros callejeros eran los aguadores; y en el Cuzco, los indígenas. En la imagen se aprecia a una persona afrodescendiente, identificado por la leyenda como aguador; en ese sentido, podemos inferir que el personaje en cuestión no residía en el Cusco."
+      },
+      {
+        "statement": "Inferencia causal: Se deduce que el hombre de la imagen ataca al perro porque",
+        "alternatives": [
+          "A) es demasiado inhumano.",
+          "B) no le gustan los perros.",
+          "C) cumple con su trabajo.",
+          "D) obedece a un instinto."
+        ],
+        "correct": 2,
+        "rationale": "Según el texto, lo aguadores también tenían como función matar a los perros sin dueño; en ese sentido, el hombre de la imagen que está golpeando al perro, lo hace porque su trabajo lo obliga."
+      },
+      {
+        "statement": "Inferencia prospectiva: A la luz de los alcances que se han logrado hoy en día para defender los derechos de los animales, si una municipalidad ordenara a los serenos a matar perros callejeros, podemos inferir que",
+        "alternatives": [
+          "A) se exigiría inmediatamente la vacancia del alcalde.",
+          "B) los animalistas se enfrentarían a toda la policía.",
+          "C) los veterinarios curarían a los perros heridos.",
+          "D) dicha orden sería muy cuestionada por la sociedad."
+        ],
+        "correct": 3,
+        "rationale": "El autor nos dice que esta costumbre era ordenada por las autoridades cuando no existían los sentimientos ni actitudes que hoy existen y nos hacen despreciarla; en ese sentido, se infiere que una medida como esa hoy en día sería criticada."
+      }
+    ]
+  },
+  {
+    "type": "reading_comprehension",
+    "statement": "En la notable serie Mrs. América, ambientada en los años setenta, llama la atención que la protagonista use grabaciones en cintas de casete y correo postal para difamar a sus oponentes feministas, ya que en solo una generación hemos pasado de esas tecnologías de la comunicación, que ahora nos parecen lentísimas, a la instantaneidad de Gmail, Facebook, Twitter o WhatsApp, evidenciando un salto vertiginoso. La velocidad del transporte, de las comunicaciones y del conocimiento no solo no ha cesado de incrementarse exponencialmente en este cambio de siglo, sino que continuará. Por ejemplo, Ray Kurzweil sostiene que en unos años cualquier ordenador portátil tendrá la misma potencia de cálculo que el cerebro humano. Aunque alarmante, el verdadero problema no es este, sino que nuestros cerebros no han ganado mayor capacidad de procesamiento, de modo que nuestro ritmo mental, aunque extraordinario, es cada vez más lento en comparación con el de las redes y las máquinas, suscitando un desequilibrio entre la complejidad de la realidad y nuestra capacidad de pensarla y entenderla: entre 2015 y 2030 vamos a pasar de 15 000 millones de dispositivos conectados a cerca de 500 000 millones en todo el mundo, configurándose dos categorías de ciudadanos o —lo que es lo mismo— de usuarios de internet; esto es, la distancia cada vez mayor entre los hiperconectados y los simplemente conectados está cambiando el sentido de lo que entendemos por desigualdad. Asimismo, las mismas megacorporaciones que convirtieron el ordenador personal, el teléfono móvil ola conexión a internet en bienes de primera necesidad (que ha enfrentado a Estados Unidos contra China respecto de la tecnología 5G), ahora experimentan con los neuroimplantes que próximamente todos necesitaremos para no vernos obligados a bajarnos del tren superrápido de la ultramodernidad, creando así un nuevo mercado que prioriza el avance tecnológico, pero no el de la democracia. No olvidemos que, en paralelo, Elon Musk y muchos otros emprendedores disruptivos y multimillonarios están invirtiendo en proyectos de neuroimplantes, que, al mismo tiempo que ayudarán a neutralizar la parálisis cerebral o el Alzheimer, también mejorarán brutalmente la memoria ola capacidad de aprendizaje de quien pueda pagárselos. De esta manera, apreciamos el fallo central del sistema, pues se trata de un abismo que se dilata en el corazón del abismo de la desigualdad: mientras los ricos se vuelven cada vez más ricos y acumulan más información y más conocimiento, millones de personas son atropelladas por la velocidad excesiva de la realidad. CARRIÓN, JORGE. (14/03/2021). «La velocidad de la tecnología atropella nuestros cerebros y cambia el sentido de lo que entendemos por desigualdad». En The New York Times. (Texto editado) 1. Medularmente, se puede afirmar que el texto aborda el tema de A) la tensa pugna tecnológica entre China y Estados Unidos. B) la actualidad de los avances tecnológicos en el mundo global. C) la inmediatez como esencia lógica de la tecnología moderna. D) la implicancia ético-social del cambio raudo de la tecnología. Solución: El texto esboza una reflexión sobre la consecuencia ética-social de la desigualdad en el contexto de la rapidez tecnológica actual a nivel mundial. Rpta.: D",
+    "questions": [
+      {
+        "statement": "Medularmente, se puede afirmar que el texto aborda el tema de",
+        "alternatives": [
+          "A) la tensa pugna tecnológica entre China y Estados Unidos.",
+          "B) la actualidad de los avances tecnológicos en el mundo global.",
+          "C) la inmediatez como esencia lógica de la tecnología moderna.",
+          "D) la implicancia ético-social del cambio raudo de la tecnología."
+        ],
+        "correct": 3,
+        "rationale": "El texto esboza una reflexión sobre la consecuencia ética-social de la desigualdad en el contexto de la rapidez tecnológica actual a nivel mundial."
+      },
+      {
+        "statement": "Dentro de la lógica del texto, el término DISRUPTIVO connota un cambio",
+        "alternatives": [
+          "A) demencial.",
+          "C) terrible.",
+          "B) ralentizado.",
+          "D) revolucionario."
+        ],
+        "correct": 3,
+        "rationale": "En el texto, con dicha palabra se quiere transmitir la idea de una revolución, algo que modifica el orden normal de las cosas."
+      },
+      {
+        "statement": "Resulta incompatible con el texto sostener que el cambio tecnológico",
+        "alternatives": [
+          "A) mejorará con la ayuda de las neurociencias.",
+          "B) propenderá a estancarse en el futuro inmediato.",
+          "C) seguirá con un ritmo de avance exponencial.",
+          "D) fomentará una desigualdad de índole social."
+        ],
+        "correct": 1,
+        "rationale": "En el texto, el autor afirma que el cambio seguirá creciendo."
+      }
+    ]
+  },
+  {
+    "type": "reading_comprehension",
+    "statement": "En tanto la crisis generada por la COVID-19 está cambiando dramáticamente la situación económica del Perú, se espera que la economía se contraiga en 2020. De hecho, ya algunos sectores —como hoteles, restaurantes, comercio y transporte— han recibido el impacto de las medidas de distanciamiento social de manera más rápida y directa. Ante esta situación, se espera que la población de migrantes y refugiados venezolanos en el Perú sean afectados significativamente por sus condiciones en el mercado laboral y por su acceso a servicios, tal como lo demuestra el reporte del Banco Mundial de 2019 que señala que los migrantes y refugiados venezolanos se encuentran en empleos más vulnerables, debido a la alta informalidad y a su concentración en pequeñas empresas (el 67% de los ¾ de venezolanos empleados trabajan en pequeñas empresas), las cuales están siendo altamente afectadas por el choque de la pandemia. Esta concentración en pequeñas empresas y con alta informalidad — significativamente mayor que la de los peruanos—, los hace altamente vulnerables. Asimismo, es necesario precisar que los migrantes y refugiados venezolanos están más concentrados en las áreas urbanas, siendo estas las más afectadas, y si a esto sumamos que los migrantes venezolanos ganan menos que los peruanos, entonces, se hace palpable que sus niveles de pobreza son mayores, lo que conduce a que tengan menos accesos a servicio de salud que los peruanos (un 33% frente a un 48% respectivamente), lo que se ha acentuado más durante la pandemia. Estas vulnerabilidades se exacerban ante las condiciones de vivienda de esta población: vivienda rentada y en condiciones de hacinamiento (Banco Mundial, 2019). WORLD BANK GROUP. (2020). «Migrantes y refugiados venezolanos en el Perú: el impacto de la crisis de la COVID-19».",
+    "questions": [
+      {
+        "statement": "¿Cuál es el tema central del texto?",
+        "alternatives": [
+          "A)",
+          "B)",
+          "C)",
+          "D)"
+        ],
+        "correct": 2,
+        "rationale": "El texto y la imagen ofrecen información sobre la situación vulnerable, en términos laborales y de vivienda, en la que se encuentran los migrantes y refugiados venezolanos en el Perú en el contexto de la pandemia por COVID-19."
+      },
+      {
+        "statement": "En el texto, el término PALPABLE significa",
+        "alternatives": [
+          "A) inescrutable.",
+          "C) consistente.",
+          "B) evidente.",
+          "D) inefable."
+        ],
+        "correct": 2,
+        "rationale": "La palabra PALPABLE, tal como se emplea en el texto, se asocia con la idea de evidencia fáctica."
+      },
+      {
+        "statement": "Es incompatible con el texto sostener que los migrantes venezolanos afincados en el Perú",
+        "alternatives": [
+          "A) sufren mucho por las dificultades en el acceso al sistema de salud.",
+          "B) se quedan en las capitales porque hay una mayor oferta de trabajo.",
+          "C) suelen habitar en viviendas alquiladas con un gran hacinamiento.",
+          "D) prefieren asentarse en la sierra rural peruana por razones climáticas."
+        ],
+        "correct": 3,
+        "rationale": "En el texto se afirma que «los migrantes y refugiados venezolanos están más concentrados en las áreas urbanas», lo que nos da a pensar que hay un menor número de ellos que vive en áreas rurales."
+      }
+    ]
+  },
+  {
+    "type": "reading_comprehension",
+    "statement": "los migrantes y refugiados venezolanos están más concentrados en las áreas urbanas.",
+    "questions": [
+      {
+        "statement": "Es incompatible con el texto sostener que los migrantes venezolanos afincados en el Perú",
+        "alternatives": [
+          "A) sufren mucho por las dificultades en el acceso al sistema de salud.",
+          "B) se quedan en las capitales porque hay una mayor oferta de trabajo.",
+          "C) suelen habitar en viviendas alquiladas con un gran hacinamiento.",
+          "D) prefieren asentarse en la sierra rural peruana por razones climáticas."
+        ],
+        "correct": 3,
+        "rationale": "En el texto se afirma que «los migrantes y refugiados venezolanos están más concentrados en las áreas urbanas», lo que nos da a pensar que hay un menor número de ellos que vive en áreas rurales."
+      },
+      {
+        "statement": "De acuerdo con la información proporcionada en la infografía sobre los migrantes y refugiados venezolanos en el Perú, podemos inferir que",
+        "alternatives": [
+          "A) conseguir empleo les ha resultado muy difícil por su nivel cultural.",
+          "B) 48 240 tienen una relación contractual en pequeñas empresas.",
+          "C) viven en hogares hacinados debido a una consideración religiosa.",
+          "D) 82% de ellos han podido prosperar y ahora viven holgadamente."
+        ],
+        "correct": 1,
+        "rationale": "La infografía ofrece el siguiente dato: el 67% de 1 millón 200 mil venezolanos en el Perú trabajan en pequeñas empresas, lo que representa un total de 804 000, y solo el 6% de ellos tienen contrato, lo que representa 48 240."
+      },
+      {
+        "statement": "Si los empleos en el Perú fuesen formales y ofertados por empresas grandes y solventes,",
+        "alternatives": [
+          "A) los venezolanos que viven en el Perú tendrían mejor condición.",
+          "B) la calidad de vida de los peruanos tendría algunos escollos.",
+          "C) el Estado peruano gastaría mucho en asuntos de seguridad.",
+          "D) el Perú sería un lugar de destino propicio para todo migrante."
+        ],
+        "correct": 0,
+        "rationale": "En el texto se sostiene que, dado que los venezolanos en el Perú se concentran en pequeñas empresas e informales, ellos se encuentran en situación vulnerable; en ese sentido, sino existieran estas condiciones, es posible que su situación sería mejor."
+      }
+    ]
+  },
+  {
+    "type": "reading_comprehension",
+    "statement": "Nuestro conocimiento de las variaciones y limitaciones que hubo en el control vertical se ha ampliado extraordinariamente al publicarse en 1964 la visita de Garci Diez de San Miguel. Por ejemplo, el reino lupaca, uno de los tantos reinos lacustres de habla aimara, ha adquirido notoriedad porque los lupacas no fueron encomendados a ningún aventurero europeo, sino que fueron puestos en «cabeza de Su Majestad». Carlos V y Felipe II recibieron personalmente solo tres grupos étnicos en la región andina: los moradores de la isla de Puná en el golfo de Guayaquil, los del valle de Chincha y el reino lupaca. Si bien sería interesante averiguar los factores que determinaron tal selección en los primeros años de la invasión, por lo pronto, quisiera sugerir razones de posible complementariedad ecológica que pueden haber influenciado la separación de estas tres regiones (una isla tropical, un valle desértico con riego y un reino altiplánico, respectivamente) como pertenencias reales. Las tres eran de «indios ricos» en 1532, en las dos primeras regiones la población desapareció físicamente en los primeros decenios después de la invasión, y con ella la riqueza; los lupacas, en cambio, perduraron. La conservación de este reino se debe, según el quipu presentado por los señores lupacas, a que los pobladores del reino habían sido unas 20 000 unidades domésticas, esto es, 100 000 almas. Una etnia de 100 000 a más habitantes puede movilizar un número de colonos periféricos, estableciendo colonias enclavadas a distancias mucho mayores del núcleo, a cinco, diez y hasta más días de camino, permitiéndoles que tengan oasis en la costa del Pacífico, desde el valle de Lluta en Arica, hasta Sama y Moquegua, en donde cultivaban algodón y maíz, y recolectaban guano y productos marinos. Ahora bien, dado que los lupacas no fueron sino uno de varios reinos lacustres, ¿cuál fue el efecto, no solo en la costa, sino en el interior del continente de este método para alcanzar múltiples ecologías a través de colonias permanentes a largas distancias de los núcleos? Si todos los reinos altiplánicos tenían sus cocales, sus islas para guano, sus bosques, entonces, el mapa étnico de la región andina debe dibujarse con pinceles distintos a los que se usan en otros continentes donde etnias y territorios coinciden. MURRA, JOHN (1972). «El control vertical de un máximo de pisos ecológicos en la economía de las sociedades andinas». En Formaciones económicas y políticas del mundo andino. Lima: IEP (Texto editado) 1.",
+    "questions": [
+      {
+        "statement": "En su conjunto, la intención principal del autor es",
+        "alternatives": [
+          "A) evidenciar la diferencia de la distribución de tierras durante la Conquista.",
+          "B) mostrar los recursos a los que accedieron los habitantes del reino lupaca.",
+          "C) explicar la conservación de la población del reino lupaca en el siglo XVI.",
+          "D) dilucidar cómo funcionaba el control vertical ecológico en el reino lupaca."
+        ],
+        "correct": 3,
+        "rationale": "Tanto el texto como el dibujo explican el funcionamiento del control vertical de pisos ecológicos que caracterizó al reino lupaca."
+      },
+      {
+        "statement": "En el texto, el término PINCELES connota",
+        "alternatives": [
+          "A) instrumentos.",
+          "B) fuentes.",
+          "C) criterios.",
+          "D) versiones."
+        ],
+        "correct": 2,
+        "rationale": "En el texto, con dicha palabra se busca resalta la heterogeneidad de los reinos altiplánicos para diseñar el mapa étnico, frente a la homogeneidad de otras regiones; en tal sentido, transmite la idea de criterios o razones diferentes a las usuales."
+      },
+      {
+        "statement": "Siguiendo el desarrollo textual y el dibujo, podemos deducir que los pobladores que conformaban las 20 000 unidades domésticas",
+        "alternatives": [
+          "A) pasaron a formar parte de las tierras de los encomenderos.",
+          "B) eran experimentados pescadores tanto del mar como de ríos.",
+          "C) podían acceder a recursos de regiones distintas a las suyas.",
+          "D) superaron con creces a las de los otros reinos sudamericanos."
+        ],
+        "correct": 2,
+        "rationale": "El texto afirma que el control vertical de pisos ecológicos permitía que las 20 mil unidades domésticas que conformaban el reino lupaca puedan acceder a recursos de diferentes regiones, la imagen precisa cuáles eran esas regiones y los productos; en tal sentido, podemos inferir que había un acceso a diversos recursos en Lupaca."
+      }
+    ]
+  },
+  {
+    "type": "sentence_elimination",
+    "statement": "Siguiendo el desarrollo textual y el dibujo, podemos deducir que los pobladores que conformaban las 20 000 unidades domésticas",
+    "alternatives": [
+      "A) pasaron a formar parte de las tierras de los encomenderos.",
+      "B) eran experimentados pescadores tanto del mar como de ríos.",
+      "C) podían acceder a recursos de regiones distintas a las suyas.",
+      "D) superaron con creces a las de los otros reinos sudamericanos."
+    ],
+    "correct": 2,
+    "rationale": "El texto afirma que el control vertical de pisos ecológicos permitía que las 20 mil unidades domésticas que conformaban el reino lupaca puedan acceder a recursos de diferentes regiones, la imagen precisa cuáles eran esas regiones y los productos; en tal sentido, podemos inferir que había un acceso a diversos recursos en Lupaca."
+  },
+  {
+    "type": "sentence_elimination",
+    "statement": "De la población total que tuvo el reino lupaca, es incompatible sostener que esta",
+    "alternatives": [
+      "A) se dedicó solo a una actividad económica.",
+      "B) hablaba la lengua conocida como aimara.",
+      "C) podía movilizar varias colonias periféricas.",
+      "D) logró resistir los embates de la Conquista."
+    ],
+    "correct": 0,
+    "rationale": "El texto no dice que la población del reino lupaca, a diferencia de los de la isla de Puná y del valle del Chincha, se conservó gracias a que los pobladores pudieron diversificarse ecológicamente."
+  },
+  {
+    "type": "sentence_elimination",
+    "statement": "Si en los Andes se hubiese evitado el control vertical de pisos ecológicos, es posible que",
+    "alternatives": [
+      "A) las diferentes etnias indígenas se habrían enfrentado por el control de la Colonia.",
+      "B) el establecimiento de colonias en diferentes regiones habría sido muy improbable.",
+      "C) el monarca habría cedido sus tierras como encomiendas a varios conquistadores.",
+      "D) la explotación de los recursos ictiológicos en la costa habría sido muy asequible."
+    ],
+    "correct": 1,
+    "rationale": "El control de pisos ecológicos en los andes permitió la creación de colonias fuera de los núcleos; en ese sentido, de haberse evitado esto, dichas colonias no existirían."
+  },
+  {
+    "type": "reading_comprehension",
+    "statement": "Cuando algunos celebramos los cincuenta años de la muerte de un psicópata que usaba la ideología para encauzar lo mucho que le gustaba matar, como se lo expresó a su padre, partidos con representación parlamentaria en España aún se atreven a celebrar su figura, que, por cierto, es una de las más blanqueadas de la historia de la humanidad, porque se oculta quién fue en realidad este comunista argentino, cuyos hagiógrafos han favorecido omitiendo que fue un racista, un homofóbico y un homicida.\n\nEn su diario de viaje, escrito por su puño y letra, Ernesto Guevara registró una opinión lacerante respecto al negro en comparación con el europeo, en la cual expresaba que la pureza de los negros se debe al poco apego que tienen al baño, y que, a diferencia del portugués, que es laborioso y racional, el negro gasta lo poco que gana en borracheras y no tiene ninguna aspiración más que volver a emborracharse. Asimismo, organizó el campo de trabajos forzados de Guanahacabibes, en donde se recluía a homosexuales para que trabajen en condiciones de esclavitud, bajo el absurdo pretexto de que «el trabajo los hará hombres». Y también ordenó la muerte sumaria de un sinnúmero de personas, desdeñando un juicio a las víctimas, porque los juicios son detalles burgueses que no tienen cabida en una revolución, ya que en una revolución, uno debe convertirse en «una fría máquina de matar, motivado por un odio puro». Sobre este punto, Guevara nunca tuvo ningún problema en reconocer su avidez por el asesinato y que estos se cometían con total injusticia, tal como lo expresó el 11 de diciembre de 1964 en las Naciones Unidas, cuando aceptó que «sí hemos fusilado y seguiremos fusilando mientras sea necesario, porque nuestra lucha es una lucha a muerte, de tal modo que el camino pacífico está eliminado y la violencia es inevitable».\n\nRODRÍGUEZ, DANIEL. (10/09/2017). «Che Guevara, la \"fría máquina de matar\" que odiaba a negros y homosexuales». En Libertad digital. Recuperado\nhttps://www.libertaddigital.com/cultura/historia/2017-10-09/che-guevara-la-fria-maquina-de-matar-\nque-odiaba-a-los-negros-y-los-homosexuales-1276607234/. (Texto editado)\n\nEn un contexto en el que ciertos periodistas o intelectuales conservadores no tienen ningún rigor intelectual, ni moral, ellos encontraron un nuevo ángulo de ataque para desvalorizar a Ernesto Guevara, el Che, pero cómo darles crédito cuando aún están vivos los recuerdos de su apoteósico recibimiento en Argelia y sus audiencias entre 1962-1967 en las Naciones Unidas. Me acuerdo también de la emoción inmensa que había suscitado su muerte: miles de jóvenes manifestaban su pesar por la muerte de un héroe a priori alejado en la distancia y al que nadie en nuestras comarcas había visto prácticamente jamás. ¡Era increíble! Por esto, el Che no es un mito, como recientemente se quiere hacer creer, sino un símbolo al que se debe defender, porque encarna un pensamiento político ético y concreto, fundado sobre un universalista imperativo de negativa de la miseria, de la injusticia y de las desigualdades en nombre de una utopía de dignidad humana, de democracia, de derecho a vivir, de emancipación, de derecho a la felicidad y de solidaridad con el prójimo. Recordemos que escogió como estandarte político, la frase magnífica del poeta cubano José Martí: «todo hombre verdadero debe sentir sobre su mejilla el golpe dado a cualquier hombre».\n\nDe este modo, el Che concreta este principio de esperanza que intentó materializar, pagando con su vida, con la revolución porque era consciente de que la humanidad entera se enfrentaba en una guerra contra la miseria del hombre potenciada por el capitalismo: en 1954, la izquierda latinoamericana del siglo XX había sido atropellada (aplastada) por la burguesía, el ejército y la jerarquía católica, sembrando dolor y hambre entre las personas menos favorecidas. Disponemos de numerosos testimonios sobre su humanidad en los informes (relaciones) personales, lo que enmarca su orientación política en una dimensión moral: «el deber de todo joven comunista es ser esencialmente humano».\n\nSERIEYS, JACQUES. (15/03/2021). «Che Guevara: un símbolo de ética, de esperanza, de justicia social para América latina y de internacionalismo». Recuperado de\nhttp://www.gauchemip.org/spip.php?article3586. (Texto editado)",
+    "questions": [
+      {
+        "statement": "En esencia, ambos textos proponen posiciones abiertamente enfrentadas entorno",
+        "alternatives": [
+          "A) a la celebración de la muerte del Che Guevara",
+          "B) a la imagen real del guerrillero Ernesto Guevara",
+          "C) al mérito logrado por Guevara en la revolución",
+          "D) al testimonio de los crímenes imputados al Che"
+        ],
+        "correct": 1,
+        "rationale": "Tanto el texto A como el texto B exponen argumentos disidentes entorno a lo que consideran la verdadera figura del Che Guevara: un hombre cruel e injusto, según el texto A; y un hombre solidario y capaz de sentir el dolor del prójimo, según el texto B."
+      },
+      {
+        "statement": "En el texto A, se emplea el término BLANQUEADA para connotar",
+        "alternatives": [
+          "A) indulgencia.",
+          "B) ficción.",
+          "C) pureza.",
+          "D) falsedad."
+        ],
+        "correct": 3,
+        "rationale": "En el texto A con dicha palabra se busca transmitir la idea de que la figura del Che Guevara no es exacta con la realidad, en ese sentido, transmite la idea de algo falso."
+      },
+      {
+        "statement": "Determine cuál de los siguientes enunciados es incompatible con el pensamiento del Che Guevara.",
+        "alternatives": [
+          "A) Las revoluciones deben ser pacíficas, es decir, sin el coste de vidas humanas.",
+          "B) La búsqueda de un hombre nuevo es el norte que debe buscarse en la política.",
+          "C) Si se quiere evitar la violencia en la política, se incurriría en una gran ingenuidad.",
+          "D) El capitalismo es un sistema económico que propicia la miseria del ser humano."
+        ],
+        "correct": 0,
+        "rationale": "En texto A, Daniel Rodríguez, afirma que el Che Guevara nunca negó que los asesinatos cometidos eran injustos."
+      }
+    ]
+  }
+]

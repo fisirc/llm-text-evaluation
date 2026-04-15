@@ -1,0 +1,496 @@
+[
+  {
+    "type": "reading_comprehension",
+    "statement": "Combina una parte de Dragón Ardiente, algo de Diana Virgen, y al menos siete Águilas de mercurio. ¿Qué se obtiene ? Un precursor clave de la Piedra Filosofal, según un manuscrito recién descubierto, escrito de puño y letra por el legendario físico Isaac Newton. Conservado durante décadas en una colección privada, el documento del siglo XVII ahora se encuentra en manos de Chemical Heritage Foundation, de la Universidad de Pensilvania, organización no lucrativa que está por subir  imágenes y transcripciones digitalizadas a una base de datos en línea, a fin de que el público pueda estudiar la versión de Newton del texto alquímico.  Se suponía que, a su vez, dicha piedra podía cambiar metales innobles, como el plomo, en metales preciosos como el oro. Aunque no hay pruebas de que Newton haya producido mercurio sófico, el manuscrito permitirá que los estudiosos entiendan cómo interpretó las recetas alquímicas, a menudo profundamente codificadas, explica el historiador científico William Newman de la Universidad de Indiana. El documento también subraya el hecho de que Newton —uno de los padres de la física moderna y codescubridor del cálculo — fue influenciado en gran medida por la alquimia y sus colaboraciones con alquimistas.  Newton escribió más de un millón de palabras sobre la alquimia a lo largo de su vida, con la esperanza de usar ese antiguo conocimiento para explicar la naturaleza de la materia; y quizás, enriquecerse. No obstante, los académicos siempre han sido cautelosos con esta conexión, porque la alquimia, tradicionalmente, ha sido descartada como una pseudociencia mística plagada de procesos fantasiosos y desacreditados.  «Durante muchos, muchos años, la alquimia de Newton fue considerada intocable », dice Newman. Pero él y otros historiadores consideran ahora que los alquimistas fueron técnicos dedicados que trabajaron metódicamente con sus equipos e hicieron abundantes anotaciones, a menudo cifrando sus recetas con símbolos mitológicos para proteger conocimientos arduamente adquiridos. Gresko, Michael (2016) . «Redescubren receta alquímica perdida de Isaac Newton» . En National Geographic en Español. Recuperado el 11 de abril de 2016 a las 18: 00 h. <http://www.ngenespanol.com/ciencia/descubrimientos/16/04/5/Redescubren-receta-alquimica-perdida-de-Isaac-Newton/>",
+    "questions": [
+      {
+        "statement": "El texto aborda centralmente el tema de",
+        "alternatives": [
+          "A) la alquimia relacionada con símbolos mitológicos y el saber formal.",
+          "B) el documento místico de Newton para crear plomo y otros metales.",
+          "C) una receta alquímica de Isaac Newton recientemente descubierta.",
+          "D) Isaac Newton y su afición por los procedimientos mágico-religiosos.",
+          "E) la física moderna y la alquimia creadas por una fórmula de Newton."
+        ],
+        "correct": 2,
+        "rationale": null
+      },
+      {
+        "statement": "La palabra SUBIR en el texto se puede reemplazar por",
+        "alternatives": [
+          "A) ascender.",
+          "B) virtualizar.",
+          "C) visualizar.",
+          "D) digitalizar.",
+          "E) ingresar."
+        ],
+        "correct": 4,
+        "rationale": null
+      },
+      {
+        "statement": "Resulta incompatible con el texto afirmar que Isaac Newton",
+        "alternatives": [
+          "A) fue uno de los padres de la física moderna y cocreador del cálculo.",
+          "B) pudo haber interpretado las recetas alquímicas de carácter críptico.",
+          "C) realizó una aproximación a la Piedra Filosofal mediante la alquimia.",
+          "D) soslayó la obtención de saberes mediante procedimientos objetivos.",
+          "E) utilizó las fórmulas alquímicas anotadas m anual y metódicamente."
+        ],
+        "correct": 3,
+        "rationale": null
+      },
+      {
+        "statement": "Es posible inferir del desarrollo textual que el trabajo científico de Newton",
+        "alternatives": [
+          "A) jamás se vio empañado por la confianza que este tenía en la alquimia.",
+          "B) fue desplazado por la profunda fijación de este por los ritos mágicos.",
+          "C) se redujo a un puñado de anotaciones impracticables e ininteligibles.",
+          "D) estuvo motivado por sus deseos de convertirse en un notable mago.",
+          "E) se caracterizó por el rechazo de la sistematicidad y la predictibilidad."
+        ],
+        "correct": 0,
+        "rationale": null
+      }
+    ]
+  },
+  {
+    "type": "sentence_elimination",
+    "statement": "Es posible inferir del desarrollo textual que el trabajo científico de Newton",
+    "alternatives": [
+      "A) jamás se vio empañado por la confianza que este tenía en la alquimia.",
+      "B) fue desplazado por la profunda fijación de este por los ritos mágicos.",
+      "C) se redujo a un puñado de anotaciones impracticables e ininteligibles.",
+      "D) estuvo motivado por sus deseos de convertirse en un notable mago.",
+      "E) se caracterizó por el rechazo de la sistematicidad y la predictibilidad."
+    ],
+    "correct": 0,
+    "rationale": "A pesar de ser un notable hombre de ciencia, Isaac Newton confiaba en  los procedimientos alquímicos; sin embargo, estas prácticas no mellaron su trabajo científico."
+  },
+  {
+    "type": "sentence_elimination",
+    "statement": "Si Newton hubiera considerado a la alquimia como una práctica supersticiosa, entonces",
+    "alternatives": [
+      "A) la física jamás se habría afianzado como una ciencia.",
+      "B) habría rechazado la búsqueda de la Piedra Filosofal.",
+      "C) su formación científica habría carecido de objetividad.",
+      "D) los datos del manuscrito pertenecerían a W. Newman.",
+      "E) la Piedra Filosofal habría sido obtenida objetivamente."
+    ],
+    "correct": 1,
+    "rationale": "La Piedra Filosofal era una pretensión alquímica. Si Newton hubiera rechazado la alquimia como práctica objetiva, la Piedra Filosofal habría sido soslayada."
+  },
+  {
+    "type": "reading_comprehension",
+    "statement": "I) Entre  la producción  poética de Allan Poe destacan una docena de poemas por su impecable construcción literaria y por sus ritmos y temas obsesivos. II) «Los crímenes de la calle Morgue» (1841), «El misterio de Marie Rogêt» (1842 -1843) y «La carta robada» (1844) son obras de Allan Poe consideradas como los predecesores de la moderna novela de misterio o policiaca. III) En el poema «El cuervo» (1845), por ejemplo, Poe se siente abrumado por la melancolía y los augurios de la muerte. IV) El dominio extraordinario de Poe del ritmo y el sonido es, particularmente, evidente en «Las campanas» (1849), los versos evocan el repique de los instrumentos metálicos. V) «Lenore» (1831) y «Annabel Lee» (1849) son elegías donde Poe alude a la muerte de una hermosa joven.",
+    "questions": [
+      {
+        "statement": "A) I B) II C) III D) IV E) V",
+        "alternatives": [
+          "A) I",
+          "B) II",
+          "C) III",
+          "D) IV",
+          "E) V"
+        ],
+        "correct": 1,
+        "rationale": "El tema es la poética de Edgar A. Poe. Por tanto, se elimina la oración II, que trata sobre su narrativa."
+      }
+    ]
+  },
+  {
+    "type": "reading_comprehension",
+    "statement": "I) Francesco Petrarca fue un poeta y humanista italiano, considerado el primero y uno de los más importantes poetas líricos modernos . II) Petrarca perfecciona el soneto  lo que influyó en numerosos poetas posteriores, desde los españoles Garcilaso de la Vega y Quevedo hasta los ingleses William Shakespeare y Edmund Spenser . III) Francesco Petrarca fue reconocido como «primer gran humanista» por su amplio conocimiento de los autores de la Antigüedad y su restauración del latín clásico . IV) El Viernes Santo de 13 27,  Petrarca vio por primera vez a Laura, la mujer idealizada cuyo nombre inmortalizó a través de sus poemas líricos . V) Petrarca creía en la continuidad entre la cultura clásica y las doctrinas cristianas  e impulsó  el humanismo europeo.",
+    "questions": [
+      {
+        "statement": "A) IV  B) I C)  III  D) I E) V",
+        "alternatives": [
+          "A) IV",
+          "B) I",
+          "C)  III",
+          "D) I",
+          "E) V"
+        ],
+        "correct": 0,
+        "rationale": "El tema gira en torno a los aportes del poeta y humanista Francesco Petrarca. Se elimina la oración IV por impertinencia, pues aborda un aspecto amoroso."
+      }
+    ]
+  },
+  {
+    "type": "sentence_elimination",
+    "statement": "2.  I) Francesco Petrarca fue un poeta y humanista italiano, considerado el primero y uno de los más importantes poetas líricos modernos . II) Petrarca perfecciona el soneto  lo que influyó en numerosos poetas posteriores, desde los españoles Garcilaso de la Vega y Quevedo hasta los ingleses William Shakespeare y Edmund Spenser . III) Francesco Petrarca fue reconocido como «primer gran humanista» por su amplio conocimiento de los autores de la Antigüedad y su restauración del latín clásico . IV) El Viernes Santo de 13 27,  Petrarca vio por primera vez a Laura, la mujer idealizada cuyo nombre inmortalizó a través de sus poemas líricos . V) Petrarca creía en la continuidad entre la cultura clásica y las doctrinas cristianas  e impulsó  el humanismo europeo.\n\nA) IV  B) I C)  III  D) I E) V\n\nSolución :\n\nEl tema gira en torno a los aportes del poeta y humanista Francesco Petrarca. Se\nelimina la oración IV por impertinencia, pues aborda un aspecto amoroso.\nRpta.: A\n\n¿Qué oración se elimina?",
+    "alternatives": [
+      "A) IV",
+      "B) I",
+      "C)  III",
+      "D) I",
+      "E) V"
+    ],
+    "correct": 0,
+    "rationale": "El tema gira en torno a los aportes del poeta y humanista Francesco Petrarca. Se elimina la oración IV por impertinencia, pues aborda un aspecto amoroso."
+  },
+  {
+    "type": "sentence_elimination",
+    "statement": "3.  I) Los gestos son  uno de los recursos más presentes en el lenguaje corporal ya que implican el movimiento de alguna parte de nuestro cuerpo. II) Los gestos puede n expresar  sensación o sentimiento al respecto de algo o de alguien y tienen la misión de demostrar la aprobación o el rechazo a ellos.  III) Para enfatizar el contenido del mensaje hablado durante la comunicación lingüística se emplean los gestos. IV) A través de los gestos es posible demostrar disconformidad, atención al interlocutor, reproche, entre otros. V) Los gestos se emplean tanto en la comunicación corporal como en la lingüística.\n\nA) V B) I C)  III  D) II E) IV\n   Ciclo Ordinario 2016 -I\n\nEl tema gira en torno a los gestos. Se elimina la oración V por redundancia, pues ya se halla implícito en las demás.\nRpta.: A\n\n¿Qué oración se elimina?",
+    "alternatives": [
+      "A) V",
+      "B) I",
+      "C)  III",
+      "D) II",
+      "E) IV"
+    ],
+    "correct": 0,
+    "rationale": "El tema gira en torno a los gestos. Se elimina la oración V por redundancia, pues ya se halla implícito en las demás."
+  },
+  {
+    "type": "sentence_elimination",
+    "statement": "4.   I) La ciudad de Alejandría fue, sin lugar a dudas, el centro económico y cultural más importante del mundo al apagarse los resplandores de la antigua Atenas . II) Apoyada en el favor munificente de lo s sucesores de Alejandro y en su  prosperidad comercial , floreció en Alejandría una sociedad refinada y culta . III) En Alejandría  se crearon las primeras grandes instituciones culturales de Occidente, que heredaron la gloria que de una manera más modesta habían alcanzado en Atenas la Academia y el Liceo. IV) Alejan dría fue un foco de atracción para los judíos, y fue allí donde tuvo lugar principalmente la confrontación entre la cultura y la religión semítica s y la religión grecorromana. V)  En Alejandría vivió el judío Filón, cuya vasta obra literaria pretende reinterpretar las Escrituras y la religión de los judíos de tal suerte que incorporen los mejores logros de la civilización helenística.\n\n A) I B) II C) III  D) IV  E) V\n\nSolución :\n\nEl texto gira en torno a la ciudad de Alejandría.  Se elimina la oración V, pues trata del judío Filón. Criterio impertinencia.\nRpta.: E\n\n¿Qué oración se elimina?",
+    "alternatives": [
+      "A) I",
+      "B) II",
+      "C) III",
+      "D) IV",
+      "E) V"
+    ],
+    "correct": 4,
+    "rationale": "El texto gira en torno a la ciudad de Alejandría.  Se elimina la oración V, pues trata del judío Filón. Criterio impertinencia."
+  },
+  {
+    "type": "sentence_elimination",
+    "statement": "5. I) La pragmática tiene como objetivo fundamental abordar la lengua en uso . II) La pragmática presenta como unidad de análisis fundamental el enunciado. III)  Para el análisis pragmático tanto el emisor como el enunciatario poseen un marco de conocimientos en común . IV) El enunciado puede ser una palabra, una frase o una oración. V)  La pragmática considera que el significado debe abordarse en términos no convencionales .\n\nA) I B) IV  C) III  D) II E) V\n\nSolución :\n\nSe elimina la oración IV por impertinencia: el tema es la pragmática .\nRpta.: B\n\n¿Qué oración se elimina?",
+    "alternatives": [
+      "A) I",
+      "B) IV",
+      "C) III",
+      "D) II",
+      "E) V"
+    ],
+    "correct": 1,
+    "rationale": "Se elimina la oración IV por impertinencia: el tema es la pragmática ."
+  },
+  {
+    "type": "reading_comprehension",
+    "statement": "En el lapso de dos décadas y media, la emergencia de China se ha convertido en uno de los principales vectores  de la transformación de la economía mundial. La dinámica inédita de su crecimiento económico se ha traducido en una participación cada vez más importante en las esferas del comercio global, las corrientes de inversión directa y las fuentes del financiamiento internacional. Los enormes cambios económicos, sociales y demográficos ocurridos en ese lapso e n el país más poblado del mundo  han generado una demanda excepcional de alimentos, minerales y energía, lo cual ha tenido a su vez repercusiones de gran magnitud sobre los precios internacionales de los productos básicos. A partir de la década pasada, China ocupa un lugar preponderante en el comercio exterior de América Latina, y la región latinoamericana también ha adquirido una creciente importancia en el relacionamiento comercial de ese país. Igualmente han aumentado las inversiones chinas en la región, en particular en los ámbitos de la infraestructura física, la explotación de recursos naturales y las plataformas exportadoras de materias primas. La intensidad y los rasgos característicos de las relaciones económicas sino -latinoamericanas difieren notablemente según los países, al igual que son diferentes los impactos que se derivan de la penetración de productos chinos en los mercados que anteriormente eran abastecidos por las economías latinoamericanas. En la perspectiva de las próximas décadas, parece probable que la dinámica general de las relaciones económicas internacionales dependerá en buena medida del dinamismo que pongan de manifiesto China y las economías de la zona Asia -Pacífico. De acá deriva la importancia crítica para los países de nuestra región de establecer estrategias y políticas compartidas respecto de su relacionamiento con los mercados del Asia. Se trata de corregir las asimetrías que ya se han hecho evidentes, pero asimismo de establecer mecanismos apropiados de concertación y cooperación que garanticen beneficios recíprocos a todas las economías involucradas.",
+    "questions": [
+      {
+        "statement": "Con respecto al tema de la inversión preponderante de China en América Latina, el texto destaca",
+        "alternatives": [
+          "A) la alta inestabilidad del carácter de las relaciones sino -latinoamericanas.",
+          "B) el modelo de desarrollo económico preponderante en América Latina.",
+          "C) el aumento innegable de la tasa de exportaciones hacia el país asiático.",
+          "D) la urgencia  de acciones recíprocas en las relaciones con el país Asiático.",
+          "E) el carácter conciliador y comercial de los pactos entre los países  de Asia ."
+        ],
+        "correct": 3,
+        "rationale": "El texto destaca la necesidad de una política común de los países latinoamericanos en sus tratos comerciales con China y el posible incremento de la inversión del país asiático."
+      },
+      {
+        "statement": "En el texto la palabra VECTOR se puede reemplazar por",
+        "alternatives": [
+          "A) fragmento.",
+          "B) agente.",
+          "C) magnitud.",
+          "D) efecto.",
+          "E) cimiento."
+        ],
+        "correct": 1,
+        "rationale": "En el texto se usa el vocablo para referirse a China como el propiciador de la transformación de la economía mundial. En tal sentido, VECTOR puede reemplazarse por AGENTE."
+      }
+    ]
+  },
+  {
+    "type": "reading_comprehension",
+    "statement": "El texto destaca la necesidad de una política común de los países latinoamericanos en sus tratos comerciales con China y el posible incremento de la inversión del país asiático.",
+    "questions": [
+      {
+        "statement": "El texto gira en torno a",
+        "alternatives": [
+          "A) el Parque Nacional Galápagos como estandarte de especies extintas.",
+          "B) la disminución alarmante de tortugas gigantes en zonas de Europa.",
+          "C) la extinción de tortugas gigantes en el Parque Nacional Galápagos.",
+          "D) un caso exitoso de recuperación de tortugas gigantes en la Española.",
+          "E) los estudios que James Gibbs realizó respecto de tortugas gigantes."
+        ],
+        "correct": 3,
+        "rationale": "El tema central  es la revitalización de tortugas gigantes en la isla Galápagos, un caso exitoso de recuperación de una especie que estaba en claro peligro de extinción."
+      },
+      {
+        "statement": "La idea principal del texto es",
+        "alternatives": [
+          "A) el aumento de las tortugas gigantes en la isla Española está revirtiendo los daños causados por cabras salvajes.",
+          "B) las tortugas reintroducidas en la isla Española después de cuarenta años se están reproduciendo a un ritmo considerable.",
+          "C) un artículo aparecido en la prestigiosa revista Plos On e deja evidencia acerca de la revitalización de especies.",
+          "D) la evaluación de tortugas en la isla Galápagos se correspondió con distintas variables como la recaptura.",
+          "E) en la isla Española se ha recuperado una población de tortugas gigantes que estuvieron  a punto de extinguirse."
+        ],
+        "correct": 4,
+        "rationale": "En efecto, una especie de tortugas gigantes a punto de extinguirse ha aumentado su población debido a una acción conjunta de especialistas que ha dado los frutos esperados en la isla Española."
+      }
+    ]
+  },
+  {
+    "type": "reading_comprehension",
+    "statement": "Una población de tortugas gigantes en peligro de extinción, que alguna vez se redujo a poco más de una docena de ejemplares, se ha recuperado en la isla Española del archipiélago de Galápagos. El hallazgo es descrito como «una verdadera historia de éxito y esperanza en la conservación» según el autor principal de un estudio publicado el 28 de octubre. A unos 40 años de que las primeras tortugas criadas en cautiverio fueran reintroducidas en la isla por la dirección del Parque Nacional Galápagos, las tortugas gigantes endémicas de Española se están reproduciendo, restaurando así parte  de los daños ecológicos provocados por las cabras salvajes que fueron traídas a la isla a fines del siglo XIX. «La población mundial se había reducido a so lo 15 tortugas en la década de 1960. Ahora, hay unas 1000 de ellas que se reproducen por sí mismas. La población es fuerte. Es un raro ejemplo de cómo los biólogos y los administradores pueden converger para recuperar una especie en peligro de extinción», comentó James P. Gibbs, profesor de biología para la conservación de vertebrados en el Colegio de Ciencias Ambientales y Forestales de la Universidad del Estado de Nueva York, y autor principal del artículo publicado en la revista Plos One . Gibbs  y sus colaboradores evaluaron la población de tortugas y su evolución, utilizando 40 años de información sobre ejemplares marcados y recapturados en varias ocasiones, con fines de medición y monitoreo sostenidos, por representantes del Parque Nacional Galápagos, miembros de la Fundación Charles Darwin y científicos visitantes. Gresca, Michael (2016). « Tortugas gigantes se alejan de la extinción». En Nacional Geographic en Español. Recuperado el 11 de abril de 2016 a las 18: 00 h. <http://www.ngenespanol.com/naturaleza/animales/14/10/30/tortugas -gigantes -se-alejan -extinción/>",
+    "questions": [
+      {
+        "statement": "El texto gira en torno a",
+        "alternatives": [
+          "A) el Parque Nacional Galápagos como estandarte de especies extintas.",
+          "B) la disminución alarmante de tortugas gigantes en zonas de Europa.",
+          "C) la extinción de tortugas gigantes en el Parque Nacional Galápagos.",
+          "D) un caso exitoso de recuperación de tortugas gigantes en la Española.",
+          "E) los estudios que James Gibbs realizó respecto de tortugas gigantes."
+        ],
+        "correct": 3,
+        "rationale": "El tema central  es la revitalización de tortugas gigantes en la isla Galápagos, un caso exitoso de recuperación de una especie que estaba en claro peligro de extinción."
+      },
+      {
+        "statement": "La idea principal del texto es",
+        "alternatives": [
+          "A) el aumento de las tortugas gigantes en la isla Española está revirtiendo los daños causados por cabras salvajes.",
+          "B) las tortugas reintroducidas en la isla Española después de cuarenta años se están reproduciendo a un ritmo considerable.",
+          "C) un artículo aparecido en la prestigiosa revista Plos On e deja evidencia acerca de la revitalización de especies.",
+          "D) la evaluación de tortugas en la isla Galápagos se correspondió con distintas variables como la recaptura.",
+          "E) en la isla Española se ha recuperado una población de tortugas gigantes que estuvieron a punto de extinguirse."
+        ],
+        "correct": 4,
+        "rationale": "En efecto, una especie de tortugas gigantes a punto de extinguirse ha aumentado su población debido a una acción conjunta de especialistas que ha dado los frutos esperados en la isla Española."
+      }
+    ]
+  },
+  {
+    "type": "sentence_elimination",
+    "statement": "1. I) Es posible que los caballos se estén transformando en bestias genéticamente más rápidas.  II) La dieta puede ser una variable a considerar acerca de la rapidez que están adquiriendo los caballos con el paso del tiempo. III) El estilo de conducción moderno reduce la demanda de energía y permite que los caballos se estén volviendo más rápido s. IV) Antes de 1900, los jinetes británicos se sentaban en posición vertical en estribos largos. V) El cambio a estribos cortos mejoró los tiempos de carrera hasta en un 7%, de acuerdo con un estudio sobre el incremento de la velocidad en los caballos .",
+    "alternatives": [
+      "A) V",
+      "B) II",
+      "C) III",
+      "D) I",
+      "E) IV"
+    ],
+    "correct": 4,
+    "rationale": "Se elimina por impertinencia. El tema es las potenciales causas que están generando una mayor velocidad en los caballos."
+  },
+  {
+    "type": "sentence_elimination",
+    "statement": "2. I) Como si se tratara de un ser de la época de los dinosaurios, un enorme pez, conocido como tiburón peregrino, fue extraído por pescadores de Australia esta semana.  II) El tiburón capturado en Australia , de 6.3 metros de largo, proviene de la segunda especie de peces más grande del mundo, después de los tiburones ballena. III) El Tiburón peregrino f ue capturado accidentalmente por una embarcación pesquera de Portland, en el suroeste de Australia.  IV) El tiburón que está causando sensación en Australia es el tercer tiburón peregrino reportado en 160 años, según el   Ciclo Ordinario 2016 -I y son conocidos por su carácter amable.",
+    "alternatives": [
+      "A) V",
+      "B) I",
+      "C) III",
+      "D) II",
+      "E) IV"
+    ],
+    "correct": 0,
+    "rationale": "Se elimina según el criterio de impertinencia."
+  },
+  {
+    "type": "sentence_elimination",
+    "statement": "2. I) Como si se tratara de un ser de la época de los dinosaurios, un enorme pez, conocido como tiburón peregrino, fue extraído por pescadores de Australia esta semana.  II) El tiburón  capturado en Australia , de 6.3 metros de largo, proviene de la segunda especie de peces más grande del mundo, después de los tiburones ballena. III) El Tiburón peregrino f ue capturado accidentalmente por una embarcación pesquera de Portland, en el suroeste de Australia.  IV) El tiburón que está causando sensación en Australia es el tercer tiburón peregrino reportado en 160 años, según el   Ciclo Ordinario 2016 -I\n\ny son conocidos por su carácter amable.",
+    "alternatives": [
+      "A) V",
+      "B) I",
+      "C) III",
+      "D) II",
+      "E) IV"
+    ],
+    "correct": 0,
+    "rationale": "Se elimina según el criterio de impertinencia."
+  },
+  {
+    "type": "sentence_elimination",
+    "statement": "3. I) El calor está matando en los últimos años más personas que cualquier otra forma de clima extremo.  II) En la última década, olas de calor que alcanzaron temperaturas de bulbo húmedo de 29ºC a 31ºC causaron decenas de miles de muertes en Europa, Rusia y Medio Oriente.  III) El verano pasado, más de 2 300 personas murieron por el calor extremo en India, donde la temperatura del aire alcanzó los 50ºC. IV) Este año, la elevada humedad y temperaturas que escalaron a 43.3ºC, también resultaron mortíferas en Egipto. V) Fue necesario interrumpir el trabajo durante varios días del verano en Irak, para evitar las muertes de más operarios, mientras los termómetros oscilaban alrededor de la marca de 50ºC.",
+    "alternatives": [
+      "A) I",
+      "B) III",
+      "C) II",
+      "D) IV",
+      "E) V"
+    ],
+    "correct": 0,
+    "rationale": "Se elimina la oración I por redundancia ."
+  },
+  {
+    "type": "reading_comprehension",
+    "statement": "Antes que nada, Don Quijote de la Mancha , la inmortal novela de Cervantes, es una imagen:\nla de un hidalgo cincuentón, embutido en una armadura anacrónica y tan esquelético como\nsu caballo, que, acompañado por un campesino basto y gordinflón montado en un asno,\nque hace  las veces de escudero, recorre las llanuras de La Mancha, heladas en inviernos\ny candentes en verano, en busca de aventuras. Lo anima un designio enloquecido: resucitar\nel tiempo eclipsado siglos atrás (y que, por lo demás, nunca existió) de los caballeros\nandantes, que recorrían el mundo socorriendo a los débiles, desfaciendo  entuertos y\nhaciendo reinar una justicia para los seres del común que de otro modo estos jamás\nalcanzarían, del que se ha impregnado leyendo las novelas de caballería, a las que él\natribuye la veracidad de escrupulosos libros de historia. Este ideal es imposible de alcanzar\nporque todo en la realidad en la que vive el Quijote lo desmiente: ya no hay caballeros\nandantes, ya nadie profesa las ideas ni respeta los valores que movían a aquellos, ni la\nguerra es un asunto de desafíos individuales  en los que, ceñidos a un puntilloso ritual, dos\ncaballeros dirimen fuerzas. Ahora, como se lamenta con melancolía el propio don Quijote\nen su discurso sobre las Armas y las Letras, la guerra no la deciden  las espadas y las\nlanzas, es decir, el coraje y la pericia del individuo, sino el trotar de los cañones y la pólvora,\nuna artillería que, en el estruendo de las matanzas que provoca, ha volatilizado aquellos\ncódigos del honor individual y las proezas de los héroes que forjaron las siluetas  míticas de\nun Amadís de Gaula, de un Tirante el Blanco y de un Tristán de Leonís .",
+    "questions": [
+      {
+        "statement": "Acerca del ideal caballeresco mencionado en el texto se puede deducir que",
+        "alternatives": [
+          "A) la melancolía motivó este ideal desde la realidad.",
+          "B) el accionar de los cañones es afín a este ideal.",
+          "C) su concreción de la guerra resulta anacrónica.",
+          "D) es imposible deshacer este ideal en la realidad.",
+          "E) los seres de abolengo  han volatilizado el honor."
+        ],
+        "correct": 2,
+        "rationale": "Actualmente , la concreción del ideal caballeresco es anacrónica en términos de guerra."
+      },
+      {
+        "statement": "La palabra DECIDIR en el texto se puede reemplazar por",
+        "alternatives": [
+          "A) señalar.",
+          "B) organizar.",
+          "C) indicar .",
+          "D) determinar .",
+          "E) figurar."
+        ],
+        "correct": 3,
+        "rationale": "La palabra se refiere a las armas que podrían definir, esto es, determinar una guerra . En tanto que tal, DECIDIR no expresa un acto volitivo, sino una causa y, por ello, el sinónimo es DETERMINAR."
+      },
+      {
+        "statement": "Para don Quijote el valor de verdad que tienen los caballeros andantes importa debido a",
+        "alternatives": [
+          "A) su comprensión inusitada del amor romántico y pasional.",
+          "B) la necesidad de que exista la justicia y su lucha por ella.",
+          "C) la lucha contra el materialismo que representa su escudero.",
+          "D) la oportunidad de vivir aventuras sin que terminen  jamás.",
+          "E) la oportunidad de replegarse ante la guerra como antihéroe ."
+        ],
+        "correct": 1,
+        "rationale": "La justicia para los seres del común es una lucha que don Quijote atraviesa a lo largo del relato según el autor, inspirado por la lectura de libros de historia."
+      },
+      {
+        "statement": "Sobre la guerra en el contexto actual es incompatible afirmar que",
+        "alternatives": [
+          "A) sus causas son distintas a las del mundo medieval .",
+          "B) resultaría anacrónica que esta ocurra por el honor .",
+          "C) existe  pero de forma distinta a la  de tipo individual .",
+          "D) el material bélico carece de relevancia  para ganar.",
+          "E) se asume de manera diferente a l valor del pasado."
+        ],
+        "correct": 3,
+        "rationale": "En el contexto actual todos los valores del pasado , que eran caballerescos , ya dejaron de tener permanencia y la artillería es decisiva para ganar."
+      }
+    ]
+  },
+  {
+    "type": "sentence_elimination",
+    "statement": "4.  Sobre la guerra en el contexto actual es incompatible afirmar que",
+    "alternatives": [
+      "A) sus causas son distintas a las del mundo medieval .",
+      "B) resultaría anacrónica que esta ocurra por el honor .",
+      "C) existe  pero de forma distinta a la  de tipo individual .",
+      "D) el material bélico carece de relevancia  para ganar.",
+      "E) se asume de manera diferente a l valor del pasado."
+    ],
+    "correct": 3,
+    "rationale": null
+  },
+  {
+    "type": "reading_comprehension",
+    "statement": "Por mandato constitucional y jurisprudencial , la educación en Colombia es obligatoria de los 5 a los 18 años de edad;  comprendiendo un año de preescolar y once años de educación básica y media. La Ley General de Educación colombiana (LGECo; Ley 115 del 8 de febrero de 1994) es el estatuto que dispone las normas generales para regular el servicio público de la educación e n Colombia. La dirección y administración del servicio educativo estatal se realiza en forma descentralizada y es de competencia de la nación y las entidades territoriales (e.g. departamentos y municipios certificados) en los términos que señala la Constitución Política y otras leyes. De otra parte, la educación estatal es financiada por los recursos del erario fiscal, con el que se determinan las transferencias de los departamentos y distritos; otros recursos públicos nacionales dispuestos por ley (e.g. regalías o pagos que realizan las compañías petroleras); y los aportes de los departamentos, distritos y municipios según determina la ley. De acuerdo al artículo 173 de la LGECo, los recursos financieros en educación deben cubrir los gastos del funcionamiento y administración del servicio de educación estatal, que aumentarán anualmente para permitir atender adecuadamente el mismo. En el año 2012, el gasto en educación o el total de recursos públicos nacionales y territoriales para financiar la implementación  de la educación alcanzó los 1235 millones de pesos colombianos, equivalente al 4.8% del Producto Interno Bruto (PIB). Según el Ministerio de Educación Nacional de Colombia (MENCo): « En el periodo comprendido entre 2007 y 2012, el gasto público en educación creció a una tasa promedio anual de 11.5%, lo cual sitúa al sector educativo dentro de los de mayor participación en el gasto público social». El presupuesto total del Ministerio de Educación Nacional presentado al Congreso de la República para el año 20 13 fue de 1461 millones de pesos colombianos, lo que representó un incremento del 7.7% del presupuesto de 2012. De esta cifra, el 94.3% corresponde a gastos de funcionamiento y el restante a gastos de inversión. Como puede verse en el gráfico, en los últimos 7 años el incremento del presupuesto de inversión del MENCo ha sido constante, con excepción de un notable decrecimiento experimentado en el año 2011:",
+    "questions": [
+      {
+        "statement": "1. El texto destaca principalmente la inversión educativa en Colombia , señala  que",
+        "alternatives": [
+          "A) su crecimiento en general bordea el 4,8 del PBI según el MENCo.",
+          "B) existe una tendencia al incremento en la inversión educativa.",
+          "C) entre el 20 07 y el 2011 la inversión superó  el 11.3% anual .",
+          "D) existe un crecimiento que siempre ha sido constante.",
+          "E) la administración del servicio educativo es centralizada."
+        ],
+        "correct": 1,
+        "rationale": "El texto destaca la tendencia al crecimiento de la inversión educativa en Colombia."
+      },
+      {
+        "statement": "2.  La palabra SITUADO en el texto puede funcionar como",
+        "alternatives": [
+          "A) renta.",
+          "B) bono.",
+          "C) gratificación.",
+          "D) prebenda .",
+          "E) descuento ."
+        ],
+        "correct": 0,
+        "rationale": "La palabra señalada alude a una renta percibida por el fisco."
+      },
+      {
+        "statement": "4. Es incompatible  con el texto afirmar que  la inversión educativa",
+        "alternatives": [
+          "A) evidenció una recuperación el año 2012 en Colombia.",
+          "B) es una consigna para las autoridades colombianas .",
+          "C) se incrementó mínimamente durante el año 2011.",
+          "D) alcanzó su pico más alto en Colombia en el 2013.",
+          "E) evidencia un incremento casi sostenido en Colombia ."
+        ],
+        "correct": 2,
+        "rationale": "En el 2011 no hubo incremento en la inversión educativa."
+      },
+      {
+        "statement": "5. Si no hubiera ocurrido el decremento de inversión educativa durante el año 2011, posiblemente",
+        "alternatives": [
+          "A) la inversión educativa colombiana habría decrecido mucho.",
+          "B) se habría  dado un freno a la inversión educativa colombiana.",
+          "C) la tendencia al alza se habría mantenido constante siempre.",
+          "D) el 94.3% de los gastos efectuados habría  decrecido mucho.",
+          "E) en el 2012 la inversión podría haber sufrido una disminución."
+        ],
+        "correct": 2,
+        "rationale": "La tendencia se mantuvo casi constante , excepto en el 2011 . De no haber ocurrido este evento , la tendencia constante al alza se hubiese dado siempre."
+      }
+    ]
+  },
+  {
+    "type": "synonyms_and_antonyms",
+    "statement": "1.  Aversión, odio, animadversión,",
+    "alternatives": [
+      "A) repugnancia.",
+      "B) empatía.",
+      "C) insania ."
+    ],
+    "correct": 0,
+    "rationale": null
+  },
+  {
+    "type": "incomplete_sentences",
+    "statement": "5. Si no hubiera ocurrido el decremento de inversión educativa durante el año 2011, posiblemente",
+    "alternatives": [
+      "A) la inversión educativa colombiana habría decrecido mucho.",
+      "B) se habría  dado un freno a la inversión educativa colombiana.",
+      "C) la tendencia al alza se habría mantenido constante siempre.",
+      "D) el 94.3% de los gastos efectuados habría  decrecido mucho.",
+      "E) en el 2012 la inversión podría haber sufrido una disminución."
+    ],
+    "correct": 2,
+    "rationale": "La tendencia se mantuvo casi constante , excepto en el 2011 . De no haber ocurrido\neste evento , la tendencia constante al alza se hubiese dado siempre."
+  },
+  {
+    "type": "verbal_series",
+    "statement": "1. Aversión, odio, animadversión,",
+    "alternatives": [
+      "A) repugnancia.",
+      "B) empatía.",
+      "C) insania .",
+      "D) negligencia .",
+      "E) tozudez ."
+    ],
+    "correct": 0,
+    "rationale": "Serie de palabras asociadas al rechazo o repugnancia. Debe completarse la serie con\nel término REPUGNANCIA."
+  },
+  {
+    "type": "analogies",
+    "statement": "2. Ecuánime, sereno; ingente, pequeño; estocástico, azaroso;",
+    "alternatives": [
+      " A) garboso, valiente. ",
+      " B) ilustre, renombrado. ",
+      " C) ingenuo, bribón.",
+      " D) crucial, decisivo. ",
+      " E) melifluo, dulce."
+    ],
+    "correct": 2,
+    "rationale": "Serie de analogía mixta: sinónimos, antónimos, sinónimos; debe completarse con par\nde antónimos INGENUO, BRIBÓN."
+  },
+  {
+    "type": "synonyms_and_antonyms",
+    "statement": "3. Delgado, enjuto, flaco",
+    "alternatives": [
+      " A) enfermo.   ",
+      " B) cenceño.   ",
+      " C) parco.",
+      " D) adusto.   ",
+      " E) cenutrio."
+    ],
+    "correct": 1,
+    "rationale": "Serie de sinónimos. Se completa con el vocablo  CENCEÑO ."
+  }
+]

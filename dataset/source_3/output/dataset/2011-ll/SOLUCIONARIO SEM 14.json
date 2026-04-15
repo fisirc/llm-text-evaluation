@@ -1,0 +1,526 @@
+[
+  {
+    "type": "reading_comprehension",
+    "statement": "La vida es difícil y los mamíferos necesitan dormir. Pero ¿por qué una ardilla, por ejemplo, necesita unas 15 horas de sueño al día mientras una jirafa solo requiere de cuatro y media? Una respuesta, dice Jerome Siegel, investigador del sueño en la Universidad de California en Los Ángeles, está en las diversas formas que los animales han adaptado para optimizar su consumo de energía y mantenerse a salvo. Consideremos los elefantes, que apenas duermen poco más de tres horas al día. «Para ser tan grandes, deben comer casi todo el tiempo», dice Siegel. En contraste, tiene sentido evolutivo que los murciélagos cafés conserven su energía a lo largo del día excepto cuando salen a cazar los insectos nocturnos que comen. Un ornitorrinco también puede comer menos y dormir más (14 horas). ¿Por qué? Quizá porque una pequeña comida de crustáceos tiene muchas calorías. En cuanto a la seguridad, los mamíferos que duermen escondidos, como murciélagos o roedores, duermen más tiempo y más profundamente que los que permanecen alertas. Por supuesto, algunas bestias pueden dormir cuando y donde quieran. Como dice Siegel: «¿A quién se le ocurriría molestar a un león dormido?». (Jennifer S. Holland, «¿Un sueñito?», en National Geographic , Vol. 29, julio de 2011, p. XXI)",
+    "questions": [
+      {
+        "statement": "¿Cuál es el tema central del texto?",
+        "alternatives": [
+          "A) El consumo energético en los elefantes y murciéganos.",
+          "B) La relación entre horas de sueño y consumo de energía.",
+          "C) Las horas de vigilia necesarias para una bestia salvaje.",
+          "D) La adaptación en la optimización de fuentes de energía.",
+          "E) El tamaño y la cantidad de comida en diversas especies."
+        ],
+        "correct": 1,
+        "rationale": "El tema central es la relación entre horas de sueño y consumo de energía."
+      },
+      {
+        "statement": "La idea principal del texto es la siguiente:",
+        "alternatives": [
+          "A) Los mamíferos presentan distintos promedios de sueño en relación con la optimización del consumo energético.",
+          "B) Mamíferos como la jirafa requieren escasas horas de sueño en virtud de que su consumo de energía es elevado.",
+          "C) Los mamíferos que viven escondidos presentan mayor vulnerabilidad en comparación con depredadores como el león.",
+          "D) Jerome Siegel predice el consumo energético a partir del total de horas anuales que un animal usa al dormir.",
+          "E) Ciertos animales pueden dormir prolongadas horas, puesto que presentan orgánicamente muchas reservas de adipositos."
+        ],
+        "correct": 0,
+        "rationale": "Acorde con el tema central, los promedios de sueño son variables debido al consumo de energía diaria."
+      },
+      {
+        "statement": "La pregunta «¿A quién se le ocurriría molestar a un león dormido?» presenta una clara intención",
+        "alternatives": [
+          "A) lapidaria.",
+          "B) crítica.",
+          "C) controversial .",
+          "D) sublimadora.",
+          "E) irónica."
+        ],
+        "correct": 4,
+        "rationale": "La interrogante evidencia un claro sentido jocoso, una burla encubierta y, en tanto que tal, es irónica."
+      },
+      {
+        "statement": "Es incompatible con el desarrollo textual afirmar que",
+        "alternatives": [
+          "A) los elefantes requieren de un número mínimo de horas para dormir porque comen demasiado.",
+          "B) el ornitorrinco mantiene la energía corporal, probablemente, por las calorías de los crustáceos.",
+          "C) todos los mamíferos se mantienen en estado de alerta y eso afecta el sueño.",
+          "D) la evolución se hace manifiesta en la fluctuación de horas que un animal requiere para dormir.",
+          "E) las ardillas duermen demasiadas horas puesto que, probablemente, su ingesta de comida es mínima."
+        ],
+        "correct": 2,
+        "rationale": "C. Al final del texto se indica que existen animales que pueden dormir cuando y donde quieran; por ejemplo, el león."
+      },
+      {
+        "statement": "Es posible deducir que las horas de vigilia de un ornitorrinco",
+        "alternatives": [
+          "A) son menores en proporción a las horas de sueño, dado que el consumo de calorías los abastece de energía suficiente.",
+          "B) supera con largueza a todos los mamíferos en virtud de la necesidad de permanecer alerta ante los depredadores.",
+          "C) son impredecibles debido a que es un animal que vive en lugares sumamente inhóspitos e inaccesibles para el ser humano.",
+          "D) fluctúan entre los especímenes de acuerdo con la cantidad de crustáceos que viven en el lugar de origen de aquel.",
+          "E) son independientes de la dieta alimenticia de este, puesto que su alimentación no guarda un patrón predecible."
+        ],
+        "correct": 0,
+        "rationale": "Las horas en que un ornitorrinco está despierto diariamente son numéricamente menores a las horas de sueño gracias a su dieta rica en calorías."
+      },
+      {
+        "statement": "Si el león compitiera con un depredador más feroz, probablemente,",
+        "alternatives": [
+          "A) pasaría más horas durmiendo en sabanas tupidas.",
+          "B) tendría que optar por vivir escondido en los árboles.",
+          "C) su estado de vigilia cambiaría indefectiblemente.",
+          "D) dejaría de alimentarse de la carne de otros animales.",
+          "E) se sentiría más seguro con una menor complexión física."
+        ],
+        "correct": 2,
+        "rationale": "Al ser una bestia dominante, el león tiene completo control sobre sus horas de sueño. Si su vida peligrara, las horas de vigilia aumentarían."
+      }
+    ]
+  },
+  {
+    "type": "reading_comprehension",
+    "statement": "El hielo marino de poca profundidad de las capas continentales proporciona el sustento más rico para los osos polares, pero recientemente el hielo ha ido retrocediendo lejos de esas zonas, reduciendo el hábitat de verano que más necesitan los osos para sobrevivir. El hielo marino en el que caza está disponible por tiempos cada vez más cortos, obligando a los osos a ayunar durante periodos más largos. Y puesto que el hielo marino más delgado es desplazado con mayor facilidad por los vientos y las corrientes, los osos pueden ser llevados a territorio extraño, obligándolos a nadar más tiempo y más arduamente en aguas abiertas para encontrar hielo marino favorable o llegar a tierra. Los osos polares son nadadores fuertes, pero nadar grandes distancias es extenuante. En 2008, un oso polar, que llevaba un cachorro y estaba provisto de un radio collar, nadó la asombrosa distancia de 687 kilómetros para llegar al hielo de la costa norte de Alaska. El cachorro no lo logró. Las hembras enfrentan tiempos especialmente difíciles. Los etólogos creen que, cuando la comida disminuya, podrían ser más comunes los machos mal nutridos que maten y coman cachorros, e incluso a sus madres. Cada vez con mayor frecuencia, encontrar lugares ancestrales en tierra para hacer guaridas puede ser un calvario. En una isla de Svalbard, cuando el mar se congeló tarde ese año, en la siguiente primavera los científicos encontraron pocas guaridas, sino es que ninguna.",
+    "questions": [
+      {
+        "statement": "El tema central del texto es",
+        "alternatives": [
+          "A) el deshielo marino en desmedro de los osos polares.",
+          "B) los estudios etológicos de los osos polares en el mar.",
+          "C) la importancia de la natación para los osos polares.",
+          "D) la capacidad infatigable de los osos polares para nadar.",
+          "E) los efectos perniciosos del calentamiento global."
+        ],
+        "correct": 0,
+        "rationale": "El texto centralmente desarrolla el tema de los efectos perniciosos del deshielo marino en la vida de los osos polares."
+      },
+      {
+        "statement": "La palabra EXTRAÑO adquiere el sentido de",
+        "alternatives": [
+          "A) raro.",
+          "B) bizarro.",
+          "C) desconocido.",
+          "D) heteróclito.",
+          "E) irregular."
+        ],
+        "correct": 2,
+        "rationale": "Territorio «extraño» alude a territorios desconocidos para los osos polares, los mismos que los impelen a nadar largas distancias."
+      },
+      {
+        "statement": "Si el deshielo se intensificara, resultaría más probable que",
+        "alternatives": [
+          "A) los osos polares se conviertan en sedentarios.",
+          "B) haya más osos polares machos que hembras.",
+          "C) solamente las hembras puedan sobrevivir.",
+          "D) aumente la población total de osos polares.",
+          "E) mejore la nutrición de todos los osos polares."
+        ],
+        "correct": 1,
+        "rationale": "El deshielo produce un entorno muy competitivo en el cual los osos polares machos tendrían cierta ventaja."
+      },
+      {
+        "statement": "Es incongruente, de acuerdo con el entramado textual, afirmar que",
+        "alternatives": [
+          "A) los etólogos predicen un futuro oscuro para las poblaciones de osos.",
+          "B) los antiguos hábitats del oso polar han desaparecido por el deshielo.",
+          "C) los osos polares enfrentan serias dificultades a causa del deshielo.",
+          "D) los osos polares ayunan más días debido a la escasez de comida.",
+          "E) un cachorro de oso polar nunca muere al nadar largas distancias."
+        ],
+        "correct": 4,
+        "rationale": "El texto presenta el caso de una hembra de oso polar y su cachorro que recorrieron una distancia asombrosa; no obstante, el texto nos indica que el cachorro murió."
+      }
+    ]
+  },
+  {
+    "type": "verbal_series",
+    "statement": "5. Si el costo en la fabricación de nanoconductos de carbono fuese mayor que el de la fabricación de un cohete, entonces",
+    "alternatives": [
+      "A) los elevadores especiales fabricados tendrían que ser demasiado pequeños.",
+      "B) el transporte de bienes al espacio mediante elevadores sería desventajoso. ",
+      "C) la cantidad de cables a usarse en el proyecto del elevador se vería reducida.",
+      "D) la cantidad de material enviada al espacio mediante este último sería nimia.",
+      "E) este último supondría un objeto desfasado e inútil que debería desecharse."
+    ],
+    "correct": 1,
+    "rationale": null
+  },
+  {
+    "type": "reading_comprehension",
+    "statement": "En los Estados Unidos, los obreros sin trabajo protestaron contra los líderes del Partido Republicano, que los habían sumido en la miseria después de una creciente prosperidad. En las elecciones de 1932 resultó electo el candidato demócrata Franklin D. Roosevelt (1882-1945), senador a los 28 años y ministro adjunto de Marina (1913-1917) del presidente Wilson. En 1921 sufrió un ataque de poliomielitis y permaneció dos años inmovilizado, reapareciendo en la vida política en 1928, y fue elegido gobernador del Estado de New York (1929-1933). Como candidato a la presidencia, Franklin D. Roosevelt prohijó la teoría del new deal (literalmente, nuevo tratado, nuevo reparto de cartas), que combinaba en conjunto los programas de la new freedom de Wilson con el square deal (tratado honesto, de buena fe) de su pariente lejano, Teodoro Roosevelt (1958-1919), quien fuera presidente en 1901, a la muerte de Mac Kinley, y reelegido desde 1905 hasta 1909. La depresión se agigantaba y la mayoría de los bancos había cerrado sus puertas. Roosevelt adoptó reformas que asombraron: los campesinos recibieron préstamos y autorización para regularizar los precios; se asistió a los indigentes, se dictó una ley sobre las actividades de la Bolsa, que impidió la excesiva especulación, la protección social fue intensa y eficaz , sobre todo la ley llamada «national industrial recovery act» (NIRA o NRA), que reglamentaba la vida económica, fijaba la «agricultural adjuntment act», acudió en ayuda de la agricultura. «La ley propone —decía el preámbulo — programas a los productos agrícolas un poder de compra equivalente al que tenía entre 1909 y 1914».(Carl Grimberg, «Roosevelt y el “New Deal” . Frankiln D. Roosevelt». En Historia Universal. Tomo 38. Chile, Ediciones Daimon, p . 105)",
+    "questions": [
+      {
+        "statement": "Determine la alternativa que contenga el tema central del texto.",
+        "alternatives": [
+          "A) La insurrección de los obreros en EE.UU.",
+          "B) La teoría económica del «nuevo tratado».",
+          "C) Roosevelt y la gran depresión en Norteamérica.",
+          "D) El partido republicano en los Estados Unidos.",
+          "E) Las sorpresivas reformas de Franklin Rossevelt."
+        ],
+        "correct": 4,
+        "rationale": "Solución: E. El tema central gira entorno a las reformas que Roosevelt ejecutó durante la época de depresión económica en EE. UU."
+      },
+      {
+        "statement": "Determine la idea principal del texto.",
+        "alternatives": [
+          "A) Leyes como la «national industrial recovery act» fueron planteadas por Franklin Roosevelt.",
+          "B) La política reformista de Roosevelt reglamentó la vida económica y apoyó el sector agrícola.",
+          "C) Roosevelt realizó una efectiva protección social, de ayuda a los más necesitados sin especulaciones.",
+          "D) El presidente Wilson contó con la participación de Roosevelt como ministro adjunto de Marina.",
+          "E) Roosevelt lideró una política de reformas inclusivas durante la época de depresión económica en Norteamérica."
+        ],
+        "correct": 4,
+        "rationale": "Solución: E. Las reformas de Roosevelt se ejecutan en una época en la que la crisis económica en EE. UU. era inmanejable, y el texto centralmente describe las medidas que tomó en una situación tan apremiante."
+      },
+      {
+        "statement": "El vocablo PROHIJAR se puede reemplazar por",
+        "alternatives": [
+          "A) preterir.",
+          "B) soslayar.",
+          "C) depreciar.",
+          "D) adoptar.",
+          "E) impugnar."
+        ],
+        "correct": 3,
+        "rationale": "Solución: D. La idea que Roosevelt PROHIJÓ es decir ADOPTÓ fue la del nuevo tratado o new deal ."
+      },
+      {
+        "statement": "Resulta incompatible con el entramado textual afirmar que",
+        "alternatives": [
+          "A) Roosevelt padeció los terribles embates de la poliomielitis.",
+          "B) los republicanos llevaron a los obreros a un clima de tensión.",
+          "C) Franklin D. Roosevelt recusaba la new freedom wilsoniana.",
+          "D) la reforma de Roosevelt incluyó también a los menesterosos.",
+          "E) los préstamos campesinos fueron promovidos por Roosevelt."
+        ],
+        "correct": 2,
+        "rationale": "Solución: C. La new deal de Roosevelt tomaba como referencia la propuesta de Wilson no la rechazaba."
+      },
+      {
+        "statement": "Es incongruente con el desarrollo textual afirmar que",
+        "alternatives": [
+          "A) las reformas de Roosevelt se plantearon en un clima de prosperidad.",
+          "B) las entidades bancarias, durante la depresión, cerraron masivamente.",
+          "C) Franklin D. Roosevelt fue elegido gobernador de New York en 1929.",
+          "D) Roosevelt estableció la medida de dar préstamos a los campesinos.",
+          "E) el Square Deal motivó las reformas que propugnó Franklin Roosevelt."
+        ],
+        "correct": 0,
+        "rationale": "Solución: A. Cuando Roosevelt plantea sus reformas, la depresión económica se tornaba insostenible, ya que se acrecentaba inexorablemente."
+      }
+    ]
+  },
+  {
+    "type": "reading_comprehension",
+    "statement": "Hacia 1925, la producción y el bienestar progresaban en unas partes (Estados Unidos, Japón), pero en otras no, pues vivían abrumadas por paros y crisis económicas, como Gran Bretaña. La deuda europea solo podía pagarse con oro o mercancías, pero los norteamericanos frenaban sus importaciones con elevados derechos de aduana e imponían sus exportaciones a Europa. En 1914, los Estados Unidos debían a Europa 3000 millones de dólares; en 1918, los extranjeros debían entre los 12 000 millones y 14 000 millones de dólares a los Estados Unidos. Además, la producción en cadena aseguraba un flujo ininterrumpido de nuevos productos accesibles a todo el mundo. El automóvil, por ejemplo, sustituyó al caballo. Henry Ford (1863-1947) fue un pionero en ese sentido. La revolución de índole técnica resultó importante para la aeronáutica. Los hermanos Wright volaron por vez primera en América un aparato «más pesado que el aire» (1903). La guerra mundial aceleró los progresos de la aviación. El Atlántico fue volado en 1919 desde los Estados Unidos a las Azores y, en 1927, Charles Lindberg enlazó New York con Paris. Los norteamericanos se consagraron a la expansión económica. La reserva de oro, que era de 1 800 millones de dólares en 1919, alcanzó en 1928 los 4 500 millones. Desde Antillas y México hasta Chile y Argentina, constituían magníficos mercados para los productos norteamericanos. Solo existía un problema moral más que político-social: la prohibición de bebidas alcohólicas impuestas en 1920. En 1928, triunfó el Partido Republicano y Herbert Hoover, quien preconizaba el enriquecimiento gracias a la elevada coyuntura económica, asumió la presidencia por el período 1929-1933.(Carl Grimberg, «La gran crisis económica. La crisis mundial de 1929» . En Historia Universal. Tomo 38. Chile, Ediciones Daimon, pp. 103)",
+    "questions": [
+      {
+        "statement": "El tema central del texto es",
+        "alternatives": [
+          "A) la reserva de oro de EE. UU. y la crisis económica mundial.",
+          "B) la prosperidad americana durante la gran crisis económica.",
+          "C) el progreso armamentista norteamericano en el siglo XX.",
+          "D) la expansión económica americana durante la guerra mundial.",
+          "E) la toma de poder por parte del Partido Republicano en 1928."
+        ],
+        "correct": 3,
+        "rationale": "Solución: D. El texto se centra en el desarrollo del fortalecimiento económico de Estados Unidos en un contexto mundial de precariedad económica."
+      },
+      {
+        "statement": "El vocablo CONSAGRARSE se puede reemplazar por",
+        "alternatives": [
+          "A) extenderse.",
+          "B) sacralizarse.",
+          "C) consolidarse.",
+          "D) dedicarse.",
+          "E) resistirse."
+        ],
+        "correct": 3,
+        "rationale": "Solución: D. El verbo CONSAGRARSE se usa para hacer referencia al objetivo que los estadounidenses persiguieron con tenacidad: la expansión económica. En tal sentido, la palabra se puede reemplazar por DEDICARSE."
+      },
+      {
+        "statement": "Resulta incompatible con el desarrollo textual afirmar que",
+        "alternatives": [
+          "A) la revolución técnica se afianzó en EE. UU. junto con la economía.",
+          "B) en Inglaterra, el sector laboral se enfrentaba con serios problemas.",
+          "C) Japón se encontraba, hacia 1925, en una incontrolada recesión.",
+          "D) Henry Ford es un pionero en el rubro de la empresa automovilística.",
+          "E) Herbet Hoover asumió la presidencia gracias a los republicanos."
+        ],
+        "correct": 2,
+        "rationale": "Solución: C. Japón en 1925 experimentaba un nivel de progreso en su economía."
+      },
+      {
+        "statement": "Es posible deducir del texto que la venta de productos a EE. UU. durante la época de bonanza aludida",
+        "alternatives": [
+          "A) terminó por acelerar la creación del auto por Ford.",
+          "B) consolidó la jerarquía mundial de países como Japón.",
+          "C) determinó la proliferación de caballos en toda Europa.",
+          "D) produjo un elevado crecimiento de la convulsión social.",
+          "E) era gravosa debido a los elevados costos de aduanas."
+        ],
+        "correct": 4,
+        "rationale": "Solución: E. En el texto se indica que las importaciones eran demasiado caras por los gastos de aduanas impuestos por EE. UU. De lo anterior podemos deducir que vender productos a Norteamérica era complicado en aquella época de crisis mundial."
+      },
+      {
+        "statement": "Si Estados Unidos hubiese rebajado las costosas tasas aduaneras, probablemente,",
+        "alternatives": [
+          "A) la crisis mundial se habría replegado de manera considerable.",
+          "B) las convulsiones en EE. UU. se habrían extendido sin remedio.",
+          "C) Inglaterra habría tenido probabilidades de pagar su deuda externa.",
+          "D) Japón se habría convertido en un país marginal y sin recursos.",
+          "E) la revolución tecnológica habría alcanzado índices muy elevados."
+        ],
+        "correct": 2,
+        "rationale": "Solución: C. La deuda europea podía pagarse con oro o mercancía, pero EE. UU. impedía las importaciones a través de tasas elevadas en las aduanas. De haberse reducido estas últimas, países como Inglaterra hubieran tenido la posibilidad de pagar su deuda."
+      }
+    ]
+  },
+  {
+    "type": "sentence_elimination",
+    "statement": "I) Las lenguas son sistemas o códigos de representación y de comunicación. II) La naturaleza de las lenguas es eminentemente oral. III) Las lenguas presentan un origen común: el lenguaje, que nos diferencia de los animales. IV) La facultad del lenguaje es resultado de un lento proceso evolutivo. V) Los sistemas lingüísticos se adquieren durante los primeros años de vida. ¿Qué oración se elimina?",
+    "alternatives": [
+      "A) II",
+      "B) V",
+      "C) III",
+      "D) IV",
+      "E) I"
+    ],
+    "correct": 3,
+    "rationale": "Solución: D. La oración (IV) se elimina en virtud de su carácter inatingente. Las oraciones cohesionadas giran entorno de las lenguas como eje temático."
+  },
+  {
+    "type": "reading_comprehension",
+    "statement": "Aunque es probable que mucha gente esté en desacuerdo, la visión del mundo de una mayoría de los americanos debe caracterizarse como militarista, o al menos como vulnerable a la retórica militarista que enmarca conflictos internacionales importantes en términos míticos. A partir de octubre de 1991, como reacción a la invasión iraquí de Kuwait, el presidente de Estados Unidos envió casi 500 000 soldados a Irak, poniéndolos en grave riesgo de muerte por el gas venenoso, los agentes de guerra biológica y los habituales riesgos de una guerra del siglo XX. Las primeras fases de la campaña, destinada a proteger a Arabia Saudí de un ataque iraquí, se denominaron «Escudo del Desierto». Para recuperar el control sobre Kuwait, el presidente George Bush, con el apoyo de las dos cámaras del Congreso, autorizó un ataque aéreo masivo, lanzando más de 2000 salidas diarias sobre objetivos militares iraquíes. La operación defensiva original se convirtió de pronto en una guerra apodada «Tormenta del Desierto». En comparación con las protestas de las últimas etapas de la Guerra del Vietnam, las protestas de los ciudadanos americanos fueron mínimas. El apoyo al presidente, medido por las encuestas de opinión, alcanzó un máximo histórico. La mayoría de los americanos, incluso los que apoyaban la guerra, admitieron abiertamente que la finalidad primaria de la presencia militar no era restaurar la democracia ola independencia de Kuwait, sino proteger el acceso americano al petróleo de Oriente Medio. Fue fácil encontrar un motivo importante que suscitara el entusiasmo de los americanos por la campaña militar: el presidente Bush enmarcó la campaña en una retórica pensada para concitar el apoyo al castigo del presidente iraquí. Al mostrar la guerra como una batalla apocalíptica entre el bien y el mal, el presidente pintó al presidente iraquí Saddam Hussein, ciertamente despiadado y cruel, como el agresor perverso, como un «nuevo Hitler» de «una brutalidad sin precedentes». Con evidente falta de respeto, Bush solía pronunciar incorrectamente el nombre de pila de Hussein como [sædm] en lugar del árabe [sadám], de modo que la primera sílaba rimaba con sad, «triste»: con el acento en primera posición, el nombre evocaba términos fonológicamente similares como sadism «sadismo», Sodom «Sodoma» y Satan «Satán», que conjuran depravación de la peor especie. No está claro si ese juego de palabras era deliberado o sólo consecuencia del acento tejano de Bush. Mientras denigraba a Saddam Hussein de forma constante y deliberada, el presidente ofrecía poco o ningún comentario informativo sobre la historia de las relaciones de los Estados Unidos con Irak, sobre la desesperada situación de la economía iraquí antes de la invasión o sobre cómo Kuwait y otros estados árabes habían estado bloqueando la recuperación económica iraquí haciendo bajar el precio del petróleo. En vez de eso, personalizó la guerra con su retórica, poniendo especialmente de relieve el papel de Saddam Hussein como agresor perverso y brutal sobre un fondo de bien y de mal en Kuwait. En su retórica pragmática, se ignoraba el marco histórico amplio de los conflictos políticos y económicos regionales, al parecer porque sólo la retórica del bien y el mal podía atraer apoyo hacia una campaña militar. (Gary Palmer, «La conexión de las lenguas y las visiones del mundo» capitulo 6 , en Lingüística cultural , pp. 149-150)",
+    "questions": [
+      {
+        "statement": "El tema central del texto es",
+        "alternatives": [
+          "A) la mentalidad belicista norteamericana patentizada en el discurso usado durante la Guerra del Golfo.",
+          "B) la guerra de Kuwait y las nefastas consecuencias para el pueblo norteamericano.",
+          "C) la confrontación entre el bien y el mal en la cosmovisión americana durante el gobierno de Bush.",
+          "D) la demonización del presidente iraquí, Saddam Hussein, por parte del pueblo norteamericano.",
+          "E) la guerra apocalíptica entre Bush y Hussein por la monopolización de los pozos petroleros."
+        ],
+        "correct": 0,
+        "rationale": "Solución: A. El texto desarrolla el tema de la mentalidad belicista norteamericana en el contexto de la Guerra del Golfo, en el cual se usó una retórica que implicaba la figuración de una lucha entre el bien y el mal."
+      },
+      {
+        "statement": "Determine la alternativa que contenga el mejor resumen del texto.",
+        "alternatives": [
+          "A) Los americanos eran concientes de que el ataque masivo a Kuwait no aseguraría la democracia en ese país, pero sí determinaría el acceso directo a los pozos de petróleo, lo que es una victoria económica.",
+          "B) Debido a su capacidad militar para detener las fuerzas rebeldes de los árabes, el presidente Bush envió 500 000 soldados a Irak con la finalidad de proteger a Arabia Saudí del previsible ataque iraquí.",
+          "C) El presidente iraquí, Saddam Hussein, fue presentado ante el pueblo norteamericano como un individuo despiadado que debía ser combatido por la fuerza benevolente de EE. UU.",
+          "D) La mentalidad americana está signada por el belicismo y un ejemplo evidente se muestra en el contexto de la guerra con Irak, en la que se usó la figura de la lucha del bien (EE.UU.) contra el mal (Irak).",
+          "E) La operación defensiva desatada por EE. UU. se denominó «Tormenta del Desierto» y fue apoyada por los civiles, quienes le dieron un respaldo masivo al presidente de entonces."
+        ],
+        "correct": 3,
+        "rationale": "Solución: D. En efecto, el mejor resumen permite visualizar"
+      },
+      {
+        "statement": "El vocablo PINTAR se usa para hacer referencia a",
+        "alternatives": [
+          "A) las restricciones que tuvo Bush para hablar sobre la realidad iraquí.",
+          "B) los embrollos que determinaron la lucha entre países orientales.",
+          "C) la configuración de una presencia negativa en la sociedad iraquí.",
+          "D) la representación negativa y tendenciosa que hizo Bush de Hussein.",
+          "E) los maniqueos intereses que encubrieron la figura de Saddam."
+        ],
+        "correct": 3,
+        "rationale": "Solución: D. El verbo PINTAR se usa para hacer referencia a la representación negativa y tendenciosa que hizo Bush de Hussein."
+      }
+    ]
+  },
+  {
+    "type": "reading_comprehension",
+    "statement": "Aunque es probable que mucha gente esté en desacuerdo, la visión del mundo de una mayoría de los americanos debe caracterizarse como militarista, o al menos como vulnerable a la retórica militarista que enmarca conflictos internacionales importantes en términos míticos. A partir de octubre de 1991, como reacción a la invasión iraquí de Kuwait, el presidente de Estados Unidos envió casi 500 000 soldados a Irak, poniéndolos en grave riesgo de muerte por el gas venenoso, los agentes de guerra biológica y los habituales riesgos de una guerra del siglo XX. Las primeras fases de la campaña, destinada a proteger a Arabia Saudí de un ataque iraquí, se denominaron «Escudo del Desierto». Para recuperar el control sobre Kuwait, el presidente George Bush, con el apoyo de las dos cámaras del Congreso, autorizó un ataque aéreo masivo, lanzando más de 2000 salidas diarias sobre objetivos militares iraquíes. La operación defensiva original se convirtió de pronto en una guerra apodada «Tormenta del Desierto». En comparación con las protestas de las últimas etapas de la Guerra del Vietnam, las protestas de los ciudadanos americanos fueron mínimas. El apoyo al presidente, medido por las encuestas de opinión, alcanzó un máximo histórico. La mayoría de los americanos, incluso los que apoyaban la guerra, admitieron abiertamente que la finalidad primaria de la presencia militar no era restaurar la democracia ola independencia de Kuwait, sino proteger el acceso americano al petróleo de Oriente Medio. Fue fácil encontrar un motivo importante que suscitara el entusiasmo de los americanos por la campaña militar: el presidente Bush enmarcó la campaña en una retórica pensada para concitar el apoyo al castigo del presidente iraquí. Al mostrar la guerra como una batalla apocalíptica entre el bien y el mal, el presidente pintó al presidente iraquí Saddam Hussein, ciertamente despiadado y cruel, como el agresor perverso, como un «nuevo Hitler» de «una brutalidad sin precedentes». Con evidente falta de respeto, Bush solía pronunciar incorrectamente el nombre de pila de Hussein como [sædm] en lugar del árabe [sadám], de modo que la primera sílaba rimaba con sad, «triste»: con el acento en primera posición, el nombre evocaba términos fonológicamente similares como sadism «sadismo», Sodom «Sodoma» y Satan «Satán», que conjuran depravación de la peor especie. No está claro si ese juego de palabras era deliberado o sólo consecuencia del acento tejano de Bush. Mientras denigraba a Saddam Hussein de forma constante y deliberada, el presidente ofrecía poco o ningún comentario informativo sobre la historia de las relaciones de los Estados Unidos con Irak, sobre la desesperada situación de la economía iraquí antes de la invasión o sobre cómo Kuwait y otros estados árabes habían estado bloqueando la recuperación económica iraquí haciendo bajar el precio del petróleo. En vez de eso, personalizó la guerra con su retórica, poniendo especialmente de relieve el papel de Saddam Hussein como agresor perverso y brutal sobre un fondo de bien y de mal en Kuwait. En su retórica pragmática, se ignoraba el marco histórico amplio de los conflictos políticos y económicos regionales, al parecer porque sólo la retórica del bien y el mal podía atraer apoyo hacia una campaña militar.(Gary Palmer, «La conexión de las lenguas y las visiones del mundo» capítulo 6 , en Lingüística cultural , pp. 149-150)",
+    "questions": [
+      {
+        "statement": "1. El tema central del texto es",
+        "alternatives": [
+          "A) la mentalidad belicista norteamericana patentizada en el discurso usado durante la Guerra del Golfo.",
+          "B) la guerra de Kuwait y las nefastas consecuencias para el pueblo norteamericano.",
+          "C) la confrontación entre el bien y el mal en la cosmovisión americana durante el gobierno de Bush.",
+          "D) la demonización del presidente iraquí, Saddam Hussein, por parte del pueblo norteamericano.",
+          "E) la guerra apocalíptica entre Bush y Hussein por la monopolización de los pozos petroleros."
+        ],
+        "correct": 0,
+        "rationale": "El tema central del texto es la mentalidad belicista norteamericana patentizada en el discurso usado durante la Guerra del Golfo."
+      },
+      {
+        "statement": "2. Determine la alternativa que contenga el mejor resumen del texto.",
+        "alternatives": [
+          "A) Los americanos eran concientes de que el ataque masivo a Kuwait no aseguraría la democracia en ese país, pero sí determinaría el acceso directo a los pozos de petróleo, lo que es una victoria económica.",
+          "B) Debido a su capacidad militar para detener las fuerzas rebeldes de los árabes, el presidente Bush envió 500 000 soldados a Irak con la finalidad de proteger a Arabia Saudí del previsible ataque iraquí.",
+          "C) El presidente iraquí, Saddam Hussein, fue presentado ante el pueblo norteamericano como un individuo despiadado que debía ser combatido por la fuerza benevolente de EE. UU.",
+          "D) La mentalidad americana está signada por el belicismo y un ejemplo evidente se muestra en el contexto de la guerra con Irak, en la que se usó la figura de la lucha del bien (EE.UU.) contra el mal (Irak).",
+          "E) La operación defensiva desatada por EE. UU. se denominó «Tormenta del Desierto» y fue apoyada por los civiles, quienes le dieron un respaldo masivo al presidente de entonces."
+        ],
+        "correct": 3,
+        "rationale": "En efecto, el mejor resumen permite visualizar."
+      },
+      {
+        "statement": "3. El vocablo PINTAR se usa para hacer referencia a",
+        "alternatives": [
+          "A) las restricciones que tuvo Bush para hablar sobre la realidad iraquí.",
+          "B) los embrollos que determinaron la lucha entre países orientales.",
+          "C) la configuración de una presencia negativa en la sociedad iraquí.",
+          "D) la representación negativa y tendenciosa que hizo Bush de Hussein.",
+          "E) los maniqueos intereses que encubrieron la figura de Saddam."
+        ],
+        "correct": 3,
+        "rationale": "El verbo PINTAR se usa para hacer referencia a la representación tendenciosa que hizo Bush para presentar a Saddam como un cruel y despiadado tirano al que había que derrotar."
+      },
+      {
+        "statement": "4. En el texto, la palabra ABIERTAMENTE se puede reemplazar por",
+        "alternatives": [
+          "A) lúcidamente.",
+          "B) francamente.",
+          "C) vistosamente.",
+          "D) ampliamente.",
+          "E) airadamente."
+        ],
+        "correct": 1,
+        "rationale": "El adverbio se usa para indicar un reconocimiento franco."
+      },
+      {
+        "statement": "5. Determine la aserción incompatible con el desarrollo textual.",
+        "alternatives": [
+          "A) La visión del mundo de los americanos es mayoritariamente belicista.",
+          "B) En la guerra contra Irak, Estados Unidos usó un gran poderío bélico.",
+          "C) Bush despotricó en contra de los gobiernos dictatoriales de Oriente.",
+          "D) La guerra con Irak fue difundida a través de un discurso apocalíptico.",
+          "E) El gobierno de EE. UU. desató un ataque aéreo de gran magnitud."
+        ],
+        "correct": 2,
+        "rationale": "Bush tuvo como único objetivo al presidente de Irak, Saddam Hussein."
+      },
+      {
+        "statement": "6. Resulta congruente con el texto afirmar que",
+        "alternatives": [
+          "A) la mayoría de norteamericanos se mantuvo al margen de las protestas durante la guerra.",
+          "B) el objetivo capital de la arremetida bélica era el restablecimiento de la democracia en Irak.",
+          "C) el gobierno estadounidense siempre salvaguardó la vida de los soldados americanos.",
+          "D) el discurso presidencial se centraba en la reconciliación de los estados orientales en conflicto.",
+          "E) Saddam Hussein fue representado como un enervado mandatario que debía dejar el poder."
+        ],
+        "correct": 0,
+        "rationale": "La única aseveración compatible está referida al apoyo casi categórico de los norteamericanos al ataque contra Irak."
+      },
+      {
+        "statement": "7. Es posible colegir que las diferencias políticas en Norteamérica",
+        "alternatives": [
+          "A) se acrecentaron debido a las injusticias cometidas por EE. UU.",
+          "B) tuvieron en la figura de Hussein el móvil para su acentuación.",
+          "C) determinaron la sanción moral hacia el presidente de turno.",
+          "D) desaparecieron al aceptar la existencia de un enemigo común.",
+          "E) se agravaron al no haber consenso respecto del petróleo."
+        ],
+        "correct": 3,
+        "rationale": "En el texto se señala que las dos cámaras del congreso apoyaron a George Bush en el ataque aéreo; por consiguiente, las diferencias políticas desaparecieron durante la guerra con Irak."
+      },
+      {
+        "statement": "8. Se desprende de la lectura que la realidad oriental de esa época",
+        "alternatives": [
+          "A) fue sistemáticamente invisibilizada.",
+          "B) estaba caracterizada por la armonía.",
+          "C) evidenciaba una anomia general.",
+          "D) era transmitida cabalmente al mundo.",
+          "E) despertaba tranquilidad en EE. UU."
+        ],
+        "correct": 0,
+        "rationale": "Antes de la guerra, Irak padecía el bloqueo de su recuperación económica por parte de países como Kuwait, pero el discurso de Bush socapaba esta realidad."
+      },
+      {
+        "statement": "9. Si George Bush hubiera ofrecido una versión fidedigna de lo que ocurría entre Irak y otros países orientales, probablemente,",
+        "alternatives": [
+          "A) habría perdido inexorablemente la guerra.",
+          "B) el discurso apocalíptico habría fracasado.",
+          "C) el bloqueo económico a Irak habría cesado.",
+          "D) la obtención de petróleo habría sido la meta.",
+          "E) los conflictos internos se habrían desatado."
+        ],
+        "correct": 1,
+        "rationale": "Una versión fidedigna de lo que ocurría en Oriente hubiese determinado que el discurso de Bush haya fracasado, dado que se hubiera tenido cuenta real de la situación iraquí."
+      },
+      {
+        "statement": "10. Si la economía iraquí hubiese estado en una fase de crecimiento,",
+        "alternatives": [
+          "A) Irak no habría tenido que invadir a Kuwait.",
+          "B) Saddama Husein habría iniciado una guerra total.",
+          "C) el petróleo habría bajado su valor internacional.",
+          "D) la invasión a Irak habría sido aprobada en EE. UU.",
+          "E) los países occidentales habrían bloqueado a Kuwait."
+        ],
+        "correct": 0,
+        "rationale": "Se deduce que la invasión a Kuwait se puede explicar por la situación económica deprimida de Irak y el bloqueo de países como Kuwait. En otro contexto, Irak no habría tenido que embarcarse en una invasión muy peligrosa por la reacción norteamericana."
+      }
+    ]
+  },
+  {
+    "type": "reading_comprehension",
+    "statement": "La importancia de Popper radica fundamentalmente en haber comprendido todas las implicaciones del colapso de la teoría científica mejor corroborada de todos los tiempos, la mecánica newtoniana y la teoría newtoniana de la gravitación. Desde su punto de vista, la virtud no estriba en ser cauto para evitar errores, sino en ser implacable al eliminarlos. Audacia en las conjeturas, por una parte, y austeridad en las refutaciones por otra: esa es la receta de Popper. La honestidad intelectual no consiste en intentar atrincherar o establecer la posición propia probándola (o «haciéndola probable»); más bien la honestidad intelectual consiste en especificar con precisión las condiciones en que estaríamos dispuestos a abandonar nuestra posición. Los marxistas y freudianos comprometidos rehúsan especificar tales condiciones: tal es la señal de su deshonestidad intelectual. Creer puede ser una lamentable debilidad biológica que debe ser controlada por la crítica, pero el compromiso es para Popper un auténtico crimen. (Imre Lakatos, La metodología de la investigación científica , p. 18)",
+    "questions": [
+      {
+        "statement": "1. Determine la idea principal del texto.",
+        "alternatives": [
+          "A) Para Popper el verdadero sentido de honestidad es de tipo moral.",
+          "B) Popper sostiene que deben ralentizarse las refutaciones teóricas.",
+          "C) La honestidad intelectual para Popper se funda en la autorrefutación.",
+          "D) Popper considera que creer en un aserto es una debilidad biológica.",
+          "E) La propuesta de Newton fue frontalmente defenestrada por Popper."
+        ],
+        "correct": 2,
+        "rationale": "La idea medular del texto desarrolla esencialmente el tema de la honestidad intelectual asumido por Popper a partir de la consideración de que es posible que podamos renunciar a nuestros propios planteamientos."
+      },
+      {
+        "statement": "2. La palabra ATRINCHERAR connota",
+        "alternatives": [
+          "A) una defensa cerrada de los planteamientos propios.",
+          "B) la inclemente necesidad de desentrañar la realidad.",
+          "C) el conocimiento omnímodo de los saberes científicos.",
+          "D) la falsación consistente de nuestra propuesta teórica.",
+          "E) la corroboración de propuestas fiables y certeras."
+        ],
+        "correct": 0,
+        "rationale": "El autor se refiere a la acción de ATRINCHERARSE referida a la actitud que supone la mantención una posición de manera tenaz y terca. Esta actitud es deshonesta en términos de Popper."
+      },
+      {
+        "statement": "3. Es incompatible con el contenido textual afirmar que",
+        "alternatives": [
+          "A) la deshonestidad intelectual soslayaría la autocrítica.",
+          "B) la virtud científica supone la superación de los errores.",
+          "C) los marxistas y freudianos asumen su teoría a rajatabla.",
+          "D) la teoría de Newton carece de fisuras o inconsistencias.",
+          "E) no basta con la cautela para evitar errores según Popper."
+        ],
+        "correct": 3,
+        "rationale": "Popper dio cuenta de las debilidades de la teoría de Newton; por lo tanto, es incompatible asumir que esta carece de inconsistencias."
+      },
+      {
+        "statement": "4. Si un científico expusiera una serie de circunstancias fácticas que, eventualmente, podría rebatir su propia teoría,",
+        "alternatives": [
+          "A) Popper catalogaría a esta actitud como honestidad intelectual.",
+          "B) se alejaría del camino científico por evidenciar imprecisiones.",
+          "C) demostraría una profunda ignorancia sobre el valor de la ciencia.",
+          "D) jamás cometería errores al escoger la vía de la experimentación.",
+          "E) se vería comprometido con su propia verdad sin mayor remedio."
+        ],
+        "correct": 0,
+        "rationale": "La honestidad intelectual parte del reconocimiento de las debilidades de la propuesta propia y de, incluso, el rechazo o el abandono de nuestra posición."
+      },
+      {
+        "statement": "5. Se infiere del contenido textual que Popper jamás ponderaría",
+        "alternatives": [
+          "A) el rigor en el debate.",
+          "B) la honestidad intelectual.",
+          "C) el rechazo del freudismo.",
+          "D) el dogmatismo científico.",
+          "E) el examen autocrítico."
+        ],
+        "correct": 3,
+        "rationale": "Karl Popper estaría en desacuerdo con toda posición dogmática, dado que estas imponen y son tenazmente defendida."
+      }
+    ]
+  }
+]

@@ -1,0 +1,355 @@
+[
+  {
+    "type": "sentence_elimination",
+    "statement": "10. En la figura se muestran terrenos de cultivos de flores. Las regiones ANP y PCD están sembradas de rosas y claveles cuyas áreas son 100 m2 y 400 m2 respectivamente. Si MN/ / AD y en la región BCM se ha sembrado margaritas, calcule el área de dicha región.",
+    "alternatives": [
+      "A) 2300 m",
+      "B) 2320 m",
+      "C) 2280 m",
+      "D) 2350 m",
+      "E) 2250 m"
+    ],
+    "correct": 0,
+    "rationale": "Solución: CLAVE: A"
+  },
+  {
+    "type": "reading_comprehension",
+    "statement": "Alberto Escobar ha visto bien cómo en la prosa de Palma parece disolverse la contradicción entre el casticismo de Pardo y Aliaga y la lengua aplebeyada de Segura, pero en realidad el experimento de las tradiciones va más allá porque no sólo resuelve una controversia literaria sino propone un modelo de la lengua nacional acodado en dos pilares ajenos al orden de la literatura: el habla de los indios y la Academia, modelo que se extiende a todo un género (no por casualidad su nombre es el de Tradiciones Peruanas ) y finalmente se proyecta sobre el sentido de la nación misma. Tal vez con menos explicitez que otros escritores del siglo XIX, Palma inscribe su producción dentro de la problemática mayor de la época: producir una imagen y un discurso que diluyan las contradicciones que socavaban la idea misma de nación, construyendo espacios homogéneos sobre una realidad abrumadoramente heterogénea, con ánimo de crear en y por el lenguaje una comunidad nacional posible. De alguna manera, es un momento feliz: el quechua está en paz con el español, el lenguaje del habla con el arte de la calle, la escritura con la oralidad y todo dentro de un orden voluntariosamente conciliador, homogeneizante, que en la tersa superficie de la página escrita encuentra cree encontrar una figuración social alentadora. En otro lugar he examinado como Palma hace de la Colonia un lugar y un momento amenos para la historia del Perú, desproblematizándola con humor y sutileza ;ahora, en el plano del lenguaje, bien podría decirse algo similar: diluyendo las tensiones del bilingüismo y haciéndolo además al desgaire, como quien realiza un acto absolutamente natural, borrando al mismo tiempo las fronteras entre lo oral y lo escrito y lo culto y lo popular, y",
+    "questions": [
+      {
+        "statement": "La intención principal del autor del texto es",
+        "alternatives": [
+          "A) analizar el proyecto narrativo de Ricardo Palma que fue construido a lo largo del siglo XIX.",
+          "B) mostrar como Palma construye a través del lenguaje usado en Las Tradiciones Peruanas una idea de nación homogénea .",
+          "C) señalar la importancia que desempeña el quechua en la idea que tenía Palma de la nación.",
+          "D) destacar los vínculos existentes entre la prosa castiza de Pardo y Aliaga y la lengua popular de Segura .",
+          "E) interpretar cómo se presenta el bilingüismo en el Perú que Palma recrea en su obra."
+        ],
+        "correct": 1,
+        "rationale": "Solución: El texto, básicamente, trata de la idea de nación que forjó Palma por medio del lenguaje en Las tradiciones peruanas. En dicho texto, Palma trató de atenuar las diferencias entre lo culto y lo popular, por ejemplo, bajo la idea de construir una nación homogénea."
+      },
+      {
+        "statement": "El término DILUIR tiene la connotación de",
+        "alternatives": [
+          "A) filtrar.",
+          "B) precisar .",
+          "C) atenuar .",
+          "D) entender .",
+          "E) malquistar ."
+        ],
+        "correct": 2,
+        "rationale": "Solución : En el texto, el término DILUIR connota la disminución o atenuación de las tensiones del bilingüismo."
+      },
+      {
+        "statement": "En el texto, la palabra SOCAVAR significa",
+        "alternatives": [
+          "A) Debilitar .",
+          "B) mejorar .",
+          "C) adherir .",
+          "D) menospreciar .",
+          "E) unificar ."
+        ],
+        "correct": 0,
+        "rationale": "Solución : En el texto, el término socavar puede ser reemplazado por la palabra debilitar ya que se habla de las contradicciones que debilitaban la idea de nación."
+      },
+      {
+        "statement": "Es compatible desde el punto de vista del autor del texto afirmar que",
+        "alternatives": [
+          "A) Palma intentó reflejar, por medio del lenguaje, las contradicciones de la comunidad nacional .",
+          "B) Escobar no pudo percibir cómo en la prosa de Palma parece disolverse la contradicción entre el casticismo de Pardo y la lengua aplebeyada de Segura.",
+          "C) Ricardo Palma se engañaba cuando pensaba en una nación homogénea y sin conflictos.",
+          "D) la principal problemática de los escritores del siglo XIX fue crear una lengua sincrética.",
+          "E) el modelo de lengua nacional propuesto por Ricardo Palma era eminentemente literario."
+        ],
+        "correct": 0,
+        "rationale": "Solución: Palma propone un modelo de la lengua nacional que reposa en el habla de los indios y la Academia, modelo que se extiende a todo un género. A partir de ese modelo, Palma produce un espacio lingüístico casi paradisiaco y sin conflictos, que pretende ser nacional, pero que no lo es porque no refleja la realidad."
+      }
+    ]
+  },
+  {
+    "type": "verbal_series",
+    "statement": "1) En la siguiente serie indique cuál es el término que comprende a los demás.",
+    "alternatives": [
+      "A) Bicicleta",
+      "B) Coche",
+      "C) Vehículo",
+      "D) Camión",
+      "E) Motocicleta"
+    ],
+    "correct": 2,
+    "rationale": "Solución : Vehículo es el hiperónimo de las demás palabras ."
+  },
+  {
+    "type": "verbal_series",
+    "statement": "2) Pueblerino, aldeano, campesino,",
+    "alternatives": [
+      "A) dicaz .",
+      "B) gañán .",
+      "C) paleto .",
+      "D) alimaña .",
+      "E) sabandija ."
+    ],
+    "correct": 1,
+    "rationale": "Solución : Gañán significa campesino, labriego."
+  },
+  {
+    "type": "verbal_series",
+    "statement": "3) Desgracia do, dichoso; impetuoso, sereno;",
+    "alternatives": [
+      "A) Iinsólito, habitual .",
+      "B) miedo, infortunio.",
+      "C) fastidioso, impaciencia .",
+      "D) calamidad, confrontar ."
+    ],
+    "correct": 0,
+    "rationale": "Solución : En la serie, la pareja de palabras que se oponen corresponde a sinónimos y antónimos"
+  },
+  {
+    "type": "verbal_series",
+    "statement": "4) Señale qué palabra no corresponde a la serie .",
+    "alternatives": [
+      "A) Inficionar",
+      "B) Contaminar",
+      "C) Contagiar",
+      "D) Infectar",
+      "E) Emplazar"
+    ],
+    "correct": 4,
+    "rationale": "Solución : Emplazar significa colocar, situar."
+  },
+  {
+    "type": "verbal_series",
+    "statement": "5) Mustio, melancólico; imperecedero, caduc0; resuelto, intrépido;",
+    "alternatives": [
+      "A) álgido, abrasador.",
+      "B) símbolo, alegoría.",
+      "C) similar, simpatía.",
+      "D) insignia, sacramento.",
+      "E) bandera, signo."
+    ],
+    "correct": 0,
+    "rationale": "Solución : Serie alternada de sinónimos y antónimos, corresponde un par de antónimos."
+  },
+  {
+    "type": "verbal_series",
+    "statement": "6) Garbozo, gallardo, elegante,",
+    "alternatives": [
+      "A) azorado",
+      "B) bardo",
+      "C) airoso",
+      "D) jovial",
+      "E) ceñoso"
+    ],
+    "correct": 2,
+    "rationale": "Solución: Serie verbal sinonímica basada en la idea de elegancia."
+  },
+  {
+    "type": "verbal_series",
+    "statement": "7) Piropo, galantería, lisonja,",
+    "alternatives": [
+      "A) requiebro",
+      "B) cabriola",
+      "C) holgura",
+      "D) coloquio",
+      "E) desdoro"
+    ],
+    "correct": 0,
+    "rationale": "Solución Serie de sinónimos centrada en la idea de elogio."
+  },
+  {
+    "type": "reading_comprehension",
+    "statement": "SEMAN A 13 C. Por raro que suene, existe la adicción al deporte. Hay médicos que han recibido en su consultorio a personas con los talones sangrando de tanto caminar. Pero ¿qué es un adicto al deporte? Una persona que está dispuesta a arriesgarse a perjudicar su salud con tal de tener su \"dosis\" de actividad física. Aunque se trate de una enfermedad poco frecuente, es muy grave. Suele presentarse en maratonistas y triatlonistas, pero también en personas que van regularmente al gimnasio a levantar pesas y entrenar con aparatos. No hacen deporte por placer ni lo disfrutan, sino que responden a una adicción. En general creen que les irá mal sino lo hacen. La pérdida de controles, justamente, uno de los síntomas de la adicción. A veces, la gente se aboca al deporte después de una fuerte crisis ,como la muerte de un familiar y, lo que empieza como un hábito positivo, termina en adicción. La adicción suele afectar a personas con poco amor propio y perfeccionistas. Sin embargo, de todas las personas que practican deportes, la adicción afecta a una porción baja: menos de un uno por ciento. Los casos más extremos son considerados adicciones primarias. En el caso de las adicciones secundarias, que son más frecuentes, éstas son consecuencia de otra enfermedad de fondo, que suele tener que ver con una percepción equívoca del cuerpo y en especial con trastornos en la alimentación como la anorexia y la bulimia. En estos casos, las personas hacen deporte para quemar calorías y bajar de peso. La Clínica de Medicina Psicosomática y Psicoterapia de la Universidad de Friburgo, en saludabe con el deporte. \"La idea es que los pacientes conozcan mejor su cuerpo y sus límites y vuelvan a asociar el deporte con la diversión y el bienestar\", explica la profesora Almut Zeeck. A fin de cuentas, el deporte es algo saludable. \"Incluso tiene un efecto beneficioso sobre muchos aspectos que se ven perjudicados por los trastornos en la alimentación\", como la percepción del cuerpo y la autoestima, agrega.",
+    "questions": [
+      {
+        "statement": "La idea más importante que el autor sostiene en el texto es que",
+        "alternatives": [
+          "A) la adicción al deporte es una de las enfermedades más frecuentes pero muy poco peligrosas que existen en la actualidad.",
+          "B) las causas de la adicción al deporte, que es una enfermedad muy grave, tienen que ver con la poca autoestima y, también, con los trastornos alimenticios.",
+          "C) la profesora Almut Zeeck explicó que la poca autoestima es la principal consecuencia de la adicción al deporte.",
+          "D) la adicción al deporte en su modalidad primaria afecta sobre todo a quienes levantan pesas y entrenan con aparatos.",
+          "E) a principios del 2012, la Clínica de Medicina Psicosomática de la Universidad de Friburgo comenzó un estudio sobre terapia deportiva."
+        ],
+        "correct": 1,
+        "rationale": "Solución: A lo largo del texto, se mencionan las causas de la adicción al deporte. Mientras que la adicción al deporte primaria surge por la poca autoestima, la secundaria se genera debido a trastornos alimenticios que estas personas padecen."
+      },
+      {
+        "statement": "Si las personas volvieran a asociar el deporte con el bienestar y la diversión, probablemente",
+        "alternatives": [
+          "A) las adicciones primarias aumentarían considerablemente.",
+          "B) el porcentaje de adicciones secundarias aumentaría .",
+          "C) las afecciones cardíacas disminuirían notablemente.",
+          "D) se pondría fin a la adicción que crea el deporte.",
+          "E) el porcentaje de adicciones secundarias disminuiría ."
+        ],
+        "correct": 4,
+        "rationale": "Solución : Las adicciones secundarias se producen por trastornos alimenticios, por lo que según lo realizado por la Clínica de Medicina Psicosomática y Psicoterapia de la Universidad de Friburgo las personas que padecen de esas enfermedades podrían llegar a superar sus problemas, sin la necesidad de llegar a sufrir de la adicción al deporte, si aceptan sus cuerpos y asocian el deporte con el bienestar y la diversión."
+      },
+      {
+        "statement": "El término DOSIS alude a",
+        "alternatives": [
+          "A) medicina.",
+          "B) extracto .",
+          "C) remedio .",
+          "D) cantidad.",
+          "E) porción."
+        ],
+        "correct": 3,
+        "rationale": "Solución : En el texto, el termino DOSIS hace referencia a la cantidad diaria de actividad física que una persona que padece de adicción al deporte realiza sin importarle afectar su salud."
+      },
+      {
+        "statement": "Es incompatible con lo afirmado en el texto sostener que",
+        "alternatives": [
+          "A) la adicción al deporte suele afectar a personas con poca autoestima y perfeccionistas.",
+          "B) la adicción al deporte primaria afecta principalmente a quienes levantan pesas y entrenan con aparatos.",
+          "C) la adicción al deporte es una enfermedad grave, pero poco frecuente.",
+          "D) las adicciones secundarias suelen ser más frecuentes que las primarias.",
+          "E) la adicción al deporte siempre afecta a personas con poco amor propio y perfeccionistas."
+        ],
+        "correct": 4,
+        "rationale": "Solución: El texto dice, literalmente, que la adicción al deporte suele afectar a personas con poca autoestima y perfeccionistas, por lo que afirmarlo con el término 'siempre' resulta incompatible."
+      },
+      {
+        "statement": "Según se afirma en el texto, uno de los síntomas de la adicción al deporte es",
+        "alternatives": [
+          "A) bulimia y anorexia.",
+          "B) talones sangrantes.",
+          "C) pérdida del control.",
+          "D) muerte de un familiar.",
+          "E) poca autoestima."
+        ],
+        "correct": 2,
+        "rationale": "Solución : La pérdida del control, según el autor del texto, es uno de los síntomas de la adicción al deporte; mientras que las otras alternativas sí corresponden causas de la enfermedad."
+      },
+      {
+        "statement": "Es posible inferir del texto que no podría ser considerada una de las causas de la adicción al deporte",
+        "alternatives": [
+          "A) la muerte de un familiar.",
+          "B) padecer de trastornos alimenticios.",
+          "C) tener poco amor propio.",
+          "D) una imagen negativa del cuerpo.",
+          "E) pérdida del control."
+        ],
+        "correct": 4,
+        "rationale": "Solución : La pérdida del control es un síntoma, no una causa; las demás pueden ser causas según el texto."
+      }
+    ]
+  },
+  {
+    "type": "reading_comprehension",
+    "statement": "La pérdida de dientes es un importante problema de salud pública en todo el mundo. En el Reino Unido, el 15% de personas entre 65 y 74 años de edad y más del 30% de personas mayores a 75 años carecen de dientes naturales. Pero son los fumadores regulares quienes tienen un riesgo significativamente mayor de perder dientes, según confirmó un nuevo estudio. La mayoría de los dientes se pierden como resultado de cualquier caries o periodontitis crónica (enfermedad de las encías), explica el autor principal del estudio, el profesor Thomas Dietrich de la Universidad de Birmingham, quien sostiene que fumar es un factor que propicia la periodontitis, lo que explica una mayor tasa de pérdida de dientes en los fumadores. Los hombres fumadores tienen 3,6 veces más probabilidades de perder sus dientes que los no fumadores, mientras que las mujeres fumadoras tienen 2,5 veces más probabilidades, según la investigación publicada en Journal of Dental Research, y en donde también participó el Instituto Alemán de Nutrición Humana. Fumar puede ocultar el sangrado de las encías, un símbolo clave de la periodontitis. Como resultado, las encías de rapidez. Eventualmente, un exfumador tendría el mismo riesgo de pérdida de dientes que alguien que nunca ha fumado, aunque esto puede tomar más de diez años, explica Thomas Dietrich. El estudio tomó en cuenta a 23,376 participantes, y también se detectó que la pérdida de dientes depende de la cantidad de cigarros que la persona fume.",
+    "questions": [
+      {
+        "statement": "La intención fundamental del autor del texto es",
+        "alternatives": [
+          "A) informar al lector acerca del sangrado de encías para que tome las medidas preventivas.",
+          "B) exponer las causas de la periodontitis en casos concretos de exfumadores empedernidos .",
+          "C) generar una campaña acerca del consumo de cigarrillos y sus repercusiones en la salud.",
+          "D) explicar por qué el consumo de cigarrillos produce un mayor riesgo de pérdida de piezas dentales.",
+          "E) exponer las cifras reales de la perdida de piezas dentarias en diferentes países de Latinoamérica ."
+        ],
+        "correct": 3,
+        "rationale": "Solución : El texto inicia con una breve introducción estadística de la perdida de piezas dentales, para dar paso a una explicación de las causas que la producen, entre las que destacan la periodontitis, que es la causa principal y es propiciada por el consumo de cigarrillos. A partir de esa premisa, el autor articula una explicación que concluye en los párrafos siguientes."
+      },
+      {
+        "statement": "Es incompatible con lo expuesto en el texto señalar que",
+        "alternatives": [
+          "A) los hombres fumadores tienen 3.6 veces más probabilidades de perder sus dientes que los no fumadores, mientras que las mujeres fumadoras tienen 2,5 veces más probabilidades.",
+          "B) en el Reino Unido, el 15% de personas entre 65 y 74 años de edad y más del 30% de personas mayores a 75 años carecen de dientes naturales.",
+          "C) la mayoría de los dientes se pierden como resultado de cualquier caries o periodontitis crónica (enfermedad de las encías), explica Thomas Dietrich.",
+          "D) fumar puede ocultar el sangrado de las encías, un síntoma clave de la periodontitis; razón por la cual las encías de un fumador pueden parecer más sanas de lo que realmente son.",
+          "E) el estudio tomó en cuenta a 23,386 participantes, y también se detectó que la pérdida de dientes no depende de la cantidad de cigarros que la persona fume."
+        ],
+        "correct": 4,
+        "rationale": "Solución: El texto dice que 'El estudio tomó en cuenta a 23,376 participantes, y también se detectó que la pérdida de dientes depende de la cantidad de cigarros que la persona fume'."
+      },
+      {
+        "statement": "El término TASA puede ser reemplazado por",
+        "alternatives": [
+          "A) límites.",
+          "B) alcance.",
+          "C) porcentaje.",
+          "D) peso .",
+          "E) condiciones."
+        ],
+        "correct": 2,
+        "rationale": "Solución: El texto hace referencia a la tasa de pérdida de piezas dentales, es decir, a "
+      },
+      {
+        "statement": "Según el texto, un fumador es más propenso a perder sus dientes porque",
+        "alternatives": [
+          "A) fumar permite que las bacterias se adhieran a los dientes y causen sarro.",
+          "B) fumar causa periodontitis, que es la causa principal de la caída de dientes.",
+          "C) el humo del tabaco se adhiere a los dientes y crea placa bacteriana .",
+          "D) fumar causa el sangrado de las encías, lo que hace que se caigan más rápido.",
+          "E) la periodontitis se desacelera cuando se pone en contacto con el humo del tabaco."
+        ],
+        "correct": 1,
+        "rationale": "Solución: El texto sostiene que la mayoría de los dientes se pierden como resultado de cualquier caries o periodontitis crónica. Fumar es un factor que propicia la periodontitis, lo que explica una mayor tasa de pérdida de dientes en los fumadores."
+      },
+      {
+        "statement": "Si un fumador por cuestiones de salud se viera obligado a dejar de fumar, sería posible",
+        "alternatives": [
+          "A) se produzca una reducción a un porcentaje del 0% la probabilidad de perder sus piezas dentarias.",
+          "B) en diez años, aproximadamente, la probabilidad de perder sus dientes sería similar a la de una persona que jamás fumó.",
+          "C) pudieran detectarle periodontitis, algún tipo de caries o cualquier afección avanzada.",
+          "D) perder sus dientes sería una posibilidad remota, al menos en los próximos dos años.",
+          "E) perdería sus dientes en menos de dos semanas por graves infecciones en las encías."
+        ],
+        "correct": 1,
+        "rationale": "Solución : Según Thomas Dietrich, eventualmente, un exfumador tendría el mismo riesgo de pérdida de dientes que alguien que nunca ha fumado, aunque esto puede tomar más de diez años."
+      }
+    ]
+  },
+  {
+    "type": "verbal_series",
+    "statement": "1) Protector, bienhechor, patrocinador",
+    "alternatives": [
+      "A) incontinente",
+      "B) contumaz",
+      "C) mecenas",
+      "D) expatriado",
+      "E) asceta"
+    ],
+    "correct": 2,
+    "rationale": "Solución : Serie sinonímica que se completa con la palabra Mecenas."
+  },
+  {
+    "type": "verbal_series",
+    "statement": "2) Identifique el término que no corresponde a la serie verbal .",
+    "alternatives": [
+      "A) Iletrado",
+      "B) Ignorante",
+      "C) Lego",
+      "D) Inculto",
+      "E) Anodino"
+    ],
+    "correct": 4,
+    "rationale": "Solución : El campo semántico es el de la persona ignorante. Anodino significa insustancial."
+  },
+  {
+    "type": "verbal_series",
+    "statement": "3) Identifique la palabra que no corresponde al campo semántico de VINO .",
+    "alternatives": [
+      "A) Mosto",
+      "B) Uva",
+      "C) Azada",
+      "D) Filtración",
+      "E) Fermentación"
+    ],
+    "correct": 3,
+    "rationale": "Solución : Azada es un instrumento de labranza que sirve para cavar la tierra."
+  },
+  {
+    "type": "verbal_series",
+    "statement": "4) A) Embustero B) Lacónico C) Falaz D) Mendaz E) Farsante",
+    "alternatives": [
+      "A) Embustero",
+      "B) Lacónico",
+      "C) Falaz",
+      "D) Mendaz",
+      "E) Farsante"
+    ],
+    "correct": 1,
+    "rationale": "Solución : Lacónico significa breve, conciso."
+  }
+]

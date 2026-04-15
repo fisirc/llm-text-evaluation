@@ -1,0 +1,443 @@
+[
+  {
+    "type": "synonyms_and_antonyms",
+    "statement": "El sentido contextual de RISTRA es",
+    "alternatives": [
+      "A) constelación.",
+      "D) satélite.",
+      "B) cadena.",
+      "E) objeto.",
+      "C) madeja."
+    ],
+    "correct": 2,
+    "rationale": "En el contexto, una ristra de palabras significa una cadena o secuencia de ellas."
+  },
+  {
+    "type": "synonyms_and_antonyms",
+    "statement": "En el texto, el término CALIBRAR connota",
+    "alternatives": [
+      "A) medición.",
+      "D) discriminación.",
+      "B) afinamiento.",
+      "E) intelección",
+      "C) resumen."
+    ],
+    "correct": 3,
+    "rationale": "Woody Allen, solamente, pudo calibrar un tema bastante general, es decir, entender."
+  },
+  {
+    "type": "synonyms_and_antonyms",
+    "statement": "El término ATRIBULADO es antónimo de",
+    "alternatives": [
+      "A) aquietado.",
+      "D) embalsamado.",
+      "B) eufórico.",
+      "E) enturbiado.",
+      "C) adormilado."
+    ],
+    "correct": 1,
+    "rationale": "Quedar atribulado por una pena de amor significa estar muy triste. La antonimia está en la palabra ‘eufórico’."
+  },
+  {
+    "type": "reading_comprehension",
+    "statement": "El Tren Bioceánico es un megaproyecto de trenes de carga impulsado desde el 2014, que busca unir el Pacífico peruano con Bolivia y Brasil, y tendrá una extensión total de 3755.5 km y trasladaría 10 millones de toneladas de mercancías al año. Además, el Tren Bioceánico favorecerá también a Paraguay y Uruguay, que «están interesados» en este proyecto de integración.\n\nEl Ministerio de Transportes y Comunicaciones (MTC) realizó un estudio de preinversión en el que evaluó tres alternativas para determinar el punto de entrada y salida del Tren Bioceánico en el Perú, que conectará los puertos de Santos, en Brasil, e Ilo, en Perú, a través de Bolivia. El sector determinó que el recorrido más eficiente y rentable es la alternativa número 2 que entra por Desaguadero en el límite con Bolivia y sale por el puerto de Ilo en Moquegua. Esta opción implica una inversión peruana de US$ 7 mil 548 millones.\n\nAsí, Perú tendrá un recorrido de 340.5 km, más de 180 puentes por instalar y 40 km de túneles; en Bolivia, de 1894 km; y Brasil, 1521 km. La construcción de este megaproyecto en total, que unirá los océanos Pacífico y Atlántico, duraría entre siete y seis años.\n\nRPP Noticias. (26/09/2018). El ABC del Tren Bioceánico que unirá Perú, Bolivia y Brasil. Recuperado de\nhttps://rpp.pe/economia/economia/el-abc-del-tren-bioceanico-que-unira-peru-bolivia-y-brasil-noticia-1152442. (Texto editado)\n\nCuba Debate. (27/07/2017). Bolivia acelera proyecto del tren bioceánico: ¿Un “Canal de Panamá” por Suramérica? Recuperado de http://www.cubadebate.cu/noticias/2017/07/27/bolivia-acelera-proyecto-del-tren-bioceanico-un-canal-de-panama-por-suramerica-video/#.XHYUfMBKjIU. (Infografía editada)",
+    "questions": [
+      {
+        "statement": "El propósito medular del texto es",
+        "alternatives": [
+          "A) indicar los beneficios de tres países sudamericanos con el Tren Bioceánico.",
+          "B) explicar los porqués del tiempo y del dinero que requiere el Tren Bioceánico.",
+          "C) soslayar los óbices que encara el megaproyecto de trenes en América del Sur.",
+          "D) describir un megaproyecto ferroviario que unirá el Pacífico con el Atlántico.",
+          "E) aducir diversas razones para defender el megaproyecto del Tren Bioceánico."
+        ],
+        "correct": 3,
+        "rationale": "El texto íntegro es una noticia de un megaproyecto de trenes que unirá Santos, en el Atlántico, con Ilo, en el océano Pacífico, a través de Bolivia."
+      },
+      {
+        "statement": "En la palabra MEGAPROYECTO, el prefijo incide en",
+        "alternatives": [
+          "A) su carácter internacional.",
+          "C) los gastos corrientes.",
+          "E) el tiempo de los estudios.",
+          "B) su dimensión económica.",
+          "D) los aspectos legales."
+        ],
+        "correct": 1,
+        "rationale": "Por los datos brindados, el megaproyecto implica una fuerte inversión."
+      },
+      {
+        "statement": "Se desprende de la infografía que el megaproyecto del Tren Bioceánico",
+        "alternatives": [
+          "A) tendrá un solo tren con dos vagones.",
+          "B) posee dos vías con un solo sentido.",
+          "C) requiere de 2234.5 km por construir.",
+          "D) va a conectar a Argentina con Chile.",
+          "E) va a beneficiar mucho más a Bolivia."
+        ],
+        "correct": 2,
+        "rationale": "Según los datos complementarios de la infografía, el megaproyecto del Tren Bioceánico tiene 1521 km construidos en Brasil. Entonces, faltarían construir 2234.5 kilómetros."
+      }
+    ]
+  },
+  {
+    "type": "reading_comprehension",
+    "statement": "Según los datos complementarios de la infografía, el megaproyecto del Tren Bioceánico tiene 1521 km construidos en Brasil. Entonces, faltarían construir 2234.5 kilómetros.",
+    "questions": [
+      {
+        "statement": "Se desprende de la infografía que el megaproyecto del Tren Bioceánico",
+        "alternatives": [
+          "A) tendrá un solo tren con dos vagones.",
+          "B) posee dos vías con un solo sentido.",
+          "C) requiere de 2234.5 km por construir.",
+          "D) va a conectar a Argentina con Chile.",
+          "E) va a beneficiar mucho más a Bolivia."
+        ],
+        "correct": 2,
+        "rationale": "Según los datos complementarios de la infografía, el megaproyecto del Tren Bioceánico tiene 1521 km construidos en Brasil. Entonces, faltarían construir 2234.5 kilómetros."
+      },
+      {
+        "statement": "Es consistente con la infografía afirmar que el recorrido del Tren Bioceánico",
+        "alternatives": [
+          "A) también podría beneficiar a la industria de Chile.",
+          "B) atraviesa una geografía muy accidentada en Brasil.",
+          "C) será solo productivo en el tramo Perú-Bolivia.",
+          "D) eludirá el Puerto Suárez si pasa por Desaguadero.",
+          "E) ya tiene un avance del 50% en su construcción."
+        ],
+        "correct": 0,
+        "rationale": "Así como Paraguay y Uruguay, Chile también podría tener beneficios con este megaproyecto."
+      },
+      {
+        "statement": "Se infiere que el interés de Uruguay en el megaproyecto es de índole",
+        "alternatives": [
+          "A) geopolítica.",
+          "D) jurídica.",
+          "B) turística.",
+          "E) comercial.",
+          "C) ecuménica."
+        ],
+        "correct": 4,
+        "rationale": "En transporte de mercancías puede llegar a ser impresionante, lo que explicaría el interés de Uruguay y de Paraguay."
+      }
+    ]
+  },
+  {
+    "type": "reading_comprehension",
+    "statement": "Antes de decir qué es el existencialismo, conviene aclarar lo que el existencialismo filosófico no es. Es cierto que el existencialismo se ocupa de problemas del hombre (llamados hoy «existenciales») tales como el sentido de la vida, de la muerte, del dolor, etc., pero el existencialismo no consiste solamente en plantear estos problemas, que se han discutido en todas las épocas. Si a este título quisiéramos calificar a San Agustín o a Pascal de existencialistas, cometeríamos un error. Lo mismo cabe decir de algunos escritores como Miguel de Unamuno, Fiódor Dostoievski o Rainer María Rilke quienes han presentado con gran penetración diversos problemas humanos, pero no por eso cabe llamarlos existencialistas. Otra equivocación es llamar existencialistas a filósofos que se ocupan de la existencia en su sentido clásico o de los entes existentes. No tiene sentido, por ello, que algunos pretendan hacer de Tomás de Aquino un filósofo existencialista. Y resulta verdaderamente grotesco que se enumere a Husserl entre los filósofos de la existencia por el hecho de haber ejercido gran influencia sobre ellos; precisamente, Husserl ha excluido ex profeso de sus elucubraciones la existencia. Frente a todos estos equívocos, hay que hacer notar que la filosofía de la existencia es una dirección estricta que se centra en una «vivencia», en un modo de ser peculiarmente humano. La tesis central de esta filosofía es que el hombre consiste en su existencia, que se concibe como una actualidad absoluta, que siempre deviene, está en libertad: es un proyecto.",
+    "questions": [
+      {
+        "statement": "1. El propósito medular del texto es",
+        "alternatives": [
+          "A) recusar ideas sobre el existencialismo para presentar la tesis central de esta corriente.",
+          "B) negar que Husserl pueda ser considerado existencialista a pesar de su importancia.",
+          "C) señalar con claridad la afinidad entre el pensamiento cristiano y la tesis existencialista.",
+          "D) aclarar que la filosofía de la existencia aborda los inveterados problemas de la vida.",
+          "E) dilucidar diáfanamente que los existencialistas se ocupan de las vivencias de filósofos radicales."
+        ],
+        "correct": 0,
+        "rationale": "Primero se señalan errores acerca del existencialismo y, al final, se detalla la tesis central de esta dirección."
+      },
+      {
+        "statement": "2. En el texto, GROTESCO significa",
+        "alternatives": [
+          "A) hilarante.",
+          "D) infatuado.",
+          "B) ampuloso.",
+          "E) banal.",
+          "C) absurdo."
+        ],
+        "correct": 2,
+        "rationale": "Se dice que es grotesco presentar a Husserl como existencialista cuando él ha soslayado el tema de la existencia."
+      },
+      {
+        "statement": "3. Es incompatible con el texto sostener que",
+        "alternatives": [
+          "A) Edmund Husserl ha ejercido enorme influencia en los pensadores existencialistas.",
+          "B) los existencialistas han reflexionado sobre el problema del sentido de la vida.",
+          "C) el pensador San Agustín ha meditado sobre algunos problemas humanos.",
+          "D) Santo Tomás de Aquino ha filosofado acerca de la realidad de los entes.",
+          "E) solo los existencialistas abordan los problemas verdaderamente humanos."
+        ],
+        "correct": 4,
+        "rationale": "Dostoievski no puede ser considerado un filósofo de la existencia, pero sí ha penetrado en los problemas llamados existenciales."
+      }
+    ]
+  },
+  {
+    "type": "reading_comprehension",
+    "statement": "Durante las elecciones presidenciales del 2006, en plena bonanza exportadora, se comenzó a discutir abiertamente las utilidades la creación de un extraordinarias generadas por el alza sin precedentes de precios y demanda de minerales. Aunque tanto Humala como Alan García consideraron su aprobación, dados los arreglos electorales con las élites económicas y el candidato aprista, y los antecedentes de relaciones cercanas entre las empresas mineras y dirigentes apristas generados durante el periodo de Toledo, no sorprende el hecho de que una vez elegido el presidente García, optara por una política altamente permisiva.\n\nimpuesto a\n\nEn efecto, en lugar de una negociación “de poder a poder”, al final terminó primando, sin ninguna dificultad, una propuesta presentada por las grandes corporaciones mineras, donde un selecto grupo de ellas decidía voluntariamente hacer inversiones sociales y de infraestructura en lugar de pagar el impuesto. Al 2007, el último año de bonanza exportadora, según lo revela el cuadro N.º 1, siete grandes mineras ganaron 4 875 millones de dólares y contribuyeron al Estado con la modesta suma de 144 millones de dólares. Si el gobierno se hubiera mantenido firme y hubiera aprobado el impuesto extraordinario, el Estado se habría beneficiado con varios miles de millones de dólares.\n\nCuadro 1. Grandes empresas mineras, utilidades extraordinarias (UE) y “óbolo minero” 2005-2007\n\nEmpresas\nCerro Verde\nBarrick\nSouthern PCP\nShougan\nYanacocha\nAntamina\nTintaya\nTotal\n\nUE/2005\n235\n189\n910\n69\n535\n862\n78\n2 879\n\nUE/2006\n445\n420\n1 274\n71\n568\n1 628\n136\n4 520\n\nUE/2007 Óbolo 2007\n805\n491\n1 415\n92\n244\n1 620\n208\n4 875\n\n17\n8\n17\n1\n22\n65\n14\n144\n\nFuente: Humberto Campodónico “Utilidades extraordinarias, ganancias y óbolo minero. “La República” (Abril 5, 2008)\n\nAl respecto, no sorprende que el Ministerio de Economía y Finanzas (MEF), como casi todos los ministerios de economía del gobierno de García, fueran dirigidos por personal reclutado en las consultoras mineras o en las grandes empresas, indicando un panorama más generalizado de “captura”. En esas circunstancias, apenas llegado al gobierno, García y el MEF emitieron los DS 014 y 015 para restringir la participación ciudadana en la autorización previa al otorgamiento de concesiones y permisos de operaciones de las empresas, al mismo tiempo que se recortaron las atribuciones de los municipios para establecer áreas de Conservación Municipal.\n\nDurand, F. (2010) La mano invisible del Estado. Lima: Fondo Pedagógico Editorial.\n\n1. En el texto, el antónimo de RESTRINGIR es\n\nA) controlar.\nD) actualizar.\n\nB) estimular.\nE) abolir.\n\nC) delimitar.\n\nSolución:\n\nAl restringirse la participación ciudadana, se lograba que los ciudadanos no intervengan en esta política. En consecuencia, el antónimo es la palabra ‘estimular’.",
+    "questions": [
+      {
+        "statement": "En el texto, el antónimo de RESTRINGIR es",
+        "alternatives": [
+          "A) controlar.",
+          "D) actualizar.",
+          "B) estimular.",
+          "E) abolir.",
+          "C) delimitar."
+        ],
+        "correct": 2,
+        "rationale": "Al restringirse la participación ciudadana, se lograba que los ciudadanos no intervengan en esta política. En consecuencia, el antónimo es la palabra ‘estimular’."
+      },
+      {
+        "statement": "El texto pone de relieve que, en el periodo de bonanza de exportación de minerales,",
+        "alternatives": [
+          "A) el MEF controló a las corporaciones mineras con una serie de dispositivos legales que restringieron la participación ciudadana en las concesiones a las compañías mineras.",
+          "B) el MEF reclutó al personal técnico de las consultoras mineras con la finalidad de limitar las atribuciones legales de los municipios y promover las ordenanzas regionales.",
+          "C) las grandes corporaciones mineras, mediante óbolos voluntarios, contribuyeron con la economía peruana a través de la módica cifra de 144 millones de dólares.",
+          "D) con la anuencia del gobierno de ese entonces y en perjuicio de la economía peruana, las grandes corporaciones mineras se beneficiaron con ganancias considerables.",
+          "E) los ministerios de economía dirigidos por técnicos reclutados de las grandes empresas favorecieron con creces a las corporaciones internacionales."
+        ],
+        "correct": 3,
+        "rationale": "El gobierno de Alan García, lejos de negociar “poder a poder” con las grandes empresas mineras, aceptó los ínfimos óbolos de las empresas mineras y emitió dos DS que facilitaron la concesión y explotación minera."
+      },
+      {
+        "statement": "Se deduce que los DS 014 y 015 emitidos por el gobierno de García",
+        "alternatives": [
+          "A) impulsaron el derecho ciudadano a la libertad de opinión.",
+          "B) tuvieron la única intención de evitar conflictos sociales.",
+          "C) fueron muy bien recibidos por las corporaciones mineras.",
+          "D) atentaron contra el presupuesto de las empresas mineras.",
+          "E) consolidaron el poder del Estado en la regulación internacional."
+        ],
+        "correct": 2,
+        "rationale": null
+      }
+    ]
+  },
+  {
+    "type": "reading_comprehension",
+    "statement": "La problemática de la originalidad constituye la primera indagación, cuando se trata acerca de la filosofía en la América Latina. ¿Representa la meditación filosófica latinoamericana algo nuevo, en el terreno más amplio de la filosofía occidental? Frente a esta pregunta, surgen dos respuestas radicales: no hay ninguna originalidad o, por el contrario, es posible una originalidad total. Ejemplo de la primera alternativa es la opinión del brasileño Clóvis Bevilacqua, para quien «la especulación filosófica presupone una amplia y profunda base de meditación acerca de los variados dominios del saber humano, apareciendo ella como una flor misteriosa (...)de esta vegetación mental, así como la poesía es la flor de la emotividad» [Bevilacqua 1899: 16]. En efecto, destaca Bevilacqua, si bien es cierto que la poesía florece en el Brasil, como consecuencia del hecho de enraizarse en el sentimiento, no ocurre lo mismo, empero, con la filosofía, terreno en el cual los brasileños se limitan a copiar el pensamiento de los europeos, sin que exista una escuela propia, o un concepto original de vuelo. Opinión igualmente radicales defendida por el pensador colombiano Fernando González Ochoa, para quien es imposible hablar de filosofía latinoamericana, por el hecho de que tenemos nosotros, los latinoamericanos, un espíritu de colonizados. «Quien es colonia por dentro —escribe González Ocha [1986: 761]— concibe la libertad como cambio de dueño». Ejemplo de la segunda alternativa es la opinión del brasileño Roberto Gomes, para quien sería posible la elaboración de un pensamiento latinoamericano ciento por ciento original, surgido de la meditación sobre la propia realidad y del olvido de la filosofía europea, que se convirtió en una simple cultura ornamental en la América Latina. Al respecto, concluye el mencionado autor: «Desde el punto de vista de un pensar brasileño, Noel Rosa (compositor popular) tiene más para enseñarnos que el señor Immanuel Kant, toda vez que la filosofía, como la samba, no se aprende en el colegio» [Gomes 1980: 107]. Opinión semejante es defendida por el peruano Alfredo Palacios quien, en su Mensaje a la juventud universitaria de Iberoamérica, considera que hasta ahora la cultura filosófica latinoamericana fue tributaria del pensamiento europeo. Esta circunstancia mudó a partir del final de la Primera Guerra Mundial, que desenmascaró la decadencia de Europa. La América Latina, según Palacios, se siente en la inminencia de dar a luz una nueva filosofía, perfectamente original. En la senda de esta absoluta novedad, la revista peruana Valoraciones llegó a proponer lo siguiente: «Liquidemos cuentas con los tópicos en uso, expresiones agónicas del alma decrépita de Europa» [apud Mariátegui, J. C., 1986: 62]. A este respecto, Palacios escribe: «Somos pueblos nacientes, libres de amarras y atavismos, con inmensas posibilidades y amplios horizontes delante de nosotros. El cruzamiento de razas nos dio un alma nueva. Al interior de nuestras fronteras acampa la humanidad. Nosotros y nuestros hijos somos síntesis de razas» [apud Mariátegui, J. C., 1986: 64].",
+    "questions": [
+      {
+        "statement": "1. El nudo del debate inscrito en el texto tiene que ver con",
+        "alternatives": [
+          "A) el porvenir de la filosofía latinoamericana.",
+          "B) la caducidad del pensamiento occidental.",
+          "C) la excelencia de la cultura iberoamericana.",
+          "D) el declive de la ciencia y la filosofía de Europa.",
+          "E) la novedad de la filosofía latinoamericana."
+        ],
+        "correct": 4,
+        "rationale": "El debate es sobre la originalidad o novedad de la filosofía por estos rumbos."
+      },
+      {
+        "statement": "2. Dado el contexto, la frase CIENTO POR CIENTO connota",
+        "alternatives": [
+          "A) evidencia.",
+          "B) profundidad.",
+          "C) consenso.",
+          "D) infinitud.",
+          "E) cabalidad."
+        ],
+        "correct": 4,
+        "rationale": "Se trata de una filosofía original a plenitud."
+      },
+      {
+        "statement": "3. Se infiere que, para Bevilacqua,",
+        "alternatives": [
+          "A) se debe prescindir de Kant en la reflexión filosófica.",
+          "B) la poesía es un arte basado en la pura emotividad.",
+          "C) una filosofía auténtica solo es posible en Grecia.",
+          "D) hay una bifurcación entre la razón y el sentimiento.",
+          "E) la filosofía solo se despliega en momentos de crisis."
+        ],
+        "correct": 3,
+        "rationale": "Al efectuar el contraste entre la poesía y la filosofía, se colige que Bevilacqua hace un fuerte distingo entre las proposiciones filosóficas (meditaciones) y los versos poéticos (emociones)."
+      }
+    ]
+  },
+  {
+    "type": "sentence_elimination",
+    "statement": "Se deduce que los DS 014 y 015 emitidos por el gobierno de García",
+    "alternatives": [
+      "A) impulsaron el derecho ciudadano a la libertad de opinión.",
+      "B) tuvieron la única intención de evitar conflictos sociales.",
+      "C) fueron muy bien recibidos por las corporaciones mineras.",
+      "D) atentaron contra el presupuesto de las empresas mineras.",
+      "E) consolidaron el poder del Estado en la regulación internacional."
+    ],
+    "correct": 2,
+    "rationale": "Estos decretos supremos restringieron la participación ciudadana para facilitar las concesiones y la explotación de las minas; por ello, fueron bien recibidos por las corporaciones mineras."
+  },
+  {
+    "type": "sentence_elimination",
+    "statement": "4. Determine el valor de verdad (Vo F) de las siguientes proposiciones de acuerdo con los datos brindados en el cuadro 1.",
+    "alternatives": [
+      "A) FFFF",
+      "B) VVVV",
+      "C) FFFV",
+      "D) VFVF",
+      "E) FFVF"
+    ],
+    "correct": 3,
+    "rationale": "Yanacocha disminuyó sus sobreutilidades en el 2007; en consecuencia, no colmó su expectativa de aumentar dichas utilidades como las otras empresas. El óbolo minero fue ínfimo: no llegó al 5%."
+  },
+  {
+    "type": "sentence_elimination",
+    "statement": "5. Si en el gobierno de García Pérez hubiesen primado los intereses económicos de la nación,",
+    "alternatives": [
+      "A) todos los óbolos mineros se habrían destinado para la población económicamente más necesitada.",
+      "B) se habría controlado la participación ciudadana en la autorización previa a las concesiones mineras.",
+      "C) la corporación empresarial habría reducido drásticamente sus actividades de extracción de minerales.",
+      "D) se habría rechazado el óbolo empresarial para crear un impuesto extraordinario más significativo a las sobreutilidades.",
+      "E) habría contado con recursos suficientes financieros para resolver todos los problemas sociales de la nación."
+    ],
+    "correct": 3,
+    "rationale": "Habría negociado de “poder a poder” y habría cumplido con su promesa de campaña: establecer un impuesto a las sobreutilidades superior a los “óbolos”."
+  },
+  {
+    "type": "sentence_elimination",
+    "statement": "3. Se infiere que, para Bevilacqua,",
+    "alternatives": [
+      "A) se debe prescindir de Kant en la reflexión filosófica.",
+      "B) la poesía es un arte basado en la pura emotividad.",
+      "C) una filosofía auténtica solo es posible en Grecia.",
+      "D) hay una bifurcación entre la razón y el sentimiento.",
+      "E) la filosofía solo se despliega en momentos de crisis."
+    ],
+    "correct": 3,
+    "rationale": "Al efectuar el contraste entre la poesía y la filosofía, se colige que Bevilacqua hace un fuerte distingo entre las proposiciones filosóficas (meditaciones) y los versos poéticos (emociones)."
+  },
+  {
+    "type": "sentence_elimination",
+    "statement": "4. Si un escritor sostuviera que Latinoamérica representa una raza cósmica, guardaría",
+    "alternatives": [
+      "A) Alfredo Palacios.",
+      "B) Noel Rosa.",
+      "C) Immanuel Kant.",
+      "D) Clóvis Bevilacqua.",
+      "E) González Ochoa."
+    ],
+    "correct": 0,
+    "rationale": "Palacios hablaba del fin de la Primera Guerra Mundial y la inminencia (entonces) de la filosofía latinoamericana."
+  },
+  {
+    "type": "sentence_elimination",
+    "statement": "5. Si un pensador peruano estuviera en las antípodas de Alfredo Palacios, podría ser calificado de",
+    "alternatives": [
+      "A) americanista.",
+      "B) eurocéntrico.",
+      "C) empirista.",
+      "D) original.",
+      "E) autóctono."
+    ],
+    "correct": 1,
+    "rationale": "En ese hipotético caso, las propuestas de pensador habrían sido eurocentristas."
+  },
+  {
+    "type": "reading_comprehension",
+    "statement": "Cuentan los hombres dignos de fe (mas Alá sabe más) que en los primeros días hubo un rey de las islas de Babilonia que congregó a sus arquitectos y magos y les mandó a construir un laberinto tan perplejo y sutil que los varones más prudentes no se aventuraban a entrar, y los que entraban se perdían. Esa obra era un escándalo, porque la confusión y la maravilla son operaciones propias de Dios y no de los hombres. Con el andar del tiempo, vino a su corte un rey de los árabes y el rey de Babilonia (para hacer burla de la simplicidad de su huésped) lo hizo penetrar en el laberinto, donde vagó afrentado y confundido hasta la declinación de la tarde. Entonces imploró socorro divino y dio con la puerta. Sus labios no profirieron queja ninguna, pero le dijo al rey de Babilonia que él en Arabia tenía otro laberinto y que, si Dios era servido, se lo daría a conocer algún día. Luego regresó a Arabia, juntó sus capitanes y sus alcaides y estragó los reinos de Babilonia con tan venturosa fortuna que derribó sus castillos, rompió sus gentes e hizo cautivo al mismo rey. Lo amarró encima de un camello veloz y lo llevó al desierto. Cabalgaron tres días, y le dijo: «¡Oh, rey del tiempo y substancia y cifra del siglo!, en Babilonia me quisiste perder en un laberinto de bronce con muchas escaleras, puertas y muros; ahora el Poderoso ha tenido a bien que te muestre el mío, donde no hay escaleras que subir, ni puertas que forzar, ni fatigosas galerías que recorrer, ni muros que veden el paso». Luego le desató las ligaduras y lo abandonó en la mitad del desierto, donde murió de hambre y de sed. La gloria sea con aquel que no muere.",
+    "questions": [
+      {
+        "statement": "1. El narrador menciona a Dios con el fin de ilustrar",
+        "alternatives": [
+          "A) el poder que ostentaba el reino de Babilonia.",
+          "B) los elementos arquitectónicos de los laberintos.",
+          "C) la precariedad de cualquier rey terrenal.",
+          "D) la inclemencia del clima en el desierto.",
+          "E) la venganza de un rey de las islas de Babilonia."
+        ],
+        "correct": 2,
+        "rationale": "«Esa obra era un escándalo, porque la confusión y la maravilla son operaciones propias de Dios y no de los hombres»"
+      },
+      {
+        "statement": "2. El texto es un relato que se centra en",
+        "alternatives": [
+          "A) la omnipotencia divina.",
+          "B) la cordialidad de los reyes.",
+          "C) la magnitud del desierto.",
+          "D) el temple de los laberintos.",
+          "E) un acto de venganza."
+        ],
+        "correct": 4,
+        "rationale": "El rey árabe se venga del rey de Babilonia."
+      },
+      {
+        "statement": "3. En el texto, el término ESTRAGAR significa",
+        "alternatives": [
+          "A) impulsar.",
+          "D) arrasar.",
+          "B) castigar.",
+          "E) conculcar.",
+          "C) amainar."
+        ],
+        "correct": 3,
+        "rationale": "Estragar es causar estragos."
+      }
+    ]
+  },
+  {
+    "type": "reading_comprehension",
+    "statement": "Los curanderos son de gran importancia en la magia del amor. Su existencia representa una de las dimensiones más importantes de la cosmovisión andina y su historia se remonta probablemente a tiempos inmemoriales. En una de sus ilustraciones, Guamán Poma de Ayala presenta tres categorías de curanderos: los que curan mediante la interpretación de los sueños, quienes lo hacen conforme observan el fuego y, finalmente, los que succionan los males del cuerpo del paciente. Su presencia en la actualidad refleja el gran prestigio acumulado a través de su habilidad para persistir bajo persecuciones implacables y los más diversos regímenes sociales y políticos.\n\nSalvo una excepción, nuestros informantes usaron el término qampiq para referirse al curandero consultado por asuntos amorosos. De los variados tipos de curanderos que existen en los Andes, el qampiq es al que normalmente se consulta por problemas de salud; constituye una figura conocida y antigua a la que se ha estudiado desde perspectivas históricas psiquiátricas y antropológicas. La primera consulta con el qampiq puede asumir la forma de conjuro. Tomando algunos cabellos de la persona deseada, el enamorado aspirante trata de envolver con ellos a una kachilachi (libélula), la que lo transportará donde se halla el qampiq. Así su deseo será inmediatamente satisfecho y la otra persona caerá rendida en sus brazos. Pero este acto no le exime de una consulta personal con el especialista. El qampiq tomará el cabello robado, lo trenzará con el del pretendente y se lo devolverá a este luego de una ceremonia cuyos detalles no conocemos.\n\nPara casos desesperados, otra alternativa es robarle a la persona amada una prenda íntima (dela ropa que se seca junto al río, por ejemplo), con la que el qampiq hace una muñeca que tiene el cabello de ambos jóvenes. Se esconde la muñeca cerca de la casa de la amada, quien no podrá resistir más los avances del pretendiente. Una vez iniciado el romance, los objetos robados pueden colocarse bajo la imagen de algún santo con el fin de asegurar la duración de la relación. En caso de romperse la relación, estas prendas adquieren un potencial maligno. Se puede pedir al qampiq que las entierre bajo un manantial, lo que le causaría a la persona hechizada una enfermedad larga, dolorosa y hasta fatal.",
+    "questions": [
+      {
+        "statement": "En el texto, principalmente, se caracteriza al qampiq como",
+        "alternatives": [
+          "A) en ancestral medicina andina.",
+          "B) dedicado a la magia y curandería.",
+          "C) en el sortilegio de índole amatoria.",
+          "D) con conocimientos de fisiología.",
+          "E) en el simbolismo de la cultura andina."
+        ],
+        "correct": 2,
+        "rationale": "El texto se centra en la figura del qampiq y en la índole de su trabajo de enamoramiento."
+      },
+      {
+        "statement": "Resulta incompatible con el texto sostener que",
+        "alternatives": [
+          "A) para cumplir su deseo, el enamorado deberá envolver a una libélula con una prenda íntima de la amada.",
+          "B) el autor pone de relieve la importancia de los curanderos en la secreta magia del amor erótico.",
+          "C) la ceremonia que realiza el qampiq con el cabello robado de la amada es bastante enigmática.",
+          "D) el enamorado puede recurrir a la protección de los santos para asegurar una relación duradera.",
+          "E) las prendas íntimas robadas pueden adquirir con el tiempo un potencial nocivo para la persona amada."
+        ],
+        "correct": 0,
+        "rationale": "La mención de la libélula tiene otro alcance."
+      },
+      {
+        "statement": "A partir del caso descrito en el texto, cabe inferir el siguiente rasgo de la cosmovisión andina:",
+        "alternatives": [
+          "A) agnosticismo.",
+          "D) belicismo.",
+          "B) fetichismo.",
+          "E) individualismo.",
+          "C) materialismo."
+        ],
+        "correct": 1,
+        "rationale": "La creencia en el gran poder del qampiq revelaría una suerte de pensamiento fetichista."
+      }
+    ]
+  },
+  {
+    "type": "reading_comprehension",
+    "statement": "La mención de la libélula tiene otro alcance.",
+    "questions": [
+      {
+        "statement": "A partir del caso descrito en el texto, cabe inferir el siguiente rasgo de la cosmovisión andina:",
+        "alternatives": [
+          "A) agnosticismo.",
+          "D) belicismo.",
+          "B) fetichismo.",
+          "E) individualismo.",
+          "C) materialismo."
+        ],
+        "correct": 1,
+        "rationale": null
+      },
+      {
+        "statement": "Si el qampiq no utilizara prendas íntimas, probablemente",
+        "alternatives": [
+          "A) sus clientes habrían aumentado considerablemente.",
+          "B) sería más conocido como “el curandero del amor”.",
+          "C) se valdría del fuego para lograr su cometido erótico.",
+          "D) sería incapaz de interpretar los sueños de la gente.",
+          "E) la fuerza de su conjuro no tendría un efecto personal."
+        ],
+        "correct": 4,
+        "rationale": null
+      }
+    ]
+  }
+]

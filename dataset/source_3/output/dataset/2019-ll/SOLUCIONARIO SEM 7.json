@@ -1,0 +1,372 @@
+[
+  {
+    "type": "reading_comprehension",
+    "statement": "En un testamento hológrafo, un abuelo nonagenario lega a sus cinco nietos (Ariadna, Muriel, Lucio, Christopher y Darío) un edificio de cinco pisos, de tal modo que cada uno de ellos llega a vivir en un determinado piso. Sabemos que Ariadna resulta propietaria del cuarto piso, Darío es dueño del segundo y Lucio vive más abajo que todos. Si sabemos, además, que Christopher reside debajo de Ariadna, se deduce necesariamente que",
+    "questions": [
+      {
+        "statement": "se deduce necesariamente que",
+        "alternatives": [
+          "A) Christopher vive debajo de Darío.",
+          "B) Muriel vive debajo de Ariadna.",
+          "C) Christopher vive en el último piso.",
+          "D) Muriel reside en el quinto piso."
+        ],
+        "correct": 3,
+        "rationale": "Al tomar como premisas los datos ofrecidos en el texto, se llega a la conclusión necesaria, sobre la base de un estricto razonamiento inferencial, de que Muriel vive en el quinto piso."
+      }
+    ]
+  },
+  {
+    "type": "reading_comprehension",
+    "statement": "Ha sido asesinado el hacendado Bouchard. Se sospecha del capataz, del peón más anciano y de la viuda. Si hubiese sido el capataz, el crimen se habría cometido en el zaguán. Si el culpable hubiese sido el peón más anciano, el asesinato se habría producido antes del mediodía. Si la joven viuda hubiese sido la asesina, la víctima hubiese muerto envenenada. Dado que el crimen se perpetró casi a medianoche, se concluye válidamente que",
+    "questions": [
+      {
+        "statement": "Dado que el crimen se perpetró casi a medianoche, se concluye válidamente que",
+        "alternatives": [
+          "A) el asesinato ocurrió en la mañana.",
+          "B) el crimen se perpetró en el zaguán.",
+          "C) el peón más anciano es inocente.",
+          "D) el victimario fue sin duda el capataz."
+        ],
+        "correct": 2,
+        "rationale": "Por modus tollens, se descarta concluyentemente la hipótesis de la culpabilidad del peón más anciano."
+      }
+    ]
+  },
+  {
+    "type": "reading_comprehension",
+    "statement": "La argumentación de Vargas Llosa se puede sintetizar en el siguiente enunciado:\n\nA) La única dispensa del terrorismo se da cuando se trata de derrocar a un sátrapa que vulnera los derechos de los ciudadanos.\n\nB) La cultura de la libertad y de la tolerancia sufre un daño letal cuando es socavada por las acciones irracionales de algunos fanáticos.\n\nC) Aunque la inmensa mayoría de acciones terroristas padece de insania, algunas acciones terroristas muestran temple moral.\n\nD) La sevicia terrorista puede infligir lamentables daños a la civilización, pero, al final, la cultura democrática se impondrá.\n\nSolución:\n\nAunque es muy terrible la sevicia terrorista, la cultura democrática se impondrá porque nos brinda un modelo de sociedad muy superior al de la sociedad cerrada.\n\nRpta.: D\n\n2. En la lógica de la argumentación de Vargas Llosa, Ramblas de Barcelona es un símbolo\n\nA) del progreso económico.\nC) de la ciudadanía libre.\n\nB) del avance de la tecnología.\nD) de la intolerancia religiosa.\n\nSolución:\n\nPor lo que dice de Ramblas, se infiere plausiblemente que la ciudad de Barcelona representa la esencia de la sociedad abierta.\n\nRpta.: C\n\n3. Mario Vargas Llosa menciona al filósofo Albert Camus para poner de relieve que\n\nA) el terrorismo fanático puede ser muy cautivante para la literatura ola filosofía.\nB) las acciones terroristas son más perniciosas que los males que combaten.\nC) solamente la grandeza moral puede justificar las acciones de los terroristas.\nD) el terrorismo se puede entender como un modo radical de práctica política.\n\nRpta.: B\n",
+    "questions": [
+      {
+        "statement": "La argumentación de Vargas Llosa se puede sintetizar en el siguiente enunciado:",
+        "alternatives": [
+          "A) La única dispensa del terrorismo se da cuando se trata de derrocar a un sátrapa que vulnera los derechos de los ciudadanos.",
+          "B) La cultura de la libertad y de la tolerancia sufre un daño letal cuando es socavada por las acciones irracionales de algunos fanáticos.",
+          "C) Aunque la inmensa mayoría de acciones terroristas padece de insania, algunas acciones terroristas muestran temple moral.",
+          "D) La sevicia terrorista puede infligir lamentables daños a la civilización, pero, al final, la cultura democrática se impondrá."
+        ],
+        "correct": 3,
+        "rationale": "Aunque es muy terrible la sevicia terrorista, la cultura democrática se impondrá porque nos brinda un modelo de sociedad muy superior al de la sociedad cerrada."
+      },
+      {
+        "statement": "En la lógica de la argumentación de Vargas Llosa, Ramblas de Barcelona es un símbolo",
+        "alternatives": [
+          "A) del progreso económico.",
+          "C) de la ciudadanía libre.",
+          "B) del avance de la tecnología.",
+          "D) de la intolerancia religiosa."
+        ],
+        "correct": 1,
+        "rationale": "Por lo que dice de Ramblas, se infiere plausiblemente que la ciudad de Barcelona representa la esencia de la sociedad abierta."
+      },
+      {
+        "statement": "Mario Vargas Llosa menciona al filósofo Albert Camus para poner de relieve que",
+        "alternatives": [
+          "A) el terrorismo fanático puede ser muy cautivante para la literatura ola filosofía.",
+          "B) las acciones terroristas son más perniciosas que los males que combaten.",
+          "C) solamente la grandeza moral puede justificar las acciones de los terroristas.",
+          "D) el terrorismo se puede entender como un modo radical de práctica política."
+        ],
+        "correct": 1,
+        "rationale": "De acuerdo con Mario Vargas Llosa, el pensamiento de Camus es totalmente contrario al temperamento terrible del terrorismo."
+      }
+    ]
+  },
+  {
+    "type": "sentence_elimination",
+    "statement": "¿Cuáles de los siguientes enunciados son incompatibles con la argumentación de Mario Vargas Llosa?\n\nI. En rarísimos casos históricos, la violencia terrorista se sustenta en un propósito\nmoralmente encomiable.\n\nII. El hecho de que las mujeres tengan los mismos derechos que los hombres es una\nvirtud de Occidente.\n\nIII. El fanatismo obcecado es una deplorable lacra que se encuentra en toda forma\nde ideología extremista.\n\nIV. El terrorismo islamista encuentra su justificación en la pobreza extrema que existe\nen el mundo musulmán.",
+    "alternatives": [
+      "A) I y III",
+      "B) II y IV",
+      "C) Solo IV",
+      "D) Solo III"
+    ],
+    "correct": 2,
+    "rationale": "No hay manera de demostrar que la pobreza sea una justificación para los movimientos de insania terrorista."
+  },
+  {
+    "type": "sentence_elimination",
+    "statement": "Teniendo en cuenta la información desplegada en el artículo de Mario Vargas Llosa,\ndetermine el valor de verdad (Vo F) de los siguientes enunciados,\n\nI. Los sinuosos ataques terroristas son una respuesta en contra de los prejuicios\nraciales propios de los países occidentales.\n\nII. La pérdida de la fe en los valores democráticos es el mayor peligro de los\nmonstruosos ataques terroristas en países occidentales.\n\nIII. Debido al atentado en Barcelona, se va a perder el espacio democrático que había\nen el país español.",
+    "alternatives": [
+      "A) VVV",
+      "B) VFV",
+      "C) FFV",
+      "D) FVF"
+    ],
+    "correct": 3,
+    "rationale": "La única verdad radica en que el terrorismo puede infligir un gran daño si socava la fe en la cultura democrática."
+  },
+  {
+    "type": "sentence_elimination",
+    "statement": "Se infiere que el terrorismo islamista busca afianzar un modelo de sociedad",
+    "alternatives": [
+      "A) igualitaria.",
+      "B) cerrada.",
+      "C) heterogénea.",
+      "D) dinámica."
+    ],
+    "correct": 1,
+    "rationale": "El terrorismo islamista está en los antípodas del ideal democrático de una sociedad abierta, y propugna, sin más, la cerrazón ideológica."
+  },
+  {
+    "type": "sentence_elimination",
+    "statement": "De acuerdo con Mario Vargas Llosa, el terrorismo islamista es el peor enemigo de la civilización porque",
+    "alternatives": [
+      "A) esgrime fanatismo e intolerancia",
+      "C) lucha contra la intolerancia ideológica",
+      "D) defiende los valores tradicionales",
+      "B) desencadena pobreza e ignorancia."
+    ],
+    "correct": 0,
+    "rationale": "El modelo civilizatorio de la sociedad abierta propugna el anti-dogmatismo y la tolerancia. Por ello, el terrorismo islamista es el enemigo de la civilización democrática."
+  },
+  {
+    "type": "sentence_elimination",
+    "statement": "Se infiere que Mario Vargas Llosa emplea el término AQUELARRE para resaltar el carácter _____________del movimiento terrorista.",
+    "alternatives": [
+      "A) irracional",
+      "B) popular",
+      "C) religioso",
+      "D) hermético"
+    ],
+    "correct": 0,
+    "rationale": "Se trata de un aquelarre, esto es, de una conflagración irracional en contra de los valores más preciados de la civilización."
+  },
+  {
+    "type": "reading_comprehension",
+    "statement": "SEMANA 7 B\n\nSegún la Organización Mundial de la Salud (OMS), aproximadamente el 50% de los jóvenes\n(entre 12 y 35 años) corre el riesgo de perder audición por sus hábitos de escucha con\ncascos y auriculares: algo más de 1.000 millones de personas, sobre todo de países\ndesarrollados. Además, aproximadamente el 40% se expone a ruidos demasiado altos en\nlocales de ocio como bares y discotecas. A menos que se implementen políticas de salud\npública eficaces, la entidad estima que una de cada diez personas sufrirá de audición\ndiscapacitante para el año 2050, el doble que ahora.\n\nLos sonidos fuertes pueden producir sordera o pérdida de audición porque dañan\ncélulas especializadas de la cóclea, una parte muy sensible del oído interno. “Cada uno\nnacemos con entre 20.000 y 30.000 células receptoras del sonido, y con esas tenemos que\nvivir toda la vida”, explica Isabel Varela-Nieto, experta en neurobiología de la audición y jefa\nde grupo del Ciberer, dedicado a enfermedades raras.\n\nCuanto más alto esté el volumen y mayor sea la duración del sonido, peor será el\ndeterioro. Por eso, los expertos instan a limitar tanto la intensidad como el tiempo de\nescucha. “Quien oye 15 minutos de música a 100 decibelios por un reproductor personal\nsufre una exposición similar a la de un trabajador industrial que escucha 85 decibelios\ndurante una jornada de ocho horas”, explica el documento de la OMS. En febrero, la misma\norganización emitió junto a la Unión Internacional de Telecomunicaciones (UIT) nuevas\ndirectrices para los fabricantes de reproductores de música, diseñadas para proteger a los\nusuarios.\n\n“Recomendamos incorporar funciones en los móviles y dispositivos que informen al\nusuario sobre los decibelios que está escuchando y cuánto sonido ha consumido en el día\ny la semana”, explica Shelly Chadha, otorrinolaringóloga y responsable del programa de la\nOMS para la prevención de sordera y pérdida de audición. “La gente podrá saber cuánto\nescucha para controlar a lo que se expone”. También proponen incorporar funciones de\nseguridad automáticas, como un reductor de volumen que se active cuando se haya\nsuperado el margen recomendado de exposición.\n\nRecuperado de https://elpais.com/sociedad/2019/09/07/actualidad/1567883413_452359.html\n\nI\n\n1. El autor, fundamentalmente, tiene la intención de\n\nA) exigir a los fabricantes de los reproductores de música que ayuden a erradicar la\n\nsordera cumpliendo con las directrices de la OMS y la UIT.\n\nB) informar sobre los esfuerzos que realizan la OMS y la UIT para evitar que los\n\njóvenes de los países desarrollados sufran de sordera.\n\nC) reprochar, sobre la base de un informe, a los jóvenes que escuchan música con\n\nvolumen alto a través de sus cascos y auriculares.\n\nD) hacer conocer un informe advirtiendo que escuchar música con volúmenes altos\n\nes un grave riesgo para la audición.\n\nSolución:\n\nEl autor hace conocer el informe de la OMS que advierte sobre el peligro que corren,\nespecialmente los jóvenes de los países desarrollados, de perder la audición por su\nhábito de escuchar música con volúmenes altos.\n\n2. En el texto, la palabra EXPOSICIÓN connota\n\nA) afronte.\n\nB) letalidad.\n\nC) recepción.\n\nD) peligro.\n\nSolución:\n\nExponerse a ruidos altos connota peligro de perder la audición.\n\nRpta.: D\n\n3. Para menguar la cuantía de la sordera que afectaría especialmente a los jóvenes, las\nautoridades pertinentes deben tomar medidas urgentes como exigir a los propietarios\nde los locales de ocio que, en sus ambientes,\n\nA) prohíban el ingreso de motocicistas con cascos y auriculares.\nB) censuren la música interpretada con instrumentos electrónicos.\nC) retiren aparatos electrónicos que requieran micros y parlantes.\nD) informen los decibelios de la música que emiten sus aparatos.\n\nSolución:\n\nAsí sabrían los usuarios si la música que se emite en dichos locales es nociva.\n\nRpta.: D\n\n4. Se infiere que las nuevas directrices de la OMS y de la Unión Internacional de\n\nTelecomunicaciones serán efectivas siempre y cuando\n\nA) los fabricantes de los reproductores de música cumplan con las recomendaciones.\nB) los usuarios de reproductores de música controlen los decibelios que escuchan.\nC) las autoridades conozcan los decibelios que emiten los reproductores de música.\nD) los reproductores de música alerten a los usuarios los decibelios que emitan.\n\nI\n\nSolución:\n\nLas directrices solo son recomendaciones; en consecuencia, la decisión de moderar\nel volumen de la escucha es del usuario.\n\nRpta.: B\n\n5. Si una población aledaña al aeropuerto estuviera expuesta a la escucha constante de\n\nruidos con un volumen igual o superior a los 85 decibelios, probablemente\n\nA) necesitará más otorrinolaringólogos para diagnosticar el incremento de su sordera.\nB) exigirá que de inmediato se cumplan las directrices emitidas por la OMS y la UIT.\nC) será afectada por el incremento de individuos con una audición discapacitante.\nD) reclamará más médicos especializados para atender el aumento de la sordera.\n\nSolución:\n\nLa escucha de ruidos con volumen igual o superior a los 85 decibelios es nociva\nporque dicho volumen es alto; en consecuencia, se incrementará la población con\naudición discapacitante.\n\nRpta.: C\n\n6.\n\nLa relación que existe entre audición discapacitante y las nuevas directrices de la OMS\ny la UIT es de\n\nA) causa-consecuencia.\nC) efecto-efecto.\n\nB) consecuencia-causa.\nD) problema-tratamiento.\n\nSolución:\n\nEl incremento de la audición discapacitante por la escucha de música con volumen\nalto es causa para que la OIT y la UIT haya emitido sus nuevas directrices.\n\nRpta.: A\n\nC.- Aunque debo admitir que tengo poca confianza en las pruebas tradicionales\n(ontológicas, cosmológicas, teleológicas) de la existencia de Dios, creo en cambio que",
+    "questions": [
+      {
+        "statement": "El autor, fundamentalmente, tiene la intención de",
+        "alternatives": [
+          "A) exigir a los fabricantes de los reproductores de música que ayuden a erradicar la\n\nsordera cumpliendo con las directrices de la OMS y la UIT.",
+          "B) informar sobre los esfuerzos que realizan la OMS y la UIT para evitar que los\n\njóvenes de los países desarrollados sufran de sordera.",
+          "C) reprochar, sobre la base de un informe, a los jóvenes que escuchan música con\n\nvolumen alto a través de sus cascos y auriculares.",
+          "D) hacer conocer un informe advirtiendo que escuchar música con volúmenes altos\n\nes un grave riesgo para la audición."
+        ],
+        "correct": 3,
+        "rationale": "El autor hace conocer el informe de la OMS que advierte sobre el peligro que corren,\nespecialmente los jóvenes de los países desarrollados, de perder la audición por su\nhábito de escuchar música con volúmenes altos."
+      },
+      {
+        "statement": "En el texto, la palabra EXPOSICIÓN connota",
+        "alternatives": [
+          "A) afronte.",
+          "B) letalidad.",
+          "C) recepción.",
+          "D) peligro."
+        ],
+        "correct": 3,
+        "rationale": "Exponerse a ruidos altos connota peligro de perder la audición."
+      },
+      {
+        "statement": "Se infiere que las nuevas directrices de la OMS y de la Unión Internacional de Telecomunicaciones serán efectivas siempre y cuando",
+        "alternatives": [
+          "A) los fabricantes de los reproductores de música cumplan con las recomendaciones.",
+          "B) los usuarios de reproductores de música controlen los decibelios que escuchan.",
+          "C) las autoridades conozcan los decibelios que emiten los reproductores de música.",
+          "D) los reproductores de música alerten a los usuarios los decibelios que emitan."
+        ],
+        "correct": 1,
+        "rationale": "Las directrices solo son recomendaciones; en consecuencia, la decisión de moderar\nel volumen de la escucha es del usuario."
+      },
+      {
+        "statement": "Si una población aledaña al aeropuerto estuviera expuesta a la escucha constante de ruidos con un volumen igual o superior a los 85 decibelios, probablemente",
+        "alternatives": [
+          "A) necesitará más otorrinolaringólogos para diagnosticar el incremento de su sordera.",
+          "B) exigirá que de inmediato se cumplan las directrices emitidas por la OMS y la UIT.",
+          "C) será afectada por el incremento de individuos con una audición discapacitante.",
+          "D) reclamará más médicos especializados para atender el aumento de la sordera."
+        ],
+        "correct": 2,
+        "rationale": "La escucha de ruidos con volumen igual o superior a los 85 decibelios es nociva\nporque dicho volumen es alto; en consecuencia, se incrementará la población con\naudición discapacitante."
+      },
+      {
+        "statement": "La relación que existe entre audición discapacitante y las nuevas directrices de la OMS y la UIT es de",
+        "alternatives": [
+          "A) causa-consecuencia.",
+          "C) efecto-efecto.",
+          "B) consecuencia-causa.",
+          "D) problema-tratamiento."
+        ],
+        "correct": 0,
+        "rationale": "El incremento de la audición discapacitante por la escucha de música con volumen\nalto es causa para que la OIT y la UIT haya emitido sus nuevas directrices."
+      }
+    ]
+  },
+  {
+    "type": "sentence_elimination",
+    "statement": "6. La relación que existe entre audición discapacitante y las nuevas directrices de la OMS y la UIT es de",
+    "alternatives": [
+      "A) causa-consecuencia.",
+      "C) efecto-efecto.",
+      "B) consecuencia-causa.",
+      "D) problema-tratamiento."
+    ],
+    "correct": 0,
+    "rationale": "El incremento de la audición discapacitante por la escucha de música con volumen alto es causa para que la OIT y la UIT haya emitido sus nuevas directrices."
+  },
+  {
+    "type": "reading_comprehension",
+    "statement": "C.- Aunque debo admitir que tengo poca confianza en las pruebas tradicionales (ontológicas, cosmológicas, teleológicas) de la existencia de Dios, creo en cambio que existe un argumento empírico o inductivo que no puede ser descartado tan difícilmente. Me refiero a los hechos de la experiencia religiosa. Ha habido y todavía hay millones de creyentes sinceros en la existencia de un Dios personal. En todas las épocas, en todos los climas, en las culturas más diversas ha habido gentes que han experimentado la realidad de Dios en los momentos de la oración, de culto u ocasionalmente de éxtasis místico. A.- ¿Quiere Ud. decir que millones de personas no pueden equivocarse? C.- Precisamente. Por lo menos es sumamente improbable que estén equivocados por completo. A.- Pudieran estar todos engañados, ¿no es cierto? C.- Ud. no diría que todos podemos estar engañados al creer en la existencia del sol, ¿no es así? A.- Lo admito como posibilidad lógica. Pero como tenemos una enorme cantidad de pruebas acerca del sol, es en sumo grado probable que este exista objetivamente. Nosotros podemos ver el sol, sentimos su calor, percibimos los incontables y variados efectos de su radiación. Nuestros sentidos realmente ofrecen amplio testimonio en este caso. I C.- Ud. confía en sus sentidos externos sin mayor reticencia. ¿Por qué no confía igualmente en el sentido interno? La experiencia inmediata incluye no sólo datos sensoriales, sino también pensamientos, efectos, emociones y sentimientos. Y justamente del mismo modo que los datos sensoriales confirman la existencia del sol y las afirmaciones acerca de la realidad física casi generalmente, los datos de la experiencia religiosa confirman la existencia de un Dios personal o de alguna realidad espiritual. A.- Francamente, mi sentido interno (empleo su frase con reservas) no registra nada de ese tipo. C.- Algunas gentes son ciegas. Y aun algunas que pueden ver no logran apreciar la belleza de algunas obras de arte. Ud. tendrá que convenir que esto es una limitación personal. La existencia del sol podría confirmarse aun cuando todos los seres humanos carecieran de vista. A.- Sí, pero las pruebas sensoriales que confirman la existencia del sol no pueden ser explicadas en ninguna otra forma plausible que asumiendo la existencia del sol (esto es, ese cuerpo astronómico a una distancia de la tierra de ocho minutos, de cerca de 6 mil grados de temperatura en la superficie, etc.). Los datos de la experiencia religiosa, sin embargo, pueden ser explicados satisfactoriamente dentro de una concepción naturalista del mundo. Laplace sostenía que no necesitamos la hipótesis teísta o deísta para dar cuenta de los datos cosmológicos. De un modo similar, la psicología moderna y las ciencias sociales pueden dar cuenta de la experiencia religiosa sin recurrir a hipótesis trascendentes. Feigl, Herbert (1906) Empirismo versus Teología",
+    "questions": [
+      {
+        "statement": "El asunto que debaten A y C gira entorno a",
+        "alternatives": [
+          "A) la posibilidad de la experiencia de Dios durante la oración.",
+          "B) la experiencia de Dios en todas las épocas y variadas culturas.",
+          "C) la experiencia religiosa como prueba de la existencia de Dios.",
+          "D) las experiencias sensoriales que refutan la existencia de Dios."
+        ],
+        "correct": 2,
+        "rationale": "A argumenta que la psicología moderna y las ciencias sociales pueden dar cuenta de la experiencia sin recurrir a la hipótesis de la existencia de Dios; en cambio, considera que esta experiencia es la prueba irrefutable de que Dios existe."
+      },
+      {
+        "statement": "En su primera intervención, C descarta las pruebas tradicionales de la existencia de Dios",
+        "alternatives": [
+          "A) pues, como él, millones de creyentes están seguros de que estas no son pruebas.",
+          "B) porque, a diferencia de estas, la experiencia religiosa conduce al éxtasis místico.",
+          "C) para introducir un argumento más al alcance de millones de creyentes sinceros.",
+          "D) porque considera que estas son menos convincentes que la experiencia religiosa."
+        ],
+        "correct": 3,
+        "rationale": "C dice que tiene poca confianza en las pruebas tradicionales de la existencia de Dios; en consecuencia, son menos convincentes que la experiencia religiosa."
+      },
+      {
+        "statement": "Se deduce que, para A, la experiencia religiosa",
+        "alternatives": [
+          "A) es explicable desde el punto de vista científico.",
+          "B) solamente es posible en los creyentes sinceros",
+          "C) también se experimenta en las ciencias sociales.",
+          "D) es congruente con la hipótesis trascendente."
+        ],
+        "correct": 0,
+        "rationale": "Según A, la psicología moderna y las ciencias sociales pueden explicarlas sin recurrir a hipótesis trascendentes; es decir, pueden dar cuenta desde el punto de vista científico."
+      },
+      {
+        "statement": "La experiencia de la realidad de Dios es refutada por A, fundamentalmente, con el argumento de que",
+        "alternatives": [
+          "A) Laplace descarta la hipótesis teísta o deísta para explicar los datos cosmológicos.",
+          "B) la psicología y las ciencias sociales niegan que se produzca esta experiencia.",
+          "C) la concepción naturalista admite como real la experiencia religiosa trascendente.",
+          "D) esta experiencia no responde a ningún supuesto que trascienda la realidad natural."
+        ],
+        "correct": 3,
+        "rationale": "A dice que esta experiencia se explica científicamente sin recurrir a hipótesis trascendentes."
+      },
+      {
+        "statement": "En el texto, el término CIEGO se refiere a alguien",
+        "alternatives": [
+          "A) incapaz de experimentar la realidad de Dios.",
+          "B) que solamente experimenta la realidad del sol.",
+          "C) que puede apreciar la belleza solo con el tacto.",
+          "D) con un agudo sentido interno para apreciar a Dios."
+        ],
+        "correct": 0,
+        "rationale": "Con este adjetivo, C se refiere a quienes no experimentan la experiencia religiosa que confirma la realidad de Dios."
+      }
+    ]
+  },
+  {
+    "type": "reading_comprehension",
+    "statement": "En un mundo en el que el pleno empleo ya no está asegurado, la identificación prácticamente isométrica entre una formación y una profesión que posibilite obtener empleo se ha convertido en una auténtica obsesión. Por eso, parece preferible formar a titulados en técnicas directamente utilizables para determinados trabajos, en vez de universitarios licenciados en humanidades. En junio de 2015, por ejemplo, el gobierno del Japón anunció su propósito de reducir o suprimir los departamentos de ciencias sociales y filosofía y letras en las universidades que controla oficialmente. El primer ministro japonés declaró por ese entonces que, en vez de profundizar trabajos de investigación universitarios excesivamente teóricos, era mejor impartir una educación con una finalidad más práctica para anticiparse mejor a las necesidades de la sociedad.\n\nCabe preguntarse si la universidad puede contentarse con formar técnicos de vanguardia absolutamente ignorantes de todo conocimiento ajeno al estrecho ámbito de sus disciplinas especializadas. Hemos llegado al extremo de preguntarnos si los encargados de marcar el rumbo –los políticos– creen en la necesidad de formar a personas capaces de pensar con perspectiva general y espíritu crítico. Algunos países ya han negado claramente la necesidad de esta clase de formación y otros muchos no la consideran prioritaria. Ocurre incluso que las propias autoridades universitarias, obnubiladas por las cuestiones de rentabilidad, no le conceden la importancia que merece.\n\nEn un mundo en el que las referencias morales y filosóficas obtienen a duras penas reconocimiento, las universidades todavía cuentan con un caudal de confianza entre el público. Sin embargo, para conservarlo y acrecentarlo es imprescindible que observen un comportamiento ejemplar. Los científicos son objeto de determinadas críticas que a veces ponen en entredicho su honestidad intelectual.\n\nLa ciencia misma ha llegado a ser sospechosa para una parte cada vez mayor de la población. Una ilustración de esto es la proliferación de contraverdades burdas (“alternative facts”) desmentidas por los hechos reales. Aunque no es útil extenderse sobre esta cuestión, sí se pueden mencionar las posiciones escépticas sobre la realidad del cambio climático –adoptadas a veces al más alto nivel del Estado– o el hecho de poner en pie de igualdad la teoría de la evolución de las especies y el creacionismo, como si se tratara de dos opiniones equivalentes. En este contexto movedizo, las universidades pueden constituir sólidos puntos de referencia de la libertad. Naturalmente, esto depende en gran medida de ellas, pero los Estados deben garantizarles recursos suficientes para que gocen de una autonomía real.\n\nRevista Correo 2018 1. Recuperado de https://es.unesco.org/courier/2018-1/universidad-y-democracia-credulos",
+    "questions": [
+      {
+        "statement": "En el texto, PONER EN ENTREDICHO tiene el sentido de",
+        "alternatives": [
+          "A) juzgar.",
+          "B) sentenciar.",
+          "C) dudar.",
+          "D) condenar."
+        ],
+        "correct": 2,
+        "rationale": "Las críticas a los intelectuales pondrían en duda su honestidad intelectual."
+      },
+      {
+        "statement": "El tema central que se desarrolla en el texto es",
+        "alternatives": [
+          "A) el papel de las universidades en la refutación de las contraverdades burdas defendidas desde el más alto nivel del Estado.",
+          "B) el cuestionamiento a la pretendida orientación pragmática de la educación superior y el papel de las universidades.",
+          "C) la adecuación de la formación profesional universitaria a un mundo donde ya no hay seguridad de pleno empleo.",
+          "D) crítica a la pretensión de suprimir o reducir los departamentos de ciencias sociales, filosofía y letras en las universidades."
+        ],
+        "correct": 1,
+        "rationale": "El autor critica la pretendida orientación pragmática de la universidad de formar técnicos especializados de vanguardia solo con la finalidad de que estos encuentren trabajo en un mundo en que este es escaso, y reclama a la universidad formar profesionales capaces de pensar con perspectiva general y espíritu crítico."
+      },
+      {
+        "statement": "Del texto se colige que el cambio climático, en ciertas esferas políticas,",
+        "alternatives": [
+          "A) se interpreta ilustrado por los hechos reales.",
+          "B) es abordado con serias políticas de Estado.",
+          "C) genera polémica y creciente preocupación.",
+          "D) es explicado mediante contraverdades burdas."
+        ],
+        "correct": 3,
+        "rationale": "El autor dice que desde el más alto nivel de Estado se adopta una posición escéptica sobre la realidad del cambio climático. Esta es una contraverdad burda desmentida por los hechos reales."
+      }
+    ]
+  },
+  {
+    "type": "reading_comprehension",
+    "statement": "La economía peruana cerraría el 2018 por debajo del 4% estimado por el Ministerio de Economía y el Banco Central de Reserva (BCR). En el tercer trimestre del año, la producción revirtió la aceleración que mostraba desde fines del 2017, luego de que la inversión privada puso fina su racha de 15 meses de crecimiento y la inversión pública se contrajera 1,6%.\n\nDe concretarse el crecimiento de 3,7% para la economía en octubre –tal como estimó este diario–, en noviembre y diciembre la producción tendría que crecer más de 6% para alcanzar el 4% en el año, lo cual es poco probable.\n\nPero, para el 2019, la banca es más optimista sobre la posibilidad de crecer a un mayor ritmo. El principal motor es atribuido al dinamismo que alcanzaría sobre todo la inversión minera. Munir Jalil, economista para la región andina, señala que el Perú podría ser la economía de mayor crecimiento dentro de los países de la Alianza del Pacífico y de la región. Para el economista, la inversión crecería 4%, impulsada por la ejecución de los proyectos mineros, que iniciaron en este año, como Quellaveco, Mina Justa y la ampliación de Toromocho. Solo Quellaveco invertiría US$1.200 millones en el 2019.\n\nOtro factor que podría impulsar la economía es la tendencia positiva que registraría la cotización del cobre. Así, se estima que el precio del cobre cerraría este año en US$ 6.540 la tonelada (US$2,97 la libra) y se expandiría hasta los US$7.500 en el 2022. Jalil afirma que las previsiones para el cobre están sostenidas por una mayor demanda para la elaboración de productos electrónicos y por la depreciación que podría experimentar el dólar de debilitarse la economía norteamericana.\n\nUna proyección similar (4%) la tiene Scotiabank, sobre la base de que la inversión privada crecería el próximo año a un ritmo de 6,5%, también por impulso del sector minero y “cierta mejora moderada de la inversión privada”. El BBVA Research proyecta una expansión del producto de 3,9% el próximo año, mientras que el Banco de Crédito espera un crecimiento menor (3,7%)\n\nRecuperado de https://elcomercio.pe/economia/peru/crecimiento-pbi-4-viable-2019-noticia- 587277",
+    "questions": [
+      {
+        "statement": "En el texto, el vocablo REVERTIR significa",
+        "alternatives": [
+          "A) alteración.",
+          "B) desaceleración.",
+          "C) desactivación.",
+          "D) desviación."
+        ],
+        "correct": 1,
+        "rationale": "Revertir implica desaceleración de la economía, pues esta ya no crecería el 4% estimado sino solo 3,7%."
+      },
+      {
+        "statement": "El tema central que se desarrolla en el texto es",
+        "alternatives": [
+          "A) el crecimiento sostenido de la economía peruana en el año 2019 sustentado en las inversiones mineras.",
+          "B) el optimismo que genera en la banca privada el importante crecimiento de la economía peruana en el año 2019.",
+          "C) la proyección del crecimiento de la economía peruana para los años 2018 y 2019 realizada por la banca privada.",
+          "D) la modificación a la baja del estimado del crecimiento de la economía peruana del año 2018 y la proyección de esta para el 2019."
+        ],
+        "correct": 3,
+        "rationale": "El texto tiene dos partes; en la primera, se menciona la modificación a la baja del crecimiento de la economía peruana; en la segunda, una proyección optimista de dicho crecimiento para el 2019."
+      }
+    ]
+  },
+  {
+    "type": "sentence_elimination",
+    "statement": "3. Respecto del crecimiento de las variables macroeconómicas entre los años 2015 a\n2019, marca compatible (C) o incompatible (I), según corresponda. (Ver gráfico)\n\nI. La inversión total fue el sustento del crecimiento del PBI.\nII. El crecimiento de la inversión total fue sumamente irregular.\nIII. El crecimiento de las tres variables es el mismo en el año 2019.\nIV. El crecimiento del PBI en dichos años fue tan solo del 0,7%.\nV. El crecimiento de todas las variables en el 2020 será similar a la del 2019.\n",
+    "alternatives": [
+      "A) CCICI",
+      "B) ICICC",
+      "C) ICCCI",
+      "D) ICICI"
+    ],
+    "correct": 3,
+    "rationale": null
+  },
+  {
+    "type": "sentence_elimination",
+    "statement": "4. Según la proyección de la banca privada del crecimiento de la economía peruana en\nel año 2019, se puede concluir que",
+    "alternatives": [
+      "A) este crecimiento es seguro por la confluencia de todas las variables.",
+      "B) esta proyección es frágil porque se sustenta variables exógenas.",
+      "C) esta proyección, a diferencia de la del 2018, no será modificada.",
+      "D) este crecimiento iniciará un periodo de aceleración económica."
+    ],
+    "correct": 1,
+    "rationale": "La proyección del crecimiento de la economía peruana para el año 2019 se basa en\nvariables externas como una mejor cotización del precio y una mayor demanda del\ncobre, y la posible depreciación del dólar que debilitaría la economía norteamericana.\nEntonces el crecimiento proyectado está sujeto a intereses externos."
+  },
+  {
+    "type": "sentence_elimination",
+    "statement": "5. Si el crecimiento de la economía peruana hubiese mantenido el mismo ritmo iniciado\na fines de 2017, probablemente",
+    "alternatives": [
+      "A) la economía sería boyante y repercutiría en las condiciones de vida de la población.",
+      "B) se habría duplicado con holgura el crecimiento económico del 4% del año 2018.",
+      "C) la cotización del cobre y otros minerales habría mejorado en el mercado externo.",
+      "D) el Perú sería líder en crecimiento económico entre los países de la Alianza Pacífico."
+    ],
+    "correct": 3,
+    "rationale": "Por lo menos se habría alcanzado el 4% de crecimiento económico y, con ello, el Perú\nse habría constituido en líder entre los países de la Alianza Pacífico y la región."
+  }
+]

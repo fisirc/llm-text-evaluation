@@ -1,0 +1,451 @@
+[
+  {
+    "type": "reading_comprehension",
+    "statement": "Desde nuestro punto de vista, la televisión, vulgarmente llamada la «caja boba», ha extendido la cultura entre los telespectadores. Gracias a ella, el 90% de las personas se entera de las noticias ocurridas en todo el mundo. También los medios informativos, en general, se usan con un fin específico, sobre todo en el plano político en busca de la preservación del poder. La audiencia selecciona el medio y los contenidos según sus necesidades y mientras hay quienes prefieren informarse, otros ven series porque les gusta identificarse con la realidad que en ellas se representa. Así, las personas de nivel cultural alto suelen ver programas de actualidad, informativos, películas y series; mientras que los que presentan un nivel de educación bajo ven, sobre todo, novelas, programas cómicos, deportes y películas. En cambio, las personas de la tercera edad ven todo tipo de programas, y junto con las personas de menor nivel intelectual, son los que más tiempo dedican a verla televisión, ya que es su forma de entretenimiento y su medio preferido de ocio. Pero no importa la clase social a la que se pertenezca ni la educación recibida ya que, al fin y al cabo, todos estamos enganchados de alguna manera por este artefacto; algunas veces, hasta el punto de que, si el artefacto se nos estropeara, es como si nos faltara algo esencial.",
+    "questions": [
+      {
+        "statement": "Si alguien dijera que solamente las personas de estrato económico bajo ven deportes en la televisión,",
+        "alternatives": [
+          "A) sería un corolario ineludible de lo expuesto en la lectura.",
+          "B) brindaría un argumento apodíctico a favor de la televisión.",
+          "C) incurriría en un error basado en una falsa generalización.",
+          "D) afirmaría que los de clase alta solo ven noticieros nocturnos.",
+          "E) incluiría a todos los pertenecientes al grupo de la tercera edad."
+        ],
+        "correct": 2,
+        "rationale": "Se trata de un dato estadístico que apunta a una frecuencia. No se puede absolutizar."
+      },
+      {
+        "statement": "Un fuerte argumento en contra del texto sería el siguiente:",
+        "alternatives": [
+          "A) La televisión se reduce a programas de baja calidad y bajo presupuesto.",
+          "B) No se debe ver televisión porque es una caja boba, sin discernimiento.",
+          "C) Las personas de la tercera edad suelen ver programas informativos.",
+          "D) La información llega con más seguridad por la radio que por la televisión.",
+          "E) Al generar una especie de adicción, la televisión acarrea efectos nocivos."
+        ],
+        "correct": 4,
+        "rationale": "Se presentaría el enganche de que habla el texto como algo pernicioso. El autor lo presenta como algo natural, inocuo y hasta ‘esencial’."
+      }
+    ]
+  },
+  {
+    "type": "reading_comprehension",
+    "statement": "La larga noticia de corrupción... (texto completo del bloque de COMPRENSIÓN LECTORA sobre corrupción incluyendo las cifras y referencias) Redacción. (2018). «¿Por qué la importancia de hacer memoria en el tema de corrupción?». Gran angular. La realidad como objetivo. Recuperado de http://elgranangular.com/radiografiadecorrupcion/",
+    "questions": [
+      {
+        "statement": "En esencia, el texto sostiene que",
+        "alternatives": [
+          "A) el lavado de activos sirve para aumentar el patrimonio ilícito de los funcionarios públicos.",
+          "B) la percepción sobre el nivel de la corrupción peruana comenzó a elevarse desde el año 2017.",
+          "C) la corrupción supone un fuerte costo que irroga un daño a la sociedad peruana en su conjunto.",
+          "D) los casos de corrupción en el país han aumentado desde que inició el siglo XXI.",
+          "E) las estadísticas muestran que la corrupción inicia a desplazar a la delincuencia."
+        ],
+        "correct": 2,
+        "rationale": "El texto brinda información que demuestra de qué manera la corrupción supone un costo social que afecta, fundamentalmente, a la población."
+      },
+      {
+        "statement": "En el texto, el antónimo contextual del término ADVERTIR es",
+        "alternatives": [
+          "A) expandir.",
+          "D) concentrar.",
+          "B) notar.",
+          "E) soslayar.",
+          "C) subrayar."
+        ],
+        "correct": 4,
+        "rationale": "El término se usa en el sentido de subrayar. Por lo que el antónimo sería ‘soslayar’."
+      },
+      {
+        "statement": "A partir de la información sobre el posible uso que se le habría podido dar al dinero perdido en casos de corrupción, durante el 2016, se puede colegir que",
+        "alternatives": [
+          "A) los sueldos de los médicos en el Perú cuestan la décima parte del PBI del Estado.",
+          "B) las dimensiones de los edificios escolares y los nosocomios son muy semejantes.",
+          "C) la tecnología es un factor desestimado por completo en el cálculo que se postula.",
+          "D) los puestos de trabajo que se hubieran generado supondrían una retribución alta.",
+          "E) la infraestructura de un hospital supone una inversión mayor que la de un colegio."
+        ],
+        "correct": 4,
+        "rationale": "En el gráfico, se advierte que, con el mismo monto, se habrían podido construir 360 colegios y, solo, 72 hospitales."
+      },
+      {
+        "statement": "Es falso sostener que la corrupción en el Perú es un tipo de crimen caracterizado por la impunidad absoluta del corrupto, puesto que",
+        "alternatives": [
+          "A) la corrupción le ha costado al país un promedio de 4% de su PBI anualmente.",
+          "B) existen algunos procesos judiciales, aunque no todos impliquen una sanción.",
+          "C) la percepción de este tipo de delitos varió desde que comenzó el siglo actual.",
+          "D) el escándalo de Odebrecht compromete a los tres últimos gobiernos del país.",
+          "E) el país ha perdido cerca de 12,500 millones de soles en delitos de corrupción."
+        ],
+        "correct": 1,
+        "rationale": "Hasta diciembre del año 2016, se contaba con «32,925 casos de personas procesadas por corrupción». Es decir, por más que no todos los procesos culminarán en una sanción, la corrupción dista de ser un crimen signado por la impunidad absoluta."
+      }
+    ]
+  },
+  {
+    "type": "reading_comprehension",
+    "statement": "No era una percepción producto de la histeria. El Perú es el país de América Latina con la mayor tasa de víctimas de la delincuencia. Así lo revela el Barómetro de las Américas 2014, presentado ayer en la sede del Instituto de Estudios Peruanos (IEP).\n\nDe acuerdo con este trabajo del Proyecto de Opinión Pública de América Latina (LAPOP), el 30,6% de los ciudadanos peruanos ha sido víctima de al menos un acto delincuencial durante el año pasado, y el promedio para la región es de 17,3%. \"No es un hecho nuevo\", comenta el especialista en temas de seguridad, Carlos Basombrío. En el último Barómetro 2012, recuerda, Ecuador tenía una tasa más alta.\n\n\"Los datos no son ninguna sorpresa. La situación se ha deteriorado a ojos vista. La población así lo percibe. La gran mayoría de la población cree que la delincuencia es el principal problema del país\", señala Basombrío.\n\nEn efecto, con 46,7%, el Perú es el sexto país en el cual se identifica la seguridad como el problema más importante para el país. Carlos Basombrío, no obstante, subraya que, si bien el Perú tiene la más alta tasa de victimización por delincuencia, no lo tiene por robos en el vecindario (sexto con 57,5%), extorsión o chantaje en el vecindario (décimo cuarto con 9,1%) o asesinatos en el vecindario (décimo sexto con 14,7%). \"No hay que confundir cantidad con gravedad. Afortunadamente en el Perú, los hechos no son tan violentos, como en otros países de América Latina\", enfatiza.",
+    "questions": [
+      {
+        "statement": "Respecto del gráfico, es falso aseverar que",
+        "alternatives": [
+          "A) en el año 2006, Perú alcanzó el 26,2 %de victimización.",
+          "B) en el año 2010, Perú llegó al mayor nivel de victimización.",
+          "C) Jamaica resulta ser el país con la menor victimización.",
+          "D) Ecuador se encuentra en el segundo lugar de victimización.",
+          "E) Costa Rica está en mejor situación que un país como Chile."
+        ],
+        "correct": 4,
+        "rationale": "Según el gráfico, Chile está en mejor situación."
+      },
+      {
+        "statement": "Sobre la base de la lectura integral, se colige que",
+        "alternatives": [
+          "A) es posible que Panamá sea uno de los países americanos con mayor seguridad.",
+          "B) el Barómetro de las Américas, presentado en el IEP, se realiza cada cinco años.",
+          "C) los peruanos experimentan victimización sobre todo en las regiones del sector rural.",
+          "D) Haití y Belice tienen el mismo porcentaje histórico de víctimas de la delincuencia.",
+          "E) el Perú fue el país más peligroso e inseguro de la región americana en el año 2012."
+        ],
+        "correct": 0,
+        "rationale": "Si Panamá se encuentra entre los países con menos nivel de victimización, se puede inferir que posee mayor seguridad."
+      },
+      {
+        "statement": "En el texto, el término HISTERIA connota",
+        "alternatives": [
+          "A) una muy grave enfermedad.",
+          "B) unos datos finos y sólidos.",
+          "C) conformación de una idea.",
+          "D) perturbación en el análisis.",
+          "E) desasosiego en la tarde."
+        ],
+        "correct": 3,
+        "rationale": "El término tiene el significado contextual de perturbación en el análisis por factores emotivos."
+      },
+      {
+        "statement": "Fundamentalmente, el texto versa sobre",
+        "alternatives": [
+          "A) un estudio que pone al Perú como el país con mayor victimización.",
+          "B) las declaraciones atinadas de Carlos Basombrío sobre la seguridad.",
+          "C) las estrategias que se tomarán contra la inseguridad ciudadana.",
+          "D) el nivel de sensación de inseguridad que perciben los peruanos.",
+          "E) los resultados del Barómetro de las Américas sobre la victimización."
+        ],
+        "correct": 4,
+        "rationale": "El texto se centra es presentar los resultados de un estudio, el Barómetro de las Américas, donde ubica al Perú con mayor victimización."
+      }
+    ]
+  },
+  {
+    "type": "reading_comprehension",
+    "statement": "SEMANA 17 B\n\nEl fracking está rodeado de mitos, pero en realidad se destaca por sus casos de éxito.\nSegún economistas y analistas, la exploración y explotación de yacimientos no\nconvencionales sería fundamental para incrementar las reservas energéticas de Colombia.\nEsto sería vital para asegurar nuestra sostenibilidad energética y promover el desarrollo\nsocial y económico.\n\n1. Estas operaciones espolearían la inversión extranjera directa en el país, lo que\n\nrepercute positivamente en nuestra dinámica de crecimiento económico.\n\n2. A medida que la exploración confirme el potencial que tiene Colombia, se\n\npronostica que los niveles de las reservas energéticas podrían triplicarse.\n\n3. Una mayor producción de petróleo significa que el país tendrá más dinero para\n\nfinanciar las políticas sociales y el desarrollo en el territorio nacional.\n\n4. Se podría asegurar la autosuficiencia energética del país por varios años más.\n5. Colombia se consolidaría como exportador energético.\n6. Una vez iniciada la etapa de producción, se generaría abundante empleo en las\nregiones y jalonamiento del sector de bienes y servicios, que ayudan a bajar de\nmanera considerable las tasas de desempleo.\n\n7. Las operaciones de desarrollo y producción en yacimientos no convencionales\ndemandan una gran cantidad de insumos, que deben ser provistos por las\nindustrias locales de bienes y servicios.\n\nAsociación Colombiana de Petróleo. (s. f.). Todo sobre el Fracking. Recuperado de\nhttps://acp.com.co/web2017/es/todo-sobre-el-fracking/826-cuales-son-los-beneficios-del-fracking.\n(Texto editado)\n\nPronto se conocerá el plan del Gobierno colombiano para implementar el fracking o\nfracturamiento hidráulico con el objeto de extraer gas y petróleo. Se asegura que ya se\ntienen los lineamientos necesarios para el «desarrollo sostenible». Pero las comunidades\nubicadas alrededor de los 22 bloques petroleros temen lo siguiente:\n\n1. Los recursos hídricos subterráneos podrían viciarse de gas metano y otras\nsustancias químicas que son usadas en el fracking. En ningún lugar del planeta se\nha podido solucionar este problema.\n\n2. Según el Servicio Geológico de Kansas, el fracking está directamente relacionado\ncon el aumento en la actividad sísmica de ese Estado. Esta situación podría\nrepetirse en Colombia.\n\n3. El fracking perjudicaría el ecoturismo, porque esta forma de explotar crudo requiere\naplanar una superficie de más o menos una hectárea, allí habría espacio para 6 a\n8 pozos, balsas de almacenamiento de líquidos de desecho y lodos, tanques y\ncisternas de almacenamiento del agua y de los productos químicos, equipos de\nperforación, camiones, etc.\n\n4. La extracción de gas natural mediante fracking implica inexorablemente fugas de\ngas «que es 20 veces más potente que el CO2 como gas de efecto invernadero»,\nsegún la Asamblea contra la fractura hidráulica de Cantabria.\n\nContagio Radio. (2017). Las principales posibles consecuencias del fracking. Recuperado de\nhttps://www.contagioradio.com/las-principales-consecuencias-que-podria-haber-en-colombia-si-se-\npractica-fracking/. (Texto editado)\n\n1. De manera integral, en ambos textos se presentan\n\nA) las verdaderas razones de la oposición o el apoyo al fracking.\nB) los pros y los contras del fracturamiento hidráulico en Colombia.\nC) los beneficios económicos de practicar el fracking en Colombia.\nD) los argumentos de dos organismos colombianos de hidrocarburos.\nE) ideas a favor o en contra de extraer carburos mediante técnicas.\n\nSolución:\n\nEn ambos textos se exponen las posibles consecuencias beneficiosas o perjudiciales\nde la extracción de gas o petróleo mediante el fracking, también llamado\nfracturamiento hidráulico, en Colombia.\n\nRpta.: B\n\n2. En el texto 1 A, el sentido contextual de ESPOLEAR es\n\nA) gratificar.\n\nB) incidir.\n\nC) afectar.\n\nD) alentar.\n\nE) enturbiar.\n\nSolución:\n\nEn el primer caso, con el fracking en Colombia, las inversiones directas aumentarán,\nesto es, se verán incentivadas o ESPOLEADAS, o sea, alentadas.\n\nRpta.: D\n\n3. De la serie de argumentos expuestos por la Asociación Colombiana de Petróleo, se\n\ndesprende que Colombia\n\nA) adolece de políticas sociales.\nC) carece de inversión extrajera.\nE) ya produce y exporta energía.\n\nB) presenta escaso desempleo.\nD) padece una crisis económica.\n\nSolución:\n\nSegún el numeral 3, una «mayor» producción petrolera beneficiaría a las arcas\ncolombianas.\n\nRpta.: E\n\n4. Es inconsistente con las razones expuestas en el texto 1 B sostener que\n\nA) el fracking tendría consecuencias más lesivas que favorables.\nB) los movimientos sísmicos por fracking podrían causar zozobra.\nC) se debería favorecer lo social, y excluir los fines crematísticos.\nD) el fracking sería antagónico con el cuidado del medio ambiente.\nE) el escepticismo se expresa ante un plan energético del Gobierno.\n\nSolución:\n\nEn el texto B, se expone que una consecuencia negativa del fracking es que se\nperjudicaría el ecoturismo. Esta práctica tiene un fin monetario.\n\nRpta.: C\n",
+    "questions": [
+      {
+        "statement": "De manera integral, en ambos textos se presentan",
+        "alternatives": [
+          "A) las verdaderas razones de la oposición o el apoyo al fracking.",
+          "B) los pros y los contras del fracturamiento hidráulico en Colombia.",
+          "C) los beneficios económicos de practicar el fracking en Colombia.",
+          "D) los argumentos de dos organismos colombianos de hidrocarburos.",
+          "E) ideas a favor o en contra de extraer carburos mediante técnicas."
+        ],
+        "correct": 1,
+        "rationale": "En ambos textos se exponen las posibles consecuencias beneficiosas o perjudiciales de la extracción de gas o petróleo mediante el fracking, también llamado fracturamiento hidráulico, en Colombia."
+      },
+      {
+        "statement": "2. En el texto 1 A, el sentido contextual de ESPOLEAR es",
+        "alternatives": [
+          "A) gratificar.",
+          "B) incidir.",
+          "C) afectar.",
+          "D) alentar.",
+          "E) enturbiar."
+        ],
+        "correct": 3,
+        "rationale": "En el primer caso, con el fracking en Colombia, las inversiones directas aumentarán,esto es, se verán incentivadas o ESPOLEADAS, o sea, alentadas."
+      },
+      {
+        "statement": "3. De la serie de argumentos expuestos por la Asociación Colombiana de Petróleo, se desprende que Colombia",
+        "alternatives": [
+          "A) adolece de políticas sociales.",
+          "C) carece de inversión extrajera.",
+          "E) ya produce y exporta energía.",
+          "B) presenta escaso desempleo.",
+          "D) padece una crisis económica."
+        ],
+        "correct": 4,
+        "rationale": "Según el numeral 3, una «mayor» producción petrolera beneficiaría a las arcas colombianas."
+      },
+      {
+        "statement": "4. Es inconsistente con las razones expuestas en el texto 1 B sostener que",
+        "alternatives": [
+          "A) el fracking tendría consecuencias más lesivas que favorables.",
+          "B) los movimientos sísmicos por fracking podrían causar zozobra.",
+          "C) se debería favorecer lo social, y excluir los fines crematísticos.",
+          "D) el fracking sería antagónico con el cuidado del medio ambiente.",
+          "E) el escepticismo se expresa ante un plan energético del Gobierno."
+        ],
+        "correct": 2,
+        "rationale": "En el texto B, se expone que una consecuencia negativa del fracking es que se perjudicaría el ecoturismo. Esta práctica tiene un fin monetario."
+      }
+    ]
+  },
+  {
+    "type": "reading_comprehension",
+    "statement": "En el año 1985, la universidad pública tenía el doble de población estudiantil con respecto a las universidades privadas. Para el año 2000 el Perú tenía 72 universidades. Actualmente, prácticamente son el doble. Estas 140 universidades (51 públicas y 89 privadas) albergan a 1’060,078 estudiantes matriculados; de este total, 330,986 (31%) estudian en universidades públicas y 729,092 (69%) en universidades privadas. Por otra parte, 76 son universidades institucionalizadas y 64 aún están en proceso; es decir, con autorización provisional, lo cual muestra un nivel de informalidad y desorden que la vigencia de la nueva Ley debe corregir, además de colocar una valla alta para la creación de nuevas universidades.\n\nAl incremento del número de universidades, se debe añadir la desconcentración progresiva de las carreras universitarias. Las diez carreras con mayor cantidad de alumnos matriculados en la universidad representan el 32% de total. En el año 2008, las diez carreras top concentraban cerca del 50% de los universitarios. Lo que este dato revela es que cada vez hay menos concentración de estudiantes entorno a pocas carreras, en tiempos en que han aparecido muchas nuevas especialidades y la tendencia es que esta dispersión se incremente, lo cual es saludable para un mercado laboral que requiere de profesionales en todos los sectores y actividades. Derecho y Contabilidad siguen en el top, pero con menor número de estudiantes, aun así, se trata de dos carreras saturadas en el mercado laboral. Administración descendió del primer lugar, pero apareció Administración de Negocios Internacionales en el top 10. Otra carrera que ingresó a este grupo es Odontología, mientras Educación y Economía ya no están incluidas. Enfermería es otra carrera que descendió de ubicación del tercero al décimo.\n\nhttp://educacionalfuturo.com/noticias/regulando-la-calidad-en-la-cantidad-situacion-del-sistema-\n\nEn:\nuniversitario-peruano/\n\n1.\n\nLa idea principal del texto sostiene que\n\nA) la falta de presupuesto de las universidades públicas hace imposible competir con las universidades privadas.\n\nB) el alto grado de informalidad que pulula en la mayoría de universidades privadas afecta a la educación del país.\n\nC) la desconcentración progresiva de las carreras universitarias favoreció principalmente a las carreras de Derecho y Contabilidad.\n\nD) la actual situación de las universidades en el Perú fomenta la informalidad educativa en todas las carreras profesionales.\n\nE) en las últimas décadas se ha incrementado el número de universidades privadas y se ha dispersado la preferencia de carreras profesionales.\n\nSolución:\n\nEl texto enfatiza en su primera parte el incremento progresivo de las universidades privadas en el Perú y posteriormente describe como los postulantes eligen en la actualidad entre una mayor gama de profesiones.\n\nRpta.: E\n\n2.\n\nLa expresión VALLA ALTA connota\n\nA) elevación de índices económicos.\n\nC) polarización ideológica.\n\nE) concentración de carreras.\n\nB) estándares muy rigurosos.\n\nD) incremento de estudiantes.\n\nSolución:\n\nEl término se refiere a elevar los estándares de calidad\n\nRpta.: B\n\n3. A partir del cuadro estadístico, se infiere que las universidades particulares\n\nA) cuentan con los recursos insuficientes para albergar adecuadamente a su población estudiantil.\n\nB) ponen condiciones académicas muy altas en sus exámenes para no colapsar el aforo en sus aulas.\n\nC) carecen del permiso necesario para dictar las carreras profesionales con mayor demanda.\n\nD) destinan sus recursos preferentemente a las carreras con más demanda en el mercado estudiantil.\n\nE) tienen éxito en el mercado estudiantil por la facilidad de pagos y pensiones de módico precio.\n\nSolución:\n\nSe orientan a las carreras con mayor demanda en el mercado universitario\n\nRpta.: D\n\n4. Es incompatible sostener que la mayoría de universidades particulares en el Perú\n\nA) se han ido incrementando de una forma desmedida en los últimos años.\n\nB) en la mayoría de los casos se manejan con cierto grado de informalidad.\n\nC) cuentan con la acreditación para ofrecer una excelente calidad educativa.\n\nD) en muchos casos cuentan con más recuerdos económicos que las públicas.\n\nE) en el 2000 fue acrecentándose su número en gran parte del territorio.\n\nSolución:\n\nEl texto menciona que 64 de las 89 universidades privadas todavía cuentan con una autorización provisional; por lo tanto, no tienen los permisos adecuados.\n\nRpta.: C",
+    "questions": [
+      {
+        "statement": "La idea principal del texto sostiene que",
+        "alternatives": [
+          "A) la falta de presupuesto de las universidades públicas hace imposible competir con las universidades privadas.",
+          "B) el alto grado de informalidad que pulula en la mayoría de universidades privadas afecta a la educación del país.",
+          "C) la desconcentración progresiva de las carreras universitarias favoreció principalmente a las carreras de Derecho y Contabilidad.",
+          "D) la actual situación de las universidades en el Perú fomenta la informalidad educativa en todas las carreras profesionales.",
+          "E) en las últimas décadas se ha incrementado el número de universidades privadas y se ha dispersado la preferencia de carreras profesionales."
+        ],
+        "correct": 4,
+        "rationale": "El texto enfatiza en su primera parte el incremento progresivo de las universidades privadas en el Perú y posteriormente describe como los postulantes eligen en la actualidad entre una mayor gama de profesiones."
+      },
+      {
+        "statement": "La expresión VALLA ALTA connota",
+        "alternatives": [
+          "A) elevación de índices económicos.",
+          "C) polarización ideológica.",
+          "E) concentración de carreras.",
+          "B) estándares muy rigurosos.",
+          "D) incremento de estudiantes."
+        ],
+        "correct": 3,
+        "rationale": "El término se refiere a elevar los estándares de calidad"
+      },
+      {
+        "statement": "A partir del cuadro estadístico, se infiere que las universidades particulares",
+        "alternatives": [
+          "A) cuentan con los recursos insuficientes para albergar adecuadamente a su población estudiantil.",
+          "B) ponen condiciones académicas muy altas en sus exámenes para no colapsar el aforo en sus aulas.",
+          "C) carecen del permiso necesario para dictar las carreras profesionales con mayor demanda.",
+          "D) destinan sus recursos preferentemente a las carreras con más demanda en el mercado estudiantil.",
+          "E) tienen éxito en el mercado estudiantil por la facilidad de pagos y pensiones de módico precio."
+        ],
+        "correct": 3,
+        "rationale": "Se orientan a las carreras con mayor demanda en el mercado universitario"
+      },
+      {
+        "statement": "Es incompatible sostener que la mayoría de universidades particulares en el Perú",
+        "alternatives": [
+          "A) se han ido incrementando de una forma desmedida en los últimos años.",
+          "B) en la mayoría de los casos se manejan con cierto grado de informalidad.",
+          "C) cuentan con la acreditación para ofrecer una excelente calidad educativa.",
+          "D) en muchos casos cuentan con más recuerdos económicos que las públicas.",
+          "E) en el 2000 fue acrecentándose su número en gran parte del territorio."
+        ],
+        "correct": 2,
+        "rationale": "El texto menciona que 64 de las 89 universidades privadas todavía cuentan con una autorización provisional; por lo tanto, no tienen los permisos adecuados."
+      }
+    ]
+  },
+  {
+    "type": "sentence_elimination",
+    "statement": "Es incompatible sostener que la mayoría de universidades particulares en el Perú",
+    "alternatives": [
+      "A) se han ido incrementando de una forma desmedida en los últimos años.",
+      "B) en la mayoría de los casos se manejan con cierto grado de informalidad.",
+      "C) cuentan con la acreditación para ofrecer una excelente calidad educativa.",
+      "D) en muchos casos cuentan con más recuerdos económicos que las públicas.",
+      "E) en el 2000 fue acrecentándose su número en gran parte del territorio."
+    ],
+    "correct": 2,
+    "rationale": "El texto menciona que 64 de las 89 universidades privadas todavía cuentan con una autorización provisional; por lo tanto, no tienen los permisos adecuados."
+  },
+  {
+    "type": "sentence_elimination",
+    "statement": "Si la nueva ley universitaria se orientara por un elevado rigor en la exigencia de la calidad, las nuevas universidades privadas",
+    "alternatives": [
+      "A) no podrían compararse con el nivel educativo de las universidades públicas.",
+      "B) se desarrollarían por una mejor manera en cuanto a su oferta académica.",
+      "C) tendrían grandes problemas para obtener acreditaciones de excelencia.",
+      "D) se orientarían por ofrecer carreras donde se soslaye aspectos de investigación.",
+      "E) tenderían a recibir más ayuda del Estado para sostenerse de manera regular."
+    ],
+    "correct": 1,
+    "rationale": "Si posiblemente, fueran de mejor prestigio que las universidad públicas y privadas. las nuevas universidades cumplieran con altos estándares de calidad."
+  },
+  {
+    "type": "reading_comprehension",
+    "statement": "El hombre no es libre en ninguno de los instantes de su vida. No es dueño de su\nconformación, la cual la ha recibido de la naturaleza. No es dueño de sus ideas o de las\nmodificaciones de su cerebro, que se deben a causas que, a pesar suyo y sin saberlo,\nactúan continuamente sobre él. No es libre de no amar o de no desear lo que encuentra\nagradable y deseable. No es libre de no deliberar cuando está inseguro de los efectos que\nlos objetos producirán sobre él. No es libre de no elegir lo que cree ventajoso. No es libre\nde actuar de otro modo del que actúa en el momento en que su voluntad es determinada\npor su elección. ¿En qué momento el hombre es entonces libre de sus actos?\n\nLo que el hombre hará es siempre consecuencia de lo que ha sido, de lo que es, de lo que\nha hecho hasta el momento de la acción. Nuestro ser actual y total, considerado en todas\nsus posibles circunstancias, contiene la suma de todos los motivos de la acción que\nrealizaremos, principio cuya verdad ningún ser pensante puede negar. Nuestra vida es una\nsucesión de instantes necesarios, y nuestra conducta, buena o mala, virtuosa o viciosa, útil\no dañina para nosotros y para los demás, es un encadenamiento de acciones tan\nnecesarias como cada uno de los instantes de nuestra vida. Vivir es existir de un modo\nnecesario en los puntos de la duración que se suceden necesariamente. Querer es aceptar\no no aceptar seguir siendo lo que somos. Ser libre es ceder a motivos necesarios inherentes\na nosotros.\n\nSi conociéramos el funcionamiento de nuestros órganos, si pudiéramos recordar todos los\nimpulsos olas modificaciones que han recibido y los efectos que han producido, veríamos\nque todos nuestros actos están sometidos a la fatalidad que regula tanto nuestro sistema\nparticular como el sistema entero del universo. Ningún efecto, tanto en nosotros como en la\nnaturaleza, se produce por el azar que, como ha sido probado, es una palabra vacía.\nTodo lo que sucede en nosotros o lo que es hecho por nosotros, así como todo lo que\nocurre en la naturaleza o que le atribuimos, se debe a causas necesarias que actúan según\nleyes necesarias y que producen efectos necesarios de donde derivan otros.\n\nD'Holbach. Sistema de la naturaleza (1770)",
+    "questions": [
+      {
+        "statement": "Fundamentalmente, el autor del texto sostiene que",
+        "alternatives": [
+          "A) solo existe necesidad en las acciones humanas.",
+          "B) el hombre es libre pero la necesidad lo corrompe.",
+          "C) la libertad es inherente a todos los seres vivos.",
+          "D) el ser humano puede querer, vivir y ser libre.",
+          "E) la naturaleza tiene leyes estrictas e invariables."
+        ],
+        "correct": 0,
+        "rationale": "En el texto se argumenta para arribar a la siguiente conclusión: Todo lo que sucede en nosotros o lo que es hecho por nosotros, se debe a causas necesarias."
+      },
+      {
+        "statement": "En el texto, la expresión PALABRA VACÍA connota",
+        "alternatives": [
+          "A) concepto autocontenido.",
+          "B) término sin referente.",
+          "C) contradicción total.",
+          "D) tautología plena.",
+          "E) postulado semántico."
+        ],
+        "correct": 1,
+        "rationale": "Se explica que el término no tiene referente en la realidad."
+      },
+      {
+        "statement": "Resulta incompatible con el texto afirmar que la vida humana",
+        "alternatives": [
+          "A) contiene todos los motivos de acción.",
+          "B) es una sucesión de instantes necesarios.",
+          "C) está regida por la aleatoriedad o el caos.",
+          "D) está sometida a las leyes que rigen el universo.",
+          "E) implica un encadenamiento de acciones."
+        ],
+        "correct": 2,
+        "rationale": "Ningún efecto, tanto en nosotros como en la naturaleza, se produce por el azar que, como ha sido probado, es una palabra sinsentido."
+      },
+      {
+        "statement": "Se puede inferir del texto que, si un físico conociera las causas de un fenómeno,",
+        "alternatives": [
+          "A) alcanzaría la libertad que es negada a los demás hombres.",
+          "B) se vería sumido en una profunda decepción por su fracaso.",
+          "C) podría cambiar o alterar la configuración del futuro cercano.",
+          "D) podría predecir el efecto de dicho fenómeno con certeza.",
+          "E) trascendería el plano de la voluntad y la necesidad humanas."
+        ],
+        "correct": 3,
+        "rationale": "Ningún efecto, tanto en nosotros como en la naturaleza, se produce por el azar; de modo que dependen de las causas."
+      }
+    ]
+  },
+  {
+    "type": "sentence_elimination",
+    "statement": "4. Se puede inferir del texto que, si un físico conociera las causas de un fenómeno,",
+    "alternatives": [
+      "A) alcanzaría la libertad que es negada a los demás hombres.",
+      "B) se vería sumido en una profunda decepción por su fracaso.",
+      "C) podría cambiar o alterar la configuración del futuro cercano.",
+      "D) podría predecir el efecto de dicho fenómeno con certeza.",
+      "E) trascendería el plano de la voluntad y la necesidad humanas."
+    ],
+    "correct": 3,
+    "rationale": "Ningún efecto, tanto en nosotros como en la naturaleza, se produce por el azar; de modo que dependen de las causas."
+  },
+  {
+    "type": "sentence_elimination",
+    "statement": "5. ¿Cuál de los siguientes enunciados constituye un argumento opuesto a la tesis sostenida en el texto?",
+    "alternatives": [
+      "A) El mundo no necesita de la creación divina.",
+      "B) La vida humana siempre conlleva felicidad.",
+      "C) Dios ha creado al hombre para ser sumiso.",
+      "D) La realidad natural totales incognoscible.",
+      "E) La libertad es algo que no se puede determinar."
+    ],
+    "correct": 4,
+    "rationale": "La tesis central del autor es que nunca somos seres libres. Señalar una libertad connatural es contraria a su posición."
+  },
+  {
+    "type": "sentence_elimination",
+    "statement": "6. Si alguien refutara la uniformidad de la naturaleza y lograra probar que el futuro no",
+    "alternatives": [
+      "A) el determinismo del autor se vería refutado.",
+      "B) la propia naturaleza lo eliminaría patentemente.",
+      "C) las leyes de la naturaleza dejarían de existir.",
+      "D) la ciencia permanecería inmutable ante el aserto.",
+      "E) la vida humana se regiría por la certeza absoluta."
+    ],
+    "correct": 0,
+    "rationale": "Según el autor del texto, todos nuestros actos están sometidos a la fatalidad que regula tanto nuestro sistema particular como el sistema entero del universo; de allí que negar la uniformidad de la naturaleza implica refutarlo"
+  },
+  {
+    "type": "reading_comprehension",
+    "statement": "La ciencia es mucho más una determinada manera de pensar que un cuerpo de conocimientos. Su objetivo es descubrir cómo funciona el mundo, detectar las regularidades que puedan existir, captar las vinculaciones que se dan entre las cosas: desde las partículas elementales, que pueden ser los constituyentes últimos de toda materia, hasta los organismos vivos, la comunidad social de los seres humanos y, cómo no, el cosmos contemplado en su globalidad. Nuestra intuición no es ni por asomo una pauta infalible.\n\nNuestras percepciones pueden verse falseadas por la educación previa y los prejuicios, o simplemente a causa de las limitaciones de nuestros órganos sensoriales que, por descontado, solo pueden percibir directamente una pequeña fracción de los fenómenos que se producen en el mundo. Incluso una cuestión tan directa como la de si, en ausencia de fricción, cae más rápidamente una libra de plomo que un gramo de lana, fue resuelta incorrectamente por casi todo el mundo hasta llegar a Galileo, y entre los equivocados se hallaba, cómo no, el propio Aristóteles. La ciencia se fundamenta en la experimentación, en un ansia permanente de someter a prueba los viejos dogmas, en una apertura de espíritu que nos permita contemplar el universo tal como realmente es. No puede negarse que en ciertas ocasiones la ciencia exige coraje; como mínimo el imprescindible para poner en entredicho la sabiduría tradicional.\n\nEl principal rasgo definitorio de la ciencia es pensar de verdad toda cosa: el tamaño de las nubes y las formas que adoptan, incluso en su estructura más profunda, en cualquier parte del cielo para una altitud dada; la formación de una gota de rocío sobre una hoja; el origen de un nombre o una palabra; la razón de una determinada costumbre social humana, como por ejemplo el tabú del incesto; por qué una lente sobre la que incida la luz solar puede quemar un papel; qué razón nos hace ver un bastón de paseo como una pequeña ramita; por qué parece seguirnos la Luna cuando paseamos; que nos impide perforar la Tierra con un agujero que llegue hasta el centro del planeta; qué sentido tiene el término «abajo» en una Tierra esférica; de qué modo el cuerpo puede convertir la comida de ayer en el músculo y el nervio de hoy; dónde están los límites del universo, ¿puede este expandirse indefinidamente, o no?; ¿tiene algún significado la pregunta de qué hay más allá? Algunos de estos interrogantes son singularmente fáciles de responder. Otros, especialmente el último, son misterios de los que no conocemos la solución incluso en nuestros días. Toda cultura se ha planteado, de una u otra forma, tales cuestiones. Las respuestas propuestas casi siempre han sido de categoría «narrativa» o «fabulada», con explicaciones divorciadas de toda tarea experimental, e incluso de toda observación comparativa cuidadosa.\n\nPero la mentalidad científica examina el mundo críticamente, como si pudieran existir otros muchos mundos alternativos, como si aquí pudiesen existir cosas que ahora no encontramos. Y en consecuencia, nos vemos obligados a responder por qué cuanto vemos es así y no de otra forma. ¿Por qué son esféricos el Sol y la Luna? ¿Por qué no piramidales, cúbicos o dodecaédricos? ¿Por qué tal simetría en el mundo? ¿Por qué, incluso, no tiene formas irregularmente caprichosas? Si alguien gasta parte de su tiempo proponiendo hipótesis, comprobando si tienen sentido y si concuerdan con cuanto ya conocemos, pensando en pruebas experimentales que den validez o se la nieguen a nuestras hipótesis, este alguien está haciendo ciencia. Y a medida que van tomando más y más fuerza estos hábitos de pensamiento, más a gusto se halla el individuo con ellos. Penetrar en el corazón de las cosas —incluso en el de las más pequeñas, en el de una brizna de hierba, como dijera Walt Whitman— produce un tipo de excitación y alegría que parece muy posible que, de todos los seres que pueblan este planeta, solo puedan experimentarla los seres humanos. Somos una especie inteligente, y un uso adecuado de nuestra inteligencia nos produce placer. En este aspecto, el cerebro es como un músculo. Cuando pensamos bien, nos sentimos bien. Comprender es un cierto tipo de éxtasis.",
+    "questions": [
+      {
+        "statement": "Fundamentalmente, el autor discurre entorno a",
+        "alternatives": [
+          "A) la estructura de la ciencia.",
+          "B) los problemas cosmológicos.",
+          "C) la historia del conocimiento.",
+          "D) la comprensión científica.",
+          "E) las explicaciones infalibles."
+        ],
+        "correct": 3,
+        "rationale": "De manera ensayística y con abundantes ejemplos, el autor discurre centralmente sobre la comprensión que nos da la ciencia: un entendimiento no exento de errores, pero pletórico de rigor, profundidad y espíritu crítico."
+      },
+      {
+        "statement": "El autor menciona a Aristóteles con el fin de ilustrar",
+        "alternatives": [
+          "A) el razonamiento abstracto.",
+          "B) la falibilidad científica.",
+          "C) la metafísica especulativa.",
+          "D) el rigor de las ciencias.",
+          "E) la verdad de índole total."
+        ],
+        "correct": 1,
+        "rationale": "Hasta el gran Aristóteles se equivocó, lo que es signo claro de la falibilidad que define a la ciencia."
+      },
+      {
+        "statement": "Se puede colegir del texto que el científico se caracteriza por",
+        "alternatives": [
+          "A) estar libre totalmente de todo tipo de prejuicio dado por la educación.",
+          "B) dejarse llevar por la fantasía en contra de los datos experimentales.",
+          "C) disponer de órganos sensoriales más perfectos que los del hombre común.",
+          "D) la búsqueda de la verdad absoluta sobre las cuestiones metafísicas.",
+          "E) considerar seriamente visiones alternativas a la mirada convencional."
+        ],
+        "correct": 4,
+        "rationale": "El científico siempre imagina mundos posibles y nunca descarta ninguna posibilidad hasta que la experiencia pueda dar un juicio definitivo."
+      }
+    ]
+  },
+  {
+    "type": "reading_comprehension",
+    "statement": "El científico siempre imagina mundos posibles y nunca descarta ninguna posibilidad hasta que la experiencia pueda dar un juicio definitivo. La ciencia piensa de verdad toda cosa, ya sea en el campo natural como en el campo de las humanidades (por ejemplo, el origen de una palabra). El autor enjuicia duramente al modo narrativo o fabulado en la medida en que soslaya el control empírico.",
+    "questions": [
+      {
+        "statement": "Se puede colegir del texto que el científico se caracteriza por",
+        "alternatives": [
+          "A) estar libre totalmente de todo tipo de prejuicio dado por la educación.",
+          "B) dejarse llevar por la fantasía en contra de los datos experimentales.",
+          "C) disponer de órganos sensoriales más perfectos que los del hombre común.",
+          "D) la búsqueda de la verdad absoluta sobre las cuestiones metafísicas.",
+          "E) considerar seriamente visiones alternativas a la mirada convencional."
+        ],
+        "correct": 4,
+        "rationale": "El científico siempre imagina mundos posibles y nunca descarta ninguna posibilidad hasta que la experiencia pueda dar un juicio definitivo."
+      },
+      {
+        "statement": "Resulta incompatible con el texto decir que",
+        "alternatives": [
+          "A) la expansión del universo es un problema científico fascinante.",
+          "B) la ciencia no se puede aplicar al campo de las humanidades.",
+          "C) en la ciencia es esencial someter a prueba las hipótesis.",
+          "D) hay una actitud científica signada por la curiosidad intelectual.",
+          "E) los científicos logran un deleite gracias a sus investigaciones."
+        ],
+        "correct": 1,
+        "rationale": "La ciencia piensa de verdad toda cosa, ya sea en el campo natural como en el campo de las humanidades (por ejemplo, el origen de una palabra)."
+      },
+      {
+        "statement": "Si un enfoque narrativo se sometiera al riguroso control experimental,",
+        "alternatives": [
+          "A) hallaría asimetrías en todo el universo físico.",
+          "B) se resolverían todos los misterios de la ciencia.",
+          "C) podría desarrollar una pauta infalible de verdad.",
+          "D) se gastaría el tiempo en asuntos sin sentido.",
+          "E) podría calificarse como una empresa científica."
+        ],
+        "correct": 4,
+        "rationale": "El autor enjuicia duramente al modo narrativo o fabulado en la medida en que soslaya el control empírico."
+      }
+    ]
+  }
+]

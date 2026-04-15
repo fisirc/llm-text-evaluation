@@ -1,0 +1,795 @@
+[
+  {
+    "type": "reading_comprehension",
+    "statement": "En un testamento hológrafo, un nonagenario lega a sus seis nietos (Ariadna, Muriel, Lucio, Christopher , Darío y José) un edificio de seis pisos, de tal modo que cada uno de ellos llega a vivir en un determinado piso. Mientras que Ariadna resulta propietaria del cuarto piso, Darío es dueño del segundo, Lucio vive más abajo que todos . Si sabemos, además, que Christopher vive inmediatamente más arriba que José, se deduce necesariamente que",
+    "questions": [
+      {
+        "statement": "Se deduce necesariamente que",
+        "alternatives": [
+          "A) Christopher vive en el tercer piso.",
+          "B) José vive en el último piso.",
+          "C) Muriel vive en el tercer piso.",
+          "D) Christopher vive en el sexto piso.",
+          "E) Muriel vive más arriba que José."
+        ],
+        "correct": 3,
+        "rationale": "Al tomar como premisas los datos ofrecidos en el texto, se llega a la conclusión necesaria, sobre la base de un estricto razonamiento inferencial, de que Christopher vive en el sexto piso."
+      }
+    ]
+  },
+  {
+    "type": "reading_comprehension",
+    "statement": "Gracias a estudios muy interesantes, sabemos que el hombre no es el único que sueña. Lo hacen, también, todos los animales de sangre caliente. Claro que con distintas intensidades: un pájaro, por ejemplo, sueña menos del 1% del tiempo en que permanece dormido, mientras que el hombre suele hacerlo durante un 25 %de ese lapso. Sea como fuere, soñar es imprescindible para el ser humano y siempre lo hace, aun cuando en ocasiones no recuerde lo que soñó. Los sueños son ideas que reposan en el inconsciente y que quedan liberadas durante el reposo, algo que es absolutamente necesario. Se han realizado experimentos con gatos, a los que anulándole un punto cerebral determinado los dejaban sin posibilidad de soñar. Esos gatos enloquecían en poco tiempo. En el humano normal se corre el riesgo de que ocurra lo mismo.",
+    "questions": [
+      {
+        "statement": "Si un hombre corriente duerme ocho horas al día, se colige que la fase de sueño humano",
+        "alternatives": [
+          "A) es de casi cuatro horas.",
+          "B) llega a más de tres horas.",
+          "C) dura alrededor de dos horas.",
+          "D) no se puede determinar.",
+          "E) oscila entre una hora."
+        ],
+        "correct": 2,
+        "rationale": "Se trata de una inferencia de datos, en la medida en que 25% de 8 horas es 2 horas."
+      }
+    ]
+  },
+  {
+    "type": "reading_comprehension",
+    "statement": "No sabemos por qué algunas personas contraen cáncer y otras no, pero, cáncer; distintos cánceres pueden afectar casi cualquier parte del cuerpo. Los tipos más comunes afectan el aparato digestivo y los pulmones. En el caso de las mujeres, son comunes también el cáncer de mama y del cuello uterino . El cigarrillo es la causa de casi todos los cánceres pulmonares. El humo del tabaco contiene sustancias químicas llamadas carcinógenas, que irritan el delicado revestimiento de los pulmones. Mientras más cigarrillos fuma una persona, mayor riesgo tendrá de contraer cáncer pulmonar. Afortunadamente, el riesgo disminuye si la persona deja de fumar. Los cánceres de la piel son también bastante comunes. Muchos tipos de radiaciones, especialmente los rayos ultravioleta del Sol, pueden dañar las células de la piel y producir esos temibles tumores.",
+    "questions": [
+      {
+        "statement": "Se infiere una relación de causa a efecto entre",
+        "alternatives": [
+          "A) división celular y cáncer pulmonar",
+          "B) cáncer de mama y cáncer cervical.",
+          "C) carcinógenos y peligro de tabaco.",
+          "D) tumores y células cancerígenas.",
+          "E) rayos ultravioleta y cáncer de piel."
+        ],
+        "correct": 4,
+        "rationale": "La relación causal se da entre la exposición a los rayos ultravioleta y el cáncer de piel."
+      }
+    ]
+  },
+  {
+    "type": "reading_comprehension",
+    "statement": "Se sabe que el cerebro de un humano adulto puede, a veces, compensar una lesión sufrida si logra establecer nuevas conexiones entre las neuronas supervivientes. Se solía pensar, empero, que no podía repararse a sí mismo, al carecer de células madre que permitan la regeneración neuronal. Ahora bien, en noviembre de 1998, Peter S . Erickson y sus colaboradores hicieron pública una sorprendente noticia: en el cerebro humano se generan neuronas de forma habitual, al menos en el hipo campo, un área importante relacionada con la memoria y el aprendizaje. Comparada con el número total de células del cerebro, la cifra absoluta de células nuevas es pequeña. Aun así, considerando los recientes hallazgos en animales, el descubrimiento insinúa prometedoras posibilidades en medicina. A tenor de los datos disponibles, las células madre podrían producir neuronas nuevas en otras regiones del cerebro humano. Pese a su pobre autorreparación, el cerebro adulto podría, en realidad, albergar un gran potencial de regeneración neuronal. Si se descubriera cómo provocar que las células madre existentes generen una cantidad útil de células nerviosas funcionales en partes seleccionadas del cerebro, se aliviarían los trastornos relacionados con la lesión y la muerte neuronal.",
+    "questions": [
+      {
+        "statement": "Si una persona sufriera una grave lesión en el hipocampo, se puede predecir que",
+        "alternatives": [
+          "A) mostraría problemas para adquirir conocimientos nuevos.",
+          "B) desarrollaría una forma grave de enfermedad de Alzheimer.",
+          "C) lograría tener una memoria prodigiosa luego de un accidente.",
+          "D) estaría exento de sufrir cualquier accidente cerebrovascular.",
+          "E) ejecutaría una regeneración neuronal en grandes cantidades."
+        ],
+        "correct": 0,
+        "rationale": "Dada la función del hipocampo, se puede predecir un problema en la fijación de conocimientos."
+      }
+    ]
+  },
+  {
+    "type": "reading_comprehension",
+    "statement": "Todo mundo está de acuerdo en que la violación es un delito de violencia. Probablemente, el mayor amplificador de la violación sea el desorden. La violación y el secuestro de mujeres suelen ser el objetivo de los asaltos en sociedades sin Estado, y la violación es habitual en las guerras entre naciones y en los altercados entre grupos étnicos. En tiempos de paz, la tasa de violaciones suele equilibrarse con la de otros delitos violentos. En Estados Unidos, por ejemplo, el índice de violaciones subió en los años sesenta y bajó en los años noventa, junto con las tasas de otros delitos violentos. Las feministas de género culpan de la violencia contra las mujeres a la civilización y a las instituciones sociales, pero es exactamente al revés. La violencia contra las mujeres surge con mayor fuerza en las sociedades que están fuera del alcance de la civilización, y entra en erupción siempre que la civilización se descompone.",
+    "questions": [
+      {
+        "statement": "Se infiere que, con respecto al feminismo de género, el autor tiene una intención",
+        "alternatives": [
+          "A) laudatoria.",
+          "B) neutral.",
+          "C) crítica.",
+          "D) hiperbólica.",
+          "E) denigratoria."
+        ],
+        "correct": 2,
+        "rationale": "En la medida en que presenta un análisis que desvirtúa una tesis del feminismo de género, se puede inferir una intención crítica."
+      }
+    ]
+  },
+  {
+    "type": "reading_comprehension",
+    "statement": "En la medida en que presenta un análisis que desvirtúa una tesis del feminismo de género, se puede inferir una intención crítica.",
+    "questions": [
+      {
+        "statement": "Medularmente, el texto anterior establece",
+        "alternatives": [
+          "A) una lectura ap ologética de la célebre alegoría de Platón.",
+          "B) un contraste entre la concepción trascendente y funcional del conocimiento.",
+          "C) los lineamientos de la concepción especulativa de la filosofía trascendental.",
+          "D) el carácter alegórico del sistema filosófico idealista construido por Platón.",
+          "E) la crítica platónica dirigida contra el conocimiento basado en las sensaciones."
+        ],
+        "correct": 1,
+        "rationale": "Globalmente considerado, el texto anterior establece un agudo contraste entre la concepción trascendente del conocimiento (Platón) y la concepción funcional de la filosofía científica."
+      }
+    ]
+  },
+  {
+    "type": "reading_comprehension",
+    "statement": "La filosofía especulativa se caracteriza por una concepción trascendente del conocimiento, según la cual el conocimiento trasciende las cosas observables y depende del uso de otras fuentes distintas de la percepción sensible. Esta concepción ha hallado su símbolo clásico en la célebre alegoría de la caverna de Platón. Se describe una caverna en la que viven varias personas, que han nacido allí y nunca han salido de ella; se encuentran encadenadas e n sus lugares de modo tal que s olo ven el fondo de la caverna sin poder volver la cabeza. Frente a la entrada, hay un fuego que ilumina el interior. Entre el fuego y la entrada pasan personas, y sus sombras se proyectan en la pared del fondo; los habitantes de esta caverna ven las sombras, pero nunca pueden vera quienes se hallan afuera. Creen que las sombras son cosas reales y no saben nunca que existe un mundo externo, del que so lo ven la sombra. De esta clase, dice Platón, es el conocimiento del mundo físico que poseen los seres humanos. El mundo perceptible es como la sombra proyectada en la pared de la caverna. S olo el pensamiento puede revelarnos la existencia de una realidad superior, de la cual los objetos visibles no son más que pobres imágenes. Por dos mil años ,la alegoría de la caverna ha simbolizado la actitud del filósofo especulativo. Expresa el punto de vista de un hombre profundamente insatisfecho con los resultados de la experiencia sensible, que desea con todas sus fuerzas ir más allá de lo observable y de lo que puede inferirse inductivamente de ello. Es trascendentalismo en su forma más pura. El filósofo de hoy puede demostrar que la meta de la especulación trascendental es alncanzable, que el conocimiento derivado s olo de la razón es vacío, que la razón no puede darnos las leyes del mundo. En contraste con la concepción trascendente del conocimiento,",
+    "questions": [
+      {
+        "statement": "2. La diferencia fundamental entre el trascendentalismo y el enfoque de la filosofía científica radica en que este último apunta a la",
+        "alternatives": [
+          "A) especulación.",
+          "B) explicación.",
+          "C) alegoría.",
+          "D) deducción.",
+          "E) predicción."
+        ],
+        "correct": 4,
+        "rationale": "Se habla de concepción funcional en la medida en que se utiliza para hacer predicciones."
+      },
+      {
+        "statement": "3. Platón construye su alegoría con el fin de",
+        "alternatives": [
+          "A) entender los alcances del conocimiento de nuestros sentidos.",
+          "B) identificar el conocimiento con la más completa ignorancia.",
+          "C) defender que la razón es el ideal del conocimiento puro .",
+          "D) hacer un símil entre el fuego sagrado y la ciencia de Dios.",
+          "E) refutar que el pensamiento puro pueda acceder al conocimiento."
+        ],
+        "correct": 2,
+        "rationale": "La alegoría de Platón es el símbolo de la concepción trascendente del conocimiento, esto es, el conocimiento va más allá de los datos de los sentidos."
+      },
+      {
+        "statement": "4. Si alguien sostuviera que el fundamento del conocimiento es la observación Sistemática,",
+        "alternatives": [
+          "A) estaría en los antípodas de la concepción trascendente.",
+          "B) se adscribiría a la más acendrada visión racionalista .",
+          "C) estaría en contra de la concepción funcional de la ciencia."
+        ],
+        "correct": 0,
+        "rationale": "Para Platón , el fundamento del conocimiento es la pura razón, el puro pensamiento."
+      },
+      {
+        "statement": "5. Se infiere del texto que la ciencia contemporánea emplea el binomio",
+        "alternatives": [
+          "A) razón y método .",
+          "B) observación e inducción.",
+          "C) intuición y teoría.",
+          "D) conjetura y certeza.",
+          "E) predicción y especulación."
+        ],
+        "correct": 1,
+        "rationale": "Se habla de concepción funcional en la medida en que se utiliza para hacer predicciones. Por ello, la ciencia utiliza la observación y las inferencias inductivas."
+      },
+      {
+        "statement": "6. En el texto, el sentido de la palabra POBRE es",
+        "alternatives": [
+          "A) indigente.",
+          "B) absurda.",
+          "C) pálida.",
+          "D) incoherente.",
+          "E) caótica."
+        ],
+        "correct": 2,
+        "rationale": "Se habla de las POBRES imágenes de una realidad superior. Por el contexto lingüístico, el sentido es «pálidas»."
+      }
+    ]
+  },
+  {
+    "type": "reading_comprehension",
+    "statement": "Aunque la mayoría de las personas están familiarizadas con eufemismos relativamente inocuos como «pasó a mejor vida» por «murió» o «hacer el amor» por «tener relaciones sexuales», algunos eufemismos pueden realmente llevar a confusión o incluso ser maliciosos. ¿Cuándo un eufemismo puede llegar tan lejos que se convierta en una «mentira» y cuándo so lo es una forma de «maquillar la verdad»?\nEn el siglo X IX, se calificó de «pánico», como el «Pánico de 1873», a una época de un gran declive económico en Estados Unidos. Después del colapso económico subsiguiente a la quiebra de la Bolsa de 1929, sin embargo, la preocupación era evitar el pánico y el caos; por tanto, aquel estado se calificó con el nombre más suave de «depresión». Después, «depresión» vino a significar ese momento concreto de extrema dificultad económica del decenio de 1930 y los políticos detestaban invocarlo de nuevo por miedo a desencadenar esos recuerdos y asociaciones negativos. En consecuencia, los declives económicos de 1958, 1973, 1982 y 1991 se convirtieron en «recesiones». La última gran crisis se ha bautizado con la expresión de ‘burbuja inmobiliaria’.\nQuizá el eufemismo más inmoral vino de los términos más suaves y amables utilizados para describir las atrocidades realizadas en tiempos de guerra. El a sesinato de civiles como «daños colaterales» o el de los propios soldados por error de «fuego amigo» representan simplemente muertes. El bombardeo y la extinción de pueblos vietnamitas en la Guerra de",
+    "questions": [
+      {
+        "statement": "En el texto, la palabra INOCUO significa",
+        "alternatives": [
+          "A) puro .",
+          "B) afable.",
+          "C) inocente .",
+          "D) sereno.",
+          "E) débil."
+        ],
+        "correct": 2,
+        "rationale": "Se trata de un eufemismo inocente, sin doblez."
+      },
+      {
+        "statement": "¿Cuál es la definición general de EUFEMISMO que se puede inferir a partir del texto?",
+        "alternatives": [
+          "A) Término irónico y sutil para referirse a errores políticos",
+          "B) Expresión sinónima que intenta maquillar la verdad",
+          "C) Modo de decir las cosas que atenúa su fuerza expresiva",
+          "D) Palabras o frases positivas que ocultan hechos inmorales",
+          "E) Decir una verdad dolorosa a través de una mentira piadosa"
+        ],
+        "correct": 2,
+        "rationale": "A partir de los ejemplos mencionados, cabe inferir la definición de atenuación semántica como rasgo central del eufemismo."
+      },
+      {
+        "statement": "Se infiere del texto que los eufemismos",
+        "alternatives": [
+          "A) solo se aplican a casos considerados inmorales.",
+          "B) no se usan en el campo de la diplomacia.",
+          "C) solo son utilizados por los políticos en ejercicio.",
+          "D) no tienen valor en el dominio religioso.",
+          "E) pueden perder su utilidad con el tiempo."
+        ],
+        "correct": 4,
+        "rationale": "A la larga, un eufemismo puede perder su efecto atenuante."
+      },
+      {
+        "statement": "Si alguien empleara una expresión metafórica en reemplazo de una palabra vulgar y malsonante,",
+        "alternatives": [
+          "A) su lenguaje se podría calificar de inmoral y pernicioso.",
+          "B) estaría en contra del uso de expresiones eufemísticas.",
+          "C) haría empleo de un eufemismo socialmente adecuado.",
+          "D) se probaría que todos los eufemismos son maliciosos.",
+          "E) demostraría la bondad del uso de un lenguaje literal."
+        ],
+        "correct": 2,
+        "rationale": "Aplicaría un caso eufemístico socialmente adecuado."
+      },
+      {
+        "statement": "¿Cuál de los siguientes enunciados es incompatible con el texto?",
+        "alternatives": [
+          "C) «Maquillar la verdad» es una forma de proferir una mentira.",
+          "D) El uso de expresiones eufemísticas es un fe nómeno muy reciente.",
+          "E) El uso de algunos eufemismos puede llevarnos a confusión."
+        ],
+        "correct": 1,
+        "rationale": "Los giros eufemísticos son un fenómeno inveterado."
+      },
+      {
+        "statement": "¿Cuál de los siguientes enunciados es incompatible con el texto?",
+        "alternatives": [
+          "C) «Maquillar la verdad» es una forma de proferir una mentira.",
+          "D) El uso de expresiones eufemísticas es un fe nómeno muy reciente.",
+          "E) El uso de algunos eufemismos puede llevarnos a confusión."
+        ],
+        "correct": 1,
+        "rationale": "Los giros eufemísticos son un fenómeno inveterado."
+      },
+      {
+        "statement": "¿En el texto, la palabra POBRE es",
+        "alternatives": [
+          "A) indigente.",
+          "B) absurda.",
+          "C) pálida.",
+          "D) incoherente.",
+          "E) caótica."
+        ],
+        "correct": 2,
+        "rationale": "Se habla de las POBRES imágenes de una realidad superior. Por el contexto lingüístico, el sentido es «pálidas»."
+      }
+    ]
+  },
+  {
+    "type": "reading_comprehension",
+    "statement": "En 1973 comencé a investigar el efecto que tendría el principio de indeterminación de Heisen berg en el espacio -tiempo curvo de las proximidades de un agujero negro. Lo curioso fue que descubrí que el agujero no sería completamente negro. El principio de indeterminación permitiría que escapasen a un ritmo constante partículas y radiación. Este resultado constituyó para mí, y para cualquiera, una completa sorpresa y fue acogido con un escepticismo general. Pero si se reflexiona detenidamente, tendría que haber sido obvio. Un agujero negro es una región del espacio de la que es imposible escapar si uno viaja a una velocidad inferior a la de la luz, pero la suma de historias de Feynman afirma que las partículas pueden seguir cualquier trayectoria a través del espacio -tiempo. Así, es posible que una partícula se desplace más rápido que la luz. Resulta escasa la probabilidad de que recorra una larga distancia por encima de la velocidad de la luz, pero puede desplazarse más veloz que la luz para salir del agujero negro y, entonces, continuar más lenta que la luz. De este modo, el principio de indeterminación permite que las partículas escapen de lo que se consideraba una prisión definitiva, un agujero negro. La probabilidad de que una partícula salga de un agujero negro de la masa del Sol sería muy reducida, porque tendría que viajar a velocidad mayor que la de la luz durante varios kilómetros, pero pueden existir agujeros negros mucho más pequeños, formados en el universo primitivo. Estos agujeros negros primordiales podrían tener un tamaño inferior al del núcleo de un átomo y, sin embargo, su masa sería de mil millones de toneladas, la del monte Fuji. Es posible que emitan tanta energía como una gran central eléctrica. ¡Si consiguiéramos encontrar uno de esos diminutos agujeros negros y aprovechar su energía! Por desgracia, no parece haber muchos en el universo. La predicción de radiación de los agujeros negros fue el primer resultado no trivial de la combinación de la relatividad general de Einstein con el principio cuántico. Demostró que el colapso gravitatorio no era un callejón sin salida como parecía se r. Las partículas de un agujero negro no tienen por qué tener un final de sus historias en una singularidad. De hecho, pueden escapar del agujero negro y proseguir más allá sus historias. Tal vez el principio cuántico signifique que también uno es capaz de sustraerse a las historias contando con un comienzo en el tiempo, un punto de creación, en el Big Bang.",
+    "questions": [
+      {
+        "statement": "En el texto, el término ESCEPTICISMO connota",
+        "alternatives": [
+          "A) suspicacia.",
+          "B) malicia.",
+          "C) incredulidad.",
+          "D) contradicción.",
+          "E) desdén."
+        ],
+        "correct": 2,
+        "rationale": "Algo tan as ombroso suscita incredulidad."
+      },
+      {
+        "statement": "¿Cuál es el tema central del texto?",
+        "alternatives": [
+          "A) La confirmación de la existencia de los agujeros negros",
+          "B) El descubrimiento de la radiación de los agujeros negros",
+          "C) Los colapsos gravitatorios como un callejón sin salida",
+          "D) El valor del principio de indeterminación de Heisenberg",
+          "E) Las trayectorias de la luz a través del espacio tiempo"
+        ],
+        "correct": 1,
+        "rationale": "El autor explica su gran descubrimiento de 1973: contra lo que se pensaba, los agujeros negros tienen una radiación."
+      },
+      {
+        "statement": "El descubrimiento de que el agujero negro no es completamente negro es de índole",
+        "alternatives": [
+          "A) trivial.",
+          "B) filosófica.",
+          "C) experimental.",
+          "D) teórica.",
+          "E) observacional."
+        ],
+        "correct": 3,
+        "rationale": "El trabajo es eminentemente teórico: la consideración del principio de Heisenberg y de las trayectorias de Feynman traen como consecuencia que el colapso gravitatorio de la relatividad no es del todo irreversible."
+      },
+      {
+        "statement": "Resulta incompatible con el texto aseverar que",
+        "alternatives": [
+          "A) la relatividad se puede combinar con la física cuántica.",
+          "B) los miniagujeros negros son abundantes en el universo.",
+          "C) hay partículas que pueden superar la velocidad de la luz.",
+          "D) según Feynman las partículas tienen varias trayectorias.",
+          "E) los agujeros negros primordiales emiten mucha energía."
+        ],
+        "correct": 1,
+        "rationale": "Los agujeros negros pequeños son muy escasos en el universo."
+      }
+    ]
+  },
+  {
+    "type": "reading_comprehension",
+    "statement": "Pensar que el universo comenzó en un lugar es un error frecuente, lo cierto es que el Big Bang ocurrió en un lugar… en el tiempo. A menudo me preguntan ¿dónde se produjo el Big Bang?, como si la expansión del universo hubiese sido una granada y el sistema solar y nuestra galaxia fuesen simples esquirlas que salieron volando.\nEl universo no comenzó en un lugar, sino en un momento: hace 13,8 mil millones de años luz. Desde entonces se ha estado expandiendo, no hacia un espacio, puesto que por definición el universo ya llena todo el espacio, sino hacia el tiempo que, según sabemos, no tiene fin.\nNo obstante, es cierto que todo lo que podemos ver ahora, incluyendo ese tiempo prístino, alguna vez fue del tamaño de una granada que zumbaba con aterradora energía, pero eso ya era parte de un conjunto infinito sin bordes, excepto por un límite hecho de tiempo. Cuando vemos hacia afuera, vemos hacia el pasado; mientras más lejos miremos, veremos hacia un pasado más remoto. En el centro está el presente. Todo lo que conocemos es justo el ahora.\n\nSo where is the center of the universe?\nRight here. Yes, you are the center of the uni verse.\n\nCuando en 1905, Albert Einstein unió espacio y tiempo en su teoría de la relatividad,\n\nnosotros, al presente, desde el pasado. De esta manera, la relatividad de Einstein nos\nenseña que el centro del universo está en todas partes y en ninguna. Es el presente, rodeado por capas concéntricas de pasado. Es la historia llegando a tia 299 792 458 metros por segundo. Tus ojos son la cabina de mando de una máquina del tiempo, esferas húmedas y veladas que ven en la única dirección en que podemos hacerlo: hacia atrás.\nLa Luna, suspendida en el horizonte, es una imagen que dejó su superficie con cráteres y viajó a la velocidad de la luz hace un segundo y medio. El Júpiter que vemos, brillando con un color naranja en el cenit durante las últimas noches, está a 666 268 millones de kilómetros del momento en que escribo esto, o a 37 minutos de distancia en el pasado.\n\nFUENTE: Texto editado del artículo periodístico «Eres el centro del universo, la ciencia lo confirma», de Dennis Overbye, publicado en New York Times Es , edición del 18 de abril de 2016.\nhttps://www.nytimes.com/es/2016/04/18/eres-el-centro-del-universo-la-ciencia-lo-confirma/ .",
+    "questions": [
+      {
+        "statement": "¿Cuál es la idea principal del texto?",
+        "alternatives": [
+          "A) La teoría del Big Bang frente a la teoría de la relatividad resulta incompleta e imprecisa para explicar el origen del universo.",
+          "B) La teoría de la relatividad de Albert Einstein postula que el pasado orbita alrededor del presente de manera constante.",
+          "C) El presente como centro del universo es lo que no s permite tener conciencia del tiempo, haciéndonos ineludibles referentes.",
+          "D) Las teorías del Big Bang y la de la relatividad son antípodas entorno al momento preciso en que se originó el universo.",
+          "E) El tiempo cósmico puede concebirse mediante la relación directa establecida entre el pasado y la distancia medida en años luz."
+        ],
+        "correct": 2,
+        "rationale": "El texto en su extensión nos explica que nosotros somos el centro del universo en tanto estamos en el tiempo presente, el único momento o espacio del universo en que podemos percibir y aprehender el pasado."
+      },
+      {
+        "statement": "En el texto, el término PRÍSTINO significa",
+        "alternatives": [
+          "A) diáfano.",
+          "B) ancestral.",
+          "C) infinito.",
+          "D) perspicuo.",
+          "E) primordial."
+        ],
+        "correct": 4,
+        "rationale": "Se trata de algo originario en el tiempo, es decir, algo primordial."
+      },
+      {
+        "statement": "con la siguiente interpretación:",
+        "alternatives": [
+          "A) Nuestras percepciones son el punto de referencia de lo cognoscible.",
+          "B) El universo está constituido por capas concéntricas hacia el pasa do.",
+          "C) Mientras el pasado está hacia afuera, el presente está hacia dentro.",
+          "D) La esencia del hombre consiste en ser una meta, no un óbice.",
+          "E) Revela el único significado posible de los alcances del Big Bang."
+        ],
+        "correct": 0,
+        "rationale": "La oración en mención, en el contexto de la lectura, puede interpretarse como «Entonces, ¿dónde está el centro del universo? Aquí. Sí, tú eres el centro del universo», lo que nos lleva a pensar que nosotros, al percibir la realidad o el tiempo, les otorgamos sentido; es decir, somos el centro del universo porque somos los puntos de referencia para poder conocer la realidad o el tiempo."
+      },
+      {
+        "statement": "Sobre la teoría del Big Bang referida al inicio del texto, podemos colegir que",
+        "alternatives": [
+          "A) ha sido corroborada empíricamente con observaciones de telescopio.",
+          "B) en la ciencia tiene agudos detractores que van ganando la batalla.",
+          "C) el autor la desdeña por ser inexacta respecto al lugar de la explosión.",
+          "D) por lo general, la gente común no llega a comprenderla cabalmente.",
+          "E) fue formulada por Albert Einstein en 1905, el annus mirabilis de la ciencia."
+        ],
+        "correct": 3,
+        "rationale": "En el texto se menciona que la gente se suele preguntar dónde ocurrió la explosión (\"A menudo me preguntan ¿dónde se produjo el Big Bang?\"), a lo que el autor replica que la explosión no ocurrió en ningún lugar, sino en un momento; esto es, hay quienes, habitualmente, no comprendemos dicha teoría ."
+      }
+    ]
+  },
+  {
+    "type": "sentence_elimination",
+    "statement": "Si ninguna partícula pudiese moverse más rápido que la luz,",
+    "alternatives": [
+      "A) el agujero negro dejaría de ser una prisión.",
+      "B) la teoría de la relatividad sería totalmente falsa.",
+      "C) el principio de indeterminación sería in válido.",
+      "D) los agujeros negros dejarían de tener masa.",
+      "E) la radiación del agujero negro sería imposible."
+    ],
+    "correct": 4,
+    "rationale": "La suma de las historias de Feynman establece la posibilidad de que una partícula se desplace más rápido de la luz y así puede salir del a gujero negro. Mas si esa trayectoria no fuese posible, ninguna partícula podría escapar de un agujero negro."
+  },
+  {
+    "type": "sentence_elimination",
+    "statement": "4. Sobre la teoría del Big Bang referida al inicio del texto, podemos colegir que",
+    "alternatives": [
+      "A) ha sido corroborada empíricamente con observaciones de telescopio.",
+      "B) en la ciencia tiene agudos detractores que van ganando la batalla.",
+      "C) el autor la desdeña por ser inexacta respecto al lugar de la explosión.",
+      "D) por lo general, la gente común no llega a comprenderla cabalmente.",
+      "E) fue formulada por Albert Einstein en 1905, el annus mirabilis de la ciencia."
+    ],
+    "correct": 3,
+    "rationale": "En el texto se menciona que la gente se suele preguntar dónde ocurrió la explosión («A menudo me preguntan ¿dónde se produjo el Big Bang?»), a lo que el autor replica que la explosión no ocurrió en n ingún lugar, sino en un momento; esto es, hay quienes, habitualmente, no comprendemos dicha teoría ."
+  },
+  {
+    "type": "sentence_elimination",
+    "statement": "5. Si una teoría axiomática del futuro demostrara plenamente que solo hay un centro del universo,",
+    "alternatives": [
+      "A) el pasado, presente y futuro convergerían en un plano unidimensional.",
+      "B) la teoría del Big Bang podría postularse solo como una regla tecnológica.",
+      "C) la intuición formulada por Albert Einstein se vería plenamente rebatida.",
+      "D) se podría afirmar la idea de un tiempo finito, pero ilimitado en el espacio.",
+      "E) resultaría imposible concebir la idea de finitud en el pensamiento humano."
+    ],
+    "correct": 2,
+    "rationale": "En el texto se menciona que, según Einstein, el centro del universo es relativo."
+  },
+  {
+    "type": "reading_comprehension",
+    "statement": "En Lima Metropolitana, el precio promedio de los alquileres es de S/ 2472 al mes (precios considerados para un departamento de 100 m2 con dos dormitorios). Particularmente en Lima Cercado, el alquiler promedio es de S/ 2721 al mes, mientras que Barranco registra la oferta más cara, alcanzando el precio promedio por alquiler de S/ 3420 mensuales. Ate, por su parte, es el distrito más económico con apenas S/ 1652 en promedio al mes. Por otro lado, la rentabilidad anual bruta promedio al alquilar un departamento en Lima equivale al 5.4% del precio de compra, según lo reportado en un informe elaborado por Urbania. Esto es, al sumar los montos de los alquileres por doce meses, se obtiene ese porcentaje respecto al precio del inmueble. En otras palabras, en promedio, en Lima se requieren 18.5 años de alquiler para recuperar la inversión realizada en la adquisición de un departamento. En el informe, llamó la atención que el Cercado de Lima sea el distrito con mayor rentabilidad de alquiler: 7.3% anual, superando en rentabilidad a los alquileres en distritos como San Isidro o Mi raflores. En consecuencia, en el Cercado de Lima se necesitan menos de 14 años de alquiler para recuperar la inversión realizada, 40% menos que los 23 años necesarios en San Borja. Asimismo, Eduardo González -Prada, gerente de Urbania, refirió que Santa Bea triz es una de las zonas más amigables y con mayor potencial en Lima.\n\nFUENTE: Texto e imagen editados de la nota de prensa de José Carlos Reyes «Alquilar viviendas en Lima Cercado es más rentable que hacerlo en San Isidro o Miraflores», publicado en Gestión , edición del 14 de septiembre de 2017. http://gestion.pe/inmobiliaria/alquilar -viviendas -lima-cercado -mas-rentable -que-hacerlo -san-isidro -miraflores -2199953 .",
+    "questions": [
+      {
+        "statement": "2. El sinónimo contextual de la palabra ECONÓMICO es",
+        "alternatives": [
+          "A) exclusivo.",
+          "B) eficiente.",
+          "C) industrial.",
+          "D) innovador.",
+          "E) módico."
+        ],
+        "correct": 4,
+        "rationale": "Se usa el término para referir un precio accesible."
+      },
+      {
+        "statement": "3. Se desprende del desarrollo textual y de la imagen, entorno a la recuperación de la inversión del departamento, que los propietarios en",
+        "alternatives": [
+          "A) San Borja tendrían que rematar inexorablemente sus inmuebles.",
+          "B) Pueblo Libre podrían hacerlo antes del promedio de 18.5 años.",
+          "C) los distritos Lima Sur serían los primeros recuperar su dinero invertido.",
+          "D) distritos como Surquillo y Lince optarían por la modalidad alquiler -venta.",
+          "E) Lima Metropolitana se verían obligados a organizar ofertas de vivienda."
+        ],
+        "correct": 1,
+        "rationale": "En el texto se afirma que Lima Cercado permite a los propietarios de los departamentos arrendados recuperar su inversión en 14 años, debido a los 7.3% de rentabilidad que lo caracteriza, frente a los 4.4% de rentabilidad y 23 años que les tomaría a los de San Borja. En tal sentido, se puede inferir que los propietarios de departamentos alquilados en Pueblo Libre (con 6.3% de rentabilidad), podrían recuperar su inversión en menos del promedio de años estimado para la ciudad."
+      },
+      {
+        "statement": "4. Respecto de la información de la tabla , en términos de rentabilidad, es compatible sostener que",
+        "alternatives": [
+          "A) los distritos de Lima Norte superan con creces la media de la ciudad Lima.",
+          "B) los distritos Lima Sur son superados por la media de la ciudad de Lima.",
+          "C) el Cercado de Lima resulta superior a los distritos de Ate y La Molina juntos.",
+          "D) los distritos más céntricos de la ciudad superan a los tradicionales balnearios."
+        ],
+        "correct": 3,
+        "rationale": "De acuerdo con la tabla, en términos de rentabilidad, podemos ver que los distritos ubicados más al centro de la ciudad (Cercado, Pueblo Libre y Lince) están por encima del resto de distritos, incluidos los que son balnearios (entre ellos San Miguel y Chorrillos, los más altos); lo que nos puede permitir afirmar que aquellos son más preferidos que estos ."
+      }
+    ]
+  },
+  {
+    "type": "reading_comprehension",
+    "statement": "El movimiento eugenésico tuvo sus orígenes en las ideas del científico inglés Francis Galton, convencido por sus estudios de la aparición de genios en familias (incluida la suya propia) y de que la inteligencia era heredable. Galton concluyó en su libro Hereditary genius (1869) que sería «muy posible producir una raza de hombres con talento mediante juiciosos matrimonios durante varias generaciones consecutivas». El término eugenesia, acuñado por Galton en 1883, se refiere a la mejora de la raza humana mediante tales matrimonios. Los partidarios de la eugenesia creían que una amplia variedad de atributos humanos se heredaban como caracteres mendelia nos, incluidos muchos aspectos del comportamiento, de la inteligencia y del talante moral. Su idea dominante fue que en la población se estaban reproduciendo más rápidamente los individuos genéticamente «débiles mentales» e inmorales que los genéticamente superiores y que este diferencial en la tasa de nacimientos daría lugar a un deterioro progresivo de la capacidad intelectual y de la fibra moral de la raza humana. Se propusieron varios remedios. La eugenesia positiva animaba a los padres especialmente «a ptos» a tener más hijos. Sin embargo, el punto más importante de los objetivos de los eugenistas fue el planteamiento eugenésico negativo, dirigido a desaconsejar la reproducción en individuos genéticamente inferiores, o mejor todavía, a impedir que se rep rodujeran. A lo largo de las dos primeras décadas del siglo XX, muchos genéticos aceptaron pasivamente los puntos de vista de los eugenistas, pero hacia 1930, las críticas incidían en que los objetivos del movimiento eugenésico estaban determinados más por racismo, prejuicios de clase y sentimientos antiinmigratorios que por razones genéticas. Cuando se comenzó a conocer los horrorosos extremos a los que habían llegado los nazis apoyándose en la eugenesia, surgió una fuerte reacción que\n\nLos eugenistas incurrieron en diversos errores básicos. Suponían que los caracteres humanos complejos, como la inteligencia y la personalidad, eran estrictamente hereditarios, descartando completamente cualquier contribución ambiental al fenotipo. Suponían además que estos caracteres estaban determinados por genes individuales, con alelos dominantes y recesivos. Esta creencia persistió a pesar de que la investigación demostraba que múltiples genes contribuían a muchos fenotipos. Pensaba n que aquellos que se consideraban genéticamente inadecuados podían reproducirse más que aquellos que se pensaba eran genéticamente aptos. Esto es exactamente lo contrario del concepto de eficacia darwiniana, que equipara el éxito reproductivo con la eficacia. (¡Galton tendría que haber entendido esto, siendo primo hermano de Darwin!) No debemos olvidar los errores cometidos por los primeros eugenistas. Debemos recordar que el fenotipo es el resultado de una interacción compleja entre el genotipo y el ambiente y no caer en un planteamiento que trate a las personas solo como una colección de genes. Debemos recordar que muchos genes pueden contribuir a un fenotipo concreto, sea una enfermedad o un comportamiento, y que los alelos de estos genes pueden interactuar de manera impredecible. No debemos caer víctimas del supuesto de que hay un genotipo ideal. El éxito de todas las poblaciones en la naturaleza se cree que está favorecido por la diversidad genética. Y por encima de todo, no debemos utilizar la información genética para conseguir objetivos ideológicos.",
+    "questions": [
+      {
+        "statement": "1. El tema central del texto es",
+        "alternatives": [
+          "A) el carácter hereditario de la inteligencia humana.",
+          "B) la gran aceptación del movimiento eugenésico.",
+          "C) el vertiginoso desarrollo de los estudios genéticos.",
+          "D) la deses timaci ón de la propuesta eugenésica.",
+          "E) el significativo aporte a la genética de F. Galton."
+        ],
+        "correct": 3,
+        "rationale": "En el texto se explica la eugenesia para su posterior impugnación mediante argumentos de índole científica y moral."
+      },
+      {
+        "statement": "2. El sentido contextual de la palabra JUICIOSOS es",
+        "alternatives": [
+          "A) abominables.",
+          "B) concienzudos.",
+          "C) nefastos.",
+          "D) justo s.",
+          "E) selectivos."
+        ],
+        "correct": 4,
+        "rationale": "Galton creyó posible producir una raza de hombres con talento mediante la selección y reproducción de individuos con características superiores."
+      },
+      {
+        "statement": "4. Siguiendo los postulados eugenésicos de Galton, se infiere que un criminal",
+        "alternatives": [
+          "A) es mucho más fértil que un débil mental.",
+          "B) tendría una existencia breve y b rutal.",
+          "C) quedaría esterilizado por la naturaleza.",
+          "D) tendría una prole proclive a delinquir.",
+          "E) no llegaría a comprender la eugenesia."
+        ],
+        "correct": 3,
+        "rationale": "El comportamiento, la inteligencia y el talante moral son caracteres heredables para la eugenesia."
+      },
+      {
+        "statement": "5. Si los eugenistas hubieran entendido cabalmente el concepto de eficacia darwiniana,",
+        "alternatives": [
+          "A) tendrían más argumentos para impedir los matrimonios entre débiles mentales.",
+          "B) habrían cuestionado el vínculo de consanguinidad entre Francis Galton y Ch. Darwin.",
+          "C) no habrían creído posible la proliferación de individuos considerados inferiores.",
+          "D) advertirían que la inteligencia humana no puede estar determinada por un único gen.",
+          "E) habrían fomentado insistentemente la reproducción masiva de los individuos estólidos."
+        ],
+        "correct": 0,
+        "rationale": "La eficacia darwiniana sugiere que los más aptos tienen mayor éxito reproductivo. Bajo esta premisa, los eugenistas deberían suponer que los individuos “superiores” serán los que proliferen y no lo contrario."
+      }
+    ]
+  },
+  {
+    "type": "verbal_series",
+    "statement": "4. Respecto de la información de la tabla , en términos de rentabilidad, es compatible sostener que",
+    "alternatives": [
+      "A) los distritos de Lima Norte superan con creces la media de la ciudad Lima.",
+      "B) los distritos Lima Sur son superados por la media de la ciudad de Lima.",
+      "C) el Cercado de Lima resulta superior a los distritos de Ate y La Molina juntos.",
+      "D) los distritos más céntricos de la ciudad superan a los tradicionales balnearios."
+    ],
+    "correct": 3,
+    "rationale": null
+  },
+  {
+    "type": "verbal_series",
+    "statement": "5. Si el distrito de Barranco duplicara su rentabilidad anual,",
+    "alternatives": [
+      "A) los propietarios de los departamentos arrendados llegarían a recuperar su inversión en diez años.",
+      "B) los otros balnearios, por el efecto rebote, llegarían a triplicar su promedio de rentabilidad anual.",
+      "C) el efecto solamente se podría explicar por un boom debido a un pánico frente a un sismo intenso.",
+      "D) el Ministerio de Vivienda destinaría los proyectos de Techo Propio y Mi Vivienda a dicha zona.",
+      "E) con todo, no podría superar la gran rentabilidad que existe en los alquileres del Cercado de Lima."
+    ],
+    "correct": 0,
+    "rationale": "En el texto se plantea la idea que a mayor rentabilidad anual en el alquiler de departamentos, menor es el tiempo de recuperar la inversión realizada."
+  },
+  {
+    "type": "verbal_series",
+    "statement": "2. Elija la palabra que no es sinónima de las demás.",
+    "alternatives": [
+      "A) Aturdido",
+      "B) Grogui",
+      "C) Atontado",
+      "D) Tambaleante",
+      "E) Insomne"
+    ],
+    "correct": 4,
+    "rationale": "Solución: El vocablo insomne (E) implica no poder dormir; de esta manera se aleja de las otras palabras más afines."
+  },
+  {
+    "type": "verbal_series",
+    "statement": "3. Elija el término que no guarda cohiponimia con el conjunto.",
+    "alternatives": [
+      "A) Cereza",
+      "B) Hojaldre",
+      "C) Frambuesa",
+      "D) Uva",
+      "E) Grosella"
+    ],
+    "correct": 1,
+    "rationale": "Solución: La cohiponimia se refiere al hiperónimo ‘fruta’. No corresponde ‘hojaldre’ (B)."
+  },
+  {
+    "type": "verbal_series",
+    "statement": "4. Elija la opción que mantiene una relación analógica con el par ‘húmero, hueso’.",
+    "alternatives": [
+      "A) Peldaño, escalera",
+      "B) Conversación, plática",
+      "C) Llaga, úlcera",
+      "D) Parábola, narración",
+      "E) Doctrina, fase"
+    ],
+    "correct": 3,
+    "rationale": "Solución: Se trata de una relación de especie -género. La clave es ‘parábola, narración’ (D)."
+  },
+  {
+    "type": "verbal_series",
+    "statement": "5. Categórico, terminante, co ncluyente,",
+    "alternatives": [
+      "A) taxativo.",
+      "B) expeditivo.",
+      "C) reticente.",
+      "D) aporético.",
+      "E) demagógico."
+    ],
+    "correct": 0,
+    "rationale": "Solución: El significado es ‘que no admite discusión’; por lo tanto, la A es la clave."
+  },
+  {
+    "type": "verbal_series",
+    "statement": "6. Seleccione la tríada de sinónimos.",
+    "alternatives": [
+      "A) Aislado, solitario, señero",
+      "B) Verídico, falaz, veraz",
+      "C) Sandio, necio, obediente",
+      "D) Somero, patente, latente",
+      "E) Fútil, fornido, nimio"
+    ],
+    "correct": 0,
+    "rationale": "Solución : Los tres términos designan lo que está solo (A)."
+  },
+  {
+    "type": "reading_comprehension",
+    "statement": "Arrasado el jardín, profanados los cálices y las aras, entraron los hunos en la biblioteca monástica y rompieron los libros incomprensibles y los vituperaron y los quemaron, acaso temerosos de que las letras e ncubrieran blasfemias contra su dios ,que era una cimitarra de hierro . Ardieron palimpsestos y códices, pero en el corazón de la hoguera, perduró casi intacto el libro duodécimo de la Civitas dei ,que narra que Platón enseñó en Atenas que, al\n\nde una veneración especial y quienes lo leyeron y releyeron en esa remota provincia dieron en olvidar que el autor sólo declaró esa doctrina para poder mejor con futarla. Un siglo después, Aureliano, coadjutor de Aquilea, supo que a orillas del Danubio la novísima secta de los anulares profesaba que la historia es un círculo y que nada es que no haya sido y que no será. Todos temían, pero todos se confortaban con el rumor de que Juan de Panonia, que se había distinguido por un tratado sobre el séptimo atributo de Dios, iba a impugnar tan abominable herejía.\nAureliano deploró esas nuevas, sobre todo la última. Sabía que en materia teológica no hay novedad sin riesgo; luego reflexionó que la tesis de un tiempo circular era demasiado disímil, demasiado asombrosa, para que el riesgo fuera grave. Más le dolió la intervención –la intrusión – de Juan de Panonia. Hace dos años, éste había usurpado un asunto de la especialidad de Aureliano (el séptimo atributo de Dios); ahora, como si el problema del tiempo le perteneciera, iba a rectificar a los anulares...",
+    "questions": [
+      {
+        "statement": "Se infiere que el cambio de la palabra ‘i nterve nción’ por ‘intrusión’ connota que",
+        "alternatives": [
+          "A) Juan de Panonia sentía un intenso odio por Aureliano.",
+          "B) el narrador admira a Aureliano y desprecia a Juan.",
+          "C) Aureliano se sentía usurpado por Juan de Panonia.",
+          "D) Aureliano se ca racterizaba por una sutileza irónica.",
+          "E) Juan de Panonia era un tipo belicoso e inclemente."
+        ],
+        "correct": 2,
+        "rationale": "El cambio léxico determina que, en la mente de Aureliano, Juan de Panonia se mete en lo que no debería y hace, por lo tanto, una usurpación intelectual."
+      },
+      {
+        "statement": "Se infiere que, de acuerdo con la tesis del tiempo circular,",
+        "alternatives": [
+          "A) Dios carece de atributos llamados ontológicos.",
+          "B) todas las verdades platónicas son inexpugnables .",
+          "C) la historia se puede entender como imprevisible.",
+          "D) no hay diferencia óntica entre pasado y futuro.",
+          "E) el problema del tiempo se resuelve de modo lineal."
+        ],
+        "correct": 3,
+        "rationale": "Nada es que no haya sido (pasado) y que no será (futuro): el pasado volverá a ocurrir y el futuro ya ha ocurrido. En consecuencia, no hay diferencia óntica entre lo que fue y lo que será."
+      },
+      {
+        "statement": "Se deduce que, en la perspectiva de Aureliano, la herejía anular era",
+        "alternatives": [
+          "A) fundada .",
+          "B) temible .",
+          "C) inexpugnable.",
+          "D) antiplatónica.",
+          "E) irrisoria."
+        ],
+        "correct": 4,
+        "rationale": "Para Aureliano, la herejía anular no implicaba mayor riesgo por su carácter disímil. En tal sentido, cabe inferir que la consideraba irrisoria."
+      }
+    ]
+  },
+  {
+    "type": "sentence_elimination",
+    "statement": "6. En función de la estructura expositiva, se podría decir que el texto es uno de",
+    "alternatives": [
+      "A) causa -efecto, puesto que explica las causas de la extinción de los cinodontes.",
+      "B) enumeración, pues detalla todas las propiedades anatómicas de los mamíferos.",
+      "C) secuencia porque explica fundamentalmente la evolución de los mamíferos.",
+      "D) correlación de hechos porque describe las conductas prístinas de los cinodontes.",
+      "E) comparación -contraste, puesto que se centra en los mam íferos y cinodontes."
+    ],
+    "correct": 4,
+    "rationale": "La exposición del texto presenta las innovaciones de los primeros mamíferos; en tal sentido, opera mediante comparaciones y contrastes."
+  },
+  {
+    "type": "sentence_elimination",
+    "statement": "7. Cabe colegir del texto que las musarañas se caracterizan por",
+    "alternatives": [
+      "A) una dieta esencialmente frugívora.",
+      "B) un metabolismo muy simplificado.",
+      "C) una longevidad de muchos años.",
+      "D) un hábitat reducido y especializado.",
+      "E) una capacidad visual muy limitada."
+    ],
+    "correct": 4,
+    "rationale": "Dado que las musarañas presentan las principales características de los mamíferos primitivos, podemos colegir acertadamente que tienen un sistema visual endeble."
+  },
+  {
+    "type": "reading_comprehension",
+    "statement": "En el trayecto de un viaje por lugares de la Europa medieval, Guillermo de Baskerville sorprende, una vez más, a su joven discípulo, Adso de Melk, por sus imponentes capacidades para el razonamiento deductivo. Ambos se encuentran con un grupo de monjes (comandados por el cille rero) que anda en busca de un caballo que se escapó de la abadía vecina.\nAl principio los monjes se sorprenden un poco cuando Guillermo les da a conocer el lugar donde se dirige el caballo fugitivo, pero se desconciertan del todo cuando los entera de que también sabe que el animal tiene el mejor galope de toda la cuadra, que su pelaje es negro, que tiene cinco pies de alzada, que sus herraduras son de plata fina y que le ha s sido puesto el nombre de Brunello.\nAunque se pudiera sospechar que Guillermo ya co nocía al hermoso caballo y que, por lo tanto, da esas respuestas sobre la base de un previo conocimiento, la verdad es otra muy diferente: Guillermo jamás ha visto al animal y no tiene ninguna referencia previa.\n¿Cómo sabe, entonces, el lugar en el que se encuentra Brunello? Sabe hacia dónde se dirige el caballo, al observar las huellas de sus pezuñas en la nieve. La regularidad de esas huellas le permitió inferir, asimismo, que el caballo tiene un buen galope. Por lo que se refiere a su color, le bastó per catarse de las crines negras adheridas a las espinas de un zarzal. ¿Cómo supo que se llamaba Brunello? Elemental, un caballo que es buscado por el cillerero y tantos monjes solamente puede ser propiedad del abad y, en tal sentido, la tradición establece que se llame Brunello (nombre asignado a los caballos de potentados).",
+    "questions": [
+      {
+        "statement": "En el texto, el término IMPONENTE se puede reemplazar por",
+        "alternatives": [
+          "A) ponderable.",
+          "B) fehaciente.",
+          "C) superable.",
+          "D) vencedor.",
+          "E) formidable."
+        ],
+        "correct": 4,
+        "rationale": "Las capacidades lógicas de Guillermo son formidables y, por ello, provocan la admiración."
+      },
+      {
+        "statement": "Frente a las habilidades lógicas de su maestro, Adso de Melk queda",
+        "alternatives": [
+          "A) maravillado.",
+          "B) aterrorizado.",
+          "C) incólume.",
+          "D) decepcionado.",
+          "E) dubitativo."
+        ],
+        "correct": 0,
+        "rationale": "Adso está maravillado ante la a plicación magistral de la deducción."
+      },
+      {
+        "statement": "¿Cuál es el tema central del texto?",
+        "alternatives": [
+          "A) Los peligros de extraviarse en los parajes medievales",
+          "B) La extremada riqueza de las abadías de la Edad Media",
+          "C) La facultad del razonamiento de Guillermo de Baskerville",
+          "D) Las extraordinarias características de los caballos negros",
+          "E) La relación entre Guillermo de Baskerville y Adso de Melk"
+        ],
+        "correct": 2,
+        "rationale": "La facultad del razonamiento de Guillermo de Baskerville."
+      }
+    ]
+  },
+  {
+    "type": "synonyms_and_antonyms",
+    "statement": "Se infiere que el hiperónimo de CÓDICE es",
+    "alternatives": [
+      "A) palimpsesto.",
+      "B) manuscrito.",
+      "C) dogma.",
+      "D) código.",
+      "E) idioma."
+    ],
+    "correct": 1,
+    "rationale": "El códice que fue quema do pertenecía a una biblioteca monástica. Se trata de un tipo de manuscrito."
+  },
+  {
+    "type": "synonyms_and_antonyms",
+    "statement": "Se infiere del texto que tanto Aureliano como Juan de Panonia son conspicuos",
+    "alternatives": [
+      "A) herejes.",
+      "B) heresiarcas.",
+      "C) heresiólogos.",
+      "D) santos.",
+      "E) obispos."
+    ],
+    "correct": 2,
+    "rationale": "Dado que estudian las herejías, se colige fácilmente que son heresiólogos."
+  },
+  {
+    "type": "synonyms_and_antonyms",
+    "statement": "Se deduce del texto que Platón",
+    "alternatives": [
+      "A) es autor de la célebre obra Civitas dei .",
+      "B) fue denostado por los herejes anulares.",
+      "C) era admirado y venerado por los hunos.",
+      "D) defendió los dogmas de la religión cristiana.",
+      "E) tenía una concepción cíclica del tiempo."
+    ],
+    "correct": 4,
+    "rationale": "A partir de la enseñanza narrada en la Civitas dei ,se colige una concepción cíclica o circular del tiempo (el retorno)."
+  },
+  {
+    "type": "reading_comprehension",
+    "statement": "Frente a las habilidades lógicas de su maestro, Adso de Melk queda",
+    "questions": [
+      {
+        "statement": "Frente a las habilidades lógicas de su maestro, Adso de Melk queda",
+        "alternatives": [
+          "A) maravillado.",
+          "B) aterrorizado.",
+          "C) incólume.",
+          "D) decepcionado.",
+          "E) dubitativo."
+        ],
+        "correct": 0,
+        "rationale": null
+      },
+      {
+        "statement": "¿Cuál es el tema central del texto?",
+        "alternatives": [
+          "A) Los peligros de extraviarse en los parajes medievales",
+          "B) La extremada riqueza de las abadías de la Edad Media",
+          "C) La facultad del razonamiento de Guillermo de Baskerville",
+          "D) Las extraordinarias características de los caballos negros",
+          "E) La relación entre Guillermo de Baskerville y Adso de Melk"
+        ],
+        "correct": 2,
+        "rationale": null
+      },
+      {
+        "statement": "Guillermo infiere que el caballo tiene el mejor galope porque observó que",
+        "alternatives": [
+          "A) tiene exactamente cinco pies de alzada.",
+          "B) los monjes lo buscan desesperadamente.",
+          "C) la abadía vecina se encuentra muy lejos.",
+          "D) las huellas se distribuían simétricamente.",
+          "E) las herraduras son de plata muy fina."
+        ],
+        "correct": 3,
+        "rationale": null
+      },
+      {
+        "statement": "Si Guillermo no hubiese observado el zarzal, entonces no habría inferido que",
+        "alternatives": [
+          "A) huía de la abadía.",
+          "B) tiene un buen galope.",
+          "C) es de pelaje negro.",
+          "D) es muy apreciado.",
+          "E) se dirige a otra abadía"
+        ],
+        "correct": 2,
+        "rationale": null
+      }
+    ]
+  }
+]

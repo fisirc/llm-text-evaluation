@@ -1,0 +1,556 @@
+[
+  {
+    "type": "sentence_elimination",
+    "statement": "30. En un prisma triangular regular, los centros de sus caras laterales y el centro de una base son los vértices de un tetraedro regular cuya superficie total tiene 293 m  de área. Halle el volumen del prisma.",
+    "alternatives": [
+      "A) 354 2 m",
+      "B) 356 2 m",
+      "C) 354 3 m",
+      "D) 350 2 m",
+      "E) 354 6 m"
+    ],
+    "correct": 0,
+    "rationale": "La respuesta indicada en el texto es A."
+  },
+  {
+    "type": "reading_comprehension",
+    "statement": "Este artículo habla de la Guerra con G mayúscula , como guerra «caliente» y guerreada por explícito consenso de las naciones, en la forma que adopta en el mundo contemporáneo. Como se lo entregó  a la redacción en los días en que las tropas aliadas acaban de entrar a Kuwait City  (principios de 1991) , es p robable que –si no hay golpe de efecto – este artículo se lea cuando todos consideren que la guerra del Golfo ha logrado un resultado satisfactorio, porque sería conforme a los fines por los cuales se empezó esta guerra. En ese caso, hablar de la imposibilidad y de la inutilidad de la guerra resultaría una contradicción, porque nadie estaría dispuesto ya a considerar inútil o imposible una empresa que ha permitido alcanzar los resultados previstos. Con todo, las reflexiones que siguen deben valer vayan como vayan las cosas. Es más, deben valer con mayor razón en el caso en que la guerra permita conseguir resultados «fructíferos», precisamente porque esto podría convencer a todos de que la guerra es aún, en ciertos casos, una posibilidad razonable. Mientras qu e es un deber negarlo. Desde el principio de la guerra se han escuchado o leído varios llamamientos que reprochaban a los «intelectuales» no haber tomado el debido partido ante ese drama. Como la mayoría vocal que hablaba o escribía solía estar representad a por intelectuales (en el sentido sindical del término), uno se pregunta quién pertenecía a la minoría silenciosa a la que se pedía un acto de palabra. Evidentemente, se trataba de los que no se habían pronunciado de manera «correcta», eligiendo una de la s dos partes en juego. Una prueba de ello es que, día a día, si alguien se pronunciaba de forma contraria a las expectativas del otro, se lo tachaba de intelectual traidor, ya fuera belicista filocapitalista, ya fuera pacifista filoárabe.",
+    "questions": [
+      {
+        "statement": "En este texto de carácter introductorio, el autor, básicamente, se propone argumentar sobre la",
+        "alternatives": [
+          "A) conveniencia de que los intelectuales se pronuncien por alguna de las partes en una guerra.",
+          "B) importancia de lograr resultados «fructíferos» para que la guerra devenga en razonable.",
+          "C) imposibilidad de justificar, válidamente, cualquier guerra en los tiempos actuales.",
+          "D) necesidad que tenemos de convencernos de que en algunos casos la guerra se justifica.",
+          "E) relevancia de que los intelectuales se pronuncien de manera correcta respecto a la guerra."
+        ],
+        "correct": 2,
+        "rationale": "El autor plantea que, en los tiempos actuales, la guerra es absolutamente injustificable."
+      },
+      {
+        "statement": "En el texto, con la expresión «Guerra con G mayúscula» el autor se refiere a un enfoque __________ de ella.",
+        "alternatives": [
+          "A) consensual",
+          "B) integral",
+          "C) lingüístico",
+          "D) parcializado",
+          "E) periodístico"
+        ],
+        "correct": 1,
+        "rationale": "El autor se refiere a la guerra en general al aludir a la «Guerra con G mayúscula»."
+      },
+      {
+        "statement": "Se infiere del texto que, según el autor, una victoria de los aliados",
+        "alternatives": [
+          "A) convencerá a todos de la razón de esta guerra.",
+          "B) cubrirá de oprobio al intelectual indeciso.",
+          "C) no justifica para nada la guerra emprendida.",
+          "D) tachará de traidor al belicista filocapitalista.",
+          "E) indicará al intelectual pacifista filoárabe."
+        ],
+        "correct": 2,
+        "rationale": "Si nada justifica hoy en día la guerra, según el autor, ni una deseada victoria de los aliados tampoco la justificará."
+      },
+      {
+        "statement": "Resultaría incompatible con las tesis del autor afirmar que",
+        "alternatives": [
+          "A) quien se opone a la victoria de los aliados es tachado de pacifista proárabe.",
+          "B) se moteja de imperialista procapitalista a quien celebra la toma de Kuwait.",
+          "C) sus reflexiones, por ser muy generales, no se sustentan en el resultado final.",
+          "D) Todavía, en estos días, es posible racionalizar con éxito una guerra determinada.",
+          "E) un intelectual «silencioso» es quien no se pronuncia por uno u otro bando."
+        ],
+        "correct": 3,
+        "rationale": "La racionalización de una guerra pretende justificarla. Nada de eso es posible hoy en día, según el autor."
+      },
+      {
+        "statement": "Si el autor estuviera pendiente de los resultados «fructíferos» del conflicto, En tal caso estaría en el plano de los que creen poder justificar una guerra.",
+        "alternatives": [
+          "A) hablaría mejor de su imposibilidad e inutilidad.",
+          "B) no estaría en condición de negar su validez.",
+          "C) seguiría negándolo como posibilidad razonable.",
+          "D) seguiría negándose a preferir alguna de las partes.",
+          "E) se lo podría considerar de filocapitalista o filoárabe."
+        ],
+        "correct": 1,
+        "rationale": "En tal caso estaría en el plano de los que creen poder justificar una guerra."
+      }
+    ]
+  },
+  {
+    "type": "reading_comprehension",
+    "statement": "En 1942, a la edad de diez años, gané el primer premio de los Ludi Juveniles (un concurso de libre participación forzada para los jóvenes fascistas italianos, esto es, para todos los jóvenes italianos). Había discurrido con virtuosismo  retórico sobre el te ma:\n«¿Debemos morir por la gloria de Mussolini y el destino inmortal de Italia?» Mi respuesta había sido afirmativa. Era un chico listo.\nDespués, en 1943, descubrí el significado de la palabra «libertad». En aquel momento «libertad» no significaba todavía «liberación».\nPasé dos de mis primeros años entre SS, fascistas y partisanos, que se disparaban mutuamente, y aprendí cómo evitar las balas. No estuvo mal como ejercicio.\nEn abril de 1945, los partisanos tomaron Milán. Dos días después llegaron a la pequeña ciudad donde yo vivía. Fue un momento de alegría. La plaza principal estaba abarrotada de gente que cantaba y agitaba banderas, invocando a grandes voces a Mimo, el jefe partisano de la zona. Mimo, exbrigada de los carabineros, se había pasado a los seguidores de Badoglio y había perdido una pierna en uno de los primeros choques. Se dejó ver en el balcón del ayuntamiento, apoyado en sus muletas, pálido; intentó, con una mano, calmar a la muchedumbre. Yo estaba allí, esperando su discurso, visto que toda mi infancia había estado marcada por los grandes discursos históricos de Mussolini, cuyos pasos más significativos aprendíamos de memoria en el colegio. Silencio. Mimo habló con voz entrecortada, casi no se le oía. Dijo:\n–Ciudadanos, amigos. Después de tantos dolorosos sacrificios… aquí estamos.\nGloria a los caídos por la libertad.\nEso fue todo. Y volvió dentro. La muchedumbre gritaba, los partisanos levantaron sus armas y dispararon al aire festivamente. Nosotros, los niños, nos abrazamos a recoger los casquillos, preciosos objetos de colección, pero yo había aprendido también que la libertad de palabra significaba libertad de la retórica.",
+    "questions": [
+      {
+        "statement": "1. Dada la intencionalidad última del autor, cabe caracterizar al texto como",
+        "alternatives": [
+          "A) anecdótico.",
+          "B) argumentativo.",
+          "C) dialéctico.",
+          "D) épico.",
+          "E) retórico."
+        ],
+        "correct": 2,
+        "rationale": "Dialéctico en el sentido de que el autor opone –no sin cierta ironía – la libertad de palabra a la libertad de la retórica."
+      },
+      {
+        "statement": "2. Dado el contexto, VIRTUOSISMO connota",
+        "alternatives": [
+          "A) afán de heroísmo.",
+          "B) destreza técnica.",
+          "C) entusiasmo infantil.",
+          "D) fascismo acendrado.",
+          "E) superioridad moral."
+        ],
+        "correct": 1,
+        "rationale": "Virtuosismo retórico alude al manejo técnico que el niño protagonista ostentaba."
+      },
+      {
+        "statement": "4. Se desprende del texto que Mimo, el jefe partisano de la zona,",
+        "alternatives": [
+          "A) canjeó una de sus extremidades por la victoria.",
+          "B) estuvo impedido de desplazarse a voluntad.",
+          "C) no evidenciaba mucha ambición política.",
+          "D) no había formado parte del aparato estatal.",
+          "E) solo tuvo encuentros bélicos auspiciosos."
+        ],
+        "correct": 2,
+        "rationale": "Mimo no se caracterizaba precisamente por su brillantez retórica, indicio de posible ambición política."
+      },
+      {
+        "statement": "5. Si el autor no hubiese aprendido de Mimo, probablemente",
+        "alternatives": [
+          "A) formaría parte del cuerpo de carabineros.",
+          "B) habría recogido balas en vez de casquillos.",
+          "C) habría sido partidario de Mussolini.",
+          "D) privilegiaría la retórica a la palabra.",
+          "E) tampoco habría seguido a Badoglio."
+        ],
+        "correct": 3,
+        "rationale": "El autor aprendió de Mimo que la libertad de palabra pasaba por la libertad de la retórica. Ya no privilegiaría la retórica a la palabra."
+      }
+    ]
+  },
+  {
+    "type": "verbal_series",
+    "statement": "1. Marque la alternativa que no pertenezca a la serie.",
+    "alternatives": [
+      "A) Indemne",
+      "B) Intacto",
+      "C) Inverecundo",
+      "D) Incólume",
+      "E) Ileso"
+    ],
+    "correct": 2,
+    "rationale": "Las palabras corresponden al campo semántico de aquello que no ha sufrido daño o conmoción. Escapa a esta lógica INVERECUNDO, que se refiere a la persona que carece de vergüenza o pudor."
+  },
+  {
+    "type": "verbal_series",
+    "statement": "Marque la alternativa que no pertenezca a la serie.",
+    "alternatives": [
+      "A) Indemne",
+      "B) Intacto",
+      "C) Inverecundo",
+      "D) Incólume",
+      "E) Ileso"
+    ],
+    "correct": 2,
+    "rationale": "Las palabras corresponden al campo semántico de aquello que no ha sufrido daño o conmoción. Escapa a esta lógica INVERECUNDO, que se refiere a la persona que carece de vergüenza o pudor."
+  },
+  {
+    "type": "verbal_series",
+    "statement": "I) La colitis ulcerosa e s una enfermedad crónica que se puede mantener en remisión por largos períodos (los síntomas desaparecen, con riesgo de regresar en cualquier momento). II) Esta enfermedad, que se conoce por varios nombres, puede cursar por períodos de actividad e inactividad. III) La colitis ulcerosa también se conoce en algunos países como Colitis Ulcerativa Crónica Idiopática o Colitis Ulcerosa Crónica Indeterminada y frecuentemente se abrevia como CUCI o CUI. IV) Esta enfermedad pertenece a las Enfermedades Inflamatorias Intestin ales que incluyen también la Enfermedad de Crohn y la Colitis indeterminada. V) Algunos la describen como una enfermedad autoinmune, ya que está originada por anticuerpos producidos por nuestro propio organismo que reaccionan en su contra dañándolo.",
+    "alternatives": [
+      "A) III",
+      "B) IV",
+      "C) II",
+      "D) I",
+      "E) V"
+    ],
+    "correct": 2,
+    "rationale": "Se elimina la segunda oración por redundancia. La información que proporciona proviene de la primera y la tercera oraciones."
+  },
+  {
+    "type": "verbal_series",
+    "statement": "I) En La agonía del Eros , el filósofo coreano Byung -Chul Han (Seúl, 1959)  dirige la atención a temas como las relaciones humanas, el deseo y el amor en una sociedad cada vez más dominada por el narcisismo y la autorreferencia. II) El diagnóstico de Han se extiende incluso hasta lo que él denomina la «pérdida del deseo», la desaparición de la capacidad para dedicarse al «otro», de construir relaciones con los demás, el extraño, el no -yo. III) Para Han, las relaciones interpersonales más íntimas, como el amor y la vida sexual, han perdido su esencia, la dedicación a otro ser, debid o al «egoísmo» que impera en la vida moderna. IV) Incluso el amor y la sexualidad, afirma el filósofo coreano, se impregnan de este cambio: socialmente, el sexo, la pornografía y el exhibicionismo están desplazando al amor, al erotismo y al deseo en el ojo  público. V) El pensamiento, según Han, se basa en la «no oposición», en el deseo de algo que uno no entiende todavía; por ende, la «Agonía del Eros» es también una «Agonía del Pensamiento».",
+    "alternatives": [
+      "A) V",
+      "B) III",
+      "C) I",
+      "D) IV",
+      "E) II"
+    ],
+    "correct": 1,
+    "rationale": "Se elimina la tercera oración por criterio de redundancia. Esta repite información que se desprende, en especial, de la primera y la cuarta oración."
+  },
+  {
+    "type": "verbal_series",
+    "statement": "I) José de la Riva -Agüero y Osma fue un intelectual precoz: a los diecinueve años había culminado ya una tesis que sería en el futuro un libro canónico de la crítica literaria peruana. II) Perteneció a una familia notable de Lima, de firme abolengo español, del cual Riva -Agüero se enorgullecía, por lo que fue a reclamar a España su título de Marqués. III) En 1910, seis  años después de escribir su famosa tesis literaria, escribió lo que para muchos es su libro mayor, La historia en el Perú . IV) El aristócrata Riva -Agüero figuraba como una gran promesa de la vida intelectual peruana, pues además colaboraba con revistas ex tranjeras y era el crítico más reputado de su tiempo. V) Debido a su mentalidad conservadora y oligárquica, la promesa no se cumplió: en su madurez compuso escritos reaccionarios que significaron un retroceso en comparación con su obra de juventud.",
+    "alternatives": [
+      "A) II",
+      "B) III",
+      "C) I",
+      "D) IV",
+      "E) V"
+    ],
+    "correct": 0,
+    "rationale": "Se elimina la oración II, por disociación, pues el tema es la trayectoria intelectual de Riva-Agüero, y no su linaje."
+  },
+  {
+    "type": "reading_comprehension",
+    "statement": "En los años sesenta, los periódicos no sufrían todavía por la competencia de la televisión. Solo Achille Campanile, en un congreso sobre la televisión, en Grossetto, en septiembre de 1962, tuvo una intuición luminosa : hubo un tiempo en que los periódicos daban una noticia antes que nadie, luego intervenían otras publicaciones para profundizar la cuestión; el periódico era un telegrama que acababa por «sigue carta». Ya entonces, en 1962, la noticia telegráfica la daba el telediario a la hora de cenar. El per iódico, la mañana siguiente, daba la misma noticia: era una carta que acababa por: «Sigue, mejor dicho, precede telegrama».\n¿Por qué solo un genio del humor como Campanile se había dado cuenta de esa situación paradójica? Porque la televisión, se limitaba,  entonces, a uno o dos canales considerados gubernamentales, y, por lo tanto, no se la consideraba (y en gran parte no lo era) fidedigna como fuente; los periódicos decían más cosas y de forma menos vaga; los humoristas nacían en el cine o en el cabaret, y  no siempre llegaban a la televisión; la comunicación política se producía  en las plazas, cara a cara, o mediante carteles en las paredes: un estudio sobre el telemitin en los años sesenta apuraba, mediante el análisis de numerosas tribunas políticas que,  al intentar adaptar las propias propuestas a una media de los espectadores televisivos, el representante del Partido Comunista acababa diciéndose cosas muy parecidas a las del representante de la Democracia Cristiana, es decir, se anulaban las diferencias, y cada uno intentaba mostrarse lo más neutro y tranquilizador posible. Por eso, el debate y la lucha política se producían en otra parte, y en gran parte en los periódicos.",
+    "questions": [
+      {
+        "statement": "1. Básicamente, el autor del texto se ocupa de",
+        "alternatives": [
+          "A) la cómica relación entre tele gramas, diarios y TV a principios de los sesenta.",
+          "B) la competencia que se gestó en los sesenta entre los diarios y la televisión.",
+          "C) la paradoja que se daba hacia los años sesenta entre la TV y los periódicos.",
+          "D) la relación existente entre política, periódicos y televisión en los años sesenta.",
+          "E) las propuestas políticas  que hacia los sesenta se presentaban en la radio y la TV."
+        ],
+        "correct": 3,
+        "rationale": "El autor incide en la relación que se dio a principios de los años sesenta entre la política, los diarios y la te levisión italianos."
+      },
+      {
+        "statement": "2. El adjetivo LUMINOSO se emplea en el primer párrafo para señalar que la intuición de Campanile cumplió una función",
+        "alternatives": [
+          "A) anticipatoria.",
+          "B) brillante.",
+          "C) enceguecedora.",
+          "D) esclarecedora.",
+          "E) refleja."
+        ],
+        "correct": 3,
+        "rationale": "La luminosa  intuición de Campanile esclareció o aclaró tempranamente lo que luego se convertiría en un lugar común."
+      },
+      {
+        "statement": "3. Se desprende del humorismo de Campanile que, a inicios de los sesenta,",
+        "alternatives": [
+          "A) la televisión apenas empezaba a desplazar a los periódicos.",
+          "B) los debates políticos eran más ilustrativos en la televisión.",
+          "C) los periódicos tenían menos credibilidad que la televisión.",
+          "D) no había mayor diferencia entre telegrama y televisión.",
+          "E) no se dudaba de la veracidad de la noticia televisiva."
+        ],
+        "correct": 0,
+        "rationale": "En ese sentido el humor de Campanile se anticipó a la interpretación correcta de los hechos."
+      },
+      {
+        "statement": "4. Resulta inválido inferir del texto que, en los años sesenta, las campañas políticas",
+        "alternatives": [
+          "A) aprovechaban en lo posible las plazas públicas.",
+          "B) no siempre llegaban a la televisión.",
+          "C) no utilizaban mucho la televisión como medio.",
+          "D) se definían por los debates televisados.",
+          "E) se desarrollaban por las calles y las plazas."
+        ],
+        "correct": 3,
+        "rationale": "Tal definición se daría mucho después de los sesenta."
+      },
+      {
+        "statement": "5. Si los políticos comunistas y democristianos se hubiesen preocupado menos por adaptar al promedio de los espectadores televisivos, probablemente",
+        "alternatives": [
+          "A) las calles y plazas habrían quedado huérfanas de cualquier proselitismo político.",
+          "B) la televisión de es os días no sería un ápice diferente a la de nuestros días.",
+          "C) los periódicos habrían renunciado a cubrir las campañas políticas en sus páginas.",
+          "D) sus debates trasmitidos vía TV habrían tenido un alto contenido polémico.",
+          "E) ya no habría habido luchas con m otivos políticos fuera del escenario de la televisión."
+        ],
+        "correct": 3,
+        "rationale": "En sus inicios, la transmisión televisiva como que cohibía el natural instinto polémico de los políticos."
+      }
+    ]
+  },
+  {
+    "type": "reading_comprehension",
+    "statement": "Mi problema consistía en si existen «universales semánticos», esto es, nociones elementales comunes a toda la especie humana, que pueden ser expresadas por todas las lenguas. El problema no es tan obvio, desde el momento en que se sabe que muchas culturas no reconocen nociones que a nosotros nos resultan evidentes: p or ejemplo, la noción de substancia a la que pertenecen determinadas propiedades (como cuando decimos que «la manzana es roja») o la de identidad (a=a). Con todo, me he convencido de que existen, ciertamente, nociones comunes a todas las culturas, y de que  todas se refieren a la posición de nuestro cuerpo en el espacio.\nSomos animales de postura erguida, por lo que resulta fatigoso permanecer mucho tiempo cabeza abajo y, por lo tanto, tenemos una noción común de «arriba» y de «abajo»,\ntendiendo a privilegia r lo primero sobre sobre lo segundo. De la misma manera, tenemos nociones de una derecha y de una izquierda, del estar parados o del andar, del estar erguidos o tumbados, del arrastrarse o del saltar, de la vigilia y del sueño. Como poseemos extremidades, todos sabemos lo que significa golpear una materia resistente,\npenetrar una substancia blanda o líquida, machacar, tamborilear, batir, patear, quizá incluso danzar. La lista podría seguirse sin fin, pues abarca el ver, el oír, comer o beber,\ningerir o expe ler. Y ciertamente cada hombre tiene nociones de lo que significa percibir,\nrecordar, experimentar deseo miedo, tristeza o alivio, placer o dolor, y emitir sonidos que expresen estos sentimientos. Por lo tanto (y se entra ya en la esfera del derecho), se\ntienen concepciones universales sobre la constricción : no se desea que alguien nos\nimpida hablar, ver, escuchar, dormir, ingerir o expeler, ir a donde se nos antoje; sufrimos\nsi alguien nos ata o nos obliga a segregación, nos golpea, hiere o mata, nos somete a\ntorturas físicas o psíquicas que disminuyen o anulan nuestra capacidad de pensar.",
+    "questions": [
+      {
+        "statement": "El texto constituye una reflexión filosófica sobre",
+        "alternatives": [
+          "A) ciertas nociones comunes al género humano y ciertas consecuencias derivadas de ellas.",
+          "B) las nociones comunes a la especie humana, que pueden expresarse en la mayoría de lenguajes.",
+          "C) las nociones comunes a todas las culturas que se refieren a nuestro cuerpo en el espacio.",
+          "D) los universales comunes a todos los hombres y sus concepciones universales de constricción.",
+          "E) los universales semánticos que son comunes a todos, pero no siempre son evidentes."
+        ],
+        "correct": 0,
+        "rationale": "El autor se refiere a los universales semánticos y a los que se derivan de los mismos en el plano del derecho."
+      },
+      {
+        "statement": "El término CONSTRICCIÓN tiene en el texto el sentido preciso y comprehensivo de",
+        "alternatives": [
+          "A) dominio.",
+          "B) limitación.",
+          "C) perjuicio.",
+          "D) presión.",
+          "E) sujeción."
+        ],
+        "correct": 2,
+        "rationale": "Todo lo que se enlista a partir de los dos puntos implica daño o perjuicio."
+      },
+      {
+        "statement": "Resulta incompatible afirmar que, para el autor, son universales conceptos como",
+        "alternatives": [
+          "A) esencia, identidad y sustancia.",
+          "B) percepción, recuerdo y evocación.",
+          "C) postura, posición y ubicación.",
+          "D) prohibición, represión y limitación.",
+          "E) tensión, resistencia y consistencia."
+        ],
+        "correct": 0,
+        "rationale": "Las nociones señaladas, como sustancia por ejemplo, no se dan en todas las culturas, según el autor."
+      },
+      {
+        "statement": "5. Si el autor estuviera convencido de que la posición corporal en el espacio no da lugar a nociones comunes o universales, probablemente adoptaría en este problema un enfoque",
+        "alternatives": [
+          "A) corporalista.",
+          "B) escéptico.",
+          "C) semántico.",
+          "D) somático.",
+          "E) universalista."
+        ],
+        "correct": 1,
+        "rationale": "Al no reconocer universales “corporales”, y habiendo descartado otros tipos de universales, es claro que el autor asumiría entonces un franco escepticismo."
+      }
+    ]
+  },
+  {
+    "type": "verbal_series",
+    "statement": "SERIES VERBALES 1. Marque la alternativa que  consigne únicamente sinónimos.",
+    "alternatives": [
+      "A) Astroso, sibarita, pomposo",
+      "B) Lóbrego, oscuro, tenebroso",
+      "C) Pigre, expeditivo, poltrón",
+      "D) Abigarrado, variopinto, nimio",
+      "E) Paladín, originario, priápico"
+    ],
+    "correct": 1,
+    "rationale": "Las tres palabras cumplen el requisito: LÓBREGO, OSCURO y TENEBROSO son sinónimas."
+  },
+  {
+    "type": "sentence_elimination",
+    "statement": "Marque la alternativa que  consigne únicamente sinónimos.",
+    "alternatives": [
+      "A) Astroso, sibarita, pomposo",
+      "B) Lóbrego, oscuro, tenebroso",
+      "C) Pigre, expeditivo, poltrón",
+      "D) Abigarrado, variopinto, nimio",
+      "E) Paladín, originario, priápico"
+    ],
+    "correct": 1,
+    "rationale": "Las tres palabras cumplen el requisito: LÓBREGO, OSCURO y TENEBROSO son sinónimas."
+  },
+  {
+    "type": "sentence_elimination",
+    "statement": "Marque la alternativa que no pertenezca a la serie.",
+    "alternatives": [
+      "A) Antiguo",
+      "B) Primigenio",
+      "C) Primitivo",
+      "D) Originario",
+      "E) Longincuo"
+    ],
+    "correct": 4,
+    "rationale": "El campo semántico se refiere a sinónimos a «lo originario, lo primero». LONGINCUO significa «aparta do»."
+  },
+  {
+    "type": "sentence_elimination",
+    "statement": "Pancista, arriscado; abyecto, vil; vilipendiado, loado;",
+    "alternatives": [
+      "A) inveterado, atrabiliario.",
+      "B) arbitrario, obsecuente.",
+      "C) desprendido, generoso.",
+      "D) arraigado, vertiginoso.",
+      "E) bienquisto, censurado."
+    ],
+    "correct": 2,
+    "rationale": "Serie mixta, compuesta por pares de antónimos, sinónimos y antónimos. Se completa acertadamente con el par DESPRENDIDO, GENEROSO."
+  },
+  {
+    "type": "sentence_elimination",
+    "statement": "I) CSI: Crime Scene Investigation  es una serie de televisión estadounidense de ficción que tuvo gran acogida durante su  emisión. II) La serie también es conocida CSI: Las Vegas  o CSI: En la escena del crimen . III) Otras series posteriores relacionadas con la investigación criminal, como Bones  o NCIS , son también del gusto del público. IV) CSI fue transmitida por primera vez el 6 de octubre de 2000 en los Estados Unidos por la cadena CBS. V) La serie se centra en torno a un grupo de peritos forenses y criminólogos que trabajan en la ciudad estadounidense de Las Vegas (Nevada).",
+    "alternatives": [
+      "A) III",
+      "B) IV",
+      "C) I",
+      "D) II",
+      "E) V"
+    ],
+    "correct": 0,
+    "rationale": "Se elimina por criterio de inatingencia. Las oraciones giran en torno al tema de CSI. La tercera oración trata de otras series."
+  },
+  {
+    "type": "sentence_elimination",
+    "statement": "I) Desde sus inicios, Jethro Tull ha vendido más de 60 millones de copias de sus más de 30 álbumes. II) Jethro Tull fue la primera banda en recibir un premio en los años 70 por vender más entradas en el Madison Square Garden (Nueva York) que ningún otro grupo . III) Jethro Tull fue una banda de rock progresivo británica, que comenzó a finales de 1967 y que trabajó de forma ininterrumpida hasta el año 2014. IV) Jethro Tull es uno de los grupos de rock más longevos y con mayores ventas de la historia del rock británico. V) La banda logró mucha popularidad en la primera mitad de los años setenta con álbumes emblemáticos en la historia del rock como Aqualung  y Thick as a Brick .",
+    "alternatives": [
+      "A) III",
+      "B) V",
+      "C) II",
+      "D) IV",
+      "E) I"
+    ],
+    "correct": 3,
+    "rationale": "Se elimina la cuarta oración por criterio de redudancia. La información vertida en esta aparece repetida en la primera y la tercera oración."
+  },
+  {
+    "type": "reading_comprehension",
+    "statement": "SEMANA 19 C REPASO\n\nEn términos históricos, el «fundamentalismo» es un principio hermenéutico, vinculado a la interpretación de un libro sagrado . El fundamentalismo occidental moderno nace en los ambientes protestantes de los Estados Unidos del siglo XIX y se caracteriza por la decisión de interpretar literalmente las Escrituras, sobre todo en lo que concierne a esas nociones de cosmología cuya veracidad parecía poner en duda la ciencia de la época. De ahí se deriva el rechazo, a menudo intolerante, de toda interpretación alegórica y, sobre todo, de toda formade educación que intentara socavar la confianza en el texto bíblico, como sucedía con el darwinismo triunfante.\nEsta forma de literalismo fundamentalista es antigua, y ya entre los padres de la Iglesia hubo debates entre los partidarios de la letra y los sostenedores de una hermenéutica más suave , como la de San Agustín. Pero, en el mun do moderno, el fundamentalismo estricto no podía ser sino protestante, dado que para poder ser fundamentalista hay que dar por hecho que la verdad resulta de la interpretación de la Biblia. En el ambiente católico, en cambio, es la autoridad de la Iglesia la que garantiza la interpretación, y, por lo tanto, el equivalente del fundamentalismo protestante adopta, si acaso, la forma del tradicionalismo. Paso por alto el considerar (y se lo dejo a los expertos) la naturaleza del fundamentalismo musulmán y judío .   Ciclo Ordinario 2016 -I",
+    "questions": [
+      {
+        "statement": "Dado el contexto, la expresión MÁS SUAVE implica",
+        "alternatives": [
+          "A) más hermenéutica.",
+          "B) más interpretación.",
+          "C) menos alegorización.",
+          "D) menos hermenéutica.",
+          "E) menos literalidad."
+        ],
+        "correct": 4,
+        "rationale": "El autor se centra en el origen y la naturaleza del fundamentalismo religioso, principalmente el cristiano."
+      },
+      {
+        "statement": "Se desprende del texto que el creacionismo científico –una teoría que se opone al darwinismo desde cierta visión del Génesis – es más acorde con una exégesis o interpretación __________ del texto sagrado.",
+        "alternatives": [
+          "A) alegórica.",
+          "B) figurada.",
+          "C) formalista.",
+          "D) literalista.",
+          "E) metafórica."
+        ],
+        "correct": 3,
+        "rationale": "En efecto, el creacionismo científico supone una interpretación literal de los pasajes bíblicos de la creación."
+      },
+      {
+        "statement": "Resulta incompatible con el texto afirmar que, para el creyente católico, la interpretación de la Biblia es",
+        "alternatives": [
+          "A) directa.",
+          "B) mediada.",
+          "C) sacerdotal.",
+          "D) tradicional.",
+          "E) vertical."
+        ],
+        "correct": 0,
+        "rationale": "El creyente católico promedio depended de la interpretación oficia l de la Iglesia para su comprensión y asimilación de los textos sagrados."
+      },
+      {
+        "statement": "Si San Agustín hubiese desarrollado una hermenéutica rígida,",
+        "alternatives": [
+          "A) estaría muy alejado del fundamentalismo tradicional.",
+          "B) habría fundado el protestantismo antes que Lutero.",
+          "C) no se diferenciaría mucho de los literalistas.",
+          "D) nunca habría llegado a ser Padre de la Iglesia.",
+          "E) sería el más representativo de los intérpretes alegóricos."
+        ],
+        "correct": 2,
+        "rationale": "San Agustín, de haber sido más rígido en su interpretación de la Biblia, habría coincidido definitivamente con los intérpretes literalistas de las Escritureas."
+      }
+    ]
+  },
+  {
+    "type": "sentence_elimination",
+    "statement": "1. Salta a la vista que la intención final del autor es",
+    "alternatives": [
+      "A) aclarator ia.",
+      "B) crítica.",
+      "C) cultural.",
+      "D) filosófica.",
+      "E) polémica."
+    ],
+    "correct": 1,
+    "rationale": "El autor critica finalmente la semanalización de los periódicos."
+  },
+  {
+    "type": "sentence_elimination",
+    "statement": "2. Por el contexto, el adjetivo ESCUETO tiene el sentido preciso de",
+    "alternatives": [
+      "A) aburrido.",
+      "B) corto.",
+      "C) limitado.",
+      "D) pequeño.",
+      "E) puntual."
+    ],
+    "correct": 4,
+    "rationale": "En este contexto, noticia escueta tiene el sentido de noticia precisa, puntual."
+  },
+  {
+    "type": "sentence_elimination",
+    "statement": "3. Resulta incompatible con lo narrado por el autor pretender que sus diferencias con Gianni Vattimo son, para ellos, de índole",
+    "alternatives": [
+      "A) filosófico.",
+      "B) permanente.",
+      "C) personal.",
+      "D) polémico.",
+      "E) secundario."
+    ],
+    "correct": 2,
+    "rationale": "Siendo amigos, el autor y Gianni Vattimo tendrán diferencias que no afectan su relación personal."
+  },
+  {
+    "type": "sentence_elimination",
+    "statement": "5. Si el autor del artículo del periódico italiano hubiese privilegiado la objetividad a la «necesidad de semanalización»",
+    "alternatives": [
+      "A) el autor del texto lo habría destacado como reportero ejemplar.",
+      "B) el propio Gianni Vattimo le habría pedido una rectificación.",
+      "C) el periódico para  el que trabajaba lo hubiese distinguido aún más.",
+      "D) no habría habido necesidad de ningún artículo aclaratorio.",
+      "E) no habría habido ningún choque de Grinzane que reportar."
+    ],
+    "correct": 4,
+    "rationale": "Solo se habría reportado un encuentro académico, no una fractura filosófica."
+  },
+  {
+    "type": "verbal_series",
+    "statement": "1. Vastedad, extensión; reyerta, refriega; ápice, partícula;",
+    "alternatives": [
+      "A) eufonía, cacofonía.",
+      "B) celo, frialdad.",
+      "C) sumo, extracto.",
+      "D) temple, entereza.",
+      "E) lujuria, recato."
+    ],
+    "correct": 3,
+    "rationale": "Serie que contiene pares de sinónimos."
+  },
+  {
+    "type": "sentence_elimination",
+    "statement": "I) El Lazarrillo de Tormes y de sus fortunas adversidades  es una novela producto del pueblo español en una etapa de crisis de la España Imperial.  II) De autor anónimo, el Lazarillo de Tormes  se publicó en cuatro lugares distintos: Medina, Alcalá, Amberes y Burgos. III) Esta novela picaresca sirve como un documento sociológico, pues logramos recoger la oralidad, costumbres y personajes de la España de la segunda mitad del siglo XVI. IV) Existen otras novelas de la misma índole como El buscón llamado Don Pablos  y el Guzmán de Alfarache . V) A través de su trama, observamos las peripecias de Lázaro para formarse una honra.",
+    "alternatives": [
+      "A) V",
+      "B) III",
+      "C) IV",
+      "D) II",
+      "E) I"
+    ],
+    "correct": 2,
+    "rationale": "Se elimina por inatingencia la cuarta oración. El eje temático es «la novela de El Lazarrillo de Tormes »."
+  },
+  {
+    "type": "sentence_elimination",
+    "statement": "I) Desde el año 2000, hemos tenido cuatro gobiernos democráticos como nunca antes se ha visto en la historia de la república peruana. II) El gobierno de transición, luego de la dictadura fujimorista (1990 -2000), fue el de Valentín Paniagua. III) Luego, en una elección reñida, el aspirante presidencial Alejandro Toledo le ganó en segunda vuelta al aprista Alan García. IV) No obst ante, en el año 2006, García se cobraría su revancha al ganarle al candidato Ollanta Humala, convirtiéndose así en el tercer presidente constitucional de manera continua. V) En el año 2006, también, Paniagua, el líder de la transición democrática, postuló a la presidencia sin mayor éxito.",
+    "alternatives": [
+      "A) I",
+      "B) IV",
+      "C) III",
+      "D) II",
+      "E) V"
+    ],
+    "correct": 4,
+    "rationale": "Se elimina por inatingencia la quinta oración. El eje temático es «los gobiernos constitucionales del Perú»."
+  },
+  {
+    "type": "sentence_elimination",
+    "statement": "I) Los Nostoi es un tema esencial en la literatura griega,  pues se relatan las historias de «retorno» de aquellos que combatieron en la Guerra de Troya. II) Uno de los Nostoi  más conocidos es el de Odiseo y su regreso a Ítaca y sus peripecias a lo largo de diez años. III) Otro de los relatos de vuelta a casa, aun que de manera trágica, es el de Agamenón y su llegada al reino de Argos, donde fue asesinado por su esposa Clitemnestra. IV) Una historia de los Nostoi , aunque no tan conocido, corresponde a la historia de Helena y su regreso al reino de Esparta del átrida Menelao luego del rapto de Paris. V) Helena de Troya es un personaje mítico por su belleza y en la temática de los Nostoi .",
+    "alternatives": [
+      "A) V",
+      "B) II",
+      "C) IV",
+      "D) I",
+      "E) III"
+    ],
+    "correct": 0,
+    "rationale": "Se elimina por impertinencia la quinta oración. El eje temático es el « Nostoi  de la historia griega»."
+  }
+]

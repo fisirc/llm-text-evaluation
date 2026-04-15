@@ -1,0 +1,68 @@
+[
+  {
+    "type": "reading_comprehension",
+    "statement": "Cuentan los hombres dignos de fe (pero Alá sabe más) que en los primeros días hubo un rey de las islas de Babilonia que congregó a sus arquitectos y magos y les mandó a construir un laberinto tan perplejo y sutil que los varones más prudentes no se aventuraban a entrar, y los que entraban se perdían. Esa obra era un escándalo, porque la confusión y la maravilla son operaciones propias de Dios y no de los hombres. Con el andar del tiempo vino a su corte un rey de los árabes, y el rey de Babilonia (para hacer burla de la simplicidad de su huésped) lo hizo penetrar en el laberinto, donde vagó afrentado y confundido hasta la declinación de la tarde. Entonces imploró socorro divino y dio con la puerta. Sus labios no profir ieron queja ninguna, pero le dijo al rey de Babilonia que él en Arabia tenía otro laberinto y que, si Dios era servido, se lo daría a conocer algún día. Luego regresó a Arabia, juntó sus capitanes y sus alcaides y estragó los reinos de Babilonia con tan ve nturosa fortuna que derribo sus castillos, rompió sus gentes e hizo cautivo al mismo rey. Lo amarró encima de un camello veloz y lo llevó al desierto. Cabalgaron tres días, y le dijo: \"Oh, rey del tiempo y substancia y cifra del siglo!, en Babilonia me qui siste perder en un laberinto de bronce con muchas escaleras, puertas y muros; ahora el Poderoso ha tenido a bien que te muestre el mío, donde no hay escaleras que subir, ni puertas que forzar, ni fatigosas galerías que recorrer, ni muros que veden el paso\". Luego le desató las ligaduras y lo abandonó en la mitad del desierto, donde murió de hambre y de sed. La gloria sea con aquel que no muere.",
+    "questions": [
+      {
+        "statement": "El narrador menciona a Dios con el fin de ilustrar",
+        "alternatives": [
+          "A) el poder que ostentaba el reino de Babilonia.",
+          "B) los elementos arquitectónicos de los laberintos.",
+          "C) la precariedad de cualquier rey terrenal.",
+          "D) la inclemencia del clima en el desierto.",
+          "E) la venganza de un rey de las islas de Babilonia."
+        ],
+        "correct": 2,
+        "rationale": "“Esa obra era un escándalo, porque la confusión y la maravilla son operaciones propias de Dios y no de los hombres”."
+      },
+      {
+        "statement": "La narración se centra en",
+        "alternatives": [
+          "A) la omnipotencia divina.",
+          "B) la cordialidad de los reyes.",
+          "C) la magnitud del desierto.",
+          "D) el temple de los laberintos.",
+          "E) un acto de venganza."
+        ],
+        "correct": 4,
+        "rationale": "El rey árabe se venga del rey de Babilonia."
+      },
+      {
+        "statement": "En el texto, el término ESTRAGAR significa",
+        "alternatives": [
+          "A) impulsar.",
+          "B) castigar.",
+          "C) amainar.",
+          "D) derruir.",
+          "E) conculcar."
+        ],
+        "correct": 3,
+        "rationale": "Estragar los reinos de Babilonia implica un acto de destrucción."
+      },
+      {
+        "statement": "En la lógica del rey de los árabes, el desierto es un laberinto porque",
+        "alternatives": [
+          "A) su forma es simple.",
+          "B) no tiene escapatoria.",
+          "C) tiene muchas salidas.",
+          "D) no tiene puertas.",
+          "E) es una obra humana."
+        ],
+        "correct": 1,
+        "rationale": "No hay manera de salir del desierto."
+      },
+      {
+        "statement": "El laberinto babilónico es escandaloso por cuanto",
+        "alternatives": [
+          "A) fue obra de arquitectos y magos.",
+          "B) se hizo en unos pocas semanas.",
+          "C) su objetivo es mofarse del árabe.",
+          "D) requiere de un ingenio superlativo.",
+          "E) quiere emular las obras divinas."
+        ],
+        "correct": 4,
+        "rationale": "La confusión y la maravilla solo pertenecen a Dios."
+      }
+    ]
+  }
+]

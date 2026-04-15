@@ -1,0 +1,563 @@
+[
+  {
+    "type": "reading_comprehension",
+    "statement": "Dado que la lectura es una herramienta esencial del aprendizaje significativo, es fundamental garantizar el avance en la comprensión lectora. En virtud de esta consideración, la didáctica de la lectura debe anclarse en las formas idóneas que logren una adecuada evaluación de la comprensión de textos. Los principales tipos de ítems en comprensión lectora son los siguientes:\n\nA. Pregunta por tema central o idea principal . Mientras que el tema centrales la frase ola palabra clave del texto, la idea principales el enunciado que tiene más jerarquía cognitiva en el texto. Si el tema centrales «Los obstáculos de la ciencia», la idea principal se enuncia así: «Los obstáculos de la ciencia son de índole económica e ideológica».\n\nComo la osteoporosis suele ser asintomática y no se manifiesta hasta que se rompe un hueso a causa de una caída, la única forma de diagnosticarla es mediante una densitometría ósea. Esta prueba se recomienda a toda persona mayor de 50 años que haya sufrido una fractura y a todas las mujeres mayores de 65 años. Consiste entenderse boca arriba sobre una mesa de examen mientras el brazo de un aparato especial de rayos X se desplaza por encima del cuerpo a fin de medir el espesor de varios huesos.\nCyberLogic, empresa de investigación con sede en Nueva York, ha creado un aparato más sencillo, de casi 23 centímetros de largo, que funciona con cuatro baterías pequeñas y examina huesos con ultrasonido. Si este aparato portátil resulta ser tan confiable como el de rayos X, su utilidad será enorme, afirma la doctora Ethel Siris, experta en osteoporosis. “Un artefacto como este permitiría hacer exámenes óseos en consultorios médicos a bajo precio y sin provocar molestias a los pacientes”, señala.\n\n1. ¿Cuál es el tema central del texto?\n\nA) La inexorabilidad de la osteoporosis. B) El diagnóstico de la osteoporosis.\nC) El factor edad y la osteoporosis. D) Investigaciones sobre osteoporosis.\nE) Los rayos X y la osteoporosis.",
+    "questions": [
+      {
+        "statement": "¿Cuál es el tema central del texto?",
+        "alternatives": [
+          "A) La inexorabilidad de la osteoporosis.",
+          "B) El diagnóstico de la osteoporosis.",
+          "C) El factor edad y la osteoporosis.",
+          "D) Investigaciones sobre osteoporosis.",
+          "E) Los rayos X y la osteoporosis."
+        ],
+        "correct": 1,
+        "rationale": "Solución: Se da cuenta de la densitometría y de un nuevo aparato para diagnosticar la osteoporosis."
+      },
+      {
+        "statement": "¿Cuál es la idea medular del texto?",
+        "alternatives": [
+          "A) Según el pensamiento estoico, la muerte ataca al individuo, pero no hace nada contra la especie.",
+          "B) La especie se manifiesta en los individuos, gracias al sentido general del logos espermatikós .",
+          "C) Para los griegos, el logos espermatikós se pueden entender como una razón seminal y profunda.",
+          "D) El logos espermatikós es el elemento indestructible del individuo que se conserva en la especie.",
+          "E) El logos espermatikós de los estoicos es idéntico a la forma substantialis de la escolástica."
+        ],
+        "correct": 3,
+        "rationale": "Solución: Medularmente, el texto refiere el concepto de los antiguos estoicos conocido como logos espermatikós. Su definición implica lo que determina la perpetuidad de la especie."
+      },
+      {
+        "statement": "En síntesis, el texto trata acerca de",
+        "alternatives": [
+          "A) la controversia en la antigua Grecia sobre la sede del pensamiento y las sensaciones: el corazón (Aristóteles), el cerebro (Hipócrates).",
+          "B) la posición de Aristóteles sobre el rol del corazón en las sensaciones, a partir de un análisis de la estructura del cerebro de los animales.",
+          "C) la explicación anatómica de la epilepsia de Hipócrates y la refutación que logró hacer de la teoría elaborada por los médicos de Crotona.",
+          "D) las causas de la epilepsia, conocida antiguamente como la enfermedad sagrada, y el error de Aristóteles por seguir los argumentos de Platón.",
+          "E) la explicación de Hipócrates, según la cual el cerebro controla todo el cuerpo y es la sede de las sensaciones, como o había pensado Platón."
+        ],
+        "correct": 0,
+        "rationale": "Solución: A partir de una pregunta inicial, el texto explica las dos posiciones controvertidas en Grecia, la de Aristóteles y la de Hipócrates."
+      },
+      {
+        "statement": "El sentido de la palabra RALO es",
+        "alternatives": [
+          "A) difuso.",
+          "B) delimitado.",
+          "C) falso.",
+          "D) anacrónico.",
+          "E) exiguo."
+        ],
+        "correct": 4,
+        "rationale": "Solución: Al hablar de ralo conocimiento se incide en el carácter exiguo del mismo."
+      },
+      {
+        "statement": "¿Cuál de las siguientes aserciones es incompatible con el texto?",
+        "alternatives": [
+          "A) La mecánica euleriana contradice el cálculo infinitesimal.",
+          "B) Tanto Euler como Jean Bernouilli fueron grandes matemáticos.",
+          "C) El pensamiento ilustrado defiende un optimismo pragmático.",
+          "D) Los resultados científicos pueden tener aplicaciones bélicas.",
+          "E) Las teorías matemáticas experimentaron gran auge en el XVIII."
+        ],
+        "correct": 0,
+        "rationale": "Solución: La mecánica de Euler se apoya en el cálculo infinitesimal."
+      },
+      {
+        "statement": "Se infiere del texto que la osteoporosis",
+        "alternatives": [
+          "A) se puede curar con una dieta de calcio.",
+          "B) nunca se presenta antes de los 40 años.",
+          "C) poco tiene que ver con el calcio de los huesos.",
+          "D) es una enfermedad que está en retroceso.",
+          "E) tiene poca incidencia en los púberes . "
+        ],
+        "correct": 4,
+        "rationale": "Solución: Al hablar de los huesos como fondos de retiro, se implica que la osteoporosis es una enfermedad tardía."
+      },
+      {
+        "statement": "Si una niña ingiriera 1300 miligramos de calcio al día y se acostumbrara a hacer ejercicios con regularidad,",
+        "alternatives": [
+          "A) podría tener un esqueleto rígido e inalterable.",
+          "B) probablemente no sufriría luego de osteoporosis.",
+          "C) desarrollaría una leve osteoporosis a los 20 años.",
+          "D) iría en contra de las normas preventivas de salud.",
+          "E) sería imposible que sufra de alguna fractura."
+        ],
+        "correct": 1,
+        "rationale": "Solución: En ese caso, la niña estaría formando un excelente fondo de retiro para contrarrestar las dolencias del futuro."
+      }
+    ]
+  },
+  {
+    "type": "sentence_elimination",
+    "statement": "A. CRITERIO DE INATINGENCIA\nI) A veces, los electrones logran desprenderse de los átomos en los que se hallan y se desplazan libremente. II) Estos electrones libres, \"separados de sus átomos\", saltan de átomo en átomo. III) El libre movimiento de electrones en ciertas materias produce lo que conocemos como electricidad. IV) Una corriente eléctrica es un flujo de electrones a lo largo de un alambre de cobre o algún otro conductor. V) Si tiene una fuerza considerable, una descarga eléctrica puede llegar a producir la muerte.",
+    "alternatives": [
+      "A) I",
+      "B) V",
+      "C) III",
+      "D) II",
+      "E) IV"
+    ],
+    "correct": 2,
+    "rationale": "Solución: III"
+  },
+  {
+    "type": "sentence_elimination",
+    "statement": "B. CRITERIO DE REDUNDANCIA\nSe elimina la oración superflua en el conjunto: lo que dice ya está dicho en otra oración o está implicado en más de una oración.",
+    "alternatives": [
+      "A) III",
+      "B) II",
+      "C) I",
+      "D) IV",
+      "E) V"
+    ],
+    "correct": 3,
+    "rationale": "Solución: IV"
+  },
+  {
+    "type": "sentence_elimination",
+    "statement": "A. CRITERIO DE INATINGENCIA Se elimina la oración que no se refiere al tema clave o que habla de él tangencialmente. 1. I) A veces, los electrones logran desprenderse de los átomos en los que se hallan y se desplazan libremente. II) Estos electrones libres, \"separados de sus átomos\", saltan de átomo en átomo. III) El libre movimiento de electrones en ciertas materias produce lo que conocemos como electricidad. IV) Una corriente eléctrica es un flujo de electrones a lo largo de un alambre de cobre o algún otro conductor. V) Si tiene una fuerza considerable, una descarga eléctrica puede llegar a producir la muerte.",
+    "alternatives": [
+      "A) I",
+      "B) V",
+      "C) III",
+      "D) II",
+      "E) IV"
+    ],
+    "correct": 2,
+    "rationale": null
+  },
+  {
+    "type": "sentence_elimination",
+    "statement": "B. CRITERIO DE REDUNDANCIA Se elimina la oración superflua en el conjunto: lo que dice ya está dicho en otra oración o está implicado en más de una oración. 2. I) La física aristotélica se ocupaba fundamentalmente del cambio, el rasgo más asombroso de la naturaleza. II) El cambio, en la física aristotélica, se concebía como locomoción, esto es, cambio de lugar. III) De acuerdo con Aristóteles, el cambio físico se plasmaba en un eje temporal y podía estar motivado por una fuerza. IV) Para la explicación aristotélica, el tiempo era un factor insoslayable. V) La física de Aristóteles explicaba el cambio de lugar recurriendo a un conjunto de principios respaldados por las observaciones.",
+    "alternatives": [
+      "A) III",
+      "B) II",
+      "C) I",
+      "D) IV",
+      "E) V"
+    ],
+    "correct": 3,
+    "rationale": null
+  },
+  {
+    "type": "verbal_series",
+    "statement": "1. ¿Cuál de los siguientes vocablos no pertenece a la serie verbal?",
+    "alternatives": [
+      "A) bufido",
+      "B) balido",
+      "C) relincho",
+      "D) rugido",
+      "E) estruendo"
+    ],
+    "correct": 4,
+    "rationale": null
+  },
+  {
+    "type": "verbal_series",
+    "statement": "2. INEFABLE, INDECIBLE, INENARRABLE,",
+    "alternatives": [
+      "A) incomunicable",
+      "B) inaudible",
+      "C) insondable",
+      "D) inviable",
+      "E) imposible"
+    ],
+    "correct": 0,
+    "rationale": null
+  },
+  {
+    "type": "verbal_series",
+    "statement": "3. Luctuoso, deplorable, triste,",
+    "alternatives": [
+      "A) macilento.",
+      "B) pérfido.",
+      "C) aciago.",
+      "D) sucinto.",
+      "E) prolijo."
+    ],
+    "correct": 2,
+    "rationale": null
+  },
+  {
+    "type": "verbal_series",
+    "statement": "4. Necio, inteligente; sucio, pulcro; basto, refinado;",
+    "alternatives": [
+      "A) incapaz, inepto.",
+      "B) sereno, cansino.",
+      "C) ruin, abatido.",
+      "D) cobarde, valeroso.",
+      "E) austero, cicatero."
+    ],
+    "correct": 3,
+    "rationale": null
+  },
+  {
+    "type": "reading_comprehension",
+    "statement": "Contra lo que comúnmente se cree, el esqueleto no es una estructura rígida e inalterable. Cada año nuestro cuerpo reemplaza cerca del 20 por ciento del tejido esponjoso de los huesos, y nuestras actividades influyen sobre la salud de estos a cualquier edad. Algunas partes del hueso viejo se desintegran, y los huecos que aparecen deben ser llenados por hueso nuevo. Hasta alrededor de los 30 años de edad fabricamos hueso con gran eficiencia, de modo que tomar medidas saludables como hacer ejercicio e ingerir suficiente calcio ayuda a nuestro esqueleto a alcanzar su fortaleza máxima, la cual está genéticamente determinada. Nuestros huesos son como un fondo de retiro: cuanto más depositemos en él durante la infancia y la juventud, en mejor condición estaremos en las etapas posteriores de la vida, cuando necesitemos echar mano de nuestras reservas. Por desgracia, la mayoría de los niños no ahorra suficiente calcio. Entre los 9 y 19 años de edad, solo una de cada cinco niñas ingiere la dosis diaria recomendada de este mineral fabricante de hueso. Es una lástima, ya que 90 por ciento del proceso de formación acumulada de hueso ocurre antes de los 20 años. La deficiencia no solo entraña un alto riesgo de osteoporosis en el futuro; abundan los casos en que el precio se paga mucho antes. En un estudio reciente realizado por la Clínica Mayo se observó un alarmante incremento de fracturas en el antebrazo en niños, en comparación con la incidencia de hace 30 años. Suministrar calcio adicional a los niños puede ayudar a prevenir esas dolorosas lesiones. Unos investigadores del Centro Médico de la Universidad Estatal de Ohio publicaron los resultados de un estudio sobre el crecimiento esquelético de niñas de 8 a 13 años de edad durante un periodo de siete años. En promedio, todas ingerían con su dieta unos 800 miligramos de calcio al día: 500 miligramos menos de la dosis diaria recomendada para ese grupo de edad. La mitad de las niñas recibieron un complemento de calcio durante el lapso de siete años, y la otra mitad obtuvieron este mineral solo a través de los alimentos. “Observamos grandes beneficios con el suministro de calcio adicional, sobre todo durante la pubertad, cuando los niños crecen más”, señala el doctor Velimir Matkovic, director del estudio. Las niñas que recibieron el complemento del mineral no solo desarrollaron huesos más fuertes, sino que tuvieron una incidencia de fracturas 50 por ciento menor que la de las otras participantes.",
+    "questions": [
+      {
+        "statement": "6. Se infiere del texto que la osteoporosis",
+        "alternatives": [
+          "A) se puede curar con una dieta de calcio.",
+          "B) nunca se presenta antes de los 40 años.",
+          "C) poco tiene que ver con el calcio de los huesos.",
+          "D) es una enfermedad que está en retroceso.",
+          "E) tiene poca incidencia en los púberes . "
+        ],
+        "correct": 4,
+        "rationale": "Al hablar de los huesos como fondos de retiro, se implica que la osteoporosis es una enfermedad tardía."
+      },
+      {
+        "statement": "7. Si una niña ingiriera 1300 miligramos de calcio al día y se acostumbrara a hacer ejercicios con regularidad,",
+        "alternatives": [
+          "A) podría tener un esqueleto rígido e inalterable.",
+          "B) probablemente no sufriría luego de osteoporosis.",
+          "C) desarrollaría una leve osteoporosis a los 20 años.",
+          "D) iría en contra de las normas preventivas de salud.",
+          "E) sería imposible que sufra de alguna fractura."
+        ],
+        "correct": 1,
+        "rationale": "En ese caso, la niña estaría formando un excelente fondo de retiro para contrarrestar las dolencias del futuro."
+      }
+    ]
+  },
+  {
+    "type": "reading_comprehension",
+    "statement": "Nicholas Carr estudió Literatura en Dartmouth College y en la Universidad de Harvard y todo indica que fue en su juventud un voraz lector de buenos libros. Luego, como le ocurrió a toda su generación, descubrió el ordenador, el Internet, los prodigios de la gran revolución informática de nuestro tiempo, y no so lo dedicó buena parte de su vida a valerse de todos los servicios online y a navegar mañana y tarde por la red; además, se hizo un profesional y un experto en las nuevas tecnologías de la comunicación . Un buen día descubrió que había dejado de ser un buen lector. Su concentración se disipaba luego de una o dos páginas de un libro, y, sobre todo si aquello que leía era complejo y demandaba mucha atención y reflexión, surgía en su mente algo así como un recóndito rechazo a continuar con aquel empeño intelectual. Preocupado, tomó una decisión radical. A finales de 2007, él y su esposa abandonaron sus ultramodernas instalaciones de Boston y se fueron a vivir a una cabaña de las montañas de Colorado, donde no había telefonía móvil y el Internet llegaba tarde, mal y nunca. Allí, a lo largo de dos años, escribió el polémico libro que lo ha hecho famoso. Se titula en inglés The Shallows: What the Internet is Doing to Our Brains y, en español: Superficiales: ¿Qué está haciendo Internet con nuestras mentes? (Taurus, 2011). Lo acabo de leer, de un tirón, y he quedado fascinado, asustado y entristecido. Carr no es un renegado de la informática, no se ha vuelto un ludita contemporáneo que quisiera acabar con todas las computadoras, ni mucho menos. En su libro reconoce la extraordinaria aportación que servicios como el de Google, Twitter, Facebook o Skype prestan a la información y a la comunicación, el tiempo que ahorran, la facilidad con que una inmensa cantidad de seres humanos pueden compartir experiencias, los beneficios que todo esto acarrea a las empresas, a la investigación científica y al desarrollo económico de las naciones. Pero todo esto tiene un precio y, en última instancia, significará una transformación tan grande en nuestra vida cultural y en la manera de operar del cerebro humano como lo fue el descubrimiento de la imprenta por Johannes Gutenberg en el siglo XV que generalizó la lectura de libros, hasta entonces confinada en una minoría insignificante de clérigos, intelectuales y aristócratas. El libro de Carr es una reivindicación de las teorías del ahora olvidado Marshall McLuhan, a quien nadie hizo mucho caso cuando, hace más de medio siglo, aseguró que los medios no son nunca meros vehículos de un contenido, que ejercen una solapada influencia sobre éste, y que, a largo plazo, modifican nuestra manera de pensar y de actuar. Los defensores recalcitrantes del software alegan que se trata de una herramienta y que está al servicio de quien la usa y, desde luego, hay abundantes experimentos que parecen corroborarlo, siempre y cuando estas pruebas se efectúen en el campo de acción en el que los beneficios de aquella tecnología son indiscutibles: ¿quién podría negar que es un avance casi milagroso que, ahora, en pocos segundos, haciendo un pequeño clic con el ratón, un internauta recabe una información que hace pocos años le exigía semanas o meses de consultas en bibliotecas y a especialistas? Pero también hay pruebas concluyentes de que, cuando la memoria de una persona deja de ejercitarse porque para ello cuenta con el archivo infinito que pone a su alcance un ordenador, se entumece y debilita como los músculos que dejan de usarse. No es verdad que el Internet sea solo una herramienta. Es un utensilio que pasa a ser una prolongación de nuestro propio cuerpo, de nuestro propio cerebro, el que, también, de una manera discreta, se va adaptando poco a poco a ese nuevo sistema de informarse y de pensar, renunciando poco a poco a las funciones que este sistema hace por él y, a veces, mejor que él. No es extraño, por eso, que alguns fanáticos de la Web, como el profesor Joe OShea, filósofo de la Universidad de Florida, afirme: “Sentarse y leer un libro de cabo a rabo no tiene sentido. No es un buen uso de mi tiempo, ya que puedo tener toda la información que quiera con mayor rapidez a través de la Web. Cuando uno se vuelve un cazador experimentado en Internet, los libros son superfluos”. Lo atroz de esta frase no es la afirmación final, sino que el filósofo de marras crea que uno lee libros solo para “informarse”. Es uno de los estragos que puede causar la adicción frenética a la pantallita. De ahí, la patética confesión de la doctora Katherine Hayles, profesora de Literatura de la Universidad de Duke: “Ya no puedo conseguir que mis alumnos lean libros enteros”. Esos alumnos no tienen la culpa de ser ahora incapaces de leer La Guerra y la Paz o el Quijote. Acostumbrados a picotear información en sus computadoras, sin tener necesidad de hacer prolongados esfuerzos de concentración, han ido perdiendo el hábito y hasta la facultad de hacerlo, y han sido condicionados para contentarse con ese mariposeo cognitivo a que los acostumbra la red, con sus infinitas conexiones y saltos hacia añadidos y complementos, de modo que han quedado en cierta forma vacunados contra el tipo de atención, reflexión, paciencia y prolongado abandono a aquello que se lee, y que es la única manera de leer, gozando, la gran literatura. Pero no creo que sea solo la literatura a la que el Internet vuelve superflua: toda obra de creación gratuita, no subordinada a la utilización pragmática, queda fuera del tipo de conocimiento y cultura que propicia la Web. Sin duda que esta almacenará con facilidad a Proust, Homero, Popper y Platón, pero difícilmente sus obras tendrán muchos lectores. Tal vez haya exageraciones en el libro de Nicholas Carr, como ocurre siempre con los argumentos que defienden tesis controvertidas. Yo carezco de los conocimientos neurológicos y de informática para juzgar hasta qué punto son confiables las pruebas y experimentos científicos que describe en su libro. Pero este me da la impresión de ser riguroso y sensato, un llamado de atención que –para qué engañarnos – no será escuchado. Mario Vargas Llosa Más información, menos conocimiento (adaptado)",
+    "questions": [
+      {
+        "statement": "1. La frase «de un tirón» da a entender una lectura",
+        "alternatives": [
+          "A) comprensiva.",
+          "B) profunda.",
+          "C) lúdica.",
+          "D) ininterrumpida.",
+          "E) esforzada."
+        ],
+        "correct": 3,
+        "rationale": null
+      },
+      {
+        "statement": "2. La frase «voraz lector» se usa para describir una lectura",
+        "alternatives": [
+          "A) irregular.",
+          "B) asidua .",
+          "C) desordenada.",
+          "D) placentera.",
+          "E) tediosa."
+        ],
+        "correct": 1,
+        "rationale": null
+      },
+      {
+        "statement": "3. A partir de la lectura del libro de Nicholas Carr, Mario Vargas Llosa propugna centralmente que",
+        "alternatives": [
+          "A) se debe buscar una manera rápida de socavar definitivamente la era inaugurada por la revolución informática.",
+          "B) los ordenadores son los causantes de que la memoria humana haya sufrido estragos terribles e irreparables.",
+          "C) la superficialidad es el rasgo más sobresaliente de lo que se ha venido a denominar “inteligencia artificial”.",
+          "D) la buena lectura tiene como objetivo lograr un sólido conocimiento y no acumular la mera información.",
+          "E) el desarrollo vertiginoso del Internet ha vuelto superflua a una disciplina tradicional como la literatura."
+        ],
+        "correct": 3,
+        "rationale": null
+      },
+      {
+        "statement": "4. Luego de leer la versión castellana de The Shallows: What the Internet is Doing to Our Brains , Vargas Llosa quedó fascinado porque",
+        "alternatives": [
+          "A) nos presenta una imagen sombría del destino final de la naturaleza humana.",
+          "B) erige una sobria argumentación sobre lo que le pasa a la mente de los cibernautas.",
+          "C) describe una nueva manera de lograr erudición sobre asuntos de variada índole.",
+          "D) nos brinda una serie de datos sobre la neurología fácilmente comprensibles.",
+          "E) sustenta una vieja creencia acerca del carácter funesto de la tecnología informática."
+        ],
+        "correct": 1,
+        "rationale": null
+      },
+      {
+        "statement": "5. Mario Vargas Llosa cita al filósofo Joe OShea con el fin de ilustrar",
+        "alternatives": [
+          "A) una manera de penetrar en los clásicos de la literatura.",
+          "B) una falacia que confunde información con conocimiento.",
+          "C) una tesis sobre la utilidad de la búsqueda en Internet.",
+          "D) un error que consiste en soslayar el valor de Google.",
+          "E) una idea sobre el valor de la memoria humana."
+        ],
+        "correct": 1,
+        "rationale": null
+      },
+      {
+        "statement": "6. Al describir las ideas de McLuhan, Vargas Llosa las presenta como",
+        "alternatives": [
+          "A) una denuncia contra toda forma de tecnología de la información.",
+          "B) una defensa de los valores tradicionales de la literatura culta.",
+          "C) un ejemplo del poder de la imprenta en nuestra cultura occidental.",
+          "D) un alegato contra la superficialidad en la ciencia y en la filosofía.",
+          "E) una advertencia sobre el poder oculto de una nueva tecnología."
+        ],
+        "correct": 4,
+        "rationale": null
+      },
+      {
+        "statement": "7. Si un cibernauta declarara que le es imposible leer una novela como La guerra del fin del mundo ,",
+        "alternatives": [
+          "A) revelaría un desdén por la información.",
+          "B) causaría en Vargas Llosa gran fascinación.",
+          "C) demostraría un nivel superior de comprensión.",
+          "D) habría que volver a la edad de las cavernas.",
+          "E) el diagnóstico de Carr se vería refrendado."
+        ],
+        "correct": 4,
+        "rationale": null
+      },
+      {
+        "statement": "8. Si un estudiante de Literatura usara el Internet de modo muy austero,",
+        "alternatives": [
+          "A) sería imposible que desarrollara un nivel óptimo de memoria.",
+          "B) pronto caería en la vorágine de una lectura banal y superficial.",
+          "C) aún podría gozar de una lectura auténticamente profunda.",
+          "D) tendría una incapacidad para leer densas novelas históricas.",
+          "E) podría devenir en un crítico despiadado de todas las tecnologías."
+        ],
+        "correct": 2,
+        "rationale": null
+      }
+    ]
+  },
+  {
+    "type": "sentence_elimination",
+    "statement": "2. (I) El sistema nervioso tiene dos partes: el sistema nervioso central y el sistema nervioso periférico. (II) Los nervios del sistema periférico se pueden vincular al encéfalo ola médula. (III) El sistema nervioso central está formado por el encéfalo y la médula. (IV) El sistema nervioso periférico está formado por los nervios y éstos pueden ser craneales o raquídeos. (V) Los nervios craneales están unidos al encéfalo y los nervios raquídeos están unidos a la médula.",
+    "alternatives": [
+      "A) I",
+      "B) IV",
+      "C) II",
+      "D) V",
+      "E) III"
+    ],
+    "correct": 2,
+    "rationale": null
+  },
+  {
+    "type": "sentence_elimination",
+    "statement": "3. (I) En 1865, el monje Gregor Mendel llevó a cabo cuidadosos experimentos de hibridación y logró deducir las leyes de la herencia. (II) El ADN, la filamentosa sustancia de la herencia, fue descubierto por el suizo Johann Friedrich Miescher. (III) En un experimento químico rudimentario, Martha Chase y Alfred Herskey separaron las capas de proteínas del ADN en virus. (IV) James Watson y Francis Crack descubrieron la estructura helicoidal doble del ADN. (V) Marshall Nirenberg, Har Khorana y Robert Holley descifraron el código genético, el lenguaje que permite al ADN fabricar proteínas.",
+    "alternatives": [
+      "A) I",
+      "B) III",
+      "C) II",
+      "D) V",
+      "E) IV"
+    ],
+    "correct": 0,
+    "rationale": null
+  },
+  {
+    "type": "sentence_elimination",
+    "statement": "4. (I) Referirse a una lengua nacional como la “lengua francesa” o “lengua italiana” implica hacer abstracción de las variantes para obtener una generalización. (II) La lengua nacional o común es la lengua oficial reconocida por el Estado y de conocimiento y uso general en todo el territorio. (III) Repetidas veces se ha intentado crear una lengua artificial muy simple con el fin de que fuera el instrumento de comunicación de todas las naciones . (IV) En su origen, la lengua nacional fue una lengua regional que por razones políticas o culturales se impuso a todas las otras hablamos locales . (V) El desarrollo de un Estado implica el crecimiento y desarrollo de la lengua nacional, sobre todo, en el nivel léxico.",
+    "alternatives": [
+      "A) IV",
+      "B) II",
+      "C) V",
+      "D) III",
+      "E) I"
+    ],
+    "correct": 4,
+    "rationale": null
+  },
+  {
+    "type": "sentence_elimination",
+    "statement": "5. (I) El lenguaje es una facultad universal caracterizada, entre otras cosas, por la unión de significantes y significados en signos arbitrarios. II) La variación del lenguaje se puede estudiar provechosamente a partir de su uso en diferentes contextos sociales. III) Se ha descubierto que las personas parecen cambiar sus patrones lingüísticos conforme cambian los contextos sociales. IV) Por ejemplo, en un contexto informal se utilizará ciertos registros lingüísticos V) En cambio, los contextos más solemnes exigirán registros lingüísticos distintos.",
+    "alternatives": [
+      "A) I",
+      "B) III",
+      "C) V",
+      "D) II",
+      "E) IV"
+    ],
+    "correct": 0,
+    "rationale": null
+  },
+  {
+    "type": "verbal_series",
+    "statement": "REFRENDAR, CONFIRMAR, COMPROBAR",
+    "alternatives": [
+      "A) corroborar",
+      "B) identificar",
+      "C) describir",
+      "D) experimentar",
+      "E) analizar"
+    ],
+    "correct": 0,
+    "rationale": null
+  },
+  {
+    "type": "verbal_series",
+    "statement": "INTROVERTIDO, RETRAÍDO, RESERVADO",
+    "alternatives": [
+      "A) pusilánime",
+      "B) ensimismado",
+      "C) apático",
+      "D) indolente",
+      "E) impertérrito"
+    ],
+    "correct": 1,
+    "rationale": null
+  },
+  {
+    "type": "verbal_series",
+    "statement": "MEDULAR, ESENCIAL, FUNDAMENTAL",
+    "alternatives": [
+      "A) prístino",
+      "B) gravitante",
+      "C) formal",
+      "D) cabal",
+      "E) ancilar"
+    ],
+    "correct": 1,
+    "rationale": null
+  },
+  {
+    "type": "verbal_series",
+    "statement": "Elija la palabra que no corresponde a la serie verbal.",
+    "alternatives": [
+      "A) imputar",
+      "B) incriminar",
+      "C) imbuir",
+      "D) acusar",
+      "E) achacar"
+    ],
+    "correct": 2,
+    "rationale": null
+  },
+  {
+    "type": "verbal_series",
+    "statement": "BANQUETE, ÁGAPE, CONVITE",
+    "alternatives": [
+      "A) sarao",
+      "B) algazara",
+      "C) ceremonia",
+      "D) pompa",
+      "E) efemérides"
+    ],
+    "correct": 0,
+    "rationale": null
+  },
+  {
+    "type": "reading_comprehension",
+    "statement": "Siendo objeto de general censura el régimen político a la sazón imperante, se produjo una revolución; al frente de este movimiento revolucionario se instauraron como caudillos cincuenta y un hombres, diez en el Pireo y once en la capital, a cargo de los cuales estaba la administración pública en lo referente al ágora y a los asuntos municipales, mientras que treinta se instauraron con plenos poderes al frente del gobierno en general. Se daba la circunstancia de que algunos de estos eran allegados y conocidos míos, y en consecuencia requirieron al punto mi colaboración, por entender que se trataba de actividades que me interesaban. La reacción mía no es de extrañar, dada mi juventud; yo pensé que ellos iban a gobernar la ciudad sacándola de un régimen de vida injusto y llevándola a un orden mejor, de suerte que les dediqué mi más apasionada atención, a ver lo que conseguían. Y vi que, en poco tiempo, hicieron parecer bueno como una edad de oro el anterior régimen. Entre otras tropelías que cometieron, estuvo la de enviar a mi amigo, el anciano Sócrates, de quien yo no tendría reparo en afirmar que fue el más justo de los hombres de su tiempo, a que, en unión de otras personas, prendiera a un ciudadano para conducirle por la fuerza a ser ejecutado; orden dada con el fin de que Sócrates quedara, de grado o por fuerza, complicado en sus crímenes; por cierto que él no obedeció, y se arriesgó a sufrir toda clase de castigos antes que hacerse cómplice de sus iniquidades. Viendo, digo, todas estas cosas y otras semejantes de la mayor gravedad, lleno de indignación me inhibí de las torpezas de aquel periodo. No mucho tiempo después cayó la tiranía de los Treinta y todo el sistema político imperante. De nuevo, aunque ya menos impetuosamente, me arrastró el deseo de ocuparme de los asuntos públicos de la ciudad. Ocurrían desde luego también bajo aquel gobierno, por tratarse de un período turbulento, muchas cosas que podrían ser objeto de desaprobación; y nada tiene de extraño que, en medio de una revolución, ciertas gentes tomaran venganzas excesivas de algunos adversarios. No obstante los entonces repatriados observaron una considerable moderación. Pero dio también la casualidad de que algunos de los que estaban en el poder llevaron a los tribunales a mi amigo Sócrates, a quien acabo de referirme, bajo la acusación más inicua y que menos le cuadraba: en efecto, unos acusaron de impiedad y otros condenaron y ejecutaron al hombre que un día no consintió en ser cómplice del ilícito arresto de un partidario de los entonces proscritos, en ocasión en que ellos padecían las adversidades del destierro. Al observar yo cosas como estas y a los hombres que ejercían los poderes públicos, así como las leyes y las costumbres, cuanto con mayor atención lo examinaba, al mismo tiempo que mi edad iba adquiriendo madurez, tanto más difícil consideraba administrar los asuntos públicos con rectitud; no me parecía, en efecto, que fuera posible hacerlo sin contar con amigos y colaboradores dignos de confianza; encontrar quienes lo fueran no era fácil, pues ya la ciudad no se regía por las costumbres y prácticas de nuestros antepasados, y adquirir otros nuevos con alguna facilidad era imposible; por otra parte, tanto la letra como el espíritu de las leyes se iba corrompiendo y el número de ellas crecía con extraordinaria rapidez. De esta suerte yo, que al principio estaba lleno de entusiasmo por dedicarme a la política, al volver mi atención a la vida pública y verla arrastrada en todas direcciones por toda clase de corrientes, terminé por verme atacado de vértigo, y si bien no prescindí de reflexionar sobre la manera de poder introducir una mejora en ella, y en consecuencia en la totalidad del sistema político, si dejé, sin embargo, de esperar sucesivas oportunidades de intervenir activamente; y terminé por adquirir el convencimiento con respecto a todos los Estados actuales de que están, sin excepción, mal gobernados; en efecto, lo referente a su legislación no tiene remedio sin una extraordinaria reforma, acompañada además de suerte para implantarla. Y me vi obligado a reconocer, en alabanza de la verdadera filosofía, que de ella depende el obtener una visión perfecta y total de lo que es justo, tanto en el terreno político como en el privado, y que no cesará en sus males el género humano hasta que los que son recta y verdaderamente filósofos ocupen los cargos públicos, o bien los que ejercen el poder en los Estados lleguen, por especial favor divino, a ser filósofos en el auténtico sentido de la palabra. Platón Carta séptima (fragmento)",
+    "questions": [
+      {
+        "statement": "1. Medularmente, Platón propugna que",
+        "alternatives": [
+          "A) en periodos turbulentos ocurren hechos que reclaman una desaprobación.",
+          "B) cuando un gobierno es censurado, se justifica hacer una revolución política.",
+          "C) la única garantía de justicia en un gobierno reside en el criterio filosófico.",
+          "D) el entusiasmo por la política solamente cabe en los espíritus adocenados.",
+          "E) la intervención activa en la política es un deber de toda persona sabia."
+        ],
+        "correct": 2,
+        "rationale": "Solución: Luego de varias consideraciones, Platón llega a la conclusión de que el filósofo debe ser gobernante o que el gobernante debe ser filósofo."
+      },
+      {
+        "statement": "2. En el texto, VÉRTIGO se entiende como",
+        "alternatives": [
+          "A) insania.",
+          "B) espasmo.",
+          "C) pavor.",
+          "D) desasosiego.",
+          "E) frenesí."
+        ],
+        "correct": 3,
+        "rationale": "Solución: Del entusiasmo inicial por la política, Platón se vio atacado de vértigo, esto es, de turbación espiritual, de desasosiego."
+      },
+      {
+        "statement": "3. Resulta incompatible con la Carta séptima afirmar que",
+        "alternatives": [
+          "A) en la historia política efectiva abunda el mal gobierno.",
+          "B) Sócrates desobedeció a los tiranos y evitó la iniquidad.",
+          "C) Platón era un enemigo radical de todos los treinta tiranos.",
+          "D) Sócrates era el más justo de los atenienses de su época.",
+          "E) una plétora de leyes no es garantía de gobierno prudente."
+        ],
+        "correct": 2,
+        "rationale": "Solución: Dice Platón que tenía amigos entre los treinta tiranos."
+      },
+      {
+        "statement": "4. Se deduce del texto que quienes llevaron a Sócrates al tribunal obraron con",
+        "alternatives": [
+          "A) candidez.",
+          "B) sutileza.",
+          "C) equidad.",
+          "D) objetividad.",
+          "E) felonía."
+        ],
+        "correct": 4,
+        "rationale": "Solución: Sócrates se enfrentó con los Treinta tiranos y no se comprometió en la ejecución de un político. Luego, los amigos de este político enjuician a Sócrates. Hay felonía en esa acción."
+      },
+      {
+        "statement": "5. Si un Rey tuviera la acuidad filosófica para determinar la justicia,",
+        "alternatives": [
+          "A) las leyes crecerían con suma rapidez.",
+          "B) estaría en los antípodas de Sócrates.",
+          "C) sus subordinados no sufrirían tropelías.",
+          "D) la democracia se instauraría en la ciudad.",
+          "E) se comportaría como el régimen de los Treinta."
+        ],
+        "correct": 2,
+        "rationale": "Solución: La visión filosófica, según el divino Platón, nos da una intelección total de lo que es justo. En consecuencia, no se cometerían tropelías."
+      }
+    ]
+  },
+  {
+    "type": "sentence_elimination",
+    "statement": "4. (I) Referirse a una lengua nacional como la “lengua francesa” o “lengua italiana” implica hacer abstracción de las variantes para obtener una generalización. (II) La lengua nacional o común es la lengua oficial reconocida por el Estado y de conocimiento y uso general en todo el territorio. (III) Repetidas veces se ha intentado crear una lengua artificial muy simple con el fin de que fuera el instrumento de comunicación de todas las naciones . (IV) En su origen, la lengua nacional fue una lengua regional que por razones políticas o culturales se impuso a todas las otras hablas locales . (V) El desarrollo de un Estado implica el crecimiento y desarrollo de la lengua nacional, sobre todo, en el nivel léxico.",
+    "alternatives": [
+      "A) IV",
+      "B) II",
+      "C) V",
+      "D) III",
+      "E) I"
+    ],
+    "correct": 3,
+    "rationale": "Solución: El tema generales la lengua nacional. La oración III es eliminada por no pertinen... "
+  },
+  {
+    "type": "sentence_elimination",
+    "statement": "5. (I) El lenguaje es una facultad universal caracterizada, entre otras cosas, por la unión de significantes y significados en signos arbitrarios. II) La variación del lenguaje se puede estudiar provechosamente a partir de su uso en diferentes contextos sociales. III) Se ha descubierto que las personas parecen cambiar sus patrones lingüísticos conforme cambian los contextos sociales. IV) Por ejemplo, en un contexto informal se utilizará ciertos registros lingüísticos V) En cambio, los contextos más solemnes exigirán registros lingüísticos distintos.",
+    "alternatives": [
+      "A) I",
+      "B) III",
+      "C) V",
+      "D) II",
+      "E) IV"
+    ],
+    "correct": 0,
+    "rationale": "Solución: Se elimina la oración I porque no toca el tema del conjunto: el lenguaje y el contexto social."
+  },
+  {
+    "type": "verbal_series",
+    "statement": "4. Elija la palabra que no corresponde a la serie verbal.",
+    "alternatives": [
+      "A) imputar",
+      "B) incriminar",
+      "C) imbuir",
+      "D) acusar",
+      "E) achacar"
+    ],
+    "correct": 2,
+    "rationale": null
+  },
+  {
+    "type": "verbal_series",
+    "statement": "5. BANQUETE, ÁGAPE, CONVITE,",
+    "alternatives": [
+      "A) sarao",
+      "B) algazara",
+      "C) ceremonia",
+      "D) pompa",
+      "E) efemérides"
+    ],
+    "correct": 0,
+    "rationale": null
+  }
+]

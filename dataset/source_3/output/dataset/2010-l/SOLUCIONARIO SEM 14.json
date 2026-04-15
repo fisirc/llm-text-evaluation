@@ -1,0 +1,634 @@
+[
+  {
+    "type": "reading_comprehension",
+    "statement": "En agosto de 1945, en las ciudades japonesa s de Hiroshima y Nagasaki, estalló una nueva amenaza para la humanidad. El 24 de julio de 1945, durante la Conferencia de Potsdam (Alemania), el presidente estadounidense, Harry S. Truman, le dice al líder soviético Iósif Stalin que posee un arma de tal poder que, para lo s japoneses, podría significar “una lluvia de destrucción desde el aire y que nada igual se ha visto en la tierra”. El dirigente comunista escucha con atención, pero ignora de qué se trata. La era nuclear, en realidad, se había echado a andar ocho días antes de esa reunión cumbre. El 16 de julio, en un paraje conoci do como Alamogordo, en Nuevo México, se llevó a cabo la primera detonación de prueba bajo la dirección del cien tífico Julius Robert Oppenheimer. El resultado, impresionante y aterrador, representó el triunfo de las investigaciones iniciadas en total secreto en 1942, con el nombre clave de Proyecto Manhattan. Dado que los norteamericanos e ingleses estimaban que Japón no se iba a rendir con facilidad y que invadirlo tomaría tiempo y más hombres (las batallas de Iwo Jima y Okinawa serían una muestra de ello ),ni el presidente Truman ni su homólogo británico, Winston Churchill, escucharon, el 6 de agosto de 1945, a quienes se oponían al ataque contra Hiroshima usando la nueva arma: la bomba atómica.\n\nA las 8:15 y 17 segundos de la mañana del 6 de agosto de 1945, la primera bomba atómica de la historia, llamada “Little Boy”, se desprende de un bombardero. El blanco es la ciudad de Hiroshima, más exactamente un pequeño puente sobre el apacible río Ota. La nave se aleja velozmente del punto cero. La explosión se verifica 43 segundos más tarde. En caída libre y a una altura de 565 metros, “Littl e Boy” estalla y genera una energía equivalente a una carga de 20 mil toneladas de TNT. Instantáneamente, miles de seres humanos se desintegran; de quienes permanecen inmóviles sólo queda una sombra humana de partículas de carbón en el lugar. Otros miles logran sobrevivir unos pocos segundos, para ser golpeados por escombros o sepultados por edificios que caen. Otros logran arrojarse a los ríos, pero éstos están hirviendo. En la horrenda vorágine mueren 200 000 personas; la mitad de la población diurna de la ciudad. Desaparecen unos 60 000 edificios, fuegos dispersos se convierten en incendios mayores y la contaminación radioactiva inicia brutalmente su inhumana y silenciosa labor de provocar una muerte lenta. Harry S. Truman, el trigésimo tercer presidente de EEUU, es el único personaje de la historia moderna que tomó una de las más difíciles decisiones a las que nunca líder alguno se había enfrentado: “presionar el bot ón rojo” para detonar una bomba atómica, el arma del juicio final. Truman es un personaje que merecería la condena de los hombres de paz.",
+    "questions": [
+      {
+        "statement": "En torno a la bomba atómica, el texto nos brinda algunas informaciones objetivas (hechos) y algunas opiniones. ¿Cuál de las siguientes opciones encierra un hecho, no una opinión?",
+        "alternatives": [
+          "A) Para Harry S. Truman, decidir presionar el botón rojo debió de ser muy difícil.",
+          "B) En la mañana del 6 de agosto de 1945, se lanzó la primera bomba atómica.",
+          "C) Los norteamericanos pensaban que Japón no se iba a rendir con facilidad.",
+          "D) La muerte lenta ocasionada por la bomba debió de ser la más letal en la historia.",
+          "E) Harry S. Truman es un personaje que merecería nuestra mayor condena moral."
+        ],
+        "correct": 1,
+        "rationale": "Se trata de una información objetiva, no expresa una opinión ni ninguna conjetura."
+      },
+      {
+        "statement": "Medularmente, el texto gira entorno",
+        "alternatives": [
+          "A) a una prolija definición de la famosa primera bomba at ómica, llamada Little Boy, y la explicación de sus delet éreos efectos sociales",
+          "B) al inusual valor del presidente norteamericano Harry S. Truman como personaje irrelevante de la moderna historia occidental",
+          "C) a cómo un apacible puente llamado Ota se convirtió intempestivamente en un lugar terrorífico a causa de una guerra injusta",
+          "D) a la reunión en Potsdam (Alemani",
+          "A) en la que los aliados determinan el ataque final en contra de Alemania y Japón",
+          "E) al terrible carácter de la decisión de Harry S. Truman de aplicar la bomba atómica sobre Hiroshima."
+        ],
+        "correct": 4,
+        "rationale": "Si bien el contexto es la segunda gran guerra, la parte medular del texto es la decisión de Harry S. Truman de aplicar la bomba atómica sobre Hiroshima. La descripción nos presenta el carácter terrible de ese acto."
+      },
+      {
+        "statement": "Se infiere que, para un belicista, la actuación de Harry S. Truman sería",
+        "alternatives": [
+          "A) irresoluta.",
+          "B) justificable.",
+          "C) irracional.",
+          "D) ominosa.",
+          "E) inescrutable."
+        ],
+        "correct": 1,
+        "rationale": "Un belicista podría justificar la acción de Truman sobre consideraciones de la polemología o ciencia de la guerra."
+      },
+      {
+        "statement": "El proyecto Manhattan liderado por Oppenheimer",
+        "alternatives": [
+          "A) duró un lapso de tres años.",
+          "B) se llevó a cabo en un lustro.",
+          "C) se inició en la ciudad de Potsdam .",
+          "D) se llevó a cabo en Canadá.",
+          "E) fue recusado por Stalin."
+        ],
+        "correct": 0,
+        "rationale": "Empezó en 1942 y concluyó en 1945; ergo, duró 3 años."
+      },
+      {
+        "statement": "Se infiere del texto que el líder comunista, en 1945, era",
+        "alternatives": [
+          "A) muy amigo de los japoneses.",
+          "B) superior a Winston Churchill.",
+          "C) el adversario de la paz mundial.",
+          "D) aliado de los norteamericanos.",
+          "E) un enemigo de Harry S. Truman."
+        ],
+        "correct": 3,
+        "rationale": "Dado que participa en la conferencia en Potsdam, es un aliado de USA y Gran Bretaña."
+      },
+      {
+        "statement": "El objetivo que perseguía Truman con las bombas atómicas era",
+        "alternatives": [
+          "A) intimidar a los alemanes con las bombas nucleares.",
+          "B) conseguir el apoyo incondicional de Winston Churchill.",
+          "C) arrasar contra todo el territorio del imperio japonés.",
+          "D) conseguir que Japón se rindiera con mayor rapidez.",
+          "E) lograr la hegemonía absoluta en todo el mundo."
+        ],
+        "correct": 3,
+        "rationale": "Con las bombas, Truman quería garantizar la rendición rápida de Japón para evitar una guerra prolongada y muy costosa para los aliados."
+      },
+      {
+        "statement": "El comentario final del autor sobre el presidente norteamericano se puede cimentar sobre bases",
+        "alternatives": [
+          "A) económicas.",
+          "B) ideológicas.",
+          "C) prácticas.",
+          "D) tecnológicas.",
+          "E) éticas."
+        ],
+        "correct": 4,
+        "rationale": null
+      }
+    ]
+  },
+  {
+    "type": "reading_comprehension",
+    "statement": "El genoma es la secuencia completa de ADN que contienen las células humanas. Es el acervo genético de nuestra especie, el libro de nuestra información hereditaria, la que configura nuestras características fundamentales anatómicas y fisiológicas, y en la que también están codificadas algunas graves enfermedades. En 1998 comenzó el proyecto público internacional denominado Proyecto Genoma Humano (PGH), un esfuerzo coordinado internacionalmente cuyo objetivo era secuenciar el ADN humano: conocer el orden en el que se disponían los nucleótidos en nuestras cadenas de ADN. En febrero de 2001 se publicó el borrador inicial del genoma humano, por PGH y la empresa privada Celera Genomics, en las prestigiosas revistas científicas Nature (Inglaterra) y Science (USA), respectivamente. En abril de 2003 se dio por finalizado el proyecto; sin embargo, sus conclusiones continúan revisándose. Hoy se sabe que el genoma humano contiene unos 3.000 millones de nucleótidos. Está formado por alrededor de 25.000 genes que codifican proteínas. El tamaño de los genes es variable; de media contienen unos 3.000 nucleótidos. Cada persona comparte un 99,99% del mapa genético con el resto de la humanidad. El 0,01% restante (unas 1.250 letras de ADN) marca las diferencias entre unos y otros. Se da la paradoja de que las personas de grupos étnicos diferentes podrían tener más en común, genéticamente hablando, que individuos de un mismo grupo étnico. El número de genes ha resultado sorprendente, toda vez que se partía de una estimación de 100.000. Aproximadamente una cuarta parte de nuestro genoma es una región casi desierta o con muy pocos genes que codifiquen proteínas. Por cromosomas, la densidad de genes resulta más elevada. No deja de resultar curioso que una planta de la familia de la mostaza, Arabidopsis thaliana, nos supere en número de genes, o que nuestro genoma solo sobrepase en unos cientos de genes al gusano de tierra Caernohabditis elegans. Sin embargo, nuestra complejidad fisiológica, claramente superior a los gusanos y plantas, no radica en el número de genes, sino en la existencia de mecanismos epigenéticos que permiten multiplicar el potencial de codificación del genoma. Se ha descubierto que un gen humano puede producir cinco, seis o incluso más proteínas a través de distintos procesos. También se ha encontrado que más de un tercio del genoma (el 35,3%) contiene secuencias repetidas. Un hecho que indica que hay que estudiar con más profundidad el denominado “ADN basura” (zonas que no contienen genes, como los extremos de los cromosomas, y fragmentos redundantes que no codifican proteínas), que podría tener una función en el mantenimiento de la estructura y el dinamismo de los cromosomas. Nuestros cromosomas albergan un 5% de genes activos, que codifican proteínas, y un 95% de secuencias que no producen proteínas y cuya función es un enigma.",
+    "questions": [
+      {
+        "statement": "1. Medularmente, el autor del texto intenta explicar",
+        "alternatives": [
+          "A) las conclusiones del Proyecto Genoma Humano.",
+          "B) el rol del PGH y las diferencias entre las etnias.",
+          "C) el enigma del “ADN basura” y sus implicancias.",
+          "D) las diferencias genéticas entre los seres vivos.",
+          "E) el ordenamiento de la secuencia de ADN humano."
+        ],
+        "correct": 0,
+        "rationale": "A lo largo del texto se explican los resultados a los que arribó el Proyecto Genoma Humano; teniendo en cuenta que sus resultados todavía se siguen revisando."
+      },
+      {
+        "statement": "2. Según el autor del texto, la función estructural del “ADN basura” es",
+        "alternatives": [
+          "A) solo una hipótesis.",
+          "B) un hecho conocido.",
+          "C) algo incontrastable.",
+          "D) un elemento perfecto.",
+          "E) una paradoja más."
+        ],
+        "correct": 0,
+        "rationale": "En el texto se sostiene que el “ADN basura” podría tener una función en el mantenimiento de la estructura y el dinamismo de los cromosomas; por lo tanto, el planteamiento es solo una conjetura."
+      },
+      {
+        "statement": "3. Según el texto, la complejidad fisiológica de un ser vivo está vinculada con",
+        "alternatives": [
+          "A) la cantidad de genes heredados por el organismo a lo largo del tiempo.",
+          "B) el mantenimiento de la estructura genética por parte de genes inactivos.",
+          "C) la densidad genética en los extremos de los cromosomas que contiene.",
+          "D) los procesos multiplicadores de codificación de proteínas en los genes.",
+          "E) el 0,01% del mapa genético que diferencia a los seres vivos del planeta."
+        ],
+        "correct": 3,
+        "rationale": "La complejidad fisiológica radica en la existencia de mecanismos epigenéticos; éstos permiten multiplicar el potencial de codificación del genoma, lo que implica la mayor producción de proteínas por parte del gen ."
+      }
+    ]
+  },
+  {
+    "type": "sentence_elimination",
+    "statement": "I) El Síndrome de Barthes un raro desorden genético ligado al crom osoma X que\nafecta el metabolismo lipídico en los varones. II) Los varones con Barth se\ncaracterizan por presentar hi potonía (bajo tono muscular) y cardiomiopatía dilatada\n(debilidad del músculo del corazón que implica respiración dificultosa) dentro de los\nprimeros meses de nacido. III) Otra caracter ística importante del Síndrome de Barth\nes que incluye las infecciones bacterianas debido a la neutropenia (una reducción\ndel número de glóbulos blancos llamados neutrófilos). IV) El Síndrome de Barth\nocurre en diferentes grupos étnicos y tiene una incidencia de solo 1 cada 300.000 a 400.000 nacimientos. V) Comúnmente, los neonatos que padecen el síndrome de Barth\npresentan dificultades respiratoria s y tono muscular inferior al normal.",
+    "alternatives": [
+      "A) I",
+      "B) V",
+      "C) III",
+      "D) IV",
+      "E) II"
+    ],
+    "correct": 1,
+    "rationale": "El tema es el Síndrome de Barth. La oración V esta contenida en la II. Se elimina por redundancia."
+  },
+  {
+    "type": "sentence_elimination",
+    "statement": "2. I) Hacia la tercera década del siglo XX, surge en Alemania el existencialismo y de allí\nse difunde por el resto de Europa, especialmente en Francia. II) Esta escuela podría\ninterpretarse como una reacción ante un período de crisis de conciencia a nivel\nsocial y cultural. III) Los existencialistas afirman que el hombre es un ser \"arrojado al\nmundo\", esta frase parece expresar el sentir europeo de aquellos años y puede ser\ninterpretada de modo literal. IV) Los europeos se sienten arrojados en mundo\ninhóspito, arrojados de sus hogares destruidos y de la seguridad de sus creencias,\nvalores e ideales. V) Para los marxistas el existencialismo era una expresión de la\ncrisis del liberalismo burgués de la época.",
+    "alternatives": [
+      "A) I",
+      "B) IV",
+      "C) III",
+      "D) II",
+      "E) V"
+    ],
+    "correct": 4,
+    "rationale": "El tema es el Existencialismo. La oración V se elimina por impertinencia."
+  },
+  {
+    "type": "reading_comprehension",
+    "statement": "La educación, con sus programas y métodos, debe consistir en lograr que el ser humano llegue a ser sujeto, se construya como persona, transforme el mundo, y entable con el entorno y con los demás relaciones de comunicación y reciprocidad. Sin embargo, esto no se puede conseguir hoy día simplemente con métodos peda gógicos tradicionales basados en el profesor y su exposición de contenidos, sino que es necesario hacer un cambio en la polarización de los protagonistas del hecho educativo. Como señala Freire, la educación debería solventar la diatriba, la oposición educador-educando y basarse en una concepción que abarque de forma integradora ambos polos, por otro lado, tradicionalmente antagonistas. Y es que la educación ya no puede ser el acto de depositar, de narrar, de transferir conocimientos y valores a los alumnos, sino ser un acto eminentemente cognoscente, a través del cual, los alumnos dejen de ser dóciles receptores, auténticos “silos pasivos de conocimiento”, especialmente en el ámbito universitario. Antes bien, los procesos pedagógicos que se desarrollen en la Universidad deberían transformar a los alumnos en personas activas, en investigadores críticos, siempre en diálogo con el educador. Este debe asumir un papel eminentemente facilitador y, a su vez, ser un investigador crítico de lo que ocurre en su aula. Desde esta perspectiva, como una meta ideal a conseguir, la pedagogía debe propender a reducir la importancia del docente lo más posible, de modo que, en lugar de desempeñar el papel de motor de l engranaje pedagógico pase a ser el organizador del medio social, planificando situaciones que faciliten el intercambio de experiencias y conocimientos, la resolución de problemas, etc. Según nuestra opinión, la educación, en la que se incluye la enseñanza superior, debería caminar hacia otros entornos y concepciones, así como ceder protagonismo al alumno y ser problematizadora, es decir, que desarrolle el poder de captación y comprensión del mundo que se presenta, no ya como una realidad estática sino como una realidad dinámica, en transformación; siempre con el fin último de lograr aprendizajes autónomos, independientes. Es que no podemos pretender que los estudiantes aprendan lo que reciben ya elaborado, ya que, más que entregar a lo s estudiantes una serie de soluciones terminadas y terminales, el profesor debería ensayar con ellos formas diferentes de resolver el problema y motivarlos para que cuestionen, formu len y comprendan. Hablamos de una educación que desarrolle procesos críticos de enseñanza y aprendizaje; que haga apuesta de cidida por el cambio; que despierte la creatividad; que presente las situaciones como problemas a resolver; que considere el diálogo como aspecto fundamental; que estimule la reflexión, etc.",
+    "questions": [
+      {
+        "statement": "1. ¿Cuál es la idea principal del texto?",
+        "alternatives": [
+          "A) La educación hasta el día de hoy, incluida la del nivel superior de la universidad, ha seguido los enfoques tradicionales.",
+          "B) La oposición educador-educando es la pr edominante hoy en día, pero no sirve para las metas más altas de la humanidad.",
+          "C) La educación debe propender a formar sere s humanos íntegros y, por ello, se debe fomentar el espíritu crítico y la creatividad.",
+          "D) La pedagogía debe t ender a reducir la importancia de los docentes y dar más protagonismo a los educandos.",
+          "E) Fundamentalmente, la educación debe ser el acto y el mecanismo de transferir conocimientos y valores sociales."
+        ],
+        "correct": 2,
+        "rationale": "La idea principal consiste en que la educación debe lograr que el ser humano llegue a ser sujeto, se construya como persona, transforme el mundo y entable con el entorno y con los demás relaciones de comunicación y reciprocidad, para ello el modelo tradicional no sirve y debe usarse uno en que el educando es protagonista de su aprendizaje."
+      },
+      {
+        "statement": "2. En el texto, el término SILO tiene el sentido de",
+        "alternatives": [
+          "A) depósito.",
+          "B) agujero.",
+          "C) lugar.",
+          "D) tesoro.",
+          "E) vacío."
+        ],
+        "correct": 0,
+        "rationale": "La educación ya no puede ser el acto de depositar o de transferir conocimientos y valores a los educandos, debe ser un acto cognoscente por el cual los educandos dejen de ser dóciles receptores, auténticos silos o receptores pasivos de conocimiento, es decir recipientes que reciben conocimientos."
+      }
+    ]
+  },
+  {
+    "type": "reading_comprehension",
+    "statement": "La educación ya no puede ser el acto de depositar o de transferir conocimientos y valores a los educandos, debe ser un acto cognoscente por el cual los educandos dejen de ser dóciles receptores, auténticos silos o receptores pasivos de conocimiento, es decir recipientes que reciben conocimientos.",
+    "questions": [
+      {
+        "statement": "En el texto, el término SILO tiene el sentido de",
+        "alternatives": [
+          "A) depósito.",
+          "B) agujero.",
+          "C) lugar.",
+          "D) tesoro.",
+          "E) vacío."
+        ],
+        "correct": 0,
+        "rationale": "La educación ya no puede ser el acto de depositar o de transferir conocimientos y valores a los educandos, debe ser un acto cognoscente por el cual los educandos dejen de ser dóciles receptores, auténticos silos o receptores pasivos de conocimiento, es decir recipientes que reciben conocimientos."
+      },
+      {
+        "statement": "Marque la alternativa que es incompatible con el texto.",
+        "alternatives": [
+          "A) La universidad tiene una educación de tipo tradicional.",
+          "B) En la educación tradicional el profesor es el protagonista.",
+          "C) La educación debe propugnar los valores recíprocos.",
+          "D) En la educación tradicional el profesor es un facilitador.",
+          "E) El autor plantea reducir el papel del docente en el aula."
+        ],
+        "correct": 3,
+        "rationale": "En el modelo tradicional el aprendizaje se concibe como la transferencia de conocimientos. En el modelo que se propone, el educador tiene un papel eminentemente facilitador, planifica situaciones que facilitan el intercambio de conocimientos."
+      },
+      {
+        "statement": "Se colige del texto que para acabar con la oposición educador-educando en la educación universitaria",
+        "alternatives": [
+          "A) el alumno debe adoptar un papel activo en la construcción del saber.",
+          "B) el docente debe ser un gran investigador de su entorno sociocultural.",
+          "C) la enseñanza tiene que llegar al nivel de la óptima automatización.",
+          "D) los programas curriculares y educativos deben cambiar sustancialmente.",
+          "E) se debe fijar el diálogo entre el docente y los responsables del Estado."
+        ],
+        "correct": 0,
+        "rationale": "En el texto se menciona la oposición educador-educando que desaparece con una concepción de la educación que integre ambos polos, así los procesos pedagógicos deben transformar a los alumnos en personas activas en investigadores críticos y el docente cumplir un rol de facilitador de planificación de situaciones de aprendizaje."
+      },
+      {
+        "statement": "Se colige del texto que en la integración de los polos educador-educando, al educador se le asigna el rol",
+        "alternatives": [
+          "A) muy protagónico.",
+          "B) de planificador.",
+          "C) más jerárquico.",
+          "D) de transmisor.",
+          "E) de modelo."
+        ],
+        "correct": 1,
+        "rationale": "Se plantea que la importancia del docente debe ser reducida y en vez de ser el motor del engranaje pedagógico pase a planificar situaciones que faciliten el intercambio de experiencias."
+      },
+      {
+        "statement": "Se colige del texto que el educando debe tener un rol activo en su educación porque",
+        "alternatives": [
+          "A) hay soluciones determinadas.",
+          "B) la realidad es muy cambiante.",
+          "C) así utiliza sus capacidades.",
+          "D) estudia en un nivel superior.",
+          "E) es una forma de aprender."
+        ],
+        "correct": 1,
+        "rationale": "En el texto se plantea que se deberían transformar a los alumnos en personas activas, en investigadores críticos mediante una educación que debe ser problematizadora para poder comprender el mundo que se presenta como una realidad dinámica en transformación."
+      },
+      {
+        "statement": "Se infiere que los mejores métodos educativos se centran en",
+        "alternatives": [
+          "A) el aprendizaje individual.",
+          "B) el trabajo en grupo.",
+          "C) el análisis de errores.",
+          "D) el trabajo memorístico.",
+          "E) la resolución de problemas."
+        ],
+        "correct": 4,
+        "rationale": "Se dice en el texto que la educación debe ceder protagonismo al educando y ser problematizadora además se agrega que el profesor debe desarrollar formas diferentes de resolver problemas."
+      }
+    ]
+  },
+  {
+    "type": "reading_comprehension",
+    "statement": "Sobre la famosa cuestión homérica ( quién fue Homero y qué partes de la Ilíada y de la Odisea escribió) diré lo menos posible. La tr adición griega era muy vaga, puesto que un primitivo escritor jónico, Heláni co, sitúa a Homero en el siglo X II a. C., y Heródoto en el IX\na. C. No hay duda de que Heródoto es sustancialmente exacto; Helánico acepta sin\ndiscusión que un poeta que describe con tanta intensidad la guerra de Troya, tuvo que\nhaberla visto él mismo. Pero la cuestión importante no es quién era Homero, sino qué era.\nLa Ilíada y la Odisea han sido llamadas la Biblia de los griegos. Durante siglos estos\ndos poemas fueron la base de la educación griega, tanto de la educación formal de la\nescuela, como de la vida cultural de l ciudadano común. Los recitales de Homero,\nachompañados por exhibiciones, estaban a cargo de profesionales que iban de ciudad en ciudad. Platón trae una animada descripción, no carente de malicia, de uno de estos recitales en su Ion: «Debe ser maravilloso, Ion, andar, como haces tú, de sitio en sitio,\narrastrar una densa multitud adonde quiera que vayas y tener a todos pendientes de tus\nlabios, y ponerte tus mejores ropas». Mientras esta Biblia no fue reemplazada por otra, una cita de Homero era el modo\nnatural de dirimir una cuestión de moral o de conducta. Homero podía ser alegado en\napoyo de un reclamo territorial en cualquier trato diplomático. Platón se mofa de esto,\ncuando hace proclamar a Ion que, por ser un experto en Homero, es experto en todo. Es,\npues, necesario aceptar que Homero sostuvo y nutrió la mente y la imaginación de los\ngriegos generación tras generación, tanto de artistas y pensadores como también de los\nhombres comunes.",
+    "questions": [
+      {
+        "statement": "1. Medularmente, el autor del texto argumenta que",
+        "alternatives": [
+          "A) Platón se mofaba de los poetas homéricos por causar asombro y embeleso.",
+          "B) Homero fue la autoridad fundamental en Grecia sobre cuestiones diversas.",
+          "C) las hipótesis sobre la cuestión homérica revelan la vaguedad de los griegos.",
+          "D) la Ilíada y la Odisea son obras que pertenecen irrecusablemente a Homero.",
+          "E) el gran poeta Homero alcanzó la cima estética en el siglo IX antes de Cristo."
+        ],
+        "correct": 1,
+        "rationale": "La argumentación central del autor tiende a establecer que Homero tenía un gran estatus para los griegos."
+      },
+      {
+        "statement": "2. En el texto, la palabra DENSA significa",
+        "alternatives": [
+          "A) compleja.",
+          "B) delimitada.",
+          "C) profunda.",
+          "D) compacta.",
+          "E) infinita."
+        ],
+        "correct": 3,
+        "rationale": "En la frase ‘densa multitud’, el adjetivo denota una masa compacta, concentrada."
+      }
+    ]
+  },
+  {
+    "type": "reading_comprehension",
+    "statement": "Es solo a partir del Renacimiento y, con más razón aún, del afianzamiento de la revolución tecnológica, durante los siglos XVII y XIX, que el proceso económico adquiere características novedosas respecto de su fisonomía anterior. Ya no se produce para un destinatario conocido, ni para un área determinada; el destinatario es anónimo y la magnitud del mercado ha pasado a ser el escenario mundial. Ello acentúa el proceso de especialización y, por ende, de división del trabajo, no solo en la órbita comarcana o nacional, sino en la misma órbita internacional. La empresa económica adquiere insospechadas dimensiones: el transporte ferroviario, de por sí, hace necesaria la concurrencia de capitales en proporciones gigantescas, y como consecuencia de esta y otras mutaciones concurrentes en la vastedad y naturaleza del proceso mismo, la moneda pasa a tener una finalidad más amplia -y por cierto más compleja- que aquella simplificada función de “intermediaria en los cambios” que desempeñara hasta entonces. Todo ello sin perjuicio de las inusitadas transformaciones e innovaciones que contemporáneamente han venido introduciéndose en el instrumento monetario mismo, cuyas características y esencias están muy lejos del alcance y de la intelligibilidad de los pueblos llamados a experimentarlas. La moneda pasa así a financiar la producción y la comercialización de los bienes y la prestación de los servicios. De instrumento de atesoramiento hasta entonces, pasa a ser reserva e instrumento de poder adquisitivo. El aportante de una determinada producción ya no ha de recibir como fruto o remuneración de su contribución una parte del producto mismo, sino un salario o una porción de moneda que el mercado va estableciendo sobre bases más o menos convencional es. El afán de lucro, la especulación y el poder monopolístico adquieren de esta manera una perspectiva y posibilidades desconocidas hasta entonces. El “poder político” va siendo gradualmente sustituido por el “poder económico”, con la ventaja de que éste implica o incluye a aquél, y de que su manejo y uso discrecional pueden hacerse mucho más disimulada o sutilmente. La moneda, al mismo tiempo, ha adquirido insospechadas posibilidades en muchos aspectos positivos. Del instrumento “inerte” que fuera hasta entonces, se ha convertido en un poderoso factor “dinamizador” del proceso. Dadas sus nuevas características y modalidades, la moneda puede ser ahora manejada o administrada con miras a la movilización más completa de los factores productivos. La moneda ha alcanzado en tal forma, y en la medida más completa, el carácter de determinante del proceso económico.",
+    "questions": [
+      {
+        "statement": "¿Cuál es la idea principal del texto?",
+        "alternatives": [
+          "A) La moneda pasó de medio de atesoramiento a instrumento de poder adquisitivo.",
+          "B) A partir del siglo XVII el proceso económico adquiere características diferentes.",
+          "C) Con la revolución tecnológica la economía adquiere importantes dimensiones.",
+          "D) A partir del siglo XVII la moneda empieza a dinamizar el proceso económico.",
+          "E) El lucro, la especulación y el monopolio cambiaron con la revolución tecnológica."
+        ],
+        "correct": 3,
+        "rationale": "El texto concluye estableciendo el paso de la moneda de factor inerte a factor dinamizador, la moneda dinamiza los procesos económicos."
+      },
+      {
+        "statement": "En el texto el término FI SONOMÍA tiene el sentido de",
+        "alternatives": [
+          "A) apariencia.",
+          "B) método.",
+          "C) aspecto.",
+          "D) situación.",
+          "E) fachada."
+        ],
+        "correct": 2,
+        "rationale": "“fisonomía” significa modalidad o aspecto."
+      }
+    ]
+  },
+  {
+    "type": "sentence_elimination",
+    "statement": "2. En el texto el término FI SONOMÍA tiene el sentido de",
+    "alternatives": [
+      "A) apariencia.",
+      "B) método.",
+      "C) aspecto.",
+      "D) situación.",
+      "E) fachada."
+    ],
+    "correct": 2,
+    "rationale": "“El proceso económico adquiere características novedosas respecto de su fisonomía anterior”. El término ‘fisonomía’ significa modalidad o aspecto."
+  },
+  {
+    "type": "sentence_elimination",
+    "statement": "3. Marque la alternativa incompatible con el texto.",
+    "alternatives": [
+      "A) A partir del Renacimiento el proceso económico adquiere dimensiones ingentes.",
+      "B) La movilización de los factores productivos es dependiente del factor moneda.",
+      "C) El crecimiento económico es determinan te frente a los factores de la política.",
+      "D) Antes del Renacimiento, la moneda cumplía un papel crucial en la economía.",
+      "E) Con el financiamiento de la producción por la moneda el afán de lucro aumentó."
+    ],
+    "correct": 3,
+    "rationale": "La moneda tiene un papel crucial a partir del siglo XVII."
+  },
+  {
+    "type": "sentence_elimination",
+    "statement": "4. Con respecto a la moneda como factor dinamizador, se colige del texto que",
+    "alternatives": [
+      "A) fue posible a raíz del crecimiento del proceso económico.",
+      "B) cumplió un rol en el fin del monopolio en la economía.",
+      "C) dejó de cumplir la función de in termediaria en el intercambio.",
+      "D) le dio mayor dominio al poder político en la economía.",
+      "E) es un factor relativamente secundario del proceso económico."
+    ],
+    "correct": 0,
+    "rationale": "La revolución tecnológica permitió que la empresa económica adquiera insospechadas dimensiones y ello generó que la moneda sea un factor dinamizador de la economía."
+  },
+  {
+    "type": "sentence_elimination",
+    "statement": "5. Si un país tuviese poca cantidad de moneda disponible, entonces",
+    "alternatives": [
+      "A) tendría que pedir préstamos para iniciar el proceso productivo.",
+      "B) el poder político ejercería dominio sobre el poder económico.",
+      "C) se darían las condiciones para una gran inflación en su economía.",
+      "D) habría condiciones favorables para el desarrollo del monopolio.",
+      "E) la producción y comercialización de bienes se verían reducidas."
+    ],
+    "correct": 4,
+    "rationale": "La moneda es determinante del poder económico y factor dinamizador, por ello financia la producción y comercialización de los bienes y servicios; con poca cantidad de moneda la producción y comercialización sería reducida."
+  },
+  {
+    "type": "reading_comprehension",
+    "statement": "Heródoto visitó los campos de batalla situados en la patria, para poder describir los combates sobre la base de su propia autopsia, es decir, bajo su propia óptica o investigación.",
+    "questions": [
+      {
+        "statement": "El sentido contextual de AUTOPSIA es",
+        "alternatives": [
+          "A) investigación.",
+          "B) pr eservación.",
+          "C) ablación.",
+          "D) bifurcación.",
+          "E) invención."
+        ],
+        "correct": 0,
+        "rationale": "Solución: investigación. Clave: A"
+      },
+      {
+        "statement": "Resulta incompatible con el texto afirmar que Heródoto",
+        "alternatives": [
+          "A) se convirtió con el tiempo en mensajero de las proezas griegas.",
+          "B) fusionó su visión de la historia con un nacionalismo ferviente.",
+          "C) buscó las fuentes pertinentes que respaldaran sus relatos.",
+          "D) describió a los orientales como poseedores de un espíritu bélico.",
+          "E) disponía de un canon metodológico instituido para sus obras."
+        ],
+        "correct": 4,
+        "rationale": "Solución: En el texto se señala que Heródoto inaugura una metodología en un campo inexplorado, como lo era la in vestigación histórica en su época. Clave: E"
+      },
+      {
+        "statement": "Según el texto, cualquier investigador con mentalidad griega",
+        "alternatives": [
+          "A) se revelaría ante la opresión y defendería la democracia.",
+          "B) se dedicaría a la historia para liberar a sus congéneres.",
+          "C) empezaría por dilucidar las causas de lo que estudia.",
+          "D) comenzaría sus investigaciones ensalzando lo irracional.",
+          "E) menospreciaría los estudios históricos por su futilidad."
+        ],
+        "correct": 2,
+        "rationale": "Solución: Si bien es cierto que el texto se restringe al campo de la historia y al caso de Heródoto, podemos generalizar ese criterio de valoración a otros campos de estudio en las que las condiciones se asemejan. Clave: C"
+      },
+      {
+        "statement": "El autor del texto recomienda que, al valorar los planteamientos de un pensador, deberíamos",
+        "alternatives": [
+          "A) tener en cuenta el estado de la s investigaciones de su época.",
+          "B) evaluar su obra según los cánones y los criterios del siglo XXI.",
+          "C) olvidar la intención del autor y centrarnos en los resultados.",
+          "D) centrar nuestra atención en lo s sentimientos nacionalistas.",
+          "E) considerar como inválida cualquier pretensión de objetividad."
+        ],
+        "correct": 0,
+        "rationale": "Solución: Si bien es cierto que el texto se restringe al campo de la historia y al caso de Heródoto, podemos generalizar ese criterio de valoración a otros campos de estudio en las que las condiciones se asemejan. Clave: A"
+      }
+    ]
+  },
+  {
+    "type": "reading_comprehension",
+    "statement": "La pandemia de gripe AH1N1 que aterrorizó al mundo no habría sido sino un bluf, un montaje, incitado por los grandes laboratorios a fin de promocionar sus medicamentos y vacunas contra esa enfermedad. Quien levanta el dedo acusador es el Dr. Wolfgang Wodard, médico epidem iólogo y presidente de la Comisión de Salud del Consejo de Europa, quien ha obtenido luz verde al seno de su institución para realizar una investigación sobre el papel que jugaron los la boratorios en la campaña de pánico generada alrededor del virus y el rol que cumplieron los Estados y la propia Organización Mundial de la Salud (OMS) en esta alarma colectiva. Con conocimiento de causa, el médico señala que desde la primera voz de alerta proveniente de México se sorprendió de que la OMS declarara “pandemia del siglo” a una gripe que apenas había alcanzado a mil personas en todo el planeta, que tenía las mismas características de cualquier influenza es tacional y solo causó la décima parte de decesos de la gripe que padecemos cada año. La alerta extrema se fundó en el hecho de que el virus era nuevo, pero esa es justamente la característica de la gripe: cada año aparece una nueva cepa. Otra fuente de sospecha para el epi demiólogo era que la OMS recomendaba dos in yecciones de vacuna –algo insólito en la prevención de la gripe– y que se util izaran vacunas con patentes particulares en vez de añadir a las vacunas pr eexistentes partículas antivirales específicas del nuevo virus AH1N1, como se suele hacer. El resultado es que se utilizaron vacunas cuya eficacia e inocuidad no fueron comprobadas. Y ahora numerosos países desarrollados se encuentran con un excedente de estas vacunas, de las que tratan de desembarazarse vendiéndolas a otros países.",
+    "questions": [
+      {
+        "statement": "1. Principalmente, la intención de l autor del texto es informar sobre",
+        "alternatives": [
+          "A) las nefastas consecuencias de las campañas de pánico mundial.",
+          "B) una investigación para esclarecer la definición de pandemia.",
+          "C) una denuncia entorno a la supuesta pandemia de gripe AH1N1.",
+          "D) las secuelas de la más grave pandemia de gripe del siglo veinte.",
+          "E) la evidente corrupción dentro de la Organización Mundial de la Salud."
+        ],
+        "correct": 2,
+        "rationale": "Solución: El autor del texto informa sobre la denuncia hecha por Wolfgang Wodard entorno a lo que sólo sería un bluf en el ámbito de la medicina: la pandemia de gripe AH1N1. Clave: C"
+      },
+      {
+        "statement": "2. El término INSÓLITO se puede reemplazar por_____; y el término DESEMBARAZAR se entiende como______.",
+        "alternatives": [
+          "A) extraño – liberar.",
+          "B) imprevisto – librar.",
+          "C) extravagante – evacuar.",
+          "D) raro – apartar.",
+          "E) inverosímil – exportar."
+        ],
+        "correct": 0,
+        "rationale": "“Otra fuente de sospecha para el epi demiólogo era que la OMS recomendaba dos inyecciones de vacuna –algo insólito en la prevención de la gripe…” El vocablo ‘insólito’ se puede reemplazar por extraño. El término ‘desembarazar’ se entiende como liberarse de la carga pesada que son la gran cantidad de vacunas. Clave: A"
+      }
+    ]
+  },
+  {
+    "type": "verbal_series",
+    "statement": "Acrofobia, altura; hipofobi a, caballo; fotofobia, luz;",
+    "alternatives": [
+      "A) xenofobia, enfermedad.",
+      "B) nosofobia, medicamento.",
+      "C) nictofobia, noche.",
+      "D) claustrofobia, libertad.",
+      "E) aracnofobia, insecto."
+    ],
+    "correct": 2,
+    "rationale": "Relación analógica sobre fobias"
+  },
+  {
+    "type": "sentence_elimination",
+    "statement": "En el texto el término SINGULAR tiene el sentido de",
+    "alternatives": [
+      "A) único.",
+      "B) espiritual.",
+      "C) homogéneo.",
+      "D) Individual.",
+      "E) curioso."
+    ],
+    "correct": 0,
+    "rationale": "Es un ser singular o único, en tanto que es el único ser que posee lenguaje."
+  },
+  {
+    "type": "sentence_elimination",
+    "statement": "Marque la alternativa incompatible con el texto.",
+    "alternatives": [
+      "A) Lo que distingue al hombre del animales el lenguaje.",
+      "B) Hay animales que pueden resolver problemas prácticos.",
+      "C) Muchos animales son seres conscientes e inteligentes.",
+      "D) Los animales no se plantean problemas de índole abstracta.",
+      "E) La inteligencia práctica es una exclusividad de los hombres."
+    ],
+    "correct": 4,
+    "rationale": "Según Goodall los chimpancés tienen una evidente inteligencia práctica, lo que se prueba con las herramientas."
+  },
+  {
+    "type": "sentence_elimination",
+    "statement": "Con respecto a los chimpancés, se colige del texto que estos",
+    "alternatives": [
+      "A) carecen del sentimiento del amor hacia sus congéneres.",
+      "B) no usan la enseñanza aprendizaje por la carencia de lenguaje.",
+      "C) podrían solucionar nuevos problemas prácticos sencillos.",
+      "D) tienen una comunicación tan compleja como la del hombre.",
+      "E) han desarrollado una compleja red de emociones elevadas."
+    ],
+    "correct": 2,
+    "rationale": "Los simios son seres conscientes y poseen inteligencia práctica y como la inteligencia es la capacidad de solucionar problemas entonces si podrían solucionar problemas prácticos nuevos."
+  },
+  {
+    "type": "sentence_elimination",
+    "statement": "Si los chimpancés hubiesen desarrollado un lenguaje simbólico y recursivo como el humano,",
+    "alternatives": [
+      "A) no serían una especie que está en peligro de extinción.",
+      "B) su mundo espiritual sería más complejo que el del hombre.",
+      "C) serían animales más inteligentes que los seres humanos.",
+      "D) para el profesor Premack el hombre no sería un ser singular.",
+      "E) la cultura del chimpancé se ría más compleja que la humana."
+    ],
+    "correct": 3,
+    "rationale": "Para el profesor Premack el lenguaje es lo distintivo del hombre, si los chimpancés tuvieran lenguaje el hombre no podría ser considerado singular por esa facultad."
+  },
+  {
+    "type": "analogies",
+    "statement": "2. Paloma, arrullar; canario, gorjear; cisne, voznar;",
+    "alternatives": [
+      "A) abeja, bisbisear.",
+      "B) jabalí, graznar.",
+      "C) grillo, tiznar.",
+      "D) burro, relinchar.",
+      "E) búho, ulular."
+    ],
+    "correct": 4,
+    "rationale": "Relación analógica de sonidos onomatopéyicos de animales."
+  },
+  {
+    "type": "analogies",
+    "statement": "3. Insomnio, vigilia; mutismo, estridencia; abulia, voluntad;",
+    "alternatives": [
+      "A) frenesí, exultación.",
+      "B) perspicacia, intrepidez.",
+      "C) empeño, obsesión.",
+      "D) inopia, opulencia.",
+      "E) óbice, escollo"
+    ],
+    "correct": 3,
+    "rationale": "Relación analógica de antónimos."
+  },
+  {
+    "type": "analogies",
+    "statement": "4. Hilarante, patético; ameno, t edioso; pernicioso, inocuo;",
+    "alternatives": [
+      "A) armado, inerme.",
+      "B) ileso, incólume.",
+      "C) infausto, desgraciado.",
+      "D) luctuoso, lamentable.",
+      "E) histriónico, gracioso."
+    ],
+    "correct": 0,
+    "rationale": "Relación analógica de antonimia."
+  },
+  {
+    "type": "verbal_series",
+    "statement": "5. Determine la serie verbal y señale el término que no guarda relación con los demás",
+    "alternatives": [
+      "A) Fonología",
+      "B) Morfología",
+      "C) Semántica",
+      "D) Histología",
+      "E) Lexicología"
+    ],
+    "correct": 3,
+    "rationale": "Serie verbal que corresponde al campo semántico de ramas de la Lingüística."
+  },
+  {
+    "type": "verbal_series",
+    "statement": "6. Abadía, monasterio, cenobio,",
+    "alternatives": [
+      "A) cenáculo.",
+      "B) ágape.",
+      "C) santidad.",
+      "D) convento.",
+      "E) abacería."
+    ],
+    "correct": 3,
+    "rationale": "Serie verbal que corresponde al campo semántico de espacios de convivencia religiosa."
+  },
+  {
+    "type": "analogies",
+    "statement": "7. Tóxico, mortífero, letal,",
+    "alternatives": [
+      "A) deletéreo.",
+      "B) purulent o.",
+      "C) lábil.",
+      "D) acerbo.",
+      "E) espeluznante."
+    ],
+    "correct": 0,
+    "rationale": "Serie verbal que corresponde al campo semántico sustancias que causan la muerte."
+  },
+  {
+    "type": "verbal_series",
+    "statement": "7. Tóxico, mortífero, letal, Serie verbal que corresponde al campo sem ántico sustancias que causan la muerte.",
+    "alternatives": [
+      "A) deletéreo.",
+      "B) purulent o.",
+      "C) lábil.",
+      "D) acerbo.",
+      "E) espeluznante."
+    ],
+    "correct": 0,
+    "rationale": "Serie verbal que corresponde al campo sem ántico sustancias que causan la muerte."
+  },
+  {
+    "type": "verbal_series",
+    "statement": "8. Disoluto, crápula, incorregible, Serie verbal que corresponde al campo sem ántico de la vida disoluta, inmoral.",
+    "alternatives": [
+      "A) insociable.",
+      "B) gárrulo.",
+      "C) taciturno.",
+      "D) menesteroso.",
+      "E) perdulario."
+    ],
+    "correct": 4,
+    "rationale": "Serie verbal que corresponde al campo sem ántico de la vida disoluta, inmoral."
+  }
+]

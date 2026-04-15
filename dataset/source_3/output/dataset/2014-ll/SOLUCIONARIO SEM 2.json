@@ -1,0 +1,15 @@
+[
+  {
+    "type": "sentence_elimination",
+    "statement": "10. En la figura se muestra una estructura rectangular hecha de alambre . Si una hormiga se encuentra en el punto P, ¿cuál es la mínima longitud que debe de recorrer, para pasar por todo el alambrado y terminar finalmente en el mismo punto P?",
+    "alternatives": [
+      "A) 48 cm",
+      "B) 43 cm",
+      "C) 44 cm",
+      "D) 46 cm",
+      "E) 47 cm"
+    ],
+    "correct": 0,
+    "rationale": "Solución:\n\nEn la figura se muestra los dos trazos a repetir\nABC\nDP\nQ4cm 4cm3cm 3cm\n3cm 3cm\n\nLongitud = 12+8+4(5)+ 2(4)=48 cm\nRpta: A"
+  }
+]

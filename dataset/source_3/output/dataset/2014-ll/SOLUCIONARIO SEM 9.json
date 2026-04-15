@@ -1,0 +1,801 @@
+[
+  {
+    "type": "reading_comprehension",
+    "statement": "ayudar al filósofo en la conducción de su vida y de permitirle socorrer y orientarse\nrectamente, se convierte aquí en el desvalor de la ignorancia de la vida, una\nignorancia, además, culpable, porque aleja al hombre de sus obligaciones\nciudadanas y lo pone en contradicción con las costumbres y el orden de la sociedad .\nAnte la condena y la ejecución de Sócrates, Calicles habría podido decir que la\nfilosofía inevitablemente lo perdió y que la ciudad tenía razón contra él. La muerte\ndel filósofo ateniense, como otras muertes parecidas que la historia de la filosofía\nrecuerda, sería la prueba de que la filosofía no es una sabiduría de la vida, sino\njustamente lo contrario: la destrucción de los valores reales de la vida.",
+    "questions": [
+      {
+        "statement": "Si Platón hubiese puesto en boca de Calicles la idea de que la filosofía hace que el hombre asuma con más responsabilidad las tareas y los valores de la vida,",
+        "alternatives": [
+          "A) la práctica de la filosofía se habría extendido aun más entre los jóvenes.",
+          "B) sería la mejor prueba de que la vida de Sócrates era la más provechosa.",
+          "C) los ciudadanos atenienses habrían preferido tener gobernantes jóvenes.",
+          "D) Calicles habría condenado la pena de muerte impuesta contra Sócrates.",
+          "E) el diálogo Gorgias habría sido el texto más leído por los atenienses."
+        ],
+        "correct": 3,
+        "rationale": "En el texto, Cali cles considera a la filosofía perniciosa para la vida la práctica; por lo\ntanto, para él la ciudad de Atenas tenía razón de condenar a muerte a Sócrates. Y\nsi, por el contrario, hubiera considerado a la filosofía como una labor beneficiosa,\nhabría condenado dicha pena de muerte."
+      },
+      {
+        "statement": "Si los ciudadanos atenienses hubieran discrepado de la idea de que la filosofía aleja\na los hombres de sus obligaciones sociales, probablemente",
+        "alternatives": [
+          "A) la ciudad de Atenas habría alcanzado un mayor esplendor.",
+          "B) los adulto s habrían desplazado de esta práctica a los jóvenes.",
+          "C) habrían promovido esta actividad, incluso, entre los adultos.",
+          "D) Sócrates habría sido reivindicado después de su muerte.",
+          "E) Platón, a través de Calicles, habría ensalzado a la filosofía."
+        ],
+        "correct": 2,
+        "rationale": "Si se hubiera discrepado de la filosofía como actividad que aleja de las actividades\ncotidianas, lejos de condenarla. se la habría preciado, incluso como práctica entre\nlos adultos."
+      },
+      {
+        "statement": "Si el autor del texto hubiera sido partícipe de las ideas de Calicles con respecto a la\nfilosofía, habría",
+        "alternatives": [
+          "A) inducido a los jóvenes a ser responsables con su sociedad.",
+          "B) promovido la práctica de esta solo entre los jóvenes apolíticos.",
+          "C) eximido de toda responsabilidad a todos los filósofos ancianos.",
+          "D) desdeñado la promoción de la astucia como un valor para la vida",
+          "E) condenado su práctica por atentar contra los valores de la vida."
+        ],
+        "correct": 4,
+        "rationale": "Habría considerado la práctica de la filosofía como un desvalor, por lo que merecía\nser erradicada, condenada. En este caso, el autor compartiría con Calicles la idea de\nque la práctica de la filosofía es negativa; en consecuencia la condenaría."
+      }
+    ]
+  },
+  {
+    "type": "reading_comprehension",
+    "statement": "Los glaciares se están derritiendo , el nivel del mar aumenta, las selvas se están\nsecando y la fauna y la flora luchan para no seguir este ritmo. Cada vez es más\nevidente que los humanos, para potenciar nuestra vida moderna, han causado la\nmayor parte del calentamiento del siglo pasado, mediante la emisión de gases que\nretienen el calor. Llamamos a estos gases de invernadero, y sus niveles son cada\nvez más altos con respecto a los últimos 65 000 años.\nAl resultado se le denomina calentamiento global, fenómeno que está\nprovocando una serie de cambios en el clima de la Tierra o patrones meteorológicos\na largo plazo que varían según el lugar. Conforme la Tierra gira cada día, este nuevo\ncalor gira a su vez recogiendo la humedad de los océanos, aumentando aquí y\nasentándose allá. Está cambiando el ritmo del clima al que todos los seres vivos nos\nhemos acostumbrado.\n¿Qué haremos para ralentizar este calentamiento? ¿Cómo vamos a sobrellevar\nlos cambios que ya hemos puesto en marcha? Mientras intentamos entenderlo, la\nfaz de la Tierra, tal como la conocemos, sus costas, bosques, ríos y montañas\nnevadas, están en vilo.",
+    "questions": [
+      {
+        "statement": "En la expresión ESTÁN EN VILO, la palabra subrayada alude a una situación de",
+        "alternatives": [
+          "A) mutación.",
+          "B) riesgo.",
+          "C) regresión.",
+          "D) desplazamiento.",
+          "E) fatalidad."
+        ],
+        "correct": 1,
+        "rationale": "El fenómeno del calentamiento pone en riesgo la actual situación de las costas,\nbosques, etc."
+      },
+      {
+        "statement": "Si los seres humanos hubieran evitado emitir gases que retienen el calor,",
+        "alternatives": [
+          "A) sería posible ralentizar el calentamiento global.",
+          "B) habría sido menor el calentamiento de la Tierra.",
+          "C) se mantendría el ritmo del clima de la Tierra.",
+          "D) habría disminuido el nivel de las aguas del mar.",
+          "E) se habría multiplicado la flora y la fauna terrestre."
+        ],
+        "correct": 1,
+        "rationale": "Puesto que los seres humanos son los causantes de la mayor parte del\ncalentamiento de la Tierra."
+      },
+      {
+        "statement": "Si se aceleraran los cambios en el clima de la Tierra,",
+        "alternatives": [
+          "A) disminuiría el nivel de las aguas de los mares y los lagos.",
+          "B) desaparecerían totalmente la flora y la fauna terrestre.",
+          "C) la humanidad evitaría emitir los gases de invernadero.",
+          "D) tardaría mos en acostumbrarnos a esta nueva realidad.",
+          "E) podrían desaparecer los glaciares y las selvas tropicales."
+        ],
+        "correct": 4,
+        "rationale": "Los glaciares y las selvas tropicales no sólo estarían en vilo, sino podrían\ndesaparecer."
+      },
+      {
+        "statement": "Si se descubriera que en la historia de la Tierra se han presentado periodos de\ncalentamiento global, se podría aseverar que",
+        "alternatives": [
+          "A) este calentamiento tendría una causa natural.",
+          "B) disminuiría el interés por este calentamiento.",
+          "C) se evidenciaría la autodestrucción de la Tierra.",
+          "D) se confirmaría la hipótesis principal del autor.",
+          "E) la humanidad dejaría de preocuparse por su futuro."
+        ],
+        "correct": 0,
+        "rationale": "Entonces, lo que ahora ocurre no sería sino un fenómeno cíclico."
+      }
+    ]
+  },
+  {
+    "type": "reading_comprehension",
+    "statement": "ACTIVIDAD 3\n\n¿Qué distingue los sonidos del lenguaje humano de los restantes sonidos de la naturaleza? Como señala acertadamente la corriente fonológica actual en la lingüística, y que ha encontrado el más vivo eco en psicología, un rasgo esencial de los sonidos del lenguaje humano lo constituye el hecho de que el sonido portador de una determinada función como signo guarda relación con determinado significado; pero de por sí, el sonido como tal, el sonido carente de significado, no representa realmente la unidad del lenguaje donde aparecen conectadas sus diferentes aspectos. De acuerdo con esta nueva interpretación, la unidad de lenguaje no es el sonido aislado, sino el fonema, que es la unidad fonológica mínima que conserva las propiedades fundamentales de la función significativa del aspecto sonoro del lenguaje. En el momento en que el sonido deja de ser un sonido con significado y se desprende del aspecto semántico del lenguaje, pierde todas las propiedades inherentes al lenguaje humano. Y así, tanto en lingüística como en psicología, solo puede ser fructífero el es tudio del aspecto sonoro del lenguaje mediante un método que lo descomponga en unidades que conserven las propiedades de los aspectos sonoro y semántico como propiedades características del lenguaje.\n\n1. Si los fonemas fueran carentes de significado,\n\nA) el estudio de lo sonoro sería más fructífero.\nB) incluso la naturaleza tendría lenguaje.\nC) sería inviable la comunicación humana.\nD) la psicología se alejaría de la fonología.\nE) la lingüística soslayaría la semántica.\n\nSolución :\n\nEn el texto, el autor sostiene que el sonido con significado (fonema) es inherente al lenguaje humano.\nRpta: C\n\n2. Si se examinara el aspecto sonoro del lenguaje soslayando su aspecto semántico,\n\nA) para ser fructífero, haría uso del método analítico.\nB) se conocería más las particularidades del lenguaje\nC) se velaría el rasgo esencial de los sonidos del lenguaje.\nD) sería más congruente con la naturaleza del lenguaje.\nE) sería necesario el concurso de distintas disciplinas.\n\nSolución :\n\nEl rasgo esencial del lenguaje es la unidad de estos aspectos; si se soslayara lo semántico se velaría este rasgo.\n\n",
+    "questions": [
+      {
+        "statement": "1. Si los fonemas fueran carentes de significado,",
+        "alternatives": [
+          "A) el estudio de lo sonoro sería más fructífero.",
+          "B) incluso la naturaleza tendría lenguaje.",
+          "C) sería inviable la comunicación humana.",
+          "D) la psicología se alejaría de la fonología.",
+          "E) la lingüística soslayaría la semántica."
+        ],
+        "correct": 2,
+        "rationale": "En el texto, el autor sostiene que el sonido con significado (fonema) es inherente al lenguaje humano."
+      },
+      {
+        "statement": "2. Si se examinara el aspecto sonoro del lenguaje soslayando su aspecto semántico,",
+        "alternatives": [
+          "A) para ser fructífero, haría uso del método analítico.",
+          "B) se conocería más las particularidades del lenguaje",
+          "C) se velaría el rasgo esencial de los sonidos del lenguaje.",
+          "D) sería más congruente con la naturaleza del lenguaje.",
+          "E) sería necesario el concurso de distintas disciplinas."
+        ],
+        "correct": 1,
+        "rationale": "El rasgo esencial del lenguaje es la unidad de estos aspectos; si se soslayara lo semántico se velaría este rasgo."
+      },
+      {
+        "statement": "3. En el texto, la expresión INTUICIÓN PRIMARIA alude específicamente a",
+        "alternatives": [
+          "A) una falacia.",
+          "B) una hipótesis.",
+          "C) un raciocinio.",
+          "D) un método.",
+          "E) una idea."
+        ],
+        "correct": 1,
+        "rationale": "Intuición es una hipótesis que requiere ser confirmada o negada por la discusión dialéctica."
+      },
+      {
+        "statement": "4. Si los escolásticos de la Edad Media hubieran asumido la dialéctica como el ejercicio de la deducción,",
+        "alternatives": [
+          "A) la contraposición de ideas habría sido considerada fructífera.",
+          "B) se habrían desinteresado de la filosofía de Platón y Sócrates.",
+          "C) habrían soslayado la discusión en la búsqueda de la verdad.",
+          "D) la intuición racional habría sido equivalente a la contraposición.",
+          "E) habrían encumbrado a Platón como el paradigma de la filosofía."
+        ],
+        "correct": 2,
+        "rationale": "En este caso, tal como Aristóteles, los escolásticos habrían considerado que la deducción, y no la discusión, conduce a la verdad."
+      }
+    ]
+  },
+  {
+    "type": "reading_comprehension",
+    "statement": "COMPRENSIÓN DE LECTURA\n\nEl método escolástico, como método de la filosofía, es heredado de Aristóteles por los filósofos de la Edad Media, quienes lo aplican con un rigor extraordinario. Es curioso observar cómo los escolásticos, principalmente Santo Tomás de Aquino, completan el método de la prueba, el método del silogismo, como una especie de reviviscencia de la dialéctica platónica. El método que siguen los filósofos de la Edad Media no es solamente, como en Aristóteles, la deducción, la intuición racional, sino que además es la contraposición de opiniones divergentes. Santo Tomás, cuando examina una cuestión, no solamente deduce de principios generales los principios particulares aplicables a la cuestión, sino que además pone en columnas separadas las opiniones de los distintos filósofos, que son unas en pro y otras en contra; las pone frente a frente, las critica unas con otras, extrae de ellas lo que puede haber de verdadero y lo que puede haber de falso. Son como dos ejércitos en batalla; son realmente una reviviscencia de la dialéctica platónica. Y la prueba da lugar a las conclusiones firmes del pensamiento filosófico.\nSi resumimos lo esencial en el método filosófico que arranca de Sócrates, pasando por Platón y Aristóteles, llega hasta toda la Edad Media en la Escolástica, nos encontramos con que lo más importante de este método es su segunda parte.\nNo la intuición primaria de que se parte, de que se arranca, sino la discusión dialéctica con que la intuición ha de ser confirmada o negada. Lo importante, pues, en este método de los filósofos anteriores al Renacimiento, consiste principalmente en el ejercicio racional, discursivo; en la dialéctica, en el discurso, en la contraposición de opiniones; en la discusión de los filósofos entre sí o del filósofo consigo mismo.",
+    "questions": [
+      {
+        "statement": "1. El tema central que se desarrolla en el texto es",
+        "alternatives": [
+          "A) la dialéctica, aporte fundamental de Sócrates.",
+          "B) el papel de la intuición en la dialéctica escolástica.",
+          "C) Santo Tomás y el desarrollo de la dialéctica.",
+          "D) el carácter dialéctico de la filosofía escolástica.",
+          "E) las discusiones filosóficas en la Edad Media."
+        ],
+        "correct": 3,
+        "rationale": "Lo sustancial de la filosofía escolástica es la discusión dialéctica que es una reviviscencia de la dialéctica platónica."
+      },
+      {
+        "statement": "2. En el texto, el autor desarrolla principalmente la idea de que",
+        "alternatives": [
+          "A) Santo Tomás, destacado escolástico de la Edad Media, reivindicó el método dialéctico de Aristóteles.",
+          "B) la contraposición, como método, es consecuencia de la aplicación de la deducción y la intuición racional de Aristóteles.",
+          "C) el método dialéctico caracterizó a la filosofía desde Sócrates hasta los escolásticos de la Edad Media.",
+          "D) el método dialéctico desarrollado por Platón fue un gran aporte que permitió arribar a conclusiones firmes.",
+          "E) los escolásticos de la Edad Media adoptaron la dialéctica platónica, entendida como contraposición de ideas."
+        ],
+        "correct": 4,
+        "rationale": "El autor desarrolla la idea de que los escolásticos de la Edad Media no sólo adoptaron el método deductivo de Aristóteles sino, principalmente, la dialéctica platónica, entendida como ejercicio racional de contraposición de opiniones."
+      },
+      {
+        "statement": "3. En el texto, la expresión INTUICIÓN PRIMARIA alude específicamente a",
+        "alternatives": [
+          "A) una falacia.",
+          "B) una hipótesis.",
+          "C) un raciocinio.",
+          "D) un método.",
+          "E) una idea."
+        ],
+        "correct": 1,
+        "rationale": "Intuición es una hipótesis que requiere ser confirmada o negada por la discusión dialéctica."
+      },
+      {
+        "statement": "4. Si los escolásticos de la Edad Media hubieran asumido la dialéctica como el ejercicio de la deducción,",
+        "alternatives": [
+          "A) la contraposición de ideas habría sido considerada fructífera.",
+          "B) se habrían desinteresado de la filosofía de Platón y Sócrates.",
+          "C) habrían soslayado la discusión en la búsqueda de la verdad.",
+          "D) la intuición racional habría sido equivalente a la contraposición.",
+          "E) habrían encumbrado a Platón como el paradigma de la filosofía."
+        ],
+        "correct": 2,
+        "rationale": "En este caso, tal como Aristóteles, los escolásticos habrían considerado que la deducción, y no la discusión, conduce a la verdad."
+      }
+    ]
+  },
+  {
+    "type": "sentence_elimination",
+    "statement": "4. Si se descubriese que en la historia de la Tierra se han presentado periodos de calentamiento global, se podría aseverar que",
+    "alternatives": [
+      "A) este calentamiento tendría una causa natural.",
+      "B) disminuiría el interés por este calentamiento.",
+      "C) se evidenciaría la autodestrucción de la Tierra.",
+      "D) se confirmaría la hipótesis principal del autor.",
+      "E) la humanidad dejaría de preocuparse por su futuro."
+    ],
+    "correct": 0,
+    "rationale": "Entonces, lo que ahora ocurre no sería sino un fenómeno cíclico."
+  },
+  {
+    "type": "verbal_series",
+    "statement": "¿Cuál de los siguientes términos no forma parte de la serie verbal?",
+    "alternatives": [
+      "A) Pusilánime",
+      "B) Timorato",
+      "C) Medroso",
+      "D) Abatido.",
+      "E) Apacado"
+    ],
+    "correct": 3,
+    "rationale": "La serie verbal está conformada por sinónimos. La palabra abatido significa que ha perdido la fuerza, el ánimo."
+  },
+  {
+    "type": "verbal_series",
+    "statement": "Desorden, barullo, caos,",
+    "alternatives": [
+      "A) confusión.",
+      "B) azar.",
+      "C) griterío.",
+      "D) abucheo.",
+      "E) cuchicheo."
+    ],
+    "correct": 0,
+    "rationale": "La serie verbal es sinonímica. El término confusión completa la serie."
+  },
+  {
+    "type": "verbal_series",
+    "statement": "¿Cuál de los siguientes términos no forma parte de la serie verbal?",
+    "alternatives": [
+      "A) Ultraje",
+      "B) Afrenta",
+      "C) Desdén",
+      "D) Dicterio",
+      "E) Agravio"
+    ],
+    "correct": 2,
+    "rationale": "La palabra desdén, que significa menosprecio, no forma parte del campo semántico de la serie."
+  },
+  {
+    "type": "verbal_series",
+    "statement": "Prefacio, prolegómeno, exordio,",
+    "alternatives": [
+      "A) epílogo.",
+      "B) preámbulo.",
+      "C) parágrafo.",
+      "D) párrafo.",
+      "E) paráfrasis."
+    ],
+    "correct": 1,
+    "rationale": "El campo semántico de la serie alude a la primera parte de un escrito o discurso."
+  },
+  {
+    "type": "verbal_series",
+    "statement": "Es incompatible con el método dialéctico, caracterizado como dos ejércitos en batalla, aseverar que",
+    "alternatives": [
+      "A) requiere necesariamente opiniones filosóficas distintas.",
+      "B) considera que la discusión es la partera de la verdad.",
+      "C) se interesa por la verdad y falsedad de las opiniones.",
+      "D) parte de la intuición primaria para alcanzar la verdad.",
+      "E) tiene como finalidad la contraposición de opiniones."
+    ],
+    "correct": 4,
+    "rationale": "El método dialéctico tiene como finalidad descubrir la verdad. La contraposición de opiniones es un medio."
+  },
+  {
+    "type": "sentence_elimination",
+    "statement": "En última instancia, el autor tiene la intención de",
+    "alternatives": [
+      "A) justificar la esclavitud sobre la base de una ley natural.",
+      "B) definir la palabra parte como pertenencia a otra cosa.",
+      "C) señalar la ley natural como fundamento de la propiedad.",
+      "D) explicar que el esclavo es un instrumento, un valor de uso.",
+      "E) establecer que la pertenencia define el valor de uso del hombre."
+    ],
+    "correct": 0,
+    "rationale": "En el último párrafo, el autor argumenta que la esclavitud se basa en una ley natural que hace que el esclavo, no obstante ser hombre, no se pertenece a sí, sino a otro, situación que lo convierte naturalmente en esclavo."
+  },
+  {
+    "type": "reading_comprehension",
+    "statement": "La propiedad es una parte integrante de la familia, y la ciencia de la posesión forma igualmente parte de la ciencia doméstica, puesto que sin las cosas de primera necesidad los hombres no podrían vivir, y menos vivir dichosos. Se sigue de aquí que, así como las demás artes necesitan, cada cual en su esfera, de instrumentos especiales para llevar a cabo su obra, la ciencia doméstica debe tener igualmente los suyos. Pero entre los instrumentos hay unos que son inanimados y otros que son vivos; por ejemplo, para el patrón de una nave, el timón es un instrumento sin vida y el marinero de proa un instrumento vivo, pues en las artes al operario se le considera como un verdadero instrumento.\nConforme al mismo principio, puede decirse que la propiedad no es más que un instrumento de la existencia, la riqueza una porción de instrumentos y el esclavo una propiedad viva; sólo que el operario, en tanto que instrumento, es el primero de todos. Si cada instrumento pudiese, en virtud de una orden recibida o, si se quiere , adivinada, trabajar por sí mismo, como las estatuas de Dédalo o los trípodes de Vulcano, \"quese iban solos a las reuniones de los dioses\"; si las lanzaderas tejiesen por sí mismas; si el arco tocase solo la cítara, los empresarios prescindirían de los operarios y los señores de los esclavos.\nLos instrumentos propiamente dichos son instrumentos de producción; la propiedad, por el contrario, es simplemente para el uso. Así, la lanzadera produce algo más que el uso que se hace de ella; pero un vestido, un a cama, sólo sirven para este uso. Además, como la producción y el uso difieren específicamente, y estas dos cosas tienen instrumentos que son propios de cada una, es preciso que entre los instrumentos de que se sirven haya una diferencia análoga. La vida es el uso y no la producción de las cosas, y el esclavo sólo sirve para facilitar estos actos que se refieren al uso.\nPropiedad es una palabra que es preciso entender como se entiende la palabra parte: la parte no solo es parte de un todo, sino que pertenece de una manera absoluta a una cosa distinta de ella misma. Lo mismo sucede con la propiedad; el señor es simplemente señor del esclavo, pero no depende esencialmente de él; el esclavo, por el contrario, no es sólo esclavo del señor, sino que depende de este absolutamente. Esto prueba claramente lo que el esclavo es en sí y lo que puede ser. El que por una ley natural no se pertenece a sí mismo, sino que, no obstante ser tanto que hombre, se convierte en una propiedad, y como propiedad es un instrumento de uso y completamente individual.",
+    "questions": [
+      {
+        "statement": "En última instancia, el autor tiene la intención de",
+        "alternatives": [
+          "A) justificar la esclavitud sobre la base de una ley natural.",
+          "B) definir la palabra parte como pertenencia a otra cosa.",
+          "C) señalar la ley natural como fundamento de la propiedad.",
+          "D) explicar que el esclavo es un instrumento, un valor de uso.",
+          "E) establecer que la pertenencia define el valor de uso del hombre."
+        ],
+        "correct": 0,
+        "rationale": "En el último párrafo, el autor argumenta que la esclavitud se basa en una ley natural que hace que el esclavo, no obstante ser hombre, no se pertenece a sí, sino a otro, situación que lo convierte naturalmente en esclavo."
+      },
+      {
+        "statement": "De la referencia a las estatuas de Dédalo o a los trípodes de Vulcano se colige que",
+        "alternatives": [
+          "A) los instrumentos sin vida podrían cumplir sus funciones sin la labor de los operarios.",
+          "B) los esclavistas desearían reemplazar a los esclavos con los instrumentos sin vida.",
+          "C) los hombres deberían de preocuparse por dar vida a todos los instrumentos sin vida.",
+          "D) es posible que los hombres puedan alcanzar la dicha sin el concurso de los esclavos.",
+          "E) los empresarios y los señores de los esclavos aún no han alcanzado una dicha plena."
+        ],
+        "correct": 1,
+        "rationale": "El autor dice que si los instrumentos sin vida cumplieran sus funciones por sí, como lo hacen las estatuas, prescindirían de los operarios y los esclavos. En consecuencia, los esclavistas desearían reemplazar a los esclavos con los instrumentos sin vida."
+      },
+      {
+        "statement": "Es incompatible con el texto aseverar que los instrumentos propiamente dichos",
+        "alternatives": [
+          "A) con respecto a su función, se distinguen de la labor de los esclavos.",
+          "B) generan en su propietario el derecho de apropiarse de su producción.",
+          "C) son como la lanzadera, y no como el vestido, la cama ola vivienda.",
+          "D) son manipulados por esclavos en la producción de los objetos de uso.",
+          "E) son productos concebidos para satisfacer directamente una necesidad."
+        ],
+        "correct": 4,
+        "rationale": "Son los objetos de uso los que sirven para satisfacer directamente una necesidad: un vestido, una cama, y no los instrumentos propiamente dichos."
+      },
+      {
+        "statement": "Si la propiedad no se entendiese como parte,",
+        "alternatives": [
+          "A) la propiedad del esclavo por el esclavista se consolidaría aun más.",
+          "B) la apelación a la ley natural para explicar la esclavitud se justificaría.",
+          "C) el argumento principal para justificar la esclavitud carecería de asidero.",
+          "D) el señor tendría dificultades para que sus subordinados obedezcan.",
+          "E) el esclavo, como propiedad, pasaría ser un instrumento de uso colectivo."
+        ],
+        "correct": 2,
+        "rationale": "El argumento principal para justificar la esclavitud es entender la propiedad como parte. Al esclavo se lo concibe como un ser carente de autonomía requiere del señor, pero el señor no requiere de él: “el esclavo, por lo contrario, no es sólo esclavo del señor, sino que depende de este absolutamente.”"
+      }
+    ]
+  },
+  {
+    "type": "incomplete_sentences",
+    "statement": "5. Si la propiedad no se entendiese como parte,",
+    "alternatives": [
+      "A) la propiedad del esclavo por el esclavista se consolidaría aun más.",
+      "B) la apelación a la ley natural para explicar la esclavitud se justificaría.",
+      "C) el argumento principal para justificar la esclavitud carecería de asidero.",
+      "D) el señor tendría dificultades para que sus subordinados obedezcan.",
+      "E) el esclavo, como propiedad, pasaría ser un instrumento de uso colectivo."
+    ],
+    "correct": 2,
+    "rationale": "El argumento principal para justificar la esclavitud es entender la propiedad como parte. Al esclavo se lo concibe como un ser carente de autonomía requiere del señor, pero el señor no requiere de él: “el esclavo, por lo contrario, no es sólo esclavo del señor, sino que depende de este absolutamente.”"
+  },
+  {
+    "type": "reading_comprehension",
+    "statement": "El descubrimiento de Juan Rulfo como el de Franz Kafka será sin duda un capítulo esencial de mis memorias. Yo había llegado a México el mismo día en que Ernest Hemingway se dio el tiro de la muerte, el 2 de julio de 1961, y no solo no había leído los libros de Juan Rulfo, sino que ni siquiera había oído hablar de él. Yo vivía en un apartamento sin ascensor de la calle Renán, en la colonia Anzures. Teníamos un colchón doble en el suelo del dormitorio grande, una cuna en el otro cuarto y una mesa de comer y escribir en el salón, con dos sillas únicas que servían para todo. Habíamos decidido quedarnos en esta ciudad que todavía conservaba un tamaño humano, con un aire diáfano y flores de colores delirantes en las avenidas, pero las autoridades de inmigración no parecían compartir nuestra dicha. La mitad de la vida se nos iba haciendo colas inmóviles, a veces bajo la lluvia, en los patios de penitencia de la Secretaría de Gobernación. Yo tenía 32 años, había hecho en Colombia una carrera periodística efímera; acababa de pasar tres años muy útiles y duros en París y ocho meses en Nueva York, y quería hacer guiones de cine en México. El mundo de los escritores mexicanos de aquella época era similar al de Colombia y me encontraba muy bien entre ellos. Seis años antes había publicado mi primera novela, La hojarasca, y tenía tres libros inéditos: El coronel no tiene quien le escriba, que apareció por esa época en Colombia; La mala hora, que fue publicada por la editorial Era, poco tiempo después a instancias de Vicente Rojo, y la colección de cuentos de Los funerales de la mamá gran de. De modo que era yo un escritor con cinco libros clandestinos, pero mi preocupación no era esa, pues ni entonces ni nunca había escrito para ser famoso, sino para que mis amigos me quisieran más y eso creía haberlo conseguido. Mi problema grande de no velista era que después de aquellos libros me sentía metido en un callejón sin salida y estaba buscando por todos lados una brecha para escapar. Conocí bien a los autores buenos y malos que hubieran podido enseñarme el camino y, sin embargo, me sentía girando en círculos concéntricos, no me consideraba agotado; al contrario, sentía que aún me quedaban muchos libros pendientes, pero no concebía un modo convincente y poético de escribirlos. En esas con un paquete de libros, separó del montón el más pequeño y corto, y me dijo muerto de risa: ''Lea esa vaina, carajo, para que aprenda''; era Pedro Páramo. Aquella noche no pude dormir mientras no terminé la segunda lectura; nunca, desde la noche tremenda en que leí La metamorfosis de Kafka, en una lúgubre pensión de estudiantes de Bogotá, casi 10 años atrás, había sufrido una conmoción semejante. Al día siguiente leí El llano en llamas y el asombro permaneció intacto. Mucho después, en la antesala de un consultorio, encontré una revista médica con otra obra maestra desbalagada: La herencia de Matilde Arcángel; el resto de aquel año no pude leer a ningún otro autor, porque todos me parecían menores.",
+    "questions": [
+      {
+        "statement": "1. En el texto, el vocablo PROBLEMA connota",
+        "alternatives": [
+          "A) desconsuelo.",
+          "B) impotencia.",
+          "C) confusión.",
+          "D) insatisfacción.",
+          "E) indecisión."
+        ],
+        "correct": 3,
+        "rationale": "El autor, después de haber escrito varios libros, tenía el problema de escribir otros, pero no concebía un modo convincente y poético de escribirlos. Es ta situación connota insatisfacción."
+      },
+      {
+        "statement": "2. Si luego escribir Los funerales de la mamá grande el autor se hubiera considerado “agotado”, probablemente",
+        "alternatives": [
+          "A) para él, esta obra habría sido la cima de su labor creadora.",
+          "B) los lectores se habrían sentido defraudados con esta obra.",
+          "C) habría sido consciente de que le faltaba leer muchos libros.",
+          "D) habría leído Pedro Páramo pasmado e ininterrumpidamente.",
+          "E) Álvaro Mutis habría buscado otros libros que motivaran a autor."
+        ],
+        "correct": 0,
+        "rationale": "En este caso, el autor ya no habría tenido la necesidad de escribir otros libros."
+      },
+      {
+        "statement": "3. Si el autor hubiera descubierto a Juan Rulfo antes de escribir sus primeros libros,",
+        "alternatives": [
+          "A) habría renunciado a conocer personalmente a este escritor.",
+          "B) su efímera carrera periodística habría sido más fructífera.",
+          "C) su gran problema se habría desvanecido prematuramente.",
+          "D) las obras de este autor ya no le habrían producido asombro.",
+          "E) solo habría guardado interés por La metamorfosis de Kafka."
+        ],
+        "correct": 2,
+        "rationale": "Con la influencia de las obras de Rulfo, el autor habría resuelto su gran problema: escribir de modo convincente y poético."
+      },
+      {
+        "statement": "4. Con respecto a Álvaro Mutis, es incompatible afirmar que",
+        "alternatives": [
+          "A) desconocía el gran problema del autor de La hojarasca .",
+          "B) había leído Pedro Páramo antes que el autor del texto.",
+          "C) tenía una estrecha amistad con el autor de La mala hora.",
+          "D) era un tipo joven, muy bonachón y admirador de Rulfo.",
+          "E) sabía bien que el agotamiento de su amigo no era físico."
+        ],
+        "correct": 0,
+        "rationale": "Álvaro Mutis conocía el gran problema del autor, por eso le recomendó leer Pedro Páramo."
+      },
+      {
+        "statement": "5. Si la lectura de La metamorfosis de Kafka hubiera colmado las expectativas de creación literaria del autor,",
+        "alternatives": [
+          "A) este habría recomendado su lectura entre todos sus amigos.",
+          "B) este habría sentido satisfacción desde sus primeras obras.",
+          "C) el contenido de esta obra habría sido un tema a seguir.",
+          "D) los amigos de este lo habrían reconocido diez años antes.",
+          "E) la creación literaria de este habría disminuido en cantidad."
+        ],
+        "correct": 1,
+        "rationale": "La metamorfosis habría sido suficiente para encontrar el camino de una escritura poética y convincente, lo cual le habría producido satisfacción desde la escritura de sus primeras obras."
+      }
+    ]
+  },
+  {
+    "type": "sentence_elimination",
+    "statement": "I) En 1500, Nicolás Copérnico se doctoró en astronomía en Roma. II) Al año siguiente obtuvo permiso para estudiar medicina en Padua, la universidad donde Galileo dio clases, casi un siglo después. III) A partir de 1504, fue canónigo de la diócesis de Frau enburg, durante estos años publicó la traducción del griego de Las cartas de Theophylactus (1509). IV) Estudió finanzas, y en 1522 escribió un memorando sobre reformas monetarias. V) Sus trabajos de observación astronómica, practicados en su mayoría como a yudante del profesor Domenico María de Novara, en Bolonia, dejan ver su gran capacidad de observación.",
+    "alternatives": [
+      "A) II",
+      "B) V",
+      "C) III",
+      "D) IV",
+      "E) I"
+    ],
+    "correct": 1,
+    "rationale": "El núcleo del conjunto oracional se refiere a datos biográficos de Copérnico. Se elimina la oración V por impertinencia, se refiere a una cualidad de Copérnico."
+  },
+  {
+    "type": "sentence_elimination",
+    "statement": "Claudio Ptolomeo nació en Egipto, aproximadamente, en el año 85 y murió en Alejandría en el año 165. II) Ptolomeo, distinguido astrónomo de la Antigüedad, debe su fama a la exposición de su sistema geocéntrico. III) Sin embargo, su saber fue mucho más allá : recopiló los conocimientos científicos de su época, a los que añadió sus observaciones y las de Hiparco de Nicea , y documentó 13 volúmenes que resumen quinientos años de astronomía griega. IV) Este vasto conocimiento dominó el pensamiento astronómico de Occidente durante los catorce siglos siguientes.V) Su obra llegó a Europa en una versión traducida al árabe, y es conocida con el nombre de Almagesto (Ptolomeo la había denominado Sintaxis Matemática ).",
+    "alternatives": [
+      "A) I",
+      "B) IV",
+      "C) III",
+      "D) V",
+      "E) II"
+    ],
+    "correct": 0,
+    "rationale": "El ejercicio se refiere al aporte científico de Ptolomeo. Se elimina I por impertinencia."
+  },
+  {
+    "type": "sentence_elimination",
+    "statement": "I) La Iglesia católica rechazó durante mucho tiempo la teoría heliocéntrica del universo. II) La Iglesia defendía la idea de que la Tierra era el centro del universo, tal y como se puede interpretar a partir del mito de la creación que aparece en la Biblia. III) El salmo 93 de la Biblia también ha sido interpretado como una evidencia de la teoría geocéntrica: \"Tú fijaste la Tierra inamovible y firme\". IV) Los miembros de la Iglesia católica dedujeron de esta frase concreta que la Tierra no podía girar entorno a nada, ya que era \"inamovible\". V) Aferrada a sus dogmas, la Iglesia prohibió a Galileo enseñar el heliocentrismo y proscribió el trabajo de Copérnico, amenazándolo con la condenación.",
+    "alternatives": [
+      "A) III",
+      "B) IV",
+      "C) II",
+      "D) V",
+      "E) I"
+    ],
+    "correct": 4,
+    "rationale": "Se elimina I por redundancia: repite de manera incompleta las oraciones IV y V."
+  },
+  {
+    "type": "sentence_elimination",
+    "statement": "I) La ideología es el conjunto de ideas fundamentales que caracteriza el pensamiento de una persona, una colectividad o una época. II) También es la doctrina filosófica centrada en el estudio del origen de las ideas. III) La ideología tiende a conservar o a transformar el sistema social, económico, político o cultural existente. IV) El término ideología fue acuñado por Destutt de Tracy para denominar a la ciencia que estudia las idea s y las relaciones entre los signos que las expresan. V) La ideología reflexiona sobre cómo actúa la sociedad en su conjunto y, en base a eso, elabora un plan de acción para acercarse a lo que considera como la sociedad ideal.",
+    "alternatives": [
+      "A) II",
+      "B) I",
+      "C) V",
+      "D) IV",
+      "E) III"
+    ],
+    "correct": 3,
+    "rationale": "El tema del ítem es la ideología, no el término ideología."
+  },
+  {
+    "type": "sentence_elimination",
+    "statement": "I) Anton Chéjov (1860 -1904), nieto de un siervo liberado e hijo de un pequeño tendero, se crió en el campo, donde reinaba el espíritu nacido de la abolición de la servidumbre. II) Debido a la miseria en la que se encontraba, de joven decidió enviar cuentos a las revistas humorísticas y solo escribió para cubrir las necesidades de su familia. III) Chejov escribió para hacer frente a sus carencias económicas e hizo su debut a la edad de 24 años, cuando aún era un anónimo. IV) En 1884, aparece su primer libro de cuentos, pero fue a partir de 1888 con su relato La estepa cuando Chéjov comenzó a ser conocido. V) De las revistas humorísticas pasó a las literarias, y con él los cuentos y novelas cortas, consideradas hasta entonces en Rusia como un género menor, hicieron su entrada en la Literatura con mayúsculas.",
+    "alternatives": [
+      "A) II",
+      "B) IV",
+      "C) I",
+      "D) III",
+      "E) V"
+    ],
+    "correct": 3,
+    "rationale": "Repite las oraciones I, II y IV."
+  },
+  {
+    "type": "sentence_elimination",
+    "statement": "5. I) Anton Chéjov (1860 -1904), nieto de un siervo liberado e hijo de un pequeño tendero, se crió en el campo, donde reinaba el espíritu nacido de la abolición de la servidumbre. II) Debido a la miseria en la que se encontraba, de joven decidió enviar cuentos a las revistas humorísticas y solo escribió para cubrir las necesidades de su familia. III) Chejov escribió para hacer frente a sus carencias económicas e hizo su debut a la edad de 24 años, cuando aún era un anónimo. IV) En 1884, aparece su primer libro de cuentos, pero fue a partir de 1888 con su relato La estepa cuando Chéjov comenzó a ser conocido. V) De las revistas humorísticas pasó a las literarias, y con él los cuentos y novelas cortas, consideradas hasta entonces en Rusia como un género menor, hicieron su entrada en la Literatura con mayúsculas. Repite las oraciones I, II y IV.",
+    "alternatives": [
+      "A) II",
+      "B) IV",
+      "C) I",
+      "D) III",
+      "E) V"
+    ],
+    "correct": 3,
+    "rationale": "Repite las oraciones I, II y IV."
+  },
+  {
+    "type": "reading_comprehension",
+    "statement": "Para Vygotsky, la educación no se reduce a la adquisición de un conjunto de informaciones, sino que constituye una de las fuentes del desarrollo, y la educación misma se define como el desarrollo artificial del niño. La esencia de la educación consistiría, por consiguiente, en garantizar el desarrollo proporcionando al niño instrumentos, técnicas interiores y operaciones intelectuales. Vygotsky habla incluso en repetidas ocasiones de la adquisición (del aprendizaje) de diferentes tipos de actividad. Tomando como ejemplo las taxonomías botánicas, podría decirse que para el psicólogo soviético lo fundamental no reside en conocer las categorías taxonómicas, sino en dominar el procedimiento de clasificación (definición y aplicación de los criterios de clasificación, clasificación de los casos extremos o ambiguos, producción de nuevos elementos de una clase y, ante todo, aprendizaje de la ejecución de operaciones lógicas que vinculan entre sí a las diferentes clases, etc.). Todo ello significa que Vygotsky atribuía la mayor importancia a los contenidos de los programas educativos, pero haciendo hincapié en los aspectos estructurales e instrumentales de dichos contenidos .En este sentido, es preciso decir que Vygotsky no fue bastante lejos en el desarrollo de estas fructíferas ideas. Desde este punto de vista, cabría considerar al propio establecimiento escolar como un mensaje, es decir un factor fundamental de la educación. Porque la institución escolar, aun haciendo abstracción de los contenidos que en ella se enseñan, implica cierta estructuración del tiempo y del espacio y se basa en un sistema de relaciones sociales (entre alumnos y docentes, entre los alumnos entre sí, entre el establecimiento de enseñanza y el medio ambiente, etc.). Los efectos de la escolarización se deben, en gran parte, a estos aspectos del “medio escol ar”.",
+    "questions": [
+      {
+        "statement": "En el texto, el vocablo ABSTRACCIÓN alude a la acción de",
+        "alternatives": [
+          "A) cogitar.",
+          "B) invalidar.",
+          "C) velar.",
+          "D) soslayar.",
+          "E) censurar."
+        ],
+        "correct": 3,
+        "rationale": "Alude a la acción de soslayar, poner en segundo orden o a un lado los contenidos que se enseñan en el establecimiento escolar."
+      },
+      {
+        "statement": "El tema central que se desarrolla en el texto es",
+        "alternatives": [
+          "A) las relaciones sociales que se establecen en la escuela.",
+          "B) la importancia de la educación en el desarrollo del niño.",
+          "C) la escuela y la enseñanza de la taxonomía botánica,",
+          "D) la importancia de la enseñanza de los contenidos.",
+          "E) la esencia del desarrollo artificial del niño soviético."
+        ],
+        "correct": 1,
+        "rationale": "En el texto, se desarrolla la idea de Vigotsky con respecto a la educación. Este sostiene que la educación cumple una importante función en el desarrollo artificial del niño proporcionándole instrumentos, técnicas interiores y operaciones intelectuales. Así mismo, como medio escolar, estructura nuevas relaciones sociales entre quienes intervienen en la educación."
+      },
+      {
+        "statement": "Del texto se colige que el desarrollo artificial del niño implica, fundamentalmente,",
+        "alternatives": [
+          "A) organizar adecuadamente el tiempo y el espacio de la institución escolar.",
+          "B) la estrecha relación del establecimiento escolar con el medio ambiente.",
+          "C) el aprendizaje de contenidos actualizados y de las taxonomías botánicas.",
+          "D) la enseñanza de operaciones mentales y relaciones sociales con el entorno.",
+          "E) enseñar con rigurosidad las categorías de las diversas disciplinas científicas."
+        ],
+        "correct": 3,
+        "rationale": "Este es el objetivo principal de la educación concebida por Vogotsky."
+      },
+      {
+        "statement": "Es incompatible con respecto a la educación aseverar que debe",
+        "alternatives": [
+          "A) respetar las relaciones sociales establecidas por la familia del niño.",
+          "B) incidir en la enseñanza de los aspectos operacionales de los contenidos.",
+          "C) planificar con minuciosidad el uso del tiempo y del espacio escolar.",
+          "D) establecer nuevas relaciones sociales dentro y fuera de la escuela..",
+          "E) enseñar los contenidos incidiendo, principalmente, en las actividades."
+        ],
+        "correct": 0,
+        "rationale": "Para Vigotsky, la educación implica cierta estructuración del tiempo y del espacio y se basa en un sistema de relaciones sociales (entre alumnos y docentes, entre los alumnos entre sí, entre el establecimiento de enseñanza y el medio ambiente, etc.)"
+      },
+      {
+        "statement": "Si la esencia de la educación tuviera como objetivo la enseñanza de categorías,",
+        "alternatives": [
+          "A) desarrollaría el aspecto emotivo del niño.",
+          "B) la educación se tornaría demasiado práctica.",
+          "C) se soslayaría el desarrollo artificial del niño.",
+          "D) sería muy aburrida para maestros y niños.",
+          "E) exigiría menor esfuerzo mental en los niños."
+        ],
+        "correct": 2,
+        "rationale": "Soslayaría el desarrollo artificial del niño que implica proporcionar procedimientos, instrumentos, técnicas interiores y operaciones intelectuales."
+      }
+    ]
+  },
+  {
+    "type": "reading_comprehension",
+    "statement": "Para Vigotsky, la educación implica cierta estructuración del tiempo y del espacio y se basa en un sistema de relaciones sociales (entre alumnos y docentes, entre los alumnos entre sí, entre el establecimiento de enseñanza y el medio ambiente, etc.)",
+    "questions": [
+      {
+        "statement": "5. Si la esencia de la educación tuviera como objetivo la enseñanza de categorías,",
+        "alternatives": [
+          "A) desarrollaría el aspecto emotivo del niño.",
+          "B) la educación se tornaría demasiado práctica.",
+          "C) se soslayaría el desarrollo artificial del niño.",
+          "D) sería muy aburrida para maestros y niños.",
+          "E) exigiría menor esfuerzo mental en los niños."
+        ],
+        "correct": 2,
+        "rationale": "Soslayaría el desarrollo artificial del niño que implica proporcionar procedimientos, instrumentos, técnicas interiores y operaciones intelectuales."
+      }
+    ]
+  },
+  {
+    "type": "reading_comprehension",
+    "statement": "El ser humano, cuando nace, no habla ninguna lengua. La lengua que llega a hablar más tarde es la que usan las personas que lo rodean, ya sea que se trate de la lengua de sus antepasados biológicos o no y, sino lo es, no afecta en lo más mínimo el grado de habilidad con que llega a hablarla ni el tiempo que requiera para aprenderla. Si, como ocurre ocasionalmente, una criatura se cría en absoluto aislamiento o entre animales, no aprende ninguna lengua. Pero si, en cambio, se cría en sociedad y es biológicamente normal excepto alguna deficiencia marginal, como la sordera ola ceguera, es de advertir que tales impedimentos frecuentemente se superan de tal forma que tales hábitos lingüísticos de una persona sorda, por ejemplo, llegan a ser práctica mente idénticos a las personas con quienes vive. Finalmente, conviene recordar que se ha intentado varias veces enseñar a hablar a individuos de alguna otra especie, pero todos esos esfuerzos han fracasado. De lo anterior se desprenden inmediatamente tres conclusiones: 1) los genes humanos no son específicos de las particularidades de ninguna lengua, sino permisivos de cualquiera y de todas; 2) los genes humanos y únicamente los",
+    "questions": [
+      {
+        "statement": "1. El tema central que el a utor desarrolla es",
+        "alternatives": [
+          "A) la importancia del entorno social en el aprendizaje de una lengua.",
+          "B) la necesidad de superar la sordera para el aprendizaje de una lengua.",
+          "C) el papel de la genética y de la tradición en la adquisición de una lengua.",
+          "D) el papel crucial de los adultos en la enseñanza de la lengua a los niños.",
+          "E) el aislamiento social y la limitación para la adquisición de las lenguas."
+        ],
+        "correct": 2,
+        "rationale": "Según el autor, en la adquisición de hábitos lingüísticos intervienen el factor genético, condición necesaria pero no suficiente, y la tradición."
+      },
+      {
+        "statement": "2. En el texto, en vocablo ESPECÍFICO connota",
+        "alternatives": [
+          "A) singularidad.",
+          "B) exclusividad.",
+          "C) característica.",
+          "D) homogeneidad.",
+          "E) precisión."
+        ],
+        "correct": 1,
+        "rationale": "Los genes humanos no son específicos de las particularidades de ninguna lengua; es decir, no son exclusivos de dichas particularidades."
+      },
+      {
+        "statement": "3. Con respecto a las personas con alguna deficiencia marginal como la sordera ola ceguera, se puede afirmar que",
+        "alternatives": [
+          "A) incluso si superaran su deficiencia, tendrían limitaciones para la adquisición de una determinada lengua.",
+          "B) para adquirir una lengua, deben desplegar mayor esfuerzo que una persona sin dichas deficiencias.",
+          "C) superando su deficiencia, podrían adquirir una lengua incluso en condiciones de aislamiento social.",
+          "D) si superaran su deficiencia, tendrían mayor ventaja en la adquisición de una lengua que una persona aislada.",
+          "E) requieren, sobre todo, un entorno social adecuado para aprender la lengua de sus padres biológicos."
+        ],
+        "correct": 3,
+        "rationale": "Pues este último no podría adquirir ninguna lengua."
+      },
+      {
+        "statement": "4. Es incompatible aseverar que el aprendizaje de una lengua",
+        "alternatives": [
+          "A) está limitado a individuos de la especie humana.",
+          "B) requiere superar deficiencias como la sordera.",
+          "C) solo es posible lograrlo en un entorno social.",
+          "D) es más eficaz si proviene solo de los padres.",
+          "E) implica la conservación de una tradición cultural."
+        ],
+        "correct": 3,
+        "rationale": "El aprendizaje eficaz de una lengua no proviene de los padres biológicos."
+      },
+      {
+        "statement": "5. De la primera conclusión a la que arriba el autor, se desprende que no hay",
+        "alternatives": [
+          "A) lengua que no se pueda aprender.",
+          "B) una especie de lengua desconocida.",
+          "C) condicionamiento para aprender una lengua.",
+          "D) especie que no pueda aprender una lengua.",
+          "E) individuo especializado para enseñar la lengua."
+        ],
+        "correct": 0,
+        "rationale": "Los genes humanos no son específicos de las particularidades de ninguna lengua, sino permisivos de cualquiera y de todas."
+      }
+    ]
+  },
+  {
+    "type": "reading_comprehension",
+    "statement": "El aprendizaje eficaz de una lengua no proviene de los padres biológicos.",
+    "questions": [
+      {
+        "statement": "De la primera conclusión a la que arriba el autor, se desprende que no hay",
+        "alternatives": [
+          "A) lengua que no se pueda aprender.",
+          "B) una especie de lengua desconocida.",
+          "C) condicionamiento para aprender una lengua.",
+          "D) especie que no pueda aprender una lengua.",
+          "E) individuo especializado para enseñar la lengua."
+        ],
+        "correct": 0,
+        "rationale": "Los genes humanos no son específicos de las particularidades de ninguna lengua, sino permisivos de cualquiera y de todas."
+      },
+      {
+        "statement": "Si se demostrara que los genes no son una condición necesaria para el aprendizaje de una lengua,",
+        "alternatives": [
+          "A) se tendría que asumir alguna teoría innatista para explicar el lenguaje.",
+          "B) las deficiencias marginales no serían óbice para aprender una lengua.",
+          "C) el ser humano solo aprendería la lengua de sus padres biológicos.",
+          "D) se tendría que aceptar que la capacidad para el lenguaje es un don.",
+          "E) el entorno social sería determinante para la adquisición de una lengua."
+        ],
+        "correct": 4,
+        "rationale": "En este caso, el entorno social se constituiría en la única condición necesaria para la adquisición de una lengua."
+      },
+      {
+        "statement": "Se deduce que quienes pretendieron enseñar una lengua a individuos de una especie no humana habrían",
+        "alternatives": [
+          "A) confiado en el factor pedagógico.",
+          "B) soslayado el condicionante genético.",
+          "C) procedido en un ambiente aislado.",
+          "D) desconocido el poder de la tradición.",
+          "E) sido pioneros en estos experimentos."
+        ],
+        "correct": 1,
+        "rationale": "Habrían soslayado el hecho de que los genes humanos y únicamente los humanos son una condición necesaria, pero no suficiente, para la adquisición de una lengua."
+      },
+      {
+        "statement": "Si el pichón referido en el texto pudiera conseguir la trasmisión de la tradición,",
+        "alternatives": [
+          "A) el factor aislamiento absoluto sería preponderante en el aprendizaje de una lengua.",
+          "B) se podría considerar que el pinchón ha desarrollado un nivel cultural semejante al humano.",
+          "C) se podría afirmar, sin duda alguna, que este pichón es una excepción de su especie.",
+          "D) esta trasmisión sería un logro de la acción persistente de un factor indeterminado.",
+          "E) sería posible solo si el pichón realizara su aprendizaje en un entorno de su especie."
+        ],
+        "correct": 1,
+        "rationale": "La “transmisión tradicional” se presenta en un contexto cultural y difiere del comportamiento hereditario."
+      }
+    ]
+  },
+  {
+    "type": "sentence_elimination",
+    "statement": "I) José de Arimatea , según la tradición cristiana, fue el propietario del sepulcro en el\ncual fue depositado el cuerpo de Jesús ,luego que este fuese crucificado . II) José de\nArimatea era miembro del Sanedrín , el tribunal supremo de los judíos, y decurión del\nImperio romano.III) San Mateo lo presenta como un hombre rico, pero discípulo de\nJesús. IV) San Juan también considera a José como un discípulo, pero clandestino,\npues tenía temor a las autoridades judías. V) José de Arimatea solicitó a Poncio\nPilatos permitirle sepultar a Jesús, pero esto se explica tanto por ser un prosélito\ncomo por ser pariente de Jesús.",
+    "alternatives": [
+      "A) III",
+      "B) V",
+      "C) II",
+      "D) IV",
+      "E) I"
+    ],
+    "correct": 2,
+    "rationale": "El conjunto relacional se refiere a la relación entre José de Arimatea y Jesús, la oración II es inatingente."
+  },
+  {
+    "type": "verbal_series",
+    "statement": "¿Cuál de los siguientes términos no forma parte de la serie verbal?",
+    "alternatives": [
+      "A) Profuso",
+      "B) Copioso",
+      "C) Ingente"
+    ],
+    "correct": 4,
+    "rationale": "La serie verbal está conformada por sinónimos de abundante, copioso. La palabra extenso significa vasto, amplio."
+  },
+  {
+    "type": "verbal_series",
+    "statement": "Altruista, generoso, magnánimo,",
+    "alternatives": [
+      "A) filántropo.",
+      "B) afable.",
+      "C) menesteroso.",
+      "D) parsimonioso.",
+      "E) animoso."
+    ],
+    "correct": 0,
+    "rationale": "La serie verbal es sinonímica. Se completa con la palabra filántropo, persona que ama a sus semejantes."
+  },
+  {
+    "type": "verbal_series",
+    "statement": "Determine la palabra que es sinónimo de ARDID, ARTIMAÑA y MAÑA.",
+    "alternatives": [
+      "A) Plétora",
+      "B) Añagaza",
+      "C) Pigricia",
+      "D) Cicatería",
+      "E) Estrago"
+    ],
+    "correct": 1,
+    "rationale": "La palabra «Añagaza» es sinónimo a la serie verbal ."
+  },
+  {
+    "type": "verbal_series",
+    "statement": "Determine el antónimo de la serie avenencia, convenio y transacción.",
+    "alternatives": [
+      "A) Discrepancia",
+      "B) Hesitación",
+      "C) Dilema",
+      "D) Desasosiego",
+      "E) Divagación"
+    ],
+    "correct": 0,
+    "rationale": "La serie está compuesta por sinónimos de avenencia, su antónimo es discrepancia, desacuerdo, disentimiento."
+  },
+  {
+    "type": "verbal_series",
+    "statement": "Escindir, desgajar y segar son antónimos de",
+    "alternatives": [
+      "A) estragar y adosar.",
+      "B) plegar y adherir.",
+      "C) arreciar y arrumar.",
+      "D) injertar y coser.",
+      "E) inserir y insertar."
+    ],
+    "correct": 3,
+    "rationale": "Escindir significa cortar, desgajar, segar, y sus antónimos son injertar y coser, acciones que implican unir ."
+  },
+  {
+    "type": "synonyms_and_antonyms",
+    "statement": "5. Escindir, desgajar y segar son antónimos de",
+    "alternatives": [
+      "A) estragar y adosar.",
+      "B) plegar y adherir.",
+      "C) arreciar y arrumar.",
+      "D) injertar y coser.",
+      "E) inserir y insertar."
+    ],
+    "correct": 3,
+    "rationale": "Escindir significa cortar, desgajar, segar, y sus antónimos son injertar y coser, acciones que implican unir ."
+  }
+]

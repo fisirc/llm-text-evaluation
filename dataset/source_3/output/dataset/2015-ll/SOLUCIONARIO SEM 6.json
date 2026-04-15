@@ -1,0 +1,618 @@
+[
+  {
+    "type": "reading_comprehension",
+    "statement": "¡El ser humano es todo un caso! Al menos, todos están de acuerdo en eso. Pero, ¿qué exactamente distingue al Homo sapiens del resto de los animales, sobre todo los simios, y cuándo y cómo fue que nuestros antepasados adquirieron ese cierto algo? En el último siglo se han propuesto un sinnúmero de teorías. Y algunas revelan mucho, tanto de la época en que vivían sus proponentes como de la evolución humana. A continuación, presentaremos dos de las más difundidas. La primera de ellas considera que la fabricación de herramientas fue fundamental para nuestra constitución humana: «La fabricación de herramientas es una particularidad del hombre», escribió el antropólogo Kenneth Oakley en un artículo de 1944. Explicó que los simios usan los objetos que encuentran, «pero modelar palos y piedras para un uso específico fue la primera actividad humana reconocida». A principios de la década de 1960, Louis Leakey atribuyó el inicio de la fabricación de herramientas y consiguientemente, el origen de la humanidad, a una especie que llamó Homo habilis (Hombre hábil), la cual vivió en África Oriental hace unos 2.8 millones de años. Sin embargo, como han demostrado Jane Goodall y otros investigadores, los chimpancés también modifican ramas para usos particulares. Por ejemplo, arrancan las hojas para «pescar» insectos ocultos bajo el suelo. Incluso los cuervos, que carecen de manos, son bastante habilidosos.\nSegún el antropólogo Raymond Dart, sin embargo, la razón es otra: nuestros antepasados diferían de los simios en cuanto a que eran asesinos despiadados, seres carnívoros que «capturaban presas vivas con violencia, las mataban a golpes, destazaban sus cuerpos maltrechos y los desmembraba n, extremidad por extremidad, saciando su voraz sed con la sangre caliente de las víctimas, devorando con ansiedad la carne aún palpitante». Tal vez ahora nos parezca una lectura sensacionalista, pero tras la espantosa masacre de la Segunda Guerra Mundial, el artículo de 1953 donde Dart detalla esta teoría del «simio asesino», tocó fibras muy sensibles.",
+    "questions": [
+      {
+        "statement": "1. El texto gira centralmente entorno",
+        "alternatives": [
+          "A) al simio asesino que definió el devenir violento de los hombres.",
+          "B) al origen de la humanidad a partir del denominado Homo habilis .",
+          "C) al antropólogo Raymond Dart y su propuesta sobre la evolución.",
+          "D) a dos teorías acerca de la constitución de la especie humana.",
+          "E) la especie humana: la constitución de herramientas como factor y la naturaleza violenta ."
+        ],
+        "correct": 3,
+        "rationale": "El enunciado pregunta por el tema central; la opción correcta es D."
+      },
+      {
+        "statement": "2. En el texto, la palabra ALGO connota",
+        "alternatives": [
+          "A) defección.",
+          "B) solipsismo.",
+          "C) particularidad.",
+          "D) claridad.",
+          "E) opacidad."
+        ],
+        "correct": 2,
+        "rationale": "El término está referido a lo particular de nuestra especie ."
+      },
+      {
+        "statement": "3. Resulta incompatible con el desarrollo textual afirmar que , en la explicación del origen de la especie humana basada en procedimientos pragmáticos ,",
+        "alternatives": [
+          "A) se considera la creación de herramientas como actividad prístina.",
+          "B) es posible su detección en un ancestro denominado Homo habilis .",
+          "C) se defiende el carácter violento y despiadado de nuestros ancestros.",
+          "D) la ocurrencia de esta práctica en los simios aparece como escollo .",
+          "E) la creación de herramientas en primates con stituye contravención."
+        ],
+        "correct": 2,
+        "rationale": "La hipótesis del origen de la especie humana basada en la creación de herramientas (procedimiento pragmático) no se focaliza en el carácter agresivo."
+      },
+      {
+        "statement": "4. Es posible deducir del desarrollo textual que el uso de objetos como herramientas",
+        "alternatives": [
+          "A) contribuye al esclarecimiento conductual de especies diferentes.",
+          "B) posee un sinnúmero de cuestionamientos por idealizar al hombre.",
+          "C) carece del carácter exclusivo de los humanos que se le atribuye.",
+          "D) pudo ser una habilidad de homínidos ancestros del Homo habilis .",
+          "E) fue rápidamente aprendida por grandes simios como el orangután."
+        ],
+        "correct": 2,
+        "rationale": "La propuesta del uso de objetos como herramientas como rasgo excluyente y privativo del ser humano es cuestionable por detectarse en otras especies; en consecuencia, no es exclusivamente humana tal habilidad ."
+      },
+      {
+        "statement": "5. Si se tomara en cuenta que ciertos chimpancés organizan hordas para capturar enemigos de otros grupos y darles muerte violenta, posiblemente",
+        "alternatives": [
+          "A) los alcances sobre la evolución de la especie humana se an inexplicables.",
+          "B) nuestros ancestros tengan que ser detectados con herramientas más finas.",
+          "C) los cuervos constituyan una especie que validaría la hipótesis de la violencia.",
+          "D) se postule una propuesta híbrida para definir el rasgo particular del hombre.",
+          "E) se debilite la hipótesis de la violencia como rasgo particular del ser humano."
+        ],
+        "correct": 4,
+        "rationale": "La hipótesis alternativa considera que la violencia es el rasgo que nos define como especie. Si se tomara en cuenta el comportamiento animal en general, y el caso de primates en la actualidad, y la violencia con que operan, la propuesta presentaría abundantes contraejemplos."
+      }
+    ]
+  },
+  {
+    "type": "incomplete_sentences",
+    "statement": "Llegaron al evento con grandes expectativas;__________ perdieron en la primera fase,_________ el nerviosismo los traicionó.",
+    "alternatives": [
+      "A) mas – pues",
+      "B) no obstante – si bien",
+      "C) y – pues",
+      "D) mas – en consecuencia",
+      "E) dado que – porque"
+    ],
+    "correct": 0,
+    "rationale": null
+  },
+  {
+    "type": "incomplete_sentences",
+    "statement": "_________ la vigilancia en el local se mantuvo férrea durante toda la noche, el periodista pudo ingresar de forma irrestricta,_________, sin restricciones.",
+    "alternatives": [
+      "A) Aunque – incluso",
+      "B) A pesar de que – ergo",
+      "C) Por más que – es decir",
+      "D) Puesto que – esto es",
+      "E) Si – por que"
+    ],
+    "correct": 2,
+    "rationale": null
+  },
+  {
+    "type": "sentence_elimination",
+    "statement": "Llegaron al evento con grandes expectativas;__________ perdieron en la primera fase,_________ el nerviosismo los traicionó.",
+    "alternatives": [
+      "A) mas – pues",
+      "B) no obstante – si bien",
+      "C) y – pues",
+      "D) mas – en consecuencia",
+      "E) dado que – porque"
+    ],
+    "correct": 0,
+    "rationale": null
+  },
+  {
+    "type": "sentence_elimination",
+    "statement": "___________ la vigilancia en el local se mantuvo férrea durante toda la noche, el periodista pudo ingresar de forma irrestricta,_________, sin restricciones.",
+    "alternatives": [
+      "A) Aunque – incluso",
+      "B) A pesar de que – ergo",
+      "C) Por más que – es decir",
+      "D) Puesto que – esto es",
+      "E) Si – por que"
+    ],
+    "correct": 2,
+    "rationale": "La cita es incuestionable: la especialista no sabe con precisión qué evento devino en la muerte del joven, ya que pudo ser una batalla o una simple disputa personal."
+  },
+  {
+    "type": "sentence_elimination",
+    "statement": "_______ las condiciones no son las mejores, viajaremos mañana por la tarde ______ por la noche.",
+    "alternatives": [
+      "A) Si – sino",
+      "B) Si – sino",
+      "C) Con que – y",
+      "D) Ni – antes bien",
+      "E) Dado que – o"
+    ],
+    "correct": 4,
+    "rationale": "fue derribado por un rayo. Es decir, los hechos fueron casuales, no planificados."
+  },
+  {
+    "type": "sentence_elimination",
+    "statement": "________ los reunidos esta tarde llegan a un acuerdo, redactaremos el pacto detalladamente,_________ ya es momento de formalizar nuestra situación.",
+    "alternatives": [
+      "A) Aunque – pues",
+      "B) Si bien – porque",
+      "C) Solo si – con que",
+      "D) Porque – si",
+      "E) Si – dado que"
+    ],
+    "correct": 1,
+    "rationale": "El texto aborda la determinación en el proceso de negociación; sin embargo la razon que se da es 'Si bien' y 'porque' para justificar."
+  },
+  {
+    "type": "reading_comprehension",
+    "statement": "El pasado invierno, una fuerte tormenta golpeó la localidad de Collooney, situada al noroeste de Irlanda y de algo más de mil habitantes. Tan impetuosa debió de ser la tormenta que arrancó de cuajo un haya de unos 210 años de antigüedad. Entre sus raíces aparecieron unos restos esqueléticos que captaron el interés de los arqueólogos. «A medida que se desarrollaron las excavaciones quedó claro que se trataba de una situación inusual», explica la arqueóloga Marion Dowd en una nota de prensa. «La parte superior del esqueleto salió despedida hacia arriba junto con las raíces, mientras que los huesos de la parte inferior de las piernas permanecieron intactos en el suelo. Al desplomarse el árbol, el esqueleto se quebró en dos partes», añade Dowd, de los Servicios Arqueológicos de Sligo - Leitrim. ¿Fue una maniobra del destino o una casualidad de la naturaleza? La cuestión es que los huesos quedaron a disposición de los arqueólogos. Y los examinaron. El análisis de los huesos, a cargo de la osteoarqueóloga Linda Lynch, ha revelado que corresponden a un hombre de entre 17 y 20 años de edad. La datación por radiocarbono indica que el chico murió en el siglo XI o XII, entre 1030 y 1200. Su altura era de 1,78 metros aproximadamente, por encima de la media de un individuo de época medieval. «Una afección leve en la columna vertebral sugiere que realizó trabajos físicos desde una edad temprana», expresa el comunicado. ¿Qué ocurrió con este chico cuyos restos han quedado expuestos casi mil años después? En sus huesos se han detectado lesiones profundas causadas con un objeto punzante: dos en el pecho y una en la mano izquierda, «probablemente en un intento de repeler un ataque», expresa el comunicado. «El arma utilizada era de un solo filo, probablemente un cuchillo», agrega. Los arqueólogos saben que se le dio sepultura cristiana por la posición que presentaba el esqueleto y también porque en los registros históricos hay constancia de una iglesia y un cementerio en la zona, pero «no quedan vestigios en la superficie ni se han encontrado otros esqueletos durante las excavaciones». Marion Dowd se resigna: «Era, casi con toda seguridad, miembro de una familia gaélica local, pero nunca sabremos con total certeza si murió en una batalla o durante una disputa personal».\n",
+    "questions": [
+      {
+        "statement": "En el texto, la frase DE CUAJO se puede reemplazar por",
+        "alternatives": [
+          "A) violentamente .",
+          "B) extremadamente .",
+          "C) tortuosamente .",
+          "D) acusadamente .",
+          "E) enteramente ."
+        ],
+        "correct": 4,
+        "rationale": "La frase preposicional DE CUAJO se puede reemplazar por DE RAÍZ; a saber, ENTERAMENTE."
+      },
+      {
+        "statement": "Marion Dowd, respecto de las condiciones en las que murió el joven al que pertenecen los restos, se muestra",
+        "alternatives": [
+          "A) taxativa.",
+          "B) irónica.",
+          "C) intrigada .",
+          "D) relativista.",
+          "E) optimista."
+        ],
+        "correct": 2,
+        "rationale": "La cita es incuestionable: la especialista no sabe con precisión qué evento devino en la muerte del joven, ya que pudo ser una batalla o una simple disputa personal."
+      },
+      {
+        "statement": "Sobre lo manifestado en el texto, es incompatible sostener que la detección de los restos óseos fue",
+        "alternatives": [
+          "A) inopinada.",
+          "B) fortuita .",
+          "C) planificada .",
+          "D) inesperada .",
+          "E) casual ."
+        ],
+        "correct": 2,
+        "rationale": "fue derribado por un rayo. Es decir, los hechos fueron casuales, no planificados."
+      },
+      {
+        "statement": "El tema central del texto es",
+        "alternatives": [
+          "A) los cuidadosos estudios de la osteoarqueóloga Linda Lynch.",
+          "B) la fuerte tormenta ocurrida en la localidad de Collooney .",
+          "C) los trabajos físicos realizados por un joven del siglo XI.",
+          "D) el misterioso hallazgo de restos óseos del siglo XI o XII.",
+          "E) la historia de un haya muy antigua arrancada por un rayo."
+        ],
+        "correct": 3,
+        "rationale": "El texto aborda el tema de un misterioso y fortuito hallazgo ocurrido en Collooney"
+      },
+      {
+        "statement": "Se desprende del texto que las personas en el Medioevo",
+        "alternatives": [
+          "A) preferían enterrar a los muertos debajo de los árboles .",
+          "B) eran, mayoritariamente, de una estatura inferior al 1,78 .",
+          "C) se enterraban si estas pertenecían a una familia gaélica .",
+          "D) eran consideradas infieles si evitaban enterrar a sus muertos .",
+          "E) les prodigaban abundante comida y cuidados a los fallecidos ."
+        ],
+        "correct": 1,
+        "rationale": "El cuerpo encontrado medía 1,78, por encima de la media. Esto quiere decir que mayoritariamente la gente tenía una estatura menor."
+      },
+      {
+        "statement": "Si los restos ente rrados durante la Edad media carecieran de registros,",
+        "alternatives": [
+          "A) la tormenta habría tenido que ser más asoladora para detectar evidencia en una cantidad mayor de árboles de la comunidad .",
+          "B) solamente quedaría como evidencia la posición del cuerpo para saber si dicho procedimiento tenía connotaciones religiosas .",
+          "C) habría sido conveniente talar una centena de árboles para comprobar que las prácticas mortuorias estaban asociadas con Dios .",
+          "D) los estudios de la osteoarqueóloga Linda Lynch quedarían refrendados por las excavaciones en zonas adyacentes .",
+          "E) existirían métodos inusuales para realizar estudios con respaldo estadístico, pues los datos se extraerían de los cuerpos hallados ."
+        ],
+        "correct": 1,
+        "rationale": "La posición del cuerpo y el registro son evidencia del carácter cristiano del entierro. Si se careciera de registros, quedaría la posición para conjeturar."
+      }
+    ]
+  },
+  {
+    "type": "reading_comprehension",
+    "statement": "En la Europa del siglo XVIII, la gente se lavaba poco y lo hacía en seco, evitando el uso\ndel agua. Ello se explica en buena parte por la creencia, muy extendida, según la cual la\nsalud del cuerpo y del alma dependía del equilibrio entre los cuatro humores que se\nsuponía que integraban el cuerpo: sangre, pituita, bilis amarilla y atrabilis. Los malos\nhumores se evacuaban mediante procesos naturales como las hemorragias, los vómitos o\nla transpiración, y cuando éstos no funcionaban se recurría a purgas o sangrías\nefecutuadas por los médicos. Lógicamente, la introducción de un quinto elemento extraño,\nhabían empezado a desaconsejar los baños calientes por considerar que el agua podía\nfacilitar el contagio de la peste. Como el calor abre los poros, se creía que así se introducían\nmiasmas en el organismo que desequilibraban su funcionamiento. Los miasmas, en la\nmentalidad de la época, eran efluvios malignos producidos por cuerpos corruptos o aguas\nestancadas.\nEste temor al agua se evidenciaba incluso en las clases más altas de la sociedad:\naunque Luis XIV no tenía problemas para nadar, sí evitaba usar demasiada agua para\nlavarse. En el interior de las casas nobles o burguesas existían bañeras, pero se\naconsejaba no u tilizarlas demasiado, y sobre todo no permanecer en ellas durante mucho\ntiempo. El agua se rechazaba hasta tal punto que ,antes de la Revolución francesa , París\nsólo contaba con nueve casas de baños, es decir, tres veces menos que a finales del siglo\nXIII.\nEl miedo a los miasmas se convirtió en una auténtica obsesión. Para garantizar la\nsalud había que hacer circular el aire —igual que los filósofos y los economistas ilustrados\npredicaban las virtudes de la circulación de personas, bienes o ideas —. Por tanto, debían\nevitarse los vapores de agua y la condensación, sobre todo en los espacios cerrados.",
+    "questions": [
+      {
+        "statement": "El tema central del texto es",
+        "alternatives": [
+          "A) la prescripción médica de evitar las duchas de agua caliente o fría.",
+          "B) el rechazo al contacto con el agua durante el siglo XVIII en Europa.",
+          "C) la facilidad de Luis XIV para nadar sin el temor irracional al agua.",
+          "D) el miedo a los miasmas que sentían los europeos en el siglo XVIII.",
+          "E) las nueve casas de baños que se detectaron en París en el s. XIII."
+        ],
+        "correct": 1,
+        "rationale": "El texto desarrolla el tema del miedo al contacto con el agua por el temor de dañar la salud."
+      },
+      {
+        "statement": "En el texto, el término CORRUPTOS se puede reemplazar por",
+        "alternatives": [
+          "A) graves.",
+          "B) corroídos.",
+          "C) dolosos.",
+          "D) injustos.",
+          "E) dañados."
+        ],
+        "correct": 4,
+        "rationale": "El término alude a cuerpos que presentan lesiones; esto es, cuerpos DAÑADOS."
+      },
+      {
+        "statement": "Es incompatible con el texto afirmar que los miasmas",
+        "alternatives": [
+          "A) eran considerados efluvios malignos propios de cuerpos corruptos.",
+          "B) se creía que podían contagiarse en la piel con los poros abiertos.",
+          "C) generaron un temor que devino en obsesión en Europa del s. XVIII.",
+          "D) desequilibraban el funcionamiento del organismo según la creencia.",
+          "E) estuvieron cuidadosamente documentados y tratados en la época."
+        ],
+        "correct": 4,
+        "rationale": "Los miasmas eran producto de una creencia infundada . No existía registro de que existieran realmente."
+      },
+      {
+        "statement": "Es posible deducir que la práctica médica en la época descrita peste negra se fundaba en intuiciones más que en exámenes cuidadosos de las causas de una enfermedad.",
+        "alternatives": [
+          "A) se realizaba de manera intuitiva y sin criterios científicos.",
+          "B) fue abiertamente combatida por el tiránico rey Luis XIV.",
+          "C) contaba con evidencia incuestionable en los hospitales.",
+          "D) se reducía a la recomendación de pr ácticas estéticas."
+        ],
+        "correct": 0,
+        "rationale": "A"
+      },
+      {
+        "statement": "Si la creencia obsesiva de contagio se hubiera concentrado solo en la transmisión de enfermedades a través del aire, posiblemente",
+        "alternatives": [
+          "A) las sangrías o purgas se habrían llevado a cabo en mayor proporción.",
+          "B) la natación se habría estancado como deporte practicado por el rey.",
+          "C) el aseo personal se habría caracterizado por el uso regular de agua.",
+          "D) las observaciones de los médicos habrían tenido acogida en Francia.",
+          "E) los datos sobre los contagios con mi asma se habrían reducido a la mitad."
+        ],
+        "correct": 2,
+        "rationale": "Si la causa de mayor preocupación hubiera sido la transmisión a través del aire, el contacto con el agua habría sido una angustia menor, por lo que el aseo personal la habría incluido ."
+      }
+    ]
+  },
+  {
+    "type": "verbal_series",
+    "statement": "Señale la alternativa que presente tres palabras sinónimas.",
+    "alternatives": [
+      "A) Apremiante, urgente, celoso",
+      "B) Venal, ímprobo, mezquino",
+      "C) Montaraz, agreste, grosero",
+      "D) Melifluo, dulce, sosegado",
+      "E) Doloroso, angustiante, raudo"
+    ],
+    "correct": 2,
+    "rationale": "Serie de sinónimos"
+  },
+  {
+    "type": "verbal_series",
+    "statement": "Solícito, negligente; pugnaz, pacífico; potencial, imposible;",
+    "alternatives": [
+      "A) desidioso, bizarro .",
+      "B) petimetre, modisto .",
+      "C) callado, gárrulo .",
+      "D) pasible, inclinado.",
+      "E) extraño, inusual ."
+    ],
+    "correct": 2,
+    "rationale": "Serie de antónimos"
+  },
+  {
+    "type": "verbal_series",
+    "statement": "Quemado, tostado, ardiente,",
+    "alternatives": [
+      "A) mostrenco .",
+      "B) espontáneo .",
+      "C) mirífico .",
+      "D) sátiro .",
+      "E) adusto ."
+    ],
+    "correct": 4,
+    "rationale": "Serie de sinónimos . Se completa con la palabra ADUSTO, cuya primera acepción es literalmente «quemado, tostado, ardiente»."
+  },
+  {
+    "type": "verbal_series",
+    "statement": "Frugalidad, moderación, templanza,",
+    "alternatives": [
+      "A) parsimonia .",
+      "B) desidia .",
+      "C) acuciosidad .",
+      "D) pertinacia .",
+      "E) apostasía ."
+    ],
+    "correct": 0,
+    "rationale": "Serie de sinónimos ."
+  },
+  {
+    "type": "verbal_series",
+    "statement": "Rotular, etiquetar; baldonar, elogiar; diferir, discordar;",
+    "alternatives": [
+      "A) abundar , proliferar.",
+      "D) obliterar, anular",
+      "B) discordar, incordiar.",
+      "E) arrostrar, acobardar .",
+      "C) proscribir, prohibir ."
+    ],
+    "correct": 2,
+    "rationale": "Serie mixta compuesta por sinónimos, antónimos y sinónimos. Se completa con un par de antónimos « arrostrar , acobardar ». "
+  },
+  {
+    "type": "verbal_series",
+    "statement": "A) Triángulo B) Círculo C) Hexágono D) Pentágono E) Cuadrado",
+    "alternatives": [
+      "A) Triángulo",
+      "B) Círculo",
+      "C) Hexágono",
+      "D) Pentágono",
+      "E) Cuadrado"
+    ],
+    "correct": 1,
+    "rationale": "Todas las alternativas hacen referencia a figuras geométricas que aumentan en cuanto al número de lados ."
+  },
+  {
+    "type": "verbal_series",
+    "statement": "Austero, morigerado; dúctil, maleable; excelso, eminente;",
+    "alternatives": [
+      "A) oblongo, extenuado.",
+      "B) correoso, reparador.",
+      "C) deleznable, despreciable.",
+      "D) discreto, implacable .",
+      "E) compendioso, extenso ."
+    ],
+    "correct": 2,
+    "rationale": "Serie de sinónimos. Se completa con el par «deleznable, despreciable ». "
+  },
+  {
+    "type": "verbal_series",
+    "statement": "Decidido, aprensivo; estulto, razonable; calmo, intranquilo;",
+    "alternatives": [
+      "A) longincuo, adyacente.",
+      "B) descarado, cachafaz .",
+      "C) pusilánime, cobarde .",
+      "D) cachazudo, parsimonioso .",
+      "E) sensible, manifiesto ."
+    ],
+    "correct": 0,
+    "rationale": "Serie de antónimos y debe completarse con los términos «longincuo, adyacente» ."
+  },
+  {
+    "type": "synonyms_and_antonyms",
+    "statement": "7. Austero, morigerado; dúctil, maleable; excelso, eminente;",
+    "alternatives": [
+      "A) oblongo, extenuado.",
+      "B) correoso, reparador.",
+      "C) deleznable, despreciable.",
+      "D) discreto, implacable .",
+      "E) compendioso, extenso ."
+    ],
+    "correct": 2,
+    "rationale": "Serie de sinónimos. Se completa con el par «deleznable, despreciable ». "
+  },
+  {
+    "type": "synonyms_and_antonyms",
+    "statement": "8. Decidido, aprensivo; estulto, razonable; calmo, intranquilo;",
+    "alternatives": [
+      "A) longincuo, adyacente.",
+      "B) descarado, cachafaz .",
+      "C) pusilánime, cobarde .",
+      "D) cachazudo, parsimonioso .",
+      "E) sensible, manifiesto ."
+    ],
+    "correct": 0,
+    "rationale": "Serie de antónimos y debe completarse con los términos «longincuo, adyacente» ."
+  },
+  {
+    "type": "reading_comprehension",
+    "statement": "Layalush Mersha, una mujer etíope de 40 años de edad, se casó cuando apenas tenía siete. Dos años después tuvo sus primeras relaciones sexuales con su marido. «Intenté escap ar, pero mi suegro puso espinas alrededor de la casa», contó ante un grupo de expertos de la Unión Africana en un reciente encuentro sobre matrimonio infantil. Al final, tras un intento de suicidio, consiguió escapar, aunque no sin clavarse una de las espinas en la pierna. «Aún me duele», afirmó. A los 13 años volvió a casarse, pero no pudo vivir con su marido. Y a los 18 contrajo matrimonio con el tercero, quien abusó de ella y con quien tuvo tres hijos. Ahora, tras abandonarlo, Mersha intenta movilizar a las campesinas de su nativa provincia de Amhara para combatir el matrimonio infantil. A mediados de abril, más de 200 niñas nigerianas fueron secuestradas por la organización terrorista Boko Haram. Según medios, muchas de ellas han sido forzadas a casarse con miembros de esta secta islamista. Y según expertos, el mediático caso dista de ser el único en África. «Cuatro de cada diez jóvenes africanas entre 20 y 24 años se casaron siendo niñas», dijo Martin Mgwanja, vicedirector de Unicef, en el encuentro sobre matrimonio infantil celebrado en Adis Abeba. «El progreso no ha llegado rápido o lo suficientemente lejos. Y las consecuencias de esta inacción hacen que cada año 16 millones de niñas africanas se conviertan en esposas», añadió Julitta Onabanjo, del UNFPA. La práctica está muy extendida en Burkina Faso, Camerún, Chad, Etiopía, Mauritania, Mozambique, Níger, Sierra Leona, Zimbabue y Zambia. Pero también abunda en la República Democrática del Congo, devastada por la guerra, donde el 70 por ciento de las «novias» niñas acaba con hombres polígamos y abusadores, según Unicef. La Unión Africana señala que estos casos están convirtiendo a millones de niñas en esclavas sexuales, presionadas para dar a luz a una edad temprana.",
+    "questions": [
+      {
+        "statement": "¿Cuál es el tema central del texto?",
+        "alternatives": [
+          "A) El encuentro acerca del matrimonio infantil celebrado en Adis Adeba",
+          "B) La poligamia y el abuso sexual en las poblaciones islámicas de Oriente",
+          "C) Las sectas islamistas que condenan a las niñas a quedar embarazadas",
+          "D) La extendida práctica del casamiento infantil en Burkina Faso y Mauritania",
+          "E) El terrible caso de las niñas que son desposadas violentamente en África"
+        ],
+        "correct": 4,
+        "rationale": "El texto trata acerca de los casos en que las niñas se ven obligadas a contraer matrimonios de forma violenta y acabando con su niñez de forma trágica ."
+      },
+      {
+        "statement": "En el texto, el término PRESIONADAS connota",
+        "alternatives": [
+          "A) permisión.",
+          "B) constricción.",
+          "C) coacción.",
+          "D) letargo.",
+          "E) lucha."
+        ],
+        "correct": 2,
+        "rationale": "El término connota un acto de obligación; el uso de la fuerza; es decir, COACCIÓN ."
+      },
+      {
+        "statement": "Es incongruente ,respecto de las niñas obligadas a casarse en África ,afirma que",
+        "alternatives": [
+          "A) adquieren la condición de esclavas sexuales obligadas a dar a luz .",
+          "B) acaban en manos de hombres abusadores y polígamos en el Congo .",
+          "C) en casos como el Layalush Mersha intentan escap ar a tal situación.",
+          "D) son en número una población que no amerita mayor preocupación .",
+          "E) podrían sufrir depresiones severas que las empujen al suicidio ."
+        ],
+        "correct": 3,
+        "rationale": "El número es alarmantemente alto. Y ya se realizan encuentros y movilizaciones para combatir el problema ."
+      },
+      {
+        "statement": "Se colige del texto que las repercusiones emocionales del matrimonio infantil",
+        "alternatives": [
+          "A) se podrían tratar durante la adolescencia con éxito .",
+          "B) han sido registradas en un informe extenso de Unicef .",
+          "C) suelen ser insostenible s y traumáticas para una niña.",
+          "D) son en su mayoría imperceptibles durante su juventud .",
+          "E) son consideradas inofensivas por quienes lo combaten este ."
+        ],
+        "correct": 2,
+        "rationale": "Andrade y Cohen desarrollaron y utiliza ban una nueva metodología para hacer el seguimiento de los sentimientos negativos y positivos al mismo tiempo. Entonces se colige del texto que una película de terror revelaría los meandros de los sentimientos humanos."
+      },
+      {
+        "statement": "Si la secta islámica fuera erradicada de Nigeria,",
+        "alternatives": [
+          "A) la deleznable conducta del marido de Layalush Mersha sería castigada .",
+          "B) los encuentros de discusión del problema del maltrato infantil acabarían .",
+          "C) los problemas del matrimonio infantil en el mundo se verían superados.",
+          "D) las diferencias de género desaparecerían de forma c lara en toda África .",
+          "E) el problema persistiría, pues no solo los radicales abusan de las niñas ."
+        ],
+        "correct": 4,
+        "rationale": "Si la actitud fuera siempre de profundo miedo, no dejarían que se extraiga a sus crías. O, en todo caso, evitarían el contacto con los seres humanos siempre ."
+      }
+    ]
+  },
+  {
+    "type": "reading_comprehension",
+    "statement": "El macaco de Berbería es un mono muy particular. Es el único primate, aparte de los humanos, que se encuentra en el continente africano al norte del Sahara, y el único macaco que vive fuera de Asia. En su día hubo otras especies de macaco en la franja que va desde el este de Asia hasta el noroeste de África; sin embargo, solo la de Berbería soportó los cambios ecológicos y resistió en África. Pero el área de distribución geográfica no es su única particularidad. Con un grueso pelaje rojizo y una mirada avispada, estos macacos sin cola, del tamaño de un niño de dos o tres años, siempre han sido objeto de deseo —y trofeo de caza — de los viajeros que pasaban por sus dominios. Se han hallado restos óseos de macacos de Berbería en las cenizas de Pompeya, en las entrañas de una antigua catacumba egipcia, y enterrados bajo una colina irlandesa desde la que reinaron los reyes del Ulster durante la Edad del Bronce. Hoy su hábitat se limita a unos cuantos reductos forestales de Marruecos y Argelia, a los que se suma la población semisalvaje de Gibraltar. Por desgracia todavía hay viajeros con la misma pulsión de siempre. Los colectivos conservacionistas calculan que los cazadores furtivos sacan de Marruecos unas 300 crías al año para el creciente mercado europeo de mascotas, lo que malogra la sostenibilidad de las poblaciones. Apenas quedan 6000 individuos de esta especie amenazada, entre 4000 y 5000 de ellos en Marruecos. El fotógrafo Francisco Mingorance dedicó más de un año a fotografiar a Macaca sylvanus en las elevaciones del Atlas Medio, hogar de una de sus poblaciones más nutridas. «El amor con el que tratan a sus crías es casi humano —dice—. Vi a una madre llevar en brazos durante cuatro días a su cría muerta. Me conmovió en lo más hondo.» A diferencia de la mayoría de los primates, los machos de esta especie suelen cargar con las crías, explica Bonaventura Majolo, fundador del Barbary Macaque Project, un estudio de la especie iniciado en 2008. Las usan para trabar relaciones amistosas con otros machos. Majolo denomina a esta práctica «interacción sándwich»: un macho coloca la cría entre sí mismo y otro macho, y a veces los adultos se acicalan uno a otro al tiempo que cuidan del pequeño. Los machos se enfrentan a muchos peligros para proteger a las crías. «Algunos tienen verdadero pánico de las personas», dice Siân Waters, de la ONG Barbary Macaque Awareness & Conservation. Pero cuando ella y sus colegas devuelven una cría perdida o robada, «los machos se acercan a pocos metros. Ver una cría los estimula tanto que pierden cualquier atisbo de miedo».",
+    "questions": [
+      {
+        "statement": "¿Cuál es el tema central del texto?",
+        "alternatives": [
+          "A) Las crías de macacos y la estimulación que generan en los hombres",
+          "B) La caza de macacos de Berbería en la civilización egipcia y en Roma",
+          "C) La civilización como escollo en el incremento de la población de monos",
+          "D) El rito previo a la reproducción que practica el macaco de Berbería",
+          "E) Los macacos de Berbería, la disminución de su población y su hábitat"
+        ],
+        "correct": 4,
+        "rationale": "El texto aborda el tema de la intolerancia de la civilización occidental ante las culturas primitivas."
+      },
+      {
+        "statement": "Es incompatible con lo establecido en el texto sostener que",
+        "alternatives": [
+          "A) soportaron los inclementes cambios ecológicos y resistió en África.",
+          "B) son los únicos primates ,aparte de los humanos, detectados en África .",
+          "C) fueron concebidos como divinidad, tal y como ocurrió con el gato .",
+          "D) experimentan pánico hacia los seres humanos en algunos casos .",
+          "E) suelen, en el caso de los especímenes machos, cargar con las crías."
+        ],
+        "correct": 2,
+        "rationale": "El texto señala que se han encontrado restos como trofeos de caza en Egipto ."
+      },
+      {
+        "statement": "Se infiere de lo establecido en el texto que los macacos de Berbería",
+        "alternatives": [
+          "A) presentan, entre otros rasgos físicos, unos ojos avispados y carecen de cola .",
+          "B) conductualmente suponen un hiato respecto de otras especies próximas a estos .",
+          "C) han sido aniquilados por la caza furtiva indiscriminada y las ventas al extranjero .",
+          "D) fueron exterminados de sus zonas de origen debido a su pelaje suave y rojizo .",
+          "E) presentan un territorio de interacción bastante amplio en Asia y África oriental ."
+        ],
+        "correct": 1,
+        "rationale": "Evidencian conductas inusuales; por ejemplo, los machos son los que cargan a las crías ."
+      },
+      {
+        "statement": "Si la reacción de los macacos ante los humanos fuera siempre de profundo miedo,",
+        "alternatives": [
+          "A) no habría evidencia alguna de caza o muerte en Egipto .",
+          "B) la forma de acicalarse entre machos sería muy cuidadosa .",
+          "C) los especímenes machos dejarían de cargar a sus crías .",
+          "D) viajarían a zonas boscosas donde no existan personas .",
+          "E) sería poco probable que estos dejen extraer a sus crías ."
+        ],
+        "correct": 4,
+        "rationale": "Si la actitud fuera siempre de profundo miedo, no dejarían que se extraiga a sus crías. O, en todo caso, evitarían el contacto con los seres humanos siempre ."
+      }
+    ]
+  },
+  {
+    "type": "sentence_elimination",
+    "statement": "5. Si la reacción de los macacos ante los humanos fuera siempre de profundo miedo,",
+    "alternatives": [
+      "A) no habría evidencia alguna de caza o muerte en Egipto .",
+      "B) la forma de acicalarse entre machos sería muy cuidadosa .",
+      "C) los especímenes machos dejarían de cargar a sus crías .",
+      "D) viajarían a zonas boscosas donde no existan personas .",
+      "E) sería poco probable que estos dejen extraer a sus crías ."
+    ],
+    "correct": 4,
+    "rationale": "Si la actitud fuera siempre de profundo miedo, no dejarían que se extraiga a sus crías. O, en todo caso, evitarían el contacto con los seres humanos siempre ."
+  },
+  {
+    "type": "reading_comprehension",
+    "statement": "La creciente inquietud por la capacidad de los países de Medio Oriente para producir alimentos ha conducido a la primera solicitud para retirar un depósito de la bóveda de semillas del «Apocalipsis», localizada en un gélido rincón de Noruega.\nA causa de la guerra civil de Siria —confli cto que ha dejado un saldo de varios cientos de muertos y provocado el éxodo de alrededor de 11 millones de refugiados — la principal bóveda de semillas de la región, localizada en Alepo, ha sido dañada y puesta fuera de servicio. Entre tanto, conforme ISIS toma el control de parte de Siria y los refugiados siguen diseminándose por Europa, prosigue la destrucción de antigüedades e infraestructura.\nCientíficos sirios han restablecido en Beirut el Centro Internacional para Investigación Agrícola en Zonas Áridas y la semana pasada, con objeto de reiniciar su colección, han\n\nOriente necesitan las semillas para anticiparse a plagas y sequías, e incrementar la producción para alimentar a la creciente población.\nLa solicitud de los científicos incluye, específicamente, semillas de trigo, cebada y gramíneas resistentes a sequías que se encuentran almacenadas en la bóveda, ubicada en una ladera montañosa ártica del archipiélago de Svalbard, a unos 1300 kilómetros del Polo Norte. Inaugurado en 2008, en la isla de Longyearbyen, el banco de semillas de Svalbard contiene alrededor de 86 0 000 muestras de todos los países del mundo.\nConcebida como una red de protección para seguridad alimentaria en caso de guerra nuclear, impacto de asteroide o algún otro escenario apocalíptico, la instalación es, eminentemente, subterránea y fue diseñada para proteger hasta 2, 25 mil millones de semillas.\n\nBrian Handwerk y Brian Clark Howard (2015). «Abren la bóveda de semillas del día del juicio final». En National Geographic en Español consultado el 27 de noviembre de 2015:\n<http://www.ngenespanol.com/el -mundo/hoy/15/09/25/boveda -semillas -dia-juicio -final-crisis -siria-alimentos.html>",
+    "questions": [
+      {
+        "statement": "El tema central del texto es",
+        "alternatives": [
+          "A) la apertura de la bóveda de semillas del «Apocalipsis» debido al conflicto sirio.",
+          "B) el conflicto sirio y la diseminación de millones de habitantes por toda Europa.",
+          "C) la protección de 2, 25 millones de semillas en la bóveda inaugurada en 2008.",
+          "D) la solicitud de científicos por la preservación de semillas de trigo y gramíneas.",
+          "E) la devolución de algunas semillas que depositaron en la b óveda de Svalbard ."
+        ],
+        "correct": 0,
+        "rationale": "En efecto, el texto desarrolla el tema de la apertura de la bóveda que resguarda una variada cantidad de semillas debido al conflicto en Siria ."
+      },
+      {
+        "statement": "Resulta incompatible afirmar que el conflicto de Siria",
+        "alternatives": [
+          "A) ha dejado un saldo de varios cientos de muertos y un éxodo terrible .",
+          "B) ha generado la destrucción de antigüedades e infraestructura por parte de ISIS .",
+          "C) obligó a retirar un depósito de la bóveda de semillas del potencial «Apocalipsis» .",
+          "D) ha ocasionado que muchos sirios escapen masivamente buscando protección .",
+          "E) tiene como objetivo la consecución de las semillas para acabar con el hambre ."
+        ],
+        "correct": 4,
+        "rationale": "El conflicto va en desmedro de los propios sirios, los cuales deben refugiarse. Además, este conflicto ha traído como consecuencia el daño de uno de los almacenes ."
+      },
+      {
+        "statement": "La palabra APOCALÍPTICO hace referencia a un evento",
+        "alternatives": [
+          "A) inquietante .",
+          "B) aprensivo .",
+          "C) evitable .",
+          "D) devastador .",
+          "E) apodíctico ."
+        ],
+        "correct": 3,
+        "rationale": "El término hace referencia a una hecatombe; esto es, un escenario DEVASTADOR ."
+      },
+      {
+        "statement": "Si las semillas almacenadas se correspondieran únicamente con productos aptos para cultivar en terrenos desérticos ,",
+        "alternatives": [
+          "A) produirían una sequía debido a la irresponsable manipulación genética .",
+          "B) ha sido organizado taimadamente por los que administran el material .",
+          "C) generó un conflicto en Siria que solo se resolverá con su devolución .",
+          "D) serían capaces de salvarnos del hambre ante una sequía generalizada .",
+          "E) son de uso exclusivo de científicos y pobladores del Medio Oriente ."
+        ],
+        "correct": 4,
+        "rationale": "El almacenamiento de semillas procura anticiparse a un escenario dantesco en el que no haya comida ."
+      },
+      {
+        "statement": "Si las semillas almacenadas se correspondieran únicamente con productos aptos para cultivar en terrenos desérticos ,",
+        "alternatives": [
+          "A) los políticos determinarían un líder que se ocupe de su repartición equitativa .",
+          "B) las ventajas para países alejados de la zona en conflicto aumentaría mucho.",
+          "C) sería n sumamente útil es para congregar niños con problemas de desnutrición .",
+          "D) posibilitarían la apertura de nuevos almacenes para vender alimentos y agua .",
+          "E) su utilización y beneficios serían demasiado limitados para paliar el hambre ."
+        ],
+        "correct": 4,
+        "rationale": "Las semillas han sido recogidas de todo el mundo con el objetivo de sobreponerse a un escenario inclemente. De solo contar con semillas específicas, sus beneficios serían limitados ."
+      }
+    ]
+  }
+]

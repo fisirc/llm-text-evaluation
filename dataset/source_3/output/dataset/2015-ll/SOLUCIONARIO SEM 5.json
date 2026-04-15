@@ -1,0 +1,350 @@
+[
+  {
+    "type": "sentence_elimination",
+    "statement": "I) El más básico de los conceptos subyacentes de la mercadotecnia es el de necesidades humanas. II ) Una necesidad humana es un estado de carencia que experimenta el individuo. III ) Los seres humanos tienen necesidades muy complejas. IV) Existen necesidades físicas básicas de alimento, vestido, calor y seguridad, las necesidades sociales de pertenencia y afecto, y las necesidades individuales de conocimiento y expresión. V ) Las necesidades forman parte esencial del carácter del ser humano.",
+    "alternatives": [
+      "A) I",
+      "B) IV",
+      "C) III",
+      "D) II",
+      "E) V"
+    ],
+    "correct": 0,
+    "rationale": "Se elimina la oración I por impertinencia."
+  },
+  {
+    "type": "sentence_elimination",
+    "statement": "I) El lenguaje del fútbol ha ido adquiriendo a lo largo de los años todos los rasgos de una jerga. II ) El lenguaje del fútbol es un lenguaje especial y familiar que usan entre sí los aficionados a este deporte y que difícilmente entienden quienes lo desconocen. III ) En el uso de los rasgos jergales futbolísticos no existe, como ocurre en otras jergas, por ejemplo en la del hampa, la intención de no hacerse entender por los no aficionados. IV ) Quien habla con tales rasgos cree que todos los que le escuchan entienden lo que él dice. V ) En la jerga futbolística hay rasgos semánticos o retóricos más transparentes que otros.",
+    "alternatives": [
+      "A) I",
+      "B) IV",
+      "C) III",
+      "D) II",
+      "E) V"
+    ],
+    "correct": 1,
+    "rationale": "Se elimina la oración IV por redundancia con la oración III."
+  },
+  {
+    "type": "sentence_elimination",
+    "statement": "I) Todo parece indicar que en general la mujer autocorrige su forma de hablar, evitando lo que está mal considerado, para adecuarla a la que tiene prestigio, la más cercana a lo normativo ola característica de gentes más instruidas que ella. II ) El hombre, en cambio, sería más solidario lingüísticamente con su contexto. III ) Así como «hablar bien» siempre ha sido un valor socialmente reconocido en la mujer, el hombre no sufre esa misma presión; más aún, el hecho de que su lengua se muestre, en ciertos niveles, casi indiferente a lo normativo se interpreta como un rasgo de «masculinidad ». IV) Lo que no es prestigioso en boca de mujer puede llegar a serlo en boca de hombre. V ) En determinados sectores sociales el lenguaje masculino ha tenido tradicionalmente la exclusividad de las palabras groseras ,de las blasfemias y del argot, ámbito lingüístico al que la mujer no podría acceder sin sufrir una fuerte sanción.",
+    "alternatives": [
+      "A) II",
+      "B) IV",
+      "C) III",
+      "D) I",
+      "E) V"
+    ],
+    "correct": 3,
+    "rationale": "Se elimina la oración I por redundancia con la oración III."
+  },
+  {
+    "type": "reading_comprehension",
+    "statement": "Uno de los mitos existentes sobre la metáfora es que es propia únicamente de los registros formales, de la escritura, y sobre todo de la poesía y de algunos géneros narrativos. En una obra ya clásica, Lakoff y Johnson (1980) refutan esta creencia tradicional. Apoyándose en centenares de ej emplos, estos autores demuestran de manera convincente que la metáfora está a la orden del día también en el lenguaje cotidiano y que afirmar lo contrario carece de fundamento. A partir de este estudio, la metáfora adquiere un rango especial dentro de la n aciente lingüística cognitiva. No se contempla como una mera figura retórica, ni tampoco como una anomalía lingüística; al contrario, se entiende como un proceso cognitivo que impregna nuestro lenguaje y nuestro habitual pensamiento. La concepción a la que se llega es que la base de la metáfora radica en nuestro sistema conceptual: constituye un mecanismo para comprender y expresar situaciones complejas sirviéndose de conceptos más básicos y conocidos.\nLa metáfora es un fenómeno tan ubicuo y tan usual que muchas veces ni siquiera nos damos cuenta de su presencia en nuestro propio discurso. Aunque la naturaleza figurada quizá no sea obvia a simple vista, ciertos enunciados como «La inflación siempre sube más de lo que dice el gobierno», «En las rebajas de enero, caerán los precios», «Las acciones están por los suelos», entre otros, se valen de un proceso metafórico de uso cotidiano, en el que la CANTIDAD se concibe en términos de VERTICALIDAD. Debido a su alto grado de convencionalidad, esta metáfora resulta prácticamente invisible para el hablante medio, en el sentido de que se trata de un esquema que está tan integrado en nuestro sistema conceptual que no reparamos en su existencia de forma consciente. Sin embargo, su carácter metafórico se hace patente al advertir que entidades abstractas como los precios, la inflación, etc., no suben ni bajan en realidad como lo hace un avión al volar; es decir, no como la presentada.",
+    "questions": [
+      {
+        "statement": "El autor del texto afirma fundamentalmente que",
+        "alternatives": [
+          "A) la metáfora presenta escasas implicancias en la vida cotidiana.",
+          "B) metafóricamente la CANTIDAD se concibe en términos de VERTICALIDAD.",
+          "C) el lenguaje cotidiano refleja una serie de esquemas conceptuales complejos.",
+          "D) el arte literario no es el único empleo del lenguaje basado en las metáforas.",
+          "E) la metáfora es un proceso cognitivo que penetra el lenguaje y pensamiento."
+        ],
+        "correct": 4,
+        "rationale": "El texto afirma que la metáfora es un mecanismo conceptual que se manifiesta en los diversos usos del lenguaje, no solo en la poesía."
+      },
+      {
+        "statement": "La palabra MERA tiene como sinónimo contextual",
+        "alternatives": [
+          "A) pobre.",
+          "B) simple.",
+          "C) notoria.",
+          "D) abstracta.",
+          "E) mecánica."
+        ],
+        "correct": 1,
+        "rationale": "La palabra MERA alude en el texto a la metáfora como recurso simple o elemental."
+      },
+      {
+        "statement": "Si las metáforas que usamos en la vida cotidiana no poseyeran un alto grado de convencionalidad",
+        "alternatives": [
+          "A) sería notorio su carácter figurado para los hablantes de cualquier lengua.",
+          "B) nuestro sistema conceptual no serviría para entender muchas situaciones.",
+          "C) el mito sobre la metáfora como recurso eminentemente formal tendría asidero.",
+          "D) Lakoff y Johnson errarían en sus conceptos sobre la metáfora como tropo.",
+          "E) el devenir cotidiano no reflejaría el uso extendido y fructífero de la metáfora."
+        ],
+        "correct": 0,
+        "rationale": "Las metáforas de la vida cotidiana resultan inadvertidas como tales por los hablantes porque todo el mundo las usa."
+      },
+      {
+        "statement": "Resulta compatible con el texto afirmar que la metáfora",
+        "alternatives": [
+          "A) permite concretizar entidades abstractas a través del lenguaje.",
+          "B) hace verdaderas expresiones como «La inflación siempre sube más».",
+          "C) solamente se manifiesta en expresiones altamente especializadas.",
+          "D) es la base de todo nuestro sistema conceptual y de pensamiento.",
+          "E) es implícita y pasa desapercibida debido a que caracteriza a la poesía."
+        ],
+        "correct": 0,
+        "rationale": "El texto señala que “entidades abstractas como los precios, la inflación, etc., no suben ni bajan en realidad (…), pero le atribuimos esas propiedades a partir de un marco conceptual que nos permite materializar metáforas como la presentada”."
+      },
+      {
+        "statement": "A) permite al hablante de una lengua la comprensión de expresiones altamente abstractas.",
+        "alternatives": [
+          "A) permite al hablante de una lengua la comprensión de expresiones altamente abstractas.",
+          "B) ha sufrido una transformación dentro del marco de estudios más o menos recientes.",
+          "C) solo se puede comprender a partir de la práctica de la poesía y la literatura en general.",
+          "D) es suficiente para explicar cómo los hablantes emplean el lenguaje en todos los ámbitos.",
+          "E) se apoya de manera muy periférica e insustancial en la de desviaciones del lenguaje."
+        ],
+        "correct": 1,
+        "rationale": "En el texto se menciona específicamente el estudio publicado en 1980 y la lingüística cognitiva."
+      }
+    ]
+  },
+  {
+    "type": "sentence_elimination",
+    "statement": "I) Todo parece indicar que en general la mujer autocorrige su forma de hablar, evitando lo que está mal considerado, para adecuarla a la que tiene prestigio, la más cercana a lo normativo ola característica de gentes más instruidas que ella. II ) El hombre, en cambio, sería más solidario lingüísticamente con su contexto. III ) Así como «hablar bien» siempre ha sido un valor socialmente reconocido en la mujer, el hombre no sufre esa misma presión; más aún, el hecho de que su lengua se muestre, en ciertos niveles, casi indiferente a lo normativo se interpreta como un rasgo de «masculinidad ». IV) Lo que no es prestigioso en boca de mujer puede llegar a serlo en boca de hombre. V ) En determinados sectores sociales el lenguaje masculino ha tenido tradicionalmente la exclusividad de las palabras groseras ,de las blasfemias y del argot, ámbito lingüístico al que la mujer no podría acceder sin sufrir una fuerte sanción.",
+    "alternatives": [
+      "A) II",
+      "B) IV",
+      "C) III",
+      "D) I",
+      "E) V"
+    ],
+    "correct": 3,
+    "rationale": "Solución : Se elimina la oración I por redundancia con la oración III."
+  },
+  {
+    "type": "sentence_elimination",
+    "statement": "I) Existen dos maneras de acercarse a lo fantástico . II) Una forma de enfocar lo fantástico es centrípeta. III ) El enfoque centrípeto de lo fantástico delimita su campo de acción a una determinada estructura narrativa y a unos períodos h istóricos bien definidos. IV ) Otra forma de verlo fantástico es centrífuga. V ) El enfoque centrífugo de lo fantástico se extiende más allá de los géneros, al entender que, por su enorme variedad de temas y tratamientos estilísticos, lo fantástico no puede quedar circunscrito al cuento de terror y sus variantes.",
+    "alternatives": [
+      "A) I",
+      "B) II",
+      "C) III",
+      "D) IV",
+      "E) V"
+    ],
+    "correct": 0,
+    "rationale": "Solución : A"
+  },
+  {
+    "type": "sentence_elimination",
+    "statement": "I) Competencia lectora es la capacidad de un individuo para comprender, emplear información y reflexionar a partir de textos escritos. II) La competencia lectora permite al individuo lograr sus metas, desarrollar sus conocimientos y potencial personal, y participar en la sociedad. III) La competencia lectora, desde la perspectiva de PISA, supera el concepto tradicional de descodificación y comprensión literal. IV ) La competencia lectora implica la comprensión, el uso y la reflexión de informaciones escritas para diversos propósitos. V) La competencia lectora considera tres dimensiones: los procesos, el formato textual y la situación o el contexto de lectura.",
+    "alternatives": [
+      "A) I",
+      "B) IV",
+      "C) III",
+      "D) II",
+      "E) V"
+    ],
+    "correct": 2,
+    "rationale": "Solución : Se elimina la oración III por impertinencia, es más específica que las demás ."
+  },
+  {
+    "type": "writing_plan",
+    "statement": "Al morir, recibió honores y reconocimiento. Sus ideas y postulados no han sufrido la erosión del tiempo. Por ello es considerado como una de las figuras más importantes del pensamiento económico moderno. 2. A finales de la década de los cincuenta publicó Teoría de los sentimientos morales donde señaló que toda persona lleva en su interior una especie de espectador imparcial que juzga lo bueno y lo malo. 3. En ella, Smith continuó desarrollando su idea de la «mano invisible» y « del espectador interno ». Conden dando el mercantilismo, definió el libre mercado como « el sistema de la libertad perfecta» . 4. Luego de estas investigaciones morales, empezó a trabajar en Investigación sobre la naturaleza y las causas de la riqueza de las naciones. El contacto con Quesna y y Voltaire lo ayudó a definir la tendencia de esa obra. 5. Nacido en un pequeño pueblo de Escocia, Adam Smith se trasladó a Glasgow, por cuya universidad se graduó en 1740. 6. En efecto, en la búsqueda de su bien particular, el ser humano es « guiado por una mano invisible que, sin quererlo, contribuye al interés de toda sociedad ». 7. En 1751, fue nombrado profesor de Lógica y Filosofía Moral en la Universidad de Glasgow, donde llegó a ser Decano de la Facultad. 8. Poco tiempo después, estudió en Oxford, para luego trabajar dando charlas públicas sobre diversos temas.",
+    "alternatives": [
+      "A) 5–8–7–2–6–4–3–1"
+    ],
+    "correct": 0,
+    "rationale": "Solución : 5–8–7–2–6–4–3–1"
+  },
+  {
+    "type": "writing_plan",
+    "statement": "1. Así, desde la sociología de la literatura hasta la teoría de la comunicación, pasando por la sociolingüística y la estética de la recepción, la lectura es objeto de permanente estudio. 2. Esta definición acentúa el carácter dinámico de la lectura y a partir de ella se podría sostener que el lector es coproductor del texto en la medida en que articula una serie de efectos de sentido. 3. En conclusión, la lectura es un proceso por el que accedemos a un sentido (dentro de los muchos que puede proporcionarnos un texto) producto de la participación del lector y de los conocimientos que involucra al leer. 4. Por ello, la lectura puede entenderse también como un proceso de concretización (por parte del lector) que se enfrenta con las múltiples posibilidades de dec odificación que todo texto presenta. 5. El concepto de lectura puede ser definido desde diversas perspectivas teóricas y tratado bajo diferentes prismas metodológicos. 6. Así, a través del lector se procesa este completar, esta concretización que no deja de ser una práctica localizada y relativizada precisamente por esas múltiples posibilidades. 7. Sin embargo, sin perjuicio de estas perspectivas, la lectura puede ser definida como una operación por la que se hace surgir un sentido en un texto a partir de la decisiva participación del lector.",
+    "alternatives": [
+      "A) 5-1-7-2-4-6-3"
+    ],
+    "correct": 0,
+    "rationale": "Solución : 5-1-7-2-4-6-3"
+  },
+  {
+    "type": "reading_comprehension",
+    "statement": "Pertenecer a una civilización es compartir una concepción del mundo; tener fe en determinados valores; aceptar ciertos símbolos; participar en recuerdos, emociones, sentimientos comunes; y recibir y aceptar determinados conceptos sobre el carácter del hombre, su misión en la sociedad y su destino final.\nCada una de las grandes civilizaciones, tanto pasadas como presentes, tiene sus\nGengis Kan, para un ateniense de Pericles o para un cruzado de l siglo XII.\nEntre todas las civilizaciones de las cuales tenemos conocimiento, una de las más duraderas, extensas, variadas y ricas es precisamente la llamada «civilización occidental»,\nque se formó en las riveras mediterráneas y las selvas germánicas de l norte de Europa y que se extendió luego no solo a toda Europa y América, sino que entró en contacto, como elemento dominador e influyente, con todos los pueblos y civilizaciones del resto de la Tierra, que de ella recibieron e incorporaron ideas y técnicas. Es decir, vino a ser la más universal de todas ellas.\nLos hombres que vivimos en el ámbito de la civilización occidental somos los herederos, los usuarios también y los continuadores de un conjunto de valores que no solo caracterizan, sino que, además ,determinan en gran parte nuestras acciones individuales y colectivas.\nLa civilización occidental se caracteriza superficialmente por su prodigioso desarrollo de las técnicas y de las aplicaciones prácticas de la ciencia. Ha sido, entre todas, la que inventó motores y las máquinas de trabajo; la que hizo los aparatos para volar y para sumergirse en el mar; la que encontró maneras de atravesar los cuerpos opacos, de utilizar electricidad para las comunicaciones, y el modo de liberar la energía que estaba dentro del átomo. Pero todos estos prodigios mecánicos que tanto nos enorgullecen, no son finalmente, sino el resultado de una determinada actitud de la mente humana ante el mundo, de un modo de concebir y desarrollar la ciencia, de una manera de recibir y conocer los hechos de la experiencia que es la característica de la civilización occidental.\nNo hemos inventado el fonógrafo porque seamos más inteligentes que los chinos o los mayas, sino porque nuestra mentalidad estaba orientada de tal manera que de ciertos conocimientos generales. Acaso sabidos desde los más remotos tiempos, teníamos que esforzarnos en sacar aplicaciones prácticas que sirvieran para facilitar la tarea de vivir. Esa orientación general de la mentalidad de los que pertenecen a la civilización occidental es la que en verdad caracteriza y la que importa conocer.\n\nUslar Pietri, A. (2012). Sumario de la civilización occidental . Recuperado de\nhttp://www.universalia.usb.ve/node/169",
+    "questions": [
+      {
+        "statement": "1. Medularmente, el autor se refiere a",
+        "alternatives": [
+          "A) lo que caracteriza particularmente a los países desarrollados.",
+          "B) la invención de los motores y máquinas en países europeos.",
+          "C) los progresos científicos y tecnológicos de los occidentales.",
+          "D) lo que caracteriza esencialmente a la civilización occidental.",
+          "E) la influencia de la civilización occidental en todo el planeta."
+        ],
+        "correct": 3,
+        "rationale": "El autor, principalmente, caracteriza a la civilización occidental."
+      },
+      {
+        "statement": "2. En el texto, el término ÁMBITO se emplea en el sentido de",
+        "alternatives": [
+          "A) horizonte.",
+          "B) perímetro.",
+          "C) estancia.",
+          "D) contexto.",
+          "E) recinto."
+        ],
+        "correct": 3,
+        "rationale": "Cuando el autor dice «los hombres que vivimos en el ámbito de la civilización occidental», “ámbito” significa ‘contexto, situación, horizonte’."
+      },
+      {
+        "statement": "3. Para el autor, la civilización occidental tiene un carácter",
+        "alternatives": [
+          "A) populista.",
+          "B) mediático.",
+          "C) religioso.",
+          "D) influyente y la que está en contacto con todas las demás civilizaciones."
+        ],
+        "correct": 3,
+        "rationale": "El texto señala que la civilización occidental es influyente y está en contacto con todas las demás."
+      },
+      {
+        "statement": "4. Resulta incompatible con el texto señalar que la civilización occidental es",
+        "alternatives": [
+          "A) la que tiene una tendencia universal.",
+          "B) responsable de varios avances técnicos.",
+          "C) la más duradera con amplia extensión.",
+          "D) la más dominante e influyente de todas.",
+          "E) superior a las demás por su inteligencia."
+        ],
+        "correct": 4,
+        "rationale": "El autor del texto deja de lado el nivel de inteligencia como un diferenciador entre las civilizaciones."
+      },
+      {
+        "statement": "5. Si solamente se mirara el aspecto técnico de la civilización occidental,",
+        "alternatives": [
+          "A) se entendería el aspecto filosófico de la ciencia y la tecnología.",
+          "B) se daría una mera interpretación ideológica de los occidentales.",
+          "C) se focalizaría en un aspecto secundario de la cultura occidental.",
+          "D) esta no se diferenciaría de las demás civilizaciones del planeta.",
+          "E) se conocería con profundidad la mentalidad de los occidentales."
+        ],
+        "correct": 2,
+        "rationale": "La técnica de la civilización occidental es un aspecto secundario o superficial."
+      }
+    ]
+  },
+  {
+    "type": "reading_comprehension",
+    "statement": "En Italia, desde el siglo XIV, los eruditos intentaban hacer revivir e interpretar de nuevo el canon de las obras clásicas. Para ilustrar la dignitas hominis (la dignidad del hombre) que, según ellos, era subestimada por los filósofos medievales, los human istas volvieron a acudir sobre todo a la filosofía moral de los antiguos, por ser una disciplina basada en la razón y en el uso del sentido común; consideraban que las éticas paganas debían demostrar ser útiles para los laicos que vivían bajo los preceptos la época.\nEsta posición, asociada a una toma de conciencia cada vez más marcada sobre la dignidad y el deber cívicos en la Italia del Renacimiento, fue también aceptada por reformadores como Lutero y, en particular, Melanchthon, quienes mantenían estricta mente por separado lo sagrado y lo profano. Los filósofos humanistas denunciaron, tal vez injustamente, el apego maniático de sus predecesores a la lógica abstracta y deformada del Aristóteles medieval y a su irreprochable pero inhumana disección de cada tema.\nEra en parte una cuestión de estilo: los humanistas estimaban que la toma de conciencia personal acerca del tema moral podía ser más suscitada por un escritor pagano elocuente que por las argucias impersonales de los teólogos de profesión. En realidad ,las obras de Aristóteles contribuyeron mucho al desarrollo de la filosofía moral del Renacimiento, pero los humanistas se inspiraron en otras tres tradiciones antiguas importantes para formar sus ideas éticas y elaborar los modelos de su elocuencia inspirada:\nel idealismo platónico, el estoicismo y el epicureísmo. Lógicamente, la explotación de estas fuentes «paganas» los llevaron a entrar en conflicto con los teólogos de su época.",
+    "questions": [
+      {
+        "statement": "1. Señale la idea principal del texto.",
+        "alternatives": [
+          "A) El Humanismo propicia una reflexión moral basada en las fuentes de la tradición pagana.",
+          "B) La reflexión ética de los humanistas se basó en tres fuentes paganas distintas, aparte de Aristóteles.",
+          "C) Los reformadores como Lutero se adscribieron a las reflexiones éticas de los humanistas.",
+          "D) La reforma religiosa de Lutero fue propiciada por las reflexiones éticas de Aristóteles.",
+          "E) El epicureísmo y el estoicismo fueron las fuentes fundamentales para los del Renacimiento buscó las fuentes paganas, lo cual devino en una fricción con los teólogos de su época."
+        ],
+        "correct": 0,
+        "rationale": "El Humanismo propicia una reflexión moral basada en las fuentes de la tradición pagana."
+      },
+      {
+        "statement": "2. En el texto, la palabra DISECCIÓN adquiere el sentido de",
+        "alternatives": [
+          "A) introspección.",
+          "B) polémica.",
+          "C) disensión.",
+          "D) enfoque.",
+          "E) análisis."
+        ],
+        "correct": 4,
+        "rationale": "La palabra en cuestión adquiere el sentido de análisis."
+      },
+      {
+        "statement": "3. Resulta compatible con el desarrollo textual afirmar que los humanistas",
+        "alternatives": [
+          "A) consideraban a los paganos como más honestos.",
+          "B) entraron en conflicto con los reformadores religiosos.",
+          "C) basaron sus consideraciones éticas en solo tres fuentes.",
+          "D) no aquilataron objetivamente la trascendencia de Aristóteles.",
+          "E) volvieron a la interpretación moral de los antiguos."
+        ],
+        "correct": 4,
+        "rationale": "La filosofía humanista se inspiró en tres fuentes, además de Aristóteles: el idealismo platónico, el estoicismo y el epicureísmo."
+      }
+    ]
+  },
+  {
+    "type": "reading_comprehension",
+    "statement": "Aunque la herencia de los caracteres biológicos se ha reconocido hace miles de años, la primera idea importante sobre el mecanismo implicado se dio hace casi 150 años. En 1866, Gregor Johann Mendel publicó los resultados de una serie de experimentos que sentaron las bases de la genética como disciplina formal. Aunque el trabajo de Mendel pasó largo tiempo inadvertido hasta 1900, después del redescubrimiento del mismo, se estableció el concepto de gen como unidad hereditaria discreta . Se clarificó el modo en que los genes, como miembros de los cromosomas, se transmiten a los descendientes y controlan los caracteres. La investigación ha continuado sin pausa durante el siglo XX. Realmente, los estudios en genética, y más recientemente aquellos que se refieren a l ámbito molecular, han permanecido en la frontera de la investigación biológica desde principios del siglo XX. Cuando Mendel comenzó sus estudios sobre la herencia utilizando Pisum sativum, el guisante de jardín, no se sabía de la existencia de los cromos omas ni del papel y mecanismo de la meiosis. No obstante, Mendel pudo determinar la existencia de unidades de herencia discretas y predecir su comportamiento durante la formación de los gametos. Investigadores posteriores, con acceso a datos citológicos, pudieron relacionar sus observaciones sobre el comportamiento de los cromosomas en la meiosis con los principios de la herencia de Mendel. Una vez que se estableció esta correlación, los postulados de Mendel se aceptaron como la base para el estudio de lo que se conoce como la genética mendeliana o de la transmisión. Estos principios describen de qué manera se transmiten los genes de padres a hijos y derivan directamente de los experimentos de Mendel. Incluso hoy día constituyen la piedra angular de los estudios sobre la herencia.",
+    "questions": [
+      {
+        "statement": "El tema del texto es",
+        "alternatives": [
+          "A) los principios de la herencia de Mendel aplicados a la genética moderna.",
+          "B) el papel de la especie Pisum sativum en los experimentos mendelianos.",
+          "C) el ADN como la unidad hereditaria discreta que controla los caracteres.",
+          "D) el injusto relegamiento de Mendel a pesar de la importancia de sus estudios.",
+          "E) la trascendencia de los estudios mendelianos para el nacimiento de la genética."
+        ],
+        "correct": 4,
+        "rationale": "El texto se dedica a afirmar la importancia de Mendel para la genética de la transmisión. Sus estudios sentaron las bases de la genética como disciplina formal."
+      },
+      {
+        "statement": "La palabra DISCRETA tiene el sentido preciso de",
+        "alternatives": [
+          "A) prudente.",
+          "B) velada.",
+          "C) discontinua.",
+          "D) subrepticia.",
+          "E) sutil."
+        ],
+        "correct": 2,
+        "rationale": "Unidades DISCRETAS alude a unidades separadas unas de otras, es decir, discontinuas."
+      },
+      {
+        "statement": "Resulta compatible con el texto afirmar que",
+        "alternatives": [
+          "A) Mendel supuso que los caracteres se transmitían sin intermediación de unidades físicas.",
+          "B) la transmisión h ereditaria de los caracteres fue descubierta por Gregor Mendel hace 150 años.",
+          "C) las investigaciones modernas han descartado los hallazgos de la investigación de Mendel.",
+          "D) Mendel desconocía el mecanismo específico que permitía la transmisión de caracteres.",
+          "E) Mendel estableció la correlación entre el comportamiento de los cromosomas y de la meiosis. No obstante, Mendel pudo determinar la existencia de unidades de herencia discretas y predecir su comportamiento durante la formación de los gametos”."
+        ],
+        "correct": 3,
+        "rationale": "Es posible inferir que los modernos estudios citológicos"
+      },
+      {
+        "statement": "Es posible inferir que los modernos estudios citológicos",
+        "alternatives": [
+          "A) reproducen los experimentos de Mendel con instrumental más moderno.",
+          "B) fueron iniciados por Mendel con sus experimentos con guisantes de jardín.",
+          "C) obtuvieron resultados concordantes con lo planteado por Mendel.",
+          "D) demuestran una contradicción entre los postulados de Mendel y los mecanismos de la meiosis.",
+          "E) demostraron lo errado de pensar que la herencia se realizaba a través de unidades discretas."
+        ],
+        "correct": 2,
+        "rationale": "El comportamiento de los cromosomas en la meiosis fue asociado a los principios de la herencia de Mendel y con ello sus postulados se aceptaron como la base de la genética de la tran smisión."
+      },
+      {
+        "statement": "Si no se hubiese postulado la existencia de los genes como unidades discretas,",
+        "alternatives": [
+          "A) la investigación mendeliana habría sido considerada desde el inicio como una superchería.",
+          "B) la genética tendría dificultades para demostrar que existe la herencia de caracteres biológicos.",
+          "C) la decisión de Mendel de usar guisantes de jardín para sus experimentos no se habría justificado.",
+          "D) la biología no se hubiese constituido como ciencia formal sino hasta mucho después.",
+          "E) no se habría n clarificado los mecanismos específicos que intervienen en la herencia."
+        ],
+        "correct": 4,
+        "rationale": "Los estudios mendelianos parten precisamente de la necesidad de dar cuenta del mecanismo de la herencia de los caracteres biológicos. Este mecanismo entraña la existencia de los genes como unidades hereditarias."
+      }
+    ]
+  },
+  {
+    "type": "verbal_series",
+    "statement": "2. ¿Qué vocablo no pertenece a la serie verbal?",
+    "alternatives": [
+      "A) taxonomía",
+      "B) histología",
+      "C) taxidermia",
+      "D) virología",
+      "E) citología"
+    ],
+    "correct": 2,
+    "rationale": "No es una rama de la biología."
+  }
+]

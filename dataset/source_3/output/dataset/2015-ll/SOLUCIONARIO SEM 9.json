@@ -1,0 +1,530 @@
+[
+  {
+    "type": "verbal_series",
+    "statement": "Oprobio, humillación, afrenta,",
+    "alternatives": [
+      "A) atribulación",
+      "B) deshonra",
+      "C) estulticia",
+      "D) descaro",
+      "E) indecencia."
+    ],
+    "correct": 1,
+    "rationale": "Serie sinonímica, sigue DESHONRA."
+  },
+  {
+    "type": "verbal_series",
+    "statement": "Salacidad, venalidad; felonía, traición; despecho,",
+    "alternatives": [
+      "A) malquerencia",
+      "B) zozobra",
+      "C) ansiedad",
+      "D) desestimación",
+      "E) inquietud."
+    ],
+    "correct": 0,
+    "rationale": "Serie de sinónimos"
+  },
+  {
+    "type": "verbal_series",
+    "statement": "Oprobio, humillación, afrenta,",
+    "alternatives": [
+      "A) atribulación.",
+      "B) deshonra.",
+      "C) estulticia.",
+      "D) descaro.",
+      "E) indecencia."
+    ],
+    "correct": 1,
+    "rationale": "Serie sinonímica, sigue DESHONRA."
+  },
+  {
+    "type": "verbal_series",
+    "statement": "Salacidad, venalidad; felonía, traición; despecho,",
+    "alternatives": [
+      "A) malquerencia.",
+      "B) zozobra.",
+      "C) ansiedad.",
+      "D) desestimación.",
+      "E) inquietud."
+    ],
+    "correct": 0,
+    "rationale": "Serie de sinónimos"
+  },
+  {
+    "type": "verbal_series",
+    "statement": "¿Cuál es el término que no corresponde al campo semántico?",
+    "alternatives": [
+      "A) Animadversión",
+      "B) Animosidad",
+      "C) Impiedad",
+      "D) Inquina",
+      "E) Ojeriza"
+    ],
+    "correct": 2,
+    "rationale": "El campo semántico es el de la desafección y no el de la impiedad."
+  },
+  {
+    "type": "verbal_series",
+    "statement": "Desazón, esperanza; barahúnda, armonía; serenidad, desesperación;",
+    "alternatives": [
+      "A) perplejidad, duda.",
+      "B) descrédito, detracción.",
+      "C) versatilidad, uniformidad.",
+      "D) analogía, semejanza.",
+      "E) vulnerabilidad, fragilidad."
+    ],
+    "correct": 2,
+    "rationale": "Pares de antónimos que se completan con versatilidad, uniformidad."
+  },
+  {
+    "type": "verbal_series",
+    "statement": "¿Qué término no corresponde al campo semántico?",
+    "alternatives": [
+      "A) Nefando",
+      "B) Inocuo",
+      "C) Protervo",
+      "D) Retorcido",
+      "E) Inicuo"
+    ],
+    "correct": 1,
+    "rationale": "El campo semántico es el de la maldad, perversión, inocuo es inofensivo."
+  },
+  {
+    "type": "verbal_series",
+    "statement": "Elija el antónimo para la siguiente serie: acceder, asentir, tolerar,",
+    "alternatives": [
+      "A) consentir.",
+      "B) conmutar.",
+      "C) disentir.",
+      "D) respaldar.",
+      "E) adherir."
+    ],
+    "correct": 2,
+    "rationale": "serie verbal constituida por sinónimos dentro del campo semántico del permiso o autorización, su antónimo sería disentir."
+  },
+  {
+    "type": "verbal_series",
+    "statement": "Confabular, conspirar, conjurar,",
+    "alternatives": [
+      "A) complotar.",
+      "B) fabular.",
+      "C) cons umar.",
+      "D) conturbar.",
+      "E) aspirar."
+    ],
+    "correct": 0,
+    "rationale": "serie verbal conformada por sinónimos que se completa con complotar."
+  },
+  {
+    "type": "reading_comprehension",
+    "statement": "SEMANA 9B\n\nLas matemáticas proceden por razonamiento deductivo a partir de axiomas enunciados\nexplícitamente. Hasta aquí, sin embargo, no hemos dicho nada de los axiomas. Esto se\ndebe sencillamente a que los axiomas relativos a los números son propiedades tan obvias,\nque los aplicamos en forma automática, sin darnos cuenta de que lo estamos haciendo.\nUna analogía ayudará a entender. Cuando un niño arroja al aire una pelota espera\nque esta y cualquier otra, en realidad, golpeen el piso . Esta suposición, desde luego, está\nbien fundada en la experiencia. Con todo, la expectativa del niño de que la pelota caiga es\ndeducción del supuesto que se acaba de hacer y de la premisa de que está arrojando una\npelota al aire. Al reconocerse que el niño hace una suposición, se trans\ntparenta el razonamiento, consciente o inconsciente, que está detrás del acto.\nPara entender el proceso deductivo de las matemáticas de los números, así como de\nla geometría, debemos reconocer la existencia y el empleo de axiomas. No vacilamos en\nafirmar que 275 + 384 = 384 + 275. De seguro que no agregamos 384 objetos a 275, los\ncontamos para sacar el total, agregamos luego 275 objetos a 384, los contamos para saber\nel total, y verificamos si concuerdan ambos totales. Más bien, sabemos por experiencia que ,\ns siempre que combinamos dos grupos de objetos, vemos que obtenemos la misma colección\ntotal independientemente de que pongamos el primer grupo con el segundo o éste con\naquel. Claro está que nuestra prueba de que no viene al caso el orden en que se haga la\ncombinación se limita a un número pequeño de casos, pero en el terreno de la práctica la\nextendemos a todos los números. De ahí que en realidad estemos haciendo una suposición,\na saber, la de que para cualesquiera dos números a y b, enteros, fraccionario s, irracionales\ny negativos, el orden en que sean sumados no afectará el resultado. Nuestra suposición\nincluye también la afirmación de que\n3 5 5 3 \\uf03d . Hay otra razón importante para\nque se reconozca que se hizo esta suposición. Los números no son ni manzanas ni vacas.\nSon abstracciones de situaciones físicas. Las matemáticas trabajan con estas\nabstracciones para deducir información sobre situaciones físicas. Por eso, sino se eligen\nbien los axiomas, las deducciones carecerán de validez. Consiguientemente, conviene\nadvertir qué suposiciones se están empleando y averiguar si tienen buenos fundamentos\nen la experiencia.\nKline, M. (2009) Matemática para estudiantes de humanidades . México: Fondo de Cultura Económica .",
+    "questions": [
+      {
+        "statement": "¿Cuál es el tema central del texto?",
+        "alternatives": [
+          "A) La matemática y su fundamento en la abstracción de n úmeros reales",
+          "B) La matemática y sus abstracciones para afirmar axiomas sobre física",
+          "C) El muy obvio fundamento experimental de las matemáticas: el axioma.",
+          "D) La función de los axiomas el mundo experimental de las matemáticas",
+          "E) Los axiomas matemáticos, una explicación de qué son y cómo operan"
+        ],
+        "correct": 4,
+        "rationale": "Se hace hincapié en la explicación sobre qué son y cómo operan los axiomas, incluso como un conjunto de supuestos que se relacionan con la experiencia."
+      },
+      {
+        "statement": "La expresión GOLPEEN EL PISO connota",
+        "alternatives": [
+          "A) caída.",
+          "B) violencia.",
+          "C) continuidad.",
+          "D) caución.",
+          "E) contrariedad."
+        ],
+        "correct": 0,
+        "rationale": "Al mencionarse que cuando una pelota es lanzada hacia arriba, en realidad se busca que golpee el piso, se da a entender que se asume como inevitable la caída."
+      },
+      {
+        "statement": "De los datos 3 5 5 3 \\uf03d o 275+384=384+275 ,se colige que",
+        "alternatives": [
+          "A) la conmutatividad opera considerando el número y la función que lo acompaña.",
+          "B) el axioma no radica en la abstracción numérica sino en lo conmutable de la suma",
+          "C) ha sido necesario experimentar con una gran cantidad de casos para afirmar ello.",
+          "D) son solo conmutables las raíces cuadradas y las sumas de números racionales.",
+          "E) las raíces, siempre que sean cuadradas, equivalen a números enteros de 3 cifras."
+        ],
+        "correct": 1,
+        "rationale": "“para cualesquiera dos números a y b, (…), el orden en que sean sumados no afectará el resultado”. Por ende, son conmutables por la función de la suma."
+      },
+      {
+        "statement": "Es incoherente con lo afirmado por el texto sostener que",
+        "alternatives": [
+          "A) lanzar una pelota al aire implica asumir que esta caerá, un niño es tan consciente de esto que obvia razonarlo.",
+          "B) la elección adecuada de los axiomas le asegura al sujeto que la validez de sus deducciones está asegurada.",
+          "C) una persona no necesita experimentar un sinfín de combinaciones en la suma para asumir que es conmutativa.",
+          "D) la aplicación de un axioma, sobre todo de un axioma matemático, exige que el sujeto sea consciente de ello.",
+          "E) la aplicación de un axioma se da en la experiencia real de modo tan natural que se hace al margen de la reflexión."
+        ],
+        "correct": 3,
+        "rationale": "“los axiomas relativos a los números son propiedades tan obvias, que los aplicamos en forma automática”; es decir, sin que seamos conscientes de ello."
+      }
+    ]
+  },
+  {
+    "type": "reading_comprehension",
+    "statement": "La rebelión de las masas, aunque publicado en 1930, había sido anticipado en artículos y ensayos desde dos o tres años antes. El libro se estructura alrededor de una intuición genial: ha terminado la primacía de las elites; las masas, liberadas de la sujeción de aquéllas, han irrumpido en la vida de manera determinante, provocando un trastorno profundo de los valores cívicos y culturales y de las maneras de comportamiento social. Escrito en plena ascensión del comunismo y los fascismos, del sindicalismo y de los primeros brotes de una cultura popular de consumo masivo, la intuición de Ortega establece uno de los rasgos claves de la vida moderna. También lo es que su crítica a este fenómeno se apoye en la defensa del individuo, cuya soberanía ve amenazada —en muchos sentidos ya arrasada — por esta irrupción incontenible de la muchedumbre —de lo colectivo — en la vida contemporánea […]. La \"masa\" a que Ortega se refiere abraza transversalmente a hombres y mujeres de distintas clases sociales, igualándolos en un ser colectivo en el que se han fundido, abdicando de su individualidad soberana para adquirir la de la colectividad, para ser nada más que una \"parte de la tribu\". La masa, en el libro de Ortega, es un conjunto de individuos que se han desindividualizado, dejado de ser unidades humanas libres y pensantes, para disolverse en una colectividad que piensa y actúa por ellos, más por reflejos condicionados -emociones, instintos, pasiones -que por razones. Estas masas son las que por aquellos años ya coagulaba entorno suyo en Italia Benito Mussolini, y se arremolin arían cada vez más en los años siguientes en Alemania entorno a Hitler, o en Rusia, para venerar a Stalin, el \"padrecito de los pueblos\". El comunismo y el fascismo, dice Ortega, \"dos claros ejemplos de regresión sustancial\", son ejemplos típicos de la conversión del individuo en el hombre -masa.",
+    "questions": [
+      {
+        "statement": "1. La idea principal del texto sostiene que",
+        "alternatives": [
+          "A) las élites han sido desplazadas por la colectividad, emotiva e irracional.",
+          "B) la irrupción del hombre -masa es un fenómeno curioso y poco frecuente.",
+          "C) la resistencia de lo individual exige asumir un sujeto emotivo y pasional.",
+          "D) para Ortega y Gasset lo individuales el rasgo central de la modernidad.",
+          "E) el hombre -masa ha terminado por extinguir valores cívicos y culturales."
+        ],
+        "correct": 0,
+        "rationale": "Lo central muestra cómo la “masa”, emotiva e irracional, cobra protagonismo en el ordenamiento sociocultural en desmedro de la individualidad y las élites."
+      },
+      {
+        "statement": "2. En el segundo párrafo , el término COAGULABA connota",
+        "alternatives": [
+          "A) efervescencia.",
+          "B) distensión.",
+          "C) radicalización.",
+          "D) concentración.",
+          "E) dispersión."
+        ],
+        "correct": 3,
+        "rationale": "“Estas masas son las que por aquellos años ya coagulaba entorno suyo… ”; es decir, aglomeraba, concentraba."
+      },
+      {
+        "statement": "3. Es incompatible con el texto sostener que",
+        "alternatives": [
+          "A) la muchedumbre actúa siempre de modo temperamental, al margen de razones.",
+          "B) la irrupción del hombre -masa se da como alterna al individuo, ambos compiten.",
+          "C) las élites han sido desplazadas por gentíos aglutinados entorno a sus líderes.",
+          "D) el sujeto renuncia a sus rasgos individuales para hacerse uno solo con la masa.",
+          "E) la pérdida de protagonismo individual ha alterado los comportamientos sociales."
+        ],
+        "correct": 1,
+        "rationale": "Hacia el final del texto se afirma que el individuo se convierte en el hombre -masa, por ende, el proceso no es paralelo sino que implica una transformación."
+      },
+      {
+        "statement": "4. En relación a los valores cívicos y culturales, se infiere que",
+        "alternatives": [
+          "A) la masa altera valores y cultura, no los suprime, postula un nuevo ordenamiento.",
+          "B) la masa al ser irracional propendió hacia la supresión de cualquier orden cívico.",
+          "C) la masa consolida una visión cívica que propone como protagonista al individuo.",
+          "D) la masa es anarquista, por lo tanto, persigue a las élites amparadas en lo cívico.",
+          "E) en una sociedad gobernada por la masa ni los valores ni la cultura son posibles."
+        ],
+        "correct": 0,
+        "rationale": "\"Las masas trastocan profundamente los valores cívicos y culturales\"; es decir, los alteran, distinto a suprimir, eliminar o soslayar."
+      },
+      {
+        "statement": "5. Si el fenómeno del surgimiento de las masas no se hubiera dado durante la primera mitad del siglo XX, entonces",
+        "alternatives": [
+          "A) las élites gobernantes h abrían cedido el poder, pues estaban desprestigiadas.",
+          "B) el individuo se habría visto obligado a recurrir a formas radicales de expresión.",
+          "C) el ordenamiento cívico y cultural se habrían visto muy profundamente afectados .",
+          "D) la defensa del individuo habría sido intensa, pues confrontaría individualidades.",
+          "E) el fascismo italiano y el nazismo, probablemente, no h abrían llegado al poder."
+        ],
+        "correct": 4,
+        "rationale": "Tanto el fascismo como el nazismo fueron movimientos de masas, sin ese respaldo, probablemente, no habrían tenido opción de llegar al poder."
+      }
+    ]
+  },
+  {
+    "type": "sentence_elimination",
+    "statement": "1. I) Su nombre oficial no es Irán sino más bien República Islámica de Irán y ello de por sí ya dice mucho II) Irán está ubicado, geográficamente, como un Estado de Oriente Medio y Asia Occidental. III) La región que desde el primer milenio a. C. hasta 1935 fue conocida en Occidente como Persia es lo que hoy recognocemos como Irán, ambos nombres son válidos y aceptados por los propios iraníes. IV) Irá n limita con Pakistán y Afganistán por el este; Turkmenistán por el noreste, el mar Caspio por el norte y Azerbaiyán y Armenia por el noroeste; el golfo Pérsico y el golfo de Omán por el sur; Turquía e Irak por el oeste. V) La rivalidad que sostuvo Irak con Irán, el Irak de Saddam Hussein, era por su cariz religioso, pues la elite gobernante iraquí, por aquel entonces, era suní.",
+    "alternatives": [
+      "A) V",
+      "B) II",
+      "C) III",
+      "D) IV",
+      "E) I"
+    ],
+    "correct": 0,
+    "rationale": "Se elimina la oración V por impertinencia. El eje temático es Irán, la oración V gira entorno a Irak."
+  },
+  {
+    "type": "sentence_elimination",
+    "statement": "2. I) El Winchester es un arma creada en 1866 cuyo nombre es sinónimo de “fusil de repetición” II) El Winchester es un arma con acción de palanca de la segunda mitad del siglo XIX; III) O. Winchester fabricó y patentó en 1860 el fusil Henry, que habría servido de inspiración para otros fusiles del mismo sello. IV) El modelo de fusil Winchester fue fabricado por iniciativa de Oliver Winchester, presidente de Winchester Repeating Arms Company , V) Fusiles como el Winchester pertenecen a aquellos primeros fusiles que permitían disparar varias veces sin necesidad de recargar, desalojando el casquillo usado y reemplazándolo por un cartucho nuevo.",
+    "alternatives": [
+      "A) I",
+      "B) II",
+      "C) III",
+      "D) IV",
+      "E) V"
+    ],
+    "correct": 2,
+    "rationale": "Se elimina la oración III por impertinencia. El tema es el fusil Winchester y no el Henry."
+  },
+  {
+    "type": "sentence_elimination",
+    "statement": "3. I) Según el mito, arácnido deriva de aracné ; al parecer la diosa Atena convirtió a una hábil tejedora de nombre Aracné en una araña, lo hizo al sentir celos por la calidad de sus tejidos. II) La aracnofobia es el asco o miedo irracional hacia las arañas. III) La aracnofobia se caracteriza por sudoración, respiración rápida, taquicardia y náuseas. IV) Las reacciones de los aracnofóbicos suelen parecer exageraciones para las demás personas, poco interesadas en comprender las implicancias psicológicas. V) Los aracnofóbicos procuran mantenerse alejados de cualquier sitio donde creen que habitan arañas.",
+    "alternatives": [
+      "A) V",
+      "B) II",
+      "C) III",
+      "D) IV",
+      "E) I"
+    ],
+    "correct": 4,
+    "rationale": "Se elimina la oración I por inatingencia. El tema es la aracnofobia y no el origen mítico del término arácnido."
+  },
+  {
+    "type": "sentence_elimination",
+    "statement": "4. I) Ébano es la denominación que recibe una densa madera de color negro. II) El ébano es el producto de la combinación de varias especies del género Diospyros , III) El Diospyros dendro (D. crassiflora , ébano de Gabón) es una especie de ébano nativa del oeste de África. IV) Algunas especies bien conocidas de ébano incluyen Diospyros ebnum (ébano de Ceilán), nativa del sur de India y Sri Lanka. V) El ébano es una madera cuyo colores uno de los negros más intensos que se conocen, y por su muy alta densidad es una de las pocas maderas que se hunden en el agua.",
+    "alternatives": [
+      "A) II",
+      "B) V",
+      "C) III",
+      "D) IV",
+      "E) I"
+    ],
+    "correct": 4,
+    "rationale": "Se elimina la oración I por redundancia con la oración V."
+  },
+  {
+    "type": "sentence_elimination",
+    "statement": "5. I) La polimerización se encarga de procesar polímeros como el almidón, la seda ola celulosa naturalmente en los seres vivos. II) Los polímeros son macromoléculas cuya composición está basada en el conjunto de monómeros III) En la polimerización cada cadena tiene un tamaño distinto y, por tanto, una masa molecular distinta. IV) En una polimerización el tamaño de la cadena dependerá de parámetros como la temperatura o el tiempo de reacción. V) La polimerización en cadena, es la reacción que sintetiza un polímero como el ADN.",
+    "alternatives": [
+      "A) I",
+      "B) II",
+      "C) III",
+      "D) IV",
+      "E) V"
+    ],
+    "correct": 1,
+    "rationale": "Se elimina II por impertinencia. El tema es la polimerización como proceso y no la composición de los polímeros."
+  },
+  {
+    "type": "sentence_elimination",
+    "statement": "6. I) El sistema operativo Android, basado en el núcleo Linux, fue diseñado principalmente para dispositivos móviles con pantalla táctil. II) El sistema Android, popular entre dispositivos táctiles como teléfonos inteligentes o tablets, también regula el funcionamiento de relojes inteligentes, televisores y automóviles. III) Android fue desarrollado por Android Inc., empresa financiada por Google, en 2005 está última la compró. IV) El primer móvil con el sistema operativo Android fue el HTC Dream y se vendió en octubre de 2008. V) El éxito del sistema operativo Android, basado en el núcleo Linux, se ha convertido en objeto de litigios sobre patentes, pues los dispositivos de Android venden más que las ventas combinadas de Windows Phone e IOS.",
+    "alternatives": [
+      "A) I",
+      "B) II",
+      "C) III",
+      "D) IV",
+      "E) V"
+    ],
+    "correct": 0,
+    "rationale": "Se elimina I por redundancia con la II y la V."
+  },
+  {
+    "type": "reading_comprehension",
+    "statement": "SEMANA 9C\n\nDurante siglos el hombre de la calle tuvo más fe en la hechicería que en la ciencia: para\nganarse la vida, Kepler necesitó trabajar de astrólogo; hoy los astrólogos anuncian en los\ndiarios que sus procedimientos son estrictamente científicos. El ciudadano cree con fervor\nen la ciencia y rinde pleitesía a Einstein y a Madame Curie. Pero, por un destino\nmelancólico, en este momento de esplendor popular muchos profesionales comienzan a\ndudar de su poder. El matemático y filósofo inglés A. N. Whitehead nos dice que la ciencia\ndebe aprender de la poesía; cuando un poeta canta las bellezas del cielo y de la tierra no\nmanifiesta las fantasías de su ingenua concepción del mundo, sino los hechos concretos\nde la experiencia “desnaturalizados por el análisis científico ”.\n\nEs difícil separar el conocimiento vulgar del científico; pero quizá pueda decirse que el\nprimero se refiere a lo particular y concreto, mientras que el segundo se refiere a lo general\ny abstracto. Así, a medida que la ciencia se vuelve más abstracta y en consecuencia más\nlejana de los problemas, de las preocupaciones, de las palabras de la vida diaria, su utilidad\naumenta en la misma proporción. Una teoría tiene tantas más aplicaciones cuanto más\nuniversal, y por lo tanto cuanto más abstracta, ya que lo concreto se pierde con lo particular.\nEl poder de la ciencia se adquiere gracias a una especie de pacto con el diablo: a costa de\nuna progresiva evanescencia del mundo cotidiano. Llega a ser monarca, pero, cuando lo\nlogra, su reino es apenas un reino de fantasmas.\n\nEl análisis científico es deprimente: como los hombres que ingresan en una penitenciaría,\nlas sensaciones se convierten en números. El verde de aquellos árboles que el aire menea\nocupa una zona del espectro alrededor de las 5000 unidades Angström ; el manso ruido es\ncaptado por micrófonos y descompuesto en un conjunto de ondas caracterizadas cada una\npor un número; en cuanto al olvido del oro y del cetro, queda fuera de la jurisdicción del\ncientífico, porque no es susceptible de convertirse en matemática. El mundo de la ciencia\nignora los valores: un geómetra que rechazara el teorema de Pitágoras por considerarlo\nperverso tendría más probabilidades de ser internado en un manicomio que de ser\nescuchado en un congreso de matemáticos.\n\nSábato, E. (1968) Uno y el universo. Argentina: Tauro.\nRecupera do de: https://iiejf499r8rowjfedjf03.bookz.lt/Literatura/S/\n",
+    "questions": [
+      {
+        "statement": "¿Cuál es el tema central del texto?",
+        "alternatives": [
+          "A) La ciencia y su abstracción, un poder ejercido desde lo no real",
+          "B) La ciencia y el combate contra el saber vulgar de profesionales",
+          "C) El análisis científico, una depresión numérica de la cotidianidad",
+          "D) Hechicería versus ciencia, la necesidad de abstraer la realidad",
+          "E) Los procesos científicos, una muestra del poderío de la ciencia"
+        ],
+        "correct": 0,
+        "rationale": "El autor reflexiona entorno a la paradoja de la ciencia: tiene y ejerce poder (abstracción -utilidad) pero no lo hace desde mundo real."
+      },
+      {
+        "statement": "La expresión RINDE PLEITESÍA connota",
+        "alternatives": [
+          "A) sumisión.",
+          "B) desacato.",
+          "C) respeto.",
+          "D) conquista.",
+          "E) comprensión."
+        ],
+        "correct": 2,
+        "rationale": "la gente cree con fervor y muestra su RESPETO por los científicos."
+      },
+      {
+        "statement": "Es incompatible con el texto sostener que",
+        "alternatives": [
+          "A) la ciencia tiende a abstraer hechos, con ello rompe el vínculo.",
+          "B) el conocimiento vulgar gira entorno a lo particular y concreto.",
+          "C) la ciencia gana poder con la universalidad de sus postulados.",
+          "D) la ciencia puede desnaturalizar los hechos de la experiencia.",
+          "E) la ciencia tiende a mantener un vínculo fluido con los hechos."
+        ],
+        "correct": 4,
+        "rationale": "es precisamente, la ruptura con los hechos lo que más se le critica en el texto a la ciencia. Por ende, no mantiene un vínculo fluido."
+      },
+      {
+        "statement": "De la metáfora “Llega a ser monarca, pero, cuando lo logra, su reino es apenas un reino de fantasmas” es posible inferir que",
+        "alternatives": [
+          "A) la ciencia expresa aspiraciones políticas, pero los países están devastados.",
+          "B) toda organización política recurre a científicos desconocidos como líderes.",
+          "C) la ciencia logra tener poder cuando se asocia con la política, así gobiernan.",
+          "D) el poder que alcanza la ciencia se ejerce, en esencia, sobre abstracciones.",
+          "E) el poder al que aspira la ciencia es un poder concreto, no es un poder iluso."
+        ],
+        "correct": 3,
+        "rationale": "En el proceso de asumir las abstracciones como la base de su quehacer, alcanza gran poder, pero lo ejerce, precisamente, sobre tales abstracciones."
+      },
+      {
+        "statement": "Si el planteamiento central del texto fuera a la inversa; es decir, si la ciencia rechazara las abstracciones, etc., principalmente, ¿qué podríamos afirmar?",
+        "alternatives": [
+          "A) El conocimiento de la realidad sería mucho más limitado.",
+          "B) El trabajo de la ciencia seria indescriptible e indescifrable.",
+          "C) El conocimiento de la realidad sería mucho más profundo.",
+          "D) Conocer la realidad sería imposible sin las abstracciones.",
+          "E) Conocer la realidad sería sencillo, sin las abstracciones."
+        ],
+        "correct": 0,
+        "rationale": "Se critican las abstracciones, pero no se niega que estas concedan poder a la ciencia, el poder de comprender con más profundidad. Si se planteara el caso contrario tendríamos la alternativa A."
+      }
+    ]
+  },
+  {
+    "type": "reading_comprehension",
+    "statement": "Aparte de la astronomía, las matemáticas son quizá la rama del pensamiento humano más\nantigua y con más persistencia cultivada. Por otro lado, a diferencia de las ciencias físicas,\nla filosofía y las ciencias sociales, en el campo de las matemáticas muy poco es lo que se\nha creado y luego descartado. El desarrollo de las matemáticas es acumulativo; esto es,\nlas creaciones más recientes se fundan, lógicamente hablando, en las anteriores. De ahí\nque por lo común deba uno entender los resultados antiguos para dominar los nuevos.\nEstos hechos nos aconsejan que nos remontemos a los orígenes mismos de las\nmatemáticas.\nAl examinar las primeras civilizaciones, inmediatamente salta a la vista un hecho notable.\nNo obstante que han existido cientos de sociedades humanas, muchas de ellas con gran\narte, literatura, filosofía, religión e instituciones sociales complejas, fueron muy pocas las\nque poseyeron conceptos matemáticos de los que valga la pena hablar. Muchas de ellas\napenas si rebasaron la etapa de saber contar hasta cinco o diez. En algunas de esas\nremotas sociedades se dieron unos cuantos pasos en el terreno de las matemáticas. En\ntiempos prehistóricos, lo que más o menos significa antes del año 4000 a. C., hubo\ncivilizaciones que ya pensaban en los números como conceptos abstractos. Esto significa\nque reconocían que tres ovejas y tres flechas poseían algo en común, el número llamado\ntres, en el que podía ponerse desligado de cualquier objeto físico. Cada uno de nosotros,\nen los primeros años de escuela, pasa por el mismo proceso de separar los números de los\nobjetos físicos. La apreciación del “número” como idea abstracta es un gran paso, quizás\nel primero, en el largo camino de fundar las matemáticas.\nOtro adelanto fue la introducción de las operaciones aritmétic as. Es toda una proeza sumar\nlos números que representan dos colecciones de objetos y obtener el total, en lugar de\ncontar uno por uno los objetos de las colecciones combinadas. Y lo mismo sucede con la\nresta, la multiplicación y la división. Los primeros procedimientos para realizar estas\noperaciones fueron burdos y enredados en comparación con los nuestros, pero las ideas y\nsus aplicaciones ya estaban allí.\n\nKline, M. (2009) Matemática para estudiantes de humanidades . México: Fondo de Cultura Económica",
+    "questions": [
+      {
+        "statement": "Centralmente, el texto trata sobre",
+        "alternatives": [
+          "A) el origen de las matemáticas y sus saberes acumulativos.",
+          "B) las matemáticas y la astronomía, sus leyes y aplicaciones.",
+          "C) el número como idea abstracta en operaciones prelógicas.",
+          "D) la matemática comparada con otros saberes civilizadores.",
+          "E) la evolución de las ciencias y los saberes lógicos comunes."
+        ],
+        "correct": 0,
+        "rationale": "El texto aborda centralmente la aparición de las matemáticas y el tipo particular de saber que posee, acumulativo."
+      },
+      {
+        "statement": "En el texto, el sentido de la expresión SALTAR A LA VISTA es",
+        "alternatives": [
+          "A) aparecer.",
+          "B) enrarecer.",
+          "C) ocultarse.",
+          "D) surgir.",
+          "E) sobresalir."
+        ],
+        "correct": 4,
+        "rationale": "salta a la vista porque llama la atención de entre todo lo que hay, es decir, sobresale."
+      },
+      {
+        "statement": "Resulta incompatible con el texto aseverar que",
+        "alternatives": [
+          "A) las nociones matemáticas nacen con las civilizaciones de nuestra era.",
+          "B) la abstracción matemática implica separar cantidad de representación.",
+          "C) los procedimientos aritméticos fueron en principio r ústicos y enredados.",
+          "D) en las matemáticas no hubo grandes revoluciones, el saber se acumula.",
+          "E) se considera la abstracción del número como el origen de la matemática."
+        ],
+        "correct": 0,
+        "rationale": "“En tiempos prehistóricos, […] antes del año 4000 a. C., hubo civilizaciones que ya pensaban en los números como…” a. C. equivale a nuestra era."
+      },
+      {
+        "statement": "Del texto se infiere que la matemática",
+        "alternatives": [
+          "A) buscó contribuir y apoyar a otros saberes para construir civilizaciones.",
+          "B) tuvo como pretensión inicial y permanente la complejidad y el enredo.",
+          "C) incentivó en sociedades antiguas el surgimiento de la religión y el arte.",
+          "D) fue desde su origen un saber de desarrollo autosuficiente y autónomo.",
+          "E) justifica su existencia en la necesidad insoslayable que se tenía de ella."
+        ],
+        "correct": 3,
+        "rationale": "Autosuficiente porque no necesitó del auxilio de otros saberes para avanzar, y autónomo porque se construyó sin interrelación aparente con otros conocimientos."
+      },
+      {
+        "statement": "Si las matemáticas fueran equiparables a la física o a las ciencias sociales, entonces",
+        "alternatives": [
+          "A) el momento y la cultura en que aparece la matemática sería de vital importancia para entender su evolución.",
+          "B) los objetos de estudio de la matemática no se habrían podido abstraer de la realidad, como el número.",
+          "C) no tendríamos necesidad de estudiar la geometría euclidiana para entender las ecuaciones de Newton.",
+          "D) muchas civilizaciones no habrían tenido necesidad de ella, como no la tuvieron de las CC.SS. o de la física.",
+          "E) su desarrollo habría sido autosuficiente, pues habría estado interconectada con el saber de otras ciencias."
+        ],
+        "correct": 2,
+        "rationale": "Al ser equiparables, la matemática habría sufrido revoluciones y habría descartado muchos de los saberes más antiguos, como la geometría de Euclides."
+      }
+    ]
+  },
+  {
+    "type": "reading_comprehension",
+    "statement": "Las proposiciones son los ladrillos con los que están hechos los argumentos. [De ahí la\nimportancia de saber qué es una proposición, consideremos como tal la siguiente: “conjunto\nfinito de símbolos lingüísticos que, con pleno sentido, pueden ser calificado s como\nverdaderos o falsos” (Piscoya, 2007)]. Cuando afirmamos o llegamos a una proposición\nbasándonos en otras proposiciones, decimos que hemos hecho una inferencia. La\ninferencia es el proceso que puede ligar a un conjunto de proposiciones. Algunas\ninferencias son justificadas o correctas, otras no. Para determinar si una inferencia es\ncorrecta o no, el lógico examina las proposiciones con las que inicia y termina el proceso y\nlas relaciones entre estas proposiciones. Este conjunto de proposiciones constituye un\nargumento. Los argumentos son el principal objeto de estudio de la lógica.\n\nTal como los lógicos utilizan la palabra, un argumento es un grupo de proposiciones del\npara la verdad de este . Evidentemente, la palabra argumento a menudo se utiliza con otros\nsentidos, pero en lógica se utiliza estrictamente en el sentido que se acaba de explicar.\nPara cada inferencia posible existe un argumento correspondiente.\n\nEstá claro que un argumento no es meramente una colección de proposiciones; un pasaje\npuede contener varias proposiciones relacionadas y aun así no contener ningún argumento.\nPara que pueda decirse que existe un argumento, tiene que haber alguna estructura e n ese\nconjunto de proposiciones, una estructura que capture o muestre alguna inferencia. Esta\nestructura se describe utilizando los términos premisa y conclusión. La conclusión de un\nargumento es la proposición que se afirma con base en otras proposiciones del argumento.\nEstas otras proposiciones, las cuales se afirma (o se asume) que son soporte de la\nconclusión, son las premisas del argumento.\n\nEl argumento más simple consiste en una premisa y una conclusión, la cual se dice que se\nsigue de la primera. Ca da una puede enunciarse en oraciones separadas. [Por ejemplo:]\n\n- Nadie estaba presente cuando surgió la vida por primera vez sobre la Tierra. Por lo\ntanto, cualquier enunciado acerca del origen de la vida tiene que ser considerado una\nteoría ,no un hecho.\n\nCopi, I. (2002). Introducción a la lógica. México: Limusa. Adaptado: Ortiz, W.\n",
+    "questions": [
+      {
+        "statement": "¿Cuál es el tema central del texto?",
+        "alternatives": [
+          "A) Definición de las premisas proposicionales",
+          "B) Los argumentos y su estructuración lógica",
+          "C) Las premisas proposicionales en la lógica",
+          "D) La inferencia relacionada a la proposición",
+          "E) Los argumentos verdaderos y los inválidos"
+        ],
+        "correct": 1,
+        "rationale": "Al afirmar dicha alternativa se incluye automáticamente toda la estructura interna del argumento, desde el punto de vista de la lógica proposicional."
+      },
+      {
+        "statement": "En el ejemplo, el término TEORÍA se puede reemplazar por",
+        "alternatives": [
+          "A) ilusión.",
+          "B) falsedad",
+          "C) premisa.",
+          "D) conjetura.",
+          "E) evidencia."
+        ],
+        "correct": 3,
+        "rationale": "Teoría como hipótesis, conjetura, conjunto de supuestos explicativos."
+      },
+      {
+        "statement": "Se puede colegir del texto que, para la mayoría, un “argumento”",
+        "alternatives": [
+          "A) tiene estructura lógica y parte de afirmaciones inferenciales.",
+          "B) es cualquier afirmación basada en un sentido lógico estricto.",
+          "C) solo se considera verdadero si tiene premisas y conclusión.",
+          "D) es de gran interés para las ciencias sociales y la matemática.",
+          "E) puede no tener conclusión y solo ser un conjunto de datos."
+        ],
+        "correct": 4,
+        "rationale": "“evidentemente, la palabra argumento se utiliza con otros sentidos”; se infiere que muchos llamarán “argumento” a un conjunto de datos sin conclusión."
+      }
+    ]
+  },
+  {
+    "type": "sentence_elimination",
+    "statement": "Se puede colegir del texto que, para la mayoría, un “argumento”",
+    "alternatives": [
+      "A) tiene estructura lógica y parte de afirmaciones inferenciales.",
+      "B) es cualquier afirmación basada en un sentido lógico estricto.",
+      "C) solo se considera verdadero si tiene premisas y conclusión.",
+      "D) es de gran interés para las ciencias sociales y la matemática.",
+      "E) puede no tener conclusión y solo ser un conjunto de datos."
+    ],
+    "correct": 4,
+    "rationale": "evidentemente, la palabra argumento se utiliza con otros sentidos”; se infiere que muchos llamarán “argumento” a un conjunto de datos sin conclusión."
+  },
+  {
+    "type": "sentence_elimination",
+    "statement": "¿Qué enunciado se condice con lo afirmado en el texto?",
+    "alternatives": [
+      "A) Las proposiciones son construcciones lógicas relacionadas entre sí, únicamente, como un conjunto de premisas.",
+      "B) La conclusión, para la lógica, no es una proposición, es un argumento autónomo, con una estructura muy particular.",
+      "C) La inferencia está constituida por una serie inconexa de eslabones ordenados, según aparecen en el argumento.",
+      "D) El argumento es el conjunto de proposiciones vinculadas por la inferencia, ya sea a nivel de premisas o conclusión.",
+      "E) Los términos inferencia y proposición son considerados como sinónimos por la lógica, ello provoca confusiones."
+    ],
+    "correct": 3,
+    "rationale": "Tanto las premisas como la conclusión son aseveraciones, es decir, son proposiciones vinculadas por inferencia. Son evidentes los errores de las otras claves."
+  },
+  {
+    "type": "sentence_elimination",
+    "statement": "Asumiendo la necesidad de construir un argumento lógico y considerando el concepto de proposición, es posible afirmar que",
+    "alternatives": [
+      "A) las preguntas y las órdenes no pueden ser la parte central de un argumento lógico.",
+      "B) las combinaciones de símbolos lingüísticos serían infinitas, eso lo hace imposible.",
+      "C) es evidente que no se condice con lo real, hay que pensar en un nuevo concepto.",
+      "D) se nos ofrece un nebuloso panorama lingüístico para construir argumentaciones.",
+      "E) si lo aceptamos caeríamos, sin remedio, en la tiranía de la lógica y el cientificismo."
+    ],
+    "correct": 0,
+    "rationale": "Preguntas y órdenes no se pueden calificar como verdaderas o falsas, en sí mismas. Por ello, no son proposiciones ni pueden serlo central en un argumento."
+  }
+]

@@ -1,0 +1,412 @@
+[
+  {
+    "type": "reading_comprehension",
+    "statement": "En esta época que nos ha tocado vivir cualquier tipo de conocimiento científico tiene\nque vérselas con una oposición organizada y a menudo furibunda. Alentados por sus\npropias fuentes de información y sus propias interpretaciones de los trabajos de\ninvestigación, los escépticos han declarado la guerra al consenso de los expertos. Hoy hay\ntantas polémicas de este estilo que se diría que una mano diabólica ha pues to en el agua\nalguna sustancia que convierte a los ciudadanos en contestatarios. Y se habla tanto de esta\ntendencia —en libros, artículos y congresos académicos — que el escepticismo para con la\nciencia se ha convertido en sí mismo en un meme de la cultura popular.\nEn cierto sentido ,todo ese escepticismo puede ser lógico . Hoy nos enfrentamos a\nunos riesgos cuyo análisis no resulta fácil. Se nos pide que aceptemos, por ejemplo, que\nno hay peligro en consumir alimentos que contienen organismos genéticamente\nmodificados (OGM), porque según los expertos no existen pruebas de lo contrario ni\nrazones para pensar que la alteración específica de unos genes en un laboratorio sea más\npeligrosa que su alteración indiscriminada mediante la hibridación tradicional. Per o hay\nquien piensa en la idea de transferir genes de una especie a otra y se imagina a un científico\nloco haciendo estragos. Y así, dos siglos después de que Mary Shelley\nescribiese Frankenstein ,hay quien habla de frankenfood . Cuando el mundo es un hervidero\n\ndirecto con fluidos corporales, mute y comience a transmitirse por vía aérea ? Hay consenso\ncientífico en considerar que eso sería extremadamente improbable: nunca se ha visto que\nun virus cambie radicalmente su modo de transmisión en humanos y tampoco hay la más\nmínima prueba de que la última cepa del Ébola vaya a ser una excepción. Pero si uno teclea\n«transmisión aérea del Ébola» en un buscador de internet, accederá a una distopía en la\nque el virus en cuestión posee poderes casi sobrenaturales, entre ellos el de matarnos a\ntodos. En este mundo desconcertante debemos decidir en qué creer y cómo actuar en\nconsecuencia. En principio, para eso existe la ciencia. «La ciencia no es un corpus de datos\n—dice la geofísica Marcia McNutt, que en su día estuvo al frente del Servicio Geológico de\nEstados Unidos y hoy dirige la prestigiosa revista Science—. La ciencia es un método para\ndecidir si aquello en lo que elegimos creer se basa en las leyes de la naturaleza o no ». Pero\npara la mayoría de nosotros este método no surge de forma natural. Y por eso metemos la\npata, una y otra vez, creyendo que son verdaderas cosas que en realidad son falsas.\n\nACHENBACH, J. (2015). «¿Crece la incredulidad ante la ciencia?». En: National\nGeographic en español . Recuperado el 18 de abril de 2015 de\nhttp://www.nationalgeographic.com.es/articulo/ng_magazine/reportajes/9953/crece_escept\nicismo_hacia_ciencia.html",
+    "questions": [
+      {
+        "statement": "El texto se centra fundamentalmente en",
+        "alternatives": [
+          "A) la distopía de datos sobre el virus del Ébola.",
+          "B) el pánico a la transmisión aeróbica del Ébola .",
+          "C) el actual y creciente escepticismo en la ciencia.",
+          "D) la resistencia irracional a los alimentos GMO.",
+          "E) el origen espontáneo del conocimiento científico."
+        ],
+        "correct": 2,
+        "rationale": "En el texto se desarrolla la creciente ola de incredulidad respecto de conocimientos científicamente sostenidos. El avance científico y tecnológico ha traído paradójicamente un creciente escepticismo que rechaza la validez de la ciencia."
+      },
+      {
+        "statement": "La palabra ALENTADO se puede reemplazar por",
+        "alternatives": [
+          "A) vigorizado.",
+          "B) resistente.",
+          "C) valiente.",
+          "D) mejorado.",
+          "E) estimulado."
+        ],
+        "correct": 4,
+        "rationale": "Se refiere al impulso que genera en la gente el acopio de información que rechaza las hipótesis científicas. Por eso, el sinónimo en contexto es ESTIMULADO."
+      },
+      {
+        "statement": "La palabra LÓGICO, usada en el texto, se puede reemplazar por",
+        "alternatives": [
+          "A) razonable.",
+          "B) preciso .",
+          "C) certero .",
+          "D) exacto.",
+          "E) taxativo ."
+        ],
+        "correct": 0,
+        "rationale": "El vocablo es usado para referirse a la plausibilidad del escepticismo, de acuerdo con el mundo actual; por consiguiente, es reemplazable por RAZONABLE."
+      },
+      {
+        "statement": "4. A) al ser ingeridos no provocan ningún daño según los expertos .",
+        "alternatives": [
+          "A) al ser ingeridos no provocan ningún daño según los expertos .",
+          "B) son rechazados por los innumerables escépticos de la ciencia.",
+          "C) suelen considerarse como productos dañinos para la salud.",
+          "D) son los únicos que presentan modificación genética artificial.",
+          "E) producen recelo en los consumidores de productos orgánicos."
+        ],
+        "correct": 3,
+        "rationale": "La manipulación genética no necesariamente se realiza en un laboratorio. De hecho muchos productos comestibles en la actualidad son el producto de técnicas invasivas hechas por el hombre desde la antigüedad."
+      },
+      {
+        "statement": "5. Se infiere del desarrollo textual que los escépticos del conocimiento científico",
+        "alternatives": [
+          "A) soslayaron lesivamente el complot que realizó USA contra la URSS.",
+          "B) asumen que el virus de Ébola debería combatirse religiosamente.",
+          "C) han perdido la capacidad para analizar críticamente las fuentes.",
+          "D) seleccionan el tipo de vacunas que deben inocularse a la gente.",
+          "E) están contra cualquier tipo de publicación divulgada en la internet."
+        ],
+        "correct": 2,
+        "rationale": "Los escépticos del conocimiento científico asumen toda serie de falsedades difundidas en internet. Por eso en el texto se señala que estos se ven impulsados por sus propias fuentes. Se deduce que perdieron su capacidad para cribar críticamente los datos."
+      },
+      {
+        "statement": "6. Si, por medio de una información vertida en un magazín, se demostrara que los alimentos transgénicos desencadenan efectos secundarios nocivos para los seres humanos,",
+        "alternatives": [
+          "A) las vacunas serían aceptadas extendidamente por los escépticos.",
+          "B) el escepticismo a la ciencia se radicalizaría exponencialmente.",
+          "C) la consideración supina de que la ciencia es estéril disminuiría.",
+          "D) los escépticos tendrían pruebas taxativas para curar el Ébola.",
+          "E) los avances tecnológicos dejarían de ser atacados por la gente."
+        ],
+        "correct": 1,
+        "rationale": "De contar con pruebas contundentes del carácter nocivo de los alimentos GMO, el escepticismo tendría asidero para volverse radical y recalcitrante ."
+      }
+    ]
+  },
+  {
+    "type": "reading_comprehension",
+    "statement": "Durante algún tiempo, y de hecho hasta hace muy poco, hubo una teoría maravillosa. Ya\nhemos mencionado que neandertales y cromañones éramos exactamente iguales en\ncuanto a capacidad intelectual, nivel tecnológico de fabricación de herramientas y demás.\nSin embargo, parecía que nosotros, además de fabricar hachas, hacíamos collares. Que\nno solo nos interesaba lo útil, sino también lo hermoso. Y que ese talento artístico, digamos,\npodía haber sido la clave de nuestro éxito. Que la capacidad de crear y apreciar la belleza\nhubiera sido lo que nos salvó de la ex tinción me pareció tan emocionante que escribí un\nartículo sobre ello. Pero se trataba, de nuevo, de una con clusión errónea y etnocéntrica. En\nla última década se ha demostrado que los neandertales también se hacían collares de\ndientes de animales, también apreciaban lo estético. Volvíamos a ser iguales. Volvíamos a\nquedarnos sin ninguna diferencia que explicara por qué ellos desaparecieron y nosotros no.\nAhora he leído una noticia fascinante. Un profesor norteamericano, Pat Shipman, acaba de\n\nneandertales estuvieran físicamente más preparados para el frío, eso no les salvaba de la\nhambruna que los rigores invernales trajeron: había menos comida para todos. Y, entonces,\nsucedió algo maravilloso: los cromañones se aliaron con los lobos para cazar. Dio así\ncomienzo nuestra viejísima relación con los perros; hay restos óseos de hace 4 0 000 años\nde humanos y lobos enterrados juntos, y en los huesos de los animales no se veían huellas\nde dientes, lo que demostraba que no habían sido devorados, sino que formaban parte de\nla familia; además, para entonces los cráneos de los lobos ya estaba n ligeramente\nmodificados, porque eran una especie doméstica.\nHumanos y lobos somos especies parecidas y complementarias; somos omnívoros,\noportunistas, jerárquicos, animales sociales que nos ocupamos de nuestras crías y de\nnuestros viejos. En tiempos de hielo, de penuria y de hambre, tuvimos el ingenio de aliarnos\npara cazar. Juntos, cromañones y lobos debimos de formar un equipo letal y poderoso.\nCazamos (y exterminamos) a los mamuts, a los leones y a los búfalos europeos. Y\nmatamos de hambre a los neandertales. Miro ahora a mis perros, conmovida y\nconmocionada por la idea de que probablemente nos salvaron como especie. Y, desde\nentonces, cuántas veces hemos abusado de ese pacto, cuántas veces los hemos\ntraicionado .\n\nMontero, R. (29 de marzo de 2015). Esos lobos que nos salvaron”. En El País . Recuperado\nel 03 de abril del 2015, de El País :\nhttp://elpais.com/elpais/2015/03/27/eps/1427476921_690889.html",
+    "questions": [
+      {
+        "statement": "La expresión MATAMOS DE HAMBRE alude a que",
+        "alternatives": [
+          "A) no compartimos algunos recursos.",
+          "B) hicimos padecer muchas penurias.",
+          "C) emboscamos con cierta sagacidad.",
+          "D) dejamos sin medios de subsistencia.",
+          "E) masacramos con mucha celeridad."
+        ],
+        "correct": 3,
+        "rationale": "Al unirse los perros y los cromañones, dejamos sin recursos a los neandertales."
+      },
+      {
+        "statement": "¿Cuál es la mejor síntesis del texto?",
+        "alternatives": [
+          "A) Los neandertales y cromañones fuimos equiparables en cuanto a capacidad intelectual y nivel tecnológico para fabricar objetos.",
+          "B) La alianza milenaria entre el lobo y el cromañón nos distinguió de los neandertales permitiendo así nuestra supervivencia como especie.",
+          "C) La relación que tenemos con los perros es realmente antigua, ya que existen restos óseos de hace 40 000 años que pueden corroborarlo.",
+          "D) Los humanos y los lobos podríamos ser catalogados como especies parecidas, pues somos omnívoros, oportunistas, jerárquicos y sociales.",
+          "E) Antiguamente, el talento artístico fue considerado como rasgo exclusivo de los cromañones, así como la clave de nuestra supervivencia."
+        ],
+        "correct": 1,
+        "rationale": "La mejor síntesis debe incluir la alianza entre el lobo y el cromañón, así como lo que generó dicha unión ."
+      }
+    ]
+  },
+  {
+    "type": "reading_comprehension",
+    "statement": "La imagen más simple que podemos formarnos del origen de una ciencia empírica es\na la que se basa en el método inductivo. Se eligen y agrupan hechos concretos, de tal suerte\nque la relación legiforme que los une emerge con toda claridad. Mediante el agrupamiento\nde estas regularidades se pueden obtener ulteriormente regulaciones más generales, hasta\nque –a la vista del conjunto de los distintos hechos -se configura un sistema más o menos\nunitario tal que la mente que contempla las cosas a partir de las genera lizaciones\nalcanzadas por último podría, en sentido inverso, por vía puramente lógica, llegar de nuevo\na los hechos particulares.\nUna rápida ojeada al desarrollo efectivo de nuestra ciencia muestra que los grandes\nprogresos del conocimiento científico sólo en una pequeña parte se han obtenido de este\nmodo. En efecto, si el investigador se acercara a las cosas sin ninguna idea preconcebida ,\n¿cómo podría aferrar en medio de una enorme cantidad de la más complicada experiencia\npesados sin la idea preconcebida según la cual, aunque las relaciones que de hecho\nobservamos se Hallan comp licadas por la acción de la resistencia del aire, a pesar de ello\nnosotros consideramos unas caídas de los cuerpos como si esa resistencia desempeñara\nun papel prácticamente nulo.\nLos progresos verdaderamente grandes del conocimiento de la naturaleza se han\nproducido siguiendo una vía casi diametralmente opuesta a la de la inducción. Una\nconcepción intuitiva de lo esencial de un gran conjunto de casos lleva al investigador a la\npropuesta de un principio hipotético. Del principio (sistema de axiomas) el investigador\nextrae por vía puramente lógica las consecuencias de la manera más completa posible.\nEstas consecuencias deducibles del principio, con frecuencia mediante desarrollos y\ncálculos aburridos, se compararan luego con las experiencias, proporcionando así un\ncriterio para la justificación del principio admitido. El principio (axiomas) y las consecuencias\nforman juntos lo que llamamos una “teoría”. Toda persona culta sabe que los grandes\nprogresos del conocimiento de la naturaleza –por ejemplo, la teoría de la gravitación de\nNewton, la termodinámica, la teoría cinética de los gases, la electrodinámica moderna, etc. -\nhan tenido todos ellos su origen de este modo, y que su fundamento es de naturaleza\nhipotética. El investigador, pues, parte siempre de los hechos, cuyo nexo constituye el\nobjetivo de sus esfuerzos. Pero no llega a un sistema teórico por la vía del método inductivo;\nmás bien, se aproxima a los hechos mediante una opción intuitiva entre teorías pensables\nbasadas en axiomas.\nUna teoría puede ser reconocida como errónea si hay un error lógico en sus\ndeducciones, o puede ser reconocida como inadecuada si un hecho no encaja en sus\nconsecuencias. Pero jamás puede demostrarse la verdad de una teoría. Y ello porque\njamás se sabe si en el futuro no se d escubrirá alguna experiencia que contradiga sus\nconsecuencias; y siempre puede pensarse en otros sistemas de pensamiento, capaces de\nconectar los mismos hechos tomados en consideración. Si se dispone de dos teorías,\nambas compatibles con el material dado, entonces no existe más criterio para preferirla\na la otra que la mirada intuitiva del investigador. Y así se comprende cómo agudos\ninvestigadores que dominan teorías o hechos pueden , sin embargo , ser apasionados\ndefensores de teorías opuestas.\n\nEinstein, A. (1919) “Induktion und Deduktion in der Physik” En: Antiseri, D. (2003) Karl\nPopper: protagonista del siglo XX . Madrid: Unión editorial.\n",
+    "questions": [
+      {
+        "statement": "1. En síntesis, el texto constituye una",
+        "alternatives": [
+          "A) una teoría científica nunca puede ser calificada como verdadera.",
+          "B) la intuición puede brindar un criterio de elección entre teorías.",
+          "C) a partir del siglo XX se emplea e l método hipotético deductivo.",
+          "D) una teoría científica incluye un principio o sistema de axiomas.",
+          "E) es imposible constituir una teoría únicamente desde la inducción."
+        ],
+        "correct": 0,
+        "rationale": "Einstein pretende mostrar una imagen objetiva del proceder científico, eso constituye una reflexión epistemológica."
+      },
+      {
+        "statement": "2. Es compatible con el texto señalar que el método inductivo",
+        "alternatives": [
+          "A) nunca ha sido empleado por los científicos naturales o sociales.",
+          "B) corresponde a una imagen simple pero incompleta de la ciencia.",
+          "C) fue desestimada totalmente por Albert Einstein en su artículo.",
+          "D) proporciona resultados idénticos a los del método deductivo."
+        ],
+        "correct": 1,
+        "rationale": "veces se han obtenido por medio del método inductivo. Por tal razón, aunque es la imagen más simple, sería incompleto comprender la ciencia solo a partir de él."
+      },
+      {
+        "statement": "3. En el texto, la expresión IDEA PRECONCEBIDA alude a la",
+        "alternatives": [
+          "A) probabilidad.",
+          "B) deducción.",
+          "C) hipótesis.",
+          "D) inducción.",
+          "E) interrogante."
+        ],
+        "correct": 2,
+        "rationale": "La idea preconcebida permite evidenciar una relación legiforme en una serie de hechos en apariencia inconexos. Las hipótesis tienen la forma de esas relaciones legiformes pues refieren un conjunto de casos."
+      },
+      {
+        "statement": "4. Podemos inferir, respecto al acerca miento del científico a los hechos, que Einstein defendería la siguiente tesis:",
+        "alternatives": [
+          "A) Nuestra mente, al nacer, es como una tabula rasa .",
+          "B) La causalidad solo es sustentada por la costumbre.",
+          "C) Toda observación tiene una carga teórica previa.",
+          "D) Las teorías científicas son solo convenciones.",
+          "E) Los paradigmas científicos son inconmensurables."
+        ],
+        "correct": 2,
+        "rationale": "Según Einstein, siempre nos acercamos a la realidad desde una idea preconcebida, una hipótesis, que involucra ciertos conceptos y un marco teórico definido. De ahí se desprende que toda observación posee ya una carga teórica ."
+      },
+      {
+        "statement": "5. En el texto, la referencia a Galileo hecha por Einstein tiene como finalidad",
+        "alternatives": [
+          "A) corroborar su planteamiento a partir de la historia de la ciencia.",
+          "B) eje mplificar las consecuencias del empleo del método inductivo.",
+          "C) convencer de su amplio manejo de las referencias históricas.",
+          "D) incentivar el estudio de ciencias empíricas como la astronomía.",
+          "E) negar el estatus de ciencia a la disciplina astronómica an tigua."
+        ],
+        "correct": 0,
+        "rationale": "La investigación de Galileo es un caso paradigmático del empleo de ideas preconcebidas, por ende sigue la dirección de la reflexión de Einstein."
+      },
+      {
+        "statement": "6. Según Albert Einstein, el proceder científico en las ciencias empíricas puede ser esquematizado del siguiente modo:",
+        "alternatives": [
+          "A) Problema – hipótesis – ley científica – teoría científica.",
+          "B) Inducción – hipótesis - contrastación – ley científica.",
+          "C) Intuición – hipótesis – deducción – contrastación.",
+          "D) Axioma – deducción – hipótesis – intuición.",
+          "E) Teoría científica – hipótesis – intuición – deducción."
+        ],
+        "correct": 2,
+        "rationale": "La concepción intuitiva lleva a la hipótesis. Luego se deducen consecuencias de la hipótesis que se deben comparar (contrastar) con la experiencia ."
+      },
+      {
+        "statement": "7. A) una teoría científica nunca puede ser calificada como verdadera.",
+        "alternatives": [
+          "A) una teoría científica nunca puede ser calificada como verdadera.",
+          "B) la intuición puede brindar un criterio de elección entre teorías.",
+          "C) a partir del siglo XX se emplea e l método hipotético deductivo.",
+          "D) una teoría científica incluye un principio o sistema de axiomas.",
+          "E) es imposible constituir una teoría únicamente desde la inducción."
+        ],
+        "correct": 2,
+        "rationale": "Einstein menciona grandes progresos científicos desde la época de Galileo y Newton."
+      },
+      {
+        "statement": "8. Si, desde el Renacimiento, los científicos solo procedieran inductivamente,",
+        "alternatives": [
+          "A) habrían conseguido muy pocos avances científicos .",
+          "B) tendrían un manejo culto de la historia de la ciencia.",
+          "C) podrían captar las grandes verdades del universo.",
+          "D) emplearí an sus conocimientos con fines bélicos.",
+          "E) calificarían a la cosmología como ciencia empírica."
+        ],
+        "correct": 0,
+        "rationale": "Einstein señala que «los grandes progresos del conocimiento científico sólo en una pequeña parte se han obtenido» de forma inductiva. En tal sentido, si los científicos obraran solo inductivamente, sus progresos serían escasos ."
+      }
+    ]
+  },
+  {
+    "type": "verbal_series",
+    "statement": "7. Taxativo, refutable; abúlico, dinámico; pérfido, leal;",
+    "alternatives": [
+      "A) taimado , perspicaz.",
+      "B) arcano, esotérico.",
+      "C) adocenado, vulgar.",
+      "D) contrito, arrepentido.",
+      "E) dilecto, aborrecido ."
+    ],
+    "correct": 4,
+    "rationale": "La serie verbal está conformada por antónimos. Se completa con DILECTO, ABORRECIDO ."
+  },
+  {
+    "type": "sentence_elimination",
+    "statement": "I) Los sonidos fricativos se articulan con un estrechamiento en la cavidad oral que genera una salida del aire con dificultad. II) Las fricativas generan que el aire que sale con rapidez evidencia grados diversos de turbulencia . III) Los sonidos fricativos, cuando son acanalados, producen un ruido de alta intensidad. IV) El ruido fricativo de alta intensidad se conoce con el nombre de estridencia. V) Los sonidos fricativos, cuando son planos, dispersan la energía acústica en frecuencias bajas .",
+    "alternatives": [
+      "A) I",
+      "B) II",
+      "C) III",
+      "D) IV",
+      "E) V"
+    ],
+    "correct": 3,
+    "rationale": "IV. La oración es impertinente, pues desarrolla el concepto de es tridencia. El eje temático es los sonidos fricativos."
+  },
+  {
+    "type": "sentence_elimination",
+    "statement": "I) Noam Chomsky abre una nueva perspectiva de investigación del lenguaje con la obra Estructuras sintácticas (1957), que causó una revolución sin precedentes. II) El perfil contestatario de Chomsky se visualiza en su obra La conquista continúa: 500 años de genocidio imperialista (1992). III) Reflexiones sobre el lenguaje (1975) aborda aspectos centrales de la sugerente propuesta innatista de Chomsky. IV) Chomsky publica El programa minimalista en 1995 y simplifica su modelo gramatical anterior. V) En Lingüística cartesiana (1965), Noam Chomsky desarrolla su propuesta mentalista recogiendo una tradición teórica sobre el lenguaje que ya contaba con muchos años .",
+    "alternatives": [
+      "A) I",
+      "B) II",
+      "C) III",
+      "D) IV",
+      "E) V"
+    ],
+    "correct": 1,
+    "rationale": "La oración II es inatingente, pues trata acerca de una obra política de Chomsky. Todas las demás oraciones versan sobre su obra lingüística."
+  },
+  {
+    "type": "sentence_elimination",
+    "statement": "I) Numerosos personajes legendarios están asociados con la antigua Tracia. II) Orfeo, el célebre cantor que embelesaba a todos con su lira, es uno de los personajes tracios más reconocidos. III) El rey Reso, hijo de la musa Calíope según la leyenda, era tracio. IV) El rey tracio Licurgo es famoso por haber prohibido el culto a Dionisos. V) Diómedes, rey de Tracia, era un gigante hijo de Ares y Cirene que gobernó a la tribu de los bistones .",
+    "alternatives": [
+      "A) I",
+      "B) II",
+      "C) III",
+      "D) IV",
+      "E) V"
+    ],
+    "correct": 0,
+    "rationale": "Solución : A"
+  },
+  {
+    "type": "sentence_elimination",
+    "statement": "I) En Atapuerca tanto los animales salvajes como domésticos formaron parte de la dieta de sus habitantes. II) Los habitantes de Atapuerca incluían en su dieta animales como el zorro, al que procesaban culinariamente. III) En m enor medida, los habitantes de A tapuerca se alimentaron de gatos salvajes, que fueron hervidos y después fue consumida su carne . IV) Los perros domésticos fueron desarticulados, descarnados, sus huesos fracturados y finalmente hervidos para comerlos en Atapuerca . V) Tampoco se puede descartar la opción de que los tejones fueran empleados como una fuente extra de alimento en períodos de escasez en Atapuerca.",
+    "alternatives": [
+      "A) I",
+      "B) II",
+      "C) III",
+      "D) IV",
+      "E) V"
+    ],
+    "correct": 0,
+    "rationale": "Se elimina la oración I por redundancia. Se encuentra implicada en las otras oraciones."
+  },
+  {
+    "type": "sentence_elimination",
+    "statement": "I) Los aztecas molían las habas de cacao para preparar el chocolate, la bebida divina. II) Los mayas les prodigaron a los aztecas el secreto de la prepara ción del chocolate. III) Los aztecas le añadían semillas o maíz al cacao cuando este estaba hecho polvo. IV) El polvo molido de cacao era mezclado con agua fría por los aztecas en la preparación de chocolate. V) Para preparar el chocolate, los aztecas remo vían el polvo de cacao con agua hasta que subía la espuma.",
+    "alternatives": [
+      "A) I",
+      "B) II",
+      "C) III",
+      "D) IV",
+      "E) V"
+    ],
+    "correct": 1,
+    "rationale": "Se elimina la oración II por impertinencia. Habla del influjo no del proceso de preparación del chocolate."
+  },
+  {
+    "type": "sentence_elimination",
+    "statement": "I) Un nuevo estudio concluye que el simple gesto de cruzar los dedos disminuye el dolor. II) La disminución del dolor al cruzar los dedos se produciría, según un reciente estudio, por la interacción de tres vías nerviosas que conducen al cerebro información sobre el frío, el calor y el dolor. III) El equipo de investigación señala que se neutralizaría el dolor al cruzar los dedos debido a que la temperatura cálida que se produce al cruzarlos bloquea dicha información. IV) Según los investigadores, la postura y la disposición espacial de los dedos también es clave en la disminución del dolor. V) El estudio, que ha sido publicado en la revista Current Biology , podría contribuir con el establecimiento de un nuevo enfoque sobre el dolor.",
+    "alternatives": [
+      "A) II",
+      "B) III",
+      "C) I",
+      "D) IV",
+      "E) V"
+    ],
+    "correct": 2,
+    "rationale": "Se elimina el enunciado I por el criterio de redundancia. Se desprende de las demás."
+  },
+  {
+    "type": "sentence_elimination",
+    "statement": "I) Un estudio concluyó que la escasez de alimentos durante los primeros tres meses de embarazo puede ocasionar riesgos para el futuro bebé. II) Los investigador es analizó la alimentación deficitaria (menos de 900 calorías al día) de un grupo de gestantes durante el período comprendido entre 1944 y 1945. III) El seguimiento se realizó durante 63 años a 22 952 personas que habían nacido en el momento de la ‘Hamb runa Holandesa’ (1944 -1945) registrándose 5011 muertes. IV) La hambruna del invierno holandés, motivada por la Segunda Guerra Mundial, fue un periodo en el que y el 1 1% por causas externas.",
+    "alternatives": [
+      "A) I",
+      "B) II",
+      "C) III",
+      "D) IV",
+      "E) V"
+    ],
+    "correct": 3,
+    "rationale": "Se elimina la oración IV por impertinencia. Las oraciones se articulan en torno a un estudio que relaciona la falta de alimentos en los primeros meses de gestación y sus consecuencias nocivas para el futuro bebé."
+  },
+  {
+    "type": "sentence_elimination",
+    "statement": "I) Pedro Weiss Harvey fue un destacado médico y antropólogo considerado el Padre de la Patología en el Perú. II) P. Weiss Harvey alternó con personajes como Haya de la Torre, José Carlos Mariátegui, Max Uhle y Julio C. Tello. III) Weiss Harvey fue el primero en señalar que el Síndrome de Inmuno Deficiencia Adquirida y la verruga peruana tenían cierto parecido inmunológico. IV) El eminente médico Weiss Harvey viajó a Alemania para ampliar sus conocimientos sobre patología, y a Francia con el objeto de profundizar sus conocimientos en dermatología clínica. V) P. Weiss Harvey optó el grado de Doctor en Medicina en la Universidad San Marcos gracias a sus estudios sobre la verruga peruana.",
+    "alternatives": [
+      "A) III",
+      "B) II",
+      "C) IV",
+      "D) I",
+      "E) V"
+    ],
+    "correct": 1,
+    "rationale": "Se aplica el criterio de impertinencia."
+  },
+  {
+    "type": "reading_comprehension",
+    "statement": "Recientemente, en un partido de vóley, una reconocida entrenadora se refirió a una jugadora rival como «llama», mientras aconsejaba a sus pupilas. En los estadios se lanzan gritos simiescos contra jugadores de raza negra que provocan risotadas entre los espectadores. Los hinchas rivales se insultan unos a otros con nombres de animales que tienen doble sentido: los aliancistas son monos (no humanos); los de Universitario, gallinas (cobardes); los de Cristal pavos (tontos). A todos estos animales, además, se los puede ‘comer’, palabra que en el mundo futbolero tiene una evidente connotación sexual. La práctica de alentar a los tuyos y bajar la moral del rival es parte de toda competencia deportiva, pero esta debe cumplirse dentro de parámetros de respeto al adversario, y así está regulada por las autoridades deportivas internacionales. Sin embargo, no cumplimos la norma, ganados por la obsesión de animalizar al adversario. Sin duda, el clima cultural y moral permisivo a la violencia que predomina entre nosotros facilita expresiones y comportamientos de este tipo.\nPero el problema es aún más serio. Caricaturizar a los rivales como animales y no como seres humanos facilita la agresión física y verbal contra ellos. Los rivales son transformados en seres humanos degradados, deshumanizados, individuos sin rostro ni derecho a los que se les puede vapulear, insultar e, incluso, golpear sin miramiento. En un contexto proclive a la impunidad resulta relativamente sencillo actuar así contra estos individuos sin tener que enfrentar la justicia. La animalización del rival revela que somos una sociedad racista, y que en contextos de tensión y competencia afloran prejuicios y miserias muy arraigadas. No podemos mirar al costado cuando eso sucede y menos creer que nos tomamos las cosas muy en serio y que todo es una broma, como lamentablemente se escucha con frecuencia.\nY es que la definición clásica del hombre como «animal racional» colisiona con la noción de «animalidad» que enfatiza el elemento instintivo y no racional. Es verdad que la historia de la humanidad muestra en sus ritos, mitos y leyendas criaturas que asemejan ser un animal en forma humana. Pero en este caso, en el fútbol o en el vóleibol, no se trata de una representación antropomorfa, es decir, de un animal humanizado o que cuenta con dos brazos a ambos lados del tronco, una cabeza sobre este y dos piernas inferiores, asemejándose a una persona. No, en el fútbol se trata de un ser humano degradado de su condición a través de un proceso de animalización. Es de cir, un ser humano animalizado.\nLo peor es que la animalización de las personas va ganando terreno incluso entre los políticos, la policía y el periodismo deportivo. De allí que frente a la violencia en los estadios, leemos con frecuencia que los barristas de los clubes son «bestias» y «animales salvajes» que solo «entienden a golpes». Justos y pecadores, todos sin diferencia son animalizados. Situación que da pie a que, con frecuencia, la policía golpee e insulte a los hinchas de las tribunas populares en las colas de ingreso al estadio. El espíritu de las bestias parece instalarse entre nosotros y no nos damos cuenta.\n\nPANFICHI, A. (Sábado 21 de marzo de 2015). «La animalización del rival». En: El Comercio . Recuperado el lunes 23 de marzo de 2015, de http://elcomercio.pe/opinion/colaboradores/animalizacion -rival-aldo-panfichi -noticia-1799084.",
+    "questions": [
+      {
+        "statement": "2. En el texto, el término PERMISIVO puede ser reemplazado por",
+        "alternatives": [
+          "A) respetuoso.",
+          "B) proclive.",
+          "C) comprensivo.",
+          "D) tolerante.",
+          "E) paciente."
+        ],
+        "correct": 3,
+        "rationale": "El término «permisivo» alude a una actitud donde prima la tolerancia ante la violencia dentro del ámbito deportivo."
+      },
+      {
+        "statement": "3. Es incompatible sostener sobre el clima cultural y moral de la sociedad descrita en el texto que",
+        "alternatives": [
+          "A) es condescendiente en relación a las actitudes violentas que imperan.",
+          "B) se manifiesta únicamente dentro de deportes como el fútbol y el vóleibol.",
+          "C) a la larga sirve de justificación para los diferentes actos de agresión.",
+          "D) sirve de base ideológica para las prácticas de animalización del rival.",
+          "E) está relacionado con la impunidad que predomina frente a la violencia."
+        ],
+        "correct": 1,
+        "rationale": "Se señala en el texto que el clima cultural y moral favorable a la violencia y al racismo, si bien dentro del ámbito deportivo aflora más fácilmente, se manifiesta también en la política, el periodismo deportivo y la policía."
+      },
+      {
+        "statement": "4. Se infiere del texto que, dentro del ámbito de las competiciones deportivas, caracterizar al rival como «llama»",
+        "alternatives": [
+          "A) supone menospreciar sus méritos deportivos debido a su fisonomía andina.",
+          "B) es una táctica para desorientar a todos los aficionados y al árbitro del juego.",
+          "C) sugiere que en los partidos solo entran a tallar factores de carácter deportivo.",
+          "D) forma parte de una campaña de desprestigio en contra del voleibol peruano.",
+          "E) indica el poco aprecio que tienen los hinchas por equipos como Alianza Lima."
+        ],
+        "correct": 0,
+        "rationale": "encubre una ideología racista. Al caracterizarlo como «llama» se alude despectivamente a su fisonomía y se soslayan sus méritos como deportista ."
+      }
+    ]
+  },
+  {
+    "type": "reading_comprehension",
+    "statement": "3. Es incompatible aseverar que el mito\n\nA) surge del asombro que experimentamos ante el universo enigmático.\nB) no tuvo inconvenientes, en cierta época, para convivir con la filosofía.\nC) en la actualidad suele ser entendido como relato inventado o cuento.\nD) fue sustituido en nuestras sociedades por el conocimiento científico.\nE) puede justificar racionalmente todas las aseveraciones que formula .\n\n4. Se infiere del texto que la escena inventada por Kostas Axelos es paradójica porque\n\nA) contradice la opinión que la mayoría de personas tiene respecto de los mitos.\nB) no consigue explicar ningún aspecto del planteamiento del eminente M. We ber.\nC) son los centauros los que asumen la experiencia del desencantamiento mítico.\nD) es inverosímil asumir que los centauros puedan tener la capacidad de dialogar.\nE) quien la propuso se opone radicalmente a la tesis del desencantamiento mítico.\n\n5. Si no se hubiera tenido la necesidad de sustituir las explicaciones míticas por otras de tipo racional ,\n\nA) la filosofía sería la única forma válida para interpretar el universo.\nB) el conocimiento científico habría gozado del mayor de los estatus.\nC) no se habría iniciado el proceso de desencantamiento del mundo.\nD) el universo dejaría de ser considerado un espectáculo enigmático.\nE) no se habría buscado interpretar el universo de manera coherente.\n",
+    "questions": [
+      {
+        "statement": "3. Es incompatible aseverar que el mito",
+        "alternatives": [
+          "A) surge del asombro que experimentamos ante el universo enigmático.",
+          "B) no tuvo inconvenientes, en cierta época, para convivir con la filosofía.",
+          "C) en la actualidad suele ser entendido como relato inventado o cuento.",
+          "D) fue sustituido en nuestras sociedades por el conocimiento científico.",
+          "E) puede justificar racionalmente todas las aseveraciones que formula ."
+        ],
+        "correct": 4,
+        "rationale": "El autor establece una comparación entre el mito y la filosofía. Señala que esta sí se encuentra en condiciones de justificar racionalmente sus afirmaciones, por lo que se infiere que el mito no tendría dicho rasgo."
+      },
+      {
+        "statement": "4. Se infiere del texto que la escena inventada por Kostas Axelos es paradójica porque",
+        "alternatives": [
+          "A) contradice la opinión que la mayoría de personas tiene respecto de los mitos.",
+          "B) no consigue explicar ningún aspecto del planteamiento del eminente M. We ber.",
+          "C) son los centauros los que asumen la experiencia del desencantamiento mítico.",
+          "D) es inverosímil asumir que los centauros puedan tener la capacidad de dialogar.",
+          "E) quien la propuso se opone radicalmente a la tesis del desencantamiento mítico."
+        ],
+        "correct": 2,
+        "rationale": "El desencantamiento del mundo del que hablaba Weber se muestra claramente en la escena inventada por Kostas Axelos en la que los propios personajes mitológicos advierten este desencantamiento mítico."
+      },
+      {
+        "statement": "5. Si no se hubiera tenido la necesidad de sustituir las explicaciones míticas por otras de tipo racional ,",
+        "alternatives": [
+          "A) la filosofía sería la única forma válida para interpretar el universo.",
+          "B) el conocimiento científico habría gozado del mayor de los estatus.",
+          "C) no se habría iniciado el proceso de desencantamiento del mundo.",
+          "D) el universo dejaría de ser considerado un espectáculo enigmático.",
+          "E) no se habría buscado interpretar el universo de manera coherente."
+        ],
+        "correct": 2,
+        "rationale": "El proceso de desencantamiento del mundo se inicia con el paso del pensamiento mítico al racional."
+      }
+    ]
+  }
+]

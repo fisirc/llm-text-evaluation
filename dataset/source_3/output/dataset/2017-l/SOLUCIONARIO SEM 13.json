@@ -1,0 +1,134 @@
+[
+  {
+    "type": "reading_comprehension",
+    "statement": "Siendo más joven había estudiado, dentro de la filosofía, un poco de lógica y un poco el análisis de los geómetras y el álgebra, tres ciencias que parecían poder contribuir a mi búsqueda de la verdad. Sin embargo, al examinarlas, advertí que, respecto de la lógica, sus silogismos y la mayor parte de sus instrucciones sirven para explicar a otro las cosas que uno ya sabe (o aun, como el arte de Raimundo Lulio, para hablar sin juicio de aquellas que uno ignora) que para aprenderlas. Y aunque realmente contenga preceptos muy buenos, están mezclados con tantos otros que son nocivos y superfluos; de modo que separarlos es casi tan difícil como sacar una Diana o una Minerva de un bloque de mármol todavía sin esbozar. Luego, respecto del análisis de los antiguos y del álgebra de los modernos (aparte de que se aplican a materias muy abstractas y que no parecen de utilidad alguna), el primero está siempre supeditado a la consideración de las figuras que no puede ejercitar el entendimiento sin cansar mucho la imaginación; y, en la última, uno está sometido a tantas reglas y a tantas cifras, que se ha hecho de ellas un arte confuso y oscuro que entorpece el espíritu en lugar de ser una ciencia que lo cultive.\nTodo lo anterior fue la causa de que yo pensara que era preciso buscar otro método que, abarcando las ventajas de esos tres, estuviera exento de sus defectos. Y como la multitud de leyes sirve a menudo de excusa para los vicios, de suerte que un Estado está mejor regido cuando, teniendo pocas, se observan estrictamente; así, en lugar de ese gran número de preceptos de que se compone la lógica, creí que me bastarían los cuatro siguientes, a condición de que tomara una firme y constante resolución de no dejar de cumplirlos ni una sola vez.\nEl primero consistía en no admitir jamás nada por verdadero que yo no conociera que evidentemente era tal; es decir, evitar minuciosamente la precipitación y la prevención, y no abarcar en mis juicios nada más que lo que se presentara tan clara y distintamente en mi espíritu que no tuviera ocasión de ponerlo en doubt.  El segundo, en dividir cada una de las dificultades que examinara en tantas partes como fuera posible y necesario para mejor resolverlas.  El tercero, en conducir por orden mis pensamientos comenzando por los objetos más simples y más fáciles de conocer, para subir poco a poco, como por grados, hasta el conocimiento de los más compuestos, y suponiendo un orden aun entre aquellos que no se preceden naturalmente unos a otros.  Y el último, en hacer en todo enumeraciones tan completas y revisiones tan generales que tuviese la seguridad de no omitir nada.\nNo sé si deba relatar las primeras meditaciones que hice, pues son tan metafísicas y tan poco conocidas que tal vez no serían del agrado de todo el mundo. Y, sin embargo, para que pueda juzgarse si los cimientos que tomé son bastantes firmes, de algún modo me veo obligado a hablar de ellas.\nHacía mucho tiempo que, respecto de las costumbres, había advertido que a veces es bueno seguir opiniones que sabemos muy inciertas, como si fueran indudables, como ya hemos dicho antes; pero, como ahora solo deseaba dedicarme a la investigación de la verdad, pensé que era preciso que hiciera todo lo contrario y que rechazara como absolutamente falso todo aquello en que pudiera concebir la menor duda, a fin de ver si después de eso no quedaría algo en mi espíritu que fuera completamente indudable. Así, a causa de que nuestros sentidos nos engañan a veces, quise suponer que no hay nada que sea como ellos nos lo hacen imaginar. Y puesto que hay hombres que se equivocan razonando, aun respecto de las más simples materias de la geometría, y cometen en ellas paralogismos, juzgando que yo estaba expuesto a errar como cualquier otro, rechacé como falsas todas las razones que antes había tomado por demostraciones. Y, por último, considerando que todos los mismos pensamientos que tenemos estando despiertos, nos pueden venir también cuando dormimos, sin que haya entonces ninguno que sea verdadero, me resolví a fingir que todo lo que alguna vez me había penetrado en el espíritu, no era más verdadero que las ilusiones de mis sueños. Mas, inmediatamente después, me fijé en que, mientras yo quería pensar así que todo era falso, era preciso que yo, que lo pensaba, fuera algo. Y advirtiendo que esta verdad Pienso, luego existo, era tan firme y segura que no podían conmoverla todas las más extravagantes suposiciones de los escépticos, juzgué que podía admitirla sin escrúpulo como el primer principio de la filosofía que yo buscaba.\n[René Descartes Discurso del método]",
+    "questions": [
+      {
+        "statement": "1. El mejor sinónimo de EXENTO  (segundo párrafo) es",
+        "alternatives": [
+          "A) silente.",
+          "B) cargado",
+          "C) libre.",
+          "D) proclive.",
+          "E) cabal."
+        ],
+        "correct": 2,
+        "rationale": "En la frase «exento de sus defectos», la palabra EXENTO significa libre, esto es, que no tiene defectos."
+      },
+      {
+        "statement": "2. En el texto, el término PARALOGISMO significa",
+        "alternatives": [
+          "A) error.",
+          "B) certeza.",
+          "C) sofisma.",
+          "D) axioma.",
+          "E) entimema."
+        ],
+        "correct": 0,
+        "rationale": "Descartes habla de paralogismo como un desvío de la razón en el sentido de un equívoco o de un error que se comete sin intención."
+      },
+      {
+        "statement": "3. Determine el valor de compatibilidad (C) e incompatibilidad (I) de los siguientes enunciados en  el sentido de correspondencia con el planteamiento cartesiano.",
+        "alternatives": [
+          "A) CCCC",
+          "B) IIIC",
+          "C) CCII",
+          "D) CCCI",
+          "E) CCIC"
+        ],
+        "correct": 3,
+        "rationale": "Los primeros tres enunciados son compatibles  porque corresponden con el sentido del texto. El último enunciado es incompatible , dado que, según Descartes, los sentidos son engaños en la búsqueda de la verdad."
+      },
+      {
+        "statement": "4. ¿Cuál es el tema central del texto?",
+        "alternatives": [
+          "A) El poder de la deducción en el pensamiento",
+          "B) La lógica y las demostraciones filosóficas",
+          "C) La duda en la fijación de las costumbres",
+          "D) La naturaleza de la indagación en la vida",
+          "E) La búsqueda de la verdad en las ciencias"
+        ],
+        "correct": 4,
+        "rationale": "En este fragmento del Discurso del método, Descartes reflexiona acerca de la búsqueda de la verdad en las ciencias y trata de establecer el mejor método en la lógica de la indagación."
+      }
+    ]
+  },
+  {
+    "type": "reading_comprehension",
+    "statement": "En este fragmento del Discurso del método, Descartes reflexiona acerca de la búsqueda de la verdad en las ciencias y trata de establecer el mejor método en la lógica de la indagación.",
+    "questions": [
+      {
+        "statement": "¿Cuál es el tema central del texto?",
+        "alternatives": [
+          "A) El poder de la deducción en el pensamiento",
+          "B) La lógica y las demostraciones filosóficas",
+          "C) La duda en la fijación de las costumbres",
+          "D) La naturaleza de la indagación en la vida",
+          "E) La búsqueda de la verdad en las ciencias"
+        ],
+        "correct": 4,
+        "rationale": "En este fragmento del Discurso del método, Descartes reflexiona acerca de la búsqueda de la verdad en las ciencias y trata de establecer el mejor método en la lógica de la indagación."
+      },
+      {
+        "statement": "¿Cuál es la idea principal del texto?",
+        "alternatives": [
+          "A)  Cuando se está en la búsqueda de la verdad natural, hay que evitar la prevención y la precipitación.",
+          "B)  Se necesita hacer enumeraciones completas y revisiones generales para no omitir nada en la investigación.",
+          "C)  El método que estipula lo indubitable como señal de verdad nos lleva al conocimiento firme y seguro.",
+          "D)  Todo aquello en que se pueda ver alguna duda es signo inequívoco de falsedad en el plano de la moral.",
+          "E)  Las suposiciones filosóficas ayudan a la mente humana para reconocer la esencia de la verdad en la ciencia."
+        ],
+        "correct": 2,
+        "rationale": "El verdadero cimiento de la verdad estriba en lo indubitable, según la exposición cartesiana. Solo así podemos arribar a buen puerto, esto es, a un conocimiento firme y seguro."
+      },
+      {
+        "statement": "Con respecto al arte de Lulio, se desprende que Descartes tiene una actitud",
+        "alternatives": [
+          "A) condescendiente.",
+          "B) laudatoria.",
+          "C) hipercrítica.",
+          "D) ambivalente.",
+          "E) hermética."
+        ],
+        "correct": 2,
+        "rationale": "En la medida en que sostiene que es un arte ignaro y carente de razón, se puede inferir que Descartes llega a la hipercrítica, esto es, a una crítica exagerada que habría que tomar con cautela."
+      },
+      {
+        "statement": "La intuición «Pienso, luego existo» es considerada por Descartes como",
+        "alternatives": [
+          "A) la esencia del método científico.",
+          "B) la prueba de la existencia de Dios.",
+          "C) la regla de la moral provisional.",
+          "D) el primer peldaño de la verdad.",
+          "E) la negación de la metafísica."
+        ],
+        "correct": 3,
+        "rationale": "Dado que se trata del primer  principio filosófico en la mente cartesiana, se puede sostener que es el primer peldaño en la búsqueda de la verdad."
+      },
+      {
+        "statement": "Se puede colegir que el segundo precepto del método indagatorio cartesiano es de índole",
+        "alternatives": [
+          "A) analítica.",
+          "B) sintética.",
+          "C) algebraica.",
+          "D) empírica.",
+          "E) enumerativa."
+        ],
+        "correct": 0,
+        "rationale": "El precepto consiste en dividir cada una de las dificultades en tantas partes como fuera posible y necesario para mejor resolverlas, es decir, el todo se analiza en partes. Ergo, el precepto es de índole analítica."
+      },
+      {
+        "statement": "De la exposición de las normas cartesianas, se desprende que",
+        "alternatives": [
+          "A)  el paso de las enumeraciones completas es lógicamente anterior a ir de lo simple a lo complejo.",
+          "B)  el criterio de verdad en las ciencias se basa en la aceptación de las leyes formuladas por los científicos.",
+          "C)  la carencia absoluta de hesitación es una de las propiedades fundamentales de la evidencia.",
+          "D)  el criterio de las enumeraciones detalladas es una fase prescindible en la aplicación metódica.",
+          "E)  el orden puede variar a voluntad y, por ende, se puede ir de lo más complejo hasta lo más simple."
+        ],
+        "correct": 2,
+        "rationale": "Para llegar a la evidencia, hay que tener el signo de lo indubitable, razón por la cual la carencia absoluta de hesitación es una de las propiedades esenciales de la evidencia."
+      }
+    ]
+  }
+]

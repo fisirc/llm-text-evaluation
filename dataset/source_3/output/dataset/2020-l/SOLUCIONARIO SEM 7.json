@@ -1,0 +1,344 @@
+[
+  {
+    "type": "sentence_elimination",
+    "statement": "Un hombre nonagenario va a una notaría y lega a sus cinco nietos (Helena, José, Mariella, Carmen y Christopher) un edificio de cinco pisos, de tal modo que cada uno de ellos llega a vivir en un determinado piso. Sabemos que Christopher resulta propietario del tercer piso, Mariella es dueña del segundo y Carmen vive más abajo que todos. Si sabemos, además, que Helena reside debajo de José, se deduce necesariamente que",
+    "alternatives": [
+      "A) Christopher vive más arriba que Helena.",
+      "B) no podemos determinar dónde vive José.",
+      "C) Helena vive más abajo que Mariella.",
+      "D) Helena vive en realidad en el cuarto piso."
+    ],
+    "correct": 3,
+    "rationale": "Al tomar como premisas los datos ofrecidos en el texto, se llega a la conclusión necesaria: Helena vive en el cuarto piso."
+  },
+  {
+    "type": "sentence_elimination",
+    "statement": "Se sospecha del jardinero, del ama de llaves y de la viuda por la muerte de un abogado exitoso. Si hubiese sido el ama de llaves, el crimen se habría cometido en la cocina. Si el culpable hubiese sido el jardinero, el asesinato se habría producido antes del caer de la tarde. Si la viuda hubiese sido la asesina, el asesinato se habría perpetrado con un potente veneno. Se ha llegado a determinar dos hechos inconcusos: el homicidio se produjo a las ocho de la noche y el análisis del occiso reveló cierta cantidad de arsénico. Se infiere necesariamente que",
+    "alternatives": [
+      "A) el asesinato ocurrió en la cocina.",
+      "B) el crimen se perpetró en la tarde.",
+      "C) el jardinero es sin duda inocente.",
+      "D) el victimario fue sin duda la viuda."
+    ],
+    "correct": 2,
+    "rationale": "Por modus tollens, se descarta concluyentemente la hipótesis de la culpabilidad del jardinero."
+  },
+  {
+    "type": "reading_comprehension",
+    "statement": "Arrasado el jardín, profanados los cálices y las aras, entraron los hunos en la biblioteca monástica y rompieron los libros incomprensibles y los vituperaron y los quemaron, acaso temerosos de que las letras encubrieran blasfemias contra su dios, que era una cimitarra de hierro. Ardieron palimpsestos y códices, pero en el corazón de la hoguera, perduró casi intacto el libro duodécimo de la Civitas Dei, que narra que Platón enseñó en Atenas que, al cabo de los siglos, todas las cosas recuperarán su estado anterior, y él, en Atenas, ante el mismo auditorio, de nuevo enseñará esa doctrina. El texto que las llamas perdonaron gozó de una veneración especial y quienes lo leyeron y releyeron en esa remota provincia dieron en olvidar que el autor solo declaró esa doctrina para poder mejor confutarla. Un siglo después, Aureliano, coadjutor de Aquilea, supo que a orillas del Danubio la novísima secta de los anulares profesaba que la historia es un círculo y que nada es que no haya sido y que no será. Todos temían, pero todos se confortaban con el rumor de que Juan de Panonia, que se había distinguido por un tratado sobre el séptimo atributo de Dios, iba a impugnar tan abominable herejía. Aureliano deploró esas nuevas, sobre todo la última. Sabía que en materia teológica no hay novedad sin riesgo; luego reflexionó que la tesis de un tiempo circular era demasiado disímil, demasiado asombrosa, para que el riesgo fuera grave. Más le dolió la intervención –la intrusión– de Juan de Panonia. Hace dos años, este había usurpado un asunto de la especialidad de Aureliano (el séptimo atributo de Dios); ahora, como si el problema del tiempo le perteneciera, iba a rectificar a los anulares...",
+    "questions": [
+      {
+        "statement": "Se infiere que, de acuerdo con la tesis del tiempo circular,",
+        "alternatives": [
+          "A) todas las verdades platónicas son inexpugnables.",
+          "B) la historia se puede entender como imprevisible.",
+          "C) no hay diferencia óntica entre pasado y futuro.",
+          "D) el problema del tiempo se resuelve de modo lineal."
+        ],
+        "correct": 2,
+        "rationale": "Nada es que no haya sido (pasado) y que no será (futuro): el pasado volverá a ocurrir y el futuro ya ha ocurrido. En consecuencia, no hay diferencia óntica entre lo que fue y lo que será."
+      },
+      {
+        "statement": "Se deduce que, en la perspectiva de Aureliano, la herejía anular era",
+        "alternatives": [
+          "A) fundada.",
+          "B) inexpugnable.",
+          "C) paradójica.",
+          "D) absurda."
+        ],
+        "correct": 2,
+        "rationale": "Para Aureliano, la herejía anular no implicaba mayor riesgo por su carácter disímil. En tal sentido, cabe inferir que la consideraba absurda."
+      },
+      {
+        "statement": "Se infiere que los hunos se caracterizaban por",
+        "alternatives": [
+          "A) una mentalidad fetichista.",
+          "C) un ateísmo vehemente.",
+          "B) una concepción platónica.",
+          "D) un fideísmo abstracto."
+        ],
+        "correct": 3,
+        "rationale": "Al adorar a una cimitarra, evidencian una mentalidad fetichista."
+      },
+      {
+        "statement": "Se infiere que una confutación es una",
+        "alternatives": [
+          "A) falsificación.",
+          "B) refutación.",
+          "C) inducción.",
+          "D) corroboración."
+        ],
+        "correct": 0,
+        "rationale": "Confutar una teoría o una doctrina implica rebatirla, mostrar su falsidad."
+      }
+    ]
+  },
+  {
+    "type": "sentence_elimination",
+    "statement": "4. Se infiere que una confutación es una",
+    "alternatives": [
+      "A) falsificación.",
+      "B) refutación.",
+      "C) inducción.",
+      "D) corroboración."
+    ],
+    "correct": 1,
+    "rationale": "Confutar una teoría o una doctrina implica rebatirla, mostrar su falsidad."
+  },
+  {
+    "type": "sentence_elimination",
+    "statement": "5. Se infiere del texto que tanto Aureliano como Juan de Panonia son",
+    "alternatives": [
+      "A) redomados herejes.",
+      "C) conspicuos herejes.",
+      "B) líderes heresiarcas.",
+      "D) ínclitos coadjutores."
+    ],
+    "correct": 2,
+    "rationale": "Dado que estudian las herejías, se colige fácilmente que son heresiólogos."
+  },
+  {
+    "type": "reading_comprehension",
+    "statement": "Si en Reino Unido es casi 9 gramos y los problemas de salud son muy parecidos en USA, se infiere que el promedio es alto, es decir, superior a los 8 gramos.",
+    "questions": [
+      {
+        "statement": "4. Se infiere que el efecto de una salud óptima tendría como causa",
+        "alternatives": [
+          "A) una elitista campaña de sensibilización.",
+          "B) un control adecuado de la alimentación diaria.",
+          "C) el desmedro al compromiso con la industria.",
+          "D) la eliminación absoluta de sal en las comidas."
+        ],
+        "correct": 1,
+        "rationale": "La salud de una persona depende causalmente de una buena alimentación diaria."
+      },
+      {
+        "statement": "5. Si se redujera la sal en las comidas, ello sería causa del siguiente efecto:",
+        "alternatives": [
+          "A) una menor propensión a sufrir enfermedades cardiovasculares.",
+          "B) un cambio en la política de los Estados Unidos de Norteamérica.",
+          "C) un déficit financiero en el sector turístico y en el sector industrial.",
+          "D) un aumento en el acaecimiento de ictus en el mundo entero."
+        ],
+        "correct": 0,
+        "rationale": "La dieta en las comidas está relacionada con la salud del individuo, razón por la cual un efecto de lo anterior sería un mejor índice en las enfermedades cardiovasculares."
+      },
+      {
+        "statement": "6. Si la Organización Mundial de la Salud cumpliera su meta programada para el año 2025, cabe inferir que",
+        "alternatives": [
+          "A) no habría ningún efecto en las enfermedades coronarias.",
+          "B) el consumo de sal en promedio llegaría a los 3.5 gramos.",
+          "C) ya no tendría sentido ninguna campaña de sensibilización.",
+          "D) el gasto en salud social se podría reducir drásticamente."
+        ],
+        "correct": 3,
+        "rationale": "Si la OMS al 2025 disminuye la ingesta de sal en el mundo, habría menos problemas de salud y se podría reducir el gasto."
+      },
+      {
+        "statement": "7. Se infiere que, al hablar de los ENTENDIDOS, se alude a los",
+        "alternatives": [
+          "A) filósofos.",
+          "B) ingenieros.",
+          "C) expertos.",
+          "D) egregios."
+        ],
+        "correct": 2,
+        "rationale": "Por el contexto, un entendido es un experto en los temas que se describen en la lectura."
+      },
+      {
+        "statement": "8. Cuando Cappuccio habla de la responsabilidad de los fabricantes de alimentos, se infiere que su propósito está ligado con",
+        "alternatives": [
+          "A) el discernimiento.",
+          "C) la prognosis.",
+          "B) la persuasión.",
+          "D) el metodismo."
+        ],
+        "correct": 1,
+        "rationale": "La intención del comentario de Cappuccio es persuadir a la gente que lidera la fabricación de alimentos porque su concurso integral es vital para llegar a la meta de la OMS."
+      }
+    ]
+  },
+  {
+    "type": "reading_comprehension",
+    "statement": "Cuando\nlos adolescentes y\njóvenes están «metidos» en sus\nlos adultos\nsmartphones, ¿qué creen que están haciendo? ¿Revisando fotos en Instagram?,\n¿chateando con amigos en Facebook?, ¿viendo algo en YouTube? Puede que sí, aunque\ntambién hay una buena probabilidad de que en realidad estén leyendo un libro. Así que\nolvide los estereotipos que a menudo asociamos con los millennials, ya que estos, a decir\nde Brendan Brown, son lectores voraces con hábitos de lectura diferentes de los de las\ngeneraciones anteriores.\n\nUna nueva investigación en los EE. UU., sugiere que los millennials leen más que\nsus padres e incluso más que cualquier otro grupo de edad, y a esto hay que sumar que\nlos millennials son más propensos que cualquier otro grupo etario a visitar bibliotecas\npúblicas para leer libros físicos, en contra de lo que popularmente se cree.\n\nGestión. (03/04/2019). «Conozca los sorprendentes hábitos de lectura de los millennials». Recuperado de\nhttps://gestion.pe/fotogalerias/conozca-sorprendentes-habitos-lectura-millennials-263121?foto=3. (Texto editado).",
+    "questions": [
+      {
+        "statement": "En el texto se informa principalmente que",
+        "alternatives": [
+          "A) la generación de los millennials es más proclive a la lectura que otras\ngeneraciones.",
+          "B) los millennials podrían preferir la lectura en vez de estar comunicándose\nvirtualmente.",
+          "C) los científicos de EE.UU. estudian a los millennials que son aficionados a los\ntextos.",
+          "D) los millennials son más sobresalientes en autoría de libros que otros grupos\netarios."
+        ],
+        "correct": 0,
+        "rationale": "A partir de una lectura global, podemos deducir que la generación de los millennials está ávida de lecturas, y de libros en formato papel mayoritariamente, a diferencia de otras generaciones y en contra de la creencia popular."
+      },
+      {
+        "statement": "Con el término PROPENSO, el autor connota",
+        "alternatives": [
+          "A) vocación.",
+          "B) desidia.",
+          "C) afabilidad.",
+          "D) inclinación."
+        ],
+        "correct": 3,
+        "rationale": "En el texto se indica que los millennials son más PROPENSOS a visitar bibliotecas, entonces se desprende que estos están INTERESADOS en acudir a aquellos lares."
+      },
+      {
+        "statement": "Se infiere del texto que un estereotipo sobre los millennials asegura que estos",
+        "alternatives": [
+          "A) son muy buenos lectores, pero prefieren libros electrónicos.",
+          "B) comprenden de manera muy literal los libros que estudian.",
+          "C) prefieren mayoritariamente leer textos o libros electrónicos.",
+          "D) muestran casi una propensión total a ver videos en YouTube."
+        ],
+        "correct": 2,
+        "rationale": "En el texto global se afirma que los millennials visitan, en un 53%, bibliotecas para tener una experiencia lectora con libros físicos. Esta forma de ser, recusa lo que popularmente se cree de ellos. Por lo tanto, podemos inferir que la creencia popular concertaría con la idea de que los millennials prefieren leer en sus dispositivos electrónicos."
+      },
+      {
+        "statement": "En la infografía, principalmente, se comparan porcentajes vinculados a la afición de leer de cuatro generaciones. Entonces, sobre la base de estos datos, se podría afirmar consistentemente que",
+        "alternatives": [
+          "A) la Generación X es más inteligente que los Baby Boomers.",
+          "B) la Generación Silenciosa leería menos de cinco libros al año.",
+          "C) la Generación Silenciosa solamente lee en sus smartphones.",
+          "D) los Baby Boomers leerían en mayor medida que los Gen Xers."
+        ],
+        "correct": 1,
+        "rationale": "Un millennial promedio norteamericano lee cinco libros al año, de ahí que alguien que pertenezca a otra generación podría leer menos."
+      },
+      {
+        "statement": "Si tan solo el 30% de los Baby Boomers visitara bibliotecas públicas a leer libros físicos, se podría concluir que",
+        "alternatives": [
+          "A) los millennials perderían su liderazgo en cuanto a la lectura de libros físicos.",
+          "B) la Generación Silenciosa ya no sería la más desafecta a leer libros físicos.",
+          "C) las bibliotecas norteamericanas tendrían que programar más horas de atención.",
+          "D) la Generación X superaría a los millennials en el gusto por la lectura física."
+        ],
+        "correct": 1,
+        "rationale": "En ese caso eventual, la Generación Silenciosa superaría a los Baby Boomers."
+      }
+    ]
+  },
+  {
+    "type": "reading_comprehension",
+    "statement": "Antes de discutir sobre la contaminación sonora, se debe esclarecer qué se entiende por ruido. Probablemente, todos tengan una definición de él, pero los estudios técnicos deben proveerse de una forma objetiva de definirlo. Desde esta perspectiva, el ruido es el sonido no deseado que genera molestia, perjudica o afecta la salud de las personas. En otras palabras, la contaminación sonora es la presencia en el ambiente de niveles de ruido que implique molestia, genere riesgos, perjudique o afecte la salud y al bienestar humano, los bienes de cualquier naturaleza o que cause efectos significativos sobre el medio ambiente.\n\nActualmente, este tipo de contaminación es uno de los problemas más importantes que pueden afectar a la población de la capital, ya que la exposición de las personas a niveles de ruido intenso puede producir estrés, presión alta, vértigo, insomnio, dificultades en el habla y la pérdida de audición, cuando el contacto con este agente nocivo es prolongado. Además, los sonidos estridentes afectan, particularmente, la capacidad de aprendizaje de los menores de edad y pueden causar estragos en el desarrollo de sus capacidades cognitivas cuando todavía no han salido de la infancia.\n\nLa intensidad de los distintos ruidos se mide en decibeles (dB). Los decibeles son las unidades en las que habitualmente se expresa el nivel de presión sonora, es decir, la potencia o intensidad de los ruidos. Además, son la variación sonora más pequeña perceptible para el oído humano. El umbral de audición humano medido en dB tiene una escala que se inicia con 0 dB (nivel mínimo) y que alcanza su grado máximo con 120 dB (que es el nivel de estímulo en el que las personas empiezan a sentir dolor), un nivel de ruido que se produce, por ejemplo, durante un concierto de rock.\n\nOrganismo de Evaluación y Fiscalización Ambiental. (2016). La contaminación sonora en Lima y Callao. Lima: Ministerio del Ambiente, 5. Recuperado de https://www.oefa.gob.pe/?wpfb_dl=19087.",
+    "questions": [
+      {
+        "statement": "1. Considerados en conjunto, la lectura y la imagen tienen como objetivo primordial",
+        "alternatives": [
+          "A) examinar minuciosamente los factores relacionados a la generación de ruido.",
+          "B) dilucidar el impacto de la polución sonora en la población de la capital limeña.",
+          "C) esclarecer el problema de la contaminación auditiva en las ciudades del Perú.",
+          "D) propiciar una comprensión del estado de contaminación sonora en la capital."
+        ],
+        "correct": 3,
+        "rationale": "Tanto la lectura como el gráfico brindan información relevante para un mejor entendimiento de la problemática de la contaminación sonora en la ciudad capital."
+      },
+      {
+        "statement": "2. De acuerdo con el contexto, ESTRAGOS alude a",
+        "alternatives": [
+          "A) causas ignotas.",
+          "C) efectos perniciosos.",
+          "B) contingencias imprevistas.",
+          "D) daños colaterales."
+        ],
+        "correct": 1,
+        "rationale": "Se emplea el término ESTRAGO como un efecto nocivo, perjudicial o pernicioso."
+      },
+      {
+        "statement": "3. De las conclusiones sobre la contaminación sonora en Lima expuestas en la imagen se deduce que",
+        "alternatives": [
+          "A) al implementar una regulación contra el ruido se debe priorizar solo la prevención.",
+          "B) el aumento del tráfico vehicular podría mejorar el ecosistema sonoro de la capital.",
+          "C) la población carece de una conciencia clara sobre la gravedad de este problema.",
+          "D) las actividades productoras de ruidos estridentes se relacionan a los automóviles."
+        ],
+        "correct": 2,
+        "rationale": "Se menciona en la imagen que los vehículos de transporte son agentes importantes de contaminación sonora y que es necesario que las autoridades municipales «promocionen campañas de sensibilización a la ciudadanía». Por ello, se puede inferir que la población desconoce la importancia de esta problemática."
+      },
+      {
+        "statement": "4. A partir de la información que brindan la lectura y la imagen, es válido sostener que la población de Lima, en mayor medida,",
+        "alternatives": [
+          "A) requiere cuidados al exponerse a un ruido como el producido por un concierto.",
+          "B) vería comprometida su estado de salud si vive próxima a vías congestionadas.",
+          "C) debe preocuparse más por emplear el servicio de transporte público capitalino.",
+          "D) ha desarrollado una cultura de protección a la exposición de ruidos incómodos."
+        ],
+        "correct": 1,
+        "rationale": "Se menciona en la lectura que la exposición a ruidos prolongados puede poner en riesgo la salud de la población. Asimismo, en el gráfico, se indica que el incremento del tráfico vehicular es un factor relacionado a la contaminación sonora."
+      },
+      {
+        "statement": "5. Si el umbral superior de la audición humana se triplicara,",
+        "alternatives": [
+          "A) Lima tendría que reexaminar la mayor parte de sus políticas públicas sanitarias.",
+          "B) la exposición a ruidos molestos dejaría ser un aspecto relacionado al bienestar.",
+          "C) habría que replantear qué ruidos podrían vincularse a la contaminación sonora.",
+          "D) los sonidos estridentes desencadenarían un impacto favorable en los menores."
+        ],
+        "correct": 2,
+        "rationale": "Si el umbral superior de la audición humana se multiplicara por tres, las personas recién sentirían dolor al escuchar sonidos de 360 decibeles. En tal sentido, sería necesario reconsiderar qué tipo de sonidos provocarían malestar en la población."
+      }
+    ]
+  },
+  {
+    "type": "reading_comprehension",
+    "statement": "La obra más conocida del Dr. Lewin es La rebelión de Túpac Amaru y los órigenes de la emancipación americana. En ella propugna que «la sublevación de Túpac Amaru fue la rebelión política —también social— más grande en la historia colonial de América. Como un vendaval terrible, tal gesta conmovió los cimientos del edificio español en las Indias y constituyó el jalón más importante en el camino hacia la independencia de Hispanoamérica». Más adelante afirma que fue «la rebelión de Túpac Amaru, el más importante movimiento precursor de la libertad americana». Este gran historiador peruano, en la obra mencionada, recuerda que la gran rebelión se inició con el memorable Grito de Tinta: «El 4 de noviembre [de 1780] es la fecha del comienzo del estallido revolucionario que conmovió los cimientos más profundos del edificio español», esto es, «el 4 de noviembre Túpac Amaru da comienzo a la rebelión». Don José Gabriel Túpac Amaru fue el primer gobernante, en la historia latinoamerica­na, que ordenó la libertad de los esclavos africanos. El Dr. Lewin, en la obra indicada, reproduce el conocido como «Bando de Libertad de los Esclavos», suscrito por Don José Gabriel en el Santuario de Tungasuca, el 16 de noviembre de 1780, «cuyo texto, muy significativo por contener la promesa de otorgar la libertad a los esclavos, fue conocido no hace mucho». Esta norma legal promulgada por el Inca Rey fue tácitamente derogada luego de su captura y ejecu­ción. Coloma, C. (16/07/2017). «El precursor de la Independencia de Latinoamérica: Túpac Amaru». Recuperado de https://sites.google.com/site/elperuysuhistoria2/tupac-amaru-gran-precursor-independencia Tupac Amaru II fue un cacique y arriero nacido en Cusco, bautizado como José Gabriel Condorcanqui, educado en una escuela jesuita, y con linaje inca. Pese a que era un intermediario entre la población indígena y la jerarquía española —cobrando el impuesto en tres pueblos cusqueños—, se rebeló ante las injusticias que sufrían los indios, como el aumento del tributo (impuesto por cabeza) y la brutalidad del trabajo forzoso en la mina de Potosí (hoy Bolivia). Sin embargo, Túpac Amaru II no fue prócer de la Independencia. Primero, porque la rebelión general se dirige contra la burguesía financiera limeña y no contra la corona española. Por lo tanto, no apunta hacia la independencia, sino a derogar un sistema de captación de riqueza en todo el Virreinato. Precisamente, el causante de esa captación es el grupo social que después de la Independencia toma el poder y reorganiza el Perú en función de sus intereses. Los jefes indígenas y representantes y curas provincianos —incluso el obispo cusqueño—, que acompañaron a Túpac Amaru II, luego quedaron al margen de la sociedad. Decir que Túpac Amaru II es un prócer de este Perú, sería como incluirlo en una historia de la cual él se quería distanciar. Lo que él quería era que este centro no funcione como centro de captación de renta. Y de haber sido prócer lo hubiera sido del igualitarismo, de más democratización en el Perú, pero no de la Independencia tal como se dio. Talledo, J. (14/05/2012). «Túpac Amaru no fue un prócer de la Independencia». En Udep. Recuperado en http://udep.edu.pe/hoy/2012/tupac-amaru-no-fue-un-procer-de-la-independencia/",
+    "questions": [
+      {
+        "statement": "¿Qué controversia se produce entre ambos textos?",
+        "alternatives": [
+          "A) Se pondera el impacto político-social de Túpac Amaru II en la independencia americana.",
+          "B) Se cuestiona el papel de precursor de Túpac Amaru en el proceso de independencia.",
+          "C) Se discute la dimensión liberadora de la rebelión de Túpac Amaru II en el Perú colonial.",
+          "D) Se rebate el papel emancipador de Túpac Amaru II en la liberación de los esclavos."
+        ],
+        "correct": 1,
+        "rationale": "Los textos polemizan entorno al papel que tuvo la rebelión Túpac Amaru II en el proceso de la independencia americana. El texto A apoya la tesis de considerarlo como un precursor de esta; en cambio, el texto B propone que lo que buscaba Túpac Amaru II no era la independencia de Perú, sino generar participación política de los grupos excluidos."
+      },
+      {
+        "statement": "En el texto A, la frase VENDAVAL TERRIBLE connota una",
+        "alternatives": [
+          "A) revolución predecible.",
+          "B) mutación intrascendente.",
+          "C) subversión radical.",
+          "D) transformación utópica."
+        ],
+        "correct": 2,
+        "rationale": "La frase en cuestión alude a la intencionalidad de Túpac Amaru II de hacer cambios radicales a las injusticias que padecían los indios."
+      },
+      {
+        "statement": "Resulta incompatible con la información brindada señalar que Túpac Amaru II",
+        "alternatives": [
+          "A) fue un cacique y arriero nacido en Cuzco y educado en una escuela jesuita.",
+          "B) dio inicio a su rebelión el 4 de noviembre de 1780 con el Grito de Tinta.",
+          "C) es considerado como un prócer, aunque se discute en qué sentido lo fue.",
+          "D) liberó permanentemente a los esclavos africanos de las minas de Potosí."
+        ],
+        "correct": 3,
+        "rationale": "Túpac Amaru II no llegó finalmente a promulgar la libertad de los esclavos y menos eran de las minas de Potosí."
+      },
+      {
+        "statement": "Se deduce del texto B que la rebelión de Túpac Amaru II",
+        "alternatives": [
+          "A) perseguía erosionar la hegemonía limeña en la sociedad peruana.",
+          "B) iba dirigida centralmente a subvertir el omnímodo poder de la Corona.",
+          "C) implicaba una secreta alianza con los criollos limeños cercanos al poder.",
+          "D) suponía una ruptura contra el imperio español por su carácter elitista."
+        ],
+        "correct": 0,
+        "rationale": "La postura del texto B sostiene que Túpac Amaru II apuntaba a democratizar el Peru; en ese aspecto, se puede deducir que ello implicaba, no romper, sino flexibilizar las rígidas jerarquías sociales, al darle participación política a los grupos excluidos."
+      },
+      {
+        "statement": "Si la Independencia peruana que se dio en el siglo XIX hubiese tenido una esencia democratizadora,",
+        "alternatives": [
+          "A) la postura defendida en el texto B tendría una evidencia fuerte y sólida.",
+          "B) no habría ninguna duda sobre el carácter de prócer de Túpac Amaru II.",
+          "C) no se podría reconocer un vínculo con la gesta soñada de Túpac Amaru.",
+          "D) el bando de libertad prometido por Túpac Amaru habría sido derogado."
+        ],
+        "correct": 1,
+        "rationale": "En ese caso eventual, habría una básica afinidad con el pensamiento de Túpac Amaru, razón por la cual se podría concordar en que fue un prócer."
+      }
+    ]
+  }
+]

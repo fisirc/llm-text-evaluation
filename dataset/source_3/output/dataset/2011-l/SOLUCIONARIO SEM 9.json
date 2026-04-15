@@ -1,0 +1,589 @@
+[
+  {
+    "type": "reading_comprehension",
+    "statement": "En 1543 Nicolás Copérnico se propuso incrementar la precisión y sencillez de la teoría astronómica vigente transfiriendo al Sol muchas de las funciones que hasta entonces se atribuían a la Tierra. Con anterioridad a su propuesta, la Tierra había sido el centro fijo con respecto al cual los astrónomos calculaban los movimientos de planetas y estrellas . Un siglo más tarde, el Sol, al menos en lo que hace referencia a la astronomía, había reemplazado a la Tierra como marco de referencia , y ésta había perdido su privilegiado estatuto astronómico para convertirse en un planeta más de entre los que se mueve n alrededor del Sol. Una gran parte de los resultados más importantes alcanzados por la astronomía moderna reposa sobre dicha transposición. Así, pues, y ante todo, la revolución copernicana significa una reforma en los conceptos fundamentales de la astronomía.\n\n",
+    "questions": [
+      {
+        "statement": "Con respecto al Sol, se colige que a partir de Copérnico",
+        "alternatives": [
+          "A) dejo de considerársele como una estrella para ser el astro principal .",
+          "B) dejo de ser considerado como un astro y tuvo un estatus especial .",
+          "C) se le usó para calcular los movimientos de otras estrellas .",
+          "D) se le atribuyó un movimiento de traslación y otro de rotación .",
+          "E) no representó un mayor cambio en la astronomía de la época ."
+        ],
+        "correct": 2,
+        "rationale": "Al Sol se le transfirieron muchas funciones que hasta entonces se le atribuían a la Tierra, como ser el centro fijo con respecto al cual se calculaban los movimientos de planetas y estrellas."
+      }
+    ]
+  },
+  {
+    "type": "reading_comprehension",
+    "statement": "Galileo puso en duda la tesis aristotélica de que cuerpos de peso diferente caen con velocidades diferentes. Se dice que Galileo sí hizo algo equivalente: dejó rodar por una suave pendiente bolas de pesos distintos. La ventaja de este procedimiento experimental es que se trabaja con velocidades menores. Las medidas de Galileo indicaron que la tasa de aumento de la velocidad era la misma para todos los cuerpos, independientemente de su peso. Obviamente, una bola de plomo caerá más rápido que una pluma, pero esto se debe a que la pluma es frenada por la resistencia del aire. En la Luna, donde no hay aire que frene las cosas, el astronauta David R. Scout realizó el experimento de la pluma y la bola de plomo, y comprobó que ambas chocaban con el suelo en el mismo instante.",
+    "questions": [
+      {
+        "statement": "Se colige del texto que David R. Scout",
+        "alternatives": [
+          "A) sentó las bases para una nueva ciencia dinámica.",
+          "B) Considera que la historia de Pisa es solo una leyenda.",
+          "C) no uso procedimientos experimentales en su trabajo .",
+          "D) tuvo como elemento a su favor la resistencia del aire .",
+          "E) refuto la tesis aristotélica de la caída de los cuerpos."
+        ],
+        "correct": 4,
+        "rationale": "El experimento en la Luna refuta el aristotelismo."
+      }
+    ]
+  },
+  {
+    "type": "reading_comprehension",
+    "statement": "Definir políticas educativas que garanticen de forma generalizada una enseñanza de calidad no es una tarea fácil. En una sociedad en continuo cambio, establecer lo que es sustantivo frente a lo espurio y avanzarse al propio cambio anticipándose en la modificación de los currículos y en la selección de las metodologías de instrucción, exige una acción reflexiva de amplio calado y ejercida desde una pluralidad de posicionamientos que van más allá de los propios educadores.\nEn una sociedad compleja, la educación no puede discurrir de forma simple y llana sin tener en cuenta la compleja red de interrelaciones que debería establecer con los otros sistemas que operan en la realidad para poder potenciar su acción, dotarla de significado flexibilizar e incrementar su capacidad de respuesta.",
+    "questions": [
+      {
+        "statement": "Se colige que, en una sociedad compleja, la educación debe",
+        "alternatives": [
+          "A) establece r criterios de calidad sobre bases sencillas.",
+          "B) elaborar currículos con un enfoque prospectivo .",
+          "C) centrarse solamente en habilidades cognitivas.",
+          "D) dar importancia por igual a todas las dimensiones.",
+          "E) regirse solamente por las ideas de los educadores."
+        ],
+        "correct": 1,
+        "rationale": "En una sociedad en continuo cambio debe de avanzarse al propio cambio anticipándose en la modificación de los currículos, es decir los currículos en el presente deben anticiparse al futuro."
+      }
+    ]
+  },
+  {
+    "type": "reading_comprehension",
+    "statement": "Estábamos reunidos en la sala de conferencias de nuestra compañía, observando la demostración que un representante de ventas hacía de los refinados programas de computación de su empresa. De pronto, la imagen de la pantalla se tornó borrosa y empezó a oscilar. Fallaron los intentos del hombre de esta blecer un enlace de telecomunicación con la computadora central. Habló por teléfono a su compañía para pedir ayuda, pero ese día estaba ausente su coordinador. Entonces, se encaró con nosotros y dijo: Con esto termina mi demostración del producto de la competencia. Regresaré la semana próxima para mostrarles el nuestro.",
+    "questions": [
+      {
+        "statement": "Es posible colegir que el representante de ventas",
+        "alternatives": [
+          "A) era realmente un estafador profesional.",
+          "B) destaca como mentiroso compulsivo.",
+          "C) es poseedor de una gran perspicacia.",
+          "D) fue despedido por negligencia laboral.",
+          "E) se caracteriza por ser un mitómano."
+        ],
+        "correct": 2,
+        "rationale": "El representante de ventas de la empresa en cuestión tuvo una respuesta ingeniosa en un momento de adversidad."
+      }
+    ]
+  },
+  {
+    "type": "reading_comprehension",
+    "statement": "La radiactividad es un fenómeno de enorme importancia para la civilización moderna. Se trata de procesos de desintegración espontánea de núcleos atómicos mediante la emisión de diferentes partículas subatómicas. Su descubrimiento fue realizado casualmente por el físico francés Antoine Henri Be cquerel en 1896, gracias a su observación de los efectos de la exposición de materiales fluorescentes y fosforescentes a los rayos X (recientemente des cubiertos por Wilhelm Roentgen en 1895), para lo cual colocaba un cristal de sulfato de potasio y uranilo , mineral que contiene uranio, encima de una placa fotográfica envuelta en papel negro y las exponía al sol. Cuando desenvolvía la placa la encontraba velada, hecho que atribuía a la fosforescencia del cristal. Los días siguientes no hubo sol y dejó en un cajón la placa envuelta con papel negro y con la sal de u ranio encima. Cuando sacó la placa fotográfica , estaba velada, y no podía deberse a la fosforescencia ya que no había sido expuesta a los rayos del sol. La única explicación era que la sal de uranio emitía una radiación muy penetrante. Poco después de su descubrimiento, el matrimonio conformado por Marie y Pierre Curie tomaron cartas en el asunto, y en los posteriores años se hicieron científicos de gran renombre por su arduo trabajo en la materia ; Marie Curie bautizó al fenómeno como radiactividad, además de descubrir otros elementos radiactivos como el torio, el polonio y el radio. A este último le encontraron aplicaciones médicas para el tratamiento de tumores, y fue esta misma mujer quien encabezó una comisión honoraria de radiología durante la guerra. En 1903 fueron galardonados con el premio Nobel de Física junto con",
+    "questions": [
+      {
+        "statement": "Se infiere que la intención del autor es",
+        "alternatives": [
+          "A) explicar el descubrimiento de Becquerel como algo casual.",
+          "B) ponderar, sobre todo, el trabajo científico de W. Roentgen.",
+          "C) demostrar que la medicina es imposible sin radiactividad.",
+          "D) comparar el trabajo de Becquerel con el de los Curie.",
+          "E) valorar el descubrimiento de la radiactividad natural."
+        ],
+        "correct": 4,
+        "rationale": "Se infiere que la intención del autor es valorar el descubrimiento de la radiactividad natural."
+      }
+    ]
+  },
+  {
+    "type": "synonyms_and_antonyms",
+    "statement": "2. En el texto COSTOSA tiene el sentido de",
+    "alternatives": [
+      "A) ardua.",
+      "B) ominosa.",
+      "C) lujosa.",
+      "D) prescindible.",
+      "E) suntuosa."
+    ],
+    "correct": 0,
+    "rationale": "En el texto se dice que la memoria mecánica es costosa es decir que es muy difícil, requiere mucho esfuerzo o es ardua."
+  },
+  {
+    "type": "synonyms_and_antonyms",
+    "statement": "3. En el texto ALIENADO tiene el sentido de",
+    "alternatives": [
+      "A) desvinculado.",
+      "B) vesánico.",
+      "C) descontrolado."
+    ],
+    "correct": 0,
+    "rationale": "Alienad o se entiende como desvinculado o separado de sus intereses."
+  },
+  {
+    "type": "synonyms_and_antonyms",
+    "statement": "4. Marque la alternativa que es incompatible con el texto.",
+    "alternatives": [
+      "A) El desarrollo de la memoria inmediata es necesaria para aprender a leer.",
+      "B) Para el aprendizaje escolar se debe desarrollar la memoria significativa.",
+      "C) Un estudiante puede recordar bien aquello que comprende bien.",
+      "D) El aprendizaje significativo tiene un carácter motivador intrínseco.",
+      "E) La memoria mecánica tiene más ventajas que la memoria significativa."
+    ],
+    "correct": 4,
+    "rationale": "La memoria significativa es la que se debe potenciar para el aprendizaje escolar, la mecánica es costosa, efímera, poco útil y poco motivante, la otra es casi lo opuesto."
+  },
+  {
+    "type": "synonyms_and_antonyms",
+    "statement": "5. Se colige del texto que si un estudiante no relaciona lo que aprende con lo que ya sabe, entonces",
+    "alternatives": [
+      "A) será incapaz de recordar lo que aprende.",
+      "B) está haciendo uso de la memoria significativa.",
+      "C) tendrá dificultades para recordar lo que aprende.",
+      "D) estará muy motivado para aprender lo nuevo.",
+      "E) tendrá que utilizar su me moria inmediata para recordar."
+    ],
+    "correct": 2,
+    "rationale": "Si el estudiante no relaciona lo que aprende con lo que ya sabe entonces no lleva a cabo un aprendizaje significativo no comprenderá bien y no lo recordará bien."
+  },
+  {
+    "type": "synonyms_and_antonyms",
+    "statement": "6. Se colige del texto que si un niño tuviera atrofiada su memoria inmediata, entonces",
+    "alternatives": [
+      "A) no podría restar cantidades.",
+      "B) no sería metacognitivo.",
+      "C) sería incapaz de caminar.",
+      "D) solo usaría su memoria significativa.",
+      "E) no podría practicar ningún deporte."
+    ],
+    "correct": 0,
+    "rationale": "El desarrollo normal de la memoria inmediata es necesario para la manipulación de símbolos implicados en operaciones como el cálculo."
+  },
+  {
+    "type": "synonyms_and_antonyms",
+    "statement": "7. Si al aprender un contenido nuevo un niño establece exiguas relaciones entre este y lo que sabe, se colige que el niño",
+    "alternatives": [
+      "A) no habrá aprendido nada.",
+      "B) es metacognitivo para aprender.",
+      "C) habrá comprendido poco el tema.",
+      "D) podrá recordarlo fácilmente.",
+      "E) recurrirá a su memoria mecánica."
+    ],
+    "correct": 2,
+    "rationale": "El número de relaciones establecidas define el nivel de comprensión, si establece pocas relaciones, su nivel de comprensión será bajo."
+  },
+  {
+    "type": "reading_comprehension",
+    "statement": "Es indudable que, antes del despertar de la ciencia griega, hubo actividad científica aun en aquel estricto sentido en que la consideramos, es decir, como preludio al espíritu de nuestra época. Pero esto no significa ipso facto que la ciencia griega fuese hija de las ciencias orientales, pues pudo desarrollarse de una manera en gran parte autónoma. Así, pues, sigue planteado el problema tan discutido, aunque en cierta medida esté prejuzgado aquí, de cuáles hayan sido las influencias de Oriente sobre Grecia en el campo científico. Los filósofos y los sabios ,los poetas y los historiadores griegos exaltaron siempre la sabiduría oriental. Hasta pusieron bajo su advocación las ideas parcialmente nuevas que aportaban: medida de prudencia si tales ideas se oponían a las tradiciones o procedimientos para darles mayor autoridad; también, sin duda, recuerdo de efectivos préstamos ideológicos; y también influencia del mito de la Edad de Oro. Toda la Antigüedad creyó en una civilización dichosa y primitiva, de ciencia fabulosa y que habría tenido como escenario el Oriente o, al menos, transmitida primero a Oriente. Además, los comentaristas alejandrinos, por los que conocemos todo aquel período, sostenían todos espiritual. Así, pues, todos los testimonios sobre el origen oriental de la ciencia y de la filosofía deben someterse a caución y casi todos necesitan modificación, al menos en cuanto a las precisiones que dan. Pero, a nuestro juicio, otra cosa es lo relativo a una influencia general. Lo mismo sucede con respecto a los testimonios de las influencias egipcias. Por lo demás, sabemos que los sacerdotes egipcios trataron de hacer derivar toda la civilización griega de la de Egipto. En esto hay flagrante delito. Finalmente, si bien es indudable que ciertos conocimientos técnicos y ciertas ideas filosóficas se encuentran en Oriente al margen de toda influencia griega y con anterioridad a los documentos griegos, en donde los descubrimos, no por eso se ha demostrado su origen exclusivamente oriental. Pues tales conocimientos son muy sencillos y tales ideas muy naturales. Nada tiene de sorprendente que hayan podido surgir en el espíritu de hombres que comienzan a reflexionar sin que se haya producido contacto alguno entre ellos. O dicho de otra manera, vemos coincidencias, pero no podemos establecer con evidencia una filiación. Cuando menos, no podemos justificarla de manera convincente. Por lo tanto, carece de valor histórico. Por esto, las numerosas tesis (Bailly, Biot, Gladish, Roeth, etcétera )que se han establecido muy ingeniosamente para demostrar el origen puramente oriental o egipcio de las filosofías presocráticas, de los elementos de la geometría, de la astronomía o del cálculo y aun de la física, de la química y de la medicina, fueron combatidas -por lo general con acierto - y casi descartadas por la crítica de este final del siglo; volviendo a las antiguas consideraciones de Montucla y Ritter, se ha concluido, con Zeller, Cantor, Brochard, Milhaud, Gomperz y, en cierta medida y bajo otra forma, con Diels y Burnet, que el pensamiento griego es completamente original: es el milagro griego.\n\nAbel Rey. La juventud de la ciencia griega.",
+    "questions": [
+      {
+        "statement": "En última instancia, el texto",
+        "alternatives": [
+          "A) recusa la completa originalidad de la ciencia y el pensamiento griego .",
+          "B) soslaya los conocimientos científicos de la antigüedad en Oriente y Grecia.",
+          "C) dilucida el surgimiento del pensamiento griego a partir de Oriente.",
+          "D) censura la autonomía total del pensamiento griego frente a oriente.",
+          "E) erosiona la influencia orienta l en el nacimiento del pensamiento griego."
+        ],
+        "correct": 4,
+        "rationale": null
+      },
+      {
+        "statement": "En el texto ADVOCACIÓN tiene el sentido de",
+        "alternatives": [
+          "A) significado.",
+          "B) dominio.",
+          "C) patrocinio.",
+          "D) prestigio.",
+          "E) hegemonía."
+        ],
+        "correct": 2,
+        "rationale": null
+      }
+    ]
+  },
+  {
+    "type": "sentence_elimination",
+    "statement": "Si al aprender un contenido nuevo un niño establece exiguas relaciones entre este y lo que sabe, se colige que el niño",
+    "alternatives": [
+      "A) no habrá aprendido nada.",
+      "B) es metacognitivo para aprender.",
+      "C) habrá comprendido poco el tema.",
+      "D) podrá recordarlo fácilmente.",
+      "E) recurrirá a su memoria mecánica."
+    ],
+    "correct": 2,
+    "rationale": null
+  },
+  {
+    "type": "sentence_elimination",
+    "statement": "Si un estudiante al aprender establece muchas relaciones entre lo que ya sabe, se colige que el estudiante",
+    "alternatives": [
+      "A) ha recurrido a su memoria mecánica.",
+      "B) no es metacognitiv o para aprender.",
+      "C) estará motivado en su aprendizaje.",
+      "D) su rendimiento académico será bajo.",
+      "E) no esperará un rendimiento superior."
+    ],
+    "correct": 2,
+    "rationale": null
+  },
+  {
+    "type": "sentence_elimination",
+    "statement": "Se colige del texto que para lograr un aprendizaje eficaz se debe",
+    "alternatives": [
+      "A) emplear al máximo nuestra memoria mecánica.",
+      "B) usar estrategias para acceder a los conocimientos.",
+      "C) tener una gran cantidad de conocimientos personales.",
+      "D) estar motivado previamente antes de aprender.",
+      "E) entrenar la memoria significativa para asimilar lo nuevo."
+    ],
+    "correct": 1,
+    "rationale": null
+  },
+  {
+    "type": "sentence_elimination",
+    "statement": "Se infiere que la memoria significativa es causa eficiente",
+    "alternatives": [
+      "A) del ejercicio constante de la memorización mecánica.",
+      "B) de varios razonamientos en forma cuasisilogísti ca.",
+      "C) de la motivación por los estudios poco duraderos.",
+      "D) de una buena capacidad de comprensión de lectura.",
+      "E) del uso exagerado de los procedimientos mnemotécnicos."
+    ],
+    "correct": 3,
+    "rationale": null
+  },
+  {
+    "type": "sentence_elimination",
+    "statement": "2. En el texto ADVOCACIÓN tiene el sentido de",
+    "alternatives": [
+      "A) significado.",
+      "B) dominio.",
+      "C) patrocinio.",
+      "D) prestigio.",
+      "E) hegemonía."
+    ],
+    "correct": 2,
+    "rationale": "Pusieron bajo su advocación las ideas parcialmente nuevas que aportaban‘ es decir pusieron bajo su protección o amparo, es decir, patrocinio que es lo que significa advocación."
+  },
+  {
+    "type": "sentence_elimination",
+    "statement": "4. Marque la alternativa que es incompatible con el texto",
+    "alternatives": [
+      "A) Los comentaristas alejandrinos creían que oriente había educado a Grecia.",
+      "B) La antigüedad creyó en una civilización oriental dichosa y prístina.",
+      "C) Los sacerdotes egipcios derivaban la civilización griega de la egipcia.",
+      "D) Muchos conocimientos griegos ya se conocían con anterioridad en Oriente.",
+      "E) Los griegos se refirieron a la sabiduría oriental siempre en forma peyorativa."
+    ],
+    "correct": 4,
+    "rationale": "El texto di ce que los griegos exaltaron siempre la sabiduría oriental."
+  },
+  {
+    "type": "sentence_elimination",
+    "statement": "5. Con respecto a la influencia oriental, se colige que",
+    "alternatives": [
+      "A) es indudable que la ciencia griega surgió a partir de la oriental.",
+      "B) los griegos eran conscientes de los saberes orientales adquiridos.",
+      "C) hoy sabemos que no hubo una influencia oriental en Grecia.",
+      "D) los griegos conocían la sabiduría oriental pero les era indiferente.",
+      "E) los griegos la recibieron pero nunca legaron a asimilarla."
+    ],
+    "correct": 1,
+    "rationale": "Los griegos exaltaron siempre la sabiduría oriental, y pusieron sus nuevas ideas bajo la advocación de la Sabiduría oriental, sin duda, recuerdo de efectivos prestamos ideológicos."
+  },
+  {
+    "type": "sentence_elimination",
+    "statement": "6. Con respecto a los conocimientos del mundo antiguo, se colige que",
+    "alternatives": [
+      "A) se podían generar los mismos conocimientos de manera independiente.",
+      "B) los conocimientos griegos eran diferentes a los conocimientos orientales.",
+      "C) los conocimientos orientales eran menos antiguos que los de Grecia.",
+      "D) los conocimientos de una cultura antigua determinan los de una reciente.",
+      "E) es imposible saber el tipo de conocimientos que tenía el mundo antiguo."
+    ],
+    "correct": 0,
+    "rationale": "El autor sostiene que hay conocimientos muy sencillos e ideas muy naturales por lo que no sorprende que hayan surgido en el espíritu de hombres que comienzan a reflexionar sin que se hay producido contacto entre ellos."
+  },
+  {
+    "type": "sentence_elimination",
+    "statement": "7. Si la ciencia griega fuese un producto directo de los conocimientos orientales, entonces",
+    "alternatives": [
+      "A) sería imposible demostrar un desarrollo autónomo.",
+      "B) la ciencia griega no habría desarrollado la geometría.",
+      "C) esta habría sido la sabiduría principal en la antigüedad.",
+      "D) Grecia no habría hecho ningún aporte científico a Occidente."
+    ],
+    "correct": 0,
+    "rationale": "El autor supone que la ciencia griega no fue hija directa de las ciencias orientales, pues pudo desarrollarse de una manera en gran parte autónoma."
+  },
+  {
+    "type": "verbal_series",
+    "statement": "Execrable, condenable, aborrecible,",
+    "alternatives": [
+      "A) amargo",
+      "B) colérico",
+      "C) inefable",
+      "D) increíble",
+      "E) abominable"
+    ],
+    "correct": 4,
+    "rationale": "Campo semántico de lo condenable, censurable, continúa abominable."
+  },
+  {
+    "type": "verbal_series",
+    "statement": "Derogar, anular, suprimir",
+    "alternatives": [
+      "A) suplicar",
+      "B) abrogar",
+      "C) abogar",
+      "D) derribar",
+      "E) aplacar"
+    ],
+    "correct": 1,
+    "rationale": "Campo semántico de la abolición, continúa abrogar que es abolir, derogar."
+  },
+  {
+    "type": "verbal_series",
+    "statement": "Falaz, engañoso, capcioso,",
+    "alternatives": [
+      "A) absurdo",
+      "B) adv enedizo",
+      "C) adoc enado",
+      "D) incomprensible",
+      "E) especioso"
+    ],
+    "correct": 4,
+    "rationale": null
+  },
+  {
+    "type": "verbal_series",
+    "statement": "Acrimonia, aspereza, desabrimiento",
+    "alternatives": [
+      "A) irritación",
+      "B) avaricia",
+      "C) crueldad",
+      "D) melancolía",
+      "E) acritud"
+    ],
+    "correct": 4,
+    "rationale": "La acrimo nia es la as pereza de las cosas, desa brimiento, continúa acritud."
+  },
+  {
+    "type": "verbal_series",
+    "statement": "Huraño, esquivo, arisco ,",
+    "alternatives": [
+      "A) extraño",
+      "B) huidizo",
+      "C) enrevesado",
+      "D) hosco",
+      "E) tormentoso"
+    ],
+    "correct": 3,
+    "rationale": "Huraño es que huye y se esconde de la gente, continúa hosco."
+  },
+  {
+    "type": "verbal_series",
+    "statement": "Saciado, repleto, harto,",
+    "alternatives": [
+      "A) agotado",
+      "B) alborozado",
+      "C) exasperado",
+      "D) sosegado",
+      "E) ahíto"
+    ],
+    "correct": 4,
+    "rationale": "Ahito es saciado, harto, empachado."
+  },
+  {
+    "type": "synonyms_and_antonyms",
+    "statement": "6. Saciado, repleto, harto,",
+    "alternatives": [
+      "A) agotado",
+      "B) alborozado",
+      "C) exasperado",
+      "D) sosegado",
+      "E) ahíto"
+    ],
+    "correct": 2,
+    "rationale": "Ahito es saciado, harto, empachado."
+  },
+  {
+    "type": "synonyms_and_antonyms",
+    "statement": "7. Desafiar, afrontar, encarar,",
+    "alternatives": [
+      "A) desfigurar",
+      "B) zaherir",
+      "C) arrostrar",
+      "D) de svelar",
+      "E) soportar"
+    ],
+    "correct": 2,
+    "rationale": "Campo semántico de hacer frente a algo, sigue arrostrar."
+  },
+  {
+    "type": "synonyms_and_antonyms",
+    "statement": "8. Pequeñez, nimiedad, baratija",
+    "alternatives": [
+      "A) joya",
+      "B) ardid",
+      "C) fruslería",
+      "D) molestia",
+      "E) obsequio"
+    ],
+    "correct": 2,
+    "rationale": "Campo semántico de las cosas de poco valor ,sigue fruslería."
+  },
+  {
+    "type": "verbal_series",
+    "statement": "9. ¿Cuál es el término que no corresponde a la serie?",
+    "alternatives": [
+      "A) Desalentador",
+      "B) Depresivo",
+      "C) Deprimente",
+      "D) Perturbador",
+      "E) Desmoralizante"
+    ],
+    "correct": 3,
+    "rationale": "La relación es de sinonimia, perturbar es inquietar no produce desaliento."
+  },
+  {
+    "type": "verbal_series",
+    "statement": "10. ¿Cuál es el término que no corresponde a la serie?",
+    "alternatives": [
+      "A) Traición",
+      "B) Satrapía",
+      "C) Insidia",
+      "D) Felonía",
+      "E) Perfidia"
+    ],
+    "correct": 1,
+    "rationale": "La serie sinonímica se relaciona con la traición."
+  },
+  {
+    "type": "reading_comprehension",
+    "statement": "Las autoridades en cuestión fueron sumamente indulgentes con lo que a todas luces era un atentado racista. Esta tendencia a disimular semejante atrocidad solo es posible porque los agraviados eran inmigrantes. El autor reseña la historia de humillaciones que pasaron los españoles, humillaciones olvidadas por estos que, en palabras de Vargas Llosa, «se dan el lujo de despreciar a esos negros inmigrantes que afean el paisaje».",
+    "questions": [
+      {
+        "statement": "Se deduce del texto que, para el autor, el discrimen racial evidenciado en España",
+        "alternatives": [
+          "A) tiene sus raíces en la más profunda ignorancia acerca de la riqueza cultural de los árabes, gambianos y demás trashumantes de África.",
+          "B) ha sido posteriormente a batido por la concientización de miles de personas acerca de los aspectos funestos que acarrean los actos crueles.",
+          "C) deviene del resentimiento de los españoles por la profunda crisis económica de hace cuarenta años, y que si gnificó para ellos algo humillante.",
+          "D) es producto de las muestras de racismo desatadas en Alemania y que se han propalado a lo largo de todo e l territorio europeo.",
+          "E) demuestra una profunda ignorancia acerca de la extrema pobreza, el maltrato y la condición de parias europeos que alguna vez vivieron los españoles."
+        ],
+        "correct": 4,
+        "rationale": "El autor reseña la historia de humillaciones que pasaron los españoles, humillaciones olvidadas por estos que, en palabras de Vargas Llosa, «se dan el lujo de despreciar a esos negros inmigrantes que afean el paisaje»."
+      },
+      {
+        "statement": "Se infiere que los que perpetraron el incendio de la vivienda de Fataumata",
+        "alternatives": [
+          "A) creen en los dogmas del liberalismo económico.",
+          "B) son como parias en la próspera y moderna España.",
+          "C) han sufrido terrible violencia en su tierna infancia.",
+          "D) se adhieren a una ideología racista y violentista.",
+          "E) querían quedarse con las pertenencias de los gambios."
+        ],
+        "correct": 3,
+        "rationale": null
+      },
+      {
+        "statement": "Señale la alternativa que contenga una aserción incompatible con el texto.",
+        "alternatives": [
+          "A) El autor cuestiona la indiferencia de la gente ante el racismo.",
+          "B) Fataumata escapó de su tierra originaria debido al hambre.",
+          "C) Fataumata, al salir del hospital, regresará a su natal Gambia .",
+          "D) Los agresores de Fataumata aborrecen a la gente negra.",
+          "E) Fataumata padeció desgracias antes de llegar a España."
+        ],
+        "correct": 2,
+        "rationale": "El autor conjetura que Fataumata irá a otra ciudad europea."
+      },
+      {
+        "statement": "Si un antropólogo sostuviera que se debe respetar la castración femenina como una expresión de relativismo cultural,",
+        "alternatives": [
+          "A) su análisis se vería refrendado por el incidente narrado.",
+          "B) Mario Vargas Llosa manifestaría su tajante rechazo.",
+          "C) podría concluir que Gambia es un país muy atrasado.",
+          "D) no podría condenar los actos de los jóvenes racistas.",
+          "E) el autor podría estar de acuerdo con tal opinión."
+        ],
+        "correct": 1,
+        "rationale": "Vargas Llosa presenta el hecho como una fatalidad y como una penuria más para Fataumata. Se colige que está en contra de este corolario del relativismo cultural."
+      },
+      {
+        "statement": "El mejor sinónimo de RECONSTITUIR es",
+        "alternatives": [
+          "A) relatar.",
+          "B) describir.",
+          "C) inferir.",
+          "D) plasmar.",
+          "E) tramar."
+        ],
+        "correct": 2,
+        "rationale": "Con indicios, MVLL logra reconstituir, esto es, inferir (una labor de reconstrucción del pasado)."
+      }
+    ]
+  },
+  {
+    "type": "reading_comprehension",
+    "statement": "",
+    "questions": [
+      {
+        "statement": "Entre otras cosas, la literatura es gravitante porque",
+        "alternatives": [
+          "A) despliega la función estética del lenguaje.",
+          "B) plasma el valor de la identidad nacional.",
+          "C) nos sume en una reflexión solipsista.",
+          "D) es un baluarte contra la discriminación.",
+          "E) es el motor de la cien cia y de la técnica."
+        ],
+        "correct": 3,
+        "rationale": "Al leer literatura, nos percatamos de la igualdad esencial de todos los hombres."
+      },
+      {
+        "statement": "La filosofía no puede ocupar el espacio literario, según Vargas Llosa, porque ella ha devenido un saber",
+        "alternatives": [
+          "A) banal.",
+          "B) retórico.",
+          "C) científico.",
+          "D) especializado.",
+          "E) polémico."
+        ],
+        "correct": 3,
+        "rationale": "La filosofía se ha especializado mucho y, por ello, ya no puede llegar al hombre medio."
+      },
+      {
+        "statement": "Si en el Perú se hiciera una encuesta sobre la lectura, probablemente se demostraría que",
+        "alternatives": [
+          "A) solamente leen las personas provectas.",
+          "B) las mujeres leen más que los varones.",
+          "C) más de la mitad ha leído un libro.",
+          "D) todos leen libros electrónicos.",
+          "E) el mundo editorial está en auge."
+        ],
+        "correct": 1,
+        "rationale": "Al extrapolar la encuesta española a nuestra realidad, ese sería el resultado."
+      },
+      {
+        "statement": "Si se le mostrara a Vargas Llosa que los jóvenes que quisieron matar a Fataumata eran buenos lectores de Cervantes, Proust y Dostoievski,",
+        "alternatives": [
+          "A) la ciencia sería más valiosa que la literatura.",
+          "B) se mostraría la debacle de todas las humanidades.",
+          "C) la postura de Vargas Llosa no se reduciría un ápice.",
+          "D) habría que sacar del canon a esos grandes escritores.",
+          "E) su posición se vería disminuida en un aspecto central."
+        ],
+        "correct": 4,
+        "rationale": "Dice MVLL que la buena literatura es el antídoto contra la xenofobia. Por ende, si los gamberros de Banyoles hubiesen sido buenos lectores literarios, la posición de Vargas Llosa se vería muy disminuida."
+      },
+      {
+        "statement": "Si un ministro de Educación pensara como Vargas Llosa,",
+        "alternatives": [
+          "A) despotricaría de todo tipo de nacionalismo.",
+          "B) eliminaría todos los cursos de filosofía.",
+          "C) pondría énfasis en los valores prácticos.",
+          "D) incentivaría la lectura literaria ficcional.",
+          "E) trataría de minar el avance de la ciencia."
+        ],
+        "correct": 3,
+        "rationale": "Según nuestro nobel, la literatura forma hombres libres y solidarios. Por ello, habría que incentivar la literatura de ficción."
+      }
+    ]
+  }
+]

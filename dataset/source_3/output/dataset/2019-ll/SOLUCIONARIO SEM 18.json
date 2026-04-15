@@ -1,0 +1,468 @@
+[
+  {
+    "type": "reading_comprehension",
+    "statement": "Nicolás Copérnico, el célebre monje renacentista que revolucionó la milenaria tradición astronómica de su tiempo, lo hizo, curiosamente, a pesar suyo, contra su voluntad. Copérnico nació en la ciudad polaca de Torún el 15 de febrero de 1473 y falleció en Frombork –también Polonia– el 24 de mayo de 1543. Al joven Copérnico le tocó vivir en pleno auge del Renacimiento, movimiento al que contribuyó decisivamente luego de una dilatada formación de dos décadas en la Universidad de Cracovia, en su tierra natal, primero, y luego en las universidades de Bolonia, Padua y Ferrara, en Italia, cuna y sede del movimiento renacentista. En ellas, Copérnico cursó estudios diversos de medicina, derecho canónico, literatura, lenguas clásicas, geografía, economía, matemáticas y astronomía, entre otros. Si bien en su vida pública dio muestras de su erudición en los diversos campos a los que por su saber fue convocado en su Polonia natal, Copérnico fue especialmente reconocido en Europa como un astrónomo y matemático de primer orden, de quien se esperó por mucho tiempo una contribución definitiva al ya antiguo problema de la forma y la estructura del universo.\n\nPor dos mil años, el hombre europeo desarrolló una visión del universo que, desde los pitagóricos (c. 500 a.C.) hasta la Divina comedia de Dante (c. 1320 d.C.), había variado relativamente poco. En ella, se concebía el universo como una gran esfera celeste que tenía a nuestro planeta, la Tierra, como centro. Alrededor de la Tierra giraban, con movimiento circular y uniforme (distancias iguales a velocidades iguales), primero la Luna, luego el Sol, los planetas observables a simple vista (Venus, Mercurio, Marte, Júpiter, Saturno) y, por último, la llamada “esfera de las estrellas fijas” –el conjunto de las estrellas visibles en el firmamento nocturno– que constituía la cara interna del límite último del universo. Se trataba del universo ptolemaico, propuesto por Claudio Ptolomeo (c. 150 d.C.) a partir de los conocimientos por él heredados de los antiguos sabios pitagóricos y alejandrinos, y que él a su vez legaría a los sabios árabes y latinos medievales que conocieron su obra con el nombre de Almagesto.\n\nEste fue el universo que conoció y revolucionó Copérnico con su poderosa mente matemática. Un universo que, hacia fines del siglo XV e inicios del XVI, enfrentaba un conjunto enorme de problemas que le resultaba imposible resolver y que Copérnico ayudó a comprender mejor proponiendo un giro revolucionario: sacó a la Tierra del centro y la puso a orbitar –junto con la Luna– entorno de un nuevo centro: el Sol. Transformó el universo geocéntrico de la antigüedad en el universo heliocéntrico de la modernidad.\n\nPero la humanidad no estaba psicológicamente preparada para un cambio tan radical. Copérnico fue consciente de ello y su obra, Sobre la revolución de las esferas celestes, que le tomó más de veinte años elaborar, y que ya estaba lista hacia 1530, tuvo que esperar casi quince años más, el año de la muerte de Copérnico, para que por fin viera la luz de la imprenta. Y ya impresa, tuvo que aguardar todavía setenta años para\n\nI\n\nque otra obra clave –El mensajero sideral, de Galileo Galilei, de 1610– la pusiera en el foco de la atención y la polémica públicas.\n\n¿Por qué demoró tanto Copérnico en publicar su obra? ¿Temía acaso las consecuencias que le podría acarrear su revolucionaria teoría? Se han ensayado muchas respuestas, pero no hay una definitiva. Así que tal vez quepa dudar de que Copérnico haya sido él mismo un revolucionario. No cabe dudar, sin embargo, del carácter revolucionario de su obra. Aunque, si queremos ser más precisos, debemos decir que las imprevisibles consecuencias de su obra, antes que ella misma, sí tuvieron ese carácter que permite designar a ese fenómeno científico cultural que originó una imagen del universo algo más próxima a la actual y –de paso– ayudó a conformar el espíritu moderno de la ciencia, con el nombre de “revolución copernicana”.",
+    "questions": [
+      {
+        "statement": "Respecto de la obra de Copérnico, se pone de relieve el hecho de",
+        "alternatives": [
+          "A) haberse anticipado a su tiempo.",
+          "B) haberse publicado tardíamente.",
+          "C) que trate de un cosmos geocéntrico.",
+          "D) ser un fenómeno cultural hermético."
+        ],
+        "correct": 0,
+        "rationale": "“La humanidad no estaba psicológicamente preparada para un cambio tan radical”. No fue sino en el siglo XVII que recién se comenzó a procesar."
+      },
+      {
+        "statement": "El adverbio CURIOSAMENTE remite a una",
+        "alternatives": [
+          "A) casualidad.",
+          "C) irracionalidad.",
+          "B) perplejidad.",
+          "D) paradoja."
+        ],
+        "correct": 3,
+        "rationale": "La paradoja que implica que Copérnico inició un cambio revolucionario en la visión del universo de su época pero, al parecer, sin desearlo."
+      },
+      {
+        "statement": "Se infiere del texto que la teoría heliocéntrica se propugna en",
+        "alternatives": [
+          "A) el Almagesto.",
+          "C) la Biblia.",
+          "B) El Mensajero sideral.",
+          "D) la Divina comedia."
+        ],
+        "correct": 1,
+        "rationale": "Puesto que Galileo era un copernicano convencido, y pone la teoría heliocéntrica en boga, es claro que su obra la implica y respalda."
+      },
+      {
+        "statement": "Dada la naturaleza del cambio propuesto, resulta incongruente asumir que Copérnico se refiriese",
+        "alternatives": [
+          "A) a la trayectoria elíptica de los planetas.",
+          "B) al movimiento de las esferas celestes.",
+          "C) a los ciclos regulares circunsolares.",
+          "D) a las estrellas que son visibles en el cielo."
+        ],
+        "correct": 0,
+        "rationale": "Copérnico no cuestionó la forma esférica del universo tradicional, solo su geocentrismo."
+      },
+      {
+        "statement": "Si Claudio Ptolomeo hubiese pensado en un universo con la Tierra orbitando alrededor del Sol,",
+        "alternatives": [
+          "A) habría culminado lo que procuró la antigua tradición griega.",
+          "B) habría resuelto algunas complicaciones de su propio sistema.",
+          "C) le habría quitado todo interés a los astrónomos posteriores.",
+          "D) los árabes no habrían llamado Almagesto a su gran obra."
+        ],
+        "correct": 1,
+        "rationale": "Copérnico, con su giro heliocéntrico, ayudó en la solución de “un conjunto enorme de problemas” irresueltos por Ptolomeo."
+      },
+      {
+        "statement": "Se deduce del texto que el sistema cosmológico configurado por Ptolomeo",
+        "alternatives": [
+          "A) fue totalmente derruido por Nicolás Copérnico.",
+          "B) carecía de fisuras de índole astronómica.",
+          "C) utilizaba un sistema matemático arábigo.",
+          "D) era compatible con la doctrina del cristianismo."
+        ],
+        "correct": 3,
+        "rationale": "La visión geocéntrica es compatible con la centralidad del hombre en la creación cristiana."
+      }
+    ]
+  },
+  {
+    "type": "sentence_elimination",
+    "statement": "6. Se deduce del texto que el sistema cosmológico configurado por Ptolomeo",
+    "alternatives": [
+      "A) fue totalmente derruido por Nicolás Copérnico.",
+      "B) carecía de fisuras de índole astronómica.",
+      "C) utilizaba un sistema matemático arábigo.",
+      "D) era compatible con la doctrina del cristianismo."
+    ],
+    "correct": 3,
+    "rationale": "La visión geocéntrica es compatible con la centralidad del hombre en la creación cristiana."
+  },
+  {
+    "type": "reading_comprehension",
+    "statement": "La melatonina es una hormona segregada por la glándula pineal. Ayuda a restablecer los ritmos fisiológicos y quizá contribuya a regular el ciclo del sueño. No es de extrañar que se hayan elogiado sus virtudes para aliviar las molestias causadas por los cambios de horario al hacer viajes largos en avión —esta sigue siendo su aplicación más probada— y como somnífero universal. Pero el mayor éxito de la melatonina se debe al temor de la gente a envejecer.\n\nLa concentración en el organismo de hormonas como la testosterona, los estrógenos y la melatonina es un índice de la juventud de una persona, pues alcanza su mayor magnitud en los adultos jóvenes y disminuye a un ritmo constante en la edad madura y la vejez. Si mantuviéramos la concentración propia de la juventud, ¿podríamos combatir los efectos del envejecimiento?\n\nCiertos experimentos realizados con ratas y ratones parecían indicar que sí. El oncólogo estadounidense William Regelson y el inmunólogo italiano Walter Pierpaoli trasplantaron las glándulas pineales de unos ratones jóvenes a unos de edad mediana y avanzada para incrementar su concentración de melatonina, y estos \"rejuvenecieron a ojos vistas\", según escribieron los médicos en su libro The Melatonin Miracle, publicado en 1995.\n\nSin embargo, en el Journal of the American Medical Association apareció después un artículo que expresaba algunas reservas sobre la melatonina: puede reducir la fertilidad de ambos sexos e inhibir el deseo sexual de los varones; además ,constriñe las arterias cerebrales de las ratas.\n\nEn abril de 1997, el Instituto Nacional de la Senectud de Estados Unidos emprendió una campaña en los medios informativos desaconsejando el uso de remedios hormonales contra el envejecimiento por el peligro que entrañan. Los expertos de la institución advierten que no se ha comprobado que la melatonina tenga las propiedades rejuvenecedoras que se le atribuyen, y no aconsejan tomar preparados hormonales sino es bajo la supervisión de un médico.",
+    "questions": [
+      {
+        "statement": "1. En última instancia, el autor del texto trata de advertir sobre",
+        "alternatives": [
+          "A) los beneficios terapéuticos de la hormona melatonina.",
+          "B) las causas del envejecimiento prematuro en el ser humano.",
+          "C) las reacciones adversas del organismo al usar melatonina.",
+          "D) los experimentos para inducir la longevidad de los roedores."
+        ],
+        "correct": 2,
+        "rationale": "Sin embargo, en el Journal of the American Medical Association apareció después un artículo que expresaba algunas reservas sobre la melatonina; entre ellas que puede reducir la fertilidad de ambos sexos e inhibir el deseo sexual de los varones, y que constriñe las arterias cerebrales de las ratas."
+      },
+      {
+        "statement": "2. En el texto, se emplea el término RESERVAS para indicar",
+        "alternatives": [
+          "A) los beneficios y usos de la hormona melatonina.",
+          "B) algunos efectos perniciosos de la melatonina.",
+          "C) las ventajas hormonales de la melatonina.",
+          "D) la disfunción secretora de la glándula pineal."
+        ],
+        "correct": 1,
+        "rationale": "Expresar algunas reservas se refiere a tomar en cuenta los perjuicios que entraña la melatonina."
+      },
+      {
+        "statement": "3. Resulta incongruente con el texto sostener que un alto índice de melatonina",
+        "alternatives": [
+          "A) es un claro indicador de senescencia orgánica.",
+          "B) puede ayudar a regular el ciclo humano del sueño.",
+          "C) tiene cierta asociación con el rejuvenecimiento.",
+          "D) puede ocasionar cambios nocivos en el organismo."
+        ],
+        "correct": 0,
+        "rationale": "La melatonina disminuye con la edad."
+      }
+    ]
+  },
+  {
+    "type": "sentence_elimination",
+    "statement": "5. Si se comprobara que la alta concentración de melatonina incide en el rejuvenecimiento de una persona,",
+    "alternatives": [
+      "A) podría ser empleada como un potente somnífero.",
+      "B) ya no se podría hablar del milagro de la melatonina.",
+      "C) se reforzaría la campaña iniciada en el año de 1997.",
+      "D) se corroboraría los resultados experimentales de Regelson."
+    ],
+    "correct": 3,
+    "rationale": "William Regelson y el inmunólogo italiano Walter Pierpaoli trasplantaron las glándulas pineales de unos ratones jóvenes a unos de edad mediana y avanzada para incrementar su concentración de melatonina, y éstos \"rejuvenecieron a ojos vistas\"."
+  },
+  {
+    "type": "reading_comprehension",
+    "statement": "En los primeros años del siglo veinte, cuando Rutherford y su colega Frederick Soddy estaban investigando la naturaleza de la radiactividad, descubrieron una curiosa y fundamental propiedad del átomo, o más bien de su núcleo. Recibió el nombre de desintegración radiactiva, e implicó un cambio fundamental en un átomo individual (la ruptura de un núcleo y la expulsión de fragmentos del mismo), pero no parecía verse afectada por ninguna influencia exterior. Se calentaran los átomos o se enfriaran, se les colocara en vacío o en un depósito de agua, el proceso de la desintegración radiactiva continuaba imperturbable. Además, no parecía existir forma alguna de predecir exactamente cuándo un átomo particular de la sustancia radiactiva se desintegraría, I emitiendo una partícula alfa, o una partícula beta y rayos gamma. En cambio, los experimentos demostraban que, ante un gran número de átomos radiactivos del mismo elemento, una cierta proporción se desintegraba siempre en un cierto tiempo. Para cada elemento radiactivo existe un tiempo característico llamado semivida, durante el cual se desintegra exactamente la mitad de los átomos de la muestra. El radio, por ejemplo, tiene una semivida de 1600 años; una forma radiactiva del carbono, llamada carbono-14, tiene una semivida de un poco menos de 6000 años, lo cual resulta útil para las dataciones arqueológicas; y el potasio radiactivo se desintegra con semivida de 1 300 millones de años.",
+    "questions": [
+      {
+        "statement": "1. Medularmente, el texto aborda la",
+        "alternatives": [
+          "A) causa última y profunda de la desintegración radiactiva de todos los átomos.",
+          "B) desintegración radiactiva del potasio como efecto de colisiones indeterminadas.",
+          "C) emisión de partículas alfa y gamma, en función de una ley de aplicación general.",
+          "D) semivida de un conjunto de átomos en función de la desintegración radiactiva."
+        ],
+        "correct": 3,
+        "rationale": "Investigando la causa de la radiactividad, Rutherford y Soddy descubren la semivida de un conjunto de átomos de un mismo elemento, que ocurre cada cierto tiempo."
+      },
+      {
+        "statement": "2. En el texto, el término IMPERTURBABLE connota",
+        "alternatives": [
+          "A) alteración.",
+          "C) inestabilidad.",
+          "B) impasibilidad.",
+          "D) regularidad."
+        ],
+        "correct": 3,
+        "rationale": "Sea cual sea la situación del átomo (frío, caliente, en el agua o en el vacío), esta desintegración continuaba inmutable, con regularidad."
+      },
+      {
+        "statement": "3. Según el texto, es incoherente sostener que la emisión de partículas gamma",
+        "alternatives": [
+          "A) implica una semivida.",
+          "C) ocurre cada tiempo.",
+          "B) es algo predecible.",
+          "D) implica radiactividad."
+        ],
+        "correct": 1,
+        "rationale": "Es imposible predecir la desintegración de un átomo; por lo tanto, no se puede saber cuándo un átomo radiactivo podría emitir una partícula alfa, beta o gamma."
+      },
+      {
+        "statement": "4. Se infiere del texto que, por medio del carbono-14,",
+        "alternatives": [
+          "A) podemos conocer la causa de la desintegración de un átomo.",
+          "B) podemos conocer la edad de civilizaciones desaparecidas.",
+          "C) se predice la semivida de átomos como del carbono y radio.",
+          "D) se puede determinar fehacientemente el origen del universo."
+        ],
+        "correct": 1,
+        "rationale": "Una forma radiactiva del carbono-14, con una semivida de 6000, años nos permite conocer el periodo de existencia de civilizaciones desaparecidas."
+      },
+      {
+        "statement": "5. Si se pudiera conocer la causa de la desintegración radiactiva de un átomo,",
+        "alternatives": [
+          "A) el proceso de fragmentación del núcleo atómico sería visible.",
+          "B) la semivida de un conjunto de elementos radiactivos variaría.",
+          "C) se podría predecir la emisión de la partícula determinada.",
+          "D) sería verificable la fragmentación del núcleo del carbono-14."
+        ],
+        "correct": 2,
+        "rationale": "Como no se conoce la causa de la desintegración (la naturaleza de la radiactividad) de un átomo, tampoco se puede predecir la emisión de una partícula atómica específica."
+      }
+    ]
+  },
+  {
+    "type": "sentence_elimination",
+    "statement": "5. Si se pudiera conocer la causa de la desintegración radiactiva de un átomo,",
+    "alternatives": [
+      "A) el proceso de fragmentación del núcleo atómico sería visible.",
+      "B) la semivida de un conjunto de elementos radiactivos variaría.",
+      "C) se podría predecir la emisión de la partícula determinada.",
+      "D) sería verificable la fragmentación del núcleo del carbono-14."
+    ],
+    "correct": 2,
+    "rationale": "Como no se conoce la causa de la desintegración (la naturaleza de la radiactividad) de un átomo, tampoco se puede predecir la emisión de una partícula atómica específica."
+  },
+  {
+    "type": "reading_comprehension",
+    "statement": "Nietzsche suele distinguirse tres grandes períodos. El\nprimero, que abarca desde sus estudios en Leipzig hasta 1877, está representado\nbásicamente por su obra El nacimiento de la tragedia, publicada en 1871. En ella\nNietzsche establece la distinción entre el espíritu apolíneo, que expresa el mundo como\nrepresentación (artes plásticas), y el espíritu dionisíaco, que lo expresa como voluntad\n(música). Nietzsche exalta lo dionisíaco, que interpreta como encarnación de la voluntad\nde vivir, frente a lo apolíneo, que representa la huida ante la vida. El ideal estético del\nespíritu dionisíaco es el drama wagneriano, que pone en escena la fuerza incontenible de\nla vida.\nPrecisamente la ruptura de Nietzsche con Wagner es el hito que marca el tránsito del\nprimer período al segundo, que va desde 1878 hasta 1882. Nietzsche reprocha a Wagner\nel haber cedido, en su obra Parsifal, ante los ideales del cristianismo, intrínsecamente\ncontrarios a las fuerzas de la vida. En este segundo período, Nietzsche se aparta de los\nideales y maestros que había admirado hasta entonces, se muestra crítico hacia el arte y\nla metafísica y se vuelve hacia el positivismo naturalista de la Ilustración, aunque sin caer\nen el culto al progreso. La obra central de este período es Humano, demasiado humano.\nUn libro para espíritus libres, dedicada a Voltaire.\nEl tercer período del pensamiento de Nietzsche arranca el año 1882 con la publicación\nde su obra magna Así hablaba Zaratustra. Las doctrinas de este período parten de la\nconcepción de la vida como dolor, lucha e irracionalidad que había aprendido en\nSchopenhauer, pero rechazando la actitud de resignación ante ello. Nietzsche tenía la\nintención de presentar estas ideas en una obra sistemática que debía titularse La voluntad\nde poder, pero no pudo terminarla. Fue publicada después de su muerte con las\nanotaciones que se encontraron entre sus papeles póstumos.",
+    "questions": [
+      {
+        "statement": "1. En síntesis, el texto versa sobre",
+        "alternatives": [
+          "A) los ciclos de las ideas morales de Nietszsche.",
+          "B) la personalidad compleja de Nietzsche.",
+          "C) las etapas de la filosofía nietzscheana.",
+          "D) los períodos de la vida de Nietzsche."
+        ],
+        "correct": 2,
+        "rationale": "De manera integral, se presentan de manera ordenada las etapas en el pensamiento nietzscheano."
+      },
+      {
+        "statement": "2. Se deduce del texto que el pensamiento nietzscheano siempre se adscribió al",
+        "alternatives": [
+          "A) positivismo.",
+          "C) escepticismo.",
+          "B) racionalismo.",
+          "D) vitalismo."
+        ],
+        "correct": 3,
+        "rationale": "Una exaltación de la vida es el signo básico del pensamiento nietzscheano, desde sus primeras obras hasta la última: La voluntad de poder."
+      },
+      {
+        "statement": "3. En el texto, la palabra HITO alude a",
+        "alternatives": [
+          "A) vestigio histórico.",
+          "C) límite discutible.",
+          "B) momento crucial.",
+          "D) demarcación polémica."
+        ],
+        "correct": 1,
+        "rationale": "Un hito es un momento crucial porque marca un tránsito en el pensamiento del filósofo alemán."
+      },
+      {
+        "statement": "4. Se colige que la obra de Schopenhauer El mundo como voluntad y representación",
+        "alternatives": [
+          "A) Humano, demasiado humano de Nietzsche.",
+          "B) el positivismo tal como lo asumió Nietzsche.",
+          "C) el primer periodo del pensamiento nietzscheano.",
+          "D) la obra musical Parsifal de Richard Wagner"
+        ],
+        "correct": 2,
+        "rationale": "El influjo de Schopenhauer fue determinante en la primera etapa del pensamiento nietzscheano."
+      },
+      {
+        "statement": "5. Si Nietzsche hubiera exaltado el espíritu apolíneo,",
+        "alternatives": [
+          "A) habría exaltado mucho más la música como arte.",
+          "B) no tendría ninguna trascendencia para la filosofía de hoy.",
+          "C) habría admirado más las artes plásticas que la música.",
+          "D) se habría alejado de Wagner para exaltar el cristianismo."
+        ],
+        "correct": 2,
+        "rationale": "Lo apolíneo se plasma en el ideal de simetría, propio de las artes plásticas."
+      }
+    ]
+  },
+  {
+    "type": "reading_comprehension",
+    "statement": "I SEMANA 18 B\n\nEl cerebro visual aprende mejor cuando se asocia el contenido visual con el motor.\nActualmente, los bebés pasan sentados ante el televisor muchas horas, lo que impide el\ndesarrollo adecuado del cerebro motor. Sabemos que la estimulación motora precoz\nrepercute de forma directa sobre la lectura o escritura, por ejemplo. Además, la exposición\ntemprana de la televisión (niños con edades entre uno y tres años) está asociada con\ndificultades socioemocionales y problemas de atención.\n\nEn un estudio realizado con 1278 niños de un año y 1345 de tres años de edad, se\nobservó que el 10% de los niños presentaban problemas de atención a los siete años. Los\nautores sugieren que, para reducir el riesgo de desarrollar trastornos como el trastorno\npor déficit de atención e hiperactividad, se ha de controlar la exposición de los niños a la\ntelevisión en esos períodos críticos que son tan importantes para el desarrollo cerebral.\n\nEn el siguiente histograma se muestra la proporción de la muestra analizada en función de las\nhoras diarias que veían la televisión los niños de 1,5 años. En el eje vertical aparece la\nproporción de niños, expresada en tanto por uno (el 0,4, por ejemplo, equivale al 40 %de los niños analizados),\nmientras que en el eje horizontal aparecen las horas que ven la TV los niños de un año y medio\n(más del 40 % veían la televisión una hora al día, casi el 20 %dos horas, etc.):\n\nSabemos que gran parte de la visión se desarrolla en los primeros años de vida, lo\nque sugiere la importancia de que los niños reciban gran cantidad de información a través\nde una gran variedad de estímulos sensoriales. Lo que ocurre es que el desarrollo\ncerebral necesita profundidad (desarrollo espacial) y la información que aporta la\ntelevisión es bidimensional. Además, esta información es tan variable que representa\nsituaciones alejadas del entorno habitual del niño y que no permiten, por la rapidez con la\nque se presenta, la reflexión adecuada. La velocidad a la que sucede todo en la televisión,\ny el consecuente estrés provocado, no permiten optimizar el desarrollo sensoriomotriz y el\naprendizaje del niño. Creemos que la televisión no puede sustituir la función de los\npadres, que deben dedicar el tiempo necesario para mostrar los objetos tridimensionales\nque envuelven su entorno.\nGuillén, J.\n\nrendimiento escolar. Recuperado de\nhttps://escuelaconcerebro.wordpress.com/2012/06/10/impacto-de-la-television-en-el-rendimiento-escolar/\n\ntelevisión en el\n\nImpacto de\n\n(2012).\n\nla",
+    "questions": [
+      {
+        "statement": "¿Cuál es el tema central del texto?",
+        "alternatives": [
+          "A) El riesgo de déficit de atención e hiperactividad en niños en pleno desarrollo cerebral",
+          "B) Un estudio que revela problemas de atención e hiperactividad en niños de siete años",
+          "C) Las causas de la exposición temprana a la televisión a infantes de uno a tres años",
+          "D) Implicancias de la exposición temprana de la televisión a niños de uno a tres años"
+        ],
+        "correct": 3,
+        "rationale": "El texto presenta los resultados de una investigación que revela que el 10% de niños expuestos a la televisión a una edad temprana presentaban problemas de atención a los siete años."
+      },
+      {
+        "statement": "A partir de la información que provee el histograma, se infiere que",
+        "alternatives": [
+          "A) la exposición de los niños a la televisión disminuye conforme aumenta la edad.",
+          "B) hay niños de un año y medio que son expuestos a la televisión más de 12 horas.",
+          "C) el promedio de exposición de los niños a la televisión es de dos horas diarias.",
+          "D) ningún niño de un año y medio es expuesto a la televisión más de 10 horas diarias."
+        ],
+        "correct": 1,
+        "rationale": "En el histograma se observa que hay un pequeño porcentaje de niños que son expuestos a la televisión durante doce horas al día."
+      },
+      {
+        "statement": "En el texto, el concepto PROFUNDIDAD connota",
+        "alternatives": [
+          "A) observación veloz.",
+          "C) información real.",
+          "B) espíritu sosegado.",
+          "D) objeto bidimesional."
+        ],
+        "correct": 2,
+        "rationale": "El desarrollo cerebral necesita profundidad (desarrollo espacial), conocimiento de objetos tridimensionales que envuelven su entorno; es decir, información real."
+      },
+      {
+        "statement": "Escribe compatible (C) o incompatible (I) respecto de la exposición temprana a la televisión.",
+        "alternatives": [
+          "A) CIIC",
+          "B) CCCC",
+          "C) CICI",
+          "D) CICC"
+        ],
+        "correct": 3,
+        "rationale": "I. El periodo crítico que puede generar déficit de atención es en niños de uno y dos años.(C) II. produce consecuencias irreversibles observables en niños de uno o dos años de edad.(I) III. genera en la mente del niño situaciones o imágenes alejadas de su entorno habitual.(C) IV. pone en serio peligro el futuro aprendizaje escolar y la capacidad de reflexión del niño. (C)"
+      },
+      {
+        "statement": "Si en el estudio mencionado en el texto se hubiese concluido que solo un porcentaje ínfimo de niños padecía de hiperactividad y déficit de atención,",
+        "alternatives": [
+          "A) estos trastornos habrían sido atribuidos a otros factores.",
+          "B) la investigación habría sido cuestionada por los profesores.",
+          "C) la exposición de niños a la televisión habría sido fomentada.",
+          "D) el poncentaje de niños con estos trastornos habría disminuido."
+        ],
+        "correct": 0,
+        "rationale": "Con esta conclusión, estos trastornos habrían sido atribuidos a otros factores."
+      }
+    ]
+  },
+  {
+    "type": "reading_comprehension",
+    "statement": "Durante su breve Protectorado (1821-1822), San Martín hizo esfuerzos por asentar la idea monárquica como forma ideal de gobierno para el Perú nacido de la Independencia. Este ideal político fue respaldado por suministro de Gobierno, Bernardo Monteagudo, y otros connotados intelectuales. Así, José Ignacio Moreno, a partir de la idea de Montesquieu, argumentó a favor de la monarquía, alegando que la difusión del poder político debería estar en razón directa del grado de ilustración y civilización del pueblo, y en razón inversa de la extensión del territorio que ocupaba. Según él, la mayor parte de la población “yace en las tinieblas de la ignorancia” a causa del pasado colonial. Reconocía que había algún “depósito de luz” en la capital y algunas ciudades, “pero se halla en un corto número de hombres ilustrados en el Perú”. Añadió que debería considerarse, asimismo, la “heterogeneidad de los elementos que forman la población del Perú, compuesta de tantas y diversas castas, cuyas inclinaciones y miras han sido hasta ahora opuestas, con los diversos matices de color que las señala, para deducir de este principio el inminente riesgo de la concordia, si se establece un gobierno puramente popular…” Este carácter heterogéneo de la población era, según él, en el Perú “mayor que en los demás puntos de América”. De acuerdo con Moreno, los hábitos y costumbres se hallaban en el Perú largamente adaptados a la monarquía: “el pueblo se ha habituado (…) a las preocupaciones del rango, a las distinciones del honor, a la desigualdad de fortuna, cosas todas incompatibles con la rigurosa democracia”. Dicho hábito era aún mayor dentro de la clase indígena: “No hay uno entre ellos todavía que no refresque continuamente la memoria del gobierno paternal de los incas (…) Pretender pues planificar entre ellos la forma democrática sería sacar las cosas de su quicio y exponer al Estado a un trastorno (…)”. Manuel Pérez de Tudela, Mariano José de Arce y Faustino Sánchez Carrión, entre otros, propugnaron el gobierno republicano para el Perú independiente. El primero, en su argumentación, partió de la idea del “contrato social” de Rousseau: los hombres nacen libres y se reúnen en sociedad “para socorrerse mutuamente”, “la esencia de la libertad consiste en la libertad de los socios, en su seguridad e igualdad ante la ley”. Agregó que los monarcas procuraban siempre acrecentar su autoridad, disminuyendo la de los cuerpos; estos pretendían otro tanto, sin lograrse jamás un equilibrio. ¿Dónde quedaba entonces la estabilidad de las monarquías? Solo en la mente de sus defensores. Pérez de Tudela afirmaba que “en el Perú hay luces, y se puede decir sin temeridad que el que las niega perjudica al sistema y fomenta la división que sostiene el yugo de los tiranos”, que el espíritu de libertad era innato en el hombre, incluso en el más primitivo. El indígena, por ejemplo, “es patriota por naturaleza, ha procurado siempre recobrar la libertad; ha conservado su idioma, un odio a sus opresores, y un vestido lúgubre por la pérdida de su libertad”; mientras que el africano “sabe arrojarse al Senegal para perecer con su libertad, la ama por carácter”. En el Perú había heterogeneidad en los colores, pero no en los deseos y sentimientos. El alma es igual en todos”. Por su parte, José de Arce señaló que la idea de que la república correspondía a territorios pequeños y la monarquía a los grandes, se había demostrado falsa desde la invención del sistema representativo, que “las ideas de Moreno eran idénticas a los que muchas veces oyó para sostener el cetro de Fernando”. Sánchez Carrión respondió a Moreno, señalando que si bien las apreciaciones de este, respecto de los hábitos y la cultura de la población peruana, resultaban ciertas, no se trataba de perpetuarlas instalando un sistema de gobierno adaptado a ellos; todo lo contrario, se necesitaba un impulso, “una chispa” que empujara a la transformación de tales condiciones. Contreras, C.; Cueto M. Historia del Perú contemporáneo",
+    "questions": [
+      {
+        "statement": "En el texto A, la palabra ASENTAR se entiende como antónima de",
+        "alternatives": [
+          "A) asumir.",
+          "B) reunir.",
+          "C) impugnar.",
+          "D) instaurar."
+        ],
+        "correct": 2,
+        "rationale": "Asentar connota el esfuerzo por persuadir de que la idea monárquica era la forma ideal de gobierno para el Perú nacido de la Independencia, difusión del político es antónimo de concetración de dicho poder."
+      },
+      {
+        "statement": "El tema que se discute en ambos textos gira entorno a",
+        "alternatives": [
+          "A) los sistemas de gobierno más adecuados para el Perú independiente.",
+          "B) la plausibilidad de las ideas de Rousseau y Montesquieu en el Perú.",
+          "C) la Ilustración y el espíritu libertario del Perú surgido de la independencia.",
+          "D) los rasgos de las raíces históricas en el desarrollo del Perú como república."
+        ],
+        "correct": 0,
+        "rationale": "En el texto A se argumenta a favor de instaurar la monarquía y en el texto B a favor de la república como forma de gobierno que mejor se adecúa al Perú nacido de la independencia."
+      },
+      {
+        "statement": "Según José Ignacio Moreno, los factores que condicionan la necesidad de instaurar la monarquía como sistema de gobierno en el Perú son:\n\nI. La gran extensión del territorio peruano\nII. La poca población ilustrada de las ciudades\nIII. La insatisfacción frente a las desigualdades\nIV. La tendencia a la discordia entre las castas",
+        "alternatives": [
+          "A) II, III y IV",
+          "B) Solo II y IV",
+          "C) I,II y III",
+          "D) I,II y IV"
+        ],
+        "correct": 3,
+        "rationale": "José Ignacio Moreno argumenta a favor de la monarquía porque el Perú nacido de la independencia tiene un territorio extenso, poca población ilustrada y una población heterogénea cuyas miras e inclinaciones son opuestas."
+      },
+      {
+        "statement": "Manuel Pérez de Tudela cuestionó a la monarquía como sistema de gobierno para el Perú independiente porque su establecimiento habría",
+        "alternatives": [
+          "A) sido la aplicación de las ideas políticas del filósofo Montesquieu.",
+          "B) marginado el contrato social y generado conflictos por el poder.",
+          "C) provocado que los indígenas vuelvan a perder su libertad.",
+          "D) privilegiado a las castas opresoras y sometido a los indígenas."
+        ],
+        "correct": 1,
+        "rationale": "SegúnTudela, la monarquía genera inestabilidad porque procura siempre acrecentar su autoridad disminuyendo la de los cuerpos; estos pretenden, otro tanto, sin lograrse jamás un equilibrio.En consecuencia, habría generado conflictos por el poder."
+      },
+      {
+        "statement": "Pese a sus radicales discrepancias políticas, se deduce que Moreno y Sánchez Carrión compartían un mismo diagnóstico respecto de",
+        "alternatives": [
+          "A) el trastorno político que provocaría un nuevo sistema de gobierno.",
+          "B) la situación económica, social y cultural del Perú independiente.",
+          "C) la actitud de la población frente a la desigualdad económica.",
+          "D) las preferencias políticas de la población del Perú independiente."
+        ],
+        "correct": 2,
+        "rationale": "Sánchez Carrión califica como ciertas las apreciaciones de Moreno: la población está habituada a las desigualdades económicas. Entonces, ambos compartían un mismo diagnóstico respecto de la actitud de la población frente a la desigualdad económica."
+      }
+    ]
+  },
+  {
+    "type": "reading_comprehension",
+    "statement": "La directora gerente del Fondo Monetario Internacional (FMI), la búlgara Kristalina Georgieva, se estrena con un jarro de agua fría sobre la economía mundial: la actividad crecerá poco este año (2019). El próximo lo hará algo más, un 3,4%. Pero —tal y como repitió la economista jefa del Fondo, Gita Gopinath, en una comparecencia en Washington— esta recuperación futura es “precaria” y sometida a muchas amenazas.\n\n“El crecimiento apagado es consecuencia de las crecientes barreras al comercio, de la elevada incertidumbre que rodea al comercio y a la geopolítica; de tensiones en economías emergentes y de factores estructurales como el bajo crecimiento de la productividad y el rápido envejecimiento en países desarrollados”, asegura el informe del FMI.\n\nEsta enumeración sonará conocida a los que sigan los informes de organismos multilaterales y gabinetes de estudios. Hace meses que se repiten de forma casi idéntica. Pese a que parezca repetido, es cada vez más preocupante, porque la mera continuación de estos riesgos los convierte en más y más reales. Y golpean a todo el mundo. Así, los pronósticos que emite ahora el FMI son más pesimistas que los del pasado julio en prácticamente todos los países y áreas analizadas.\n\nGopinath dio algunas cifras que dan que pensar. La economista mostró su alegría por el acuerdo comercial preliminar entre China y EE UU. Pero dejó claro que los riesgos siguen vigentes, y que en la lista de prioridades mundiales destaca la pronta retirada de las barreras comerciales impuestas últimamente. “Esto podría impulsar la confianza, revitalizar la inversión e impulsar el crecimiento”, añadió. En sus previsiones, el FMI no incluye la posibilidad de un Brexit sin acuerdo. Si este se produjera, el Reino Unido perdería entre el 3% y el 5% de su PIB, dijo Gopinath. La situación sería peor sin la actuación de los bancos centrales. Gracias a su política monetaria expansiva, el crecimiento es cinco décimas mayor.\n\nRecuperado de https://elpais.com/economia/2019/10/15/actualidad/1571097878_060233.html",
+    "questions": [
+      {
+        "statement": "En el texto, la palabra APAGADO connota",
+        "alternatives": [
+          "A) acicate.",
+          "B) precariedad.",
+          "C) movilidad.",
+          "D) estabilidad."
+        ],
+        "correct": 1,
+        "rationale": "En el texto, apagado es sinónimo de escaso; connota precariedad."
+      },
+      {
+        "statement": "La intención principal del autor del texto es",
+        "alternatives": [
+          "A) explicar las causas del crecimiento económico diferenciado entre los países emergentes y avanzados.",
+          "B) informar sobre la difícil situación de la economía mundial y las medidas que se están adoptando, según el FMI.",
+          "C) recomendar medidas para impulsar el crecimiento de la economía mundial en 2020, según voceros del FMI.",
+          "D) advertir sobre el escaso y débil crecimiento de la economía mundial en el 2020, según previsiones del FMI."
+        ],
+        "correct": 3,
+        "rationale": "Según previsiones del FMI, en el 2020 el crecimiento económico mundial será bajo y precario y está sujeto a una serie de factores que amenazan, incluso, a este escaso crecimiento."
+      },
+      {
+        "statement": "Se deduce que las previsiones de crecimiento económico mundial para el 2020 del FMI son pesimistas porque",
+        "alternatives": [
+          "A) se ignora la aparición y el comportamiento de una serie de factores económicos.",
+          "B) la tendencia de la economía de los países avanzados y emergentes es hacia la baja.",
+          "C) la economía mundial está sujeta a tensiones sobre las cuales el FMI no tiene control.",
+          "D) el FMI duda de la recuperación económica de los países desarrollados envejecidos."
+        ],
+        "correct": 2,
+        "rationale": "Las crecientes barreras al comercio, la elevada incertidumbre que rodea al comercio y a la geopolítica, de tensiones en economías emergentes y factores estructurales influyen en las previsiones pesimistas del FMI."
+      }
+    ]
+  },
+  {
+    "type": "sentence_elimination",
+    "statement": "Pese a sus radicales discrepancias políticas, se deduce que Moreno y Sánchez Carrión compartían un mismo diagnóstico respecto de",
+    "alternatives": [
+      "A) el trastorno político que provocaría un nuevo sistema de gobierno.",
+      "B) la situación económica, social y cultural del Perú independiente.",
+      "C) la actitud de la población frente a la desigualdad económica.",
+      "D) las preferencias políticas de la población del Perú independiente."
+    ],
+    "correct": 2,
+    "rationale": "Sánchez Carrión califica como ciertas las apreciaciones de Moreno: la población está habituada a las desigualdades económicas. Entonces, ambos compartían un mismo diagnóstico respecto de la actitud de la población frente a la desigualdad económica."
+  },
+  {
+    "type": "sentence_elimination",
+    "statement": "Si José Ignacio Moreno hubiese argumentado a favor de que la difusión del poder político debía estar en razón inversa al grado de ilustración del pueblo,",
+    "alternatives": [
+      "A) habría abonado en favor de la estabilidad política.",
+      "B) se habría impuesto la propuesta política republicana.",
+      "C) habría sido criticado por los “bolsones de luz” de Lima.",
+      "D) su propuesta política monárquista habría perdido asidero."
+    ],
+    "correct": 3,
+    "rationale": "José Ignacio Moreno justificaba la monarquía porque en el Perú de entonces no había una relación directa entre difusión del poder y la situación cultural de la población. Entonces, si hubiese planteado una relación inversa, la propuesta monarquista no habría tenido asidero."
+  },
+  {
+    "type": "sentence_elimination",
+    "statement": "4. Determine cuál o cuáles de los siguientes enunciados guarda incompatibilidad con el\n\ntexto considerado en su conjunto.\n\nI.\n\nII.\n\nIII.\n\nIV.\n\nLa tensión comercial entre China y EEUU afecta seriamente la recuperación de\nla economía mundial.\nEl FMI no sólo puede pronosticar, también puede controlar el crecimiento de la\neconomía mundial.\nSólo para el caso de Sudáfrica el FMI mantiene inalterable su pronóstico de\ncrecimiento para los años 2019 y 2020.\nLa imposición de barreras arancelarias al comercio internacional es\ncontraproducente para el crecimiento económico mundial.\n\nA) I y III\n\nB) Solo II\n\nC) II y III\n\nD) I y IV\n\nSolución:\n\nI. La tensión comercial entre China y EEUU afecta seriamente la\nrecuperación de la economía mundial. (C)\n\nII. El FMI no sólo puede pronosticar, también puede controlar el crecimiento de la\neconomía mundial.(I)\n\nIII. Sólo para el caso de Sudáfrica el FMI mantiene inalterable su pronóstico de\ncrecimiento para los años 2019 y 2020. (I)\n\nIV. La\nimposición de barreras arancelarias al comercio\ncontraproducente para el crecimiento económico mundial.(C)\n\ninternacional es\n\nRpta.: C",
+    "alternatives": [
+      "A) I y III",
+      "B) Solo II",
+      "C) II y III",
+      "D) I y IV"
+    ],
+    "correct": 2,
+    "rationale": "Rpta.: C"
+  }
+]

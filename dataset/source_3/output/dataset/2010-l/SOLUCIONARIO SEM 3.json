@@ -1,0 +1,828 @@
+[
+  {
+    "type": "reading_comprehension",
+    "statement": "Si el Ollantay ,desde la posición colonialista, advierte la influencia de El cantar de los cantares puede deducirse que aquel autor leyó la Biblia. El mundo referido es “exclusivamente nat ural” y el lenguaje empleado no muestra influencia de la evangelización.",
+    "questions": [
+      {
+        "statement": "Con respecto a la postulación de la autoría mestiza del Ollantay, se puede inferir que",
+        "alternatives": [
+          "A) consideraba que el quechua era una lengua inferior.",
+          "B) estaba en contra de las situaciones dramáticas.",
+          "C) soslaya todos los elementos del mundo andino.",
+          "D) carece de los recursos propios del teatro español.",
+          "E) fue un buen lector de las sagradas escrituras."
+        ],
+        "correct": 4,
+        "rationale": "Si el Ollantay ,desde la posición colonialista, advierte la influencia de El cantar de los cantares puede deducirse que aquel autor leyó la Biblia."
+      },
+      {
+        "statement": "Con respecto a la posición incaísta sobre el origen del Ollantay ,se puede deducir que",
+        "alternatives": [
+          "A) llegó a su máximo esplendor en los primeros años del siglo XX.",
+          "B) fue defendida por historiadores que desconocían la lengua quechua.",
+          "C) tenía como principal argumento el rol dramático de Piqui Chaqui.",
+          "D) consideraba que el idioma de lo s incas carecía de escritura.",
+          "E) se puede sustentar en la ausencia de valores del cristianismo."
+        ],
+        "correct": 4,
+        "rationale": "El mundo referido es “exclusivamente nat ural” y el lenguaje empleado no muestra influencia de la evangelización."
+      },
+      {
+        "statement": "Es incompatible, con respecto a la posición neutra o intermedia, sostener que",
+        "alternatives": [
+          "A) José de la Riva Agüero fue uno de sus más importantes propulsores.",
+          "B) sólo reconoce elementos hispanos y mestizos en el drama Ollantay .",
+          "C) se fundamenta en la identificación de elementos estilísticos hispanos.",
+          "D) reconoce que la escritura del drama se realizó durante la Colonia.",
+          "E) acepta que el núcleo argumental del Ollantay es de origen quechua."
+        ],
+        "correct": 1,
+        "rationale": "La posición neutra reconoce elementos estructurales y estilísticos quechuas en el drama junto con los hispanos y mestizos; los colonialistas sólo le reconocerían el núcleo argumental quechua, después de l cual se habría operado una profunda operación de reescritura absolutamente hispana."
+      },
+      {
+        "statement": "Con respecto a la posición colonialista sobre el Ollantay ,resulta incompatible sostener que",
+        "alternatives": [
+          "A) el gracioso o bufón era una presencia habitual en el teatro hispano.",
+          "B) el sentimiento de la honra es un tema de la tradición hispana.",
+          "C) el teatro dramático era un práctica corriente durante el incario.",
+          "D) en la época prehispánica se bailaba en ciertas ceremonias oficiales.",
+          "E) la obra presenta símbolos de carácter netamente occidental."
+        ],
+        "correct": 2,
+        "rationale": "El drama como tal no existía en el mundo prehispánico, a lo más, y de acuerdo con Garcilaso, se postula la existencia de coreografías o bailes que enmarcaban ciertas ceremonias oficiales."
+      },
+      {
+        "statement": "Si la posición intermedia no reconociera que el núcleo del drama Ollantay es de estricto origen prehispánico, entonces",
+        "alternatives": [
+          "A) la experiencia del amor referida en el drama podría ser de origen preinca.",
+          "B) discreparía radicalmente de la posición defendida por los colonialistas.",
+          "C) debería postular que los personajes del drama son de origen incaico.",
+          "D) no podría sostener que la sumisión de Cu si Coyllur es netamente indígena.",
+          "E) no tendría ninguna contradicción con la posición de Sebastián Barranca."
+        ],
+        "correct": 3,
+        "rationale": "Un aspecto de la autenticidad inca del drama recae en el carácter de los personajes. De modo que sino se reconociera el origen prehispánico, no podría sostenerse que la sumisión de Cusi Coyllur es indígena."
+      },
+      {
+        "statement": "Si se demostrara que el drama como tal existía en el mundo prehispánico, entonces",
+        "alternatives": [
+          "A) no podría sostenerse la existencia de coreografías o bailes en el imperio incaico",
+          "B) sería imposible reconocer que el núcleo argumental del Ollantay es prehispánico",
+          "C) la posición colonialista perdería uno de lo s más importantes argumentos a su favor",
+          "D) la posición que defienden los historiadores incaístas perdería toda su vigencia",
+          "E) la tesis defendida por Sebastián Barr anca perdería toda su fortaleza y valor."
+        ],
+        "correct": 2,
+        "rationale": "La posición colonialista parte del hecho de que los inca s no conocían el género dramático como tal. Por ello le atribuye el origen colonial de su escritura."
+      }
+    ]
+  },
+  {
+    "type": "sentence_elimination",
+    "statement": "11. Si se demostrara que el drama como tal existía en el mundo prehispánico, entonces",
+    "alternatives": [
+      "A) no podría sostenerse la existencia de coreografías o bailes en el imperio incaico.",
+      "B) sería imposible reconocer que el núcleo argumental del Ollantay es prehispánico.",
+      "C) la posición colonialista perdería uno de lo s más importantes argumentos a su favor.",
+      "D) la posición que defienden los historiadores incaístas perdería toda su vigencia.",
+      "E) la tesis defendida por Sebastián Barr anca perdería toda su fortaleza y valor."
+    ],
+    "correct": 2,
+    "rationale": "La posición colonialista parte del hecho de que los inca s no conocían el género dramático como tal. Por ello le atribuye el origen colonial de su escritura."
+  },
+  {
+    "type": "sentence_elimination",
+    "statement": "I) La organización política de los incas contemplaba un Consejo Imperial constituido por cuatro Apocunas, cada uno de los cual es representaba a un suyo. II) Los cuatro suyos conformaban el territorio dominado por los incas: el Chinchaysuyo, el Collasuyo, el Antisuyo y el Contisuyo. III ) En su organización política, los incas controlaban a las provincias a través de sus gobernadores conocidos como los tucricut. IV) En la organización política incaica, los Quipucamayoc llevaban las cuentas del Imperio y control aban la distribución de los productos. V) El visitador que vigilaba el cumplimiento de la s leyes se llamaba tucuyricuy y también era parte de la organización política del estado inca.",
+    "alternatives": [
+      "A) II",
+      "B) IV",
+      "C) III",
+      "D) V",
+      "E) I"
+    ],
+    "correct": 0,
+    "rationale": "Se elimina la II por impertinencia. El tema es el de las autoridades del Imperio Inca."
+  },
+  {
+    "type": "sentence_elimination",
+    "statement": "I) La educación puede ser definida como un proceso que vincula a las personas mediante un conjunto de conocimientos. II) La educación es un proceso de intercambio de experiencias y conocimientos entre los seres humanos bajo un sistema organizado y planificado. III) La educación puede entenderse como un mecanismo y un proceso que garantizan la reproducción del sistema social. IV) La educación puede concebirse como el campo en el que se debaten postulados filosóficos, organizativos y morales. V) La educación puede definirse como el espacio en el que se sistematizan los descubrimientos, aportes y cambios que la ciencia va logrando a través de los siglos.",
+    "alternatives": [
+      "A) IV",
+      "B) I",
+      "C) II",
+      "D) V",
+      "E) III"
+    ],
+    "correct": 1,
+    "rationale": "Se elimina la primera por redundancia. La I está incluida en la II."
+  },
+  {
+    "type": "sentence_elimination",
+    "statement": "I) El derecho de autor es un mecanismo legal que protege las creaciones literarias. II) El derecho de autor protege la creación de obras como cuentos, novelas o poemas, pero también obras de índole científica. III) El derecho de autor es un mecanismo jurídico que reconoce los derechos morales y patrimoniales de los creadores. IV) El derecho de autor combate la piratería en todas sus formas y se sustenta en una axiología plausible. V) Lo s derechos de autor reconocidos por la legislación consideran que el promotor del libro debe abonar una cantidad al creador.",
+    "alternatives": [
+      "A) II",
+      "B) III",
+      "C) IV",
+      "D) I",
+      "E) V"
+    ],
+    "correct": 3,
+    "rationale": "Se elimina la I por redundancia con la II."
+  },
+  {
+    "type": "sentence_elimination",
+    "statement": "I) Sentirse excesivamente irritado, porque las cosas no resultaron como uno quería, es síntoma de estrés. II) Impac ientarse demasiado por la espera en una cola es otro síntoma de estrés. III) Sentir que la gen te es egoísta o insensible a nuestras demandas puede considerarse, también, síntoma de estrés. IV) Poner palabras en la boca de otra persona para apurar las cosas, es síntoma de estrés . V) Los síntomas del estrés se pueden notar en la vida cotidiana.",
+    "alternatives": [
+      "A) IV",
+      "B) III",
+      "C) II",
+      "D) I",
+      "E) V"
+    ],
+    "correct": 4,
+    "rationale": "Se elimina la V por redundancia con todas las demás."
+  },
+  {
+    "type": "sentence_elimination",
+    "statement": "I) Una tarjeta de débito puede servir para retirar efectivo de un cajero automático a cualquier hora del día. II ) Una tarjeta de débito puede ser utilizada para realizar diversas operaciones bancarias. III) C on una tarjeta de débito se pueden consultar saldos y movimientos entre las diversas cuentas de un banco. IV) Es posible realizar con una tarjeta de débito transferencias de dinero desde el Perú al extranjero. V) Una tarjeta de débito nos permite consultar, además, el estado de nuestros valores en custodia a cargo del banco.",
+    "alternatives": [
+      "A) II",
+      "B) II I",
+      "C) I",
+      "D) IV",
+      "E) V"
+    ],
+    "correct": 0,
+    "rationale": "Se elimina la II por redundancia con la I."
+  },
+  {
+    "type": "sentence_elimination",
+    "statement": "5. I) Una tarjeta de débito puede servir para retirar efectivo de un cajero automático a cualquier hora del día. II ) Una tarjeta de débito puede ser utilizada para realizar diversas operaciones bancarias. III) C on una tarjeta de débito se pueden consultar saldos y movimientos entre las diversas cuentas de un banco. IV) Es posible realizar con una tarjeta de débito transferencias de dinero desde el Perú al extranjero. V) Una tarjeta de débito nos permite consultar, además, el estado de nuestros valores en custodia a cargo del banco.",
+    "alternatives": [
+      "A) II",
+      "B) II I",
+      "C) I",
+      "D) IV",
+      "E) V"
+    ],
+    "correct": 0,
+    "rationale": "Se elimina la II por redundancia con la I."
+  },
+  {
+    "type": "verbal_series",
+    "statement": "1. Marca la alternativa c onformada por tres sinónimos.",
+    "alternatives": [
+      "A) Vigor, robustez, orgullo.",
+      "B) Sepulcro, tumba, cementerio.",
+      "C) Contienda, brega, pelea.",
+      "D) Logro, ganancia, crédito.",
+      "E) Enteco, flaco, hambriento."
+    ],
+    "correct": 2,
+    "rationale": "Son sinónimos referidos a la pugna, al enfrentamiento."
+  },
+  {
+    "type": "verbal_series",
+    "statement": "2. Alabanza, elogio, loor,",
+    "alternatives": [
+      "A) ofrenda.",
+      "B) hipérbole.",
+      "C) oración.",
+      "D) ruego.",
+      "E) encomio."
+    ],
+    "correct": 4,
+    "rationale": "La serie se completa con un sinónimo de elogio, es decir, encomio."
+  },
+  {
+    "type": "verbal_series",
+    "statement": "3. ¿Cuál de los siguientes términos no guarda relación con la serie verbal?",
+    "alternatives": [
+      "A) Ganancia.",
+      "B) Provecho.",
+      "C) Negocio.",
+      "D) Utilidad.",
+      "E) Beneficio."
+    ],
+    "correct": 2,
+    "rationale": "Todos los términos son sinónimos, salvo negocio que no implica necesariamente ganancia."
+  },
+  {
+    "type": "verbal_series",
+    "statement": "4. Conmemoración, remembranza, recuerdo,",
+    "alternatives": [
+      "A) celebración.",
+      "B) proyección.",
+      "C) cercanía.",
+      "D) reminiscencia.",
+      "E) apego."
+    ],
+    "correct": 3,
+    "rationale": "La serie se completa con un sinónimo de recuerdo, es decir, reminiscencia."
+  },
+  {
+    "type": "verbal_series",
+    "statement": "5. Vicio, virtud; traición, fidelidad; imprudencia, cautela;",
+    "alternatives": [
+      "A) beldad, hermosura.",
+      "B) afecto, aprecio.",
+      "C) amplitud, volumen.",
+      "D) placer, encanto.",
+      "E) flaqueza, resistencia."
+    ],
+    "correct": 4,
+    "rationale": "La serie se completa con un par de antónimos."
+  },
+  {
+    "type": "reading_comprehension",
+    "statement": "El cuento no constituye una variedad menor dentro de los géneros literarios. Es una forma por sí misma, a menudo reconocida como superior a la novela o a cualquier tipo de narración extensa. Los criterios que guían la elaboración del cuento moderno están íntimamente vinculados a la perspectiva literaria del romanticismo, cuyos propósitos apuntaban a transformar el efecto poético en una experiencia análoga a la que suscita una obra musical (por su duración limitada) o una creación plástica (porla naturaleza simultánea de la percepción). Por ello, para que un cuento tu viese un valor artístico debía tener más bien una extensión restringida y una armoniosa estructura formal que permitieran provocar en el lector u oyente una emoción unitaria y articulada. Según tal hipótesis, esto resultaba imposible en una novela o en un poema extenso, pues su lectura o audición quedaba fragmentada y, por lo tanto, la impresión que se recogía era acumulativa y no unitaria. El vocablo “poesía” está vinculado con la moderna noción de lírica: una pieza breve, con un caudal de musicalidad e imágenes, capaz de engendrar una respuesta afectiva unitaria. Esta idea ronda las especulaciones teóricas de buen número de creadores románticos, especialmente en Al emania e Inglaterra, países en donde la restauración del idealismo filosófico produjo una teoría poética de acento formalista que influyó en la concepción del cuento moderno. Todo este caudal de ideas fue recogido por Edgar Allan Poe y fue él quien las convirtió en un principio normativo, vigente has ta hoy con respecto a la escritura de un cuento.",
+    "questions": [
+      {
+        "statement": "1. El texto gira entorno",
+        "alternatives": [
+          "A) a la narrativa contemporánea y a la influencia literaria de Edgar Allan Poe.",
+          "B) a la influencia del romanticismo respecto del carácter unitario del cuento.",
+          "C) al efecto poético como mecanismo fundamental de la creación literaria.",
+          "D) al idealismo filosófico y a su influencia en el campo de la narrativa corta.",
+          "E) a las revolucionarias ideas de Edgar Allan Poe sobre el cuento moderno."
+        ],
+        "correct": 1,
+        "rationale": "El texto trata sobre el carácter del cuento moderno configurado desde la perspectiva del romanticismo."
+      },
+      {
+        "statement": "2. En el texto la palabra ESP ECULACIONES puede ser reemplazada por",
+        "alternatives": [
+          "A) estereotipos.",
+          "B) nociones.",
+          "C) argumentos.",
+          "D) pruebas.",
+          "E) reflexiones."
+        ],
+        "correct": 4,
+        "rationale": "Especular es reflexionar con hondura, teorizar."
+      },
+      {
+        "statement": "3. Se colige que la breve dad del cuento tiene como objetivo",
+        "alternatives": [
+          "A) hacer un símil con los poemas extensos.",
+          "B) articular narración y filosofía en un todo.",
+          "C) dar cauce a una emoción imperecedera.",
+          "D) garantizar el impacto estético sincrónico.",
+          "E) posibilitar una creación literaria edificante."
+        ],
+        "correct": 3,
+        "rationale": "El cuento logra un impacto estético por su duración limitada."
+      },
+      {
+        "statement": "4. Es incompatible con respecto al Edgar Allan Poe sostener que",
+        "alternatives": [
+          "A) recoge las reflexiones de los románticos sobre la narración.",
+          "B) su propuesta sobre el arte del cuento sigue vigente hasta hoy.",
+          "C) fue un difusor de los principios del romanticismo literario.",
+          "D) reflexionó sobre el carácter de la narración de ficción.",
+          "E) cuestionó todos los principios del idealismo filosófico."
+        ],
+        "correct": 4,
+        "rationale": "Poe recoge el caudal de ideas estéticas entorno al cuento generado por el romanticismo, a partir del respeto de éstos al idealismo filosófico."
+      },
+      {
+        "statement": "5. Si la concepción del cuento moderno no hubiese experimentado la influencia del romanticismo,",
+        "alternatives": [
+          "A) el cuento moderno seguiría siendo de una extensión muy corta.",
+          "B) los argumentos de los cuentos serían de índole fantástica.",
+          "C) la brevedad no sería considerada un valor formal relevante.",
+          "D) Edgar Allan Poe seguiría siendo el gestor del cuento moderno.",
+          "E) la música y plástica serían disciplinas sin valor alguno."
+        ],
+        "correct": 2,
+        "rationale": "La extensión restringida y la emoción un itaria son valores destacados por los románticos en el afán de acercar la literatura a la música y a la plástica."
+      }
+    ]
+  },
+  {
+    "type": "reading_comprehension",
+    "statement": "¿Para qué sirve la narración? ¿Cuáles son los usos que le damos? ¿Es verdad que los seres humanos narramos naturalmente para organizar nuestra experiencia en un marco comprensible? Una de las funciones de la narración es hacer de lo inusual, oscuro o complejo algo\ncomprensible. Nos ayuda a reconocernos en significados que solo ella puede hacer más\nclaros. La narración constituye un procedimiento cognitivo gracias al cual accedemos a la\npercepción de una imagen (entre varias posibles) de nosotros mismos; por ello es\nimportante en nuestras vidas, porque nos permite comprender una serie de acontecimientos que comprometen a personajes, ideas y espacios que nos conciernen.\nMás aun, construimos nuestra pasajera identidad a través de la narración y la\nactualizamos cada vez que nos leemos en un texto, cualquiera sea la naturaleza de éste.\nGracias a la lectura de narraciones, sabe mos que no somos siempre los mismos, que\nestamos condenados a descubrir, todo el tiempo, nuevos aspectos de nuestro ser. Jerome Bruner, uno de los psicólogos cognitivos más importantes de los últimos decenios, sostiene en su libro Actos de significado que la narración comporta una serie de\ncaracterísticas que la confirman como uno de los dispositivos esenciales para construir\nun conocimiento articulado de nuestra experiencia. Descontando su naturaleza\nsecuencial, obvia y natural, Bruner incide en la capacidad de la narración para hacer\ninteligible cualquier alteración con respecto al patrón cultural c anónico y explotar el\ncarácter dramático de lo na rrado. De suerte que la narración nos da un tipo de\nconocimiento que, sin ella, sería inaccesible. Un conocimiento que brota del orden, de la\ncomposición, de la convivencia y confrontación de los acontecimientos que controlamos a\través de las palabras inscritas en un texto. As í, la narración se constituye en un poderoso\nesquema de la mente con el cual edificamo s un saber sobre el mundo en el que nosotros\nsomos centrales.",
+    "questions": [
+      {
+        "statement": "1. Determine la idea central del texto.",
+        "alternatives": [
+          "A) La narración nos permite acceder a un tipo de conocimiento que sólo se da en la acción de narrar.",
+          "B) El orden y la composición son elementos esenciales que nos permiten acceder a un conocimiento a través de la narración.",
+          "C) La narración es un procedimiento cognitivo que nos permite configurar coherentemente nuestra experiencia.",
+          "D) La narración comporta una serie de características; la principal, entre todas ellas, es la secuencialidad.",
+          "E) Los seres humanos narramos espontáneamente y de esa forma organizamos nuestra experiencia cotidiana."
+        ],
+        "correct": 2,
+        "rationale": "En el texto se destaca que la narración nos permite conocer el mundo de forma coherente."
+      },
+      {
+        "statement": "2. En el texto la palabra DI SPOSITIVOS puede ser reemplazada por",
+        "alternatives": [
+          "A) arreglos.",
+          "B) pasajes.",
+          "C) caminos.",
+          "D) alternativas.",
+          "E) medios."
+        ],
+        "correct": 4,
+        "rationale": "Dispositivos como medios, instrumentos."
+      },
+      {
+        "statement": "3. Del texto se puede deducir que la narración es útil para",
+        "alternatives": [
+          "A) consolidar una creencia puntual e inamovible.",
+          "B) hacer oscura y vaga una noción muy diáfana.",
+          "C) respetar a pie juntillas los patrones canónicos.",
+          "D) erigir una cosmovisión con potencial explicatorio.",
+          "E) conformar una terapia contra todas las afecciones."
+        ],
+        "correct": 3,
+        "rationale": "La narración nos permite “edificar un saber sobre el mundo en el que somos centrales”."
+      },
+      {
+        "statement": "4. Es incompatible con el texto sostener que",
+        "alternatives": [
+          "A) el valor fundamental de la narración es estético, no cognitivo.",
+          "B) construimos nuestra pasajera identidad a través de la narración.",
+          "C) la narración como procedimiento es un esquema de la mente.",
+          "D) a través de la narración construimos un saber sobre el mundo.",
+          "E) actualizamos nuestra identidad cada vez que leemos en un texto."
+        ],
+        "correct": 0,
+        "rationale": "El texto pone de relieve el valor cognitivo de la narración."
+      },
+      {
+        "statement": "5. Si la narración se reduje ra a su secuencialidad natural,",
+        "alternatives": [
+          "A) sería considera como un ordenador de nuestra vida cotidiana.",
+          "B) las versiones que conocemos sobre el mundo serían verdaderas.",
+          "C) nuestra identidad de seres humanos sería más versátil y compleja.",
+          "D) alcanzaríamos la absoluta claridad sobre nuestro ser más íntimo.",
+          "E) sería desestimada como un esencia l procedimiento de la mente."
+        ],
+        "correct": 4,
+        "rationale": "No nos permitiría conocer nada del mundo debido a que nuestra percepción del mundo depende de un orden coherente."
+      }
+    ]
+  },
+  {
+    "type": "reading_comprehension",
+    "statement": "“Mecer” es un peruanismo que quiere decir mantener largo tiempo a una persona en la indefinición y en el engaño, pero no de una manera cruda, sino amable y hasta afectuosa, adormeciéndola, su miéndola en una vaga c onfusión, dorándol e la píldora, contándole un cuento, mareándola y aturdiéndo la de tal manera que se crea que sí, aunque sea no, de manera que por cansancio termine por abandonar y desistir de lo que reclama o pretende conseguir. La víctima, si ha sido “mecida” con talento, pese a darse cuenta en un momento dado de que le han metido el dedo a la boca, no se enoja, termina por resignarse a su derrota y queda hasta contenta, reconociendo y admirando incluso el buen trabajo que han hecho con ella . “Mecer” es un quehacer difícil, que requiere talento histriónico, parla suasoria, gracia, desfachatez, simpatía y solo una pizca de cinismo. Detrás del “meceo” hay, por supuesto, informalidad y una tabla de valores trastocada. Pero también una filosofía fr ívola, que considera la vida como una representación en la que la verdad y la mentira son relativas y canjeables, en función, no de la correspondencia entre lo que se dice y lo que se hace, sino de la capacidad de persuasión del que “mece” frente a quien es “meci do”. En última instancia, la vida, para esta manera de actuar y esta moral, es teatro puro. El resultado práctico de vivir “meciendo” o siendo “mecido” es que todo se demora, anda mal, nada funciona y reina por doquier la confusión y la frustración. Pero esa es una consideración mezquina del arte de “mecer”. La generosa y artística es que, gracias al “meceo”, la vida es pura diversión, farsa y juego. Si los peruanos invirtieran toda la fantasía y la destreza que ponen en “mecerse” unos a otros, en hacer bien las cosas y cumplir sus compromisos, ese sería el país más desarrollado del mundo. ¡Pero qué aburrido!",
+    "questions": [
+      {
+        "statement": "Medularmente, el texto constituye",
+        "alternatives": [
+          "A) un análisis lingüístico del vocablo “mecer”.",
+          "B) una reflexión entorno al peruanismo “mecer”.",
+          "C) un estudio sociológico entorno a las estafas.",
+          "D) una investigación sobre el arte de engañar.",
+          "E) una apología al empleo del término “mecer”."
+        ],
+        "correct": 1,
+        "rationale": "El autor realiza una reflexión amplia no necesariamente fustigadora o alabadora del arte de mecer."
+      },
+      {
+        "statement": "El sentido contextual de MEZQUINA es",
+        "alternatives": [
+          "A) pétrea.",
+          "B) pobre.",
+          "C) hipócrita.",
+          "D) inverosímil.",
+          "E) ilusoria."
+        ],
+        "correct": 1,
+        "rationale": "La consideración mezquina del arte de mecer está relacionada con la confusión y el engaño; no obstante, una consideración más rica, generosa y artística es que, gracias al meceo, la vida es pura diversión, farsa y juego."
+      },
+      {
+        "statement": "Se puede inferir del texto que la expresión DORAR LA PÍLDORA alude a una forma",
+        "alternatives": [
+          "A) embaucamiento.",
+          "B) adorno.",
+          "C) dilucidación.",
+          "D) censura.",
+          "E) apología."
+        ],
+        "correct": 0,
+        "rationale": "La expresión “dorándole la píldora” alude a contar un cuento de tal manera que se crea que es verdad, aunque sea no lo sea; vale decir engañar encubriendo lo real."
+      },
+      {
+        "statement": "Resulta incompatible con el texto afirmar que “mecer” implica",
+        "alternatives": [
+          "A) una labor sencilla de persuasión.",
+          "B) la tergiversación de los valores.",
+          "C) la teatralización del accionar.",
+          "D) trastocar la noción de verdad.",
+          "E) versatilidad en la argumentación."
+        ],
+        "correct": 0,
+        "rationale": "\"Mecer\" es un quehacer difícil, que requiere talento histriónico, parla suasoria, gracia, desfachatez, simpatía y solo una pizca de cinismo."
+      },
+      {
+        "statement": "Si un sujeto quisiera engañar a alguien de manera burda,",
+        "alternatives": [
+          "A) la persona afectada nunca se daría cuenta.",
+          "B) los valores aceptados incluirían la sinceridad.",
+          "C) se aplicaría elegante mente el histrionismo.",
+          "D) sería un caso paradigmático por su efectividad.",
+          "E) estaría fuera de lo que se denomina “mecer”."
+        ],
+        "correct": 4,
+        "rationale": "\"Mecer\" es un peruanismo que quiere decir mantener largo tiempo a una persona en la indefinición y en el engaño, pero no de una manera cruda, sino amable y hasta afectuosa."
+      }
+    ]
+  },
+  {
+    "type": "sentence_elimination",
+    "statement": "5. Si un sujeto quisiera engañar a alguien de manera burda,",
+    "alternatives": [
+      "A) la persona afectada nunca se daría cuenta.",
+      "B) los valores aceptados incluirían la sinceridad.",
+      "C) se aplicaría elegante mente el histrionismo.",
+      "D) sería un caso paradigmático por su efectividad.",
+      "E) estaría fuera de lo que se denomina “mecer”."
+    ],
+    "correct": 4,
+    "rationale": "“Mecer” es un peruanismo que quiere decir m antener largo tiempo a una persona en la indefinición y en el engaño, pero no de una manera cruda, sino amable y hasta afectuosa.\nClave: E"
+  },
+  {
+    "type": "sentence_elimination",
+    "statement": "I) Debe procederse con la máxima cautela al momento de cambiar moneda extranjera. II) Comprobar la autenticidad de los billetes, para evitar la recepción de billetes falsos, es recomendable al momento de cambiar moneda extranjera. III) Cerciorarse de que las calculadoras con las que se realiza el cálculo no estén manipuladas es, también, recomendable cuando se cambia moneda extranjera. IV) Estar acompañados de alguien de confianza para evitar los asaltos, es importante al cambiar moneda extranjera. V) Recibir primero el dinero y entregar después el equivalente, es recomendable para evitar una estafa al momento de cambiar moneda extranjera.",
+    "alternatives": [
+      "A) II",
+      "B) V",
+      "C) III",
+      "D) I",
+      "E) IV"
+    ],
+    "correct": 3,
+    "rationale": "Se elimina la I por redundancia con todas las demás oraciones."
+  },
+  {
+    "type": "sentence_elimination",
+    "statement": "I) Limitar el tiempo que los niños pasan “navegando” en Internet debe ser una norma en el hogar. II) Los niños deben saber que al “navegar” por Internet no deben utilizar información personal de los padres o de la familia. III) Evitar que los niños conozcan el número de la tarjeta de crédito de los padres o cualquier otra información personal que sirva para efectuar operaciones financieras, es importante si los niños “navegan” por Internet. IV) Es importante enseñarle s a los niños cibernautas que nunca deben ir a conocer personalmente a alguien a quien contactaron en línea y que eso asegura su integridad personal . V) Recordarle a los niños que “navegan” por Internet que no todo lo que ven en la pantalla es r eal o verdadero es, también, sumamente importante.",
+    "alternatives": [
+      "A) V",
+      "B) IV",
+      "C) II",
+      "D) I",
+      "E) III"
+    ],
+    "correct": 2,
+    "rationale": "Se elimina la II porque está incluida en la III oración."
+  },
+  {
+    "type": "sentence_elimination",
+    "statement": "I) William Shakespeare nació en 1564 en Stratford-on Avon en el condado de Warwick, Inglaterra y murió en su pueblo natal en abril de 1616. II) William Shakespeare fue el tercero de ocho hijos y se casó con Ana Hataway, con la que tuvo tres hijos. III) William Shakespear e viajó muy joven a Londres donde realizó diversas actividades para ganarse la vida y allí se inició como actor dramático. IV) William Shakespeare fue uno de los propietarios del Teatro del Globo donde representaron algunas de sus obras. V) William Shakespeare perteneció a una familia numerosa y desde joven sintió vocación por el teatro.",
+    "alternatives": [
+      "A) IV",
+      "B) II",
+      "C) V",
+      "D) II",
+      "E) I"
+    ],
+    "correct": 2,
+    "rationale": "La V está incluida en las oraciones II y III."
+  },
+  {
+    "type": "sentence_elimination",
+    "statement": "I) Las primeras ruedas conocidas aparecieron en Mesopotamia, entre los ríos Tigris y Éufrates. II) Las ruedas más primitivas fueron tablones cortados en forma de grandes discos, unidos por piezas transversales de madera. III) Las ruedas prístinas comenzaron a usarse en el año 3,500 a. C para construir piezas de alfarería y luego para elevar agua de los ríos con fines de i rrigación. IV) Las ruedas antiguas se emplearon también en rudimentarios medios de transporte, especie de carretas que trasladaban sacos de cebada. V) La rueda, posteriormente, se perfeccionó cuando se transformó en una pieza de hierro que giraba entorno a un eje engrasado.",
+    "alternatives": [
+      "A) I",
+      "B) III",
+      "C) II",
+      "D) IV",
+      "E) V"
+    ],
+    "correct": 4,
+    "rationale": "Criterio de impertinencia. El tema es la rueda primitiva."
+  },
+  {
+    "type": "sentence_elimination",
+    "statement": "I) La hiena es un animal carnívoro y su forma de vida supone gregarismo. II) La hiena es un animal de cuerpo robusto que habita en las praderas y sabanas de África, al sur del desierto del Sahara y de Asia. III) La hiena vive en grupos, cada uno integrado por diez hembras, alrededor de veinte cachorros y un número impreciso de machos. IV) La hiena tiene hábitos nocturnos y su alimentación consiste e animales muertos, aunque también caza en compañía de otros individuos de su especie. V) La hiena tiene dientes muy fuertes, capaces de masticar los huesos más duros dejados por otros animales.",
+    "alternatives": [
+      "A) I",
+      "B) III",
+      "C) II",
+      "D) IV",
+      "E) V"
+    ],
+    "correct": 0,
+    "rationale": "Se elimina la I por redundancia. La I está en la IV."
+  },
+  {
+    "type": "sentence_elimination",
+    "statement": "5. I) La hiena es un animal carnívoro y su forma de vida supone gregarismo. II) La hiena es un animal de cuerpo robusto que habita en las praderas y sabanas de África, al sur del desierto del Sahara y de Asia. III) La hiena vive en grupos, cada uno integrado por diez hembras, alrededor de veinte cachorros y un número impreciso de machos. IV) La hiena tiene hábitos nocturnos y su alimentación consiste e animales muertos, aunque también caza en compañía de otros individuos de su especie. V) La hiena tiene dientes muy fuertes, capaces de masticar los huesos más duros dejados por otros animales.",
+    "alternatives": [
+      "A) I",
+      "B) III",
+      "C) II",
+      "D) IV",
+      "E) V"
+    ],
+    "correct": 0,
+    "rationale": "Se elimina la I por redundancia. La I está en la IV."
+  },
+  {
+    "type": "verbal_series",
+    "statement": "Bondadoso. Benemérito. Benigno. Bueno. Benévolo. ¿Cuál de los siguientes términos no pertenece a la serie verbal?",
+    "alternatives": [
+      "A) Bondadoso.",
+      "B) Benemérito.",
+      "C) Benigno.",
+      "D) Bueno.",
+      "E) Benévolo."
+    ],
+    "correct": 1,
+    "rationale": "Los términos refieren una condición moral de benignidad. ‘Benemérito’ es digno de galardón."
+  },
+  {
+    "type": "verbal_series",
+    "statement": "Infringir, quebrantar, desobedecer. ¿Cuál de los siguientes términos no pertenece a la serie verbal?",
+    "alternatives": [
+      "A) superar.",
+      "B) infligir.",
+      "C) desacatar.",
+      "D) abrogar.",
+      "E) rescindir."
+    ],
+    "correct": 2,
+    "rationale": "Serie de sinónimos que se completa con desacatar, violar, quebrar."
+  },
+  {
+    "type": "verbal_series",
+    "statement": "Desenfrenado, frenético, exaltado. ¿Cuál de los siguientes términos no pertenece a la serie verbal?",
+    "alternatives": [
+      "A) recluido.",
+      "B) desacertado.",
+      "C) insólito.",
+      "D) molesto.",
+      "E) desaforado."
+    ],
+    "correct": 4,
+    "rationale": "La serie se completa con desaforado, desbocado, que no tiene control de sí mismo."
+  },
+  {
+    "type": "verbal_series",
+    "statement": "Flébil, venturo o; imprudente, cauteloso; cicatero, dadivoso;",
+    "alternatives": [
+      "A) torvo, apacible.",
+      "B) frágil, enteco.",
+      "C) austero, silente.",
+      "D) acicalado, adornado.",
+      "E) liberto, emancipado."
+    ],
+    "correct": 0,
+    "rationale": "Serie analógica de antónimos."
+  },
+  {
+    "type": "reading_comprehension",
+    "statement": "Cuando quedó claro el éxito de la expedición de E ddington de 1919 para medir la predicción de Einstein relativa a la desviación que sufre la luz de las estrellas por la acción del Sol, el físico holandés Hendrik Lorentz envió a Einstein un telegrama para darle la buena noticia. Cuando se difundió el mensaje sobre la confirmación de la relatividad general comunicada en dicho tel egrama, un estudiante preguntó a Einstein qué habría pensado si el experimento de Eddington no hubiera hallado la desviación predicha de la luz de las estrellas. Einstein respondió: “Ent onces lo habría lamentado por el querido Lord, ya que la teoría es correcta”. Por supuesto, si los experimentos realmente no hubieran confirmado las predicciones de Einstein, la teoría de éste no sería correcta y la relatividad general no se hubiera convertido en un pilar de la física moderna. Sin embargo, lo que Einstein quería decir era que la relatividad general describe la gravedad con una elegancia interna tan profunda, con unas ideas tan sencillas y poderosas, que resultaba difícil imaginar que la naturaleza pudiera soslayarla. La relatividad general, según el punto de vista de Einstein, era demasiado hermosa para ser errónea.\nNo obstante, los juicios estéticos no sirven como árbitros en la esfera científica. En\n\núltima instancia, las teorías se juzgan por cómo les va cuando son confrontadas por los hechos experimentales duros y fríos. Desde luego, esta última afi rmación supone una calificación inmensamente importante. Mientras una teoría se construye, su incompleto estado de desarrollo impide con frecuencia la valoración. Con todo, los físicos han de optar y han de formular juicios sobre la línea de la investigación a la que conviene llevar su teoría incompleta. Algunas de estas decisiones vienen dictadas por la coherencia lógica interna; por cierto, ex igimos que cualquier teoría sensata evite los absurdos lógicos.\nOtras decisiones están guiadas por una percepción de las implicaciones experimentales de la teoría. Y, ciertamente, se da el caso de que algunas decisiones tomadas por los físicos teóricos se basan en un sentido estético, un sentido de cuáles son las teorías que tienen una elegancia y una belleza en sus estructuras y están en correspondencia con el orden en el mundo que percibimos. Por supuesto, nada garantiza que esta estrategia conduzca a la verdad. Sin embargo, especialmente cuando entramos en una era en la que nuestras teorías describen dominios del universo que son cada vez más difíciles de comprobar experimentalmente, los físicos con fían en su criterio estético para ayudarse a evitar callejones sin salida en los que en otro caso podrían caer: la ciencia está a la búsqueda de simetrías. Hasta ahora, este planteamiento ha proporcionado una guía poderosa y llena de perspectivas promisorias. 1. Medularmente, el texto dilucida",
+    "questions": [
+      {
+        "statement": "Medularmente, el texto dilucida",
+        "alternatives": [
+          "A) la naturaleza científica de la expedición británica de Eddington de 1919.",
+          "B) los postulados fundamentales de la relatividad general de Albert Einstein.",
+          "C) los criterios fundamentales para lleva r a cabo la evaluación de las teorías.",
+          "D) la afinidad profunda que hay entre el dominio de la ciencia y el del arte.",
+          "E) la relevancia del criterio estético en el desarrollo de las teorías científicas."
+        ],
+        "correct": 4,
+        "rationale": "La anécdota de Einstein sirve como entrada al tema central del texto: la estética en la consideración de las teorías científicas."
+      },
+      {
+        "statement": "En el texto, el término PODEROSA significa",
+        "alternatives": [
+          "A) pugnaz.",
+          "B) fértil.",
+          "C) imperante.",
+          "D) vehemente.",
+          "E) ecuménica."
+        ],
+        "correct": 1,
+        "rationale": "Cuando se habla de una guía poderosa, se usa el sentido de fértil, que ayuda a desarrollar la imaginación científica."
+      },
+      {
+        "statement": "Según el criterio de Einstein, en la ciencia debe primar",
+        "alternatives": [
+          "A) la integridad.",
+          "B) la legalidad.",
+          "C) el experimento.",
+          "D) la belleza.",
+          "E) la medición."
+        ],
+        "correct": 3,
+        "rationale": "La respuesta de Einstein al estudiante pone de relieve lo siguiente: una teoría bella no puede ser falsa."
+      },
+      {
+        "statement": "En virtud de la información brindada en el texto, la expedición de Eddington es un caso de",
+        "alternatives": [
+          "A) descubrimiento.",
+          "B) vero similitud.",
+          "C) corroboración.",
+          "D) imaginación.",
+          "E) refutación."
+        ],
+        "correct": 2,
+        "rationale": "La expedición de Eddington confirma la predicción de Einstein y, en tal sentido, es una corroboración de la relatividad general."
+      },
+      {
+        "statement": "Cabe inferir del texto que el significado de SIMETRÍA tiene un engarce íntimo con",
+        "alternatives": [
+          "A) invariancia.",
+          "B) te mporalidad.",
+          "C) heterogeneidad.",
+          "D) velocidad.",
+          "E) instantaneidad."
+        ],
+        "correct": 0,
+        "rationale": "La simetría se asocia con el orden, con la regularidad, esto es, con la invariancia."
+      },
+      {
+        "statement": "Resulta incompatible con el pensamiento del autor sostener que",
+        "alternatives": [
+          "A) la expedición de Eddington confirmó la relatividad general einsteiniana.",
+          "B) una teoría muy elegante es necesariamente una teoría verdadera.",
+          "C) los científicos están guiados por la búsqueda de simetrías cósmicas.",
+          "D) los criterios estéticos son importantes en las teorías científicas.",
+          "E) la coherencia lógica interna debe ser respetada en la esfera de la ciencia."
+        ],
+        "correct": 1,
+        "rationale": "Aunque el autor pondera el fa ctor de la elegancia en la ciencia, sostiene enfáticamente que el juicio de la experiencia es crucial."
+      }
+    ]
+  },
+  {
+    "type": "reading_comprehension",
+    "statement": "En Europa, incluida Francia (con la comunidad musulmana más numerosa), rara vez\nse topa uno con mujeres ataviadas con un velo negro que las cubre de los pies a la\ncabeza dejando apenas una rejilla abierta para la visión. Al verlas entre la multitud como\nespectros venidos de otros mundos, no puede uno dejar de preguntarse qué las impulsa a\nvestir una burka para andar por la calles. En Francia están decididos a condenar la burka a la oscuridad de los desvanes. Después de seis meses de deliberaciones, la comisión parlamentaria (presidida por el\n\ncomunista Gerin y el conservador Raoult) encargada de estudiar una posible regulación\ndel uso de la burka, entr egó sus conclusiones y recomendaciones: “El uso del velo\nintegral es un desafío contra la República. Es inaceptable”, dice el informe. A sabiendas\nde que una prohibición total de la prenda podría rebotar en la Asamblea francesa o ser\ncuestionada por la Corte Europea de Derechos Humanos, los diputados optaron por\nsugerir la proscripción en las instancias gubernamentales ,hospitales, colegios y\ntransporte público.\nSegún una encuesta, dos tercios de los franceses estarían a favor del destierro completo de la burka. Las razones esgrimi das van desde la seguridad, pasan por los\nderechos de las mujeres, hasta llegar a la intolerancia hacia el Islam. Nicolás Sarkozy y su\npartido, la Unión por un Movimiento Popular (U MP), son fervientes enemigos del atuendo;\nsino fuera por los tribunales franceses y la resistencia de un sector de los socialistas,\nhabrían apostado a su prohibición completa. “Qui ero afirmarlo solemnemente, la burka no\nes bienvenida en el territorio de la República francesa. No podemos aceptar en nuestro\npaís a mujeres prisioneras detrás de una reja, separadas de toda vida social, privadas de\ntoda identidad. No es la idea que la República francesa tiene de la dignidad de la mujer”,\ndijo el presidente Sarkozy ante las cámaras legislativas el año pasado. 1. En síntesis, el texto desarrolla",
+    "questions": [
+      {
+        "statement": "En síntesis, el texto desarrolla",
+        "alternatives": [
+          "A) la polémica suscitada en Francia entorno a la burka usada por algunas mujeres musulmanas.",
+          "B) la intolerancia religiosa que se expande peligrosa mente en países europeos como Francia.",
+          "C) las características de una vestimenta ancestral de una cultura vinculada al credo islámico.",
+          "D) el poco respeto que tienen los musulmanes a la dignidad y los derechos de las mujeres.",
+          "E) la oposición de importantes políticos franceses a la privación de la identidad de las musulmanas."
+        ],
+        "correct": 0,
+        "rationale": "El texto se refiere a la polémica originada en Francia sobre el uso que hacen las mujeres musulmanas del velo integral o burka."
+      },
+      {
+        "statement": "Los términos PROSCRIBIR y ESGRIMI R se pueden reemplazar, respectivamente,",
+        "alternatives": [
+          "A) desterrar y emplear.",
+          "B) expulsar y enmendar.",
+          "C) prohibir y argüir.",
+          "D) oponer y utilizar.",
+          "E) deportar y manejar."
+        ],
+        "correct": 2,
+        "rationale": "Se hace referencia a la proscripción (prohibición) de la burka en ambientes gubernamentales; y las razones esgrimidas (argumentos) empleados para defender esa posición."
+      },
+      {
+        "statement": "Resulta incorrecto señalar que, en torno a la burka, se abordan temas relacionados",
+        "alternatives": [
+          "A) los derechos humanos.",
+          "B) los aspectos estéticos.",
+          "C) la seguridad pública.",
+          "D) la intolerancia religiosa.",
+          "E) los valores culturales."
+        ],
+        "correct": 2,
+        "rationale": "Ningún argumento reseñado en el texto hace referencia a una cuestión estética o de moda."
+      },
+      {
+        "statement": "Se infiere que los que defienden el uso de la burka se sustentan, probablemente, en",
+        "alternatives": [
+          "A) el derecho a la defensa de las tradiciones.",
+          "B) la prohibición de los atuendos integrales.",
+          "C) el riesgo de eliminar los derechos humanos.",
+          "D) el posible conflicto bélico con musulmanes.",
+          "E) la lucha entre el poder ejecutivo y el legislativo."
+        ],
+        "correct": 0,
+        "rationale": "La discusión gira entorno al uso de la burka en Francia. La burka es una vestimenta tradicional en el mundo islámico."
+      }
+    ]
+  },
+  {
+    "type": "reading_comprehension",
+    "statement": "Dicen los países ricos que le van a perdonar la deuda a Haití. Camille Chalmers, economista haitiano, dice: “ La cancelación de la deuda es un buen comienzo, pero tenemos que hablar sobre reparaciones e indemnizaciones por las devastadoras consecuencias de la deuda”. Y argumenta, además, que Haití es acreedor por tres razones: “La esclavitud, la dictadura y el cambio climático”. Estos reclamos no son fantasiosos ni retóricos, son históricos. Cuando los haitianos ganaron su independencia en 1804 tuvieron todo el derecho de reclamar reparaciones; en cambio, Francia es taba convencida de que habían sido los haitianos quienes habían robado la propiedad de los dueños de esclavos. Por ello, en 1825, barcos de guerra en la costa haitiana amenazar on con volver a esclavizar la antigua colonia. El rey Carlos X vino con la intención de recolectar 90 m illones de francos en oro (diez veces la renta anual de Haití en ese momento). Sin capacidad militar para negarse, la joven nación fue amarrada a una deuda que tardaría 122 años en saldarse. Desde 1957 hasta 1986, Haití estuvo gobernado por el régimen dictatorial de Duvalier. El caso contra él se expuso en varios tribunales que rastrearon los fondos, y una Corte de Miami dictaminó que el gobernante había malversa do más de 504 millones de dólares de fondos públicos. Los haitianos, por supuesto, aún siguen esperando la restitución de ese dinero. Sin embargo, el FM I y el Banco Mundial pretenden cobrar el dinero que les prestaron a los Duvalier y que estos aprovecharon para sí y no para el país. Por último, las naciones ricas han fallado en resolver la crisis climática que causaron, y tienen una deuda con los países en desarrollo que padecen sus efectos de manera desproporcionada. Haití, que enfrenta tormentas cada vez más devastadoras, tiene un argumento irrefutable: su contribución al cambio climático ha sido insignificante, las emisiones de carbono de Haití representan el 1% de las emisiones de los EE.UU. Estos argumentos, en un universo regido por la justicia, tendrían valor.",
+    "questions": [
+      {
+        "statement": "Medularmente, el autor del texto argumenta",
+        "alternatives": [
+          "A) entorno al cambio climático con efectos colaterales.",
+          "B) retóricamente por la justicia en Haití y en el mundo.",
+          "C) a favor de considerar que Haití merece una reparación.",
+          "D) para alabar la buena caridad de las naciones más ricas.",
+          "E) para explicar la extrema pobreza de todos los haitianos."
+        ],
+        "correct": 2,
+        "rationale": "Para el autor del texto, la deuda haitiana no es tal. Todo el texto gira entorno a la fundamentación de ese punto de vista."
+      },
+      {
+        "statement": "Señale el enunciado que mejor sintetiza lo expresado en el texto.",
+        "alternatives": [
+          "A) La deuda haitiana ha sido condonada por las naciones ricas que han sido conmovidas por su extrema pobreza.",
+          "B) Haití es un país que ha sufrido las consecuencias de la esclavitud y la dictadura, pero que ahora tiene oportunidades.",
+          "C) Haití no es un país deudor, sino un país al que le deben mucho por la esclavitud, la dictadura y el cambio climático.",
+          "D) La población haitiana sufre los embates de la naturaleza a causa del cambio climático producido por otros países.",
+          "E) El régimen cleptocrático de Duvali er endeudó a la nación haitiana con fuertes sumas de dinero que no se han condonado."
+        ],
+        "correct": 2,
+        "rationale": "Esta alternativa contiene los tres principales argumentos empleados por el autor del texto para señalar que Haití no es un deudor sino un acreedor."
+      },
+      {
+        "statement": "En el texto, el término ACREEDOR se opone al de",
+        "alternatives": [
+          "A) demandado.",
+          "B) deudor.",
+          "C) culpable.",
+          "D) pobre.",
+          "E) esclavo."
+        ],
+        "correct": 1,
+        "rationale": "En el texto, refiriéndose a la condonación de la deuda de Haití, el antónimo de acreedor es deudor."
+      },
+      {
+        "statement": "En última instancia, se puede inferir que el autor del texto manifiesta una actitud",
+        "alternatives": [
+          "A) incrédula sobre la eficacia de los argumentos esgrimidos.",
+          "B) de asombro ante las deudas asumidas por los haitianos.",
+          "C) irónica frente a lo señala do por el economista Chalmers.",
+          "D) sardónica frente a la deuda que tendrían los países ricos.",
+          "E) alarmista frente a las consecuencias del cambio climático."
+        ],
+        "correct": 0,
+        "rationale": "En un universo donde primara la justicia estos argumentos serían válidos; en cambio, dada la situación actual, los argumentos no serán escuchados."
+      }
+    ]
+  },
+  {
+    "type": "sentence_elimination",
+    "statement": "I) La adopción es una institución del derecho de familia cuyas condiciones y procedimientos varían en función del sistema jurídico de cada país. II) La adopción puede definirse como el acto en virtud del cual un individuo o una pareja pasan a adquirir las facultades y obligaciones de lo s padres naturales. III) La adopción parte del interés de asegurar el futuro bienestar de los niños cuyos padres han muerto o cuya situación les impide hacerse cargo de sus hijos. IV) La adopción es un mecanismo que asegura el futuro de niños en ausencia de los padres. V) La adopción incluye un riguroso control que somete a los aspirantes a estrictas pruebas sicológicas que permiten conocer a los futuros padres adoptivos.",
+    "alternatives": [
+      "A) V",
+      "B) III",
+      "C) II",
+      "D) I",
+      "E) IV"
+    ],
+    "correct": 4,
+    "rationale": null
+  },
+  {
+    "type": "sentence_elimination",
+    "statement": "I) Las empresas multinacionales son compañías de gran envergadura, cuyas inversiones se realizan en varios paíse s. II) Las multinacionales son grandes empresas que cuentan con plantas productivas en los países en que realizan sus inversiones y proporcionan trabajo a los nativos de los países. III) Las multinacionales han desarrollado la producción de bienes y servicios, y su comercialización se da a nivel internacional. IV) Las empresas multinacionales aprovechan las ventajas com parativas que les ofrecen los países en los que tienen inversiones para la producci ón de determinados productos. V) Las multinacionales son una consecuencia de la disminución de las barreras arancelarias que dificultaban el comercio entre naciones.",
+    "alternatives": [
+      "A) IV",
+      "B) III",
+      "C) I",
+      "D) V",
+      "E) II"
+    ],
+    "correct": 2,
+    "rationale": null
+  },
+  {
+    "type": "sentence_elimination",
+    "statement": "I) Cyrano de Bergerac es un drama heroico en cinco actos y en verso, escrito por el poeta y dramaturgo Ed mond Rostand. II) Cyrano de Bergerac fue estrenado el 27 de diciembre de 1897 en el teatro de la “Porte Saint-Ma rtin”. III. Cyrano de Bergerac (1619-1655), escritor francés, participó en el sitio de Arrás (1640) y, gravemente herido, abandonó la vida militar. IV) Cyrano de Bergerac supuso para su autor el mayor triunfo literario confirmado por el público, que lo mantuvo en escena más de dos años seguidos. V) Cyrano de Bergerac también tuvo el reconocimiento oficial, pues le valió a su autor la concesión de la Légion d’honneur, tan solo seis días después de supuesta en escena.",
+    "alternatives": [
+      "A) III",
+      "B) I",
+      "C) IV",
+      "D) V",
+      "E) II"
+    ],
+    "correct": 0,
+    "rationale": null
+  },
+  {
+    "type": "verbal_series",
+    "statement": "ESCÉPTICO, INCRÉDULO; DOGMÁTICO, CRÍTICO; PERSPICAZ, ASTUTO;",
+    "alternatives": [
+      "A) diligente, negligente.",
+      "B) sobrio, elegante.",
+      "C) decrépito, viejo.",
+      "D) pertinaz, grosero.",
+      "E) parsimonioso, lento."
+    ],
+    "correct": 0,
+    "rationale": "La relación analógica es de sinonimia , antonimia, sinonimia y antonimia."
+  },
+  {
+    "type": "verbal_series",
+    "statement": "4. Señale el vocablo que no pertenece a la serie verbal.",
+    "alternatives": [
+      "A) Tímido.",
+      "B) Medroso.",
+      "C) Pávido.",
+      "D) Timorato.",
+      "E) Temerario."
+    ],
+    "correct": 4,
+    "rationale": "El campo semántico es el pavor. ‘Temerario’ es el imprudente, que acomete acciones sin temor y de manera irresponsable."
+  }
+]

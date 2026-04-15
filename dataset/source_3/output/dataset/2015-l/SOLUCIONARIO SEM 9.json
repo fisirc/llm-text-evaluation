@@ -1,0 +1,577 @@
+[
+  {
+    "type": "verbal_series",
+    "statement": "Manuel, Raúl, Pedro y Luis se van a casar con Teresa, Ana, Sofía y Carmen. Ana vive en Barranco y Carmen vive en Chorrillos. Las otras chicas viven en Surco y Miraflores. Raúl se casa con la que vive en Barranco, Pedro se casa con la que vive en Surco y Manuel no se casa con la que vive en Chorrillos. 1. A partir de los datos presentados, podemos deducir que",
+    "alternatives": [
+      "A) Pedro se casa con Sofía.",
+      "B) Manuel se casa con Teresa.",
+      "C) Raúl se casa con Carmen.",
+      "D) Luis se casa con Carmen."
+    ],
+    "correct": 3,
+    "rationale": "Por las condiciones del enunciado, Luis se casa con la que vive en Barranco, es decir, con Carmen."
+  },
+  {
+    "type": "verbal_series",
+    "statement": "Manuel, Raúl, Pedro y Luis se van a casar con Teresa, Ana, Sofía y Carmen. Ana vive en Barranco y Carmen vive en Chorrillos. Las otras chicas viven en Surco y Miraflores. Raúl se casa con la que vive en Barranco, Pedro se casa con la que vive en Surco y Manuel no se casa con la que vive en Chorrillos. 2. Sobre la base de la información dada en el texto, ¿cuál de los siguientes enunciados es falso necesariamente?",
+    "alternatives": [
+      "A) Raúl se casa con Ana.",
+      "B) Pedro se casa con Carmen.",
+      "C) Manuel se casa con Sofía.",
+      "D) Teresa vive en Sur co."
+    ],
+    "correct": 1,
+    "rationale": "Pedro se casa con la que vive en Surco; por tanto, no puede casarse con Carmen, quien vive en Chorrillos."
+  },
+  {
+    "type": "verbal_series",
+    "statement": "Manuel, Raúl, Pedro y Luis se van a casar con Teresa, Ana, Sofía y Carmen. Ana vive en Barranco y Carmen vive en Chorrillos. Las otras chicas viven en Surco y Miraflores. Raúl se casa con la que vive en Barranco, Pedro se casa con la que vive en Surco y Manuel no se casa con la que vive en Chorrillos. 3. cuatro emparejamientos?",
+    "alternatives": [
+      "A) Manuel se casa con Carmen.",
+      "B) Carmen se casa con Luis.",
+      "C) Ana se casa con Raúl.",
+      "D) Teresa vive en Miraflores."
+    ],
+    "correct": 3,
+    "rationale": "Con el dato de que Teresa vive en Miraflores, podemos conocer los cuatro emparejamientos: Manuel -Teresa, Raúl -Ana, Pedro -Sofía y Luis -Carmen."
+  },
+  {
+    "type": "reading_comprehension",
+    "statement": "Inexplicablemente , el historiador ha rechazado las fuentes visuales, olas ha tenido en baja consideracion por su formación y porque la tradición le ha impulsado a trabajar fundamentalmente con la seguridad que le ofrece el texto. La imagen, sobre todo a partir de la aparición de la imprenta y de los modelos impresos, se ha concebido como un medio menos reflexivo en relación con el texto, pero es indudable que la imagen, sobre todo la fotografía, muestra tal grado de ve racidad difícilmente superable por la palabra. Es más, concretamente para las sociedades contemporáneas, un acontecimiento histórico no se entiende sino se refleja con fotografías, de tal forma que sino disponemos de la imagen es como sino hubiera tenido lugar, como sino hubiera acontecimiento histórico. Del descubrimiento de América no poseemos ninguna prueba visual, y lógicamente mucho menos fotográfica, sin embargo tenemos constancia histórica de que el hecho se produjo por las pruebas materiales que Cristóbal Colón aportó a la vuelta de tamaña empresa ,como la presencia física de los indios en Granada, la importación de cultivos desconocidos en Europa, ola constatación de culturas ultramarinas diferentes y milenarias. No hay duda histórica de tan trascendental hecho. Pero en otros momentos, el hombre ha conquistado nuevos territorios de los que sí precisamos de testimonios visuales y sin los cuales nos costaría entender y explicar lo acontecido. Las imágenes de la llegada del hombre a la Luna, por ejemplo, o más concretamente las recientes fotografías tomadas de Marte, evidencian la autenticidad del acontecimiento sin necesidad de demostrar las pruebas materiales que se tienen. Sin imágenes no hay acontecimiento, pero sobre todo sin imágenes fotográficas, que son las que atestiguan la veracidad de los logros alcanzados, y son las que han quedado en la memoria: la pisada del astronauta sobre la superficie lunar olas escenas desérticas y rojizas del planeta Marte. El mundo, para la inmensa mayoría de la humanidad, es lo que han visto sus ojos.\n\nPantoja, A. (s. f.) “Las fuentes visuales en el trabajo del historiador”. Recuperado de: http://www.academia.edu/ 7574566/Las_fuentes_visuales_en_el_trabajo_del_historiador",
+    "questions": [
+      {
+        "statement": "La intención fundamental del autor es señalar",
+        "alternatives": [
+          "A) la buena labor del historiador en el manejo de las fuentes tradicionales de información.",
+          "B) el valor e importancia que tuvieron las pruebas materiales en el descubrimiento de América.",
+          "C) cómo los testimonios visuales también pueden contribuir con la expansión colonizadora.",
+          "D) la importancia de las fuentes visuales, en especial de la fotografía, en la validación de los hechos históricos.",
+          "E) la importancia que ofrece la seguridad del texto en la constatación y verificación de un suceso histórico."
+        ],
+        "correct": 3,
+        "rationale": null
+      },
+      {
+        "statement": "El término REFLEJA connota",
+        "alternatives": [
+          "A) suceso.",
+          "B) evidencia.",
+          "C) olvido.",
+          "D) visualidad.",
+          "E) información."
+        ],
+        "correct": 1,
+        "rationale": "El término REFLEJA connota EVIDENCIA."
+      },
+      {
+        "statement": "En el texto, la expresión TAMAÑA EMPRESA alude a",
+        "alternatives": [
+          "A) la extensión de las pruebas históricas.",
+          "B) una prueba irrefutable de veracidad.",
+          "C) la autenticidad de los acontecimientos.",
+          "D) un suceso de mucha importancia.",
+          "E) la seguridad ofrecida por los textos."
+        ],
+        "correct": 3,
+        "rationale": "La expresión TAMAÑA EMPRESA, se refiere a un hecho de gran envergadura como el descubrimiento de América."
+      },
+      {
+        "statement": "Es compatible con lo afirmado en el texto sostener que los historiadores",
+        "alternatives": [
+          "A) confían todavía en la validación que se da a partir de los textos.",
+          "B) están en desacuerdo con la fiabilidad que puede ofrecer la fotografía.",
+          "C) modernamente solo se sirven de las fuentes visuales para su trabajo.",
+          "D) están más interesados en las fuentes testimoniales para su labor.",
+          "E) requieren solo de una de las dos fuentes mencionadas, no de ambas."
+        ],
+        "correct": 0,
+        "rationale": "No están en desacuerdo con la validación que aportan los textos, es más esa fue por mucho tiempo la única fuente de validación; lo que ocurre es que las fuentes visuales han ido cobrando cada vez mayor importancia."
+      },
+      {
+        "statement": "Es posible inferir del texto que la veracidad de los hechos históricos está sustentada en",
+        "alternatives": [
+          "A) el testimonio de la persona que le correspondió ser testigo de los hechos.",
+          "B) las pruebas visuales y verbales de un suceso que el historiador pueda aportar.",
+          "C) evidencias o pruebas concretas que permiten la constatación de lo ocurrido.",
+          "D) la gran importancia que ha logrado mantener hasta hoy el documento escrito.",
+          "E) la enorme relevancia que en la sociedad moderna ha alcanzado la fotografía."
+        ],
+        "correct": 2,
+        "rationale": "La veracidad puede sustentarse en pruebas materiales o en evidencias como las que deja la fotografía."
+      },
+      {
+        "statement": "Siguiendo la lógica de lo afirmado en el texto, se puede establecer que si Colón no hubiese aportado pruebas concretas de la existencia de América,",
+        "alternatives": [
+          "A) su testimonio habría validado los hechos.",
+          "B) nunca se habría realizado la colonización.",
+          "C) el descubrimiento sería intrascendente.",
+          "D) no se conocerían culturas milenarias.",
+          "E) concretas, su palabra no hubiera bastado."
+        ],
+        "correct": 4,
+        "rationale": "concretas, su palabra no hubiera bastado."
+      },
+      {
+        "statement": "Para el autor del texto, la importancia de las fuentes visuales radica principalmente en",
+        "alternatives": [
+          "A) su grado de veracidad que supera al de la palabra.",
+          "B) la excelente calidad y fidelidad de sus imágenes.",
+          "C) la innovación que supone frente a los textos.",
+          "D) la contemporaneidad que le otorga al hecho histórico.",
+          "E) el alto grado de reflexividad que es inherente a él."
+        ],
+        "correct": 0,
+        "rationale": "El autor señala que el grado de veracidad de la fotografía es mayor que el de la imagen por ello modernamente ya no se concibe el hecho histórico sin el documento fotográfico."
+      },
+      {
+        "statement": "Si la llegada del hombre a la Luna no hubiese podido ser documentada fotograficamente,",
+        "alternatives": [
+          "A) no habríamos podido reconocer las primeras huellas del hombre al llegar a ese satélite.",
+          "B) la veracidad del hecho tendría que corrobor arse con otro tipo de evidencias o pruebas materiales.",
+          "C) quedaría evidencia de que las expediciones no toman las medidas adecuadas para dejar registro de su labor.",
+          "D) no habríamos tenido información fiable de los extensos y rojizos desiertos de ese satélite.",
+          "E) de igual manera tendríamos noticia de la autenticidad de la llegada del hombre a la Luna."
+        ],
+        "correct": 1,
+        "rationale": "Según lo afirmado en el texto para que un hecho sea validado como histórico se requieren de pruebas fiables y concretas."
+      }
+    ]
+  },
+  {
+    "type": "verbal_series",
+    "statement": "Oprobio, humillación, afrenta,",
+    "alternatives": [
+      "A) omisión.",
+      "B) veteranía.",
+      "C) ignominia.",
+      "D) desparpajo.",
+      "E) insolencia."
+    ],
+    "correct": 2,
+    "rationale": "Serie sinonímica, sigue ignominia."
+  },
+  {
+    "type": "verbal_series",
+    "statement": "Salacidad, lujuria; felonía, lealtad; despecho, resentimiento;",
+    "alternatives": [
+      "A) cielo, paraíso.",
+      "B) zozobra, tranquilidad.",
+      "C) ansiedad, locura.",
+      "D) infección, deseo.",
+      "E) vejez, adultez."
+    ],
+    "correct": 1,
+    "rationale": "Serie mixta: sinónimos, antónimos, sinónimos…"
+  },
+  {
+    "type": "verbal_series",
+    "statement": "1. Oprobio, humillación, afrenta,\n\nA) omisión. B) veteranía. C) ignominia.\nD) desparpajo. E) insolencia.\n\nSolución : Serie sinonímica, sigue ignominia.\nRpta.: C",
+    "alternatives": [
+      "A) omisión.",
+      "B) veteranía.",
+      "C) ignominia.",
+      "D) desparpajo.",
+      "E) insolencia."
+    ],
+    "correct": 2,
+    "rationale": "Serie sinonímica, sigue ignominia."
+  },
+  {
+    "type": "verbal_series",
+    "statement": "2. Salacidad, lujuria; felonía, lealtad; despecho, resentimiento;",
+    "alternatives": [
+      "A) cielo, paraíso.",
+      "B) zozobra, tranquilidad.",
+      "C) ansiedad, locura.",
+      "D) infección, deseo.",
+      "E) vejez, adultez."
+    ],
+    "correct": 1,
+    "rationale": "Serie mixta: sinónimos, antónimos, sinónimos…"
+  },
+  {
+    "type": "verbal_series",
+    "statement": "3. ¿Cuál es el término que no corresponde al campo semántico?",
+    "alternatives": [
+      "A) Desafección",
+      "B) Animosidad",
+      "C) Animadversión",
+      "D) Inquina",
+      "E) Desaliento"
+    ],
+    "correct": 4,
+    "rationale": "El campo semántico es el de la animadversión y no el del desánimo."
+  },
+  {
+    "type": "verbal_series",
+    "statement": "5. ¿Qué término no corresponde al campo semántico?",
+    "alternatives": [
+      "A) Aciago",
+      "B) Nefasto",
+      "C) Funesto",
+      "D) Deplorable",
+      "E) Flamígero"
+    ],
+    "correct": 4,
+    "rationale": "El campo semántico es el de la desventura, flamígero es refulgente."
+  },
+  {
+    "type": "verbal_series",
+    "statement": "6. Acceder, asentir, consentir,",
+    "alternatives": [
+      "A) diferir.",
+      "B) consternar.",
+      "C) contrariar.",
+      "D) permitir.",
+      "E) adherir."
+    ],
+    "correct": 3,
+    "rationale": "serie verbal constituida por sinónimos dentro del campo semántico del permiso o autorización, se completa con permitir."
+  },
+  {
+    "type": "verbal_series",
+    "statement": "7. Conspiración, contubernio, conjura,",
+    "alternatives": [
+      "A) aspiración.",
+      "B) fabulación.",
+      "C) conjunción.",
+      "D) conturbación.",
+      "E) com plot."
+    ],
+    "correct": 4,
+    "rationale": "serie verbal conformada por sinónimos que se completa con complot."
+  },
+  {
+    "type": "reading_comprehension",
+    "statement": "El teatro medieval, tanto en España como en los otros países europeos, nada debió en sus comienzos al arte dramático de los griegos (basado en rituales paganos a Dionisio) y romanos: nació, como flor espontánea, a la sombra de los claustros monacales. El deseo de los monjes de dar mayor vida y plasticidad a las ceremonias litúrgicas, a fin de hacerlas más comprensibles al rústico y fervoroso pueblo, constituye la razón y origen del incipiente teatro, en cuyo inicial desenvolvimiento tienen notable participación las instituciones monásticas francesas establecidas en la Península. Algunas de esas ceremonias se prestaban fácilmente para ser llevad as a las tablas, en particular las de Navidad y Semana Santa. Los tropos o interpolaciones dialogadas, introducidos en los «responsorios» del oficio divino y en los «introitos» de las misas solemnes, avivaron, por otra parte, el instinto dramático de aquel los obscuros eclesiásticos, y no tardaron en surgir, primero, el drama litúrgico en latín, y enseguida, los juegos escolares, también en latín, que durante el siglo XII fueron casi la única manifestación del teatro público. El grande éxito alcanzado por estos conatos escénicos, indujo a los monjes y clérigos a componer dramas religiosos en romance vulgar, denominados misterios por los franceses y autos por los españoles. Los autos o misterios eran representados en el interior de los templos por los sacerdotes. En un principio, se inspiraron solo en la Navidad y la Pasión, pero paulatinamente ampliaron su estrecho marco hasta abarcar la vida entera de Jesús. El único monumento español que hoy conocemos de este género de representaciones es el Auto de los Reyes Magos. No obstante, la del teatro religioso y como una derivación de él, surgieron ciertas representaciones profanas o juegos de escarnio, los cuales, a juzgar por las condenaciones de los Concilios y las leyes, parecen haber sido parodias de los oficios eclesiásticos que, a menudo, degeneraban en burlas obscenas e inmorales. El Código de Alfonso el Sabio define con claridad ambas dramaturgias, la religiosa y la profana. No solamente en estos juegos de escarnio —de los cuales ninguno ha llegado hasta nosotros— se contienen gérmenes del futuro teatro español; también los hay en las fiestas y diversiones del pueblo (danzas en coro, pastorelas) y particularmente, en las contiendas o disputas tan frecuentes en la Edad Media, por ejemplo: La disputa del alma y el cuerpo, La razón de Amor con los denuestos del agua y el vino. «El juglar que recita su decir o disputa y tiene desarrollado el instinto para imitar diversas voces, para subrayar determinad as actitudes y provocar la hilaridad del público —según expresa un tratadista —se ha convertido en un actor y su poema en un drama, en algo teatral; dado el primer paso, lo demás es obra del tiempo.» García, J. (1972). Historia de la Literatura Española . Barcelona: Vinces",
+    "questions": [
+      {
+        "statement": "1. Básicamente, el autor del texto tiene la intención de",
+        "alternatives": [
+          "A) explicar las características del teatro en la Edad Media.",
+          "B) dilucidar el origen del teatro en la España medieval.",
+          "C) revalorar los elementos místicos en el teatro español.",
+          "D) parangonar el teatro religioso y pagano en el Medioevo.",
+          "E) justificar la labor eclesiástica en las obras teatrales."
+        ],
+        "correct": 1,
+        "rationale": "En el primer párrafo del texto, el autor plantea el tema que abordará. En\ntorno al entramado textual, es evidente que tiene la intención de dilucidar el origen del\nteatro en la España medieval."
+      },
+      {
+        "statement": "2. En el texto, el término OBSCURO puede ser r eemplazado por",
+        "alternatives": [
+          "A) prístino.",
+          "B) enigmático.",
+          "C) nimio.",
+          "D) sutil.",
+          "E) irresponsable."
+        ],
+        "correct": 1,
+        "rationale": "Los responsorios avivaron el instinto dramático de los obscuros eclesiásticos. El término obscuro significa confuso e ininteligible."
+      },
+      {
+        "statement": "3. Es incongruente con el texto afirmar que los juegos de escarnio",
+        "alternatives": [
+          "A) dejaron remanentes en las representaciones teatrales posteriores.",
+          "B) habrían representado a los sacerdotes en situaciones sórdidas.",
+          "C) eran piezas teatrales hilarantes que buscaban distraer al público.",
+          "D) deben haber sido dirigidos y representados por hombres rústicos.",
+          "E) parodiaban los vicios y virtudes del pueblo español de la Edad Media."
+        ],
+        "correct": 4,
+        "rationale": "Los juegos de escarnio, según el autor, parecen haber parodiado a los oficios eclesiásticos."
+      },
+      {
+        "statement": "4. Del texto se colige que el teatro religioso",
+        "alternatives": [
+          "A) motivó la creación de un teatro más allegado al pueblo.",
+          "B) buscó criticar la falsa moral de la sociedad española",
+          "C) tuvo la misma intención que el teatro pagano medieval.",
+          "D) se caracterizó por en altecer la vida del hombre profano."
+        ],
+        "correct": 0,
+        "rationale": "Por tanto, el teatro religioso motivó la creación de un teatro más allegado al pueblo."
+      },
+      {
+        "statement": "5. Si el teatro medieval de España se hubiese originado en el arte dramático grecolatino,",
+        "alternatives": [
+          "A) las ceremonias litúrgicas habrían prescindido representaciones bíblicas.",
+          "B) de igual manera, los clérigos habrían sido víctima de personificaciones viles.",
+          "C) carecería de originalidad ;asimismo ,habría perdido su esencia cristiana.",
+          "D) no habría recibido las condenaciones y prohibiciones de los Concilios.",
+          "E) ciertamente habría estado signado por un espíritu y sentimiento paganos."
+        ],
+        "correct": 4,
+        "rationale": "El arte dramático grecolatino se origina en rituales paganos a Dionisio. Entonces si el teatro medieval de España se hubiera originado del arte dramático grecolatino, ciertamente, habría estado signado por un espíritu y sentimiento pagano."
+      }
+    ]
+  },
+  {
+    "type": "reading_comprehension",
+    "statement": "Los aproximadamente 35 000 genes que recogen la memoria filogenética de la especie humana se agrupan en 23 pares de cromosomas. El par 23, cuando es XX, determina el sexo de mujer, y cuando es XY de varón. El cromosoma Y es el más pequeño, con 60 genes, mientras los otros cromosomas tienen miles. Un gen del cromosoma Y, el gen Sry, activa en la sexta semana de vida intrauterina el desarrollo de los testículos, que a su vez producirán hormonas andrógenas, la testosterona, que se distribuye por todo el embrión estableciendo las pautas de estructuración corporal propias del varón. La testosterona es responsable de la masculinización del cuerpo humano en los diversos sistemas, músculo -esquelético, cardiovascular, y nervioso, particularmente el cerebro. Cuando el par de cromosomas es XX, la segunda X envía instrucciones para fabricar ovarios, que producirán los estrógenos, que a su vez conformarán la estructuración corporal propia de la mujer. La feminización del cuerpo de mujer afecta todos los sistemas, desde el sexual reproductor, hasta el nervioso central. De modo que sino está presente el cromosoma Y, no se forman los órganos genitales masculinos y lo que se desarrollan son los genitales propios de la mujer. Podemos afirmar que genéticamente Adán nace de la costilla de Eva. […] Este patrón general en el desarrollo de la mayoría de los seres humanos presenta anomalías como en el caso de personas con sexo indiferenciado o cambio de sexo. Ello puede deberse a factores varios, com o no activación del gen Sry, aunque esté presente el cromosoma Y, en el par 23 XY, lo que llevará a una conformación corporal externa propia de mujer, pero sin útero. En otros casos, embriones XX quedan afectados por suministro de hormonas andrógenas que h a tomado la madre, para prevenir un aborto por ejemplo. Tratamiento con testosterona, en edades posteriores, puede masculinizar el cuerpo de una mujer, con cambios manifiestos en su estructura corporal, sistema muscular, cardiovascular y lo que más nos interesa aquí, el sistema cerebral, desarrollando así modalidades mentales masculinas, con perfiles cognitivos y emocionales más propios de hombre.\n\nGarcia García, E. (2003). Neuropsicología y género. Revista de la Asociación Española de Neuropsiquiatría , 7-18",
+    "questions": [
+      {
+        "statement": "1. El texto aborda centralmente el tema de",
+        "alternatives": [
+          "A) los cromosomas y sus principales funciones al interior del cuerpo humano.",
+          "B) los genes asociados a la producción de hormonas andróginas y testosterona.",
+          "C) la carga cromosomática en la conformación genética de hombres y mujeres.",
+          "D) los problemas en la funcionalidad de los genes asociados a las hormonas XY."
+        ],
+        "correct": 2,
+        "rationale": "hombre o mujer, que es de lo que centralmente trata el texto."
+      },
+      {
+        "statement": "2. El término ANOMALIAS tiene el sentido contextual de",
+        "alternatives": [
+          "A) monstruosidad.",
+          "B) excepción.",
+          "C) aberración.",
+          "D) experimento.",
+          "E) indiferenciación."
+        ],
+        "correct": 1,
+        "rationale": "El sentido contextual del término es excepción, sobre todo si se menciona este tipo de desarrollo como general en nuestra especie, excepto en algunos."
+      }
+    ]
+  },
+  {
+    "type": "sentence_elimination",
+    "statement": "I) Virginia Woolf fue una novelista, ensayista, escritora de cartas, editora, feminista y cuentista británica, considerada una de las más destacadas figuras del modernismo literario del siglo XX. II) Durante su vida, Virginia Woolf sufrió una enfermedad mental hoy conocida como trastorno bipolar. III) Después de acabar el manuscrito de una última novela (publicada póstumamente), Virginia Woolf padeció una severa depresión. IV) El estallido de la Segunda Guerra Mundial, la destrucción de su casa de Londres durante el Blitz y la fría acogida que tuvo su biografía sobre su amigo Roger Fry empeoraron su condición mental hasta que se vio incapaz de trabajar. V) El 28 de marzo de 1941, Virginia Woolf se puso su abrigo, llenó sus bolsillos con piedras y se lanzó al río Ouse cerca de su casa y se ahogó.",
+    "alternatives": [
+      "A) II",
+      "B) V",
+      "C) III",
+      "D) IV",
+      "E) I"
+    ],
+    "correct": 4,
+    "rationale": "Se elimina por inatingencia el conjunto de oraciones trata del trastorno bipolar padecido por Woolf y su degeneración que la lleva al suicidio."
+  },
+  {
+    "type": "synonyms_and_antonyms",
+    "statement": "2. El término ANOMALIAS tiene el sentido contextual de",
+    "alternatives": [
+      "A) monstruosidad.",
+      "B) excepción.",
+      "C) aberración.",
+      "D) experimento.",
+      "E) indiferenciación."
+    ],
+    "correct": 1,
+    "rationale": "El sentido contextual del término es excepción, sobre todo si se menciona este tipo de desarrollo como general en nuestra especie, excepto en algunos."
+  },
+  {
+    "type": "analogies",
+    "statement": "3. A partir de la expresión ADÁN NACE DE LA COSTILLA DE EVA, podemos establecer que",
+    "alternatives": [
+      "A) potencialmente , al tener un cromosoma Y, como constante, todos podríamos haber sido mujeres",
+      "B) la conjugación XX o XY tiene a X (mujer) como constante y a Y (hombr",
+      "E) como variable",
+      "C) el cromosoma Y depende de si X está o no presente por ende nace de X (la costilla de Ev",
+      "D) al ser los cromosomas dependientes la combinación XY refiera que Eva nace de la costilla de Adán",
+      "E) los cromosomas X, Y guardan relación aleatoria con las características hombre - mujer"
+    ],
+    "correct": 2,
+    "rationale": "El cromosoma X, que tiene potencial carga femenina, es una constante; Y que tiene potencial genético masculino es la variable, quiere decir que la combinación XX o XY evidencia que Y depende de la presencia de X, por ende, Adán nace de la costilla de Eva."
+  },
+  {
+    "type": "sentence_elimination",
+    "statement": "5. Si se presentara el caso de una persona en apariencia externa mujer, pero sin haber desarrollado útero, es posible afirmar que",
+    "alternatives": [
+      "A) durante el proceso de desarrollo genético, no tenía el par XX, sino el par XY.",
+      "B) se activó, en el par XX, la segunda X enviando información masculina.",
+      "C) tenía el par XX, pero el gen Sry no se activó, por lo que se produjo testosterona.",
+      "D) los cromosomas YX permutaron a XY, lo que alteró la formación corporal.",
+      "E) este gen no se activa, el útero no se forma, aunque externamente se conserve la apariencia de mujer."
+    ],
+    "correct": 4,
+    "rationale": "este gen no se activa, el útero no se forma, aunque externamente se conserve la apariencia de mujer."
+  },
+  {
+    "type": "sentence_elimination",
+    "statement": "6. I) Existe cierta controversia entorno al sentido etimológico de las palabras que componen el término epistemología. II) Episteme contrariamente a lo que el común de las personas asume significa certeza. III) Asumir episteme como ciencia lleva tergiversar la definición de epistemología asumiéndola como “el estudio de la ciencia”. IV) Si se asume un criterio más estricto tendríamos que asumir episteme y epistemología como el estudio de las certezas. V) La intención de establecer un debate entorno al sentido etimológico de los términos busca clarificar el uso y establecer una visión más exacta de la naturaleza del concepto.",
+    "alternatives": [
+      "A) II",
+      "B) IV",
+      "C) V",
+      "D) I",
+      "E) III"
+    ],
+    "correct": 2,
+    "rationale": "se elimina V por impertinencia. El eje es el sentido etimológico de la palabra epistemología, de manera específica, y no el debate entorno al sentido etimológico de los términos en general."
+  },
+  {
+    "type": "sentence_elimination",
+    "statement": "7. I) Los polímeros son macromoléculas cuya composición está basada en el conjunto de monómeros II) El almidón, la seda ola celulosa, son polímeros procesados naturalmente en los seres vivos, a través de la polimerización. III) La polimerización en cadena, es la reacción que sintetiza un polímero como el ADN. IV) En una polimerización el tamaño de la cadena dependerá de parámetros como la temperatura o el tiempo de reacción. V) En la polimerización cada cadena tiene un tamaño distinto y, por tanto, una masa molecular distinta.",
+    "alternatives": [
+      "A) I",
+      "B) III",
+      "C) II",
+      "D) IV",
+      "E) V"
+    ],
+    "correct": 3,
+    "rationale": "se elimina I por impertinencia. El tema es la polimerización como proceso y no la composición de los polímeros."
+  },
+  {
+    "type": "sentence_elimination",
+    "statement": "7. I) Los polímeros son macromoléculas cuya composición está basada en el conjunto de monómeros II) El almidón, la seda ola celulosa, son polímeros procesados naturalmente en los seres vivos, a través de la polimerización. III) La polimerización en cadena, es la reacción que sintetiza un polímero como el ADN. IV) En una polimerización el tamaño de la cadena dependerá de parámetros como la temperatura o el tiempo de reacción. V) En la polimerización cada cadena tiene un tamaño distinto y, por tanto, una masa molecular distinta.",
+    "alternatives": [
+      "A) I",
+      "B) III",
+      "C) II",
+      "D) IV",
+      "E) V"
+    ],
+    "correct": 0,
+    "rationale": "se elimina I por impertinencia. El tema es la polimerización como proceso y no la composición de los polímeros."
+  },
+  {
+    "type": "reading_comprehension",
+    "statement": "El bronceado en interiores es un gran negocio: esto no pronostica nada bueno para la salud de las personas. En 1994, un estudio sueco encontró que las mujeres entre 18 y 30 años de edad que visitaron los salones de bronceado o camas solares 10 o más veces en un año, tenían una incidencia siete veces mayor de melanoma que las mujeres que no utilizaron salones de bronceado. En otro estudio, las personas expuestas a 10 sesiones de bronceado en todo el cuerpo, tenían un aumento significativo en la reparación de proteínas de la piel que normalmente se asocia con el daño solar, lo que indica que la radiación ultravioleta (UV) en salones de bronceado es tan peligrosa como los rayos UV del sol. Y en el 2002, un estudio de Dartmouth Medical School encontró que los usuarios de camas solares tienen 2,5 veces más riesgo de tener carcinoma de células escamosas y 1,5 veces más riesgo de presentar carcinoma basocelular. Sin embargo, aun con todas estas pruebas, los salones de bro nceado permanecen abiertos y florecientes .\nLa industria del bronceado se basa en dos argumentos engañosos: en primer lugar alegan que, dado que el melanoma es causado principalmente por quemaduras solares y que un bronceado \"controlado\" ayuda a prevenir el melanoma induciendo la producción de melanina. En segundo lugar, señalan que los rayos UV que inducen la síntesis de vitamina D en la piel, ayudan a prevenir el cáncer de mama, de próstata y de colon, así como otras enfermedades.\nLos expertos rechazan estos argumentos. Señalan que nuestra dieta (especialmente alimentos ricos en vitamina D, tales como los productos lácteos y el salmón) en general proporciona toda la vitamina D que necesitamos. Además, broncearse para aumentar la melanina es contraproducente . El bronceado, como las quemaduras solares, causa un daño genético a las células de la piel. \"Nose puede proteger dañándola\", dice James M. Spencer, MD, director de cirugía dermatológica en Mount Sinai Medical Center en la ciudad de Nueva York. \"El bronceado no solo aumenta el riesgo de melanoma y carcinoma de células escamosas, sino que también acelera el envejecimiento cutáneo\".\nHa habido varios intentos de regular este sector industrial tanto por grupos de médicos, así como congresistas nacionales y es tatales y la Organización Mundial de la Salud, con un éxito limitado. La Food and Drug Administration, FDA , (Administración de Alimentos y Fármacos ,por sus siglas en inglés) ha impuesto medidas estrictas sobre los dispositivos de bronceado, pero sin cambio alguno. La industria del bronceado ha luchado contra todas estas medidas. Lamentablemente, a pesar de las regulaciones, los problemas no se han resuelto. \"Las regulaciones no pueden hacer un bronceado seguro\", declaró Michael Franzblau, MD, profesor clínico de dermatología, Universidad de California, Facultad de Medicina de San Francisco. Además asegura que la prohibición de los salones, es decir, la eliminación de salones de bronceado sería 100 % más eficaz que las regulaciones. Y podría salvar millones de vidas.\n\nThe Skin Cancer Foundation. (2014). En contra del bronceado de salón. Recuperado el 29 de marzo de 2015, de: http://www.cancerdepiel.org/vida -saludable/sobre -el-bronceado/en -contra -del-salon -de-bronceado",
+    "questions": [
+      {
+        "statement": "1. Centralmente, el texto trata sobre",
+        "alternatives": [
+          "A) las consecuencias perniciosas de someterse a bronceados en salón.",
+          "B) la falta de leyes y supervisión de acceder a dispositivos de rayos UV.",
+          "C) investigaciones sobre el peligro de radiaciones causantes de cáncer de piel.",
+          "D) la pingüe rentabilidad de los salones de bronceado en Norteamérica.",
+          "E) la alerta oficial de la OMS sobre las secuelas de la radiación solar."
+        ],
+        "correct": 0,
+        "rationale": null
+      },
+      {
+        "statement": "2. En el texto, el sentido del término FLORECIENTE es",
+        "alternatives": [
+          "A) abundante.",
+          "B) próspero.",
+          "C) suntuoso.",
+          "D) lucrativo.",
+          "E) incipiente."
+        ],
+        "correct": 1,
+        "rationale": null
+      },
+      {
+        "statement": "3. Resulta compatible con el texto aseverar que",
+        "alternatives": [
+          "A) para Franzblau la creación de leyes severas solucionarían un bronceado seguro.",
+          "B) la OMS ha soslayado participar en campañas contra los salones de bronceado.",
+          "C) los peritos dermatólogos arguyen que el bronceado moderado es beneficioso.",
+          "D) la síntesis de vitamina D propicia el desarrollo del cáncer de mama o próstata.",
+          "E) los usuarios de camas solares están más proclives de padecer cáncer de piel."
+        ],
+        "correct": 4,
+        "rationale": null
+      },
+      {
+        "statement": "4. Del texto se deduce que los salones de bronceado",
+        "alternatives": [
+          "A) velan por sus intereses lucrativos en desmedro de la salud humana.",
+          "B) han recibido denuncias de la FDA por el uso de sustancias tóxicas.",
+          "C) incentivan la exposición solar como terapia para infecciones dérmicas.",
+          "D) transgreden las normas sobre los dispositivos de bronceado de la OMS.",
+          "E) justifican falazmente los perjuicios que ocasionan las camas solares."
+        ],
+        "correct": 0,
+        "rationale": null
+      },
+      {
+        "statement": "5. Si el reglamento impuesto por la FDA hubiese sido acatado cabalmente por los salones de bronceado,",
+        "alternatives": [
+          "A) los propietarios de la industria del bronceado sufrirían ingentes pérdidas económicas.",
+          "B) el riesgo de padecer cáncer de piel sería erradicado en los usuarios de camas solares.",
+          "C) el Dr. J. Spencer estaría de acuerdo con la proliferación de las cabinas de bronceado.",
+          "D) los expertos dermatólogos mantendrían una marcada preocupación por la vigencia de estos.",
+          "E) el cáncer de piel y el envejecimiento cutáneo solo serían males de personas provectas ."
+        ],
+        "correct": 3,
+        "rationale": null
+      }
+    ]
+  },
+  {
+    "type": "reading_comprehension",
+    "statement": "El censo de 1862, programado para un padrón electoral revisado, encontró una población de 2,461,936 habitantes. El incremento representó un alza del 23 por ciento con respecto a 1850, una tasa galopante considerando los informes de epidemias devastadoras de tifoidea, cólera y difteria en la sierra a fines de la década de 1850. Para ese entonces, en pleno clímax de la prosperidad exportadora, la población peruana había duplicado el total colonial. Se trató de un censo real, como lo evidencian las detalladas cifras desagregadas a nivel provincial por sexo y edad (pero con mujeres y niños, significativamente agrupados juntos). Hubo muchas críticas contemporáneas, como la de Paz Soldán, que ridiculizaba su pobre organización y obvios errores (utilizando tasas de error supuestas, él ofrecía una alternativa de “4,000,000 de almas”, sin duda una estimación alta). […] Las conclusiones del censo de 1862 encajan bien con las tendencias del siglo diecinueve. El primer censo peruano moderno, que detallaba sus preparativos y procedimientos, fue Marchand, y compilado y publicado por el experimentado M .A. Fuentes, el censo movilizó un pequeño ejército de funcionarios que por vez primera recogió minuciosos datos laborales, sociales y regionales. Esta información revela, por ejemplo, la profunda diversidad de las estructuras sociales regionales peruanas: que 1,554,678 de 2,699,106 peruanos eran considerados indios; que solo el 15 por ciento de la población vivía en pueblos (incluyendo la mayoría de los 498 “israelitas” peruanos confesos); y que las cuatro mil cuatrocientas “haciendas” del país eran el hogar de un cuarto de la población rural. Aunque entonces y ahora el total arrojado por el censo de 2.7 millones de peruanos quedaba expuesto a cuestionamientos, sigue siendo considerado un “esfuerzo riguroso” por la extensa literatura crítica moderna. Los datos más débiles son los referidos a ciertas estadísticas provinciales, y a ítems sociales como la ocupación y el alfabetismo. Más alarmante que las imperfecciones de este censo fue el hecho que el siguiente censo nacional no fuese realizado sino hasta 1940, tres cuartos de siglo más tarde. Este hiato ha dejado un enorme vacío para el estudio de la aparición del Perú moderno.",
+    "questions": [
+      {
+        "statement": "1. ¿Cuál es el tema central del texto?",
+        "alternatives": [
+          "A) Los principales censos del siglo XIX en el Perú",
+          "B) Los censos en el Perú entre el siglo XIX y el XX",
+          "C) Las falencias de los censos en el Perú del S. XX",
+          "D) La población y su estratificación en el siglo XIX",
+          "E) Los censos para determinar el crecimiento local"
+        ],
+        "correct": 0,
+        "rationale": null
+      },
+      {
+        "statement": "2. El término HIATO tiene el sentido contextual de",
+        "alternatives": [
+          "A) aproximación.",
+          "B) encuentro.",
+          "C) continuidad.",
+          "D) precaución.",
+          "E) distancia."
+        ],
+        "correct": 4,
+        "rationale": null
+      },
+      {
+        "statement": "3. De los datos obtenidos a partir del censo de 1862, se colige que",
+        "alternatives": [
+          "A) en el Perú todos critican, pero poco s solucionan los problemas.",
+          "B) el censo fue apresurado, sus resultados despertaban desconfianza.",
+          "C) Paz Soldán recurrió al mismo censo para recalcular las cifras.",
+          "D) no se conocía ni por aproximación la cantidad de habitantes peruanos.",
+          "E) el censo pro curó abarcar la realidad desagregada por estrato y género."
+        ],
+        "correct": 4,
+        "rationale": null
+      }
+    ]
+  },
+  {
+    "type": "sentence_elimination",
+    "statement": "2. El término HIATO tiene el sentido contextual de",
+    "alternatives": [
+      "A) aproximación.",
+      "B) encuentro.",
+      "C) continuidad.",
+      "D) precaución.",
+      "E) distancia."
+    ],
+    "correct": 4,
+    "rationale": "Al mencionarse los años, se entiende hiato como distancia temporal entre un censo y otro."
+  },
+  {
+    "type": "sentence_elimination",
+    "statement": "3. De los datos obtenidos a partir del censo de 1862, se colige que",
+    "alternatives": [
+      "A) en el Perú todos critican, pero poco s solucionan los problemas.",
+      "B) el censo fue apresurado, sus resultados despertaban desconfianza.",
+      "C) Paz Soldán recurrió al mismo censo para recalcular las cifras.",
+      "D) no se conocía ni por aproximación la cantidad de habitantes peruanos.",
+      "E) el censo pro curó abarcar la realidad desagregada por estrato y género."
+    ],
+    "correct": 1,
+    "rationale": "La pobre organización mencionada por Paz Soldán, sumado al hecho de que no se distinguiera mujeres de niños, evidencia apresuramiento; el que Paz Soldán lanzara otra cifra connota desconfianza."
+  },
+  {
+    "type": "sentence_elimination",
+    "statement": "5. Si los censos en el Perú se hubiesen realizado indefectiblemente cada 30 años,",
+    "alternatives": [
+      "A) las críticas a los censos, como las de Paz Soldán, habrían sido muy comunes.",
+      "B) esto evidenciaría una política de derroche de todas las autoridades peruanas.",
+      "C) las cifras serían tan numerosas, lo que le restaría seriedad al análisis de datos.",
+      "D) seguiría siendo insuficiente para medir el crecimiento, los censos son anuales.",
+      "E) el Perú evidenciaría como política estatal el control del crecimiento poblacional"
+    ],
+    "correct": 4,
+    "rationale": "Al tener una distancia de 30 años ya se puede considerar como política de Estado llevar un control del crecimiento poblacional."
+  }
+]

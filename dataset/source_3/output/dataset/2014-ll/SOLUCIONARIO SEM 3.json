@@ -1,0 +1,747 @@
+[
+  {
+    "type": "synonyms_and_antonyms",
+    "statement": "El sinónimo contextual del vocablo LETAL es",
+    "alternatives": [
+      "A) abominable.",
+      "B) afrentoso.",
+      "C) fulminante.",
+      "D) pernicioso.",
+      "E) soporífero."
+    ],
+    "correct": 2,
+    "rationale": "Tratándose de una enfermedad, el adjetivo fulminante se aplica a aquella que causa muerte repentina."
+  },
+  {
+    "type": "synonyms_and_antonyms",
+    "statement": "La expresión A PIERNA SUELTA sugiere",
+    "alternatives": [
+      "A) diligencia.",
+      "B) determinación.",
+      "C) exuberancia.",
+      "D) liberalidad.",
+      "E) despreocupación."
+    ],
+    "correct": 4,
+    "rationale": "Los otros espejos dormían ajenos a la preocupación del espejo considerado neurótico."
+  },
+  {
+    "type": "synonyms_and_antonyms",
+    "statement": "El sinónimo contextual de ABU SIVOS es",
+    "alternatives": [
+      "A) acotados.",
+      "B) omnímodos.",
+      "C) solemnes.",
+      "D) onerosos.",
+      "E) inmerecidos."
+    ],
+    "correct": 1,
+    "rationale": "Un poder omnímodo lo abraza y comprende todo."
+  },
+  {
+    "type": "reading_comprehension",
+    "statement": "Supongamos que haya un análisis para detectar el cáncer con una fiabilidad del 98 por ciento; es decir, si uno tiene cáncer el análisis dará positivo el 98 por ciento de las veces, y sino lo tiene, dará negativo el 98 por ciento de las veces. Supongamos además que el 0,5 por ciento de la población –una de cada doscientas personas – padece verdaderamente cáncer. Imaginemos que uno se ha sometido al análisis y que su médico le informa con tono pesimista que ha dado positivo. ¿Hasta qué punto ha de deprimir se esa persona? Lo sorprendente del caso es que dicho paciente ha de mantenerse prudentemente optimista. El porqué de este optimismo lo encontraremos al determinar la probabilidad condicional de que uno tenga un cáncer sabiendo que el análisis ha dado positivo. Supongamos que se hacen 10.000 pruebas de cáncer. ¿Cuántas de ellas darán positivo? En promedio, 50 de estas 10.000 personas (el 0,5 por ciento de 10.000) tendrán cáncer, y como el 98 por ciento de ellas darán positivo, tendremos 49 análisis positivos. Por otra parte, el 2 por ciento de las 9.950 personas restantes, que no padecen cáncer, también darán positivo, con un total de 199 análisis positivos (0,02 × 9.950 = 199). Así, del total de 248 positivos (199+ 49 = 248), la mayoría (199) son falsos positivos, y la probabilidad condicional de padecer el cáncer sabiendo que se ha dado positivo es solo 49/248, ¡aproximadamente el 20 por ciento! (Hay que comparar este porcentaje relativamente bajo con la probabilidad condicional de dar positivo en el supuesto de que se tenga efectivamente el cáncer que, por hipótesis, es del 98 por ciento.) Este resultado inesperado en un test con una fiabilidad del 98 por ciento debería remecer la sesera de los legisladores cuando se plantean instituir análisis obligatorios o generalizados para detectar el consumo de drogas, el VIH o lo que sea. Someter a las personas que dan positivo a un estigma, y en especial cuando puede que la mayoría sean falsos positivos, es contraproducente y dañino.\n",
+    "questions": [
+      {
+        "statement": "El texto gira fundamentalmente entorno",
+        "alternatives": [
+          "A) al estigma al que se somete a algunas personas.",
+          "B) a la probabilidad de tener una enfermedad mortal.",
+          "C) al revelador concepto de probabilidad condicional.",
+          "D) a la nula fiabilidad del test para detectar el cáncer."
+        ],
+        "correct": 2,
+        "rationale": "La probabilidad condicional es un concepto que nos muestra que un paciente ha de mantenerse prudentemente optimista a pesar de haber dado positivo en una prueba determinada."
+      },
+      {
+        "statement": "La expresión REMECER LA SESERA tiene el sentido de",
+        "alternatives": [
+          "A) formular una ley.",
+          "B) criticar ferozmente.",
+          "C) hacer reflexionar.",
+          "D) agredir con violencia.",
+          "E) causar un dolor."
+        ],
+        "correct": 2,
+        "rationale": "El resultado expuesto debe invitar a los legisladores a la reflexión para evitar la estigmatización de algunas personas."
+      },
+      {
+        "statement": "Se colige que la probabilidad condicional",
+        "alternatives": [
+          "A) se calcula de la misma manera que la probabilidad convencional de la ocurrencia de un evento.",
+          "B) permite calcular la probabilidad de un evento determinado, restringido por la ocurrencia de otro.",
+          "C) alberga un error conceptual que imposibilita su aplicación a la ocurrencia de algunos eventos.",
+          "D) requiere un cálculo más sencillo que la probabilidad convencional de la ocurrencia de un evento.",
+          "E) se aplica de manera privativa al cálculo de la probabilidad de padecer enfermedades graves."
+        ],
+        "correct": 1,
+        "rationale": "En este caso, calculamos la probabilidad condicional de que uno tenga un cáncer sabiendo que el análisis ha dado positivo."
+      },
+      {
+        "statement": "Con respecto al segundo párrafo del texto, se deduce que los falsos positivos",
+        "alternatives": [
+          "A) tienen una alta probabilidad de ocurrencia.",
+          "B) carecen por completo de relevancia alguna.",
+          "C) no pueden calcularse de ninguna manera.",
+          "D) impiden el cálculo de los positivos reales.",
+          "E) ocurren menos que los positivos reales."
+        ],
+        "correct": 0,
+        "rationale": "Los falsos positivos tienen una probabilidad que se calcula dividiendo 199 entre 248."
+      },
+      {
+        "statement": "Si se hubiesen efectuado un millón de pruebas de cáncer y las demás condiciones citadas se conservaran,",
+        "alternatives": [
+          "A) la probabilidad de padecer cáncer sería mucho más alta que la probabilidad de tener VIH.",
+          "B) el concepto de probabilidad condicional perdería plausibilidad, ergo dejaría de tener aplicaciones.",
+          "C) la probabilidad condicional de padecer cáncer tras haber dado positivo sería menor que 49/248 .",
+          "D) la probabilidad condicional de padecer cáncer sabiendo que se ha dado positivo sería la misma .",
+          "E) la probabilidad condicional de tener cáncer habiendo dado positivo sería un poco más del 20%."
+        ],
+        "correct": 3,
+        "rationale": "Efectuando el cálculo correspondiente se observa que esta probabilidad se conserva en 49/248 ."
+      }
+    ]
+  },
+  {
+    "type": "sentence_elimination",
+    "statement": "I) Un equipo de investigadores de Estados Unidos ha creado un parche cutáneo que detecta si el usuario tiene problemas cardiovasculares. II) El parche cutáneo detecta el flujo de la sangre y la tasa de hidratación de la piel; luego, un algoritmo interpreta estos resultados. III) Este pequeño dispositivo móvil tiene un aspecto similar a la piel del ser humano y es capaz de advertir al usuario si está teniendo problemas cardiovasculares en esos momentos. IV) La forma de alertar al usuario de algún problema relativo a la salud del corazón es muy simple: el parche simplemente cambia de color. V) El parche cutáneo, invención de científicos estadounidenses, utiliza unos 3600 cristales líquidos que detectan el calor corporal controlando así los problemas potenciales.",
+    "alternatives": [
+      "A) II",
+      "B) I",
+      "C) III",
+      "D) V",
+      "E) IV"
+    ],
+    "correct": 1,
+    "rationale": "Se aplica el criterio de redundancia. I redunda con III, IV y V"
+  },
+  {
+    "type": "sentence_elimination",
+    "statement": "I) La primera persona en realizar un viaje en coche fue Bertha Ringer Benz, esposa de Karl Benz, el fabricante del primer coche del mundo. II) Bertha Ringer condujo sin decir nada el Patent Motorwagen que era creación de su marido el 5 de agosto de 1888. III) Patent Motorwagen fue un coche que contaba solo con tres ruedas y una sola marcha, alcanzando una velocidad máxima de entre 12 y 17 km/hora. IV) La proeza consistió en recorrer 109 km, una distancia que constituía un verdadero viaje, ya que hasta entonces el coche solo había sido probado en distancias cortas. V) El viaje no tuvo percances y supuso una buena inyección de marketing para el nuevo aparato conocido como Patent Motorwagen.",
+    "alternatives": [
+      "A) I",
+      "B) II",
+      "C) III",
+      "D) V",
+      "E) IV"
+    ],
+    "correct": 2,
+    "rationale": "Se aplica el criterio de impertinencia."
+  },
+  {
+    "type": "sentence_elimination",
+    "statement": "I) La función de las lágrimas no es sino proteger la superficie de la córnea, nutriénd ola y mejorando su calidad refractiva. II) Las glándulas lagrimales tienen el tamaño aproximado de una almendra y permiten que las lágrimas fluyan a través de unos delgados conductos. III) Las glándulas lagrimales están localizadas cerca del ángulo externo del ojo, y salen por dos pequeñas aberturas en los párpados. IV) La glándula lagrimales el principal secretor de lágrimas, ya que drena alrededor de 1 ml de lágrimas al día. V) Ante una agresión externa, la glándula lagrimal se pone a trabajar para evita r cualquier daño al ojo.",
+    "alternatives": [
+      "A) I",
+      "B) II",
+      "C) III",
+      "D) V",
+      "E) IV"
+    ],
+    "correct": 0,
+    "rationale": "Se aplica el criterio de impertinencia."
+  },
+  {
+    "type": "sentence_elimination",
+    "statement": "I) Según un estudio genético realizado por investigadores alemanes, las poblaciones femeninas han sido más numerosas que las masculinas a lo largo de la historia de la humanidad. II) Se comparó el cromosoma Y con el ADN mitocondrial de 623 varones de 51 poblaciones y el análisis mostró que había más mujeres que hombres antes de que los humanos migraran de África. III) Las mujeres habrían aportado una contribución genética mayor que los hombres a la población asiática, según una investigación dirigida por investigadores alemanes del Instituto Max Planck de Antropología Evolutiva de Leipzig. IV) Los investigadores comprobaron que en las poblaciones africanas que estudiaron había menos diversidad genética paternal, que pudo ser resultado directo de la expansión bantú hacia el este y sur de África. V) En muestras tomadas en América, los resultados iniciales sugieren también una mayor diversidad genética de la madre, lo que indica que había menos hombres que mujeres entre los colonizadores originales.",
+    "alternatives": [
+      "A) I",
+      "B) II",
+      "C) III",
+      "D) IV",
+      "E) V"
+    ],
+    "correct": 0,
+    "rationale": "Se aplica el criterio de impertinencia."
+  },
+  {
+    "type": "sentence_elimination",
+    "statement": "I) El Ig Nobel es una parodia creada en 1991 por Marc Abrahams que nacio con el propósito de evidenciar estudios científicos que van de lo absurdo a lo inútil, a pesar de toda la seriedad y el rigor con el que se realizan. II) Recientemente, el premio Ig Nobel de Física ha recaído sobre un equipo de investigadores japoneses por su \"interesante\" trabajo al descubrir el coeficiente de fricción de la cáscara de plátano al ser pisada. III) Por su trabajo Caracterización de la bacteria del ácido láctico aislado de excrementos de bebés como cultivo de potencial alimento probiótico ,un grupo de investigadoras españolas ha sido galardonado con Ig Nobel de Nutrición. IV) El premio Ig Nobel de Neurociencia ha ido a parar a un equipo chino -canadiense por su curiosa investigación que trataba de \"entender qué pasa en el cerebro de la gente que ve el rostro de Jesús en un trozo de tostada\". V) El premio Ig Nobel en la categoría Ciencia Ártica ha ido a parar a dos investigadores, uno de origen alemán y un noruego que probaron \"cómo reacciona un reno al ver humanos disfrazados de osos polares\".",
+    "alternatives": [
+      "A) II",
+      "B) III",
+      "C) IV",
+      "D) V",
+      "E) I"
+    ],
+    "correct": 4,
+    "rationale": "Se aplica el criterio de impertinencia."
+  },
+  {
+    "type": "sentence_elimination",
+    "statement": "1. I) Un equipo de investigadores de Estados Unidos ha creado un parche cutáneo que detecta si el usuario tiene problemas cardiovasculares. II) El parche cutáneo detecta el flujo de la sangre y la tasa de hidratación de la piel; luego, un algoritmo interpreta estos resultados. III) Este pequeño dispositivo móvil tiene un aspecto similar a la piel del ser humano y es capaz de advertir al usuario si está teniendo problemas cardiovasculares en esos momentos. IV) La forma de alertar al usuario de algún problema relativo a la salud del corazón es muy simple: el parche simplemente cambia de color. V) El parche cutáneo, invención de científicos estadounidenses, utiliza unos 3600 cristales líquidos que detectan el calor corporal controlando así los problemas potenciales.",
+    "alternatives": [
+      "A) II",
+      "B) I",
+      "C) III",
+      "D) V",
+      "E) IV"
+    ],
+    "correct": 1,
+    "rationale": "Se aplica el criterio de redundancia. I redunda con III, IV y V"
+  },
+  {
+    "type": "sentence_elimination",
+    "statement": "2. I) La primera persona en realizar un viaje en coche fue Bertha Ringer Benz, esposa de Karl Benz, el fabricante del primer coche del mundo. II) Bertha Ringer condujo sin decir nada el Patent Motorwagen que era creación de su marido el 5 de agosto 1888. III) Patent Motorwagen fue un coche que contaba solo con tres ruedas y una sola marcha, alcanzando una velocidad máxima de entre 12 y 17 km/hora. IV) La proeza consistió en recorrer 109 km, una distancia que constituía un verdadero viaje, ya que hasta entonces el coche solo había sido probado en distancias cortas. V) El viaje no tuvo percances y supuso una buena inyección de marketing para el nuevo aparato conocido como Patent Motorwagen.",
+    "alternatives": [
+      "A) I",
+      "B) II",
+      "C) III",
+      "D) V",
+      "E) IV"
+    ],
+    "correct": 2,
+    "rationale": "Se aplica el criterio de impertinencia."
+  },
+  {
+    "type": "sentence_elimination",
+    "statement": "3. I) La función de las lágrimas no es sino proteger la superficie de la córnea, nutriéndola y mejorando su calidad refractiva. II) Las glándulas lagrimales tienen el tamaño aproximado de una almendra y permiten que las lágrimas fluyan a través de unos delgados conductos. III) Las glándulas lagrimales están localizadas cerca del ángulo externo del ojo, y salen por dos pequeñas aberturas en los párpados. IV) La glándula lagrimales el principal secretor de lágrimas, ya que drena alrededor de 1 ml de lágrimas al día. V) Ante una agresión externa, la glándula lagrimal se pone a trabajar para evitar cualquier daño al ojo.",
+    "alternatives": [
+      "A) I",
+      "B) II",
+      "C) III",
+      "D) V",
+      "E) IV"
+    ],
+    "correct": 0,
+    "rationale": "Se aplica el criterio de impertinencia."
+  },
+  {
+    "type": "sentence_elimination",
+    "statement": "4. I) Según un estudio genético realizado por investigadores alemanes, las poblaciones femeninas han sido más numerosas que las masculinas a lo largo de la historia de la humanidad. II) Se comparó el cromosoma Y con el ADN mitocondrial de 623 varones de 51 poblaciones y el análisis mostró que había más mujeres que hombres antes de que los humanos migraran de África. III) Las mujeres habrían aportado una contribución genética mayor que los hombres a la población asiática, según una investigación dirigida por investigadores alemanes del Instituto Max Planck de Antropología Evolutiva de Leipzig. IV) Los investigadores comprobaron que en las poblaciones africanas que estudiaron había menos diversidad genética paterna, que pudo ser resultado directo de la expansión bantú hacia el este y sur de África. V) En muestras tomadas en América, los resultados iniciales sugieren también una mayor diversidad genética de la madre, lo que indica que había menos hombres que mujeres entre los colonizadores originales.",
+    "alternatives": [
+      "A) I",
+      "B) II",
+      "C) III",
+      "D) IV",
+      "E) V"
+    ],
+    "correct": 0,
+    "rationale": "Se aplica el criterio de impertinencia."
+  },
+  {
+    "type": "sentence_elimination",
+    "statement": "5. I) El Ig Nobel es una parodia creada en 1991 por Marc Abrahams que nacio con el propósito de evidenciar estudios científicos que van de lo absurdo a lo inútil, a pesar de toda la seriedad y el rigor con el que se realizan. II) Recientemente, el premio Ig Nobel de Física ha recaído sobre un equipo de investigadores japoneses por su \"interesante\" trabajo al descubrir el coeficiente de fricción de la cáscara de plátano al ser pisada. III) Por su trabajo Caracterización de la bacteria del ácido láctico aislado de excrementos de bebés como cultivo de potencial alimento probiótico ,un grupo de investigadoras españolas ha sido galardonado con Ig Nobel de Nutrición. IV) El premio Ig Nobel de Neurociencia ha ido a parar a un equipo chino -canadiense por su curiosa investigación que trataba de \"entender qué pasa en el cerebro de la gente que ve el rostro de Jesús en un trozo de tostada\". V) El premio Ig Nobel en la categoría Ciencia Ártica ha ido a parar a dos investigadores, uno de origen alemán y un noruego que probaron \"cómo reacciona un reno al ver humanos disfrazados de osos polares\".",
+    "alternatives": [
+      "A) II",
+      "B) III",
+      "C) IV",
+      "D) V",
+      "E) I"
+    ],
+    "correct": 4,
+    "rationale": "Se aplica el criterio de impertinencia."
+  },
+  {
+    "type": "sentence_elimination",
+    "statement": "6. I) El uso simultáneo de teléfonos celulares, computadores y demás dispositivos multimedia podría causar cambios estructurales en el cerebro, de acuerdo con un nuevo estudio . II) Los neurólogos de la Universidad de Sussex determinaron que los que utilizan varios dispositivos al mismo tiempo presentan una densidad menor de materia gris en una región del cerebro, en comparación con los que utilizan un solo dispositivo ocasional mente. III) Los científicos analizaron la estructura cerebral de 75 adultos mediante tomografías, quienes previamente habían respondido a un cuestionario acerca de su uso de dispositivos multimedia (celulares, computadoras, televisión entre otros). IV) Encontraron que, independientemente de la personalidad, las personas que utilizaban un mayor número de dispositivos simultáneamente tenían menor densidad de materia gris en la corteza cingulada anterior (ACC). V) La corteza cingulada anterior parece que juega un rol en la regulación de la presión sanguínea, el ritmo cardíaco, la toma de decisiones, la empatía y las emociones.",
+    "alternatives": [
+      "A) II",
+      "B) III",
+      "C) IV",
+      "D) V",
+      "E) I"
+    ],
+    "correct": 4,
+    "rationale": "SOL.E: Se aplica el criterio de impertinencia."
+  },
+  {
+    "type": "sentence_elimination",
+    "statement": "7. I) Investigadores del Instituto Salk para Estudios Biológicos han descubierto que la telomerasa contaría con una especie de interruptor que la \"enciende\" o \"apaga\". II) La producción de telomerasa, una enzima que renueva los telómeros, permite la división indefinida de las células. III) Se cree que este inter ruptor ayudaría al organismo a mantener los niveles de telomerasa lo suficientemente bajos para evitar la división descontrolada de células. IV) Vicki Lundbland, autor principal del estudio, asegura que los científicos podrían llegar a manipular este inter ruptor, ralentizando el proceso de envejecimiento. V) Según los investigadores, el avance en el conocimiento del interruptor podría proporcionar un mejor entendimiento acerca de las células cancerosas.",
+    "alternatives": [
+      "A) II",
+      "B) III",
+      "C) IV",
+      "D) V",
+      "E) I"
+    ],
+    "correct": 0,
+    "rationale": "Se aplica el criterio de impertinencia."
+  },
+  {
+    "type": "sentence_elimination",
+    "statement": "8. I) La fiebre chikungunya se describió por primera vez durante un brote ocurrido en el sur de Tanzania en 1952. II) La fiebre chikungunya se caracteriza por la aparición súbita de fiebre, generalmente acompañada de dolores articulares. III) Otros síntomas frecuentes de la fiebre chikungunya son dolores musculares, dolores de cabeza, náuseas, cansancio y erupciones cutáneas. IV) Los dolores articulares que se presentan con la fiebre chikungunya pueden durar varios meses o incluso años. V) Se han descrito casos ocasionales con complicaciones oculares, neurológicas y cardiacas, y también con molestias gastrointestinales en afectados con la fiebre chikungunya.",
+    "alternatives": [
+      "A) II",
+      "B) III",
+      "C) IV",
+      "D) V",
+      "E) I"
+    ],
+    "correct": 4,
+    "rationale": "SOL.E: Se aplica el criterio de impertinencia."
+  },
+  {
+    "type": "reading_comprehension",
+    "statement": "El psicoanálisis surgió en 1900 y ha sido discutido como una contrarrevolución, con ideas que no están apoyadas por datos experimentales y no casan con la psicología experimental o la neurociencia. En dos categorías, las ideas que pueden ser probadas y las que no pueden. Las últimas son no científicas. El conocimiento implícito (o tácito) está siendo investigado experimentalmente, mientras Freud afirmó que el inconsciente no es descubierto por él, etc.",
+    "questions": [
+      {
+        "statement": "1. ¿Cuál es el mejor resumen del texto?",
+        "alternatives": [
+          "A) Las hipótesis de Freud que sí son pasibles de probarse han resultado refutadas por la psicología experimental .",
+          "B) El psicoanálisis se caracteriza por estar plagado de hipótesis que tienen el inconveniente de no poder ponerse a prueba.",
+          "C) La hipótesis de la existencia de procesos mentales inconscientes es el aporte más significativo ofrecido por el psicoanálisis .",
+          "D) El psicoanálisis conmocionó el panorama científico de una época y ostenta carácter revolucionario por su originalidad.",
+          "E) Las hipótesis originales del psicoanálisis son disparatadas mientras que su única hipótesis plausible no es original."
+        ],
+        "correct": 4,
+        "rationale": "El autor critica acremente al psicoanálisis. Sostiene que sus ideas originales son absurdas y que las que no son absurdas no le pertenecen."
+      },
+      {
+        "statement": "2. En el primer párrafo, la expresión NO CASAN CON connota",
+        "alternatives": [
+          "A) incomprensión.",
+          "B) estupefacción.",
+          "C) soltería.",
+          "D) incompatibilidad.",
+          "E) excentricidad."
+        ],
+        "correct": 3,
+        "rationale": "Las ideas originales del psicoanálisis no casan con la psicología experimental ola neurociencia, es decir, no reciben el respaldo de estas últimas ."
+      },
+      {
+        "statement": "3. Se infiere que el autor concibe algunas hipótesis de Freud como fantasías psicoanalíticas",
+        "alternatives": [
+          "A) basándose en las contradicciones entre estas hipótesis.",
+          "B) valiéndose del experimento como herramienta de control.",
+          "C) pues, a diferencia de este último, aquel no tiene renombre.",
+          "D) debido a la gran popularidad de que goza el psicoanálisis.",
+          "E) sin ofrecer argumentos para sostener su punto de vista."
+        ],
+        "correct": 1,
+        "rationale": "las fantasías psicoanalíticas caen en dos categorías: las que pueden y las que no pueden ser puestas a prueba. Las últimas son no c ientíficas, mientras muchas de las primeras han sido refutadas por la psicología experimental."
+      },
+      {
+        "statement": "4. Respecto del psicoanálisis, es incompatible aseverar que",
+        "alternatives": [
+          "A) constituye una contrarrevolución en opinión del autor del texto .",
+          "B) presenta hipótesis plausibles así como hipótesis descabelladas.",
+          "C) se concibió como una disciplina respaldada por la neurociencia.",
+          "D) carece de originalidad cuando se trata de hipótesis plausibles.",
+          "E) considera que ver espectáculos violentos tiene un efecto liberador."
+        ],
+        "correct": 2,
+        "rationale": "El mismo Freud declaró que el psicoanálisis nada tiene que aprender de la psicología experimental o de la neurociencia."
+      },
+      {
+        "statement": "5. Si el descubrimiento del inconsciente fuese exclusividad de Freud,",
+        "alternatives": [
+          "A) el método científico tendría que reformularse completamente.",
+          "B) Helmholtz sería el más acérrimo detractor del psicoanálisis .",
+          "C) el autor tendría que reconocer cierta valía en el psicoanálisis.",
+          "D) las hipótesis descabelladas adquirirían una gran plausibilidad.",
+          "E) el autor se convertiría en un entusiasta difusor del psicoanálisis."
+        ],
+        "correct": 2,
+        "rationale": "El autor sostiene que la única hipótesis verdadera es la del inconsciente, pero esta hipótesis no aparece con Freud, sino que es anterior a él, por lo que no es original."
+      }
+    ]
+  },
+  {
+    "type": "reading_comprehension",
+    "statement": "Una de las principales características de los analfabetos matemáticos o personas anuméricas es la tendencia a sobrestimar la frecuencia de las coincidencias. Generalmente le dan mucha importancia a todo tipo de correspondencias, y, en cambio, le dan muy poca importancia a evidencias estadísticas menos relumbrantes, pero absolutamente concluyentes. Si adivinan el pensamiento de otra persona, o tienen un sueño que parece que ha ocurrido, o leen que, pongamos por caso, la secretaria del presidente Kennedy apellidaba Lincoln y que la secretaria del presidente Lincoln apellidaba Kennedy, lo consideran una prueba de cierta armonía maravillosa y misteriosa que rige de algún modo su universo personal. Pocas experiencias me descorazonan más que encontrarme con alguien que parece inteligente y abierto, que de pronto me pregunta por mi signo del zodiaco y que luego empieza a encontrar características de mi personalidad que encajan con ese signo, independientemente de qué signo le haya dicho yo. El siguiente resultado, bien conocido en probabilidad, es una buena ilustración de la sorprendente probabilidad de las coincidencias. Incluyendo el 29 de febrero, el año tiene 366 días. Tendríamos que reunir 367 personas para estar seguros de que por lo menos dos personas del grupo han nacido el mismo día. Ahora bien, ¿qué pasa si nos contentamos con tener una probabilidad de solo el 50%? ¿Cuántas personas debe haber en el grupo para que la probabilidad de que por al menos dos de ellas hayan nacido el mismo día sea una mitad? A primera vista uno diría que 183.5, esto es, 184 personas. La respuesta sorprendente es que solo hacen falta 23. En otras palabras, exactamente la mitad de las veces que se reúnen veintitrés personas elegidas al azar, dos o más de ellas han nacido el mismo día.",
+    "questions": [
+      {
+        "statement": "1. ¿Cuál es el tema central del texto?",
+        "alternatives": [
+          "A) Las múltiples interpretaciones de una coincidencia",
+          "B) La interpretación tendenciosa de las coincidencias",
+          "C) La astrología como nítido ejemplo de seudociencia",
+          "D) El estudio riguroso de la teoría de la probabilidad",
+          "E) La probabilidad de encontrar individuos coetáneos"
+        ],
+        "correct": 1,
+        "rationale": "Se señala que se sobrestiman las coincidencias, llegando incluso a creer que son una manifestación de cierta armonía maravillosa y misteriosa ."
+      },
+      {
+        "statement": "2. La idea principal del texto afirma que",
+        "alternatives": [
+          "A) la teoría de la probabilidad es un campo de estudio riguroso.",
+          "B) los analfabetos matemáticos son difusores de la astrología.",
+          "C) la creencia en las predicciones del horóscopo es irracional.",
+          "D) los individuos anuméricos sobrevaloran las coincidencias.",
+          "E) las personas anuméricas de stacan por su talante crítico."
+        ],
+        "correct": 3,
+        "rationale": "El texto vincula el anumerismo con la sobrestimación infundada de las coincidencias."
+      },
+      {
+        "statement": "3. En el segundo párrafo, la palabra DESCORAZONAN connota",
+        "alternatives": [
+          "A) despecho",
+          "B) dilección",
+          "C) apostasía",
+          "D) renuencia",
+          "E) decepción"
+        ],
+        "correct": 4,
+        "rationale": "El autor muestra el contraste entre la aparente inteligencia de su interlocutor hipotético y la creencia en supercherías del mismo."
+      },
+      {
+        "statement": "4. Se infiere que la coincidencia alusiva a las fechas de cumpleaños",
+        "alternatives": [
+          "A) sorprende por el pequeño número de personas requeridas para que ocurra.",
+          "B) sería interpretada como una señal por alguien que sepa de probabilidades.",
+          "C) muestra la incapacidad de la teoría de la probabilidad para explicarlo todo.",
+          "D) es asombrosa porque varias personas cumplen años el veintiocho de julio.",
+          "E) constituye una muestra del providencialismo sostenido por el autor del texto."
+        ],
+        "correct": 0,
+        "rationale": "Una persona que ignora el concepto de probabilidad puede creer que al tratarse de una reunión de solo veintitrés personas, la coincidencia en los cumpleaños de dos o más sujetos revela alguna forma de armonía mágica."
+      },
+      {
+        "statement": "5. Si las personas interiorizaran aceptablemente el concepto de probabilidad,",
+        "alternatives": [
+          "A) la matemática adquiriría el caro estatus de ciencia empírica.",
+          "B) las predicciones astrológicas habrían de adquirir infalibilidad.",
+          "C) la información seudocientífica desaparecería definitivamente.",
+          "D) desconfiarían inclusive de los resultados de las matemáticas.",
+          "E) tendrían menor predisposición a sobrestimar las coincidencias."
+        ],
+        "correct": 4,
+        "rationale": "El texto sostiene que la falta de conocimiento y la carencia de espíritu crítico nos incitan a creer de manera infundada en la predestinación."
+      },
+      {
+        "statement": "6. Una idea incompatible con lo sostenido por el autor es que",
+        "alternatives": [
+          "A) si alguien sueña con un accidente que días después ocurre, esto no se puede explicar científicamente.",
+          "B) a menor conocimiento matemático más probable es que incurran las personas en explicaciones de carácter pseudocientífico.",
+          "C) no se requiere contar con 184 personas para que sea probable que dos de las personas del grupo hayan nacido el mismo día.",
+          "D) los analfabetos matemáticos suelen impresionarse por las más triviales coincidencias.",
+          "E) si alguien te pregunta por tu signo zodiacal es probable que no sepa de probabilidades."
+        ],
+        "correct": 0,
+        "rationale": "Que uno sueñe con un evento que ocurre frecuentemente, como es el caso de un accidente automovilístico, es una coincidencia. Este tipo de casos y otros es lo que justamente el autor pretender explicar científicamente."
+      }
+    ]
+  },
+  {
+    "type": "verbal_series",
+    "statement": "Agravio, injuria, ofensa,",
+    "alternatives": [
+      "A) infamia.",
+      "B) doblez.",
+      "C) ruin dad.",
+      "D) baldón.",
+      "E) perfidia."
+    ],
+    "correct": 3,
+    "rationale": "Serie verbal sinonímica"
+  },
+  {
+    "type": "verbal_series",
+    "statement": "Cavilar, reflexionar, discurrir,",
+    "alternatives": [
+      "A) concurrir.",
+      "B) preterir.",
+      "C) emerger.",
+      "D) inhibir.",
+      "E) cogitar."
+    ],
+    "correct": 4,
+    "rationale": "Serie verbal sinonímica"
+  },
+  {
+    "type": "verbal_series",
+    "statement": "Mutilación, corte, cercenadura,",
+    "alternatives": [
+      "A) ablación .",
+      "B) execración.",
+      "C) deslinde.",
+      "D) afectación.",
+      "E) inoculación."
+    ],
+    "correct": 0,
+    "rationale": "Serie verbal sinonímica"
+  },
+  {
+    "type": "verbal_series",
+    "statement": "Avenir, disentir; fustigar, censurar; aunar, disgregar; hesitar,",
+    "alternatives": [
+      "A) rutilar.",
+      "B) barruntar.",
+      "C) vacilar.",
+      "D) aterir.",
+      "E) incordiar."
+    ],
+    "correct": 2,
+    "rationale": "Serie verbal mixta. Antonimia, sinonimia, antonimia, sinonimia"
+  },
+  {
+    "type": "verbal_series",
+    "statement": "Morigerar, moderar, mesurar",
+    "alternatives": [
+      "A) incidir.",
+      "B) rebatir.",
+      "C) acuciar.",
+      "D) templar.",
+      "E) desasosegar."
+    ],
+    "correct": 3,
+    "rationale": "Serie verbal sinonímica"
+  },
+  {
+    "type": "verbal_series",
+    "statement": "Sobornable, deshonesto, corruptible,",
+    "alternatives": [
+      "A) venal.",
+      "B) montara z.",
+      "C) impoluto.",
+      "D) insidioso.",
+      "E) farisaico."
+    ],
+    "correct": 0,
+    "rationale": "Serie verbal sinonímica"
+  },
+  {
+    "type": "verbal_series",
+    "statement": "Denuesto, diatriba; pericia, bisoñez; iniquidad, injusticia;",
+    "alternatives": [
+      "A) impudicia, denuedo.",
+      "B) inverecundia, rubor.",
+      "C) arraigo, predicamento.",
+      "D) retahíla, cadencia.",
+      "E) cercanía, propincuidad."
+    ],
+    "correct": 1,
+    "rationale": "Serie verbal mixta. Sinonimia, antonimia, sinonimia, antonimia"
+  },
+  {
+    "type": "verbal_series",
+    "statement": "Pecuniario, monetario, económico,",
+    "alternatives": [
+      "A) heurístico.",
+      "B) dilatorio.",
+      "C) vejatorio.",
+      "D) aforístico.",
+      "E) crematístico."
+    ],
+    "correct": 4,
+    "rationale": "Serie verbal sinonímica"
+  },
+  {
+    "type": "verbal_series",
+    "statement": "Imputar, atribuir, inculpar",
+    "alternatives": [
+      "A) infligir.",
+      "B) manumitir.",
+      "C) achacar.",
+      "D) impeler.",
+      "E) rescindir."
+    ],
+    "correct": 2,
+    "rationale": "Serie verbal sinonímica"
+  },
+  {
+    "type": "verbal_series",
+    "statement": "Abyecto, noble; salaz, casto; altruista, egoísta;",
+    "alternatives": [
+      "A) contuso, indemne.",
+      "B) inmarcesible, inaudito.",
+      "C) veraz, verosímil.",
+      "D) ingente, exuberante.",
+      "E) altivo, encastillado."
+    ],
+    "correct": 0,
+    "rationale": "Serie verbal que presenta pares de antónimos ."
+  },
+  {
+    "type": "reading_comprehension",
+    "statement": "No es la literatura la que emponzoña la vida, sino al revés: los libros que fabulan los escritores están llenos de los fantasmas que nos habitan y que necesitamos sacarnos de encima y mostrar a plena luz, para no asfixiarnos con ellos adentro y para que nuestra vida nos parezca más vivible. Somos nosotros, no los libros, los que, en el secreto de nuestra intimidad, prohijamos aquellos deseos locos y sueños excesivos, a veces ignominiosos, que llenan de fiebre y espanto ciertas historias literarias. Yo lo explico mal, pero hay pensadores lúcidos, como George Bataille, que en La literatura y el mal, por ejemplo, lo razonaron con luminosa claridad. Los seres humanos estamos dotados de una imaginación y unos deseos que nos exigen vivir más, y mejor o peor de lo que vivimos, pero, en todo caso, de una manera distinta –más intensa, más temeraria, más insana – a aquella que la suerte nos deparó. La literatura nació para que esa imposibilidad fuera posible, para que, gracias a la ficción, viviéramos todo aquello que las limitaciones y prohibiciones de la vida real nos impiden vivir. Y, por eso, la literatura está plagada de aventuras –incluso, de atroces aventuras – que podemos vivir vicariamente, gracias al hechizo del arte, en la pura ilusión. Esta vida ficticia nos completa, nos devuelve todo aquello que debió ser cercenado de nuestra vida –la dimensión instintiva, hambrienta y destructiva de nuestra personalidad – para que la coexistencia social fuera posible, y nos",
+    "questions": [
+      {
+        "statement": "La idea principal del texto asevera que",
+        "alternatives": [
+          "A) la literatura maldita es de fácil factura pero tiene un enorme público cautivo.",
+          "B) la literatura endulza con sus historias nuestra existencia miserable y vio lenta.",
+          "C) el impacto de las ficciones literarias depende de la celebridad de sus autores.",
+          "D) las ficciones literarias monstruosas tienen un rol profiláctico para la sociedad.",
+          "E) los monstruos de la literatura son una representación de nuestros defectos."
+        ],
+        "correct": 3,
+        "rationale": "La fantasía literaria produce monstruos pero ello es una liberación catártica para la colectividad."
+      },
+      {
+        "statement": "EL adverbio VICARIAMENTE equivale en el texto a la expresión",
+        "alternatives": [
+          "A) “de manera sumamente reflexiva”.",
+          "B) “con una intensidad insospechada”.",
+          "C) “como si fueran nuestras sin serlo”.",
+          "D) “escogiendo las más convenientes”.",
+          "E) “experimentando gran sufrimiento”."
+        ],
+        "correct": 2,
+        "rationale": "El vicario es el que tiene las veces, poder y facultades de otra persona ola sustituye."
+      },
+      {
+        "statement": "Es incompatible afirmar que las creaciones literarias perversas",
+        "alternatives": [
+          "A) son resultado de nuestros deseos excesivos.",
+          "B) son una amenaza para la convivencia social.",
+          "C) pueden ser extremadamente despreciables.",
+          "D) son una forma de catarsis para la sociedad.",
+          "E) cumplen una función realmente apreciable."
+        ],
+        "correct": 1,
+        "rationale": "Las ficciones literarias monstruosas permiten expulsar nuestros demonios para que nuestra vida sea más satisfactoria."
+      },
+      {
+        "statement": "Se puede inferir que la literatura",
+        "alternatives": [
+          "A) posee la capacidad de incitar crímenes abominables.",
+          "B) inhibe los deseos más turbios y recónditos del hombre.",
+          "C) es un medio para luchar contra nuestra insatisfacción.",
+          "D) concibe exclusivamente historias de ficción perversas.",
+          "E) revela únicamente lo más sublime del espíritu humano."
+        ],
+        "correct": 2,
+        "rationale": "Las personas estamos dotadas de unos deseos que nos exigen vivir más, y mejor o peor de lo que vivimos, pero, en todo caso, de una manera distinta a aquella que la suerte nos deparó."
+      },
+      {
+        "statement": "Si estuviese vedado escribir atrocidades de ficción,",
+        "alternatives": [
+          "A) las obras literarias mejorarían en lo que respecta a la calidad.",
+          "B) nuestras conductas violentas harían explosión en la vida real.",
+          "C) la perpetración de crímenes reales disminuiría notablemente.",
+          "D) los críticos habrían perdido la facultad para enjuiciar una obra.",
+          "E) la convivencia social se caracterizaría por una gran armonía."
+        ],
+        "correct": 1,
+        "rationale": "El autor sostiene que las ficciones monstruosas evitan la materialización de acciones destructivas reales."
+      }
+    ]
+  },
+  {
+    "type": "reading_comprehension",
+    "statement": "imaginación y unos deseos que nos exigen vivir más, y mejor o peor de lo que vivimos, pero, en todo caso, de una manera distinta –más intensa, más temeraria, más insana – a aquella que la suerte nos deparó. La literatura nació para que esa imposibilidad fuera posible, para que, gracias a la ficción, viviéramos todo aquello que las limitaciones y prohibiciones de la vida real nos impiden vivir. Y, por eso, la literatura está plagada de aventuras –incluso, de atroces aventuras – que podemos vivir vicariamente, gracias al hechizo del arte, en la pura ilusión. Esta vida ficticia nos completa, nos devuelve todo aquello que debió ser cercenado de nuestra vida –la dimensión instintiva, hambrienta y destructiva de nuestra personalidad – para que la coexistencia social fuera posible, y nos ideas; por el contrario, la libera de ellas, y de los miedos y frustraciones enquistada s en los sótanos de la personalidad, donde se cuecen muchas conductas violentas. La fantasía en libertad \"produce monstruos\", sí, pero ello es una liberación catártica para la colectividad. Es, más bien, cuando se reprime a estos fantasmas que ellos irrump en en la vida corriente en acciones destructivas.",
+    "questions": [
+      {
+        "statement": "La idea principal del texto asevera que",
+        "alternatives": [
+          "A) la literatura maldita es de fácil factura pero tiene un enorme público cautivo.",
+          "B) la literatura endulza con sus historias nuestra existencia miserable y vio lenta.",
+          "C) el impacto de las ficciones literarias depende de la celebridad de sus autores.",
+          "D) las ficciones literarias monstruosas tienen un rol profiláctico para la sociedad.",
+          "E) los monstruos de la literatura son una representación de nuestros defectos."
+        ],
+        "correct": 3,
+        "rationale": "La fantasía literaria produce monstruos pero ello es una liberación catártica para la colectividad."
+      },
+      {
+        "statement": "EL adverbio VICARIAMENTE equivale en el texto a la expresión",
+        "alternatives": [
+          "A) “de manera sumamente reflexiva”.",
+          "B) “con una intensidad insospechada”.",
+          "C) “como si fueran nuestras sin serlo”.",
+          "D) “escogiendo las más convenientes”.",
+          "E) “experimentando gran sufrimiento”."
+        ],
+        "correct": 2,
+        "rationale": "El vicario es el que tiene las veces, poder y facultades de otra persona ola sustituye."
+      },
+      {
+        "statement": "Es incompatible afirmar que las creaciones literarias perversas",
+        "alternatives": [
+          "A) son resultado de nuestros deseos excesivos.",
+          "B) son una amenaza para la convivencia social.",
+          "C) pueden ser extremadamente despreciables.",
+          "D) son una forma de catarsis para la sociedad.",
+          "E) cumplen una función realmente apreci ble."
+        ],
+        "correct": 1,
+        "rationale": "Las ficciones literarias monstruosas permiten expulsar nuestros demonios para que nuestra vida sea más satisfactoria."
+      },
+      {
+        "statement": "Se puede inferir que la literatura",
+        "alternatives": [
+          "A) posee la capacidad de incitar crímenes abominables.",
+          "B) inhibe los deseos más turbios y recónditos del hombre.",
+          "C) es un medio para luchar contra nuestra insatisfacción.",
+          "D) concibe exclusivamente historias de ficción perversas.",
+          "E) revela únicamente lo más sublime del espíritu humano."
+        ],
+        "correct": 2,
+        "rationale": "Las personas estamos dotadas de unos deseos que nos exigen vivir más, y mejor o peor de lo que vivimos, pero, en todo caso, de una manera distinta a aquella que la suerte nos deparó."
+      },
+      {
+        "statement": "Si estuviese vedado escribir atrocidades de ficción,",
+        "alternatives": [
+          "A) las obras literarias mejorarían en lo que respecta a la calidad.",
+          "B) nuestras conductas violentas harían explosión en la vida real.",
+          "C) la perpetración de crímenes reales disminuiría notablemente.",
+          "D) los críticos habrían perdido la facultad para enjuiciar una obra.",
+          "E) la convivencia social se caracterizaría por una gran armonía."
+        ],
+        "correct": 1,
+        "rationale": "El autor sostiene que las ficciones monstruosas evitan la materialización de acciones destructivas reales."
+      }
+    ]
+  },
+  {
+    "type": "reading_comprehension",
+    "statement": "Hace 75 años empezó la II Guerra Mundial con la invasión nazi de Polonia. El asedio de Varsovia duró casi todo el mes de septiembre, bombardeada por aire y cercada por tierra. La ciudad capituló fundamentalmente por la situación de la población civil, exhausta y horrorizada por los bombardeos a objetivos civiles. No podían entender cómo escuelas o mercados pudieran ser arrasados sin piedad por los alemanes. El miedo se extendió a la misma velocidad de los proyectiles . Según estudios que han salido a la luz recientemente, la Luftwaffe ensayó esta estrategia de bombardeo indiscriminado en Guernica dos años antes, en abril de 1937, a una escala mucho menor, pero el procedimiento utilizado por la aviación fue el mismo. Se lanzaron entre 31 y 41 toneladas de bombas sobre Guernica. La ciudad quedó casi totalmente arrasada, tan solo el 1% de los edificios no fueron afectados. Pero estos mismos estudios han sacado a la luz algo todavía más macabro. El bombardeo de Guernica fue , en realidad, un regalo de Göring a Adolf Hitler. Hermann Göring, comandante supremo de la Luftwaffe, había planeado muy bien cada detalle. El Führer cumplía años en abril. ¿Qué mejor regalo que una película que probase el poder imparable de la fuerza aérea alemana? Se la exhibiría en Berlín el mismo día de su 47º cumpleaños. Después de ver aquella filmación, Hitler no tendría ninguna duda de la imbbatibilidad de su ejército y Göring quitaría de en medio a todos sus competidores para, por qué no, llegar a s er ministro de Defensa. Así, el viejo aviador nazi encomendó la organización del ataque al coronel Wolfram von Richthofen, quien lo programó metódicamente. Debía de ser a mediados de mes, pocos días antes del cumpleaños del Führer. La operación la llevaría a cabo la Legión Cóndor, dirigida por el general Hugo Sperrle. Sin embargo, las cosas no salieron como retrasar unos días. El dictador cumplía años el 20 de abril y, finalmente, el bombardeo de Guernica fue el 26. Aun llegado con retraso, Hitler se entusiasmó con el regalo de su lugarteniente, aunque no lo suficiente como para nombrarlo ministro de Defensa. Hitler ya había asignado el puesto a otra persona: a sí mismo.",
+    "questions": [
+      {
+        "statement": "¿Cuál es la mejor síntesis del texto?",
+        "alternatives": [
+          "A) El nazismo no tuvo piedad por los civiles que fueron aniquilados tanto en Guernica como después en Varsovia.",
+          "B) El bombardeo de Guernica en 1937 fue de un nivel tan destructivo que la ciudad quedó casi totalmente arrasada .",
+          "C) Göring sufrió un terrible fiasco al no ser nombrado por Adolf Hitler como ministro de Defensa del nazismo.",
+          "D) El bombardeo de Guernica llevado a cabo por la Luftwaffe tuvo similitudes con el bombardeo de Varsovia.",
+          "E) El bombardeo de Guernica, con el que Göring quiso ganar la gracia de Hitler, fue un ensayo del ataque a Polonia."
+        ],
+        "correct": 4,
+        "rationale": "Se destaca dos hallazgos cruciales: Guernica fue un ensayo de Polonia y la intención de Göring de congraciarse con Hitler."
+      },
+      {
+        "statement": "En el primer párrafo, la palabra CAPITULAR significa",
+        "alternatives": [
+          "A) destruir.",
+          "B) sobrevivir.",
+          "C) resistir.",
+          "D) rendirse.",
+          "E) enfrentarse."
+        ],
+        "correct": 3,
+        "rationale": "Varsovia se entregó al enemigo alemán en el contexto de la Segunda Guerra Mundial."
+      },
+      {
+        "statement": "Es incompatible afirmar que el bombardeo de Guernica",
+        "alternatives": [
+          "A) fue un entrenamiento para los alemanes.",
+          "B) estuvo a punto de destruirla por completo.",
+          "C) se llevó a cabo de una manera impecable.",
+          "D) fue visto por Göring como una oportunidad.",
+          "E) estaba relacionado con la II Guerra Mundial."
+        ],
+        "correct": 2,
+        "rationale": "Los suministros no llegaron a tiempo y el bombardeo de Guernica se tuvo que retrasar unos días."
+      },
+      {
+        "statement": "Se desprende del texto que los alemanes",
+        "alternatives": [
+          "A) se distinguían por la improvisación de sus ataques.",
+          "B) usaron un notable mayor poder bélico en Guernica.",
+          "C) espiaban a Göring, supremo líder de la Luftwaffe .",
+          "D) carecieron de escrúpulos al desplegar sus ataques.",
+          "E) rechazaron a Adolf Hitler como ministro de Defensa."
+        ],
+        "correct": 3,
+        "rationale": "Era horroroso atestiguar cómo escuelas o mercados fueron arrasados sin piedad por los alemanes. El miedo se ext tendió velozmente."
+      },
+      {
+        "statement": "Si los alemanes no hubiesen bombardeado objetivos civiles en Polonia,",
+        "alternatives": [
+          "A) el bombardeo de Guernica no habría ocurrido.",
+          "B) Varsovia habría ofrecido una resistencia mayor.",
+          "C) Göring habría logrado ser ministro de Defensa.",
+          "D) los nazis habrían ganado la II Guerra Mundial.",
+          "E) los polacos habrían decidido invadir Alemania."
+        ],
+        "correct": 1,
+        "rationale": "La historia indica que Varsovia capituló fundamentalmente por el horror."
+      }
+    ]
+  }
+]

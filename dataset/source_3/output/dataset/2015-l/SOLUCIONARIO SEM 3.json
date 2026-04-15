@@ -1,0 +1,453 @@
+[
+  {
+    "type": "reading_comprehension",
+    "statement": "Tiene un alto poder antioxidante, ayuda a desintoxicar el hígado, a producir colágeno, contribuye a reducir las alergias y previene de resfriados. La vitamina C tiene un gran poder para facilitar el bienestar de nuestro organismo y mejorar nuestra salud. Todos esos beneficios se recogen en la guía «Vitaminas y complementos que alargan la vida» (Colección Objetivo Bienestar). Estas son algunas de sus recomendaciones:\n1. La vitamina C es un potente antioxidante que ayuda a la creación de colágeno en la piel. A medida que el ser humano envejece la piel va perdiendo esta sustancia. Eso provoca que la piel vaya poco a poco tornándose más flácida y arrugándose. La vitamina C activa la generación de colágeno y elastina lo que ayuda a combatir las arrugas y dar mayor elasticidad a la piel.\nComo antioxidante contribuye a la salud del cabello y de las uñas. Su uso tópico en crema reduce el tiempo de cicatrización de una herida.\n2. Beneficios saludables: reduce el nivel de colesterol; elimina metales de la sangre; minimiza las consecuencias del tabaco; activa las defensas contra los resfriados y refuerza el sistema inmunológico; ayuda a combatir el estrés y la ansiedad; ayuda a reducir el riesgo de cataratas y contribuye a la metabolización de otras vitaminas.\n3. La vitamina C es muy sensible a la luz, el oxígeno y la temperatura. Por eso, cuando se almacena al mayor contenido de vitamina C y los vegetales al vapor.\n4. Carecer de vitamina C provoca cansancio, dolores en las articulaciones, escorbuto y contribuye a la degeneración macular en personas mayores.\n5. Dónde encontrarla: la vitamina C se encuentra en fresas, kiwi, guayaba, naranja, grosellas negras, melón, patatas, tomate, pimiento, perejil, caqui, soja, coles de Bruselas, limón, coliflor, espinacas, rábano.\n6. Dosis recomendada: en esto no se ponen de acuerdo los científicos. Mientras en España se aconseja unos 80 mg al día, en Europa, 60 mg. Hay sectores de población (fumadores, consumidores de alcohol y personas que realizan grandes esfuerzos) que necesitan una dosis diaria mayor.\nUn kiwi al día aporta la cantidad diaria de vitamina C. La guía recomienda empezar el día tomando un zumo natural de naranja recién exprimido. Y al beber agua, exprimir un limón en una botella de agua.\nPerez Barco, M. (27 de Febrero de 2015). Todo lo que la vitamina C puede hacer por ti. ABC. Recuperado el 04 de marzo de 2015 de ABC.es: http://www.abc.es/familia-vida-sana/20150227/abci -poder -vitaminac -serhumano -201501161331.html",
+    "questions": [
+      {
+        "statement": "¿Cuál es la mejor síntesis del texto?",
+        "alternatives": [
+          "A) La guía «Vitaminas y complemento s que alargan la vida» recomienda el consumo de vitamina C por sus distintos factores benéficos y amplio espectro de eliminación de enfermedades.",
+          "B) La vitamina C solo obtenida del jugo de naranja, mejora la salud, rejuvenece a las personas mayores y genera factores de crecimiento en los niños; se recomienda su consumo.",
+          "C) La vitamina C tiene facultades antioxidantes, desintoxicantes, mejora la salud de la piel y uñas, previene enfermedades y alergias, combate el estrés y la ansiedad; su carencia es perjudicial.",
+          "D) La vitamina C se encuentra en fresas, kiwi, guayaba, naranja, grosellas negras, melón, patatas, tomate, pimiento, perejil, caqui, soja coles de Bruselas, limón, coliflor, espinacas, rábano.",
+          "E) La vitamina C debe ser consumida en una dosis de 60 mg semanales para mejorar la salud de la piel y uñas, prevenir el cáncer; su carencia genera enfermedades terminales."
+        ],
+        "correct": 2,
+        "rationale": "En el texto se mencionan aspectos benéficos, de prevención y los efectos de la carencia de la vitamina C."
+      },
+      {
+        "statement": "La palabra ACONSEJA puede ser reemplazada por",
+        "alternatives": [
+          "A) persuade.",
+          "B) obliga.",
+          "C) reflexiona.",
+          "D) recomienda.",
+          "E) norma."
+        ],
+        "correct": 3,
+        "rationale": "La palabra ACONSEJA adquiere el significado de RECOMENDACIÓN."
+      },
+      {
+        "statement": "Si un adulto mayor consumiera frecuentemente vitamina C, probablemente",
+        "alternatives": [
+          "A) estaría muy lozano pero fallecería muy pronto.",
+          "B) sus molestias de vejez serían más llevaderos.",
+          "C) tendría una serie de graves problemas gástricos.",
+          "D) gozaría mal humor y tendría menos sociabilidad.",
+          "E) habría hallado el remedio para todos sus males."
+        ],
+        "correct": 1,
+        "rationale": "En el texto se menciona que el consumo de vitamina C combate el estrés y la ansiedad, por lo tanto podemos pensar que generaría una sensación de relajación y bienestar."
+      },
+      {
+        "statement": "¿Cuál es el enunciado incompatible con el texto?",
+        "alternatives": [
+          "A) Hay relación entre la producción de colágeno y la vitamina C.",
+          "B) La vitamina C se encuentra en frutas y verduras muy variadas.",
+          "C) La carencia de vitamina C ocasiona diferentes enfermedades.",
+          "D) La vitamina C ayuda a mantener la piel sana y sin arrugas.",
+          "E) Todos deben consumir la misma cantidad de vitamina C."
+        ],
+        "correct": 4,
+        "rationale": "En el texto se menciona que hay sectores de la población que requiere una mayor dosis diaria de vitamina C, por lo que sería incorrecto decir que todos deben consumir la misma cantidad."
+      },
+      {
+        "statement": "Podemos inferir que una de las consecuencias a nivel psicológico del consumo de vitamina C es",
+        "alternatives": [
+          "A) una manía compulsiva por tomar jugo de naranja.",
+          "B) una sensación placentera de relajación y bienestar.",
+          "C) una reacción muy negativa hacia frutas y verduras.",
+          "D) el deseo de hacer dieta en forma desproporcionada.",
+          "E) la distorsión de la personalidad y la sociabilidad."
+        ],
+        "correct": 1,
+        "rationale": "En el texto se menciona que el consumo de vitamina C combate el estrés y la ansiedad, por lo tanto podemos pensar que generaría como consecuencia una sensación de relajación y bienestar."
+      }
+    ]
+  },
+  {
+    "type": "verbal_series",
+    "statement": "Admirable, maravilloso, prodigioso,",
+    "alternatives": [
+      "A) utópico.",
+      "B) pomposo.",
+      "C) mirífico.",
+      "D) longevo.",
+      "E) suntuoso."
+    ],
+    "correct": 2,
+    "rationale": "Serie verbal basada en sinónimos."
+  },
+  {
+    "type": "verbal_series",
+    "statement": "Denostar, encomiar; preterir, omitir; arrostrar, acobardar;",
+    "alternatives": [
+      "A) peligrar, salvar.",
+      "B) silenciar, diferir.",
+      "C) zaherir, loar.",
+      "D) arrogar, elucidar.",
+      "E) acunar, mecer."
+    ],
+    "correct": 4,
+    "rationale": "La serie verbal es mixta. Se completa con el par de sinónimos ACUNAR y MECER."
+  },
+  {
+    "type": "verbal_series",
+    "statement": "Pleitista, camorrista, revoltoso,",
+    "alternatives": [
+      "A) pendenciero.",
+      "B) enervado.",
+      "C) ladino.",
+      "D) vehemente.",
+      "E) distendido."
+    ],
+    "correct": 0,
+    "rationale": "La serie verbal está conformada por sinónimos. Se completa con la palabra PENDENCIERO."
+  },
+  {
+    "type": "verbal_series",
+    "statement": "Correligionario, adepto, camarada,",
+    "alternatives": [
+      "A) adalid.",
+      "B) prosélito.",
+      "C) sagaz.",
+      "D) coetáneo.",
+      "E) infausto."
+    ],
+    "correct": 1,
+    "rationale": "Serie de palabras asociadas a profesar una ideología o religión. Debe completarse la serie con el término PROSÉLITO."
+  },
+  {
+    "type": "verbal_series",
+    "statement": "Salario, emolumento, estipendio,",
+    "alternatives": [
+      "A) honorario.",
+      "B) crédito.",
+      "C) lisonja.",
+      "D) remesa.",
+      "E) coste."
+    ],
+    "correct": 0,
+    "rationale": "Serie de palabras asociadas a la remuneración. Debe completarse la serie con el término HONORARIO."
+  },
+  {
+    "type": "reading_comprehension",
+    "statement": "Atendiendo a los objetivos lingüísticos, un sistema educativo puede buscar una competencia plena del alumno en las dos lenguas o una competencia plena en una lengua y limitada en la otra; en este último caso, es frecuente que se utilice una de las lenguas como medio de introducción en la otra (lengua de la enseñanza). Veltman ha distinguido dos modelos de mantenimiento de lengua que tienen su reflejo en los modelos de enseñanza: en el primero de ellos, llamado modelo retentivo, se aprende una lengua para poder participar en ciertas actividades comunitarias, sobre todo laborales en el segundo, modelo subordinado, la lengua minoritaria se elimina de la educación formal y ve cómo su uso se restringe a ámbitos acotados ,generalmente familiares y personales.",
+    "questions": [
+      {
+        "statement": "¿Cuál es el tema central del texto?",
+        "alternatives": [
+          "A) Los modelos de mantenimiento de una lengua en la enseñanza",
+          "B) El bilingüismo como fenómeno complejo en el aprendizaje escolar",
+          "C) La utilización de sistemas lingüísticos como medio de instrucción",
+          "D) La educación bilingüe dentro del contexto del sistema educativo",
+          "E) Las ca racterísticas de la educación bilingüe a nivel internacional"
+        ],
+        "correct": 3,
+        "rationale": "El texto desarrolla el concepto de educación bilingüe enfocado en el sistema educativo (uso de los objetivos lingüísticos)."
+      },
+      {
+        "statement": "En el texto, la palabra ACOTADOS significa",
+        "alternatives": [
+          "A) dominados.",
+          "B) esparcidos.",
+          "C) concisos.",
+          "D) difusos.",
+          "E) restringidos."
+        ],
+        "correct": 4,
+        "rationale": "En el texto, ACOTADO se refiere a un límite, a una restricción."
+      },
+      {
+        "statement": "Respecto a la educación bilingüe, es incompatible afirmar que",
+        "alternatives": [
+          "A) se desinteresa por la competencia lingüística plena.",
+          "B) busca una competencia bilingüe en los alumnos.",
+          "C) entraña el uso de dos lenguas en el sistema educativo.",
+          "D) obedece a una planificación y política curricular.",
+          "E) llega a impartirse en la enseñanza de tipo formal."
+        ],
+        "correct": 1,
+        "rationale": "Una educación bilingüe responde a los objetivos lingüísticos del sistema educativo, es decir a una decisión política y educativa."
+      },
+      {
+        "statement": "Si un hispano hablante tuviera que aprender inglés para trabajar y radicar en Canadá,",
+        "alternatives": [
+          "A) nunca podría beneficiarse de la enseñanza instructiva.",
+          "B) no necesitaría el uso funcional de ningún tipo de lengua.",
+          "C) tendría que utilizar el inglés sólo en ámbitos familiares.",
+          "D) no llegaría a ser un hablante competente del inglés.",
+          "E) debería optar por una educación bilingüe retentiva."
+        ],
+        "correct": 4,
+        "rationale": "Un hispanohablante que necesite aprender inglés con el objetivo de trabajar y vivir en Canadá requerirá del modelo retentivo."
+      }
+    ]
+  },
+  {
+    "type": "reading_comprehension",
+    "statement": "Si nos hicieran dibujar un símbolo de la Edad Media, «enorme y delicada», como decía Verlaine, nos obligaríamos a dar, como nociones previas, su inmensa cronológica —del siglo V al XV— y su necesaria complejidad. Podría ser, por ejemplo, un recio castillo, cuya muralla inferior sería de tan fuertes sillares como pudiera mover la energía del hombre empujada por el terror. Estrechas saeteras permiten, apenas, columbrar el horizonte, en el que la guerra enciende sus hogueras y amenaza el peligro. Por detrás de la muralla, a ras de tierra, podrían columbrarse las cocinas de la enorme mansión, donde los elementos de la vida diaria, que se asientan sobre los apetitos elementales, encuentran sus posibilidades de saciedad. Merodean por allí los siervos de la gleba, que han acarreado sus productos campesinos —los frutos, el ganado— para mantenenci a del señor que los protege. Vive más alto. En el plano noble, sobre el patio de armas, donde hay sitio para justar, entrenamiento para la caza y para la guerra. Más arriba, las estancias se van enriqueciendo de cosas inútiles: trofeos, tapices, un retablo piadoso. Lo ha pintado el monje que vive en la sacristía que está construida sobre el propio muro de la mansión nobiliar, intramuros, a la custodia también del guerrero. El monje, en su capilla, tiene algunos libros y, cuando puede, copia lentamente un manuscrito del convento lejano. (La cultura es patrimonio de los clérigos y se expresa en latín.) Más alto, el mira dor de las damas, donde la esposa y las hijas del señor hilan y cantan. Cantan los viejos romances que los juglares traen y llevan de castillo a castillo, de frontera a frontera. Tres clases de seres, pues, «labradores, defensores y oradores», la azada, el yelmo y la pluma, y estos extraños caminantes que viven de cantar y —para seren tendidos— se expresan en la lengua popular, que se va alejando, cada vez más, de la lengua de Roma.",
+    "questions": [
+      {
+        "statement": "¿Qué opción describe mejor el texto?",
+        "alternatives": [
+          "A) una caracterización alegórica de la sociedad medieval.",
+          "B) una descripción meticulosa de la monarquía medieval.",
+          "C) la discriminación racial desarrollada durante los s. V y XV.",
+          "D) los dos planos culturales coexistentes en la Edad Media.",
+          "E) el desplazo de la lengua romana por la lengua popular."
+        ],
+        "correct": 0,
+        "rationale": "Desde el primer párrafo se plantea lo que abordará el autor del texto, esto es una caracterización alegórica de la sociedad medieval."
+      },
+      {
+        "statement": "A lo largo del texto, el término COLUMBRAR alude a la acción de",
+        "alternatives": [
+          "A) dirigir.",
+          "B) divisar.",
+          "C) enaltecer.",
+          "D) definir.",
+          "E) soterrar."
+        ],
+        "correct": 1,
+        "rationale": "“Estrechas saeteras permiten, apenas, columbrar el horizonte...”. Columbrar significa divisar, ver desde lejos."
+      },
+      {
+        "statement": "Resulta compatible con el texto aseverar que la Edad Media",
+        "alternatives": [
+          "A) albergaba la cultura como patrimonio intrínseco de la plebe.",
+          "B) fue una época donde los clérigos desdeñaron la lengua latina.",
+          "C) corresponde a un periodo extenso signado por el miedo.",
+          "D) se caracterizó por abarcar dos siglos de pugnas religiosas.",
+          "E) fue una etapa de estabilidad política regida por el propio pueblo."
+        ],
+        "correct": 2,
+        "rationale": "Hay alusiones como “...la energía del hombre es empujada por el terror...” o “... la guerra enciende las hogueras y amenaza el peligro...”"
+      },
+      {
+        "statement": "Se infiere del texto que los siervos de la gleba",
+        "alternatives": [
+          "A) eran necesarios para el orden social de aquella época.",
+          "B) eran alfabetizados para ayudar en la labor de los clérigos.",
+          "C) solo se encargaban de cuidar el palacio de sus señores.",
+          "D) residían en la parte alta del castillo, junto a su patrón.",
+          "E) participaban siempre de actividades artísticas y culturales."
+        ],
+        "correct": 0,
+        "rationale": "Según el texto, “...los siervos de la gleba acarrean sus productos campesinos para mantenencia del señor que los protege...”"
+      },
+      {
+        "statement": "Si los juglares no hubieran cantado en lengua popular,",
+        "alternatives": [
+          "A) sus expresiones poéticas reflejarían un tajante rechazo de la lengua romana.",
+          "B) sus romances habrían perdurado en el sentir de los campesinos y guerreros.",
+          "C) habrían carecido del interés de los clérigos y monarcas de la Edad Media.",
+          "D) permanecerían siendo considerados personajes errantes y marginados.",
+          "E) sus expresiones poéticas serían ininteligibles para sus diversos receptores."
+        ],
+        "correct": 4,
+        "rationale": "“... los juglares traen y llevan cantos de castillo a castillo, de frontera a frontera. Estos extraños caminantes que viven de cantar y —para seren tendidos — se expresan en la lengua popular, que se va alejando, cada vez más, de la lengua de Roma”. Entonces, si los juglares no hubieran cantado en lengua popular, sus expresiones poéticas serían ininteligibles para sus heteróclitos receptores."
+      }
+    ]
+  },
+  {
+    "type": "reading_comprehension",
+    "statement": "filósofo francés René Descartes, de quien este año se cumplen 400 años de su nacimiento, no murió de pulmonía en 1650, como cuenta la versión oficial, sino envenenado con arsénico. El investigador alemán Eike Pies asegura haber encontrado en una carta la prueba del asesinato del filósofo creador de la duda metódica y así lo expone en un libro, aparecido en Alemania, bajo el título El asesinato de Descartes: Documentos. Indicios . Pruebas . Pies recuerda que el filósofo murió en Suecia, donde se encontraba en la corte de la reina Cristina, quien tuvo que renunciar al trono por sus intenciones de convertirse al catolicismo. Y explica que por casualidad encontró en la Universidad de Leiden, en Holanda, una carta del médico de la reina de Suecia a un colega en la que se relataban los síntomas presentados por el filósofo en el momento de su muerte: hemorragias estomacales y vómito negro. Estos no son síntomas de pulmonía, causa oficial de la muerte, sino de envenenamiento por arsénico. Para corroborar esta afirmación, Pies arguye que la carta encontrada por él contiene una posdata en la que el médico remitente pide al destinatario que nunca permita que caiga en otras manos. Pies aventura la hipótesis de que un monje agustino puede haber sido el autor del asesinato para impedir que Descartes ejerciese una influencia negativa sobre la reina, quien ya estaba encaminada hacia el catolicismo. El monje era capellán de la Embajada francesa en Suecia y tenía, al parecer, encomendada la misión de ganarse a la reina para la religión católica. Se lamenta Pies de que las autoridades francesas se hayan negado hasta ahora a examinar los restos del filósofo para averiguar si contienen huellas de arsénico, veneno porque existen retratos del filósofo en los últimos años de su vida. A partir de la calavera sería muy fácil reconstruir el retrato, comprobar si realmente es Descartes y, en este caso, buscar los restos del arsénico. Comas, J. (19 de Julio de 1996). Un investigador afirma que Descartes no murió de pulmonía, sino envenenado. El País . Recuperado el 04 de marzo de 2015 de El País: http://elpais.com/diario/1996/07/19/cultura/837727207_850215.html",
+    "questions": [
+      {
+        "statement": "Esencia lmente, el texto gira alrededor",
+        "alternatives": [
+          "A) de los escritores de Gijón y sus temas más polémicos.",
+          "B) de las investigaciones de los novelistas sobre Descartes.",
+          "C) de la hipótesis sobre el envenenamiento de Descartes.",
+          "D) de conflictos de poder entorno a Cristina de Suecia.",
+          "E) del estudio del cráneo de Descartes por Eike Pies."
+        ],
+        "correct": 2,
+        "rationale": "El texto gira entorno a la hipótesis sobre el posible asesinato de Descartes, en tanto, no está comprobado de manera definitiva."
+      },
+      {
+        "statement": "El antónimo contextual de ARGÜIR es",
+        "alternatives": [
+          "A) favorecer.",
+          "B) desmentir.",
+          "C) explicar.",
+          "D) fortalecer.",
+          "E) señalar."
+        ],
+        "correct": 1,
+        "rationale": "En el texto ARGÜIR está en función de justificar o probar, por tanto su antónimo contextual sería DESMENTIR."
+      },
+      {
+        "statement": "Si se comprobara que los restos enterrados en París no son de Descartes,",
+        "alternatives": [
+          "A) los filósofos alrededor del mundo estarían indignados.",
+          "B) se buscaría a los culpables del asesinato de Descartes.",
+          "C) la hipótesis de E. Pies se comprobaría de inmediato.",
+          "D) se perseguiría a los familiares cercanos de Descartes.",
+          "E) sería muy difícil señalar si Descartes fue asesinado."
+        ],
+        "correct": 4,
+        "rationale": "Hacia el final del texto, se señala la posibilidad de examinar los restos del filósofo para determinar si fue asesinado o no. Si estos restos no fueran los de Descartes, sería muy difícil establecer si su muerte fue causada de forma deliberada."
+      },
+      {
+        "statement": "Es inconsistente con el desarrollo textual sostener que",
+        "alternatives": [
+          "A) Descartes fue un filósofo que vivió en el siglo XVII.",
+          "B) los supuestos restos de Descartes están en Paris.",
+          "C) E. Pies sustenta su hipótesis en testimonios orales.",
+          "D) la tradición dice que Descartes murió de neumonía.",
+          "E) el gobierno francés protege los restos de Descartes."
+        ],
+        "correct": 2,
+        "rationale": "E. Pies, sustenta su hipótesis sobre la base de pruebas documentales: Una carta. Sostener que se trata de testimonios orales es correcto."
+      }
+    ]
+  },
+  {
+    "type": "reading_comprehension",
+    "statement": "El Renacimiento europeo, con su absoluto desdén por todo lo que no estuviera inspirado directamente en la antigüedad grecolatina, había formulado un juicio adverso sobre la Edad Media, que se mantuvo vigente hasta el Romanticismo. No obstante, los románticos vieron el mundo medieval desde un ámbito exclusivamente novelesco; para ellos, se trataba solo de una brillante época de hazañas caballerescas y líricas actitudes idealistas. La Edad Media se nos ofrece hoy, no como un paréntesis de barbarie en la cultura europea ni como una época legendaria de fantasía y ensueño, sino como un periodo histórico dotado de acentuada personalidad y elevadísimos valores espirituales . La Iglesia no se limita en la Edad Media a la difusión y defensa de los valores religiosos, sino que toma a su cargo la conservación de las tradiciones culturales. Clerecía y cultura serán durante mucho tiempo conceptos casi sinónimos, de la misma manera que la palabra «clérigo» vendrá a designar por igual al hombre de profesión religiosa y al culto. En un principio, la labor de la Iglesia se reducía a asegurar la continuidad de la cultura antigua. Era el momento en que la escuela o el scriptorium monacal -donde se llevaba a cabo una paciente copia de viejos manuscritos - constituían el único oasis de civilización. Pero, más tarde, cuando cambian las condiciones de la vida social y comienzan a surgir las ciudades, la Iglesia seguirá influyendo en la cultura a través de las Universidades. De acuerdo con las doctrinas eclesiásticas, tal como cristalizan en el movimiento escolástico del siglo XIII, el hombre medieval, guiado por una visión teocéntrica del universo, contempla el mundo como un todo armónico regido por la Providencia divina y sometido a una jerarquía inmutable; siente que el orden social, político y religioso debe ser respetado como obra de Dios y sabe que el pueblo ha sido creado para trabajar, la nobleza para ser modelo de rectitud y valor, y la clerecía para propagar la fe cristiana. La obediencia a unos principios dictados por una autoridad indiscutible y el respeto al orden jerárquico establecido se convierten así en la norma capital de la sociedad de la época. Junto a este sentido de disciplina, la cultura medieval ofrece una notable uniformidad, ya que la universal aceptación del latín como lengua escrita y la sumisión de todos a las verdades del cristianismo, favorecen la adhesión general a idénticas formas de civilización. García, J. (1972). Historia de la Literatura Española . Barcelona: Vinces",
+    "questions": [
+      {
+        "statement": "Básicamente, el autor del texto destaca",
+        "alternatives": [
+          "A) la relevancia de la Universidad en la consolidación medieval.",
+          "B) el afán de la Iglesia en difundir el latín en el periodo medieval.",
+          "C) el rol político desempeñado por el clero en la Edad Media.",
+          "D) la trascendencia ecuménica de un patrón cultural religioso.",
+          "E) la innegable identidad y uniformidad de la cultura medieval."
+        ],
+        "correct": 4,
+        "rationale": "En el último párrafo, el autor concluye que la cultura medieval ofrece una notable uniformidad, donde prima la adhesión general a idénticas formas de civilización en los más diversos países."
+      },
+      {
+        "statement": "En el texto, el término ADVERSO se puede reemplazar por",
+        "alternatives": [
+          "A) desfavorable.",
+          "B) indiferente.",
+          "C) apologético.",
+          "D) imprudente.",
+          "E) acertado."
+        ],
+        "correct": 0,
+        "rationale": "posición adversa al Medioevo, esto es una posición desfavorable."
+      },
+      {
+        "statement": "¿Qué idea no se condice con la postura del autor?",
+        "alternatives": [
+          "A) Los románticos vieron el mundo medieval solamente desde un ámbito novelesco.",
+          "B) La sociedad de la Edad Media se hallaba regida por una instrucción eclesiástica.",
+          "C) La Iglesia desempeñó un papel decisivo en el acatamiento del orden jerárquico.",
+          "D) Para el hombre renacentista, la cultura grecolatina era un referente civilizador.",
+          "E) Según el Romanticismo, el periodo medieval fue sin duda un estadio de barbarie."
+        ],
+        "correct": 4,
+        "rationale": "En el primer párrafo, el autor sostiene que para el Renacimiento, el desarrollo medieval habría sido un paréntesis de barbarie en la cultura europea. Mientras que en el Romanticismo calificaron al periodo medieval como legendario."
+      },
+      {
+        "statement": "Del texto se puede inferir que, para el autor, la cultura medieval",
+        "alternatives": [
+          "A) legitimó y justificó la existencia de estratificación social.",
+          "B) se habría erigido contraviniendo todos los preceptos griegos.",
+          "C) percibía el cosmos como una estructura muy dinámica.",
+          "D) siempre estuvo signada por un profundo espíritu romántico.",
+          "E) se hallaba deslegitimada por las doctrinas eclesiásticas."
+        ],
+        "correct": 0,
+        "rationale": "El texto menciona que «El hombre estuvo guiado por una visión teocéntrica que lo condujo a la aceptación del mundo como designio de Dios». De ahí se infiere que, en su momento, la cultura medieval legitimó y justificó la existencia de las clases sociales."
+      },
+      {
+        "statement": "Si la Iglesia no hubiera participado de la enseñanza en las universidades, entonces",
+        "alternatives": [
+          "A) las diversas tradiciones católicas jamás se habrían conocido.",
+          "B) la sociedad medieval se habría guiado por una visión teocéntrica.",
+          "C) su repercusión en la cultura de la época habría disminuido.",
+          "D) el cristianismo habría sido hegemónico en el Renacimiento.",
+          "E) la homogeneidad cultural sería inaplicable al género humano."
+        ],
+        "correct": 2,
+        "rationale": "En el texto se señala que «la Iglesia sigue influyendo en la cultura a través de las Universidades». Entonces, si la Iglesia no se hubiera involucrado en la enseñanza impartida en ellas, posiblemente su presencia en el mundo medieval habría menguado."
+      }
+    ]
+  },
+  {
+    "type": "reading_comprehension",
+    "statement": "¿Es el hombre tonto por naturaleza?, al parecer sí. Al menos eso es lo que señala un estudio científico publicado en la edición navideña de la revista British Medical Journal. Sin embargo, aunque la investigación cuenta con los parámetros adecuados para ser considerada válida, ha sido intensamente difundida más por su capacidad de hacernos reír. Para determinar qué tan tonto es el género masculino, el estudio hizo un balance de todos los ganadores del Premio Darwin, un galardón póstumo otorgado a las personas que han muerto en situaciones ridículas. En su \"Teoría de la estupidez masculina\" subrayan que la inmensa mayoría de los ganadores de este premio son del género masculino. Por lo tanto, se puede concluir que los hombres están más propensos a de acero de un ascensor. Sin embargo, se olvidó del simple hecho de que él esta ba dentro del aparato, ocasionando su muerte al caer al vacío. Otro candidato a ganarse este premio es un terrorista que compró sellos insuficientes para una carta bomba, por lo que la oficina de correos se la devolvió. Y decidió abrirla. Los investigador es analizaron a todos los nominados del Premio Darwin entre 1995 y 2014. Un total de 332 casos habían sido verificados de forma independiente. Hubo 14 nominaciones que fueron excluidas, ya que eran compartidas por hombres y mujeres. De los 318 casos restantes, 282 fueron protagonizados por el género masculino, mientras que solo 36 por mujeres. Según los investigadores, la diferencia estadística es significativa. Los científicos destacan por ello que los resultados sustentan la \"Teoría de la estupidez masculina\", que afirma que el motivo de la mayor tendencia de los hombres a correr riesgos, su mayor tasa de muerte en accidentes y su mayor protagonismo en las llamadas de emergencia se debe sencillamente a que \"son tontos, y los tontos hacen tonterías\". Los autores reconocen, pese a todo, que hay otros factores que pueden influir sobre el resultado. Es posible que las mujeres nominen a más hombres que viceversa, o que los casos de muertes masculinas en condiciones absurdas tengan una mayor repercusión que las femeninas. Tampoco se tuvieron en cuenta las diferencias en el consumo de alcohol entre ambos géneros, un factor que podría ser determinante en una muerte. El Comercio (12 de diciembre de 2014) ¿Es el hombre más tonto que la mujer?, estudio lo confirma. Recuperado el 04 de marzo de 2015 de El Comercio: http://elcomercio.pe/ciencias/investigaciones/hombre -mas-tonto -que-mujer -estudio -lo-confirma -noticia -1777956",
+    "questions": [
+      {
+        "statement": "¿Cuál es la idea principal del texto?",
+        "alternatives": [
+          "A) De acuerdo a criterios estadísticos, los varones registran la mayor tasa de muertes en accidentes.",
+          "B) El Premio Darwin revela un gran número de muertes de varones en situaciones realmente ridículas.",
+          "C) Un estudio publicado recientemente por la revista British Medical Journal revela una seria limitación.",
+          "D) El Premio Darwin es un galardón póstumo otorgado a quienes han muerto en situaciones ridículas.",
+          "E) Un estudio científico concluyó que el género masculino tiene mayor propensión a realizar tonterías."
+        ],
+        "correct": 4,
+        "rationale": "El texto incide en la conclusión a la que llegaron un grupo de investigadores luego de analizar un número de caso de muertes absurdas: el género masculino es más propenso a realizar tonterías."
+      },
+      {
+        "statement": "En el texto, el vocablo DIFUNDIR implica",
+        "alternatives": [
+          "A) negligencia",
+          "B) iluminación",
+          "C) celebridad",
+          "D) resolución",
+          "E) relevancia"
+        ],
+        "correct": 2,
+        "rationale": "El estudio publicado en la revista British Medical Journal ha sido intensamente difundido, es decir, es famoso."
+      },
+      {
+        "statement": "¿Qué idea no se condice con la postura del autor?",
+        "alternatives": [
+          "A) Los románticos vieron el mundo medieval solamente desde un ámbito novelesco.",
+          "B) La sociedad de la Edad Media se hallaba regida por una instrucción eclesiástica.",
+          "C) La Iglesia desempeñó un papel decisivo en el acatamiento del orden jerárquico.",
+          "D) Para el hombre renacentista, la cultura grecolatina era un referente civilizador.",
+          "E) Según el Romanticismo, el periodo medieval fue sin duda un estadio de barbarie."
+        ],
+        "correct": 4,
+        "rationale": "En el primer párrafo, el autor sostiene que para el Renacimiento, el desarrollo medieval habría sido un paréntesis de barbarie en la cultura europea. Mientras que en el Romanticismo calificaron al periodo medieval como legendario."
+      },
+      {
+        "statement": "Resulta incompatible aseverar que el Premio Darwin",
+        "alternatives": [
+          "A) es un sarcástico galardón para muertes ridículas.",
+          "B) se ha venido entregando hace m ás de una década.",
+          "C) es un premio póstumo otorgado solo a varones.",
+          "D) sirvió de base para una investigación científica.",
+          "E) tiene entre sus nominados a algunos delincuentes."
+        ],
+        "correct": 2,
+        "rationale": "El Premio Darwin es un galardón póstumo otorgado a todas las personas que han muerto en situaciones ridículas."
+      }
+    ]
+  },
+  {
+    "type": "sentence_elimination",
+    "statement": "4. Resulta incompatible aseverar que el Premio Darwin",
+    "alternatives": [
+      "A) es un sarcástico galardón para muertes ridículas.",
+      "B) se ha venido entregando hace m ás de una década.",
+      "C) es un premio póstumo otorgado solo a varones.",
+      "D) sirvió de base para una investigación científica.",
+      "E) tiene entre sus nominados a algunos delincuentes."
+    ],
+    "correct": 2,
+    "rationale": "El Premio Darwin es un galardón póstumo otorgado a todas las personas que han muerto en situaciones ridículas."
+  },
+  {
+    "type": "sentence_elimination",
+    "statement": "5. Si se comprobara que el Premio Darwin condecoró en base a noticias falsas,",
+    "alternatives": [
+      "A) el estudio en cuestión no habría sido difundido por resultar aburrido .",
+      "B) el consumo de alcohol sería la causa principal de nuestra estupidez.",
+      "C) dicho premio sería tomado más en serio por la comunidad científica.",
+      "D) se podría concluir que las mujeres son más proclives a hacer tonterías.",
+      "E) el estudio que nos ocupa no sería considerado científicamente válido."
+    ],
+    "correct": 4,
+    "rationale": "El estudio se basa en una estadística del Premio Darwin, por lo que al poner en cuestión la rigurosidad de dicho premio, la investigación también perdería rigor."
+  }
+]

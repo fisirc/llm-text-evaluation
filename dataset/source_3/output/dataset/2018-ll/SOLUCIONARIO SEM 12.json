@@ -1,0 +1,264 @@
+[
+  {
+    "type": "reading_comprehension",
+    "statement": "En el Sistema Anticorrupción existe un escaso desarrollo de los componentes vinculados con la participación ciudadana y la prevención. Esto representa una debilidad, pues los problemas estructurales de corrupción no estarían siendo atacados. La estrategia en los últimos años se ha centrado en la sanción, es decir, en la toma de medidas luego de que el acto se ha materializado. La megacorrupción de nuestros días requiere otro tipo de respuesta enfocada, precisamente, en la prevención. El enfoque preventivo se ha traducido en algunos planes que acogen el concepto, pero lo enmarcan en actividades formativas (talleres, cursos, charlas), cuyos indicadores de impacto en la reducción de riesgos de la corrupción son difíciles de medir.\n\nSi bien diversas instituciones han desarrollado iniciativas relacionadas (mecanismos de transparencia y acceso a la información pública; mecanismos normativos para evitar fraude, soborno o mecanismos de prevención de irregularidades administrativas), no hay disponibilidad de información ni datos confiables que muestren algún impacto de las acciones realizadas en la reducción del riesgo de corrupción, que puedan ser cuantificables o que permitan un análisis cualitativo de la disminución de posibles espectros que favorezcan actos ilícitos. La Contraloría General, por ejemplo, ha centrado su actuación en servicios de control simultáneos y posteriores. Con respecto a los simultáneos, evalúa hechos de un proceso en curso con el objeto de alertar sobre los riesgos de corrupción. En los posteriores, evalúa los hechos después de realizados, con la finalidad de identificar la responsabilidad y mejorar la gestión. Sin embargo, apenas el 1% de sus servicios están relacionados al control previo.\n\nDefensoría del Pueblo (2017). Reporte La Corrupción en el Peru N.° 2. El Sistema Anticorrupción Peruano: Diagnóstico y Desafíos, p. 14. (Texto adaptado)",
+    "questions": [
+      {
+        "statement": "¿Cuál es el tema central del texto?",
+        "alternatives": [
+          "A) La megacorrupción de nuestros días que reclama la aplicación del enfoque simultáneo.",
+          "B) La relevancia de la participación ciudadana en el enfoque preventivo",
+          "C) La eficacia de los tipos de control simultáneo y posterior en contra de la corrupción.",
+          "D) La importancia de la aplicación del enfoque preventivo en el Sistema Anticorrupción.",
+          "E) El porcentaje de casos de tipo de control previo que explica el bajo nivel de corrupción."
+        ],
+        "correct": 3,
+        "rationale": "La solución señala D) La importancia de la aplicación del enfoque preventivo."
+      },
+      {
+        "statement": "En el texto el término ESTRUCTURAL se puede reemplazar por",
+        "alternatives": [
+          "A) profundo.",
+          "B) manifiesto.",
+          "C) arraigado.",
+          "D) relevante.",
+          "E) holístico."
+        ],
+        "correct": 2,
+        "rationale": "El término ESTRUCTURAL se puede reemplazar por arraigado dado que está directamente vinculado con la participación ciudadana y la prevención."
+      }
+    ]
+  },
+  {
+    "type": "synonyms_and_antonyms",
+    "statement": "En el texto el término ESTRUCTURAL se puede reemplazar por",
+    "alternatives": [
+      "A) profundo.",
+      "D) relevante.",
+      "B) manifiesto.",
+      "E) holístico.",
+      "C) arraigado."
+    ],
+    "correct": 4,
+    "rationale": "El término ESTRUCTURAL se puede reemplazar por arraigado dado que está directamente vinculado con la participación ciudadana y la prevención."
+  },
+  {
+    "type": "sentence_elimination",
+    "statement": "Teniendo en cuenta el gráfico resulta incompatible señalar que",
+    "alternatives": [
+      "A) a nivel nacional, los tipos de control simultáneos superan a los posteriores.",
+      "B) el número total de casos de tipo de control simultáneo no llega a 15 000.",
+      "C) a nivel local, los tipos de control previos son superados por los posteriores.",
+      "D) a nivel regional, los tipos de control simultáneos superan a los posteriores.",
+      "E) el mayor número de casos de tipo de control previo se da a nivel nacional."
+    ],
+    "correct": 4,
+    "rationale": "El gráfico indica que el mayor número de casos de tipo de control previo se da a nivel local (61)."
+  },
+  {
+    "type": "sentence_elimination",
+    "statement": "Se infiere, a partir del texto, que actualmente el enfoque preventivo en el Sistema Anticorrupción",
+    "alternatives": [
+      "A) goza de alta estima en el sistema burocrático.",
+      "B) no está bien implementado en el sector público.",
+      "C) mide claramente el impacto de sus beneficios.",
+      "D) evalúa hechos de un proceso legal en curso.",
+      "E) se limita a la realización de talleres y charlas."
+    ],
+    "correct": 1,
+    "rationale": "El texto señala que aun cuando se han tomado acciones relacionadas (por ejemplo, acceso a la información pública) no se puede cuantificar el impacto de estas acciones ni realizar un análisis cualitativo de las mismas."
+  },
+  {
+    "type": "sentence_elimination",
+    "statement": "Si la Contraloría General centrara su actuación en servicios de control previo, probablemente según el autor",
+    "alternatives": [
+      "A) la participación ciudadana sería un obstáculo en anticorrupción.",
+      "B) se implementarían mecanismos de prevención de irregularidades administrativas.",
+      "C) el porcentaje de servicios de tipo de control simultáneo se mantendría inalterable.",
+      "D) se dispondría de indicadores de impacto en la reducción de riesgos de corrupción.",
+      "E) podría enfrentarse de manera más idónea el problema actual de megacorrupción."
+    ],
+    "correct": 4,
+    "rationale": "El problema actual del Sistema Anticorrupción es que se afronta la megacorrupción centrándonos únicamente en la sanción. Por el contrario, el autor aboga por implementar el enfoque preventivo toda vez que el problema de la corrupción es estructural."
+  },
+  {
+    "type": "reading_comprehension",
+    "statement": "Antes de mediados de este siglo, la Tierra contará con más de 9000 millones de bocas humanas que alimentar. Y no es sencillo que la producción de alimentos crezca al mismo ritmo. Según la Organización de las Naciones Unidas para la Alimentación y la Agricultura (FAO), el 26% de la superficie seca del planeta se dedica a pastos para el ganado, y un 33% de las tierras cultivables producen cosechas para la ganadería. Esta actividad es responsable del 18% de las emisiones de gases de efecto invernadero, y prescindir de más bosques para abrir espacios a la agricultura aumentaría el problema del cambio climático. Con nuestro sistema actual los números no cuadran. Pero hoy son muchos quienes piensan que es posible salir de esta difícil encrucijada sin renunciar al alimento de origen animal; se trata simplemente de variar el menú de especies que comemos.\n\nEn occidente ya estamos acostumbrados al consumo de artrópodos, pero sólo acuáticos, como cangrejos o langostas. En cambio, hasta 3000 grupos étnicos de Latinoamérica, África, Asia y Oceanía incluyen los insectos como parte de su dieta. La Universidad holandesa de Wageningen mantiene una lista que recoge 2111 especies comestibles de insectos y arácnidos, sobre todo escarabajos, orugas, hormigas, abejas, avispas, saltamontes, langostas y grillos, pero también moscas, arañas y cucarachas. En la exaltación de las virtudes nutritivas de estos animalitos ha desempeñado un papel crucial la FAO, que lleva años promoviendo la entomofagia como solución a la inseguridad alimentaria. Un estudio reciente dirigido por Peter Alexander, socioecólogo de la Universidad de Edimburgo, descubre que la cría de insectos ofrece una mayor eficiencia en el uso de la tierra que el resto de los productos animales para generar la misma cantidad de calorías y proteínas. «La adopción de la entomofagia ayudaría a reducir el impacto ambiental de la agricultura», resume Alexander a OpenMind. «Una mezcla de pequeños cambios en la conducta del consumidor, como sustituir la carne de vacuno por pollo, reducir los residuos alimentarios e introducir los insectos en la dieta, lograría un sistema más sostenible», apunta.\n\nYanes, J. <https://elpais.com/internacional/2015/06/10/actualidad/1433965899_150751.html>. (Texto adaptado)\n\n(30 de agosto de 2018).\n\nInsectos, ¿la comida del futuro? En El País. Recuperado de",
+    "questions": [
+      {
+        "statement": "¿Cuál es la idea principal del texto?",
+        "alternatives": [
+          "A) la importancia mundial de la etomofagia en la reducción del impacto ambiental de la agricultura.",
+          "B) la entomofagia se constituye en una alternativa plausible ante la inseguridad alimentaria.",
+          "C) consumir frecuentemente artrópodos acuáticos permitiría dar una solución a la crisis alimentaria.",
+          "D) la crisis alimentaria mundial se solucionará solamente renunciando a todo alimento de origen animal.",
+          "E) la FAO viene realizando una campaña intensiva de información sobre los beneficios de la entomofagia."
+        ],
+        "correct": 1,
+        "rationale": "El texto desarrolla la importancia de la entomofagia como solución al problema de la inseguridad alimentaria mundial."
+      },
+      {
+        "statement": "El término RITMO connota",
+        "alternatives": [
+          "A) identidad.",
+          "B) asimetría.",
+          "C) ventaja.",
+          "D) proporción.",
+          "E) cercanía."
+        ],
+        "correct": 3,
+        "rationale": "El término RITMO connota proporción pues indica que la producción de alimentos no es proporcional a la cantidad de seres humanos que alimentar."
+      }
+    ]
+  },
+  {
+    "type": "reading_comprehension",
+    "statement": "El texto desarrolla la importancia de la entomofagia como solución al problema de la inseguridad alimentaria mundial.",
+    "questions": [
+      {
+        "statement": "Tanto el fragmento A como el fragmento B abordan el tema de",
+        "alternatives": [
+          "A) la conformación de un nosotros y el desprendimiento en el amor.",
+          "B) el conflicto de intereses entre los conformadores de un nosotros.",
+          "C) cómo fortalecen, mutuamente, el éxito y fracaso a los amantes.",
+          "D) cómo se resuelve el conflicto de intereses en el terreno del amor.",
+          "E) cómo se toman decisiones unilaterales en el terreno del amor."
+        ],
+        "correct": 3,
+        "rationale": "El tema que trabajan tanto 3A como 3B es cómo se resuelve el conflicto de intereses en el terreno del amor. Para 3A ello se da por medio del desprendimiento de cada uno de los amantes, mientras que 3B sostiene que ello se da mediantes la conformación de un nosotros."
+      },
+      {
+        "statement": "En el fragmento 3B, la frase CORRER UN RIESGO implica",
+        "alternatives": [
+          "A) abrogarse un desinterés.",
+          "C) asumir una responsabilidad.",
+          "E) beneficiarse de los éxitos.",
+          "B) privación de la libertad.",
+          "D) derechos irrestrictos."
+        ],
+        "correct": 1,
+        "rationale": "En 3B la frase CORRER UN RIESGO implica asumir una responsabilidad toda vez que al conformar un nosotros uno se va a ver afectado por la otra persona y"
+      },
+      {
+        "statement": "Se infiere a partir del caso de la entomofagia que",
+        "alternatives": [
+          "A) puede remediarse el problema alimentario sin variar la dieta actual.",
+          "B) normalmente los pueblos discriminan entre alimentos de origen animal.",
+          "C) ella aumentará el número de bocas humanas a las cuales alimentar.",
+          "D) el sistema alimentario actual permite dar solución a la posible crisis.",
+          "E) se sobrevalora las virtudes nutritivas de la mayoría de los artrópodos."
+        ],
+        "correct": 2,
+        "rationale": "Al señalarse que en Occidente se consumen solo artrópodos acuáticos y que en cambio grupos étnicos de Latinoamérica, África, Asia y Oceanía incluyen los insectos (cucarachas, moscas, etc.) como parte de su dieta, se infiere que los pueblos discriminan entre los alimentos de origen animal."
+      },
+      {
+        "statement": "Si solo 30 %de la superficie del planeta estuviera vinculada a la actividad ganadera, probablemente",
+        "alternatives": [
+          "A) el consumo de artrópodos acuáticos se incrementaría considerablemente.",
+          "B) sería viable prescindir de más bosques y dar más espacios a la agricultura.",
+          "C) la FAO reconsideraría exaltar los altos valores nutritivos de los artrópodos.",
+          "D) la producción de alimentos sería proporcional al número de seres humanos.",
+          "E) inexorablemente, los números en nuestro sistema alimentario no cuadrarían."
+        ],
+        "correct": 1,
+        "rationale": "Actualmente el porcentaje de la superficie de tierra vinculada a la actividad ganadera es alrededor de 59% siendo de esta forma causante del 18% de las emisiones de gases de efecto invernadero, por lo cual no es viable reducir bosques pues se aumentaría el problema del cambio climático. Si solo llegara a 30 %,el ello si sería viable."
+      },
+      {
+        "statement": "El conflicto aparente, en el terreno del amor, entre perseguir los propios intereses y dedicarse desinteresadamente a los intereses de otra persona se desvanece al darnos cuenta de que lo que sirve a los intereses del amante no es otra cosa que su desinterés.",
+        "alternatives": [
+          "A) puede remediarse el problema alimentario sin variar la dieta actual.",
+          "B) normalmente los pueblos discriminan entre alimentos de origen animal.",
+          "C) ella aumentará el número de bocas humanas a las cuales alimentar.",
+          "D) el sistema alimentario actual permite dar solución a la posible crisis.",
+          "E) se sobrevalora las virtudes nutritivas de la mayoría de los artrópodos."
+        ],
+        "correct": 3,
+        "rationale": "El texto describe que lo que sirve a los intereses del amante es su desinterés, y que proteger los intereses del amado se cuenta entre los intereses del amante; sin embargo, la respuesta correcta se establece en el análisis del texto"
+      }
+    ]
+  },
+  {
+    "type": "reading_comprehension",
+    "statement": "Cuando existe un amor duradero, las dos personas entienden que se han unido para formar y constituir una nueva entidad en el mundo, lo que podríamos denominar un nosotros. El amor, el amor romántico, consiste en querer formar un nosotros con esa persona particular, sintiendo que esa persona es la adecuada para formarlo, o quizá deseando que lo sea, y así deseando que el otro sienta lo mismo por uno. El amor, pues, entre otras cosas, puede hacernos correr un riesgo dado que nuestro bienestar está ligado al de alguien a quien amamos románticamente. Las cosas buenas y malas que le ocurren a la persona amada nos afectan. Sin embargo, las personas que forman un nosotros no sólo conjugan su bienestar sino su autonomía. Limitan o restringen su capacidad y derecho para tomar ciertas decisiones; algunas decisiones ya no se pueden tomar a solas. Cada pareja escoge cuáles han de ser estas decisiones: dónde vivir, cómo vivir, quienes son los amigos y cómo verlos, si tener hijos y cuántos, adónde viajar, etcétera. Cada cual transfiere el derecho a tomar ciertas decisiones unilaterales a una esfera de decisión conjunta; se toman decisiones conjuntas aun sobre cómo estar juntos eliminando, de esta forma, algún tipo de conflicto de intereses.",
+    "questions": [
+      {
+        "statement": "Tanto el fragmento A como el fragmento B abordan el tema de",
+        "alternatives": [
+          "A) la conformación de un nosotros y el desprendimiento en el amor.",
+          "B) el conflicto de intereses entre los conformadores de un nosotros.",
+          "C) cómo fortalecen, mutuamente, el éxito y fracaso a los amantes.",
+          "D) cómo se resuelve el conflicto de intereses en el terreno del amor.",
+          "E) cómo se toman decisiones unilaterales en el terreno del amor."
+        ],
+        "correct": 3,
+        "rationale": "El tema que trabajan tanto 3A como 3B es cómo se resuelve el conflicto de intereses en el terreno del amor. Para 3A ello se da por medio del desprendimiento de cada uno de los amantes, mientras que 3B sostiene que ello se da mediantes la conformación de un nosotros."
+      },
+      {
+        "statement": "En el fragmento 3B, la frase CORRER UN RIESGO implica",
+        "alternatives": [
+          "A) abrogarse un desinterés.",
+          "C) asumir una responsabilidad.",
+          "E) beneficiarse de los éxitos.",
+          "B) privación de la libertad.",
+          "D) derechos irrestrictos."
+        ],
+        "correct": 1,
+        "rationale": "En 3B la frase CORRER UN RIESGO implica asumir una responsabilidad toda vez que al conformar un nosotros uno se va a ver afectado por la otra persona y"
+      }
+    ]
+  },
+  {
+    "type": "reading_comprehension",
+    "statement": "El tema que trabajan tanto 3A como 3B es cómo se resuelve el conflicto de intereses en el terreno del amor. Para 3A ello se da por medio del desprendimiento de cada uno de los amantes, mientras que 3B sostiene que ello se da mediantes la conformación de un nosotros.",
+    "questions": [
+      {
+        "statement": "En el fragmento 3B, la frase CORRER UN RIESGO implica",
+        "alternatives": [
+          "A) abrogarse un desinterés.",
+          "B) privación de la libertad.",
+          "C) asumir una responsabilidad.",
+          "D) derechos irrestrictos.",
+          "E) beneficiarse de los éxitos."
+        ],
+        "correct": 2,
+        "rationale": "En 3B la frase CORRER UN RIESGO implica asumir una responsabilidad toda vez que al conformar un nosotros uno se va a ver afectado por la otra persona y viceversa, conjugando su bienestar y su autonomía."
+      },
+      {
+        "statement": "Respecto a los argumentos presentados por 3A resulta incompatible sostener respecto al interés del amante",
+        "alternatives": [
+          "A) se llega a identificar con el del amado.",
+          "B) no conlleva a un perjuicio emocional.",
+          "C) desinterés le causa un gran beneficio.",
+          "D) lo impele a preocuparse por el amado.",
+          "E) es equivalente al interés de su amado."
+        ],
+        "correct": 1,
+        "rationale": "En 3A se indica que el amante sufre con el fracaso de su amado por lo cual puede acarrearle un perjuicio emocional."
+      },
+      {
+        "statement": "Se infiere que en 3A prevalece una actitud de ______________;mientras que en 3B una actitud de __________________.",
+        "alternatives": [
+          "A) desinterés; conveniencia",
+          "C) subrogación; cooperación",
+          "E) identificación; colaboración",
+          "B) pertinacia; reciprocidad",
+          "D) altruismo; compensación"
+        ],
+        "correct": 2,
+        "rationale": "En 3A prevalece una actitud de compenetración y solidaridad entre las partes; mientras que el 3B se aboga por una actitud de colaboración."
+      },
+      {
+        "statement": "Si en 3B ciertas decisiones unilaterales no pasaran a una esfera de decisión conjunta, probablemente,",
+        "alternatives": [
+          "A) el desinterés diligente del amado prevalecería.",
+          "B) interés y desinterés serían al final la misma cosa.",
+          "C) cada pareja escogería estas posibles decisiones.",
+          "D) se presentaría un posible conflicto de intereses.",
+          "E) se constituiría una nueva entidad: el nosotros."
+        ],
+        "correct": 3,
+        "rationale": "Si ciertas decisiones unilaterales no llegaran a pasar al campo de las decisiones conjuntas, donde prevalece el nosotros, se presentaría un conflicto de intereses."
+      }
+    ]
+  }
+]

@@ -1,0 +1,913 @@
+[
+  {
+    "type": "reading_comprehension",
+    "statement": "La comunicación lingüística se sirve de dos códigos a partir de la invención de la escritura. Estos se manifiestan en dos modalidades diferentes, según el medio y el canal usados para la transmisión de los mensajes: la modalidad oral y la modalidad escrita. En la modalidad oral se emplean elementos fónicos, que se transmiten por el aire en forma de ondas sonoras perceptibles acústicamente por el receptor, denominado oyente . En la modalidad escrita, en cambio, se emplean elementos gráficos, que, plasmados sobre un determinado soporte material, son percibidos visualmente por el receptor, que adquiere la condición de lector . Aunque la escritura nace como técnica para representar gráficamente el lenguaje, no es un simple método de transcripción de la lengua hablada. Si exceptuamos cierto tipo de escritos destinados a reproducir lo que se ha dicho (como las actas de las sesiones parlamentarias) o lo que se ha de decir (como los diálogos de las obras te atrales o de los guiones cinematográficos), la comunicación escrita se configura como un código en cierto modo autónomo, con características y recursos propios, y funciones específicas distintas, aunque complementarias, de las correspondientes a la comunicación oral. Ambos códigos, oral y escrito, son interdependientes en la medida en que los dos construyen sus mensajes con arreglo a un mismo sistema, el sistema lingüístico, y entre ellos existen evidentes interrelaciones e influencias mutuas; pero su auto nomía se hace asimismo patente en el hecho de que muchos de los elementos acústicamente perceptibles en la comunicación oral carecen de reflejo gráfico en la escritura, como la intensidad del sonido, la velocidad de emisión, los cambios de ritmo, los silencios, las inflexiones expresivas de sentimientos o actitudes del hablante (ironía, reproche, irritación, etc.). Y, a la inversa, existen recursos propios de muchos sistemas de escritura, como la separación de palabras mediante espacios en blanco, la división en párrafos, la oposición entre la forma minúscula y mayúscula de las letras, los entrecomillados, etc., que no tienen correlato acústico. Así pues, no todos los rasgos fónicos de la comunicación oral se corresponden con elementos gráficos en la comunicación escrita y, a su vez, esta posee recursos que le son propios y que no tienen necesariamente reflejo en el plano oral. Real Academia Española, Ortografía de la lengua española , pp. 6 -7",
+    "questions": [
+      {
+        "statement": "Centralmente, el texto versa sobre",
+        "alternatives": [
+          "A) las diferencias y los engarces entre la escritura y la oralidad.",
+          "B) la comunicación lingüística manifestada en el discurso oral.",
+          "C) las funciones capitales de los sistemas lingüísticos escriturarios.",
+          "D) los recursos privativos de los sistemas de escritura y oralidad.",
+          "E) el reflejo del discurso oral en los mecanismos de la escritura."
+        ],
+        "correct": 0,
+        "rationale": "Solución: El tema central del texto es la diferenciación entre las modalidades escrita y oral de la comunicación oral, junto con sus correspondencias."
+      },
+      {
+        "statement": "El término CORRELATO se puede reemplazar por",
+        "alternatives": [
+          "A) importe.",
+          "B) símil.",
+          "C) reflejo.",
+          "D) proporción",
+          "E) sistema."
+        ],
+        "correct": 2,
+        "rationale": "Solución: Un correlato es un reflejo de una modalidad en la otra modalidad."
+      },
+      {
+        "statement": "Determine la alternativa que contiene la idea principal del texto.",
+        "alternatives": [
+          "A) La escritura es una forma gráfica que aparece como técnica para representar de manera visual al lenguaje.",
+          "B) Algunos de los rasgos acústicos carecen de una correspondencia directa en la comunicación escrita.",
+          "C) Las actitudes de los hablantes, manifestadas en el plano oral, son irreproducibles en el contexto de la norma escrita.",
+          "D) Ciertos recursos usados en la redacción de textos procuran mantener el engarce con los sistemas lingüísticos particulares.",
+          "E) Los códigos oral y escrito son interdependientes dada su relación con la lengua, pero tienen cierta autonomía."
+        ],
+        "correct": 4,
+        "rationale": "Solución: La aserción que desarrolla esencialmente el tema central, relativo a las relaciones y las diferencias entre la oralidad y la escritura, se explicita en la alternativa (E), ya que, en efecto existe interdependencia entre ambos códigos; no obstante, las diferencias visibles. Clave: E"
+      },
+      {
+        "statement": "Resulta incompatible con el texto afirmar que los recursos escriturarios",
+        "alternatives": [
+          "A) son distintos y complementarios respecto del discurso oral.",
+          "B) van más allá de ser un método de transcripción de lo oral.",
+          "C) se corresponden completamente con los del código oral.",
+          "D) determinan que el receptor adquiera la condición de lector.",
+          "E) comprenden, entre otros, al uso de letras mayúsculas."
+        ],
+        "correct": 2,
+        "rationale": "Solución: Muchos de los elementos de la oralidad carecen de correspondencia con el código escrito. Resulta contrario afirmar que existe equivalencia total. Clave: C"
+      },
+      {
+        "statement": "El autor del texto tiene como propósito fundamental",
+        "alternatives": [
+          "A) exponer la complementariedad, basada en las diferencias y los engarces, entre la oralidad y la escritura.",
+          "B) determinar el carácter conservador y estático de la tradición oral, junto con la supremacía de la escritura.",
+          "C) definir las diferencias irreconciliables entre el plano escrito y el plano oral para ponderar el papel de la escritura.",
+          "D) cuestionar la dependencia que la oralidad evidencia respecto de la tradición escrituraria europea.",
+          "E) avalar la facilidad con la que la escritura transcribe por completo las propiedades"
+        ],
+        "correct": 0,
+        "rationale": "Solución: El autor se propone no solo exponer las diferencias entre la oralidad y la escritura, sino que asume una visión en la que la interdependencia y las correspondencias entre estas permiten obtener una visión global del fenómeno lingüístico en sus dos planos. Clave: A"
+      },
+      {
+        "statement": "Se deduce del texto que el autor estaría en contra de quien afirme que",
+        "alternatives": [
+          "A) las reglas prescriptivas tienen cierto correlato en la oralidad.",
+          "B) los mecanismos orales suponen la determinación de lector.",
+          "C) las reglas escriturarias están subordinadas a la oralidad.",
+          "D) la modalidad oral se transmite a través de ondas acústicas.",
+          "E) es evidente la interdependencia de los niveles oral y escrito."
+        ],
+        "correct": 2,
+        "rationale": "Solución: Para el autor del texto, la escritura y la oralidad se encuentran en una relación de complementariedad. Por tal razón, es incompatible afirmar que existe una relación jerárquica entre ambas. Clave: C"
+      }
+    ]
+  },
+  {
+    "type": "reading_comprehension",
+    "statement": "Debéis, pues, saber que existen dos formas de combatir: la una con las leyes, la otra de las bestias; pero como la primera muchas veces no basta, conviene recurrir a la segunda. Por tanto, es necesario a un príncipe saber utilizar correctamente la bestia y el hombre. Este punto fue enseñado veladamente a los príncipes por los antiguos autores, los cuales escriben cómo Aquiles y otros muchos de aquellos príncipes antiguos fueron entregados al centauro Quirón para que los educara bajo su disciplina. Esto de tener por preceptor a alguien medio bestia y medio hombre no quiere de cir otra cosa sino que es necesario a un príncipe saber usar\n\nUn príncipe está obligado a saber utilizar correctamente la bestia, debe elegir entre ellas la zorra y el león, porque el león no se protege de las trampas ni la zorra de los lobos. Es necesario, por tanto, ser zorra para conocer las trampas y león para amedrentar a los lobos. Los que solamente hacen de león no saben lo que se llevan entre manos. No puede, por ello, un señor prudente —ni de be— guardar fidelidad a su palabra cuando tal fidelidad se vuelve en contra suya y han desaparecido los motivos que determinaron su promesa. Si los hombres fueran todos buenos, este precepto no sería correcto, pero —puesto que son malos y no te guardarían a ti su palabra — tú tampoco tienes por qué guardarles la tuya. Además, jamás faltaron a un príncipe razones legítimas con las que disfrazar la violación de sus promesas. Pero es necesario saber colorear bien esta naturaleza y ser un gran simulador y disimu lador: y los hombres son tan simples y se someten hasta tal punto a las necesidades presentes, que el que engaña encontrará siempre quien se deje engañar.\nMaquiavelo, Nicolás. El príncipe (1513)",
+    "questions": [
+      {
+        "statement": "La frase ESTE PUNTO FUE ENSEÑADO VELADAMENTE significa que se realizó de modo",
+        "alternatives": [
+          "A) soterrado.",
+          "B) ingenuo.",
+          "C) insensato.",
+          "D) enérgico.",
+          "E) incesante."
+        ],
+        "correct": 0,
+        "rationale": "Este punto fue enseñado veladamente (soterradamente) a los príncipes por los antiguos autores…"
+      },
+      {
+        "statement": "Medularmente, Maquiavelo sostiene que todo príncipe debe",
+        "alternatives": [
+          "A) perfeccionar sus buenas e integrales cualidades innatas.",
+          "B) actuar con la astucia y la fuerza para gobernar con éxito.",
+          "C) tener en cuenta que todos los humanos son buenos.",
+          "D) emular la sapiencia de héroes griegos como Aquiles.",
+          "E) mentira su pueblo en todas las circunstancias posibles."
+        ],
+        "correct": 1,
+        "rationale": "El príncipe debe combatir y está obligado a saber utilizar correctamente la bestia, debe elegir entre ellas la zorra y el león: ser zorra para conocer las trampas (astucia) y león para amedrentar a los lobos (fuerza)."
+      },
+      {
+        "statement": "Es incoherente con el texto afirmar que un príncipe debe",
+        "alternatives": [
+          "A) saber utilizar las leyes y la fuerza para combatir.",
+          "B) mentira sus súbditos cuando sea necesario.",
+          "C) cumplir siempre las promesas que hizo.",
+          "D) disimular sus verdaderas intenciones.",
+          "E) emplear la violencia cuando sea oportuno."
+        ],
+        "correct": 2,
+        "rationale": "No puede, por ello, un señor prudente —ni debe— guardar fidelidad a su palabra cuando tal fidelidad se vuelve en contra suya y han desaparecido los motivos que determinaron su promesa."
+      }
+    ]
+  },
+  {
+    "type": "sentence_elimination",
+    "statement": "3. Es incoherente con el texto afirmar que un príncipe debe",
+    "alternatives": [
+      "A) saber utilizar las leyes y la fuerza para combatir.",
+      "B) mentira sus súbditos cuando sea necesario.",
+      "C) cumplir siempre las promesas que hizo.",
+      "D) disimular sus verdaderas intenciones.",
+      "E) emplear la violencia cuando sea oportuno."
+    ],
+    "correct": 2,
+    "rationale": "Solución: No puede, por ello, un señor prudente —ni debe — guardar fidelidad a su palabra cuando tal fidelidad se vuelve en contra suya y han desaparecido los motivos que determinaron su promesa."
+  },
+  {
+    "type": "sentence_elimination",
+    "statement": "4. Si un rey asumiera que todo súbdito es bueno por naturaleza, el rey actuaría con",
+    "alternatives": [
+      "A) autocracia.",
+      "B) intimidación.",
+      "C) simbolismo.",
+      "D) candidez.",
+      "E) intemperancia."
+    ],
+    "correct": 3,
+    "rationale": "Un rey que asumiera la bondad innata de los hombres no respetaría el precepto formulado por Maquiavelo y no podría combatir políticamente. Clave: D"
+  },
+  {
+    "type": "sentence_elimination",
+    "statement": "5. Podemos inferir que, a lo largo del texto, Maquiavelo mantiene",
+    "alternatives": [
+      "A) un optimismo entorno al progreso social.",
+      "B) una concepción moral basada en lo divino.",
+      "C) un interés por la distribución de la riqueza.",
+      "D) una visión pesimista sobre el ser humano.",
+      "E) una inquietud por instaurar un reino feudal."
+    ],
+    "correct": 3,
+    "rationale": "Si los hombres fueran todos buenos, este precepto no sería correcto, pero —puesto que son malos y no te guardarían a ti su palabra — tú tampoco tienes por qué guardarles la tuya. Esto implica una visión pesimista del género humano."
+  },
+  {
+    "type": "verbal_series",
+    "statement": "Marque la alternativa conformada por tres sinónimos.",
+    "alternatives": [
+      "A) efímero, raquítico, endeble.",
+      "B) raudo, célebre, impertérrito.",
+      "C) locuaz, gárrulo, facundo.",
+      "D) erudito, insipiente, prístino.",
+      "E) inope, felón, estulto."
+    ],
+    "correct": 2,
+    "rationale": "Locuaz, gárrulo y facundo son sinónimos de hablador."
+  },
+  {
+    "type": "verbal_series",
+    "statement": "ÁRBOL, INCIENSO; CÍTRICO, POMELO; TUBÉRCULO, CAMO TE;",
+    "alternatives": [
+      "A) cereal, centeno.",
+      "B) verdura, levadura.",
+      "C) adorno, ajonjolí.",
+      "D) harina, gluten.",
+      "E) soya, alimento."
+    ],
+    "correct": 0,
+    "rationale": "Relación de hiperónimo, hipónimo."
+  },
+  {
+    "type": "verbal_series",
+    "statement": "RANA, BATRACIO; ANACONDA, OFIDIO; LLAMA,…",
+    "alternatives": [
+      "A) plantígrado.",
+      "B) camélido.",
+      "C) camello.",
+      "D) dromedario.",
+      "E) oriundo."
+    ],
+    "correct": 1,
+    "rationale": "Relación de hipónimo, hiperónimo."
+  },
+  {
+    "type": "verbal_series",
+    "statement": "ALTRUISTA, CICATERO; INOCUO, INICUO; OPULENTO,",
+    "alternatives": [
+      "A) inope.",
+      "B) pigre.",
+      "C) indómito.",
+      "D) necio.",
+      "E) escéptico."
+    ],
+    "correct": 0,
+    "rationale": "Serie basada en la antonimia."
+  },
+  {
+    "type": "verbal_series",
+    "statement": "¿Cu l de los siguientes términos no guarda relación con la serie verbal?",
+    "alternatives": [
+      "A) eremita",
+      "B) anacoreta",
+      "C) asceta",
+      "D) cenobita",
+      "E) misántropo"
+    ],
+    "correct": 4,
+    "rationale": null
+  },
+  {
+    "type": "verbal_series",
+    "statement": "4. ALTRUISTA, CICATERO; INOCUO, INICUO; OPULENTO,",
+    "alternatives": [
+      "A) inope.",
+      "B) pigre.",
+      "C) indómito.",
+      "D) necio.",
+      "E) escéptico."
+    ],
+    "correct": 0,
+    "rationale": "Serie basada en la antonimia."
+  },
+  {
+    "type": "verbal_series",
+    "statement": "5. ¿Cu l de los siguientes términos no guarda relación con la serie verbal?",
+    "alternatives": [
+      "A) eremita",
+      "B) anacoreta",
+      "C) asceta",
+      "D) cenobita",
+      "E) misántropo"
+    ],
+    "correct": 4,
+    "rationale": "Misántropo: Persona que, por su humor tétrico, manifiesta aversión al trato humano."
+  },
+  {
+    "type": "verbal_series",
+    "statement": "6. ¿Cuál es el té rmino que no corresponde a la serie verbal?",
+    "alternatives": [
+      "A) quimérico",
+      "B) inane",
+      "C) vacuo",
+      "D) insustancial",
+      "E) fútil"
+    ],
+    "correct": 0,
+    "rationale": "Quimérico: Fabuloso, fingido o imaginado sin fundamento."
+  },
+  {
+    "type": "verbal_series",
+    "statement": "7. Señale el término que no corresponde a la serie verbal.",
+    "alternatives": [
+      "A) impá vido",
+      "B) impertérrito",
+      "C) infausto",
+      "D) inconmovible",
+      "E) impasible"
+    ],
+    "correct": 2,
+    "rationale": "Infausto: desgraciado, infeliz."
+  },
+  {
+    "type": "verbal_series",
+    "statement": "8. Señale el término que no corresponde a la serie verbal.",
+    "alternatives": [
+      "A) cándido",
+      "B) ponzoñoso",
+      "C) virulento",
+      "D) venenoso",
+      "E) maligno"
+    ],
+    "correct": 0,
+    "rationale": "Cándido: Sencillo, sin malicia ni doblez."
+  },
+  {
+    "type": "reading_comprehension",
+    "statement": "SEMANA 6 B\n\nLa facultad del lenguaje puede ser considerada razonablemente «el órgano del\nlenguaje», en el mismo sentido en que los científicos hablan del sistema de la vista, el\nsistema inmunológico o el sistema circulatorio, como órganos del cuerpo. Entendido así,\nun órgano no es algo que se pueda extraer dejando el resto del cuerpo intacto. Un órgano\nes un subsistema de una estructura más compleja. Lo que esperamos es entender toda\nsu complejidad a partir del estudio de las partes que tienen ciertas características\ndistintivas y su forma de interactuar. El estudio de la facultad del lenguaje procede de la\n\nDamos por supuesto también que el órgano del lenguaje es como otros órganos en\ncuanto a que su naturaleza está genéticamente determinada. Averiguar cómo ocurre tal\ndeterminación es un prospecto de investigación muy distante, pero sí podemos investigar el\n«estado inicial», genéticamente determinado, de la facultad del lenguaje . Evidentemente,\ncada lengua es el resultado de la interacción de dos factores: el estado inicial y el curso de\nla experiencia. Podemos imaginar el estado inicial como un «mecanismo de adquisición de\nlenguas» que procesa la experiencia como input y genera lengua como output ,un output\nque está internamente representado en la mente/cerebro. Tanto el input como el output\npueden ser investigados. Así, podemos estudiar el curso de la experiencia y las\npropiedades de las lenguas que se han adquirido. Esto puede decirnos mucho sobre el\neestado inicial que interviene entre ambos. Además, hay razones muy poderosas para creer\nque el estado inicial es común a toda la especie: si mis hijos hubieran crecido en Tokio,\nhablarían japonés, como otros niños allí. Esto significa que la evidencia del japonés tiene\nrelevancia directa respecto de los supuestos teóricos que formulemos en cuanto al estado\ninicial para el inglés. Así, es posible establecer fuertes condiciones empíricas que deben ser\nsatisfechas por la teoría del esta do inicial, además de ofrecer una multitud de problemas\npara la biología del lenguaje: ¿Cómo es que los genes determinan el estado inicial y cuáles\nson los mecanismos cerebrales que participan en ese estado y el estado posterior que\nasume? Estos son problemas extremadamente difíciles, incluso en el caso de sistemas\nmucho más simples en los cuales la experimentación es posible, pero algunos pueden\ncomenzar a visualizarse en el horizonte de la investigación.\n\nChomsky, Noam. Noam Chomsky: Nuestro Conocimiento del Lenguaje Humano.\nPerspectivas Actuales . Santiago de Chile, Universidad de Concepción & Bravo y Allende\nEditores, pp. 15 -17\n\n1. El tema central del texto es\nA) las investigaciones de lenguas particulares desde la biología.\nB) las lenguas particulares y su inclusión en un sistema abstracto.\nC) el estado inicial del lenguaje en el campo de la ciencia cognitiva.\nD) el lenguaje como componente de los sistemas del cuerpo humano.\nE) el estudio del lenguaje como facultad determinada biológicamente.",
+    "questions": [
+      {
+        "statement": "El tema central del texto es",
+        "alternatives": [
+          "A) las investigaciones de lenguas particulares desde la biología.",
+          "B) las lenguas particulares y su inclusión en un sistema abstracto.",
+          "C) el estado inicial del lenguaje en el campo de la ciencia cognitiva.",
+          "D) el lenguaje como componente de los sistemas del cuerpo humano.",
+          "E) el estudio del lenguaje como facultad determinada biológicamente."
+        ],
+        "correct": 4,
+        "rationale": "El texto aborda el estudio del lenguaje como facultad biológicamente definida. En esos términos, Chomsky usa la metáfora del órgano para referirse al lenguaje."
+      },
+      {
+        "statement": "La palabra VISUALIZARSE puede ser reemplazada por",
+        "alternatives": [
+          "A) examinarse.",
+          "B) def inirse.",
+          "C) experimentarse.",
+          "D) observarse.",
+          "E) clarificarse."
+        ],
+        "correct": 4,
+        "rationale": "El verbo se usa para referirse a problemas de índole científica. En tanto que tal, visualizarlos, supone una clarificación o dilucidación de estos."
+      },
+      {
+        "statement": "La óptica de Chomsky respecto del lenguaje relieva su capacidad para",
+        "alternatives": [
+          "A) constituirse como un elemento subordinado del sistema nervioso.",
+          "B) predecir todas las particularidades evidenciadas en las lenguas.",
+          "C) depender de la influencia del medio para constituirse como órgano.",
+          "D) complejizar el conocimiento que los individuos tienen de la lengua."
+        ],
+        "correct": 1,
+        "rationale": "Chomsky asume que el estado inicial del lenguaje permite a los individuos adquirir diversos caminos cognitivos en la adquisición lingüístico."
+      },
+      {
+        "statement": "Es incompatible con el desarrollo textual afirmar que la determinación genética del lenguaje",
+        "alternatives": [
+          "A) será, probablemente, clarificada científicamente.",
+          "B) es una propuesta completamente corroborada.",
+          "C) constituye un problema complejo de indagación.",
+          "D) se relaciona directamente con su estado inicial.",
+          "E) configura el estado inicial de todos los hablantes."
+        ],
+        "correct": 1,
+        "rationale": "La determinación genética del lenguaje junto con otros problemas, en palabras del autor, «… son problemas extremadamente difíciles … pero algunos pueden comenzar a visualizarse en el horizonte de la investigación». Afirmar que esta propuesta has ido corroborada es incompatible."
+      },
+      {
+        "statement": "El autor del texto estaría en desacuerdo con una propuesta que se oriente por afirmar que la adquisición lingüística",
+        "alternatives": [
+          "A) involucra al estado inicial definido biológicamente.",
+          "B) supone el procesamiento de evidencia empírica.",
+          "C) se desarrolla soslayando el marco experiencial.",
+          "D) es un proceso que se desarrolla espontáneamente.",
+          "E) comprende aspectos biológicos y experienciales."
+        ],
+        "correct": 2,
+        "rationale": "La adquisición lingüística, según Chomsky, comprende dos factores: el estado inicial y la experiencia. Por consiguiente, el factor experiencial no puede ser soslayado."
+      },
+      {
+        "statement": "Se deduce del texto que las indagaciones del lenguaje, en la óptica definida por el\nautor, pueden orientarse",
+        "alternatives": [
+          "A) solo al estudio de lenguas como el inglés.",
+          "B) tanto hacia el plano psíquico como al físico.",
+          "C) únicamente hacia el marco de la experiencia.",
+          "D) apelando al influjo del fenómeno cultural.",
+          "E) deben priorizar lo concreto de la oralidad."
+        ],
+        "correct": 1,
+        "rationale": "Chomsky señala que las investiga ciones lingüísticas pueden realizarse respecto del input y el output ;esto es, sobre la información mental tanto como a la manifestación de ese conocimiento abstracto."
+      },
+      {
+        "statement": "Se deduce del texto que las indagaciones del lenguaje, en la óptica definida por el\nautor, pueden orientarse",
+        "alternatives": [
+          "A) solo al estudio de lenguas como el inglés.",
+          "B) tanto hacia el plano psíquico como al físico.",
+          "C) únicamente hacia el marco de la experiencia.",
+          "D) apelando al influjo del fenómeno cultural.",
+          "E) deben priorizar lo concreto de la oralidad."
+        ],
+        "correct": 1,
+        "rationale": "Chomsky señala que las investiga ciones lingüísticas pueden realizarse respecto del input y el output ;esto es, sobre la información mental tanto como a la manifestación de ese conocimiento abstracto."
+      }
+    ]
+  },
+  {
+    "type": "reading_comprehension",
+    "statement": "He estudiado, ¡ay!, filosofía, jurisprudencia y medicina, y también, ¡por desgracia!, teología; profundamente, con apasionado esfuerzo. Y heme aquí ahora, ¡pobre loco!, tan cuerdo como era antes. Soy magíster, y hasta doctor, y ya va para diez años que, por altos y bajadas, por llanos y revueltas, a mis dis cípulos de la barba llevo. ¡Y no solo veo que nada podemos saber! ¡La sangre con esto me hierve! Bien es verdad que no tengo más juicio que todos estos fatuos, doctores, maestros, curiales, frailucos; no me atormentan ni escrúpulos ni dudas, no me asustan ni el diablo ni el infierno: en recompensa me ha sido arrebatada toda alegría, y ya no me imagino saber nada en concreto, no me imagino poder enseñar, ni mejorar ni convertir a los hombres. Tampoco tengo bienes, ni dinero, ni decoro, ni mundanos lujos; ¡n i un perro quisiera espíritu no se me revela algún secreto; porque no tenga más que decir con sudor agrio lo que no sé; porque entienda lo que al mundo mantiene en sus entrañas. ¡Mira toda esa fuerza y semilla creadoras y no sigas rebuscando en las palabras! ¡Oh, si tú, claro de luna, por última vez piensa en mi pena, tú a quien más de una medianoche sobre este pupitre esperé en vela; luego, sobre libros y papeles, cuál triste amigo teme aparecías! ¡Ah! Pudiera yo por altas cumbres bajo tu amada luz pasar, errar por las cavernas con espíritus, en prados de penumbras estar, ¡libre de todo fardo de ciencia, curándome en un baño en tu rocío! ¡Ay, dolor! ¿Pero es que sigo en este calabozo? ¡Maldito hueco sofocante en el que hasta a la querida luz del cielo refractan y enturbias pintados cristales! Limitados por este montón de libros carcomidos de polilla, cubiertos de un polvo que, hasta lo alto de la bóveda, se acumula en ahumados papeles; rodeado de vasos y cajitas, abarrotado de instrumentos, todos los trastos de mis antecesores ahí metidos. ¡Ese es el mundo! ¿Y eso ha de ser el mundo? ¿Y preguntas todavía por qué el corazón en tu pecho, temeroso, se te encoge? ¿Por qué un dolor inexplicable te frena el ansia de vivir? En vez de animada naturaleza, en la que Dios creó a los hombres, te rodean tan solo, entre humo y moho, despojos de animales y osamenta de muertos. ¡Huye! ¡Levántate! ¡Afuera, a campo abierto! ¿Acaso este libro misterioso, de puño y letra del propio Nostradamus, no te es suficiente compañía? Conoce entonces el rumbo de los astros, y si la naturaleza te instruyera, se te revelarían las facultades del alma, al igual que un espíritu al otro habla. Es inútil que un árido meditar en este sitio los mágicos símbolos te explique.",
+    "questions": [
+      {
+        "statement": "En síntesis, el autor del texto sostiene que",
+        "alternatives": [
+          "A) la reflexión doctrinaria no capta lo verdadero; en cambio la magia es el genuino camino hacia la entraña del mundo.",
+          "B) nadie lee los libros antiguos que merecen llenarse de polillas puesto que solo contienen opiniones erróneas.",
+          "C) los astros nos señalan el camino verdadero; en cambio la ciencia no llega a descubrir la verdad de la realidad.",
+          "D) estudiar jurisprudencia, medicina o filosofía no nos hace conocedores de la esencia del universo.",
+          "E) sólo Nostradamus pudo llegar a entender el misterio del universo puesto que empleo sus conocimientos de magia."
+        ],
+        "correct": 0,
+        "rationale": "El conocimiento teórico no capta la esencia de la realidad, por eso hay que entregarnos a la magia."
+      },
+      {
+        "statement": "¿Cuál es el sentido contextual de la palabra FATUO?",
+        "alternatives": [
+          "A) Orate",
+          "B) Jactancioso",
+          "C) Racional",
+          "D) Mundano",
+          "E) Irrespetuoso"
+        ],
+        "correct": 1,
+        "rationale": "Bien es verdad que no tengo más juicio que todos estos fat uos (jactanciosos), doctores, maestros."
+      },
+      {
+        "statement": "La referencia a los discípulos del autor connota que él se considera un",
+        "alternatives": [
+          "A) personaje orate.",
+          "B) orador locuaz.",
+          "C) profesor dichoso.",
+          "D) mero instructor.",
+          "E) ateo recalcitrante."
+        ],
+        "correct": 3,
+        "rationale": "Soy magíster, y hasta doctor, y ya va para diez años que, por altos y bajadas, por llanos y revueltas, a mis discípulos de la barba llevo. ¡Y no solo veo que nada podemos saber!"
+      }
+    ]
+  },
+  {
+    "type": "reading_comprehension",
+    "statement": "Chomsky señala que las investiga ciones lingüísticas pueden realizarse respecto del input y el output ;esto es, sobre la información mental tanto como a la manifestación de ese conocimiento abstracto. La evidencia empírica de lenguas como el japonés o el inglés harían posible el planteamiento de hipótesis plausibles acerca de cómo es el estado inicial del lenguaje. El autor expone que la clarificación acerca de cómo los genes definen el estado inicial del lenguaje es muy distante aún. Si se pudiera medir este proceso de manera fiable, las indagaciones serían plausibles y no lindarían en el terreno de la dificultad.",
+    "questions": [
+      {
+        "statement": "Se deduce del texto que las indagaciones del lenguaje, en la óptica definida por el autor, pueden orientarse",
+        "alternatives": [
+          "A) solo al estudio de lenguas como el inglés.",
+          "B) tanto hacia el plano psíquico como al físico.",
+          "C) únicamente hacia el marco de la experiencia.",
+          "D) apelando al influjo del fenómeno cultural.",
+          "E) deben priorizar lo concreto de la oralidad."
+        ],
+        "correct": 1,
+        "rationale": "El autor expone que la clarificación acerca de cómo los genes definen el estado inicial del lenguaje es muy distante aún. Si se pudiera medir este proceso de manera fiable, las indagaciones serían plausibles y no lindarían en el terreno de la dificultad."
+      },
+      {
+        "statement": "Podemos colegir que, según Chomsky, la observación de lenguas como el castellano y el quechua harían posible",
+        "alternatives": [
+          "A) la representación de modelos abstractos acerca de la relación entre lengua y cosmovisión.",
+          "B) la evaluación de los datos empíricos que influyen de manera objetiva en el aprendizaje de habilidades lingüísticas.",
+          "C) un análisis cualitativo del papel determinante que la experiencia del niño tiene en la aparición del lenguaje.",
+          "D) la distinción taxativa del comportamiento lingüístico sin posibilidad de asumir un marco de generalidad.",
+          "E) la teorización respecto de las propiedades y características del estado inicial del lenguaje."
+        ],
+        "correct": 4,
+        "rationale": "La evidencia empírica de lenguas como el japonés o el inglés harían posible el planteamiento de hipótesis plausibles acerca de cómo es el estado inicial del lenguaje."
+      },
+      {
+        "statement": "Si se contara con pruebas fiables acerca de la influencia de los genes en el lenguaje, probablemente,",
+        "alternatives": [
+          "A) las indagaciones respecto de cómo se gesta el estado inicial y sus hipótesis corroborables serían plausibles para Chomsky.",
+          "B) lenguas como e l inglés o el japonés carecerían de valor en la propuesta genética planteada por el autor.",
+          "C) los datos de las lenguas particulares constituirían el único objeto de estudio en el marco de la propuesta chomskiana.",
+          "D) la teoría biológica planteada por Chomsky sería desplazada por una propuesta orientada hacia el output.",
+          "E) los mecanismos de adquisición lingüísticas serían un objeto de estudio velado para los lingüistas."
+        ],
+        "correct": 0,
+        "rationale": "El autor expone que la clarificación acerca de cómo los genes definen el estado inicial del lenguaje es muy distante aún. Si se pudiera medir este proceso de manera fiable, las indagaciones serían plausibles y no lindarían en el terreno de la dificultad."
+      }
+    ]
+  },
+  {
+    "type": "reading_comprehension",
+    "statement": "Soy magíster, y hasta doctor, y ya va para diez años que, por altos y bajadas, por llanos y revueltas, a mis discípulos de la barba llevo. ¡Y no solo veo que nada podemos saber!\n¡Mira toda es fuerza y semilla creadoras y no sigas rebuscando en las palabras!\n¿Pero es que sigo en este calabozo? ¡Maldito hueco sofocante en el que hasta a la querida luz del cielo refractan y enturbias pintados cristales! Limitados por este montón de libros…",
+    "questions": [
+      {
+        "statement": "La referencia a los discípulos del autor connota que él se considera un",
+        "alternatives": [
+          "A) personaje orate.",
+          "B) orador locuaz.",
+          "C) profesor dichoso.",
+          "D) mero instructor.",
+          "E) ateo recalcitrante."
+        ],
+        "correct": 3,
+        "rationale": null
+      },
+      {
+        "statement": "Para el autor del texto tanto el conocimiento científico como el religioso",
+        "alternatives": [
+          "A) implican certeza.",
+          "B) captan lo esencial.",
+          "C) son vertiginosos.",
+          "D) merecen mucho respeto.",
+          "E) resultan ser inservibles."
+        ],
+        "correct": 4,
+        "rationale": null
+      },
+      {
+        "statement": "Se puede inferir del texto que el autor privilegiaría como método de captar la naturaleza a la",
+        "alternatives": [
+          "A) intuición.",
+          "B) deducción.",
+          "C) inducción.",
+          "D) experimentación.",
+          "E) reflexión."
+        ],
+        "correct": 0,
+        "rationale": null
+      },
+      {
+        "statement": "En el primer párrafo, el autor del texto se muestra",
+        "alternatives": [
+          "A) desolado e inconforme.",
+          "B) frustrado y dogmático.",
+          "C) asombrado e insatisfecho.",
+          "D) satisfecho y pesimista.",
+          "E) escéptico pero optimista."
+        ],
+        "correct": 0,
+        "rationale": null
+      },
+      {
+        "statement": "En el texto, el término SOFOCANTE nos hace pensar que el autor se sentía",
+        "alternatives": [
+          "A) dichoso de ser un doctor en filosofía.",
+          "B) prisionero de las teorías antiguas.",
+          "C) pesimista en tanto a la magia.",
+          "D) escéptico sobre el mundo externo.",
+          "E) optimista sobre la existencia de Dios."
+        ],
+        "correct": 1,
+        "rationale": null
+      }
+    ]
+  },
+  {
+    "type": "sentence_elimination",
+    "statement": "I. En términos generales fueron varios los factores que influyeron en la Revolución, tanto económicos como políticos de diversa índole. II. Un factor que influyó en la Revolución fue el hecho de que e l régimen monárquico se mostraba muy rígido en el contexto de un mundo cambiante. III. Otro factor importante fue el surgimiento de una clase burguesa que nació siglos atrás y que había alcanzado un gran poder en el terreno económico y que ahora empezaba a propugnar el político. IV. También contribuyó el descontento de las clases populares y la expansión de las nuevas ideas ilustradas. V. Desde el punto de vista económico ,la inmanejable deuda del Estado, exacerbada por un sistema de extrema desigualdad social y de altos impuestos, también contribuyó en la Revolución.\n",
+    "alternatives": [
+      "A) I",
+      "B) II",
+      "C) III",
+      "D) IV",
+      "E) V"
+    ],
+    "correct": 0,
+    "rationale": "Se elimina la oración I por redundancia respecto al resto de oraciones."
+  },
+  {
+    "type": "sentence_elimination",
+    "statement": "I. En términos generales fueron varios los factores que influyeron en la Revolución, tanto económicos como políticos de diversa índole. II. Un factor que influyó en la Revolución fue el hecho de que e l régimen monárquico se mostraba muy rígido en el contexto de un mundo cambiante. III. Otro factor importante fue el surgimiento de una clase burguesa que nació siglos atrás y que había alcanzado un gran poder en el terreno económico y que ahora empezaba a propugnar el político. IV. También contribuyó el descontento de las clases populares y la expansión de las nuevas ideas ilustradas. V. Desde el punto de vista económico ,la inmanejable deuda del Estado, exacerbada por un sistema de extrema desigualdad social y de altos impuestos, también contribuyó en la Revolución.",
+    "alternatives": [
+      "A) I",
+      "B) II",
+      "C) III",
+      "D) IV",
+      "E) V"
+    ],
+    "correct": 0,
+    "rationale": "Se elimina la oración I por redundancia respecto al resto de oraciones."
+  },
+  {
+    "type": "sentence_elimination",
+    "statement": "I. Paul Feyerabend participó en la Segunda Guerra Mundial en el ejército alemán, y alcanzó el grado de teniente. II. Al finalizar la Segunda Guerra Mundial comenzó estudios de canto, escenografía, historia y sociología, pero pronto dirigió su interés hacia la física. III. Se doctoró en 1951 y recibió una beca de un año para estudiar con Ludwig Wittgenstein ,pero este murió antes de la llegada de Feyerabend al Reino Unido ,por lo que escogió a Karl Popper como supervisor. IV. Al acabar la beca regresó a Viena ,donde tradujo al alemán La sociedad abierta y sus enemigos ,de Popper. V. Karl Popper es conocido en la historia de la filosofía como el más eximio propugnador del racionalismo crítico.",
+    "alternatives": [
+      "A) I",
+      "B) II",
+      "C) III",
+      "D) IV",
+      "E) V"
+    ],
+    "correct": 4,
+    "rationale": "Se elimina la oración V por inatingencia."
+  },
+  {
+    "type": "sentence_elimination",
+    "statement": "I. El ADN fue aislado por primera vez, durante el invierno de 1869 ,por el médico suizo Friedrich Miescher mientras trabajaba en la Universidad de Tubinga . II. En 1930, Levene y su maestro Kossel probaron que el ácido desoxirribonucleico (ADN) está formado por cuatro bases nitrogenadas, el azúcar desoxirri bosa y un grupo fosfato. III. La función biológica del ADN comenzó a dilucidarse en 1928, con una serie básica de experimentos de la genética moderna realizados por Frederick Griffith . IV. El descubrimiento del ADN y sus funciones implicó un proceso que se inició en el siglo decimonónico. V. Finalmente, el papel exclusivo del ADN en la heredabilidad fue confirmado en 1952 mediante los experimentos de Alfred Hershey y Martha Chase .",
+    "alternatives": [
+      "A) I",
+      "B) II",
+      "C) III",
+      "D) IV",
+      "E) V"
+    ],
+    "correct": 3,
+    "rationale": "Se elimina la oración IV por redundancia."
+  },
+  {
+    "type": "sentence_elimination",
+    "statement": "I. La ley de Hubble es una ley de cosmología física que establece que el corrimiento al rojo de una galaxia es proporcional a la distancia a la que está después de cerca de una década de observaciones. II. La ley de Hubble es considerada como la primera evidencia observacional del paradigma de la expansión del universo. III. Actualmente sirve como una de las piezas más citadas como prueba de soporte del Big Bang pues, según la Ley de Hubble, una medida de la inercia de la expansión del universo viene dada por la Constante de Hubble . IV. A partir de esta relación observacional se puede inferir que las galaxias se alejan unas de otras a una velocidad proporcional a su distancia. V. La ley de Hubble es muy importante en cosmología, puesto que permite apoyar la teoría del Big Bang .",
+    "alternatives": [
+      "A) I",
+      "B) II",
+      "C) III",
+      "D) IV",
+      "E) V"
+    ],
+    "correct": 4,
+    "rationale": "Se elimina la oración V por redundancia."
+  },
+  {
+    "type": "sentence_elimination",
+    "statement": "I) El esquema comunicativo planteado por Bühler define tres funciones del lenguaje: expresiva, apelativa y representativa. II) La visión tripartita de la comunicación planteada por Bühler fue superada por Roman Jakobson. III) Jakobson se orienta por una visión relacional y jerárquica de las funciones del lenguaje. IV) El modelo jakobsoniano del lenguaje asume que ninguna función se encuentra en estado puro. V) El nuevo esquema de Jakobson plantea seis funciones ligadas con los elementos de la comunicación.",
+    "alternatives": [
+      "A) I",
+      "B) IV",
+      "C) III",
+      "D) V",
+      "E) II"
+    ],
+    "correct": 0,
+    "rationale": "La oración I es impertinente respecto del resto de oraciones."
+  },
+  {
+    "type": "sentence_elimination",
+    "statement": "I) Alrededor de 5000 ma natís ubicados en las costas de Florida suelen morir atrapados en las redes de pesca. II) Los manatís de Florida son víctimas de los motores de barcos, que los hacen morir despedazados, y la marea roja. III) El frío costero en Florida ha matado al menos 400 manatís ya que no cuentan con grasa aislante. IV) En invierno los manatís solían valerse de los manantiales termales de las costas de Florida, pero ahora dependen del calor que emiten las plantas generadoras de energía, y por ello se encuentran en peligro de extinción. V) También conocidas como vacas marinas, los manatís son amables y tienen pocos depredadores naturales.",
+    "alternatives": [
+      "A) II",
+      "B) V",
+      "C) I",
+      "D) IV",
+      "E) III"
+    ],
+    "correct": 1,
+    "rationale": "La oración II es impertinente en virtud de que no desarrolla la línea temática del resto."
+  },
+  {
+    "type": "reading_comprehension",
+    "statement": "SEMANA 6 C\n\nEn el Perú nadie es libre de un grado de ‘achoramiento’. Este es un fenómeno que poco a poco ha ido calando y deteriorando a su vez la solidaridad colectiva, fomentándose en cambio un individualismo extremo de sálvese quien pueda, en donde “el vivo vive del zonzo y el zonzo de su trabajo”, donde esto es tan común que no nos sorprende. Aproximadamente por los años 70, el mecanismo social por excelencia era el arribismo, que se instauró en el Perú como consecuencia de una estratificación social rígida, en la que el poder se encontraba concentrado en un solo grupo social que ejercía un total control sobre los canales de movilidad social. Debido a esto, para ascender se debía obtener una disposición favorable por simpatía del superior. Entonces como el poder se encontraba en un solo nivel social, para acceder a este se debía (como decimos en jerga cotidiana) ‘sobonear’, ‘chupar medias’ y adular al superior como único medio para surgir, produciendo as í un relación triádica donde hay un adulador, un adulado y un desacreditado (cualquier otro trabajador con vistas de ascenso es desprestigiado con chismes, criticas, ironía, etc.). Sin embargo por esas fechas nos encontrábamos con el Gobierno Revolucionario de las Fuerzas Armadas (1968 -1975), el cual pretendía liquidar la sociedad oligárquica mediante la reforma agraria, la nacionalización de la banca, etc., y con este nuevo contexto, el arribismo como estrategia queda eliminado, pues el poder ya no queda concentrado en un grupo social (ya no hay a quien ‘sobonear’). La palabra ‘achorado’ deriva de la palabra “choro” (ladrón), persona que vulnera las normas y derechos de los otros, por tanto implica amoralidad. El achoramiento se caracteriza por una acción personal con la cual se pretende escalar posiciones en la estructura social mediante una conducta prepotente, violenta y de desprecio por el otro, en donde la única meta es el éxito personal. Por tanto el achorado es una persona que da una valoración positiva a los objetos socialmente concebidos como bienes dignos, con el fin de poseerlos, siendo sus bienes más preciados el poder, el dinero y el prestigio; y la corrupción y el fraude sus estrategias para conseguirlos. Sin embargo estas características pod rían confundirnos y hacernos pensar que el achorado es un antisocial, al cual no le importan las normas. No obstante, a diferencia del antisocial, el achorado es una persona integrada al sistema, que sí respeta las normas (las que les convienen, claro), co nvirtiéndolas en un saludo a la bandera. No las viola indiscriminadamente, sino más bien las somete a una evaluación costo -beneficio, y las acata si coinciden con o promueven sus intereses, olas quebranta si las considera como un obstáculo. Por estas razones a diferencia de lo que muchos pueden pensar, el achoramiento no nace de las clases populares (no importa la apariencia, la educación o el nivel económico), viene como la difusión de un patrón cultural y mentalidad capitalista. Oswaldo Medina define el a choramiento como una estrategia de ascenso social que se basa en un pragmatismo maquiavélico y en la mercantilización de las relaciones humanas promovidas por un capitalismo cada vez más concentrador, excluyente, desregulado y deshumanizante. Por tanto, ba sándonos en dicha definición, podríamos decir que el achoramiento aparece frente a la incongruencia entre el valor culturalmente establecido y las restricciones socioeconómicas que limitan el acceso a estos.",
+    "questions": [
+      {
+        "statement": "En apretada síntesis el texto se refiere",
+        "alternatives": [
+          "A) al fenómeno del achoramiento caracterizado por una acción personal que permite escalar posiciones en la estructura social, de modo prepotente, violento y con desprecio por el otro, para lograr el éxito personal.",
+          "B) al ejercicio de una estrategia de igualdad social sobre la base de un pragmatismo maquiavélico de mercantilización de las relaciones humanas promocionadas por el mercantilismo de avasalladora concentración.",
+          "C) a las razones por las cuales el achorado no nace de las clases populares, pues no importa la apariencia, la educación o nivel económico, ya que viene como difusión de un patrón cultural y mentalidad capitalista.",
+          "D) a la estructura de poder que se concentraba en un solo nivel social, de tal manera que para acceder a ella se debió a adular al individuo superior, como único medio para surgir en el entorno de esta sociedad.",
+          "E) al acontecimiento histórico de la implementación del movimiento del Gobierno Revolucionario de las Fuerzas Armadas, el cual pretendía liquidar la sociedad oligárquica mediante la reforma agraria y otras medidas."
+        ],
+        "correct": 0,
+        "rationale": null
+      },
+      {
+        "statement": "¿Cuál es el sentido contextual de LIQUIDAR?",
+        "alternatives": [
+          "A) saldar.",
+          "B) amainar.",
+          "C) erradicar.",
+          "D) perpetuar.",
+          "E) perpetrar."
+        ],
+        "correct": 2,
+        "rationale": null
+      },
+      {
+        "statement": "En el texto CALAR significa",
+        "alternatives": [
+          "A) impregnar.",
+          "B) ralentizar.",
+          "C) sorber.",
+          "D) tal adrar.",
+          "E) hundir."
+        ],
+        "correct": 0,
+        "rationale": null
+      },
+      {
+        "statement": "La frase SALUDO A LA BANDERA implica",
+        "alternatives": [
+          "A) honra bastante formal.",
+          "B) justiprecio de una norma.",
+          "C) elusión de cumplimiento.",
+          "D) salutación al emblema.",
+          "E) rito que resulta obsoleto."
+        ],
+        "correct": 2,
+        "rationale": null
+      },
+      {
+        "statement": "No se condice con el texto aseverar que el achoramien to",
+        "alternatives": [
+          "A) introyecta en el achorado como bienes más preciados el poder, el dinero y el prestigio que consigue con la estrategia de la corrupción y el fraude.",
+          "B) es una estrategia de ascenso social fundado en un pragmatismo maquiavélico y en la mercantilizac ión de relaciones sociales capitalistas.",
+          "C) no es un comportamiento antisocial, puesto que los achorados son personas integradas al sistema y que se adecúan a las normas sociales.",
+          "D) en este proceso el achorado valora positivamente todos los objetos socialmente concebidos como bienes dignos, con el fin de poseerlos.",
+          "E) es una acción colectiva con la que se pretende escalar posiciones en la estructura social donde el poder se concentra en un solo nivel cultural."
+        ],
+        "correct": 4,
+        "rationale": null
+      }
+    ]
+  },
+  {
+    "type": "reading_comprehension",
+    "statement": "Ciencia y filosofía forman un continuo. La filosofía es la parte más global, reflexiva y especulativa de la ciencia, la arena de las discusiones que preceden y siguen a los avances científicos. La ciencia es la parte más especializada, rigurosa y bien contrastada de la filosofía, la que se incorpora a los modelos estándar y a los libros de texto y a las aplicaciones tecnológicas. Ciencia y filosofía se desarrollan dinámicamente, en constante interacción. Lo que ayer era especulación filosófica hoy es ciencia establecida. Y la ciencia de hoy sirve de punto de partida a la filosofía de mañana. La reflexión crítica y analítica de la filosofía detecta problemas conceptuales y metodológicos en la ciencia y la empuja hacia un mayor rigor. Y los nuevos resultados de la investigación científica echan por tierra viejas hipótesis especulativas y estimulan a la filosofía a progresar. En griego clásico las palabras ‘ciencia’ ( episteme ) y ‘filosofía’ ( philosophia )se empleaban como sinónimos. Ambas se referían al saber riguroso, y se contraponían a la mera opinión infundada (doxa ).Lo que nosotros llamamos ciencia se originó en el siglo XVIII, con la pretensión de ser una filosofía más rigurosa y fecunda que la practicada hasta entonces. A este surgimiento contribuyeron numerosas personalidades, entre las que destaca Isaac Newton, el fundador de la física moderna. Mosterín, Jesús. Ciencia viva (2001)",
+    "questions": [
+      {
+        "statement": "Principalmente, Jesús Mosterín sostiene que",
+        "alternatives": [
+          "A) la ciencia y la filosofía se encuentran en constante interacción.",
+          "B) la filosofía siempre ha influenciado a los científico se investigadores.",
+          "C) la ciencia es la más elevada culminación de la empresa filosófica.",
+          "D) los griegos identificaban ciencia ( episteme ) y filosofía ( philosophia ).",
+          "E) Isaac Newton es considerado como el fundador de la física moderna."
+        ],
+        "correct": 0,
+        "rationale": "La idea principal se encuentra al inicio del texto: Ciencia y filosofía forman un continuo. Clave: A"
+      },
+      {
+        "statement": "Resulta incompatible respecto a los resultados de la labor científica afirmar que",
+        "alternatives": [
+          "A) permiten contradecir las puras especulaciones metafísicas.",
+          "B) siempre son óbice para la formulación de teorías filosóficas.",
+          "C) sirven de punto de partida para las reflexiones filosóficas.",
+          "D) pueden emplearse en aplicaciones de tipo tecnológico.",
+          "E) han sufrido continuas modificaciones a lo largo del tiempo."
+        ],
+        "correct": 1,
+        "rationale": "La ciencia de hoy sirve de punto de partida a la filosofía de mañana. Clave: B"
+      }
+    ]
+  },
+  {
+    "type": "reading_comprehension",
+    "statement": "Hasta ahora he considerado el progreso en la ciencia sobre todo desde el punto de vista biológico. Sin embargo, me parece que son decisivas las dos precisiones lógicas siguientes. En primer lugar, para que una teoría nueva constituya un descubrimiento o un paso adelante, es menester que entre en conflicto con su predecesora; esto es, es menester que lleve al menos a algunos resultados conflictivos. Pero esto, desde un punto de vista lógico, significa que debe contradecir a su predecesora, debe derrocarla. En este sentido, el progreso en la ciencia es siempre revolucionario. Mi segunda precisión es que, en ciencia, el progreso, a pesar de ser revolucionario y no meramente acumulativo, también, en cierto sentido, es siempre conservador: una teoría, por revolucionaria que sea, siempre debe ser capaz de explicar plenamente el éxito de su predecesora. En todos los casos de éxito de su predecesora, es preciso que produzca resultados por lo menos tan buenos como los de esta y, si es posible, mejores. Así, en estos casos, la teoría predecesora debe aparecer como una buena aproximación de la nueva teoría, mientras que debe haber, preferiblemente, otros casos en que la nueva teoría arroje resultados mejores que la vieja. Popper, Karl. El mito del marco común (1994)",
+    "questions": [
+      {
+        "statement": "2. ¿Cuál es el enunciado que resume lo esencial del texto?",
+        "alternatives": [
+          "A) La perspectiva lógica sobre el progreso científico es superior a la biológica.",
+          "B) Una teoría es revolucionaria cuando niega los resultados de la precedente.",
+          "C) Una teoría científica debe ser conservadora en función al éxito de otras.",
+          "D) El progreso de la ciencia es revolucionario, pero a la vez conservador.",
+          "E) Existen dos perspectivas rivales sobre el desarrollo y progreso de la ciencia."
+        ],
+        "correct": 3,
+        "rationale": "Las dos precisiones se pueden unir sosteniendo que el progreso de la ciencia es revolucionario pero conservador."
+      },
+      {
+        "statement": "3. Si una nueva teoría científica contradice a su predecesora pero es incapaz de explicar los éxitos de esta, aquella nueva teoría",
+        "alternatives": [
+          "A) no debería ser vista como un intento racional.",
+          "B) podría ser considerada como una teoría metafísica.",
+          "C) no podría ser calificada como un avance científico.",
+          "D) podría ser analizada como producto del eclecticismo.",
+          "E) podría ser rotulada como un progreso a largo plazo."
+        ],
+        "correct": 2,
+        "rationale": "En todos los casos de éxito de su predecesora, es preciso que produzca resultados por lo menos tan buenos como los de ésta y, si es posible, mejores."
+      }
+    ]
+  },
+  {
+    "type": "sentence_elimination",
+    "statement": "2. Resulta incompatible respecto a los resultados de la labor científica afirmar que",
+    "alternatives": [
+      "A) permiten contradecir las puras especulaciones metafísicas.",
+      "B) siempre son óbice para la formulación de teorías filosóficas.",
+      "C) sirven de punto de partida para las reflexiones filosóficas.",
+      "D) pueden emplearse en aplicaciones de tipo tecnológico.",
+      "E) han sufrido continuas modificaciones a lo largo del tiempo."
+    ],
+    "correct": 1,
+    "rationale": "La ciencia de hoy sirve de punto de partida a la filosofía de mañana."
+  },
+  {
+    "type": "sentence_elimination",
+    "statement": "3. La expresión SABER RIGUROSO implica un conocimiento",
+    "alternatives": [
+      "A) tecnológico",
+      "B) matemático.",
+      "C) fundamentado..",
+      "D) severo.",
+      "E) irracional."
+    ],
+    "correct": 2,
+    "rationale": "El saber riguroso se opone a la opinión infundada."
+  },
+  {
+    "type": "sentence_elimination",
+    "statement": "4. Si elimináramos la influencia de la reflexión filosófica en el ámbito científico,\nprobablemente",
+    "alternatives": [
+      "A) las ciencias matemáticas llegarían a su máximo apogeo.",
+      "B) los seres humanos alcanzarían la utópica felicidad.",
+      "C) las sociedades caerían en una profunda anarquía.",
+      "D) los avances científicos disminuirían ostensiblemente.",
+      "E) los políticos despreciarían la opinión de los científicos."
+    ],
+    "correct": 3,
+    "rationale": "La reflexión crítica y analítica de la filosofía detecta problemas conceptuales y\nmetodológicos en la ciencia y la empuja hacia un mayor rigor."
+  },
+  {
+    "type": "sentence_elimination",
+    "statement": "5. Podemos inferir que la contrastación de los enunciados con la realidad conlleva una\nposible",
+    "alternatives": [
+      "A) refutación de hipótesis tanto filosóficas como científicas.",
+      "B) destrucción de todo el edificio del conocimiento humano.",
+      "C) desarticulación del continuo formado por ciencia y filosofía.",
+      "D) sobrevaloración de las aplicaciones tecnológicas a lo social.",
+      "E) incorporación de la metafísica al modelo científico estándar."
+    ],
+    "correct": 0,
+    "rationale": "Los nuevos resultados de la investigación científica echan por tierra viejas hipótesis\nespeculativas y estimulan a la filosofía a progresar."
+  },
+  {
+    "type": "reading_comprehension",
+    "statement": "Las dos precisiones se pueden unir sosteniendo que el progreso de la ciencia es revolucionario pero conservador.",
+    "questions": [
+      {
+        "statement": "Si una nueva teoría científica contradice a su predecesora pero es incapaz de explicar los éxitos de esta, aquella nueva teoría",
+        "alternatives": [
+          "A) no debería ser vista como un intento racional.",
+          "B) podría ser considerada como una teoría metafísica.",
+          "C) no podría ser calificada como un avance científico.",
+          "D) podría ser analizada como producto del eclecticismo.",
+          "E) podría ser rotulada como un progreso a largo plazo."
+        ],
+        "correct": 2,
+        "rationale": "En todos los casos de éxito de su predecesora, es preciso que produzca resultados por lo menos tan buenos como los de ésta y, si es posible, mejores."
+      },
+      {
+        "statement": "Podemos colegir que la concepción acumulativa de la ciencia",
+        "alternatives": [
+          "A) está referida al avance tecnológico en la sociedad de la información.",
+          "B) privilegia la ausencia de contradicción entre la nueva y la antigua teoría.",
+          "C) solo puede aplicarse en el ámbito de una ciencia social como la historia.",
+          "D) es la concepción empleada por la mayoría de los historiadores de la ciencia.",
+          "E) es compatible con el punto de vista biológico sobre el progreso científico."
+        ],
+        "correct": 1,
+        "rationale": "Dentro de la concepción no acumulativa de Popper, para que una teoría nueva constituya un descubrimiento, es menester que entre en conflicto con su predecesora. En contraposición, la concepción acumulativa asumiría lo contrario."
+      },
+      {
+        "statement": "Podemos inferir que DERROCAR una teoría científica implica",
+        "alternatives": [
+          "A) refutación.",
+          "B) aplicación.",
+          "C) inducción.",
+          "D) soslayo.",
+          "E) corroboración."
+        ],
+        "correct": 0,
+        "rationale": "Derrocar una teoría científica, según la concepción de Popper, implica progreso en la ciencia, vale decir, superación de la teoría."
+      }
+    ]
+  },
+  {
+    "type": "reading_comprehension",
+    "statement": "No existe una clave para nuestro problema, ninguna panacea para la enfermedad que padecemos. El síndrome tecnológico es mucho más complejo por eso, y tampoco es cuestión de escapar de él. Aunque efectuemos una importante conversión y reformásemos nuestros hábitos, no por ello desaparecería el problema fundamental. Pues la aventura tecnológica debe proseguir; en adelante, los correctivos susceptibles de asegurar nuestra salud exigen un nuevo desafío sin tregua al ingenio técnico y científico, que engendra nuevos riesgos que le son propios. Así, alejar el peligro es una tarea permanente. Esto significa que, sea cual sea el porvenir, debemos efectivamente vivir en la sombra de una calamidad amenazante. Pero, en ser conscientes de esta sombra, como es el caso hoy día, consiste paradójicamente la chispa de la esperanza: ella, en efecto, impide que desaparezca la voz de la responsabilidad. Esta chispa no brilla a la manera de una utopía, pero su advertencia esclarece nuestro camino como lo hace la fe en la libertad y la razón. De modo que el principio responsabilidad y el principio esperanza se reúnen finalmente, incluso sino se trata de una esperanza exagerada en un paraíso terrestre, sino de una esperanza más moderada respecto a la posibilidad de continuar habitando un mundo en el futuro y respecto a una supervivencia que sea humanamente digna de nuestra especie, teniendo en cuenta la herencia que se le ha confiado. Esta es la carta que se debería jugar.",
+    "questions": [
+      {
+        "statement": "Medularmente, Hans Jonas plantea consideraciones entorno",
+        "alternatives": [
+          "A) a la libertad humana.",
+          "B) a la fe en la razón.",
+          "C) al porvenir sombrío.",
+          "D) al síndrome tecnológico.",
+          "E) al ingenio científico."
+        ],
+        "correct": 3,
+        "rationale": "La enfermedad que se analiza principalmente es el síndrome tecnológico."
+      },
+      {
+        "statement": "En última instancia, el autor del texto defiende una concepción",
+        "alternatives": [
+          "A) esperanzadora sobre el futuro de la humanidad.",
+          "B) apologética sobre el uso de la antigua tecnología.",
+          "C) pesimista sobre la f e en la razón y la libertad.",
+          "D) optimista entorno a los avances de la filosofía.",
+          "E) ambigua respecto a una actitud responsable."
+        ],
+        "correct": 0,
+        "rationale": "Una esperanza más moderada respecto a la posibilidad de continuar habitando un mundo en el futuro y respecto a una supervivencia que sea humanamente digna de nuestra especie."
+      }
+    ]
+  },
+  {
+    "type": "reading_comprehension",
+    "statement": "Una esperanza más moderada respecto a la posibilidad de continuar habitando un mundo en el futuro y respecto a una supervivencia que sea humanamente digna de nuestra especie.",
+    "questions": [
+      {
+        "statement": "El término PANACEA se puede reemplazar por la palabra",
+        "alternatives": [
+          "A) idea.",
+          "B) remedio.",
+          "C) posibilidad.",
+          "D) enigma.",
+          "E) tranquilidad."
+        ],
+        "correct": 1,
+        "rationale": null
+      },
+      {
+        "statement": "Si los seres humanos padeciésemos de una esperanza desmedida, entonces",
+        "alternatives": [
+          "A) la tecnología que heredaríamos sería inocua.",
+          "B) el síndrome tecnológico nunca habría existido.",
+          "C) el ingenio filosófico y científico resultaría superfluo.",
+          "D) el principio de responsabilidad estaría reforzado.",
+          "E) las diversas soluciones caerían en la utopía."
+        ],
+        "correct": 4,
+        "rationale": "La esperanza moderada conlleva la posibilidad de continuar habitando un mundo en el futuro y respecto a una supervivencia que sea humanamente digna de nuestra especie, teniendo en cuenta la herencia tecnológica; en cambio, la esperanza exagerada nos conduciría a buscar un “paraíso terrestre”."
+      },
+      {
+        "statement": "Si alguien sostuviera que la tecnología debe desaparecer,",
+        "alternatives": [
+          "A) iría más allá del pensamiento utópico.",
+          "B) propondría una ética de responsabilidad.",
+          "C) resolvería el síndrome tecnológico.",
+          "D) el autor discreparía con tal posición.",
+          "E) se inauguraría una época de esperanza."
+        ],
+        "correct": 3,
+        "rationale": "El autor sostiene que debemos convivir con la tecnología y que esa actitud consciente nos dota de esperanza y responsabilidad."
+      }
+    ]
+  }
+]

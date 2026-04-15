@@ -1,0 +1,850 @@
+[
+  {
+    "type": "reading_comprehension",
+    "statement": "especialmente a la caracterización específica de los déficits lingüísticos presentes en cada uno de ellos, antes que a la homogenización de los trastornos observados; esta aproximación metodológica ha permitido establecer (i) que los déficits lingüísticos tradicionalmente asociados a las afasias típicas se deberían realmente a la disfunción de áreas corticales más ex tensas de lo creído, tanto en el caso de la afasia de Broca como la de Wernicke; (ii) los aspectos lingüísticos de dichos trastornos son de naturaleza más selectiva de lo esperado en relación con ciertos componentes del lenguaje (por ejemplo, la afasia de Broca afectaría ciertos mecanismos implicados en aspectos de la comprensión y la producción sintácticas); y finalmente, (iii) los síntomas asociados a las áreas de Broca y Wernicke podrían no relacionarse de forma unívoca y exclusiva con dichas regiones, y a que existen pacientes con afasia de Wernicke en los que se ha constatado la existencia de problemas de comprensión de índole sintáctica.\nPor otro lado, técnicas no invasivas como la tomografía por emisión de positrones (PET), la obtención de imágenes me diante resonancia magnética nuclear (fMRI), la electroencefalografía, la magnetoencefalografía (MEG), entre otras, ha proporcionado una información adicional, y sobre todo mucho más precisa a la obtenida por el análisis anatómico y conductual de individuos afectados por algún trastorno lingüístico. Gracias a estas se ha llegado a la conclusión fundamental de que los centros encargados del procesamiento del lenguaje no son homogéneos, sino que se organizarían como una red difusa de subcentros responsables de procesamiento de componentes específicos del lenguaje.",
+    "questions": [
+      {
+        "statement": "1. El empleo del término INCO NVENIENTE connota",
+        "alternatives": [
+          "A) exactitud",
+          "B) caducidad",
+          "C) difusión",
+          "D) imprecisión .",
+          "E) contingencia"
+        ],
+        "correct": 3,
+        "rationale": null
+      },
+      {
+        "statement": "2. El texto aborda sustancialmente el tema de",
+        "alternatives": [
+          "A) la red difusa de subcentros neuronales encargados del procesamiento de componentes específicos del lenguaje humano.",
+          "B) las técnicas no invasivas de escaneo cerebral que han hecho posible la determinación de los centros neuronales del lenguaje.",
+          "C) el cuestionamiento del enfoque tradicional del funcionamiento cerebral relativo al lenguaje a la luz de nuevas aproximaciones analíticas.",
+          "D) la propuesta del hemisferio izquierdo como centro del lenguaje y sus funciones, planteada por Wernicke y por Paul Broca.",
+          "E) las áreas cerebrales encargadas del procesamiento y la producción de información sintáctica, semántica y fonológica."
+        ],
+        "correct": 2,
+        "rationale": null
+      },
+      {
+        "statement": "3. La idea principal del texto es",
+        "alternatives": [
+          "A) las técnicas de análisis usadas en el siglo XIX dificultaban la labor de determinación de las zonas cerebrales asociadas con el funcionamiento lingüístico, debido a que eran invasivas y se realizaban a partir de patologías.",
+          "B) la visión que se tenía respecto del funcionamiento cerebral asociado con el lenguaje en el siglo XIX ha sido criticada a la luz de análisis más sutiles como el neuroanatómico y conductual individualizado, y el uso de técnicas no invasivas.",
+          "C) los déficits lingüísticos vinculados de forma canónica con los trastornos de lenguaje llamados afasias se asumen actualmente como disfunciones de áreas corticales más extensas de las definidas en el siglo XIX por Wernicke y Broca.",
+          "D) la actividad lingüística de distinto tipo se concentra en los circuitos neuronales localizados en tres áreas cerebrales concretas del hemisferio izquierdo: el área de Broca, el área de Wernicke y, finalmente, la circunvolución angular.",
+          "E) el modelo tradicional ha comenzado a cuestionarse debido a los resultados obtenidos mediante aproximaciones analíticas como el diagnóstico individualizado de la conducta de pacientes que padecen afasias."
+        ],
+        "correct": 1,
+        "rationale": null
+      },
+      {
+        "statement": "4. Resulta incompatible afirmar que la práctica científica",
+        "alternatives": [
+          "A) es dinámica, pues las hipótesis que de esta se derivan pueden rechazar se.",
+          "B) posibilita la aproximación plausible de fenómenos asociados con el cerebro.",
+          "C) permite el establecimiento de propuestas teóricas que pueden impugnarse.",
+          "D) soslaya el avance tecnológico, pues está basado en la observación directa.",
+          "E) permite plantear hipótesis que son aceptadas aunque no de forma definitiva."
+        ],
+        "correct": 3,
+        "rationale": null
+      },
+      {
+        "statement": "5. Se deduce del entramado textual que la propuesta decimonónica respecto de las zonas cerebrales involucradas con el lenguaje",
+        "alternatives": [
+          "A) ha sido confirmada por técnicas de análisis como la tomografía por emisión de positrones ola obtención de imágenes mediante resonancia magnética nuclear.",
+          "B) impidió por muchos años que las personas que padecían afasias fueran tratadas de manera apropiada, mediante terapias homogenizantes y excluyentes.",
+          "C) tenía un corte más intuitivo debido a que se realizaba mediante una observación directa de síntomas y carecía de técnicas más sutiles de análisis cerebral.",
+          "D) es lo suficientemente consistente y taxativa como para ser sostenida y defendida por los neuroanatomistas y los médicos más reputados en la a ctualidad.",
+          "E) permitió la determinación incuestionable de la actividad cerebral asociada con los diversos componentes lingüísticos, como el sintáctico, el semántico, entre otros."
+        ],
+        "correct": 2,
+        "rationale": null
+      },
+      {
+        "statement": "6. Es posible colegir del texto que la producción de sintaxis estructurada, desde el nuevo enfoque,",
+        "alternatives": [
+          "A) es estudiada solo a través de pacientes que padecen de afasias severas.",
+          "B) ha confirmado la propuesta de Wernicke sobre el funcionamiento cerebral.",
+          "C) depende de ambos hemisferios cerebrales, pues los circuitos son difusos.",
+          "D) depende únicamente de la circunvolución angular pues es muy selectiva.",
+          "E) opera en una red más amplia antes que en una zona cerebral delimitada."
+        ],
+        "correct": 4,
+        "rationale": null
+      },
+      {
+        "statement": "7. La propuesta modular sostenida por Fodor sostiene que el lenguaje humano tiene una base cerebral específica. Esta propuesta es ____________por las nuevas técnicas de análisis.",
+        "alternatives": [
+          "A) asumida",
+          "B) falsada",
+          "C) confirmada",
+          "D) respetada",
+          "E) difundida"
+        ],
+        "correct": 1,
+        "rationale": null
+      }
+    ]
+  },
+  {
+    "type": "reading_comprehension",
+    "statement": "Imagina robots más pequeños que tu pulgar y que realicen misiones de búsqueda y rescate, exploren entornos peligrosos, recopilen datos científicos en el campo e incluso polinicen cultivos. Robert Wood, fundador del Laboratorio de Microrrobótica de la Universidad de Harvard, está desarrollando un nuevo tipo de diminutos robots voladores llamados RoboBees, con los cuales pretende convertir esto en realidad. «Si lo que quieres es construir algo que mida un centímetro y pueda volar, la naturaleza ya nos ha dado cientos de miles de soluciones —señala —. No nos limitamos a copiar la naturaleza, intentamos entender el qué, cómo y porqué detrás de la anatomía, el movimiento y el comportamiento de un organismo; luego traducimos esta información en términos de ingeniería».\nLos investigadores que han trabajado con expertos en una amplia gama de áreas del conocimiento han tenido que inventar técnicas para fabricar, armar y construir las máquinas miniatura . El proceso de manufactura se basa en elementos electrónicos plegables, una idea que tuvo su inspiración en los libros infantiles pop-up. El prototipo más reciente está sujeto por un hilo muy delgado, bate las alas 120 veces por segundo, flota sin avanzar y vuela por caminos preestablecidos. El siguiente paso es desarrollar una fuente de energía autocontenida que sea lo suficientemente ligera para alimentar a los delicados robots de forma eficiente.\n«Si integramos la funcionalidad eléctrica o mecánica a materiales suaves y maleables, los robots pueden interactuar sin riesgo con los seres humanos. Esto nos abre una nueva gama de aplicaciones médicas», afirma Wood.",
+    "questions": [
+      {
+        "statement": "1. El término PROTOTIPO está referido a una invención",
+        "alternatives": [
+          "A) contingente.",
+          "B) perfectible.",
+          "C) tradicional.",
+          "D) maravillosa.",
+          "E) definitiva."
+        ],
+        "correct": 1,
+        "rationale": null
+      },
+      {
+        "statement": "2. El término SOLUCIÓN, citado en el primer párrafo, está referido a",
+        "alternatives": [
+          "A) intervalos de tiempo en ellas especies se han ido adaptando.",
+          "B) especies que han evolucionado de forma eficiente y natural.",
+          "C) problemas potenciales que los insectos deben resolver pronto.",
+          "D) circunstancias aleatorias que determinaron la vida en la Tierra.",
+          "E) poderosas adaptaciones que han generado especies híbridas."
+        ],
+        "correct": 1,
+        "rationale": null
+      },
+      {
+        "statement": "3. El tema central del texto es",
+        "alternatives": [
+          "A) los efectivos cambios evolutivos que devinieron en insectos voladores pequeños.",
+          "B) la microrrobótica y su aplicación en la invención de animales robóticos pequeños.",
+          "C) los ignotos inventos de robots polinizadores en un laboratorio de microrrobótica.",
+          "D) el experimento realizado en Harvard para crear insectos robóticos de búsqueda.",
+          "E) la invención de diminutos robots multifuncionales en la Universidad de Harvard."
+        ],
+        "correct": 4,
+        "rationale": null
+      },
+      {
+        "statement": "4. Resulta contrario al desarrollo textual afirmar que el robot con el que se cuenta",
+        "alternatives": [
+          "A) tiene en los libros infantiles pop-up la base de su manufactura.",
+          "B) ha sido diseñado para poder volar manteniéndose suspendido.",
+          "C) presenta una alta optimización en uso de reservas energéticas.",
+          "D) se encuentra sujetado por un hilo de finura sumamente acusada.",
+          "E) es capaz de agitar sus alas artificiales a 120 veces por segundo."
+        ],
+        "correct": 2,
+        "rationale": null
+      },
+      {
+        "statement": "5. Es compatible sostener que los inventores del laboratorio de Harvard",
+        "alternatives": [
+          "A) esperan conseguir un espécimen de androide que supere a la naturaleza.",
+          "B) actualmente se encuentran enfocados en resolver el problema energético.",
+          "C) lanzaron al mercado robots con capacidad para la búsqueda y el rescate.",
+          "D) muy pronto sustituirán a los alimentos naturales y los animales silvestres.",
+          "E) fueron manipulados para crear robots con objetivos fraudulentos y nocivos."
+        ],
+        "correct": 1,
+        "rationale": null
+      },
+      {
+        "statement": "6. Es posible deducir del desarrollo textual que el prototipo inventado",
+        "alternatives": [
+          "A) ha respondido de manera favorable en labores de búsqueda.",
+          "B) únicamente sirve para realizar exámenes médicos muy sutiles.",
+          "C) presenta un dispositivo de energía interno todavía muy pesado .",
+          "D) ha tenido como fuente de inspiración en su diseño a los colibríes.",
+          "E) es capaz de ejecutar vuelos de manera independiente y extensa."
+        ],
+        "correct": 3,
+        "rationale": null
+      },
+      {
+        "statement": "7. Si fuese poco factible crear un dispositivo de energía interno tan pequeño como el microrrobot, probablemente",
+        "alternatives": [
+          "A) este dependería de sus alas para volar rápidamente sin que implique un alto costo energético y de manipulación.",
+          "B) la microrótica carecería de aplicaciones plausibles y, por consiguiente, dejaría de ser una disciplina sólida.",
+          "C) el Laboratorio de Microrrobótica de la Universidad de Harvard habría de desaparecer inexorablemente.",
+          "D) este requiera siempre estar conectado a una fuente energética con lo cual su funcionalidad se vería mellada.",
+          "E) las aplicaciones en el campo médico y agrícola crezcan exponencialmente debido a su valor ecológico."
+        ],
+        "correct": 3,
+        "rationale": null
+      }
+    ]
+  },
+  {
+    "type": "verbal_series",
+    "statement": "1. ¿Qué vocablo se aleja del campo semántico?",
+    "alternatives": [
+      "A) Parsimonia",
+      "B) Frugalida d",
+      "C) Moderación",
+      "D) Templanza",
+      "E) Defección"
+    ],
+    "correct": 4,
+    "rationale": null
+  },
+  {
+    "type": "verbal_series",
+    "statement": "2. Simple, incauto, abobado,",
+    "alternatives": [
+      "A) pazguato.",
+      "B) remolón.",
+      "C) sicofante.",
+      "D) estólido.",
+      "E) trémolo."
+    ],
+    "correct": 0,
+    "rationale": null
+  },
+  {
+    "type": "verbal_series",
+    "statement": "3. El antónimo de las palabras DELETÉREO, PONZOÑOSO, VENENOSO es",
+    "alternatives": [
+      "A) ínfimo.",
+      "B) nimio.",
+      "C) inocuo.",
+      "D) vacceo.",
+      "E) venal."
+    ],
+    "correct": 2,
+    "rationale": null
+  },
+  {
+    "type": "verbal_series",
+    "statement": "4. Elija el término que es holónimo de RAQUIS, CÁLAMO y BÁRBULAS.",
+    "alternatives": [
+      "A) Tálamo",
+      "B) Pluma",
+      "C) Verja",
+      "D) Piélago",
+      "E) Gaceta"
+    ],
+    "correct": 1,
+    "rationale": null
+  },
+  {
+    "type": "verbal_series",
+    "statement": "5. Aderezo, compostura, adorno,",
+    "alternatives": [
+      "A) valija.",
+      "B) tapujo.",
+      "C) doble z.",
+      "D) afeite.",
+      "E) embozo."
+    ],
+    "correct": 3,
+    "rationale": null
+  },
+  {
+    "type": "reading_comprehension",
+    "statement": "Las mariquitas están bien protegidas contra la mayoría de sus enemigos. Su caparazón rojo y negro, llamado élitro, tan adorable para el ojo humano, es en realidad una advertencia para los depredadores: se van a arrepentir. Cuando un ave o algún otro animal trata de atacar, la mariquita secreta veneno de las coyunturas de sus patas. El atacante prueba la hemolinfa amarga y escupe la mariquita. Así, la mariquita pareciera tener una vida perfecta sino fuera por las avispas que ponen sus huevos en el interior de su cuerpo vivo. Una de estas avispas, la Dinocampus coccinellae ,es del tamaño de una chispa de chocolate. Cuando una avispa hembra está lista para poner sus huevos, se posa cerca de una mariquita y rápidamente inserta su aguijón en su parte inferior inyectando en su víctima un huevo y una mezcla de sustancias químicas. Cuando el huevo eclosiona, la larva se alimenta de los fluidos que llenan la cavidad corporal del huésped. Aunque la mariquita está siendo devorada de manera gradual, en el exterior aparece sin cambios. Ataca a los pulgones con el gusto de siempre, pero después de que digiere a su presa, su parásito se alimenta. Tres semanas después, la larva de la avispa se retuerce hacia fuera a través de una grieta en el exoesqueleto de la mariquita. El cuerpo de la mariquita ya está libre del parásito, pero su mente sigue cautiva . La larva de la avispa se enrolla en un capullo de seda debajo de la mariquita, que permanece inmóvil. La mariquita se ha vuelto el guardaespaldas del parásito y seguirá desempeñando lealmente este trabajo durante una semana, hasta que una avispa adulta haga un agujero con sus mandíbulas en el capullo, salga de este y vuele. Es entonces que la mayoría de las mariquitas zombis mueren, una vez completado el servicio para su parásito, amo y señor. Esta escena siniestra ocurre en gran parte de América del Norte.",
+    "questions": [
+      {
+        "statement": "2. El término CAUTIVA implica que el desarrollo de la larva es _____________por la mariquita.",
+        "alternatives": [
+          "A) ignorado",
+          "B) capturado",
+          "C) sostenido.",
+          "D) combatido",
+          "E) escondido"
+        ],
+        "correct": 0,
+        "rationale": null
+      },
+      {
+        "statement": "3. La palabra ADORABLE connota",
+        "alternatives": [
+          "A) oportunismo.",
+          "B) preferencia.",
+          "C) sujeción.",
+          "D) inocuidad.",
+          "E) empatía."
+        ],
+        "correct": 3,
+        "rationale": null
+      },
+      {
+        "statement": "4. Resulta incompatible de acuerdo con el texto afirmar que las mariquitas",
+        "alternatives": [
+          "A) son inoculadas de huevos de avispas parásitas.",
+          "B) ostentan un caparazón rojo y negro llamado élitro.",
+          "C) presentan un color vistoso que les sirve de defensa.",
+          "D) se deshacen de su parásito una vez salida la larva.",
+          "E) secret an veneno por las coyunturas de sus patas."
+        ],
+        "correct": 3,
+        "rationale": null
+      }
+    ]
+  },
+  {
+    "type": "verbal_series",
+    "statement": "2. Simple, incauto, abobado,",
+    "alternatives": [
+      "A) pazguato.",
+      "B) remolón.",
+      "C) sicofante.",
+      "D) estólido.",
+      "E) trémolo."
+    ],
+    "correct": 0,
+    "rationale": null
+  },
+  {
+    "type": "synonyms_and_antonyms",
+    "statement": "3. El antónimo de las palabras DELETÉREO, PONZOÑOSO, VENENOSO es",
+    "alternatives": [
+      "A) ínfimo.",
+      "B) nimio.",
+      "C) inocuo.",
+      "D) vacceo.",
+      "E) venal."
+    ],
+    "correct": 2,
+    "rationale": "El antónimo es inocuo."
+  },
+  {
+    "type": "analogies",
+    "statement": "4. Elija el término que es holónimo de RAQUIS, CÁLAMO y BÁRBULAS.",
+    "alternatives": [
+      "A) Tálamo",
+      "B) Pluma",
+      "C) Verja",
+      "D) Piélago",
+      "E) Gaceta"
+    ],
+    "correct": 1,
+    "rationale": "El elemento que designa a la totalidad de las partes constitutivas es PLUMA."
+  },
+  {
+    "type": "synonyms_and_antonyms",
+    "statement": "5. Aderezo, compostura, adorno,",
+    "alternatives": [
+      "A) valija.",
+      "B) tapujo.",
+      "C) doble z.",
+      "D) afeite.",
+      "E) embozo."
+    ],
+    "correct": 3,
+    "rationale": "Serie verbal de sinónimos."
+  },
+  {
+    "type": "reading_comprehension",
+    "statement": "Las mariquitas están bien protegidas contra la mayoría de sus enemigos. Su caparazón rojo y negro, llamado élitro, tan adorable para el ojo humano, es en realidad una advertencia para los depredadores: se van a arrepentir. Cuando un ave o algún otro animal trata de atacar, la mariquita secreta veneno de las coyunturas de sus patas. El atacante prueba la hemolinfa amarga y escupe la mariquita. Así, la mariquita pareciera tener una vida perfecta sino fuera por las avispas que ponen sus huevos en el interior de su cuerpo vivo. Una de estas avispas, la Dinocampus coccinellae ,es del tamaño de una chispa de chocolate. Cuando una avispa hembra está lista para poner sus huevos, se posa cerca de una mariquita y rápidamente inserta su aguijón en su parte inferior inyectando en su víctima un huevo y una mezcla de sustancias químicas. Cuando el huevo eclosiona, la larva se alimenta de los fluidos que llenan la cavidad corporal del huésped. Aunque la mariquita está siendo devorada de manera gradual, en el exterior aparece sin cambios. Ataca a los pulgones con el gusto de siempre, pero después de que digiere a su presa, su parásito se alimenta. Tres semanas después, la larva de la avispa se retuerce hacia fuera a través de una grieta en el exoesqueleto de la mariquita. El cuerpo de la mariquita ya está libre del parásito, pero su mente sigue cautiva . La larva de la avispa se enrolla en un capullo de seda debajo de la mariquita, que permanece inmóvil. La mariquita se ha vuelto el guardaespaldas del parásito y seguirá desempeñando lealmente este trabajo durante una semana, hasta que una avispa adulta haga un agujero con sus mandíbulas en el capullo, salga de este y vuele. Es entonces que la mayoría de las mariquitas zombis mueren, una vez completado el servicio para su parásito, amo y señor. Esta escena siniestra ocurre en gran parte de América del Norte.",
+    "questions": [
+      {
+        "statement": "2. El término CAUTIVA implica que el desarrollo de la larva es _____________por la mariquita.",
+        "alternatives": [
+          "A) ignorado",
+          "B) capturado",
+          "C) sostenido.",
+          "D) combatido",
+          "E) escondido"
+        ],
+        "correct": 0,
+        "rationale": null
+      },
+      {
+        "statement": "3. La palabra ADORABLE connota",
+        "alternatives": [
+          "A) oportunismo.",
+          "B) preferencia.",
+          "C) sujeción.",
+          "D) inocuidad.",
+          "E) empatía."
+        ],
+        "correct": 3,
+        "rationale": null
+      },
+      {
+        "statement": "4. Resulta incompatible de acuerdo con el texto afirmar que las mariquitas",
+        "alternatives": [
+          "A) son inoculadas de huevos de avispas parásitas.",
+          "B) ostentan un caparazón rojo y negro llamado élitro.",
+          "C) presentan un color vistoso que les sirve de defensa.",
+          "D) se deshacen de su parásito una vez salida la larva.",
+          "E) secret an veneno por las coyunturas de sus patas."
+        ],
+        "correct": 3,
+        "rationale": null
+      },
+      {
+        "statement": "5. Se colige de l texto que los depredadores que se tragan a las mariquitas",
+        "alternatives": [
+          "A) perecen debido al corrosivo veneno de estas.",
+          "B) presentan inhibidores de veneno algunas veces.",
+          "C) las expulsan cuando han consumido su interior.",
+          "D) son inmunes al veneno astringente de estas.",
+          "E) son atraídos por su llamativo y engañoso color."
+        ],
+        "correct": 4,
+        "rationale": null
+      },
+      {
+        "statement": "6. Si el capullo de la avispa se desarrollara al margen de la mariquita, posiblemente,",
+        "alternatives": [
+          "A) América del Norte se vería invadida pandémicamente por otros insectos.",
+          "B) la Dinocampus coccinellae carecería de adaptabilidad para sobrevivir .",
+          "C) esta tendría posibilidades de sobrevivir al ataque solapado del parásito.",
+          "D) su veneno astringente tendría más potencia y un mayor poder corrosivo.",
+          "E) los depredadores que las escupen no tendrían problemas en digerirlas."
+        ],
+        "correct": 2,
+        "rationale": null
+      }
+    ]
+  },
+  {
+    "type": "reading_comprehension",
+    "statement": "El aguacate se incorporó hace muchos siglos a la dieta de las poblaciones mesoamericanas, quienes lo domesticaron y seleccionaron para obtener ejemplares del mismo tamaño. La evidencia arqueológica más antigua de su consumo se encuentra en una cueva en Coxcatlán, Puebla, y data de entre 8000 y 7000 a.C.; no obstante, ha existido desde hace más de 50 000 años en las laderas volcánicas de México y Centroamérica, donde la fauna herbívora de la Edad de Hielo ya lo había identificado como un alimento inmejorable para sobrevivir a las bajas temperaturas debido a sus grasas naturales. Este fruto era habitual entre los antiguos pobladores de la región después de la conquista y se dio a conocer al mundo mediante el códice Florentino en donde se identifican los tres tipos principales: ahuacatl , tlacacolahuacatl y quilahuacatl ,que equivalen a las variedades mexicana, antillana y guatemalteca, respectively. En México, el éxito de la industria del aguacate en el país ha provocado la pérdida de grandes zonas naturales para la creación de huertos; tan sólo en la meseta Purépecha se deforestan unas 500 hectáreas anuales para el establecimiento de sembradíos. A partir de un proyecto de tesis de estudiantes de licenciatura del Instituto Tecnológico de Morelia, la empresa mexicana Sí o sí Alimentos ha introducido la tecnología de liofilización con el objetivo de disminuir el deterioro ambiental y contribuir a las necesidades y demandas alimentarias de la humanidad. El proceso consiste en deshidratar un producto a partir de su congelamiento al alto vacío —a 38°C —, lo que provoca la sublimación del agua. Actualmente la empresa es capaz de obtener un kilogramo de polvo por cada siete de aguacate, y mantener sus propiedades naturales como vitaminas, minerales, encimas, fibras y grasas, a diferencia de la deshidratación a base de calor. Basta mezclar el polvo con agua para recobrar la textura, el color y el sabor del fruto original.",
+    "questions": [
+      {
+        "statement": "2. El mejor resumen del texto es",
+        "alternatives": [
+          "A) En México existe una agresiva industria de aguacate que ha generado una pérdida de tierras, además de una sobreexplotación de las mismas, razón por la cual se viene n realizando iniciativas científicas que hagan posible la preservación de suelos.",
+          "B) La empresa Sí o sí Alimentos obtiene actualmente un kilo de aguacate en polvo a partir de la obtención e industrialización de siete kilos de aguacate; con esto la empresa está convencida de replegar la hambruna en diversas partes de nuestro depredado planeta.",
+          "C) La fauna silvestre de Mesoamérica obtenía las grasas necesarias para protegerse óptimamente del frío a través del aguacate silvestre existente en las laderas volcánicas de México y Centroamérica desde hace aproximadamente unos 50 000 años.",
+          "D) El aguacate formó parte de la dieta de los mesoamericanos desde antiguo; actualmente, mediante el proceso de liofilización se obtiene polvo de aguacate, con la finalidad de evitar la explotación desmedida de tierras y asumir la demanda alimenticia.",
+          "E) Un grupo de estudiantes de licenciatura del Instituto Tecnológico de Morelia obtienen polvo de aguacate mediante una técnica de deshidratación que permite la siembra indiscriminada de este popular producto en México y el resultado es sumamente promisorio."
+        ],
+        "correct": 3,
+        "rationale": null
+      },
+      {
+        "statement": "3. En el primer párrafo, la palabra IDENTIFICADO supone un proceso de",
+        "alternatives": [
+          "A) dilección.",
+          "B) registro.",
+          "C) fatuidad.",
+          "D) cultivo.",
+          "E) selección."
+        ],
+        "correct": 4,
+        "rationale": null
+      },
+      {
+        "statement": "4. El antónimo contextual de la palabra INMEJORABLE es",
+        "alternatives": [
+          "A) dañino.",
+          "B) productivo.",
+          "C) inicuo.",
+          "D) indeseable.",
+          "E) proficuo."
+        ],
+        "correct": 0,
+        "rationale": null
+      },
+      {
+        "statement": "5. De la información vertida en el texto, se puede inferir que la liofilización del aguacate",
+        "alternatives": [
+          "A) permitirá acabar completamente con la hambruna mundial en pocos años.",
+          "B) predomina en aquellas zonas de México caracterizadas por su sequedad.",
+          "C) produce pérdidas cuantiosas por la cantidad de frutos que se requieren.",
+          "D) permite que, mediante la congelación del producto, se mantenga fresco.",
+          "E) involucra la pulverización del producto original en cantidades desiguales."
+        ],
+        "correct": 4,
+        "rationale": null
+      },
+      {
+        "statement": "6. Resultado incompatible con lo señalado por el autor del texto afirmar que la producción de aguacate",
+        "alternatives": [
+          "A) es impulsada por una industria sumamente favorecida.",
+          "B) es una actividad ecológicamente favorable en México.",
+          "C) ha mermado las zonas naturales para crear huertos.",
+          "D) va de la mano con una industria exitosa y demandante.",
+          "E) ha generado la deforestación de 500 hectáreas anuales."
+        ],
+        "correct": 1,
+        "rationale": null
+      },
+      {
+        "statement": "7. Si el aguacate careciera de grasas naturales, posiblemente,",
+        "alternatives": [
+          "A) su domesticación habría derivado en más especies que las tres ya registradas.",
+          "B) los esfuerzos para convertirlo en polvo tendrían que aumentar sostenidamente.",
+          "C) las extensas zonas de tierras usadas para la creación de huertos aumentaría.",
+          "D) la industria encabezada por Sí o sí Alimentos mantendría las tierras de cultivo.",
+          "E) la fauna silvestre americana lo habría soslayado para la manutención de calor."
+        ],
+        "correct": 4,
+        "rationale": null
+      }
+    ]
+  },
+  {
+    "type": "sentence_elimination",
+    "statement": "1. I) Un análisis del número de roedores en Nueva York sugiere que no existen tantos roedores como personas. II) El análisis de roedores en Nueva York clasificó los avistamientos de ratas por lotes que aproximadamente son 842 000 en total. III) Investigadores estimaron que 40 500 lotes del total están ocupados por ratas en la ciudad de Nueva York . IV) Bajo el supuesto de que 40 a 50 ratas conformaran una colonia típica, el análisis concluye que 2 millones de ratas viven en Nueva York . V) La leyenda urbana afirma que la ciudad de Nueva York tiene la misma cantidad de ratas que de habitantes, aproximadamente 8 millones.",
+    "alternatives": [
+      "A) I",
+      "B) V",
+      "C) IV",
+      "D) II",
+      "E) III"
+    ],
+    "correct": 1,
+    "rationale": null
+  },
+  {
+    "type": "sentence_elimination",
+    "statement": "2. I) El aloe vera, también conocido como sábila, tiñe de verde no pocos paisajes áridos desérticos . II) El aloe vera ya se plantaba alrededor de las pirámides del antiguo Egipto. III) Varias reinas egipcias, como Nefertiti y Cleopatra, parecen haber usado el aloe vera para cuidar su piel . IV) Cuando la planta de sábila estaba en flor, se sabía que el faraón recién fallecido había llegado sano y salvo al más allá . V) La sábila desempeñó un papel en la conservación de las momias del antiguo Egipto .",
+    "alternatives": [
+      "A) I",
+      "B) II",
+      "C) III",
+      "D) IV",
+      "E) V"
+    ],
+    "correct": 0,
+    "rationale": null
+  },
+  {
+    "type": "sentence_elimination",
+    "statement": "3. I) Hasta hace unos cuantos años, los indígenas de México sentían vergüenza y evitaban expresarse en su lengua materna por miedo a ser discriminados . II) Ritmos como el heavy metal cantados en idiomas nativos han contribuido a crear orgullo e identidad entre los jóvenes indígenas de México . III) La inclusión de temas musicales que tienden a mezclar la cultura tradicional de los pueblos mayas y su traducción cosmogónica con el español revitaliza las lenguas originarias en México . IV) Ahora los pueblos originarios en México han aprendido que la música occidental va a ayudar a la valoración positiva de sus raíces y sus lenguas. V) Pueblos indígenas como los seri asumen que promoviendo sus raíces ancestrales mediante ritmos no vernaculares como el rock van a crecer.",
+    "alternatives": [
+      "A) III",
+      "B) IV",
+      "C) I",
+      "D) V",
+      "E) II"
+    ],
+    "correct": 2,
+    "rationale": null
+  },
+  {
+    "type": "sentence_elimination",
+    "statement": "4. I) Las células linfoides asociadas al pez carpa posee propiedades curativas. II) Las células linfoides del pez carpa generan citosinas que propician una función antiinflamatoria. III) El sistema inmune se ve reforzado con las sustancias presentes en las células linfoides del pez carpa. IV) Las células linfoides permiten contraatacar parásitos o helmintos intestinales que ingresan a nuestro organismo. V) Otra propiedad de las células linfoides es que pueden combatir enfermedades alérgicas como e l asma.",
+    "alternatives": [
+      "A) IV",
+      "B) II",
+      "C) III",
+      "D) I",
+      "E) V"
+    ],
+    "correct": 3,
+    "rationale": null
+  },
+  {
+    "type": "sentence_elimination",
+    "statement": "5. I) La figura esquelética de la catrina es una de las imágenes más representativas de la identidad mexicana en el Día de Muertos. II) El grabador José Guadalupe Posada y fue el creador de la popular imagen de la catrina en México. III) La imagen huesuda, esbelta y decorada de la catrina acompaña la realización de ofrendas a los difuntos en México. IV) La catrina protege las almas de los fallecidos que regresan a la Tierra el Día de Muertos. V) La imagen clásica de la catrina presenta sombreros amplios de encaje y canaliza el miedo a la muerte que se experimenta intensamente en México.",
+    "alternatives": [
+      "A) I",
+      "B) II",
+      "C) III",
+      "D) IV",
+      "E) V"
+    ],
+    "correct": 1,
+    "rationale": null
+  },
+  {
+    "type": "sentence_elimination",
+    "statement": "6. I) Según la organización Save the Children , el 95 por ciento de las somalíes están circuncidadas. II) Los primeros pasos para erradicar la técnica de circuncisión Constitución. III) Es considerada una práctica inhumana y brutal que causa cientos de muertos al año en Somalia según una denuncia de la Somali Women Development Center . IV) Los trabajadores de la ONG Somali Women Development Center acuden un a vez al mes al campo para tratar de concienciar a sus habitantes de que dejen de circuncidar a sus hijas. V) Muchas mujeres somalíes, conscientes de su autoridad entre las mujeres del campo, tratan de cambiar conciencias y evitar que más niñas continúen sufriendo de manera innecesaria.",
+    "alternatives": [
+      "A) V",
+      "B) II",
+      "C) III",
+      "D) IV",
+      "E) I"
+    ],
+    "correct": 4,
+    "rationale": null
+  },
+  {
+    "type": "sentence_elimination",
+    "statement": "7. I) Los meteoritos son rocas espaciales que generalmente se desprenden de un cuerpo mayor como un cometa o asteroide. II) Los m eteoros son destellos en el cielo que se originan por el encendido de los meteoritos al entrar en contacto con la atmosfera de la tierra. III) Los meteoritos impactan en la Tierra a grandes velocidades liberando enormes cantidades de energía. IV) Los meteoritos impactan en la Tierra alrededor de diez veces al año. V) Los meteoritos que tienen una masa mayor a 10 gramos, crean meteoros excesivamente brillantes que se ven como grandes esferas de fuego.",
+    "alternatives": [
+      "A) II",
+      "B) V",
+      "C) III",
+      "D) IV",
+      "E) I"
+    ],
+    "correct": 0,
+    "rationale": null
+  },
+  {
+    "type": "sentence_elimination",
+    "statement": "I) Un análisis del número de roedores en Nueva York sugiere que no existen tantos roedores como personas. II) El análisis de roedores en Nueva York clasificó los avistamientos de ratas por lotes que aproximadamente son 842 000 en total. III) Investigadores estimaron que 40 500 lotes del total están ocupados por ratas en la ciudad de Nueva York . IV) Bajo el supuesto de que 40 a 50 ratas conformaran una colonia típica, el análisis concluye que 2 millones de ratas viven en Nueva York . V) La leyenda urbana afirma que la ciudad de Nueva York tiene la misma cantidad de ratas que de habitantes, aproximadamente 8 millones . A) I B) V C) IV D) II E) III ¿Qué oración es impertinente?",
+    "alternatives": [
+      "A) I",
+      "B) V",
+      "C) IV",
+      "D) II",
+      "E) III"
+    ],
+    "correct": 1,
+    "rationale": "SOLUCIÓN: Se aplica el criterio de impertinencia."
+  },
+  {
+    "type": "sentence_elimination",
+    "statement": "I) El aloe vera, también conocido como sábila, tiñe de verde no pocos paisajes áridos desérticos . II) El aloe vera ya se plantaba alrededor de las pirámides del antiguo Egipto. III) Varias reinas egipcias, como Nefertiti y Cleopatra, parecen haber usado el aloe vera para cuidar su piel . IV) Cuando la planta de sábila estaba en flor, se sabía que el faraón recién fallecido había llegado sano y salvo al más allá . V) La sábila desempeñó un papel en la conservación de las momias del antiguo Egipto . A) I B) II C) III D) IV E) V",
+    "alternatives": [
+      "A) I",
+      "B) II",
+      "C) III",
+      "D) IV",
+      "E) V"
+    ],
+    "correct": 0,
+    "rationale": "SOLUCIÓN: Se aplica el criterio de impertinencia."
+  },
+  {
+    "type": "sentence_elimination",
+    "statement": "I) Hasta hace unos cuantos años, los indígenas de México sentían vergüenza y evitaban expresarse en su lengua materna por miedo a ser discriminados . II) Ritmos como el heavy metal cantados en idiomas nativos han contribuido a crear orgullo e identidad entre los jóvenes indígenas de México . III) La inclusión de temas musicales que tienden a mezclar la cultura tradicional de los pueblos mayas y su traducción cosmogónica con el español revitaliza las lenguas originarias en México . IV) Ahora los pueblos originarios en México han aprendido que la música occidental va a ayudar a la valoración positiva de sus raíces y sus lenguas. V) Pueblos indígenas como los seri asumen que promoviendo sus raíces ancestrales mediante ritmos no vernaculares como el rock van a crecer. A) III B) IV C) I D) V E) II",
+    "alternatives": [
+      "A) III",
+      "B) IV",
+      "C) I",
+      "D) V",
+      "E) II"
+    ],
+    "correct": 2,
+    "rationale": "SOLUCIÓN: Se aplica el criterio de impertinencia."
+  },
+  {
+    "type": "sentence_elimination",
+    "statement": "I) Las células linfoides asociadas al pez carpa posee propiedades curativas. II) Las células linfoides del pez carpa generan citosinas que propician una función antiinflamatoria. III) El sistema inmune se ve reforzado con las sustancias presentes en las células linfoides del pez carpa. IV) Las células linfoides permiten contraatacar parásitos o helmintos intestinales que ingresan a nuestro organismo. V) Otra propiedad de las células linfoides es que pueden combatir enfermedades alérgicas como el asma. A) IV B) II C) III D) I E) V",
+    "alternatives": [
+      "A) IV",
+      "B) II",
+      "C) III",
+      "D) I",
+      "E) V"
+    ],
+    "correct": 3,
+    "rationale": "SOLUCIÓN: Se aplica el criterio de redundancia ."
+  },
+  {
+    "type": "sentence_elimination",
+    "statement": "I) La figura esquelética de la catrina es una de las imágenes más representativas de la identidad mexicana en el Día de Muertos. II) El grabador José Guadalupe Posada y fue el creador de la popular imagen de la catrina en México. III) La imagen huesuda, esbelta y decorada de la catrina acompaña la realización de ofrendas a los difuntos en México. IV) La catrina protege las almas de los fallecidos que regresan a la Tierra el Día de los Muertos. V) La imagen clásica de la catrina presenta sombreros amplios de encaje y canaliza el miedo a la muerte que se experimenta intensamente en México. A) I B) II C) III D) IV E) V",
+    "alternatives": [
+      "A) I",
+      "B) II",
+      "C) III",
+      "D) IV",
+      "E) V"
+    ],
+    "correct": 1,
+    "rationale": "SOLUCIÓN: Se aplica el criterio de impertinencia."
+  },
+  {
+    "type": "sentence_elimination",
+    "statement": "I) Según la organización Save the Children , el 95 por ciento de las somalíes están circuncidadas. II) Los primeros pasos para erradicar la técnica de circuncisión Constitución. III) Es considerada una práctica inhumana y brutal que causa cientos de muertos al año en Somalia según una denuncia de la Somali Women Development Center . IV) Los trabajadores de la ONG Somali Women Development Center acuden una vez al mes al campo para tratar de concienciar a sus habitantes de que dejen de circuncidar a sus hijas. V) Muchas mujeres somalíes, conscientes de su autoridad entre las mujeres del campo, tratan de cambiar conciencias y evitar que más niñas continúen sufriendo de manera innecesaria. A) V B) II C) III D) IV E) I",
+    "alternatives": [
+      "A) V",
+      "B) II",
+      "C) III",
+      "D) IV",
+      "E) I"
+    ],
+    "correct": 4,
+    "rationale": "SOLUCIÓN: Se aplica el criterio de impertinencia."
+  },
+  {
+    "type": "sentence_elimination",
+    "statement": "I) Los meteoritos son rocas espaciales que generalmente se desprenden de un cuerpo mayor como un cometa o asteroide. II) Los meteoros son destellos en el cielo que se originan por el encendido de los meteoritos al entrar en contacto con la atmósfera de la tierra. III) Los meteoritos impactan en la Tierra a grandes velocidades liberando enormes cantidades de energía. IV) Los meteoritos impactan en la Tierra alrededor de diez veces al año. V) Los meteoritos que tienen una masa mayor a 10 gramos, crean meteoros excesivamente brillantes que se ven como grandes esferas de fuego. A) II B) V C) III D) IV E) I",
+    "alternatives": [
+      "A) II",
+      "B) V",
+      "C) III",
+      "D) IV",
+      "E) I"
+    ],
+    "correct": 0,
+    "rationale": "SOLUCIÓN: Se aplica el criterio de impertinencia."
+  },
+  {
+    "type": "sentence_elimination",
+    "statement": "I) Rex es un robot que se construyó con la tecnología biomédica más avanzada de la actualidad que le permite caminar de manera fluida. II) En términos de movilidad y extremidades, el robot Rex tiene un brazo que posee 26 grados de movimiento (tan sólo un grado menos que un brazo humano. III) Rex tiene tobillos biónicos que utilizan un motor para simular el mecanismo de los músculos de la pantorrilla y del tendón de Aquiles. IV) Rex tiene un corazón impulsado por baterías, un hígado, un páncreas y riñones artificiales que cuentan con un sistema sintético de filtración a nanoescala. V) El robot Rex será expuesto al público en el Museo de Ciencias de Londres y posteriormente se tiene planeada su exhibición en Estados Unidos. A) IV B) II C) V D) III E) I",
+    "alternatives": [
+      "A) IV",
+      "B) II",
+      "C) V",
+      "D) III",
+      "E) I"
+    ],
+    "correct": 2,
+    "rationale": "SOLUCIÓN: Se elimina por impertinencia."
+  },
+  {
+    "type": "sentence_elimination",
+    "statement": "I) Newton pensaba que la luz estaba formada por partículas. II) La luz es una onda de energía. III) La luz viaja en diferentes frecuencias y rebota en diferentes direcciones. IV) Las ondas de luz genera la percepción de sombras y colores. V) La luz transfiere energía a otras partículas en forma de «quanta». A) V B) I C) IV D) III E) II",
+    "alternatives": [
+      "A) V",
+      "B) I",
+      "C) IV",
+      "D) III",
+      "E) II"
+    ],
+    "correct": 1,
+    "rationale": "SOLUCIÓN: Se elimina por impertinencia."
+  },
+  {
+    "type": "sentence_elimination",
+    "statement": "I) En varias ciudades de China los ciudadanos han recibido instrucciones de permanecer en sus casas por los altos índices de contaminación que se han registrado. II) En un lapso corto de tiempo, la exposición a tan altos niveles de tumor siguen. III) La contaminación en China se ha incrementado debido a su rápido crecimiento industrial y la gran cantidad de coches que circulan diariamente. IV) En China, la contaminación es muy nociva para la salud y ha aumentado por la ausencia eólica y los abundantes autos. V) El aumento de los índices de contaminación en China empeoró con la llegada del invierno y el uso de chimeneas, aunado a la falta de viento que provocó el asentamiento de los gases. A) II B) V C) I D) III E) IV",
+    "alternatives": [
+      "A) II",
+      "B) V",
+      "C) I",
+      "D) III",
+      "E) IV"
+    ],
+    "correct": 1,
+    "rationale": "SOLUCIÓN: Se elimina por impertinencia."
+  },
+  {
+    "type": "reading_comprehension",
+    "statement": "manos en la masa.\nEl sapo común europeo también chilla; o, mejor dicho, croa. Lo hace, en concreto, el\nmacho, en situaciones de rivalidad sexual y con ello consigue dar idea de su tamaño y\npeligrosidad a los otros machos con los que disputa una hembra. Ocurre que el tono del\nsonido es una función del tamaño del cuerpo de cada ejemplar, todo el cual actúa como\ncaja de resonancia, de modo que cuanto mayor sea el cuerpo, y consecuentemente la\npeligrosidad del ejemplar, tanto más grave será el sonido. En este caso ya no resulta tan\nevidente que el croar del sapo esté perfectamente ajustado a una necesidad de orden\npráctico. De hecho, a la mayoría de los sapos les sirve de poco el croar en cada nueva\nsituación de rivalidad, porque solo es útil para descubrirse más pequeños e inofensivos\nque los demás sapos.\nResulta, en consecuencia, perfectamente razonable entender que la selección\nnaturales la responsable del tono (el rango de frecuencias) con que chilla un pi nzón. El\npinzón chilla entre los 6 y los 8 khz de frecuencia porque su señal resulta así inaudible\npara los halcones y de este modo permite que muchos pinzones sobrevivan. Sin\nembargo, no resulta igualmente razonable entender que la selección natural sea la\nresponsable del tono (el rango de frecuencias) con que croa un sapo. Tenemos pues rasgos biológicos, como la frecuencia de las llamadas de los pinzones, que pueden\nconsiderarse modelados por la selección natural y tenemos en cambio rasgos biológicos,como la frecuencia característica de la llamada de los sapos, que no pueden considerarse\nmodelados por la selección natural.",
+    "questions": [
+      {
+        "statement": "1. El texto gira fundamentalmente entorno a",
+        "alternatives": [
+          "A) la caja de resonancia corporal que usa el sapo para competir con sus pares.",
+          "B) la se lección natural y su influencia en las características de los pinzones.",
+          "C) diferencias entre el chillido inaudible de los pinzones y el croar de los sapos.",
+          "D) la emisión de los pinzones para salvarse de ser cazados por los halcones.",
+          "E) los rasgos biológico s modelados y no modelados por la selección natural."
+        ],
+        "correct": 4,
+        "rationale": "A partir del parangón entre las emisiones del pinzón y del sapo, el autor se permite contrastar los rasgos que son posibles de asumir como producto de la selección natural, de aquellos que no lo son."
+      },
+      {
+        "statement": "2. La idea principal del texto asevera que",
+        "alternatives": [
+          "A) ciertos rasgos biológicos sirven para la competencia en épocas de procreación, tal es el caso de los sapos que acusan su volumen croando.",
+          "B) las emisiones de los pinzones bordean rangos de frecuencia sumamente bajos que posibilitan soslayar el ataque de potenciales depredadores.",
+          "C) existen rasgos biológicos modelados por selección natural para sobrevivir, mientras que otros no son definidos para cumplir tal aplicación práctica.",
+          "D) el chillido que los pinzones emiten para acusar la presencia de halcones ha sido modelada por el mecanismo de selección natural, dada su practicidad.",
+          "E) el sapo emite un ruido cuya intensidad depende de la complexión de cada espécimen, este rasgo no parece tener una finalidad apremiante."
+        ],
+        "correct": 2,
+        "rationale": "El desarrollo esencial del tema central afirma que ciertos rasgos evidenciados en la naturaleza se conjeturan como productos de la selección natural (el caso del pinzón), mientras que otros no ofrecen ventajas para sobrevivir (el caso del sapo)."
+      },
+      {
+        "statement": "3. A lo largo del texto, el sinónimo de la palabra AJUSTADO es",
+        "alternatives": [
+          "A) apretado.",
+          "B) adaptado.",
+          "C) sujetado.",
+          "D) coaccionado.",
+          "E) capturado."
+        ],
+        "correct": 1,
+        "rationale": "En efecto, el término es usado para referirse a una propiedad adaptada a una necesidad de orden práctico: la supervivencia."
+      },
+      {
+        "statement": "4. Resulta incompatible con el desarrollo textual afirmar que",
+        "alternatives": [
+          "A) el croar del sapo exemplifica un rasgo no modelado por selección natural.",
+          "B) los pinzones producen emisiones que son imperceptibles para los halcones.",
+          "C) todas las características definidas biológicamente tienen una fin práctico.",
+          "D) existen rasgos biológicos modelados y no modelados por selección natural.",
+          "E) los pinzones utilizan sus emisiones con la finalidad de escapar del halcón."
+        ],
+        "correct": 2,
+        "rationale": "Las propiedades biológicas de las especies pueden tener una finalidad práctica para librarse de potenciales predadores, mientras que otras no ."
+      },
+      {
+        "statement": "5. Se infiere que el chillido que los pinzones usan para advertir de la presencia de un halcón",
+        "alternatives": [
+          "A) es procesado en rangos de frecuencia demasiado indefinidos.",
+          "B) es caracterizado por el autor como mecanismo de distracción.",
+          "C) constituye evidencia acústica perceptible para el ser humano.",
+          "D) es superado en adaptabilidad por el acto de c roar de los sapos.",
+          "E) involucra distintos matices de frecuencia para poder despistar."
+        ],
+        "correct": 4,
+        "rationale": "Un ser humano puede procesar rangos de frecuencia de entre 20 a 20 000 Hz; se deduce de lo anterior que este puede percibir el chillido que usa el pinzón para advertir de la presencia de un halcón (un kiloherzio es equivalente a mil herzios) ."
+      }
+    ]
+  },
+  {
+    "type": "verbal_series",
+    "statement": "1. Draconiano, flexible; ignavo, arrojado; defectivo, perfecto;",
+    "alternatives": [
+      "A) flemático, veloz.",
+      "B) dúctil, maleable.",
+      "C) morisco, cíngaro.",
+      "D) sesudo, impasible.",
+      "E) arisco, montaraz."
+    ],
+    "correct": 0,
+    "rationale": "Serie verbal sinonímica. Se completa con las palabras FLEMÁTICO, VELOZ."
+  },
+  {
+    "type": "verbal_series",
+    "statement": "2. El cohipónimo de los vocablos VISÓN, TEJÓN y NUTRIA es",
+    "alternatives": [
+      "A) equidna.",
+      "B) zarigüeya.",
+      "C) manatí.",
+      "D) comadreja.",
+      "E) mustélido."
+    ],
+    "correct": 3,
+    "rationale": "El cohi pónimo apropiado es comadreja, pues se trata de un mustélido al igual que los demás vocablos planteados."
+  },
+  {
+    "type": "verbal_series",
+    "statement": "3. ¿Qué palabra no forma parte del campo semántico?",
+    "alternatives": [
+      "A) Explicativo",
+      "B) Exegético",
+      "C) Apoteósico",
+      "D) Hermenéutico",
+      "E) Interpretativo"
+    ],
+    "correct": 2,
+    "rationale": "El campo semántico está asociado con la interpretación."
+  },
+  {
+    "type": "verbal_series",
+    "statement": "5. Elija el término que no pertenece a la serie verbal.",
+    "alternatives": [
+      "A) Incitar",
+      "B) Estimular",
+      "C) Apitar",
+      "D) Ayustar",
+      "E) Azuzar"
+    ],
+    "correct": 3,
+    "rationale": "Se trata de una serie de verbos referidos al acto de INCITAR. Ayustar es «atar cabos»."
+  },
+  {
+    "type": "verbal_series",
+    "statement": "6. Determine el hiperónimo de la serie ONAGRO, ASNO y BURRO.",
+    "alternatives": [
+      "A) Jaca",
+      "B) Jamelgo",
+      "C) Solípedo",
+      "D) Mula",
+      "E) Caballo"
+    ],
+    "correct": 2,
+    "rationale": "Las palabras están implicadas en el vo cablo SOLÍPEDO."
+  },
+  {
+    "type": "verbal_series",
+    "statement": "7. Protección, defensa, amparo,",
+    "alternatives": [
+      "A) adarve.",
+      "B) caterva.",
+      "C) palenque.",
+      "D) escollo.",
+      "E) contingente."
+    ],
+    "correct": 0,
+    "rationale": "Se trata de una serie verbal sinonímica. Se completa con la palabra ADARVE"
+  }
+]

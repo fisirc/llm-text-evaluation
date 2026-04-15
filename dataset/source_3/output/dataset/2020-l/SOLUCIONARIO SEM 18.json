@@ -1,0 +1,272 @@
+[
+  {
+    "type": "reading_comprehension",
+    "statement": "En menos de diez años, el Perú ha logrado reducir drásticamente —de 28% en el 2008 a 13% en el 2016— su alta tasa de retraso en el crecimiento entre niños y niñas menores de 5 años. La lucha contra la desnutrición crónica, y ahora la anemia, se han convertido en una causa nacional, adoptándose decisiones políticas perdurables en la materia.\n\nFuente: https://www.bancomundial.org/es/news/infographic/2017/12/20/infografia-dando-la-talla-el-exito-del-peru-en-la-lucha-contra-la-desnutricion-cronica",
+    "questions": [
+      {
+        "statement": "De manera medular, el texto sostiene que",
+        "alternatives": [
+          "A) las políticas de gobierno peruano para reducir la desnutrición crónica infantil han tenido un notable éxito.",
+          "B) las consecuencias de la desnutrición crónica infantil en el Perú constituyen un reto intrincado en nuestra agenda.",
+          "C) el compromiso del Estado peruano frente al reto de la desnutrición crónica infantil ha decrecido.",
+          "D) la reducción de la desnutrición crónica infantil fue más exitosa en el ámbito urbano que rural."
+        ],
+        "correct": 0,
+        "rationale": "El texto mixto muestra que las políticas del Estado tuvieron resultados positivos en cuanto a la disminución de la desnutrición crónica infantil."
+      },
+      {
+        "statement": "Luego de analizar los datos que se presentan con cierta objetividad, determine el valor de verdad (Vo F) de los siguientes enunciados.",
+        "alternatives": [
+          "A) VVVV",
+          "B) FFFF",
+          "C) VFVF",
+          "D) FFVF"
+        ],
+        "correct": 2,
+        "rationale": "Los valores de verdad son VFVF"
+      },
+      {
+        "statement": "Se infiere que la concepción más plausible para afrontar el reto de la reducción de la desnutrición infantil debe regirse por un criterio",
+        "alternatives": [
+          "A) economicista.",
+          "B) sistémico.",
+          "C) atomista.",
+          "D) burocrático."
+        ],
+        "correct": 1,
+        "rationale": "Todos debemos involucrarnos en la tarea, razón por la cual se infiere un enfoque sistémico como el más plausible."
+      },
+      {
+        "statement": "En el texto, el sentido de la expresión ENEMIGO SILENCIOSO connota la idea de que",
+        "alternatives": [
+          "A) en realidad, el asunto no es tan grave como se pudiera pensar.",
+          "B) solamente se afecta condiciones de estatus en la escala social.",
+          "C) los graves problema que acarrea no se ven de manera inmediata.",
+          "D) toda planificación para combatir el mal está condenado al fracaso."
+        ],
+        "correct": 2,
+        "rationale": "Al llamar enemigo silencioso a la desnutrición crónica infantil se está haciendo hincapié en el daño gradual que produce. Primero, a nivel individual en el aprendizaje, salud e ingresos a futuro."
+      },
+      {
+        "statement": "Si consideramos los datos de 2006 y 2016, podríamos concluir que",
+        "alternatives": [
+          "A) el Perú debiera tener la mejor economía a nivel de todo el mundo.",
+          "B) la brecha entre lo rural y lo urbano está a punto de desaparecer.",
+          "C) la gran meta planteada para el año 2021 es un logro realizable.",
+          "D) el Banco Mundial no ve con buenos ojos la política de nuestro país."
+        ],
+        "correct": 2,
+        "rationale": "Si en diez años se dio un logro tan significativo, en un lustro la meta es realizable, si todo funciona bien como hasta ahora."
+      }
+    ]
+  },
+  {
+    "type": "reading_comprehension",
+    "statement": "El respeto del hombre por el conocimiento es una de sus características más peculiares. Conocimiento en latín es scientia y la ciencia devino en el nombre de la clase más respetable de conocimiento. ¿Pero qué diferencia al conocimiento de la superstición, la ideología ola seudociencia? La Iglesia Católica excomulgó a los seguidores de Copérnico, el Partido Comunista persiguió a los mendelianos sobre la base de que sus doctrinas eran seudocientíficas. La demarcación entre ciencia y seudociencia no es simplemente un problema de filosofía de gabinete, es de relevancia vital social y política.\n\nMuchos filósofos han tratado de resolver el problema de la demarcación en los siguientes términos: un enunciado constituye conocimiento si un número suficiente de personas lo cree con suficiente firmeza. Pero la historia del pensamiento nos muestra que muchas personas estaban totalmente comprometidas con creencias absurdas. Si la fuerza de las creencias era un sello distintivo, tendríamos que incluir con el rango de conocimiento a algunos relatos sobre demonios, ángeles, cielos e infierno. Por otro lado, los científicos son escépticos incluso acerca de sus propias teorías. La de Newton es la más poderosa que la ciencia haya producido, pero el mismo Newton nunca creyó que los cuerpos se atrajeran a distancia. De modo que ningún grado de compromiso con las creencias las convierte en conocimiento. En verdad el sello distintivo de la conducta científica es cierto escepticismo, incluso hacia las teorías más acariciadas de uno. El aferrarse ciegamente a una teoría no es una virtud intelectual: es un crimen intelectual.\n\nDe este modo, un enunciado puede ser seudocientífico, aunque sea eventualmente plausible y todos crean en él, y puede ser científicamente válido aun cuando sea increíble y nadie crea en él. Una teoría puede ser incluso de valor científico supremo aun cuando nadie la entienda y menos la crea. El valor cognoscitivo de una teoría no tiene nada que ver con su influencia psicológica en la mente de las personas. La creencia, el compromiso y la comprensión son estados de la mente humana. Pero el objetivo, el valor científico de una teoría es independiente de la mente humana que la crea ola entiende. Su valor científico depende solo de qué apoyo objetivo tienen estas conjeturas en los hechos.\n\n[Imre Lakatos (1978). La metodología de los programas de investigación científica. Madrid: Alianza Editorial]",
+    "questions": [
+      {
+        "statement": "El texto aborda fundamentalmente",
+        "alternatives": [
+          "A) la poderosa capacidad explicativa de las teorías científicas.",
+          "B) el influjo de la teoría de la gravitación universal de Newton.",
+          "C) la relación entre las teorías y su influencia psicológica.",
+          "D) el problema de la demarcación entre ciencia y seudociencia."
+        ],
+        "correct": 3,
+        "rationale": "El texto destaca la necesidad de distinguir entre ciencia y seudociencia y señala el rasgo distintivo del conocimiento."
+      },
+      {
+        "statement": "Decir que la demarcación no es simplemente un PROBLEMA DE FILOSOFÍA DE GABINETE sugiere que este problema trasciende",
+        "alternatives": [
+          "A) la verdad.",
+          "C) la política.",
+          "",
+          "B) lo teórico.",
+          "D) la moral."
+        ],
+        "correct": 1,
+        "rationale": "Resolver el problema de la demarcación entre ciencia y seudociencia va más allá de lo teórico pues tiene relevancia política y social."
+      },
+      {
+        "statement": "Es incompatible con el texto afirmar que los hombres de ciencia deben operar",
+        "alternatives": [
+          "A) con una gran reflexividad.",
+          "C) con un cierto dogmatismo.",
+          "",
+          "B) con una dosis de escepticismo.",
+          "D) con una lógica implacable."
+        ],
+        "correct": 2,
+        "rationale": "El sello distintivo de la conducta científica es el escepticismo. Aferrarse ciegamente a una teoría es un crimen intelectual."
+      },
+      {
+        "statement": "Es posible colegir que la persecución de la que fueron víctimas los mendelianos en el contexto soviético",
+        "alternatives": [
+          "A) configuró un acto de injusticia.",
+          "C) tuvo resultados muy positivos.",
+          "",
+          "B) estaba plenamente justificada.",
+          "D) dio pie a un boom en genética."
+        ],
+        "correct": 0,
+        "rationale": "La excomunión de los copernicanos y la persecución de los mendelianos son ejemplos de represiones injustas que hacen imprescindible la distinción entre ciencia y seudociencia."
+      },
+      {
+        "statement": "Si la teoría de la relatividad de Einstein fuese ininteligible hasta el día de hoy,",
+        "alternatives": [
+          "A) estaríamos ante un ejemplo de teoría científica inválida.",
+          "B) se habría ganado con justicia el estatus seudocientífico.",
+          "C) no significaría necesariamente que tal teoría es inválida.",
+          "D) Einstein tendría que reformularla en una lengua distinta."
+        ],
+        "correct": 2,
+        "rationale": "Una teoría puede ser incluso de valor científico supremo aun cuando nadie la entienda y menos la crea."
+      }
+    ]
+  },
+  {
+    "type": "reading_comprehension",
+    "statement": "SECCIÓN B\n\nHasta los años setenta del siglo pasado, la historiografía insistió abundantemente\nsobre la importancia de la mano de obra forzada —la mita— en la minería; sin embargo,\ndesde hace media década y gracias a los trabajos de historiadores de Potosí, en\nparticular los de Bakewell, conocemos la importancia y el peso de la mano de obra\nvoluntaria en las principales actividades mineras del Cerro Rico: los mingas. Desde fines\ndel siglo XVI, estos trabajadores indígenas, que sellaban «voluntariamente» un contrato\ncon los señores de minas de Potosí, jugaron un papel fundamental en las actividades\nproductivas. Capoche, el primer autor en brindar pruebas de la existencia de una mano\nde obra contratada (primer modelo de mingas para los años posteriores al virrey\nToledo), detalla que, al hacer su repartimiento de la mita en los primeros años del\ndecenio de 1580, el virrey Enríquez asignó mitayos en una escala ínfima para realizar la\npurificación de los metales argentíferos, debido a ello, los señores de minas —que eran\nespañoles— debían contratar mingas si querían hacer rendir a sus plantas de\npurificación. Estos eran reclutados en las plazas de las ciudades y, a diferencia de los\nmitayos, desempeñaban, sobre todo, tareas muy especializadas, como la purificación,\npor la cual cobraban un salario superior al del mitayo: 4.25 reales por día más coca,\nfrente a los 2.75 reales respectivamente. Asimismo, por trabajar en la mina, los mingas\nrecibían 4 reales por día más mineral, frente a los 3.5 reales del mitayo.\n\nSALAZAR-SOLER, C. (2009). «Minería y moneda en la época colonial temprana». En: CONTRERAS, C. (Editor).\n(2009). Economía del periodo colonial temprano. Tomo 2. Lima: Banco Central de Reserva del Perú e Instituto de\nEstudios Peruanos (IEP), pp. 109-227. (Texto editado)\n",
+    "questions": [
+      {
+        "statement": "¿Cuál es el tema central del texto?",
+        "alternatives": [
+          "A) La economía del virreinato",
+          "B) La mina aurífera de Potosí",
+          "C) Los mingas en el virreinato",
+          "D) La mita minera en la Colonia"
+        ],
+        "correct": 2,
+        "rationale": "Tanto la información textual como la imagen nos refieren sobre el trabajo remunerado en la minería colonial realizado por los mingas."
+      },
+      {
+        "statement": "En el texto, el verbo RENDIR connota",
+        "alternatives": [
+          "A) productividad.",
+          "B) conquista.",
+          "C) inversión.",
+          "D) explotación."
+        ],
+        "correct": 0,
+        "rationale": "Con dicho verbo se busca trasmitir la idea de que la contratación de los mingas haría posible que los señores de minas hagan productivas sus minas."
+      },
+      {
+        "statement": "De acuerdo con la imagen de Huamán Poma de Ayala, resulta incompatible señalar que",
+        "alternatives": [
+          "A) todavía en el virreinato se practicaba el trueque.",
+          "B) se trata de un contrato de trabajo bastante útil.",
+          "C) se explica con el modelo brindado por Capoche.",
+          "D) se solía cobrar antes de realizar el trabajo pactado."
+        ],
+        "correct": 2,
+        "rationale": "En la imagen puede apreciarse un hombre con vestimenta indígena que realiza un pago a otro hombre indígena (la leyenda lo refrenda). En el texto se señala, de acuerdo con Capoche, que el minga era contratado por el señor de minas, que era español."
+      },
+      {
+        "statement": "Basándonos en lo que se expone sobre los mingas, podemos establecer que",
+        "alternatives": [
+          "A) no dejaron testimonios de su existencia.",
+          "B) fueron mineros y orfebres competentes.",
+          "C) realizaban trabajos muy especializados.",
+          "D) eran más valorados que los mitayos."
+        ],
+        "correct": 3,
+        "rationale": "En el texto se señala que su trabajo era mejor remunerado en virtud de su especialización."
+      },
+      {
+        "statement": "Si los mingas hubiesen constituido mano de obra forzada y no voluntaria,",
+        "alternatives": [
+          "A) igualmente habrían recibido una muy buena paga.",
+          "B) se hubiera prescindido del trabajo en las minas.",
+          "C) la diferencia con los mitayos no habría sido crucial.",
+          "D) la autoridad colonial habría sufrido un derrocamiento."
+        ],
+        "correct": 2,
+        "rationale": "El texto nos dice que los mineros contrataron a los mingas con un sistema diferente al de los mitayos debido a la naturaleza voluntaria del reclutamiento. En caso de ser forzados, no habría mucha diferencia entre mitayos y mingas."
+      }
+    ]
+  },
+  {
+    "type": "reading_comprehension",
+    "statement": "Había empezado a leer la novela unos días antes. La abandonó por negocios urgentes, volvió a abrirla cuando regresaba en tren a la finca; se dejaba interesar lentamente por la trama, por el dibujo de los personajes. Esa tarde, después de escribir una carta a su apoderado y discutir con el mayordomo una cuestión de aparcerías, volvió al libro en la tranquilidad del estudio que miraba hacia el parque de los robles. Arrellanado en su sillón favorito, de espaldas a la puerta que lo hubiera molestado como una irritante posibilidad de intrusiones, dejó que su mano izquierda acariciara una y otra vez el terciopelo verde y se puso a leer los últimos capítulos. Su memoria retenía sin esfuerzo los nombres y las imágenes de los protagonistas; la ilusión novelesca lo ganó casi enseguida. Gozaba del placer casi perverso de irse desgajando, línea a línea, de lo que lo rodeaba, y sentir a la vez que su cabeza descansaba cómodamente en el terciopelo del alto respaldo, que los cigarrillos seguían al alcance de la mano, que más allá de los ventanales danzaba el aire del atardecer bajo los robles. Palabra a palabra, absorbido por la sórdida disyuntiva de los héroes, dejándose ir hacia las imágenes que se concertaban y adquirían color y movimiento, fue testigo del último encuentro en la cabaña del monte. Primero entraba la mujer, recelosa; ahora llegaba el amante, lastimada la cara por el chicotazo de una rama. Admirablemente restañaba ella la sangre con sus besos, pero él rechazaba las caricias, no había venido para repetir las ceremonias de una pasión secreta, protegida por un mundo de hojas secas y senderos furtivos. El puñal se entibiaba contra su pecho, y debajo latía la libertad agazapada. Un diálogo anhelante corría por las páginas como un arroyo de serpientes, y se sentía que todo estaba decidido desde siempre. Hasta esas caricias que enredaban el cuerpo del amante como queriendo retenerlo y disuadirlo, dibujaban abominablemente la figura de otro cuerpo que era necesario destruir. Nada había sido olvidado: coartadas, azares, posibles errores. A partir de esa hora cada instante tenía su empleo minuciosamente atribuido. El doble repaso despiadado se interrumpía apenas para que una mano acariciara una mejilla. Empezaba a anochecer. Sin mirarse ya, atados rígidamente a la tarea que los esperaba, se separaron en la puerta de la cabaña. Ella debía seguir por la senda que iba al norte. Desde la senda opuesta él se volvió un instante para verla correr con el pelo suelto. Corrió a su vez, parapetándose en los árboles y los setos, hasta distinguir en la bruma malva del crepúsculo la alameda que llevaba a la casa. Los perros no debían ladrar, y no ladraron. El mayordomo no estaría a esa hora, y no estaba. Subió los tres peldaños del porche y entró. Desde la sangre galopando en sus oídos le llegaban las palabras de la mujer: primero una sala azul, después una galería, una escalera alfombrada. En lo alto, dos puertas. Nadie en la primera habitación, nadie en la segunda. La puerta del salón, y entonces el puñal en la mano, la luz de los ventanales, el alto respaldo de un sillón de terciopelo verde, la cabeza del hombre en el sillón leyendo una novela. [Julio Cortázar (1956) «Continuidad de los parques». Final del juego. México: Los Presentes]",
+    "questions": [
+      {
+        "statement": "1. El texto narrativo se puede explicar plausiblemente como",
+        "alternatives": [
+          "A) el moroso recuento de un asesinato pasional y una lucha denodada.",
+          "B) el desarrollo de un inminente homicidio en el que confluyen dos planos.",
+          "C) la lectura de una intrigante novela que gira entorno a un acto de venganza.",
+          "D) el amor desenfrenado entre dos amantes y sus funestas consecuencias."
+        ],
+        "correct": 1,
+        "rationale": "La narración establece la continuidad de dos planos: la novela que se lee y la inmersión de otra realidad."
+      },
+      {
+        "statement": "2. Se infiere del texto que, para el lector de la novela, la trama era",
+        "alternatives": [
+          "A) ininteligible.",
+          "C) barroca.",
+          "B) morosa.",
+          "D) cautivante."
+        ],
+        "correct": 2,
+        "rationale": "Se dejó ganar por la ilusión novelesca."
+      },
+      {
+        "statement": "3. Considerando la trama de la novela, resulta incompatible señalar que",
+        "alternatives": [
+          "A) el amante fue instruido por la esposa infiel sobre la realización del crimen.",
+          "B) el lector leyó la novela infundido por las sospechas hacia su propia esposa.",
+          "C) el hombre que iba a ser victimado era propietario de una finca en un campo.",
+          "D) el amante lograría su misión porque todo funcionó de acuerdo con un plan."
+        ],
+        "correct": 1,
+        "rationale": "No se establece que leyera la novela por una causa personal."
+      },
+      {
+        "statement": "4. Se colige del texto que entre el personaje de la novela que va a ser asesinado y el",
+        "alternatives": [
+          "A) complementariedad.",
+          "C) identidad.",
+          "B) oposición.",
+          "D) complicidad."
+        ],
+        "correct": 2,
+        "rationale": "Hay pistas claras para concluir la identidad entre el lector y uno de los personajes: el marido engañado."
+      },
+      {
+        "statement": "5. En el texto, el adjetivo SECRETA significa",
+        "alternatives": [
+          "A) fúnebre.",
+          "B) silenciosa.",
+          "C) prohibida.",
+          "D) sutil."
+        ],
+        "correct": 2,
+        "rationale": "Se habla de la pasión secreta de dos amantes en el sentido de algo prohibido."
+      },
+      {
+        "statement": "6. Se deduce que el lector de la novela",
+        "alternatives": [
+          "A) sabe que vive engañado por su esposa.",
+          "B) se comporta como un individuo desleal.",
+          "C) goza de una posición muy acomodada.",
+          "D) suele ser fantasioso en su vida diaria."
+        ],
+        "correct": 2,
+        "rationale": "Se describe como a una persona pudiente, por lo que se puede deducir una vida confortable."
+      }
+    ]
+  },
+  {
+    "type": "sentence_elimination",
+    "statement": "6. Se deduce que el lector de la novela",
+    "alternatives": [
+      "A) sabe que vive engañado por su esposa.",
+      "B) se comporta como un individuo desleal.",
+      "C) goza de una posición muy acomodada.",
+      "D) suele ser fantasioso en su vida diaria."
+    ],
+    "correct": 2,
+    "rationale": "Se describe como a una persona pudiente, por lo que se puede deducir una vida confortable."
+  }
+]

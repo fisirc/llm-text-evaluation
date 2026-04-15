@@ -1,0 +1,820 @@
+[
+  {
+    "type": "reading_comprehension",
+    "statement": "Un texto literario es una construcción verbal en la que el lenguaje es usado con fines estéticos. La práctica de la literatura refiere siempre una síntesis estético-lingüística de experiencias existenciales, culturales e históricas de las que el escritor se hace un intérprete. El texto literario explota el lenguaje connotativo. A través del aprovechamiento de este nivel del lenguaje, la literatura se convierte en una experiencia profunda del mundo. El texto literario puede adoptar una determinada forma artística, ya sea narrativa, poética o dramática. Ahora bien, siempre que la literatura asume caracteres institucionales en una sociedad, la acompaña irremediablemente cierta actividad crítica o teórica. El texto de crítica literaria desempeña entonces la tarea de interpretar la obra y de esa manera orientar al público lector con sus juicios. También nos familiariza con el texto, nos ayuda a recuperar el sentido primigenio con el que fue escrito y forma el canon literario de una determinada cultura. TEXTOS LITERARIOS En la selva vivía una vez un Mono que quiso ser escritor satírico. Estudió mucho, pero pronto se dio cuenta de que para ser escritor satírico le faltaba conocer a la gente y se aplicó a visitar a todos y a ir a los cocteles y a observarlos por el rabo del ojo mientras estaban distraídos con la copa en la mano. Como era de veras gracioso y sus ágiles piruetas entretenían a los otros animales, en cualquier parte era bien recibido y él perfeccionó el arte de ser mejor recibido aún. No había quien no se encantara con su conversación y cuando llegaba era agasajado con júbilo tanto por las Monas como por los esposos de las Monas y por los demás habitantes de la Selva, ante los cuales, por contrarios que fueran a él en política internacional, nacional o doméstica, se mostraba invariablemente comprensivo; siempre, claro, con el ánimo de investigar a fondo la naturaleza humana y poder retratarla en sus satiras. Así llegó el momento en que entre los animales era el más experto conocedor de la naturaleza humana, sin que se le escapara nada. Entonces, un día dijo voy a escribir en contra de los ladrones, y se fijó en la Urraca, y principió a hacerlo con entusiasmo y gozaba y se reía y se encaramaba de placer a los árboles por las cosas que se le ocurrían acerca de la Urraca; pero de repente reflexionó que entre los animales de sociedad que lo agasajaban había muchas Urracas y especialmente una, y que se iban a ver retratadas en su sátira, por suave que la escribiera, y desistió de hacerlo. Después quiso escribir sobre los oportunistas, y puso el ojo en la Serpiente, quien por diferentes medios —auxiliares en realidad de su arte adulatorio— lograba siempre conservar, o sustituir, mejorándolos, sus cargos; pero varias Serpientes amigas suyas, y especialmente una, se sentirían aludidas, y desistió de hacerlo. Después deseó satirizar a los laboriosos compulsivos y se detuvo en la Abeja, que trabajaba estúpidamente sin saber para qué ni para quién; pero por miedo de que sus amigos de este género, y especialmente uno, se ofendieran, terminó comparándola favorablemente con la Cigarra, que egoísta no hacía más que cantar y cantar dándoselas de poeta, y desistió de hacerlo. Después se le ocurrió escribir contra la promiscuidad sexual y enfiló su sátira contra las Gallinas adúlteras que andaban todo el día inquietas en busca de Gallitos; pero tantas de éstas lo habían recibido que temió lastimarlas, y desistió de hacerlo. Finalmente elaboró una lista completa de las debilidades y los defectos humanos y no encontró contra quién dirigir sus baterías, pues todos estaban en los amigos que compartían su mesa y en él mismo. En ese momento renunció a ser escritor satírico y le empezó a dar por la Mística y el Amor y esas cosas; pero a raíz de eso, ya se sabe cómo es la gente, todos dijeron que se había vuelto loco y ya no lo recibieron tan bien ni con tanto gusto. Monterroso, A. (2004). «El mono que quiso ser escritor satírico». En: La oveja negra y demás fábulas. Madrid: Punto de lectura, pp. 15-18.",
+    "questions": [
+      {
+        "statement": "A un nivel profundo, el relato de Monterroso aborda el tema de",
+        "alternatives": [
+          "A) la presión social como posible condicionante de la labor del escritor.",
+          "B) el conflicto entre una ética de escritura rigurosa y el contacto amical.",
+          "C) la búsqueda de afecto como prerrogativa de los artistas y escritores.",
+          "D) el desprecio tácito hacia los miembros de la sociedad por sus vicios.",
+          "E) el valor de la amistad y sus dificultades para la producción narrativa."
+        ],
+        "correct": 0,
+        "rationale": "El relato, básicamente, es una alegoría que expone la tensión entre la vida en sociedad y la praxis creativa. El protagonista debe decidir entre escribir críticamente sobre sus allegados o renunciar a la creación literaria."
+      },
+      {
+        "statement": "En el texto el término SUAVE connota",
+        "alternatives": [
+          "A) perspicacia.",
+          "D) debilidad.",
+          "B) fragilidad.",
+          "E) moderación.",
+          "C) ligereza."
+        ],
+        "correct": 3,
+        "rationale": "En el texto se hace referencia a una sátira SUAVE, es decir, sutil en su tratamiento de los defectos que son objeto de su burla. Luego, puede afirmarse que SUAVE sugiere «moderación» en la representación de los vicios."
+      },
+      {
+        "statement": "Respecto al acercamiento a los otros animales por parte del protagonista, se infiere que",
+        "alternatives": [
+          "A) fue parte de una táctica para abandonar la creación.",
+          "B) obedeció a una finalidad pragmática en un principio.",
+          "C) tenía como meta generar la empatía hacia los otros.",
+          "D) puede sostenerse que constituía un fin en sí mismo.",
+          "E) era un ejercicio para calibrar su calidad estética real."
+        ],
+        "correct": 1,
+        "rationale": "En un principio, el protagonista se acerca a los otros animales para completar su aprendizaje sobre la naturaleza humana y dar inicio a su producción literaria. Por ende, esta aproximación obedeció a un interés pragmático."
+      },
+      {
+        "statement": "Es incongruente sostener que protagonista optó finalmente por criticar los aspectos más reprochables de su entorno, ya que",
+        "alternatives": [
+          "A) había las condiciones necesarias para ejercer su sentido crítico sobre los defectos de los seres que lo invitaban habitualmente a sus celebraciones.",
+          "B) creyó que la amistad valía más que cualquier interés artístico que pudiera dañar emocionalmente a los seres con los que compartió momentos de su vida.",
+          "C) encontró que, en el fondo, animales como el Cuervo, la Serpiente y la Gallina no deberían ser acosadas por la forma cómo había decidido vivir sus existencias.",
+          "D) decidió abandonar su propósito de convertirse en un escritor satírico ante la imposibilidad de criticar a los demás sin afectar su propia condición social.",
+          "E) había conseguido distinguir de forma nítida entre el afecto de los otros, su sensibilidad propia, el aprecio hacia otros seres y sus intereses creativos."
+        ],
+        "correct": 3,
+        "rationale": "Ante la disyuntiva de criticar a sus amigos o abandonar la literatura satírica, el protagonista optó por dejar de lado sus intereses literarios."
+      },
+      {
+        "statement": "Si al mono no le hubiera importado escarnecer sus propios defectos públicamente,",
+        "alternatives": [
+          "A) no renegaría de la creación de estereotipos literarios basados en otros seres.",
+          "B) no se valoraría a sí mismo como un creador de perspicaces sátiras políticas.",
+          "C) no habría sido necesario que abandone su deseo de ser un escritor satírico.",
+          "D) no apostaría por cambiar sus intereses literarios por su amor por la sociedad.",
+          "E) no consentiría en que se practique la Mística y el Amor en el contexto social."
+        ],
+        "correct": 2,
+        "rationale": "Si el protagonista aún pudiera ejercer su sentido crítico sobre sí mismo, podría aspirar a convertirse en un escritor satírico todavía. Luego, no sería necesario que abandone su deseo de convertirse en un escritor satírico."
+      },
+      {
+        "statement": "Se infiere del texto que, con el objetivo de observar detenidamente el comportamiento de los demás, el mono",
+        "alternatives": [
+          "A) revisó en ciertos manuales cuál es la conducta habitual de los animales.",
+          "B) renunció a hablar en público con el fin de escuchar el discurso del resto.",
+          "C) examinó la posibilidad de renunciar a la sátira y dedicarse al esoterismo.",
+          "D) ideó una serie de tácticas para ingresar sin que nadie note su presencia.",
+          "E) potenció sus propias habilidades para facilitar su acceso a esos círculos."
+        ],
+        "correct": 4,
+        "rationale": "El texto indica que el mono era gracioso y de movimientos ágiles, cualidades ambas que le permiten agradar a sus contertulios. Asimismo, se afirma que «él perfeccionó el arte de ser mejor recibido aún». Luego, puede afirmarse que potenció sus propias habilidades."
+      }
+    ]
+  },
+  {
+    "type": "reading_comprehension",
+    "statement": "En el camino que lleva al sembrado de camotes, el negro don Andrés supo que en los últimos días el caporal Basaldúa se había puesto a hablar feas cosas de él. Mientras compraba plantas en el sembrado y llenaba de camotes los serones de su burro, le dijeron lo mismo. Entonces no aguantó más: trepó al burro de un salto y enderezó por un atajo hacia la casa del caporal. Pero ahí le dijeron que se había ido a vigilar unos riegos en la Punta de la Isla y que volvería una semana después. Sin decir nada pero aguantándose, don Andrés regresó rápidamente a su casa, se bajó casi arrojándose del burro, lo dejó plantado con los serones cargados, se metió corriendo en la primera habitación y llamó a su hija mayor: —¡Patora! —los labios se le habían hinchado y parecían pelotas. Saliendo de la habitación contigua, Pastora se presentó alarmada. —Patora, tú que sabe equirbí, hame una cadta pa mandásela hata la Punta e la Ila a ese caporá Basadúa, que nueta acá y sia ido pallá depué quiabló mal de mí. Yo te vua decí qué vas a poné en er papé. —Ya, tata, vua traé papé y lápice —dijo la hija. Se metió en los interiores de la casa y poco después regresó. —Ponle ahí, Patora —dijo don Andrés—, que su boca es una miera, que su diente estona miera, su palaibra un montón de miera… Miera esa mula que monta. Miera su epuela. Miera su rebenque. Miera el sombrero con quianda. Miera esa cotumbe e miera diandá mirando tabajo ajeno… Léemela, Patora, a ve qué fartra. Cuando la hija acabó de leer, don Andrés tenía un gesto de duda como si ya no confiara del todo en sus propias palabras. —Oye, Patora —dijo finalmente—, quítale un poco e miera a ese papé.",
+    "questions": [
+      {
+        "statement": "A pesar de su evidente polisemia, puede afirmarse que el relato problematiza centralmente",
+        "alternatives": [
+          "A) las tensiones entre la palabra oral y su adecuación a los códigos escritos.",
+          "B) la injerencia de las políticas educativas en los departamentos de la costa.",
+          "C) el ejercicio de poder sobre los subordinados por medio de la palabra oral.",
+          "D) las discrepancias entre los distintos grupos de poder en las zonas rurales.",
+          "E) el conflicto entre la escritura epistolar y la idiosincrasia del sector popular."
+        ],
+        "correct": 0,
+        "rationale": "El relato problematiza las tensiones entre la palabra escrita y la palabra oral. Existen ciertos códigos que esta última debe cumplir para inscribirse en el papel: la transcripción directa es imposible. De esto último, surge en parte, el desconcierto final del protagonista."
+      },
+      {
+        "statement": "En el texto, el término FEO connota_____________, mientras que AGUANTAR puede ser sustituido por__________.",
+        "alternatives": [
+          "A) animadversión-detener",
+          "B) encono-comprender",
+          "C) maledicencia-contener",
+          "D) difamación-englobar",
+          "E) murmuración-encerrar"
+        ],
+        "correct": 2,
+        "rationale": "En el relato, se cuenta que «el caporal Basaldúa se había puesto a hablar FEAS cosas» del protagonista. Esto es que sus comentarios buscaban denigrarlo. Por ello, FEO sugiere «maledicencia». Asimismo, en el texto, AGUANTAR es equivalente a «contener»."
+      },
+      {
+        "statement": "A partir de la carta que dicta don Andrés es válido inferir que este personaje",
+        "alternatives": [
+          "A) estima que escribir es inútil.",
+          "B) adolece de pobreza léxica.",
+          "C) desconfía de su hija Pastora.",
+          "D) quiere aprender a escribir.",
+          "E) muestra respeto al caporal."
+        ],
+        "correct": 1,
+        "rationale": "Don Andrés únicamente emplea un término, «miera», para descargar su rabia contra el gamonal Basaldúa. Por ende, es válido sostener que carece de variedad léxica."
+      },
+      {
+        "statement": "Únicamente atendiendo a la forma en que aparece representada su «voz», es válido inferir que el narrador",
+        "alternatives": [
+          "A) estima que Basaldúa merece una sanción por sus acciones.",
+          "B) ignora las razones que han motivado la carta de don Andrés.",
+          "C) se solidariza con el protagonista por la injuria que ha sufrido.",
+          "D) no pertenece al universo ficcional representado en el relato.",
+          "E) es reacio a comprender la actitud de los afrodescendientes."
+        ],
+        "correct": 3,
+        "rationale": "El lenguaje de los personajes es un intento de representar estéticamente su habla; el narrador, por el contrario, emplea una versión estándar del lenguaje. Si consideramos solo ese aspecto, se puede afirmar que el narrador no pertenece a ese universo."
+      },
+      {
+        "statement": "A nivel formal, es compatible sostener que, fundamentalmente, el relato aprovecha el componente____________ del lenguaje.",
+        "alternatives": [
+          "A) semántico.",
+          "B) sintáctico.",
+          "C) fonético.",
+          "D) semiótico.",
+          "E) pragmático."
+        ],
+        "correct": 2,
+        "rationale": "El relato, a nivel formal, intenta reproducir estéticamente el habla del poblador afroperuano de las zonas de Ica y Cañete. El componente fonético del lenguaje es que encuentra un mayor desarrollo en el relato."
+      }
+    ]
+  },
+  {
+    "type": "reading_comprehension",
+    "statement": "Nadie puede planear algo así, solo sucede. Claro, podrás alegar que hace mucho hubo algún flirteo, algún acercamiento, pero aun así las circunstancias no daban como para invitar a la imaginación. Además, cuando ya estás resignado a considerarla como a una amiga, es obvio que no acudirías a una cita con ella pensando que puede pasar algo entre los dos. Hasta que ves sus ojos. Dios mío, si los hubieras visto, si hubieras contemplado la soledad y el vacío que había en esas cavidades que antes fueron luceros. Eran los vestigios de un amor empequeñecido, erosionado a fuerza de desastres. Un amor de caricatura. Como si después de haber conocido un rostro durante mucho tiempo te trajeran un remedo GROTESCO y te aseguraran que es el mismo que tú recordabas, sin detallarte las razones de su ruina. Es más, ni siquiera vas preparado para un encuentro de esa naturaleza. Llevas dinero insuficiente, porque estás seguro de que la cita no pasará de la cena, quizás atravesada de confesiones y arrepentimientos, pero nada más. Parece quedar confirmado cuando empieza a deletrear dificultosamente sus tristezas, enumerando los desengaños acumulados, describiendo un amor inmenso, pero jamás correspondido. Detalles de su vida desenterrados con ayuda de los vasos de vino que empiezan a acumular y que los reblandece a ambos, poniéndolos melancólicos. Así terminas escuchando un inventario de sus desilusiones, el frío registro de los días que ha soportado la opresión de sentirse burlada y postergada, el lamento mortificado de quien ha aceptado un rol secundario, y a pesar de tus esfuerzos para consolarla, esperanzado en que el vino te ayude a inspirar tu discurso, sientes que tus palabras o tu idioma son siempre insuficientes, como si comprendieras que necesitas de un dialecto distinto para asumir el rol de consejero, y por eso solo recibes sus manos en las tuyas, temerosas, mientras casi puedes verlo que ella continúa describiendo con dificultad y grandes pausas. Recorres así un amplio y minucioso índice de nombres memorizados y luego descartados, y casi puedes palpar su tribulación, su soledad, su apremiante necesidad de abrigo, las consecuencias de los fracasos consecutivos que se obligó a asimilar con resignación y disciplina. Y si frotas sus manos puedes percibir su continencia a punto de desbordar. Y en el pecho sientes que un amor platónico de juventud te provoca un estremecimiento que, sospechas, ella puede intuir. Lo que ocurre después es casi una consecuencia lógica: hay pasión acumulada y quizá también sentimientos postergados, pero en rigor se trata de un trámite, de un acuerdo tácito entre su urgencia de atender algunas funciones abandonadas por una rutina de encubrimientos y tu necesidad de descubrir si hay todavía alguna posibilidad de volver real algo que siempre fue un sueño latente. El lugar da lo mismo; para aquella improvisada representación de movimientos indolentes y deudores de una quimera empobrecida bastaba una sencilla habitación de hotel, un escenario cualquiera que pudiera brindar el calor de un refugio, y entonces solo queda vencer la timidez y el sentimiento de culpa para recorrer en una sola jornada aquel territorio soñado. Sabes que eres solamente una excusa para liberar besos contenidos y ternura frustrada, que no eres más que la solución errónea para una pregunta que siempre quedará sin respuesta, pero aun así decides asumir el papel secundario de una obra efímera y te entregas a una vorágine incierta en la que sospechas y aceptas que participarás con otro rostro, con otra voz y aún con otro nombre, quizá con el único que ella atesora en su mente. Ruiz Effio, M. (2012). «Tres soledades. Con Gina, en Barranco». En: Y si el olvido un día nos. Lima: Altazor, pp. 72-74.",
+    "questions": [
+      {
+        "statement": "Centralmente, el texto relata",
+        "alternatives": [
+          "A) la incomunicación entre dos seres que se han visto alejados por sus destinos.",
+          "B) una aventura amorosa inesperada entre dos seres que acaban de conocerse.",
+          "C) la necesidad del protagonista de humillarse ante el ser que ama secretamente.",
+          "D) un encuentro íntimo producto de dos motivaciones completamente diferentes.",
+          "E) el inusual pedido de un amante incomprendido ante la soledad que lo circunda."
+        ],
+        "correct": 3,
+        "rationale": "El texto relata el encuentro íntimo entre dos personas que parecen conocerse desde hace mucho y que se involucran guiados por dos motivaciones radicalmente disímiles: él para cumplir un deseo largamente anhelado; ella por despecho."
+      },
+      {
+        "statement": "En el texto, el término GROTESCO implica___________, mientras que REBLANDECER se entiende como_____________.",
+        "alternatives": [
+          "A) catástrofe-disuadir",
+          "B) deterioro-desinhibir",
+          "C) traspié-solapar",
+          "D) fealdad-ablandar",
+          "E) fracaso-integrar"
+        ],
+        "correct": 1,
+        "rationale": "En primer caso, se indica que el rostro de ella es un remedo GROTESCO de lo que antes implica deterioro. En el segundo, REBLANDECER alude a los efectos del alcohol sobre ellos. Así, este término se entiende como desinhibir."
+      },
+      {
+        "statement": "A nivel formal, se desprende que el empleo de la segunda persona al momento de narrar",
+        "alternatives": [
+          "A) es un recurso para cuestionar el estatuto de veracidad de los hechos relatados.",
+          "B) alude a la producción de un texto signado por nítidos rasgos de la autobiografía.",
+          "C) permite esclarecer la situación de alienación que ha determina a los personajes.",
+          "D) forma parte de una batería de recursos inéditos en la narrativa contemporánea.",
+          "E) constituye un complemento necesario del carácter íntimo del asunto abordado."
+        ],
+        "correct": 4,
+        "rationale": "La segunda persona se emplea, en este caso, para crear la atmósfera de confesión íntima. El protagonista revela que ha sido usado como un sustituto y que él ha aceptado conscientemente esa situación."
+      },
+      {
+        "statement": "Es incompatible sostener que el personaje femenino fue sorprendido y seducido por el protagonista, porque",
+        "alternatives": [
+          "A) existen indicios en la narración de que ella era consciente de la situación.",
+          "B) el exceso de bebida la condicionó a buscar afecto en el ser más cercano.",
+          "C) se encontraba por completo desconsolada desde antes de llegar a la cita.",
+          "D) sufrió daño emocional severo que la obligó a buscar ayuda especializada.",
+          "E) su decepción amorosa es reciente y necesitaba un amigo que la escuche."
+        ],
+        "correct": 0,
+        "rationale": "En el texto se señala que la invitación partió de ella y, mientras relata sus desventuras amorosas, se sugiere que intuye los sentimientos del protagonista hacia ella."
+      }
+    ]
+  },
+  {
+    "type": "sentence_elimination",
+    "statement": "Es incompatible sostener que el personaje femenino fue sorprendido y seducido por el protagonista, porque",
+    "alternatives": [
+      "A) existen indicios en la narración de que ella era consciente de la situación.",
+      "B) el exceso de bebida la condicionó a buscar afecto en el ser más cercano.",
+      "C) se encontraba por completo desconsolada desde antes de llegar a la cita.",
+      "D) sufrió daño emocional severo que la obligó a buscar ayuda especializada.",
+      "E) su decepción amorosa es reciente y necesitaba un amigo que la escuche."
+    ],
+    "correct": 0,
+    "rationale": "En el texto se señala que la invitación partió de ella y, mientras relata sus desventuras amorosas, se sugiere que intuye los sentimientos del protagonista hacia ella."
+  },
+  {
+    "type": "sentence_elimination",
+    "statement": "Si el protagonista del relato se hubiera opuesto a ser un mero sustituto, es posible que",
+    "alternatives": [
+      "A) ella le habría propuesto verse en una próxima oportunidad.",
+      "B) habría pactado con ella un próximo encuentro para departir.",
+      "C) se habría despedido de ella luego de haber cenado juntos.",
+      "D) ella habría concebido un plan para escapar hacia otro país.",
+      "E) se habría rehusado a volver a compartir una mesa con ella."
+    ],
+    "correct": 2,
+    "rationale": "El texto indica que, desde la cena que comparten, existen fuertes indicios de la intención subrepticia de ella. El protagonista es consciente de ello y accede deliberadamente, a riesgo de convertirse en un mero reemplazo. Si se hubiera rehusado a ser utilizado de esa manera, posiblemente se habría despedido de ella luego de terminada la cena."
+  },
+  {
+    "type": "sentence_elimination",
+    "statement": "Es válido colegir que en este relato, parcialmente, se invierte la relación de género habitual en las historias de corte amoroso, porque",
+    "alternatives": [
+      "A) la iniciativa también parte del personaje femenino quien convoca la cita.",
+      "B) solo el personaje femenino es usado como si fuera un objeto sucedáneo.",
+      "C) el personaje femenino discierne nítidamente entre la amistad y el afecto.",
+      "D) el protagonista conquista el amor que ha anhelado durante tantos años.",
+      "E) las desdichas amorosas solo han dañado la autoestima del protagonista."
+    ],
+    "correct": 0,
+    "rationale": "En tanto que ella concierta la cita y es consciente del interés de él, puede afirmarse que la iniciativa parte también de ella. Esta circunstancia vulnera el dualismo tradicional en el cortejo erótico: masculino-activo y femenino-pasivo."
+  },
+  {
+    "type": "sentence_elimination",
+    "statement": "Se infiere válidamente que la situación de ambos personajes se caracteriza por",
+    "alternatives": [
+      "A) el desengaño.",
+      "D) la turbación.",
+      "B) el encono.",
+      "E) la soledad.",
+      "C) el júbilo."
+    ],
+    "correct": 4,
+    "rationale": "Ambos se hallan en una situación similar: han sido postergados y están solos. Ella es víctima de «un amor inmenso, pero jamás correspondido»; él ha estado enamorado de ella platónicamente desde hace mucho."
+  },
+  {
+    "type": "reading_comprehension",
+    "statement": "Aplicar a la evolución de la novela el mismo rasero que a otros géneros literarios es un modo acrítico de hacer historia literaria inspirada por la filología. Se trata del vestigio de un tipo de historicismo primitivo armado según el modelo de las ciencias naturales que, hay que admitirlo, en el caso de la historias de las formas literarias convencionales ha dado resultados impresionantes. No creo que pueda decirse lo mismo de los estudios sobre la novela. No me convencen las teorías que postulan que la novela ha evolucionado sola o principalmente a partir de la épica o cualquier otra forma literaria. La característica más persistente de los libros que han recibido el nombre de novelas en la era moderna es que siempre han pretendido no ser literatura. El anhelo de no ser literaria, de romper con las bellas letras, es el elemento más tenaz de la novela. Así, por ejemplo, se supone que Quijote es la traducción de una historia escrita en árabe o de documentos extraídos de los archivos de La Mancha y que La vida del Lazarillo de Tormes es una deposición dirigida a un juez. Otras novelas son o pretenden ser autobiografías, una serie de cartas, un manuscrito hallado en un baúl y así sucesivamente. Hace algunos años Ralph Freedman hizo la siguiente propuesta con respecto a la polémica sobre los orígenes de la novela: Instead of artificially isolating genres and subgenres, and then accounting for exceptions detailing the various mixtures and amalgams, it is simpler to see all prose-fiction as a unit, and to bring different strands back to different origins. Este enfoque, según Freedman, supone reconocer que algunas de estas hebras pueden estar demasiado próximas al material folclórico para clasificarse como épicas, otras pueden haber tenido como paradigmas libros de viajes o relatos periodísticos de ciertos acontecimientos, y otros pueden sugerir comedias de salón, o hasta prosa poética, sin embargo, todos, en diferentes grados, parecen reflejar la vida en mundos estéticamente definidos. Me gustaría preservar de Freedman la noción de orígenes múltiples, y añadir que el origen de la novela se repite, una y otra vez, reteniendo en su evolución solo el acto mimético con respecto a formas no literarias, no necesariamente sus propias formas anteriores. El origen de la novela es no solo múltiple en el espacio, sino también en el tiempo. Su historia no es, por cierto, una sucesión lineal o evolución, sino una serie de renovados arranques en diferentes lugares. El único denominador común es la cualidad mimética del texto novelístico; no de una realidad dada, sino de un discurso dado que ya ha «reflejado» la realidad. En vez de aislar géneros y subgéneros artificialmente, y después dar cuenta de las excepciones detallando las diversas mezclas y amalgamas, resulta más simple ver toda la prosa-ficción como una unidad, y retrotraer diferentes hebras a diversos orígenes. González Echevarría, R. (2011). Mito y archivo. Una teoría de la narrativa latinoamericana. México: FCE, pp. 36-37.",
+    "questions": [
+      {
+        "statement": "Fundamentalmente, el autor sostiene que la novela se caracteriza por",
+        "alternatives": [
+          "A) su espíritu crítico y cuestionador de las metodologías clásicas de la filología.",
+          "B) su deseo de representar con fidelidad los aspectos de su momento histórico.",
+          "C) su inquietud por reconocer los vericuetos de la realidad de forma minuciosa.",
+          "D) su tendencia a imitar discursos previos que ya han representado la realidad.",
+          "E) su preocupación por erradicar la subjetividad de las ficciones de la literatura."
+        ],
+        "correct": 3,
+        "rationale": "El texto propone un rasgo común de la novela: esta no representa la realidad, sino los discursos que la han representado previamente."
+      },
+      {
+        "statement": "En el texto, el término PARADIGMA puede ser reemplazado por",
+        "alternatives": [
+          "A) pauta.",
+          "D) sistema.",
+          "B) estereotipo.",
+          "E) hegemonía.",
+          "C) regulación."
+        ],
+        "correct": 0,
+        "rationale": "En el texto, se indica que otras novelas «pueden haber tenido como PARADIGMAS libros de viajes», es decir, este término se entiende como norma, regla o modelo. «Pauta», en una de sus acepciones, significa «modelo o norma»."
+      }
+    ]
+  },
+  {
+    "type": "reading_comprehension",
+    "statement": "En el texto, se indica que otras novelas «pueden haber tenido como PARADIGMAS libros de viajes», es decir, este término se entiende como norma, regla o modelo. «Pauta», en una de sus acepciones, significa «modelo o norma». De la propuesta de Ralph Freedman, que figura en la cita en inglés, es válido inferir que este investigador. La cita se traduce literalmente de la siguiente forma: «En vez de aislar géneros y subgéneros artificialmente, y después dar cuenta de las excepciones detallando las diversas mezclas y amalgamas, resulta más simple ver toda la prosa-ficción como una unidad, y retrotraer diferentes hebras a diversos orígenes». Luego, Freedman apuesta por la multiplicidad antes que por un supuesto origen único. De la historia literaria tradicional, inspirada por la filología, es incompatible sostener que. La metodología de la historia literaria tradicional arraiga en el modelo de las ciencias naturales. Por ende, no puede decirse que sea plenamente autónoma ni innovadora. Si se demostrara taxativamente que la novela procede de la épica clásica, Se observa en el texto que la metodología de la historia literaria tradicional «ha dado resultados impresionantes». Si se demostrara que la novela procede directamente de la épica clásica, es decir, que es un género convencional, esta metodología sería pertinente. Respecto al carácter imitativo de la novela es válido inferir que. Si la novela imita formas no literarias, en principio, eso supone que su acercamiento al referente de las obras (la realidad) queda en un segundo plano. Luego, el carácter imitativo de la novela permite suponer que este género se encuentra doblemente alejado de la realidad.",
+    "questions": [
+      {
+        "statement": "En el texto, el término PARADIGMA puede ser reemplazado por",
+        "alternatives": [
+          "A) pauta.",
+          "D) sistema.",
+          "B) estereotipo.",
+          "E) hegemonía.",
+          "C) regulación."
+        ],
+        "correct": 0,
+        "rationale": "En el texto, se indica que otras novelas «pueden haber tenido como PARADIGMAS libros de viajes», es decir, este término se entiende como norma, regla o modelo. «Pauta», en una de sus acepciones, significa «modelo o norma»."
+      },
+      {
+        "statement": "De la propuesta de Ralph Freedman, que figura en la cita en inglés, es válido inferir que este investigador",
+        "alternatives": [
+          "A) cree que la novela es un género que nunca evolucionó hasta hoy.",
+          "B) reniega de la hipótesis de un supuesto origen común de la novela.",
+          "C) admite que las excepciones carecen de valor al estudiar la novela.",
+          "D) rechaza de la hipótesis del origen múltiple de la novelística actual.",
+          "E) refrenda el empleo de la metodología de la historia literaria clásica."
+        ],
+        "correct": 1,
+        "rationale": "La cita se traduce literalmente de la siguiente forma: «En vez de aislar géneros y subgéneros artificialmente, y después dar cuenta de las excepciones detallando las diversas mezclas y amalgamas, resulta más simple ver toda la prosa-ficción como una unidad, y retrotraer diferentes hebras a diversos orígenes». Luego, Freedman apuesta por la multiplicidad antes que por un supuesto origen único."
+      },
+      {
+        "statement": "De la historia literaria tradicional, inspirada por la filología, es incompatible sostener que",
+        "alternatives": [
+          "A) sus resultados dejan mucho que desear cuando se trata de las novelas.",
+          "B) como método se halla articulado sobre la base de las ciencias naturales.",
+          "C) ha hecho uso de una metodología plenamente autónoma e innovadora.",
+          "D) su aplicación se ha mostrado eficaz únicamente para algunos géneros.",
+          "E) ha dado paso a teorías que proponen una evolución lineal de la novela."
+        ],
+        "correct": 2,
+        "rationale": "La metodología de la historia literaria tradicional arraiga en el modelo de las ciencias naturales. Por ende, no puede decirse que sea plenamente autónoma ni innovadora."
+      },
+      {
+        "statement": "Si se demostrara taxativamente que la novela procede de la épica clásica,",
+        "alternatives": [
+          "A) habría buenas razones para considerar la tesis del origen múltiple de este género.",
+          "B) sería pertinente usar los recursos de la historia literaria tradicional para estudiarla.",
+          "C) el objetivo de los estudios sobre el género novelístico sufriría un cambio profundo.",
+          "D) este dato bastaría para producir una genealogía de la novela en el mundo actual.",
+          "E) el relato de hechos históricos podría alcanzar un insólito estatuto de verosimilitud."
+        ],
+        "correct": 1,
+        "rationale": "Se observa en el texto que la metodología de la historia literaria tradicional «ha dado resultados impresionantes». Si se demostrara que la novela procede directamente de la épica clásica, es decir, que es un género convencional, esta metodología sería pertinente."
+      },
+      {
+        "statement": "Respecto al carácter imitativo de la novela es válido inferir que",
+        "alternatives": [
+          "A) deja entrever que este género se haya doublemente distanciado de la realidad.",
+          "B) admite la preocupación por las tensiones entre el referente y la escritura literaria.",
+          "C) le permite al novelista observar con mayor detenimiento las conductas sociales.",
+          "D) implica una serie de modificaciones esenciales que definen este género literario.",
+          "E) allí radica la explicación de su falta de importancia en la época contemporánea."
+        ],
+        "correct": 0,
+        "rationale": "Si la novela imita formas no literarias, en principio, eso supone que su acercamiento al referente de las obras (la realidad) queda en un segundo plano. Luego, el carácter imitativo de la novela permite suponer que este género se encuentra doblemente alejado de la realidad."
+      }
+    ]
+  },
+  {
+    "type": "synonyms_and_antonyms",
+    "statement": "1. Estragar",
+    "alternatives": [
+      "A) asolar",
+      "B) asolapar",
+      "C) alzar",
+      "D) reparar",
+      "E) relevar"
+    ],
+    "correct": 0,
+    "rationale": "La expresión en cuestión se traduce literalmente como «Así levantaba Victor Hugo la historia sobre sus hombros». Dicho aserto implica exponerse al peligro latente, aparente inactivo, cuando se auxilia a seres humanos en peligro."
+  },
+  {
+    "type": "synonyms_and_antonyms",
+    "statement": "2. Prímordial",
+    "alternatives": [
+      "A) vigente",
+      "B) accesorio",
+      "C) accesible",
+      "D) prioritario",
+      "E) privativo"
+    ],
+    "correct": 4,
+    "rationale": null
+  },
+  {
+    "type": "synonyms_and_antonyms",
+    "statement": "3. Flemático",
+    "alternatives": [
+      "A) raudo",
+      "B) obstinado",
+      "C) obtuso",
+      "D) perito",
+      "E) tardo"
+    ],
+    "correct": 1,
+    "rationale": "El autor afirma que en Victor Hugo dominaba una dualidad o, mejor, pluralidad que no sólo le permitía llevar en sí juntamente a Esmeralda y a Quasimodo sino también a cada una de las quimeras de Nuestra Señora de París."
+  },
+  {
+    "type": "synonyms_and_antonyms",
+    "statement": "4. Connotado",
+    "alternatives": [
+      "A) homónimo",
+      "B) anónimo",
+      "C) invicto",
+      "D) ínclito",
+      "E) inmarcesible"
+    ],
+    "correct": 2,
+    "rationale": "I. Las quimeras de Nuestra Señora de París tienen rasgos de personalidad comunes. (I) II. En Los miserables, V. Hugo no repara en zambullirse en el alcantarillado de París. (I) III. Para escribir Los miserables, estudia profundamente la vida de los más pobres de París. (C) IV. Jean Valjean es un perseguido pese a ser un personaje honorable de la sociedad. (I) V. Javert es radicalmente distinto a Hugo en cuanto a su identificación con los perseguidos. (C)"
+  },
+  {
+    "type": "synonyms_and_antonyms",
+    "statement": "5. Si Jean Valjean se hubiese dejado llevar por el instinto de conservación en sus actos y no por el noble impulso de prestar auxilio,",
+    "alternatives": [
+      "A) habría sido un personaje indiferente para su creador Víctor Hugo.",
+      "B) Javert habría perdido todo interés por perseguirlo y capturarlo.",
+      "C) Víctor Hugo habría cambiado el título de su novela Los miserables.",
+      "D) habría sido un personaje singular que Víctor Hugo no llevaba en sí.",
+      "E) Hugo habría incluido en Los miserables otro personaje más solidario."
+    ],
+    "correct": 3,
+    "rationale": "En este caso, Jean Valjean no habría correspondido al noble impulso de prestar auxilio que Víctor Hugo llevaba en sí."
+  },
+  {
+    "type": "synonyms_and_antonyms",
+    "statement": "6. Lacónico",
+    "alternatives": [
+      "A) conciso",
+      "B) exacto",
+      "C) ingente",
+      "D) verboso",
+      "E) enjundioso"
+    ],
+    "correct": 0,
+    "rationale": null
+  },
+  {
+    "type": "synonyms_and_antonyms",
+    "statement": "7. Dispendio",
+    "alternatives": [
+      "A) dislate",
+      "B) privación",
+      "C) ahorro",
+      "D) derroche",
+      "E) devaneo"
+    ],
+    "correct": 3,
+    "rationale": null
+  },
+  {
+    "type": "synonyms_and_antonyms",
+    "statement": "8. Trocar",
+    "alternatives": [
+      "A) avenir",
+      "B) conservar",
+      "C) permutar",
+      "D) convenir",
+      "E) atenuar"
+    ],
+    "correct": 2,
+    "rationale": null
+  },
+  {
+    "type": "synonyms_and_antonyms",
+    "statement": "9. Perspicaz",
+    "alternatives": [
+      "A) ingenuo",
+      "B) docto",
+      "C) lerdo",
+      "D) ingenioso",
+      "E) inane"
+    ],
+    "correct": 3,
+    "rationale": null
+  },
+  {
+    "type": "synonyms_and_antonyms",
+    "statement": "10. Escindir",
+    "alternatives": [
+      "A) desgajar",
+      "B) despotricar",
+      "C) desollar",
+      "D) adherir",
+      "E) adular"
+    ],
+    "correct": 0,
+    "rationale": null
+  },
+  {
+    "type": "synonyms_and_antonyms",
+    "statement": "11. Avenir",
+    "alternatives": [
+      "A) socavar",
+      "B) polemizar",
+      "C) abominar",
+      "D) conculcar",
+      "E) concordar"
+    ],
+    "correct": 4,
+    "rationale": null
+  },
+  {
+    "type": "synonyms_and_antonyms",
+    "statement": "12. Abogar",
+    "alternatives": [
+      "A) interceder",
+      "B) juzgar",
+      "C) tolerar",
+      "D) repudiar",
+      "E) retar"
+    ],
+    "correct": 0,
+    "rationale": null
+  },
+  {
+    "type": "reading_comprehension",
+    "statement": "En el trasfondo de los sueños de Lewis Carroll acecha una resignada y sonriente melancolía; la soledad de Alicia entre sus monstruos refleja acaso la del célibe que tejió la inolvidable fábula. La soledad de un hombre que no se atrevió nunca al amor y que no tuvo otros amigos que algunas niñas que el tiempo fue robándole, ni otro placer que la fotografía, menospreciada entonces. Queda otra zona, que mi incapacidad no entrevé y que algunos entendidos desdeñan: la de los pillow problems (problemas de almohada) que urdió para poblar las noches del insomnio y para alejar (él mismo lo confiesa) los malos pensamientos que lo acosaban. El triste Caballero Blanco, artífice de cosas inservibles, es un autorretrato deliberado y una proyección, tal vez involuntaria, de aquel provinciano que trató de ser Don Quijote. Un Quijote o Quijano que nunca sabe si es un pobre sujeto que sueña ser un paladín cercado de hechiceros o un paladín cercado de hechiceros que sueña ser un pobre sujeto. Recuerdo ahora que Martin Gardner, a propósito de estos sueños recíprocos, nos habla de cierta obesa que pinta a una pintora flaca, que pinta a una pintora obesa que pinta a una pintora flaca, y así hasta lo infinito.\n\nDe todos los episodios de Alicia, el más inolvidable es el adiós del Caballero Blanco. Quizá el Caballero está conmovido, porque no ignora que él también es un sueño de Alicia, como Alicia fue un sueño del rey Rojo, que está a punto de esfumarse. El Caballero es el propio Carroll que se despide de los queridos sueños que poblaron su soledad.\n\nQuien escribe para los niños corre peligro de quedar contaminado de puerilidad; el autor se confunde con los oyentes. Tal es el caso de Jean de La Fontaine, de Robert Louis Stevenson y de Rudyard Kipling. Se olvida que Stevenson escribió A child's garden or verses, pero también The master of Ballantrae (El maestro de Ballantae); se olvida que Kipling nos ha dejado las Just so stories (Solo esas historias) y los relatos más complejos y trágicos de nuestro siglo. En lo que a Carroll se refiere creo que los admirables libros de Alicia pueden ser leídos y releídos, según la locución hoy habitual, en muy diversos planos.\n\nEsos sueños forman parte de nuestra felicidad; ojalá compartan esa felicidad quienes, más allá de los años y la repetida vigilia, siguen, como yo, volviendo a sus páginas.\n\nBorges, J. (9 de febrero de 1986). «El sueño de Lewis Carroll». En: El país. Recuperado de https://elpais.com/diario/1986/02/09/opinion/508287605_850215.html.",
+    "questions": [
+      {
+        "statement": "1. En el texto, la expresión QUEDA OTRA ZONA alude a",
+        "alternatives": [
+          "A) un contexto de noches de insomnio y malos pensamientos.",
+          "B) problemas de Lewis Carroll desdeñados por los entendidos.",
+          "C) interpretación de las noches de insomnio de Lewis Carroll.",
+          "D) otra posible interpretación de los sueños de Lewis Carroll.",
+          "E) una crucial incógnita entorno a los sueños Lewis Carroll."
+        ],
+        "correct": 3,
+        "rationale": null
+      },
+      {
+        "statement": "2. Luego de examinar los sueños de Lewis Carroll, Jorge Luis Borges concluye, principalmente, que estos",
+        "alternatives": [
+          "A) llegaron a ser el fruto de la genial fantasía de este y fue concretada en su Alicia.",
+          "B) reflejan la melancolía, la soledad y las noches de insomnio que aquejaban a este.",
+          "C) contaminaron de puerilidad al reconocido cuento Alicia en el país de las maravillas.",
+          "D) conmovieron al Caballero Blanco, pues conocía que él era sólo un sueño de Alicia.",
+          "E) producen felicidad a los se encuentran más allá de los años y con repetida vigilia."
+        ],
+        "correct": 1,
+        "rationale": null
+      },
+      {
+        "statement": "3. Se deduce que Lewis Carroll se contaminó de puerilidad",
+        "alternatives": [
+          "A) a causa de la melancolía y al insomnio que lo aquejaban.",
+          "B) porque urdió monstruos para alejar sus malos pensamientos.",
+          "C) debido a su soledad y a la sola amistad con algunas niñas.",
+          "D) cuando retrataba a las niñas en sus momentos de felicidad.",
+          "E) para crear personajes que soñaban de manera recíproca."
+        ],
+        "correct": 2,
+        "rationale": null
+      },
+      {
+        "statement": "4. Es incompatible afirmar que el cuento Alicia en el país de las maravillas",
+        "alternatives": [
+          "A) es recomendable para quienes padecen de insomnio.",
+          "B) traslada a los lectores a un mundo de fantasía infantil.",
+          "C) es leído y releído con fruición por Jorge Luis Borges.",
+          "D) sólo lo interpretan los contaminados de puerilidad.",
+          "E) presenta al Caballero Blanco como autorretrato del autor."
+        ],
+        "correct": 3,
+        "rationale": null
+      },
+      {
+        "statement": "5. Si Stevenson hubiese escrito A adult's garden or verse y no A child's garden or verses",
+        "alternatives": [
+          "A) la primera se interpretaría al margen de la biografía del autor.",
+          "B) aquella sería incomparable con Alicia en el país de las maravillas.",
+          "C) la lectura de aquella sólo se podría hacer en un solo plano.",
+          "D) este autor habría estado libre de todo tipo de contaminación.",
+          "E) sus potenciales lectores habrían disminuido de manera notable."
+        ],
+        "correct": 1,
+        "rationale": null
+      }
+    ]
+  },
+  {
+    "type": "reading_comprehension",
+    "statement": "El término racismo ya no designa exclusivamente comportamientos discriminatorios basados en un referente físico-biológico. El racismo posmoderno no remite a razas, sino a culturas, y predica la segregación y expulsión de los otros bajo el pretexto de la identidades del grupo están incompatibilidad cultural: se considera que predeterminadas y son inamovibles, y que las fronteras sociales que los separa son inalterables. Así pues, las actitudes racistas se nutren del miedo a que la llegada masiva de inmigrantes («invasión») genere un proceso de impregnación cultural que llegue a modificar substancialmente los valores básicos sobre los que se funda la sociedad europea occidental, esto es, el peligro de que se llegue a quebrar el proceso ilustrado de la modernidad. Así, se enfrenta una supuesta cultura de la tolerancia a una supuesta cultura de la intransigencia o, dicho en otros términos, se enfrenta civilización a barbarie. Y descartada la posibilidad de convivencia (dado que los universos culturales de unos y otros son cerrados e incompatibles) las alternativas que quedan son escasas. Blanch, A. (2004). La inmigración como problema: un análisis de las prácticas discursivas de la población autóctona. Recuperado de https://www.siis.net/documentos/ficha/154317.pdf. En cualquier estudio retrospectivo de la experiencia norteamericana, es importante tener en cuenta los límites de la influencia ejercida por los inmigrantes. En ningún período lograron estos alterar las formas básicas de la organización social del país. El tipo de vida familiar que se ha ido fijando en los Estados Unidos, ha persistido a pesar del empeño con que muchos inmigrantes han luchado contra el mismo, considerándolo estrecho y falto de normas estrictas. La estructura religiosa, privada en lo que se refiere a organización y amplia en cuestión de dogmas, ha logrado sobrevivir frente a los esfuerzos realizados por gente campesina para trasplantar a Norteamérica sus propias iglesias; aun confesiones tan tradicionalistas como el catolicismo y el judaísmo acabaron por adaptarse poco a poco a las condiciones de vida en el Nuevo Mundo. Las características democráticas de la vida política norteamericana y el fondo utilitarista de sus formas artísticas se mantuvieron en el transcurso de todo el período de inmigración. Toda contribución positiva de los inmigrantes en esas esferas se ajustó a los límites ya marcados por el desarrollo cultural del medio del que entraban a formar parte. El carácter de esas contribuciones dependía del grupo de que se trataba en cada caso. La inmigración masiva libre, por la ingente reserva de mano de obra que representaba, fue uno de los factores del proceso de industrialización; su sólida organización familiar hizo más lenta la baja del coeficiente de natalidad, y con sus asociaciones contribuyó al desarrollo de la cultura norteamericana. Las migraciones sujetas a selección de grupos reducidos, pero especializados, desplazados por conmociones políticas, poseen cualidades que pueden emplearse mejor en el Nuevo Mundo que en sus países de origen. Esas personas aportan una contribución inmediata. UNESCO. (1955). Aportaciones positivas de los inmigrantes. Simposio preparado para la UNESCO por la Asociación Internacional de Sociología y Asociación París: UNESCO. Recuperado de http://unesdoc.unesco.org/images/0013/001330/133053SO.pdf",
+    "questions": [
+      {
+        "statement": "En los textos A y B se exponen ideas contrapuestas entorno a",
+        "alternatives": [
+          "A) el racismo posmoderno como consecuencia de la inmigración.",
+          "B) la inmigración y la modificación de la cultura del país receptor.",
+          "C) la inmigración y la necesidad de la preservación de la cultura.",
+          "D) a la evolución del racismo físico-biológico a racismo cultural.",
+          "E) la inmigración y su notable repercusión en el racismo cultural."
+        ],
+        "correct": 1,
+        "rationale": "Solución: En el texto A, se presenta la inmigración que, supuestamente, puede modificar la cultura y los valores europeos; mientras que en el texto B, a partir de la experiencia norteamericana, se sostiene que la inmigración en ningún período logró alterar las formas básicas de la organización social de dicho país."
+      },
+      {
+        "statement": "El argumento principal a favor la tesis central del texto B es que",
+        "alternatives": [
+          "A) los inmigrantes respetaron el tipo de vida familiar prevaleciente en EEUU.",
+          "B) la masiva inmigración hizo aportes limitados a la cultura norteamericana.",
+          "C) la inmigración no alteró las formas básicas de la organización social de EEUU.",
+          "D) respecto de la inmigración, en EEUU hay más tolerancia que en Europa.",
+          "E) la cultura y la organización social de los EEUU son más sólidas que las europeas."
+        ],
+        "correct": 2,
+        "rationale": "Este es el argumento principal del autor del texto B, por ello no considera a la inmigración un peligro para la cultura y la organización social de los EEUU."
+      },
+      {
+        "statement": "Se deduce que, en Europa, la idea de la necesidad de la preservación de la «pureza de la raza»",
+        "alternatives": [
+          "A) enfrenta el peligro de la inmigración.",
+          "B) está absolutamente deslegitimada.",
+          "C) implica pérdida de prosperidad.",
+          "D) carece de reconocimiento social.",
+          "E) garantiza la superioridad cultural."
+        ],
+        "correct": 3,
+        "rationale": "El miedo a la inmigración remite en contadas acciones a la hipotética necesidad de preservar la «pureza de la raza». En consecuencia, carece de reconocimiento social."
+      },
+      {
+        "statement": "Marca compatible (C) o incompatible (I) respecto del racismo cultural.",
+        "alternatives": [
+          "A) C-C-C-I-I",
+          "B) I-C-C-I-I",
+          "C) C-C-I-C-I",
+          "D) C-I-C-I-I",
+          "E) C-C-I-I-I"
+        ],
+        "correct": 0,
+        "rationale": "I. Deviene en una actitud intolerante frente a la inmigración. (C) II. se sustenta en la prosperidad alcanzada por los europeos. (C) III. para la mayoría de los europeos, es una necesidad actual. (C) IV. ha sido sistematizado por connotados intelectuales europeos. (I) V. ha sido internalizado por los europeos y por los inmigrantes. (I)"
+      },
+      {
+        "statement": "Si la industrialización fuera una necesidad imperiosa en Europa,",
+        "alternatives": [
+          "A) sería reconocida la contribución de los inmigrantes.",
+          "B) se permitiría el ingreso de migrantes de toda edad.",
+          "C) las bases culturales de esta se resquebrajarían.",
+          "D) favorecería la consolidación del racismo cultural.",
+          "E) habría mayor tolerancia frente a la inmigración."
+        ],
+        "correct": 4,
+        "rationale": "La actitud intolerante de los europeos cambiaría ante la necesidad de la mano de obra de los inmigrantes para la industrialización, base para su desarrollo económico, por ende, para su prosperidad y bienestar."
+      }
+    ]
+  },
+  {
+    "type": "reading_comprehension",
+    "statement": "SEMANA 16C\nEVALUACIÓN DE LA COMPRENSIÓN LECTORA\n\ninternacional de\n\nUn grupo\na la primera detección de ondas\ngravitacionales (distorsiones en la matriz del espacio-tiempo). El proyecto Ligo (siglas en\ninglés para Observatorio de Interferometría Láser para Ondas Gravitacionales) anunció la\nprimera detección directa de este fenómeno durante la colisión de dos agujeros negros.\n\nfísicos anunciaron\n\nLa física clásica sostiene que la gravedad es una fuerza. Isaac Newton calculó que\nesta fuerza aumenta si el cuerpo tiene más masa. La atracción que genera la Tierra sobre\nun caminante, no es la misma que la que tuvo la Luna sobre los astronautas de la misión\nApolo. Pero en su Teoría de la Relatividad General, Albert Einstein redefinió la gravedad\ncomo perturbaciones en la matriz del espacio-tiempo (aquí hay que imaginar una hoja de\npapel cuadriculado). Es decir, no es que un cuerpo atrae con su fuerza a otro; lo que hace\nes curvar la matriz de espacio-tiempo (doblar la hoja) con su masa/energía, que en la\nteoría de Einstein son equivalentes (E=mc2).\n\nEntonces dos cuerpos muy masivos (como dos agujeros negros), que están\n«danzando» entre ellos por su gravedad, generarán un bamboleo en la matriz de\nespacio-tiempo (la hoja se mueve de manera alocada) tal que se formarán ondas capaces\nde viajar por la matriz. Esas son las ondas gravitacionales que detectó el experimento\nLigo, resultado de varios años de investigación y de la puesta a punto de un detector con\nla participación de más de mil científicos de 20 países.\n\nEl anuncio se ha hecho esperar cinco meses desde que las ondas fueron detectadas\nel pasado 14 de septiembre por los dos detectores de Ligo, uno localizado en Livingston\n(Luisiana) y otro en Hanford (Washington), a miles de kilómetros de distancia. Carlos\nKozameh, investigador de Conicet y la Universidad Nacional de Córdoba, señala que «si\nse le dice a alguien que el espacio y el tiempo no son rígidos, sino flexibles, que los\nrelojes pueden adelantar o atrasar al pasar una perturbación gravitacional te van a tomar\npor loco. Pero eso es lo que predijo Einstein y eso es lo se ha detectado».\n\nViano, L. (12 de febrero de 2016). «La ciencia puede “escuchar” al universo». En: La Voz. Recuperado de\nhttp://www.lavoz.com.ar/ciudadanos/la-ciencia-puede-escuchar-al-universo.\n",
+    "questions": [
+      {
+        "statement": "En esencia, el texto informa sobre",
+        "alternatives": [
+          "A) los agujeros negros y la aparición de ondas gravitacionales en el espacio.",
+          "B) el concepto de gravedad en las teorías formuladas por Newton y Einstein.",
+          "C) la detección directa de ondas gravitacionales por parte del proyecto Ligo.",
+          "D) los experimentos realizados por el Observatorio de Interferometría Láser.",
+          "E) la gravedad como un tipo de perturbación en la matriz del espacio-tiempo."
+        ],
+        "correct": 2,
+        "rationale": "El texto se enfoca en reseñar la comprobación de la existencia de las ondas gravitacionales predichas por la teoría de Einstein por parte del proyecto Ligo."
+      },
+      {
+        "statement": "En el texto, BAMBOLEO se entiende como",
+        "alternatives": [
+          "A) oscilación.",
+          "D) vibración.",
+          "B) variación.",
+          "E) repetición.",
+          "C) estremecimiento."
+        ],
+        "correct": 0,
+        "rationale": "En el texto, el término en cuestión es sinónimo contextual de «oscilación»."
+      },
+      {
+        "statement": "Respecto al proceso de detección de las ondas gravitacionales reseñado en la infografía es errado sostener que",
+        "alternatives": [
+          "A) es necesario reconocer que estas ondas se han desplazado por el universo.",
+          "B) prescindir de los tubos de vacío habría permitido una detección más rápida.",
+          "C) admite la idea de que la gravedad es una perturbación en el espacio-tiempo.",
+          "D) las distorsiones en la matriz del espacio-tiempo se proyectan en la luz láser.",
+          "E) supone algunos de los postulados de la Teoría de la Relatividad de Einstein."
+        ],
+        "correct": 1,
+        "rationale": "Los tubos de vacío funcionaron como aislantes de otras vibraciones distintas a las gravitacionales. Por ende, prescindir de ellos habría resultado un obstáculo para resolución del enigma."
+      },
+      {
+        "statement": "De la infografía se infiere que el hecho de que el cuerpo celeste producto de la fusión de los dos agujeros negros tenga 62 veces la masa del sol",
+        "alternatives": [
+          "A) solo responde al didactismo que destaca en los textos de divulgación científica.",
+          "B) es producto de un cálculo formulado a partir de la teoría tradicional de Newton.",
+          "C) no debe ser interpretado de forma literal, ya que supone solamente un ejemplo.",
+          "D) ilustra la equivalencia entre masa y energía propuesta por la teoría de Einstein.",
+          "E) es un evidente error de cálculo, porque la suma total de las masas no coincide."
+        ],
+        "correct": 3,
+        "rationale": "La suma de las masas de los agujeros negros, en un principio, es 65 veces la masa del sol, pero una parte «se evaporó» en forma de ondas gravitacionales. Esto quiere decir que la pérdida de energía se manifestó en pérdida de masa."
+      },
+      {
+        "statement": "Si se demostrara que los fenómenos en todo el universo se perciben de forma inmediata, en todo momento y lugar,",
+        "alternatives": [
+          "A) la energía atómica tendría que ser reevaluada para comprobar sus cualidades.",
+          "B) sería imprescindible considerar que la velocidad de la luz siempre es constante.",
+          "C) Albert Einstein no habría sido capaz de pergeñar su teoría durante el siglo XIX.",
+          "D) los viajes en el tiempo tendrían un sustento científico sólido que los garanticen.",
+          "E) la posibilidad de captar los vestigios de un evento del pasado sería implausible."
+        ],
+        "correct": 4,
+        "rationale": "En el caso propuesto, las ondas gravitacionales son producto de una colisión antiquísima. Si la percepción fuera inmediata, no habría posibilidad de captar ningún vestigio del pasado."
+      },
+      {
+        "statement": "Si, hasta la actualidad, la única teoría física accesible para la investigación científica fuera la newtoniana,",
+        "alternatives": [
+          "A) los científicos nunca coincidirían en sus mediciones de fenómenos estelares.",
+          "B) el espacio y el tiempo seguirían siendo pensados como realidades absolutas.",
+          "C) Einstein sería consciente de que la Teoría de la Relatividad tiene deficiencias.",
+          "D) la investigación científica habría obtenido resultados superiores a los actuales.",
+          "E) esta ya no se estudiaría ni en las universidades ni en ninguna otra institución."
+        ],
+        "correct": 1,
+        "rationale": "La física de Newton no permite explicar las ondas gravitacionales ni la relatividad en la matriz del espacio-tiempo. Asimismo, concibe el espacio y el tiempo como unidades absolutas («rígidas»)."
+      }
+    ]
+  },
+  {
+    "type": "synonyms_and_antonyms",
+    "statement": "En el texto, FLEXIBLE puede ser reemplazado por",
+    "alternatives": [
+      "A) voluble.",
+      "B) inestable.",
+      "C) relativo.",
+      "D) dinámico.",
+      "E) volátil."
+    ],
+    "correct": 2,
+    "rationale": "El término «flexible» hace referencia a la teoría propuesta por Einstein. Por ello, puede ser reemplazado por «relativo»."
+  },
+  {
+    "type": "reading_comprehension",
+    "statement": "En el caso de la educación primaria, todavía hoy es común encontrar dificultades para identificar cuál es la verdadera función de la mal denominada área del Español. Limitar su constitución como un campo disciplinar y no como una herramienta o instrumento para el aprendizaje y la construcción de conocimiento ha generado un problema de confusión. Esa confusión se debe a la imprecisión histórica en la construcción de este objeto de estudio de la comunicación, concebido más como un conjunto de conocimientos técnicos de una lengua específica que como un medio. Al respecto, Goodman (2008) afirma: Many traditional school practices seem to have hindered the development of language. In our zeal to make it easier, we have made it difficult. How? Mainly by dividing the natural language into fragments of sandwich size, small but abstract. Es más común referirse a la lengua, indistintamente, como un proceso de enseñanza de normas ortográficas y gramaticales, que como pedagogía para la expresión y comunicación integral de la persona. Esto provoca dificultades adicionales, porque no hay referentes teóricos claros o determinados al respecto. En nuestros días, nociones «difusas» y más bien normativas caracterizan el objeto de estudio del lenguaje. Estas confusiones limitan el progreso racional y la socialización en el campo del lenguaje, lo que constituye obstáculos históricos adicionales para la configuración del aprendizaje como disciplina científica. Por lo tanto, aprender a leer y escribir es condición necesaria pero no es suficiente para pertenecer a la cultura escrita, ya que se requiere además de habilidades metacognitivas, cognitivas y afectivas para hacer uso consciente y funcional del lenguaje, ya que interpretar lo que se lee y tener una intención particular cuando se escribe trascienden la capacidad de decodificar signos e interpretar textos en forma literal. El reconocimiento de esos requerimientos llevó a la invención de una institución capaz de brindar a las personas de la «era de la imprenta» la formación necesaria para emplear de manera apropiada recursos culturales sin precedentes. Esta visión reduccionista del aprendizaje de la lengua como asignatura inerte propicia una serie de imaginarios en torno a ser buen o mal estudiante en español. Si los niños y niñas no dominan las técnicas o requerimientos propios de esta disciplina, no solo se les condena al fracaso escolar sino que se les cierra una puerta de acceso al conocimiento de otras áreas del currículo. Miranda Calderón, L. (2011). «Lenguaje: algo más que un mecanismo para la comunicación». En: Revista Electrónica Educare. Vol. XV, n.° 1, Enero-Junio, p. 163.",
+    "questions": [
+      {
+        "statement": "El tema central que orienta la lectura es",
+        "alternatives": [
+          "A) las competencias metacognitivas y afectivas relacionadas al lenguaje.",
+          "B) la visión reduccionista del lenguaje que impera en el currículo escolar.",
+          "C) la asimilación de la escritura como mecanismo de integración política.",
+          "D) los estereotipos escolares relacionados al aprendizaje de la escritura.",
+          "E) la renuncia a las estrategias estudiantiles provenientes de la tradición."
+        ],
+        "correct": 1,
+        "rationale": "Según informa el texto, es un error enfocar los cursos de lenguaje como un conjunto de reglas que deben ser aprendidas por los estudiantes, ya que esta visión reducida soslaya su valor para el desarrollo integral de los menores."
+      },
+      {
+        "statement": "Medularmente, el texto destaca que en el currículo escolar se comete un error al",
+        "alternatives": [
+          "A) considerar que la lengua es un medio que permite la expresión de las personas.",
+          "B) renegar de los estereotipos sociales del buen y del mal estudiante en castellano.",
+          "C) constreñir la lengua a un conjunto de normas ajenas a la práctica comunicativa.",
+          "D) priorizar la enseñanza de los cursos de lenguaje en la educación de nivel inicial.",
+          "E) asumir el lenguaje como una pedagogía para la comunicación integral humana."
+        ],
+        "correct": 2,
+        "rationale": "El texto señala que el principal error del currículo escolar es considerar que la enseñanza de la lengua puede reducirse a un conjunto de normas ortográficas y gramaticales alejadas de la comunicación integral de las personas."
+      },
+      {
+        "statement": "En el texto, el término INERTE se entiende como",
+        "alternatives": [
+          "A) falto de creatividad.",
+          "D) ahíto de dinamismo.",
+          "B) carente de emoción.",
+          "E) repleto de energías.",
+          "C) dado a incentivo."
+        ],
+        "correct": 0,
+        "rationale": "Según el texto, existe una visión reduccionista del aprendizaje de la lengua que la percibe como una «asignatura inerte», es decir, que la asume como carente de creatividad."
+      },
+      {
+        "statement": "Es incongruente, respecto al texto, sostener que un adecuado aprendizaje del lenguaje en la escuela debería",
+        "alternatives": [
+          "A) considerar que, ante todo, es una herramienta o instrumento para el aprendizaje.",
+          "B) aceptar que constituye un factor ineludible para la construcción de conocimiento.",
+          "C) entenderse como una pedagogía centrada en la expresión y en la comunicación.",
+          "D) integrarse con habilidades cognitivas y afectivas para el desarrollo del estudiante.",
+          "E) enfocarse en ciertas estrategias para retener en la mente las reglas de gramática."
+        ],
+        "correct": 4,
+        "rationale": "El texto incide en la necesidad de replantear la enseñanza del curso de lenguaje. Dentro de este viraje, prácticas como la memorización de normas gramaticales quedarían de lado."
+      }
+    ]
+  },
+  {
+    "type": "sentence_elimination",
+    "statement": "Es incongruente, respecto al texto, sostener que un adecuado aprendizaje del lenguaje en la escuela debería",
+    "alternatives": [
+      "A) considerar que, ante todo, es una herramienta o instrumento para el aprendizaje.",
+      "B) aceptar que constituye un factor ineludible para la construcción de conocimiento.",
+      "C) entenderse como una pedagogía centrada en la expresión y en la comunicación.",
+      "D) integrarse con habilidades cognitivas y afectivas para el desarrollo del estudiante.",
+      "E) enfocarse en ciertas estrategias para retener en la mente las reglas de gramática."
+    ],
+    "correct": 4,
+    "rationale": "El texto incide en la necesidad de replantear la enseñanza del curso de lenguaje. Dentro de este viraje, prácticas como la memorización de normas gramaticales quedarían de lado."
+  },
+  {
+    "type": "sentence_elimination",
+    "statement": "De la cita en inglés de Goodman, se infiere que en las prácticas escolares convencionales",
+    "alternatives": [
+      "A) es indispensable repotenciar el aprendizaje estudiantil de las reglas ortográficas.",
+      "B) se aprecia cómo, producto del esfuerzo, la asignatura se ha vuelto más sencilla.",
+      "C) la identificación correcta de las unidades mínimas del lenguaje es indispensable.",
+      "D) el exceso de análisis en desmedro de la praxis comunicativa ha sido perjudicial.",
+      "E) el conocimiento de segundas lenguas es importante para el aprendizaje escolar."
+    ],
+    "correct": 3,
+    "rationale": "La traducción literal de la cita es inglés es la siguiente: «Muchas prácticas escolares tradicionales parecen haber obstaculizado el desarrollo del lenguaje. En nuestro fervor por hacerlo más fácil, lo hemos hecho difícil. ¿Cómo? Principalmente al dividir el lenguaje natural en fragmentos de tamaño de bocadillo, pequeños pero abstractos». De ahí, se desprende que el análisis excesivo terminó siendo contraproducente para el aprendizaje del lenguaje por parte de los estudiantes."
+  },
+  {
+    "type": "sentence_elimination",
+    "statement": "Si el aprendizaje tradicional del lenguaje en la escuela no supusiera ningún tipo de imaginario relacionado a los estudiantes,",
+    "alternatives": [
+      "A) los docentes tendrían que abandonar el uso de tecnologías en los salones.",
+      "B) desaprobar un curso de lenguaje no supondría un estigma para el alumno.",
+      "C) la enseñanza estaría supeditada siempre al aprendizaje de las normativas.",
+      "D) incluir material audiovisual dejaría de ser una exigencia para los docentes.",
+      "E) la asignatura carecería de interés para todos los menores en edad escolar."
+    ],
+    "correct": 1,
+    "rationale": "En el texto, se señala que la visión reduccionista del aprendizaje de la lengua genera una serie de estereotipos respecto a los estudiantes. Si estos no existieran, desaprobar el curso no sería visto como un estigma académico para el alumno."
+  }
+]

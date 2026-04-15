@@ -1,0 +1,650 @@
+[
+  {
+    "type": "reading_comprehension",
+    "statement": "Ciclo Ordinario 2016 -I\n\nLos colombianos, desde siempre, nos hemos visto como un país de letrados. Tal vez a eso se deba que los programas del bachillerato hagan más énfasis en la literatura que en las otras artes. Pero aparte de la memorización cronológica de autores y de obras, a los alumnos no les cultivan el hábito de la lectura, sino que los obligan a leer y a hacer sinopsis escritas de los libros programados. Por todas partes me encuentro con profesionales escaldados por los libros que les obligaron a leer en el colegio con el mismo placer con que se tomaban el aceite de ricino. Para las sinopsis, por desgracia, no tuvieron problemas, porque en los periódicos encontraron anuncios como este: « Cambio sinopsis de El Quijote por sinopsis de La Odisea ». Así es: en Colombia hay un mercado tan próspero y un tráfico tan intenso de resúmenes fotostáticos, que los escritores armamos mejor negocio no escribiendo los libros originales sino escribiendo de una vez las sinopsis para bachilleres. Es este método de enseñanza —y no tanto la televisión y los malos libros —, lo que está acabando con el hábito de la lectura. Estoy de acuerdo en que un buen curso de literatura solo puede ser una gema para lectores. Pero es imposible que los niños lean una novela, escriban la sinopsis y preparen una exposición reflexiva para el martes siguiente. Sería ideal que un niño dedicara parte de su fin de semana a leer un libro hasta donde pueda y hasta donde le guste —que es la única condición para leer un libro—, pero es criminal, para él mismo y para el libro, que lo lea a la fuerza en sus horas de juego y con la angustia de las otras tareas.\n\nGarcía Márquez , Gabriel (1996 ). Un manua l para ser niño . Fragmento recuperado de Biblioteca Virtual Universal: <http://www.biblioteca.org.ar/libros/1907.pdf>.",
+    "questions": [
+      {
+        "statement": "¿Cuál es el tema central del texto?",
+        "alternatives": [
+          "A) La televisión y los malos libros en la disminución de sólidos lectores en Colombia",
+          "B) La extendida y nociva práctica de la sinopsis en la sociedad letrada colombiana",
+          "C) Los buenos cursos de literatura en la formación de proficuos lectores en el mundo",
+          "D) La forma en que los niños son obligados a leer en sus escasos ratos de descanso",
+          "E) Las causas  del rechazo a la lectura en Colombia y la forma de revertir la situación"
+        ],
+        "correct": 4,
+        "rationale": "El texto apunta a la detección de las causas por las que la lectura ha sido desplazada en la sociedad colombiana. Al final desarrolla la manera de revertir tal situación."
+      },
+      {
+        "statement": "¿Cuál es la idea principal del texto?",
+        "alternatives": [
+          "A) La implementación de cursos de literatura atractivos para los niños generaría una extensión sostenida y consistente de la práctica lectora en Colombia.",
+          "B) Resultaría idóneo que los niños, movidos por un deseo particular de abordar textos clásicos, lean los textos que les gusten y hasta donde ellos quieran .",
+          "C) El uso obligado de la sinopsis, entre otras causas, ha generado el abandono de la lectura, pero la vuelta a los libros por placer podría generar ávidos lectores .",
+          "D) En Colombia existe  un mercado muy próspero y un tráfico intenso de resúmenes fotostáticos  que devienen en el carácter casi impracticable de la lectura .",
+          "E) La lectura en el bachillerato colombiano fue desplazada por la memorización de datos puntuales y la práctica harto difundida de la elaboración de sinopsis ."
+        ],
+        "correct": 2,
+        "rationale": "Causas como el uso de sinopsis o la lectura por obligación han replegado esta práctica en Colombia; no obstante, es posible volver a la lectura por placer sin imposición."
+      },
+      {
+        "statement": "¿Cuál es el mejor resumen del texto?",
+        "alternatives": [
+          "A) Aparte de la memorización cronológica de autores y de obras, a los alumnos no les cultivan el hábito sostenido de la lectura, sino que los obligan a leer y a hacer compulsivamente sinopsis escritas de los libros programados .",
+          "B) La sociedad colombiana da preferencia a la literatura que a otras artes, por ello los colombianos se reconocen como sociedad letrada; sin embargo, más allá de la mecanización patentizada en la sinopsis, la lectura se ha perdido .",
+          "C) Un buen curso de literatura so lo puede ser una gema para lectores. Pero es imposible que los niños lean una novela, escriban la sinopsis y preparen una exposición reflexiva para la semana siguiente, y que lo hagan por placer .",
+          "D) A pesar de que Colombia es considerada un país letrado, prácticas como la memorización o la síntesis de obras han replegado la lectura; sin embargo, es posible recuperar en los niños el placer de leer solo si no ejercen presiones .",
+          "E) El método de enseñanza basada en la elaboración de sinopsis de las obras clásicas como El Quijote o La Odisea —y no tanta  la televisión y los malos libros — es lo que está acabando con el hábito de la lectura consistente y profunda ."
+        ],
+        "correct": 3,
+        "rationale": "El resumen de la lectura debe contener las causas por las que la lectura como práctica se debilita, con el añadido de la recuperación de la lectura apelando al placer que esta implica y no a su obligación."
+      },
+      {
+        "statement": "En el texto, la palabra NEBULOSO adquiere el sentido de",
+        "alternatives": [
+          "A) meridiano.",
+          "B) inconcuso.",
+          "C) delimitado .",
+          "D) borrado .",
+          "E) impreciso ."
+        ],
+        "correct": 4,
+        "rationale": "El vocablo sirve para definir un mundo, antes de la lectura, carente de precisión."
+      },
+      {
+        "statement": "En el texto, la expresión PLACER DE UNA MEMORIA COMÚN  connota",
+        "alternatives": [
+          "A) interacción .",
+          "B) frecuencia.   ",
+          "C) constancia .",
+          "D) conveniencia.  ",
+          "E) vulgaridad ."
+        ],
+        "correct": 0,
+        "rationale": "La expresión PLACER DE UNA MEMORIA COMÚN connota interacción."
+      },
+      {
+        "statement": "Resulta incompatible con el texto afirmar que las interpretaciones modernas de los textos clásicos",
+        "alternatives": [
+          "A) reiteran una forma fa cilista de abordar el espíritu de los clásicos .",
+          "B) asumen una posición impugnada abiertamente por Schopenhauer .",
+          "C) son los preferidos del público lector en lugar de la fuente directa ."
+        ],
+        "correct": 1,
+        "rationale": null
+      }
+    ]
+  },
+  {
+    "type": "reading_comprehension",
+    "statement": "Se escriben libros sobre los grandes espíritus del pasado, y el público los lee, pero no a aquellos, porque quiere siempre ver impresos frescos, y el vulgo está más en armonía con la charla de los cretinos contemporáneos que los pensamientos de los grandes espíritus. Doy las gracias al destino, que me hizo leer un hermoso epigrama de Schlegel, que ha llegado a ser mío: «Leer con calor a los verdaderos antiguos, lo que de ellos dicen los modernos no significa mucho». ¡Cómo se parecen los hombres vulgares! ¡Todos parecen hechos con el mismo molde! ¡Les ocurre siempre lo mismo en las mismas ocasiones! Y sus bajas intenciones personales, y la charla despreciable de tales sujetos lee un público estúpido con tal de que estén impresas hoy mismo, dejando en los es tantes a los grandes espíritus.\n\nSchopenhauer, Arthur (1851). Parerga y Paralipómena  (fragmento). Barcelona, Editorial Trotta.",
+    "questions": [
+      {
+        "statement": "Resulta incompatible con el texto afirmar que las interpretaciones modernas de los textos clásicos",
+        "alternatives": [
+          "A) reiteran una forma fa cilista de abordar el espíritu de los clásicos .",
+          "B) asumen una posición impugnada abiertamente por Schopenhauer .",
+          "C) son los preferidos del público lector en lugar de la fuente directa .",
+          "D) se relacionan de manera más acorde con los espíritus del vulgo .",
+          "E) son precisamente similares a lo indicado en la cita de Schlegel ."
+        ],
+        "correct": 4,
+        "rationale": "Para el autor del texto, Schlegel es más acorde con su posición de rechazo a las interpretaciones modernas de los clásicos."
+      }
+    ]
+  },
+  {
+    "type": "reading_comprehension",
+    "statement": "Hablamos de desplazamiento cuando las señales o signos pueden referirse a eventos lejanos en el tiempo o en el espacio con respecto a la situación del hablante. La mayor parte de las llamadas y señales en el mundo de la comunicación animal reflejan el estímulo de su entorno inmediato y no pueden referirse a nada en el futuro, en el pasado o a ningún lugar distinto del compartido entre emisor y receptor. Sería difícil pensar que nuestro perro pudiera comunicar la idea «quiero salir de paseo mañana a las tres en Estambul». O, usando el ejemplo d el filósofo Bertrand Russell, que un simio pudiera expresar la idea «mi padre era pobre pero honrado». Uno de los rasgos predominantes de la comunicación animal es que no presenta desplazamiento.",
+    "questions": [
+      {
+        "statement": "Del texto se deduce que un perro, siguiendo la ejemplificación del texto, podría ser capaz de comunicar acerca de sus galletas favoritas",
+        "alternatives": [
+          "A) cuando tenga la capacidad potencial de referirse al presente y el pasado .",
+          "B) si su dueño es capaz de predecir lo que este realizará planificadamente .",
+          "C) solo si estas se encuentran en el momento preciso de la comunicación .",
+          "D) de la misma forma en que podría pedir que lo saquen a pasear de noche .",
+          "E) si en algún momento el desplazamiento llegara a ser privativo del hombre ."
+        ],
+        "correct": 2,
+        "rationale": "En el texto se señala que los animales carecen de desplazamiento. Solo si las galletas están en el momento en que se articula la comunicación, el perro  podría comunicar acerca de estas."
+      }
+    ]
+  },
+  {
+    "type": "reading_comprehension",
+    "statement": "La incompatibilidad en términos semánticos se refiere a la relación entre palabras que pertenecen al mismo campo semántico, el significado de cada una de las cuales excluye el significado de las otras , sin ser opuestas. A continuación damos algunos ejemplos.\n\n(11)  a. gato/perro/caballo/canguro\nb. rosa/clavel/tulipán/margarita\nc. rojo/azul/verde/negro\n\nLas palabras en (11a) pertenecen al campo semántico de los animales (o son hipónimos de animal), y son incompatibles en el sentido de que, si algo es un gato, no puede ser ni un perro, ni un caballo, ni un canguro (ni ningún otro tipo de animal). Lo mismo con la lista en (11b), del campo semántico de las flores, y en (11c), del campo semántico de los colores. La distinción entre la incompatibilidad y la antonimia no es siempre clara: en el caso de pares como blanco y negro, por ejemplo, es discutible si son antónimos (si es una oposición binaria), o si simplemente son incompatibles (si son dos elementos de  una clase de varios).",
+    "questions": [
+      {
+        "statement": "Si las palabras no tuvieran la capacidad para excluirse mutuamente en ciertos campos semánticos, posiblemente",
+        "alternatives": [
+          "A) los referentes de las flores queden excluidos de los inventarios lexicales .",
+          "B) el campo semántico referido al espectro cromático se extienda ad infinitum .",
+          "C) relaciones semánticas como la antonimia o la incompatibilidad sean inviables .",
+          "D) ciertos referentes animales queden sin designación a nivel interlingüístico .",
+          "E) los elementos léxicos para denotar oposición se amplien considerablemente ."
+        ],
+        "correct": 2,
+        "rationale": "La incompatibilidad implica exclusión de lo que de signa un término en confrontación con otro. Si algo es designado con la palabra PERRO —se indicada en el texto— no podría ser GATO. Si los vocablos carecieran de esta propiedad, esta relación semántica sería inviable."
+      }
+    ]
+  },
+  {
+    "type": "reading_comprehension",
+    "statement": "El virus del zika se disemina explosivamente  en Latinoamérica y el Caribe; y en el noreste de Brasil, Recife es un semillero. Las barriadas de la ciudad son especialmente vulnerables a  la enfermedad transmitida por mosquitos, pues la falta de mosquiteros y  aire acondicionado expone a los residentes más pobres a un mayor riesgo de contacto con la plaga portadora del virus. Alrededor de 80 por ciento de las víctimas del zika no manifiestan síntoma alguno, mas eso no consuela a las cerca de 400 000 mujeres gestantes de Brasil, ya que funcionarios de salud consideran que el zika podría ser la causa de malformaciones congénitas.  «Muchas mujeres embarazadas están asustadas», dice el fotorreportero brasileño Felipe Dana, autor de estas imágenes. Quienes han engendrado niños discapacitados suelen «pasar grandes dificultades», agrega Dana, pues debido a la gran atención que requieren esos bebés, las mujeres muchas veces no pueden volver al trabajo, y es pecíficamente esta situación causa graves problemas económicos.\n\nEn respuesta a la amenaza emergente del zika, Marcelo Castro, ministro de Salud de Brasil, ha emprendido un esfuerzo de erradicación de mosquitos, puerta a puerta, con alrededor de 220 000 miembros de las fuerzas armadas nacionales. No obstante, Castro dice que el país «está perdiendo la batalla» contra el mosquito Aedes aegypti , que también transmite dengue, chikungunya y fiebre amarilla. Por otra parte, investigadores informaron de un caso reciente de zika que fue transmitido por vía sexual. La situación en la abrumada Recife es tensa, y los funcionaros temen que la celebración del Carnaval pueda diseminar aún más la enfermedad.\n\nHoward , Brian C.  (2016 ). «El impacto del zika en las calles de Brasil ». En National Geographic en Español . Recuperado de < http:// www.ngenespanol.com/ >.",
+    "questions": [
+      {
+        "statement": "1.  ¿Cuál es el tema central del texto?",
+        "alternatives": [
+          "A) La alarmante diseminación del zika en territorio brasilero",
+          "B) La amenaza del zika en la comunidad brasilera de Recife",
+          "C) El agresivo crecimiento del zika y el chikungunya en Brasil",
+          "D) Los problemas ocasionados por el zika en Latinoamérica",
+          "E) El zika transmitido por el mosquito Aedes aegypti en Brasil"
+        ],
+        "correct": 0,
+        "rationale": "El autor del texto se enfoca en exponer el tema del crecimiento acelerado y preocupante del zika en Brasil."
+      },
+      {
+        "statement": "2.  En el texto, la expresión EXPLOSIVAMENTE connota",
+        "alternatives": [
+          "A) virulencia.",
+          "B) proliferación .",
+          "C) agresión .",
+          "D) duración. ",
+          "E) endemia ."
+        ],
+        "correct": 1,
+        "rationale": "La palabra en cuestión hace referencia al crecimiento acelerado de la enfermedad en Brasil; por lo tanto, connota PROLIFERACIÓN."
+      },
+      {
+        "statement": "3.  La palabra REQUERIR en el texto se puede reemplazar por",
+        "alternatives": [
+          "A) avisar.",
+          "B) reconocer .",
+          "C) necesitar .",
+          "D) intimar.",
+          "E) inducir ."
+        ],
+        "correct": 2,
+        "rationale": "El vocablo se usa para referirse al cuidado que los niños requieren, es decir, NECESITAN."
+      },
+      {
+        "statement": "4.  Se deduce del texto que la erradicación del zika en Brasil",
+        "alternatives": [
+          "A) ha sido exitosa en aquellos lugares o barriadas donde hay calefacción .",
+          "B) se ejecutó con la implementación de aire acondicionado en las favelas .",
+          "C) ha implicado esfuerzos conjuntos en distintos niveles en todo el país .",
+          "D) es complicada por los mosquiteros que acostumbran usar en Brasil .",
+          "E) compromete tres mosquitos diferentes que propagan distintos virus ."
+        ],
+        "correct": 2,
+        "rationale": "Se menciona que las fuerzas militares han estado involucradas en la erradicación. Se desprende que esta se ha realizado comprometiendo niveles distintos más allá del sector salud."
+      }
+    ]
+  },
+  {
+    "type": "sentence_elimination",
+    "statement": "1.   I) En los lugares más recónditos de la Amazonía bra sileña viven alrededor de 17 tribus «no contactadas», uno de ellos se hacen llaman los flecheiros. II) En este sector del bosque tropical húmedo, en la Reserva Indígena de Vale do Javari, viven no más de 1350 indígenas no contactados, tal vez la mayor conc entración en el mundo. III) Los indígenas que actualmente coexisten en la Amazonía de Brasil se mantienen alejados del mundo y constituyen un grupo numeroso de individuos no contactados. IV) La mayor parte de ellos desciende de los sobrevivientes de las masacres perpetradas por los extranjeros blancos durante siglos. V) Los indígenas se refugiaron después de estos episodios y actualmente rehúyen de todo contacto con el mundo exterior. La III oración es redundante.",
+    "alternatives": [
+      "A) I",
+      "B) II",
+      "C) III",
+      "D) IV",
+      "E) V"
+    ],
+    "correct": 2,
+    "rationale": "La III oración es redundante."
+  },
+  {
+    "type": "sentence_elimination",
+    "statement": "I) En los lugares más recónditos de la Amazonía bra sileña viven alrededor de 17 tribus «no contactadas», uno de ellos se hacen llaman los flecheiros. II) En este sector del bosque tropical húmedo, en la Reserva Indígena de Vale do Javari, viven no más de 1350 indígenas no contactados, tal vez la mayor conc entración en el mundo. III) Los indígenas que actualmente coexisten en la Amazonía de Brasil se mantienen alejados del mundo y constituyen un grupo numeroso de individuos no contactados. IV) La mayor parte de ellos desciende de los sobrevivientes de las masacres perpetradas por los extranjeros blancos durante siglos. V) Los indígenas se refugiaron después de estos episodios y actualmente rehúyen de todo contacto con el mundo exterior.",
+    "alternatives": [
+      "A) I",
+      "B) II",
+      "C) III",
+      "D) IV",
+      "E) V"
+    ],
+    "correct": 2,
+    "rationale": "La III oración es redundante."
+  },
+  {
+    "type": "sentence_elimination",
+    "statement": "I) El espinoso es un pez de pequeño tamaño que no suele superar los seis centímetros. II) La característica  principal  del espinoso , y la que motiva su nombre, es la alta cantidad de espinas que posee. III) Otra característica de este pez es la carencia de escamas, las cuales han devenido en placas óseas. IV) En la época de apareamiento el pez espinoso macho adquiere un color rojizo en la zona ventral. V) El pez espinoso es protegido de manera especial en lugares como el país vasco, Cataluña, Baleares o Galicia.",
+    "alternatives": [
+      "A) I",
+      "B) II",
+      "C) III",
+      "D) IV",
+      "E) V"
+    ],
+    "correct": 4,
+    "rationale": "La oración V es impertinente."
+  },
+  {
+    "type": "sentence_elimination",
+    "statement": "Ciclo Ordinario 2016 -I impuls a comer en exceso. II) Generalmente, el paciente bulímico re aliza conductas purgatorias a través del vómito o el empleo de laxantes. III) Los laxantes son medicamentos que se recomiendan cuando es necesaria la evacuación intestinal. IV) La bulimia corresponde a un deseo inconsciente de satisfacer una necesidad frustrada de afecto. V) El bulímico debe ser sometido a un tratamiento psicológico con el fin de normalizar sus hábitos alimentarios.",
+    "alternatives": [
+      "A) II",
+      "B) V",
+      "C) III",
+      "D) IV",
+      "E) I"
+    ],
+    "correct": 2,
+    "rationale": "Se elimina la oración III por no atingencia."
+  },
+  {
+    "type": "sentence_elimination",
+    "statement": " I) Existen muchas más espe cies de plantas y animales en la selva amazónica que en cualquier bosque de Europa o Norteamérica. II) Desde la Revolución Industrial hasta el día de hoy, se ha afianzado un proceso acelerado de extinción de plantas y animales en el mundo. III) Este preocu pante fenómeno ocurre debido a la explotación indiscriminada de muchas especies biológicas. IV) También es un factor causal la acelerada transformación de algunos ecosistemas y el constante crecimiento de la población humana. V) Otro factor es la escasa co nciencia ecológica de la mayoría de los seres humanos, quienes no se preocupan por detener la extinción de las especies biológicas.",
+    "alternatives": [
+      "A) I",
+      "B) V",
+      "C) II",
+      "D) IV",
+      "E) III"
+    ],
+    "correct": 0,
+    "rationale": "Se elimina la oración I por no atingencia."
+  },
+  {
+    "type": "sentence_elimination",
+    "statement": " I) El éxito médico de la a spirina se basa en su actuación como analgésico, antipirético y antiinflamatorio. II) Hace poco se descubrió que también ayuda a prevenir ataques cardíacos. III) Su éxito también consiste en que es fácil de administrar porque viene en cómodas tabletas muy usadas en diversas culturas y por distintas generaciones. IV) La aspirina juega un rol importante en el combate de la fiebre. V) También sirve la aspirina en la prevención de accidentes cerebrovasculares.",
+    "alternatives": [
+      "A) II",
+      "B) IV",
+      "C) III",
+      "D) I",
+      "E) V"
+    ],
+    "correct": 1,
+    "rationale": "Se elimi na la oración IV por redundancia."
+  },
+  {
+    "type": "sentence_elimination",
+    "statement": " I) El jabón de oliva ya era conocido por los celtas y galos hace más de 2000 años. II) Los romanos, griegos y egipcios consideraban al jabón de oliva un artículo indispensable en sus ofrendas y era empleado en ceremonias para la nobleza. III) Plinio hace referencia al jabón como un producto obtenido del jugo de ciertas raíces y cenizas de plantas combinadas con aceite de oliva. IV) En las ruinas de Pompeya se encontró un establecimiento dedicado a la fabricació n de estos jabones de oliva en pastillas bien conservadas. V) En el Perú, los incas conocían también una especie de jabón llamado quillay  que era obtenido de la corteza de un árbol de la familia de las rosáceas.",
+    "alternatives": [
+      "A) I             ",
+      "B) II                ",
+      "C) III                   ",
+      "D) IV                    ",
+      "E) V"
+    ],
+    "correct": 4,
+    "rationale": "La oración V no se refiere al tema central: el jabón de aceite de oliva."
+  },
+  {
+    "type": "sentence_elimination",
+    "statement": "I) El jabón de oliva ya era conocido por los celtas y galos hace más de 2000 años. II) Los romanos, griegos y egipcios consideraban al jabón de oliva un artículo indispensable en sus ofrendas y era empleado en  ceremonias para la nobleza. III) Plinio hace referencia al jabón como un producto obtenido del jugo de ciertas raíces y cenizas de plantas combinadas con aceite de oliva. IV) En las ruinas de Pompeya se encontró un establecimiento dedicado a la fabricació n de estos jabones de oliva en pastillas bien conservadas. V) En el Perú, los incas conocían también una especie de jabón llamado quillay  que era obtenido de la corteza de un árbol de la familia de las rosáceas.",
+    "alternatives": [
+      "A) I",
+      "B) II",
+      "C) III",
+      "D) IV",
+      "E) V"
+    ],
+    "correct": 4,
+    "rationale": null
+  },
+  {
+    "type": "sentence_elimination",
+    "statement": "I) En 1662 Robert Boyle formuló la famosa ley que lleva su nombre referida a los gases. II) Describe la senc illa, pero importante, relación inversa entre el volumen de un gas y su presión. III) Boyle siempre alternó su minucioso trabajo científico con su intensa preocupación religiosa. IV) La ley de Boyle se emplea para calcular cómo varían la presión y el volum en de los gases. V) La relación descubierta por Boyle presupone que la temperatura de los gases debe ser constante.",
+    "alternatives": [
+      "A) I",
+      "B) V",
+      "C) II",
+      "D) IV",
+      "E) III"
+    ],
+    "correct": 1,
+    "rationale": "Se elimina por impertinencia. El tema es la ley de Boyle."
+  },
+  {
+    "type": "reading_comprehension",
+    "statement": "Pocas veces un «no» tuvo tanta repercusión. Corría el 1 de diciembre de 1955 cuando en Montgomery (Alabama,  Estados Unidos) una señora negra de 42 años, Rosa Parks, se montó en el autobús y se sentó tranquilamente. Poco después el conductor le pidió que se levantase y le cediese el sitio a cualquier blanco que lo quisiese ocupar pues lo decía la ley y ella no se podía negar debido a dicho reglamento. Sin embargo , no lo hizo.  No cedió ante una ley injusta que pisoteaba los derechos de los afroamericanos . Su negativa acabó con sus huesos en el calabozo y debió pagar una multa de 14 dólares. «El joven blanco que estaba de pie no había pedido el asiento;  fue el conductor el que decidió crear un problema» , declaraba posteriormente la propia Rosa Parks a la BBC.\"\"\"Parks sabía que lo que estaba haciendo era ilegal y que el no doblegarse traería consecuencias. Sin embargo probablemente no sabía que sería la chispa que prendería la llama del movimiento americano contra las leyes discriminatorias que todavía existían en muchos estados del país. En los espacios públicos , negros y blancos debían sentarse separados, ir a baños separados, etcétera, lo que suponía una vejación constante e injusta.  Con su valiente acto esta costurera además de secretaria y ayudante en la Asociación Nacional para el Avance del Pueblo de Color llamó la atención de Martin Luther King , que todavía no sería el líder que recordamos actualmente.  Juntos, durante 382 días, emprendieron protestas que llevarían a la Corte Suprema de Estados Unidos a declarar que la segregación racial en el transporte iba en contra de la constitución del país.\"\"\"Posteriormente, en 1996, le sería concedida la medalla presidencial de la Libertad y en 1999 el Congreso de los Estados Unidos le otorgaría la máxima distinción civil del país, la medalla de oro.  Rosa Parks moriría a los 92 años de edad el 24 de octubre de 2005, en Detroit, Estados Unidos , pero nadie olvida la valentía de una mujer frente a la injusticia y su importancia histórica en la abolición del racismo en Estados Unidos.\"",
+    "questions": [
+      {
+        "statement": "Centralmente, el texto trata sobre",
+        "alternatives": [
+          "A) los afroamericanos y la lesiva ley que atentaba contra sus derechos .",
+          "B) la lucha por los derechos afros impulsada por M. Luther King y Parks .",
+          "C) los afrodescendientes liderados por Rosa Parks en Estados Unidos.",
+          "D) la abolición de la ley que prohibía a los negros sentarse en los buses .",
+          "E) Rosa Parks y su lucha contra la segregación racial iniciada en un bus ."
+        ],
+        "correct": 4,
+        "rationale": "El texto expone lo ocurrido con Rosa Parks y su negativa a cederle el asiento a un blanco tal y como mandaba la ley, además de las repercusiones del caso."
+      },
+      {
+        "statement": "La expresión CHISPA connota",
+        "alternatives": [
+          "A) vivacidad .",
+          "B) desprecio.",
+          "C) rutilancia.",
+          "D) irrespeto .",
+          "E) eclosión."
+        ],
+        "correct": 4,
+        "rationale": "El término está referido al inicio de un movimiento."
+      },
+      {
+        "statement": "Es incompatible con el texto afirmar que Martin Luther King",
+        "alternatives": [
+          "A) protestó conjuntamente con Rosa Parks contra la segregación .",
+          "B) era un adalid consolidado cuando ocurrió el caso de Rosa Parks.",
+          "C) se vio  impulsado por la negativa de Rosa Parks en el autobús .",
+          "D) fue un líder que combatió frontalmente la segregación racial .",
+          "E) pudo derogar una ley que permitía la segregación en los buses ."
+        ],
+        "correct": 1,
+        "rationale": "En el texto se indica que el caso de Rosa Parks ocurrió cuando Martin Luther King aún no era un líder reconocido."
+      },
+      {
+        "statement": "Si el pasajero parado junto a Rosa Parks le hubiera pedido que le ceda el asiento por ley, posiblemente",
+        "alternatives": [
+          "A) la actitud de ella frente al hecho habría sido la misma por considerarlo injusto .",
+          "B) Parks le habría increpado al chofer por su indolencia frente a un acto lesivo .",
+          "C) ella se habría comportado de forma más tolerante por su condición de mujer .",
+          "D) el chofer del bus le habría permitido a Parks realizar su réplica ante el a buso .",
+          "E) esta habría mostrado una actitud contemporizadora por ser afroamericana ."
+        ],
+        "correct": 0,
+        "rationale": "Rosa Parks consideraba injusto cederle el asiento a un blanco. Independientemente de que se trate del chofer o del pasajero, su actitud hubiera sido la misma."
+      },
+      {
+        "statement": "Podemos inferir del texto que durante la segunda mitad del siglo XX  en Estados Unidos ,",
+        "alternatives": [
+          "A) las distinciones por cuestiones sociales eran impracticables .",
+          "B) los afroamericanos eran perseguidos en las líneas de metro .",
+          "C) la condecorada Rosa Parks falleció bordeando los cien años .",
+          "D) Martin Luther King murió sin presenciar cambios de tipo social.",
+          "E) se evidenció un adelanto en la consecución de la igualdad racial ."
+        ],
+        "correct": 4,
+        "rationale": "La ley segregacionista fue abolida después de 1955 y antes de la condecoración que Rosa Parks recibió en el año 1996. Esto supone que en EE. UU. se evidenció un adelanto en la erradicación de la segregación racial."
+      }
+    ]
+  },
+  {
+    "type": "reading_comprehension",
+    "statement": "Rosa Parks consideraba injusto cederle el asiento a un blanco. Independientemente de que se trate del chofer o del pasajero, su actitud hubiera sido la misma.",
+    "questions": [
+      {
+        "statement": "Podemos inferir del texto que durante la segunda mitad del siglo XX en Estados Unidos,",
+        "alternatives": [
+          "A) las distinciones por cuestiones sociales eran impracticables .",
+          "B) los afroamericanos eran perseguidos en las líneas de metro .",
+          "C) la condecorada Rosa Parks falleció bordeando los cien años .",
+          "D) Martin Luther King murió sin presenciar cambios de tipo social.",
+          "E) se evidenció un adelanto en la consecución de la igualdad racial ."
+        ],
+        "correct": 4,
+        "rationale": "La ley segregacionista fue abolida después de 1955 y antes de la condecoración que Rosa Parks recibió en el año 1996. Esto supone que en EE. UU. se evidenció un adelanto en la erradicación de la segregación racial."
+      }
+    ]
+  },
+  {
+    "type": "sentence_elimination",
+    "statement": "5. Si en el antiguo Egipto se habrían optado por la crianza de animales sin una distinción de carácter jerárquica , probablemente De haber existido una crianza sin jerarquías, es probable que muchos animales considerados de «élite» hubiesen quedado fuera de la crianza y, por ende, de los severos maltratos a los que eran expuestos.",
+    "alternatives": [
+      "A) los babuinos y los leopardos hayan sido extinguidos debido a la caza .",
+      "B) la cacería de hipopótamos se habría ejecutado con los cuidados de caso .",
+      "C) especies de animales silvestres habrían quedado exentas de maltrato .",
+      "D) animales exóticos como el gato habrían sido vetados en los  zoológicos .",
+      "E) los cocodrilos solo habrían sido utilizados como medida de seguridad ."
+    ],
+    "correct": 3,
+    "rationale": "De haber existido una crianza sin jerarquías, es probable que muchos animales considerados de «élite» hubiesen quedado fuera de la crianza y, por ende, de los severos maltratos a los que eran expuestos."
+  },
+  {
+    "type": "verbal_series",
+    "statement": "2. ¿Cuál es el término que no corresponde al campo semántico?",
+    "alternatives": [
+      "A) Bajo",
+      "B) Despreciable",
+      "C) Poltrón",
+      "D) Vil",
+      "E) Ruin"
+    ],
+    "correct": 2,
+    "rationale": "POLTRÓN significa HOLGAZÁN."
+  },
+  {
+    "type": "verbal_series",
+    "statement": "3.  Señale el antónimo de la serie conformada por las palabras SEN, SENTIDO, JUICIO.",
+    "alternatives": [
+      "A) Reserva",
+      "B) Disposición",
+      "C) Mezquindad",
+      "D) Indiscreción",
+      "E) Malicia"
+    ],
+    "correct": 0,
+    "rationale": "La palabra INDISCRECIÓN es el antónimo de SEN, cuyo sentido es DISCRECIÓN."
+  },
+  {
+    "type": "verbal_series",
+    "statement": "4. Botarate , despilfarrador ; pipiolo, novato ; austero, moderado ;",
+    "alternatives": [
+      "A) libertino, impoluto.",
+      "B) parvo, pequeño .",
+      "C) receloso, lerdo .",
+      "D) gamberro, pu gnaz. ",
+      "E) audaz, zahorí ."
+    ],
+    "correct": 1,
+    "rationale": "La serie verbal está conformada por sinónimos. Se completa con las palabras PARVO, PEQUEÑO."
+  },
+  {
+    "type": "verbal_series",
+    "statement": "5. Prudente, cuerdo , cauteloso,",
+    "alternatives": [
+      "A) sensat o.",
+      "B) proceloso.  ",
+      "C) nocente.  ",
+      "D) melindroso .",
+      "E) desmedido."
+    ],
+    "correct": 0,
+    "rationale": "Se tr ata de una serie sinonímica. Se completa con la palabra SENSATO."
+  },
+  {
+    "type": "verbal_series",
+    "statement": "6. Impugnar , propugnar; obrar, deshacer ; acoquinar, envalentonar ;",
+    "alternatives": [
+      "A) predecir , barruntar.  ",
+      "B) obstar , impedir .",
+      "C) confiar, recelar.",
+      "D) apremiar, acuciar.  ",
+      "E) sojuzgar , sofrenar."
+    ],
+    "correct": 2,
+    "rationale": "La serie está conformada por antónimos. Se completa con los vocablos CONFIAR y RECELAR."
+  },
+  {
+    "type": "verbal_series",
+    "statement": "6.  Impugnar , propugnar; obrar, deshacer ; acoquinar, envalentonar ;",
+    "alternatives": [
+      "A) predecir , barruntar.",
+      "B) obstar , impedir .",
+      "C) confiar, recelar.",
+      "D) apremiar, acuciar.",
+      "E) sojuzgar , sofrenar."
+    ],
+    "correct": 2,
+    "rationale": "La serie está conformada por antónimos. Se completa con los vocablos CONFIAR y RECELAR."
+  },
+  {
+    "type": "verbal_series",
+    "statement": "7.   Dañar, perjudicar, ofender ,",
+    "alternatives": [
+      "A) noblecer .",
+      "B) asolar .",
+      "C) desvirtuar .",
+      "D) otear .",
+      "E) nocir ."
+    ],
+    "correct": 4,
+    "rationale": "Serie de sinónimos. Se completa con la palabra NOCIR."
+  },
+  {
+    "type": "verbal_series",
+    "statement": "8.  Insigne , ilustre ; esotérico , ostensible ; inopinado , inesperado ;",
+    "alternatives": [
+      "A) vacuo, sigiloso.",
+      "B) oneroso , gravoso.",
+      "C) tenaz , tozudo.",
+      "D) acucioso, serio .",
+      "E) tedioso , agradable ."
+    ],
+    "correct": 4,
+    "rationale": "Serie verbal mixta: Sinónimos, antónimos, sinónimos.  Se completa con los antónimos TEDIOSO y AGRADABLE."
+  },
+  {
+    "type": "verbal_series",
+    "statement": "9.  Deleznable, consistente ; pululante, escaso; cobarde, bizarro;",
+    "alternatives": [
+      "A) infructuoso, ineficaz.",
+      "B) roncero, diligente .",
+      "C) comedido, ágil .",
+      "D) mentiroso, infundioso.  ",
+      "E) dicaz, mordaz ."
+    ],
+    "correct": 1,
+    "rationale": "Serie verbal conformada por antónimos. Se completa con el par de palabras RONCERO y DILIGENTE."
+  },
+  {
+    "type": "verbal_series",
+    "statement": "10.  Oloroso, fragante , aromático ,",
+    "alternatives": [
+      "A) fétido .",
+      "B) inodoro .",
+      "C) soporífero .",
+      "D) odorante.   ",
+      "E) pestilente ."
+    ],
+    "correct": 3,
+    "rationale": "Serie verbal basada en sinónimos. Se completa con la palabra ODORANTE."
+  },
+  {
+    "type": "reading_comprehension",
+    "statement": "La extensión metafórica produce la polisemia: los dos significados se derivan de la misma raíz y uno es una extensión del otro. Sin embargo, dado que la metáfora trata la transferencia de, a veces, una sola característica (la de la suciedad en el caso de cochino, por ejemplo, y no la forma de su cola, su baja estatura, etc.) y cruza dominios (de un animal a un ser humano; de una parte del cuerpo a un objeto no relacionado con el cuerpo; del espacio al tiempo), puede resultar difícil acusar los diferentes usos como polisémicos. En el caso de cochino, ¿se debe considerar su uso para referirse al animal y a una persona la misma palabra con significados distintos pero relacionados, o son dos palabras distintas? O ¿para pie para una parte del cuerpo y la parte debajo de una montaña? ¿Para subir físicamente y subir de manera abstracta, como los precios? Recuerde que la polisemia y la homonimia son dos extremos en un continuo, y la extensión metafórica es un paso intermedio entre esos dos extremos. TRAVIS , Catherine E. (2010 ). «El estudio del significado: semántica y pragmática ». En Introducción a la lingüística hispánica . New York, Cambridge University Press. 1. Centralmente, el autor aborda A) las palabras idénticas con diferentes significados en la homonimia . B) lo intermedio en el significado: el caso de la polisemia y la homonimia . C) los conceptos semán ticos de polisemia y homonimia como extremos . D) el engarce entre la polisemia, la homonimia y la extensión metafórica . E) el campo semántico involucrado en la llamada extensión metafórica . Solución: El texto aborda la relación existente entre conceptos que aluden a aspectos diferentes del significado: la polisemia y la homonimia como extremos, y la extensión metafórica como el punto intermedio. Rpta.: B 2. La palabra ACUSAR se puede reemplazar en el texto por A) impugnar . B) inculpar . C) razonar . D) reconocer . E) captar . Solución: El vocablo es usado para referirse a la capacidad para distinguir; esto es, RECONOCER. Rpta.: D 3. De acuerdo con la figura 6.1., resultaría incompatible afirmar que las imágenes de la embarcación y la flama A) representan dos referentes para dos palabras fonéticamente iguales . B) sirven para ilustrar los casos concretos de dos palabras homónimas . C) presentan una asociación en cuanto a la forma ascendente de ambas . D) configuran uno de los extremos del contin uo designado en el texto . E) son distinguibles de los casos de relación lexical de tipo polisémico . Solución: Las imágenes de la primera parte de la figura representan dos referentes distintos que se producen de forma idéntica. Esto supone que no existe relación alguna entre un referente u otro. Rpta.: C 5. Si careciéramos de capacidad p ara usar extensiones metafóricas en el discurso, A) los extremos del continuo señalados en el texto desaparecerían . B) la expresión de entidades de carácter abstracto se complejizaría . C) los significados con idéntica pronunciación serían casos inusua les. D) la creación de palabras ambiguas con igual escritura se reduciría . E) las palabras polisémicas serían analizadas desde la morfología . Solución: La metáfora permite expresar de forma simple conceptos complejos. Tal es el caso de los precios. Al carecer de capacidad para expresar metafóricamente ciertos conceptos, su verbalización se complejizaría.",
+    "questions": [
+      {
+        "statement": "1. Centralmente, el autor aborda",
+        "alternatives": [
+          "A) las palabras idénticas con diferentes significados en la homonimia .",
+          "B) lo intermedio en el significado: el caso de la polisemia y la homonimia .",
+          "C) los conceptos semán ticos de polisemia y homonimia como extremos .",
+          "D) el engarce entre la polisemia, la homonimia y la extensión metafórica .",
+          "E) el campo semántico involucrado en la llamada extensión metafórica ."
+        ],
+        "correct": 1,
+        "rationale": "El texto aborda la relación existente entre conceptos que aluden a aspectos diferentes del significado: la polisemia y la homonimia como extremos, y la extensión metafórica como el punto intermedio."
+      },
+      {
+        "statement": "2. La palabra ACUSAR se puede reemplazar en el texto por",
+        "alternatives": [
+          "A) impugnar .",
+          "B) inculpar .",
+          "C) razonar .",
+          "D) reconocer .",
+          "E) captar ."
+        ],
+        "correct": 3,
+        "rationale": "El vocablo es usado para referirse a la capacidad para distinguir; esto es, RECONOCER."
+      },
+      {
+        "statement": "3. De acuerdo con la figura 6.1., resultaría incompatible afirmar que las imágenes de la embarcación y la flama",
+        "alternatives": [
+          "A) representan dos referentes para dos palabras fonéticamente iguales .",
+          "B) sirven para ilustrar los casos concretos de dos palabras homónimas .",
+          "C) presentan una asociación en cuanto a la forma ascendente de ambas .",
+          "D) configuran uno de los extremos del contin uo designado en el texto .",
+          "E) son distinguibles de los casos de relación lexical de tipo polisémico ."
+        ],
+        "correct": 2,
+        "rationale": "Las imágenes de la primera parte de la figura representan dos referentes distintos que se producen de forma idéntica. Esto supone que no existe relación alguna entre un referente u otro."
+      },
+      {
+        "statement": "5. Si careciéramos de capacidad p ara usar extensiones metafóricas en el discurso,",
+        "alternatives": [
+          "A) los extremos del continuo señalados en el texto desaparecerían .",
+          "B) la expresión de entidades de carácter abstracto se complejizaría .",
+          "C) los significados con idéntica pronunciación serían casos inusua les.",
+          "D) la creación de palabras ambiguas con igual escritura se reduciría .",
+          "E) las palabras polisémicas serían analizadas desde la morfología ."
+        ],
+        "correct": 1,
+        "rationale": "La metáfora permite expresar de forma simple conceptos complejos. Tal es el caso de los precios. Al carecer de capacidad para expresar metafóricamente ciertos conceptos, su verbalización se complejizaría."
+      }
+    ]
+  },
+  {
+    "type": "reading_comprehension",
+    "statement": "El gallego es una variedad lingüística estrechamente relacionada con el portugués, hasta el punto que muchos especialistas consid eran al gallego como variedad o dialecto de la lengua portuguesa. Sin embargo, en Galicia existe una polémica sobre si el gallego es una variedad del portugués o una lengua aparte. Obviamente, además de los criterios puramente lingüísticos, intervienen los  criterios emotivos en la evaluación. Después de un periodo de decadencia en el uso del gallego, en el siglo XIX surgen movimientos culturales a favor de la lengua gallega. Al igual que con el vasco y el catalán, el gallego se convierte en una lengua que s e emplea solo en el hogar después de la Guerra Civil y hasta la muerte de Franco en 1975. Con la Constitución española de 1978, el gallego obtiene el rango de lengua cooficial con el español en Galicia (se habla también gallego en zonas limítrofes de Astur ias y León) y empiezan los esfuerzos de la recuperación de la lengua. La población residente en Galicia según el censo de 2001 es de 2.695.880 (INE 2004). La recuperación del gallego por las clases medias urbanas y la normativización de la lengua han traíd o consigo fenómenos interesantes. Los datos lingüísticos publicados por la Xunta de Galicia (2003) describe que la mayoría (93 por ciento) de la población de Galicia habla el gallego. Reporta que el 72 por ciento de la población tiene una actitud de aceptación hacia la lengua y el 66 por ciento considera que debería ser la lengua de la escuela. La tabla 7.8, tomada del mapa sociolingüístico de la Real Academia Galega, muestra el uso lingüístico por edad del hablante. Ciclo Ordinario 2016 -I",
+    "questions": [
+      {
+        "statement": "El tema central del texto es",
+        "alternatives": [
+          "A) alcances sociolingüísticos acerca de la lengua  gallega .",
+          "B) la lengua gallega y su rivalidad con la lengua española .",
+          "C) los avatares de la lengua gallega en la época de Franco .",
+          "D) estudio estadístico del uso de la lengua gallega en España .",
+          "E) el bilingüismo gallego -castellano en las zonas urbano -rurales."
+        ],
+        "correct": 0,
+        "rationale": "En el texto se realiza una exposición sociolingüística del gallego. Se mencionan las actitudes, el bilingüismo, la vitalidad, todos estos conceptos de tipo sociolingüístico."
+      },
+      {
+        "statement": "En el texto, el vocablo PURAMENTE  se puede reemplazar por",
+        "alternatives": [
+          "A) oportunamente .",
+          "B) pulcramente .",
+          "C) limpiamente .",
+          "D) certeramente .",
+          "E) estrictamente ."
+        ],
+        "correct": 4,
+        "rationale": "El vocablo se refiere a criterios de orden lingüístico de forma exclusiva. Por consiguiente, su sinónimo en contexto es ESTRICTAMENTE."
+      },
+      {
+        "statement": "Resulta compatible con el desarrollo textual afirmar que la actitud lingüística de los gallegos es",
+        "alternatives": [
+          "A) opaca",
+          "B) positiva",
+          "C) paradójica",
+          "D) negativa",
+          "E) asertiva ."
+        ],
+        "correct": 1,
+        "rationale": "La actitud lingüística, según los datos estadísticos, es favorable hacia  el gallego."
+      },
+      {
+        "statement": "Es posible colegir del desarrollo textual que la lengua gallega",
+        "alternatives": [
+          " A) ha sido desplazada por el castellano en las zonas rurales de Galicia .",
+          " B) representa un estatus de prestigio para quien la usa en las zonas rurales .",
+          " C) se debilitará si las autoridades soslayan la planificación de tipo lingüístico .",
+          " D) carece de relevancia en el sector educativo a pesar de su evidente vigor .",
+          " E) dejó de ser usada de forma alarmante después de la dictadura de Franco ."
+        ],
+        "correct": 3,
+        "rationale": "En el texto s e indica que los gallegos asumen que su lengua debe usarse en las escuelas."
+      },
+      {
+        "statement": "Si la población de menor edad presentada en la tabla 7.8. presentara un 50% de hablantes que usan solo castellano , posiblemente",
+        "alternatives": [
+          " A) los defensores del purismo lingüís tico en Galicia tengan que revertir la actitud de los jóvenes mediante la prohibición del español .",
+          " B) las medidas que se tomen para detener el avance del castellano en Galicia sean parcialmente exitosos en las zonas urbanas .",
+          " C) el castellano pasaría a s er la lengua franca en la totalidad de la península ibérica debido al repliegue del gallego en Galicia .",
+          " D) la vitalidad del gallego podría peligrar debido a que son las poblaciones de menor edad las que asegurarían la continuidad de la lengua .",
+          " E) los ef ectos de este alto porcentaje aumenten la posibilidad de que el gallego se hable en las zonas rurales y urbanas ."
+        ],
+        "correct": 3,
+        "rationale": "Toda lengua ofrece su crecimiento o vigor en tanto las poblaciones jóvenes la sigan usando. De aumentar el porcentaje de jóvenes que solo hablan castellano, en un futuro el gallego podría perder vitalidad."
+      }
+    ]
+  }
+]

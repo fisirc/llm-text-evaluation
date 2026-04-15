@@ -1,0 +1,614 @@
+[
+  {
+    "type": "reading_comprehension",
+    "statement": "La malaria o paludismo es una de las enfermedades más devastadoras del planeta. Cada año afecta a unos 400 millones de individuos, con resultado de muerte para dos millones de ellos. Las víctimas principales son niños del Tercer Mundo. El agente causante de la enfermedad es Plasmodium, un parásito intracelular que se transmite por la picadura de mosquitos infectados. Varios intentos de erradicar esta enfermedad durante el último siglo han fracasado. Ello se explica, en buena medida, por la aparición de parásitos resistentes a los medicamentos aplicados y al desarrollo de resistencia contra insecticidas en los mosquitos vectores. Ante esa situación, los científicos se esfuerzan por hallar nuevas soluciones para detener el desarrollo de la enfermedad, en particular la búsqueda de una vacuna contra la malaria. Pero esa vía no ha dado los frutos esperados. Se impone, pues, volver al estudio de la biología de Plasmodium con el fin de poder diseñar otras estrategias más eficaces. El ciclo biológico del parásito comprende varios estadios, que se desarrollan en dos huéspedes diferentes: un huésped vertebrado (desde reptiles hasta humanos) y un insecto que actúa como vector (el mosquito Anopheles). La malaria se transmite a través de la picadura de un mosquito infectado que porta el protozoo Plasmodium en estadio de esporozoito en las glándulas salivares. El mosquito introduce su probóscide en la piel del huésped buscando un capilar con sangre y deposita, debajo de la piel, saliva que contiene los esporozoitos de Plasmodium. Desde aquí los esporozoitos migran a la sangre en pocos minutos; el torrente sanguíneo los transporta hasta el hígado. Se desconoce por qué los esporozoitos de Plasmodium se detienen en el hígado, el único órgano que son capaces de infectar.",
+    "questions": [
+      {
+        "statement": "1. Una aserción compatible con el texto es:",
+        "alternatives": [
+          "A) El Anopheles es el agente causante de la malaria.",
+          "B) Plasmodium ataca a muchos órganos humanos.",
+          "C) El parásito ha causado la extinción de los mosquitos.",
+          "D) Los insecticidas resultan ineficaces contra la malaria.",
+          "E) La malaria es una enfermedad relativamente inocua."
+        ],
+        "correct": 3,
+        "rationale": "Hay resistencia contra los insecticidas."
+      },
+      {
+        "statement": "2. Con respecto a la lectura, es incompatible decir que",
+        "alternatives": [
+          "A) la vacuna es un medio promisorio contra la malaria.",
+          "B) los intentos por erradicar la enfermedad han fracasado.",
+          "C) el ciclo biológico del parásito consta de varias etapas.",
+          "D) Anopheles es un huésped vector del parásito Plasmodium.",
+          "E) la malaria es un mal que puede atacar a los reptiles."
+        ],
+        "correct": 3,
+        "rationale": "La vacuna no resulta eficaz por la mutación descrita en el texto."
+      },
+      {
+        "statement": "3. Escriba C (compatible) o I (incompatible) indicando el estatus de los siguientes enunciados:",
+        "alternatives": [
+          "I",
+          "C"
+        ],
+        "correct": 0,
+        "rationale": null
+      },
+      {
+        "statement": "a. Cada año, la malaria causa la muerte de 400 millones de individuos.",
+        "alternatives": [
+          "I",
+          "C"
+        ],
+        "correct": 0,
+        "rationale": null
+      },
+      {
+        "statement": "b. Las víctimas de la malaria viven predominantemente en el Tercer Mundo.",
+        "alternatives": [
+          "I",
+          "C"
+        ],
+        "correct": 1,
+        "rationale": null
+      },
+      {
+        "statement": "c. Plasmodium es un parásito que se anida exclusivamente en los vertebrados.",
+        "alternatives": [
+          "I",
+          "C"
+        ],
+        "correct": 0,
+        "rationale": null
+      },
+      {
+        "statement": "d. Se ha determinado el mecanismo por el cual el parásito se queda en el hígado.",
+        "alternatives": [
+          "I",
+          "C"
+        ],
+        "correct": 0,
+        "rationale": null
+      },
+      {
+        "statement": "e. Los científicos han establecido que el parásito vive dentro de las células.",
+        "alternatives": [
+          "I",
+          "C"
+        ],
+        "correct": 0,
+        "rationale": null
+      },
+      {
+        "statement": "f. Anopheles es el agente causal de la enfermedad de la malaria o paludismo.",
+        "alternatives": [
+          "I",
+          "C"
+        ],
+        "correct": 0,
+        "rationale": null
+      }
+    ]
+  },
+  {
+    "type": "reading_comprehension",
+    "statement": "Los insectos son los animales más abundantes del planeta. Desde hace tiempo se hubieran apoderado del planeta sino fueran devorados todos los días. Sin embargo, estos diminutos seres tienen muchos medios para protegerse. El camuflaje es el recurso más espectacular de los insectos. Algunos engañan a sus enemigos adoptando la apariencia de una especie temible; a esto se le llama mimetismo. Ciertas mariposas la planta huésped simplemente desaparecen adquiriendo el mismo color de (homocromía). Otros disfrazan su forma con patrones irregulares de colores, utilizando el mismo principio que se aplica en el diseño de los uniformes militares.\n\nLos campeones de la simulación son los insectos que imitan a ciertas plantas, no sólo en la forma y el color, sino también en el comportamiento. A estratagemas como esta última se les da el nombre de homotipia. También hay insectos poseedores de un mimetismo agresivo. La Empusa pennata, pariente cercana de la mantis religiosa, simula ser una ramita rota. Las moscas y los mosquitos que constituyen su dieta no dudan en acercársele, ¡y lo único que la “ramita” necesita hacer es atraparlos con un rápido movimiento de la pata!",
+    "questions": [
+      {
+        "statement": "1. Es compatible con el texto decir que el camuflaje de los insectos",
+        "alternatives": [
+          "A) solo es una forma de ornato.",
+          "B) acarrea su extinción total.",
+          "C) los torna prácticamente inmortales.",
+          "D) les permite devorar a sus presas.",
+          "E) no es usado para la supervivencia."
+        ],
+        "correct": 3,
+        "rationale": "El camuflaje es una modalidad de conducta predatoria."
+      },
+      {
+        "statement": "2. Con respecto a la homocromía, es compatible con el texto decir que",
+        "alternatives": [
+          "A) engloba a la modalidad homotípica.",
+          "B) es una modalidad de mimetismo.",
+          "C) se trata de un mimetismo agresivo.",
+          "D) no es una forma de camuflaje.",
+          "E) entraña un cambio en el tamaño."
+        ],
+        "correct": 1,
+        "rationale": "En la homocromía, se mimetiza el color."
+      },
+      {
+        "statement": "3. ¿Cuál de los siguientes enunciados es incompatible con el texto?",
+        "alternatives": [
+          "A) Entre camuflaje y mimetismo hay antonimia.",
+          "B) Ciertas mariposas muestran homocromía.",
+          "C) Los insectos son abundantes en la Tierra.",
+          "D) La Empusa pennata se alimenta de insectos.",
+          "E) El mimetismo de los insectos es espectacular."
+        ],
+        "correct": 3,
+        "rationale": "Hay una correspondencia o afinidad básica entre ambos conceptos."
+      },
+      {
+        "statement": "4. No se condice con el texto aseverar que el mimetismo es un fenómeno",
+        "alternatives": [
+          "A) adaptativo.",
+          "B) protector.",
+          "C) prodigioso.",
+          "D) limitado.",
+          "E) conductual."
+        ],
+        "correct": 0,
+        "rationale": "Se trata de un fenómeno de largo espectro."
+      }
+    ]
+  },
+  {
+    "type": "reading_comprehension",
+    "statement": "El mal de Alzheimer es una enfermedad degenerativa del cerebro, descrita por\nprimera vez en 1907, por el médico alemán Alois Alzheimer. Se caracteriza por ser\nadquirida, progresiva e irreversible. El mal de Alzheimer afecta a las células (neuronas)\ndel cerebro produciendo el deterioro de las funciones intelectuales. Su síntoma más\nevidente es la pérdida de la memoria y la capacidad para aprender cosas nuevas.\n\nEn efecto, las personas que padecen este mal pierden de modo especial la\nmemoria, que afecta, sobre todo, su vida cotidiana y su desenvolvimiento en el trabajo. En\neste caso, es posible que las personas afectadas olviden cosas más a menudo que las\npersonas normales y que no puedan volver a recordarlas después. O que pierdan ciertos\nconocimientos establecidos en su memoria con los cuales contaban para desempeñarse\nen la vida cotidiana. En esta dirección, se deterioran la orientación, el razonamiento, el\ncálculo, el juicio, el lenguaje, la capacidad de planificar y ejecutar actos y la capacidad de\nreconocer objetos y personas.\n\nLa dificultad para realizar tareas conocidas es otro de los síntomas asociados a la\npérdida de la memoria. Por ejemplo, personas con este mal podrían preparar una comida\ny no solamente olvidarse de servirla, sino de que ellos mismos la prepararon o perderse\nen su propio vecindario, no saber dónde están, cómo llegaron al lugar en el que se\nencuentran, ni cómo regresar a casa.\n\nOtro aspecto de esta enfermedad está asociado al lenguaje. La persona con\nAlzheimer puede olvidar palabras simples o sustituirlas en forma inapropiada haciendo\nque su oración sea incomprensible.\n\nEl denominado “juicio pobre o disminuido” se manifiesta en las personas con Alzheimer. Por ejemplo, una persona con este mal podría obrar sin tener en cuenta que\ntiene un niño a su cargo, vestirse inadecuadamente o ponerse varias camisas o blusas al\nmismo tiempo sin darse cuenta de estos hechos.\n\nLa dificultad en el pensamiento abstracto se manifiesta en estos pacientes en el\nhecho de que pueden dejar de relacionarse con el significado de los números y de lo que\nse debe hacer con ellos para conseguir un resultado. Como consecuencia de ello, no\npueden ser responsables del manejo del dinero.\n\nLa disociación de los elementos del entorno con el espacio se manifiesta cuando los\nafectados ponen cosas en lugares inapropiados, por ejemplo, una plancha en el\nrefrigerador, una cacerola recién lavada en el baño o un reloj de pulsera en la azucarera.\n\nA este mal se asocian, también, cambios en la personalidad (forma de ser habitual);\ntrastornos emocionales (depresión, ansiedad, ideas falsas y alucinaciones) y alteraciones\ndel comportamiento, es decir, puede presentar cambios rápidos de humor (desde calma\npasando por la tristeza hasta la ira), sin ninguna razón aparente. Por ello, toda depresión\nque se presenta por primera vez en edad avanzada urge ser evaluada. Con el tiempo, el\nportador del mal de Alzheimer tiene dificultades para desenvolverse adecuadamente en el\nárea personal, laboral, social y familiar.",
+    "questions": [
+      {
+        "statement": "Resulta compatible con el texto decir que la enfermedad de Alzheimer",
+        "alternatives": [
+          "A) es de naturaleza progresiva.",
+          "B) afecta a la memoria y al lenguaje.",
+          "C) no tiene cura hasta el momento.",
+          "D) genera problemas laborales.",
+          "E) puede ocasionar grave depresión."
+        ],
+        "correct": 2,
+        "rationale": "El texto define la enfermedad como incurable."
+      },
+      {
+        "statement": "Respecto de la enfermedad de Alzheimer, es incompatible aseverar que",
+        "alternatives": [
+          "A) es muy crítica cuando llega a la fase terminal.",
+          "B) puede generar problemas serios de cálculo.",
+          "C) implica una capacidad disminuida de juicio.",
+          "D) disocia los elementos de su entorno inmediato.",
+          "E) mantiene intacto el razonamiento abstracto."
+        ],
+        "correct": 2,
+        "rationale": "En el texto se dice que “la dificultad en el pensamiento abstracto se manifiesta en estos pacientes en el hecho de que pueden dejar de relacionarse con el significado de los números y de lo que se debe hacer con ellos para conseguir un resultado”."
+      },
+      {
+        "statement": "Resulta compatible con el texto decir que el paciente con avanzado Alzheimer puede",
+        "alternatives": [
+          "A) realizar labores matemáticas sin problemas.",
+          "B) regresar a su domicilio sin ayuda de alguien.",
+          "C) convertirse en una persona muy solitaria.",
+          "D) mantener un comportamiento psíquico regular.",
+          "E) guardar las cosas en sus lugares correspondientes."
+        ],
+        "correct": 2,
+        "rationale": "la realidad, un paciente con avanzado Alzheimer Al perder contacto con experimentaría serias fisuras en el área personal y familiar. Estaría cada vez más aislado de todo."
+      },
+      {
+        "statement": "En caso de que visitemos a un paciente con avanzado Alzheimer, es compatible aseverar que",
+        "alternatives": [
+          "A) hablaremos con él sin ningún problema.",
+          "B) es posible que no nos reconozca.",
+          "C) puede desarrollar una grave leucemia.",
+          "D) reconozca la gravedad de su mal.",
+          "E) puede haber sufrido una fractura ósea."
+        ],
+        "correct": 1,
+        "rationale": "Uno de los síntomas de esta enfermedad es el no reconocimiento de personas."
+      }
+    ]
+  },
+  {
+    "type": "sentence_elimination",
+    "statement": "El discurso de un paciente con Alzheimer puede tener los visos de un galimatías.",
+    "alternatives": [
+      "C",
+      "I"
+    ],
+    "correct": 0,
+    "rationale": null
+  },
+  {
+    "type": "sentence_elimination",
+    "statement": "Alois Alzheimer describió la enfermedad reconociendo sus propios síntomas.",
+    "alternatives": [
+      "C",
+      "I"
+    ],
+    "correct": 1,
+    "rationale": null
+  },
+  {
+    "type": "sentence_elimination",
+    "statement": "Al poner sus zapatos en la nevera, el paciente revela incapacidad de abstracción.",
+    "alternatives": [
+      "C",
+      "I"
+    ],
+    "correct": 1,
+    "rationale": null
+  },
+  {
+    "type": "sentence_elimination",
+    "statement": "El juicio disminuido en el mal de Alzheimer se refleja en la descontextualización.",
+    "alternatives": [
+      "C",
+      "I"
+    ],
+    "correct": 0,
+    "rationale": null
+  },
+  {
+    "type": "sentence_elimination",
+    "statement": "Un paciente con el mal de Alzheimer está incapacitado para todo tipo de trabajo.",
+    "alternatives": [
+      "C",
+      "I"
+    ],
+    "correct": 0,
+    "rationale": null
+  },
+  {
+    "type": "sentence_elimination",
+    "statement": "Es prácticamente imposible que una persona normal sufra problemas de memoria.",
+    "alternatives": [
+      "C",
+      "I"
+    ],
+    "correct": 1,
+    "rationale": null
+  },
+  {
+    "type": "reading_comprehension",
+    "statement": "Hasta el fin de la Segunda Guerra Mundial asistimos a una batalla entre dos poderosas ideologías. Para los colectivismos (nazismo, comunismo), lo esencial era la sociedad, mientras que el hombre solo era importante en la medida en que le servía. Luego, el conflicto se planteó entre las ideologías comunista y liberal. Esta última adoptó la perspectiva contraria al colectivismo: exaltó a un individuo insolidario que buscaba su propio bien y aplicaba la \"ley del más fuerte\" desentendiéndose del bien común. La idea era defender al único y su propiedad. Estas dos ideologías generaron poderosísimos movimientos sociales y políticos que decidieron, de forma a veces muy trágica, la historia del siglo XX. Frente a este escenario, muchos intelectuales buscaron una alternativa capaz de superar esa disyuntiva implacable. Y se recurrió para ello al concepto de persona entendida como un ser digno por sí mismo, pero que, para alcanzar su plenitud, debe abrirse y entregarse a los demás.\n\nEl personalismo es, pues, una antropología que surge en Europa con el objetivo de ofrecer una alternativa al individualismo y al colectivismo. Frente al liberalismo que exalta a un individuo meramente autónomo, el personalismo remarca el deber de la solidaridad del hombre con sus semejantes y con la sociedad; y frente a los colectivismos que supeditan la persona a valores abstractos como la raza ola revolución, remarca el valor absoluto de cada persona concreta e individual.\n\nEmmanuel Mounier (1905-1950) es el fundador de la filosofía personalista y, a la escuela que creó, se la denomina hoy personalismo comunitario. A esa corriente fundamental se han añadido después un conjunto notable de filósofos creando un legado cultural ciertamente importante.\n\nDesde un punto de vista técnico, el personalismo sostiene como tesis central que la noción de persona es la categoría filosófica esencial en la elaboración de la antropología y que solo se puede tratar adecuadamente con conceptos específicos extraídos a partir de la experiencia. Además, concede especial relevancia a un amplio abanico de temas, algunos de los cuales son muy novedosos y están parcialmente inexplorados. Cabe destacar, entre otros, los siguientes: el carácter irrepetible de cada persona, la afectividad, el amor, las relaciones interpersonales, la corporalidad, la dualidad de la realidad personal expresada en el varón y la mujer, el carácter narrativo de la existencia, el carácter solidario de la persona, la primacía de los valores éticos y religiosos, su apertura intrínseca a la trascendencia, etc.\n\nLa filosofía personalista resulta hoy de especial trascendencia al ofrecer una visión integral y fuerte de la persona en un mundo fragmentado y escéptico. Los personalistas trabajan actualmente en la difusión de las obras de sus principales representantes, en la profundización técnica de sus nociones principales y en la aplicación y desarrollo de su perspectiva en nuevas áreas como la bioética, la filosofía del derecho, la psicología, etc.\n\n1. Medularmente, el texto aborda\nA) los efectos globales de los conflictos entre las máximas ideologías del siglo pasado.\nB) una definición de las ideologías comunista, liberal y la filosofía ética del personalismo.\nC) la antropología personalista como una superación del colectivismo y el individualismo.\nD) los principales temas que son abordados por los pensadores del sistema personalista.\nE) la crítica de la visión individualista del liberalismo en la perspectiva del personalismo.\nSolución: La visión del hombre del personalismo se presenta como una síntesis superadora.\nRpta.: C",
+    "questions": [
+      {
+        "statement": "Medularmente, el texto aborda",
+        "alternatives": [
+          "A) los efectos globales de los conflictos entre las máximas ideologías del siglo pasado.",
+          "B) una definición de las ideologías comunista, liberal y la filosofía ética del personalismo.",
+          "C) la antropología personalista como una superación del colectivismo y el individualismo.",
+          "D) los principales temas que son abordados por los pensadores del sistema personalista.",
+          "E) la crítica de la visión individualista del liberalismo en la perspectiva del personalismo."
+        ],
+        "correct": 2,
+        "rationale": "La visión del hombre del personalismo se presenta como una síntesis superadora."
+      },
+      {
+        "statement": "En el penúltimo párrafo, ¿cuál es el sinónimo en contexto de TRASCENDENCIA?",
+        "alternatives": [
+          "A) Divinidad",
+          "D) Gravitación",
+          "B) Infinitud",
+          "E) Esencia",
+          "C) Metafísica"
+        ],
+        "correct": 0,
+        "rationale": "Se habla de un vínculo con la trascendencia que, en este contexto, alude a la idea y realidad de Dios."
+      },
+      {
+        "statement": "En el prisma crítico del personalismo, el liberalismo defiende una postura",
+        "alternatives": [
+          "A) atea.",
+          "D) egoísta.",
+          "B) irracionalista.",
+          "E) antropológica.",
+          "C) ideológica."
+        ],
+        "correct": 3,
+        "rationale": "El liberalismo se centra en un individuo sin solidaridad, según la hermenéutica del personalismo."
+      },
+      {
+        "statement": "Es incompatible con las ideas del autor sostener que el personalismo",
+        "alternatives": [
+          "A) abraza una concepción religiosa.",
+          "B) aborda problemas morales.",
+          "C) defiende una visión cientificista.",
+          "D) es crítico frente al socialismo.",
+          "E) tiene vigencia y enorme proyección."
+        ],
+        "correct": 2,
+        "rationale": "Es una antropología filosófica y no tiene nada que ver con el cientificismo."
+      },
+      {
+        "statement": "¿Cuál de los siguientes enunciados es incompatible con el texto?",
+        "alternatives": [
+          "A) La filosofía personalista tiene un indeleble carácter antropológico.",
+          "B) La clonación humana es un tema de interés para el personalismo.",
+          "C) La visión personalista objeta centrarse en los intereses individuales.",
+          "D) La ética personalista condena recaer en las posturas abstractas.",
+          "E) El liberalismo es una denuncia contra el sentido de la propiedad."
+        ],
+        "correct": 4,
+        "rationale": "Todo lo contrario, dado que el liberalismo es una clara defensa de la propiedad individual."
+      },
+      {
+        "statement": "Si Mounier hubiese pensado que la persona alcanza la plenitud cerrándose en sus propios intereses, coincidiría con",
+        "alternatives": [
+          "A) el colectivismo.",
+          "D) el socialismo.",
+          "B) el comunismo.",
+          "E) el nazismo.",
+          "C) el liberalismo."
+        ],
+        "correct": 2,
+        "rationale": "En tal extrapolación, habría confluencia con la perspectiva liberal."
+      }
+    ]
+  },
+  {
+    "type": "reading_comprehension",
+    "statement": "El sistema de nuestros deseos o preferencias no siempre es claro ni coherente. A veces queremos una cosa y su contraria, queremos y no queremos, como ocurre con frecuencia en los casos de adicción. El drogadicto quiere dejar de drogarse porque sabe que perjudica gravemente su salud; pero, a la vez, quiere seguir drogándose, pues las moléculas de la adicción implantadas en su cerebro producen un desasosiego característico (el síndrome de abstinencia), lo que lo empuja a buscar nuevas dosis.\n\nAristóteles pensaba que el sujeto racional es capaz de elegir lo que le conviene en función de sus fines e intereses últimos, y que solamente una decisión de este tipo es una verdadera elección racional (proaíresis). Sin embargo, como vemos en el caso del adicto, a veces somos incapaces de cumplir nuestras propias órdenes por akrasía o debilidad de la voluntad.\n\nEl tema de la akrasía es, pues, muy importante. Jon Elster escribió su famoso libro Ulises y las sirenas (1979) para analizar el asunto de la voluntad débil vinculándolo con la racionalidad imperfecta. Justamente, Ulises usa una táctica racional para lidiar con la akrasía: se ata previamente al mástil de su embarcación para no privarse de oír el canto de las sirenas y, al mismo tiempo, asegurarse de no abdicar en su empeño de continuar la travesía.",
+    "questions": [
+      {
+        "statement": "1. Principalmente, el texto aborda el tema",
+        "alternatives": [
+          "A) de la akrasía o debilidad de la voluntad.",
+          "B) de la racionalidad imperfecta en Ulises.",
+          "C) de la naturaleza de la drogadicción.",
+          "D) de la racionalidad según Aristóteles.",
+          "E) los criterios de la elección racional."
+        ],
+        "correct": 0,
+        "rationale": "El texto expone el tema de la debilidad de la voluntad, esto es, la complejidad de las decisiones cruciales en la vida."
+      },
+      {
+        "statement": "2. En el texto, la palabra EMPUJAR connota",
+        "alternatives": [
+          "A) deuda.",
+          "D) obstinación.",
+          "B) obligación.",
+          "E) voluntad.",
+          "C) propósito."
+        ],
+        "correct": 1,
+        "rationale": "Se trata de una pulsión que empuja al drogadicto, esto es, que lo obliga."
+      },
+      {
+        "statement": "3. ¿Cuál de los siguientes enunciados es incompatible con el texto?",
+        "alternatives": [
+          "A) El adicto ignora que la droga es dañina para la salud.",
+          "B) En el libro de Elster se dilucida la racionalidad imperfecta.",
+          "C) Para Aristóteles la racionalidad es siempre coherente.",
+          "D) Según Elster, la actitud de Ulises es un modo racional.",
+          "E) Para Aristóteles, la decisión del drogadicto sería irracional."
+        ],
+        "correct": 0,
+        "rationale": "El adicto sabe que la droga le hace mucho daño, pero está atrapado en la mazmorra de su adicción."
+      }
+    ]
+  },
+  {
+    "type": "sentence_elimination",
+    "statement": "6. Si Mounier hubiese pensado que la persona alcanza la plenitud cerrándose en sus propios intereses, coincidiría con",
+    "alternatives": [
+      "A) el colectivismo.",
+      "D) el socialismo.",
+      "B) el comunismo.",
+      "E) el nazismo.",
+      "C) el liberalismo."
+    ],
+    "correct": 2,
+    "rationale": "En tal extrapolación, habría confluencia con la perspectiva liberal."
+  },
+  {
+    "type": "sentence_elimination",
+    "statement": "7. En la antropología de Mounier, el paradigma de persona es el sujeto",
+    "alternatives": [
+      "A) indolente.",
+      "D) librepensador.",
+      "B) solipsista.",
+      "E) creyente.",
+      "C) agnóstico."
+    ],
+    "correct": 4,
+    "rationale": "Se trata de una persona que plasma una vida solidaria y anclada en su relación con un ser trascendente."
+  },
+  {
+    "type": "sentence_elimination",
+    "statement": "8. En una de sus novelas, Dostoievski presenta a un personaje que dice: «Así me demostraran que el matar a un niño implica un beneficio para la sociedad, yo me opondría a ese infanticidio». El personaje dostoievskiano",
+    "alternatives": [
+      "A) se adhiere a la visión socialista.",
+      "B) ostenta defender lo inmoral.",
+      "C) afirma un corolario liberal.",
+      "D) es un típico colectivista.",
+      "E) revela un estado de insania."
+    ],
+    "correct": 2,
+    "rationale": "El valor del individuo es un axioma del pensamiento liberal."
+  },
+  {
+    "type": "reading_comprehension",
+    "statement": "Cuando el sistema judicial mexicano «funciona» y resulta con una persona procesada, sancionada y puesta en prisión —no necesariamente en ese orden—, genera efectos perversos para un enorme número de mujeres que pertenecen a los sectores más débiles de la sociedad. Un estudio sobre las «mujeres invisibles» en México, publicado en diciembre de 2015, da cuenta de cómo el costo de mantener a internas e internos en prisión recae principalmente en las mujeres de sus familias: sus madres, parejas, hermanas, tías o hijas. 80% de los visitantes encuestados en los centros del Distrito Federal y Morelos eran mujeres. Al entrar una persona en prisión ellas se convierten en las principales proveedoras de comida, agua, ropa, cobijas, calzado, jabón, protección, medicamentos y demás enseres de primera necesidad, y que no proporciona el Estado a los internos.\n\nAsimismo, no solo deben sufragar la manutención de los varones y mujeres en reclusión, sino también pagar las extorsiones del personal de los centros de readaptación social. Para poder ingresar los bienes, para usar una mesa en el área de visitas y no tener que sentarse en el piso, para que le avisen a su familiar que llegaron visitas, deben pagar. También deben pagar para que sus hijos, hijas, parejas tengan protección dentro del penal y no sean golpeados por otros internos o por los mismos custodios. Deben pagar importantes cantidades de dinero para que tengan cama o para que no sean alojados en celdas superpobladas. El resultado conduce a miles de vidas de mujeres abocadas a sostener el infame sistema penitenciario construido en México. 52% de las mujeres encuestadas tuvo que empezar a trabajar o conseguir un trabajo adicional para costear los gastos de tener a su familiar en prisión. 67.9% reportó problema de salud a raíz del encarcelamiento de su pariente. Por el estigma que genera tener a un pariente en prisión o por falta de tiempo, la mayoría dejó de frecuentar amigos, vecinos y familiares, enfrentando solas la extensión del castigo penal.\n\nPérez, C. (01 de junio de 2016). «La cadena de Jabba: La falacia punitiva». Nexos. Recuperado de\nhttps://www.nexos.com.mx/?p=28488.",
+    "questions": [
+      {
+        "statement": "Marque la alternativa que consigne la mejor síntesis del texto.",
+        "alternatives": [
+          "A) La extorsión a las mujeres es una práctica generalizada en los Centros de Readaptación Social en México y el sistema judicial las obliga a convertirse en las principales proveedoras de sus parientes recluidos tras las rejas.",
+          "B) El funcionamiento del sistema judicial mexicano se ensaña contra las mujeres que cuidan de los sentenciados a prisión, incluso poniendo en riesgo su propio desarrollo personal, laboral e intelectual, sin posibilidad de solicitar apoyo.",
+          "C) En México, las prisiones no brindan alimentos ni enseres de primera necesidad a los reclusos; tampoco ofrecen un trato igualitario ni seguridad de forma homogénea, sino, por el contrario, sus funcionarios extorsionan a los visitantes.",
+          "D) Según un estudio, la prisión de una persona afecta, principalmente, a las mujeres de su familia, ya que ellas sufragan la manutención del preso y costean las extorsiones del personal, todo lo cual afecta su calidad de vida.",
+          "E) Las mujeres constituyen el mayor porcentaje de visitantes a penitenciarías en México y, por lo general, pagan para que sus familiares tengan comida, agua, ropas, jabones, medicamentos y demás enseres de primera necesidad."
+        ],
+        "correct": 1,
+        "rationale": "El texto afirma que la reclusión de una persona perjudica, en mayor medida, a las mujeres de su familia en tres aspectos específicos: la manutención del preso, la extorsión de los funcionarios y la transformación de la vida diaria de estas mujeres."
+      },
+      {
+        "statement": "En el texto, el sentido contextual de DÉBILES es",
+        "alternatives": [
+          "A) extremos.",
+          "D) superfluos.",
+          "B) limitados.",
+          "E) vulnerables.",
+          "C) someros."
+        ],
+        "correct": 4,
+        "rationale": "En su contexto, el término en cuestión se entiende como sujetos que pueden sufrir las peores injusticias del sistema."
+      }
+    ]
+  },
+  {
+    "type": "reading_comprehension",
+    "statement": "«¿Qué tan malo era el mundo en el pasado?». Lo creamos o no, la vida era mucho peor antes. Pruebas de nuestra historia sangrienta no son difíciles de encontrar. Consideremos los genocidios en el Antiguo Testamento y las crucifixiones en el Nuevo, las mutilaciones en las tragedias de Shakespeare y los cuentos de hadas de los hermanos Grimm y los monarcas británicos que decapitaron a sus parientes. La disminución de estas prácticas hoy puede ser cuantificada. Una mirada a los números muestra que en el transcurso de nuestra historia la humanidad ha experimentado descensos importantes de la violencia. El primero fue un proceso de pacificación: la transición desde la anarquía de las sociedades de caza, recolección y horticultura a las primeras civilizaciones agrícolas, con ciudades y gobiernos, iniciada hace unos 5000 años. El segundo descenso de la violencia fue el proceso civilizatorio más documentado de Europa. Los registros históricos muestran que entre finales de la Edad Media y el siglo XX los países europeos experimentaron una disminución de sus tasas de homicidio de entre 10 y 50 veces. La tercera transición, denominada en ocasiones la Revolución Humanista, inició con la Ilustración: el siglo XVIII vivió la abolición generalizada de la tortura judicial. Aunque son más periodos de disminución; en rigor, la violencia ha venido en declive desde hace miles de años y hoy podríamos estar viviendo la era más pacífica de nuestra historia como especie.\n\nPinker, S. (2012). «El declive de la violencia». En Literal 28. Traducción recuperada de http://literalmagazine.com/el-declive-de-la-violencia/.\n\nEl lunes 2 de diciembre del año pasado escribí aquí sobre la primera edición del Índice de Paz México (IPM) elaborado por el Instituto para la Economía y la Paz (IEP), una organización no gubernamental basada en Sídney, Australia, con oficinas en las ciudades de Nueva York, Estados Unidos, y Oxford, Inglaterra. Hace unos días el IEP dio a conocer su GPI (Global Peace Index) 2014, el cual muestra que «el mundo se ha vuelto menos pacífico. Desde 2008, 111 países han visto deteriorarse sus niveles de paz, mientras que en solo 51 se ha observado una mejoría» de esos niveles. Este panorama es desolador, sobre todo si se tiene en cuenta que ciertos científicos asumen que la violencia a nivel mundial evidencia actualmente un decremento considerable en comparación con la vida de hace siglos o milenios. Sin embargo, el deterioro en la paz global se explica en gran medida por «la actividad terrorista, el número de conflictos combatidos, el número de refugiados y las personas desplazadas». Lo más grave y preocupante es que el GPI 2014 «confirma una tendencia bajista gradual pero significativa a lo largo de siete años, que rompe una tendencia de 60 años de incremento de la paz global que se remonta al final de la Segunda Guerra Mundial». Visto así, el mundo actual dista del paraíso de paz que ciertos intelectuales más entusiastas le atribuyen.\n\nRuiz-Healy, E. (2014). «Sigue aumentando la violencia en el mundo». En Ruiz-Healy Times, adaptado y recuperado de https://www.ruizhealytimes.com/mi-columna/sigue-aumentando-la-violencia-en-el-mundo.",
+    "questions": [
+      {
+        "statement": "1. Principalmente el texto dialéctico desarrolla",
+        "alternatives": [
+          "A) los datos sobre el incremento de la violencia en el mundo industrial.",
+          "B) la violencia en el mundo actual comparada con la de la Prehistoria.",
+          "C) una exposición de las causas esenciales de la violencia en el mundo.",
+          "D) posiciones contrarias sobre los indicadores de violencia en el mundo.",
+          "E) el aumento de la violencia después de la Segunda Guerra Mundial."
+        ],
+        "correct": 3,
+        "rationale": "Mientras que Pinker sostiene que la violencia mundial ha decrecido históricamente, Ruiz-Healy asume que más bien ha aumentado."
+      },
+      {
+        "statement": "2. En el texto A, la palabra MIRADA puede ser reemplazada por",
+        "alternatives": [
+          "A) expresión.",
+          "D) vistazo.",
+          "B) análisis.",
+          "E) ojeada.",
+          "C) búsqueda."
+        ],
+        "correct": 2,
+        "rationale": "La palabra hace referencia al procesamiento de datos; esto es, al ANÁLISIS."
+      },
+      {
+        "statement": "3. Si nos atuviéramos a la imagen dada por el índice global de paz, resultaría incompatible una postura",
+        "alternatives": [
+          "A) analítica.",
+          "D) histórica.",
+          "B) pesimista.",
+          "E) halagüeña.",
+          "C) radical."
+        ],
+        "correct": 3,
+        "rationale": "El autor cita el Índice de Paz Global para dar una imagen en la que la violencia crece de manera preocupante. La postura halagüeña no concuerda con la imagen."
+      }
+    ]
+  },
+  {
+    "type": "reading_comprehension",
+    "statement": "Aunque resulta difícil de creer, la idea de pasar unas preciadas vacaciones tras las rejas es algo atractivo para mucha gente con evidente vocación de presidiario. Por tal motivo, Letonia, país recientemente incorporado a la Unión Europea, está ofreciendo a los turistas su maravillosa capital, Riga; su naturaleza a orillas del Báltico y, mucho más aun, la posibilidad de vivir en el universo carcelario de la época soviética.\n\"Va a ser terrible\", advierte Liga Engelman –guía del presidio de Karostas en la ciudad Liepaja– a los turistas entusiasmados ante la posibilidad de pasar sus vacaciones en la cárcel. Engelman pone particular celo en advertir a tan insólitos turistas que su vida no será color de rosa detrás de las rejas. Por lo demás, los candidatos deben firmar primeramente un documento mediante el cual aceptan sufrir los castigos que les impongan los guardianes del presidio. Y las vacaciones pueden empezar.\n\n\"Algunos turistas quieren ser maltratados. Desobedecen adrede para eso. Se diría que sienten placer al ser tratados como idiotas o al hacer ejercicios físicos agotadores\", declara Andris, uno de los guardianes del presidio convertido en centro turístico. Los promotores de esta idea consideran que pasar una estancia en prisión le permite al turista experimentar en carne propia, y como en una máquina del tiempo, los rigores de las extintas dictaduras comunistas.",
+    "questions": [
+      {
+        "statement": "El texto fundamentalmente trata sobre",
+        "alternatives": [
+          "A) las opiniones de los guardianes de Karostas acerca de las extrañas costumbres de los turistas europeos.",
+          "B) la noticia de un inusitado servicio turístico dedicado a revivir, en parte, el horror de las prisiones soviéticas.",
+          "C) uno de los modos más sorprendentes que tienen los turistas de Riga de pasar sus vacaciones.",
+          "D) las experiencias de los turistas europeos en las cárceles de las dictaduras comunistas en la época soviética.",
+          "E) los diversos servicios que posee el antiguo presidio de Karostas hoy convertido en un lujoso hotel."
+        ],
+        "correct": 1,
+        "rationale": "El texto divulga un muy extraño y probablemente patológico servicio turístico ofrecido por lo que antes fue un presidio soviético. Se trata de recrear esa época y los turistas se someten a vejámenes por su propia voluntad."
+      },
+      {
+        "statement": "La conducta de los turistas puede ser calificada con precisión de",
+        "alternatives": [
+          "A) heroica.",
+          "D) obsesiva.",
+          "B) cándida.",
+          "E) sádica.",
+          "C) masoquista."
+        ],
+        "correct": 2,
+        "rationale": "Aquellos que aceptan de buen grado someterse a vejámenes, pueden ser calificados de masoquistas."
+      },
+      {
+        "statement": "La palabra CELO adquiere el sentido de",
+        "alternatives": [
+          "A) obsesión.",
+          "D) esmero.",
+          "B) entusiasmo.",
+          "E) presión.",
+          "C) tesón."
+        ],
+        "correct": 3,
+        "rationale": "El agente turístico se esmera mucho para que todo quede claro con el fin de evitar futuras reclamaciones."
+      }
+    ]
+  },
+  {
+    "type": "sentence_elimination",
+    "statement": "3. Si nos atuviéramos a la imagen dada por el índice global de paz, resultaría incompatible una postura.",
+    "alternatives": [
+      "A) analítica.",
+      "D) histórica.",
+      "B) pesimista.",
+      "E) halagüeña.",
+      "C) radical."
+    ],
+    "correct": 4,
+    "rationale": "La postura halagüeña no concuerda con la imagen."
+  },
+  {
+    "type": "sentence_elimination",
+    "statement": "4. Se deduce del desarrollo textual de A que es altamente probable que el número de muertes por agresiones hacia el 2050,",
+    "alternatives": [
+      "A) sea un obstáculo para el autor en su cruzada por la paz en el mundo.",
+      "B) se reduzca a cero en todos los países cuya economía es capitalista.",
+      "C) aumente de forma aislada en las zonas menos resilientes del mundo.",
+      "D) evidenciará una disminución consistente con los cambios históricos.",
+      "E) ocurra en los países que evidencian mayor proclividad a las guerras."
+    ],
+    "correct": 4,
+    "rationale": "En efecto, Pinker es optimista con los indicadores de disminución de la violencia, razón por la cual prospectivamente podríamos sostener un decremento ostensible."
+  },
+  {
+    "type": "sentence_elimination",
+    "statement": "5. Si un filósofo estuviera de acuerdo con la argumentación de Pinker,",
+    "alternatives": [
+      "A) podría apoyarse en los datos brindados por el índice global de paz.",
+      "B) también debiera concordar con la propuesta miliar de Ruiz-Healy.",
+      "C) observaría un carácter tendencioso en la información de Ruiz-Healy.",
+      "D) podría explicar fácilmente las guerras civiles existentes en el mundo.",
+      "E) diría que el porcentaje de gran violencia en el mundo ha aumentado."
+    ],
+    "correct": 2,
+    "rationale": "Obviamente, no estaría de acuerdo ni con la posición ni con los datos brindados por Ruiz-Healy."
+  },
+  {
+    "type": "synonyms_and_antonyms",
+    "statement": "3. La palabra CELO adquiere el sentido de",
+    "alternatives": [
+      "A) obsesión.",
+      "D) esmero.",
+      "B) entusiasmo.",
+      "E) presión.",
+      "C) tesón."
+    ],
+    "correct": 1,
+    "rationale": "El agente turístico se esmera mucho para que todo quede claro con el fin de evitar futuras reclamaciones."
+  },
+  {
+    "type": "incomplete_sentences",
+    "statement": "4. Este tipo de atractivos turísticos pone en evidencia que, en el mundo contemporáneo,",
+    "alternatives": [
+      "A) las personas cuyo propósito es viajar son perversas y masoquistas.",
+      "B) es imposible olvidar los crímenes de los dictadores latinoamericanas.",
+      "C) la fuente más grande de riqueza es el turismo de restos arqueológicos.",
+      "D) hasta el insólito uso de una prisión puede ser explotada económicamente.",
+      "E) la industria de la represión resulta un mal negocio entre los empresarios."
+    ],
+    "correct": 3,
+    "rationale": "Si hasta los vejámenes en las cárceles comunistas pueden ser usufructuados para el turismo, cualquier cosa puede serlo también."
+  },
+  {
+    "type": "incomplete_sentences",
+    "statement": "5. A partir del contrato establecido entre los turistas y los responsables de la prisión, cabe plantearse el siguiente problema ético:",
+    "alternatives": [
+      "A) ¿es posible aprovecharnos de sucesos nefastos del pasado?",
+      "B) ¿debemos atravesar por castigos físicos para acceder a la salvación?",
+      "C) ¿se hace factible renunciar a los propios derechos humanos?",
+      "D) ¿podemos castigar a quienes tienen una conducta inadecuada?",
+      "E) ¿los castigos físicos se justifican en todos los casos posibles?"
+    ],
+    "correct": 2,
+    "rationale": "En el contrato, los turistas aceptan ser vejados; a partir de ello se puede plantear la pregunta por la libertad que tenemos sobre nuestro propio cuerpo, por ejemplo: ¿soy libre de hacerme daño?"
+  }
+]

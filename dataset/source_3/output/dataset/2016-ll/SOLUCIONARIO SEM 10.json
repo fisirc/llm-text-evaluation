@@ -1,0 +1,548 @@
+[
+  {
+    "type": "reading_comprehension",
+    "statement": "Michelangelo Buonarroti (1475 -1564) fue un reconocido pintor, escultor y arquitecto italiano de estilo renacentista. Es tenido como uno de los más grandes artistas de la historia tanto por sus esculturas como por sus pinturas y obra arquitectónica. Desarrolló su labor artística a lo largo de más de setenta años entre Florencia y Roma, que era donde vivían sus grandes mecenas, la familia Médici de Florencia y los diferentes papas romanos.",
+    "questions": [
+      {
+        "statement": "Se colige del texto que Michelangelo Buonarroti",
+        "alternatives": [
+          "A) era un artista muy opulento.",
+          "B) vivió ochenta y nueve años.",
+          "C) fue un escritor renacentista.",
+          "D) fue un artista monofacético.",
+          "E) radicó solamente en Roma."
+        ],
+        "correct": 0,
+        "rationale": "En el texto se expone el año de nacimiento de Michelangelo Buonarroti y también el año de fallecimiento del mismo. La resta de ambos años arroja el tiempo que vivió."
+      }
+    ]
+  },
+  {
+    "type": "reading_comprehension",
+    "statement": "«Lo de Delpo es muy impresionante. Cuando jugué contra él a principios de este año noté que algo había cambiado en su juego, que había cambiado su revés, que le pegaba con efecto slice, cortando más la pelota. Es interesante ver cómo adaptó su juego después de la cirugía. Es el típico jugador que vale mucho más que su puesto en el ranking. Creo que hay 50 y 50 de chances. Por cómo está jugando Del Potro, Argentina tiene una chance de ganar por primera vez la Copa Davis. Aunque no se debe minimizar a Croacia », expresó Roger Federer, el ex número uno del tenis.",
+    "questions": [
+      {
+        "statement": "Se infiere de la cita textual que la intención principal de Federer es",
+        "alternatives": [
+          "A) elogiar el progreso de salud y deportivo del tenista argentino Del Potro.",
+          "B) sugerir más concentración en sus duelos al tenista argentino Del Potro.",
+          "C) querer imitar el slice del tenista Del Potro en sus duelos por Copa Davis.",
+          "D) anunciar su retiro permanente de las competiciones mundiales de tenis.",
+          "E) pronosticar qué país va a ser el próximo campeón de la Copa Davis."
+        ],
+        "correct": 0,
+        "rationale": "Principalmente, Roger Federer señala que Del Potro ha mejorado su forma de jugar el tenis luego de haber sido operado, de manera que tiene chances de ganar la Copa Davis."
+      }
+    ]
+  },
+  {
+    "type": "reading_comprehension",
+    "statement": "Casi un 35% de peruanos no ingiere los requerimientos calóricos mínimos, según el Programa de las Naciones Unidas para el Desarrollo (PNUD). En el 2004, el promedio nacional de déficit calórico en todas las edades fue de 32.3%, mientras que en el 2010 este indicador alcanzó el 28.4%. Igualmente, el sistema de salud en el país agoniza. Según el estándar de la Organización Mundial de la Salud (OMS), el nivel de atención debe ser de un médico para mil habitantes, pero en el Perú es un galeno por diez mil pobladores. Por otro lado, cualquier actividad económica requiere una red básica de obras y servicios que la soporte. A esa red se le denomina infraestructura. En este caso, el Perú está bastante atrasado en su desarrollo. El Perú debe invertir casi US$160 mil millones en los próximos 10 años para acercarse a niveles de los países de la Organización para la Cooperación y el Desarrollo Económico (OCDE). Pero el problema no es solo la cantidad. De acuerdo con el Foro Económico Mundial, la calidad de la infraestructura en el Perú está por debajo de la mayoría de países de la región. De la misma forma, si bien Perú está cada vez más cerca de lograr la universalización de la educación primaria, el problema educativo más grave que afecta a las niñas y niños del Perú es el bajo nivel existente de comprensión lectora y razonamiento matemático. De acuerdo con la Evaluación Censal de Estudiantes (ECE), en el año 2007, apenas el 15,9% de las niñas y niños de segundo grado de educación primaria alcanzó un nivel de desempeño suficiente en comprensión de textos, mientras que en matemáticas lo hizo el 7,2%. Para el año 2013, estos valores fueron de 33% en comprensión lectora y 16, 8% en matemáticas.",
+    "questions": [
+      {
+        "statement": "4. Se deduce que la implementación de la E -Administración en un país conducirá",
+        "alternatives": [
+          "A) a la nula comisión de errores en la administración pública estatal.",
+          "B) al despido cabal de los administradores públicos de cualquier país.",
+          "C) a reducir notoriamente el uso de papel en la administración pública.",
+          "D) a inevitables huelgas de los administradores por mejoras de sueldo.",
+          "E) al fortalecimiento de las instituciones públicas y privadas del Estado."
+        ],
+        "correct": 2,
+        "rationale": "La E-Administración se basa en el uso de medios computacionales para que los diferentes documentos administrativos circulen en formato digital."
+      },
+      {
+        "statement": "5. Se colige plausiblemente del texto que algunos trabajadores del aeropuerto de Los Ángeles optaron por vivir en casas rodantes en el estacionamiento porque",
+        "alternatives": [
+          "A) está prohibido por ley que los empleados vivan en sus propias casas.",
+          "B) el alquiler de vivienda cerca al aeropuerto les resulta bastante costoso.",
+          "C) el estacionamiento del aeropuerto tiene mejor clima que en otros lares.",
+          "D) sus contratos determinan que tienen que alojarse en el estacionamiento.",
+          "E) de esa forma están cumpliendo sus sueños de vivir de manera errante."
+        ],
+        "correct": 1,
+        "rationale": "Según el texto, algunos empleados optaron por vivir en el estacionamiento del Aeropuerto de Los Ángeles porque pagan menos de US$100 al mes, entonces, es plausible inferir que en el alquiler de viviendas cerca al aeropuerto es caro."
+      },
+      {
+        "statement": "6. Se desprende del texto que el personaje principal",
+        "alternatives": [
+          "A) no tiene ropa para abrigarse.",
+          "B) es un trabajador holgazán.",
+          "C) tiene vacaciones mensuales.",
+          "D) tiene un problema de salud.",
+          "E) se encuentra desempleado."
+        ],
+        "correct": 4,
+        "rationale": "El personaje principal menciona que todo el mes ha estado presentando su CV a empresas por el lapso de un mes y seguirá haciendo ello porque en ese momento no está trabajando."
+      }
+    ]
+  },
+  {
+    "type": "reading_comprehension",
+    "statement": "Los esfuerzos en salud de la mayoría de gobiernos se centran en inversiones en infraestructura y medicinas para así prevenir y combatir las principales enfermedades que los aquejan. Sin embargo, se ha venido dejando de lado una serie de trastornos que son también un problema de salud pública que debe ser tratado con el mismo apremio : las enfermedades mentales.\nSon este tipo de enfermedades, junto a su nulo tratamiento, lo que está empujando a más personas a suicidarse. En 2012, 800 mil personas se suicidaron en todo el mundo, sin contar aquellos que lo intentaron y no lograron su cometido. En el siguiente cuadro, se muestra la tasa de suicidios por cada 100 mil habitantes en América del Sur. Cuatro países ‒ Uruguay, Chile, Bolivia y Argentina ‒ son los únicos  que superan el promedio mundial de 11,4%.\n\ndel mundo, siendo el suicidio la segunda causa de muerte en personas entre los 15 y 29\naños, según indica la Organización Mundial de la Salud (OMS).\nDesde 2005, más gobiernos cuentan con un plan de salud mental. Sin embargo, este\ntema supone un pequeño porcentaje en el gasto público en salud. En promedio, solo el\n2,8% del presupuesto en salud está destinado a prevenir y tratar enfermedades mentales,\nsegún la OMS. A esto hay que añadir la escasez de profesionales de la salud mental que\npuedan tratar estos problemas. En 85 países hay menos de un psiquiatra por cada 100 mil\nhabitantes, según datos de la OMS. El fenómeno global del suicidio es un problema de\nsalud pública mundial que debe ser tomado en cuenta.\n",
+    "questions": [
+      {
+        "statement": "1. El tema medular del texto trata acerca de",
+        "alternatives": [
+          "A)  las causas y estadísticas de los trastornos mentales en toda Latinoamérica.",
+          "B)  las causas del suicidio y de las enfermedades mentales en el mundo actual.",
+          "C)  la necesidad de invertir en la salud publica en los países pobres del mundo.",
+          "D)  el suicidio como un problema de salud urgente para los gobiernos actuales.",
+          "E)  las estadísticas de la OMS respecto a las enfermedades mentales  actuales."
+        ],
+        "correct": 3,
+        "rationale": "El autor se centra en el texto en el descuido de los gobiernos respecto a las enfermedades mentales, descuido que desemboca, principalmente, en unos de los problemas que atraviesa las sociedades actuales: el suicidio."
+      },
+      {
+        "statement": "2.  La palabra APREMIO tiene en el texto el sentido de",
+        "alternatives": [
+          "A)  seguridad.",
+          "B)  urgencia.",
+          "C)  delicadeza.",
+          "D)  fortaleza.",
+          "E)  motivación."
+        ],
+        "correct": 1,
+        "rationale": "En el texto se dice que los gobiernos invierten en medicinas para poder enfrentar rápidamente las enfermedades que aquejan a su población, sin embargo, no invierten con la misma urgencia en los casos de las enfermedades mentales."
+      },
+      {
+        "statement": "3.   Es incompatible con el texto , respecto a las enfermedades mentales , afirmar  que",
+        "alternatives": [
+          "A)  constituyen un problema mundial, sobre todo el problema del suicidio.",
+          "B)  aún se consideran un problema menor en comparación con otras dolencias.",
+          "C)  han sido objeto de estudio de la Organización  Mundial de la Salud.",
+          "D)  en la actualidad carecen de soluciones específicas para enfrentarlas.",
+          "E)  están haciendo tomadas en cuentas en la inversión de los gobiernos."
+        ],
+        "correct": 4,
+        "rationale": "Los gobiernos no invierten en las enfermedades mentales como lo hacen con otras dolencias. Por ello, el autor llama la atención al respecto."
+      },
+      {
+        "statement": "5.   Si los gobiernos tuvieran conciencia de la necesidad de invertir más en la salud mental, entonces",
+        "alternatives": [
+          "A)  no habría ningún tipo de enfermedades mentales en los países de América.",
+          "B)  Uruguay ocuparía el último puesto en las estadísticas de suicidio en el mundo.",
+          "C)  los problemas de salud mental, como el suicidio, no tendrían tanta relevancia.",
+          "D)  habrían más puesto de trabajo para doctores y psicólogos en los hospitales.",
+          "E)  el suicidio sería la mayor causa de mortandad en los países pobres de América."
+        ],
+        "correct": 2,
+        "rationale": "Actualmente los gobiernos no son conscientes de la inversión en la salud mental. De ahí que los problemas mentales se incrementan cada vez más. Si invirtieran, entonces no serían tan relevantes estos problemas."
+      }
+    ]
+  },
+  {
+    "type": "sentence_elimination",
+    "statement": "1. Se sabe que Andrea es hija de Giovanna, quien a su vez es la abuela materna de\nSusana. Susana es hija de la hermana de Heidi. Penélope es hermana de Susana y\nAndrea no es su madre. César es el único hermano de Giovanna y está casado con\nInés. Nicolás es padre de Susana y Penélope.\n\n  ¿Cuáles de las siguientes afirmaciones son verdaderas?\n\nI.  Andrea y Heidi son hermanas.\nII.  Giovanna es madre de Penélope.\nIII. Heidi es tía de Penélope.\n\n A) Solo I  B) I y III  C) I y II  D) Solo II",
+    "alternatives": [
+      "A) Solo I",
+      "B) I y III",
+      "C) I y II",
+      "D) Solo II"
+    ],
+    "correct": 3,
+    "rationale": null
+  },
+  {
+    "type": "reading_comprehension",
+    "statement": "La creencia americana en el progreso se alimentó de una rica herencia  de pensamiento milenarista procedente del pasado calvinista de los Estados Unidos. Como los\njudíos y cristianos de la antigüedad  y los ingleses del siglo dieciséis, los puritanos y los\nperegrinos se veían como el pueblo o la «raza» que Dios había elegido como Su\ninstrumento en el mundo. Las colonias de Nueva Inglaterra de principios del siglo diecisiete\nse consideraban escogidas en  virtud de su alianza con Dios. Ser un pueblo elegido era\ntanto un destino como una responsabilidad. El propósito divino debía reflejarse en cada\naspecto de la conducta y los actos de la comunidad, incluso el de predicar Su buena nueva\nentre los demás pueblos de la tierra.\n Estados Unidos era la «nación redentora», con una misión especial frente al resto del\nmundo. Esa misión redentora justificaba la expansión estadounidense hacia el oeste como\nparte de su «destino manifiesto». La llegada de los europeos a las costas de América del\nNorte y su avance allende las montañas Allegheny parecían representar un impetuoso\ndesplazamiento \\u2013 el gran desplazamiento\\u2013  en la historia mundial. Incluía a Estados Unidos\nen un proceso mucho más antiguo, el avance de la civilización y el Imperio universal hacia\nel oeste.\n Hoy el término «imperio» evoca imágenes de imperialismo y explotación. Pero según\nuna definición estricta, un imperio es una serie de unidades geográficas dispares\ngobernadas por una sola entidad política. Esa entidad podría ser una sola persona, un\nemperador, pero también podría ser el pueblo. Por este motivo, los ensayos de The\nFederalist podían hablar de la nueva república americana como imperio sin que hubiera\ncontradicción. La nueva república americana se fijó una misión imperial expansiva que\nconcordaba con su misión redentora.\n Thomas Jefferson declaró que Estados Unidos era un «imperio de libertad» que\ndifundiría el mensaje de soberanía popular y alentaría la libertad a medida que se\ndesplazaba hacia el oeste. En 1809, Jefferson duplicó el tamaño del país con su compra de\nLuisiana, creando el espacio físico necesario para dicho imperio. El secretario de Estado\nJohn Quincy Adams declaró que el «dominio propio» de los Estados Unidos era «el\ncontinente de América del Norte», y dio a ese dominio características universales.\nProclamaría, escribió, «ante la humanidad los derechos inagotables de la naturaleza\nhumana, y los legítimos fundamentos del gobierno. Su lema es Libertad, Independencia,\npaz».\n Más que ningún otro pueblo, los americanos tenían la sensación de que su país \\u2014 «la\ntierra de los libres y hogar de los valientes»\\u2012  ocupaba el centro del escenario en un proceso\nhistórico mundial.\n\nHerman, A. (1998). La idea de la decadencia en la historia universal . España, Barcelona:\nEditorial Andrés Bello. Adaptado por el Prof. Juan Carlos Huamancayo.\n",
+    "questions": [
+      {
+        "statement": "1. La idea principal del texto sostiene que",
+        "alternatives": [
+          "A)  Estados Unidos es un imperio muy peculiar porque el poder no lo ejerce un\nemperador sino que es ejercido por el pueblo.",
+          "B)  La política de Estados Unidos surgió a partir de un conjunto de creencias religiosas\nmilenaristas que lo ven como un instrumento divino",
+          "C)  Estados Unidos se concibió como una nación con una misión redentora y\nmisionera lo que justifica una serie de  actitudes.",
+          "D)  El calvinismo y puritanismo en que se basó la política de Estados Unidos\nalentaban como valores  la libertad y la soberanía.",
+          "E) Estados Unidos es un imperio que lleva a cabo políticas expansionistas\nsustentadas en creencias religiosas milenaristas."
+        ],
+        "correct": 2,
+        "rationale": "El texto sostiene que la política de estados Unidos se sustenta en la creencia de ser una nación con una misión redentora frente al mundo y que debe actuar conforme a ello y difundirlo."
+      },
+      {
+        "statement": "2. En el texto el término HERENCIA  se puede reemplazar por",
+        "alternatives": [
+          "A)  acervo.",
+          "B)  riqueza.",
+          "C)  bienes.",
+          "D)  presencia.",
+          "E)  imposición."
+        ],
+        "correct": 0,
+        "rationale": "«[…] se alimentó de una rica herencia  de pensamiento milenarista», en este caso, el término «herencia» se entiende como «acervo cultural o la tradición de este milenarismo»."
+      }
+    ]
+  },
+  {
+    "type": "reading_comprehension",
+    "statement": "El texto sostiene que la política de estados Unidos se sustenta en la creencia de ser una nación con una misión redentora frente al mundo y que debe actuar conforme a ello y difundirlo.",
+    "questions": [
+      {
+        "statement": "En el texto el término HERENCIA  se puede reemplazar por",
+        "alternatives": [
+          "A)  acervo.",
+          "B)  riqueza.",
+          "C)  bienes.",
+          "D)  presencia.",
+          "E)  imposición."
+        ],
+        "correct": 0,
+        "rationale": "«[…] se alimentó de una rica herencia  de pensamiento milenarista», en este caso, el término «herencia» se entiende como «acervo cultural o la tradición de este milenarismo»."
+      },
+      {
+        "statement": "Marque la alternativa que es incompatible con el texto.",
+        "alternatives": [
+          "A)  El pueblo de Estados Unidos pensó que el expansionismo era  lo mejor para el país.",
+          "B)  La misión redentora de Estados Unidos justificaba su expansión hacia el oeste como su destino.",
+          "C)  Estados Estados Unidos se considera un imperio donde el pueblo es la entidad que gobierna.",
+          "D) Para Jefferson Estados Estados Unidos en su expansión defendía la libertad y la soberanía.",
+          "E)  John Quincy Adams sostenía que el dominio propio de Estados Unidos era América del Norte."
+        ],
+        "correct": 0,
+        "rationale": "Estados Unidos se fijó una misión imperial expansiva que concordaba con su misión redentora, misión que según ellos Dios les encomendó al elegirlos como su instrumento en el mundo."
+      },
+      {
+        "statement": "Se colige del texto que Estados Estados Unidos",
+        "alternatives": [
+          "A)  tiene una política expansionista que contradice su misión redentora.",
+          "B)  como imperio que es le interesa el control de un lugar no sus creencias.",
+          "C)  basó su expansionismo exclusivamente en la compra de territorios.",
+          "D)  es un país que en sus orígenes se asumió con una misión mesiánica.",
+          "E)  basó su política expansionista en criterios estrictamente económicos."
+        ],
+        "correct": 3,
+        "rationale": "Estados Unidos se concebía asimismo como una nación redentora, con una misión especial frente al mundo, por eso se asumen con una misión mesiánica."
+      },
+      {
+        "statement": "Si estados Estados Unidos no se hubiese visto así mismo como una nación redentora, entonces",
+        "alternatives": [
+          "A)  no  se hubiera llegado a constituir como una nación.",
+          "B)  su expansionismo no hubiera tenido una justificación.",
+          "C)  sería un imperio basado en la explotación e imposición.",
+          "D)  basaría su imperialismo en la libertad y soberanía popular.",
+          "E)  sería un imperio en el que no se daría la soberanía popular."
+        ],
+        "correct": 1,
+        "rationale": "La misión redentora con la que se concebían los norteamericanos, frente al resto del mundo justificaba la expansión estadounidense, Estados Unidos se fijó una misión imperial expansiva que concordaba con su misión redentora. Sin esa misión redentora la expansión se quedaba sin justificación."
+      }
+    ]
+  },
+  {
+    "type": "reading_comprehension",
+    "statement": "Para el hombre religioso, el espacio no es homogéneo; presenta roturas, escisiones, o sea, hay porciones de espacio cualitativamente diferentes de las otras: «No te acerques \\u2012 dice el Señor a Moisés\\u2012 , quítate el calzado de tus pies; pues el lugar donde te encuentras es una tierra santa» (Éxodo, III, 5). Hay, pues, un espacio sagrado y, por consiguiente, «fuerte», significativo, y hay otros espacios no consagrados y, consiguiente, sin estructura ni consistencia; en una palabra: amorfos. Más aún: para el hombre religioso esta ausencia de homogeneidad espacial se traduce en la experiencia de una oposición entre el espacio sagrado, el único que es  real, que existe realmente, y todo el resto, la extensión informe que le rodea.\n Digamos acto seguido que la experiencia religiosa de la no -homogeneidad del espacio constituye una experiencia primordial, equiparable a una «fundación del mundo». No se trata de especulación teológica, sino de una experiencia religiosa primaria, anterior a toda reflexión sobre el mundo. Es la ruptura operada en el espacio lo que permite la constitución del mundo, pues es dicha ruptura lo que descubre el «punto fijo», el eje central de toda orientación futura. Desde el momento en que lo sagrado se manifiesta en una hierofanía cualquiera no solo se da una ruptura en la homogeneidad del espacio, sino también la revelación de una realidad absoluta, que se opone a la no -realidad de  la inmensa extensión circundante. La manifestación de lo sagrado fundamenta ontológicamente el Mundo. En la extensión homogénea e infinita, donde no hay posibilidad de hallar demarcación alguna, en la que no se puede efectuar ninguna orientación, la hierofanía revela un «punto fijo» absoluto, un «Centro».\n Se ve, pues, en qué medida el descubrimiento, es decir, la revelación del espacio sagrado, tiene un valor existencial para el hombre religioso: nada puede comenzar, hacerse, sin una orientación previa, y  toda orientación implica la adquisición de un punto fijo. Por esta razón el hombre religioso se ha esforzado por establecerse en el «Centro del Mundo». Para vivir en el Mundo hay que fundarlo, y ningún mundo puede nacer en el «caos» de la homogeneidad y de la relatividad del espacio profano. El descubrimiento o la proyección de un punto fijo – el Centro–  equivale a la Creación del Mundo.\n\nEliade, M. (1981). Lo sagrado y lo profano . España: Ediciones Paidós Ibérica, S. A.\nSelecionado por el Prof. Juan Carlos  Huamancayo.",
+    "questions": [
+      {
+        "statement": "La idea principal del texto sostiene que",
+        "alternatives": [
+          "A)  la revelación del espacio sagrado le permite al hombre religioso un punto fijo que lo ubica en el centro del mundo.",
+          "B)   para el hombre religioso el espacio no es homogéneo, ello es una experiencia equiparable a la fundación del mundo.",
+          "C)   al ser el espacio no homogéneo y con lugares sagrados ello establece una realidad absoluta frente a una no realidad.",
+          "D)   la «fundación del mundo» es una experiencia religiosa primaria y establece un punto fijo que orienta al hombre.",
+          "E)   desde una visión teológica hay espacios sagrados con significado y espacios no consagrados sin estructura."
+        ],
+        "correct": 1,
+        "rationale": "La idea principal se da en el primer y segundo párrafo y se sintetiza en el último. Para el hombre religioso el espacio no es homogéneo y la no homogeneidad es una experiencia primordial equiparable a la fundación del mundo que le da al hombre un punto fijo y lo ubica en el centro del mundo."
+      },
+      {
+        "statement": "En el texto el termino INFORME se puede reemplazar por",
+        "alternatives": [
+          "A)  conocimiento.",
+          "B)  amorfo.",
+          "C)  ortodoxo.",
+          "D)  caótico.",
+          "E)  heterodoxo."
+        ],
+        "correct": 1,
+        "rationale": "La extensión informe que lo rodea, se refiere al espacio sin forma o amorfo que lo rodea."
+      }
+    ]
+  },
+  {
+    "type": "reading_comprehension",
+    "statement": "La extensión informe que lo rodea, se refiere al espacio sin forma o amorfo que lo rodea.",
+    "questions": [
+      {
+        "statement": "En el texto el termino INFORME se puede reemplazar por",
+        "alternatives": [
+          "A)  conocimiento.",
+          "B)  amorfo.",
+          "C)  ortodoxo.",
+          "D)  caótico.",
+          "E)  heterodoxo."
+        ],
+        "correct": 1,
+        "rationale": "La extensión informe que lo rodea, se refiere al espacio sin forma o amorfo que lo rodea."
+      },
+      {
+        "statement": "Marque la alternativa que es incompatible con el texto.",
+        "alternatives": [
+          "A)   La hierofanía revela un punto fijo absoluto, un centro en el espacio no consagrado homogéneo.",
+          "B)  La revelación del espacio sagrado tiene un valor existencial para el hombre religioso.",
+          "C)   El hombre religioso no puede llevar nada a cabo si no tiene un punto fijo en el mundo.",
+          "D)   Para vivir en el mundo hay que fundarlo ello no es posible en el caos de la homogenidad.",
+          "E)   Los espacios sagrados no homogéneos no pueden tener ni una estructura ni una consistencia."
+        ],
+        "correct": 4,
+        "rationale": "Los espacios no consagrados no tienen estructura ni consistencia, son amorfos, se entiende que los espacios sagrados si tienen estructura y consistencia."
+      },
+      {
+        "statement": "Se colige que la manifestación de lo sagrado al fundamentar ontológicamente el mundo",
+        "alternatives": [
+          "A)  le permite al hombre religioso poder vivir en el mundo.",
+          "B)  establece múltiples centros que guían al hombre religioso.",
+          "C)  homogeniza el espacio desapareciendo el espacio profano.",
+          "D)  acaba con la homogeneidad para poder guiar al hombre.",
+          "E)  convierte al espacio homogéneo en uno no homogéneo."
+        ],
+        "correct": 0,
+        "rationale": "La manifestación de lo sagrado fundamenta ontológicamente el mundo porque permite identificar un lugar como sagrado, como no homogéneo, y tener un punto fijo, un centro, es una fundación del mundo, y para vivir en el mundo hay que fundarlo."
+      },
+      {
+        "statement": "Si la experiencia religiosa de la no homogeneidad del espacio no fuese equiparable a una fundación del mundo, entonces",
+        "alternatives": [
+          "A)  para el hombre religioso el espacio tendría un carácter homogéneo.",
+          "B)  el espacio profano desaparecería y todo el espacio  sería homogéneo.",
+          "C)  la manifestación de lo sagrado siempre fundamentaría al mundo.",
+          "D)  la hierofanía no revelaría un punto fijo absoluto o un centro del mundo.",
+          "E)  el hombre se guiaría  por la homogeneidad del espacio profano."
+        ],
+        "correct": 3,
+        "rationale": "La fundación del  mundo permite tener un punto fijo, un centro donde se ubica el hombre y que le permite vivir y hacer cosas, si la experiencia del espacio sagrado no fuese como la fundación del mundo la hierofanía no revelaría un punto fijo absoluto, un centro."
+      }
+    ]
+  },
+  {
+    "type": "reading_comprehension",
+    "statement": "Ullrich, como otros biógrafos, brinda una mirada vívida a algunos factores que ayudaron a convertir a un «agitador de Múnich» (considerado por muchos como un «payaso» obsesionado consigo mismo, con un extraño «estilo impulsivo y errático») en «el amo y señor del Reich alemán». A menudo se describía a Hitler como un ególatra que «solo se amaba a sí mismo», un narcisista al que le gustaba la dramatización y tenía lo que Ullrich llama «una fascinación distintiva por los superlativos» . Sus discursos maníacos y su enorme inclinación por arriesgarse a decisiones de todo o nada hacían que se cuestionara su capacidad de autocontrol, e incluso su cordura. Ullrich subraya la perspicacia de Hitler como político y lo califica como un líder con  un «keen eye for the strengths and weaknesses of other people » y una gran capacidad para « instantaneously analyze and exploit situations ». Entre sus colegas, Hitler era conocido por su «falsedad sin medida», que más tarde se magnificó mediante una hábil maquinaria propagandística que recurría a la tecnología más avanzada (radio, discos y películas) para divulgar su mensaje. Un antiguo ministro de Finanzas escribió que Hitler «era tan profundamente falso que ya no podía reconocer la diferencia entre la ver dad y las mentiras», y los editores de una edición de Mein Kampf describían el libro como «un pantano de mentiras, distorsiones, indirectas, medias verdades y hechos reales». Hitler era un orador y actor eficaz, le recuerda Ullrich a sus lectores, adepto a  usar distintas máscaras y alimentar la energía de sus audiencias. A pesar de que ocultó su antisemitismo bajo un «disfraz de moderación» para ganar el apoyo de las clases medias liberales, se especializó en eventos masivos y teatrales, montados con elementos espectaculares tomados del circo. En opinión de Ullrich, el ascenso del dictador nazi no era inevitable. Se benefició de una «constelación de crisis que supo explotar astutamente y sin escrúpulos»; además de las desgracias económicas y el desempleo, había una «erosión del centro político» y un creciente resentimiento hacia las élites. La poca voluntad de negociación por parte de los partidos políticos alemanes había contribuido a crear una percepción de disfuncionalidad del gobierno, sugiere Ullrich, y fomentó la creencia de que el país necesitaba «un hombre de hierro» que pudiera poner orden. «¿Por qué no darles una oportunidad a los nacionalsocialistas?», dijo un importante banquero al referirse a los Nazis. «A mí me parece que tienen muchas agallas».",
+    "questions": [
+      {
+        "statement": "1. Resulta incompatible afirmar que, en relación a Hitler,",
+        "alternatives": [
+          "A)  era un gran orador y un actor eficaz para cautivar a su audiencia.",
+          "B)  le fascinaba utilizar una gran cantidad de adjetivos superlativos.",
+          "C)  era considerado como un empedernido obsesionado  hacia él mismo.",
+          "D)  era conocido, entre sus colegas, por su capacidad de mentir.",
+          "E)  prodigó su antisemitismo para ganar a las clases medias liberales."
+        ],
+        "correct": 4,
+        "rationale": "Según el biógrafo de Hitler, el alemán ocultó su antisemitismo ante la clase media liberal para ganar sus votos."
+      },
+      {
+        "statement": "2.  Ullrich al calificar a Hitler como « keen eye for the strengths and weaknesses of other people » y « instantaneously analyze and exploit situations », significa que",
+        "alternatives": [
+          "A)  podía ver a través de los sentimientos de las personas, adaptándose a los hechos.",
+          "B)  identificaba las debilidades de las personas para poder adaptarse a la realidad.",
+          "C)  reconocía la personalidad de las personas y la situación en la que se encontraba.",
+          "D)  solo le preocupaba reconocer las fortalezas de los individuos para lograr ventajas.",
+          "E)  podía ver las fortalezas y debilidades de sus enemigos para sacar provecho."
+        ],
+        "correct": 2,
+        "rationale": "Las citas en inglés significan que Hitler sabía reconocer las fortalezas y debilidades de las personas, es decir, la personalidad. Y, además, percibía muy bien el entorno en el que se encontraba."
+      },
+      {
+        "statement": "3.  En el texto, el término MAQUINARIA tiene el sentido contextual de",
+        "alternatives": [
+          "A)  fortaleza.",
+          "B)  constancia.",
+          "C)  totalidad.",
+          "D)  manipulación.",
+          "E)  rapidez."
+        ],
+        "correct": 1,
+        "rationale": "Al manifestar que Hitler apeló a «una hábil maquinaria propagandística que recurría a la tecnología más avanzada (…) para divulgar su mensaje», el término en cuestión da entender que se trató de utilizar recurrentes propagandas: constante."
+      }
+    ]
+  },
+  {
+    "type": "reading_comprehension",
+    "statement": "Las citas en inglés significan que Hitler sabía reconocer las fortalezas y debilidades de las personas, es decir, la personalidad. Y, además, percibía muy bien el entorno en el que se encontraba.",
+    "questions": [
+      {
+        "statement": "En el texto, el término MAQUINARIA tiene el sentido contextual de",
+        "alternatives": [
+          "A)  fortaleza.",
+          "B)  constancia.",
+          "C)  totalidad.",
+          "D)  manipulación.",
+          "E)  rapidez."
+        ],
+        "correct": 1,
+        "rationale": "Al manifestar que Hitler apeló a «una hábil maquinaria propagandística que recurría a la tecnología más avanzada (…) para divulgar su mensaje», el término en cuestión da entender que se trató de utilizar recurrentes propagandas: constante."
+      },
+      {
+        "statement": "Si los partidos a lemanes no hubieran creado una percepción de disfuncionalidad del gobierno,",
+        "alternatives": [
+          "A)  Alemania habría evitado provocar la Segunda Guerra Mundial.",
+          "B)  el gobierno alemán no estaría pasando por una crisis económica.",
+          "C)  Hitler, indefectiblemente, hubiera participado de la política alemana.",
+          "D)  no se habría ideado la necesidad de tener un “hombre de hierro”.",
+          "E)  ningún banquero alemán hubiera apoyado al nacionalsocialismo."
+        ],
+        "correct": 3,
+        "rationale": "Ullrich señala que producto de esta percepción y otros factores, fortalecieron la idea de necesitar una persona con carácter para enfrentar la crisis que se vivía."
+      },
+      {
+        "statement": "Se deduce del texto que Hitler, según los comentarios de su entorno cercano, probablemente padecía de",
+        "alternatives": [
+          "A)  cleptomanía.",
+          "B)  mitomanía.",
+          "C)  una patología mental.",
+          "D)  una severa vesania.",
+          "E)  esquizofrenia."
+        ],
+        "correct": 1,
+        "rationale": "La mayoría del entorno cercano califica a Hitler como una persona que mentía sin pudor, entonces cabe la posibilidad de que fuera un mitómano."
+      }
+    ]
+  },
+  {
+    "type": "reading_comprehension",
+    "statement": "La relación con los animales en España refleja la pugna de dos visiones: una que busca progresar y otra, más acomodada, que prefiere que nada cambie. El avance de los derechos de los animales es todavía débil, pero cada día crece una sensibilidad que ve brutalidad en las fiestas con animales en vez de cultura y valor histórico. Está motorizada , además, por el activismo de movimientos organizados cuya influencia aumenta con ayuda de las redes sociales. Y se expresa en otros avances, aparte de las regulaciones locales. Un tribunal impuso en septiembre la mayor condena de la historia por maltrato animal: un año de cárcel a ganaderos de una granja en Murcia (no fueron a prisión, la ley es todavía limitada). Pacma, el único partido animalista de España, suma votos en cada elección, aunque aún no consigan escaños, a causa del sistema electoral. Crecen los santuarios para animales. Son pasos adelante, frágiles, sí, pero abren espacios. Las transformaciones de calado son lentas. Nunca serán completas mientras se conserven tradiciones soportadas en la crueldad. La abolición total de estas prácticas, incluidas las corridas de toros, encarnaría una protección efectiva de estos seres sintientes, como los declaró la Unión Europea en 2009, y una consecuente evolución del pensamiento social. Es tan simple. Cualquier diferencia se disuelve en el respeto de un principio básico que olvidamos con frecuencia: que todos tenemos, animales humanos y no, el mismo derecho a estar vivos.",
+    "questions": [
+      {
+        "statement": "Fundamentalmente, el texto se centra en",
+        "alternatives": [
+          "A)  los animales no humanos y su derecho a la vida.",
+          "B)  la relación con los animales no humanos en España.",
+          "C)  las fiestas con animales como signo de brutalidad.",
+          "D)  la mayor condena de la historia por maltrato animal.",
+          "E)  los seres sintientes y la evolución del pensamiento."
+        ],
+        "correct": 0,
+        "rationale": "La reflexión del autor del texto se centra alrededor del derecho a la vida de los animales que no son humanos."
+      },
+      {
+        "statement": "Resulta compatible con el texto señalar que",
+        "alternatives": [
+          "A)  solo los animales humanos tienen derecho a vivir.",
+          "B)  en  España existe más de dos pugnas de visiones.",
+          "C)  el avance de los derechos de los animales es rauda.",
+          "D)  Pacma es el único partido animalista en España.",
+          "E)  las tradiciones soportadas en crueldad son benéficas."
+        ],
+        "correct": 3,
+        "rationale": "Es correcto afirmar que Pacma es el único partido que reivindica los derechos de los animales no humanos."
+      },
+      {
+        "statement": "El vocablo MOTORIZADO tiene el significado contextual de",
+        "alternatives": [
+          "A)  guiar.",
+          "B)  sostener.",
+          "C)  orientar.",
+          "D)  justificar.",
+          "E)  promover."
+        ],
+        "correct": 4,
+        "rationale": "El término en cuestión adquiere el significado de promover , pues son los activistas quienes motivan esta lucha por los animales no humanos."
+      },
+      {
+        "statement": "4. Deduce del texto que el autor muestra una actitud, en relación a lucha de los derechos de los animales,",
+        "alternatives": [
+          "A)  ambigua.",
+          "B)  pesimista.",
+          "C)  tradicional.",
+          "D)  radical.",
+          "E)  optimista."
+        ],
+        "correct": 4,
+        "rationale": "La actitud del autor es optimista, ya que los pasos que se han dado en la defensa de los derechos de los animales no humanos, a pesar de ser pequeños, son significativos."
+      },
+      {
+        "statement": "5. Si se demostrara que en las corridas de toros, estos se mostraran impávidos,",
+        "alternatives": [
+          "A)   la Unión Europea no rechazaría la abolición de prácticas muy cruentas contra los animales.",
+          "B)   esto no menoscabaría el reclamo principal del  autor: todo animal no humano tiene derecho a vivir.",
+          "C)   el partido Pacma abandonaría la reivindicación de los derechos de los animales no humanos.",
+          "D)  no tendría ningún sentido establecer santuarios para la protección de los animales no humanos.",
+          "E)   mermaría de manera considerable el avance de los derechos de los animales no humanos."
+        ],
+        "correct": 1,
+        "rationale": "Si tal fuera el caso, ello no le quitaría asidero a lo que el autor finalmente reclama: el respeto a la vida de los animales no humanos."
+      }
+    ]
+  },
+  {
+    "type": "reading_comprehension",
+    "statement": "El Popol Vuh es sin lugar a dudas el más importante de los textos mayas que se conservan. Se distingue no solo por su extraordinario contenido histórico y mitológico, sino por sus cualidades literarias, las que permiten que se le pueda colocar a la altura de grandes obras épicas como el Ramayana hindú o la Ilíada y la Odisea griegas. Como estas, el Popol Vuh no es un simple registro histórico, es a final de cuentas –como bien ha dicho Alan J. Christenson, autor de un reciente estudio y una traducción del texto quiché – una declaración universal sobre la naturaleza del mundo y el papel del hombre en él. El contenido se puede dividir en los siguientes apartados: la creación, los héroes divinos y la historia del linaje quiché. La segunda sección trata sobre los  héroes divinos. Además del recuento de la creación del mundo y los hombres, en el Popol Vuh se relatan las aventuras de los héroes divinos, que limpian de obstáculos al mundo para el hombre y establecen las pautas de conducta adecuada para la humanidad. En esta parte del libro, los protagonistas son varias parejas, comenzando por Xpiyacoc y Xmucané. Sus descendientes, Uno y Siete Hunahpú procrearon juntos a otra pareja de gemelos llamados Hunahpú y Xbalanqué, cuya madre fue Xkik’, hija del señor del inframundo. Las aventuras de estos dos últimos gemelos transcurren en dos escenarios. El primero es la superficie de la tierra; el segundo, el inframundo, el Xibalbá. Los eventos en cada escenario aparecen combinados: los héroes pasan de la faz de la tierra al inframundo y viceversa. Esos movimientos, con los de los otros participantes en las historias, prefiguran los movimientos del Sol, la Luna, los planetas y las estrellas. Al final de la saga, Hunahpú se eleva para convertirse en el Sol y es seguido por Xbal anqué, quien asume el papel de la Luna llena.\n\nTomado de http://arqueologiamexicana.mx/mexico -antiguo/el -popol -vuh-el-libro-sagrado - de-los-mayas",
+    "questions": [
+      {
+        "statement": "Medularmente, el texto aborda el tema de",
+        "alternatives": [
+          "A)  las luchas en la tierra y el inframundo de los gemelos.",
+          "B)  la historia de los héroes divinos en el Popol Vuh.",
+          "C)  las raíces históricas del libro sagrado de los mayas.",
+          "D)  las grandes obras épicas de la antigüedad europea.",
+          "E)  la creación del mundo en la antigua Mesoamérica."
+        ],
+        "correct": 1,
+        "rationale": "El texto aborda me dularmente los hechos referidos en el Popol Vuh en torno a los personajes divinos de origen maya hasta llegar a la lucha entre estos y los dioses del inframundo."
+      },
+      {
+        "statement": "Se condice con lo expresado en el texto, en cuanto a la opinión de Alan J. Christenson, que el Popol Vuh puede considerarse",
+        "alternatives": [
+          "A)  un texto de esencia sagrada y de contenido metafísico.",
+          "B)  la revelación de una historia ignota para los mexicanos.",
+          "C)  un manifiesto ecuménico sobre el cosmos y el ser humano.",
+          "D)  la negación de la tesis de una creación única de las personas",
+          "E)  el reconocimiento de la capacidad creativa de un pueblo."
+        ],
+        "correct": 2,
+        "rationale": "El texto propone que Christenson piensa que el Popol Vuh es «una declaración universal sobre la naturaleza del mundo y el papel del hombre en él»."
+      },
+      {
+        "statement": "En el texto, la palabra PREFIGURAR equivale a",
+        "alternatives": [
+          "A) dibujar",
+          "B) interponer",
+          "C) soslayar",
+          "D) preferir",
+          "E) anticipar"
+        ],
+        "correct": 4,
+        "rationale": "En el texto,  la palabra “prefigurar” se usa en el sentido de anticiparse a una ocurrencia, en este caso, el del movimiento de los cuerpos celestes."
+      }
+    ]
+  },
+  {
+    "type": "reading_comprehension",
+    "statement": "El texto propone que Christenson piensa que el Popol Vuh es «una declaración universal sobre la naturaleza del mundo y el papel del hombre en él».",
+    "questions": [
+      {
+        "statement": "En el texto, la palabra PREFIGURAR equivale a",
+        "alternatives": [
+          "A)  dibujar.",
+          "B)  interponer.",
+          "C)  soslayar.",
+          "D)  preferir.",
+          "E)  anticipar"
+        ],
+        "correct": 4,
+        "rationale": "En el texto,  la palabra “prefigurar” se usa en el sentido de anticiparse a una ocurrencia, en este caso, el del movimiento de los cuerpos celestes."
+      },
+      {
+        "statement": "Se puede inferir del texto que las acciones finales de Hunahpú y Xbalanqué los definen como personajes",
+        "alternatives": [
+          "A)  históricos.",
+          "B)  tectónicos.",
+          "C)  lúdicos.",
+          "D)  mitológicos.",
+          "E)  mágicos."
+        ],
+        "correct": 3,
+        "rationale": "La conversión de estos dos personajes en el sol y la luna llena los dimensionan todavía con más fuerza como personajes mitológicos, pues explican cómo se originaron estos cuerpos celestes."
+      },
+      {
+        "statement": "Si el Popol Vuh careciera de los logros literarios que ostenta, entonces",
+        "alternatives": [
+          "A)  fuera más relevante que la Ilíada y la Odisea.",
+          "B)  tendría solo valor histórico, pero no mitológico.",
+          "C)  no hubiera trascendido como una obra canónica.",
+          "D)  la creación del mundo no sería uno de sus temas.",
+          "E)  sería ininteligible para los propios compositores."
+        ],
+        "correct": 2,
+        "rationale": "El texto afirma que, junto a los méritos históricos y mitológicos, son las cualidades literarias del Popol Vuh las que lo han encumbrado hasta hacerla partícipe del grupo selecto de grandes textos épicos de la humanidad."
+      }
+    ]
+  }
+]

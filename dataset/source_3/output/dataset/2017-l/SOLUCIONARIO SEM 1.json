@@ -1,0 +1,445 @@
+[
+  {
+    "type": "reading_comprehension",
+    "statement": "La tecnología digital nos ha bendecido con mejores formas de capturar y diseminar noticias. Hay cámaras y grabadoras de audio en todas partes; apenas algo sucede, automáticamente aparece evidencia de primera mano en línea. Uno pensaría que esta documentación de primera mano conduciría a un mejor consenso cultural en cuanto a la «verdad» . De hecho, ha ocurrido lo opuesto. Consideremos la diferencia en los ejemplos del asesinato de John F. Kennedy y el 11 de septiembre. Aunque es probable que hayamos visto el único video que hay de la escena en la Plaza Dealey en 1963 cuando el presidente Kennedy recibió un disparo, cientos de cámaras de televisión y de aficionados grabaron lo que sucedió el 9/11. Sin embargo, ninguno de estos temas está zanjado para los estadounidenses; en una encuesta reciente, casi el mismo número de personas opinó que el gobierno estaba ocultando la verdad del ataque a las Torres Gemelas , así como del asesinato de Kennedy. Las pruebas documentales parecen haber perdido valor. Si las conspiraciones sobre Kennedy se basaran en la ausencia de evidencias documentales, las teorías del 9/11 se beneficiarían de un exceso de pruebas. La cantidad de imágenes del 9/11 que inundaron internet fue tal, a menudo sin mucho contexto de lo que estaba ocurriendo, que los teóricos de la conspiración tenían mucho de dónde elegir para consolidar la narrativa de su preferencia. Además, está el fantasma de Photoshop al acecho: ahora, debido a que cualquier imagen digital se puede manipular, la gente puede desechar sin ningún reparo cualquier prueba documental inconveniente diciendo que fue alterada. Con esto llegamos al meollo del asunto: todos tendemos a filtrar evidencia documental pasándola por nuestros propios sesgos. Los investigadores han demostrado que «[…] two people with differing points of view can look at the same picture, video or document and come away with strikingly differe nt ideas about what it shows ». Esta dinámica se ha visto en repetidas ocasiones a lo largo de este año. Algunas personas ven las revelaciones de WikiLeaks de la campaña de Clinton y piensan que son una prueba irrefutable, en tanto que otras dicen que no es para tanto y que, además, se han manipulado, fueron robadas o que están fuera de contexto. Las encuestas muestran que los seguidores de Trump consideraron que la cinta de Access Hollywood en la que Trump dice sin ningún tapujo que toca inadecuadamente a las mujeres era una charla entre hombres ; los que no apoyan a Trump creen que es nefasta. Recuperado de < https://www.nytimes.com/es/2016/11/10/en -internet -la-verdad -no-es-como -la-pintan/>.",
+    "questions": [
+      {
+        "statement": "¿Cuál es el tema central del texto?",
+        "alternatives": [
+          "A) Las diferentes maneras de procesar y cribar la información en la era digital",
+          "B) La manipulación de datos sobre Trump durante la campaña presidencial",
+          "C) Las diferentes herramientas para documentar la información actualmente",
+          "D) Las propuestas tecnológicas sobre la difusión de información en la internet",
+          "E) El consenso cultural sobre ciertos eventos gracias a las nuevas tecnologías"
+        ],
+        "correct": 0,
+        "rationale": "El autor del texto se centra en la forma diferenciada que, a pesar de la mayor documentación gráfica gracias a la internet, signa la era digital."
+      },
+      {
+        "statement": "En la cita textual , la expresión STRIKINGLY DIFFERENT implica",
+        "alternatives": [
+          "A) extrema dilación.",
+          "B) distancia insuperable.",
+          "C) inopinada contraposición .",
+          "D) grave denuncia.",
+          "E) eminente retroceso."
+        ],
+        "correct": 2,
+        "rationale": "La expresión  «strikingly different » alude a dos puntos de vista sobre el mismo hecho documentado que son completa y sorprendentemente diferentes. En consecuencia, se vincula con una CONTRAPOSICIÓN INESPERADA."
+      },
+      {
+        "statement": "La palabra CONSOLIDAR en el texto connota",
+        "alternatives": [
+          "A) expresividad.",
+          "B) sustentación .",
+          "C) sutileza .",
+          "D) debilitamiento.",
+          "E) delación."
+        ],
+        "correct": 1,
+        "rationale": "El vocablo se usa para referirse a la solidez de una propuesta. En tanto que tal, se vincula conceptualmente con el vocablo SUSTENTACIÓN."
+      },
+      {
+        "statement": "Se deduce del texto que los sofisticados instrumentos tecnológicos que se usan actualmente",
+        "alternatives": [
+          "A) han posibilitado consensuar sobre la veracidad de un hecho .",
+          "B) han determinado la verosimilitud de las causas de un evento .",
+          "C) harían posible la sustentación indiscutible de un evento público .",
+          "D) permitirían adulterar con mayor sutileza cualquier dato visual .",
+          "E) se constituyeron en el soporte de toda base argumentativa."
+        ],
+        "correct": 3,
+        "rationale": "Se indica en el texto que una imagen puede retrucarse con Photoshop, razón por la cual la gente desestima la información visual."
+      },
+      {
+        "statement": "Resulta incompatible aseverar que la «verdad» acerca de un hecho concreto",
+        "alternatives": [
+          "A) razonablemente se construye de manera muy frágil .",
+          "B) se alcanza objetivamente gracias a las tecnologías .",
+          "C) se diversifica de manera acusada en la era digital .",
+          "D) es definida mediante sesgos de carácter subjetivo .",
+          "E) implica, en la mayoría de casos, un desacuerdo."
+        ],
+        "correct": 1,
+        "rationale": "No existe una forma objetiva de arribar a la «verdad» acerca de un hecho, puesto que actualmente la evidencia visual deriva en un arraigado recelo . Por otra parte, a pesar de la abundancia de información visual, estamos lejos de definirla en términos consensuados."
+      }
+    ]
+  },
+  {
+    "type": "synonyms_and_antonyms",
+    "statement": "3. La palabra INTEGRAL connota mayor",
+    "alternatives": [
+      "A) sencillez.",
+      "B) facilidad.",
+      "C) complejidad.",
+      "D) premura.",
+      "E) ligereza."
+    ],
+    "correct": 2,
+    "rationale": "permitiría «[…] prevenir, sancionar y erradicar la violencia contra las mujeres ». Por lo tanto, esta ley evidencia una mayor complejidad en cuanto a su concepción."
+  },
+  {
+    "type": "reading_comprehension",
+    "statement": "La mayoría de la sociedad son monstruos, pero algunas mujeres ven a los violentos criminales como machos viriles y atractivos, hombres que pueden transformar y redimir a través de su amor, o niños indefensos que deben proteger.  Ejemplo de estos novios inusuales son el octogenario estadounidense  Charles  Manson , que está condenado a cadena perpetua por haberle ordenado a los seguidores de su culto el asesinato de 9 personas hace casi medio siglo. No hay una única respuesta para explicar este fenómeno tan extraño como minoritario, pero la psicología sí tiene un nombre para definirlo:  hibristofilia , la atracción sexual por las personas que «cometieron una atrocidad o un crimen, como una violación, un asesinato o un robo armado». Fue el prominente  psicólogo  y sexólogo  John Money  quien acuñó el término por primera vez en los años 50. Con él describía un fenómeno que para él era patológico y que afectaba sobre todo a las mujeres heterosexuales. Como todas las parafilias, la hibristofilia define una forma de obtención del placer sexual que se desvía  de lo considerado estándar. No existen muchos estudios científicos sobre la hibristofilia ni datos sobre cuánta gente tiene tendencias hibristófilas, ya que no es una enfermedad sino una preferencia sexual que se puede manifestar en distintos grados de intensidad. Pero las razones aún tenues para explicar la motivación detrás de esta inusual atracción sexual son variadas y no exentas de especulación . La mayoría, según la psicóloga forense Katherine Ramsland, creía que con su amor podrían transformar a estos hombres malos y redimirlos. Otras mujeres hibristófilas, según Ramsland se acercan movidas por un factor casi maternal a los criminales: sienten compasión, pena o incluso ternura por el hombre encarcelado a pesar de la atrocidad cometida y tienen una tendencia a proteger al niño que alguna vez fueron. Un tercer grupo de mujeres, el más pequeño, según Ramsland, quiere compartir parte de la fama y la atención mediática de sus notorios amantes criminales, algunas con la esperanza de llegar a firmar un contrato para una película o un libro.  BBC. (2017). «Hibristofilia: ¿por qué a algunas mujeres les atraen sexualmente los criminales?». En  BBC Mundo . Recuperado de <ht tp://www.bbc.com/mundo/noticias -39267285?ocid=  socialflow _facebook>.",
+    "questions": [
+      {
+        "statement": "1. El tema central del texto es",
+        "alternatives": [
+          "A) los tipos de mujeres que prefieren relacionarse sexualmente con criminales .",
+          "B) la carencia de datos estadísticos sobre el número de mujeres con hibristofilia.",
+          "C) definición y causas de la hibristofilia o atracción sexual hacia los criminales .",
+          "D) la motivación maternal que ocasiona la atracción sexual hacia los criminales.",
+          "E) la investigación de Katherine Ramsland sobre las causas de la hibristofilia ."
+        ],
+        "correct": 2,
+        "rationale": "El tema central es la hibristofilia o inclinación sexual hacia los criminales. En tanto que tal, el texto se enfoca en la definición de esta preferencia sexual y las posibles causas."
+      },
+      {
+        "statement": "2. En el texto , el vocablo se usa para indicar que la hibristofilia es una preferencia sexual diferente y poco común.",
+        "alternatives": [
+          "A) inmoral .",
+          "B) extravagante.",
+          "C) retorcido .",
+          "D) inocuo .",
+          "E) sinuoso ."
+        ],
+        "correct": 1,
+        "rationale": "En tal sentido, esta inclinación por los asesinos es extravagante; a saber, rara, extraña, desacostumbrada."
+      },
+      {
+        "statement": "3. A la luz de la propuesta de la psicóloga forense Katherine Ramsland, resultaría compatible afirmar que las ca usas potenciales de la hibristofilia",
+        "alternatives": [
+          "A) se dilucidan a partir de los múltiples casos que se han documentado .",
+          "B) involucran, en ciertos casos, sentimientos de repulsión y desprecio .",
+          "C) comprenden, entre otras, un afán por hacer que el criminal cambie.",
+          "D) se circunscriben al ámbito orgánico, específicamente neuronal .",
+          "E) son importantes para el tratamiento de esta enfermedad incurable ."
+        ],
+        "correct": 2,
+        "rationale": "Las causas son de carácter emocional o afectivo, de manera que la única causa concordante con la de la autora es la consideración de un grupo de féminas supone que es capaz de cambiar al criminal."
+      }
+    ]
+  },
+  {
+    "type": "reading_comprehension",
+    "statement": "En el texto , el vocablo se usa para indicar que la hibristofilia es una preferencia sexual diferente y poco común. En tal sentido, esta inclinación por los asesinos es extravagante; a saber, rara, extraña, desacostumbrada.",
+    "questions": [
+      {
+        "statement": "3. A la luz de la propuesta de la psicóloga forense Katherine Ramsland, resultaría compatible afirmar que las causas potenciales de la hibristofilia",
+        "alternatives": [
+          "A) se dilucidan a partir de los múltiples casos que se han documentado .",
+          "B) involucran, en ciertos casos, sentimientos de repulsión y desprecio .",
+          "C) comprenden, entre otras, un afán por hacer que el criminal cambie.",
+          "D) se circunscriben al ámbito orgánico, específicamente neuronal .",
+          "E) son importantes para el tratamiento de esta enfermedad incurable ."
+        ],
+        "correct": 2,
+        "rationale": "Las causas son de carácter emocional o afectivo, de manera que la única causa concordante con la de la autora es la consideración de un grupo de féminas supone que es capaz de cambiar al criminal."
+      },
+      {
+        "statement": "4. Es incompatible afirmar, de acuerdo con el texto, que el sector más amplio de mujeres hibristófilas",
+        "alternatives": [
+          "A) está motivado por sentimientos edificantes que  implican el cambio del criminal .",
+          "B) evidencia un afán de protagonismo que se satisfaría con la fama del criminal.",
+          "C) considera que lograr el cambio de la conducta criminal es un objetivo plausible .",
+          "D) asume como fuerza de cambio conductual el amor que le prodigarían al criminal .",
+          "E) se siente con el poder de aliviar el dolor del criminal y rescatarlo de su condición ."
+        ],
+        "correct": 1,
+        "rationale": "El texto es claro al respecto: el sector más pequeño de mujeres anhela compartir la fama y la atención mediática que suscita el criminal ."
+      },
+      {
+        "statement": "5. Es deducible del desarrollo textual que los estudios acerca de la hibristofilia",
+        "alternatives": [
+          "A) han determinado cuántos son los grados de intensidad de esta preferencia .",
+          "B) se reducen a los que llevó a cabo la psicóloga forense Katherine Ramsland .",
+          "C) se iniciaron con la propuesta de la psicóloga forense Katherine Ramsland .",
+          "D) procuran dilucidar las variables que intervienen en su ocurrencia marginal .",
+          "E) demostraron su infalibilidad en lo tocante a la población que la desarrolla ."
+        ],
+        "correct": 3,
+        "rationale": "La psicóloga forense plantea algunas causas tentativas, de manera que los pocos estudios al respecto presentan como reto este aspecto ."
+      },
+      {
+        "statement": "6. Si las mujeres entrevistadas por Katherine Ramsland hubieran recibido un tratamiento exitoso que devino en el rechazo de los criminales, posiblemente",
+        "alternatives": [
+          "A) la denominación planteada por  John  Money  habría carecido de aceptación .",
+          "B) la pretensión de cambio en el criminal se habría intensificado en los 90.",
+          "C) las mujeres que desean protagonismo conformarían el sector más grande .",
+          "D) los criminales dejarían de ser requeridos por mujeres heterosexuales .",
+          "E) la consideración de la hibristofilia como una enfermedad sería razonable ."
+        ],
+        "correct": 4,
+        "rationale": "En el texto se señala que no es una enfermedad, sino una preferencia sexual. Si las mujeres hubieran sido tratadas con éxito, entonces podría especularse que la hibristofilia es una patología pasible de cura."
+      }
+    ]
+  },
+  {
+    "type": "reading_comprehension",
+    "statement": "Entre las diferencias morfológicas en los dialectos castellanos que son comparables , hay dos, ambas relacionadas con los pronombres de segunda persona y formas verbales correspondientes, que saltan  inmediata mente a la vista: la distinción entre vosotros  y ustedes , que se practica solo  en España, y el uso de vos en lugar de tú en Argentina. Los sistemas de formas de tratamiento que encontramos en estos cuatro dialectos son, pues, los que s e indican en el cuadro (para México y San Juan son idénticos).\n\nEl uso de vos como forma de tratamiento se conoce como voseo. El voseo es un fenómeno hoy en día desconocido en España pero que tiene amplia difusión en el español del Nuevo Mundo, dándose en amplias zonas de Centroamérica y Sudamérica.\nEn general, en la mayoría de las  zonas donde se practica, el voseo en el habla familiar coexiste con el empleo de tú en registros algo más formales. Esto es, vos suele indicar mayor intimidad que tú en regiones en que se utilizan ambas formas. En Argentina, sin embargo, el tuteo ha desaparecido totalmente. En el voseo argentino, las formas verbales derivan de las de vosotros por monoptongación: vos sos, cantás , perdés , salís (cf. vosotros  sois, cantáis , perdéis , salís). En cuanto a las formas pronominales, el sistema es etimológicamente mixto: la forma vos se usa como sujeto y como objeto de preposición, mientras que el pronombre átono es te: vos te levantás ; te lo doy a vos . El posesivo es también tu: acá tenés tu libro .\n\nHualde, José. (2010). «Historia de la lengua española ». Em Introducción a la lingüística hispánica, p.329.\nCambridge, Cambridge University Press.",
+    "questions": [
+      {
+        "statement": "1. El tema central del texto es",
+        "alternatives": [
+          "A) las diferencias dialectales entre la lengua castellana hablada en Sudamérica y Europa.",
+          "B) el voseo como característica  idiosincrática del dialecto hispano hablado en Sudamérica.",
+          "C) la flexión verbal de segunda persona en España y su dominancia en el mundo hispano.",
+          "D) el uso del vos y el vosotros  para definir diferencias dialectales de tipo morfológico en el castellano.",
+          "E) la derivación de la forma vos detectable en el dialecto español de Argentina a partir de vosotros ."
+        ],
+        "correct": 3,
+        "rationale": "El texto aborda las formas vos y vosotros  como evidencia de las diferencias dialectales de tipo morfológico."
+      },
+      {
+        "statement": "2. El término FAMILIAR alude a un registro",
+        "alternatives": [
+          "A) vulgar.",
+          "B) coloquial.",
+          "C) chabacano.",
+          "D) esencial.",
+          "E) cariñoso."
+        ],
+        "correct": 1,
+        "rationale": "El vocablo se usa a fin de confrontar un tipo de registro descuidado con otro de tipo formal. Por consiguiente, FAMILIAR es sinónimo de COLOQUIAL."
+      }
+    ]
+  },
+  {
+    "type": "reading_comprehension",
+    "statement": "El texto aborda las formas vos y vosotros  como evidencia de las diferencias dialectales de tipo morfológico.",
+    "questions": [
+      {
+        "statement": "El término FAMILIAR alude a un registro",
+        "alternatives": [
+          "A) vulgar.",
+          "B) coloquial.",
+          "C) chabacano.",
+          "D) esencial.",
+          "E) cariñoso."
+        ],
+        "correct": 1,
+        "rationale": "El vocablo se usa a fin de confrontar un tipo de registro descuidado con otro de tipo formal. Por consiguiente, FAMILIAR es sinónimo de COLOQUIAL."
+      },
+      {
+        "statement": "Resulta incompatible con el texto y la imagen afirmar que las formas de tratamiento de segunda persona en los dialectos hispanos",
+        "alternatives": [
+          "A) presentan una correspondencia simétrica entre México y San Juan.",
+          "B) cambian en Argentina para la flexión de 2.ª persona singular informal.",
+          "C) son, en cuanto a sus correspondencias, completamente asimétricas.",
+          "D) se corresponde con la variante informal vosotros  usada en España.",
+          "E) se explicitan a través de variantes de tipo informal y de carácter formal."
+        ],
+        "correct": 2,
+        "rationale": "Las formas de 2.ª persona de respeto son idénticas en todos los dialectos hispanos."
+      },
+      {
+        "statement": "Es posible colegir acerca de la diversidad dialectal del castellano que",
+        "alternatives": [
+          "A) esta comprende niveles gramaticales diversos como el componente semántico o",
+          "B) los rasgos de mayor relevancia en el mundo hispano actual son los que se lingüísticas.",
+          "D) los lingüistas son capaces de establecer relaciones jerarquizadas entre las",
+          "E) el mosaico de datos a los que hace referencia el autor son suficientes para ponderar el dialecto bonaerense."
+        ],
+        "correct": 0,
+        "rationale": "En el texto se hace referencia a la diversidad dialectal en términos morfológicos, pero eso no quiere decir que sea el único nivel en el que esta se evidencie."
+      },
+      {
+        "statement": "Si los sistemas lingüísticos se caracterizaran por la uniformidad sistemática , independientemente del lugar en el que se expliciten, posiblemente",
+        "alternatives": [
+          "A) el español de Buenos Aires sería la única variedad dialectal aceptada.",
+          "B) bastaría a nivel conceptual usar únicamente el concepto de lengua.",
+          "C) los rasgos morfológicos tendrían que formar categorías más complejas.",
+          "D) la sintaxis en las lenguas sería un nivel innecesario para describirlas.",
+          "E) los estudiosos rechazarían el concepto de lengua por resultar trivial."
+        ],
+        "correct": 1,
+        "rationale": "Los dialectos son variaciones de una lengua. Si esta fuera uniforme en todos los casos, el concepto de dialecto sería innecesario y bastaría solo el de sistema lingüístico (o lengua)."
+      }
+    ]
+  },
+  {
+    "type": "reading_comprehension",
+    "statement": "«Ir al colegio es una pesadilla; me pegan, me insultan, me ponen apodos». Todo esto le sucede a Sebastián, solo por ser un estudiante aplicado y usar anteojos. Su caso no es aislado: golpes, insultos, burlas y miedo forman parte del día a día de millones d e escolares en el país.  Según información de los colegios públicos y privados afiliados al Sistema de reporte de casos sobre violencia escolar, SíseVe, del Ministerio de Educación, entre el 15 de setiembre de 2013 y el 30 de abril de 2016, un total de 6 300 estudiantes denunciaron ser víctimas de violencia en los colegios. Para la directora de la institución Acción y Desarrollo, Yanet Palomino, esta estadística solo representa  el 20% de los casos de violencia escolar existente. «Se puede decir que no hay ningún centro educativo libre de acoso escolar y bullying . Los indicadores de maltrato en las escuelas son altos y, lamentablemente, la mayoría de estas situaciones no son denunciadas», subraya. La gran mayoría de niños que al día son víctimas de la violencia  escolar en el Perú no cuentan  nada por miedo y a la sensación de impunidad ante estas situaciones.  Los casos más agresivos de bullying  culminan en asesinatos y más niños se suicidan  abrumados por los maltratos que reciben en sus colegios, señala la socióloga Ana María Acevedo, de la institución Fomento de la Vida (Fovida).  «Resolver este problema es crucial. Hay diversos factores en juego como la salud mental de los alumnos, rendimiento escolar, la seguridad y el desarrollo de un país [...] . Algunos educad ores minimizan la gravedad del acoso escolar, aduciendo que se trata de un juego que siempre ha existido y que no hay que preocuparse» . Fuente: RPP <rpp.pe>",
+    "questions": [
+      {
+        "statement": "El tema que centralmente se aborda en el texto es",
+        "alternatives": [
+          "A) los casos registrados de bullying en colegios de provincias del Perú.",
+          "B) el problema del maltrato escolar en escuelas particulares del Perú.",
+          "C) el bullying en Perú a la luz de un reporte del Ministerio de Educación.",
+          "D) las medidas tomadas por el Estado peruano para enfrentar el bullying .",
+          "E) el desarrollo económico peruano y su ralentización por el bullying."
+        ],
+        "correct": 2,
+        "rationale": "En el texto se desarrolla el tema del bullying  en las escuelas peruanas a propósito de un reporte del Ministerio de Educación, obtenido a través del SíseVe."
+      },
+      {
+        "statement": "En el texto, el sinónimo de la palabra CONTAR es",
+        "alternatives": [
+          "A) considerar.",
+          "B) numerar.",
+          "C) computar.",
+          "D) disponer.",
+          "E) confesar."
+        ],
+        "correct": 4,
+        "rationale": "El término se usa para hacer referencia al acto de denunciar la agresión que se padece en la escuela. En tal sentido, el sinónimo adecuado es CONFESAR."
+      }
+    ]
+  },
+  {
+    "type": "reading_comprehension",
+    "statement": "El problema permanecería, puesto que los indicadores arrojan que casi el 40% de casos de abuso provienen de los adultos. De acuerdo con Noam Chomsky, uno de los intelectuales más críticos del sistema político estadounidense, las elecciones presidenciales del 8 de noviembre marcaron no solo uno de los hechos más relevantes de Estados Unidos, sino de la historia humana en general, pues el proceso derivó en la elección de un candidato que representa una amenaza para el planeta en general : Donald Trump . El considerado mayor intelectual vivo de su país, afirmó que su dicho no es una exageración y remachó que el Partido Republicano (GOP) se dirige al cumplimiento de un objetivo puntual: la destrucción de la vida humana. Por esta razón el intelectual sostiene que esta es una peligrosa situación sin precedentes. Prueba de ello es que el presidente electo retomará la exploración y producción de gas y petróleo, e intensificará la quema de carbón sin necesidad de ofrecer disculpas por semejante acción. Según Chomsky, «The Republican Party has become the most dangerous organization in world history», ya que, entre otras medidas que Chomsky alerta durante el periodo de transición hacia la toma de posesión, están el que Trump haya iniciado el desmantelamiento de la Agencia de Protección Ambiental de EU (EPA), al nombrar como su hombre ahí a Myron Ebell, un muy conocido negacionista del cambio climático, y proponer como principal asesor en energía a Harold Hamm . Esta medida ha desatado la reacción del prestigioso climatólogo estadounidense, Michael E. Mann, quien ha presentado un documentado informe sobre el cambio climático y ha usado las redes sociales para manifestarse, tal y como se demuestra en la imagen siguiente. Ángeles, Alejandro (2016). «El logro de Trump: su partido es el más peligroso en la historia del mundo ». Recuperado y adaptado de The Huffington Post.",
+    "questions": [
+      {
+        "statement": "El tema central del texto es",
+        "alternatives": [
+          "A) los efectos del cambio climático producidos por Donald Trump.",
+          "B) la verdadera pesadilla que significa la elección de Donald Trump.",
+          "C) el rechazo de Chomsky y Mann a la elección de Donald Trump.",
+          "D) las pruebas de Trump sobre la inexistencia del cambio climático.",
+          "E) la elección de Myron Ebell  como parte de los asesores de Trump."
+        ],
+        "correct": 2,
+        "rationale": null
+      },
+      {
+        "statement": "En el texto la cita «The Republican Party has become the most dangerous organization in world history » se refiere a",
+        "alternatives": [
+          "A) los aspectos perniciosos de las acciones emprendidas por Harold Hamm, principal asesor en energía de Trump.",
+          "B) los efectos devastadores que se derivarán del cambio climático ocasionado por el ahora presidente Donald Trump.",
+          "C) la medida genocida a nivel mundial que ha planificado Donald Trump desde antes de asumir la presidencia de EE.UU.",
+          "D) la crítica a la postura negacionista de Myron Ebell , quien rechaza tajantemente la ocurrencia del cambio climático.",
+          "E) lo pernicioso del Partido Republicano para la vida humana a la luz de personajes cuestionables y acciones condenables."
+        ],
+        "correct": 4,
+        "rationale": null
+      },
+      {
+        "statement": "Resulta incompatible afirmar que la posición de Chomsky sobre la elección de Donald Trump como presidente",
+        "alternatives": [
+          "A) resulta atendible a la luz de ciertas medidas asumidas por este.",
+          "B) es divergente con la posición del climatólogo Michael E. Mann.",
+          "C) está orientada en parte a los perniciosos efectos al medioambiente.",
+          "D) es concordante con un abierto rechazo al nuevo mandatario electo.",
+          "E) apunta a determinar los aspectos cuestionables del entorno de este."
+        ],
+        "correct": 1,
+        "rationale": null
+      },
+      {
+        "statement": "Se deduce del texto que la política de hidrocarburos como el petróleo encabezada por Trump en los próximos años",
+        "alternatives": [
+          "A) demuestra el talante carente de empatía del presidente americano.",
+          "B) se sostiene a partir de un estudio de impacto ambiental de Mann.",
+          "C) resultaría edificante si se consideraran los beneficios económicos.",
+          "D) permitiría que los países en desarrollo obtengan muchas ganancias.",
+          "E) es redituable en casos como el Perú donde la pobreza disminuye."
+        ],
+        "correct": 0,
+        "rationale": null
+      },
+      {
+        "statement": "Si Donald Trump hubiera convocado a especialistas serios como Michael Mann para definir el impacto medioambiental de la quema de carbón, posiblemente",
+        "alternatives": [
+          "A) el Partido Republicano hubiera promovido la vacancia de este.",
+          "B) los efectos devastadores solo se incrementarían en los polos.",
+          "C) la parte legal de las medidas económicas serían cuestionables.",
+          "D) se rescataría la intención de este de tomar medidas razonadas.",
+          "E) desaparecerían los negacionistas del evidente cambio climático."
+        ],
+        "correct": 3,
+        "rationale": null
+      }
+    ]
+  },
+  {
+    "type": "reading_comprehension",
+    "statement": "Una gran coalición de sibaritas eticosos, exportadores orgánicos, chefs, dueños de los mejores restaurantes, políticos desinformados y una legión de talking -heads , calabacitas mediáticas sin ninguna formación científica, tuvo su gran día cuando una promesa  de candidato se hacía realidad y el presidente, aún en olor a multitud, promulgaba la  Ley de Moratoria de Transgénicos  en diciembre del 2011. Esta Ley  en la práctica ha ahuyentado la innovación en el campo con la amenaza de castigar hasta con 10 000 UIT  al agricultor que se atreva a ejercer su libertad de sembrar lo que vea más conveniente para él y sus potenciales clientes. La excusa para semejante legicidio fue que los organismos genéticamente modificados (OGM)  «podrían» dañar nuestra biodiversidad. No importaron los numerosos reportes científicos que señalan que los OGM no han causado, en ningún lugar del mundo, daño a la biodiversidad ni a la salud humana. En realidad, los OGM son los cultivos más regulados de la historia. Aprobar un cultivo transgénico puede tomar  varios años y miles de pruebas de laboratorio y campo.  Por el contrario, los beneficios económicos de los OGM han sido simplemente espectaculares. De 1996 al 2012, los OGM pusieron más de US$58 mil millones extra en los bolsillos de los agricultores de los países en desarrollo y colocaron en el mercado 123 y 230 millones de TM extras de soya y maíz, respectivamente. Los beneficios ambientales no han sido menos espectaculares, pues en ese período se dejaron de aplicar 503 millones de kilos de pesticidas y se contribuyó a una reducción significativa en la emisión de los gases de invernadero. Solo en el 2012 está correspondió a sacar de circulación a casi 12 millones de autos por todo un año. De Estéfano Beltrán, Luis (2014). «Debate: ¿se deben permitir los transgénicos?». En El Comercio. Texto adaptado de <http://elcomercio.pe/opinion/colaboradores/debate -se-permitir -ingreso -transgenicos -noticia - 1756382>.  El Estado Peruano tomó, en el 2011, la decisión de establecer una moratoria de diez años para el ingreso de transgénicos para proteger nuestro valioso patrimonio genético mientras fortalecíamos nuestras capacidades en bioseguridad y creábamos el marco con la introducción de OVM o transgénicos. Existen razones sólidas que lo prueban, aunque existan voces que con poco fundamento y mucha y gratuita agresividad no lo quieran comprender.  Por un lado, la diversidad biológica, y en especial la agrobiodiversidad, se sustentan en prácticas de domesticación y adaptación desarrolladas desde hace miles de años y que siguen, felizmente,  constituyendo la forma y cultura como el productor actual se adapta a los nuevos retos , en la selección, manteniendo  el intercambio de semillas, en la siembra y cosecha, en el uso de métodos y tecnología apropiados  para enfrentar las variables de suelo, c lima, agua, entre otras. Además, nuestra geografía obliga a desarrollar prácticas agrícolas que no se  condicen  con monocultivos, que requieren grandes extensiones de tierra para competir en el mercado. Frente a ello, nuestras condiciones de competencia encuentran mayor coincidencia con la creciente demanda de productos orgánicos. Para competir en ese mercado, requerimos investigar nuestra biodiversidad, como lo vienen haciendo distintas entidades del Estado. Pulgar Vidal, Manuel (2014). «Debate: ¿se deben permitir los transgénicos?». En El Comercio. Texto adaptado de <http://elcomercio.pe/opinion/colaboradores/debate -se-permitir -ingreso -transgenicos -noticia - 1756382>.",
+    "questions": [
+      {
+        "statement": "El problema medular que abordan ambos textos es",
+        "alternatives": [
+          "A) la opinión de muchos cocineros reputados sobre lo perjudicial de los transgénicos.",
+          "B) la permisión de transgénicos en Perú a propósito de la Ley de Moratoria del 2011.",
+          "C) el efecto de los transgénicos en el territorio peruano y su estudio durante el 2014.",
+          "D) la demanda de cultivos orgánicos y la necesidad de vetar los transgénicos en Perú.",
+          "E) el cambio de la Ley de Moratoria que impide el cultivo de productos transgénicos."
+        ],
+        "correct": 1,
+        "rationale": "En efecto, ambas posturas tensionan acerca de permitir los transgénicos en nuestro país. Estas se articulan a propósito de la Ley de Moratoria que impide el cultivo de productos transgénicos en Perú."
+      },
+      {
+        "statement": "En el texto B, la expresión NO SE CONDICEN CON se puede reemplazar por",
+        "alternatives": [
+          "A) son inapropiadas para.",
+          "B) se desvinculan de .",
+          "C) discrepan de .",
+          "D) son imposibles para .",
+          "E) son consistentes con ."
+        ],
+        "correct": 0,
+        "rationale": "La expresión en rigor se refiere a condiciones que no son propicias para los monocultivos . Por consiguiente, es reemplazable por SON INAPROPIADAS PARA."
+      },
+      {
+        "statement": "En el texto A, la palabra TOMAR se puede reemplazar por",
+        "alternatives": [
+          "A) asumir.",
+          "B) adquirir.",
+          "C) requerir."
+        ],
+        "correct": 2,
+        "rationale": "La palabra se refiere al tiempo que podría demandar la aprobación de un producto transgénico, dada la exigente escrupulosidad de las investigaciones previas. Por lo tanto, el vocablo es reemplazable por REQUERIR."
+      },
+      {
+        "statement": "De acuerdo con la postura de De Estefano Beltrán, es correcto afirmar que el elemento persuasivo para evitar los productos agrícolas consiste en",
+        "alternatives": [
+          "A) las tensiones entre biólogos y chefs.",
+          "B) el poder político de los cocineros.",
+          "C) un conjunto de estudios fraudulentos.",
+          "D) un castigo sustentado ilegalmente .",
+          "E) una sanción de carácter pecuniario."
+        ],
+        "correct": 4,
+        "rationale": "El autor sostiene que existe una multa draconiana que consiste en el pago de una suma de hasta 10 000 UIT. Esto es, el elemento que repliega a los agricultores es la sanción económica."
+      },
+      {
+        "statement": "Un posible contraargumento hacia la postura del autor del texto B es que este incurre en un tipo de falacia para defender su propuesta cuando afirma que la domesticación de productos orgánicos es una práctica ancestral que felizmente vive aun hoy. Este pseudoargumento recibe el nombre de",
+        "alternatives": [
+          "A) argumentum  ad misericordiam .",
+          "B) argumentum  ad baculum .",
+          "C) argumentum  ad antiquitatem .",
+          "D) argumentum  ad hominem .",
+          "E) argumentum  ad ignorantiam ."
+        ],
+        "correct": 2,
+        "rationale": "El autor del texto B hace manifiesto lo siguiente: « […] la diversidad biológica, y en especial la agrobiodiversidad, se sustentan en prácticas de domesticación y adaptación desarrollada desde hace miles de años y que siguen, felizmente, constituyendo la forma y cultura ». Esto es, apela a la tradición para validar la prohibición de los trangénicos."
+      },
+      {
+        "statement": "De acuerdo con el texto A, es",
+        "alternatives": [
+          "A) aún se desconoce el impacto de estos en terreno nacional, según Pulgar -Vidal.",
+          "B) se ha demostrado que los productos orgánicos se degradan y devienen en tóxicos .",
+          "C) recién está abordándose el tema con seriedad según el exministro Pulgar -Vidal .",
+          "D) para el autor del texto B, nuestra geografía impide el cultivo de un solo producto.",
+          "E) para De Estéfano los estudios parece rían confirmar más bien su productividad ."
+        ],
+        "correct": 1,
+        "rationale": "los transgénicos . El autor del texto B, si bien desliza la idea, no afirma que existan investigaciones sobre lo dañinos que podrían resultar los transgénicos."
+      }
+    ]
+  },
+  {
+    "type": "sentence_elimination",
+    "statement": "1. ¿Cuáles de los siguientes enunciados son proposiciones?\n\nI) Luis todos los sábados está ocupado.\nII) David venció a Goliat con una honda.\nIII) El inicio del ciclo 2017 -I de la Pre San Marcos es en el mes de abril.\nIV) La ciudad x es famosa por el coliseo.\nV) Habla siempre sobre la crisis económica.",
+    "alternatives": [
+      "A)  I, II y V",
+      "B)  I, II y III",
+      "C)  I y II",
+      "D)  II, III y V",
+      "E) IV y V"
+    ],
+    "correct": 1,
+    "rationale": "I)  Si,   II) Si,   III) Si,  IV) No,  V) No"
+  }
+]

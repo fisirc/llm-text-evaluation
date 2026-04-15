@@ -1,0 +1,184 @@
+[
+  {
+    "type": "sentence_elimination",
+    "statement": "I) El X -49ª es el avión más rápido del mundo. II) Este avión no tripulado se impulsa con una fórmula combinada. III) Este avión supera la velocidad de 8000 Km/H (Mach 9.8) cuando alcanza su altitud de 110 000 pies. IV) La aeronave experimental se denomina X porque no es tripulada, esto es, no es pilotada por personas en su interior. V) Además de todo esto, X -49ª utiliza como combustible de propulsión una fórmula de aire e hidrógeno.",
+    "alternatives": [
+      "A) I",
+      "B) III",
+      "C) II",
+      "D) V",
+      "E) IV"
+    ],
+    "correct": 2,
+    "rationale": null
+  },
+  {
+    "type": "sentence_elimination",
+    "statement": "I) Francisco Goya Lucientes nació en 1746 en el seno de una familia de mediana posición social de Zaragoza. II) Su muerte acaece en Burdeos (Francia) e l 15 de abril de 1828. III) Su padre era un artesano de cierto prestigio cuyas relaciones laborales contribuyeron a la formación artística del célebre pintor. IV) Cuando Francisco tenía poco más de diez años, la familia atravesó dificultades económicas, por lo que el jovencísimo Goya tuvo que ayudar con su trabajo. V) En 1771, Francisco fue a Parma, presentándose a un concurso en el que obtendrá el segundo premio.",
+    "alternatives": [
+      "A) III",
+      "B) IV",
+      "C) I",
+      "D) II",
+      "E) V"
+    ],
+    "correct": 2,
+    "rationale": null
+  },
+  {
+    "type": "sentence_elimination",
+    "statement": "I) primer anticonceptivo oral del mundo. II) Fabricada por el endocrinólogo Gregory Goodwin Pincus, la «píldora» fue uno de los medicamentos con más significado cultural y demográfico. III) Su función era otorgar a la mujer «dominio sobre un viejo demonio, el sistema reproductivo femenino», según Katherine McCormick, que patrocinó la investigación de Pincus. IV) Pincus se hizo famoso en los años treinta, cuando logró la fecundación in vitro de óvulos de conejo. V) La píldora pronto se convirtió en algo cotidiano para millones de mujeres.",
+    "alternatives": [
+      "A) I",
+      "B) III",
+      "C) V",
+      "D) II",
+      "E) IV"
+    ],
+    "correct": 4,
+    "rationale": null
+  },
+  {
+    "type": "sentence_elimination",
+    "statement": "I) El tema de Juana la Loca fue especialmente atractivo para los intelectuales del Romanticismo . II) La reina Juana reunía una serie de características muy queridas por el Romanticismo: la pasión arrebatadora de un amor no correspondido, la locura por desamor y los celos desmedidos. III) La figura de la reina Juana fue muy seductora para los autores adscritos al movimiento romántico. IV) Numerosos artistas consagraron alguna de sus obras al personaje de Juana la Loca: Manuel Tamayo y Baus (Locura de amor ),Emilio Serrano (Doña Juana la Loca ),Lorenzo Vallés (La demencia de doña Juana de Castilla ),(Juana la Loca Tragedia en Cuatro Actos )por Santiago Sevilla. V) La obra más famosa inspirada en la reina fue el cuadro Doña Juana la Loca (1877), de Francisco Pradilla y Ortiz ,actualmente en el Museo del Prado .",
+    "alternatives": [
+      "A) III ",
+      "B) I",
+      "C) IV",
+      "D) V",
+      "E) II"
+    ],
+    "correct": 0,
+    "rationale": null
+  },
+  {
+    "type": "sentence_elimination",
+    "statement": "I) El trastorno bipolar es una enfermedad mental que causa cambios de humor extremos. II) Las personas con trastorno bipolar pueden pasar rápidamente de manía a depresión, y de depresión a manía nuevamente. III) Alguien con trastorno bipolar puede estar deprimido y, luego de unos momentos, mostrar frenesí. IV) La causa de este trastorno puede ser un desequilibrio químico en el cerebro. V). El trastorno bipolar puede ser hereditario y ocurrir en varios miembros de una familia.",
+    "alternatives": [
+      "A) II",
+      "B)I",
+      "C) V",
+      "D) IV",
+      "E) III"
+    ],
+    "correct": 4,
+    "rationale": null
+  },
+  {
+    "type": "sentence_elimination",
+    "statement": "I) Alfred Bernhard Nobel ( Estocolmo -1833) dedicó su vida al estudio de los explosivos en San Petesburgo y Estocolmo. II) En 1865, estableció la fábrica de nitroglicerina más importante de toda Europa. III) En 1866, descubrió la dinamita, cuyo uso se extendió por toda Europa y América. IV) Fue también un gran inventor: desarrolló un método para la destilación continua del petróleo. V) Con la fabricación de explosivos y la explotación de los yacimientos petrolíferos en el Cáucaso, se hizo de una gran fortuna con la que estableció los premios que llevan su nombre.",
+    "alternatives": [
+      "A) III",
+      "B) V",
+      "C) II",
+      "D) IV",
+      "E) I"
+    ],
+    "correct": 3,
+    "rationale": null
+  },
+  {
+    "type": "synonyms_and_antonyms",
+    "statement": "Belicoso, conflictivo, pendenciero,",
+    "alternatives": [
+      "A) brioso.",
+      "B) descortés.",
+      "C) diestro.",
+      "D) tétrico.",
+      "E) pugnaz."
+    ],
+    "correct": 4,
+    "rationale": null
+  },
+  {
+    "type": "synonyms_and_antonyms",
+    "statement": "Señale el término que no pertenece a la serie verbal.",
+    "alternatives": [
+      "A) abatido",
+      "B) entristecido",
+      "C) desolado",
+      "D) estupefacto",
+      "E) afligido"
+    ],
+    "correct": 4,
+    "rationale": null
+  },
+  {
+    "type": "synonyms_and_antonyms",
+    "statement": "Señale el término que no corresponde a la serie verbal.",
+    "alternatives": [
+      "A) prohibido",
+      "B) indebido",
+      "C) vedado",
+      "D) censurado",
+      "E) insólito"
+    ],
+    "correct": 4,
+    "rationale": null
+  },
+  {
+    "type": "synonyms_and_antonyms",
+    "statement": "Señale el término que no corresponde a la serie verbal.",
+    "alternatives": [
+      "A) fausto",
+      "B) infortunado",
+      "C) nefasto",
+      "D) aciago",
+      "E) fatídico"
+    ],
+    "correct": 4,
+    "rationale": null
+  },
+  {
+    "type": "synonyms_and_antonyms",
+    "statement": "Señale el término que no corresponde a la serie verbal.",
+    "alternatives": [
+      "A) hacedero",
+      "B) factible",
+      "C) probable",
+      "D) posible",
+      "E) fragoso"
+    ],
+    "correct": 4,
+    "rationale": null
+  },
+  {
+    "type": "synonyms_and_antonyms",
+    "statement": "Baladí, inútil; baldío, improductivo; procaz, obsceno;",
+    "alternatives": [
+      "A) ignaro, inope.",
+      "B) enigmático, arcaico.",
+      "C) sutil, pertinaz.",
+      "D) diáfano, nítido.",
+      "E) insigne, ideal."
+    ],
+    "correct": 3,
+    "rationale": null
+  },
+  {
+    "type": "synonyms_and_antonyms",
+    "statement": "Velei doso, antojadizo, voluble,",
+    "alternatives": [
+      "A) remoto.",
+      "B) inconstante.",
+      "C) fructífero.",
+      "D) ineluctable.",
+      "E) embrollado."
+    ],
+    "correct": 1,
+    "rationale": null
+  },
+  {
+    "type": "synonyms_and_antonyms",
+    "statement": "Arcano, exotérico; ecuánime, imparcial; poltrón, laborioso;",
+    "alternatives": [
+      "A) perspicuo, conspicuo.",
+      "B) manumiso, apacible.",
+      "C) heteróclito, irregular.",
+      "D) iletrado, locuaz.",
+      "E) infatuado, mezquino."
+    ],
+    "correct": 2,
+    "rationale": null
+  }
+]

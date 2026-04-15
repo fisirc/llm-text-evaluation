@@ -1,0 +1,434 @@
+[
+  {
+    "type": "reading_comprehension",
+    "statement": "Entre los avances científicos que pueden ayudar a conseguir un planeta Tierra bello y sostenible, uno de los más importantes es la capacidad de poner o quitar genes del DNA que rigen la herencia de los organismos. Esto se conoce comúnmente como ingeniería genética. Aunque supone una gran promesa, ha surgido una idea sin justificación científica, especialmente entre los grupos ecologistas, según la cual los organismos modificados genéticamente son inherentemente peligrosos. El error básico al rechazarlos consiste en condenar el proceso, en lugar del producto. Hay que evaluar si una planta resistente al insecticida comercial puede resultar útil, sopesando los pros y los contras, o si los agricultores deben comprar plantas con semillas estériles. Pero esto no significa que se tengan que bloquearlas completamente. Puede que productos muy beneficiosos para la humanidad jamás vean la luz del día en aras de un proceso que algunos temen porque no lo entienden. La sociedad suele emitir juicios sobre cómo usar una tecnología nueva. Por ejemplo, cuando se consigue una aleación de acero mejor, puede utilizarse para fabricar armas más mortales y para fabricar maquinaria agrícola mejor. Con las plantas sometidas a ingeniería genética debería ocurrir lo mismo con base en la ciencia, no en el miedo y la desinformación. Boyer, P. (9 de abril de 2018). «Argumentos a favor de las plantas transgénicas» En ABC.es, recuperado de http://www.abc.es/hemeroteca/historico-28-06-2002/abc/Sociedad/argumentos-a-favor-de-las-plantas-transgenicas_109656.html.",
+    "questions": [
+      {
+        "statement": "De acuerdo con la tensión de los contenidos textuales se puede formular el siguiente tema central:",
+        "alternatives": [
+          "A) algunos datos sobre el uso de productos orgánicos.",
+          "B) los GMO y sus nefastas consecuencias para la salud.",
+          "C) la polémica por la distribución de plantas transgénicas.",
+          "D) el debate acerca del uso de productos transgénicos.",
+          "E) la necesaria reflexión sobre la prohibición de GMO."
+        ],
+        "correct": 3,
+        "rationale": null
+      },
+      {
+        "statement": "¿Cuál es la idea principal del texto dialéctico discontinuo?",
+        "alternatives": [
+          "A) los alimentos orgánicos han invadido el mercado internacional encabezado por China como potencia.",
+          "B) el uso de transgénicos genera tanto impugnaciones como posturas a favor, lo cual supone un serio debate.",
+          "C) existe evidencia científica respecto de lo perjudiciales que son los alimentos transgénicos para salud.",
+          "D) la manipulación genética de plantas ha generado una industria mundial cuestionable y promisoria.",
+          "E) es menester recurrir al discurso científico para poder rebatir las posturas contra los transgénicos."
+        ],
+        "correct": 1,
+        "rationale": null
+      },
+      {
+        "statement": "Determine la alternativa que resuma el texto dialéctico discontinuo.",
+        "alternatives": [
+          "A) El uso de transgénicos es rechazado por países que prefieren la producción de productos orgánicos, a fin de prevenir posibles efectos negativos, los cuales, sin embargo, son discutibles por carecer de verdadero respaldo científico.",
+          "B) El uso de transgénicos es defendido por científicos en el marco de una industria predominante orgánica, debido a los efectos colaterales de esta última no solo para la salud humana sino para el medioambiente depredado.",
+          "C) Los efectos negativos de los productos transgénicos han sido demostrados por el biólogo molecular francés Gilles-Eric Séralini, y es por esta razón que la propuesta esgrimida en B carece de sentido y debe refutarse definitivamente.",
+          "D) La ciencia ha logrado que la Tierra sea un planeta más amigable para la vida del hombre, por esa razón es condenable que los productos transgénicos sean prohibidos en las grandes potencias que comercializan plantas orgánicas.",
+          "E) Algunos de los científicos más prestigiosos han determinado que los productos transgénicos sean prohibidos en países donde la pobreza extrema es un problema"
+        ],
+        "correct": 1,
+        "rationale": null
+      }
+    ]
+  },
+  {
+    "type": "sentence_elimination",
+    "statement": "8. Es acorde con el desarrollo textual afirmar que los distintos reportes de cultivos contaminados, de acuerdo con la posición de B,",
+    "alternatives": [
+      "A) tendrían que definir la prohibición mundial de los productos transgénicos.",
+      "B) estarían orientados por intereses de científicos abocados a los negocios.",
+      "C) podrían superarse si los mercados internacionales fueran más flexibles.",
+      "D) se desprenden de observaciones subjetivas carentes de sistematicidad.",
+      "E) carecerían de rigor porque están dirigidos por científicos cuestionables."
+    ],
+    "correct": 3,
+    "rationale": "Para el autor del texto B, «[…] debería ocurrir lo mismo con base en la ciencia, no en el miedo y la desinformación». Esto supone que los cuestionamientos son contrarios al procedimiento y la práctica científicos."
+  },
+  {
+    "type": "sentence_elimination",
+    "statement": "9. Es incompatible con el desarrollo textual afirmar que la prohibición de transgénicos en países como Costa Rica es categórica, porque",
+    "alternatives": [
+      "A) la prohibición de transgénicos es en el 61% del territorio.",
+      "B) los estudios sobre sus efectos negativos son concluyentes.",
+      "C) el biólogo molecular francés ha demostrado su nocividad.",
+      "D) las consecuencias negativas en humanos son evidentes.",
+      "E) algunos de los estudios son testeados de forma arbitraria."
+    ],
+    "correct": 0,
+    "rationale": "Se indica, en efecto, que en el 61% del territorio costarricense están prohibidos los transgénicos; por consiguiente, no puede ser una negativa concluyente."
+  },
+  {
+    "type": "sentence_elimination",
+    "statement": "10. Si el biólogo molecular Gilles-Eric Séralini hubiera detectado enfermedades en humanos derivadas del consumo de transgénicos,",
+    "alternatives": [
+      "A) deberían prohibirse estos productos en países desarrollados.",
+      "B) la hipótesis planteada por este sería irrefutable para la ciencia.",
+      "C) habría sido sobornado por empresas de alimentos orgánicos.",
+      "D) su rechazo a estos productos tendría sustento que lo respalda.",
+      "E) el procedimiento usado sería considerado como parcializado."
+    ],
+    "correct": 3,
+    "rationale": "Si el biólogo francés detectara efectos en el producto y no cuestionara los efectos en animales, contaría entonces con evidencia empírica que respalda su rechazo."
+  },
+  {
+    "type": "sentence_elimination",
+    "statement": "1. Básicamente, el texto presenta una cuestión formulada y resuelta en el siglo XX, a saber:",
+    "alternatives": [
+      "A) la conclusión de Werner Jaeger respecto a Sócrates, Platón y los sofistas.",
+      "B) el cambio de opinión de los historiadores respecto a Platón y Aristóteles.",
+      "C) el verdadero papel jugado por los sofistas en la época clásica griega.",
+      "D) la manipulación del término “sofista” por parte de Platón y Aristóteles.",
+      "E) las polémicas de Sócrates, Platón y Aristóteles contra los sofistas."
+    ],
+    "correct": 2,
+    "rationale": "La historiografía tradicional pretendía —desde Platón y Aristóteles— que el rol jugado por los sofistas en su tiempo fue negativo. Los historiadores del siglo XX han refutado dicha tradición."
+  },
+  {
+    "type": "sentence_elimination",
+    "statement": "2. Dado el contexto, para Platón, el término PELIGROSO connotaría varias cosas, salvo",
+    "alternatives": [
+      "A) altruismo.",
+      "D) relativismo.",
+      "B) arribismo.",
+      "E) utilitarismo.",
+      "C) pragmatismo."
+    ],
+    "correct": 4,
+    "rationale": "Platón consideraba peligrosa la concepción sofista de la verdad. Para él, esta estaba supeditada en ella a un interés de lucro; nada más alejado que el altruismo."
+  },
+  {
+    "type": "sentence_elimination",
+    "statement": "3. Resulta incompatible con la perspectiva histórica del siglo XX pretender que el «giro humanista» de la filosofía griega antigua",
+    "alternatives": [
+      "A) fue obra mayor de Sócrates, Platón y Aristóteles.",
+      "B) implicó cierto desinterés por la physis y el cosmos.",
+      "C) privilegiò la naturaleza social del ser humano.",
+      "D) reivindicó el accionar de los antiguos sofistas.",
+      "E) supuso gran interés por la política y el arte."
+    ],
+    "correct": 0,
+    "rationale": "El «giro humanista» antiguo fue obra de los sofistas, no de la trilogía aludida."
+  },
+  {
+    "type": "sentence_elimination",
+    "statement": "1. Básicamente, la infografía da cuenta",
+    "alternatives": [
+      "A) del detalle de los montos que Odebrecht confesó haber pagado por coimas en los últimos quince años.",
+      "B) de montos que muestran que Odebrecht mintió en su confesión inicial al Ministerio Público.",
+      "C) del monto que el Ministerio Público ha detectado como faltante en la confesión inicial de Odebrecht.",
+      "D) de lo que Odebrecht confesó haber pagado como sobornos y aportes a los últimos gobiernos en el Perú.",
+      "E) de los montos que Odebrecht ha reconocido haber pagado como sobornos y aportes electorales."
+    ],
+    "correct": 1,
+    "rationale": "Marcelo Odebrecht habló de 29 millones de dólares de coimas en el Perú, y en realidad se trata de más de 39 millones de dólares. Mintió."
+  },
+  {
+    "type": "sentence_elimination",
+    "statement": "2. En la primera columna de la izquierda, el verbo PAGAR connota, básicamente,",
+    "alternatives": [
+      "A) aportes",
+      "B) negociados",
+      "C) comercios",
+      "D) donaciones",
+      "E) préstamos"
+    ],
+    "correct": 1,
+    "rationale": "Se trata de negociados o tratos de negocios por debajo de la mesa."
+  },
+  {
+    "type": "sentence_elimination",
+    "statement": "3. Resulta incompatible afirmar que la diferencia en los montos entre la segunda y la primera columnas",
+    "alternatives": [
+      "A) está incluida en el primer rubro de la tercera columna.",
+      "B) revela que la declaración inicial de Odebrecht es engañosa.",
+      "C) se concretó en los gobiernos de Toledo, García y Humala.",
+      "D) se evidencia en la suma de los ocho rubros de la última.",
+      "E) se refiere, entre otras, a la Interoceánica o al Metro de Lima."
+    ],
+    "correct": 0,
+    "rationale": "Nada en la infografía permite establecer que los 10 millones de dólares de diferencia entre las dos primeras columnas están incluidos en los 20 millones de la Carretera Interoceánica."
+  },
+  {
+    "type": "reading_comprehension",
+    "statement": "Los humanos no son los únicos animales que se divorcian; algunas aves también muestran ese comportamiento. Un estudio revela por qué las parejas de una de esas especies, el herrerillo común, rompen a veces su vínculo. Téngase en cuenta que cuando los ornitólogos hablan de «divorcio» en las aves, se refieren a que ambos miembros de una pareja reproductora sobreviven hasta la siguiente temporada de reproducción pero terminan emparejándose con otros compañeros, en lugar de volver a juntarse con el mismo. Por ejemplo, las garzas azules se divorcian después de cada temporada de reproducción, y los pingüinos emperador lo hacen 85 %de veces. Por el contrario, solo el 9 %de ánades reales muestran esa conducta, y los albatros casi no se separan. Numerosos investigadores se han interesado en el efecto de las separaciones sobre el éxito reproductivo, pero hasta ahora pocos se han centrado en el proceso en sí.\nLa ecóloga Carol Gilsenan, del Instituto Max Planck de Ornitología, y sus colaboradores estudiaron cientos de herrerillos comunes durante ocho años mediante el empleo de cajas nido en un bosque protegido en el sur de Alemania. En sus hallazgos, publicados en Animal Behaviour, el 64 %de las parejas reproductoras se separaron durante el estudio, a pesar de que las que permanecieron juntas produjeron más huevos y sacaron adelante a más crías. Si los dos miembros de una pareja regresaban a su antiguo territorio más o menos a la vez, era más probable que se volvieran a juntar; si lo hacían en momentos diferentes, tendían a separarse. «Si uno se presenta pronto, no puede darse el lujo de esperar», explica Gilsenan. «It could be that the old partner was injured or even dead. If they wait for her to return, they may miss a parenting opportunity, so they must pair again». Considerando que la mortalidad adulta de los herrerillos comunes es extremadamente alta (alrededor del 50 %),se comprende que el ave que regresa de nuevo tiene más probabilidades de reproducirse si busca un nuevo compañero que si se arriesga a esperar y pierde la oportunidad de emparejarse. Las aves parecen simplemente calcular las probabilidades. Finalmente, los investigadores también descubrieron que si las parejas mantenían el contacto fuera de la temporada de cría tenían más probabilidades de sincronizar la vuelta; y, por lo tanto, de mantenerse fieles entre sí.\nInvestigación y Ciencia. (16 de Marzo de 2018). Investigación y ciencia. Recuperado el 27 de Marzo de 2018, de https://www.investigacionyciencia.es/noticias/por-qu-se-divorcian-las-parejas-de-aves-16189. Adaptación.",
+    "questions": [
+      {
+        "statement": "¿Cuál es la idea principal del texto?",
+        "alternatives": [
+          "A) los herrerillos y su disposición para permanecer en la monogamia.",
+          "B) el porcentaje de especies de aves que optan por una vida marital.",
+          "C) un estudio analiza la eficacia reproductiva de los herrerillos infieles.",
+          "D) la alta tasa de mortalidad de los herrerillos favorece su monogamia.",
+          "E) un estudio señala el probable motivo del «divorcio» entre los herrerillos."
+        ],
+        "correct": 4,
+        "rationale": "El texto alude a un estudio que permitiría dar luces de los motivos por los que las aves, como el herrerillo, pueden llegar a separarse."
+      },
+      {
+        "statement": "El sinónimo contextual del término SINCRONIZAR es",
+        "alternatives": [
+          "A) confluir.",
+          "D) desembocar.",
+          "B) coordinar.",
+          "E) atenuar.",
+          "C) confutar."
+        ],
+        "correct": 2,
+        "rationale": "El sinónimo contextual del término SINCRONIZAR es coordinar, coincidir, etc. pues alude al hecho de que las parejas de aves regresen al mismo tiempo y lugar para permanecer juntas."
+      },
+      {
+        "statement": "Resulta incompatible afirmar respecto a la conducta sexual de los herrerillos",
+        "alternatives": [
+          "A) cada temporada de reproducción todos presentan distinta pareja sexual.",
+          "B) la alta tasa de mortalidad adulta propicia el llamado “divorcio” entre ellos.",
+          "C) el 64% de las parejas reproductoras se divorciaron durante el estudio.",
+          "D) la fidelidad no resulta conveniente pues no garantiza el éxito reproductivo.",
+          "E) diverge del comportamiento sexual de las ánades reales y de los albatros."
+        ],
+        "correct": 0,
+        "rationale": "El texto señala que solo el 64% de las parejas reproductoras de los herrerillos realizan el divorcio, el resto permanecieron juntas."
+      }
+    ]
+  },
+  {
+    "type": "reading_comprehension",
+    "statement": "El uso del lenguaje revela una actividad cerebral estructurada y estable. ¿De dónde procede este orden? ¿Hay un lenguaje cerebral interno que da coherencia a las conexiones entre diversas áreas del sistema nervioso central? Se ha podido comprobar que cuando ocurren filtraciones anormales entre circuitos cerebrales diferentes aparecen efectos extraños y reveladores. La sinestesia, por ejemplo, es uno de ellos. Se trata de una condición en la que diferentes señales se cruzan y mezclan. Así, una señal táctil produce un sabor amargo, una nota musical al ser escuchada provoca que se vea un color azul o ciertos números impresos en negro son vistos en otro color. Ramachandran y Hubbard, que han estudiado este fenómeno, afirman que hay un componente genético que teje conexiones en el cerebro entre áreas que normalmente están separadas. La mutación genética causa un exceso de comunicaciones entre diferentes mapas cerebrales: si la porosidad es muy extensa se genera una condición sinestésica, pero sino es muy amplia simplemente impulsa una propensión creativa a encontrar lazos entre conceptos e ideas que no tienen una relación aparente.\n\nLos autores de esta investigación suponen, con razón, que se trata de una condición que puede ayudar a comprender el origen del lenguaje. El surgimiento en homínidos primitivos de asociaciones simbólicas y metafóricas entre sensaciones visuales y sonidos pudo haber sido una palanca importante en la formación de nombres para los objetos.\n\n«A person suffering from a synaesthetic condition connects, for example, the number 5 with the experience of thee red color. What happens is a spontaneous link between a symbol and a sensation», señalan los investigadores. Es interesante notar que muchos sinestésicos no ven el color rojo cuando leen un «V» romano, por ejemplo. En estos casos no es el concepto de número, sino un grafema visual el que genera la visión del color. Hay otros sinestésicos que sí responden al concepto numérico, lo que podía deberse al lugar preciso del cerebro donde se produce la interconexión o el cortocircuito. Podemos suponer que una mutación primigenia pudo realizar una nueva conexión entre áreas anteriormente incomunicadas, con lo que se propició el surgimiento de relaciones simbólicas y metafóricas. Pero lo importante es que alguno de los circuitos que se interconectan tiene, digámoslo así, una ventana abierta al contorno social y cultural. La novedad radica en que esta ventana permite captar y usar símbolos externos del contorno mediante sensaciones.\n\nBartra, R. (2007) Antropología del cerebro. La conciencia y los sistemas simbólicos. México D.F.: FCE,\npp. 58- 59. (Adaptación)",
+    "questions": [
+      {
+        "statement": "La idea principal del texto es",
+        "alternatives": [
+          "A) la mutación genética y la aparición de la sinestesia.",
+          "B) la sinestesia como enlace de símbolo y representación.",
+          "C) las representaciones simbólicas y metafóricas del cerebro.",
+          "D) la sinestesia permitiría comprender el origen del lenguaje.",
+          "E) la sinestesia conecta regiones separadas del cerebro."
+        ],
+        "correct": 3,
+        "rationale": "El primer párrafo del texto señala en qué consiste la sinestesia y el segundo, destaca que esta puede ayudar a comprender el origen del lenguaje."
+      },
+      {
+        "statement": "En el texto, el término PALANCA se puede reemplazar por",
+        "alternatives": [
+          "A) ingenio.",
+          "B) ánimo.",
+          "C) óbice.",
+          "D) polea.",
+          "E) acicate."
+        ],
+        "correct": 4,
+        "rationale": "El texto señala que las asociaciones simbólicas y metafóricas pudieron ser una palanca, un estímulo, un acicate, un incentivo, etc., para la formación de los nombres de los objetos."
+      },
+      {
+        "statement": "Respecto a la aparición de la sinestesia en el cerebro, resulta incompatible afirmar que",
+        "alternatives": [
+          "A) eclosiona gracias a una mutación genética cerebral.",
+          "B) surge por la comunicación de áreas cerebrales disímiles.",
+          "C) se ve favorecida por una porosidad cerebral reducida.",
+          "D) algunos circuitos implicados trabajan con sensaciones.",
+          "E) se ve favorecida por una porosidad cerebral considerable."
+        ],
+        "correct": 2,
+        "rationale": "Si la porosidad es muy extensa se genera una condición sinestésica."
+      }
+    ]
+  },
+  {
+    "type": "sentence_elimination",
+    "statement": "Respecto a la aparición de la sinestesia en el cerebro, resulta incompatible afirmar que",
+    "alternatives": [
+      "A) eclosiona gracias a una mutación genética cerebral.",
+      "B) surge por la comunicación de áreas cerebrales disímiles.",
+      "C) se ve favorecida por una porosidad cerebral reducida.",
+      "D) algunos circuitos implicados trabajan con sensaciones.",
+      "E) se ve favorecida por una porosidad cerebral considerable."
+    ],
+    "correct": 2,
+    "rationale": "Si la porosidad es muy extensa se genera una condición sinestésica."
+  },
+  {
+    "type": "sentence_elimination",
+    "statement": "A partir de las citas en inglés y del desarrollo textual, se infiere respecto a la sinestesia",
+    "alternatives": [
+      "A) las personas asocian el número cinco con el color rojo.",
+      "B) existe un vínculo taxativo entre símbolo y sensación.",
+      "C) un grafema visual no puede generar la visión del color rojo.",
+      "D) el vínculo entre símbolo y sensación no está determinado.",
+      "E) un concepto numérico no puede generar la visión del color rojo."
+    ],
+    "correct": 3,
+    "rationale": "La cita en inglés señala que «una persona que sufre una condición sinestésica conecta, por ejemplo, el número 5 con la experiencia del color rojo. Lo que sucede es un vínculo espontáneo entre símbolo y sensación». Luego, se infiere que el vínculo entre símbolo y sensación no está determinado."
+  },
+  {
+    "type": "sentence_elimination",
+    "statement": "Si la formación de nombres para los objetos no hubiese implicado la asociación simbólica y metafórica entre sensaciones visuales y sonidos, probablemente,",
+    "alternatives": [
+      "A) los homínidos hubiesen carecido de símbolos y metáforas.",
+      "B) habría una conexión entre áreas del cerebro incomunicadas.",
+      "C) no habría una ventana que permitiera captar las sensaciones.",
+      "D) podría captarse el lugar donde se produce la interconexión.",
+      "E) la sinestesia no permitiría comprender el origen del lenguaje."
+    ],
+    "correct": 4,
+    "rationale": "En la formación de nombres existe una asociación simbólica y metafórica entre de sensaciones visuales y sonidos. Sin ella la sinestesia no permitiría comprender el origen del lenguaje."
+  },
+  {
+    "type": "reading_comprehension",
+    "statement": "Más allá de Marie Curie, ¿cuántas mujeres científicas le vienen de sopetón a la cabeza? Haberlas, las hay, y son muchas e importantes. Pero durante generaciones han sido invisibilizadas. Como Rosalind Franklin (1920-1958) la química y cristalógrafa que capturó la foto que demostró que el ADN era una doble hélice, pero que quedó fuera del Premio Nobel de Medicina que ganaron sus colegas Francis Crick y Maurice Wilkins gracias, en buena parte, a su investigación. O quizás Nettie Stevens (1861-1912), descubridora de los cromosomas XY. Ahí también está la física Mileva Einstein (1875-1948), conocida sobre todo por ser la esposa de Einstein, pese a que también tuvo una influencia significativa en las investigaciones del padre de la teoría de la relatividad. Esta falta de visibilidad no es cosa del pasado. En 2017, por ejemplo, pese a haber varias candidatas, ninguna mujer recibió uno de los Premios Nobel de Ciencias. Ni siquiera es una anomalía: desde su comienzo en 1901, la academia solo ha premiado a 49 mujeres, frente a 883 hombres. En el campo de las ciencias, su ausencia es más destacada aún: solo 19 mujeres, incluida Marie Curie (la única mujer que ha obtenido dos Nobel) han recibido el Nobel de Ciencias, el 3 %del total de galardonados. Y no solo en materia de reconocimientos la ciencia sigue siendo un campo eminentemente masculino: apenas el 28 %de los científicos son mujeres y solo el 11% de ellas ocupan posiciones académicas. Sin embargo, ha habido avances. «Después de 20 años, la igualdad de género en el campo de la ciencia es algo que nadie cuestiona», señala a El País la subdirectora general para las Ciencias Exactas y Naturales de la Unesco, Flavia Schlegel. Pero todavía queda lo más difícil, advierte Alexandra Palt, vicepresidenta ejecutiva de la fundación L´Oréal: «Hoy hay una discriminación sistemática y multifactorial y sino hay una voluntad activa para acabar con esa discriminación, sino se realizan acciones decididas para cambiar ese sistema no se va a lograr romper el techo de cristal». Precisamente la Fundación L´Oréal y la Unesco celebraron este jueves, en París, 20 años de esfuerzos para promover a las mujeres en la ciencia. Y lo hicieron como lo han hecho las dos últimas décadas: promoviendo a jóvenes científicas y premiando a cinco investigadoras destacadas de todo el planeta con importantes dotaciones económicas —100 000 dólares— que les permitan continuar sus investigaciones y les den visibilidad, un factor clave para romper el techo de cristal en un mundo todavía demasiado dominado por los hombres.",
+    "questions": [
+      {
+        "statement": "¿Cuál es la idea principal del texto?",
+        "alternatives": [
+          "A) La igualdad de género es uno de los tópicos más abandonados en la ciencia, por ello la Fundación L´Oréal invierte 100 000 dólares en las investigadoras.",
+          "B) La postergación de la mujer en la ciencia, ha motivado que la Fundación L´Oréal y la Unesco impulsen un programa de promoción de jóvenes científicas.",
+          "C) Un sesgo machista ha caracterizado a la ciencia, por lo cual la Unesco busca promover e incentivar la cuota de género en las investigaciones científicas.",
+          "D) El porcentaje de mujeres científicas es alarmantemente menor al de los hombres por ello se plantean programas de inclusión social de gran alcance.",
+          "E) La invisibilización de la mujer en la ciencia ha impulsado iniciativas de organismos internacionales, estatales y privados que fomenten la igualdad."
+        ],
+        "correct": 1,
+        "rationale": "En el texto se destaca la situación de postergación de la mujer en la ciencia y, como respuesta a ello, la iniciativa de L´Oréal y la Unesco."
+      },
+      {
+        "statement": "La expresión DE SOPETÓN se puede reemplazar por",
+        "alternatives": [
+          "A) insignificantemente.",
+          "D) intempestivamente.",
+          "B) conspicuamente.",
+          "E) virulentamente.",
+          "C) raudamente."
+        ],
+        "correct": 3,
+        "rationale": "La expresión DE SOPETÓN se puede reemplazar por inopinadamente, repentinamente. intempestivamente,"
+      }
+    ]
+  },
+  {
+    "type": "sentence_elimination",
+    "statement": "3. En relación a la información del gráfico, resulta incompatible sostener que las mujeres",
+    "alternatives": [
+      "A) que estudian un bachillerato de ciencias superan ampliamente a quienes ostentan un Nobel.",
+      "B) que han logrado un doctorado científico superan a las que poseen un máster científico.",
+      "C) que tienen un grado de estudio de ciencia superan por dos décimas a las investigadoras.",
+      "D) que tienen un master científico equiparan a las que se dedican a la investigación.",
+      "E) que ocupan altos cargos académicos son superadas por a las que tienen un doctorado científico."
+    ],
+    "correct": 1,
+    "rationale": "Las mujeres que tienen un doctorado científico son 25%, mientras que aquellas que tienen un máster científico son 30%."
+  },
+  {
+    "type": "sentence_elimination",
+    "statement": "4. Se infiere a partir de la relación entre los Premios Nobel y las mujeres que",
+    "alternatives": [
+      "A) en el año 2017 se visibilizó a una cantidad de mujeres ganadoras.",
+      "B) 30 mujeres no relacionadas con la ciencia han ganado un Nobel.",
+      "C) Marie Curie es la única persona que ha ganado dos Premios Nobel.",
+      "D) ellas representan el 3% de un total de 883 galardonados con el Nobel.",
+      "E) el 11% de mujeres ha conseguido adjudicarse un Premio Nobel."
+    ],
+    "correct": 1,
+    "rationale": "De 49 mujeres galardonadas con un Nobel, 19 pertenecen al campo de la ciencia. Las 30 restantes, no."
+  },
+  {
+    "type": "sentence_elimination",
+    "statement": "5. Si el mundo no estuviera demasiado dominado por los hombres, probablemente,",
+    "alternatives": [
+      "A) la Fundación L´Oréal y la Unesco aumentarían sus donativos.",
+      "B) las mujeres serían visibilizadas y reconocidas en la ciencia.",
+      "C) el porcentaje de mujeres científicas se mantendría intacto.",
+      "D) habrían más mujeres que tendrían más de un Premio Nobel.",
+      "E) los galardones en la ciencia serían básicamente masculinos."
+    ],
+    "correct": 1,
+    "rationale": "Si el mundo no estuviera demasiado dominado por los hombres, las mujeres accederían al reconocimiento y a una mejor posición en la ciencia."
+  },
+  {
+    "type": "reading_comprehension",
+    "statement": "Podemos formular la teoría del interaccionismo dualista de una manera concisa como sigue: primero, esta teoría sostiene, de un modo suficientemente plausible, que hay cosas materiales (objetos, sucesos y estados) así como cosas mentales (objetos, sucesos y estados). Segundo, esta teoría sostiene que las cosas mentales son tipos de cosas completamente diferentes de las entidades materiales. Las entidades mentales, de acuerdo con esta teoría, son totalmente no-materiales o, como también podríamos decir, inmateriales. Por lo tanto no tienen tamaño, forma, peso, masa, o lugar en el espacio. Tal vez uno podría decir que los objetos mentales (en oposición a los sucesos o estados) serían algo así como espíritus puros. Es este segundo punto lo que hace dualista a la teoría. No basta con sostener simplemente que hay cosas mentales y cosas materiales ya que algunas teorías no dualistas aceptan esa afirmación. Solo cuando esta afirmación es tomada junto con la otra tesis de que las cosas mentales y las cosas materiales son tipos de cosas diferentes, sin que las cosas mentales tengan ninguna característica material excepto, tal vez, la de ocurrir o existir en un momento, obtenemos el aspecto dualista de la teoría. Cuarto y último, en esta teoría los sucesos mentales y materiales interactúan causalmente, esto es, se afectan causalmente uno a otro. Es este último elemento el que hace que la teoría sea interaccionista. Cada uno de nosotros piensa que hay otras personas, seres con mentes y cuerpos, seres que llevan a cabo actos tanto mentales como físicos y que están en estados tanto mentales como físicos. Pero si, como afirma el interaccionismo dualista, la mente es completamente distinta y diferente del cuerpo, no hay manera de justificar la creencia de que hay otros seres con mentes; así pues, no hay manera de saber si se trata de otras personas. Todo lo que percibo cuando veo u oigo otra entidad es comportamiento corporal: movimientos y sonidos. Pero el comportamiento corporal sin duda no es mental. Así que nunca percibo la mente de otro ser. Además, no hay manera de que llegue a descubrir, como en mi propio caso, si este comportamiento corporal está acompañado de algo mental. Puede ser, pero no tengo manera de averiguarlo. Otros seres que yo crea que son personas pueden ser tan solo autómatas. Si el defensor del interaccionismo dualista está en lo correcto, entonces ninguna aseveración acerca del comportamiento corporal implica alguna aseveración acerca de la mente. Por lo tanto, ningún argumento deductivo basado en lo que percibo trae consigo conclusiones acerca de otras mentes. De esta forma, el interaccionismo dualista, al concebir las mentes como radicalmente diferentes de los cuerpos, nos ha forzado a una conclusión contraria a lo que todos creemos. Seguramente, de acuerdo con esta objeción, una teoría que pueda evitar estas consecuencias es preferible al interaccionismo dualista. Cornman, J.W.; Pappas, G.S. y Lehrer, K. (1990) Introducción a los problemas y argumentos filosóficos. México D. F.: UNAM, pp. 245- 258. Adaptación. 1.",
+    "questions": [
+      {
+        "statement": "Tanto el fragmento A como el fragmento B abordan el tema de",
+        "alternatives": [
+          "A) las principales objeciones al interaccionismo dualista.",
+          "B) el dualismo cartesiano y el problema mente-cuerpo.",
+          "C) si es posible justificar la existencia de otras mentes.",
+          "D) la problemática respecto al interaccionismo dualista.",
+          "E) la diferencia entre cosas materiales e inmateriales."
+        ],
+        "correct": 3,
+        "rationale": "El tema que engloba 3A y 3B es la problemática respecto al interaccionismo dualista. En 3A se presenta sus características principales mientras que 3B expone un cuestionamiento al mismo."
+      },
+      {
+        "statement": "En el fragmento 3A, el término PLAUSIBLE se puede reemplazar por",
+        "alternatives": [
+          "A) semejante.",
+          "B) decoroso.",
+          "C) aceptable.",
+          "D) vituperable.",
+          "E) quimérico."
+        ],
+        "correct": 2,
+        "rationale": "En 3A el término, PLAUSIBLE se puede reemplazar por aceptable, admisible, etc."
+      },
+      {
+        "statement": "Respecto a los argumentos presentados por 3A, resulta incompatible sostener que el interaccionismo dualista se caracteriza por",
+        "alternatives": [
+          "A) señalar una diferencia palmaria entre las cosas mentales y las cosas materiales.",
+          "B) sostener que las cosas mentales en absoluto poseen una característica material.",
+          "C) indicar que una persona es la unión de un objeto mental y un cuerpo material.",
+          "D) afirmar que los sucesos mentales y materiales interactúan de forma causal.",
+          "E) precisar qué objetos, sucesos y estados se dice de lo mental y de lo material."
+        ],
+        "correct": 1,
+        "rationale": "En 3A se afirma que las cosas mentales no tienen ninguna característica material excepto, tal vez, la de ocurrir o existir en un momento."
+      }
+    ]
+  },
+  {
+    "type": "sentence_elimination",
+    "statement": "3. Respecto a los argumentos presentados por 3A, resulta incompatible sostener que el interaccionismo dualista se caracteriza por",
+    "alternatives": [
+      "A) señalar una diferencia palmaria entre las cosas mentales y las cosas materiales.",
+      "B) sostener que las cosas mentales en absoluto poseen una característica material.",
+      "C) indicar que una persona es la unión de un objeto mental y un cuerpo material.",
+      "D) afirmar que los sucesos mentales y materiales interactúan de forma causal.",
+      "E) precisar qué objetos, sucesos y estados se dice de lo mental y de lo material."
+    ],
+    "correct": 1,
+    "rationale": "En 3A se afirma que las cosas mentales no tienen ninguna característica material excepto, tal vez, la de ocurrir o existir en un momento."
+  },
+  {
+    "type": "sentence_elimination",
+    "statement": "4. A partir del argumento principal de 3B se infiere que",
+    "alternatives": [
+      "A) el comportamiento corporal evidencia lo mental.",
+      "B) es justificable la creencia en otros seres con mente.",
+      "C) las personas poseen estados físicos pero no mentales.",
+      "D) podemos discernir entre una persona y un autómata.",
+      "E) se asume la validez de ciertas creencias establecidas."
+    ],
+    "correct": 4,
+    "rationale": "En 3B se señala que el interaccionismo dualista ataca nuestra creencia de que otras personas poseen una mente al no tener forma de justificar esta creencia establecida, la misma que no es examinada por 3B."
+  },
+  {
+    "type": "sentence_elimination",
+    "statement": "5. Si una teoría permitiera justificar la creencia en otros seres con mente, probablemente,",
+    "alternatives": [
+      "A) inevitablemente se adoptaría el interaccionismo dualista.",
+      "B) prescindiría de las cosas mentales y las cosas materiales.",
+      "C) en esta se mantendría un marcado sesgo interaccionista.",
+      "D) el comportamiento corporal podría llegar a ser mental.",
+      "E) esta sería más apreciada que el interaccionismo dualista."
+    ],
+    "correct": 4,
+    "rationale": "Si una teoría pueda evitar estas consecuencias (no poder justificar la creencia en otros seres con mente) sería preferible al interaccionismo dualista."
+  }
+]

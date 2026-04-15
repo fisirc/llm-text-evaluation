@@ -1,0 +1,721 @@
+[
+  {
+    "type": "sentence_elimination",
+    "statement": "En la figura, A y B son puntos de tangencia de las circunferencias de centro P y O respectivamente. Halle el radio de la circunferencia mayor si OC=15 cm y BC=12cm.",
+    "alternatives": [
+      "A) 27 cm",
+      "B) 18 cm",
+      "C) 36 cm",
+      "D) 24 cm",
+      "E) 30 cm"
+    ],
+    "correct": 2,
+    "rationale": "Solución :\n1. Trazamos los radios como en la figura.\n2. Notamos que\nOBC PAC\n\nAsí,\n9rr 36 cm15 r 24\\uf03d \\uf0de \\uf03d\nRpta.: C"
+  },
+  {
+    "type": "reading_comprehension",
+    "statement": "Para su infortu nio, el cerdo es uno de los pocos animales que puede desatar arduas discusiones entre defensores y detractores actualmente. Estas desavenencias se han presentado en civilizaciones enteras a largo de la historia. Un esbozo sencillo –porque tampoco es momento de una explicación detallada socio -cultural – permite ver que el chancho es aceptado en Occidente y repudiado en Oriente y que esta conflagración tiene como base la religión ola falta de esta.\nNadie sabe a ciencia cierta la fecha exacta de su domesticación, aunque algunos hablan de hace 9 000 años o 5 000 años atrás. El animal matriz fue el jabalí salvaje que tuvo contactos cercanos con asentamientos humanos en lo que ahora es el sur de Turquía y de allí pasó al continente europeo y al sur de Asia.\nDebido a que crecen y maduran con rapidez –su periodo de gestación es de cuatro meses –son omnívoros y se aprovecha prácticamente todo, su consumo influyó en gran medida en las gastronomías locales.\nLa Europa cristiana llevó al cerdo al nuevo mundo en donde ha gozado de notable desarrollo, e incluso, ha tenido mejor desenvolvimiento que el ganado vacuno en algunas zonas como el Caribe. Las crónicas de Bernabé Cobo señalan que la primera carne que se pesó en una carnicería de Lima fue la del puerco, y que los indígenas lo llamaron \"cuchi\".\nSin embargo, esta permisividad en el consumo de la carne de marrano contrasta con la prohibición que se hace en las religiones judías e islámicas. El dios de Abraham, Moisés y Jesús, condenó al cerdo por impuro y prohibió su consumo, y hasta tocar su carne.\nMil quinientos años después, Alá ratificó a Mahoma esa prohibición y dijo que su consumo era una abominación para el hombre por lo que, hasta nuestros días, se ha asociado la figura del cerdo con dolor y enfermedad.\nLas primeras justificaciones de este \"veto divino\" las encontramos en el siglo XIII en la figura de Moisés Maimonides, médico de la corte de Saladino en El Cairo, quien comentó –sin bases científicas – que Dios prohibió la carne de cerdo por tener un efecto malo y perjudicial para el hombre.\nOtro sabio judío, Rabí Iehuda, recomendó el ayuno a un grupo de pobladores cuando se desató una peste entre los cerdos. \"Su aparato digestivo es similar al de los humanos, por eso los virus que los atacan, son propensos a contagiar a los humanos, a pesar que no consuman su carne\", dijo.\nEn líneas generales, los judíos y los musulmanes se han mantenido fieles a la prohibición divina, mientras los cristianos consideran retrógrado seguir leyes que hablen de animales\n\nLa sociedad occidental, tan laica tras el triunfo de la revolución francesa en el siglo XVIII, se ha distanciado de las directrices religiosas y prefieren la constatación científica sobre algún tema si ello modifica líneas de comportamiento.\nPero, ¿qué dicen hoy la ciencia tan avanzada sobre la conveniencia de comer o no carne de cerdo o de estar simplemente en contacto con ella?\nLos que están a favor dicen que es una gran fuente de tiamina, vitamina clave en el metabolismo de los carbohidratos, de las proteínas y de la grasa, así como de vitamina B6.\nLos científicos también han quedado muy sorprendidos cuando estudios revelaron que el desarrollo y estructura del cerdo guarda enorme similitud con la raza humana. ¡Ni los simios, que fueron nuestros antepasados!\nSus válvulas cardiacas pueden utilizarse en trasplantes temporales a seres humanos. De sus páncreas puede obtenerse insulina, una hormona esencial para los diabéticos, y de su glándula pituitaria se obtiene el ACTH, que es una hormona usada en la medicina para el tratamiento de artritis y enfermedades inflamatorias.\nPor si fuera poco, la tiroides del cerdo se usa para obtener medicamentos para personas que poseen glándulas tiroides poco activas y la piel de los lechones sirve para trasplantes temporales a pacientes con quemaduras de tercer grado.\nSus detractores, sin embargo, no se quedan atrás y utilizan la ciencia para confirmar la prohibición del Antiguo Testamento y del Córán. La similitud genética entre el cerdo y el hombre ha hecho que muchos virus y cánceres pasen sin dificultad al ser humano, sino basta mirar la actual gripe AH1N1, que es un mortal cóctel genético entre influenza humana, porcina y de aves.\n\nEl metabolismo del cerdo excreta también una mínima parte de los productos de desecho, con lo cual la mayoría se queda almacenada en su grasa que son sustancias tóxicas que el ser humano acumula si la consume. Su carne también tiene un alto porcentaje de coleste rina que favorece a la aparición de trastornos de circulación en los vasos periféricos y coronarios, aumentando el riesgo de infarto del miocardio.\n\"¿Para qué consumir un animal tan dañino?, ¿No sería mejor que esta crisis sanitaria diera paso a mejores hábitos alimenticios\", ha dicho recientemente Hatem al Gabali, ministro de salud egipcio. Sus palabras han sido condenadas por organizaciones defensoras de los derechos animales que, sin embargo, se muestran impotentes ante la ola de desprecio mundial que afecta a la esfera porcina y que tendrá para rato.\n¿Será el fin de los días del cerdo? Lo dudo, tantos siglos de mala fama parecen quedar al olvido al probar esa suave –¿y tóxica? – carne.\nGeneración.com.2010.Paz,S. Influenza ah1n1 causa un holocausto porcino. Recuperado julio 2015. http://www. generación.com/magazine/573/influenza-ah1n1-ca usa un holocausto porcino",
+    "questions": [
+      {
+        "statement": "¿Cuál es el título más adecuado para el texto leído?",
+        "alternatives": [
+          "A) Las valoraciones antagónicas sobre el cerdo a través de la historia",
+          "B) Las semejanzas biológicas entre el cerdo y los seres humanos",
+          "C) La naturaleza simbólica del cerdo en diversas culturas de occidente",
+          "D) La trascendencia gastronómica de la carne porcina a nivel mundial",
+          "E) Las ventajas terapéuticas del empleo de la piel de cerdo en la medicina"
+        ],
+        "correct": 0,
+        "rationale": "Solución : El autor del texto da cuenta de las valoraciones antagónicas del cerdo a través de la historia."
+      },
+      {
+        "statement": "¿Cuál es la idea principal del texto?",
+        "alternatives": [
+          "A) La carne porcina ha sido catalogada como altamente nociva por su gran concentración de colesterina.",
+          "B) El cerdo ha recibido elogios como también vituperios debido a razones religiosas y científicas.",
+          "C) El ser humano guarda una similitud genética superlativa con el cerdo que con el simio.",
+          "D) El consumo de la carne por cina se ha mantenido incólume a pesar de muchos detractores.",
+          "E) La fisiología del cerdo ha brindado soluciones clínicas para los pacientes humanos."
+        ],
+        "correct": 1,
+        "rationale": "Solución : En el texto se trata medularmente la idea de que el cerdo ha recibido elogios como también vituperios debido a razones religiosas y científicas."
+      },
+      {
+        "statement": "Señale la alternativa que mejor resume lo tratado en el texto.",
+        "alternatives": [
+          "A) La semejanza de los rasgos orgánicos del marrano con el hombre han desatado polémica tanto para la comunidad religiosa como para la comunidad científica.",
+          "B) La prohibición de consumir carne porcina en la sociedad judía y musulmana se debió a intransigencias religiosas y especulaciones científicas.",
+          "C) A pesar de sus detractores, el cerdo se ha mantenido vigente a través de la historia debido a su utilidad gastronómica y propiedades terapéuticas en bienestar del ser humano.",
+          "D) El consumo de carne de cerdo fue característica de la gastronomía andina y se expandió a las ciudades limeñas para innovar el arte culinario europeo.",
+          "E) El porcino ha sido perseguido por judíos y árabes; sin embargo, fue defendido por la comunidad cristiana europea del siglo XVIII."
+        ],
+        "correct": 2,
+        "rationale": "Solución : En el texto se aborda sustancialmente que a pesar de sus detractores, el cerdo se ha mantenido vigente a través de la historia debido a su utilidad gastronómica y propiedades terapéuticas en bienestar del ser humano."
+      },
+      {
+        "statement": "Se entiende que el vocablo PERMISIVIDAD, que aparece en el quinto párrafo, significa",
+        "alternatives": [
+          "A) aprobación.",
+          "B) liberalidad .",
+          "C) tolerancia.",
+          "D) avidez.",
+          "E) exigencia."
+        ],
+        "correct": 0,
+        "rationale": "Solución : En el texto se señala que había una permisividad o aprobación al consumo de carne de cerdo por algunos pueblos."
+      },
+      {
+        "statement": "Es incompatible con el texto aseverar que",
+        "alternatives": [
+          "A) la estructura orgánica del cerdo evidencia notables semejanzas con la especie humana.",
+          "B) Clínicamente, el cerdo ha brindado muchos beneficios en los tratamientos médicos del hombre.",
+          "C) la sociedad occidental del s. XVIII se inclinó por la corroboración científica de ciertas especulaciones.",
+          "D) Para los judíos y musulmanes, el consumo de carne de marrano era un hecho repugnante.",
+          "E) los cristianos propugnaron siempre la prohibición bíblica de alimentarse con carne porcina."
+        ],
+        "correct": 4,
+        "rationale": "Solución : En el texto se señala que los cristianos llegaron a consentir el consumo de carne de cerdo, pero los musulmanes no."
+      },
+      {
+        "statement": "¿Cúal es la idea congruente con lo sostenido por el autor del texto?",
+        "alternatives": [
+          "A) Alá corroboró a su profeta la virulenci a de consumir carne de porcino.",
+          "B) Rabí Iehuda propugnó la crianza de cerdos debido a su inocuidad.",
+          "C) La histiología del cerdo carece de compatibilidad con la del hombre.",
+          "D) los mitos sobre el origen sórdido del marrano favorecieron su consumo.",
+          "E) El porcino fue aceptado en Oriente, pero rechazado en Occidente."
+        ],
+        "correct": 0,
+        "rationale": "Solución :.En el texto se sostiene que Alá ratificó a Mahoma esa prohibición y dijo que su consumo era una abominación para el hombre."
+      },
+      {
+        "statement": "Indique la serie correcta sobre las aseveraciones compatibles (C) o incompatible (I)",
+        "alternatives": [
+          "A) I-I-C-C",
+          "B) I-C-I-C",
+          "C) I-C-C-C",
+          "D) I-I-C-I",
+          "E) I-C-C-I"
+        ],
+        "correct": 3,
+        "rationale": "Solución : Según lo planteado por el autor, la secuencia correcta es I -I-C-I."
+      },
+      {
+        "statement": "Del texto se puede inferir que el “veto divino”",
+        "alternatives": [
+          "A) habría ocasionado pérdidas sustanciales a la ganadería porcina.",
+          "B) fue un aliciente para incrementar la crianza de ganado bovino.",
+          "C) habría sido soslayado por las supersticiones judías e islámicas.",
+          "D) Pudo haber eclosionado la proliferación de la crianza de cerdo.",
+          "E) tendría su origen en la epidemia desatada por la gripe porcina."
+        ],
+        "correct": 0,
+        "rationale": "Solución : En el texto se señala que el \"veto divino\", es decir la prohibición de consumir la carne de cerdo por las religiones se sostenían en considerar al cerdo un animal impuro. Por lo que se puede inferir que habría ocasionado pérdidas sustanciales a la ganadería porcina."
+      },
+      {
+        "statement": "Se colige de lo expuesto por el autor que el cerdo",
+        "alternatives": [
+          "A) fue sucedáneo del ganado vacuno en la Europa cristiana.",
+          "B) segrega sustancias tóxicas que generan bacterias letales.",
+          "C) es un animal anatemizado por las culturas occidentales.",
+          "D) fue utilizado en la gastronomía andina, limeña y oriental.",
+          "E) ha superado las vicisitudes de su existencia por su utilidad."
+        ],
+        "correct": 4,
+        "rationale": "Solución :.De lo sostenido por el autor sobre el cerdo se puede colegir que este ha superado las vicisitudes de su existencia por su utilidad."
+      }
+    ]
+  },
+  {
+    "type": "verbal_series",
+    "statement": "1. Bromatología, alimento; micología, hongo; calología,",
+    "alternatives": [
+      "A) placer .",
+      "B) belleza .",
+      "C) piel .",
+      "D) lengua .",
+      "E) lago ."
+    ],
+    "correct": 1,
+    "rationale": "Serie analógica de ciencia -objeto de estudio."
+  },
+  {
+    "type": "verbal_series",
+    "statement": "2. Derogar, promulgar; misoginia, androfobia; ominos o, afortunado;",
+    "alternatives": [
+      "A) zahúrda, cuchitril .",
+      "B) galimatías, confusión .",
+      "C) vilordo, holgazán .",
+      "D) vetusto, flamante .",
+      "E) dicaz, elogioso ."
+    ],
+    "correct": 3,
+    "rationale": "Serie verbal basada en antónimos."
+  },
+  {
+    "type": "verbal_series",
+    "statement": "3. Indique la serie verbal que presente solo sinónimos de la palabra vocinglero.",
+    "alternatives": [
+      "A) bullicioso, escandaloso, farragoso",
+      "B) circunspecto, locuaz, verboso",
+      "C) hablador, deslenguado , lenguaraz",
+      "D) modoso, morigerado , elocuente",
+      "E) ligero, atrabiliario , trovador"
+    ],
+    "correct": 2,
+    "rationale": "Los tres pertenecen al campo semántico referido."
+  },
+  {
+    "type": "verbal_series",
+    "statement": "4. Identifique el vocablo que no pertenece al campo semántico.",
+    "alternatives": [
+      "A) Secuoya",
+      "B) Roble",
+      "C) Eucalipto",
+      "D) Pino",
+      "E) Drosera"
+    ],
+    "correct": 4,
+    "rationale": "Campo semántico de los árboles. La drosera es una planta carnívora."
+  },
+  {
+    "type": "verbal_series",
+    "statement": "5. Sibarita, rústico; arcano, misterioso; inefable, decible;",
+    "alternatives": [
+      "A) tirria, empatía .",
+      "B) fausto, mustio .",
+      "C) conspicuo, ilustre .",
+      "D) cansino, ecuánime .",
+      "E) insípido, deslucido ."
+    ],
+    "correct": 2,
+    "rationale": "Serie de analogías mixta: antónimos, sinónimos, antónimos y debe continuar un par de sinónimos CONSPICUO, ILUSTRE."
+  },
+  {
+    "type": "verbal_series",
+    "statement": "6. Brisa, ventarrón; ventisca, céfiro; llovizna, aguacero;",
+    "alternatives": [
+      "A) tormenta, relámpago .",
+      "B) tornado, trueno .",
+      "C) nevada, tempestad .",
+      "D) chubasco , garúa .",
+      "E) torbellino, huracán ."
+    ],
+    "correct": 3,
+    "rationale": "Serie de analogías de intensidad de menos a más, de más a menos, de menos a más y debe completar la serie con de más a menos CHUBASCO, GARÚA."
+  },
+  {
+    "type": "verbal_series",
+    "statement": "7. Dificultoso, peliagudo, espinoso,",
+    "alternatives": [
+      "A) irresoluto.",
+      "B) arduo.",
+      "C) flemático.",
+      "D) ínclito.",
+      "E) probo."
+    ],
+    "correct": 1,
+    "rationale": "Serie de sinónimos."
+  },
+  {
+    "type": "verbal_series",
+    "statement": "8. Impúdico, inverecundo, insolente,",
+    "alternatives": [
+      "A) bizarro.",
+      "B) petulante.",
+      "C) gazmoño.",
+      "D) cínico.",
+      "E) ido."
+    ],
+    "correct": 3,
+    "rationale": "Serie de sinónimos."
+  },
+  {
+    "type": "verbal_series",
+    "statement": "9. Presumido, arrogante, ufano,",
+    "alternatives": [
+      "A) lujoso.",
+      "B) insulso.",
+      "C) orondo.",
+      "D) fastuoso.",
+      "E) circunspecto."
+    ],
+    "correct": 2,
+    "rationale": "Serie de sinónimos."
+  },
+  {
+    "type": "verbal_series",
+    "statement": "10. ¿Cuál es el término que no pertenece a la serie verbal?",
+    "alternatives": [
+      "A) Ladino",
+      "B) Astuto",
+      "C) Canijo",
+      "D) Sagaz",
+      "E) Taimado"
+    ],
+    "correct": 2,
+    "rationale": "Serie de sinónimos de astuto."
+  },
+  {
+    "type": "verbal_series",
+    "statement": "8. Impúdico, inverecundo, insolente,",
+    "alternatives": [
+      "A) bizarro.",
+      "B) petulante.",
+      "C) gazmoño.",
+      "D) cínico.",
+      "E) ido."
+    ],
+    "correct": 3,
+    "rationale": "Serie de sinónimos."
+  },
+  {
+    "type": "verbal_series",
+    "statement": "9. Presumido, arrogante, ufano,",
+    "alternatives": [
+      "A) lujoso.",
+      "B) insulso.",
+      "C) orondo.",
+      "D) fastuoso.",
+      "E) circunspecto."
+    ],
+    "correct": 2,
+    "rationale": "Serie de sinónimos."
+  },
+  {
+    "type": "verbal_series",
+    "statement": "10. ¿Cuál es el término que no pertenece a la serie verbal?",
+    "alternatives": [
+      "A) Ladino",
+      "B) Astuto",
+      "C) Canijo",
+      "D) Sagaz",
+      "E) Taimado"
+    ],
+    "correct": 2,
+    "rationale": "Serie de sinónimos de astuto."
+  },
+  {
+    "type": "reading_comprehension",
+    "statement": "“Los hombres comenzaron a filosofar movidos por la admiración, y siguen haciéndolo”. Esta sentencia de Aristóteles, que tiene su origen en Platón y que aún es válida en la actualidad, entiende por “admiración filosófica” el asombro ante los fenómenos y los acontecimientos inexplicables, del cual surge la cuestión acerca de las causas. En esta sentencia se plantea el problema del origen y del inicio de la filosofía: la filosofía de las distintas escuelas, no es la única que contiene un saber filosófico, sino que en éste se encuentra también presenten el mito, motivado a su vez por un cuestionamiento asombrado en busca de una explicación. Y realmente no es sencillo establecer el límite entre mito, pensamiento prefilosófico y filosofía, tal y como lo sugieren las divisiones establecidas por las historias de la filosofía. Las materias a las que estos ámbitos del saber se dedican, es decir, la cuestión acerca del inicio del mundo, la explicación de fe nómenos de la naturaleza y de las instituciones y normas sociales, son comunes a todos, pero se diferencian por el modo en que tratan estos temas y en, concreto, por el modo específico que cada uno tiene de expresarlos. La tan citada transición del mito al logos se manifiesta en la diferencia entre un lenguaje narrativo de historia de dioses y de héroes y un lenguaje argumentativo. En lugar de una explicación del mundo basada en los dioses, se busca progresivamente una forma racional del dominio del mundo. Aristóteles ilustra esta diferencia como sigue: “los mitólogos han reflexionado solo de modo comprensible para ellos mismos y no nos han tomado en consideración. Ya que, al hacer de los dioses principios, remiten el origen de todo a ellos y afirman que todo lo que no disfrutan de la ambrosía y el néctar es mortal, entonces es evidente que con esto dicen algo que es comprensible para nosotros. Pero no hay que aplicar consideraciones sesudas al conocimiento mítico. La información hay que buscarla en aquellos que argumenta con pruebas”. La filosofía griega no surge en el continente, sino en las colonias griegas de Asia Menor y del sur de Italia. Esto se debe a que en estos lugares la confrontación con nuevas cuestiones y problemas y con otras formas de pensamiento ofrece más estímulos para una discusión teórica que en la metrópoli. Las exigencias del tráfico y, especialmente, del comercio que parte de la polis y se extiende mucho más allá de sus fronteras, imponen sin más nuevas formas de argumentación y de com unicación lingüísticas y metodológicas más fiables y transparentes. Delius, Christoph (2005). Historia de la Filosofía .2005.Editorial : Ullmann Publishing",
+    "questions": [
+      {
+        "statement": "1. En el texto, el término MOVIDOS se refiere",
+        "alternatives": [
+          "A) sobrecogidos.",
+          "B) impresionados.",
+          "C) pasmados.",
+          "D) estimu lados.",
+          "E) alucinados."
+        ],
+        "correct": 3,
+        "rationale": "Según el texto, los hombres comenzaron a filosofar movidos por la admiración, y siguen haciéndolo. Movidos se refiere a impulsados, estimulados."
+      },
+      {
+        "statement": "2. El texto trata medularmente sobre",
+        "alternatives": [
+          "A) la aparición de la filosofía griega en Asia Menor.",
+          "B) la substitución del mito por la reflexión filosófica.",
+          "C) el pensamiento mítico en la cultura griega.",
+          "D) la lenta evolución del pensamiento mítico.",
+          "E) la interpretación mítico -religiosa del mundo."
+        ],
+        "correct": 1,
+        "rationale": "El autor sostiene que la explicación de los fenómenos naturales, del origen del mundo a través de los mitos fue abandonada por la explicación racional o logos."
+      },
+      {
+        "statement": "3. Señale la idea incompatible con el texto.",
+        "alternatives": [
+          "A) Los primeros pensadores excluyeron el uso de mitos en sus explicaciones.",
+          "B) El mito es la proyección de una realidad que es trasmitida oralmente.",
+          "C) La actitud de los primeros pensadores era rigurosamente contemplativa.",
+          "D) El mito es una incipiente explicación racional de los fenómenos naturales.",
+          "E) La explicación de las cosas se busca mediante argumentos racionales."
+        ],
+        "correct": 0,
+        "rationale": "En el texto se plantea que la filosofía de las distintas escuelas, no es la única que contiene un saber filosófico, sino que en este se encuentra también presentado el mito, motivado a su vez por un cuestionamiento asombrado en busca de una explicación."
+      },
+      {
+        "statement": "4. Se deduce del texto que, para Aristóteles ,la aparición de la filosofía se debe a que la interpretación mitológica no pudo argumentar sobre",
+        "alternatives": [
+          "A) los orígenes de las divinidades griegas.",
+          "B) la admiración al conocimiento evidente.",
+          "C) el fundamento último sobre la realidad.",
+          "D) las narraciones tradicionales de los poetas.",
+          "E) el comercio en las colonias de Asia Menor."
+        ],
+        "correct": 2,
+        "rationale": "Para el autor del texto, la filosofía pretende substituir a los mitos dando una respuesta racional al mismo problema que estos pretendían resolver: el problema sobre el principio último y eterno del que todo procede y del que todo se compone"
+      },
+      {
+        "statement": "5. Si el contacto con otras culturas no hubiese aportado un nuevo caudal de conocimientos, posiblemente,",
+        "alternatives": [
+          "A) todas las colonias griegas habrían entrado en conflicto.",
+          "B) la Grecia continental mantendría su ámbito influyente.",
+          "C) la democracia no habría sido un tema de interés social",
+          "D) el surgimiento de la filosofía se habría dado con celeridad.",
+          "E) la discusión sobre la cosmología seguiría en función a los mitos."
+        ],
+        "correct": 4,
+        "rationale": "Según el texto, la aparición de la filosofía de debió al intercambio de conocimientos entre las colonias griegas y otras culturas del Asia Menor producto del comercio que mantenían. Se empaparon de nuevos conocimientos, lo cual les permitió explicar mediante argumentos racionales el origen del mundo."
+      }
+    ]
+  },
+  {
+    "type": "reading_comprehension",
+    "statement": "El mapa gen ético humano identificó los 100 000 genes humanos en el ADN, pero no explicó los mecanismos que regulan el comportamiento de los genes, particularmente aquellos que provocan la diferencia entre hombres y mujeres o los que están en el origen de muchas enfermedades. Por esta razón se ha puesto en marcha un nuevo proyecto, el Epigenoma, que pretende cartografiar los cambios químicos (epigenéticos) que ocurren en la cadena de ADN y los mecanismos que activan o desactivan a los genes. Además permitirá averiguar para qué sirve cada uno de los genes que componen la arquitectura humana. Una tarea bastante compleja porque todos los genes no trabajan juntos. El proyecto se adentra en una región inexplorada: los mecanismos bioquímicos que ocurren en la cadena de ADN y en la molécula que contiene el código de la información genética. Estos mecanismos responden al nombre de metilación y uno de los procesos más conocidos de metilación es el que marca la diferencia genética entre hombres y mujeres. Esta diferenciación ocasiona que los genes se comporten n de manera distinta según provengan de la madre o del padre. Las diferencias que ocurren en el proceso de metilación entre un tejido sano y otro enfermo pueden detectarse e indicar un cambio en la actividad genética que entraña enfermedades como el cáncer, pero el conocimiento de estos mecanismos es hasta ahora bastante limitado. Lo que se trata de conocer con el proyecto Epigenoma es por qué estos cambios se producen en determinadas circunstancias y lugares. La metilación del ADN se trasmuta en el caso de numerosas enfermedades y está asociada a la respuesta a determinados medicamentos y otros factores, como la edad. El proyecto Epigenoma debe clarificar los vínculos reales que existen entre la genética, el entorno y la salud. Por ello, la integración de las informaciones genéticas y epigenéticas no solo va a permitirnos conocer mejor cómo y cuándo se activan o desactivan los genes, sino que al mismo tiempo aumentará nuestra resistencia a las enfermedades porque perfecciona la comprensión de la base biológica de la enfermedad y permite la detección precoz de muchas patologías. Tendencias Científicas. Martínez. E. Publicado Octubre 2004.",
+    "questions": [
+      {
+        "statement": "1. La palabra ENTRAÑA tiene el sentido de",
+        "alternatives": [
+          "A) separa.",
+          "B) acerca.",
+          "C) contiene.",
+          "D) condiciona.",
+          "E) enlaza."
+        ],
+        "correct": 3,
+        "rationale": "Según el texto las diferencias pueden detectarse e indicar un cambio en la actividad genética que entraña enfermedades como el cáncer”, es decir condiciona enfermedades, supone enfermedades."
+      },
+      {
+        "statement": "2. El texto trata, fundamentalmente, sobre",
+        "alternatives": [
+          "A) la base biológica de las enfermedades humanas y su tratamiento.",
+          "B) la posible activación o desactivación de la estructura del ADN.",
+          "C) el proceso de diferenciación genética en los seres humanos.",
+          "D) la identificación sexual a nivel bioquímico de algunos individuos .",
+          "E) la explicación de los procesos de metilación en el genoma humano."
+        ],
+        "correct": 4,
+        "rationale": "El texto se refiere a explicar cómo funciona el proceso bioquímico (epigenético) en la estructura del ADN"
+      },
+      {
+        "statement": "3. Es incompatible con el texto sostener que",
+        "alternatives": [
+          "A) los genes desarrollan funciones disímil es en el cuerpo humano.",
+          "B) el proceso de metilación permanece incólume ante las enfermedades.",
+          "C) se conocer ía las diferencia s entre un gen normal y otro cancerígeno.",
+          "D) las enfermedades se pueden producir en determinadas situaciones.",
+          "E) el proyecto Epigenoma lograría dilucidar los cambios genéticos."
+        ],
+        "correct": 1,
+        "rationale": "Según el texto la diferencia genética que ocurre entre hombres y mujeres es porque los genes se comportan de manera distinta según provengan de la madre o del padre."
+      },
+      {
+        "statement": "4. Según las investigaciones, el proceso de metilación",
+        "alternatives": [
+          "A) ha obstaculizado la identificación de la estructura del ADN .",
+          "B) puede contener el código de la información de los genes.",
+          "C) permite el acceso de activación o desactivación de los genes.",
+          "D) puede modificar la actividad o funcionamiento de los genes.",
+          "E) no permite conocer el comportamiento genético en humanos ."
+        ],
+        "correct": 3,
+        "rationale": "En el texto se menciona que “la metilación del ADN se trasmuta en el caso de numerosas enfermedades y está asociada a la respuesta a determinados medicamentos y otros factores, como la edad”. Al identificar y explicar la estructura de los genes se puede modificar su funcionamiento."
+      }
+    ]
+  },
+  {
+    "type": "sentence_elimination",
+    "statement": "4. Según las investigaciones, el proceso de metilación",
+    "alternatives": [
+      "A) ha obstaculizado la identificación de la estructura del ADN .",
+      "B) puede contener el código de la información de los genes.",
+      "C) permite el acceso de activación o desactivación de los genes.",
+      "D) puede modificar la actividad o funcionamiento de los genes.",
+      "E) no permite conocer el comportamiento genético en humanos ."
+    ],
+    "correct": 3,
+    "rationale": "En el texto se menciona que “la metilación del ADN se trasmuta en el caso de numerosas enfermedades y está asociada a la respuesta a determinados medicamentos y otros factores, como la edad”. Al identificar y explicar la estructura de los genes se puede modificar su funcionamiento."
+  },
+  {
+    "type": "sentence_elimination",
+    "statement": "5. Si la comprensión del proyecto epigenético resultara un fracaso, entonces",
+    "alternatives": [
+      "A) de todas maneras se comprendería el origen de las enfermedades.",
+      "B) se detectaría por otras formas el origen de las enfermedades.",
+      "C) no se lograría interpretar la herencia genética de los humanos.",
+      "D) ya se podría modificar la estructura de los genes humanos.",
+      "E) el proceso de metilación habría alcanzado un mayor desarrollo."
+    ],
+    "correct": 2,
+    "rationale": "Según el texto, si se logro identificar los genes humanos, solamente faltaría explicar cómo se expresan los genes, cómo funcionan. De esta manera se sabría interpretar los factores hereditarios y comprender mejor el origen de las enfermedades"
+  },
+  {
+    "type": "sentence_elimination",
+    "statement": "1. I) Los síntomas de triglicéridos altos son prácticamente inexistentes hasta que se manifiesta un daño significativo. II) La única manera de saber si los niveles de triglicéridos son elevados es la realización de un análisis de sangre. III) Este análisis es muy importante para quienes tienen antecedentes familiares de triglicéridos altos, ya que puede ser hereditario. IV) Si los triglicéridos son muy elevados durante un período prolongado de tiempo, pueden generar enfermedades en el páncreas, el hígado y el bazo . V) Los triglicéridos altos pueden llegar a desencadenar un ataque al corazón, como un accidente cerebro -vascular.",
+    "alternatives": [
+      "A) III",
+      "B) II",
+      "C) V",
+      "D) IV",
+      "E) I"
+    ],
+    "correct": 0,
+    "rationale": "El tema gira entorno a los triglicéridos altos. Se elimina la oración III por impertinencia."
+  },
+  {
+    "type": "sentence_elimination",
+    "statement": "2. I) En un ambiente como este, se hace imperiosa la necesidad que el Estado reformule las políticas educacionales y se ponga en acción programas culturales. II) Estamos viviendo un periodo muy difícil de nuestra historia, en el que desgraciadamente los vicios han triunfado y se han vuelto normales ciertas prácticas inmorales. III) Las autoridades que deberían respetar y hacer respetar las leyes también han sucumbido convirtiendo sus oficinas en pomposos negocios. IV) A merced de ciertas políticas educacionales y culturales erradas, las prácticas inmorales se han ido apoderando de nuestros pensamientos, dejándonos sin la capacidad de discernimiento. V) Los valores han quedado relegados y son los vicios los que conviven ya cotidianamente en todos los sectores sociales.",
+    "alternatives": [
+      "A) V",
+      "B) II",
+      "C) III",
+      "D) IV",
+      "E) I"
+    ],
+    "correct": 4,
+    "rationale": "El tema gira entorno a un actual periodo decadente de la sociedad. Se elimina la oración V por impertinencia."
+  },
+  {
+    "type": "sentence_elimination",
+    "statement": "3. I) El realismo mágico es un género de ficción desarrollado principalmente por los novelistas iberoamericanos durante la segunda mitad del siglo XX. II) El realismo mágico comparte características con el realismo épico, como la pretensión de dar verosimilitud interna a lo fantástico e irreal. III) Los elementos sobrenaturales, míticos y de creencia popular son recursos del realismo mágico. IV) En el realismo mágico no se trata de \"presentar la magia como que fuera real\" sino de presentar \"la realidad como si fuera mágica\". V) El realismo mágico cuenta con el novelista colombiano Gabriel García Márquez entre sus más destacados representantes.",
+    "alternatives": [
+      "A) IV",
+      "B) II",
+      "C) I",
+      "D) V",
+      "E) III"
+    ],
+    "correct": 3,
+    "rationale": "El tema gira entorno al realismo mágico. Se elimina la oración V por impertinencia."
+  },
+  {
+    "type": "sentence_elimination",
+    "statement": "4. I) La papa es una planta alimenticia que procede de las culturas preíncas e incas. II) En el territorio peruano se encuentra la mayor cantidad de especies de papa conocidas en el mundo. III) Actualmente en el Perú, es el principal cultivo del país en superficie sembrada y representa el 25% del PBI agropecuario. IV) Es la base de la alimentación de la zona andina y es producido por 600 mil pequeñas unidades agrarias. V) La papa es un producto que contiene en 100 gramos; 78 gr. de humedad; 18,5 gr. de almidón y es rico en potasio (560mg) y vitamina C (20 mg).",
+    "alternatives": [
+      "A) V",
+      "B) II",
+      "C) III",
+      "D) IV",
+      "E) I"
+    ],
+    "correct": 0,
+    "rationale": "El tema gira entorno a la papa, no a lo que contiene ella. Por lo tanto, se elimina la oración V por impertinencia."
+  },
+  {
+    "type": "sentence_elimination",
+    "statement": "5. I) Locke sostiene en su empirismo que todos los conceptos se incorporan a nuestra mente a través de la experiencia. II) El término empirismo proviene de una voz griega que significa experiencia. III) Por ello, Locke consideraba que la inducción es el instrumento adecuado para todo conocimiento empírico. IV) Locke extiende su tesis empirista, inclusive, a los enunciados de la lógica y de la matemática. V) Es más, el empirismo de Locke también se aplicaba a los juicios morales.",
+    "alternatives": [
+      "A) III",
+      "B) V",
+      "C) II",
+      "D) IV",
+      "E) I"
+    ],
+    "correct": 2,
+    "rationale": "El tema gira entorno a Locke; por ello, se elimina la oración II por impertinencia, pues explica etimológicamente empirismo."
+  },
+  {
+    "type": "sentence_elimination",
+    "statement": "6. I) En el campo de la ciencia, el conductismo ha sido desplazado por la revolución de las ciencias cognitivas. II) Dado que el conductismo se adhería al monismo materialista, criticaba todo tipo de dualismo. III) Asimismo, el conductismo criticaba con rigor el seudo método de la introspección. IV) Por su énfasis en el conocimiento objetivo, el conductismo c riticaba todo tipo de especulación en la ciencia. V) El conductismo se oponía también, al materialismo tradicional porque sus ideas eran inescrutables.",
+    "alternatives": [
+      "A) III",
+      "B) I",
+      "C) II",
+      "D) V",
+      "E) IV"
+    ],
+    "correct": 1,
+    "rationale": "El tema gira entorno las críticas del conductismo. Por ello, se elimina la oración I por impertinencia."
+  },
+  {
+    "type": "reading_comprehension",
+    "statement": "El Renacimiento europeo, con su absoluto desdén por todo lo que no estuviera inspirado directamente en la antigüedad grecolatina, había formulado un juicio adverso sobre la Edad Media, que se mantuvo vigente hasta el Romanticismo. No obstante, los románticos vieron el mundo medieval desde un ámbito exclusivamente novelesco; para ellos, se trataba solo de una brillante época de hazañas caballerescas y líricas actitudes idealistas. La Edad Media se nos ofrece hoy, no como un paréntesis de barbarie en la cultura europea ni como una época legendaria de fantasía y ensueño, sino como un periodo histórico dotado de acentuada personalidad y elevadísimos valores espirituales.\nLa Iglesia no se limite en la Edad Media a la difusión y defensa de los valores religiosos, sino que toma a su cargo la conservación de las tradiciones culturales. Clerecía y cultura serán durante mucho tiempo conceptos casi sinónimos, de la misma manera que la palabra\n\"clérigo\" vendrá a designar por igual al hombre de profesión religiosa y al culto.\nEn un principio, la labor de la Iglesia se reducía a asegurar la continuidad de la cultura\nantigua. Era el momento en que la escuela o el scriptorium monacal -donde se llevaba a\ncabo una paciente copia de viejos manuscritos -constituían el único oasis de civilización.\nPero, más tarde, cuando cambian las condiciones de la vida social y comienzan a surgir\nlas ciudades, la Iglesia siguiría influyendo en la cultura a través de las Universidades.\nDe acuerdo con las doctrinas eclesiásticas, tal como cristalizan en el movimiento\nesc., coloó del siglo XIII, el hombre medieval, guiado por una visión teocéntrica del\nuniverso, contempla e l mundo como un todo armónico regido por la Providencia divina y\nsometido a una jerarquía inmutable; siente que el orden social, político y religioso debe ser\nrespetado como obra de Dios y sabe que el pueblo ha sido creado para trabajar, la nobleza\npara ser modelo de rectitud y valor, y la clerecía para propagar la fe cristiana. La obediencia\na unos principios dictados por una autoridad indiscutible y el respeto al orden jerárquico\nestablecido se convierten así en la norma capital de la sociedad de la época.\nJunto a este sentido de disciplina, la cultura medieval ofrece una notable uniformidad, ya\nque la universal aceptación del latín como lengua escrita y la sumisión de todos a las\nverdades del cristianismo, favorecen la adhesión general a idénticas forma s de civilización.",
+    "questions": [
+      {
+        "statement": "Enunciado de la pregunta 2",
+        "alternatives": [
+          "A) desfavorable .",
+          "B) indiferente .",
+          "C) apologético .",
+          "D imprudente .",
+          "E) acertado ."
+        ],
+        "correct": 0,
+        "rationale": "En el texto se sostiene que durante el Renacimiento se gestó una posición adversa al Medioevo, esto es, una posición desfavorable."
+      },
+      {
+        "statement": "¿Con qué idea no se condice la postura del autor?",
+        "alternatives": [
+          "A) Los románticos vieron el mundo medieval solamente desde un ámbito novelesco.",
+          "B) La sociedad de la Edad Media se hallaba regida por una instrucción eclesiástica.",
+          "C) La Iglesia desempeñó un papel decisivo en el acatamiento del orden jerárquico.",
+          "D) Para el hombre renacentista, la cultura grecolatina era un referente civilizador.",
+          "E) Según el Romanticismo, el periodo medieval fue sin duda un estadio de barbarie."
+        ],
+        "correct": 4,
+        "rationale": "En el primer párrafo, el autor sostiene que para el Renacimiento, el desarrollo medieval habría sido un paréntesis de barbarie en la cultura europea . Mientras que en el Romanticismo calificaron al periodo medieval como legendario."
+      }
+    ]
+  },
+  {
+    "type": "sentence_elimination",
+    "statement": "¿Con qué idea no se condice la postura del autor?",
+    "alternatives": [
+      "A) Los románticos vieron el mundo medieval solamente desde un ámbito novelesco.",
+      "B) La sociedad de la Edad Media se hallaba regida por una instrucción eclesiástica.",
+      "C) La Iglesia desempeñó un papel decisivo en el acatamiento del orden jerárquico.",
+      "D) Para el hombre renacentista, la cultura grecolatina era un referente civilizador.",
+      "E) Según el Romanticismo, el periodo medieval fue sin duda un estadio de barbarie."
+    ],
+    "correct": 4,
+    "rationale": "En el primer párrafo, el autor sostiene que para el Renacimiento, el desarrollo medieval habría sido un paréntesis de barbarie en la cultura europea .Mientras que en el Romanticismo calificaron al periodo medieval como legendario."
+  },
+  {
+    "type": "sentence_elimination",
+    "statement": "Del texto se puede inferir que, para el autor, la cultura medieval",
+    "alternatives": [
+      "A) legitimó y justificó la existencia de las clases sociales.",
+      "B) se habría erigido sobre los cimientos grecolatinos.",
+      "C) percibía el cosmos como una estructura dinámica.",
+      "D) estuvo si gnada por un profundo espíritu romántico .",
+      "E) estuvo deslegitimada por las doctrinas eclesiásticas."
+    ],
+    "correct": 0,
+    "rationale": "El texto menciona que \" El hombre estuvo guiado por una visión teocéntrica que lo condujo a la aceptación del mundo como designio de Dios\". De ahí se infiere que, en su momento, la cultura medieval legitimó y justificó la existencia de clases sociales."
+  },
+  {
+    "type": "sentence_elimination",
+    "statement": "Si la Iglesia no hubiera participado de la enseñanza en las universidades, entonces",
+    "alternatives": [
+      "A) las diversas tradiciones católicas jamás se habrían conocido.",
+      "B) la sociedad medieval se habría guiado por una visión teocéntrica.",
+      "C) su repercusión en la cultura de la época habría disminuido.",
+      "D) el cristianismo habría sido hegemónico en el Renacimiento.",
+      "E) la homogeneidad cultural sería inaplicable al género humano."
+    ],
+    "correct": 2,
+    "rationale": "En el texto se señala que \"la Iglesia sigue influyendo en la cultura a través de las Universidades\". Entonces, si la Iglesia no se hubiera involucrado en la enseñanza impartida en ellas, posiblemente su presencia en el mundo medieval habría menguado."
+  },
+  {
+    "type": "sentence_elimination",
+    "statement": "Medularmente, el autor del texto presenta",
+    "alternatives": [
+      "A) una hipótesis sobre el aprendizaje de una lengua natural .",
+      "B) un enfoque genético sobre la complejidad de una gramática.",
+      "C) una investigación entorno a las conductas aprendidas.",
+      "D) una explicación innatista sobre la adquisición del lenguaje.",
+      "E) un análisis sobre la relación entre el medio social y el lenguaje."
+    ],
+    "correct": 3,
+    "rationale": "El autor del texto rechaza la posición de los conductistas sobre el lenguaje y toma partida la postura chomskiana: el ser humano nace predispuesto a desarrollar el lenguaje. Hay estructuras abstractas que le permiten utilizar una gramática."
+  },
+  {
+    "type": "sentence_elimination",
+    "statement": "En el texto, la frase TABLAS EN BLANCO connota",
+    "alternatives": [
+      "A) irracionalidad.",
+      "B) inexperiencia.",
+      "C) versatilidad.",
+      "D) docilidad.",
+      "E) ignorancia."
+    ],
+    "correct": 4,
+    "rationale": "El conductismo sostiene que el hombre al nacer es como una tabla en blanco, es decir carece de experiencia, de conocimientos de vida adquiridos por las circunstancias."
+  },
+  {
+    "type": "sentence_elimination",
+    "statement": "Resulta compatible aseverar que, en base a la postura del autor, que",
+    "alternatives": [
+      "A) el conductismo plantea bases sólidas para argumentar sobre el al origen del lenguaje.",
+      "B) la propuesta de Chomsky es consistente con el conocimiento lingüístico del niño.",
+      "C) la comunicación entre los padres y los niños es crucial para moldear una gramática.",
+      "D) los seres humanos han desarrollado una comunicación verbal por emulación.",
+      "E) la adquisición del lenguaje parte del adiestramiento y la influencia del medio social."
+    ],
+    "correct": 1,
+    "rationale": "El autor co ndice con las explicación de Chomsky sobre el desarrollo del lenguaje en el niño."
+  },
+  {
+    "type": "sentence_elimination",
+    "statement": "A partir de la crítica al conductismo, se puede inferir que Chomsky",
+    "alternatives": [
+      "A) propone la existencia de un conocimiento intuitivo en el niño.",
+      "B) es un lingüista que condice con el perfil teórico del empirismo.",
+      "C) analiza el entorno del niño para conocer las reglas gramaticales.",
+      "D) explica los nexos entre evolución cerebral y desarrollo del lenguaje.",
+      "E) rechaza la existencia de operaciones mentales en el uso lingüístico ."
+    ],
+    "correct": 0,
+    "rationale": "En el caso particular del lenguaje, es notable como los niños alcanzan a dominar algo tan complejo en poco tiempo y sin instrucción sistemática alguna. Puesto que, todo niño alrededor de su segundo año de vida, comenzará a utiliza r con fluidez un sistema que comprende numerosos principios gramaticales que no pudieron se aprendidos pues los datos de los que disponen respecto al sistema en sí mismo, es claramente insuficiente."
+  },
+  {
+    "type": "sentence_elimination",
+    "statement": "Si un lingüista concluyera que el lenguaje es adquirido solo por la experiencia",
+    "alternatives": [
+      "A) sería un severo crítico de la línea teórica del conductismo.",
+      "B) los argumentos teóricos de Chomsky se verían refrendados.",
+      "C) respaldaría la existencia de estructuras abstractas en la gramática.",
+      "D) refutaría la tesis de que el hombre nace como una tabla en blanco.",
+      "E) defendería la determinancia del entorno social del niño en el lenguaje ."
+    ],
+    "correct": 4,
+    "rationale": "Si un lingüista concluyera que el lenguaje es adquirido solo por la experiencia, estaría dentro del enfoque conductista. Por tanto, defendería la trascendencia del entorno social del niño en el lenguaje."
+  },
+  {
+    "type": "sentence_elimination",
+    "statement": "¿Es oportuno referirse al viejo conflicto entre mito y razón? Para los defensores del método analítico como único camino a seguir para alcanzar la realidad, es obvio que la mitología carece de los mínimos fundamentos para ser tenida en cuenta a la hora de comprender.",
+    "alternatives": [
+      "A) La mitología aporta fundamentos.",
+      "B) El mito debe ser aceptado como verdad.",
+      "C) La razón debe ser descartada.",
+      "D) El mito no aporta explicaciones adecuadas.",
+      "E) La narrativa mítica no es objeto de estudio."
+    ],
+    "correct": 3,
+    "rationale": "La idea principal es discutida entre mito y razón a través de la historia; el autor señala que la Ilustración y el Romanticismo se acercaron a la mitología sin mayores problemas, y la tradición romántica defendió contenidos que no estaban al alcance de la razón."
+  },
+  {
+    "type": "sentence_elimination",
+    "statement": "¿Cuál es la idea principal del texto?",
+    "alternatives": [
+      "A) El relato mitológico es contraproducente para el conocimiento humano.",
+      "B) La narración mítica resulta irrelevante en los procesos cognitivos.",
+      "C) La controversia entre mito y razón contribuyó al desarrollo intelectual.",
+      "D) A través del tiempo, la valoración del mito se justificó según posturas.",
+      "E) El análisis racional ha confrontado a la explicación mitológica."
+    ],
+    "correct": 3,
+    "rationale": "El autor del texto explica la valoración del mito según el periodo histórico que lo aborda."
+  },
+  {
+    "type": "sentence_elimination",
+    "statement": "En el texto, el antónimo contextual del término ABSTENER es",
+    "alternatives": [
+      "A) convencer",
+      "B) conmover",
+      "C) inhibir",
+      "D) imponer",
+      "E) atrever ."
+    ],
+    "correct": 4,
+    "rationale": "En el texto, abstener hace alusión a contenerse, entonces su antónimo en el contexto planteado es atrever."
+  },
+  {
+    "type": "sentence_elimination",
+    "statement": "Resulta congruente con el texto asegurar que los mitos",
+    "alternatives": [
+      "A) se hallan circunscritos dentro al método analítico.",
+      "B) eran pasibles de ser demostrados para Aristóteles.",
+      "C) fueron desestimados por los racionales ilustrados.",
+      "D) seducían al hombre ingenuo según los románticos.",
+      "E) sustentan relatos que no se sujetan a la razón humana."
+    ],
+    "correct": 4,
+    "rationale": "Según el autor, quienes han criticado los mitos parten del presupuesto de que estos relatos deberían ser demostrados. Sin embargo, esta forma de explicar hechos muy antiguos tiene otro camino ajeno a la racionalidad."
+  },
+  {
+    "type": "sentence_elimination",
+    "statement": "Es posible inferir que, para el autor del texto, el filósofo Aristóteles",
+    "alternatives": [
+      "A) contradijo a su maestro Platón entorno a valoraciones de la mitología.",
+      "B) admitió la presencia de la razón en relatos mitológicos sobre la creación.",
+      "C) se abstuvo de emitir una posición acerca de la veracidad de los mitos.",
+      "D) propuso someter a las narraciones míticas a una evaluación rigurosa.",
+      "E) habría formulado un juicio ecléctico entre la racionalidad y la mitología."
+    ],
+    "correct": 1,
+    "rationale": "Según el autor, el filósofo Aristóteles señaló que la razón y el mito griego de la creación comparten puntos de encuentro. Entonces, habría admitido la presencia de la razón en ellos."
+  }
+]

@@ -1,0 +1,500 @@
+[
+  {
+    "type": "reading_comprehension",
+    "statement": "La extrapolación consiste en contrastar el contenido de un texto determinado con información extratextual. El propósito es evaluar, de un lado, la plausibilidad de este contenido, es decir, su admisibilidad o validez y, de otro, su fecundidad, su capacidad para generar más conocimiento. En los test de comprensión lectora, la extrapolación es una forma de determinar el más alto nivel de comprensión. Si el contenido de un texto adquiere valor con este traslado conceptual (extra-polar es, justamente, colocar algo fuera, en otro polo) demuestra su eficiencia, su productividad, su fertilidad: se torna un elemento fundamental del conocimiento adaptativo. Asimismo, la extrapolación puede determinar la poca o nula fecundidad de las ideas desplegadas en un texto. La extrapolación puede realizarse de distintas maneras.",
+    "questions": [
+      {
+        "statement": "Si una sociedad fuera distinta a un fardo de rutinas, prejuicios y domesticidades,",
+        "alternatives": [
+          "A) sería la responsable de la carencia de individualidad.",
+          "B) el entorno del hombre sería un escollo en su desarrollo.",
+          "C) la personalidad individual solo sería parte de la añoranza.",
+          "D) cada individuo podría lograr diferenciarse de los demás.",
+          "E) resultaría imposible diferenciar a los individuos de esta."
+        ],
+        "correct": 3,
+        "rationale": "El autor sostiene que la mediocridad es la ausencia de características personales que permitan distinguir al individuo en su sociedad y esta es la responsable de ofrecer a todos un mismo fardo de rutinas, prejuicios y domesticidades."
+      }
+    ]
+  },
+  {
+    "type": "reading_comprehension",
+    "statement": "Los migrantes internos por motivos climáticos se están convirtiendo rápidamente en el informe del Banco rostro humano del cambio climático. Según el nuevo Mundial #Groundswell: Prepararse para las migraciones internas provocadas por impactos climáticos, a menos que se tomen medidas urgentes de acción climática a nivel nacional y mundial, para el año 2050 en África (al sur del Sahara), Asia meridional y América Latina más de 140 millones de personas podrían verse obligadas a migrar dentro de sus países.\n\nBANCO MUNDIAL (2018). «Prepararse para las migraciones internas provocadas por impactos climáticos». En\nde\nde\nBanco\n<http://www.bancomundial.org/es/news/infographic/2018/03/19/groundswell---preparing-for-internal-climate-migration>.\n\nRecuperado\n\nBIRF-AIF\n\nMundial\n\nmarzo\n\n2018.\n\ndel\n\nde\n\n19",
+    "questions": [
+      {
+        "statement": "1. El tema central del texto es",
+        "alternatives": [
+          "A) la escasez de medidas remediales que permitan atender el impacto del cambio climático a nivel mundial.",
+          "B) los factores que condicionan el cambio climático y el impacto en África y América Latina para el año 2050.",
+          "C) el impacto medioambiental de las migraciones en el mundo y sus posibles soluciones en África y México.",
+          "D) el cambio climático y su impacto en el aumento de migraciones en el mundo: visión prospectiva y posibles soluciones.",
+          "E) las migraciones motivadas por el cambio climático en el mundo y su impacto en la economía a nivel mundial."
+        ],
+        "correct": 3,
+        "rationale": "En efecto, el texto mixto no solo aborda el problema de las migraciones y su vinculación con el cambio climático, sino que elabora medidas remediales puntuales para cada zona."
+      },
+      {
+        "statement": "2. Si la resiliencia económica de Perú frente al cambio climático fuera débil,",
+        "alternatives": [
+          "A) muchas zonas afectadas por este fenómeno, como el norte del país, evidenciarían migraciones masivas a otras regiones.",
+          "B) las zonas costeras serían imbatibles ante escenarios devastadores causados por el calentamiento global en el mundo.",
+          "C) las tasas de natalidad serían controlables con lo cual el país mantendría su crecimiento económico en la región.",
+          "D) los efectos de este fenómeno mundial serían más agudos en Lima, debido al incremento de actividades comerciales.",
+          "E) actividades como la agricultura dejarían de practicarse debido a la carencia de suelos fértiles en territorio peruano."
+        ],
+        "correct": 0,
+        "rationale": "La resiliencia o adaptación económica podría aumentar o disminuir las migraciones, que, a su vez, están motivadas por el cambio climático. Si la adaptación es alta, las migraciones serán menores y, si esta es baja, las migraciones serán más altas."
+      }
+    ]
+  },
+  {
+    "type": "reading_comprehension",
+    "statement": "La explosión demográfica es determinante en cuanto a los efectos negativos del cambio climático, puesto que una población abundante en zonas con actividades económicas específicas determinaría migraciones numerosas, debido a una mayor afectación.",
+    "questions": [
+      {
+        "statement": "Si la tasa de natalidad en China, a pesar de la Ley del hijo único, aumentara de forma exorbitante",
+        "alternatives": [
+          "A) el Estado tendría que soslayar la manutención de cada región que resienta los efectos negativos del cambio climático en el mundo.",
+          "B) las zonas en las que existe poca diversificación de actividades económicas serían sensiblemente afectadas por el cambio climático.",
+          "C) los efectos en el continente asiático serían insalvables por la gran cantidad de chinos en extrema pobreza en el mundo.",
+          "D) podría afectar la zona de Bangladesh de tal forma que esta quede completamente pauperizada y posteriormente deshabitada.",
+          "E) el mundo quedaría polarizado, desde el punto de vista ético, por la ayuda inminente que se le tendría que brindar al país asiático."
+        ],
+        "correct": 1,
+        "rationale": "La explosión demográfica es determinante en cuanto a los efectos negativos del cambio climático, puesto que una población abundante en zonas con actividades económicas específicas determinaría migraciones numerosas, debido a una mayor afectación."
+      },
+      {
+        "statement": "Si el continente asiático en su totalidad incorporara como prioridad en sus políticas nacionales las migraciones generadas por el cambio climático",
+        "alternatives": [
+          "A) los efectos catastróficos de este fenómeno serían nulos en todo Bangladesh.",
+          "B) quienes padecen pobreza encararían mejor el problema que los acaudalados.",
+          "C) el impacto económico negativo se agudizaría debido a la pauperización global.",
+          "D) las consecuencias negativas afectarían únicamente al continente americano.",
+          "E) se anticiparían planes de contingencia para enfrentarlas de forma más efectiva."
+        ],
+        "correct": 4,
+        "rationale": "En Bangladesh se precisa de planes y políticas nacionales para enfrentar las migraciones motivadas por el cambio climático. Si toda Asia asumiera el problema en esos términos, las migraciones se arrostrarían de forma más efectiva."
+      },
+      {
+        "statement": "Si en el 2040 se evidenciara una nula sensibilización sobre los efectos del cambio climático mundial",
+        "alternatives": [
+          "A) los efectos en la economía global sean más acusados en Norteamérica.",
+          "B) el continente asiático sea el que menos castigo evidencie en el año 2050.",
+          "C) posiblemente para el 2050 las migraciones generen conflictos insalvables.",
+          "D) el mundo podría frenar los efectos negativos con la ayuda de las potencias.",
+          "E) Bangladesh y México desaparecerían debido a su incapacidad para prevenir."
+        ],
+        "correct": 2,
+        "rationale": "Las migraciones supondrían un problema si se carece de medidas preventivas o medidas remediales. Si la sensibilización mundial fuera nula, los efectos negativos en el mundo serán irreparables."
+      }
+    ]
+  },
+  {
+    "type": "reading_comprehension",
+    "statement": "¿Qué se sabe acerca del cerebro del corrupto? ¿Existe algún mecanismo neurobiológico que pueda explicar la deshonestidad? Pues parece que sí, un revelador estudio del University College de Londres publicado en Nature Neuroscience, encuentra que el cerebro humano es capaz de aceptar y adaptarse a la deshonestidad. \n\nLo que hicieron los científicos fue estudiar dos hechos de común observación: 1) ¿Cómo se explica que los grandes actos de corrupción empiecen siempre con pequeñas transgresiones, las cuales van creciendo progresivamente, hasta convertirse en delitos de gran magnitud? 2) ¿Cómo se explica que el miedo inicial que desarrolla el corrupto al darse cuenta de que está haciendo algo malo, va desapareciendo poco a poco con subsecuentes actos de deshonestidad; convirtiéndose progresivamente en un sinvergüenza que —como se dice popularmente— «ya no tiene sangre en la cara»? \n\nDebido a que estudios previos habían demostrado que la disminución de la actividad de la amígdala cerebral hacía que las personas se acostumbren progresivamente a estímulos negativos y que un estudio demostró que los estudiantes que tomaban un medicamento inhibidor de la función de la amígdala cerebral eran más propensos a copiar que los que no estaban medicados, los investigadores pensaron que la actividad de la amígdala cerebral tenía mucho que ver con la deshonestidad. Para demostrarlo, diseñaron un experimento en el que 55 voluntarios participaron en un juego que los tentaba a engañar a sus compañeros y favorecerse económicamente de manera deshonesta. El juego estaba diseñado de tal manera que, al no enterarse de que sus compañeros se daban cuenta del engaño, el deshonesto iba perdiendo el miedo a sus actos y se iba favoreciendo cada vez más y más. Lo novedoso del estudio, y algo que nunca se había hecho antes, fue que se estudió la actividad de la amígdala cerebral con la resonancia magnética funcional (fMRI), la cual permitió ver si la actividad de la amígdala cerebral iba aumentando o disminuyendo a medida que el deshonesto iba engañando más y más.\n\nLos resultados fueron impresionantes. Con los primeros actos deshonestos, la amígdala cerebral se activaba fuertemente, pero con cada subsecuente acto deshonesto, su actividad disminuía progresivamente, es decir, iba «acostumbrando» a los actos deshonestos. En otras palabras, el corrupto empieza poco a poco y al ir perdiendo la actividad de su amígdala cerebral, va perdiendo el miedo y se va acotumbriendo al delito. La consecuencia es que, al ir perdiendo el miedo al castigo, el corrupto avezado va aumentando la magnitud de sus actos deshonestos. El gran corrupto pierde entonces completamente la actividad de su amígdala cerebral. \n\nla amígdala cerebral se HUERTA, Elmer (2016). «El cerebro del corrupto». En El Comercio, publicado el 12 de diciembre de 2016. Recuperado de <https://elcomercio.pe/blog/cuidatusalud/2016/12/el-cerebro-del-corrupto>.",
+    "questions": [
+      {
+        "statement": "1. El tema central del texto es",
+        "alternatives": [
+          "A) los corruptos y la intensidad intempestiva de la amígdala cerebral.",
+          "B) los aspectos cerebrales que subyacen a los actos dolosos del corrupto.",
+          "C) la intensa actividad de la amígdala cerebral en los políticos deshonestos.",
+          "D) la amígdala cerebral como órgano específico que desata la corrupción.",
+          "E) la pérdida de sensibilidad de los corruptos y el deterioro de la amígdala"
+        ],
+        "correct": 1,
+        "rationale": "En efecto, el texto aborda el trasfondo cerebral de los corruptos."
+      },
+      {
+        "statement": "2. En el texto, el vocablo INHIBIDOR se refiere a un medicamento que",
+        "alternatives": [
+          "A) avasalla.",
+          "B) oprime.",
+          "C) domina.",
+          "D) desgasta.",
+          "E) impide."
+        ],
+        "correct": 4,
+        "rationale": "En el texto, se hace alusión a un medicamente que contenía la actividad de la amígdala cerebral. Esto es, que IMPIDE."
+      },
+      {
+        "statement": "3. Es incompatible con el desarrollo textual afirmar que, acerca de la comisión de actos dolosos,",
+        "alternatives": [
+          "A) se desarrolla de manera progresiva hasta que se genera costumbre.",
+          "B) el corrupto llega a perder la actividad de la amígdala de forma lenta.",
+          "C) las personas deshonestas pierden poco a poco el miedo por el dolo.",
+          "D) la amígdala del cerebro disminuye su intensidad de manera abrupta.",
+          "E) esta involucra una pérdida del temor a recibir una sanción o castigo."
+        ],
+        "correct": 3,
+        "rationale": "En el texto se menciona que el cambio es progresivo."
+      }
+    ]
+  },
+  {
+    "type": "reading_comprehension",
+    "statement": "SEMANA 7B\n\nLas manos son el principal articulador en las lenguas de señas (LS) de Ciudad de México, pero no el único. Por eso, debe tomarse en cuenta que, además de ciertas orientaciones y lugares de articulación en el espacio, existen las configuraciones manuales (CM), las cuales constituyen una característica tanto de la mano dominante como de la no dominante.\nExisten señas en las que, a pesar del movimiento y del cambio de configuración, la orientación de la mano dominante y de la mano base permanece igual, como ocurre, por ejemplo, en las señas de copia y cita, donde la mano dominante realiza dos movimientos, pero la palma conserva su orientación hacia abajo; asimismo, la palma de la mano base queda orientada hacia arriba. Caso similares el de la seña de a veces, en la cual las palmas de ambas manos están orientadas hacia abajo pese a que es una seña alternada.\n\nEn el caso de otras señas usadas por los signantes de Ciudad de México, la orientación de ambas manos es diferente una de otra desde el inicio de la articulación de la seña, por ejemplo, América, donde la mano de la palma dominante se encuentra hacia fuera, mientras que la de la mano base está hacia dentro. En esta seña, ambas manos quedan inmóviles.\n\nPor tanto, la CM es un rasgo distintivo que funge como componente interno en la estructura de la lengua de seña de Ciudad de México, aunque es característico de cualquier lengua de señas, y que puede entenderse como la forma que adoptan una o ambas manos.\nEn las CM se muestran los detalles que deben ser considerados al momento de realizar una seña. Estos detalles tienen que ver con la posición de los dedos, por ejemplo: si están unidos o separados, flexionados o estirados; la orientación del pulgar y el índice; si la mano se presenta abierta, en forma de garra, con el puño cerrado, etc. La CM es considerada como un componente de la matriz articulatoria. Siguiendo esta línea, las características de la CM están definidas por la actividad de la mano, los dedos y el pulgar.\n\nINDEDEPI CDMX (2017). Diccionario de lengua de señas mexicana, Ciudad de México. Ciudad de México, Indedepi.",
+    "questions": [
+      {
+        "statement": "Determine el tema central del texto.",
+        "alternatives": [
+          "A) La lengua de señas y las características de la configuración manual",
+          "B) La configuración manual en la lengua de señas de Ciudad de México",
+          "C) El detalle de las manos en la lengua de señas mexicana y su sentido",
+          "D) Los detalles de la forma en que los sordos se comunican por señas",
+          "E) Una aproximación al lenguaje usado por los signantes mexicanos"
+        ],
+        "correct": 1,
+        "rationale": "El texto se decanta en definir de manera puntual los aspectos relativos a la configuración manual de la lengua de señas, específicamente de Ciudad de México."
+      },
+      {
+        "statement": "En el texto, la palabra FUNGIR se puede reemplazar por",
+        "alternatives": [
+          "A) involucrar.",
+          "D) desencadenar.",
+          "B) comprender.",
+          "E) encargar.",
+          "C) funcionar."
+        ],
+        "correct": 2,
+        "rationale": "El vocablo hace referencia a la capacidad de la CF para desempeñar una función en concreto, de manera que el sinónimo en contexto es FUNCIONAR."
+      },
+      {
+        "statement": "Se deduce del desarrollo textual que es posible establecer una relación analógica entre la configuración manual de la lengua de señas y",
+        "alternatives": [
+          "A) el aparato articulatorio en lenguas orales.",
+          "B) la cavidad faríngea en personas no sordas.",
+          "C) el componente lingual denominado corona.",
+          "D) los efectos articulatorios de la cavidad nasal.",
+          "E) ciertos movimientos labiales y nasofaríngeos."
+        ],
+        "correct": 0,
+        "rationale": "En el texto se señala lo siguiente: «La CM es considerada como un componente de la matriz articulatoria […] las características de la CM están definidas por la actividad de la mano, los dedos y el pulgar». Al definirse en términos articulatorios, la configuración manual es equivalente al aparato fonador humano, que realiza actividad específica al hablar."
+      }
+    ]
+  },
+  {
+    "type": "reading_comprehension",
+    "statement": "LAKATOS, Imre (1993). Historia de la ciencia y sus reconstrucciones racionales. Simposio con la participación de Herbert Feigl, Richard J. Hall, Noretta Koertge y Thomas Kuhn. Madrid, Tecnos.\n\nEl historiador inductivista reconoce solo dos clases de descubrimientos científicos genuinos: las firmes proposiciones factuales y las generalizaciones inductivas. Ellas y solo ellas constituyen la médula de su historia interna; por consiguiente, las busca al escribir dicha historia —encontrarlas representa un problema considerable—. Y solo cuando las ha encontrado, puede empezar la construcción de su bella pirámide. Las revoluciones consisten en desenmascarar errores (irracionales) que inmediatamente son desterrados de la historia de la ciencia a la historia de las meras creencias: el auténtico progreso científico arranca de la última revolución científica en cualquier campo determinado. Sin embargo, el historiador inductivista no puede ofrecer una explicación ‘interna' racional de por qué fueron seleccionados unos determinados hechos en lugar de otros. Para él este es un problema no-racional, empírico y externo. El inductivismo en cuanto teoría 'interna' de racionalidad es compatible con muchas teorías empíricas o externas distintas y complementarias, de la elección-de-problema. Es compatible, por ejemplo, con la postura sustentada por el marxismo-vulgar o catequístico de que la elección-de-problema está determinada por las necesidades sociales y soslaya sus implicancias económicas, por ejemplo.\n\nEl falsacionismo contemporáneo surge como una crítica del inductivismo. El inductivismo es criticable respecto de dos supuestos fundamentales; a saber, que las proposiciones factuales pueden ser derivadas de los hechos, y que puede haber inferencias inductivas (con incremento de contenido) válidas. Estos dos supuestos son no-probados e, incluso, probadamente falsos. Según el código de honor del falsacionista, una teoría es científica solo si es posible contrastarla con un enunciado básico; y una teoría debe rechazarse si, de hecho, está en conflicto con un enunciado básico aceptado. Popper señaló una condición adicional que debe ser satisfecha por una teoría para poder calificarla de científica: debe predecir hechos nuevos, es decir, inesperados a la luz del conocimiento anterior. En consecuencia, es contrario al código popperiano del honor científico proponer teorías infalsables o hipótesis ad hoc (que no implican predicciones empíricas nuevas) —del mismo modo que va contra el código inductivista (clásico) del honor científico proponer teorías no-probadas. Para el historiador popperiano, la búsqueda de grandes, audaces teorías falsables y grandes experimentos cruciales negativos es medular. Ello forma el esqueleto de su reconstrucción racional. Los paradigmas de grandes teorías falsables, favoritas del popperiano, son las teorías de Newton y de Maxwell, entre otras.\n\nLAKATOS, Imre (1993). Historia de la ciencia y sus reconstrucciones racionales. Simposio con la participación de Herbert Feigl, Richard J. Hall, Noretta Koertge y Thomas Kuhn. Madrid, Tecnos.",
+    "questions": [
+      {
+        "statement": "El problema medular que se plantea en ambos fragmentos es",
+        "alternatives": [
+          "A) el conflicto entre los métodos inductivo y falsacionista en la historia de la ciencia.",
+          "B) los métodos históricos para detectar verdades de naturaleza fáctica e irrefutable.",
+          "C) la historia teorética de corte inductivo y su vínculo con la de carácter popperiano.",
+          "D) los meandros de la historia de la ciencia en la relación inducción-falsacionismo.",
+          "E) la discusión sobre la validez de los hechos para plantear una hipótesis sólida."
+        ],
+        "correct": 0,
+        "rationale": "En efecto, el fragmento A propone la visión inductivista, y en B se cuestiona la validez de esta desde el punto de vista falsacionista."
+      },
+      {
+        "statement": "En el texto A, el verbo DESENMASCARAR connota",
+        "alternatives": [
+          "A) detentación.",
+          "D) impugnación.",
+          "B) expulsión.",
+          "E) violencia.",
+          "C) ilegalidad."
+        ],
+        "correct": 1,
+        "rationale": "Se usa el término para aludir a un acto de descrédito o refutación de una creencia infundada. Por consiguiente, connota IMPUGNACIÓN."
+      }
+    ]
+  },
+  {
+    "type": "reading_comprehension",
+    "statement": "Stephen Hawking, el físico teórico británico que descubrió un vínculo entre la gravedad y la teoría cuántica y que declaró que los agujeros negros en realidad no son negros, ha fallecido, según contó un portavoz de la familia a The Guardian y Associated Press. «He was a great scientist and an extraordinary man whose work and legacy will live on for many years», declararon en un comunicado los hijos de Hawking, Lucy, Robert y Tim. «His courage and persistence with his brilliance and humor inspired people across the world». Hawking tenía 76 años, 50 años más de la edad que los médicos le dijeron que debía esperar alcanzar tras diagnosticarle en 1963 esclerosis lateral amiotrófica (ELA), también conocida como enfermedad de Lou Gehrig. «Pocos o ninguno han hecho más para ampliar nuestro conocimiento de la gravedad, el espacio y el tiempo», dijo el astrofísico británico Martin Rees. Para celebrar el improbable 70 cumpleaños de su colega de Cambridge, recordó a un joven que era inestable y hablaba con gran dificultad. Nadie esperaba que viviera lo suficiente para obtener su doctorado. Aunque su enfermedad degenerativa lo paralizó progresivamente y le quitó el habla, Hawking hizo mucho más que sobrevivir. Se convirtió «posiblemente en el científico más famoso del mundo, aclamado por su brillante labor de investigación, por sus libros superventas y, por encima de todo, por su impresionante triunfo sobre la adversidad», afirmó Rees. Para Hawking, el salto científico a la fama llegó con su revelación de que el universo había comenzado en una singularidad, un punto del espacio-tiempo de densidad infinita. En colaboración con el físico matemático Roger Penrose, demostraría que la teoría de la relatividad general de Einstein «implicaba que el espacio y tiempo tendrían su origen en el big bang y su final en los agujeros negros», según la web de Hawking, y que «la forma en que nació el universo estaba completamente determinada por las leyes de la ciencia». A principios de los setenta, fue el primero en demostrar que la radiación se escapa de los agujeros negros y que los agujeros no son completamente negros. Años después, Hawking diría que los agujeros negros no tienen horizontes de sucesos o puntos de no retorno y que necesitábamos replantearnos qué sabíamos sobre uno de los objetos más misteriosos del espacio. Antes de su final, Hawking escribió en su página web respecto al sintetizador de voz que le mantuvo conectado al mundo. «Es lo mejor que he oído nunca, aunque me da un acento que han descrito de varias formas: escandinavo, americano o escocés», escribió.",
+    "questions": [
+      {
+        "statement": "1. El texto, centralmente, puede ser definido como",
+        "alternatives": [
+          "A) la exposición acerca de la máquina que le permitió hablar a Stephen Hawking.",
+          "B) un informe sobre la teoría de los agujeros negros propuesta por Stephen Hawking.",
+          "C) la noticia acerca de la vida y obra del descollante físico inglés Stephen Hawking.",
+          "D) una recensión sobre el aporte de Hawking a la física a propósito de su muerte.",
+          "E)los datos propuestos por los hijos de Stephen Hawking acerca de la vida de este."
+        ],
+        "correct": 3,
+        "rationale": "En rigor, se trata de una reseña sobre la obra, con ciertos detalles de su vida, a propósito del deceso del notable físico."
+      },
+      {
+        "statement": "2. De la cita en inglés «He was a great scientist and an extraordinary man whose work and legacy will live on for many years», y la cita «His courage and persistence with his brilliance and humor inspired people across the world» se puede afirmar que",
+        "alternatives": [
+          "A) el científico Stephen Hawking, además de luchador tenaz debido a su enfermedad, fue una persona con un extraordinario y envidiable sentido del humor.",
+          "B) la figura de Hawking se define tanto por la relevancia y la vigencia de su aporte en el campo de la física como por la tenacidad para sobreponerse a su enfermedad.",
+          "C) Stephen Hawking se caracterizó por luchar contra la enfermedad que lo mantuvo postrado durante años para inspirar a múltiples personas alrededor del mundo.",
+          "D) la vida del físico está íntimamente vinculada con una persistente fuerza para luchar contra la inclemente enfermedad que lo aquejó, a fin de superar a Einstein.",
+          "E) el gran científico que fue Stephen Hawking lamentablemente se vio opacado por la terrible enfermedad que le impidió aportar en el campo de la física cuántica."
+        ],
+        "correct": 1,
+        "rationale": "La segunda cita señala que Hawking se define por la relevancia y la vigencia de su aporte en la física y por la tenacidad para sobreponerse a su enfermedad."
+      }
+    ]
+  },
+  {
+    "type": "reading_comprehension",
+    "statement": "«He was a great scientist and an extraordinary man whose work and legacy will live on for many years», y la cita «His courage and persistence with his brilliance and humor inspired people across the world»",
+    "questions": [
+      {
+        "statement": "De la cita en inglés «He was a great scientist and an extraordinary man whose work and legacy will live on for many years», y la cita «His courage and persistence with his brilliance and humor inspired people across the world» se puede afirmar que",
+        "alternatives": [
+          "A) el científico Stephen Hawking, además de luchador tenaz debido a su enfermedad, fue una persona con un extraordinario y envidiable sentido del humor.",
+          "B) la figura de Hawking se define tanto por la relevancia y la vigencia de su aporte en el campo de la física como por la tenacidad para sobreponerse a su enfermedad.",
+          "C) Stephen Hawking se caracterizó por luchar contra la enfermedad que lo mantuvo postrado durante años para inspirar a múltiples personas alrededor del mundo.",
+          "D) la vida del físico está íntimamente vinculada con una persistente fuerza para luchar contra la inclemente enfermedad que lo aquejó, a fin de superar a Einstein.",
+          "E) el gran científico que fue Stephen Hawking lamentablemente se vio opacado por la terrible enfermedad que le impidió aportar en el campo de la física cuántica."
+        ],
+        "correct": 4,
+        "rationale": "La primera cita «Fue un gran científico y un hombre extraordinario cuya labor y legado perdurarán durante muchos años», y la segunda «Su valor y persistencia con su genialidad y humor inspiraron a personas de todo el mundo» destacan dos aristas: el brillante aporte de su obra, por un lado, y el coraje junto con el humor por otro."
+      },
+      {
+        "statement": "Se deduce del desarrollo textual que la prolongada vida de Stephen Hawking es",
+        "alternatives": [
+          "A) los efectos de la enfermedad que lo mantuvo postrado fueron revertidas mediante tratamientos modernos.",
+          "B) la inercia en la que se mantuvo jamás fue obstáculo para que el joven físico pudiera crear teorías innovadoras.",
+          "C) la fortaleza del físico se resquebrajó cuando este bordeaba los 50 años de vida debido a las limitaciones físicas.",
+          "D) la tecnología hubiera podido mantener el cerebro del físico durante algunos años más a pesar de su muerte física.",
+          "E) la enfermedad padecida por el físico es tan severa que se esperaba su deceso a una edad mucho más temprana."
+        ],
+        "correct": 4,
+        "rationale": "Se pensó que el físico moriría a los 26 años; sin embargo, sobrevivió 50 años más de lo pensado."
+      },
+      {
+        "statement": "Si la esclerosis lateral amiotrófica (ELA) hubiera degenerado la capacidad cognitiva de Stephen Hawking",
+        "alternatives": [
+          "A) es muy probable que el aporte teórico de este haya quedado trunco.",
+          "B) los agujeros negros habrían permanecido ignotos permanentemente.",
+          "C) los efectos de la enfermedad serían superados con la tecnología.",
+          "D) el tratamiento contra la enfermedad habría sido planteado por este.",
+          "E) el físico habría recurrido a su genialidad para encontrar un remedio."
+        ],
+        "correct": 0,
+        "rationale": "La enfermedad no impidió que siguiera produciendo teóricamente, de manera que, si cambiamos la condición respecto de su dolencia, su aporte habría sido impensable."
+      },
+      {
+        "statement": "Si el desarrollo tecnológico hubiera sido más lento en comparación con la degeneración física padecida por Hawking,",
+        "alternatives": [
+          "A) el sintetizador que le permitió comunicarse habría sido usada para silabear.",
+          "B) habría mantenido el acento irlandés que lo caracterizaba cuando era joven.",
+          "C) es posible que nunca haya podido usar el sintetizador que le permitió hablar.",
+          "D) sus propuestas más sugerentes habrían sido publicadas en formato virtual.",
+          "E) este habría podido comunicarse mediante la lengua de señas americana."
+        ],
+        "correct": 2,
+        "rationale": "El avance tecnológico permitió que el físico pueda comunicarse. De carecer de tecnología sofisticada, hubiera quedado incomunicado de forma permanente."
+      },
+      {
+        "statement": "Es compatible, respecto de los aspectos íntimos de Stephen Hawking, afirmar que",
+        "alternatives": [
+          "A) pudo teorizar sobre aspectos intrincados del cosmos gracias la intensa labor de sus pequeños hijos.",
+          "B) generaba afecto y simpatía por su sentido del humor, a pesar de estar impedido de comunicarse físicamente.",
+          "C) fue admirado por sus hijos; sin embargo, jamás pudieron intimar con su padre debido a su enfermedad.",
+          "D) los reconocimientos que le prodigaron se circunscribían al ámbito académico, y no al entorno familiar.",
+          "E) era una persona que quedó impedido de empatizar con sus pares debido a lo dolorosa de su enfermedad."
+        ],
+        "correct": 1,
+        "rationale": "Gracias al sintetizador de voz pudo interactuar con sus pares y su familia. Sus hijos recuerdan no solo su genialidad sino su sentido del humor."
+      }
+    ]
+  },
+  {
+    "type": "reading_comprehension",
+    "statement": "René Descartes, filósofo y matemático francés del siglo XVII, no fue biólogo ni psicólogo,\npero sus especulaciones sobre el papel de la mente y el cerebro en el control de la conducta\nnos proporcionan un buen punto de partida en la historia de la moderna Psicología\nfisiológica.\n\nComo muchos filósofos de su época, Descartes era dualista; pensaba que los\nhumanos tenemos un cuerpo, que funciona como una máquina, y una mente o alma, que\nes inmaterial, la cual no está sujeta a las leyes del universo y es lo que nos diferencia de\\los animales. No obstante, su pensamiento se destacó del de sus predecesores, puesto que\nfue el primero en sugerir que existía un vínculo entre la mente humana y el cerebro.\nPensaba que la mente controlaba los movimientos del cuerpo, mientras que este último\nproporcionaba a aquella la información de lo que estaba sucediendo en el ambiente.\n\nDescartes propuso un modelo del cerebro basado en la observación de autómatas\nactivados hidráulicamente. Observó que el encéfalo contiene cavidades vacías (hoy día\nconocido como líquido cefalorraquídeo). Hipotetizó que cuando la mente decide ejecutar\nuna acción, inclina la glándula pineal en una dirección particular (como si se tratara de una\npalanca de control) y provoca que el fluido se traslade desde el cerebro a un conjunto\ndeterminado de nervios. Este flujo del líquido hace que los músculos adecuados se hinchen\ny se produzca el movimiento.\n\nEste modelo, pese a no ser correcto y ser puramente especulativo, animó mucho la\ninvestigación y estimuló observaciones experimentales que resultaron ser importantes\ndescubrimientos para la Fisiología de la conducta. Por ejemplo, Luigi Galvani, un fisiólogo\nitaliano del siglo XVII, observó que la estimulación eléctrica de un nervio de rana producía\nla contracción del músculo al que estaba unido. Los músculos se contraían (nose\nhinchaban), incluso cuando el nervio y el músculo estaban separados del resto del cuerpo\ny, por tanto, el cerebro no hinchaba los músculos.\n\nSORIANO MAS, Carles (2007). Fundamentos de neurociencia. Cataluña, Editorial UOC",
+    "questions": [
+      {
+        "statement": "¿Cuál es el tema central del texto?",
+        "alternatives": [
+          "A) La trascendencia filosófica de la posición dualista de René Descartes",
+          "B) Los aportes de Descartes en los estudios de la Psicología fisiológica",
+          "C) La influencia teórica de Descartes en los experimentos de Luigi Galvani",
+          "D) El desarrollo de la Psicología fisiológica a partir de los análisis filosóficos",
+          "E) El estudio de las funciones orgánicas del cerebro y la mente humana"
+        ],
+        "correct": 1,
+        "rationale": "El texto inicia presentando el tema central que abordará, el cual gira entorno a cómo los estudios de Descartes motivaron las investigaciones en la Psicología fisiológica."
+      },
+      {
+        "statement": "En el texto, el término SUJETAR significa",
+        "alternatives": [
+          "A) arraigar.",
+          "D) adosar.",
+          "B) cohesionar.",
+          "E) regir.",
+          "C) coercer."
+        ],
+        "correct": 3,
+        "rationale": "En el texto se sostiene que para Descartes el cuerpo poseía una naturaleza dualista. En ella, la mente es inmaterial y no está sujeta a las leyes del universo y es lo que nos diferencia de los animales. En este caso, la palabra «sujeta» significa regir."
+      },
+      {
+        "statement": "Se condice con el gráfico sostener que Descartes",
+        "alternatives": [
+          "A) sentó las bases de la fisiología de la conducta con su diseño del cerebro.",
+          "B) destaca la independencia del alma ola mente en su modelo cerebral.",
+          "C) propone un diseño del cerebro tal como se conoce en la actualidad.",
+          "D) muestra a los músculos totalmente inconexos de la actividad cerebral.",
+          "E) plantea la función del cerebro y su relación con el entorno del individuo."
+        ],
+        "correct": 4,
+        "rationale": "El gráfico es el modelo del cerebro según Descartes, en el cual se muestra la función del cerebro y su relación con el entorno del individuo."
+      },
+      {
+        "statement": "Del texto se colige que el modelo cerebral de Descartes",
+        "alternatives": [
+          "A) a pesar de no ser puramente especulativo, es un diseño preciso.",
+          "B) motivó la investigación y estimuló observaciones experimentales.",
+          "C) se erige al margen de la concepción dualista de este filósofo.",
+          "D) resultó inexacto debido a que sus análisis obviaron seres vivos.",
+          "E) fue corroborado por el experimento con ranas de Luigi Galvani."
+        ],
+        "correct": 3,
+        "rationale": "El texto indica que el modelo fue incorrecto porque se basó en la observación de máquinas activados hidráulicamente y no analizó seres vivos."
+      },
+      {
+        "statement": "Si Descartes no hubiera tenido una postura dualista,",
+        "alternatives": [
+          "A) posiblemente, su modelo del cerebro habría omitido la relación cuerpo-mente.",
+          "B) habría compartido el mismo enfoque de la mayoría de los filósofos de la época.",
+          "C) no se habría interesado por el papel de la mente en el control de la conducta.",
+          "D) sus estudios podrían haber sido más provechosos para la Psicología fisiológica.",
+          "E) sería el pionero en sostener la existencia de un vínculo entre la mente y el cerebro."
+        ],
+        "correct": 0,
+        "rationale": "En el texto se sostiene que la concepción dualista de Descartes permite que este filósofo planteara que los humanos tenemos un cuerpo, que funciona como una máquina, y una mente o alma."
+      }
+    ]
+  },
+  {
+    "type": "reading_comprehension",
+    "statement": "La guerra es una actividad humana. Es, incluso, el ejercicio intelectual más fascinante al\nque puede dedicarse un hombre. Pero ese ejercicio intelectual puesto en práctica es, todos\\estamos de acuerdo, algo terrible. Una de las armas primordiales en el ejercicio de la guerra\nes aquella que pueda gobernar el intelecto y los sentimientos humanos, algo que el viejo\nmaestro Aristóteles llamaba persuasión y que utilizada en el campo de batalla llamamos\npropaganda de guerra, desinformación o guerra psicológica. Desde los más remotos\\orígenes de la humanidad, la guerra ha sido un factor fundamental del desarrollo de la\ncivilización. Una desgracia, sí. Una plaga, desde luego. Pero la guerra —y no parece que\npara ella haya llegado el «fin de la historia»— ha puesto siempre a los hombres en una\nsituación límite en la que han tenido que aguzar el ingenio para sobrevivir.\n\nEsa terrible necesidad ha dado lugar a descubrimientos, invenciones, nuevas\ntecnicas, etc., que aplicados en tiempo de paz han mejorado sustancialmente a lo largo de\\los siglos la vida de la humanidad. También en el terreno de la comunicación social, la\nguerra ha sido un factor de progreso. Guerra y propaganda son dos conceptos que han ido\nestrechamente unidos a lo largo de la historia. Guerra y guerra psicológica son casi\nsencillamente sinónimos, o el uno contiene al otro. Para no remontarnos a la Antigüedad\nclásica, baste decir que nada de lo que se entiende como opinión pública, encuestas de\nopinión, publicidad comercial, etc. hoy día sería lo que es sino hubiera habido una Primera\nGuerra Mundial en la que por primera vez las potencias beligerantes crearon grandes y\norganizadas maquinarias de propaganda, que aplicada por primera vez de manera\nsistemática adquirió el rango de una verdadera ciencia.\n\nSe habla mucho hoy del nuevo papel de los medios de comunicación y la defensa.\nPersonalmente, soy de los que creen en aquella máxima clásica de que «no hay nada nuevo\nbajo el sol», o más bien muy poco. Así podría intentar demostrar que el papel de los medios\nde comunicación en relación con la defensa no es muy distinto hoy del que los medios de\\masas han desempeñado respecto a estas cuestiones a lo largo de los siglos XIX y XX, al\nmenos en lo esencial.\n\nCONTRERAS, R. F. (2004). Cultura de guerras. Madrid, Ediciones Cátedra.",
+    "questions": [
+      {
+        "statement": "En última instancia, el autor del texto tiene la intención de",
+        "alternatives": [
+          "A) destacar la utilidad de la propaganda durante un conflicto armado.",
+          "B) dilucidar la naturaleza de la guerra psicológica en la actualidad.",
+          "C) describir las características esenciales de la guerra psicológica.",
+          "D) respaldar la postura de Aristóteles sobre el ejercicio de la guerra.",
+          "E) plantear el trasfondo bélico en los medios de comunicación."
+        ],
+        "correct": 4,
+        "rationale": "Al final del texto, el autor plantea su postura sobre la orientación bélica en los medios de comunicación, la persuasión, y en esta sostiene que, a pesar del tiempo transcurrido, estos siguen desarrollando el mismo papel."
+      },
+      {
+        "statement": "En el texto, el sentido del término AGUZAR es",
+        "alternatives": [
+          "A) estimular.",
+          "D) coercer.",
+          "B) menguar.",
+          "E) alivianar.",
+          "C) soslayar."
+        ],
+        "correct": 0,
+        "rationale": "En el texto se sostiene que la guerra, de alguna manera, predispone a los hombres a aguzar el ingenio para sobrevivir. El término «AGUZAR» significa «ESTIMULAR»."
+      },
+      {
+        "statement": "En el texto, el autor sostiene que la guerra",
+        "alternatives": [
+          "A) ha sido responsable del desarrollo de la civilización, según Aristóteles.",
+          "B) carece de responsabilidad en el desarrollo de las nuevas tecnologías.",
+          "C) hizo inviable el progreso de la humanidad durante los siglos XIX y XX.",
+          "D) ha formado parte de la vida del hombre y ha evolucionado junto a él.",
+          "E) es una práctica encomiable que asegura la insubordinación del intelecto."
+        ],
+        "correct": 3,
+        "rationale": "Según el autor, la guerra es una actividad humana y a pesar de ser una actividad repudiable esta ha permitido el desarrollo del hombre."
+      },
+      {
+        "statement": "Del texto, se colige que el papel de los medios de comunicación sobre la defensa",
+        "alternatives": [
+          "A) fue responsable de sucesos atroces como la Primera Guerra Mundial.",
+          "B) se halla abocado a los mismos objetivos desde la época decimonónica.",
+          "C) ha sufrido cambios sustanciales en salvaguarda del progreso humano.",
+          "D) está enfocado hoy en día de manera muy distinta a los siglos XIX y XX.",
+          "E) ha renunciado a la dominación del intelecto y de las emociones humanas."
+        ],
+        "correct": 1,
+        "rationale": "Al final del texto, el autor plantea que el papel de los medios de comunicación en relación a la defensa no es muy distinto hoy del que los medios de masas han desempeñado respecto a esto a lo largo de los siglos XIX y XX."
+      },
+      {
+        "statement": "Si resultara imposible gobernar el intelecto y los sentimientos humanos, entonces",
+        "alternatives": [
+          "A) poner en marcha la guerra psicológica sería infructuosa.",
+          "B) la propaganda de guerra garantizaría el triunfo en batalla.",
+          "C) la guerra sería meramente especulativa, mas no práctica.",
+          "D) la persuasión sería muy efectiva para ganar una contienda.",
+          "E) las personas dejarían de enfrentarse entre ellas por subsistir."
+        ],
+        "correct": 0,
+        "rationale": "En el texto se sostiene que mediante la guerra se puede gobernar el intelecto y los sentimientos humanos, algo que Aristóteles llamaba persuasión y que utilizada en batalla se llama propaganda de guerra, desinformación o guerra psicológica."
+      },
+      {
+        "statement": "Si resultara imposible gobernar el intelecto y los sentimientos humanos, entonces",
+        "alternatives": [
+          "A) poner en marcha la guerra psicológica resultaría infructuosa.",
+          "B) la propaganda de guerra garantizaría el triunfo en batalla.",
+          "C) la guerra sería meramente especulativa, mas no práctica.",
+          "D) la persuasión sería muy efectiva para ganar una contienda.",
+          "E) las personas dejarían de enfrentarse entre ellas por subsistir."
+        ],
+        "correct": 0,
+        "rationale": "En el texto se sostiene que mediante la guerra se puede gobernar el intelecto y los\nsentimientos humanos, algo que Aristóteles llamaba persuasión y que utilizada en\nbatalla se llama propaganda de guerra, desinformación o guerra psicológica."
+      }
+    ]
+  },
+  {
+    "type": "reading_comprehension",
+    "statement": "Un campesino de la provincia de Hebei, en el noreste de China encontró el fósil en el año 2014: un esqueleto casi completo de 161 millones de años de antigüedad, del Jurásico superior, con impresiones de plumas a su alrededor. La descripción científica del espécimen fue publicada recién este año en Nature Communications. Los colores del fósil son apagados, pero los científicos saben que el dinosaurio era parecido a un ave y que en la zona del cuello lucía un espléndido plumaje iridiscente, es decir, con los colores del arcoíris. Y lo saben porque las impresiones de plumas han conservado las formas de los melanosomas, que tienen un gran parecido con los melanosomas que hay en las plumas iridiscentes de los colibríes. Esta nueva especie de dinosaurio con plumas ha sido denominada Caihong juji, un nombre que en mandarín significa «arcoíris con la gran cresta», en referencia a otro de sus atributos: una cresta o protuberancia ósea sobre el hocico que, al igual que su colorido plumaje, seguramente atraía a los de su especie. El fósil del nuevo dinosaurio, del tamaño de una gallina, es interesante porque tiene características tanto antiguas como modernas. La cresta ósea es una característica que ya se había observado en dinosaurios de eras anteriores, mientras que las plumas de su cuello muestran evidencias de unos melanosomas que podrían representar la primera aparición de una coloración iridiscente en dinosaurios. Caihong es, además, el dinosaurio conocido más antiguo con plumas asimétricas, un tipo de plumas que se encuentran en los extremos de las alas de las aves modernas y que ayudan a controlar el vuelo, pero las plumas asimétricas de Caihong se encontraban en la cola y no en las alas, un hallazgo que indica que los primeros pájaros tenían un estilo de vuelo diferente y característico. «Esto sugiere que el control del vuelo primero debió de evolucionar con las plumas de la cola», sostiene Xing Xu, de la Academia China de las Ciencias y coautor del estudio. «Its combination of features is unusual: it had the appearance of Velociraptor and an elongated skull with an abundant plumage and a large tail like a fan. A really fantastic or maybe spooky dinosaur depending on the perspective», expresa Julia Clarke, de la Universidad de Texas en Austin, firmante también del estudio. FORSSMANN, Alec (2018). «Un extravagante dinosaurio con una cresta ósea y plumas iridisentes como las de colibríes». Recuperado Geographic colibríes». España. National los En",
+    "questions": [
+      {
+        "statement": "¿Cuál es la intención del autor?",
+        "alternatives": [
+          "A) revelar el hallazgo sorprendente de un dinosaurio velociraptor al cual denominaron Caihong juji.",
+          "B) explicar la relación entre los dinosaurios con plumas del periodo Jurásico y las aves voladoras modernas.",
+          "C) dilucidar los factores que intervinieron en la forma extravagante de un resto fósil de dinosaurio hallado en China.",
+          "D) informar sobre el hallazgo de los restos fósiles de un dinosaurio emplumado denominado Caihong juji.",
+          "E) destacar la importancia del fósil hallado en China para los estudios sobre la evolución de las aves."
+        ],
+        "correct": 3,
+        "rationale": "El autor del texto tiene la intención de informar el hallazgo del fósil de un dinosaurio con plumas de rasgos inusuales denominado Caihong juji."
+      },
+      {
+        "statement": "En el texto, el sentido contextual del término APAGADO es",
+        "alternatives": [
+          "A) opaco.",
+          "D) imperceptible.",
+          "B) místico.",
+          "E) frágil.",
+          "C) adusto."
+        ],
+        "correct": 0,
+        "rationale": "En el texto se sostiene que los colores del fósil son apagados, es decir, opacos. Pero, se trataría de un ave de colores iridiscentes."
+      },
+      {
+        "statement": "De la cita en inglés se puede afirmar que",
+        "alternatives": [
+          "A) el dinosaurio Caihong juji poseía plumas en forma de abanico en la cabeza.",
+          "B) las plumas coloridas del Caihong le sirvieron de camuflaje para sobrevivir.",
+          "C) los rasgos del dinosaurio Caihong juji le otorgan una apariencia ambigua.",
+          "D) los rasgos del fósil son bastante comunes al resto de dinosaurios del Jurásico.",
+          "E) el fósil hallado en China el año 2014 pertenece a un dinosaurio Velociraptor."
+        ],
+        "correct": 2,
+        "rationale": "En la cita se hace referencia a la combinación de características inusuales en esta nueva especie de dinosaurio llamado Caihong juji, la cual podría sugerir una apariencia según la perspectiva con la que se le aprecie."
+      },
+      {
+        "statement": "Del texto se colige que el fósil del dinosaurio Caihong juji",
+        "alternatives": [
+          "A) fue hallado sin previsión, sino de manera inopinada.",
+          "B) es un colibrí que habría vivido en el Jurásico superior.",
+          "C) poseía plumas asimétricas en los extremos de sus alas.",
+          "D) carece de rasgos afines a la forma de las aves actuales.",
+          "E) era un dinosaurio con plumas de tamaño descomunal."
+        ],
+        "correct": 0,
+        "rationale": "Al inicio del texto se sostiene que un campesino de la provincia de Hebei (China) encontró el fósil en el año 2014."
+      }
+    ]
+  }
+]

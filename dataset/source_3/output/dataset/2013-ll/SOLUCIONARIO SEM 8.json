@@ -1,0 +1,502 @@
+[
+  {
+    "type": "reading_comprehension",
+    "statement": "Para el pensamiento moderno, desde el punto de vista moral somos ante todo personas que sé autodeterminan diseñando y realizando en libertad sus proyectos de vida, que pueden incluir se o no en un marco religioso. La ética moderna es así ética de la libertad y para la libertad. En su radicalidad esto se nos muestra en la expresión que ya señalara Mill de que no tenemos deberes para con nosotros mismos y para con los otros sólo deberes de respeto de su libertad, de no hacerles daño. Este enfoque tiene el atractivo del subrayado de la libertad, que pasa a ser no sólo condición sino, de algún modo, contenido de la ética, suponiendo en cualquier caso el rechazo de todas las propuestas morales juzgadas heterónomas.",
+    "questions": [
+      {
+        "statement": "Se infiere de la expresión de Mill, que",
+        "alternatives": [
+          "A) somos, lo que hacemos de nosotros con nuestros propios actos.",
+          "B) su propuesta de libertad, es solidaria con la vida de los otros.",
+          "C) es una versión de la ética a la que no le importa la suerte del otro.",
+          "D) connota una ética moderna que acepta las propuestas heterónomas.",
+          "E) tiene marcada influencia religiosa proveniente del cristianismo."
+        ],
+        "correct": 2,
+        "rationale": "Mill señala que, para con los otros sólo tenemos deberes de respeto de su libertad, de no hacerles daño, luego a su propuesta ética no le interesa nada de lo que le pase al otro, si sufre, si está enfermo, si tiene necesidades, etc."
+      },
+      {
+        "statement": "Se colige de la opinión del autor respecto del papel de la política en la universidad, que una universidad",
+        "alternatives": [
+          "A) para alcanzar la excelencia debe enseñar cursos de política.",
+          "B) debe convertirse en una organización política en busca del poder.",
+          "C) tendría que formar a sus alumnos en ideologías y doctrinas políticas.",
+          "D) debe fomentar el conocimiento de la teoría, más no la práctica política.",
+          "E) donde se haya erradicado totalmente la política, sería defectuosa."
+        ],
+        "correct": 4,
+        "rationale": "El autor piensa que: “Una universidad que evita la política es tan defectuosa como aquélla donde sólo se hace política”, de lo que se concluye que sí, peor aún, la erradica, seria defectuosa."
+      },
+      {
+        "statement": "Se desprende respecto de la plenitud humana, que ésta",
+        "alternatives": [
+          "A) se alcanza cuando se ha asegurado las condiciones mínimas de existencia.",
+          "B) llega a obtenerse cuando hallamos alcanzado el éxito económico en la vida.",
+          "C) se obtiene cuando valoramos lo que emociona porque tiene alguna utilidad.",
+          "D) no la alcanza el que no valora lo que emociona o hace pensar sin otra utilidad.",
+          "E) se vive si sólo queremos conseguir recompensas materiales de nuestros actos."
+        ],
+        "correct": 3,
+        "rationale": "El autor presenta a lo largo del texto, una defensa de l valor de lo inútil."
+      },
+      {
+        "statement": "Se sigue de las definiciones de imbecilidad a las que alude el texto, que",
+        "alternatives": [
+          "A) los imbéciles nunca están sometidos a otros en sus actos.",
+          "B) todos los estúpidos poseen una total suficiencia mental.",
+          "C) un imbécil no piensa ni actúa por su propia iniciativa.",
+          "D) los estul tos tienen en sus cerebros varias buenas ideas.",
+          "E) ser cretino supone hacer uso de su propio entendimiento."
+        ],
+        "correct": 2,
+        "rationale": "De dichas definiciones se desprende que un imbécil no es autónomo ni en su pensamiento ni en sus acciones."
+      }
+    ]
+  },
+  {
+    "type": "sentence_elimination",
+    "statement": "I. Las lógicas modales son un conjunto de lenguajes formales que están diseñados para tratar con expresiones que califican la verdad de los juicios. Por ejemplo: “es necesario que”, “obligatorio”, “nunca”, “se sabe que”, “el razonador C cree que P es verdadero” etc. II. La lógica deóntica se ocupa de las nociones morales de obligación y permisibilidad. III. La lógica temporal abarca operadores temporales como «siempre», «nunca», «antes», «después», etc. IV. La lógica epistémica formaliza los razonamientos relacionados con el conocimiento. V. La lógica doxástica trata con los razonamientos acerca de las creencias.",
+    "alternatives": [
+      "A) II",
+      "B) V",
+      "C) III",
+      "D) I",
+      "E) IV"
+    ],
+    "correct": 3,
+    "rationale": "Se elimina la oración I por redundancia, esta se desarrolla en las siguientes oraciones."
+  },
+  {
+    "type": "sentence_elimination",
+    "statement": "I. Herbert Marcuse fue un prominente representante de la filosofía Neomarxista. II. Jacques Maritain fue un destacado filosofo Neotomista. III. Ernst Cassirer fue un eminente filósofo Neokantiano. IV. El prefijo griego Neo se utiliza para indicar que algo es reciente, nuevo. V. Rudolf Carnap fue un importante filósofo Neopositivista.",
+    "alternatives": [
+      "A) V",
+      "B) I",
+      "C) III",
+      "D) II",
+      "E) IV"
+    ],
+    "correct": 4,
+    "rationale": "Se elimina la oración III por impertinencia, no es atingente con el tema central que corresponde a filósofos que renovaron el pensamiento de algún ilustre filósofo o corriente anterior."
+  },
+  {
+    "type": "sentence_elimination",
+    "statement": "I. La iglesia Católica está dividida territorialmente en Diócesis, que son presididas por mando del Obispo de Roma, el Papa, el cual es el Primus inter pares (El primero entre los iguales), que gobierna la Iglesia a nivel mundial. IV. La denominación de Arzobispo primado de un país, es un título honorifico que corresponde al titular de la Arquidiócesis más antigua e importante, y no otorga ninguna autoridad sobre los otros obispos de ese país y sus Diócesis. V. El título de Cardenal es otra distinción honorifica que, para fines prácticos, otorga el derecho de participar en un Conclave para la elección de un nuevo Papa, pero no da ningún mando sobre los demás obispos y sus Diócesis.",
+    "alternatives": [
+      "A) IV",
+      "B) V",
+      "C) III",
+      "D) II",
+      "E) I"
+    ],
+    "correct": 1,
+    "rationale": "Se elimina la oración V por impertinencia, no es atinente con el tema central que corresponde al gobierno territorial de los obispos de la iglesia Católica."
+  },
+  {
+    "type": "sentence_elimination",
+    "statement": "I. La conferencia episcopal latinoamericana, CELAM, se fundó en Rio de Janeiro en 1955, ésta reunión no produjo ningún documento pastoral. II. La segunda reunión del CELAM se realizó en Medellín, Colombia en 1968, y dio el primer documento para la pastoral en nuestro subcontinente. III. La tercera conferencia de obispos latinoamericanos fue en Puebla, México en 1979, también público sus conclusiones. IV. La cuarta reunión del CELAM fue en Santo Domingo, República Dominicana en 1992, e hizo lo mismo produciendo otro documento pastoral. V. La quinta y más reciente reunión de obispos latinoamericanos se llevó a cabo en Aparecida (Sao Paulo) Brasil en 2007, y no dejo de emitir un documento, que contiene importantes líneas de acción para la iglesia latinoamericana.",
+    "alternatives": [
+      "A) II",
+      "B) IV",
+      "C) I",
+      "D) V",
+      "E) III"
+    ],
+    "correct": 2,
+    "rationale": "Se elimina la oración I por inatingencia, el tema central son las reuniones del CELAM que produjeron un documento pastoral."
+  },
+  {
+    "type": "sentence_elimination",
+    "statement": "I. Facebook es la red social más exitosa y popular de internet, es una herramienta para conectar personas, subir fotos y compartir vínculos de páginas externas y videos. II. Twitter es una red social de microblogging, o se a una red para publicar con un máximo de 140 caracteres. III. Linkedin es una red orientada a los negocios y el ámbito laboral, indispensable para la promoción profesional. IV. Google+ es la más nueva y reciente de las redes sociales y ya cuenta con una in mensidad de miembros. V. Un SMS es un “Short Message Services”, o sea, un “Servicio de Mensajería Corta”, es el tipo de comunicación por medio de textos, que más utilizamos los usuarios de móviles.",
+    "alternatives": [
+      "A) V",
+      "B) II",
+      "C) IV",
+      "D) I",
+      "E) III"
+    ],
+    "correct": 0,
+    "rationale": "Se elimina la oración V por impertinencia. El tema central del conjunto oracional es las redes sociales, la oración V se refiere a los mensajes de texto que se envían desde los celulares."
+  },
+  {
+    "type": "sentence_elimination",
+    "statement": "I. Kurt Gödel fue un lógico, matemático y filósofo austriaco -estadounidense del siglo envenenado, y no comía a menos que su esposa Adele probara la comida antes que él. IV. También demostró que la hipótesis del continuo no puede refutarse desde los axiomas aceptados de la teoría de conjuntos, si dichos axiomas son consistentes. V. Realizó importantes contribuciones a la teoría de la demostración al esclarecer las conexiones entre la lógica clásica, la lógica intuicionista y la lógica modal.",
+    "alternatives": [
+      "A) I",
+      "B) V",
+      "C) II",
+      "D) IV",
+      "E) III"
+    ],
+    "correct": 1,
+    "rationale": "Se elimina la oración III por impertinencia. El tema central del conjunto oracional es, la presentación de la figura de Kurt Gödel y su obra, la oración III se refiere a un problema de salud mental."
+  },
+  {
+    "type": "sentence_elimination",
+    "statement": "I. La ciudad de Lima cuenta con varios centros ceremoniales denominados Huacas, construidas por culturas pre incaicas que habitaron este valle que comprende los ríos Chillón, Rímac y Lurín. II. La huaca Mateo Salado se sitúa en el distrito del Cercado de Lima. II. La huaca San Marcos o Aramburu se encuentra en el Cercado de Lima III. La huaca Pando, Tres palos o La Campana se localiza en el distrito de San Miguel, dentro del Parque de las Leyendas. IV. La huaca Pucllana se encuentra ubicada en el distrito de San Isidro. V. La huaca La Florida se encuentra en el tradicional distrito del Rímac.",
+    "alternatives": [
+      "A) V",
+      "B) IV",
+      "C) II",
+      "D) I",
+      "E) III"
+    ],
+    "correct": 3,
+    "rationale": "Se elimina la oración I por redundancia. Su contenido está implicado en todas las demás oraciones."
+  },
+  {
+    "type": "sentence_elimination",
+    "statement": "I. Alejandro Octavio Deustua Escarza, fue un filósofo espiritualista sanmarquino, que vivió entre 1849 y 1945. II. Otro destacado filósofo sanmarquino fue el positivista Max Javier Prado y Ugarteche, que vivió entre 1871 y 1821, llegando a ser rector de su Alma Mater. III. También llego a ocupar el rectorado de San Marcos, otro gran filósofo peruano, Mariano Ibérico Rodríguez, que adhirió al espiritualismo bergsoniano en una etapa de su vida, viviendo entre 1892 y 1974. IV. Rodrigo Alberto Wagner de Reyna, fue un destacado filósofo existencialista cristiano que estudio en la Pontificia Universidad Católica del Perú, nació en el año 1915 y falleció el 2006. V. Un eminente filósofo sanmarquino, es Francisco Miró Quesada Cantuarias, que llego a ser el primer americano en ocupar el cargo de Presidente de la Federación Internacional de Sociedades de Filosofía, elegido en Moscú en 1990.",
+    "alternatives": [
+      "A) I",
+      "B) IV",
+      "C) V",
+      "D) II",
+      "E) III"
+    ],
+    "correct": 1,
+    "rationale": "Se elimina la oración IV por impertinencia. El tema central del conjunto oracional es,"
+  },
+  {
+    "type": "reading_comprehension",
+    "statement": "Se elimina la oración I por redundancia. Su contenido está implicado en todas las demás oraciones.\n\n8. I. Alejandro Octavio Deustua Escarza, fue un filósofo espiritualista sanmarquino, que vivió entre 1849 y 1945. II. Otro destacado filósofo sanmarquino fue el positivista Max Javier Prado y Ugarteche, que vivió entre 1871 y 1821, llegando a ser rector de su Alma Mater. III. También llego a ocupar el rectorado de San Marcos, otro gran filósofo peruano, Mariano Ibérico Rodríguez, que adhirió al espiritualismo bergsoniano en una etapa de su vida, viviendo entre 1892 y 1974. IV. Rodrigo Alberto Wagner de Reyna, fue un destacado filósofo existencialista cristiano que estudio en la Pontificia Universidad Católica del Perú, nació en el año 1915 y falleció el 2006. V. Un eminente filósofo sanmarquino, es Francisco Miró Quesada Cantuarias, que llego a ser el primer americano en ocupar el cargo de Presidente de la Federación Internacional de Sociedades de Filosofía, elegido en Moscú en 1990.",
+    "questions": [
+      {
+        "statement": "Compungido, contrito; enhiesto, caído; insurgente, sedicioso;",
+        "alternatives": [
+          "A) melindroso, ñoño.",
+          "B) meditabundo, caviloso.",
+          "C) roñoso, rufián.",
+          "D) émulo, aliado.",
+          "E) vidente, augur."
+        ],
+        "correct": 3,
+        "rationale": "Serie verbal mixta conformada por pares de sinónimos, antónimos, sinónimos, corresponde terminar con antónimos."
+      },
+      {
+        "statement": "Infausto, malhadado, infeliz,",
+        "alternatives": [
+          "A) prelado.",
+          "B) malvado.",
+          "C) aciago.",
+          "D) próvido.",
+          "E) menesteroso."
+        ],
+        "correct": 2,
+        "rationale": "La serie está formada por sinónimos de infeliz, que se completa con aciago que es “infausto, infeliz, de mal agüero”."
+      },
+      {
+        "statement": "Inalterable, permanente, estable,",
+        "alternatives": [
+          "A) inanimado.",
+          "B) cambiante.",
+          "C) tranquilo.",
+          "D) inmutable.",
+          "E) fluido."
+        ],
+        "correct": 3,
+        "rationale": "La serie está formada por sinónimos de estable, que se completa con inmutable que es aquello que no cambia, no se altera, es permanente."
+      },
+      {
+        "statement": "Adivino, agorero; liberal, conservador; casadero, mancebo;",
+        "alternatives": [
+          "A) déspota, dictador .",
+          "B) impotente, prolijo.",
+          "C) rapsoda, vate.",
+          "D) altruista, ateo.",
+          "E) espabilado, zopenco."
+        ],
+        "correct": 4,
+        "rationale": "Serie verbal mixta conformada por pares de: sinónimos, antónimos, sinónimos, corresponde terminar con antónimos."
+      },
+      {
+        "statement": "Glotonería, voracidad, gula,",
+        "alternatives": [
+          "A) intemperancia.",
+          "B) hambre.",
+          "C) antojo.",
+          "D) apetito.",
+          "E) anorexia."
+        ],
+        "correct": 0,
+        "rationale": "La serie está formada por sinónimos de gula que se completa con intemperancia que es falta de templan za o moderación."
+      },
+      {
+        "statement": "Doncellez, inocencia, candor,",
+        "alternatives": [
+          "A) probidad.",
+          "B) santidad.",
+          "C) rectitud.",
+          "D) castidad.",
+          "E) beatitud."
+        ],
+        "correct": 3,
+        "rationale": "La serie está formada por sinónimos de inocencia que se completa con ca stidad que es la virtud de quien se abstiene de todo goce carnal."
+      },
+      {
+        "statement": "Señale el término que no corresponde a la serie verbal",
+        "alternatives": [
+          "A) Amilanar",
+          "B) Acoquinar",
+          "C) Afectar",
+          "D) Amedrentar",
+          "E) Arredrar"
+        ],
+        "correct": 2,
+        "rationale": "El término “afectar”, no se encuentra dentro del campo semántico relativo a atemorizar."
+      },
+      {
+        "statement": "Amainar, aflojar; soliviantar, sosegar; infatuar, envanecer;",
+        "alternatives": [
+          "A) elucubrar, cavilar.",
+          "B) alterar, enojar.",
+          "C) indagar, desquiciar.",
+          "D) degustar, catar.",
+          "E) propugnar, atacar."
+        ],
+        "correct": 4,
+        "rationale": "La serie verbal mixta está conformada por: Sinónimos, antónimos, sinónimos, por lo que corresponde seguir con un par de antónimos, en este caso: Propugnar, atacar."
+      },
+      {
+        "statement": "Elija la alternativa que no pertenece a la serie verbal",
+        "alternatives": [
+          "A) Demente",
+          "B) Loco",
+          "C) Aturdido",
+          "D) Ido",
+          "E) Ins ano"
+        ],
+        "correct": 2,
+        "rationale": "El vocablo Aturdido significa distraído, atolondrado, etc., y escapa del campo semántico de la enajenación en que se encuentran los demás."
+      },
+      {
+        "statement": "Elija la alternativa que no pertenece a la serie verbal",
+        "alternatives": [
+          "A) Semejanza",
+          "B) Parangón",
+          "C) Cotejo",
+          "D) Comparación",
+          "E) Alegoría"
+        ],
+        "correct": 4,
+        "rationale": "La palabra Alegoría significa símbolo, emblema, etc., y queda fuera del campo semántico del paralelo en que se ubican las demás."
+      },
+      {
+        "statement": "Execrable, abominable; ostentoso, suntuoso; inconsistente,",
+        "alternatives": [
+          "A) ininteligi ble.",
+          "B) incomprensible.",
+          "C) fuerte.",
+          "D) deleznable.",
+          "E) completo."
+        ],
+        "correct": 3,
+        "rationale": "Serie verbal formada por parejas de palabras sinónimas, que se completa con el término deleznable."
+      },
+      {
+        "statement": "Señale el término que no pertenece al mismo campo semántico.",
+        "alternatives": [
+          "A) Tembl oroso.",
+          "B) Temeroso.",
+          "C) Trémulo.",
+          "D) Trepidante.",
+          "E) Vibrante."
+        ],
+        "correct": 1,
+        "rationale": null
+      }
+    ]
+  },
+  {
+    "type": "reading_comprehension",
+    "statement": "En el primer párrafo el autor señala que ésta teología latinoamericana de la liberación a situado al cristianismo a la vanguardia de la lucha por la transformación de todas las o presiones, luego no es sólo de la económica.",
+    "questions": [
+      {
+        "statement": "4. No se condice con lo afirmado por el autor respecto de la teología de Gutiérrez, que ésta privilegie",
+        "alternatives": [
+          "A) la inteligencia del compromiso.",
+          "B) la ortopraxis cristiano católica.",
+          "C) la reflexión crítica de la praxis histórica.",
+          "D) la transformación liberadora",
+          "E) la especulación metafísica."
+        ],
+        "correct": 4,
+        "rationale": "El texto señala que Gutiérrez define en su libro a la teología como reflexión crítica de la praxis histórica a la luz de la Palabra, de lo que se deduce que lo propio de ésta, es la reflexión del compromiso y no especulaciones abstractas."
+      },
+      {
+        "statement": "5. Si la teología de Gustavo Gutiérrez se transformara en una teología cristiana tradicional, probablemente",
+        "alternatives": [
+          "A) fomentaría la indagación y los avances científicos.",
+          "B) se ria legitimadora de los poderes establecidos.",
+          "C) trataría de estar al día con los avances históricos.",
+          "D) pondría en cuestión la legitimidad del sistema.",
+          "E) estaría al frente de los movimientos sociales."
+        ],
+        "correct": 1,
+        "rationale": "Al inicio del texto se señala algunas de las características que la teología cristiana ha tenido tradicionalmente, si la teología de Gutiérrez se convirtiera en una teología tradicional adoptaría todos o alguno de esos rasgos."
+      }
+    ]
+  },
+  {
+    "type": "reading_comprehension",
+    "statement": "Hasta el Vaticano llegaron noticias del trabajo de un forense español, José Antonio Lorente, quien, a través de la organización DNA -ProKids había logrado reunificar a 620 madres con sus hijos desaparecidos y evitar más de 200 adopciones ilegales tomando muestras de ADN. El banco genético en 16 países de Asia y Latinoamérica supera hoy las 9.200 muestras.\nEl pasado mayo, el obispo Sánchez Sorondo canciller de la Academia Pontificia de las Ciencias viajó a España y conoció a Lorente. Hablaron de DNA -Prokids y del interés del Vaticano en la aplicación de la ciencia en la lucha contra la trata de personas y especialmente, de menores, cotejando el ADN de los niños que van a ser dados en adopción o que están abandonados por las calles, explotados laboral o sexualmente, con el de los padres que denunciaron en algún momento la desaparición de sus hijos.\n“Cuando monseñor Sánchez Sorondo me habló del interés del Papa Francisco, sentí mucha emoción. Tanta, que me quedé un poco bloqueado, no me lo podía creer”, recuerda Lorente. “Luego pensé que podía ser el revulsivo que necesitamos para extender el trabajo a otros lugares en los que todavía no hemos podido trabajar, como India, Laos, Camboya, Bolivia, Panamá o incluso África entera. Lo vi como una oportunidad”.\nApenas un mes después, respondiendo a la urgencia que le había transmitido el Papa, Sánchez Sorondo invitó a Lorente a un seminario el 1 y 2 de noviembre en el Vaticano con expertos de 13 países y distintas organizaciones (la ONU, la Comisión Europea...) para “establecer una agenda para combatir dicho crimen atroz”.\nEl forense, director de Identificación Genética de la Universidad de Granada, científico visitante durante dos años en la Academia del FBI en Quantico (Virginia, EEUU), y responsable de la exhumación e identificación en 2006 de los restos de Cristóbal Colón, creó DNA -Prokids en 2004 con un programa piloto en México y Guatemala, siendo éste último el único país que, desde 2010, obliga por ley a realizar pruebas de ADN y mantener un banco genético de todos los niños no identificados, así como de los padres que han denunciado la desaparición de sus hijos.\nEn el laboratorio de la Universidad de Granada, Lorente ha realizado también pruebas genéticas de hombres y mujeres españolas, ya adultos, que creían haber sido robados siendo niños, todas con resultado negativo.\nLorente está convencido de que el control científico que facilita disponer de un banco de ADN de niños y padres conseguirá poner “las cosas mucho más difíciles a quienes trafican con menores para venderlos en adopciones ilegales cuando son pequeños o para explotarlos laboral o sexualmente cuando son más mayores”.\nEl objetivo del seminario organizado por el Vaticano es, precisamente, impulsar una agenda de trabajo de lucha contra la trata y la explotación infantil que use todas las herramientas al alcance y, especialmente, la ciencia.\nCada año se estima que cerca de dos millones de personas son víctimas del tráfico sexual, el 70% niñas. Algunos expertos, señala el programa, creen que “en pocos años” la trata de personas superará el tráfico de drogas y de armas y se convertirá en \"la actividad criminal más lucrativa del mundo\".",
+    "questions": [
+      {
+        "statement": "2. En el texto, el término TRATA connota",
+        "alternatives": [
+          "A) discurrir.",
+          "B) relación.",
+          "C) gestión.",
+          "D) comercio.",
+          "E) manejo."
+        ],
+        "correct": 3,
+        "rationale": "El trabajo del forense y por el que el Vaticano se interesa consiste en combatir las adopciones ilegales, detrás de las cuales se esconde la trata, esto es el tráfico que consiste en vender seres humanos como esclavos, ósea comerciar con ellos."
+      },
+      {
+        "statement": "3. Se infiere respecto a la labor que realiza en el Vaticano el obispo Sánchez Sorondo, que en ésta ciudad",
+        "alternatives": [
+          "A) habitan mayoritariamente sacerdotes, monjas, obispos y cardenales.",
+          "B) se realizan profundas investigaciones en diversas ciencias teológicas.",
+          "C) realizan investigaciones sacerdotes y laicos en distintas áreas de la ciencia.",
+          "D) se llevan a cabo seminarios, charlas, talleres, foros, simposios y congresos.",
+          "E) se coordina y dirige la lucha internacional en contra del tráfico de menores."
+        ],
+        "correct": 2,
+        "rationale": "El citado Obispo es el canciller de la Academia Pontificia de las Ciencias, de lo que se sigue que en el Vaticano hay personas que investigan en diferentes ciencias."
+      },
+      {
+        "statement": "4. No se condice con lo sostenido en relación al trabajo del forense Lorente, que éste",
+        "alternatives": [
+          "A) labore en la organización DNA -ProKids.",
+          "B) se use en la lucha contra la trata de niños.",
+          "C) investiga en la universidad de Granada.",
+          "D) también realiza pruebas genéticas en adultos.",
+          "E) se extiende por todos los continentes."
+        ],
+        "correct": 4,
+        "rationale": "El texto indica que la organización donde trabaja Lorente ésta presente en 16 países de Asia y Latinoamérica, por lo que es incompatible decir que está en todo el mundo."
+      },
+      {
+        "statement": "5. Si el Vaticano no se preocupara en absoluto por enfrentar problemas que sufre el mundo como la trata de personas, probablemente",
+        "alternatives": [
+          "A) se dedicaría a luchar a favor de los derechos de los inmigrantes.",
+          "B) trabajaría en fomentar la educación de los sectores más pobres.",
+          "C) crearía instituciones de albergue y atención a los adultos mayores.",
+          "D) se centraría en el cuidado de los asuntos espirituales de sus fieles.",
+          "E) su labor giraría entorno a la defensa de los derechos humanos."
+        ],
+        "correct": 3,
+        "rationale": "Si el Vaticano fuera totalmente indiferente a los diversos problemas que enfrenta el mundo, como el de la trata de personas, sólo le quedaría dedicarse exclusivamente a problemas espirituales."
+      }
+    ]
+  },
+  {
+    "type": "reading_comprehension",
+    "statement": "SEMANA 8 C\nContinuamente se piden donantes de sangre, pero estas donaciones, aunque valiosas, presentan numerosos riesgos para el receptor, incluidas enfermedades como la hepatitis C o el VIH. Ahora, según un artículo publicado el 10 de mayo en la versión en línea de The Guardian, Lance Twyman, Doctor por la Universidad de Kent, trabaja en su laboratorio de la Universidad de Sheffield en el desarrollo de una nueva sangre artificial que sería totalmente estéril e incluso se podría fabricar en forma deshidratada. Esto facilitaría su transporte y permitiría almacenarla de cara al futuro, bastando con añadir agua posteriormente para obtener sangre del grupo O negativo, que corresponde al donante universal.\nTwyman lleva tiempo intentando crear moléculas que imiten la naturaleza y ha encontrado las porfirinas, moléculas huecas de forma cuadrada que se combinan con metales como el hierro. \"El hierro se encuentra en el centro de la molécula, como en el caso de la hemoglobina\", señala Twyman. Sin embargo, aunque la hemoglobina de los glóbulos rojos contiene porfirina basada en hierro para unirse al oxígeno de forma reversible (es decir, para poder captar el oxígeno en los pulmones, transportarlo y liberarlo en los tejidos), la porfirina no funciona sola, ya que acaba por reaccionar con el oxígeno en lugar de enlazarse simplemente a él. Por ello, según Twyman, es necesario combinar la química de la porfirina con la química de polímeros para obtener una molécula que imite la hemoglobina.\nTras cinco años de desarrollo, combinando la porfirina con monómeros que se autoensamblan en estructura de árbol, Twyman ha logrado una molécula extremadamente similar a la hemoglobina en forma y tamaño y que, además, ofrece el entorno adecuado alrededor del núcleo de la porfirina para que se enlace el hierro y libere el oxígeno. El aspecto de esta sangre artificial es el de una pasta de color rojo oscuro, con la consistencia de la miel y soluble en agua.\nEl hecho de poner sangre plástica en el cuerpo, aunque sea para salvar una vida, suena arriesgado, pero Twyman señala que las porfirinas son naturales. Según él, el componente polimérico sería ignorado por el sistema inmunológico del cuerpo humano y existen usos médicos en la actualidad que reafirman su postura; sin embargo, de momento, su experimento se limita a un tubo de ensayo.\nSegún Twyman, una de las principales aplicaciones sería el campo de batalla o un lugar en el que se haya producido un desastre importante y donde aportar sangre con rapidez pueda salvar muchas vidas ya que, a diferencia de la sangre donada, ésta es fácil de almacenar y se mantiene a temperatura ambiente.\nActualmente, se está desarrollando una segunda generación de moléculas para realizar una investigación más rigurosa y, si todo va bien, el uso en humanos podría serlo siguiente. Otros investigadores se muestran escépticos al respecto y señalan que todavía queda mucho por investigar antes de poder afirmar nada.",
+    "questions": [
+      {
+        "statement": "2. En el texto, el término UNIVERSAL connota",
+        "alternatives": [
+          "A) compatible con todos los tipos.",
+          "B) para cualquier parte del planeta.",
+          "C) de todos los tipos de sangre.",
+          "D) para todas las razas humanas.",
+          "E) para todas las religiones."
+        ],
+        "correct": 0,
+        "rationale": "Por el contexto en que se usa el vocablo, refiriéndose al donante universal, el sentido que toma es el del donante cuya sangre es compatible con cualquier tipo de sangre, el donante del grupo O negativo."
+      },
+      {
+        "statement": "3. Se infiere respecto a la posibilidad de contar con sangre artificial estéril, que de concretarse",
+        "alternatives": [
+          "A) enfermedades como la hepatitis C y el VIH desaparecerían de la faz de la tierra.",
+          "B) el Dr. inglés Lance Twyman se haría acreedor del premio Nobel en medicina.",
+          "C) implicaría que se habría logrado crear en el laboratorio moléculas naturales.",
+          "D) los sistemas de defensa civil de cada país, serían los primeros consumidores.",
+          "E) los investigadores escépticos persistirían en no aceptar que se haya logrado."
+        ],
+        "correct": 3,
+        "rationale": "El Dr. Twyman prevé que una de las aplicaciones que podría tener ésta sangre sería en un lugar donde se haya producido un desastre, luego las organizaciones encargadas de hacer frente a tales contingencias se contarían entre sus primeros consumidores."
+      },
+      {
+        "statement": "4. Es incompatible con lo aseverado en el texto respecto al desarrollo de las investigaciones para obtener sangre artificial estéril, que éstas",
+        "alternatives": [
+          "A) se realicen en la Universidad de Sheffield.",
+          "B) impliquen crear moléculas que imiten la naturaleza.",
+          "C) se encuentren a punto de alcanzar su meta.",
+          "D) han hallado una molécula similar a la hemoglobina.",
+          "E) aseguran que el componente polimérico no es dañino."
+        ],
+        "correct": 2,
+        "rationale": "Las investigaciones del Dr. Twyman no están a punto de concluir, ya que: “su experimento se limita a un tubo de ensayo”."
+      },
+      {
+        "statement": "5. Se colige que lo más importante para aplicar la sangre artificial en las personas es, que",
+        "alternatives": [
+          "A) su color sea rojo como la sangre natural, lo mismo que su consistencia.",
+          "B) sea gratuita para todos los pacientes que lo necesiten en el mundo.",
+          "C) se pueda conservar indefinidamente, ósea no tenga fecha de caducidad.",
+          "D) le sea útil a los pacientes renales, en sus procesos de hemodiálisis.",
+          "E) no sea rechazada por el sistema inmunológico del cuerpo humano."
+        ],
+        "correct": 4,
+        "rationale": "Más allá de su aspecto, su color o su consistencia, lo verdaderamente relevante para que ésta sangre artificial pueda ser usada en seres humanos es que sea aceptada por el sistema inmunológico."
+      }
+    ]
+  },
+  {
+    "type": "reading_comprehension",
+    "statement": "A diferencia de la contaminante industria moderna, la biología depende casi por entero de la energía solar. Un hombre puede obtener su energía comiéndose un filete, pero este proviene de una vaca que la obtuvo comiendo hierba. Y la hierba, como todas las plantas, obtiene la energía del Sol gracias a la fotos íntesis, la sutil y eficaz versión biológica de la placa solar, y la fuente del oxígeno atmosférico que permitió la evolución de formas complejas de vida, como el lector. Un proceso que, según la última investigación de Sean Crowe y sus colegas de la Universidad de British Columbia, en Canadá, y otros centros daneses, alemanes y sudafricanos, es extraordinariamente antiguo: la Tierra tiene 4.500 millones de años, y la oxigenación de la atmósfera ya estaba en marcha hace 3.000 millones, no mucho después de las primeras formas de vida conocidas en el planeta.\nEl esquema dominante es que la atmósfera careció de oxígeno –o al menos tenía menos de una cienmilésima de la concentración actual — durante la primera mitad de la historia de la Tierra; y que el llamado Gran Evento de Oxidación, el primer incremento relevante del nivel de oxígeno, ocurrió por tanto hace 2.300 millones de años. Los biólogos tienden a datar por esas fechas el origen de la primera célula moderna –la célula eucariota de la que estamos hechos todos los animales y las plantas —, aunque sus técnicas de datación genética no son muy precisas a esas grandes escalas.\nPara examinar el pasado remoto de la atmósfera, Crowe y sus colegas han utilizado dos formaciones geológicas que rondan los 3.000 millones de antigüedad, las de Nsuze e Ijzermyn en el súper grupo de Pongola, en Sudáfrica. Y han examinado la distribución de isótopos (los distintos sabores en que viene cada elemento químico) de cromo y otros metales sensibles a las condiciones de oxidación, y por tanto al nivel de oxígeno atmosférico de la época.\nLos resultados que presentan en Nature revelan un “extensivo desgaste por oxidación” en las rocas de aquella era remota. Y deducen que las inventoras de la tecnología fotovoltaica, las bacterias fotosintéticas, que se alimentan de energía solar y liberan oxígeno, ya estaban funcionando hace 3.000 millones de años. Eso es 600 millones de años antes del Gran Evento de Oxidación. A la hora de corregir las dataciones de sus colegas, no hay quien supere a un geólogo.\nLos autores discuten la posibilidad de que el oxígeno que han observado en la atmósfera remota pudiera haber sido producido de forma abiótica (no biológica) a través de reacciones fotoquímicas. Pero sus números parecen descartarla, porque lo s niveles de oxígeno que se han calculado están en órdenes de magnitud por encima de la modesta capacidad de esos procesos. “Esto implicaría que las bacterias fotosintéticas habían evolucionado ya entonces”, sostiene Crowe, “lo que indica que la fotosíntesis tiene una historia mucho más remota de lo que se suponía.",
+    "questions": [
+      {
+        "statement": "El texto sostiene principalmente la idea de que",
+        "alternatives": [
+          "A) los hombres obtienen la energía para vivir, de una cadena alimenticia que en última instancia depende de la fotosíntesis.",
+          "B) el Gran Evento de Oxidación, el primer incremento relevante del nivel de oxígeno, es de hace 2.300 millones de años.",
+          "C) la fotosíntesis tiene una antigüedad de 3.000 millones de años, mucho más de los\nsido producido de forma abiótica.",
+          "D) el origen de la célula eucariota de la que estamos hechos todos los animales y las plantas —, data de 2.300 millones de años.",
+          "E) el origen de la célula eucariota de la que estamos hechos todos los animales y las plantas, data de 2.300 millones de años."
+        ],
+        "correct": 2,
+        "rationale": "La idea principal del texto, es la conclusión central de las investigaciones de Sean Crowe y sus colegas, a saber, que la fotosíntesis tiene una antigüedad de 3.000 millones de años, bastante mayor a los 2.300 que se suponía."
+      },
+      {
+        "statement": "En el texto, el término INVENTORAS connota",
+        "alternatives": [
+          "A) productoras.",
+          "B) descubridoras.",
+          "C) investigadoras.",
+          "D) halladoras.",
+          "E) proyectistas."
+        ],
+        "correct": 0,
+        "rationale": "En el texto el término inventoras, se usa refiriéndose a la tecnología fotovoltaica de las bacterias fotosintéticas, por lo que connotaría que ellas fueron las primeras productoras."
+      },
+      {
+        "statement": "Se colige respecto de la posibilidad de que el oxígeno de la atmosfera remota se haya producido de forma abiótica, que ésta es",
+        "alternatives": [
+          "A) definitivamente posible puesto que los niveles de oxígeno producido por procesos de ese tipo es abundante.",
+          "B) totalmente inexistente debido a que los niveles de oxígeno producido por este tipo de medios es muy ínfima.",
+          "C) medianamente probable, ya que sería necesario realizar estudios adicionales que podrían confirmarla.",
+          "D) absolutamente absurda porque el oxígeno solamente se produce por medios y procesos totalmente biológicos.",
+          "E) muy poco probable por que los niveles de oxígeno que se produce por este proceso no biológico es muy bajo."
+        ],
+        "correct": 4,
+        "rationale": "Este tipo de proceso queda descartado: “porque los niveles de oxígeno que se han calculado están en órdenes de magnitud por encima de la modesta capacidad de esos procesos”."
+      },
+      {
+        "statement": "No se condice con lo afirmado por el texto en relación a las primeras formas de vida, que",
+        "alternatives": [
+          "A) las bacterias fotosintéticas fueron anteriores a la célula eucariota.",
+          "B) éstas hayan aparecido después del Gran Evento de Oxidación.",
+          "C) todos los animales y las plantas provenimos de la célula eucariota.",
+          "D) las células eucariotas han sido las primeras células modernas.",
+          "E) las bacterias fo tosintéticas, ya existían hace 3.000 millones de años."
+        ],
+        "correct": 1,
+        "rationale": "Lo que apareció con el Gran Evento de Oxidación hace 2.300 millones de años, fue la primera célula moderna: la eucariota, pero mucho antes unos 3.000 millones de años estaban funcionando."
+      }
+    ]
+  }
+]

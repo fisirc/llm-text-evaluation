@@ -1,0 +1,211 @@
+[
+  {
+    "type": "reading_comprehension",
+    "statement": "Perdió un tipo de memoria, pero no la memoria inmediata. Estaba intacta. En 1953 Henry M. tenía 27 años. Si para llegar a 2000 tienen que pasar 47 años, se deduce que e n 2000 Henry M. contaba con más de 70 años. Si fue operado para mejorar una epilepsia intratable, cabe inferir que sufría de s everos ataques epilépticos. Henry M. pierde un tipo de memoria, pero mantiene otros. Ergo, la memoria se organiza mediante módulos. Henry M. sufrió un problema específico sobre la memoria. Mantuvo intacta su inteligencia general.",
+    "questions": [
+      {
+        "statement": "El sentido de la palabra INCÓLUME es",
+        "alternatives": [
+          "A) prístino.",
+          "B) severo.",
+          "C) intacto.",
+          "D) simétrico.",
+          "E) armónico."
+        ],
+        "correct": 2,
+        "rationale": null
+      },
+      {
+        "statement": "Mediante la aplicación de la inferencia, determina un dato oculto en la lectura.",
+        "alternatives": [
+          "A) Henry M. es muy amigo del médico que lo operó.",
+          "B) Súbitamente, Henry M. perdió la memoria inmediata.",
+          "C)Brenda Milner es una experta en las epilepsias.",
+          "D) Con mucho esfuerzo, Henry realizaba cálculos.",
+          "E) En 2000 Henry M. contaba con más de 70 años."
+        ],
+        "correct": 4,
+        "rationale": "En 1953 Henry M. tenía 27 años. Si para llegar a 2000 tienen que pasar 47 años, se deduce que e n 2000 Henry M. contaba con más de 70 años."
+      },
+      {
+        "statement": "¿Cuál es el tema central del texto?",
+        "alternatives": [
+          "A) La trágica existencia de Henry M.",
+          "B) Henry M. y su lucha contra la epilepsia.",
+          "C) La naturaleza de los recuerdos remotos.",
+          "D) Henry M. y la pérdida de la m emoria.",
+          "E) La inteligencia lógica de Henry M."
+        ],
+        "correct": 3,
+        "rationale": null
+      },
+      {
+        "statement": "Se puede colegir el siguiente rasgo personal en Henry M.:",
+        "alternatives": [
+          "A) La fatuidad.",
+          "B) La ironía.",
+          "C) La depresión.",
+          "D) La amabilidad.",
+          "E) El humor."
+        ],
+        "correct": 3,
+        "rationale": "Es muy sensible y muy amable: pide constantemente pe rdón por algo que no depende de él (carecer de un tipo de memoria)."
+      },
+      {
+        "statement": "Cabe inferir que, antes de 1953, Henry M.",
+        "alternatives": [
+          "A) tenía problemas con su memoria implícita.",
+          "B) sufría de severos ataques epilépticos.",
+          "C) se dedicaba a la investigación médica.",
+          "D) era incapaz de hacer multiplicaciones.",
+          "E) tenía problemas en montar la bicicleta."
+        ],
+        "correct": 1,
+        "rationale": "Si fue operado para mejorar una epilepsia intratable, cabe inferir que sufría de s everos ataques epilépticos."
+      },
+      {
+        "statement": "A partir del contenido de la lectura, se puede inferir que la memoria tiene carácter",
+        "alternatives": [
+          "A) ilimitado.",
+          "B) modular.",
+          "C) indescifrable.",
+          "D) espiritual.",
+          "E) cultural."
+        ],
+        "correct": 1,
+        "rationale": "Henry M. pierde un tipo de memoria, pero mantiene otros. Ergo, la memoria se organiza mediante módulos."
+      },
+      {
+        "statement": "Resulta incompatible con el texto aseverar que, tras la operación quirúrgica de Henry M., este",
+        "alternatives": [
+          "A) vio que su vida se transformó radicalmente.",
+          "B) logró curarse de la grave epidemia que sufría.",
+          "C) perdió una parte esencial de la memoria.",
+          "D) mantuvo incólume su memoria procedimental.",
+          "E) disminuyó notablemente su inteligencia general."
+        ],
+        "correct": 4,
+        "rationale": "Henry M. sufrió un problema específico sobre la memoria. Mantuvo intacta su inteligencia general."
+      }
+    ]
+  },
+  {
+    "type": "verbal_series",
+    "statement": "4.Elija la serie formada por tres sinónimos.",
+    "alternatives": [
+      "A) taimado, astuto, racional",
+      "B) cordial, sensato, remilgado",
+      "C) demente, i nsano, frenópata",
+      "D) osado, valiente, anonadado",
+      "E) vulgar, locuaz, gárrulo"
+    ],
+    "correct": 2,
+    "rationale": "Son tres palabras que pertenecen al campo semántico de la insania."
+  },
+  {
+    "type": "verbal_series",
+    "statement": "5.Pérfido, desleal; bellaco, astuto; impasible, insensible;",
+    "alternatives": [
+      "A) avezado, peligroso",
+      "B) vulgar, noble",
+      "C) siniestro, avieso",
+      "D) ingenuo, malicioso",
+      "E) inmune, i ngente"
+    ],
+    "correct": 2,
+    "rationale": "Serie verbal de sinónimos."
+  },
+  {
+    "type": "verbal_series",
+    "statement": "6.¿Qué palabra resulta ajena al conjunto?",
+    "alternatives": [
+      "A) barruntar",
+      "B) conjeturar",
+      "C) especular",
+      "D) hipostasiar",
+      "E) suponer"
+    ],
+    "correct": 3,
+    "rationale": "El campo semántico se refiere a idear con jeturas."
+  },
+  {
+    "type": "verbal_series",
+    "statement": "7.¿Cuál es el término que no pertenece a la serie verbal?",
+    "alternatives": [
+      "A)osado",
+      "B)temerario",
+      "C)impávido",
+      "D)intrépido",
+      "E)temeroso"
+    ],
+    "correct": 4,
+    "rationale": "Son términos que guardan sinonimia con la valentía. No corresponde la palabra ‘temeroso’."
+  },
+  {
+    "type": "verbal_series",
+    "statement": "8.Tomate, coliflor, rábano,",
+    "alternatives": [
+      "A) plátano",
+      "B) berenjena",
+      "C) matorral",
+      "D) hierbaluisa",
+      "E) jardinería"
+    ],
+    "correct": 1,
+    "rationale": "Campo semántico de las solanáceas."
+  },
+  {
+    "type": "reading_comprehension",
+    "statement": "encontramos caído en el camino a un pobre viajero, con las ropas desgarradas y al parecer gravemente herido. Acudimos en socorro del infeliz y él nos narró luego sus desventuras. Se llamaba Salem Nassair, y era uno de los más ricos mercaderes de Bagdad. Al concluir la narración de su desgracia, nos preguntó con voz ansiosa: -¿Traéis quizá algo de comer? Me estoy muriendo de hambre… -Me quedan tres panes –respondí. -Yo llevo cinco, dijo a mi lado el Hombre que Calculaba. -Pues bien, sugirió el jeque, yo os ruego que juntemos esos panes y hagamos un repart o equitativo. Cuando llegue a Bagdad prometo pagar con ocho monedas de oro el pan que coma. Así lo hicimos. Al día siguiente, al caer la tarde, entramos en la célebre ciudad de Bagdad. Al atravesar la vistosa plaza tropezamos con un aparatoso cortejo a cuyo frente iba, en brioso alazán, el poderoso Ibrahim Maluf, uno de los visires. El desventurado jeque relató minuciosamente al poderoso ministro todo lo que le había ocurrido en el camino. -Paga inmediatamente a estos dos forasteros, le ordenó el gran visir. Y sacando de su bolsa 8 monedas de oro se las dio a Salem. El rico Salem Nassair dirigiéndose al Hombre que Calculaba le dijo: -Recibirás cinco monedas por los cinco panes. Y volviéndose a mí, añadió: -Y tú, ¡Oh, bagdalí!, recibirás tres monedas por los tres panes. Mas con gran sorpresa mía, el calculador objetó respetuoso: -¡Perdón, oh, jeque! La división, hecha de ese modo, puede ser muy sencilla, pero no es matemáticamente cierta. Si yo entregué 5 panes he de recibir 7 monedas, mi co mpañero bagdalí, que dio 3 panes, debe recibir una sola moneda. -¡Por el nombre de Mahoma!, intervino el visir Ibrahim, interesado vivamente por el caso. ¿Cómo va a justificar este extranjero tan disparatado reparto? El Hombre que Calculaba se acercó al prestigioso ministro y habló así: -Voy a demostraros. ¡Oh, visir!, que la división de las 8 monedas por mí propuesta es matemáticamente cierta. Cuando durante el viaje, teníamos hambre, yo sacaba un pan de la caja en que estaban guardados, lo dividía en tres pedazos, y cada uno de nosotros comía uno. Si yo aporté 5 panes, aporté, por consiguiente, 15 pedazos ¿no es verdad? Si mi compañero aportó 3 panes, contribuyó con 9 pedazos. Hubo así un total de 24 pedazos, correspondiendo por tanto 8 pedazos a cada uno. De los 15 pedazos que aporté, comí 8; luego di en realidad 7. Mi compañero aportó, como dijo, 9 pedazos, y comió también 8; luego solo dio 1. Los 7 que yo di y el restante con que contribuyó al bagdalí formaron los 8 que corresponden al jeque Salem Nassair. Luego, es justo que yo reciba siete monedas y mi compañero solo una. El gran visir, después de hacer los mayores elogios del Hombre que Calculaba, ordenó que le fueran entregadas las siete monedas, pues a mí, por derecho, solo me correspondía una. La demostración presentada por el matemático era lógica, perfecta e irrefragable. Sin embargo, si bien el reparto resultó equitativo, no debió satisfacer plenamente a Beremiz, pues éste dirigiéndose nuevamente al sorprendido ministro, añadió: -Esta división, que yo he propuesto, de siete monedas para mí y una para mi amigo es, como demostré ya, matemáticamente cierta, pero no perfecta a los ojos de Dios. Y juntando las monedas nuevamente las dividió en dos partes iguales. Una me la dio a",
+    "questions": [
+      {
+        "statement": "¿Cuál es la idea principal del texto?",
+        "alternatives": [
+          "A) Siempre es bueno pedir limosna para dar una retribución.",
+          "B) Las divisiones sencillas son perfectas matemáticamente.",
+          "C) Las personas que reciben son felices porque superan todo.",
+          "D) El socorro de los infelices termina invariablemente en riqueza.",
+          "E) La perfección divina está del lado de la simetría y la equidad."
+        ],
+        "correct": 4,
+        "rationale": "De las tres divisiones, la destacada, la perfecta, es la que produce una s imetría, un reparto equitativo."
+      },
+      {
+        "statement": "El rico mercader debe entregar ocho monedas de oro a Beremiz y al narrador protagonista por",
+        "alternatives": [
+          "A) azar.",
+          "B) reciprocidad.",
+          "C) compasión.",
+          "D) gusto.",
+          "E) fideísmo."
+        ],
+        "correct": 1,
+        "rationale": "Porque se ha comprometido, ya que ellos lo ayudaron en el momento en que más lo necesitaba."
+      },
+      {
+        "statement": "Respecto de Ibrahim Maluf, resulta incompatible decir que",
+        "alternatives": [
+          "A) es muy amigo del mercader Salem Nassair.",
+          "B) es un hombre con riquezas y muy poderoso.",
+          "C) tiene una elevada competencia de cálculo.",
+          "D) tiene su residencia en la ciudad de Bagdad.",
+          "E) nunca ha visto al hombre que calculaba."
+        ],
+        "correct": 2,
+        "rationale": "Ibrahim Maluf no es el hombre que calculaba."
+      },
+      {
+        "statement": "Para que se efectúe la división cierta es esencial considerar que",
+        "alternatives": [
+          "A) un amigo entrega solamente tres panes.",
+          "B) el oro vale menos que el pan como alimento.",
+          "C) las monedas de oro ascienden a 24 objetos.",
+          "D) cada pan se puede dividir en tres porciones.",
+          "E) para la divinidad todo reparto debe ser justo."
+        ],
+        "correct": 3,
+        "rationale": "Para hacer la división cierta, tiene que considerarse 24 porciones de pan."
+      }
+    ]
+  }
+]

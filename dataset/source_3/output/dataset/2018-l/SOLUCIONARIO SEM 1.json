@@ -1,0 +1,700 @@
+[
+  {
+    "type": "reading_comprehension",
+    "statement": "Los textos continuos desarrollan un tema central y una idea principal mediante el recurso de las palabras únicamente.\n\nLECTURA DE EJEMPLO\n\nLas ciencias empíricas son sistemas de teorías; y la lógica del conocimiento científico, por tanto, puede describirse como una teoría de teorías.\n\nLas teorías científicas son enunciados universales; son, como las representaciones, sistemas de signos o símbolos. Por ello, no creo que sirve de gran cosa expresar la diferencia entre teorías universales y enunciados singulares diciendo que estos últimos son «concretos» mientras que las teorías son meramente fórmulas simbólicas o esquemas simbólicos: pues exactamente lo mismo puede decirse hasta de los enunciados más «concretos».\n\ntodas\n\nLas teorías son redes que lanzamos para apresar aquello que llamamos «el mundo»: para racionalizarlo, explicarlo y dominarlo. Y tratamos de que la malla sea cada vez más fina.\n\nPOPPER, Karl (1934). Lógica de la investigación científica. Madrid: Tecnos.",
+    "questions": [
+      {
+        "statement": "El texto aborda el tema de",
+        "alternatives": [
+          "A) los conceptos singulares y universales.",
+          "B) las teorías científicas y la universalidad.",
+          "C) los lenguajes simbólicos y la ciencia.",
+          "D) la lógica del conocimiento científico.",
+          "E) la definición de las teorías científicas."
+        ],
+        "correct": 4,
+        "rationale": "El texto desarrolla el tema de las teorías científicas y su determinación."
+      },
+      {
+        "statement": "Popper, al decir que «[…] tratamos de que la malla sea cada vez más fina», se refiere a que",
+        "alternatives": [
+          "A) las apreciaciones subjetivas deben ser superadas por las intuiciones.",
+          "B) nuestra comprensión del mundo se perfecciona de forma progresiva.",
+          "C) el efecto de la racionalidad científica es, muchas veces, imperceptible.",
+          "D) la ciencia carece de sentido para las mentes torpes y carentes de nivel.",
+          "E) algunos casos de análisis son ciertamente finos y fáciles de entender."
+        ],
+        "correct": 1,
+        "rationale": "La malla más fina es una metáfora de la capacidad para afinar las explicaciones del mundo. En rigor, la ciencia es de naturaleza perfectible."
+      },
+      {
+        "statement": "Respecto del conocimiento científico mismo, se deduce que",
+        "alternatives": [
+          "A) es posible reflexionar y alcanzar una comprensión de su naturaleza a través de abstracciones.",
+          "B) los métodos para su comprensión aún carecen de consistencia, por ello usa la metáfora de la red.",
+          "C) implican la formulación de enunciados singulares, pues este se caracteriza por su particularidad.",
+          "D) existe una falta de diferenciación sobre los aspectos singulares y universales de su estructura e impacto.",
+          "E) se debe soslayar su concreción para poder establecer relaciones con nuestra comprensión del mundo."
+        ],
+        "correct": 0,
+        "rationale": "Popper indica que la lógica del conocimiento científico es una teoría de teorías. Esto quiere decir que es posible reflexionar acerca del conocimiento mismo, a fin de comprenderlo."
+      },
+      {
+        "statement": "Es incompatible con el texto afirmar que las teorías científicas se caracterizan por su singularidad, porque",
+        "alternatives": [
+          "A) solo es posible razonar acerca de lo que el hombre puede observar de forma directa para, de esa forma, alcanzar un grado de certeza aceptable.",
+          "B) la lógica del conocimiento científico se sustenta en hechos concretos que el científico debe razonar, observar, analizar y explicar de manera detallada.",
+          "C) al servir para analizar y comprender el mundo, estas deben poseer un mayor grado de abstracción, de manera que su rasgo medular es la universalidad.",
+          "D) entre los enunciados particulares y universales existe una imprecisión conceptual que, para el autor del texto, al parecer, es irresoluble por su complejidad.",
+          "E) algunos hechos del mundo carecen de explicaciones razonables, dado que el conocimiento científico aún debe alcanzar su perfección máxima."
+        ],
+        "correct": 2,
+        "rationale": "Las teorías científicas son sistemas de signos o símbolos, de manera que se caracterizan por su abstracción. En rigor, son universales."
+      }
+    ]
+  },
+  {
+    "type": "reading_comprehension",
+    "statement": "En el transcurso del siglo XX la temperatura de la Tierra ha aumentado algo. Los meteorólogos pueden ahora intentar predecir cómo puede cambiar el clima de la Tierra si seguimos quemando combustibles fósiles y vertiendo gases invernadero en la atmósfera a un ritmo frenético. Varios equipos científicos —equivalentes modernos del oráculo de Delfos— han empleado modelos informáticos para calcular el incremento térmico esperado y vaticinar cuánto aumentaría la temperatura global si, por ejemplo, se doblara la cantidad de dióxido de carbono, lo que al ritmo actual de consumo de combustibles fósiles sucederá a finales del siglo XXI. Los principales oráculos son el Laboratorio Geofísico de Dinámica de Fluidos de la Administración Nacional Oceánica y Atmosférica (NOAA), en Princeton; el Instituto Goddard de Estudios Espaciales de la NASA, en Nueva York; el Centro Nacional de Investigación Atmosférica, en Boulder, Colorado; el Departamento de Energía del Laboratorio Nacional Lawrence Livermore, en California; la Universidad de Oregon; el Centro Hadley de Predicción e Investigación Climáticas, en Gran Bretaña, y el Instituto Max Planck de Meteorología, en Hamburgo. Todos predicen que el incremento de la temperatura media global oscilará entre 1 °C y 4 °C. Se trata del cambio climático más rápido observado desde que apareció la civilización. Si el aumento es el mínimo estimado, por lo menos las sociedades desarrolladas e industriales podrán adaptarse, no sin esfuerzo, al cambio de circunstancias. Si el aumento es el máximo estimado, el mapa climático de la Tierra se alterará de modo espectacular y las consecuencias quizá sean catastróficas para todas las naciones, tanto ricas como pobres. En buena parte del planeta los bosques y la vida salvaje están confinados en zonas aisladas, y no podrán trasladarse cuando cambie el clima. Se acelerará considerablemente la extinción de especies. Habrá que realizar grandes desplazamientos de cultivos y poblaciones. La física empleada por todos estos grupos de investigación predice correctamente la temperatura presente de la Tierra, así como los efectos invernadero en otros planetas como Venus. Claro está que podría haber algún error simple que todo el mundo haya pasado por alto. Aun así, es seguro que estas profecías concordantes merecen ser tomadas muy en serio. SAGAN, Carl (1998). Miles de millones. Pensamientos de vida y muerte en la antesala del milenio. Madrid: Punto de Lectura.",
+    "questions": [
+      {
+        "statement": "El tema central del texto es",
+        "alternatives": [
+          "A) el calentamiento global generado por las actividades extractivas humanas.",
+          "B) la inesperada fluctuación en la temperatura a nivel mundial y sus efectos.",
+          "C) los efectos impredecibles del clima en parangón con el tiempo atmosférico.",
+          "D) la predicción de calor y frío de acuerdo con la emisión de CO2 a la atmósfera.",
+          "E) las temperaturas altas en zonas industrializadas de poco impacto ambiental."
+        ],
+        "correct": 0,
+        "rationale": "En el texto el tema fundamental es el cambio climático. Este se asume como un fenómeno antropogénico."
+      },
+      {
+        "statement": "En el texto, el término FRENÉTICO es sinónimo de",
+        "alternatives": [
+          "A) apasionado.",
+          "B) furioso.",
+          "C) deliberado.",
+          "D) acelerado.",
+          "E) violento."
+        ],
+        "correct": 3,
+        "rationale": "En el texto, el término se usa para referirse a la excesiva rapidez con que se generan las condiciones para que el cambio climático ocurra. En tanto que tal, el sentido es ACELERADO."
+      },
+      {
+        "statement": "Respecto del aumento de temperatura en la Tierra y sus terribles consecuencias en el futuro, resulta incompatible afirmar que",
+        "alternatives": [
+          "A) Carl Sagan lo vaticinó con mucha preocupación durante el siglo pasado.",
+          "B) han sido estudiados por instituciones académicas durante muchos años.",
+          "C) carecen de relación con la depredación de bosques y la emisión de CO2.",
+          "D) es posible de ralentizar si la emisión de gases invernadero fuese menor.",
+          "E) presenta un asidero objetivo contrariamente a lo que usualmente se cree."
+        ],
+        "correct": 2,
+        "rationale": "El aumento de temperaturas es producto de la explotación de combustibles fósiles como el petróleo, además de, como se presenta en la caricatura, la depredación de áreas verdes."
+      },
+      {
+        "statement": "Se deduce de la imagen que la intención del caricaturista es enfatizar que el calentamiento global",
+        "alternatives": [
+          "A) posiblemente pueda revertirse si los bosques son reforestados en breve.",
+          "B) ha devenido en un desequilibrio climático de naturaleza antropogénica.",
+          "C) es incomprensible si se considera que el hombre ignora los factores.",
+          "D) constituye un fenómeno que únicamente los menores pueden advertir.",
+          "E) está asociado con la indiferencia de los niños y la preocupación adulta."
+        ],
+        "correct": 1,
+        "rationale": "La caricatura indica que, a pesar de que no es una verdad extendida, el desequilibrio climático es producto de las actividades extractivas humanas. Es decir, es antropogénico."
+      },
+      {
+        "statement": "Si el aumento en la emisión de gases invernadero a la atmósfera se hubiera multiplicado exponencialmente desde el siglo pasado,",
+        "alternatives": [
+          "A) algunos países podrían costear la reforestación de bosques para poder vivir en armonía con el medio ambiente.",
+          "B) la adaptación al frío de los polos sería la única solución razonable ante los evidentes efectos que se desencadenarían irremediablemente.",
+          "C) el peligro para el ser humano aumentaría, mientras que todas las especies animales tendrían una mayor capacidad adaptativa.",
+          "D) los países pobres tendrían que pedir ayuda urgente a los que tienen mucho poder para poder revertir los efectos en las zonas pobladas.",
+          "E) dentro de poco el planeta, indistintamente del poder de los países, enfrentarían efectos apocalípticos que pondrá en serio riesgo la vida."
+        ],
+        "correct": 4,
+        "rationale": "De acuerdo con el texto, si el incremento de temperatura fuera el máximo esperado (el cual está condicionado por la emisión de gases invernadero), es altamente probable que enfrentemos una catástrofe mundial."
+      }
+    ]
+  },
+  {
+    "type": "reading_comprehension",
+    "statement": "La bella y juiciosa fábula de la Esfinge fue concebida, al parecer, como alusión a la ciencia\ny, en particular, a su aplicación en la vida práctica. Dado que la ciencia provoca la más\nprofunda complejidad en las gentes ignorantes y sin formación, bien puede comparársela\ncon un monstruo. Haciendo referencia a la enorme variedad de cuestiones de las que se\nocupa, se representa con figura y aspecto multiformes. Se dice que tiene el rostro y la voz\nde una mujer, por su belleza y su facilidad de palabra. Se le añaden alas porque la ciencia\ny sus descubrimientos se difunden al instante por todo el mundo, siendo la comunicación\nde los conocimientos similar, en su inmediatez, a la transmisión del fuego entre una vela\nencendida y otra apagada. En una imagen de gran elegancia, se la presenta también con\ngarras curvas y afiladas porque los axiomas y argumentos de la ciencia penetran con tal\npoder subyugador en la mente humana que no hay posibilidad alguna de huida o\nescapatoria. Ya lo dijo un sagrado filósofo: «Las palabras de los sabios son como garras y\naguijones que se clavan profundamente».",
+    "questions": [
+      {
+        "statement": "Fundamentalmente, el texto trata sobre",
+        "alternatives": [
+          "A) los riesgos que implica el quehacer científico.",
+          "B) la Esfinge como símbolo sacro de la ciencia.",
+          "C) una analogía entre la Esfinge y la ciencia.",
+          "D) una interesante descripción de la Esfinge.",
+          "E) la enigmática y descomunal figura de la Esfinge."
+        ],
+        "correct": 2,
+        "rationale": "La metáfora apunta a un símil entre la actividad científica y la naturaleza de la Esfinge."
+      },
+      {
+        "statement": "En el texto, el término ACUCIAN denota",
+        "alternatives": [
+          "A) adhesión.",
+          "B) apremio.",
+          "C) despiste.",
+          "D) variedad.",
+          "E) dominación."
+        ],
+        "correct": 1,
+        "rationale": "En el texto, acucian hace referencia a necesidades urgente, apremiantes."
+      },
+      {
+        "statement": "La figura de la Esfinge se utiliza para presentar a la ciencia como",
+        "alternatives": [
+          "A) estética.",
+          "D) marginal.",
+          "B) uniforme.",
+          "E) deprimente.",
+          "C) heterogénea."
+        ],
+        "correct": 4,
+        "rationale": "En el texto se alude al aspecto multiforme de la Esfinge, en clara alusión al carácter variado de la ciencia."
+      },
+      {
+        "statement": "Resulta incompatible con respecto a la ciencia sostener que",
+        "alternatives": [
+          "A) implica interrogantes muy urgentes.",
+          "B) difunde raudamente sus conocimientos.",
+          "C) es una meditación sin fines prácticos.",
+          "D) sus hallazgos deja perplejos a los ignaros",
+          "E) subyuga la mente de los seres humanos."
+        ],
+        "correct": 2,
+        "rationale": "En la comparación del autor, la ciencia se adscribe al carácter argumentativo, pero también se incide en su dimensión pragmática o valor utilitario."
+      },
+      {
+        "statement": "La imagen de la vela alude a la capacidad ___________________de la ciencia.",
+        "alternatives": [
+          "A) destructiva",
+          "B) portátil",
+          "C) accesible",
+          "D) repetitiva",
+          "E) transmisora"
+        ],
+        "correct": 4,
+        "rationale": "Una vela enciende el fuego de la otra, Como que le transmite su capacidad iluminadora. Lo que se da entre el maestro y el discípulo."
+      }
+    ]
+  },
+  {
+    "type": "reading_comprehension",
+    "statement": "La homeopatía es, según la Organización Mundial de la Salud, una seudociencia inútil para curar enfermedades y sin avales experimentales. Cada vez son más las autoridades sanitarias que hablan de ella como un fraude, puesto que los tratamientos que ofrece suelen ser mezclas inocuas de compuestos sin principio activo y agua azucarada. Pero la reciente muerte de un niño italiano de 7 años por una otitis ha puesto sobre la mesa, de nuevo, una faceta fundamental de la cuestión: que estas seudoterapias también pueden ser nocivas. Construidas como un sistema de creencias, en ocasiones alejan a las personas del tratamiento médico real que necesitan cuando están enfermas. Ahí es donde radica su peligrosidad, que se agrava cuando hablamos de niños. El pequeño italiano ha muerto por otitis, una dolencia banal, muy habitual entre niños de su edad, que podía haber sido controlada sin problemas con antibióticos. Pero sus padres optaron por aplicarle solo tratamientos homeopáticos. Los padres alegaron que el niño se había curado así en ocasiones anteriores, pero esta vez soportó fiebre alta durante dos semanas. Cuando le llevaron a la sala de urgencias de un hospital, después de que perdiera el conocimiento, ya era demasiado tarde.\n\nLa Asamblea Nacional de Homeopatía de España emitió un comunicado lamentando la muerte del niño y hablando de la homeopatía como «una herramienta más». Pero el niño fue víctima de las ideas, y la credulidad ola sinrazón, de sus padres. Esto es algo mucho más habitual de lo que se puede pensar. La buena voluntad de los padres y la idea equivocada de que «lo natural» es bueno per se expone a los hijos a prácticas que no siempre son responsables.\n\nVENTURA HERRANZ, Daniel (2017). «Los riesgos de la homeopatía para todos los niños». En The Huffington Post. Recuperado de http://www.huffingtonpost.es/2017/06/01/los-riesgos-de-la-homeopatia-para-los-ninos_a_22121944/ Imagen extraída del blog de http://www.lapulgasnob.com/2010/02/efectividad.html\n\nsnob. Recuperada de\n\nviñetas La pulga",
+    "questions": [
+      {
+        "statement": "Determine el tema central del texto.",
+        "alternatives": [
+          "A) La exitosa práctica homeopática en España y sus comprobadas implicancias en la salud",
+          "B) Los productos médicos hechos de azúcar y sus implicancias en las prácticas homeopáticas",
+          "C) La práctica anticientífica de la homeopatía y sus resultados nocivos para los menores de edad",
+          "D) La muerte de un niño italiano por la aplicación inadecuada de un procedimiento homeopático",
+          "E) Las diversas aplicaciones actuales de la homeopatía y la discusión de su efectividad en Italia"
+        ],
+        "correct": 2,
+        "rationale": "En el texto se aborda de forma clara la homeopatía, presentándola como una práctica anticientífica, carente de efectividad y su vinculación con casos lamentables de afección a niños."
+      },
+      {
+        "statement": "La expresión PONER SOBRE LA MESA connota",
+        "alternatives": [
+          "A) encargo.",
+          "D) atención.",
+          "B) orientación.",
+          "E) facilidad.",
+          "C) dirección."
+        ],
+        "correct": 3,
+        "rationale": "La expresión en cuestión se usa en el texto para hacer referencia al hecho de que nuevamente ha generado alarma la homeopatía y su carácter nocivo."
+      },
+      {
+        "statement": "Es incongruente con el desarrollo textual afirmar que la práctica de la homeopatía es clandestina en países como España, porque",
+        "alternatives": [
+          "A) se usan testeos minuciosos para determinar la efectividad de productos hechos de azúcar para curar.",
+          "B) cuenta con el aval de prestigiosas academias científicas en Europa y en zonas específicas de América.",
+          "C) los efectos que ha generado en beneficio de la salud han sido comprobados experimentalmente.",
+          "D) la industria farmacéutica confronta por las cuantiosas pérdidas que ha devenido de la aceptación de aquella.",
+          "E) existe en este país una asociación que, incluso, presenta tribuna para emitir pronunciamientos."
+        ],
+        "correct": 4,
+        "rationale": "Es incompatible con el desarrollo textual afirmar que la homeopatía es clandestina. Se trata de una práctica extendida en países como España, en el cual incluso existe una asociación."
+      },
+      {
+        "statement": "Es posible deducir del desarrollo textual, respecto de la difundida aceptación de la homeopatía, que",
+        "alternatives": [
+          "A) está fundada en subjetivismos e impresiones carentes de sustento.",
+          "B) posibilita la atención de niños enfermos que carecen de recursos.",
+          "C) es avalada por empresas posicionadas contra las farmacéuticas.",
+          "D) generó el rechazo del Gobierno español por las muertas causadas.",
+          "E) desestima en gran parte del mundo la eficacia del uso de azúcar."
+        ],
+        "correct": 0,
+        "rationale": "La práctica homeopática se funda en ideas sin sustento como la señalada en el texto: «[…] lo “natural” es bueno per se»."
+      },
+      {
+        "statement": "Si en países como España la salud pública estuviera a manos únicamente de expertos en procedimientos médicos,",
+        "alternatives": [
+          "A) el interés por las propiedades curativas de los placebos crecería.",
+          "B) las pastillas de azúcar serían usadas solo contra las migrañas.",
+          "C) las asociaciones homeopáticas legales protestarían airadamente.",
+          "D) los niños enfermos dejarían de morir en Italia y en toda Europa.",
+          "E) se evitarían muertes irresponsables como las del niño italiano."
+        ],
+        "correct": 4,
+        "rationale": "En el texto se desarrolla la idea de que las asociaciones formales de homeopatía existen y atienden casos simples de curar como una otitis, la cual generó la muerte del niño italiano. En tal sentido, si fueran especialistas médicos, las muertes absurdas de este tipo se evitarían."
+      }
+    ]
+  },
+  {
+    "type": "reading_comprehension",
+    "statement": "Ya sea a través de dos fragmentos o de uno solo, con este tipo de texto se busca que el discente sea capaz de comprender cabalmente los contenidos de propuestas contrapuestas sobre un tema cualquiera de índole polémica. El conflicto propositivo permite la lectura dinámica y la reconstrucción de la tensión implícita de los contenidos del texto. Este tipo textual es argumentativo por excelencia.\n\nLECTURA DE EJEMPLO\n\nEstamos totalmente de acuerdo con la posibilidad de que nuestros serenos utilicen armas no letales en defensa propia, en defensa de la propiedad de nuestros vecinos y en defensa de la integridad física de los ciudadanos y de los propios delincuentes.\n\nTengamos en cuenta que en Santiago de Surco, el 90% de los vecinos llama antes al serenazgo que a la Policía Nacional. Hoy nuestros serenos cuentan con apenas una vara y una radio tetra para enfrentarse a la delincuencia que actúa con armas largas, GPS, radio de telecomunicaciones y autos de última generación.\n\nQueremos que los serenos tengan armas no letales capaces de disuadir a un delincuente. Serán los técnicos los que establezcan qué tipo de armas son las más convenientes. Existen armas de gas pimienta, de choque eléctrico, de balas de gomas. Eso tiene que reglamentarlo el Ministerio del Interior. Por supuesto, para cumplir con estos propósitos, el personal del serenazgo tiene que ser evaluado psicológicamente y capacitado de la mejor manera.\n\nRoberto Gómez Baca\nAlcalde de Surco\n\nSi desde su creación el servicio de serenazgo se caracterizó por ser una fuerza civil, que velaba por la seguridad ciudadana, desde una perspectiva principalmente de prevención y disuasión, la reciente decisión de dotar de armas no letales a los serenos nos parece una intención que debería repensarse, puesto que, al no tener ni las facultades legales ni el entrenamiento adecuado, podría resultar contraproducente y hasta riesgoso, ya que existe el peligro de que se genere una escalada de violencia mayor.\n\nLas funciones de los serenos son principalmente de vigilancia y protección de los ciudadanos. No tienen que ver con intervenciones ante un acto delictivo, así como tampoco están facultados para portar armas o iniciar procesos investigatorios, una tarea que es responsabilidad exclusiva de la Policía Nacional.\n\nUtilizar armas no letales puede poner en riesgo a los mismos serenos que las portan, pues los delincuentes no se detendrán ante estos elementos disuasivos. Es labor de la PNP enfrentar la delincuencia y de los serenos apoyarlos en la vigilancia de nuestra ciudad.\n\nJorge Muñoz Wells\nAlcalde de Miraflores\n\nRecuperado de https://elcomercio.pe/opinion/colaboradores/debate-deberia-serenazgo-portar-armas-letales-275645",
+    "questions": [
+      {
+        "statement": "La controversia entre ambos alcaldes radica en",
+        "alternatives": [
+          "A) equipar o no a los serenazgos con armas mortales.",
+          "B) los beneficios de armar a los serenazgos de Lima.",
+          "C) el riesgo que supone portar armas no letales.",
+          "D) si los serenos deben usar o no armas no letales.",
+          "E) la portabilidad de armas letales por los serenos."
+        ],
+        "correct": 3,
+        "rationale": "Ambos alcaldes expresan sus opiniones sobre el uso o no de armas no letales por parte del serenazgo."
+      },
+      {
+        "statement": "En el texto A, el antónimo contextual de DISUADIR es __________;mientras que en el texto B, el término CONTRAPRODUCENTE tiene el sentido contextual de __________.",
+        "alternatives": [
+          "A) vilipendiar; que tiene un efecto contrario al esperado",
+          "B) persuadir; alterar la producción inesperadamente",
+          "C) fustigar; mover el ánimo de alguien con actos contrarios",
+          "D) impresionar; producir efectos proficuos con actos lesivos",
+          "E) desmoralizar; ocasionar un resultado contrario al deseado"
+        ],
+        "correct": 4,
+        "rationale": "Con el verbo DISUADIR, el alcalde Gómez señala que las armas no letales pueden «desanimar» a los delincuentes de cometer su fechorías cuando vean al sereno armado. Por otro lado, con el adjetivo CONTRAPRODUCENTE, el alcalde Muñoz alerta de los efectos contrarios que puede ocasionar el que los serenos porten armas, así sean estas no letales, pues lo delincuentes pueden reaccionar con mayor violencia."
+      },
+      {
+        "statement": "Es incompatible con la posición de Jorge Muñoz Wells afirmar que",
+        "alternatives": [
+          "A) los serenos de Lima se debe circunscribir a tareas de prevención y disuasión.",
+          "B) tiene que repensarse la idea de que los serenazgos porten armas no letales.",
+          "C) se debe derogar la norma que permite a los serenos portar armas no letales.",
+          "D) los delincuentes, al ver armados a los serenazgos, pueden actuar con saña.",
+          "E) la policía es la única fuerza que puede portar armas para patrullar la ciudad."
+        ],
+        "correct": 2,
+        "rationale": "Señala Jorge Muñoz que armar a los serenazgos con armas no letales es una intención."
+      },
+      {
+        "statement": "Se deduce de la exposición de Roberto Gómez que los serenos",
+        "alternatives": [
+          "A) se ven rebasados por el accionar delincuencial.",
+          "B) deben usar armas más largas que los ladrones.",
+          "C) deben ser capacitados militar y psicológicamente.",
+          "D) cuentan con apenas una vara y una radio tetra.",
+          "E) tienen que contar con autos de última generación."
+        ],
+        "correct": 0,
+        "rationale": "Según el alcalde de surco, los delincuentes utilizan armas largas, autos de última generación, radio de telecomunicaciones, GPS. Esto les otorga superioridad sobre los serenos que solamente cuentan con una vara y una radio tetra."
+      },
+      {
+        "statement": "Si la PNP acudiera con diligencia al llamado de los vecinos, entonces,",
+        "alternatives": [
+          "A) dejarían de existir los motivos para que los serenazgos sigan trabajando.",
+          "B) los serenazgos se tendrían que ceñir a labores de prevención y vigilancia.",
+          "C) los serenazgos deberían utilizar solamente bicicletas para transportarse.",
+          "D) desaparecería la delincuencia de Lima debido a la eficacia de los policías.",
+          "E) la tesis de Jorge Muñoz Wells, alcalde de Miraflores, dejaría de tener asidero."
+        ],
+        "correct": 1,
+        "rationale": "Como menciona el alcalde de Miraflores, el serenazgo fue creado para prevenir y disuadir la delincuencia. Entonces, si la PNP fuera más eficiente cuando los vecinos los llaman, los serenos tendrían que limitarse a sus tareas prístinas."
+      }
+    ]
+  },
+  {
+    "type": "reading_comprehension",
+    "statement": "IV. TEXTO CON INFORMACIÓN EN INGLÉS Conocedores de la relevancia del conocimiento de la lengua inglesa en el ámbito académico, esta innovación implica la capacidad para comprender una parcela informativa puntual en idioma inglés, vinculada con el desarrollo textual progresivo. LECTURA DE EJEMPLO Salmatu Fofanah vive en una ladera de Mountain Cut, vecindario atestado de Freetown, capital de Sierrra Leona. Salmatu, de 17 años de edad, es tímida y adorable, de ojos brillantes y figura esbelta. Ha crecido acostumbrada a cuidarse. Tanto su madre como su padrastro contrajeron el ébola hace dos años; él enfermó después de asistir a un funeral en 2014 (su padre biológico murió de malaria en 2011). La madre de Salmatu, enfermera, atendió a su esposo en casa. No tenía idea de que el ébola se extendía. Cuando su salud empeoró, trató de llevarlo al hospital, pero murió en el auto. Su madre enfermó a los pocos días y murió en casa un mes después. Salmatu empezó a sentirse enferma. Tenía dolor de cabeza y fiebre, al igual que su tía, su tío, su hermano, su abuelo y varios primos. «We were all scared», recuerda Salmatu. Se internaron en un centro de tratamiento. Solo sobrevivieron ella y tres de sus primos. A principios de diciembre de 2014, temblorosa por las náuseas y el luto, regresó a vivir con sus otras tías, tíos y primos en una casa amplia en Mountain Cut. Cada vez que se sentía mal entraba en pánico. Cuando volvió a la escuela en marzo, tenía miedo de que sus amigos la excluyeran por el ébola, pero quedó sorprendida. «Nobody stigmatized me», cuenta. Cada vez que su mente se pierde en cómo era la vida antes del ébola, sus amigas la animan. Salmatu revisa Facebook o WhatsApp para ver chistes, tan solo para volver a reír, y entre más duerme, mejor se siente. Asiste a un grupo de apoyo en el que puede hablar de sus problemas. «I like to say anything that is bothering me, it makes me feel lighter», relata Salmatu. Cuando la conocí, los exámenes finales eran su máxima preocupación. «You have to let go off the past and focus on the future. You have to be happy with what you have». La materia favorita de Salmatu en la escuela es historia; le gusta aprender acerca de su gente y de su país, y espera algún día ser periodista. Tiene un novio que acaba de terminar el bachillerato, pero Salmatu no deja que la presione para hacer algo que ella no quiera. Ella quiere seguir cantando e ir a la playa con sus amigos. A veces siente mucha pereza para ir a clases. «I like to sleep, it´s my hobby», dice sonriendo. Cuando se enojaba de niña, su madre la mandaba a dormir y eso la hacía sentir mejor. Pero entonces recuerda lo que quiere lograr. Su madre murió por su familia. ¿Cómo podría no terminar la escuela y lograr una vida que hubiera hecho que su madre se sintiera orgullosa?",
+    "questions": [
+      {
+        "statement": "A través del caso personal de Salmatu Fofanah, la intención del autor —hacia el final del texto— es resaltar",
+        "alternatives": [
+          "A) la necesidad de tener el máximo cuidado para evitar catástrofes azarosas.",
+          "B) el valor de la solidaridad, que evita estigmatizar a las víctimas del destino.",
+          "C) la actitud de desprendimiento, para evitar los efectos de las desgracias.",
+          "D) la importancia de la motivación para superar las más duras adversidades.",
+          "E) lo vital que es la educación para estar a salvo de las desgracias imprevistas."
+        ],
+        "correct": 3,
+        "rationale": "Salmatu piensa en su madre para retornar a su intención de logro y sobreponerse a la pereza."
+      },
+      {
+        "statement": "En el texto, el verbo PERDERSE connota sobre todo, en el plano emocional,",
+        "alternatives": [
+          "A) depresión.",
+          "B) alucinación.",
+          "C) delusión.",
+          "D) extravío.",
+          "E) insania."
+        ],
+        "correct": 0,
+        "rationale": "Salmatu se pierde en sus recuerdos y se deprime, por lo que sus amigas la tienen que animar."
+      },
+      {
+        "statement": "La conocida frase latina carpe diem (disfruta el día) tiene un eco en la actitud de Salmatu que se refleja en su expresión",
+        "alternatives": [
+          "A) I like to sleep, it’s my hobby.",
+          "B) I like to say anything is bothering me.",
+          "C) You have to be happy with what you have.",
+          "D) It makes me feel lighter.",
+          "E) You have to let go off the past and focus on the future."
+        ],
+        "correct": 2,
+        "rationale": "«Tienes que ser feliz con lo que tienes» es un buen sucedáneo a carpe diem."
+      },
+      {
+        "statement": "Por su testimonio, entendemos que el grupo de apoyo le proporcionó a Salmatu",
+        "alternatives": [
+          "A) consejos.",
+          "B) amigos.",
+          "C) auditorio.",
+          "D) compañía.",
+          "E) alivio."
+        ],
+        "correct": 4,
+        "rationale": "Salmatu se siente más ligera por el alivio que le presta su grupo de apoyo al permitirle contar sus preocupaciones y molestias."
+      },
+      {
+        "statement": "Es compatible sostener que la expresión WE WERE ALL SCARED refiere a",
+        "alternatives": [
+          "A) la enajenación propia del ébola.",
+          "B) los estados febriles de la dolencia.",
+          "C) las diversas emociones públicas.",
+          "D) un estado de pánico compartido.",
+          "E) los miedos propios de una joven."
+        ],
+        "correct": 3,
+        "rationale": "La expresión WE WERE ALL SCARED se puede traducir como «todos estábamos asustados». Entonces, todos los involucrados se encontraban en un estado de pánico."
+      },
+      {
+        "statement": "Se desprende de la expresión inglesa NOBODY STIGMATIZED ME que Salmatu",
+        "alternatives": [
+          "A) no llegó a tener llagas corporales.",
+          "B) tuvo compañeros que la toleraron.",
+          "C) se rodeó de personas indolentes.",
+          "D) llegó a vivir en un lugar saludable.",
+          "E) nadie llegó a golpearla nunca más."
+        ],
+        "correct": 1,
+        "rationale": "La expresión inglesa NOBODY STIGMATIZED ME puede traducir como «nadie me ofendió» por la enfermedad; o sea, Salmatu gozó, sorpresivamente, de respeto o tolerancia de sus compañeros."
+      }
+    ]
+  },
+  {
+    "type": "sentence_elimination",
+    "statement": "6. Se desprende de la expresión inglesa NOBODY STIGMATIZED ME que Salmatu",
+    "alternatives": [
+      "A) no llegó a tener llagas corporales.",
+      "B) tuvo compañeros que la toleraron.",
+      "C) se rodeó de personas indolentes.",
+      "D) llegó a vivir en un lugar saludable.",
+      "E) nadie llegó a golpearla nunca más."
+    ],
+    "correct": 1,
+    "rationale": "La expresión inglesa NOBODY STIGMATIZED ME puede traducir como «nadie me ofendió» por la enfermedad; o sea, Salmatu gozó, sorpresivamente, de respeto o tolerancia de sus compañeros."
+  },
+  {
+    "type": "sentence_elimination",
+    "statement": "7. Cabe inferir del texto que hace un par de años el principal problema que enfrentó Freetown fue de carácter",
+    "alternatives": [
+      "A) económico.",
+      "B) asistencial.",
+      "C) sanitario.",
+      "D) familiar.",
+      "E) pasajero."
+    ],
+    "correct": 2,
+    "rationale": "Tratándose de una epidemia de Ébola, es claro que el problema fundamental es de índole sanitario."
+  },
+  {
+    "type": "sentence_elimination",
+    "statement": "8. Si Salmatu no fuera perezosa, entonces, posiblemente",
+    "alternatives": [
+      "A) no podría recordar a su progenitora.",
+      "B) el virus del Ébola no la hubiera atacado.",
+      "C) no se hubiera enfermado de ébola.",
+      "D) ya hubiera tentado un puesto laboral.",
+      "E) dormir no sería su pasatiempo favorito."
+    ],
+    "correct": 4,
+    "rationale": "Salmatu señala que le gusta dormir porque es su hobbie o pasatiempo favorito."
+  },
+  {
+    "type": "reading_comprehension",
+    "statement": "La h en todas esas palabras es un fantasma. Su única función es hacernos la vida imposible. La octava letra del alfabeto español es muda, no suena. En otros idiomas, como la inglés, estas letras son llamadas silenciosas —como la e en stone—. Puede que la implicación sea la misma, pero la diferencia entre muda y silenciosa es vital: el silencio es un estado temporal, la mudez es una condición permanente. Una letra que es muda, en silencio permanente, ¿sigue siendo letra? La respuesta es no. Entonces, si el español es verdaderamente fonético —si hablamos como escribimos y escribimos como hablamos— la ortografía de las muchas palabras que empiezan con h y de tantas otras que la incluyen en su interior debería cambiar. En todo caso, lo que debió haber hecho la RAE fue eliminar la h. De todos los casos, la h es la letra indicada para empezar una purga necesaria. A pesar de que ha sido calificada como inútil y de que, cada cierto tiempo, se levantan algunas voces para cuestionar su lugar en el alfabeto español, la letra h cumple un rol esencial en nuestro idioma. La malquerida h permite desentrañar el fascinante recorrido del español en el tiempo. Es, podría decirse, una referencia histórica poco silenciosa. Sustituyó a la f, en palabras como «hijo», que se pronunciaba «fijo» y viene el latín «filius». La heredamos de los fenicios, quienes influyeron en el latín, el modelo de las lenguas romances, entre las cuales está el español. Sin ella no sabríamos que «almohada» viene del árabe «al-mukhádda». Si desaparece la hache perderíamos un fragmento de la historia del español. Surge, entonces, el aparente dilema ¿es mejor salvaguardar la memoria histórica o darle congruencia a nuestra lengua? Digo aparente, porque la famosa congruencia a la que se apela es la tendencia fonética del español. Esto quiere decir que nuestro idioma tiende a establecer, la mayoría de veces, una equivalencia entre sonido y letra, mas esto no significa que tengamos que renunciar a nuestro acervo histórico.",
+    "questions": [
+      {
+        "statement": "1. La controversia que orienta la discusión entre ambos textos se puede sintetizar con la siguiente pregunta:",
+        "alternatives": [
+          "A) ¿es el uso concreto del idioma el criterio último para determinar su evolución?",
+          "B) ¿la carencia de sonido de la letra h basta para que desaparezca del alfabeto?",
+          "C) ¿la letra h posee una auténtica valía histórica para los hablantes del español?",
+          "D) ¿se debe conservar todavía la h en el conjunto de letras del alfabeto español?",
+          "E) ¿existe una oposición real entre la tendencia fonética del idioma y su historia?"
+        ],
+        "correct": 3,
+        "rationale": "Con posiciones y argumentos contrapuestos, ambos textos discuten sobre la posibilidad de que la letra h sea eliminada del alfabeto del idioma español."
+      },
+      {
+        "statement": "2. El antónimo contextual del término SÚBITAMENTE en 3A, es",
+        "alternatives": [
+          "A) estentóreamente.",
+          "D) azarosamente.",
+          "B) gradualmente.",
+          "E) repentinamente.",
+          "C) tenuemente."
+        ],
+        "correct": 2,
+        "rationale": "En el texto, el término SÚBITAMENTE alude a la desaparición repentina de la letra h. Así, su opuesto tendría que aludir al hecho de que la letra se desvaneciera lentamente del idioma. Por ello, el antónimo requerido tiene que ser «gradual»."
+      },
+      {
+        "statement": "3. De la afirmación de que la única función de la letra h «es hacernos la vida imposible», se desprende que, para el autor del texto A, los usuarios del español",
+        "alternatives": [
+          "A) observan que la Academia de la Lengua nunca ha tomado decisiones adecuadas.",
+          "B) han expresado unánimemente su descontento por la existencia lingüística de la h.",
+          "C) estiman que la valía de la h solamente puede ser evaluada en términos históricos.",
+          "D) están acostumbrados al empleo de vocales silenciosas y letras sin sonido alguno.",
+          "E) tienden a identificar como equivalentes los sonidos y las letras casi naturalmente."
+        ],
+        "correct": 4,
+        "rationale": "Para el autor del texto A, la letra h genera molestias en los usuarios del idioma, porque no se corresponde con el carácter fonético del mismo, lo cual quiere decir que, espontáneamente, ellos identifican sonidos y letras como equivalentes."
+      }
+    ]
+  },
+  {
+    "type": "reading_comprehension",
+    "statement": "El cáncer de mama es una de las principales causas de muerte entre las mujeres de todo el mundo. Diversas campañas de prevención son lanzadas cada año para detectar a tiempo esta enfermedad. La conocida cantante Sheryl Crow dijo, desde su propia experiencia, que «The only person who can save you is yourself. That is the only thing will guide me for the rest of my life». Por ello es necesario atender a algunos datos sobre esta enfermedad. La prevalencia y mortalidad del cáncer de mama irá en aumento en los próximos años, ya que, según las previsiones de la Organización Mundial de la Salud, para 2025 habrá hasta 2.5 millones de nuevos casos y 800 000 muertes. Según un estudio de la Universidad California, en San Francisco se llegó a la conclusión de que las mujeres que tienen tejido mamario denso tienen mayor riesgo a desarrollar este tipo de cáncer. Una investigación realizada en la Universidad de Minnesota detalló que llevar una vida activa, lejos del sedentarismo, cambia la forma en la que el cuerpo maneja el estrógeno, lo cual es un detonante para desarrollar cáncer de mama. Actualmente, existe una mastografía digital en 3D, con la cual se puede detectar la neoplasia invasiva a través de imágenes más detalladas, logrando un diagnóstico más preciso. Erróneamente se cree que este tipo de cáncer sólo afecta a las mujeres, pero se ha comprobado que los hombres pueden desarrollarlo, aunque en menos porcentaje. Muchas mujeres evitan un autoexamen para explorar cualquier irregularidad por el miedo a encontrar algo. Por ello, es importante informarse y saber cuál es la diferencia entre un tumor benigno y uno maligno. Los primeros son blandos, se mueven y pueden ser dolorosos, en cambio, los tumores malignos son duros, están fijos y no hay dolor. Son necesarios los estudios anuales, por consiguiente. Una alimentación alta en grasas, embarazos a edad avanzada o no tener embarazos, adicciones como alcohol y tabaco, inicio de periodo menstrual antes de los 12 años o presentar la menopausia después de los 55, terapias de reemplazo hormonal por tiempo prolongado, nula o poca lactancia materna y sedentarismo son factores de riesgo para desarrollar cáncer de mama. National Geographic (2017). «10 datos que tal vez no sabías sobre el cáncer de mama». En National Geographic en español. Recuperado de <http://www.ngenespanol.com/>.",
+    "questions": [
+      {
+        "statement": "1. El texto se centra sustancialmente en",
+        "alternatives": [
+          "A) las campañas en el mundo para luchar contra el cáncer de mama.",
+          "B) los efectos anatómicos del cáncer de mama y sus medidas preventivas.",
+          "C) los procedimientos médicos efectivos para detectar el cáncer de mama.",
+          "D) la necesidad de detectar el cáncer de mama a tiempo en las jóvenes.",
+          "E) el cáncer de mama y algunas consideraciones sobre esta enfermedad."
+        ],
+        "correct": 4,
+        "rationale": "En el texto se desarrollan algunos aspectos de la enfermedad: su alta tasa de mortalidad, sus aspectos anatómicos, los efectos y algunas maneras de prevenirla."
+      },
+      {
+        "statement": "2. El término MANEJA en el texto connota",
+        "alternatives": [
+          "A) maniobra.",
+          "D) dirección.",
+          "B) conducción.",
+          "E) deterioro.",
+          "C) efecto."
+        ],
+        "correct": 2,
+        "rationale": "En el texto el vocablo en cuestión está referido a la forma en que el estrógeno es asimilado por el cuerpo humano; en tal sentido connota EFECTO."
+      }
+    ]
+  },
+  {
+    "type": "sentence_elimination",
+    "statement": "3. De acuerdo con la cita en inglés, «The only person who can save you is yourself. That is the only thing will guide me for the rest of my life», es posible deducir que",
+    "alternatives": [
+      "A) la única responsable en la existencia de muertes por cáncer de mama es la mujer por su inexperiencia.",
+      "B) la propia mujer tiene una gran responsabilidad no solo para detectar la enfermedad sino para tratarla.",
+      "C) se critica el hecho de que las mujeres tengan que asumir la enfermedad con la indiferencia de los hombres.",
+      "D) la referencia a la única persona que puede salvar a la mujer alude a un doctor que detecte el mal a tiempo.",
+      "E) quienes padecen de cáncer de mama son únicamente las mujeres, y por ello es necesario atenderlas."
+    ],
+    "correct": 1,
+    "rationale": "La cita en inglés «La única persona que puede salvarte eres tú misma. Eso es lo único que va a guiarme el resto de mi vida» alude a la responsabilidad de la mujer para detectar algún bulto anormal o, si acaso ya es una paciente con cáncer de mama, luchar para recuperarse."
+  },
+  {
+    "type": "sentence_elimination",
+    "statement": "4. Es incompatible con el desarrollo textual, acerca de los nocivos efectos del cáncer de mama para la salud del paciente, afirmar que",
+    "alternatives": [
+      "A) podrían deberse en ciertos casos a la vida sedentaria y la ingesta de alimentos con porcentajes altos de grasas.",
+      "B) detectar irregularidades en los senos implica siempre un efecto doloroso que es percibido por las mujeres.",
+      "C) es necesario la información oportuna sobre la enfermedad a fin de superar temores innecesarios y riesgosos.",
+      "D) puede afectar a cualquier mujer por diversas razones y sus resultados podrían ser devastadores.",
+      "E) ha generado que se realicen campañas para prevenir y tratar a tiempo esta enfermedad que va en aumento."
+    ],
+    "correct": 1,
+    "rationale": "Dependiendo del tipo de tumor, es posible que se sienta dolor o no. En tal sentido, el efecto no es siempre doloroso."
+  },
+  {
+    "type": "sentence_elimination",
+    "statement": "5. Si las campañas de prevención contra el cáncer de mama tuvieran una efectividad muy alta en la concientización no solo de los peligros sino de la necesidad de detectarlo a tiempo, posiblemente",
+    "alternatives": [
+      "A) las alarmantes cifras de la OMS sobre el punto podrían, sino revertirse, detenerse gradualmente.",
+      "B) los casos de cáncer de mama en hombres crecerían de forma alarmante por la desinformación.",
+      "C) el cáncer de mama desaparecería en países desarrollados por la formación crítica de sus pobladores.",
+      "D) los efectos del cáncer de mama serían más peligrosos para aquellos hombres que rechacen un tratamiento.",
+      "E) las mujeres habrían alcanzado un reconocimiento ansiado en la consecución de sus derechos básicos."
+    ],
+    "correct": 0,
+    "rationale": "Las cifras evidencian un mal en crecimiento. Si las campañas de prevención fueran altamente efectivas, posiblemente se detengan las cifras o, en el mejor de los casos, se reviertan."
+  },
+  {
+    "type": "reading_comprehension",
+    "statement": "La organización alemana, Transparencia Internacional, reveló su más reciente informe sobre la percepción de corrupción para el año 2017. El índice se calcula de 0 a 100, respectivamente de altamente corrupto a muy transparente y se establece gracias a expertos y actores del sector privado y su apreciación de la transparencia de lo público. En un panel de 180 países, los mejores alumnos son Nueva Zelanda, Dinamarca y Finlandia mientras que los peores son Somalia, Sudán del Sur y Siria. La ONG lamenta que las mejoras sean muy sensibles o inexistentes, de hecho, resalta que los dos tercios de los países no superan el puntaje 50, lo cual corresponde a niveles altos de corrupción y que el promedio global sea solamente de 43 Denuncia también que «los activistas y los periodistas en los países corruptos arriesgan diariamente sus vidas por el hecho de denunciar». Transparencia avanza la cifra que al menos 1 periodista es asesinado por semana en un país altamente corrupto. El informe revela que la percepción de la corrupción en el sector público en los países latinoamericanos, por ejemplo, sigue muy alta a pesar de ciertos avances. La organización resalta la creación de legislaciones fuertes, como en Chile, y la investigación a altos personajes de poder como en Ecuador y Perú. No obstante, estos avances no son generalizados y «no constituyen políticas integrales que aborden las causas históricas y estructurales de la corrupción en la región», argumenta la ONG. La voluntad política acerca de la lucha anticorrupción sufre de variaciones importantes entre países y eso podría explicar en parte el estancamiento de la región además de otras partes del mundo. Los países que consideran esta cuestión como prioritaria y actúan con un aparato legislativo eficaz, basado «mediante el consenso y la participación política», logran mejorar sus puntuaciones rápidamente Mientras tanto, los países que no consideran este tema como prioritario empeoran cada año, revela el análisis. FRANCE 24 (2018). «Índice sobre corrupción deja 16 países de América Latina en rojo». En RFI. Las voces del mundo en español. Recuperado de <http://es.rfi.fr/americas/20180222-indice-sobre-corrupcion-deja-16-paises-de-américa-latina-en-rojo>. Imagen extraída <http://www.losandes.com.ar/article/mafalda-cumple-52-anos-y-las-redes-sociales-festejan-compartiendo-sus-tiras>.",
+    "questions": [
+      {
+        "statement": "El tema central del texto es",
+        "alternatives": [
+          "A) un informe de Transparencia sobre la percepción de la corrupción en el mundo.",
+          "B) los resultados de un estudio de Transparencia sobre la corrupción en América.",
+          "C) la corrupción en Latinoamérica y las medidas remediales para poder revertirla.",
+          "D) un estudio de Transparencia sobre la corrupción latinoamericana y su origen.",
+          "E) las desastrosas consecuencias de la corrupción según la ONG Transparencia."
+        ],
+        "correct": 0,
+        "rationale": "En efecto, el texto ofrece información sobre los resultados de un informe de la organización Transparencia sobre la percepción de la corrupción a nivel mundial. De igual forma, la imagen se refiere a los políticos en general."
+      },
+      {
+        "statement": "La palabra FUERTE se puede reemplazar por",
+        "alternatives": [
+          "A) severa",
+          "B) vigorosa",
+          "C) draconiana",
+          "D) dura",
+          "E) seria."
+        ],
+        "correct": 0,
+        "rationale": "En el texto, el vocablo se usa en el sentido de medidas legales que son rigurosas, es decir, SEVERAS."
+      },
+      {
+        "statement": "Es compatible con el texto mixto en su conjunto afirmar que la corrupción, en tanto fenómeno perceptible para la población,",
+        "alternatives": [
+          "A) devino en pérdidas económicas en países latinoamericanos como Perú y Chile.",
+          "B) en países africanos ha sido abordada eficazmente con un sistema legal sólido.",
+          "C) ocurre en países como Nueva Zelanda, en el cual la prensa está en serio riesgo.",
+          "D) es un fenómeno que, en mayor o menor medida, presenta carácter ecuménico.",
+          "E) está vinculada en toda América Latina con la imposición de penas muy blandas."
+        ],
+        "correct": 3,
+        "rationale": "En el texto se menciona que la percepción de la corrupción no es privativa de una región. Esta se percibe a nivel mundial de manera profunda o de forma superficial."
+      }
+    ]
+  },
+  {
+    "type": "reading_comprehension",
+    "statement": "La ciencia comienza con la observación, que puede ser considerada como el método más antiguo y moderno de recogida de datos. Esta afirmación, aparentemente contradictoria, se\njustifica por la gran evolución que ha experimentado el método observacional en los últimos años. Ahora bien, la observación sin más no puede ser considerada como método científico.\nPor ello resulta conveniente distinguir entre la observación ordinaria y la observación científica. En la observación ordinaria, no científica, se realizan percepciones casuales u ocasionales, comprobando los hechos tal y como se presentan espontáneamente, sin hipótesis previa, es decir, sin intencionalidad de buscar una relación entre dos o más variables, y no en el sentido de observación sin teoría. La observación científica es aquella que utiliza hipótesis expresas y manifiestas, a pesar de que se puedan obtener observaciones científicas por azar o no conexionadas con objetivos de investigación (serendipity). El principal objetivo de la observación científica es la comprobación del fenómeno que se tiene frente a la vista, con la preocupación de evitar y precaver los errores de la observación que podrían alterar la percepción de un fenómeno ola correcta expresión de este. La observación es, por tanto, un instrumento básico para el logro empírico de nuestros objetivos y constituye uno de los aspectos importantes del método científico.\n\nUJA (2010). Introducción a la psicología. España, Universidad de Jaen. Recuperado de <http://www4.ujaen.es/~eramirez/IntPsi.htm#Temario>.\n\nLa creencia de que la ciencia procede de la observación a la teoría está tan difundida y es tan fuerte que mi negación de ella a menudo choca con la incredulidad. Hasta se ha sospechado que soy insincero, de que niego lo que nadie, en su sano juicio, puede dudar. En realidad, la creencia de que podemos comenzar con observaciones puras, sin nada que se parezca a una teoría, es absurda. Este absurdo queda bien ilustrado por la historia del hombre que dedicó su vida a la ciencia natural, anotó todo lo que podía observar y transmitió su inapreciable colección de observaciones a la Royal Society para que se la usara como material inductivo. Esta historia nos muestra que, si bien la recolección de escarabajos puede ser útil, la de observaciones no lo es. Hace veinticinco años traté de explicar esto a un grupo de estudiantes de física de Viena comenzando una clase con las siguientes instrucciones: «tomen papel y lápiz, observen cuidadosamente y escriban lo que han observado». Me preguntaron, por supuesto, qué es lo que yo quería que observaran. Evidentemente, la indicación «¡observen!» es absurda. (Ni siquiera cumple con las reglas del idioma, a menos que se sobreentienda el objeto del verbo transitivo). La observación siempre es selectiva. Necesita un objeto elegido, una tarea definida, un interés, un punto de vista o un problema.\n\nPOPPER, Karl (1983). Conjeturas y refutaciones. El desarrollo del conocimiento científico. Barcelona, Paidós.\n",
+    "questions": [
+      {
+        "statement": "Ambos textos confrontan sobre",
+        "alternatives": [
+          "A) la observación como origen de la práctica científica.",
+          "B) la ciencia y la observación como su única sucedánea.",
+          "C) los objetivos de la ciencia y el método observacional.",
+          "D) el carácter selectivo de la observación para la ciencia.",
+          "E) la diferencia entre la observación cotidiana y la ciencia."
+        ],
+        "correct": 0,
+        "rationale": "En el texto se presenta una tensión entre la postura A que sostiene que la observación es el origen de la ciencia y la postura en B que plantea que la teoría es el origen y direcciona la observación."
+      },
+      {
+        "statement": "En el texto 2B la palabra INAPRECIABLE alude a",
+        "alternatives": [
+          "A) un conjunto cabal de abstracciones.",
+          "B) la colección finita de escarabajos.",
+          "C) una selección trivial de observaciones.",
+          "D) potenciales hipótesis científicas.",
+          "E) la importancia del método científico."
+        ],
+        "correct": 2,
+        "rationale": "El vocablo se usa para referirse al registro de lo que el científico observó en vida. Este conjunto resulta trivial para el autor por tratarse de un conjunto selectivo de lo que al investigador le pareció como digno de ser observado."
+      },
+      {
+        "statement": "Resulta incompatible con el conflicto de los textos afirmar que la observación sin teoría es relevante para la postura de Popper, puesto que",
+        "alternatives": [
+          "A) en la práctica científica el observador debe soslayar todo tipo de abstracción.",
+          "B) la propuesta epistemológica de este supone que es imposible ser observador.",
+          "C) los estudios analíticos dependen de qué tan escrupuloso sea el observador.",
+          "D) una propuesta científica es precisa si se parte de la observación cuidadosa.",
+          "E) para este la teoría permite delimitar el objeto de estudio de forma pertinente."
+        ],
+        "correct": 4,
+        "rationale": "En el texto 2B se indica que es absurdo partir de la observación sin un marco teórico previo, puesto que la observación resultaría trivial. Esta requiere ceñirse a fenómenos particulares y la teoría permite establecer los límites de lo observado."
+      }
+    ]
+  },
+  {
+    "type": "sentence_elimination",
+    "statement": "Resulta incompatible con el conflicto de los textos afirmar que la observación sin teoría es relevante para la postura de Popper, puesto que",
+    "alternatives": [
+      "A) en la práctica científica el observador debe soslayar todo tipo de abstracción.",
+      "B) la propuesta epistemológica de este supone que es imposible ser observador.",
+      "C) los estudios analíticos dependen de qué tan escrupuloso sea el observador.",
+      "D) una propuesta científica es precisa si se parte de la observación cuidadosa.",
+      "E) para este la teoría permite delimitar el objeto de estudio de forma pertinente."
+    ],
+    "correct": 4,
+    "rationale": "En el texto 2B se indica que es absurdo partir de la observación sin un marco teórico previo, puesto que la observación resultaría trivial. Esta requiere ceñirse a fenómenos particulares y la teoría permite establecer los límites de lo observado."
+  },
+  {
+    "type": "sentence_elimination",
+    "statement": "Se deduce del desarrollo textual que los objetos de estudio para el autor del texto A están determinados por ___________________mientras que para B estos se definen por ________________.",
+    "alternatives": [
+      "A) lo conjetural – lo predictivo",
+      "C) la ciencia – la observación",
+      "E) el análisis – las hipótesis",
+      "B) el resultado – el análisis",
+      "D) la observación – la teoría"
+    ],
+    "correct": 4,
+    "rationale": "Para el autor del texto A, la ciencia deviene de la observación, de manera que incluso los objetos de estudio son definidos por esta última. En cambio, para el autor del texto B la delimitación de tareas es posterior a la teoría."
+  },
+  {
+    "type": "reading_comprehension",
+    "statement": "En Main Street de Disneylandia, Emily Bertola pasa horas trabajando de pie, bordando nombres en orejas de ratón en el taller del Sombrerero Loco, donde ha sido empleada durante los últimos dos años. Generalmente, les sonríe con calidez a los visitantes, como le enseñaron a hacerlo en la capacitación. Ninguno de los clientes sabe que durante meses dormió en la parte trasera de una camioneta ni que se duchaba en el parque de diversiones antes de comenzar su turno. Su lucha no es algo inusual en Disneylandia. El condado de Orange es conocido por su opulencia y su industria turística. Sin embargo, los miles de trabajadores que mantienen en funcionamiento sus centros vacacionales, restaurantes y hoteles a veces tienen problemas para sobrevivir. Mientras California lidia con altos costos de vivienda, a los trabajadores que ganan poco más del salario mínimo les resulta difícil cubrir lo básico. Muchos empleados de Disneylandia se han mudado a lugares ubicados más al interior de esa zona costera y conducen durante horas todos los días para llegar al trabajo. Otros, como Bertola, han optado por hospedarse en casas de conocidos o dormir en sus autos durante meses. A pesar de su frustración por el salario, muchos trabajadores dijeron en entrevistas que prefieren quedarse en Disneylandia por el vínculo con sus recuerdos de la infancia o porque se niegan a perder las ventajas de obtener, de vez en cuando, entradas gratis a los parques para sus hijos. Además, para muchos trabajadores que reciben sus sueldos por hora trabajada, hay pocas opciones de ganar más dinero en otra parte. Más de la mitad de todos los empleados en la industria de la diversión y la recreación ganan menos de 15 dólares la hora, según datos del censo. Cerca del 85 por ciento de los 17 000 empleados de Disneylandia que son parte de un sindicato gana menos de 15 dólares la hora, según los registros sindicales. El salario mínimo actual por hora en California es de 10,50 dólares y llegará a 15 dólares en 2022. De acuerdo con una encuesta realizada a miles de empleados de bajo salario en el parque, casi tres cuartos de los trabajadores que respondieron dijeron que no ganan dinero suficiente para pagar sus gastos mensuales básicos, y uno de cada diez dijo que había estado sin hogar en los últimos dos años. «I moved for the dream of working here», dijo Bertola, de 24 años. «We came here as kids for our birthdays growing up and had such an amazing time. I wanted to be a part of that». Nada más alejado del sueño edulcorado fabricado por un mundo cada vez más mercantilizado que se apropia de la necesidad de miles de personas que, como Bertola, viven una real pesadilla entre risas y un despliegue de riqueza implacable. MEDINA, Jennifer (2018). «Los pobres de Disneylandia». En The New York Times, recuperado de <https://www.nytimes.com/es/2018/03/02/disneyland-california-economia-salarios/>.",
+    "questions": [
+      {
+        "statement": "El tema central del texto es",
+        "alternatives": [
+          "A) una encuesta que revela las condiciones precarias de ciertos trabajadores en Disney.",
+          "B) los enormes costos de vivienda de California y la lesiva reducción salarial en Disneylandia.",
+          "C) la penosa necesidad que atraviesan los trabajadores de Disneylandia para rentar una casa.",
+          "D) el apremiante problema salarial y de manutención de los empleados de Disneylandia.",
+          "E) los inconvenientes que enfrentan los empleados de Disneylandia por el sindicalismo."
+        ],
+        "correct": 3,
+        "rationale": "En el texto se plantea medularmente el inconveniente de los empleados de Disney, los cuales, además de percibir un sueldo bajo, enfrentan problemas para poder vivir."
+      },
+      {
+        "statement": "En el texto, la palabra LIDIAR connota",
+        "alternatives": [
+          "A) dificultad.",
+          "B) combate.",
+          "C) pendencia.",
+          "D) rechazo.",
+          "E) decisión."
+        ],
+        "correct": 0,
+        "rationale": "El vocablo en cuestión se usa para hacer referencia a las complicaciones que genera el alquiler de una vivienda. En tanto que tal, connota DIFICULTAD."
+      },
+      {
+        "statement": "Respecto de Disneylandia, que representa la industria del entretenimiento, resulta incompatible afirmar que",
+        "alternatives": [
+          "A) esta básicamente sustentado en mecanismos de explotación a sus empleados.",
+          "B) parece seguir un derrotero de indolencia ante los apremios de sus empleados.",
+          "C) es la que evidencia los sueldos más bajos en comparación con otros lugares.",
+          "D) podría aprovecharse de la necesidad de asistir al emblemático parque temático.",
+          "E) el mundo de ensueño que comercializa es contrario a las dificultades laborales."
+        ],
+        "correct": 2,
+        "rationale": "En el texto se indica que los empleados se resignan, puesto que no podrían ganar más en otros lugares."
+      }
+    ]
+  }
+]

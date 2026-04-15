@@ -1,0 +1,71 @@
+[
+  {
+    "type": "sentence_elimination",
+    "statement": "3. Resulta compatible señalar que una persona que abraza a una religión",
+    "alternatives": [
+      "A) pone en tela de juicio los mandatos divinos.",
+      "B) sustenta sus acciones en absoluta libertad.",
+      "C) desestima la existencia de valores categóricos.",
+      "D) a posteri ori construye sus normas morales.",
+      "E) justifica su elección apelando un plan divino."
+    ],
+    "correct": 4,
+    "rationale": "El creyente, a diferencia del hombre sartreano, parte de la aceptación de que su vida está regida por un ente superior, al cual debe obedecer."
+  },
+  {
+    "type": "sentence_elimination",
+    "statement": "4. Se desprende del texto que en la antropología sartreana se enfatiza su",
+    "alternatives": [
+      "A) substancialidad.",
+      "B) pragmaticidad.",
+      "C) existencialidad.",
+      "D) relatividad.",
+      "E) naturalidad."
+    ],
+    "correct": 2,
+    "rationale": "Al sostener Sartre que, antes de todo, el hombre es libre y a partir de su libertad configura su tabla de valores, está negando un principio a priori o algo que predetermine al hombre, sino que se realiza en tanto que es libre, pero el soporte de su libertad se da en su existencia misma."
+  },
+  {
+    "type": "sentence_elimination",
+    "statement": "5. Si un filósofo postulase la ex istencia de valores absolutos, independientes del hombre,",
+    "alternatives": [
+      "A) estaría congregando en una religión monoteísta.",
+      "B) su postura sería calificada de un teísmo explícito.",
+      "C) estaría en las antípodas del pensamiento sartreano.",
+      "D) aun así defendería la libertad ab soluta del hombre.",
+      "E) estaría precediendo a la existencia sobre la esencia."
+    ],
+    "correct": 2,
+    "rationale": "La filosofía de Sartre rechaza la existencia de valores absolutos que predeterminan al hombre; al contrario, el hombre, en tanto que es libre, construye sus propios valores."
+  },
+  {
+    "type": "reading_comprehension",
+    "statement": "Reich tiene ahora 89 años, pero en la primavera de 1944 era un adolescente esquelético y aterrorizado, que vivía hacinado junto con otros prisioneros judíos que veían cómo sus compañeros eran asesinados, o esperaban que les sucediera lo mismo a ellos. El joven Reich compartía litera con Herbert Levin, un treintañero amable. Levin era un mago profesional con el nombre artístico de Gran Nivelli. Reich lo conocía solo como Herr Levin —señor Levin en alemán — y evitaba llamarlo por el número que tenía tatuado en su antebrazo, que era una manera común de dirigirse a los prisioneros en el campo. Todavía recuerda la ternura casi paternal y el aire de elegancia de Levin, al igual que la baraja sucia que usaba para practicar sus trucos en la litera, acolchonada con paja y yute. Diez hombres compartían la litera en unas barracas ubicadas muy cerca de las cámaras de gas y de los hornos crematorios encendidos día y noche. Levin sobrevivió a Auschwitz ganándose el favor de los guardias con las cartas, monedas y pedazos de listón. Reich lo hizo porque tenía fuerza física y muchísima suerte. Una infinidad de prisioneros murieron seleccionados por Josef Mengele, conocido como el Ángel de la Muerte por sus horribles experimentos con los reos. Cuando tenía 17 años y pesaba 30 kilos llegó al campo de Mauthausen, en Austria, que fue liberado por las tropas estadounidenses en mayo de 1945. Durante los últimos 25 años ha viajado a diferentes lugares para hablar sobre su experiencia allí. También habla sobre su vida adulta: Reich empezó siendo un empleado fabril sin ninguna educación, se graduó de una universidad local en Manhattan y se convirtió en ingeniero. Nunca dejó de practicar magia, algo que atribuyó a haber conocido a Levin en Auschwitz. «We loved anything that could take us away from Auschwitz for even a moment, that could take our minds off our memories and the horror around us». The New York Times  (6/05/17). « El mejor truco de un mago en Auschwitz: sobrevivir al horror » Recuperado y adaptado el 12 de mayo de 2017 de https://www.nytimes.com/es/2017/05/06/el -mejor -truco -de-un-mago -en-auschwitz -sobrevivir -al-horror/",
+    "questions": [
+      {
+        "statement": "Centralment e, el texto trata sobre",
+        "alternatives": [
+          "A) Reich, un sobreviviente de los campos de concentración nazis.",
+          "B) La estrategia de Levin para lograr sobrevivir al Ángel de la Muerte.",
+          "C) Reich y Levin: los únicos dos sobrevivientes del campo de Auschwitz.",
+          "D) la aciaga experiencia de Reich y su relación con Levin en Auschwitz.",
+          "E) dos prisioneros judíos que a través de la magia arrostraron la muerte."
+        ],
+        "correct": 3,
+        "rationale": "El texto nos narra sobre el testimonio de Reich como prisionero en los campos de concentr ación y como, a partir de s u amistad con Levin, pudo sobrellevar su encierro en el campo de Auuschwitz."
+      },
+      {
+        "statement": "En el texto, el término FAVOR tiene el sinónimo contextual de",
+        "alternatives": [
+          "A) beneficio.",
+          "B) patrocinio.",
+          "C) protección.",
+          "D) donativo.",
+          "E) atención."
+        ],
+        "correct": 2,
+        "rationale": "Levin con sus juegos de cartas o monedas se ganó el favor de los guardias. Es decir, se ganó el apoyo, la protección de ellos."
+      }
+    ]
+  }
+]

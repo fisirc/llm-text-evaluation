@@ -1,0 +1,471 @@
+[
+  {
+    "type": "reading_comprehension",
+    "statement": "«La homeopatía se basa en los efectos terapéuticos de sustancias cuya toxicidad se suprime utilizando dosis muy pequeñas, hasta el nivel conocido como 'infinitesimal'», explica, en su web, Boiron, la principal empresa de tratamientos homeopáticos en España. «Los efectos son específicos de la sustancia diluida, incluso cuando a veces no se llegan a detectar trazas moleculares en el medicamento». Un ejemplo real: la cafeína espabila. Según toma en proporciones ínfimas, hace lo contrario: dar sueño. De ahí un preparado para dormir que se obtiene mezclando un parte de cafeína con 99 de agua. Se agita y el resultante se vuelve a diluirlo en una olla con otros 99 partes de agua. Y así sucesivamente. Cada una de estas diluciones se denomina CH (Centesimal Hahnemanianna). En algunos casos, el resultado equivale a verter una gota de principio activo en todos los océanos del planeta. Esta operación es lo mismo que llenar en casa una olla con cinco litros de agua, echar un pellizco de azúcar, remover. Después, separar una cucharilla de té del líquido resultante y volver a diluirlo en una olla con otros cinco litros de agua limpios. Y repetir la operación tantas veces como se desee para terminar tomando una gota del preparado con el café del desayuno. ¿Puede un preparado de este tipo curar alguna enfermedad?",
+    "questions": [
+      {
+        "statement": "1. De manera implícita, el primer argumento para cuestionar el valor curativo de la homeopatía incide en su preparación con el fin de",
+        "alternatives": [
+          "A) sostener que el grado de dilución necesario refrenda su valor medicinal.",
+          "B) esclarecer hasta qué punto se podría aprovechar la dilución infinitesimal.",
+          "C) demostrar que sus preparados están compuestos de agua básicamente.",
+          "D) sugerir que la composición química de estos fármacos puede ser tóxica."
+        ],
+        "correct": 2,
+        "rationale": "Este primer argumento se concentra es evidenciar, a partir de la preparación de los productos homeopáticos, su composición real, de tal forma que se perciba que estos preparados son básicamente agua."
+      },
+      {
+        "statement": "2. El segundo argumento postula que «la evidencia científica en contra de la eficacia de la homeopatía es irrefutable». Para ello,",
+        "alternatives": [
+          "A) invoca una investigación hecha por el Ministerio de Sanidad.",
+          "B) apela a la autoridad de un estudio reciente y cita un ejemplo.",
+          "C) cuestiona la ordenanza ministerial para regular su expendio.",
+          "D) reniega de una reciente investigación realizada en Cochrane."
+        ],
+        "correct": 1,
+        "rationale": "El segundo argumento del autor se refuerza con el empleo de varias estrategias. Entre ellas destaca, la apelación a la autoridad de un estudio reciente y el uso de un ejemplo (el niño fallecido en Girona)."
+      },
+      {
+        "statement": "3. En el ___________argumento, el autor recurre a la _________,que se evidencia en el tono hiperbólico que emplea, como complemento.",
+        "alternatives": [
+          "A) primer – reticencia",
+          "C) segundo – crítica",
+          "B) segundo – cita",
+          "D) primer – ironía"
+        ],
+        "correct": 3,
+        "rationale": "En el primer argumento, el autor ironiza al describir la preparación de los fármacos homeopáticos («En algunos casos, el resultado equivale a verter una gota de principio activo en todos los océanos del planeta»)."
+      }
+    ]
+  },
+  {
+    "type": "reading_comprehension",
+    "statement": "La idea de producción capitalista es la que ha servido para alimentar e inocular en el ADN de nuestras sociedades lo que la economía ecológica ha denominado el mito del crecimiento. Esta idea postula que el hecho de que la economía crezca a costa de lo que sea es siempre bueno en sí mismo, debido a que es la única forma de crear bienestar.\n\nLos países que se denominan desarrollados, todos ellos, cumplen una serie de características. Son países que hace muchísimo tiempo agotaron su base de materias primas y la base material que tienen en sus propios territorios. Si ahora mismo le ponemos una valla a la periferia de cualquiera de los países que se llaman desarrollados que impida que ingresen energía o materiales y evite que salgan residuos de cualquier tipo, ese país no duraría ni quince días. Porque son países que hace mucho tiempo sobrepasaron los límites de sus propios territorios. Dicho de otra manera, el crecimiento económico y el llamado desarrollo se construye sobre la base de una economía que podríamos llamar, metafóricamente, caníbal, porque se sostiene y crece a partir de los consumos, de los recursos, de los minerales y de la contaminación exportada a terceros países. Asimismo, esos países denominamos desarrollados atraen mano de obra barata de terceros países. Para que eso exista, para que haya países que puedan comprar, cuando la compran, materia prima barata o puedan utilizar energías baratas y puedan exportar residuos o importar alimentos baratos, en buenas condiciones, tiene que haber en el otro lado del mundo justo lo contrario.\n\nI\n\nEntonces, para que pueda existir ese modelo de desarrollo tiene que haber ese otro modelo de sometimiento y explotación. Es decir, para que existan países que sobrepasan, con mucho, el consumo de los que les permiten sus propios territorios tiene que haber otros países que funcionen en el planeta como si fueran una gran mina y un gran vertedero. Ese es el mito del crecimiento sobre el que se funda el modelo capitalista que muchos defienden.\n\nHerrera, Y. (2002). «El capitalismo es insostenible». Recuperado de https://www.youtube.com/watch?v=1mpfBf7RooU.\n\n1. En la argumentación de la autora, el mito del crecimiento\n\nA) carece de pertinencia para explicar la economía de los países tercermundistas.\nB) es una de secuela de la política económica que puso en marcha el comunismo.\nC) provoca consecuencias en el ámbito medioambiental y político principalmente.\nD) arraiga en los primeros planteamientos de la economía de la cultura occidental.",
+    "questions": [
+      {
+        "statement": "1. En la argumentación de la autora, el mito del crecimiento",
+        "alternatives": [
+          "A) carece de pertinencia para explicar la economía de los países tercermundistas.",
+          "B) es una de secuela de la política económica que puso en marcha el comunismo.",
+          "C) provoca consecuencias en el ámbito medioambiental y político principalmente.",
+          "D) arraiga en los primeros planteamientos de la economía de la cultura occidental."
+        ],
+        "correct": 2,
+        "rationale": "El deterioro del planeta, cuyas zonas más pobres se convierten en vertederos, y el desarrollo de una economía caníbal que demanda la existencia de «otro modelo de sometimiento y explotación»."
+      },
+      {
+        "statement": "2. De la descripción de los países desarrollados que propone la autora, se desprende que el capitalismo",
+        "alternatives": [
+          "A) permite una relación armoniosa entre el ser humano y la naturaleza.",
+          "B) socava los principios para que emerja una economía de tipo caníbal.",
+          "C) pone en riesgo el desarrollo sostenido de los países del viejo mundo.",
+          "D) es un sistema que tiende a agotar la riqueza natural de un territorio."
+        ],
+        "correct": 3,
+        "rationale": "Los países desarrollados son aquellos donde el capitalismo mejor se ha asentado, pero, también, regiones que hace «muchísimo tiempo agotaron la base de materias primas y la base material que tienen en sus propios territorios»."
+      }
+    ]
+  },
+  {
+    "type": "sentence_elimination",
+    "statement": "3. En la lógica de la autora, se infiere que si un país del tercer mundo consigue un nivel\nde desarrollo sobresaliente en su región",
+    "alternatives": [
+      "A) sus desechos contaminantes serían trasladados a los países desarrollados.",
+      "B) posiblemente haya establecido relaciones de dominio sobre otras naciones.",
+      "C) se habría culminado una nueva evolución de la economía de libre mercado.",
+      "D) las zonas de Asia se convertirían en los nuevos vertederos de desperdicios."
+    ],
+    "correct": 1,
+    "rationale": "El mito del crecimiento, postula Herrera, implica la aparición de una «economía caníbal» que, en simultáneo, provoca que emerja un sistema de explotación y sometimiento sobre otras naciones."
+  },
+  {
+    "type": "reading_comprehension",
+    "statement": "El periodismo es moral y método. No es ni puede ser más, y en esa humildad de oficio reside su poder. Una de las peores herencias de los gobiernos anteriores fue el sistema de espionaje que dejó desmontado y que, con el tiempo, se transformó en un mercado negro de «pruebas» al alcance de todo aquel que tuviera la billetera suficiente para invertir.\nDurante la década del 2000 llegaban casi semanalmente a todas las redacciones periodísticas audios editados, legajos improbables, así como otras especies con precio y descuento, como si se tratase de una subasta al mejor postor. Se sabía que ese menú de chuponeos y mercancías mal habidas recorría las salas de prensa y, de cuando en cuando, alguien compraba; luego la transacción se revestía con una o dos entrevistas, con uno o dos motivos, y el resto era disimular. Siempre ha habido cretinos en todas partes, pero aquí ocurrió algo distinto: son pocas las oportunidades que se tiene de ver cómo desciende el nivel de escrúpulos en una profesión entera, en forma consensuada y de manera abrupta.\nPor ello, se debe insistir en que el periodista no es quien recibe lo que le colocan y lo publica como si fuera un gran destape, ni tampoco es aquel que, motivado por un espíritu aventurero, hipoteca sus reservas materiales y morales, inconsultamente, en pos de una primicia que lo pone bajo sospecha. El deber del periodista no es comprar ni vender, como tampoco es juzgar. Eso se llama sensacionalismo, ligereza, incontinencia, complicidad o usurpación de funciones. El rol del periodista —al menos como yo lo entiendo, al menos como lo aprendí— consiste en obtener información, dudar de ella y contrastarla hasta tener la seguridad de que es veraz y socialmente relevante, un ejercicio que solo se puede conducir con honestidad intelectual (denuevo, moral y método). Solo luego se la difunde, con la reserva y la prudencia que amerite el caso. El primer paso de este proceso es una pregunta de muchas: ¿cuál es el origen de la información? Si no se puede responder esa interrogante de manera satisfactoria, el resto es oscuro y la amenaza, latente: ser el tonto útil de alguien.\n\nPimentel, J. (28 de setiembre de 2015). «Pensar la prensa». El Comercio. Recuperado el 17 de agosto de 2016 de\nhttp://elcomercio.pe/eldominical/columna/pensar-prensa-jeronimo-pimentel-noticia-1844343",
+    "questions": [
+      {
+        "statement": "Fundamentalmente, el texto de Pimentel discute _______________________y su posición implica una _____________.",
+        "alternatives": [
+          "A) la ética en la prensa escrita-probatio",
+          "B) la moralidad del periodista-confutatio",
+          "C) la naturaleza del periodismo-probatio",
+          "D) una definición de la prensa-confutatio"
+        ],
+        "correct": 2,
+        "rationale": "La controversia que aborda Pimentel es la naturaleza del periodismo. Para el autor, esta actividad se debe caracterizar por la moral y el método. Asimismo, su posición implica una probatio."
+      },
+      {
+        "statement": "La tesis del autor sostiene que el periodista se debe caracterizar por",
+        "alternatives": [
+          "A) su actitud honesta y su rigor al evaluar la información que piensa difundir.",
+          "B) su agudeza intelectual cuando funge de comunicador para la comunidad.",
+          "C) su pericia al evaluar el carácter ético de las noticias que decide informar.",
+          "D) su suspicacia ante los materiales que adquiere y su integridad intelectual."
+        ],
+        "correct": 0,
+        "rationale": "Para Pimentel, la honestidad al actuar y el rigor al evaluar los materiales que se propone comunicar constituyen los dos rasgos esenciales del periodismo."
+      },
+      {
+        "statement": "En el texto, la palabra IMPROBABLE se entiende como un legajo",
+        "alternatives": [
+          "A) descontrolado.",
+          "C) recóndito.",
+          "B) infinito.",
+          "D) inverosímil."
+        ],
+        "correct": 2,
+        "rationale": "Se afirma en el texto que un periodista no puede dar crédito a legajos improbables."
+      },
+      {
+        "statement": "La argumentación de Pimentel incide, principalmente, en",
+        "alternatives": [
+          "A) la necesidad de replantear la técnica para practicar el oficio periodístico.",
+          "B) el deterioro ético del periodismo a raíz de la situación política del país.",
+          "C) el proceso de consecución de información que distingue a los reporteros.",
+          "D) las organizaciones de espionaje desmontadas por los gobiernos previos."
+        ],
+        "correct": 1,
+        "rationale": "En su argumentación, el autor sugiere que la profesión periodística en su conjunto se degradó a raíz de la situación política que atravesó el país."
+      }
+    ]
+  },
+  {
+    "type": "reading_comprehension",
+    "statement": "Imagen recuperada de https://www.emol.com/noticias/Tecnologia/2019/05/31/949723/Infografia-Cinco-pasos-que-explican-como-se-genera-un-tornado.html.\n\nLa formación de los tornados sigue albergando varias incógnitas para los científicos y meteorólogos que los estudian. Sin embargo, se sabe que para que se formen, se tienen que dar una serie de condiciones meteorológicas especiales. En principio, dos corrientes de aire, una fría y otra caliente convergen en horizontal. En este encuentro, el aire caliente, que debería estar por encima del frío, queda atrapado en un plano inferior, lo que produce que ambas corrientes fluyan a diferentes alturas, de forma paralela y con direcciones opuestas. Llegado el momento, la corriente de aire frío y seco comienza a descender, mientras que la otra, más cálida y húmeda se eleva, produciendo una corriente en forma de tubo giratorio. Según avanza el proceso, esta corriente de aire tubular comienza a ganar velocidad.\n\nPosteriormente, el aire caliente continúa ascendiendo a la vez que el frío desciende, levantando el vórtice del tornado hacia una posición vertical. Una vez el vórtice toca el suelo, la corriente de aire acelera nuevamente, produciéndose el remolino en forma de trompo tan característico de los tornados. A continuación, mientras que el aire frío desciende alrededor de los flancos del trompo, el flujo de aire caliente atrapado bajo la primera, encuentra, a través del vórtice, una vía de ascenso idónea, por lo que, siguiendo esta ruta, comienza a elevarse en vertical de forma más violenta y masiva. Este desplazamiento genera un efecto de «aspiración», razón por la cual los tornados pueden levantar vehículos e incluso viviendas haciéndolas volar literalmente.\nLlegado el momento en el que ambos flujos de aire, tanto el caliente ascendente como el frío que desciende, alcanzan valores constantes, el viento en el interior del «trompo» puede registrar velocidades de hasta 480 kilómetros por hora.\n\nRedacción. (02 de agosto de 2019). «Así se forma un tornado». National Geographic España. Recuperado de\nhttps://www.nationalgeographic.com.es/ciencia/asi-se-forma-tornado_14413.",
+    "questions": [
+      {
+        "statement": "En esencia, el texto tiene la intención de",
+        "alternatives": [
+          "A) definir las condiciones meteorológicas elementales para la formación de tornados.",
+          "B) comunicar las características cruciales de un fenómeno meteorológico específico.",
+          "C) dilucidar la velocidad que pueden alcanzar el vórtice y los flancos de un torbellino.",
+          "D) describir el proceso de formación de los huracanes a través de sus varias etapas."
+        ],
+        "correct": 3,
+        "rationale": "Tanto la lectura como el gráfico brindan información sobre las diversas etapas que atraviesa el proceso de formación de un tornado o huracán."
+      },
+      {
+        "statement": "En el texto, el término CONVERGER tiene el sentido de",
+        "alternatives": [
+          "A) desplazar.",
+          "C) combinar.",
+          "B) coincidir.",
+          "D) articular."
+        ],
+        "correct": 1,
+        "rationale": "El contexto enunciativo donde aparece permite afirmar que la palabra «converger» se refiere a que dos corrientes de aire de temperaturas contrarias, caliente y fría, «coinciden» en un mismo punto en un plano horizontal."
+      }
+    ]
+  },
+  {
+    "type": "reading_comprehension",
+    "statement": "Tanto la lectura como el gráfico brindan información sobre las diversas etapas que atraviesa el proceso de formación de un tornado o huracán.",
+    "questions": [
+      {
+        "statement": "2. En el texto, el término CONVERGER tiene el sentido de",
+        "alternatives": [
+          "A) desplazar.",
+          "C) combinar.",
+          "B) coincidir.",
+          "D) articular."
+        ],
+        "correct": 2,
+        "rationale": "El contexto enunciativo donde aparece permite afirmar que la palabra «converger» se refiere a que dos corrientes de aire de temperaturas contrarias, caliente y fría, «coinciden» en un mismo punto en un plano horizontal."
+      },
+      {
+        "statement": "3. En relación con la formación de los tornados que ilustra el gráfico, es inconsistente sostener que",
+        "alternatives": [
+          "A) el vórtice creado por el aire caliente y frío se mantiene suspendido en el proceso.",
+          "B) una vez formado, la fuerza destructiva que alcance dependerá de su aceleración.",
+          "C) una columna de aire giratorio emerge cuando aumenta el movimiento de rotación.",
+          "D) al surgir consiguen una velocidad promedio de desplazamiento mayor a 15 km/h."
+        ],
+        "correct": 0,
+        "rationale": "El vórtice que surge del encuentro de la masa de aire caliente y de aire frío desciende hasta entrar en contacto con el suelo. No se mantiene suspendido en el proceso."
+      },
+      {
+        "statement": "4. A partir de la información que brindan el gráfico y la lectura, se deduce que para la formación de los tornados",
+        "alternatives": [
+          "A) la velocidad del aire caliente en su rotación define su estructura al interior.",
+          "B) las dos corrientes de aire se deben fusionar antes de concluya el proceso.",
+          "C) el contraste entre las temperaturas de las masas de aire es determinante.",
+          "D) es indispensable una cantidad de condiciones meteorológicas especiales."
+        ],
+        "correct": 2,
+        "rationale": "Tanto el gráfico como la lectura inciden en el papel que cumple la diferencia de temperaturas de las masas de aire en las etapas de la formación del tornado. Por ello, esa diferencia, a la larga, termina siendo fundamental."
+      },
+      {
+        "statement": "5. Si la convergencia de aires no pudiera crear un vórtice dinámico,",
+        "alternatives": [
+          "A) se podría generar un viento con una velocidad de 400 km/h.",
+          "B) el proceso de formación de un tornado no se llevaría a cabo.",
+          "C) el ritmo de aparición del tornado se incrementaría al instante.",
+          "D) el torbellino pasaría del suelo hasta el punto más elevado."
+        ],
+        "correct": 1,
+        "rationale": "La condición inicial para la formación de los tornados demanda que «el aire caliente, que debería estar por encima del frío, queda atrapado en un plano inferior». Sin esta condición, los tornados no podrían surgir."
+      }
+    ]
+  },
+  {
+    "type": "reading_comprehension",
+    "statement": "SEMANA 11 B\nLas superbacterias son cepas de microorganismos que han sido capaces de mutar su ADN a lo largo de generaciones para poder sobrevivir. Cuando son atacadas por los fármacos, las bacterias entran en una situación de estrés que les induce a captar el ADN de otras bacterias a las que no les afecta un antibiótico determinado. Se trata de una estrategia adaptativa que se ha acelerado por el uso masivo y, a menudo, incorrecto que se hace de los antibióticos, como la automedicación o los tratamientos incompletos, y que ha empujado a estos organismos a dotarse de un «superescudo multirresistente» que puede repeler la acción de numerosos fármacos a la vez.\n\nVarios laboratorios están trabajando para contrarrestar esa enorme capacidad defensiva, entre ellos el Centro Nacional de Biotecnología del CSIC, donde un equipo liderado por Daniel López ha desarrollado una forma de desactivar los escudos protectores bacterianos, donde se hallan los complejos proteicos relacionados con la resistencia a los antibióticos, denominados balsas de lípidos. «Hemos descubierto que las estatinas, un\ngrupo de fármacos usados para tratar a pacientes con colesterol, pueden ser eficaces para luchar contra esas superbacterias cuando se suministran junto con antibióticos convencionales», explica López. Las estatinas rompen esas balsas de lípidos y permiten la actuación habitual del antibiótico. Las pruebas se han realizado con Staphylococcus aureus, una bacteria que causa estragos en ambientes hospitalarios y que es resistente a un antibiótico muy habitual, la meticilina. Es de esperar que este notable avance en la lucha contra las superbacterias vaya en paralelo a un uso más racional de los fármacos. De lo contrario, esos diminutos seres unicelulares se verán impelidos a construirse barricadas cada vez más infranqueables.\n\nRedacción. (17 de setiembre de 2019). «Superbacterias: la lucha que no cesa». National Geographic España.\nRecuperado de https://www.nationalgeographic.com.es/ciencia/superbacterias-lucha-que-no-cesa_12406.",
+    "questions": [
+      {
+        "statement": "1. Además de reflexionar sobre su posible origen, el texto informa medularmente sobre",
+        "alternatives": [
+          "A) las propiedades esenciales de las bacterias que han logrado mutar su ADN.",
+          "B) un procedimiento que neutraliza las balsas de lípidos de las superbacterias.",
+          "C) el rol de las estatinas para la destrucción de unos escudos multibacteriales.",
+          "D) la adaptación de las bacterias a raíz de la producción de escudos proteicos."
+        ],
+        "correct": 1,
+        "rationale": "El texto informa sobre el posible origen de las superbacterias (médico o alimenticio) y, fundamentalmente, sobre la creación de un nuevo procedimiento para combatirlas por medio de la neutralización de los escudos bacterianos."
+      },
+      {
+        "statement": "2. El sinónimo contextual del término IMPELER es",
+        "alternatives": [
+          "A) disolver.",
+          "C) alterar.",
+          "B) modificar.",
+          "D) inducir."
+        ],
+        "correct": 3,
+        "rationale": "En el texto, el término «impeler» se refiere a que, sino se regula el uso excesivo de antibióticos, las bacterias seguirán mutando y poniendo en peligro la salud humana. En tal sentido, el sinónimo contextual de «impeler» es «inducir»."
+      }
+    ]
+  },
+  {
+    "type": "reading_comprehension",
+    "statement": "En España, el año 2017, cada inmigrante costaba a las arcas públicas entorno a los sesenta mil euros en su primer año de acogida si se computan todos los costes sociales que lleva aparejada su presencia en ese país. Un análisis detallado de los bienes sociales que consumen los inmigrantes ofrece una fotografía todavía más gris: acceden a mayores ayudas de supervivencia, son favorecidos en la adjudicación de vivienda social, disfrutan de sanidad y educación gratuitas e incluso ven cubiertos los gastos de reunificación familiar.\nAsimismo, cuando los inmigrantes provienen de culturas distintas a la europea tienden a formar guetos cerrados donde viven según sus costumbres y leyes. Esos lugares, que se suelen llamar en Europa «zonas no-go», aunque son bastante inocuos para los varones, no lo son para las mujeres, que suelen ser acosadas, insultadas y hasta agredidas, ni tampoco para los representantes de la ley, que son hostilizados al tratar de cumplir su labor.\nPor tanto, Europa no puede asumir más parados y dependientes que únicamente saben cómo exprimir el sistema para alcanzar unos niveles de bienestar que nunca han disfrutado, y que, además, son incapaces de respetar las normas y valores de los países que les brindan una segunda oportunidad para surgir.\n\nBardají, R. (21 de noviembre de 2018). «¿De verdad necesitamos más inmigración?». Expansión. Recuperado de\nhttps://www.expansion.com/actualidadeconomica/analisis/2018/11/21/5bf529a3e2704e9811.\n\nEuropa necesita inmigrantes para poder mantener sus altos niveles de vida, pues es\nun continente en el que, gracias a la modernización y el desarrollo, cada vez un número\nmenor de personas debe mantener a una población jubilada más numerosa y que sigue\ncreciendo sin tregua. No solo España tiene la más baja tasa de nacimientos en el año;\nmuchos otros países europeos le siguen los pasos de cerca. Los inmigrantes, querámoslo\no no, terminarán llenando ese vacío. Para ello, en vez de mantenerlos a raya y perseguirlos,\nhay que integrarlos y orientar su arribo para que beneficie al viejo continente. Por otro lado,\nel neocolonialismo, practicado de diversas formas por los países europeos, causó estragos\nen el Tercer Mundo y contribuyó en buena parte a mantenerlo subdesarrollado. Así, no hay\nduda de que, en última instancia, solo el desarrollo del Tercer Mundo mantendrá en sus\ntierras a esas masas que ahora prefieren ahogarse en el Mediterráneo, y ser explotadas\npor las mafias, antes que continuar en sus países de origen donde sienten que no cabe ya\nla esperanza de cambio. Por ello, es menester abrir las fronteras europeas a una\ninmigración que es necesaria y regularla de modo que sea propicia.\n\nVargas Llosa, M. (7 de julio de 2019). «La capitana y el ministro». El País. Recuperado de\nhttps://elpais.com/elpais/2019/07/04/opinion/1562247268_109575.html.",
+    "questions": [
+      {
+        "statement": "La discusión planteada entre ambos textos tiene como eje",
+        "alternatives": [
+          "A) la llegada de inmigrantes a Europa a la luz del colonialismo contemporáneo.",
+          "B) el coste monetario real de la migración para los países de la Unión Europea.",
+          "C) la postura que deben asumir los países europeos respecto de la inmigración.",
+          "D) el soporte para instaurar una política de fronteras abiertas para la migración."
+        ],
+        "correct": 2,
+        "rationale": "En ambos fragmentos, se debate sobre la posición que los países europeos deben asumir en relación a la inmigración. Para el texto A, la inmigración, por el coste social y el riesgo que entraña, no debe permitirse. Por el contrario, para el texto B, la inmigración es necesaria para mantener el alto nivel de vida europeo y está justificada por la «deuda histórica» contraída con los países del Tercer Mundo."
+      },
+      {
+        "statement": "En el texto 2A, el término INOCUO es antónimo de",
+        "alternatives": [
+          "A) neutral.",
+          "C) ambiguo.",
+          "B) ubérrimo.",
+          "D) virulento."
+        ],
+        "correct": 3,
+        "rationale": "En el texto, la palabra se refiere a un entorno inofensivo, por lo que el antónimo es la palabra «virulento»."
+      }
+    ]
+  },
+  {
+    "type": "reading_comprehension",
+    "statement": "En ambos fragmentos, se debate sobre la posición que los países europeos deben asumir en relación a la inmigración. Para el texto A, la inmigración, por el coste social y el riesgo que entraña, no debe permitirse. Por el contrario, para el texto B, la inmigración es necesaria para mantener el alto nivel de vida europeo y está justificada por la «deuda histórica» contraída con los países del Tercer Mundo.",
+    "questions": [
+      {
+        "statement": "En el texto 2A, el término INOCUO es antónimo de",
+        "alternatives": [
+          "A) neutral.",
+          "C) ambiguo.",
+          "B) ubérrimo.",
+          "D) virulento."
+        ],
+        "correct": 3,
+        "rationale": "En el texto, la palabra se refiere a un entorno inofensivo, por lo que el antónimo es la palabra «virulento»."
+      },
+      {
+        "statement": "En la lógica del texto 2 B, los inmigrantes en Europa pueden tener un efecto benéfico",
+        "alternatives": [
+          "A) en la medida en que los guetos le dan un colorido al paisaje de las naciones.",
+          "B) para garantizar a los europeos una reserva en el caso de una guerra mundial.",
+          "C) debido a que pueden ser un bálsamo para la política fiscal de la jubilación.",
+          "D) por cuanto el llamado Tercer Mundo siempre es un peligro para Europa."
+        ],
+        "correct": 2,
+        "rationale": "La jubilación presenta muchos problemas para los europeos, razón por la cual los inmigrantes podrían ser de enorme ayuda para solventar con los impuestos esa política."
+      },
+      {
+        "statement": "Desde la óptica del texto 2A, se infiere que los inmigrantes a los que hace referencia",
+        "alternatives": [
+          "A) tienen el propósito de contribuir con la generación de riqueza nacional.",
+          "B) se inscriben en culturas que evidencian marcados rasgos patriarcales.",
+          "C) están dispuestos a proteger a la población anciana para ser admitidos.",
+          "D) han renunciado insertarse en el mercado laboral que brinda el Estado."
+        ],
+        "correct": 1,
+        "rationale": "Según el texto A, en las «zonas no-go», creadas por la agrupación de inmigrantes que no desean integrarse a la cultura del país que los cobija, la seguridad de las mujeres se vuelve precaria, no así con los varones."
+      },
+      {
+        "statement": "Si Europa hubiera desistido de intervenir en el rumbo de los países del Tercer Mundo desde que se independizaron,",
+        "alternatives": [
+          "A) la tasa de natalidad europea repuntaría en pocos años hasta lograr ser positiva.",
+          "B) los países europeos no necesitarían inmigrantes para mantener su nivel de vida.",
+          "C) apelar al argumento de la deuda histórica resultaría una estrategia impertinente.",
+          "D) el costo anual por migrante disminuiría a menos de la mitad en la zona europea."
+        ],
+        "correct": 2,
+        "rationale": "El segundo argumento del texto B sostiene que la situación de precariedad de los países del Tercer Mundo se debe, en parte, al neocolonialismo que practicaron algunas naciones europeas. Por ende, existiría una deuda histórica que justifica, en parte, la responsabilidad de Europa frente a la inmigración."
+      }
+    ]
+  },
+  {
+    "type": "reading_comprehension",
+    "statement": "Aunque parezca paradójico, el estilo de la novela reside en la combinación de estilos; es decir, el lenguaje de la novela es un sistema elaborado sobre la base de distintos «lenguajes». Cada elemento diferenciado del lenguaje novelesco se define mejor por medio de la unidad estilística subordinada a la que se halla incorporado directamente: el lenguaje del personaje, individualizado desde el punto de vista estilístico, la representación de la oralidad del narrador, escritura, etc. Esta unidad directa determina el carácter lingüístico y estilístico (lexicográfico, semántico, sintáctico) del elemento respectivo. Al mismo tiempo, ese elemento, junto con su unidad estilística inmediata, está envuelto en el estilo del conjunto, porta su acento, participa en la estructura y en la manifestación del sentido único del todo.\n\nLa novela es la diversidad social del lenguaje organizada artísticamente (y, a veces, de lenguas y voces individuales). La estratificación interna de una lengua nacional en dialectos sociales, en grupos, argots profesionales, lenguajes de género; lenguajes de generaciones, de edades, de corrientes; lenguajes de autoridades, de círculos y modas pasajeros; lenguajes de los días, e incluso de las horas; social-políticos (cada día tiene su lema, su vocabulario, sus acentos); así como la estratificación interna de una lengua en cada momento de su existencia histórica, constituye la premisa necesaria para el género novelesco: a través de ese plurilingüismo social y plurifonismo individual, que tiene su origen en sí mismo, orquesta la novela todos sus temas, todo su universo semántico-concreto representado y expresado. El discurso del autor y del narrador, los géneros intercalados, los lenguajes de los personajes, no son sino unidades compositivas fundamentales, por medio de las cuales penetra el plurilingüismo en la novela; cada una de esas unidades admite una diversidad de voces sociales y una diversidad de relaciones, así como correlaciones entre ellas (siempre dialogizadas, en una u otra medida). Esas relaciones y correlaciones espaciales entre los enunciados y los lenguajes, ese movimiento del tema a través de los lenguajes y discursos, su fraccionamiento en las corrientes y gotas del plurilingüismo social, su dialogización, constituyen el aspecto característico del estilo novelesco.\n\nBajtín, M. (1991). «La palabra en la novela». Teoría y estética de la novela. Madrid: Taurus, 80-81.\n\nI\n\n1. De manera sintética, el texto sostiene fundamentalmente que el estilo de la novela",
+    "questions": [
+      {
+        "statement": "De manera sintética, el texto sostiene fundamentalmente que el estilo de la novela",
+        "alternatives": [
+          "A) solo adquiere su forma artística final al incorporar expresiones diversas.",
+          "B) parte de una depuración que intenta eliminar elementos contradictorios.",
+          "C) consiste en la organización artística de la diversidad social del lenguaje.",
+          "D) resulta de la síntesis del plurilingüismo social en una variedad estándar."
+        ],
+        "correct": 2,
+        "rationale": "Según Bajtín, el estilo de la novela se caracteriza por la combinación de los diversos estilos o «lenguajes» que coexisten en la sociedad."
+      },
+      {
+        "statement": "En el texto, el término MOVIMIENTO supone",
+        "alternatives": [
+          "A) desplazamiento.",
+          "C) consagración.",
+          "B) variación.",
+          "D) reconocimiento."
+        ],
+        "correct": 2,
+        "rationale": "La palabra «movimiento» alude a que el tema de una novela será abordado desde múltiples enfoques. Por ende, este término supone «variación»."
+      }
+    ]
+  },
+  {
+    "type": "reading_comprehension",
+    "statement": "Según Bajtín, el estilo de la novela se caracteriza por la combinación de los diversos estilos o «lenguajes» que coexisten en la sociedad.",
+    "questions": [
+      {
+        "statement": "En el texto, el término MOVIMIENTO supone",
+        "alternatives": [
+          "A) desplazamiento.",
+          "C) consagración.",
+          "B) variación.",
+          "D) reconocimiento."
+        ],
+        "correct": 1,
+        "rationale": "La palabra «movimiento» alude a que el tema de una novela será abordado desde múltiples enfoques. Por ende, este término supone «variación»."
+      },
+      {
+        "statement": "Del texto se infiere que el género novelesco se vincula estrechamente a la diversidad lingüística de una sociedad, porque",
+        "alternatives": [
+          "A) los estilos inscritos en una novela suspenden toda conexión.",
+          "B) el lenguaje de la narración resume los conflictos nacionales.",
+          "C) su punto de partida es la estratificación interna de la lengua.",
+          "D) una obra novelística apuesta por disolver sus componentes."
+        ],
+        "correct": 2,
+        "rationale": "Bajtín sostiene que el vínculo entre la novela y lo social surge a partir de la incorporación de la diversidad lingüística de la población. Este hecho parte de que la premisa del género novelístico es la estratificación interna del lenguaje."
+      },
+      {
+        "statement": "Con relación al estilo de la novela no es válido sostener que",
+        "alternatives": [
+          "A) considera la estratificación interna de la lengua en su existencia histórica.",
+          "B) supone la organización de materiales diversos con una finalidad artística.",
+          "C) integra la diversidad lingüística social a través de unidades compositivas.",
+          "D) renuncia a brindar una estructura al conjunto de «lenguajes» que incluye."
+        ],
+        "correct": 3,
+        "rationale": "Según el texto, la novela produce un «estilo del conjunto», que supone una estructura y un sentido únicos en la totalidad estética de la obra."
+      },
+      {
+        "statement": "Si se demostrara fehacientemente que la novela solo es capaz de incorporar un único lenguaje en su composición,",
+        "alternatives": [
+          "A) el valor artístico de las narraciones se vería fortalecido en los próximos años.",
+          "B) sería improbable que ofrezca un abordaje de las distintas aristas de un tema.",
+          "C) el narrador en las novelas dejaría de convertirse en el eje de ciertas novelas.",
+          "D) la literatura asumiría una posición ancilar en el corpus de las artes modernas."
+        ],
+        "correct": 1,
+        "rationale": "Bajtín sostiene que el tema se mueve «a través de los lenguajes y discursos», es decir, que es abordado desde diversas perspectivas. Este tratamiento múltiple del tema es posible al plurilingüismo estilístico de la novela."
+      }
+    ]
+  },
+  {
+    "type": "reading_comprehension",
+    "statement": "En el mercado financiero, el precio del dinero está determinado por la tasa de interés bancaria, que refleja cuánto paga un deudor a un acreedor por usar su dinero durante un periodo. A su vez, esa tasa de interés está directamente influenciada por la tasa de referencia, que es establecida por el Banco Central de cada país. De esta forma, si se quiere estimular la actividad económica, el Banco Central disminuye la tasa de referencia, lo que provee de un incentivo para aumentar el crédito e impulsar la economía a través del incremento de los préstamos bancarios. En Perú, con el fin de moderar la desaceleración de la economía, el programa monetario del Banco Central de Reserva (BCR) de julio abrió las puertas a una eventual reducción de su tasa de interés de referencia —actualmente en 2.75%—, según analistas del sistema financiero.\n\nEl BCP estima que una disminución preventiva de dicha tasa se daría entre el último trimestre de este año y el primero del 2020. Así, las tasas de interés de los créditos ofrecidos por las entidades bancarias se reducirían, lo que abarataría el financiamiento que toman las personas y empresas. En la misma, línea BBVA estima que el BCR reducirá su tasa clave de 2.75% a 2.50%, con un primer recorte en octubre o noviembre. Esta rebaja de la tasa del BCR se daría en un contexto de lento crecimiento económico, que habría sido cercano al 2% en el primer semestre, según el BCP. La actividad económica mostró debilidad en sectores extractivos como minería y pesca, así como en la inversión pública. Entre las causas de la reducción de la tasa de política monetaria, el BCP menciona una brecha de producto más negativa (crecimiento de la economía por debajo de su potencial), y el sesgo a la baja para la inflación (y las expectativas de inflación). En tanto, BBVA cita el deterioro de la confianza empresarial, la moderación de los indicadores de gasto privado y la relativa fortaleza de la moneda local.\n\nRamírez, Z. (25 de julio de 2019). «¿Por qué bajará el costo del dinero en Perú en los próximos meses?». Gestión.\nRecuperado de https://gestion.pe/tu-dinero/bajara-costo-dinero-peru-proximos-meses-274104-noticia/?ref=gesr.",
+    "questions": [
+      {
+        "statement": "Fundamentalmente, el texto sostiene que",
+        "alternatives": [
+          "A) la economía peruana atravesará por un periodo de reducción y deterioro.",
+          "B) el BCR proyecta reducir la tasa de referencia para impulsar la economía.",
+          "C) el precio del dinero depende de la tasa de interés y la tasa de referencia.",
+          "D) el BCR y el BCP se muestran atentos a de la desaceleración económica."
+        ],
+        "correct": 1,
+        "rationale": "El texto informa sobre una medida que el Banco Central de Reserva proyecta aplicar con el objetivo de dinamizar el crecimiento de la economía peruana."
+      },
+      {
+        "statement": "El antónimo contextual del término ESTIMULAR es",
+        "alternatives": [
+          "A) paralizar.",
+          "C) acicatear.",
+          "B) monitorear.",
+          "D) dinamizar."
+        ],
+        "correct": 0,
+        "rationale": "En el texto, «estimular» se entiende como incentivar la actividad económica, volverla más dinámica. Por ello, el antónimo contextual más adecuado para este término sería «paralizar»."
+      }
+    ]
+  },
+  {
+    "type": "reading_comprehension",
+    "statement": "El texto informa sobre una medida que el Banco Central de Reserva proyecta aplicar con el objetivo de dinamizar el crecimiento de la economía peruana.",
+    "questions": [
+      {
+        "statement": "El antónimo contextual del término ESTIMULAR es",
+        "alternatives": [
+          "A) paralizar.",
+          "C) acicatear.",
+          "B) monitorear.",
+          "D) dinamizar."
+        ],
+        "correct": 1,
+        "rationale": "En el texto, «estimular» se entiende como incentivar la actividad económica, volverla más dinámica. Por ello, el antónimo contextual más adecuado para este término sería «paralizar»."
+      },
+      {
+        "statement": "No es consistente sostener que los valores del mercado financiero se hallan bajo el control de las entidades bancarias privadas, porque",
+        "alternatives": [
+          "A) la economía del país requiere la integración de las industrias regionales y locales.",
+          "B) el valor monetario del dinero depende de la tasa de referencia en última instancia.",
+          "C) la brecha de producto negativa provocó la merma de la tasa de interés financiera.",
+          "D) la reducción de la tasa de referencia servirá para redefinir una política económica."
+        ],
+        "correct": 1,
+        "rationale": "La tasa de referencia que dicta el Banco Central de Reserva determina, finalmente, el precio del dinero dentro del mercado financiero. Por ello, el poder que ejercen las entidades privadas encuentra un contrapeso en el BCR."
+      },
+      {
+        "statement": "De la medida proyectada por el Banco Central de Reserva, se deduce que",
+        "alternatives": [
+          "A) el flujo económico disminuye primero en los sectores de carácter extractivo.",
+          "B) morigerar la desaceleración de la economía del país es una tarea del BCP.",
+          "C) el sistema de crédito e inversión puede servir para reactivar una economía.",
+          "D) controlar los indicadores de gasto individual resulta decisivo para el Estado."
+        ],
+        "correct": 2,
+        "rationale": "Según se explica en el texto, la redefinición de la tasa de referencia tiene como objetivo la reactivación de la economía peruana. Esta medida busca incentivar la actividad crediticia y la inversión de los particulares."
+      },
+      {
+        "statement": "Si, para mediados del 2021, el Banco Central de Reserva decidiera aumentar la tasa de referencia,",
+        "alternatives": [
+          "A) los sectores extractivos tendrían que incrementar su inversión en tecnología.",
+          "B) el sesgo de baja para la inflación reduciría el coste de los servicios estatales.",
+          "C) la tasa de interés disminuiría con el objetivo de lograr un equilibrio financiero.",
+          "D) esa decisión estaría relacionada con la aceleración de la economía peruana."
+        ],
+        "correct": 3,
+        "rationale": "La disminución de la tasa de referencia constituye una medida para reactivar la alicaída economía peruana. Si esta medida fuera suspendida, sería probable que el sector económico haya recuperado su dinamismo."
+      }
+    ]
+  }
+]

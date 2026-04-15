@@ -1,0 +1,578 @@
+[
+  {
+    "type": "reading_comprehension",
+    "statement": "Ante todo, hay que tener en cuenta lo siguiente: las proposiciones verdaderamente\nmatemáticas son siempre juicios a priori, no empíricos, ya que conllevan necesidad, cosa\nque no puede ser tomada de la experiencia. Si no se quiere admitir esto, entonces limitaré\nmi principio a la matemática pura, cuyo concepto implica, por sí mismo, que no contiene\nconocimiento empírico alguno, sino sólo conocimiento puro a priori.\n\nSe podría pensar, de entrada, que la proposición 7 + 5 = 12 es una simple\nproposición analítica, que se sigue, de acuerdo con el principio de contradicción, del\nconcepto de suma de siete y cinco. Pero, si se observa más de cerca, se advierte que el\nconcepto de suma de siete y cinco no contiene otra cosa que la unión de ambos números\nen uno solo, con lo cual no se piensa en absoluto cuál sea ese número único que sintetiza\nlos dos. El concepto de doce no está todavía pensado en modo alguno al pensar yo\nsimplemente dicha unión de siete y cinco. Puedo analizar mi concepto de esa posible\nsuma el tiempo que quiera, pero no encontraré en tal concepto el doce. Hay que ir más\nallá de esos conceptos y acudir a la intuición correspondiente a uno de los dos, los cinco\ndedos de nuestra mano, por ejemplo, o bien cinco puntos, e ir añadiendo sucesivamente\nal concepto de siete las unidades del cinco dado en la intuición. En efecto, tomo primero\nel número 7 y, acudiendo a la intuición de los dedos de la mano para el concepto de 5,\nañado al número 7 una a una, las unidades que previamente he reunido para formar el\nnúmero 5, y de esta forma veo surgir el número 12. Que 5 tenía que ser añadido a 7 lo he\npensado ciertamente en el concepto de suma = 7+5, pero no que tal suma fuera igual a\n12. Por consiguiente, la proposición aritmética es siempre sintética, cosa de la que nos\npercatamos con mayor claridad cuando tomamos números algo mayores, ya que\nentonces se pone claramente de manifiesto que, por muchas vueltas que demos a\nnuestros conceptos, jamás podríamos encontrar la suma mediante un simple análisis de\nlos mismos, sin acudir a la intuición.\n\nDe la misma forma, ningún principio de la geometría pura es analítico: “la línea\nrecta es la más corta entre dos puntos” es una proposición sintética. En efecto, mi\n\nconcepto de recto no contiene ninguna magnitud, sino sólo cualidad, El concepto “la más\ncorta” es, pues, añadido enteramente desde fuera. Ningún análisis puede extraerlo del\nconcepto de línea recta. Hay que acudir, pues, a la intuición, único factor por medio del\ncual es posible la síntesis.",
+    "questions": [
+      {
+        "statement": "El tema central hace referencia a",
+        "alternatives": [
+          "A) al juicio analítico y al principio de contradicción.",
+          "B) los juicios analíticos en la geometría y aritmética.",
+          "C) los juicios sintéticos en la aritmética y geometría.",
+          "D) la síntesis en las proposiciones de la aritmética.",
+          "E) la intuición, único factor de síntesis en geometría."
+        ],
+        "correct": 2,
+        "rationale": "Al analizar la proposición ‘7+5 = 12’ demuestra el autor que es sintética al igual que la proposición ‘la línea recta es la más corta entre dos puntos’."
+      },
+      {
+        "statement": "Entre A PRIORI y EMPÍRICO, el autor establece una",
+        "alternatives": [
+          "A) sinonimia.",
+          "D) implicación.",
+          "B) afinidad.",
+          "E) antonimia.",
+          "C) correspondencia."
+        ],
+        "correct": 4,
+        "rationale": "Son nociones semánticamente contrapuestas."
+      },
+      {
+        "statement": "Si la proposición “7 + 5 = 12” fuese analítica",
+        "alternatives": [
+          "A) el concepto de 12 estaría presente en el de 7+5.",
+          "B) la síntesis tomaría en cuenta el concepto de suma.",
+          "C) la intuición jugaría un rol esencial en matemática.",
+          "D) las proposiciones matemáticas serían empíricas.",
+          "E) la necesidad sería irrelevante en las matemáticas."
+        ],
+        "correct": 4,
+        "rationale": "Los juicios analíticos se basan en el principio de contradicción y si la proposición “7 + 5 = 12” fuera analítica, entonces no se justificaría la intuición, único factor que posibilita la síntesis."
+      },
+      {
+        "statement": "El término INTUICIÓN en el texto puede ser reemplazado por",
+        "alternatives": [
+          "A) imagen.",
+          "D) deducción.",
+          "B) recuerdo.",
+          "E) axioma.",
+          "C) memoria"
+        ],
+        "correct": 0,
+        "rationale": "El concepto suma de 5 y 7 es la unión de ambos números, pero no que sea 12; para encontrar el 12 acudo a la intuición (imagen) correspondiente a uno de los dos e ir añadiendo uno a uno al otro, como los dedos de la mano o cinco puntos dado en la intuición (imagen)."
+      },
+      {
+        "statement": "De acuerdo con el autor es incompatible sostener que",
+        "alternatives": [
+          "A) los juicios de la geometría son todos sintéticos.",
+          "B) algunos juicios de la geometría son empíricos.",
+          "C) los juicios de la aritmética son todos sintéticos.",
+          "D) los juicios de la geometría y aritmética son a priori.",
+          "E) la matemática pura no tiene juicios empíricos."
+        ],
+        "correct": 1,
+        "rationale": "Así como los juicios de la aritmética son a priori, los de la geometría tienen el mismo status."
+      },
+      {
+        "statement": "Si ‘7 + 5 = 12’ es un enunciado a priori y el concepto 12 surgió en la síntesis por la intuición, podemos inferir que este juicio es",
+        "alternatives": [
+          "A) analítico y tautológico.",
+          "B) sintético y a priori.",
+          "C) analítico y a priori.",
+          "D) analítico y necesario.",
+          "E) sintético y empírico."
+        ],
+        "correct": 1,
+        "rationale": "Si todos los juicios de la matemática son a priori y el concepto 12 es hallado por la síntesis de ‘7 + 5’ dada en la intuición, entonces este juicio es sintético a priori."
+      }
+    ]
+  },
+  {
+    "type": "reading_comprehension",
+    "statement": "Así como los juicios de la aritmética son a priori, los de la geometría tienen el mismo status.\n\nHay una cuestión ampliamente debatida: si es mejor ser amado que temido o viceversa. Se responde que sería menester serlo uno y lo otro; pero, puesto que resulta difícil combinar ambas cosas, es mucho más seguro ser temido que amado cuando se haya de renunciar a una de las dos. Porque en general se puede decir de los hombres lo siguiente: son ingratos, volubles, simulan lo que no son y disimulan lo que son, huyen del peligro, están ávidos de ganancia; y mientras les haces favores son todo tuyos, te ofrecen la sangre, los bienes, la vida, los hijos, cuando la necesidad está lejos; pero cuando se te viene encima, vuelven la cara. Y aquel príncipe que se ha apoyado enteramente en sus promesas, encontrándose desnudo y desprovisto de otros preparativos, se hunde: porque las amistades que se adquieren a costa de recompensas y no con grandeza y nobleza de ánimo, se compran, pero no se tienen, y en los momentos de necesidad no se puede disponer de ellas. Además, los hombres vacilan menos en hacer daño a quien se hace amar que a quien se hace temer, pues el amor emana de una vinculación basada en la obligación, la cual (porla maldad humana) queda rota siempre que la propia utilidad da motivo para ello, mientras que el temor emana del miedo al castigo, el cual jamás te",
+    "questions": [
+      {
+        "statement": "Si ‘7 + 5 = 12’ es un enunciado a priori y el concepto 12 surgió en la síntesis por la intuición, podemos inferir que este juicio es",
+        "alternatives": [
+          "A) analítico y tautológico.",
+          "B) sintético y a priori.",
+          "C) analítico y a priori.",
+          "D) analítico y necesario.",
+          "E) sintético y empírico."
+        ],
+        "correct": 1,
+        "rationale": "Si todos los juicios de la matemática son a priori y el concepto 12 es hallado por la síntesis de ‘7 + 5’ dada en la intuición, entonces este juicio es sintético a priori."
+      },
+      {
+        "statement": "Si todos los juicios geométricos fueran analíticos, en la geometría,",
+        "alternatives": [
+          "A) estos juicios no conllevarían necesidad.",
+          "B) se necesitaría del camino de la síntesis.",
+          "C) síntesis e intuición serían equivalentes.",
+          "D) serían irrelevantes la intuición y la síntesis.",
+          "E) no se distinguiría la síntesis del análisis."
+        ],
+        "correct": 3,
+        "rationale": "Los juicios de la geometría al ser analíticos no requerirían de la intuición ni de la síntesis, por lo que serían irrelevantes."
+      },
+      {
+        "statement": "Si alguien sostuviera que 3 + 3 no es igual a 6,",
+        "alternatives": [
+          "A) violaría el principio de contradicción.",
+          "B) tendría una consistente base empírica.",
+          "C) formularía una demostración impecable.",
+          "D) el conocimiento a posteriori sería relevante.",
+          "E) no se distinguiría entre analítico y necesario."
+        ],
+        "correct": 0,
+        "rationale": "Los juicios de la matemática son necesarios y por lo tanto analíticos, se siguen del principio de contradicción."
+      },
+      {
+        "statement": "El enunciado de la geometría “El triángulo equilátero tiene tres lados iguales” es un juicio",
+        "alternatives": [
+          "A) analítico.",
+          "D) a posteriori.",
+          "B) sintético.",
+          "E) contraintuitivo.",
+          "C) contradictorio."
+        ],
+        "correct": 0,
+        "rationale": "En el juicio ‘la línea recta es la más corta entre dos puntos’, el concepto ‘la más corta’ es añadido de afuera por la intuición que permite la síntesis; en cambio el concepto triángulo es extraído de ‘tiene tres lados’, por lo que es analítico."
+      },
+      {
+        "statement": "Es incompatible con el texto afirmar que",
+        "alternatives": [
+          "A) los juicios de la matemática pura son contingentes.",
+          "B) la proposición “7+5=12” es un juicio no analítico.",
+          "C) la intuición es la que nos permite conocer el 12.",
+          "D) la matemática pura contiene sólo juicios a priori.",
+          "E) es imposible demostrar, por análisis, 9+3=12."
+        ],
+        "correct": 0,
+        "rationale": "En el texto se afirma claramente que los juicios de la matemática conllevan necesidad, y la necesidad implica que son puros a priori y lo fáctico es a posteriori."
+      }
+    ]
+  },
+  {
+    "type": "reading_comprehension",
+    "statement": "En el texto se afirma claramente que los juicios de la matemática conllevan\nnecesidad, y la necesidad implica que son puros a priori y lo fáctico es a posteriori.\n\nRpta.: A\n\nHay una cuestión ampliamente debatida: si es mejor ser amado que temido o\nviceversa. Se responde que sería menester serlo uno y lo otro; pero, puesto que resulta\ndifícil combinar ambas cosas, es mucho más seguro ser temido que amado cuando se\nhaya de renunciar a una de las dos. Porque en general se puede decir de los\nhombres lo siguiente: son ingratos, volubles, simulan lo que no son y disimulan lo que son, huyen del\npeligro, están ávidos de ganancia; y mientras les haces favores son todo tuyos, te ofrecen\nla sangre, los bienes, la vida, los hijos, cuando la necesidad está lejos; pero cuando se te\nviene encima, vuelven la cara. Y aquel príncipe que se ha apoyado enteramente en sus\npromesas, encontrándose desnudo y desprovisto de otros preparativos, se hunde: porque\nlas amistades que se adquieren a costa de recompensas y no con grandeza y nobleza de\nánimo, se compran, pero no se tienen, y en los momentos de necesidad no se puede\ndisponer de ellas. Además, los hombres vacilan menos en hacer daño a quien se hace\namar que a quien se hace temer, pues el amor emana de una vinculación basada en la\nobligación, la cual (porla maldad humana) queda rota siempre que la propia utilidad da\nmotivo para ello, mientras que el temor emana del miedo al castigo, el cual jamás te\nabandona. Debe, no obstante, el príncipe hacerse temer de manera que si le es imposible\n\nganarse el amor consiga evitar el odio, porque puede combinarse perfectamente el ser\ntemido y el no ser odiado. Conseguirá esto siempre que se abstenga de tocar los bienes\nde sus ciudadanos y de sus súbditos, y sus mujeres. Y si a pesar de todo le resulta\nnecesario proceder a ejecutar a alguien, debe hacerlo cuando haya justificación oportuna\ny causa manifiesta. Pero, por encima de todas las cosas, debe abstenerse siempre de los\nbienes ajenos, porque los hombres olvidan con mayor rapidez la muerte de su padre que\nla pérdida de su patrimonio. Además, motivos para arrebatar los bienes no faltan nunca y\nel que comienza a vivir con rapiña encontrará siempre razones para apropiarse de lo que\npertenece a otros; por el contrario motivos para ejecutar a alguien son más raros y pasan\ncon más rapidez.\n\nPero cuando el príncipe se encuentra con los ejércitos y tiene a sus órdenes\nmultitud de soldados, entonces es absolutamente necesario que no se preocupe de la\nfama de cruel, porque de lo contrario nunca mantendrá al ejército unido ni dispuesto a\nacometer empresa alguna.\n\nConcluyo, por tanto, volviendo a lo relativo a ser amado y temido, que –como los\nhombres aman según su voluntad y temen según la voluntad del príncipe– un príncipe\nprudente debe apoyarse en aquello que es suyo y no en lo que es de otros. Debe tan sólo\ningeniárselas, como hemos dicho, para evitar ser odiado\n",
+    "questions": [
+      {
+        "statement": "¿Cuál es la idea principal del texto?",
+        "alternatives": [
+          "A) Un príncipe tiene muchos motivos para despojar de sus bienes a los demás.",
+          "B) Es importante para un príncipe saber que todos los hombres son ingratos.",
+          "C) Más conviene a un príncipe ser temido que amado, y debe evitar ser odiado.",
+          "D) Cuando un príncipe está al mando de sus ejércitos tiene que mostrar crueldad.",
+          "E) Un príncipe debe procurar ganarse el temor y el amor de todos sus súbditos."
+        ],
+        "correct": 2,
+        "rationale": "El texto dilucida la cuestión, importante para el gobierno de un príncipe, de: “si es mejor ser amado que temido o viceversa”, concluyendo que para éste es mejor ser temido que amado, evitando también ser odiado."
+      },
+      {
+        "statement": "En el texto, el término RAPIÑA implica",
+        "alternatives": [
+          "A) vehemencia.",
+          "D) expoliación.",
+          "B) legalidad.",
+          "E) mentira.",
+          "C) engaño."
+        ],
+        "correct": 3,
+        "rationale": "En el texto, el termino rapiña está relacionado con “arrebatar los bienes” y también con “apropiarse de lo que pertenece a otros”, por lo que puede ser reemplazado por expoliación."
+      },
+      {
+        "statement": "Resulta incompatible con el pensamiento del autor decir que los hombres",
+        "alternatives": [
+          "A) muestran una gran avidez por acumular ganancias.",
+          "B) otorgan poca consideración a los bienes materiales.",
+          "C) se caracterizan por la volubilidad y la ingratitud.",
+          "D) aman según los imperios de su propia voluntad.",
+          "E) se definen por una tendencia inherente a la maldad."
+        ],
+        "correct": 1,
+        "rationale": "El texto señala que los hombres “están ávidos de ganancia”, por lo que resulta falso sostener que no les importe que alguien se los arrebate."
+      },
+      {
+        "statement": "Se colige de lo afirmado en el texto sobre los hombres, que estos son por naturaleza",
+        "alternatives": [
+          "A) creyentes.",
+          "D) bondadosos.",
+          "B) hipócritas.",
+          "E) benévolos.",
+          "C) dadivosos."
+        ],
+        "correct": 1,
+        "rationale": "Por todas las cosas negativas que el autor dice de los hombres en el texto, se puede inferir que para éste los hombres poseen una naturaleza inclinada al mal."
+      },
+      {
+        "statement": "La intención primordial del autor es enseñar al príncipe",
+        "alternatives": [
+          "A) cómo gobernar y mantenerse en el gobierno.",
+          "B) la manera correcta de afrontar una guerra.",
+          "C) cómo tratar a las mujeres de sus súbditos.",
+          "D) de qué manera lograr ser amado y popular.",
+          "E) cuándo se debe recompensar a los hombres."
+        ],
+        "correct": 0,
+        "rationale": "La idea principal del texto sobre como el príncipe debe preferir ser temido que amado y evitar ser odiado, busca conseguir que este sepa el tipo de relación que debe tener con sus súbditos, para gobernarlos y mantenerse en el gobierno sin problemas."
+      }
+    ]
+  },
+  {
+    "type": "reading_comprehension",
+    "statement": "La idea principal del texto sobre como el príncipe debe preferir ser temido que amado y evitar ser odiado, busca conseguir que este sepa el tipo de relación que debe tener con sus súbditos, para gobernarlos y mantenerse en el gobierno sin problemas.",
+    "questions": [
+      {
+        "statement": "6. Se infiere que, para el autor, la política se rige por una consideración",
+        "alternatives": [
+          "A) axiológica.",
+          "D) metafísica.",
+          "B) estética.",
+          "E) pragmática.",
+          "C) ética."
+        ],
+        "correct": 4,
+        "rationale": "La manera en que estudia a los hombres o súbditos, al príncipe o gobernante y la base de las relaciones entre ellos, es desde la perspectiva de cómo son realmente y no como deberían ser."
+      },
+      {
+        "statement": "7. Si el autor del texto hubiese tenido una mirada totalmente distinta a la que tiene sobre la naturaleza humana, probablemente hubiese aconsejado al príncipe que",
+        "alternatives": [
+          "A) actúe confiando en sus súbditos.",
+          "B) debe desconfiar de los hombres.",
+          "C) sea autoritario y cruel con su pueblo.",
+          "D) aumente las fuerzas de su ejército.",
+          "E) debe controlar a su pueblo con el temor."
+        ],
+        "correct": 0,
+        "rationale": "Si se cumpliera la premisa de la pregunta, el autor pensaría que los hombres son naturalmente bondadosos, y por lo tanto el príncipe podría confiar en sus súbditos."
+      }
+    ]
+  },
+  {
+    "type": "reading_comprehension",
+    "statement": "En Cerro de Pasco, tanto sus principales cuencas hidrográficas como sus suelos y las comunidades contiguas, son afectados por la contaminación minera y las descargas de las aguas residuales domésticas de la población urbana, debido a la falta de sistemas de tratamiento. La actividad extractiva que ejecuta métodos inadecuados, sin medidas de mitigación, causa infertilidad de los suelos agrícolas y pecuarios, erosión e ingreso de contaminantes en la cadena alimentaria, con múltiples impactos negativos en la salud de la población, como la intoxicación por metales pesados.\n\nSegún el documento Estudios en poblaciones afectadas por metales pesados en Pasco (2018) de Source International, Paragsha es el centro poblado que presenta el mayor porcentaje de casos registrados de enfermedades (del sistema digestivo, respiratorio y numerosos casos de traumatismo y envenenamiento). Además, en cuanto a la salud mental de la población de Paragsha, se evidencia un incremento de casos de trastornos de diferente índole particularmente relacionados a violencia familiar (87% de la población) y depresión (11%).\n\nEn el estudio se comparó la concentración de plomo, así como de otros 20 metales (aluminio, cobre, cromo, hierro, manganeso, mercurio, etc.), que fueron previamente detectados en el ambiente, en el organismo de los niños, niñas y preadolescentes del centro poblado de Paragsha y los niveles de los mismos metales en los niños del distrito de Carhuamayo (Junín) respecto del límite para los metales tóxicos en el pelo del laboratorio alemán Micro Trace Mineral, especializado en análisis de minerales y metales tóxicos.\n\nSource International De Italia. (2018). Estudios en poblaciones afectadas por metales pesados en Pasco.\nRecuperado y adaptado de https://bit.ly/2WAl1TM.",
+    "questions": [
+      {
+        "statement": "1. El propósito principal del autor del texto es mostrar que",
+        "alternatives": [
+          "A) la minería en Cerro de Pasco mella la salud de niños, adolescentes y adultos.",
+          "B) las concentraciones de metales en la sangre son significativas en los niños.",
+          "C) los niveles de plomo en la sangre de niños en Cerro de Pasco llegan a un límite.",
+          "D) la minería informal cada vez ocasiona más trastornos en todos los seres vivos.",
+          "E) la minería en comunidades cerreñas ha generado efectos adversos muy críticos."
+        ],
+        "correct": 4,
+        "rationale": "En el texto se informan las consecuencias negativas producidas principalmente por la actividad minera. Principalmente, se comenta lo que perjudica a parte de la población de Paragsha."
+      },
+      {
+        "statement": "2. ¿Cuál es el significado de la palabra ÍNDOLE?",
+        "alternatives": [
+          "A) Contingencia",
+          "D) Naturaleza",
+          "B) Origen",
+          "E) Efecto",
+          "C) Estructura"
+        ],
+        "correct": 1,
+        "rationale": "El término se entiende como ‘naturaleza’. "
+      },
+      {
+        "statement": "3. Considerando el texto en su totalidad, determine las ideas compatibles (C) e incompatibles (I) respectivamente.",
+        "alternatives": [
+          "A) ICCIC",
+          "B) IIICI",
+          "C) CCCII",
+          "D) CCCI",
+          "E) CIICC"
+        ],
+        "correct": 4,
+        "rationale": "Los enunciados incompatibles son II porque la contaminación se debe a la minería y a las descargas de aguas residuales, y III porque solo se presentan algunos datos relacionados con las afecciones a la salud mental de la población de Paragsha, mas no de Carhuamayo."
+      },
+      {
+        "statement": "4. Se infiere que el nivel de plomo encontrado en Carhuamayo",
+        "alternatives": [
+          "A) lpermite predecir un índice de violencia familiar muy elevado en lo social.",
+          "B) launque preocupante, no genera tanta alarma como el de Cerro de Pasco.",
+          "C) afecta la cadena trófica indirectamente y causa daños en sí irreparables.",
+          "D) está en un aumento vertiginoso que preocupa a toda la población peruana.",
+          "E) lposibilita predecir que los niños tienen dificultades para concentrarse en clase."
+        ],
+        "correct": 1,
+        "rationale": "Según la investigación de Source International, como se percibe en el gráfico, las\nconcentraciones de metales pesados, como el plomo, en niños y preadolescentes de\nParaghsa (Cerro de Pasco) son significativamente superiores a las de Carhuamayo"
+      }
+    ]
+  },
+  {
+    "type": "reading_comprehension",
+    "statement": "García Ponce anhela que la enseñanza del quechua en los colegios tenga éxito, por eso, aconseja planificar tal acción promover el respeto de esta lengua, y que no sea una medida impositiva para no repetir errores del pasado.",
+    "questions": [
+      {
+        "statement": "Al enhebrar su argumento central, Carrillo logra demostrar",
+        "alternatives": [
+          "A) que el estatus social de las personas que saben hablar quechua puede mejorar su nivel socioeconómico.",
+          "B) que los derechos humanos de los pueblos amerindios tienden a ser respetados por la ley oficial.",
+          "C) la preocupación de la sociedad civil para con los pueblos originarios y su acceso al Estado.",
+          "D) el rol trascendental de la lengua quechua para fortalecer la identidad de los peruanos marginados.",
+          "E) el fin de vigorizar una lengua prehispánica para conservar un legado legendario de índole filosófica."
+        ],
+        "correct": 3,
+        "rationale": "El autor del texto A basa su argumento central en la necesidad de fortalecer la identidad nacional a través de la enseñanza del quechua, que es una herencia prehispánica que se caracteriza por su vigencia."
+      },
+      {
+        "statement": "Si todos los peruanos llegaran a valorar positivamente a la lengua quechua, probablemente",
+        "alternatives": [
+          "A) la discriminación de esta lengua aún existiría.",
+          "B) los docentes ya no necesitarían capacitación.",
+          "C) el Perú se desarrollaría económicamente.",
+          "D) los hablantes de esta lengua vivirían en Lima.",
+          "E) esta lengua mantendría su carácter vigente."
+        ],
+        "correct": 4,
+        "rationale": "Se desprende de los textos que la lengua quechua tiene vigencia, aun cuando actualmente esta lengua pervive en un contexto de intolerancia. Por tal motivo, Si cada peruano valorara esta lengua, su vigencia se mantendría y, probablemente, se potenciaría."
+      }
+    ]
+  },
+  {
+    "type": "reading_comprehension",
+    "statement": "España ha experimentado un aumento de la tasa de donantes del 33% entre 2014 y 2018, con lo que consolida su liderazgo mundial en este campo, que se ha mantenido durante los últimos 27 años. Según las explicaciones de María Luisa Carcedo, la ministra de Sanidad, y Beatriz Domínguez-Gil, directora de la Organización Nacional de Trasplantes (ONT), esto se debe, principalmente, a lo siguiente:\n\nLa ONT coordina y regula las donaciones y el sistema de trasplantes con una sola lista de espera en la que el único criterio es la necesidad y compatibilidad del órgano. Es de acceso universal (si un enfermo es tratado en la sanidad privada, se le traslada a la pública si necesita un trasplante).\n\nLa legislación española establece que todas las personas que fallecen son potenciales donantes, salvo que hayan manifestado lo contrario antes o sus familiares muestren reparos después.\n\nLa red de coordinadores de trasplantes se encarga de localizar a los potenciales donantes en los hospitales públicos. Su labores tan clara que, generalmente, los dirigentes de la ONT achacan las diferencias entre comunidades u hospitales olas variaciones interanuales en la tasa de donantes dentro de un centro al responsable de la coordinación.\nimpulso de\n\n(cuando se produce una parada cardiorrespiratoria hay más tiempo para preparar el proceso porque el corazón sigue latiendo se mantiene el flujo sanguíneo).\n\nla donación en asistolia\n\nEl\n\nPara mejorar más esta situación, la ONT prepara un acuerdo con la Alianza de la Sanidad Privada Española (ASPE) para que más pacientes de sus centros tengan la posibilidad de donar.\n\nDe Benito, E. (14 de enero de 2019). «España consolida su liderazgo en donantes con una subida del 33% en cuatro años». El País. Recuperado y adaptado de https://bit.ly/2DMmcZN.\n\n1.\n\n¿Cuál es el tema central del texto?\n\nA) Las razones del incremento de donantes jóvenes en España\nB) Los fundamentos del éxito del sistema de trasplantes español\nC) Los preceptos que guían el sistema de trasplantes español\nD) El liderazgo incontestable del sistema de trasplantes español\nE) La prosperidad de la organización nacional de trasplantes.",
+    "questions": [
+      {
+        "statement": "¿Cuál es el tema central del texto?",
+        "alternatives": [
+          "A) Las razones del incremento de donantes jóvenes en España",
+          "B) Los fundamentos del éxito del sistema de trasplantes español",
+          "C) Los preceptos que guían el sistema de trasplantes español",
+          "D) El liderazgo incontestable del sistema de trasplantes español",
+          "E) La prosperidad de la organización nacional de trasplantes."
+        ],
+        "correct": 1,
+        "rationale": "En el texto se detallan, principalmente, los factores cruciales para que el sistema de trasplantes español sea un éxito."
+      },
+      {
+        "statement": "¿El término ACHACAR implica atribuir?",
+        "alternatives": [
+          "A) acusación.",
+          "D) manumisión.",
+          "B) abstención.",
+          "E) responsabilidad.",
+          "C) coartada."
+        ],
+        "correct": 4,
+        "rationale": "El término achacar implica responsabilidad, la cual se le atribuye a los coordinadores de trasplantes."
+      },
+      {
+        "statement": "A partir de los resultados expuestos en el gráfico, se desprende que",
+        "alternatives": [
+          "A) el avance de la tecnología ha motivado el aumento de donantes de órganos en España.",
+          "B) la tasa de donantes de órganos en España se ha quintuplicado en menos de 30 años.",
+          "C) desde 1990 la cantidad de donantes en España ha aumentado significativamente sin sufrir merma.",
+          "D) hacia el año 2000 se produce un cambio revolucionario en la política de la donación española.",
+          "E) hacia el año 2020, muy probablemente España podrá llegar o superar el porcentaje de 50%."
+        ],
+        "correct": 4,
+        "rationale": "Según el gráfico, en 1989 la tasa de donantes por millón era de 14,3 %,mientras que en el 2018 llegó a ser de 48% y puede crecer más."
+      }
+    ]
+  },
+  {
+    "type": "sentence_elimination",
+    "statement": "Según el gráfico, en 1989 la tasa de donantes por millón era de 14,3 %,mientras que en el 2018 llegó a ser de 48% y puede crecer más. 4. Determine cuál o cuáles de los siguientes enunciados guarda incompatibilidad con el texto considerado en su conjunto.",
+    "alternatives": [
+      "A) I y III",
+      "B) Solo II",
+      "C) II y III",
+      "D) Solo III",
+      "E) I y III"
+    ],
+    "correct": 2,
+    "rationale": "No existe la misma eficacia en todos los hospitales públicos y, aunque hay una ligera merma, el año 2010 no marca el nivel más bajo en el periodo considerado."
+  },
+  {
+    "type": "sentence_elimination",
+    "statement": "Según el gráfico, en 1989 la tasa de donantes por millón era de 14,3 %,mientras que en el 2018 llegó a ser de 48% y puede crecer más. 5. Si se lograra establecer el acuerdo previsto con la Alianza de la Sanidad Privada Española (ASPE), entonces",
+    "alternatives": [
+      "A) habría más órganos para donar y menos personas que los necesiten en lista de espera.",
+      "B) los donantes llegarían desde dos direcciones al hospital público en que sea necesario.",
+      "C) la tasa de donantes indefectiblemente estaría por encima del 80% por millón de habitantes.",
+      "D) el modelo de trasplantes español sería replicado en otros países de Europa y del mundo.",
+      "E) ya no sería necesaria la labor de coordinadores de trasplantes para agilizar la práctica de donantes."
+    ],
+    "correct": 1,
+    "rationale": "Se entiende que a los pacientes de la sanidad privada se les puede trasladar a la pública para trasplantarle órganos. Sin embargo, hace falta que ellos también sean potenciales donantes, lo cual se espera lograr pronto."
+  },
+  {
+    "type": "reading_comprehension",
+    "statement": "No necesariamente toma en cuenta el encabezado, ya que el enunciado corresponde al texto de lectura. No está permitido incluir las preguntas aquí, por lo que el texto completo se presenta en la sección de lectura. No está muy lejos el tiempo en el que la psiquiatría ha sido un «saco» de gran utilidad en el que el poder político y social ha metido y ha aislado muchos individuos inconvenientes para ese mismo orden social. En su libro A question of madness, el científico ruso Zhores Medvedev (1974) cuenta la historia de su encarcelación, al parecer causada solo por la oposición que él presentó al partido y estado soviético, y su posterior internamiento en un hospital psiquiátrico. ¿Cuál fue el diagnóstico? Esquizofrenia progresiva, paranoia y pobre adaptación al medio social en el que se vive.",
+    "questions": [
+      {
+        "statement": "El sentido contextual del término CLARA es",
+        "alternatives": [
+          "A) tajante.",
+          "D) sencilla.",
+          "B) iluminada.",
+          "E) concisa.",
+          "C) blanca."
+        ],
+        "correct": 0,
+        "rationale": "Una línea clara es una línea tajante."
+      },
+      {
+        "statement": "El texto dilucida fundamentalmente que",
+        "alternatives": [
+          "A) el mundo de la genialidad tiene el mismo valor que el nivel mental prosaico.",
+          "B) todos los trastornos psiquiátricos se pueden subsumir en la esquizofrenia.",
+          "C) el límite entre lo normal y lo patológico es muy difuso en la nueva psiquiatría.",
+          "D) los órdenes sociales han hecho frecuente mal uso de categorías psiquiátricas.",
+          "E) la estructura cognitiva de la persona normal está impregnada de hipomanías."
+        ],
+        "correct": 2,
+        "rationale": "De modo medular, se explica el carácter difuso de la línea divisoria entre lo normal y lo anormal en el estudio de la mente humana."
+      },
+      {
+        "statement": "Resulta incompatible con el texto aseverar que",
+        "alternatives": [
+          "A) se puede hallar en los lunáticos rasgos de normalidad.",
+          "B) hay convergencia entre lo normal y el carácter insano.",
+          "C) la nueva neuropsicología enfatiza la diversidad humana.",
+          "D) hay señales inequívocas para determinar la diabetes.",
+          "E) la hipomanía revela un fuerte nivel de depresión mental."
+        ],
+        "correct": 4,
+        "rationale": "Se infiere que la hipomanía implica cierta efervescencia emocional."
+      },
+      {
+        "statement": "Se deduce del texto que un individuo considerado normal",
+        "alternatives": [
+          "A) está totalmente caracterizado por la depresión endógena.",
+          "B) tiene la seguridad de no sufrir nunca una manía psicológica.",
+          "C) puede llegar con facilidad a las cimas de la genialidad.",
+          "D) puede presentar ciertos rasgos de problemas mentales.",
+          "E) se define por su pobre adaptación al medio en que vive."
+        ],
+        "correct": 3,
+        "rationale": "Debido a la borrosidad de estas taxonomías, es deducible que una persona normal presente ciertos rasgos considerados anómalos."
+      }
+    ]
+  },
+  {
+    "type": "reading_comprehension",
+    "statement": "Life expectancy refers to the number of years a person is expected to live based on the statistical average. In mathematical terms, life expectancy refers to the expected number of years remaining for an individual at any given age.\n\nLife expectancy varies by geographical area and by era. In the Bronze Age, for example, life expectancy was 26 years, while in 2010, it was 67 years. The life expectancy for a particular person or population group depends on several variables such as their lifestyle, access to healthcare, diet, economic status and the relevant mortality and morbidity data. However, as life expectancy is calculated based on averages, a person may live for many years more or less than expected.\n\nMandal, A. (2019). What is life expectancy? Retrieved from https://www.news-medical.net/health/What-is-\nLife-Expectancy.aspx\n\nLIFE EXPECTANCY IN SOME DEVELOPED COUNTRIES\n(In years, 2019)\n\nData retrieved from http://www.geoba.se/population.php?pc=world&type=015&year=2019&page=1",
+    "questions": [
+      {
+        "statement": "What is the main idea of passage?",
+        "alternatives": [
+          "A) inform about the multiple differences of life expectancy in different countries.",
+          "B) explain what life expectancy is and to link it with multiple relative variables.",
+          "C) describe how time and place influence the development of life expectancy.",
+          "D) expose in detail the correct way to determine the concept of life expectancy.",
+          "E) contrast the differences that exist in developed countries about life expectancy."
+        ],
+        "correct": 1,
+        "rationale": "The author explains what life expectancy means, and exposes two concepts, furthermore, he argues that life expectancy is related to relative factors, for example, space, time, lifestyle, access to healthcare, diet, economical status and the relevant mortality and morbidity data."
+      },
+      {
+        "statement": "The meaning HOWEVER implies",
+        "alternatives": [
+          "A) contrast.",
+          "D) example.",
+          "B) addition.",
+          "E) cause.",
+          "C) identity."
+        ],
+        "correct": 0,
+        "rationale": "The grammatical meaning is referred to contrast."
+      },
+      {
+        "statement": "About life expectancy, it is false to say that",
+        "alternatives": [
+          "A) access to healthcare conditions life expectancy.",
+          "B) life expectancy is an average in each country.",
+          "C) diet determines if someone lives more or less.",
+          "D) many people, in 2010, lived around 67 years.",
+          "E) all people, in Bronze Age, lived exactly 26 years."
+        ],
+        "correct": 4,
+        "rationale": "Life expectancy is an average, therefore, people can live more or less."
+      },
+      {
+        "statement": "Choose the truth value (T or F) of the following statements about the life expectancy in some developed countries.",
+        "alternatives": [
+          "A) TTT",
+          "B) TFF",
+          "C) FFF",
+          "D) FTT",
+          "E) FTF"
+        ],
+        "correct": 2,
+        "rationale": "The three statements are not true."
+      },
+      {
+        "statement": "It can be reasonably inferred that life expectancy",
+        "alternatives": [
+          "A) is due only to improved access to health.",
+          "B) correlates with economic development.",
+          "C) was the lowest in the Middle Ages.",
+          "D) can be predicted exactly in Europe.",
+          "E) determine the cure of all diseases."
+        ],
+        "correct": 1,
+        "rationale": "The variables economy, diet, access to healthcare, etc., determine the average life expectancy in the countries. These variables are relative."
+      }
+    ]
+  },
+  {
+    "type": "reading_comprehension",
+    "statement": "Past research has linked lack of sleep to memory problems. But a new study,\npublished by American Association for the Advancement of Science, examines the mechanisms behind linked lack of sleep to memory problems, focusing on the rapid eye movement (REM) stage of sleep and how it take part in memory formation.\n\nIn the past, it has been difficult for researchers to study the REM stage in humans due to ethical concerns. The consequences of depriving people of REM sleep for an experiment may have a negative impact on their health, and it’s still a gray area. That is why many REM studies are done in animals, though the results can’t be as easily translated to humans.\n\nFor this study, Richard Boyle and colleagues used an optogenetics technique to silence mice hippocampus neurons, while they were sleeping, particularly during REM sleep, which would result in impairing signaling patterns known as theta oscillations, associated with learning and memory in the brain.\n\nResearchers found that inhibiting theta oscillations in mice blocked them from forming contextual, or spatial, memories (such as remembering where a new object is located), as well as emotional memories (such as fear from a mild foot shock). When they tried to impair the theta oscillations outside of REM, it had no influence over the mice’s memories.\n\nBushak, L. (May 13, 2016). «REM Sleep Disruptions Can Impair Emotional and Spatial Memory Formation». Medical Daily. Recovered from https://bit.ly/2TUKZU0",
+    "questions": [
+      {
+        "statement": "What is the main idea of passage?",
+        "alternatives": [
+          "A) REM sleep definitely affects all kind of human memories.",
+          "B) REM sleep has a minimal influence in human thoughts.",
+          "C) REM sleep would playa role in some humans’ memories.",
+          "D) The relevance of REM sleep has been conclusively proven",
+          "E) The deprivation of REM sleep affects human beings."
+        ],
+        "correct": 2,
+        "rationale": "According to the research, Boyle and colleagues confirmed that REM sleep affects spatial and emotional memories of mice, which may be possible in humans too."
+      },
+      {
+        "statement": "As it is used, the word CONCERNS can be replaced by",
+        "alternatives": [
+          "A) commitments.",
+          "D) tasks",
+          "B) charges.",
+          "E) consternations.",
+          "C) affections."
+        ],
+        "correct": 0,
+        "rationale": "In the context, the word CONCERN means commitment."
+      },
+      {
+        "statement": "Choose the truth value (T or F) of the following statements about the relevant information.",
+        "alternatives": [
+          "I. The study of REM sleep in humans is not possible for technical reasons.",
+          "II. If a man sleeps very few hours a day, he may suffer memory problems.",
+          "III. The emotional memory does not have links with lack of sleep in humans."
+        ],
+        "correct": 4,
+        "rationale": "Only the second statement is true according to passage."
+      },
+      {
+        "statement": "With respect to what is said in the passage, it can be inferred that",
+        "alternatives": [
+          "A) itheta oscillations inhibit the development of memory.",
+          "B) the link with sleep has been demonstrated.",
+          "C) human cognition does not depend on memory.",
+          "D) scientific progress has ethical constrictions.",
+          "E) mathematical models obviate experiments."
+        ],
+        "correct": 3,
+        "rationale": "Researchers to study REM sleep not experiment with humans, but they use animals, so they do not respect animal ethics approaches."
+      },
+      {
+        "statement": "Which could be good advice from the passage?",
+        "alternatives": [
+          "A) iMemories cannot control neuronal activity.",
+          "B) Sleeping well helps human memory.",
+          "C) The results can be translated to humans.",
+          "D) Ethical concerns deny all experiment.",
+          "E) REM sleep have a negative impact."
+        ],
+        "correct": 1,
+        "rationale": "It was confirmed that REM sleep plays a role in mice’s memory formation."
+      }
+    ]
+  }
+]

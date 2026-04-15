@@ -1,0 +1,483 @@
+[
+  {
+    "type": "reading_comprehension",
+    "statement": "La falta o mala alimentación afecta a nuestro rendimiento intelectual, de hecho, los niños\nque asisten a sus escuelas sin desayunar experimentan dificultades para aprovechar las\nclases que les imparten sus docentes, conllevándolos a un menor rendimiento académico.\nAsimismo, la actividad física también influye en el rendimiento académico que puede\nllegar a alcanzar un estudiante, tal como lo ha demostrado un estudio de la Universidad\nAutónoma de Madrid (UAM), que sostiene que el ejercicio físico mejora el rendimiento\\académico. Los investigadores analizaron los efectos de la capacidad cardiorrespiratoria,\nla fuerza muscular y la capacidad motora, que se consigue mediante el desarrollo de la\nactividad física, en el rendimiento académico de estudiantes, pudiendo observar que sí\ntienen un impacto en el desempeño escolar.\n\nEl estudio, publicado en Journal of Pediatrics, demuestra que la capacidad\ncardiorrespiratoria y la habilidad motora son concretamente los efectos del ejercicio que\ntienen mayor impacto en la mejora del rendimiento académico. Los investigadores analizaron los expedientes académicos de más de 2038 estudiantes con edades\ncomprendidas entre los 6 y los 18 años, y encuestas sobre las actividades físicas que\nrealizaban cada uno. Posteriormente, a dichas personas, les fueron practicadas pruebas\nfísicas que permitieron medir sus capacidades respiratorias, sus habilidades motoras y\nsus tonos musculares, arrojando que «una mejor respiración alienta la comunicación\nentre las células y la habilidad motora favorece la concentración», como lo señaló la\ncoordinadora del trabajo, Irene Esteban-Cornejo, del Departamento de Educación Física,\nDeporte y Motricidad Humana de la UAM, quien además agregó que «tener una buena\nsalud cardiorrespiratoria y coordinación motora puede, hasta cierto punto, reducir el riesgo\ndel fracaso escolar». Por otro lado, los investigadores de la Autónoma de Madrid\nobservaron que el tono muscular no influía positiva ni negativamente en los estudiantes.\n\nTexto adaptado del artículo de la nota de prensa del diario 20 minutos.es, titulado «El ejercicio físico mejora\nel\n2014.\nhttps://www.20minutos.es/noticia/2229232/0/ejercicio-fisico/mejora/rendimiento-academico/.\n\ncadémico» ,\n\nrendimiento\n\nseptiembre\n\npublicado\n\nde\n\nde\nel\n9\n",
+    "questions": [
+      {
+        "statement": "1. El tema central del texto es",
+        "alternatives": [
+          "A) técnicas de recojo de datos en una investigación sobre los beneficios del deporte.",
+          "B) la importancia del deporte y actividad física en la socialización de los escolares.",
+          "C) un equipo de investigadores de la UAM interesados en la actividad deportiva.",
+          "D) una reciente investigación que revela los logros deportivos de los estudiantes.",
+          "E) un estudio sobre el impacto de la actividad física en el rendimiento académico."
+        ],
+        "correct": 4,
+        "rationale": null
+      },
+      {
+        "statement": "2. La idea principal del texto es",
+        "alternatives": [
+          "A) las encuestas como técnica de obtención de información, permiten obtener datos fehacientes.",
+          "B) la actividad física impacta favorablemente en el rendimiento académico de los estudiantes.",
+          "C) los estudiantes que alcanzan sus logros deportivos tiene un mejor rendimiento académico.",
+          "D) la UAM desarrolla investigaciones cuyos objetivos son resaltar aspectos positivos del deporte.",
+          "E) la actividad deportiva en las escuelas fomenta una sólida interacción social entre los estudiantes."
+        ],
+        "correct": 1,
+        "rationale": null
+      },
+      {
+        "statement": "3. En el texto, el sinónimo contextual del término ARROJAR es",
+        "alternatives": [
+          "A) conjeturar.",
+          "B) exponer.",
+          "C) expulsar.",
+          "D) demostrar.",
+          "E) peregrinar."
+        ],
+        "correct": 3,
+        "rationale": null
+      },
+      {
+        "statement": "4. En relación a las pruebas físicas a las que fueron sometidos los estudiantes que participaron en la investigación, es incompatible señalar que",
+        "alternatives": [
+          "A) el tono muscular repercute favorablemente en el rendimiento académico.",
+          "B) buscaban medir las habilidades motoras de los estudiantes objeto de estudio.",
+          "C) fueron aplicadas después del análisis de los datos obtenidos por la encuesta.",
+          "D) revelaron lo beneficioso de la actividad física en el rendimiento académico.",
+          "E) fueron un procedimiento más aplicado por los investigadores de la UAM."
+        ],
+        "correct": 0,
+        "rationale": null
+      },
+      {
+        "statement": "5. Del hecho que «una mejor respiración alienta la comunicación entre las células y la habilidad motora favorece la concentración», podemos inferir que",
+        "alternatives": [
+          "A) entre el practicar deporte y tener buen rendimiento hay una relación asimétrica.",
+          "B) dicho planteamiento de la especialista recusa los beneficios de practicar deporte.",
+          "C) es pertinente que se fomente y recomiende a los estudiantes practicar deportes.",
+          "D) los deportistas de alta competitividad descuellan en sus estudios universitarios.",
+          "E) los mejores estudiantes se caracterizan por su manifiesta complexión atlética."
+        ],
+        "correct": 2,
+        "rationale": null
+      }
+    ]
+  },
+  {
+    "type": "sentence_elimination",
+    "statement": "Del hecho que «una mejor respiración alienta la comunicación entre las células y la habilidad motora favorece la concentración», podemos inferir que",
+    "alternatives": [
+      "A) entre el practicar deporte y tener buen rendimiento hay una relación asimétrica.",
+      "B) dicho planteamiento de la especialista recusa los beneficios de practicar deporte.",
+      "C) es pertinente que se fomente y recomiende a los estudiantes practicar deportes.",
+      "D) los deportistas de alta competitividad descuellan en sus estudios universitarios.",
+      "E) los mejores estudiantes se caracterizan por su manifiesta complexión atlética."
+    ],
+    "correct": 2,
+    "rationale": "La cita en cuestión evidencia que entre la actividad física y un buen rendimiento académico existe una relación directa, en ese sentido, fomentar y recomendar la práctica de deportes sería algo bastante apropiado."
+  },
+  {
+    "type": "sentence_elimination",
+    "statement": "Si el Ministerio de Educación peruano implementara más horas pedagógicas para el desarrollo del curso de Educación Física, es probable que",
+    "alternatives": [
+      "A) con toda seguridad los estudiantes alcanzarían un alto rendimiento académico.",
+      "B) aun así habrían algunos estudiantes con serias dificultades para poder aprender.",
+      "C) los profesores de Educación Física percibirían un incremento en sus honorarios.",
+      "D) muchos jóvenes al egresar de la secundaria optarían por ser deportistas amateurs.",
+      "E) el Perú empezaría a contar con una nueva generación de atletas competitivos."
+    ],
+    "correct": 1,
+    "rationale": "El texto menciona que la actividad física influye positivamente en el rendimiento académico, pero hay otros factores que de hecho son contraproducentes con este, como la mala alimentación, por ejemplo, algo que —dicho sea de paso— caracteriza a nuestro país; en tal sentido, si el Ministerio de Educación decidiera implementar más horas pedagógicas al curso de Educación Física, esto no garantizaría que todos los estudiantes puedan alcanzar un mejor rendimiento académico."
+  },
+  {
+    "type": "reading_comprehension",
+    "statement": "El colectivo NoSomosVasijas en España, sostiene que la gestación subrogada le arrebata a la madre el derecho a decidir durante el embarazo y la posterior crianza, cuidado y educación del bebé. Asimismo, considera que el contrato de subrogación es una forma de imposición, puesto que es irrevocable una vez firmado, impidiendo así que la madre de alquiler pueda cambiar de opinión libremente a la hora de decidir quedarse con el bebé que ha traído al mundo, lo que implica tres cuestiones a tener en cuenta: a) el control sexual de la mujer, b) la mercantilización del bebé y c) el tráfico de mujeres que deviene en la creación de granjas de mujeres. En cuanto a la mercantilización que se esboza, se esgrime que, incluso, aunque se legalizara la versión altruista, es decir, aquella en la que las gestantes no reciben ningún tipo de compensación económica, la tendencia terminaría llevándonos, inexorablemente, hacia un modelo comercial. La lógica neoliberal que aboga por introducir en el mercado los vientres de alquiler promueve esta tendencia ilegítima en tanto ni una mujer, ni mucho menos su cuerpo se pueden comprar o alquilar parcial o totalmente. El término «gestación subrogada» y su supuesta definición como técnica reproductiva no son más que un eufemismo para dulcificar e idealizar un negocio que va en contra de los Derechos Humanos. La Iglesia católica, por su parte, además de rechazar la gestación subrogada por considerarla una forma de explotación de la mujer y del menor que va a nacer, afirma que contraviene el orden natural de la concepción humana y va totalmente en contra de la ética y la moral, lo que a largo plazo podría ocasionar problemas de identidad personal en los nacidos por este método. Los niños y las mujeres son seres humanos y bajo ningún concepto se les puede poner un precio: bajo su apariencia de «solución», la subrogación es una forma de mercantilización. Para el colectivo Ciudadanos (C’s) ser padre es un derecho y, por tanto, no puede depender del dinero que se posee, en ese sentido, proponen un modelo en el que se garanticen los derechos de todas las partes como sucede en Canadá, donde la ley contempla la tipología totalmente altruista, aunque sí permite una compensación por los gastos generados de, como máximo, 22 000 dólares canadienses (aproximadamente, 16 000 €). La asociación Son Nuestros Hijos (SNH) ve en la gestación subrogada una forma más de acceder a la maternidad y a la paternidad, y a un entorno familiar, con los mismos derechos y obligaciones del resto de familias españolas. Apostando por un proceso en el que se permita compensar económicamente y sin discriminaciones a la gestante, pero cuyo requisito principal sea el de participar de forma voluntaria, altruista y en plena capacidad, para lo que resulta indispensable la sostenible asesoría legal para las gestantes, a fin de poder reforzar su autonomía y capacidad de decidir. En la misma línea que SNH se encuentra la Sociedad Española de Fertilidad (SEF), que lanzaron su Propuesta de Bases Generales para la regulación en España en abril de 2016. La iniciativa contempla un tipo de gestación subrogada apto para todos los modelos de familia, siempre y cuando exista una razón médica que impida el embarazo o se trate de un caso de esterilidad estructural (parejas homosexuales masculinas y hombres solteros). En cuanto al proceso de fecundación in vitro, las Bases Generales indican que el número máximo de embriones a transferir debería limitarse a dos a fin de disminuir los riesgos para la gestante subrogada, quien debe tener al menos un hijo propio sano. Otras condiciones para la elección de la gestante y su participación en el proceso ha determinado aspectos como no ser de la familia o tener vínculo de dependencia o jerarquía alguna con los futuros padres, una compensación económica prefijada por la Administración Pública y la inscripción en un registro nacional de gestantes de las candidatas aptas. Textos editados del artículo de Sandra Fernández, especialista en gestación subordinada, «La gestación subrogada a debate: argumentos a favor y en contra», publicado el 23 de marzo de 2017. https://www.babygest.es/opiniones-a-favor-y-en-contra-de-la-subrogacion/.",
+    "questions": [
+      {
+        "statement": "1. El tema de discusión que enfrenta a los textos A y B es",
+        "alternatives": [
+          "A) la legitimidad de la gestación subrogada en España.",
+          "B) la mercantilización de los bebés en el Viejo Continente.",
+          "C) la explotación sexual de las madres en España.",
+          "D) la paternidad como derechos humanos inalienables.",
+          "E) el mercado de bebés y trata de mujeres en España."
+        ],
+        "correct": 0,
+        "rationale": "En ambos textos se discute entorno a la legitimidad del embarazo subrogado en España, en tanto centran sus argumentos en los derechos humanos de la madre subrogada, de los bebés y de las personas a ser padres y tener una familia."
+      },
+      {
+        "statement": "2. En el texto dialéctico, la expresión GRANJA DE MUJERES y el término SOSTENIBLE, implican respectivamente",
+        "alternatives": [
+          "A) secuestro y firmeza.",
+          "C) perjuicio y intermitencia.",
+          "E) cultivo y indiferencia.",
+          "B) explotación y constancia.",
+          "D) afectación y preferencia."
+        ],
+        "correct": 1,
+        "rationale": "En el texto A, mientras que la expresión «granja de mujeres» refiere la explotación de la capacidad reproductiva de las mujeres; el término «sostenible», en el texto B, busca expresar que la asesoría legal no debe ser interrumpida, sino constante; en tal sentido, implican respectivamente explotación y constancia."
+      },
+      {
+        "statement": "3. En relación a lo planteado en el Texto B, sobre la propuesta presentada por la Sociedad Española de Fertilidad (SEF), es incompatible sostener que",
+        "alternatives": [
+          "A) fomenta la participación de la administración pública.",
+          "B) cuida y protege los derechos de la gestante subrogada.",
+          "C) excluye de la paternidad a las parejas heterosexuales.",
+          "D) prohíbe alguna relación jerárquica con los futuros padres.",
+          "E) busca legalizar la gestación subrogada mediante su regulación."
+        ],
+        "correct": 2,
+        "rationale": "La SEF propone bases generales para la regulación del embarazo subrogado, mediante las cuales, entre otras cosas, plantea la posibilidad de ser padres y tener familia de todas las parejas heterosexuales siempre y cuando haya razones médicas que les impidan concebir un hijo."
+      },
+      {
+        "statement": "4. De los argumentos expuestos en el Texto A, sobre la gestación subrogada, se colige que",
+        "alternatives": [
+          "A) incluye a las parejas homosexuales que presentan esterilidad.",
+          "B) es una forma de imposición a la que se le somete a la mujer embarazada.",
+          "C) es favorable a las parejas, ya que asegura su derecho a la paternidad.",
+          "D) ven en el embarazo subrogado una amenaza a los derechos humanos.",
+          "E) la Iglesia católica la considera una forma de explotación a la mujer."
+        ],
+        "correct": 3,
+        "rationale": "En el texto A se exponen los argumentos en contra de la gestación subrogada, los mismos que nos permiten concluir que esta forma de ser padres es un negocio percibido como una amenaza a los derechos humanos en tanto se mercantiliza el embarazo y al bebé, a tal punto de que genera incluso explotación en contra de la mujer."
+      }
+    ]
+  },
+  {
+    "type": "reading_comprehension",
+    "statement": "Si hay un problema sobre el que es difícil hablar en el Perú de hoy, este es el racismo. Traerlo a colación es visto como una manifestación de mal gusto porque transgrede las normas sociales de convivencia que todos debiéramos respetar. En el Perú de los noventa, el racismo era un tema tabú, incluso, a pesar de múltiples evidencias que demostraban que su vigencia era cotidiana, su existencia se discutía, y si se aceptaba que existía, era de lejitos, porque se trata de un tema que toca fibras muy sensibles y cuando lo tocamos, solemos movernos entre el temor de herir o ser heridos, de modo tal que tanto los pedestres, como los intelectuales, ofrecen resistencias al momento de tratar el tema. Por ejemplo, en una publicación, que recoge los testimonios de un concurso donde se invita a los participantes a hablar de sus experiencias sobre el racismo, el grueso de las historias presentadas está expresado en tercera persona («A una persona que yo conozco…»). Hablar de racismo, entonces, moviliza sentimientos negativos que van desde la incomodidad y las actitudes evasivas, hasta la agresión abierta; pero no siempre fue así: en el siglo XIX y en el primer tercio del XX, el racismo gozaba de carta de ciudadanía. indio Mientras que autores como Alejandro O. Deustua, podían descalificar al argumento diciendo «científicamente» su inferioridad biológica innata, otros sostenían que para que el país saliera adelante, se debería matar a todos los indios y volver a oprimir a los negros. Esto último aún tiene eco en la sociedad, por ejemplo, todavía es posible encontrar grabadas en las carpetas de algunas universidades particulares limeñas la consigna «¡Haga patria, mate a un cholo!» olas sutiles expresiones cotidianas «¡He trabajado como negro!», «¡Hablas como negro!» y el triste comentario aspirante a broma y carente de empatía repetido una y otra vez en las escuelas: «los negros dejan de pensar después de las doce». La novedad de tales preceptos es que son expresados desde el anonimato, lo que da pie a tejer la triste ilusión de que no existe racismo en el Perú actual gracias a la consolidación de la democracia en el país, dicha ilusión no ha hecho sino acrecentar el problema, ya que ha llevado a las personas a vivir de espaldas a la realidad, como a algunos intelectuales que se resisten a que se hable de racismo, aludiendo a que hacerlo es fomentar una guerra racial. Por el contrario, la mejor manera de evitar una tragedia es afrontar los problemas que podrían desencadenarla; es decir, con el tratamiento del racismo se puede encontrar su solución. Al respecto, cabe reconocer que el enfoque economicista, con su explotación clasista, fue insuficiente para formular soluciones al problema del racismo que aún vivimos, lo que nos debe llevar a explorar otras dimensiones de la realidad, como la cultura, las ideologías, las mentalidades, desde un enfoque historicista, que nos permita ver el racismo desde la particularidad de nuestro proceso histórico, apreciándolo como una ideología. Texto editado de Nelson Manrique, publicado en La piel y la pluma. Escritos sobre literatura, etnicidad y racismo, por Sur Casa de Estudios del Socialismo y Centro de Informe y Desarrollo Integral de Autogestión – CIDIAG. Imagen extraída de http://toda-mafalda.blogspot.pe/2010/11/tiras-de-susanita.html.",
+    "questions": [
+      {
+        "statement": "El tema central del texto es",
+        "alternatives": [
+          "A) el racismo en el Perú decimonónico.",
+          "B) la presente segregación en el Perú.",
+          "C) la vigencia del racismo en el Perú.",
+          "D) el racismo en las aulas universitarias.",
+          "E) medidas para combatir el racismo."
+        ],
+        "correct": 2,
+        "rationale": null
+      },
+      {
+        "statement": "La expresión DE LEJITOS connota, en la persona que la emplea, una actitud",
+        "alternatives": [
+          "A) indiferente.",
+          "D) crematística.",
+          "B) indolente.",
+          "E) solapada.",
+          "C) comprometida."
+        ],
+        "correct": 4,
+        "rationale": null
+      },
+      {
+        "statement": "De acuerdo con el desarrollo textual y la imagen, podemos deducir que Susanita",
+        "alternatives": [
+          "A) soslayó la animadversión de Mafalda.",
+          "B) optó por refrendar su actitud intolerante.",
+          "C) considera que el racismo es reprochable.",
+          "D) priorizó su aseo personal sobre el juego.",
+          "E) expresó abiertamente una actitud racista."
+        ],
+        "correct": 2,
+        "rationale": null
+      },
+      {
+        "statement": "De las expresiones raciales que tienen lugar en la ciudad de Lima en el siglo XX, es incompatible sostener que",
+        "alternatives": [
+          "A) resultan peligrosas por el mensaje intolerante que expresan.",
+          "B) manifiestan la discriminación imperante disfrazada de sutilezas.",
+          "C) forman parte de la socialización de los menores en las escuelas.",
+          "D) fomenta el espejismo de que somos una sociedad exenta de racismo.",
+          "E) son totalmente ignominiosas para las personas a quienes van dirigidas."
+        ],
+        "correct": 3,
+        "rationale": null
+      }
+    ]
+  },
+  {
+    "type": "reading_comprehension",
+    "statement": "En nuestro concepto, China podría dar pasos hacia un mayor involucramiento en materia de seguridad en América Latina si se cumple una condición: que Estados Unidos profundice su presencia en Asia Pacífico. La expansión de China puede ser explicada por la necesidad de ese país para contener la estrategia de Estados Unidos en una región que China considera como su propia esfera de influencia, esto es, Asia Pacífico, lo que a su vez es consecuencia de la estrategia de política exterior del expr esidente Obama de «reequilibrarse» hacia Asia o de la eventual estrategia de expansión del actual presidente Donald Trump. Como China ve ese movimiento como una amenaza a su seguridad, si aumentan las tensiones con Estados Unidos (y sus aliados cercanos como Japón y Vietnam) ello podría tener repercusiones en América Latina. En ese caso, si China percibe que Estados Unidos es o tiene una presencia mayor en su propio patio trasero en Asia, China en su lugar aumentaría o utilizaría los recursos con los que ya cuenta en América Latina para desafiar la hegemonía estadounidense en la región; en ese sentido, es probable que a largo plazo los países con los que China tiene una relación muy estrecha se conviertan en «clientes» de la potencia asiática.\n\nSin embargo, América Latina no tiene la misma importancia geopolítica que la zona de influencia directa china, esto es, Asia Pacífico y Asia Central. América Latina, como una zona de influencia china para contener a Estados Unidos en su patio trasero, puede constituir algún valor geoestratégico, pero no el mismo que tienen aquellas zonas (de Onis, 2014). China ha estado hasta ahora dispuesto a manejar sus relaciones con los países de América Latina con cautela, promoviendo y expandiendo sus recursos de poder blando, minimizando de ese modo futuros retos políticos a Estados Unidos y sus socios latinoamericanos. Por otra parte, si bien Estados Unidos, como se dijo, no tiene muchas razones para oponerse a ese tipo de transferencias, ello siempre y cuando se hagan de manera transparente y cumpliendo con los estándares internacionales, lo que a su vez le ayudaría en las tareas de combate al narcotráfico y a proveer mayor seguridad en la región. Sin embargo, eso tampoco significa que el gobierno estadounidense vea esa situación con indiferencia; por ese motivo, lleva a cabo diversos esfuerzos para deslegitimar al gobierno venezolano o legitimar gobiernos «golpistas» como en Brasil.\n\nEn síntesis, las iniciativas militares chinas en América Latina no son las más importantes de sus vínculos estratégicos con esa región, y por todos estos motivos se puede afirmar lo siguiente: «They do not visibly threaten the United States and its partners in the short term». \n\nGhotme, R. & Ripoll, A. (Julio-Diciembre 2016). «La presencia China en América Latina». Criterio Libre, 14, pp. 205-225",
+    "questions": [
+      {
+        "statement": "Del contenido global del texto se deduce, principalmente, que",
+        "alternatives": [
+          "A) Estados Unidos pugna por el reequilibrio militar en Asia en respuesta a la\nexpansión de China en América Latina.",
+          "B) la estrategia militar de Estados Unidos y China tienen como objetivo controlar la\nregión de Asia Pacífico y Asia Central.",
+          "C) para Estados Unidos, peligra su patio trasero por la creciente presencia militar\nde China en Venezuela.",
+          "D) las estrategias de China y Estados Unidos tienen como objetivo final garantizar\nsu seguridad como nación.",
+          "E) China se expande hacia América Latina, mientras que Estados Unidos lo hace a\nla región de Asia Pacífico y Asia Central."
+        ],
+        "correct": 1,
+        "rationale": "Los autores sostienen básicamente que China y Estados contienden por tener bajo\nsu zona de influencia la región de Asia Pacífico y Asia Central, y que el mayor\ninvolucramiento de China en materia de seguridad en América Latina respondería a\nque Estados Unidos profundice su presencia en Asia Pacífico."
+      },
+      {
+        "statement": "2. En el texto, los términos REEQUILIBRIO y EXPANSIÓN",
+        "alternatives": [
+          "A) aluden a grados de control o influencia militar de Estados Unidos.",
+          "B) son análogos y caracterizan la política exterior de Obama y Trump.",
+          "C) califican a una visión democrática, el primero, y autoritaria, el segundo.",
+          "D) son eufemismos que velan los reales intereses de los Estados Unidos.",
+          "E) responden a distintos momentos de la política exterior de los EEUU."
+        ],
+        "correct": 1,
+        "rationale": "Ambos términos tienen un significado similar: expansión, y se refieren a la política\nexpansionista de los presidentes aludidos."
+      },
+      {
+        "statement": "3. Si las transferencias de origen chino aludidas en el texto violaran o sobrepasaran\nexponencialmente los estándares internacionales,",
+        "alternatives": [
+          "A) el narcotráfico se reduciría a su mínima expresión en toda América Latina.",
+          "B) Venezuela resolvería sus numerosos problemas sociales; en especial, el hambre.",
+          "C) Estados Unidos reforzaría su presencia militar en Asia Pacífico y Asia Central.",
+          "D) la hegemonía de los Estados Unidos en América Latina correría un serio peligro.",
+          "E) China conminaría a Estados Unidos a evitar deslegitimar a su socio Venezuela."
+        ],
+        "correct": 3,
+        "rationale": "Estas transferencias son militares, y si sobrepasaran exponencialmente, el poder\nmilitar de China en América Latina aumentaría en esa medida; en consecuencia, la\nhegemonía militar de Estados Unidos correría un serio peligro."
+      }
+    ]
+  },
+  {
+    "type": "reading_comprehension",
+    "statement": "SEMANA 2C EVALUACIÓN DE LA COMPRENSIÓN LECTORA La anemia es una enfermedad que sufren muchos peruanos y se presenta cuando la hemoglobina en la sangre ha disminuido por debajo de un límite debido a la deficiencia de hierro en el organismo. Los más vulnerables son las gestantes, los niños menores de 2 años y las mujeres en edad fértil. ¿Por qué la anemia es tan elevada entre los niños peruanos? Porque no consumen alimentos ricos en hierro (y micronutrientes) desde los 6 meses, especialmente el de origen animal como la sangrecita, el pescado y el hígado. Además, se ha reducido la lactancia materna exclusiva, las mujeres embarazadas usualmente no tienen una alimentación saludable, con lo cual corren el riesgo de contraer la anemia o de sufrir de hemorragias. Como consecuencia, sus niños nacen prematuramente y con bajo peso. Otros factores que intervienen son un saneamiento básico pobre, inadecuadas prácticas de higiene y un limitado acceso al paquete completo de cuidado integral de la salud materno-infantil. Actualmente (2015) en el Perú el 43.5% de los niños, de 6 a 35 meses, sufre de anemia, correspondiéndole a la zona rural el 51.1% y a la urbana el 40.5%. Estamos hablando de 620 mil niños menores de 3 años anémicos de 1.6 millones a nivel nacional y de 410 mil niños menores de 5 años que presentan desnutrición crónica. Esta situación alarmante exigía una intervención inmediata del gobierno, el cual se ha impuesto como objetivo reducir al 19% este mal silencioso entre niños menores de 3 años, y la desnutrición crónica, al 6.4%, entre niños menores a 5 años, a través de un Plan Nacional de lucha contra la anemia, entre el presente año hasta 2021. Las estrategias del Plan Nacional de lucha contra la anemia están centradas en las personas y en la familia con la concurrencia de diversos actores del sector público y la sociedad civil, incluyendo la empresa privada. Se trata pues de una cruzada en la que todos tenemos un compromiso para lograr desterrar a la anemia de nuestros hogares. Ministerio de Salud. (2017). Plan Nacional para la Reducción de la Anemia 2017-2021. Marzo, 6, 2018, de Ministerio de Salud Sitio web: http://www.minsa.gob.pe/portada/Especiales/2016/anemia/index.asp.",
+    "questions": [
+      {
+        "statement": "1. El tema central que se desarrolla en el texto es",
+        "alternatives": [
+          "A) las estrategias del Plan Nacional de lucha contra la grave anemia materno-infantil en el Perú",
+          "B) la disminución de la hemoglobina en la sangre como síntoma de la anemia infantil en el Perú",
+          "C) la oportuna intervención del gobierno peruano para contrarrestar la anemia infantil en el 2016",
+          "D) la reducción de la lactancia exclusiva como causa de la anemia en los recién nacidos peruanos",
+          "E) la gravedad de la anemia materno-infantil en el Perú y el Plan Nacional para su reducción"
+        ],
+        "correct": 4,
+        "rationale": "El texto presenta cifras de la alarmante situación de la anemia materno-infantil y el Plan Nacional de lucha que pretende reducirla."
+      },
+      {
+        "statement": "2. En el texto, la palabra EXCLUSIVA connota",
+        "alternatives": [
+          "A) recomendación general a todas las mujeres.",
+          "B) única forma de eliminar la anemia en los infantes.",
+          "C) lactancia propia de mujeres con niños recién nacidos.",
+          "D) reducción de la posibilidad de la anemia infantil.",
+          "E) madres libres de la posibilidad de padecer anemia."
+        ],
+        "correct": 3,
+        "rationale": "La lactancia exclusiva es un factor, entre otros, que reduce la posibilidad de la anemia infantil."
+      }
+    ]
+  },
+  {
+    "type": "sentence_elimination",
+    "statement": "Con respecto de la tendencia a la anemia en niños de 3 a 36 meses entre los años 2009 y 2016 (gráfico), señala C (compatible) o I (incompatible), según corresponda.\n\nI. En el año 2016, en el ámbito urbano, se observa la reducción más significativa.\nII. En los ámbitos rural, nacional y urbano, hay una continua tendencia a la baja.\nIII. En el 2016, la brecha entre los ámbitos urbano y rural fue mayor que en el 2009.\nIV. En el 2016, más de la mitad de estos niños de la zona rural aún padecían de anemia.\nV. Se observa nítidamente la falta de una sostenida política gubernamental de afronte.",
+    "alternatives": [
+      "A) I-I-C-C-I",
+      "B) I-I-C-C-C",
+      "C) I-I-C-I-C",
+      "D) I-C-C-C-C",
+      "E) C-I-C-C-C"
+    ],
+    "correct": 1,
+    "rationale": null
+  },
+  {
+    "type": "sentence_elimination",
+    "statement": "Se deduce que para alcanzar el objetivo de reducción de la anemia infantil que se ha impuesto el Plan Nacional de lucha para el 2021,",
+    "alternatives": [
+      "A) cada año, dicha disminución debe ser 5%, aproximadamente.",
+      "B) se involucrará, principalmente, a las mujeres en edad fértil.",
+      "C) se identificará a las actuales víctimas de este mal silencioso.",
+      "D) dicha reducción será similar a las de los años 2014 y 2015.",
+      "E) se facilitará el acceso al paquete de la salud materno-infantil."
+    ],
+    "correct": 0,
+    "rationale": "Para alcanzar dicho objetivo, en 5 años, debe disminuir un promedio de 25%."
+  },
+  {
+    "type": "sentence_elimination",
+    "statement": "Si las mujeres en edad fértil accedieran plenamente al paquete completo de cuidado integral de la salud materno-infantil,",
+    "alternatives": [
+      "A) la incidencia de la anemia en niños y madres gestantes se reduciría poco.",
+      "B) sería muy ínfimo el riesgo de contraer anemia por las madres gestantes.",
+      "C) disminuirían ostensiblemente los nacimientos prematuros y con bajo peso.",
+      "D) implicaría una mejora sustancial de la alimentación saludable de estas mujeres.",
+      "E) sería el medio más eficaz para reducir al 19% este mal silencioso en el 2021."
+    ],
+    "correct": 0,
+    "rationale": "La incidencia de la anemia tendría una mínima disminución debido a que este acceso pleno sería solo un factor que incidiría en la reducción de la anemia."
+  },
+  {
+    "type": "sentence_elimination",
+    "statement": "Es incompatible afirmar que el Plan Nacional de lucha considera que la anemia",
+    "alternatives": [
+      "A) es un problema que involucra a la sociedad.",
+      "B) es un problema de asistencia social.",
+      "C) es un mal silencioso de carácter estructural.",
+      "D) requiere la asistencia de la empresa privada.",
+      "E) al 2021, solo se puede reducirla y no eliminarla."
+    ],
+    "correct": 2,
+    "rationale": "Del texto se deduce que la anemia es un mal estructural, pues se debe, entre otros, a una alimentación y saneamiento básico pobre. Es un problema de pobreza que requiere medidas estructurales."
+  },
+  {
+    "type": "sentence_elimination",
+    "statement": "La polémica de Ginés de Sepúlveda con Bartolomé de las Casas, medularmente, gira entorno a la",
+    "alternatives": [
+      "A) necesidad de la predicación para desterrar la herejía en los indios americanos.",
+      "B) fidelidad a la doctrina de Aristóteles en la definición de la condición de bárbaro.",
+      "C) obligación cristiana de proteger a las numerosas víctimas de las inmolaciones.",
+      "D) condena de la antropofagia y la inmolación, prácticas de las religiones americanas.",
+      "E) justificación de la guerra como medio de sometimiento de los indios americanos."
+    ],
+    "correct": 4,
+    "rationale": "Sepúlveda justifica el uso de las armas para sojuzgar a los indios americanos; en cambio, Las Casas lo condena bajo el argumento de que la iglesia ni la monarquía española no ejercen jurisdicción sobre dichos indios."
+  },
+  {
+    "type": "sentence_elimination",
+    "statement": "Se infiere que, para Las Casas, la herejía y paganismo respecto del cristianismo",
+    "alternatives": [
+      "A) autorizaban el uso de la violencia en el segundo caso.",
+      "B) eran claramente discernibles, incluso para San Agustín.",
+      "C) implicaban recurrir a distintos medios de evangelización.",
+      "D) tenían motivaciones religiosas en los indios americanos.",
+      "E) solo se podían desarraigar con los buenos ejemplos."
+    ],
+    "correct": 2,
+    "rationale": "Para Las Casas, con los herejes se podía utilizar la violencia porque estaban bajo la jurisdicción de la iglesia; en cambio, los paganos no, entonces para su evangelización había que recurrir a la predicación y a los buenos ejemplos."
+  },
+  {
+    "type": "verbal_series",
+    "statement": "2. Se infiere que, para Las Casas, la herejía y paganismo respecto del cristianismo",
+    "alternatives": [
+      "A) autorizaban el uso de la violencia en el segundo caso.",
+      "B) eran claramente discernibles, incluso para San Agustín.",
+      "C) implicaban recurrir a distintos medios de evangelización.",
+      "D) tenían motivaciones religiosas en los indios americanos.",
+      "E) solo se podían desarraigar con los buenos ejemplos."
+    ],
+    "correct": 2,
+    "rationale": "Para Las Casas, con los herejes se podía utilizar la violencia porque estaban bajo la jurisdicción de los paganos no, entonces para su evangelización había que recurrir a la predicación y a los buenos ejemplos."
+  },
+  {
+    "type": "verbal_series",
+    "statement": "3. En el texto, el vocablo REHUSAR connota una actitud de",
+    "alternatives": [
+      "A) desdén.",
+      "B) crítica.",
+      "C) renuncia.",
+      "D) desasosiego.",
+      "E) rebeldía."
+    ],
+    "correct": 4,
+    "rationale": "Según Sepúlveda, los indios americanos, por su propia condición, tienen la obligación de obedecer a otros; es decir, a someterse. En caso se rehúsen o se rebelen, se justifica el uso de las armas para su sometimiento."
+  },
+  {
+    "type": "verbal_series",
+    "statement": "4. Si Ginés de Sepúlveda hubiese interpretado a San Agustín como lo hizo Las Casas, habría",
+    "alternatives": [
+      "A) renunciado a la necesidad de la evangelización de los indios americanos.",
+      "B) repudiado la guerra en la predicación del evangelio entre los indios americanos.",
+      "C) cuestionado, en parte, la autoridad de San Agustín respecto de la violencia.",
+      "D) promovido la convivencia pacífica con los paganos, infieles y los herejes.",
+      "E) difundido las enseñanzas de aquel entre los paganos indios americanos."
+    ],
+    "correct": 1,
+    "rationale": "En este caso, Sepúlveda habría considerado a los indios americanos como infieles y no como herejes; entonces, como Las Casas, habría repudiado la violencia en la predicación del evangelio entre los indios americanos."
+  },
+  {
+    "type": "verbal_series",
+    "statement": "5. Respecto de la necesidad de la predicación del cristianismo entre los indios americanos es incompatible afirmar que Sepúlveda y Las Casas",
+    "alternatives": [
+      "A) discrepan entorno a las formas.",
+      "B) la asumen como una obligación.",
+      "C) justifican la violencia contra los herejes.",
+      "D) polemizan entorno a su finalidad.",
+      "E) reconocen la autoridad de San Agustín."
+    ],
+    "correct": 3,
+    "rationale": "Ambos están de acuerdo en la necesidad de la predicación para evangelizar o cristianizar a los indios americanos."
+  },
+  {
+    "type": "verbal_series",
+    "statement": "6. Con relación a la idolatría, la antropofagia y la inmolación de víctimas de los indios americanos, Las Casas las",
+    "alternatives": [
+      "A) explica con argumentos basados la cultura de estos.",
+      "B) justifica fundándose en la doctrina de Aristóteles.",
+      "C) condena por ser obstáculos para la evangelización.",
+      "D) cuestiona con base en la doctrina de San Agustín.",
+      "E) considera prácticas propias de los pueblos bárbaros."
+    ],
+    "correct": 0,
+    "rationale": "Las Casas señala que estas prácticas tenían motivaciones religiosas y que los sacrificios humanos se hacían en honor a divinidades que creían verdaderas."
+  },
+  {
+    "type": "reading_comprehension",
+    "statement": "«En EE. UU., los máximos directivos de las empresas ganan trescientas veces más que sus trabajadores. Es simplemente inmoral y hay que acabar con ello». Bernie Sanders, senador por Vermont y aspirante a la nominación del Partido Demócrata a la presidencia de Estados Unidos, ha hecho de la desigualdad salarial una de las ideas fuerza de su candidatura y aprovecha su cuenta en Twitter para lanzar mensajes como el anterior, en contra de los megasueldos de Wall Street.\n\nEn España se vive en permanente campaña electoral desde hace más de un año, pero este debate ha quedado relegado a un segundo plano, aunque las cifras demuestran que existe una desigualdad estructural en la remuneración de los trabajadores según su categoría profesional.\n\nEl ejercicio 2015 fue malo para las empresas de la Bolsa española. Desde el punto de vista de los resultados, los beneficios cayeron un 24%. Este revés tuvo su reflejo en la evolución de las cotizaciones y la Bolsa local perdió un 7%. A pesar de la destrucción de valor para los accionistas —menos ganancias a repartir vía dividendos y menor capitalización bursátil—, las nóminas de los altos ejecutivos no sufrieron; más bien todo lo contrario. Los sueldos de los consejos de administración crecieron un 9,10% en 2015, según un estudio elaborado por El País a partir de los datos registrados en la CNMV. Este cálculo solo tiene en cuenta la retribución en metálico y el pago en acciones y opciones. Si se añade la aportación que hicieron las compañías a los planes de pensiones de los consejeros, la mejora salarial fue en realidad del 12,67%.\n\nEl motor de las retribuciones, además de las inyecciones a los planes de jubilación de los ejecutivos, fueron los bonus que desembolsaron algunas compañías por la consecución de objetivos y\nindemnizaciones por despido de determinados ejecutivos. Los consejeros de los grupos cotizados ganaron de media 364 706 € en 2015, frente a los 334 266 € de un año antes. Si se suman las pensiones, la remuneración media ascendió a 405 266 € (359 668 € en 2014).\n\nlas voluminosas",
+    "questions": [
+      {
+        "statement": "1. El autor tiene la intención principal de",
+        "alternatives": [
+          "A) criticar el injusto aprovechamiento de los empresarios del revés en las cotizaciones del valor sus las empresas.",
+          "B) cuestionar el aprovechamiento político, en EE. UU. y España, de la desigualdad salarial de ejecutivos y trabajadores.",
+          "C) condenar el desmesurado incremento de las remuneraciones de los altos ejecutivos mediante pagos adicionales.",
+          "D) presentar un estudio que concluye que los altos ejecutivos, pese a sus jugosos salarios, son sujetos de despido laboral.",
+          "E) denunciar la abismal diferencia de ingresos de altos ejecutivos y trabajadores oaccionistas de empresas en EE. UU. y España."
+        ],
+        "correct": 4,
+        "rationale": "Se deduce esta intención cuando se dice que en EE. UU. los máximos directivos de las empresas ganan 300 veces más que sus trabajadores y que, en España, pese la caída de los beneficios de las empresas de la bolsa española, los salarios de los ejecutivos subieron 12,67%."
+      },
+      {
+        "statement": "2. En el texto, la palabra REVÉS implica",
+        "alternatives": [
+          "A) drástica disminución de accionistas de la Bolsa española.",
+          "B) menores ganancias para los altos ejecutivos de las empresas.",
+          "C) menores ingresos para los accionistas de la Bolsa española.",
+          "D) disminución de los beneficios de los accionistas y ejecutivos.",
+          "E) incremento de la nómina de altos ejecutivos de las empresas."
+        ],
+        "correct": 2,
+        "rationale": "Esta palabra alude a la caída de los beneficios de las empresas de la bolsa española, revés que implica menos ganancias para los accionistas, no así para los altos ejecutivos."
+      },
+      {
+        "statement": "3. Se deduce que el problema de los salarios y remuneraciones",
+        "alternatives": [
+          "A) es resultado directo de las cotizaciones de las acciones de las empresas.",
+          "B) tiene significativa importancia electoral en los EE. UU., no así en España.",
+          "C) es tema de ácido debate entre los candidatos presidenciales en EE. UU.",
+          "D) constituye un problema estructural que se visualiza en la Bolsa española.",
+          "E) se podría afrontar recurriendo al bonus y a las indemnizaciones por despido."
+        ],
+        "correct": 1,
+        "rationale": "En los EE. UU., para Bernie Sanders, la desigualdad salarial una de las ideas fuerza de su candidatura; en España, el debate de este problema ha sido relegado a un segundo plano."
+      },
+      {
+        "statement": "4. Con respecto a los altos ejecutivos de las empresas españolas, es incompatible\nafirmar que",
+        "alternatives": [
+          "A) cuando son despedidos, todos se benefician con jugosas indemnizaciones.",
+          "B) sus voluminosas indemnizaciones son irrelevantes para los políticos españoles.",
+          "C) pese a su situación salarial privilegiada, perciben remuneraciones diferenciadas.",
+          "D) reciben remuneraciones en metálico, acciones de su empresa y otros ingresos.",
+          "E) incrementan sus remuneraciones pese a la difícil situación de las empresas."
+        ],
+        "correct": 4,
+        "rationale": "Cuando son despedidos solo se benefician determinados ejecutivos."
+      },
+      {
+        "statement": "5. Si la brecha salarial de diversos estamentos de los trabajadores de las empresas norteamericanas y españolas tendiera a la reducción,",
+        "alternatives": [
+          "A) las propuestas de los candidatos políticos serían menos polémicos.",
+          "B) Bernie Sanders moderaría el lenguaje de sus mensajes en Twitter.",
+          "C) sería una prueba real de la mejora de la economía de dichas empresas.",
+          "D) los trabajadores no tendrían interés en la ideas fuerza de los candidatos.",
+          "E) implicaría un sustancial aumento remunerativo de los que ganan menos."
+        ],
+        "correct": 4,
+        "rationale": "La reducción de la brecha salarial señalada solo sería posible con un aumento salarial de los que ganan menos."
+      }
+    ]
+  }
+]

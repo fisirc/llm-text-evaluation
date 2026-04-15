@@ -1,0 +1,527 @@
+[
+  {
+    "type": "verbal_series",
+    "statement": "Descompuesto, estropeado, destartalado,",
+    "alternatives": [
+      "A) malhadado.",
+      "B) desfallecido.",
+      "C) halagüeño.",
+      "D) desvencijado.",
+      "E) malhumorado."
+    ],
+    "correct": 3,
+    "rationale": "Campo semántico de lo «deteriorado, maltratado, afeado»."
+  },
+  {
+    "type": "verbal_series",
+    "statement": "Lisonjero, adulador, zalamero; premioso, calmoso, pausado; garboso,",
+    "alternatives": [
+      "A) elegante, taciturno.",
+      "B) petulante, gallardo.",
+      "C) airoso, saleroso."
+    ],
+    "correct": 2,
+    "rationale": "Serie formada por tres campos semánticos. El primer campo semántico refiere al «halagador»; el segundo campo semántico, al «lento», y el tercer campo semántico, al «elegante». Cada campo semántico está constituido por tres términos, entonces, debemos encontrar un par de s inónimos para «garboso»."
+  },
+  {
+    "type": "verbal_series",
+    "statement": "Farisaico, hipócrita; resuelto, arriscado; bruñido, brilloso;",
+    "alternatives": [
+      "A) trivial, baladí.",
+      "B) diligente, vago.",
+      "C) paria, plebeyo.",
+      "D) villano, digno.",
+      "E) craso, delgado."
+    ],
+    "correct": 0,
+    "rationale": "Serie verbal formada por pares de palabras en relación de sinonimia."
+  },
+  {
+    "type": "verbal_series",
+    "statement": "Sentencia, adagio, aforismo,",
+    "alternatives": [
+      "A) escarmiento.",
+      "B) apotegma.",
+      "C) veredicto.",
+      "D) exhorto.",
+      "E) mandato."
+    ],
+    "correct": 1,
+    "rationale": "Campo semántico del «dicho breve» o «máxima»."
+  },
+  {
+    "type": "verbal_series",
+    "statement": "Preterir, olvidar; permitir, restringir; maquinar, confabular;",
+    "alternatives": [
+      "A) suscribir, respaldar.",
+      "B) soliviantar, inquietar.",
+      "C) imprecar, maldecir.",
+      "D) acogotar, sujetar.",
+      "E) dilatar, encoger."
+    ],
+    "correct": 4,
+    "rationale": "Serie verbal mixta con la siguiente secuencia: sinónimos, antónimos, sinónimos, ANTÓNIMOS ."
+  },
+  {
+    "type": "reading_comprehension",
+    "statement": "Según los datos de la ONU, debido a la obesidad a nivel mundial se reduce el rendimiento en el trabajo y los gastos en sanidad constituyen más de 3,5 billones de dólares o el 5% del PIB mundial. Una de las causas de esta verdadera epidemia, que afecta, según algunos datos, a 300 millones de personas con obesidad y más de mil millones con sobrepeso, a decir de los expertos, es la expansión del modo de vida occidental y uno de sus «males»: la alimentación no saludable o comida basura. Uno de los países que se ha visto obligado a hacer frente a este problema es Catar, que cuenta con 250 000 afectados. El trabajo sedentario en la oficina y la comida rica en ácidos grasos, sal y azúcar han venido desplazando al tradicional modo de vida activo. Según los datos publicados en el sitio web policymic.com, hoy en día se diagnostica obesidad a más del 40% de los niños en edad escolar y el 45% de los adultos en este país árabe. Según los datos del informe The State of Food and Agriculture 2013 de la FAO, basado en estadísticas del 2008, en EE.UU. el 31,8% de la población económicamente activa (PEA) tiene sobrepeso, mientras que en 1995 este índice fue dos veces menor. Uno de los países de habla hispana más afectado es México ,donde los índices de obesidad ya alcanzan el 32,8%. En 2012, el relator especial de la ONU sobre el derecho a la alimentación, Olivier De Schutter, en su informe proponía una estrategia para limitar la obesidad, que incluía entre otras medidas prioritarias la introducción de impuestos a los alimentos poco saludables. Así, un impuesto del 10% a las bebidas no alcohólicas que perjudican a la salud podría reducir las ventas en un 8-10%. Sin embargo, las grandes empresas de producción de alimentos y bebidas estimaron estos planes como «inoportunos». Entre una de las causas del sobrepeso, los expertos señalan al jarabe de maíz de alta fructosa. John Norris, uno de los autores de Foreign Policy ,cita el experimento con roedores realizado en la Universidad Gue lph, Ontario (Canadá), que demuestra que el jarabe de maíz de alta fructosa produce los mismos cambios en el comportamiento que la cocaína. Mientras tanto, este jarabe es el ingrediente básico de refrescos que producen compañías estadounidenses como Coca C ola y PepsiCo, que controlan el 40% del sector, con un volumen total de 532.000 millones de dólares.",
+    "questions": [
+      {
+        "statement": "El sentido contextual del término LIMITAR es",
+        "alternatives": [
+          "A) rematar.",
+          "B) arrasar.",
+          "C) arruinar.",
+          "D) finalizar.",
+          "E) moderar."
+        ],
+        "correct": 4,
+        "rationale": "Una intención del informe de Olivier De Schutter es refrenar las ventas de bebidas no alcohólicas perjudiciales para la salud."
+      },
+      {
+        "statement": "¿Cuál es la idea principal del texto?",
+        "alternatives": [
+          "A) Obesidad y sedentarismo son producto de la mala alimentación.",
+          "B) La alimentación no saludable perjudica el desarrollo económico.",
+          "C) La obesidad es producto de adoptar el modo de vida occidental.",
+          "D) El sedentarismo ocasiona gastos millonarios a muchos países.",
+          "E) La obesidad y el sobrepeso se deben combatir con impuestos."
+        ],
+        "correct": 1,
+        "rationale": "La obesidad, el sobrepeso y el sedentarismo son consecuencia de la mala alimentación. Esta práctica conlleva a que los trabajadores sean menos eficientes."
+      },
+      {
+        "statement": "Se infiere del texto que los productores de alimentos basura",
+        "alternatives": [
+          "A) está n confabulados con los políticos de cada país.",
+          "B) consideran que no deben pagar ningún impuesto.",
+          "C) son indiferentes con la salud de los consumidores.",
+          "D) deben pagar impuestos ya que perjudican la salud.",
+          "E) tienen que dejar de vender bebidas carbonatadas."
+        ],
+        "correct": 2,
+        "rationale": "A pesar de las cifras presentadas, las grandes empresas consideran que aún no es el momento de pagar impuestos."
+      },
+      {
+        "statement": "Si los países de Oriente desdeñaran las costumbres alimenticias no saludables de Occidente, entonces es probable que",
+        "alternatives": [
+          "A) Oriente comience a expandirse hacia Occidente.",
+          "B) la gran empresa de comida saludable fracase.",
+          "C) el gasto en salud en esos países sea casi nulo.",
+          "D) los chinos sean más saludables y trabajadores.",
+          "E) la Coca Cola no sea apreciada en esos países."
+        ],
+        "correct": 4,
+        "rationale": "Coca Cola utiliza jarabe de maíz de alta fructosa para preparar sus bebidas. Este producto es perjudicial para la salud humana. Además, esta empresa tiene una presencia significativa en el sector alimenticio. En consecuencia, el consumo de Coca Cola es parte de las costumbres alimenticias occidentales."
+      },
+      {
+        "statement": "Si la primigenia Francia de los Capetos no hubiese tenido que enfrentar la amenaza musulmana,",
+        "alternatives": [
+          "A) el nacionalismo francés se habría fundado en la fobia a los vascos.",
+          "B) la antigua dinastía capeta se habría extinguido irremediablemente.",
+          "C) el legendario Roldán no habría llegado a saborear nunca la derrota.",
+          "D) el sentimiento nacionalista francés no habría calado tan fácilmente.",
+          "E) Carlomagno se habría empeñado en destruir las guerrillas vascas."
+        ],
+        "correct": 3,
+        "rationale": "Hacia el final del texto se afirma que la Primera Cruzada para hacer le frente a los musulmanes, junto a los cantares de hazaña, dieron el primer gran impulso al nacionalismo francés."
+      }
+    ]
+  },
+  {
+    "type": "reading_comprehension",
+    "statement": "En la actualidad, cuando contemplamos retrospectivamente la Francia de los primeros Capetos, la concebimos como “Francia”, pero tal sentimiento no existía entre la gente de la época. Cada provincia tenía su propio dialecto, distintivo y diferente, a veces hasta muy diferente; y para cada grupo provinciano, los hombres que hablaban otros dialectos eran extranjeros que debían ser despreciados, temidos u odiados, o todo a la vez. Sin embargo, estaba por producirse un cambio. El espíritu y el ánimo de la era de las Cruzadas dio origen a un sentimiento nuevo, más nacional, entre la gente. Por diferentes que las personas de una u otra provincia se sintieran, todos eran cristianos y todos luchaban contra los distantes musulmanes. La Primera Cruzada también dio origen a la primera gran creación literaria que tuvo gran popularidad en todas las provincias, atrajo a todos como una herencia común y dio a todos un orgullo común. Era el Cantar de Roldán ,que recibió su forma final alrededor del 1100. Su trama aprovechaba el sentimiento antimusulmán que despertó en los franceses la Primera Cruzada. Su base histórica era un incidente que había ocurrido más de tres historia, Carlomagno, había luchado gloriosamente contra los musulmanes en España. Durante esa campaña, la retaguardia de uno de los ejércitos de Carlomagno, bajo el mando de Roldán, fue destrozada por vascos cristianos en los desfiladeros de los Pirineos. Pero el poema no contiene nada del suceso real. Mientras que Carlomagno, en realidad, sólo conquistó la franja de España que está inmediatamente al sur de los Pirineos, es pintado en el poema como si hubiera conquistado toda España excepto una ciudad. La retaguardia es descrita como si hubiera sido atacada por un gran ejército musulmán, en vez de las guerrillas cristianas, y todo el cuadro está pintado con los fantasiosos colores heroicos de la caballería medieval . Cada cristiano combate con mil musulmanes, excepto Roldán, que combate con diez mil. Hasta la derrota final de Roldán es tan gloriosa como una victoria. Ningún francés pudo evitar sentirse orgulloso de ser francés, cualquiera que fuese su provincia, cuando leía este poema épico, que no solo fue el primero, sino también el más grande de su tipo en la literatura medieval. El Cantar de Roldán dio origen a una gran literatura imitativa de “cantares de hazaña caballerescas”, de los cuales unos ochenta han sobrevivido hasta hoy. La mayoría son fantasías concernientes a los caballeros legendarios de la corte de Carlomagno. Los cantares de hazaña, en general, junto con la Primera Cruzada, dieron el primer gran impulso al nacionalismo francés .",
+    "questions": [
+      {
+        "statement": "El texto versa fundamentalmente sobre",
+        "alternatives": [
+          "A) el sentimiento antimusulmán que fue plasmado en el Cantar de Roldán.",
+          "B) las cruzadas como grandes emprendimientos de la cristiandad medieval.",
+          "C) el gran influjo que tuvo el Cantar de Roldán en la literatura de su tiempo.",
+          "D) la adquisición de conciencia nacional de los antiguos dominios Capetos.",
+          "E) el profundo respeto que la figura de Carlomagno despertaba en Francia."
+        ],
+        "correct": 3,
+        "rationale": "El texto se encarga de mostrar el modo en el que los dominios de una dinastía dieron origen a la posterior nación francesa gracias a la fobia que despertaban los musulmanes."
+      },
+      {
+        "statement": "Una afirmación incongruente con el texto sostendría que",
+        "alternatives": [
+          "A) la diversidad dialectal era un poderoso óbice para la unidad francesa.",
+          "B) la cristiandad vivía en plena armonía antes de la irrupción musulmana.",
+          "C) el Cantar de Roldán hizo escuela en la producción literaria medioeval.",
+          "D) los cantares de hazaña destacan como composiciones monotemáticas.",
+          "E) el Cantar de Roldán se funda en la deformación de un hecho histórico."
+        ],
+        "correct": 1,
+        "rationale": "El mismo ejército de Carlomagno sufrió los embates de una guerrilla vasca cristiana durante su incursión por España."
+      },
+      {
+        "statement": "Se desprende del texto que el Cantar de Roldán es una composición literaria de carácter",
+        "alternatives": [
+          "A) hiperbólico.",
+          "B) bucólico.",
+          "C) filosófico.",
+          "D) dramático.",
+          "E) religioso."
+        ],
+        "correct": 0,
+        "rationale": "La exageración de las hazañas de que da cuenta el Cantar de Roldán"
+      },
+      {
+        "statement": "Entre los primeros Capetos,",
+        "alternatives": [
+          "A) tuvo acogida antes de las cruzadas.",
+          "B) era una denominación despectiva.",
+          "C) es un mero recurso metodológico.",
+          "D) acrecentó la producción literaria.",
+          "E) anuncia la llegada de la revolución."
+        ],
+        "correct": 2,
+        "rationale": "En esa época no existía la nación francesa como tal, por tanto, utilizamos retrospectivamente la palabra “Francia” comparando las tierras de los Capetos con el actual estado moderno francés que está en la misma región."
+      },
+      {
+        "statement": "Si la primigenia Francia de los Capetos no hubiese tenido que enfrentar la amenaza musulmana,",
+        "alternatives": [
+          "A) el nacionalismo francés se habría fundado en la fobia a los vascos.",
+          "B) la antigua dinastía capeta se habría extinguido irremediablemente.",
+          "C) el legendario Roldán no habría llegado a saborear nunca la derrota.",
+          "D) el sentimiento nacionalista francés no habría calado tan fácilmente.",
+          "E) Carlomagno se habría empeñado en destruir las guerrillas vascas."
+        ],
+        "correct": 3,
+        "rationale": "Hacia el final del texto se afirma que la Primera Cruzada para hacer le frente a los musulmanes, junto a los cantares de hazaña, dieron el primer gran impulso al nacionalismo francés."
+      }
+    ]
+  },
+  {
+    "type": "reading_comprehension",
+    "statement": "historia, Carlomagno, había luchado gloriosamente contra los musulmanes en España.\nDurante esa campaña, la retaguardia de uno de los ejércitos de Carlomagno, bajo el\nmando de Roldán, fue destrozada por vascos cristianos en los desfiladeros de los\nPirineos. Pero el poema no contiene nada del suceso real. Mientras que Carlomagno, en\nrealidad, sólo conquistó la franja de España que está inmediatamente al sur de los\nPirineos, es pintado en el poema como si hubiera conquistado toda España excepto una\nciudad. La retaguardia es descrita como si hubiera sido atacada por un gran ejército\nmusulmán, en vez de las guerrillas cristianas, y todo el cuadro está pintado con los\nfantasiosos colores heroicos de la caballería medieval . Cada cristiano combate con mil\nmusulmanes, excepto Roldán, que combate con diez mil. Hasta la derrota final de Roldán\nes tan gloriosa como una victoria.\nNingún francés pudo evitar sentirse orgulloso de ser francés, cualquiera que fuese su\nprovincia, cuando leía este poema épico, que no solo fue el primero, sino también el\nmás grande de su tipo en la literatura medieval. El Cantar de Roldán dio origen a una\ngran literatura imitativa de “cantares de gesta” (o cantares de hazañas caballerescas), de los\ncuales unos ochenta han sobrevivido hasta hoy. La mayoría son fantasías concernientes a\nlos caballeros legendarios de la corte de Carlomagno. Los cantares de hazta general,\njunto con la Primera Cruzada, dieron el primer gran impulso al nacionalismo francés .",
+    "questions": [
+      {
+        "statement": "1. El texto versa fundamentalmente sobre",
+        "alternatives": [
+          "A) el sentimiento antimusulmán que fue plasmado en el Cantar de Roldán.",
+          "B) las cruzadas como grandes emprendimientos de la cristiandad medieval.",
+          "C) el gran influjo que tuvo el Cantar de Roldán en la literatura de su tiempo.",
+          "D) la adquisición de conciencia nacional de los antiguos dominios Capetos. ",
+          "E) el profundo respeto que la figura de Carlomagno despertaba en Francia."
+        ],
+        "correct": 3,
+        "rationale": "SOLUCIÓN: D. El texto se encarga de mostrar el modo en el que los dominios de una dinastía dieron origen a la posterior nación francesa gracias a la fobia que despertaban los musulmanes."
+      },
+      {
+        "statement": "2. Una afirmación incongruente con el texto sostendría que",
+        "alternatives": [
+          "A) la diversidad dialectal era un poderoso óbice para la unidad francesa.",
+          "B) la cristiandad vivía en plena armonía antes de la irrupción musulmana.",
+          "C) el Cantar de Roldán hizo escuela en la producción literaria medioeval.",
+          "D) los cantares de gesta destacan como composiciones monotemáticas.",
+          "E) el Cantar de Roldán se funda en la deformación de un hecho histórico."
+        ],
+        "correct": 1,
+        "rationale": "SOLUCIÓN: B. El mismo ejército de Carlomagno sufrió los embates de una guerrilla vasca cristiana durante su incursión por España."
+      },
+      {
+        "statement": "3. Se desprende del texto que el Cantar de Roldán es una composición literaria de carácter",
+        "alternatives": [
+          "A) hiperbólico. ",
+          "B) bucólico",
+          "C) filosófico",
+          "D) dramático",
+          "E) religioso."
+        ],
+        "correct": 0,
+        "rationale": "SOLUCIÓN: A. La exageración de las hazañas de que da cuenta el Cantar de Roldán nos..."
+      },
+      {
+        "statement": "4. Los primeros Capetos,",
+        "alternatives": [
+          "A) tuvo acogida antes de las cruzadas.",
+          "B) era una denominación despectiva.",
+          "C) es un mero recurso metodológico.",
+          "D) acrecentó la producción literaria.",
+          "E) anuncia la llegada de la revolución."
+        ],
+        "correct": 2,
+        "rationale": "SOLUCIÓN : C. En esa época no existía la nación francesa como tal, por tanto, utilizamos retrospectivamente la palabra “Francia” comparando las tierras de los Capetos con el actual estado moderno francés que está en la misma región."
+      },
+      {
+        "statement": "5. Si la primigenia Francia de los Capetos no hubiese tenido que enfrentar la amenaza musulmana,",
+        "alternatives": [
+          "A) el nacionalismo francés se habría fundado en la fobia a los vascos.",
+          "B) la antigua dinastía capeta se habría extinguido irremediablemente.",
+          "C) el legendario Roldán no habría llegado a saborear nunca la derrota.",
+          "D) el sentimiento nacionalista francés no habría calado tan fácilmente.",
+          "E) Carlomagno se habría empeñado en destruir las guerrillas vascas."
+        ],
+        "correct": 3,
+        "rationale": "SOLUCIÓN: D. Hacia el final del texto se afirma que la Primera Cruzada para hacer le frente a los musulmanes, junto a los cantares de gesta, dieron el primer gran impulso al nacionalismo francés."
+      }
+    ]
+  },
+  {
+    "type": "reading_comprehension",
+    "statement": "Los falsificadores de obras de arte se valen hoy de las técnicas más modernas y sofisticadas, y echan mano de los últimos adelantos científicos para tratar de que sus obras parezcan lo más auténticas posibles. No faltan inclusive quienes llegan a intervenir en la misma historia de las ideas para hacer pasar una obra falsa como verdadera. Ya el curador internacional Till -Holger Borchert ha dicho que tanto como el 40% del arte en el mercado internacional puede considerarse falso, ya sea por las constantes restauraciones, por autentificaciones erróneas o falsificaciones geniales. De hecho en diferentes subastas de arte realizadas el año pasado, se vendieron más de una treintena pinturas falsas valorizadas —increíblemente— en más de treinta millones de libras esterlinas. No fueron copias sino pinturas que emulaban el estilo del pintor. Este asunto ocupa desde hace buen tiempo a los medios de comunicación. Según el diario londinense The Guardian hasta la casa Christie’s, por ejemplo, habría vendido en 2007 diez de las famosas cajas de Brillo de Andy Warhol falsas. El estafado fue ni más ni menos que Anthony d’Offay, un reconocido experto y marchante inglés de arte contemporáneo que pagó 470 mil libras esterlinas. Está claro que en este negocio del arte falso nadie está a salvo, ni siquiera los propios falsificadores. En 1996, en una calle romana se encontró el cadáver de un hombre con el cráneo destrozado, era Eric Hepburn, notable copista de cuadros de Rubens y Van Dyck, quien años antes había desvelado los secretos de sus malas artes en su autobiografía y manual de falsificación, Drawn to Trouble. Muchos de los falsificadores más talentosos fueron pintores cuya obra fue despreciada por el mercado de arte y algunos se convirtieron en héroes populares. Tal fue el caso de Hans van Meegeren quien en 1942 vendió una de sus falsificaciones, \"La equivalen te a siete millones de dólares actuales. En1945, en plena Segunda Guerra Mundial, van Meegeren fue acusado de alta traición y durante su juicio dijo orgullosamente: «lo que vendí a los nazis no era un Vermeer de Delft [ciudad natal del maestro holandés] sino un Vermeer de Van Meegeren». Esto le ganó la simpatía de la opinión pública.\nSon los galeristas quienes validan las autentificaciones, y los historiadores quienes las legitiman. Así, una pintura pasa de nada a valer millones y la obra se inscribe en la historia del arte. Entre1986 y1995, John Drewe, introdujo páginas en catálogos y falsificó archivos de bibliotecas y universidades para dar vida a más de 200 obras falsificadas. Cuando Scotland Yard allanó su casa y galería londinenses, encontraron cientos de documentos para tales fines.\nHoy la falsificación se exhibe en museos reconocidos. A fines del año pasado, el National Gallery mostró sus propias falsificaciones en «Close Examination: Fakes, Mistakes and Discoveries». Según el curador Fernando Castro el fake (lo falso) está teñida de la nostalgia del mundo de la magia. En el documental de OrsonWelles, sobre Elmyr de Hory, el falsificador más prolífico del siglo XX, este dice: «Soy un charlatán. Solía ser un mago y aún trabajo en ello».",
+    "questions": [
+      {
+        "statement": "1. La idea principal del texto sostiene que",
+        "alternatives": [
+          "A) hoy en día cerca del 40% de las obras de arte que se comercializan en el mercado internacional son falsas.",
+          "B) los falsificadores de obras de arte no copian las obras sino que emulan el estilo del artista que falsifican.",
+          "C) hoy los falsificadores de obras de arte se valen de la ciencia y técnica moderna y la manipulación de la historia.",
+          "D) el año pasado se vendió una treintena de obras de arte falsas por un valor de 30 millones de libras.",
+          "E) los artistas que falsifican obras de arte llegan a ser tan famosos como los artistas a los cuales copian."
+        ],
+        "correct": 2,
+        "rationale": "SOLUCIÓN: C. Es un texto analizante, la idea principal aparece al inicio y luego se dan ejemplos para explicarla."
+      },
+      {
+        "statement": "2. En el texto el término NEGOCIO tiene el sentido de",
+        "alternatives": [
+          "A) mafia",
+          "B) delito.",
+          "C) estafa",
+          "D) trabajo",
+          "E) actividad."
+        ],
+        "correct": 1,
+        "rationale": "SOLUCIÓN: B. El término negocio tiene una connotación delincuencial por eso se menciona el asesinato de un falsificador de obras de arte."
+      },
+      {
+        "statement": "3. Marque la alternativa que es incompatible con el texto.",
+        "alternatives": [
+          "A) Algunos falsificadores se convirtieron en héroes populares en sus países.",
+          "B) Lo s falsificadores carecen de recursos frente a los grandes marchantes.",
+          "C) Drewe falsifico archivos para dar vida a más de 200 obras falsificadas.",
+          "D) El 40% del arte en el mercado internacional puede considerarse falso.",
+          "E) Muchos falsificadores fueron pintores cuya obra fue despreciada antes."
+        ],
+        "correct": 1,
+        "rationale": "SOLUCIÓN: B. Anthony d’Offay, un reconocido experto y marchante de arte contemporáneo pago 470 mil libras por 10 de las famosas cajas de brillo de Warhol que eran falsas. Otro"
+      },
+      {
+        "statement": "4. A) son un delito que pasa desapercibido. B) a la larga se convierte en un mal negocio. C) desacreditan a los artistas reconocidos. D) son olvidadas con el paso del tiempo. E) con el tiempo llegan a ser valiosas.",
+        "alternatives": [
+          "A) son un delito que pasa desapercibido.",
+          "B) a la larga se convierte en un mal negocio.",
+          "C) desacreditan a los artistas reconocidos.",
+          "D) son olvidadas con el paso del tiempo.",
+          "E) con el tiempo llegan a ser valiosas."
+        ],
+        "correct": 4,
+        "rationale": "SOLUCIÓN: E. Hoy la falsificación se exhibe en museos reconocidos, lo falso está teñido de la nostalgia del mundo de la magia."
+      },
+      {
+        "statement": "5. Se colige del texto que la falsificación de obras de arte",
+        "alternatives": [
+          "A) puede considerarse un negocio muy rentable.",
+          "B) es un negocio que goza de total impunidad.",
+          "C) da más publicidad a los artistas copiados.",
+          "D) se reduce a copiar obras de artistas famosos.",
+          "E) es un delito que carece de un gran mercado."
+        ],
+        "correct": 0,
+        "rationale": "SOLUCIÓN: A. El 40% del arte en el mercado internacional puede considerarse falso, se han vendido más de 30 pinturas falsas valorizadas en más de 30 millones de libras esterlinas, y d’Offay pago 470 mil libras esterlinas por cajas de brillo falsas de Warhol."
+      },
+      {
+        "statement": "6. Si el cuadro que llegó a la colección de Göring no hubiese sido pintado por Hans van Meeregen, entonces",
+        "alternatives": [
+          "A) este habría sido ejecutado por los nazis.",
+          "B) Alois Miedl habría sabido que era falso.",
+          "C) este habría sido un reconocido pintor.",
+          "D) no se le podría acusar de alta traición.",
+          "E) nadie se hubiera percatado de su estafa."
+        ],
+        "correct": 3,
+        "rationale": "SOLUCIÓN: D. Van Meeregen fue llevado a juicio por alta traición por supuestamente vender a los nazis «la adúltera» de Vermeer; ya que el cuadro era falso (ya sea hecho por él o por otro), no se le puede acusar de alta traición."
+      }
+    ]
+  },
+  {
+    "type": "reading_comprehension",
+    "statement": "Los científicos no siempre reconocen la función y el valor de la filosofía. Interesa pensar aquí no en las grandes figuras de la ciencia, sino justamente en el investigador típico, en la mentalidad promedio del científico, que da testimonio de una opinión más general y constante. Esta opinión es frecuentemente negativa, cuando no simplemente indiferente a los valores teoréticos de la filosofía. En muchos casos, la franca proyección del filósofo al conocimiento, su pretensión de realizar una faena estrictamente cognoscitiva, le resulta al científico un elemento perturbador de la expansión de su propia actividad y una causa de desorientación para quienes pueden ser educados en el ideal del conocimiento positivo.\nPero las mentalidades artísticas no son tampoco extrañas a la negación de la filosofía, bien que por motivos diferentes. No es insólito que el poeta considere falto de gracia, demasiado solemne y hasta quizá simplemente torpe el estilo filosófico. Ve a la filosofía desde el mediador de la forma y no encuentra en las páginas del pensador la respuesta adecuada a su sensibilidad. Pero también le disgusta el prurito filosófico de la argumentación y la prueba, ese empeño de fundar y explicar que está muy lejos de sus propias preocupaciones. Por otra parte, su saber inmediato de los hombres y la vida le da una seguridad en su trato con lo concreto que el filósofo no alcanza o que no se atreve a desvalorar a la filosofía, quieren liquidarla. Givanni Papini es una buena muestra. Escribió expresamente un libro, El crepúsculo de los filósofos , «para demostrar toda la vanidad, la vacuidad y la ridiculez de la filosofía», de este «equívoco aborto del espíritu humano, de este monstruo de sexo dudoso, que no es ciencia ni arte y es una mixtura de todo, sin llegar a ser un instrumento de acción y de conquista». Después de la liquidación general que pretende consumar en su panfleto, piensa Papini que a la filosofía no le queda más que morirse del todo o subsistir quizá como un género literario. La metafísica, dice, puede tomar el lugar de los poemas épicos, reconociendo así su naturaleza esencialmente imaginativa y extraña al conocimiento genuino.",
+    "questions": [
+      {
+        "statement": "1. En el texto, el v ocablo PERTURBAR tiene el sentido de",
+        "alternatives": [
+          "A) desdeñar",
+          "B) denostar",
+          "C) confundir",
+          "D) restringir.",
+          "E) opacar."
+        ],
+        "correct": 3,
+        "rationale": "SOLUCIÓN: D"
+      },
+      {
+        "statement": "2. El tema central que el autor presenta es la",
+        "alternatives": [
+          "A) polémica en los ámbitos de ciencia y del arte entorno a la injerencia de la filosofía en estas.",
+          "B) vacuidad y la vanidad de las investigaciones filosóficas en los camp os de la ciencia y el arte.",
+          "C) la desorientación que la filosofía provoca cuando esta reflexiona entorno a la ciencia y el arte.",
+          "D) negación del valor teorético y la fundamentación filosófica en los ámbitos de la ciencia y el arte.",
+          "E) carencia de con sistencia de la filosofía en sus indagaciones entorno a la ciencia y el arte."
+        ],
+        "correct": 3,
+        "rationale": "SOLUCIÓN: D"
+      },
+      {
+        "statement": "3. Se infiere que el El crepúsculo de los filósofos de Papini es un texto esencialmente",
+        "alternatives": [
+          "A) informativo",
+          "B) descriptivo",
+          "C) narrativo",
+          "D) reflexivo",
+          "E) argumentativo."
+        ],
+        "correct": 4,
+        "rationale": "SOLUCIÓN: E"
+      },
+      {
+        "statement": "4. Con respecto a los científicos, es incompatible aseverar que",
+        "alternatives": [
+          "A) todos repudian los estudios filosóficos relacionados con la ciencia.",
+          "B) el autor reconoce en ellos la existencia de una inobjetable jerarquía.",
+          "C) las grandes figuras discrepan de la mayoría entorno a la filosofía.",
+          "D) la mayoría considera que la filosofía es un escollo para la ciencia."
+        ],
+        "correct": 0,
+        "rationale": "SOLUCIÓN: A"
+      },
+      {
+        "statement": "5. Giovanni Papini se retractaría de sus alegatos en contra la filosofía si esta",
+        "alternatives": [
+          "A) renunciara a sus reflexiones metafísicas y de pretender alcanzar el con ocimiento genuino.",
+          "B) abandonara toda señal de vanidad y asumiera, esencialmente, una orientación imaginativa.",
+          "C) definiera su objeto de estudio y sus indagaciones sirvieran para resolver problemas concretos.",
+          "D) alejándose de toda vanidad y vacuidad, asumiera definitivamente el lugar de los poemas épicos.",
+          "E) precisara con claridad que sus investigaciones se orientan a fundamentar la ciencia y el arte."
+        ],
+        "correct": 2,
+        "rationale": "SOLUCIÓN: C. Porque Papini acusa a la filosofía de ser una mixtura, ni ciencia ni arte, y que no llega a ser un instrumento de acción y conquista."
+      },
+      {
+        "statement": "6. Si las mentalidades artísticas comprendieran a cabalidad el interés de los filósofos cuando indagan en el ámbito del arte, posiblemente",
+        "alternatives": [
+          "A) serían menos críticos de la solemnidad de estos.",
+          "B) serían to lerantes con la falta de gracia de estos.",
+          "C) promoverían una mayor sensibilidad en estos.",
+          "D) buscarían concretar en sus obras el estilo filosófico.",
+          "E) reconocerían el valor de los estudios de estos."
+        ],
+        "correct": 4,
+        "rationale": "SOLUCIÓN: E"
+      }
+    ]
+  },
+  {
+    "type": "sentence_elimination",
+    "statement": "1. I) David Ricardo nació en Londres en 1772 el seno de una familia judía sefardí en Holanda, país en el que recibió su primera educación judía ortodoxa. II) David Ricardo se formó en la práctica ayudando a su padre, quien era corredor de bolsa. III) David Ricardo formó un razonamiento abstracto que lo ayudó a simplificar la realidad hasta definir un modelo teórico que dio cuenta del sistema esencial del sistema económico. IV) Se separó de su familia cuando se casó con una mujer cristiana cuáquera, y se e stableció por su cuenta como corredor y especulador de bolsa. V) Acumuló en poco tiempo una gran fortuna de manera que se retiró de los negocios a los cuarenta años de edad.\nA) III B) I C) IV D) V E) II",
+    "questions": [
+      {
+        "statement": "",
+        "alternatives": [],
+        "correct": 0,
+        "rationale": ""
+      }
+    ],
+    "alternatives": [
+      "A) III",
+      "B) I",
+      "C) IV",
+      "D) V",
+      "E) II"
+    ],
+    "correct": 0,
+    "rationale": "A. Cuatro oraciones giran alrededor del tema Datos biográficos de David Ricardo. La oración III resulta impertinente porque tiene por tema El razonamiento abstracto de David Ricardo."
+  },
+  {
+    "type": "sentence_elimination",
+    "statement": "pleno desarrollo se produce durante la Revolución Industrial y la generalización del trabajo asalariado. II) La huelga o paro es la suspensión colectiva de la actividad laboral por parte de los trabajadores. III) La huelga tiene por finalidad reivindicar mejoras en las condiciones de trabajo o manifestarse contra recortes en los derechos sociales. IV) La huelga, según la OIT, es uno de los medios legítimos fundamentales de que disponen los ciudadanos y específicamente los trabajadores para la promoción y defensa de sus intereses económicos y sociales. V) La huelga tiene diferentes formas de manifestación: huelga laboral, huelga de consumo, huelga de hambre, huelga de vientres, huelga sexual o huelga de piernas cruzadas.\nA) IV B) II C) III D) I E) V",
+    "questions": [
+      {
+        "statement": "",
+        "alternatives": [],
+        "correct": 0,
+        "rationale": ""
+      }
+    ],
+    "alternatives": [
+      "A) IV",
+      "B) II",
+      "C) III",
+      "D) I",
+      "E) V"
+    ],
+    "correct": 3,
+    "rationale": "SOLUCIÓN: D. Cuatro oraciones giran entorno al tema de La huelga. La oración I tiene por tema Los orígenes de la huelga, por lo tanto, resulta impertinente."
+  },
+  {
+    "type": "reading_comprehension",
+    "statement": "Según el científico promedio, la acción cognoscitiva del filósofo es un elemento que perturba, limita o restringe, la expansión de su propia actividad.",
+    "questions": [
+      {
+        "statement": "2) El tema central que el autor presenta es la",
+        "alternatives": [
+          "A) polémica en los ámbitos de ciencia y del arte entorno a la injerencia de la filosofía en estas.",
+          "B) vacuidad y la vanidad de las investigaciones filosóficas en los camp os de la ciencia y el arte.",
+          "C) la desorientación que la filosofía provoca cuando esta reflexiona entorno a la ciencia y el arte.",
+          "D) negación del valor teorético y la fundamentación filosófica en los ámbitos de la ciencia y el arte.",
+          "E) carencia de con sistencia de la filosofía en sus indagaciones entorno a la ciencia y el arte."
+        ],
+        "correct": 3,
+        "rationale": "En el texto, el autor presenta la negación del valor teorético y la fundamentación de la filosofía en los ámbitos de la ciencia y el arte y la pretensión de liquid arla por parte de Papini."
+      },
+      {
+        "statement": "3) Se infiere que el El crepúsculo de los filósofos de Papini es un texto esencialmente",
+        "alternatives": [
+          "A) informativo.",
+          "B) descriptivo.",
+          "C) narrativo.",
+          "D) reflexivo.",
+          "E) argumentativo."
+        ],
+        "correct": 4,
+        "rationale": "La demostración requiere argumentos."
+      },
+      {
+        "statement": "5) Giovanni Papini se retractaría de sus alegatos en contra la filosofía si esta",
+        "alternatives": [
+          "A) renunciara a sus reflexiones metafísicas y de pretender alcanzar el con ocimiento genuino.",
+          "B) abandonara toda señal de vanidad y asumiera, esencialmente, una orientación imaginativa.",
+          "C) definiera su objeto de estudio y sus indagaciones sirvieran para resolver problemas concretos.",
+          "D) alejándose de toda vanidad y vacuidad, asumiera definitivamente el lugar de los poemas épicos.",
+          "E) precisara con claridad que sus investigaciones se orientan a fundamentar la ciencia y el arte."
+        ],
+        "correct": 2,
+        "rationale": "Porque Papini acusa a la filosofía de ser una mixtura, ni ciencia ni arte, y que no llega a ser un instrumento de acción y conquista."
+      },
+      {
+        "statement": "6) Si las mentalidades artísticas comprendieran a cabalidad el interés de los filósofos cuando indagan en el ámbito del arte, posiblemente",
+        "alternatives": [
+          "A) serían menos críticos de la solemnidad de estos.",
+          "B) serían to lerantes con la falta de gracia de estos.",
+          "C) promoverían una mayor sensibilidad en estos.",
+          "D) buscarían concretar en sus obras el estilo filosófico.",
+          "E) reconocerían el valor de los estudios de estos."
+        ],
+        "correct": 4,
+        "rationale": "La mentalidad artística vea la filosofía desde la perspectiva de la forma; por ello, la considera torpe. La forma no es el objetivo del filósofo sino el fundamento del arte; en consecuencia, si la considerara desde este punto de vista, valoraría los estudios filosóficos."
+      }
+    ]
+  },
+  {
+    "type": "sentence_elimination",
+    "statement": "I) David Ricardo nació en Londres en 1772 el seno de una familia judía sefardí en Holanda, país en el que recibió su primera educación judía ortodoxa. II) David Ricardo se formó en la práctica ayudando a su padre, quien era corredor de bolsa. III) David Ricardo formó un razonamiento abstracto que lo ayudó a simplificar la realidad hasta definir un modelo teórico que dio cuenta del sistema esencial del sistema económico. IV) Se separó de su familia cuando se casó con una mujer cristiana cuáquera, y se estableció por su cuenta como corredor y especulador de bolsa. V) Acumuló en poco tiempo una gran fortuna de manera que se retiró de los negocios a los cuarenta años de edad. ¿Qué oración resulta impertinente?",
+    "alternatives": [
+      "A) III",
+      "B) I",
+      "C) IV",
+      "D) V",
+      "E) II"
+    ],
+    "correct": 0,
+    "rationale": "Cuatro oraciones giran alrededor del tema Datos biográficos de David Ricardo. La oración III resulta impertinente porque tiene por tema El razonamiento abstracto de David Ricardo."
+  }
+]

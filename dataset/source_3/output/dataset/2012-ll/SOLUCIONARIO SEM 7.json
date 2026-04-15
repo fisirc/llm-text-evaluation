@@ -1,0 +1,394 @@
+[
+  {
+    "type": "reading_comprehension",
+    "statement": "Aristóteles se pregunta por qué Tales escogió el agua como principio único de todas las cosas, es decir, indaga sobre el fundamento de la hipótesis de Ta les.",
+    "questions": [
+      {
+        "statement": "En el texto, el vocablo AFECCIONES se puede reemplazar por",
+        "alternatives": [
+          "A) niveles.",
+          "B) etapas.",
+          "C) circunstancias.",
+          "D) situaciones.",
+          "E) estados"
+        ],
+        "correct": 4,
+        "rationale": "Este vocablo se refiere a los estados sólido, líquido y de vapor del agua."
+      },
+      {
+        "statement": "El sinónimo contextual del término INSISTENTE es",
+        "alternatives": [
+          "A) puntual.",
+          "B) riguroso.",
+          "C) preciso.",
+          "D) verosímil.",
+          "E) vehemente"
+        ],
+        "correct": 1,
+        "rationale": "La ciencia moderna presenta demandas mucho más insistentes, es decir mayor rigurosidad, en lo que respecta a la síntesis de inducción y deducción matemática."
+      },
+      {
+        "statement": "Del texto se deduce que la ley de la gravitación de Newton",
+        "alternatives": [
+          "A) superó en verosimilitud a las tres leyes físicas de Kepler.",
+          "B) superó el nivel de conjetura propia de la ciencia antigua.",
+          "C) fue una de las realizaciones del ideal platónico de ciencia.",
+          "D) fue la explicación más sencilla de las tres leyes de Kepler.",
+          "E) como toda ley científica, es sencilla y de fácil comprensión."
+        ],
+        "correct": 2,
+        "rationale": "Es una de las realizaciones del ideal platónico porque este exige de que toda ciencia de be derivar “de una única raíz la suma total de sus datos.”"
+      },
+      {
+        "statement": "Es incompatible aseverar que la simplicidad de la teoría científica",
+        "alternatives": [
+          "A) es muy evidente en la radiación electromagnética.",
+          "B) es un signo inequívoco de desarrollo de la ciencia.",
+          "C) en la antigüedad, respondió al ideal aristotélico.",
+          "D) es una búsqueda incesante en toda investigación.",
+          "E) permite alcanzar una imagen objetiva del mundo."
+        ],
+        "correct": 2,
+        "rationale": "Según el texto, Aristóteles indaga el fundamento de la hipótesis, el por qué Tales había señalado al agua como el principio de todas las cosas."
+      },
+      {
+        "statement": "Si la física lograra derivar de una raíz común las fuerzas de la gravitación y la electricidad,",
+        "alternatives": [
+          "A) la simplificación de la imagen física del mundo dejaría de ser un ideal.",
+          "B) estas se explicarían mediante un menor número posible de supuestos.",
+          "C) la ciencia moderna se diferenciaría radicalmente de la ciencia antigua.",
+          "D) estas fuerzas serían decisivas en la formación de imagen física del mundo.",
+          "E) el campo de estudio de la ciencia física se ampli aría en gran medida."
+        ],
+        "correct": 1,
+        "rationale": "En este caso, dicha raíz sería una ley científica que podría explicar dichas fuerzas mediante un menor número posible de supuestos."
+      }
+    ]
+  },
+  {
+    "type": "verbal_series",
+    "statement": "1. Rebatir, contradecir, impugnar,",
+    "alternatives": [
+      "A) abjurar",
+      "B) claudicar",
+      "C) deificar",
+      "D) pretextar",
+      "E) confutar."
+    ],
+    "correct": 4,
+    "rationale": "Se trata de una serie verbal sinonímica."
+  },
+  {
+    "type": "verbal_series",
+    "statement": "2. Minucioso, meticuloso, escrupuloso,",
+    "alternatives": [
+      "A) atrabiliario",
+      "B) desosegado",
+      "C) puntilloso.",
+      "D) impertérrito",
+      "E) tax activo."
+    ],
+    "correct": 2,
+    "rationale": "Se ha conformado una serie verbal de nexo sinonímico."
+  },
+  {
+    "type": "verbal_series",
+    "statement": "3. ¿Cuál de las siguientes palabras resulta ajena al conjunto?",
+    "alternatives": [
+      "A) Escarnio",
+      "B) Irrisión",
+      "C) Mofa",
+      "D) Ludibrio",
+      "E) Postín"
+    ],
+    "correct": 4,
+    "rationale": "El campo semántico corresponde a la burla que se hace de alguien."
+  },
+  {
+    "type": "verbal_series",
+    "statement": "4. Determine el elemento léxico que no corresponde a la serie verbal.",
+    "alternatives": [
+      "A) Inenarrable",
+      "B) Indecible",
+      "C) Inexpresable",
+      "D) Ininteligible",
+      "E) Inefable"
+    ],
+    "correct": 3,
+    "rationale": "El campo semántico corresponde a algo que no se puede explicar con palabras."
+  },
+  {
+    "type": "verbal_series",
+    "statement": "5. Orlar, ribetear; persuadir, disuadir; segregar, expeler;",
+    "alternatives": [
+      "A) dilucidar, elucidar",
+      "B) incoar, rematar",
+      "C) abrogar, derogar",
+      "D) apocar, mermar",
+      "E) hesitar, vacilar"
+    ],
+    "correct": 1,
+    "rationale": "Serie verbal mixta conformada por sinónimos, antónimos, sinónimos. Por consiguiente, corresponde un par de antónimos."
+  },
+  {
+    "type": "verbal_series",
+    "statement": "6. Basto, zafio, palurdo,",
+    "alternatives": [
+      "A) cenutrio",
+      "B) artero",
+      "C) rastrero",
+      "D) cateto.",
+      "E) lego."
+    ],
+    "correct": 3,
+    "rationale": "La serie está conformada por sinónimos."
+  },
+  {
+    "type": "verbal_series",
+    "statement": "7. ¿Cuál de las siguientes palabras resulta ajena al conjunto?",
+    "alternatives": [
+      "A) Espurio",
+      "B) Falso",
+      "C) Fraudulento",
+      "D) Falaz",
+      "E) Feraz"
+    ],
+    "correct": 4,
+    "rationale": "Se trata del campo semántico del engaño."
+  },
+  {
+    "type": "verbal_series",
+    "statement": "Serie verbal mixta conformada por sinónimos, antónimos, sinónimos. Por consiguiente, corresponde un par de antónimos. 7. ¿Cuál de las siguientes palabras resulta ajena al conjunto? 8. Elija el hiperónimo de los siguientes términos: TINAJA, CÁNTARO, BOTIJA",
+    "alternatives": [
+      "7) A) Espurio",
+      "B) Falso",
+      "C) Fraudulento",
+      "D) Falaz",
+      "E) Feraz"
+    ],
+    "correct": 4,
+    "rationale": "Se trata del campo semántico del engaño."
+  },
+  {
+    "type": "verbal_series",
+    "statement": "8. Elija el hiperónimo de los siguientes términos: TINAJA, CÁNTARO, BOTIJA",
+    "alternatives": [
+      "A) Cazuela",
+      "B) Escudilla",
+      "C) Aljibe",
+      "D) Cuenco",
+      "E) Vasija"
+    ],
+    "correct": 4,
+    "rationale": "Vasija es el término que incluye a tinaja, cántaro y botija."
+  },
+  {
+    "type": "reading_comprehension",
+    "statement": "La sinestesia es una condición neurológica por la que los sentidos se combinan de formas poco corrientes. Es una manera especial de contemplar la realidad que ciertas personas consideran más rica porque diversas áreas del cerebro se comunican entre ellas y no categorizan, como es habitual. No se considera un problema o un déficit, sino una experiencia adicional que enriquece la percepción de la realidad. Se distinguen varios tipos de sinestesia, aunque el más común y estudiado es el denominado «color -grafema», en el que las letras, palabras o números evocan colores. Otras personas perciben colores cuando se enfrentan a unidades de tiempo y también es frecuente imaginarlos en sonidos o en las notas musicales. Además, hay quien asocia los sabores con colores, sonidos o sensaciones táctiles, hasta llegar a casi todas las combinaciones posibles entre los distintos sentidos. El fenómeno ha sido estudiado por un grupo de investigadores de la Universidad de Padua. Se utilizó un test de diagnóstico de sinestesi a mediante el cual se asocian una serie de números a diferentes colores. Un paciente para quien el número 2 corresponde al color rojo, mostrará más dificultad para nombrar el mismo número asociado al color verde. Esta desaceleración en la respuesta se toma como evidencia de que las experiencias sinestésicas son reales y automáticas. La desaceleración también se produjo al presentar los números en forma de puntos, a pesar de que el participante aseguró no haber detectado ningún color para este tipo de estímulo. El estudio científico de la sinestesia no se popularizó hasta hace un par de décadas. En la actualidad, un amplio número de laboratorios en todo el mundo analiza las características psicológicas de este fenómeno, así como sus bases neuronales y la posible influencia de distintos genes en su transmisión. Uno de estos laboratorios se encuentra en la Universidad de Granada. El grupo de Neurociencia Cognitiva de esta casa de estudios se ha especializado en las reacciones afectivas asociadas a las percepciones sinestésicas. Cuando una persona con sinestesia percibe un estímulo de un color distinto al experimentado de manera interna (asocia el color verde a la letra A, pero debe enfrentarse a esta coloreada en naranja), se genera un desagrado. Diversos estudios de comportamiento llevados a cabo en esta universidad española muestran que esta reacción afectiva es automática, difícil de ignorar y tan potente como para influir en la conducta de la persona que la experimenta.",
+    "questions": [
+      {
+        "statement": "1. La idea principal del texto asevera que la sinestesia",
+        "alternatives": [
+          "A) del tipo «color -grafema» consiste en percibir colores al enfrentamos a unidades de tiempo, sonidos, notas musicales o sensaciones táctiles.",
+          "B) impide una adaptación eficiente al medio que nos rodea al proporcionar percepciones en las que se combinan múltiples sentidos.",
+          "C) es una condición neurológica que combina los sentidos de formas insólitas cuya variedad «color -grafema» es la más recurrente y estudiada.",
+          "D) constituye un peculiar estado neurológico que tiene la posibilidad de ser reconocido fácilmente de manera directa por sus rasgos visibles.",
+          "E) desencadena reacciones afectivas violentas que pueden indisponer a quienes experimentan este singular tipo de percepción de la realidad."
+        ],
+        "correct": 2,
+        "rationale": "Es una condición neurológica por la que los sentidos se combinan de formas poco corrientes. Se distinguen varios tipos de sinestesia, aunque el más común y estudiado es el denominado «color -grafema»."
+      },
+      {
+        "statement": "2. El término DESACELERACIÓN se refiere a la",
+        "alternatives": [
+          "A) imprecisión de las respuestas durante el test de diagnóstico.",
+          "B) ausencia de dificultad para vincular los estímulos presentados.",
+          "C) incapacidad del sinesteta para relacionar números con colores.",
+          "D) dilación del sinesteta para relacionar estímulos correctamente.",
+          "E) reacción afectiva que se genera al relacionar números y colores."
+        ],
+        "correct": 3,
+        "rationale": "Un paciente se tardará más en asociar un estímulo distinto al experimentado interiormente."
+      },
+      {
+        "statement": "3. Con respecto a la sinestesia del tipo «color -grafema», es posible colegir que",
+        "alternatives": [
+          "A) inhibe totalmente cualquier tipo de manifestación afectiva.",
+          "B) puede llegar a producirse incluso de manera inconsciente.",
+          "D) produce el aislamiento de las diversas áreas cerebrales.",
+          "C) conduce a la asociación de colores y sensaciones táctiles.",
+          "E) deviene en la ceguera definitiva de quien la experimenta."
+        ],
+        "correct": 1,
+        "rationale": "También, la desaceleración se produjo al presentar los números en forma de puntos, a pesar de que el participante aseguró no haber detectado ningún color para este tipo de estímulo."
+      },
+      {
+        "statement": "4. Resulta incompatible con el texto sostener que",
+        "alternatives": [
+          "A) la sinestesia puede repercutir en el estado de ánimo.",
+          "B) el estudio de la sinestesia ostenta carácter empírico.",
+          "C) la sinestesia es una condición neurológica defectiva.",
+          "D) la sinestesia favorece la profusión de percepciones.",
+          "E) el estudio de la sinestesia es de difusión reciente."
+        ],
+        "correct": 2,
+        "rationale": "La sinestesia es una manera especial de contemplar la realidad. No se considera un problema o un déficit, sino una experiencia adicional que enriquece la percepción de la realidad."
+      },
+      {
+        "statement": "5. Si un paciente sinesteta asocia internamente el número tres al color azul,",
+        "alternatives": [
+          "A) no experimentaría desagrado al mostrársele el mismo número de color rojo.",
+          "B) registraría mayor velocidad en la asociación del color azul a otro número.",
+          "C) experimentaría desagrado al observar el número tres coloreado de verde.",
+          "D) no podría generársele aversión al vincular el número tres al color rosado.",
+          "E) controlaría la desaceleración si observara el mismo número de otro color."
+        ],
+        "correct": 2,
+        "rationale": "Si una persona con sinestesia percibe un estímulo de un color distinto al experimentado de manera interna, se genera un desagrado."
+      }
+    ]
+  },
+  {
+    "type": "reading_comprehension",
+    "statement": "Dado que, desde que hay hombres, ha habido también, en todos los tiempos, rebaños humanos (agrupaciones familiares, comunidades, estirpes, pueblos, Estados, Iglesias), y que siempre han sido muchísimos los que han obedecido en relación con el pequeño número de los que han mandado, teniendo en cuenta, por lo tanto, que la obediencia ha sido hasta ahora la cosa mejor y más prolongadamente ensayada y cultivada entre los hombres, es lícito presuponer en justicia que, hablando en general, cada uno lleva ahora innata en sí la necesidad de obedecer, cual una especie de conciencia formal que ordena: «se trate de lo que se trate, debes hacerlo incondicionalmente, o abstenerte de ello incondicionalmente», en otras palabras, «tú debes». Esta necesidad intenta saturarse y llenar su forma con un contenido; en esto, de acuerdo con su fortaleza, su impaciencia y su tensión, actúa de manera poco selectiva, como un apetito grosero, y acepta lo que le grita al oído cualquiera de los que mandan padres, maestros, leyes, prejuicios estamentales, opiniones públicas. La extraña limitación del desarrollo humano, el carácter indeciso, lento, a menudo regresivo y tortuoso del mismo descansa en el hecho de que el instinto gregario de obediencia es lo que mejor se hereda, a costa del arte de mandar. Si imaginamos ese instinto llevado hasta sus últimas aberraciones, al final faltarán hombres que manden y que sean independientes, o estos sufrirán interiormente de mala conciencia y tendrán necesidad, para poder mandar, de simularse a sí mismos un engaño: a saber, el de que también ellos se limitan a obedecer. Esta es la situación que hoy se da de hecho en el mundo moderno: yo la llamo la hipocresía moral de los que mandan. No saben protegerse contra su mala conciencia más que adoptando el aire de ser ejecutores de órdenes más antiguas o más elevadas (delos antepasados, de la Constitución, del derecho, de las leyes o hasta de Dios), o incluso tomando en préstamo máximas gregarias al modo de pensar gregario, presentándose, por ejemplo, como los «primeros servidores de su pueblo» o como «instrumentos del bien común».",
+    "questions": [
+      {
+        "statement": "1. El tema central del texto gira entorno",
+        "alternatives": [
+          "A) a la idiosincrasia de los rebaños humanos.",
+          "B) al carácter totalitario de los que mandan.",
+          "C) al talante crítico de la conciencia formal.",
+          "D) a la hipocresía moral de los gobernados.",
+          "E) al instinto gregario de la obediencia."
+        ],
+        "correct": 4,
+        "rationale": "El texto se centra en la necesidad instintiva que ocasiona la obediencia de un enorme número de personas en relación con el pequeño número de los que han mandado."
+      },
+      {
+        "statement": "2. El sinónimo contextual de la palabra LÍCITO es",
+        "alternatives": [
+          "A) expedito.",
+          "B) razonable.",
+          "C) aporético.",
+          "D) categórico.",
+          "E) legal."
+        ],
+        "correct": 1,
+        "rationale": "Sería lógico presuponer que la necesidad de obedecer es innata."
+      },
+      {
+        "statement": "3. Respecto de la hipocresía moral de los que gobiernan, se desprende que",
+        "alternatives": [
+          "A) está desvinculada de los extravíos del instinto gregario.",
+          "B) se ha generado debido al incontrolable deseo de poder.",
+          "C) se ha edificado sobre el nefasto instinto de obediencia.",
+          "D) favorece el establecimiento de gobiernos eficientes.",
+          "E) alude al doble discurso de quienes an helan mandar."
+        ],
+        "correct": 2,
+        "rationale": "El instinto de obediencia llevado hasta sus últimas aberraciones derivará a la hipocresía moral de los que mandan, debido a la carencia de hombres independientes."
+      }
+    ]
+  },
+  {
+    "type": "reading_comprehension",
+    "statement": "Uchuraccay nos induce a la reflexión sobre la cultura andina, ya no solo como un elemento diagnóstico, sino como un planteamiento de la cuestión en su conjunto. Se trata de preguntarnos sobre qué es el atraso y cuál es el carácter de su contrastación con el \"Perú moderno\", en el que aparece como factor principal de su estancamiento y subdesarrollo. El atraso tiene como medida el desarrollo tecnológico de Occidente y los índices de producción que interesan a Occidente. Como contraste, la modernidad está condicionada al mayor acceso a los recursos de la vida occidental. En nuestros días, esto se expresa en el modelo del american way of life. La \"modernidad\" de signo colonial incluye pues todo el aparato productivo, las formas de existencia social y la representación que, a nivel de con ciencia, tenemos sobre nosotros mismos. En un reciente balance sobre la tecnología agrícola vigente en el Perú, elaborado por Pierre Morlon, Benjamín Orlove y Alberic Hibon (1982), ellos sostienen que la agricultura introducida por Occidente, que reemplaza parte de los productos nativos, a veces sin ninguna ventaja, como en el caso de los cereales que sustituyeron a la quinua, la cañiwa o el amaranto o quiwicha, que son de mayor valor alimenticio, ha determinado \"la decadencia, que aún hoy continúa, de la agricultura autóctona en Perú, Ecuador y Bolivia. Los nuevos sistemas de propiedad, la esclavitud, el abandono de los almacenes de alimentos y de los métodos de protección del suelo (y también de los métodos de conservación de productos como la papa, la carne o pescado), aceleraron su deterioro y en la actualidad esa agricultura es una de las más atrasadas del mundo. Por otra parte - dicen -los cultivos, métodos de trabajo y herramientas autóctonas no han recibido mayor atención de parte de los agrónomos. L os trabajos de investigación hechos sobre ellos, aunque en forma errática y discontinua, han probado que son suceptibles de mejorarse\", la probanza histórica nos señala que tuvieron un rendimiento superior al actual. En esta concepción errónea del progreso y de la modernidad, que ha convertido fértiles campos de cultivo de tubérculos u otros alimentos andinos, en pastizales para nutrir especies voluptuosas de ganado vacuno o caballos que no pueden subsistir con los pastos naturales de la tierra; ha permitido, igualmente, abandonar el ganado nativo que era abundante y generoso al punto de haber logrado su extinción en la mayor parte de nuestro territorio, en donde crecía y aún sobrevive sin mermar para nada la riqueza agrícola. La llama es un animal que ahora reduce su existencia a esa parte atrasada del Perú y la alpaca solo está siendo débilmente explotada, gracias a la inserción de su lana dentro del mercado capitalista. Junto con el cuy, su existencia como fuente de alimentación se reduce a la condición del país primitivo y atrasado. El signo colonial de nuestra existencia ha invadido la decreciente y pauperizada mesa familiar, al punto que con excepción de productos como la papa o el maíz, que fueron aceptados y asimilados por Occidente, nuestros gustos se organizan entorno a alimentos de producción costosa, de origen Occidental; frutas, cereales, legumbres y carnes andinas nos resultan ahora extraños y hasta desconocidos y nuestra imaginación colonial nos sitúa en el punto en que hemos aprendido a despr eciarlos y reírnos de quienes las consumen. Una buena manera de encubrir esta demencia es decir que todo eso pertenece al atrasado mundo de los mil uchuracayes que pueblan nuestra tierra, mundo con el cual nosotros -los \"modernos\" del país -no nos identificamos. Luis Guillermo Lumbreras, Mentalidad colonial en el Perú.",
+    "questions": [
+      {
+        "statement": "En el texto, el vocablo DEMENCIA connota",
+        "alternatives": [
+          "A) segregación de productos autóctonos de la mesa familiar.",
+          "B) desplazamiento de los alimentos naturales de la mesa familiar.",
+          "C) identifica ción con los mil uchuracayes que pueblan el país.",
+          "D) alimentación con variados productos agrícolas costosos.",
+          "E) contraposición entre la modernidad y el atrasado mundo andino."
+        ],
+        "correct": 1,
+        "rationale": "El término demencia connota esa mentalidad colonial de reemplazar productos nativos por productos foráneos."
+      },
+      {
+        "statement": "La intención principal del autor es",
+        "alternatives": [
+          "A) destacar el valor intrínseco de la lana de alpaca, admitida y apreciada en el exigente mercado capitalista.",
+          "B) criticar la concepción colonial de \"atraso\" y \"modernidad\" basada en el modo de vida occidental.",
+          "C) explicar la inexorable quiebra de las fuerzas productivas nativas a causa de la \"modernidad\".",
+          "D) relievar función de la técnica agrícola andina que, en el pasado, alcanzó un nivel superior al actual.",
+          "E) presentar las conclusiones de Pierre Morlon, Benjamín Orlove y Alberic Hibon en torno al atraso."
+        ],
+        "correct": 1,
+        "rationale": "El autor tiene la intención de criticar la concepción colonial de atraso y modernidad que ha acelerado el deterioro de las fuerzas productivas autóctonas."
+      },
+      {
+        "statement": "Se deduce que, para contrarrestar el atraso, Pierre Morlon, Benjamin Orlove y Alberic Hibon propondrían, entre otras medidas,",
+        "alternatives": [
+          "A) eliminar los métodos y tecnología agrícola foránea.",
+          "B) incrementar las exportaciones al mercado cap italista.",
+          "C) alimentarse con productos exclusivamente naturales.",
+          "D) revalorar y desarrollar la tecnología autóctona andina."
+        ],
+        "correct": 3,
+        "rationale": "Según estos investigadores, los cultivos, métodos de trabajo y herramientas autóctonas han probado que son susceptibles de mejorarse y que la probanza histórica nos señala que tuvieron un rendimiento superior al actual."
+      },
+      {
+        "statement": "Se infiere que el modelo de vida representado por el american way of life",
+        "alternatives": [
+          "A) es posible alcanzar aumentando ostensiblemente las exportaciones.",
+          "B) es el marco ideal en el que el individuo alcanza su plena realización.",
+          "C) es inherente, principalmente, a las naciones plenamente integradas.",
+          "D) es el signo determinante del más alto grado de desarrollo humano.",
+          "E) es la aspiración de quienes están imbuidos de una mentalidad colonial."
+        ],
+        "correct": 4,
+        "rationale": "Este modelo de vida es aspiración de quienes, imbuidos de una mentalidad colonial, buscan tener acceso a los recursos de la vida occidental."
+      },
+      {
+        "statement": "A partir de las ideas del autor, se deduce que el auge de la cultura andina",
+        "alternatives": [
+          "A) se manifiesta en el reconocimiento mundial del que es objeto.",
+          "B) se manifiesta en la indetenible migración hacia la ciudad.",
+          "C) implica el desarrollo de las fuerzas productivas nativas.",
+          "D) se expresa, sobre todo, en la vitalidad de su arte y folclor.",
+          "E) es posible si se la contrapone a la mentalidad “moderna”."
+        ],
+        "correct": 2,
+        "rationale": "Implica recuperar los fértiles campos de cultivo, los pastizales y la tecnología."
+      },
+      {
+        "statement": "Es incompatible con el texto aseverar que, en el mercado capitalista,",
+        "alternatives": [
+          "A) se manifiesta con claridad la mentalidad colonial.",
+          "B) se ofertan productos agrícolas del mundo Occidental.",
+          "C) son admitidos solo algunos productos agrícolas nativos.",
+          "D) la carne de alpaca es admitida por su valor nutrivo.",
+          "E) se expande aun en países calificados como atrasados."
+        ],
+        "correct": 3,
+        "rationale": "Según el texto, no es la carne sino la lana de alpaca la que es apreciada por el mercado capitalista."
+      },
+      {
+        "statement": "Es incompatible con el texto aseverar que el aparato productivo nativo",
+        "alternatives": [
+          "A) en el pasado, alcanzó un alto nivel de desarrollo.",
+          "B) hoy es menospreciado incluso en su propio medio.",
+          "C) está sujeto a la dominante mentalidad colonial.",
+          "D) se encuentra en un proceso de creciente deterioro.",
+          "E) es obsoleta y solo abastece al mercado local."
+        ],
+        "correct": 4,
+        "rationale": "El También abastece, aunque de manera muy limitada, al mercado capitalista externo mediante la lana de alpaca y otros productos."
+      },
+      {
+        "statement": "Si se profundizara la mentalidad colonial en nuestro país,",
+        "alternatives": [
+          "A) todos adoptaríamos el modelo del american way of life.",
+          "B) la modernización del aparato productivo sería una realidad.",
+          "C) se alejaría aún más la posibilidad de forjar la nación peruana.",
+          "D) se eliminaría de manera progresiva el atraso y la pobreza.",
+          "E) la producción agrícola abastecería al mercado interno."
+        ],
+        "correct": 2,
+        "rationale": ""
+      }
+    ]
+  }
+]

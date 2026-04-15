@@ -1,0 +1,432 @@
+[
+  {
+    "type": "sentence_elimination",
+    "statement": "Tres hermanas (Carmen, Estefanía y Elizabeth) deciden comprarse una falda cada una. Luego de mucha deliberación, se quedan con tres colores: rojo, azul y violeta. Cada una de ellas elige el color que hace juego con sus zapatos: Elizabeth tiene zapatos azules y elige la falda azul. Si Estefanía nos dice que la falda violeta no va con sus zapatos, podemos deducir que",
+    "alternatives": [
+      "A) Carmen elige la falda de color azul.",
+      "B) Estefanía tiene zapatos color violeta.",
+      "C) Carmen no elige la falda de color violeta.",
+      "D) Estefanía elige la falda de color rojo.",
+      "E) Estefanía elige la falda de color azul."
+    ],
+    "correct": 3,
+    "rationale": "La información textual permite establecer dos premisas: Estefanía no elige ni la falda azul ni la falda violeta. Por ende, ella elige la falda roja."
+  },
+  {
+    "type": "sentence_elimination",
+    "statement": "Caso 3 Se ha cometido un grave desfalco en la oficina de finanzas públicas. Hay tres sospechosos: el director, el contador y el secretario. Si fue el director, el desfalco se retrotrae hasta enero último. Si fue el co ntador, el delito se perpetró con la anuencia de los guardias. Si el desfalco fue cometido por el secretario, se produjo en el mes de abril. Dado que el desfalco se produziert antes del mes de abril, se colige válidamente que",
+    "alternatives": [
+      "A) los tres sospechosos deben ser inmediatamente liberados.",
+      "B) hay que pensar en la posibilidad de un cuarto sospechoso.",
+      "C) los guardias están involucrados en la comisión del desfalco.",
+      "D) indefectiblemente, el culpable es el director de esa oficina.",
+      "E) el secretario no pudo ser el causante del desfalco cometido."
+    ],
+    "correct": 4,
+    "rationale": "Por modus tollens, se deduce que el secretario no cometió el desfalco."
+  },
+  {
+    "type": "reading_comprehension",
+    "statement": "Arrasado el jardín, profanados los cálices y las aras, entraron los hunos en la biblioteca monástica y rompieron los libro s incomprensibles y los vituperaron y los quemaron, acaso temerosos de que las letras encubrieran blasfemias contra su dios, que era una cimitarra de hierro. Ardieron palimpsestos y códices, pero en el corazón de la hoguera, perduró casi intacto el libro duodécimo de la Civitas dei, que narra que Platón enseñó en Atenas que, al cabo de los siglos, todas las cosas recuperarán su estado anterior, y él, en Atenas, ante el mismo auditorio, de nuevo enseñará esa doctrina. El texto que las llamas perdonaron gozó de una veneración especial y quienes lo leyeron y releyeron en esa remota provincia dieron en olvidar que el autor sólo declaró esa doctrina para poder mejor confutarla. Un siglo después, Aureliano, coadjutor de Aquilea, supo que a orillas del Danubio la novísima secta de los anulares profesaba que la historia es un círculo y que nada es que no haya sido y que no será. Todos temían, pero todos se confortaban con el rumor de que Juan de Panonia, que se había distinguido por un tratado sobre el séptimo atributo de Dios, iba a impugnar tan abominable herejía. Aureliano deploró esas nuevas, sobre todo la última. Sabía que en materia teológica no hay novedad sin riesgo; luego reflexionó que la tesis de un tiempo circular era demasiado disímil, demasiado asombrosa, para que el riesgo fuera grave. Más le dolió la intervención –la intrusión – de Juan de Panonia. Hace dos años, éste había usurpado un asunto de la especialidad de Aureliano (el séptimo atributo de Dios); ahora, como si el problema del tiempo le perteneciera, iba a rectificar a los anulares...",
+    "questions": [
+      {
+        "statement": "1. Juan de Panonia sentía un intenso odio por Aureliano.",
+        "alternatives": [
+          "A) Juan de Panonia sentía un intenso odio por Aureliano.",
+          "B) el narrador admira a Aureliano y desprecia a Juan.",
+          "C) Aureliano se s entía usurpado por Juan de Panonia.",
+          "D) Aureliano se caracterizaba por una sutileza irónica.",
+          "E) Juan de Panonia era un tipo belicoso e inclemente."
+        ],
+        "correct": 2,
+        "rationale": "El cambio léxico determina que, en la mente de Aureliano, Juan de Panonia se mete en lo que no debería y hace, por lo tanto, una usurpación intelectual."
+      },
+      {
+        "statement": "2. Se infiere que, de acuerdo con la tesis del tiempo circular,",
+        "alternatives": [
+          "A) Dios carece de atributos llamados ontológicos.",
+          "B) todas las verdades platónicas son inexpugnables.",
+          "C) la historia se puede entender como imprevisible.",
+          "D) no hay diferencia óntica entre pasado y futuro.",
+          "E) el problema del tiempo se resuelve de modo lineal."
+        ],
+        "correct": 3,
+        "rationale": "Nada es que no haya sido (pasado) y que no será (futuro): el pasado volverá a ocurrir y el futuro ya ha ocurrido. En consecuencia, no hay diferencia óntica entre lo que fue y lo que será."
+      },
+      {
+        "statement": "3. Se deduce que, en la perspectiva de Aureliano, la herejía anular era",
+        "alternatives": [
+          "A) fundada.",
+          "B) temible.",
+          "C) inexpugnable.",
+          "D) antiplatónica.",
+          "E) irrisoria."
+        ],
+        "correct": 4,
+        "rationale": "Para Aureliano, la herejía anular no implicaba mayor riesgo por su carácter disímil. En tal sentido, cabe inferir que la consideraba irrisoria."
+      },
+      {
+        "statement": "4. Se infiere que los hunos se caracterizaban por",
+        "alternatives": [
+          "A) una mentalidad fetichista.",
+          "B) un ateísmo vehemente.",
+          "C) un fideísmo abstracto.",
+          "D) una concepción platónica de la vida.",
+          "E) un amor desmedido por los libros."
+        ],
+        "correct": 0,
+        "rationale": "Al adorar a una cimitarra, evidencian una mentalidad fetichista."
+      },
+      {
+        "statement": "5. Se infiere que el hiperónimo de CÓDICE es",
+        "alternatives": [
+          "A) palimpsesto.",
+          "B) manuscrito.",
+          "C) dogma.",
+          "D) código.",
+          "E) idioma."
+        ],
+        "correct": 1,
+        "rationale": "El códice que fue quemado pertenecía a una biblioteca monástica. Se trata de un tipo de manuscrito."
+      },
+      {
+        "statement": "6. Se infiere del texto que tanto Aureliano como Juan de Panonia son conspicuos",
+        "alternatives": [
+          "A) herejes.",
+          "B) ham here siólogos.",
+          "C) here siólogos.",
+          "D) santos.",
+          "E) obispos."
+        ],
+        "correct": 2,
+        "rationale": "heresiólogos."
+      },
+      {
+        "statement": "7. Se deduce del texto que Platón",
+        "alternatives": [
+          "A) es autor de la célebre obra Civitas dei.",
+          "B) fue denostado por los herejes anulares.",
+          "C) era admirado y venerado por los hunos.",
+          "D) defendió los dogmas de la religión cristiana.",
+          "E) era partidario de la idea del eterno retorno."
+        ],
+        "correct": 4,
+        "rationale": "A partir de la enseñanza narrada en la Civitas dei, se colige una concepción cíclica o circular del tiempo (el retorno)."
+      }
+    ]
+  },
+  {
+    "type": "verbal_series",
+    "statement": "restaurar, restituir, reposer ,",
+    "alternatives": [
+      "A) infringir.",
+      "B) falsear.",
+      "C) rehabilitar.",
+      "D) demandar.",
+      "E) deponer."
+    ],
+    "correct": 2,
+    "rationale": "Rehabilitar es sinónimo de restaurar, restitir, reponer."
+  },
+  {
+    "type": "verbal_series",
+    "statement": "Considerar, descalificar ; hurtar, sustraer; divertirse, aburrirse,",
+    "alternatives": [
+      "A) anodino, relevante.",
+      "B) relativo, próximo.",
+      "C) inusual, calmado.",
+      "D) fiero, implacable.",
+      "E) novedoso, nefando."
+    ],
+    "correct": 3,
+    "rationale": "Se trata de una serie mixta, antónimos, sinónimos, antónimos, SINÓNIMOS."
+  },
+  {
+    "type": "verbal_series",
+    "statement": "Constreñir, forzar; manejar, operar; reponer, rehabilitar ,",
+    "alternatives": [
+      "A) llevar, proporcionar.",
+      "B) ilusionar, engrandecer.",
+      "C) bruñir, pulir.",
+      "D) animar, favorecer.",
+      "E) eliminar, incluir."
+    ],
+    "correct": 2,
+    "rationale": "Serie de palabras formadas por pares de SINÓNIMOS."
+  },
+  {
+    "type": "verbal_series",
+    "statement": "Surtir, abastecer, suministrar ,",
+    "alternatives": [
+      "A) proceder.",
+      "B) dotar.",
+      "C) forjar.",
+      "D) mostrar.",
+      "E) fingir."
+    ],
+    "correct": 1,
+    "rationale": "Dotar es sinónimo de surtir, abastecer y suministrar."
+  },
+  {
+    "type": "verbal_series",
+    "statement": "Contestatario, sumiso; enviciado, íntegro; recalcitrante, transigente;",
+    "alternatives": [
+      "A) austero, inmoderado.",
+      "B) frugal, atroz.",
+      "C) mágico, mirífico.",
+      "D) astuto, ladino.",
+      "E) lacónico, conciso."
+    ],
+    "correct": 0,
+    "rationale": ""
+  },
+  {
+    "type": "verbal_series",
+    "statement": "triste, melancólico, apesadumbrado,",
+    "alternatives": [
+      "A) mojigato.",
+      "B) temerario.",
+      "C) taciturno.",
+      "D) cobarde.",
+      "E) reputado."
+    ],
+    "correct": 2,
+    "rationale": "Taciturno es sinónimo de triste, melancólico."
+  },
+  {
+    "type": "verbal_series",
+    "statement": "enojar, exaltar, exasperar",
+    "alternatives": [
+      "A) expoliar.",
+      "B) imitar.",
+      "C) irritar.",
+      "D) tramar.",
+      "E) calmar."
+    ],
+    "correct": 2,
+    "rationale": "Irritar es sinónimo de enojar, exaltar y exasperar."
+  },
+  {
+    "type": "sentence_elimination",
+    "statement": "I) Luigi Galvani nació en Bolonia en 1737, fue un médico y fisiólogo muy importante en su época. II) Enseñó anatomía en la Universidad de Bolonia donde consiguió prestigio y fama. III). La electricidad animal fue una teoría inédita desarrollada por el gran anatomista Luigi Galvani. IV) En 1791 publicó su libro De viribus electricitatis in motu musculari commentarius que confirmó su fama de científico. V) Falleció en 1798, habiéndose conservado en su cátedra de anatomía por más de 35 años .",
+    "alternatives": [
+      "A) I",
+      "B) II",
+      "C) III",
+      "D) IV",
+      "E) V"
+    ],
+    "correct": 2,
+    "rationale": "La oración III es inatingente."
+  },
+  {
+    "type": "sentence_elimination",
+    "statement": "I) Javier Prado Ugarteche fue un destacado intelectual y político peruano. II) Javier Prado Ugarteche estudió derecho y filosofía en la Universidad de San Marcos, graduándose de ambas profesiones como doctor . III) Muy pronto se dedicasría a la docencia universitaria en su alma mater, llegando a ser rector de la misma. IV) No obstante, paralelamente, comenzó a desempeñarse en cargos públicos. V) Llegó a ser primer ministro y ministro de educación.",
+    "alternatives": [
+      "A) I",
+      "B) II",
+      "C) IV",
+      "D) III",
+      "E) V"
+    ],
+    "correct": 0,
+    "rationale": "Se elimina la oración I por redundancia con la II, III y V."
+  },
+  {
+    "type": "sentence_elimination",
+    "statement": "I) El dingo es caracterizado como un perro salvaje australiano, aunque eso no sea tan exacto. II) Por un lado se trata de un animal que no vive exclusivamente en Australia sino que también vive en Asia. III) No se trata tampoco de un perro salvaje simplemente, sino de una especie que tiene tanto elementos de lobo como de perro. IV) El dingo llegó a Australia acompañando a los nómades del sureste asiático hace 5000 años. V) El dingo se ha hecho popular recientemente como mascota y se caracteriza por aullar mucho.",
+    "alternatives": [
+      "A) IV",
+      "B) V",
+      "C) I",
+      "D) III",
+      "E) II"
+    ],
+    "correct": 1,
+    "rationale": "La oración V es inatingente pues se están discutiendo sobre el origen del dingo, no de su popularidad."
+  },
+  {
+    "type": "sentence_elimination",
+    "statement": "Vega tiene muchas ediciones conocidas, una de ellas es la de Rosemblat, publicada en Argentina el año 1943. II) Una edición muy difundida en Lima es la Aurelio Miro Quesada Sosa que data de 1959. III) Aurelio Miro Quesada Sosa también publicó varios libros sobre el Inca. IV) El año 1959, José Durand publicó su edición en tres tomos y en formato económico. V) El año 1995, Carlos Araníbar publicó una edición importante al reescribir la obra con criterios gramaticales contemporáneos.",
+    "alternatives": [
+      "A) V",
+      "B) III",
+      "C) IV",
+      "D) I",
+      "E) II"
+    ],
+    "correct": 1,
+    "rationale": "Se elimina la oración III por impertinencia: no nos menciona una edición importante de los Comentarios Reales de los Incas."
+  },
+  {
+    "type": "sentence_elimination",
+    "statement": "I) Spencer fue un filósofo muy destacado que influyó a sus colegas europeos sino también a filósofos latinoamericanos. II) Herbert Spencer fue un importante naturalista inglés que vivió en el siglo XIX, fue positivista pero de manera muy peculiar. III) A la idea de progreso que sostenía Comte en un positivismo inicial, Spencer modificó entendiendo en su lugar a la evolución. IV) A la crítica a la metafísica Spencer la entendió como un análisis minucioso del intelecto y por eso siguió a Kant. V) Su interés de cambiar y mejorar la sociedad le llevo a mejorar la sociología como ciencia aplicando principios de Darwin.",
+    "alternatives": [
+      "A) II",
+      "B) I",
+      "C) V",
+      "D) III",
+      "E) IV"
+    ],
+    "correct": 1,
+    "rationale": "Se elimina la oración I por impertinencia pues el tema es la peculiaridad del positivismo de Spencer."
+  },
+  {
+    "type": "sentence_elimination",
+    "statement": "I) Jorge Puccinelli es uno de los intelectuales peruanos más importantes del siglo XX, escribió obras inolvidables pero sobre todo fue un impulsor de la cultura. II) Una de sus primeras obras fue dirigir la revista Letras Peruanas donde reunió a los principales representantes de la cultura peruana y promocionó a los nuevos. III) Dirigiendo la Facultad de Letras de la Universidad de San Marcos promovió a intelectuales como Alberto Escobar, Víctor Li Carrillo, Washington Delgado, Julio Ramón Ribe yro entre otros. IV) Su labor a cargo de la dirección del Instituto Raúl Porras Barrenechea, que duro más de cuatro décadas, hizo permanente un clima de difusión y promoción de la cultura peruana. V) Luego de su fallecimiento el año 2012, la Facultad de Letras le rindió homenaje colocando su nombre a la biblioteca.",
+    "alternatives": [
+      "A) V",
+      "B) I",
+      "C) III",
+      "D) IV",
+      "E) II"
+    ],
+    "correct": 0,
+    "rationale": "Se elimina la oración V por impertinencia pues se están mencionando los aportes de Puccinelli a nivel de promoción cultural."
+  },
+  {
+    "type": "sentence_elimination",
+    "statement": "I) Georges Méliès fue un mago y cineasta francés de gran influencia para el séptimo arte. II) Méliès generó una serie de efectos cinematográficos que él mismo inventó, supervisó y concreto en sus películas. III) También innovó en la manipulación de los fotogramas para crear efectos, también los coloreo a mano. IV) Otra innovación de la obra de Méliès radica en las historias que contaba, desde el viaje a la Luna hasta la mano del diablo, son pioneras de géneros que hoy son habituales. V) El año 2012 se estrenó la película Hugo dirigida por Martin Scorcese en la que se rinde homenaje a este grande de la cinematografía.",
+    "alternatives": [
+      "A) III",
+      "B) IV",
+      "C) V",
+      "D) II",
+      "E) I"
+    ],
+    "correct": 2,
+    "rationale": "Se elimina la oración V, se está hablando de las innovaciones de Méliès en el cine, no de las obras derivadas de su vida."
+  },
+  {
+    "type": "reading_comprehension",
+    "statement": "La filosofía pertenece a aquellas altas regiones de la cultura en que las diferencias materiales (propias de los diversos pueblos) no tienen mayor importancia y actúan generalmente como predisposiciones naturales – en ningún modo inaccesibles – en las personas que meditan. Por ello es posible que tengamos una filosofía occidental, varía según los tiempos y lugares, pero esencialmente la misma en sus diversas ramas (así entrelazadas entre sí). A la cultura iberoamericana, occidental según su especie y forma, individualizada por las condiciones peculiares de nuestra gente, corresponde pues un filosofar integrado en la tradición europea. Esto no quiere decir que hemos de pensar sólo ideas importadas, sino gracias a nuestra tradición filosófica – que es la misma en el Viejo y en el Nuevo Mundo – podemos y debemos continuar la elaboración de la Historia de la Filosofía, en paridad de derechos y posibilidades con, por ejemplo, Francia o Alemania. Somos seguidores –es cierto – pero ello no afecta ni el linaje ni las rentas… Esto no tiene nada que ver con la supuesta decadencia de Europa y el deber de América de conservar la civilización: la responsabilidad cultural y filosófica de Iberoamérica no está subordinada a contingencias bélicas o ataclamos morales; ella se funda en el hecho que somos un pedazo de humanidad, que reflexiona sobre sí misma, de tradición occidental y por lo tanto con un destino que forjar y una obligación que cumplir. La Filosofía en Iberoamérica ha seguido desde el siglo XVI siempre el ritmo europeo. No ha habido metafísica indígena ni mestiza. (Lo único que podría mencionarse en este sentido sería la aplicación de ciertas teorías del Viejo Mundo, especialmente de aquellas que se encuentra en el límite con la Sociología, a las condiciones americanas). Como todo nuevo brote espiritual, que al comienzo tuvo necesariamente que nutrirse de la rama a que debe su origen, está nuestro filosofar, al hacerse independiente, expuesto a cuatro peligros: el remedo, el atraso, la inexactitud y la superficialidad.",
+    "questions": [
+      {
+        "statement": "1. Las condiciones geográficas respecto a la filosofía",
+        "alternatives": [
+          "A) imposibilitan o deterioran a la reflexión filosófica.",
+          "B) no son relevantes y motivan la reflexión filosófica.",
+          "C) generan contenidos que son originales y únicos.",
+          "D) conforman los problemas clásicos de la filosofía",
+          "E) son parte importante de la filosofía occidental."
+        ],
+        "correct": 1,
+        "rationale": "El autor menciona en el primer párrafo que las condiciones geográficas no determinan la reflexión filosófica sino que las predisponen."
+      },
+      {
+        "statement": "2. La expresión NO AFECTA NI EL LINAJE NI LAS RENTAS connota",
+        "alternatives": [
+          "A) desinterés respecto a la tradición occidental .",
+          "B) aislamiento de la cultura y tradición foránea.",
+          "C) despreocupación por lo legal y económico.",
+          "D) desafección por la identidad y autenticidad.",
+          "E) ni perjuicio de origen ni de consecuencias."
+        ],
+        "correct": 4,
+        "rationale": "El autor menciona en el segundo párrafo que debemos continuar la reflexión filosófica con occidente sin con eso perder nuestra identidad y tener consecuencias comprometidas."
+      },
+      {
+        "statement": "3. Podemos inferir del texto, con respecto a Francia y Alemania que",
+        "alternatives": [
+          "A) ambas naciones han alcanzado grandes logros en filosofía.",
+          "B) han continuado un proceso de asimilación filosófico propio.",
+          "C) representan el viejo mundo respecto a la tradición occidental.",
+          "D) son muestras de la decadencia de Europa y deben rescatarse.",
+          "E) han subordinado los temas bélicos y morales a la filosofía."
+        ],
+        "correct": 1,
+        "rationale": "El autor menciona que son ejemplos de la tarea de asimilación y apropiación de una tradición."
+      },
+      {
+        "statement": "4. Se puede inferir del texto que no ha habido metafísica mestiza ni indígena",
+        "alternatives": [
+          "A) porque los filósofos desecharon el estudio de la realidad.",
+          "B) porque existió un gran atraso entorno a temas sociales.",
+          "C) porque se prefirieron explicaciones sociales en su lugar.",
+          "D) porque no hubo conocimiento de la tradición filosófica.",
+          "E) porque se prefirió las explicaciones religiosas y mágicas."
+        ],
+        "correct": 2,
+        "rationale": "El autor menciona que no hubo metafísica mestiza ni indígena porque hubo una adaptación de teorías vinculadas a lo sociológico o social en su lugar."
+      },
+      {
+        "statement": "5. Si el des arrollo de la filosofía en Iberoamérica estuviera subordinado a contingencias bélicas o cataclismos morales, entonces",
+        "alternatives": [
+          "A) nuestra filosofía tendría un corte más político o militar.",
+          "B) aceptaríamos más una filosofía positivista o utilitarista.",
+          "C) simplemente no habría filosofía por esta restricción.",
+          "D) no podríamos aspirar a elaborar una filosofía propia.",
+          "E) se obtendría una filosofía idealista al estilo de Platón."
+        ],
+        "correct": 3,
+        "rationale": "Según el autor, la filosofía se remonta y sobrepone a cualquier clase de limitación bélica o circunstancial por lo tanto, si dependiera de esto, entonces no habría filosofía propia."
+      }
+    ]
+  },
+  {
+    "type": "reading_comprehension",
+    "statement": "La filosofía en Latinoamérica presenta un cuadro de desenvolvimiento peculiar de naturaleza bipolar que ofrece ya una personal manera de aceptación de la filosofía: de conjugar y hacer válidas estas filosofías en el mundo cultural y en la realidad histórica americana, esfuerzo, éste último, a través del cual vemos convertida la filosofía en ideología o en instrumento de análisis, crítica y cambio de nuestra realidad. La actitud estrictamente filosófica, ejercida sobre todo en las universidades y academias, ha considerado a la filosofía como una disciplina eminentemente teórica y ha procurado un cabal conocimiento de sistemas, doctrinas y filósofos en cada una de las etapas de su desenvolvimiento. Estas etapas son conocidas bajo las denominaciones de escolástica, ilustrada, romántica, positivista y evolucionista, espiritualista y contemporánea (actualmente cabe distinguir, entre las más importantes, el movimiento fenomenológico y existencialista, el marxismo, la filosofía analítica y la filosofía cristiana). Desde su inicio, en conventos y centros de estudios religiosos, la filosofía en nuestra América ha tenido una secuencia ininterrumpida de más de cuatro siglos y medio de adiestramiento filosófico. Ha logrado, en la actualidad, un cierto estilo de pensamiento, y nuestra reflexión evidencia no sólo un cabal conocimiento de las últimas tendencias, sistemas y doctrinas filosóficas, sino un alto nivel teórico y especulativo que se hace evidente en las obras de sus más ilustres representantes. El movimiento filosófico ha adoptado fundamentalmente filosofías occidentales y no ha dado todavía cabida a un planteamiento filosófico que incluya la problemática indígena.",
+    "questions": [
+      {
+        "statement": "1. El tema central del texto es",
+        "alternatives": [
+          "A) La actitud estrictamente filosófica.",
+          "B) Reflexiones sobre la filosofía en el Perú.",
+          "C) La filosofía en los conventos de Perú.",
+          "D) El sentido de la filosofía en Latinoamérica.",
+          "E) La filosofía y el problema indígena."
+        ],
+        "correct": 3,
+        "rationale": "La autora del texto aborda el tema del sentido de la filosofía en Latinoamérica."
+      },
+      {
+        "statement": "2. ¿Cuál es la idea principal del texto?",
+        "alternatives": [
+          "A) La necesidad de una filosofía con matices ideológicos indígenas y nacionales.",
+          "B) La filosofía en Latinoamérica busca conocer y aplicar la filosofía occidental.",
+          "C) La filosofía en el Perú ha pasado por diferentes etapas de evolución intelectual.",
+          "D) Actualmente la filosofía en el Perú tiene diferentes estilos y corrientes actuales.",
+          "E) Pese a sus limitaciones la filosofía en Latinoamérica tiene mucha originalidad."
+        ],
+        "correct": 1,
+        "rationale": "Según lo expresado en el primer párrafo el sentido de la filosofía en Latinoamérica se desarrolla bajo una doble perspectiva, la de conocer y aplicar."
+      },
+      {
+        "statement": "3. La frase UNA DISCIPLINA EMINENTEMENTE TEÓRICA connota",
+        "alternatives": [
+          "A) el carácter fundamentalmente teórico de la filosofía clásica.",
+          "B) una visión cercana a lo religioso y tradicional en filosofía.",
+          "C) que la filosofía tiene una dimensión idealista y racional.",
+          "D) que la filosofía es un interrogar sobre cosas abstractas.",
+          "E) la búsqueda constante de sistemas de pensamiento."
+        ],
+        "correct": 4,
+        "rationale": "La autora sostiene que la filosofía en Latinoamérica ha buscado siempre sistemas de pensamiento antes que analizar la realidad, por eso es teórica."
+      },
+      {
+        "statement": "4. Se puede inferir que la autora del texto",
+        "alternatives": [
+          "A) tiene una visión crítica de la filosofía en Latinoamérica.",
+          "B) promueve un interés histórico y analítico de la realidad.",
+          "C) se inclinaría por un estudio de las diversas ideologías.",
+          "D) estaría de acuerdo con preferir las ideas racionalistas.",
+          "E) asume como adecuado el desenvolvimiento de la historia."
+        ],
+        "correct": 0,
+        "rationale": "la autora muestra una visión analítica pero sobre todo crítica del desarrollo de la filosofía en Latinoamérica."
+      },
+      {
+        "statement": "5. Si la filosofía latinoamericana hubiera tenido como elementos de reflexión factores inherentes a su realidad entonces",
+        "alternatives": [
+          "A) se transformaría en un saber más fácil o básico.",
+          "B) desembocaría en diferentes ideologías políticas.",
+          "C) hubieran más tendencias filosóficas en el país.",
+          "D) hubieran más partidos políticos y menos filosofía.",
+          "E) se habría ocupado de incluir el problema indígena."
+        ],
+        "correct": 4,
+        "rationale": "Según el texto la filosofía latinoamericana se ha desarrollado en un plano teórico lo que ha conllevado a soslayar el problema indígena, si la situación fuera contraria entonces el problema indígena se incluiría."
+      }
+    ]
+  }
+]

@@ -1,0 +1,717 @@
+[
+  {
+    "type": "reading_comprehension",
+    "statement": "Netflix Inc. superó brevemente a Walt Disney Co. en el valor del mercado bursátil el jueves último, desafiando al gigante de los parques temáticos por el título de la compañía de medios más valiosa. Las acciones del servicio de transmisión de video subieron 1,3 por ciento que corresponden a $ 349,29 mil millones en Nueva York (NY), elevando el límite de mercado de la compañía a $ 151,8 mil millones. Disney retrocedió 0,8 por ciento, cerrando con un valor de mercado de $ 152,2 mil millones. Este avance subraya la alta confianza que los inversores tienen en el futuro del servicio de video en línea pago más grande del mundo.",
+    "questions": [
+      {
+        "statement": "Se condice con la imagen afirmar que la compañía Walt Disney",
+        "alternatives": [
+          "A) iguala al valor de la empresa Netflix en enero de 2018.",
+          "B) en septiembre del año 2017 alcanzó su pico más alto.",
+          "C) alcanzó valores por 344,72 mil millones de dólares.",
+          "D) desde enero de 2018 no ha experimentado incremento.",
+          "E) ha experimentado un decremento alarmante en la bolsa."
+        ],
+        "correct": 3,
+        "rationale": null
+      },
+      {
+        "statement": "Del desarrollo textual y la imagen, podemos deducir que en el futuro, la empresa Netflix",
+        "alternatives": [
+          "A) vendería sus acciones a Walt Disney.",
+          "B) incursionaría en la industria musical.",
+          "C) se caracterizaría por su inconstancia.",
+          "D) podría contar con mayor inversión.",
+          "E) atravesaría inexorablemente una crisis."
+        ],
+        "correct": 3,
+        "rationale": null
+      }
+    ]
+  },
+  {
+    "type": "reading_comprehension",
+    "statement": "La búsqueda del secreto químico de la hoja de coca ha fascinado a los investigadores durante años. ¿Qué sustancia secreta es la que provee tanta chispa y energía al hombre? Cuando el Dr. Albert Niemann en 1850 descubre un alcaloide que nombra cocaína, la ciencia le atribuye todas las propiedades ocultas de la coca y el campo científico concentra sus investigaciones en este alcaloide al punto de cegar al hombre y llevarlo a ignorar los trece alcaloides restantes y el juego de sustancias con las que actúan dinámicamente, de manera que sus hallazgos abundan en conocimientos imperfectos y sus sesgadas conclusiones son una autoridad que lamentablemente se arrastran en el tiempo. La hoja de coca tiene una gran cantidad de sustancias químicas que actúan en conjunto, por lo tanto, un análisis aislado de cada alcaloide no es semejante al efecto de consumirlo en conjunto.",
+    "questions": [
+      {
+        "statement": "Es incompatible afirmar que la higrina se convierte en un estimulante adictivo porque",
+        "alternatives": [
+          "A) es generadora de oxígeno.",
+          "B) metaboliza grasas y glúcidos.",
+          "C) evita el soroche o mal de altura.",
+          "D) trabaja con el fósforo y calcio.",
+          "E) es un analgésico dermatológico."
+        ],
+        "correct": 0,
+        "rationale": null
+      },
+      {
+        "statement": "Del desarrollo textual y la infografía, podemos colegir que sería una decisión acertada consumir hoja de coca si se viaja por primera vez al departamento de Pasco, porque",
+        "alternatives": [
+          "A) gracias a la quinolina disolvería el calcio.",
+          "B) metaboliza las grasas y los carbohidratos.",
+          "C) evita la ralentización del proceso digestivo.",
+          "D) dicha planta contiene el alcaloide globulina.",
+          "E) regula la producción de la metanina en la piel."
+        ],
+        "correct": 3,
+        "rationale": null
+      }
+    ]
+  },
+  {
+    "type": "reading_comprehension",
+    "statement": "Rosa María Palacios además de calificar como un «lamento» la carta de renuncia de Pedro Pablo Kuczynski (PPK), quien no hizo más que entregar el país a un sector del fujimorismo (Kenji), provocando la furia del otro sector, quien no lo dejó gobernar, sostuvo que para Martín Vizcarra, como presidente de la república, existen dos caminos constitucionales: el primero es gobernar hasta el 2021, siempre y cuando establezca un pacto político con los opositores, y el segundo, hacer caso al pedido común de la población: «¡Que se vayan todos!». Para esta última opción, la conductora de Sin Guión consideró que es necesario un pacto político y una reforma constitucional mediante la cual se pueda convocar a elecciones generales. Asimismo, habló sobre los nombres que se vocean para el nuevo gabinete que está formando. Finalmente señaló que el éxito de su gobierno dependerá de con quienes trabaje y de cuál será su posición en la lucha contra la corrupción.",
+    "questions": [
+      {
+        "statement": "En el texto, la expresión EL OTRO SECTOR hace alusión a",
+        "alternatives": [
+          "A) los congresistas de oposición.",
+          "B) Keiko Fujimori y sus congresistas.",
+          "C) Alberto Fujimori y sus adeptos.",
+          "D) los miembros del partido aprista.",
+          "E) los congresistas del Frente Amplio."
+        ],
+        "correct": 1,
+        "rationale": "Con dicha expresión se hace mención a la otra ala del fujimorismo liderada por Keiko, quien, gracias a su mayoría parlamentaria, no dejó gobernar a PPK."
+      },
+      {
+        "statement": "De acuerdo con el desarrollo textual y la afirmación expresada por PPK en la caricatura, es compatible señalar que",
+        "alternatives": [
+          "A) Vizcarra debería coludir con las Fuerzas Armadas para así poder gobernar.",
+          "B) si Vizcarra carece de don de mando, es probable que no concluya su mandato.",
+          "C) Martín Vizcarra quiere salvar a Pedro Pablo Kuczynski de una muerte política.",
+          "D) los miembros del APRA son lo que están detrás del condicionamiento político.",
+          "E) los congresistas del Frente Amplio aguardan la caída inexorable de Vizcarra."
+        ],
+        "correct": 1,
+        "rationale": "El texto nos dice que, según Rosa María Palacios, la carta de renuncia de PPK se puede entender como un «lamento», en tanto prefirió entregarle el país a Kenji y no pudo gobernar porque los congresistas de Keiko no se lo permitieron. Asimismo, la caricatura nos muestra a un PPK advirtiéndole a Martín Vizcarra que por haber hecho caso a los dictámenes de cómo gobernar, terminó mal. En ese sentido, es compatible sostener que Martín Vizcarra de hacer caso a cómo tiene que gobernar, podría no concluir su gobierno."
+      },
+      {
+        "statement": "Si Pedro Pablo Kuczynski fuera quien gobernara el país hasta el 2021, es posible que se deba a",
+        "alternatives": [
+          "A) que Martín Vizcarra, en un gesto de gratitud, le haya devuelto el gobierno.",
+          "B) que haya sido capaz de tomar decisiones idóneas y pertinentes en su momento.",
+          "C) la elocuente defensa de su abogado durante su interpelación en el Congreso.",
+          "D) al hecho de comprobar su inocencia de los delitos imputados en su contra.",
+          "E) la injerencia que haya podido tener en la clasificación del Perú al mundial."
+        ],
+        "correct": 1,
+        "rationale": "Tanto el texto como la caricatura nos dicen que PPK fue defenestrado porque no tomó las mejores decisiones cuando debió haberlo hecho; en tal sentido, es posible pensar que, si de haberlo hecho, él sea quien gobierne el país hasta el 2021."
+      }
+    ]
+  },
+  {
+    "type": "reading_comprehension",
+    "statement": "La primera etapa del ciclo de la violencia doméstica, aumento de tensión, tiene una duración variable (días, semanas, meses o años). Durante esta, ocurren diferentes incidentes menores de agresión como gritos o peleas leves. Ante estos incidentes de menor escala, la mujer busca evitar cualquier conducta que pueda provocar al agresor: ella trata de calmarlo, porque tiene esperanza de que cambie. A veces, deliberadamente, «acepta sus abusos» y se niega a aceptar que está enojada por ser lastimada. Constantemente, busca excusas para culparse a sí misma y tiende a minimizar los incidentes. En los peores casos, la víctima encubre al agresor frente a terceros, cuando este se vuelve cada vez más irritable, violento y celoso. Con el aumento de tensión, se vuelven más comunes las amenazas y las humillaciones. Una vez que la tensión llega a ser insostenible, la violencia pasa a una segunda etapa donde se manifiesta a través de acciones concretas, que duran entre 2 a 24 horas aproximadamente. Este periodo puede ser descrito como la descarga incontrolable de las tensiones que se habían venido acumulando en la fase anterior. Esta etapa se caracteriza por la falta de control y la destructividad total: la víctima es cruelmente golpeada. Por lo general, las mujeres agredidas buscan un lugar seguro para esconderse y mantenerse distanciadas del agresor. Es común que, durante este periodo, los agresores se justifiquen culpando a sus esposas por la violencia que han ejercido contra ellas. Asimismo, se tiene evidencia que el varón agresor tiene control sobre su comportamiento violento y que descarga su ira selectivamente. Por lo general, en esta fase es cuando se denuncia la agresión y se busca apoyo. Luego de haber actuado violentamente contra su cónyuge, el agresor atraviesa por un periodo de arrepentimiento y de comportamiento cariñoso («luna de miel»). En esta etapa, el agresor se esfuerza por mantener un comportamiento cariñoso como muestra de arrepentimiento: pide perdón innumerables veces; promete no reincidir en conductas violentas, aunque, sutilmente, sostiene que estas no volverán a suceder siempre y cuando la conducta de su esposa «cambie». En esta etapa, la tensión se ha desvanecido. Por lo general, las mujeres se sienten confiadas y estrechan la relación de dependencia víctima-agresor que mantienen con sus parejas. Durante el tiempo que dura este periodo, a veces, las mujeres agredidas retiran las denuncias que han interpuesto.",
+    "questions": [
+      {
+        "statement": "En esencia, el texto indica que la violencia doméstica",
+        "alternatives": [
+          "A) pasa por tres etapas que pueden ser observadas como procesos autónomos.",
+          "B) demanda un enorme esfuerzo de la víctima para quebrar su proceso natural.",
+          "C) tiene que ser analizada en cada uno de sus tres periodos para ser asimilada.",
+          "D) supone que el agresor de forma deliberada busca reconciliarse con su pareja.",
+          "E) atraviesa por un ciclo de tres etapas que puede desencadenar dependencia."
+        ],
+        "correct": 4,
+        "rationale": "La idea principal del texto incide en la necesidad de observar la violencia doméstica como un ciclo que, si se mantiene por mucho tiempo, puede generar una dependencia víctima-agresor."
+      },
+      {
+        "statement": "En el texto la expresión en DE MENOR ESCALA sugiere falta de",
+        "alternatives": [
+          "A) conmiseración.",
+          "D) ensañamiento.",
+          "B) alevosía.",
+          "E) autoestima.",
+          "C) inteligencia."
+        ],
+        "correct": 1,
+        "rationale": "Ensañar significa «deleitarse en causar daño a quien ya no puede defenderse». Si la violencia ejercida por el agresor es DE MENOR ESCALA, no ha llegado aún al ensañamiento contra la víctima."
+      },
+      {
+        "statement": "De la observación del gráfico, se puede inferir que las respuestas de la víctima de violencia doméstica",
+        "alternatives": [
+          "A) permiten postular la hipótesis de que ella deliberadamente busca las agresiones.",
+          "B) podrían servir para definir los rasgos característicos de todo agresor de mujeres.",
+          "C) sugieren que ella se preocupa por mantener el vínculo con su agresor ante todo.",
+          "D) justifican la intervención de un psicoanalista especializado en peleas conyugales.",
+          "E) refrendan que el origen de la violencia se debe únicamente a factores genéticos."
+        ],
+        "correct": 4,
+        "rationale": "Las respuestas en cada una de las etapas consignadas en el gráfico dejan entrever que la víctima actúa, por lo general, con el propósito de impedir la ruptura definitiva"
+      }
+    ]
+  },
+  {
+    "type": "reading_comprehension",
+    "statement": "La llegada de los borbones a la corona española significó el inicio de una serie de reformas que tuvieron repercusión decisiva en Hispanoamérica durante la segunda mitad del siglo XVIII. Destinadas a reorganizar el funcionamiento del sistema colonial, estas medidas incidieron en los más diversos aspectos de la sociedad, desde la economía hasta la cultura. Aunque la historiografía ha profundizado mucho en los temas vinculados a este periodo, no obstante, poco se sabe del impacto de estas reformas en la estructura urbana para el caso limeño.\n\nEn el ámbito urbano, los virreyes borbones propiciaron una drástica alteración del uso oficial de la ciudad. Estos, preocupados en modificar la administración del sistema colonial de acuerdo a las exigencias internacionales, utilizaron cada centro urbano como un elemento clave; así, por un lado, impulsaron la creación de nuevas ciudades con el fin de reconquistar territorios; y por otro, incidieron decisivamente en las urbes existentes con el fin de transformarlas en centros de irradiación del mensaje colonial.\n\nEn palabras del virrey Marqués de Avilés, por ejemplo, Lima era «el centro de donde se deriva la ilustración y el modelo que arregla las restantes provincias del Reino», en tal sentido, teniendo al continente como contexto, esta titánica tarea tuvo en cada ciudad un escenario privilegiado. No solo se apuntó hacia un refinamiento de los mecanismos de vigilancia o policía urbana con la subdivisión de la ciudad en cuarteles y barrios y la introducción de nuevas autoridades, sino que también se intentó utilizar los elementos físicos urbanos como instrumentos pedagógicos. Así, la organización de la ciudad bajo parámetros cartesianos y la construcción de suntuosos edificios oficiales de estilo neoclásico eran concomitantes con la reorganización social a intramuros y debían trasmitir un mensaje unívoco que contribuyera a civilizar a sus habitantes, tal como lo indicaba una orden oficial de la época: «no se admitirán más bestias chúcaras dentro de la ciudad».\n\nDe esta manera, durante la segunda mitad del siglo XVIII, desde México hasta Chile, iban apareciendo una serie de novedades urbanas análogas (coliseos, parques públicos, cementerios a extramuros, teatros) bajo la sombra de reglamentos que normaban la forma de utilizar la ciudad.\n\nRAMÓN, Gabriel (1999). «Urbe y orden: evidencias del reformismo borbónico en el tejido limeño». En: O’Phelan Godoy, Scarlett. El Perú en el siglo XVIII. La era borbónica. Lima: PUCP e IRA, pp. 295-324.\nResumido.",
+    "questions": [
+      {
+        "statement": "La intención principal del autor es",
+        "alternatives": [
+          "A) contar los principales cambios llevados a cabo en las principales ciudades del virreinato.",
+          "B) dilucidar en qué consistían los cambios urbanísticos de las reformas borbónicas en Lima.",
+          "C) establecer un paralelo entre los cambios sociales del virreinato del Perú y el de México.",
+          "D) cuestionar la falta de precisión del conocimiento del pasado colonial en América Latina.",
+          "E) analizar el impacto de las reformas borbónicas en la política y sociedad de España."
+        ],
+        "correct": 1,
+        "rationale": "A lo largo del texto el autor se centra en explicarnos el trasfondo de las reformas urbanísticas que se implementaron en el virreinato peruano durante la España borbónica."
+      },
+      {
+        "statement": "En el texto, el término «DECISIVAMENTE», implica",
+        "alternatives": [
+          "A) contemplación.",
+          "D) temperación.",
+          "B) reflexión.",
+          "E) volición.",
+          "C) vacilación."
+        ],
+        "correct": 4,
+        "rationale": "Dicho término trasmite la idea que las autoridades virreinales llevaron a cabo una serie de acciones en las ciudades existentes para transformarlas de acuerdo a los objetivos que perseguían en función a sus intereses; en ese sentido, hubo voluntad por parte de ellos."
+      }
+    ]
+  },
+  {
+    "type": "sentence_elimination",
+    "statement": "De la observación del gráfico, se puede inferir que las respuestas de la víctima de violencia doméstica",
+    "alternatives": [
+      "A) permiten postular la hipótesis de que ella deliberadamente busca las agresiones.",
+      "B) podrían servir para definir los rasgos característicos de todo agresor de mujeres.",
+      "C) sugieren que ella se preocupa por mantener el vínculo con su agresor ante todo.",
+      "D) justifican la intervención de un psicoanalista especializado en peleas conyugales.",
+      "E) refrendan que el origen de la violencia se debe únicamente a factores genéticos."
+    ],
+    "correct": 2,
+    "rationale": "Las respuestas en cada una de las etapas consignadas en el gráfico dejan entrever que la víctima actúa, por lo general, con el propósito de impedir la ruptura definitiva con su agresor."
+  },
+  {
+    "type": "sentence_elimination",
+    "statement": "Respecto a la tercera etapa del ciclo de la violencia doméstica, no es congruente sostener que el agresor evita formular todo tipo de amenaza, porque",
+    "alternatives": [
+      "A) atraviesa por una extensa etapa de profundo arrepentimiento y conmiseración.",
+      "B) de manera velada, todavía insinúa que la víctima es quien provoca la violencia.",
+      "C) pide clemencia para evitar que las fuerzas del orden procedan con su captura.",
+      "D) al reducirse la tensión, la relación de la pareja se desgasta de forma definitiva.",
+      "E) siempre se comporta cariñosamente para recuperar la confianza de la víctima."
+    ],
+    "correct": 1,
+    "rationale": "El agresor, según informa el texto, desliza en su discurso la posibilidad de reiniciar los actos de violencia si la conducta de la esposa no cambia. Esto supone que el agresor no ha dejado de amenazar por completo a su víctima."
+  },
+  {
+    "type": "sentence_elimination",
+    "statement": "Si, luego de haberle gritado, un esposo decidiera traerle un ramo de rosas a su pareja,",
+    "alternatives": [
+      "A) se podría afirmar que aún se hallan en la primera etapa del ciclo de la violencia.",
+      "B) se darían las condiciones necesarias para plantear el fin de su vínculo conyugal.",
+      "C) sería necesaria la intervención policial para expulsar al varón agresor del hogar.",
+      "D) su relación como pareja, con seguridad, habría fracasado por falta de concordia.",
+      "E) con certeza el grito solo anticiparía futuros ataques contra las mujeres del hogar."
+    ],
+    "correct": 0,
+    "rationale": "Dado que únicamente el esposo le ha gritado a su pareja, se puede suponer, al tratarse de una agresión de menor escala, que todavía se encuentran en la primera etapa del ciclo de la violencia doméstica."
+  },
+  {
+    "type": "reading_comprehension",
+    "statement": "Dicho término trasmite la idea que las autoridades virreinales llevaron a cabo una serie de acciones en las ciudades existentes para transformarlas de acuerdo a los objetivos que perseguían en función a sus intereses; en ese sentido, hubo voluntad por parte de ellos.",
+    "questions": [
+      {
+        "statement": "Es posible deducir del desarrollo textual que el conocimiento de la historia del Perú colonial aún está lejos de ser cabal, porque",
+        "alternatives": [
+          "A) todos los historiadores han desdeñado la historia social y demográfica del imperio español.",
+          "B) el conocimiento sobre el impacto de las reformas borbónicas en la urbanidad es escaso.",
+          "C) a los virreyes del Perú no les interesó llevar a cabo programas de reformas en la capital.",
+          "D) las reformas borbónicas del siglo XVIII no contemplaban cambios urbanísticos en Lima.",
+          "E) algunos historiadores consideran ignominioso desarrollar pesquisas del periodo colonial."
+        ],
+        "correct": 1,
+        "rationale": "El texto señala que «aunque la historiografía ha profundizado mucho en los temas vinculados a este periodo, no obstante, poco se sabe del impacto de estas reformas en la estructura urbana para el caso limeño»."
+      },
+      {
+        "statement": "De los cambios impulsados por los virreyes borbones para alterar el uso oficial de la ciudad, es incongruente señalar que",
+        "alternatives": [
+          "A) estaban enmarcadas en el contexto internacional.",
+          "B) hicieron de las ciudades centros estratégicos.",
+          "C) conllevaron a la fundación de nuevas ciudades.",
+          "D) las ciudades permitieron difundir el mensaje colonial.",
+          "E) se limitaron a la fundación de nuevas ciudades."
+        ],
+        "correct": 4,
+        "rationale": "El texto nos dice que «los virreyes borbones propiciaron una drástica alteración del uso oficial de la ciudad» mediante dos mecanismos: la fundación de nuevas ciudades y la incidencia en las existentes; en ese sentido, es erróneo decir que se limitó solo a la fundación de ciudades."
+      },
+      {
+        "statement": "Si los programas de reformas urbanísticas implementados a mediados del siglo XVIII en el virreinato peruano, hubiesen desdeñado difundir un mensaje orientado a civilizar a los habitantes de la ciudad, es posible que",
+        "alternatives": [
+          "A) el proceso independentista se hubiese adelantado.",
+          "B) los indios y negros hubiesen alzado su voz de protesta.",
+          "C) las conductas de los habitantes hayan sido permisibles.",
+          "D) la élite limeña hubiese migrado al virreinato de México.",
+          "E) pueda comprobarse la desidia de los últimos virreyes."
+        ],
+        "correct": 2,
+        "rationale": "El texto nos dice que los cambios implementados en el espacio urbano buscaban difundir el mensaje oficial orientado a civilizar a los habitantes, mediante órdenes y reglamentos oficiales que restringían y normaban las conductas de las personas dentro de la ciudad."
+      }
+    ]
+  },
+  {
+    "type": "reading_comprehension",
+    "statement": "Suele ocurrir a menudo que las doctrinas que se contradicen, en lugar de ser la una verdadera y la otra falsa, comparten ambas la verdad; entonces, la opinión disidente es necesaria para completar el resto de la verdad, de la cual, solo una parte es poseída por la doctrina aceptada. Las opiniones populares, sobre cualquier punto que no sea cognoscible por los sentidos, son a menudo verdaderas, pero casi nunca lo son de modo completo. Ellas contienen una parte de la verdad (bien sea grande, bien pequeña) pero exagerada, desfigurada y separada de las verdades que deberían acompañarla y limitarla. De otro lado, las opiniones heréticas contienen generalmente algunas de estas verdades suprimidas y abandonadas que, rompiendo sus cadenas, o bien intentan reconciliarse con la verdad contenida en la opinión común, o bien la afrontan como enemiga y se elevan contra ella, afirmándose de manera tan exclusiva como toda la verdad completa. Este segundo caso ha sido el más común hasta el presente, pues en la mente humana la unilateralidad ha sido siempre la regla y la pluralidad, la excepción. De ahí que, ordinariamente, incluso en los cambios de opinión que la humanidad experimenta, una parte de la verdad se oscurezca mientras aparece otra parte de ella. El progreso mismo, que debería sobreañadirse a la verdad, la mayor parte del tiempo no hace más que sustituir una verdad parcial e incompleta por otra. Tal mejora consiste simplemente en que el nuevo fragmento de verdad es más necesario, está mejor adaptado a la necesidad del momento, que aquel a quien reemplaza. Este es el carácter parcial de las opiniones dominantes, incluso, cuando reposan sobre una base justa: así, pues, toda opinión que representa algo, por poco que sea, de la verdad que descuida la opinión común, debería ser considerada como preciosa, aunque esta verdad llegase a estar mezclada con algunos errores. Ningún hombre sensato sentirá indignación por el hecho de que aquellos que nos obligan a preocuparnos de ciertas verdades, que de no ser por ellos se nos hubieran pasado inadvertidas, se descuiden a su vez de algunas que nosotros tenemos bien en cuenta.\n\nMILL, John. S. (2017). Sobre la libertad de pensamiento y de discusión. Plan Lector. Lima: Centro",
+    "questions": [
+      {
+        "statement": "En este fragmento, Stuart Mill defiende medularmente que",
+        "alternatives": [
+          "A) el mínimo de verdad de una opinión debería asegurar su valía para la comunidad.",
+          "B) las opiniones auténticas son cruciales para la consecución del anhelado progreso.",
+          "C) la verdad de la sentencia popular se caracteriza por ser generalmente incompleta.",
+          "D) las opiniones dominantes en el mundo se distinguen por su parcialidad constante.",
+          "E) debe evaluarse la posibilidad de soslayar los defectos de las opiniones disidentes."
+        ],
+        "correct": 0,
+        "rationale": "En el texto, Stuart Mill ofrece una defensa del mínimo de verdad como condición para valorar positivamente cualquier opinión. Para él, «toda opinión que representa algo, por poco que sea, de la verdad que descuida la opinión común, debería ser considerada como preciosa»."
+      },
+      {
+        "statement": "En el texto, el término OSCURECER se entiende como",
+        "alternatives": [
+          "A) conculcar.",
+          "D) obliterar.",
+          "B) opacar.",
+          "E) invalidar.",
+          "C) soslayar."
+        ],
+        "correct": 2,
+        "rationale": "El término en cuestión, OSCURECER, se entiende como «dejar de lado» u «omitir», es decir, «soslayar»."
+      }
+    ]
+  },
+  {
+    "type": "reading_comprehension",
+    "statement": "La narrativa de José María Arguedas no es la que mejor ilustra al Indigenismo literario.\nTampoco constituye su realización más acabada. Por el contrario, la narrativa de Arguedas permite evidenciar las características discursivas del Indigenismo, porque las desborda, las contradice y las desbarata. Así, por ejemplo, el modo de enunciación que caracteriza a la novela indigenista se halla marcado por la distancia entre el narrador y el mundo representado, que además conlleva en paralelo la distancia entre el autor y el referente. El Indigenismo producía una distancia entre el narrador y el mundo representado, construyendo una imagen que ocultaba y borraba o que no atendía (no escuchaba, no acogía) al otro cultural. Esto traía como consecuencia la construcción de la autoridad cultural de la propia mirada y la imposición desde el exterior de una representación que violentaba la posibilidad de autorrepresentación del otro, especialmente en la narrativa influida por el realismo burgués, como se daba en la narrativa regional latinoamericana.\n\nPor el contrario, la narrativa de Arguedas postulaba una identificación entre el narrador y el mundo representado, sustentada en la experiencia que se tiene del otro y en el compromiso ético que lo relacionaba con él. De ahí la naturaleza testimonial que se observa en su narrativa, que se abre a lo autobiográfico y se ejercita como escritura de la traducción cultural. Pero, no es simplemente la experiencia del mundo andino como la experiencia de vivir dentro de este, lo cual excluiría a cualquier otro escritor que no hubiera vivido en las comunidades y pueblos andinos como lo hizo Arguedas, sino la experiencia del otro como lo que el otro significa para el que escribe y lo expresa, como la manera en que el otro llega a él y le dice, como la manera en que el escritor padece al otro que lo afecta. De esta forma era y es posible hacer presente la experiencia como el abrazo y la «voz» del indio que alcanza al escritor. Así, la escritura de Arguedas no sólo se erigía como «porta-voz» de la voz del indio, sino que también se silenciaba, le cedía la palabra, y hacía presente la dimensión cognitiva de esta «voz» y de la voz del mundo que canta y cuenta. Esta es la diferencia fundamental de la narrativa de Arguedas con cualquier indigenismo y neo-indigenismo.\n\nRIVERA, F. (2010). El indio no es un indio: el indigenismo y la narrativa de Arguedas, revisitados. Revista de Crítica Literaria Latinoamericana. Año XXXVI, (72), pp. 210-211. Adaptado.",
+    "questions": [
+      {
+        "statement": "La tesis central planteada en el texto sostiene que",
+        "alternatives": [
+          "A) la experiencia del otro andino en la obra arguediana es radicalmente prístina.",
+          "B) la brecha entre el autor y el mundo ficcional es nula en la novela arguediana.",
+          "C) la obra narrativa de Arguedas escapa a los códigos del Indigenismo literario.",
+          "D) la índole autobiográfica de la narrativa de Arguedas es ajena al Indigenismo.",
+          "E) la obra de Arguedas busca identificar al narrador con el mundo representado."
+        ],
+        "correct": 2,
+        "rationale": "Según el autor, la narrativa de Arguedas se aleja de la estética planteada por el Indigenismo literario. Para defender su posición, el autor evalúa el modo de enunciación de las novelas indigenistas y lo compara con el que predomina en la obra arguediana."
+      },
+      {
+        "statement": "En el texto, la expresión DESDE EL EXTERIOR supone",
+        "alternatives": [
+          "A) incomprensión.",
+          "D) indignación.",
+          "B) imprecisión.",
+          "E) ignorancia.",
+          "C) negligencia."
+        ],
+        "correct": 0,
+        "rationale": "Se afirma en el texto que DESDE EL EXTERIOR se impone «una representación que violentaba la posibilidad de autorrepresentación del otro». Esta imposición supone una incomprensión por parte del autor indigenista hacia el otro andino."
+      }
+    ]
+  },
+  {
+    "type": "reading_comprehension",
+    "statement": "Se afirma en el texto que DESDE EL EXTERIOR se impone «una representación que violentaba la posibilidad de autorrepresentación del otro». Esta imposición supone una incomprensión por parte del autor indigenista hacia el otro andino.",
+    "questions": [
+      {
+        "statement": "De la descripción de la narrativa arguediana propuesta en el texto, es válido inferir que",
+        "alternatives": [
+          "A) esta solo es inteligible para aquellos que han habitado en la zona andina.",
+          "B) la obra de Arguedas se mantiene alejada de la problemática sociocultural.",
+          "C) la escritura arguediana se erigía como «porta-voz» de la voz del indígena.",
+          "D) Arguedas sospechaba de la identificación entre el narrador y su universo.",
+          "E) existe una relación entre el componente emocional y el componente ético."
+        ],
+        "correct": 4,
+        "rationale": "Para el autor, el modo de enunciación practicado por Arguedas halla su fundamento «en la experiencia que se tiene del otro y en el compromiso ético que lo relacionaba con él». Luego, en su explicación, el autor describe esta experiencia «como la manera en que el escritor padece al otro que lo afecta»."
+      },
+      {
+        "statement": "Respecto al Indigenismo literario es incongruente sostener que",
+        "alternatives": [
+          "A) en sus narraciones la autoridad cultural mantiene un claro sesgo occidental.",
+          "B) es un código estético que supone una apertura cultural hacia el otro andino.",
+          "C) soslayó la posibilidad de que los indios pudieran representarse a sí mismos.",
+          "D) es una tendencia donde prevalece la distancia entre el narrador y su mundo.",
+          "E) de alguna manera, constituye una práctica narrativa que rechaza el diálogo."
+        ],
+        "correct": 1,
+        "rationale": "Desde la postura del autor, la apertura cultural hacia el otro andino es un rasgo distintivo de la narrativa arguediana y, por lo general, ajeno al Indigenismo literario."
+      },
+      {
+        "statement": "Si alguien aseverara que, para escribir sus novelas, Arguedas empleó la variante lingüística conocida como español andino,",
+        "alternatives": [
+          "A) el autor evidenciaría su desazón, ya que este hecho refuta la tesis de un Arguedas indigenista.",
+          "B) el distanciamiento que proponen las novelas indigenistas quedaría inhabilitado permanentemente.",
+          "C) la creación de una posición culturalmente apta para comprender al otro andino sería inaceptable.",
+          "D) podría sostenerse que este tipo de escritura se relaciona con la práctica de ceder la palabra al otro.",
+          "E) sería necesario replantear el compromiso ético que proponen las novelas neo-indigenistas de hoy."
+        ],
+        "correct": 3,
+        "rationale": "Para el autor, la escritura de Arguedas, a veces, optaba por el silencio para cederle la palabra-voz al otro andino. El empleo del español andino puede comprenderse dentro de esta lógica: escribir-representar la voz de aquel que vive en los Andes."
+      }
+    ]
+  },
+  {
+    "type": "reading_comprehension",
+    "statement": "Tanto en el Discurso del Método, como en las Meditaciones metafísicas, Descartes afirma que la certeza del conocimiento solo es posible en la medida de que se produce una distancia entre el sujeto conocedor y el objeto conocido. Entre mayor sea la distancia del sujeto frente al objeto, mayor será la objetividad. Descartes pensaba que los sentidos constituyen un «obstáculo epistemológico» para la certeza del conocimiento y que, por tanto, esa certidumbre solamente podía obtenerse en tanto que la ciencia pudiera fundamentarse en un ámbito incontaminado por lo empírico y situado fuera de toda duda. Los olores, los sabores, los colores, en fin, todo aquello que tenga que ver con la experiencia corporal, constituyen para Descartes un óbice para el conocimiento y debe ser, por ello, expulsado del paraíso de la ciencia y condenado a vivir en el infierno de la doxa. El conocimiento verdadero (episteme) debe fundamentarse en un ámbito incorpóreo, que no puede ser otro sino el cogito. Y el pensamiento, en opinión de Descartes, es un ámbito metaempírico que funciona con un modelo que nada tiene que ver con la sabiduría práctica y cotidiana de los hombres. Es el modelo abstracto de las matemáticas. Por ello, la certeza del conocimiento solo es posible si se asienta en un punto de observación inobservado, previo a la experiencia, que debido a su estructura matemática no puede ser colocado en duda bajo ninguna circunstancia. En efecto, Descartes is convinced that the key to understanding the universe lies in the mathematical structure of thought, y que esta estructura coincidía con la estructura matemática de la realidad. La visión del universo como un todo orgánico, vivo y espiritual, fue reemplazada por la concepción de un mundo similar a una máquina. Por ello, Descartes privilegia el método de razonamiento analítico como el único adecuado para entender la naturaleza. El análisis consiste en dividir el objeto en partes, desmembrarlo, reducirlo al mayor número de fragmentos, para luego recomponerlo según un order lógico-matemático. Para Descartes, como luego para Newton, el universo materiales como una máquina en la que no hay vida, ni telos, ni mensaje moral de ningún tipo, sino tan solo movimientos y ensamblajes que pueden explicarse de acuerdo a la disposición lógica de sus partes. Descartes está convencido de que la clave para entender el universo se hallaba en la estructura matemática del pensamiento, y que esta estructura coincidía con la estructura matemática de la realidad. CASTRO-GÓMEZ, S. (2007). Decolonizar la universidad. La hybris del punto cero y el diálogo de saberes. SAAVEDRA, José Luis (Comp.). Educación superior, interculturalidad y descolonización. La Paz: Fundación PIED, pp. 295-296.",
+    "questions": [
+      {
+        "statement": "1. Marque la alternativa que consigne la mejor síntesis del texto.",
+        "alternatives": [
+          "A) En su búsqueda de la certeza, Descartes postuló que el conocimiento debe fundarse en el pensamiento, que posee una estructura matemática como la realidad, y, con ello, contribuyó a instaurar una concepción maquínica del mundo.",
+          "B) Comprender la naturaleza primordial del universo convoca la capacidad matemática del ser humano y su conocimiento de la estructura de la realidad entendida principalmente como una máquina que razona de forma analítica.",
+          "C) Descartes privilegió el método analítico de razonamiento, que consiste en dividir la materia en múltiples fragmentos, para después realizar una recomposición según un orden que considera principalmente sus características matemáticas.",
+          "D) Para Descartes, la certeza del conocimiento solo es factible si se fundamenta en un punto de observación inobservado, previo a cualquier contacto empírico con las fuerzas de la naturaleza y el mundo social habitado por diferentes culturas.",
+          "E) Tanto Descartes como, posteriormente, Newton consiguieron comprender a cabalidad la estructura secreta del universo según los postulados de las matemáticas, la física y la mecánica conocidas desde mediados del siglo XVII."
+        ],
+        "correct": 0,
+        "rationale": "El texto indica que la fundamentación filosófica de la certeza del conocimiento emprendida por Descartes encontró su piedra de toque en la estructura matemática del pensamiento y permitió implantar una concepción del mundo como una máquina."
+      },
+      {
+        "statement": "2. El antónimo contextual del término PRIVILEGIAR es",
+        "alternatives": [
+          "A) suspender.",
+          "D) suministrar.",
+          "B) soslayar.",
+          "E) conceder.",
+          "C) aniquilar."
+        ],
+        "correct": 2,
+        "rationale": "Se indica que «Descartes PRIVILEGIA» un método de razonamiento. En otras palabras, el filósofo francés toma en consideración, en primer lugar, un método específico. El antónimo, así, supondría que Descartes «pasa por alto», soslaya, tal metodología."
+      },
+      {
+        "statement": "3. Según la cita en inglés, para Descartes la posibilidad de conocer",
+        "alternatives": [
+          "A) se remonta a la fusión entre estructura matemática y realidad en el mundo griego.",
+          "B) requiere la compresión de la estructura del pensamiento en códigos matemáticos.",
+          "C) se halla determinada por la coincidencia última entre el pensamiento y la realidad.",
+          "D) incide en la conceptualización de todo pensamiento sobre la realidad circundante.",
+          "E) implica un abandono completo de la metafísica que predominó durante Medioevo."
+        ],
+        "correct": 2,
+        "rationale": "La cita afirma que «la clave para entender el universo se hallaba en la estructura matemática del pensamiento, y que esta estructura coincidía con la estructura matemática de la realidad»."
+      }
+    ]
+  },
+  {
+    "type": "reading_comprehension",
+    "statement": "Se indica que «Descartes PRIVILEGIA» un método de razonamiento. En otras palabras, el filósofo francés toma en consideración, en primer lugar, un método específico. El antónimo, así, supondría que Descartes «pasa por alto», soslaya, tal metodología.",
+    "questions": [
+      {
+        "statement": "Según la cita en inglés, para Descartes la posibilidad de conocer",
+        "alternatives": [
+          "A) se remonta a la fusión entre estructura matemática y realidad en el mundo griego.",
+          "B) requiere la compresión de la estructura del pensamiento en códigos matemáticos.",
+          "C) se halla determinada por la coincidencia última entre el pensamiento y la realidad.",
+          "D) incide en la conceptualización de todo pensamiento sobre la realidad circundante.",
+          "E) implica un abandono completo de la metafísica que predominó durante Medioevo."
+        ],
+        "correct": 2,
+        "rationale": "Dicha cita, en español, asevera que «Descartes está convencido de que la clave para entender el universo se hallaba en la estructura matemática del pensamiento, y que esta estructura coincidía con la estructura matemática de la realidad». Por ende, la posibilidad de conocer se encuentra determinada por la coincidencia entre el pensar y lo real."
+      },
+      {
+        "statement": "4. No se condice con el texto postular que Descartes apostó por una definición del interrelacionan la que sus elementos se totalidad en universo como una orgánicamente, puesto que",
+        "alternatives": [
+          "A) apeló a la necesidad de constituir una metodología unívoca para resolver los retos científicos que le impuso la época en que le tocó vivir.",
+          "B) estimó que la matriz matemática que articula el universo solo es aprehensible por un método que concite toda la atención del observador.",
+          "C) propugnó la idea de que la certeza del conocimiento solo es posible en la medida de que se reduce la distancia entre el sujeto y el objeto.",
+          "D) consideró que, al igual que una máquina, este se encuentra constituido por partes que pueden ser separadas por el razonamiento analítico.",
+          "E) persistió en el ideal de proponer el método de razonamiento analítico como el único viable para el desarrollo de las ciencias naturales."
+        ],
+        "correct": 3,
+        "rationale": "En el texto, se afirma que el pensamiento de Descartes contribuyó a concebir el mundo como si fuera una máquina, cuyas partes pudieran ser fácilmente desmontables por el análisis racional."
+      },
+      {
+        "statement": "5. Si el proyecto filosófico de Descartes, desde un inicio, hubiera renunciado a la búsqueda de la certeza del conocimiento,",
+        "alternatives": [
+          "A) la aplicación del método de razonamiento analítico habría sido desestimado por los seguidores del racionalismo cartesiano.",
+          "B) la racionalidad de las estructuras matemáticas que definen la realidad quedaría demostrada taxativamente por la epistemología.",
+          "C) el pensamiento occidental habría conservado hasta la actualidad una concepción del universo como un todo orgánico y espiritual.",
+          "D) el conocimiento verdadero se fundamentaría en un ámbito ajeno a lo corpóreo como el pensamiento de estructura matemática.",
+          "E) el requisito de fundamentar la posibilidad de conocimiento fiable en un punto de observación inobservado sería implausible."
+        ],
+        "correct": 4,
+        "rationale": "La búsqueda de la certeza del conocimiento emprendida por Descartes desembocó en la necesidad de fundamentarlo en el pensamiento, según el modelo abstracto de las matemáticas, como si este fuera un punto de observación inobservado."
+      }
+    ]
+  },
+  {
+    "type": "synonyms_and_antonyms",
+    "statement": "DESARROLLO LÉXICO PARA LA COMPRENSIÓN LECTORA I. Revise detenidamente las series que vienen a continuación y marque la alternativa correcta.\n\n1. Elija la tríada de sinónimos",
+    "alternatives": [
+      "A) rústico, zafio, sofisticado",
+      "C) bruñido, lustroso, afable",
+      "E) raudo, vertiginoso, proceloso",
+      "B) gandul, protervo, holgazán",
+      "D) súbito, imprevisto, inopinado"
+    ],
+    "correct": 4,
+    "rationale": "Las tres palabras constituyen sinónimos de «repentino» o «inesperado»."
+  },
+  {
+    "type": "synonyms_and_antonyms",
+    "statement": "DESARROLLO LÉXICO PARA LA COMPRENSIÓN LECTORA I. Revise detenidamente las series que vienen a continuación y marque la alternativa correcta.\n\n2. Primigenio, ancestral, primordial,",
+    "alternatives": [
+      "A) perspicuo.",
+      "B) prístino.",
+      "C) munificente.",
+      "D) edulcorado.",
+      "E) azulado."
+    ],
+    "correct": 1,
+    "rationale": "«Prístino» significa «antiguo, primero, primitivo y original»: se refiere a aquello que en un principio, a lo originario."
+  },
+  {
+    "type": "verbal_series",
+    "statement": "3. Voluble, veleidoso; inope, indigente; agrio,",
+    "alternatives": [
+      "A) melifluo.",
+      "B) solemne.",
+      "C) acre.",
+      "D) hosco",
+      "E) remiso."
+    ],
+    "correct": 2,
+    "rationale": "La serie está constituida por pares de sinónimos. «Agrio» se refiere, en su tercera acepción, a aquello que es «acre, áspero y desabrido»."
+  },
+  {
+    "type": "verbal_series",
+    "statement": "4. Sagaz, astuto, taimado,",
+    "alternatives": [
+      "A) gaznápiro",
+      "D) capcioso",
+      "B) menesteroso",
+      "E) tunante",
+      "C) racional"
+    ],
+    "correct": 3,
+    "rationale": "Se trata de una serie verbal conformada por tres sinónimos inscritos en el campo semántico de la astucia."
+  },
+  {
+    "type": "verbal_series",
+    "statement": "5. Complete con sinónimos respectivos la siguiente serie verbal:",
+    "alternatives": [
+      "A) vacilar, importunar, esquivar.",
+      "C) azuzar, atenuar, hincar.",
+      "E) afirmar, calmar, enfrentar.",
+      "B) barruntar, molestar, soslayar.",
+      "D) concitar, estimular, morigerar."
+    ],
+    "correct": 0,
+    "rationale": "La serie se completa con los siguientes términos: vacilar, importunar y esquivar."
+  },
+  {
+    "type": "verbal_series",
+    "statement": "6. Alborozo, algarabía; desasosiego, remanso; acicate, estímulo;",
+    "alternatives": [
+      "A) estulticia, inteligencia.",
+      "C) vergüenza, rubor.",
+      "E) calígine, oscuridad.",
+      "B) fuerza, estabilidad.",
+      "D) lasitud, astenia."
+    ],
+    "correct": 0,
+    "rationale": "La serie es mixta: presenta sinónimos y antónimos, en ese orden. «Estulticia» significa «necedad, tontería». Por ello, puede fungir como antónimo de «inteligencia»."
+  },
+  {
+    "type": "verbal_series",
+    "statement": "7. Complete con los antónimos respectivos la siguiente serie verbal:",
+    "alternatives": [
+      "A) aturdir, emancipar, desarmar",
+      "C) apremiar, aherrojar, atrofiar",
+      "E) ralentizar, esclavizar, desproteger",
+      "B) lentificar, eximir, inquietar",
+      "D) apaciguar, acicatear, recular"
+    ],
+    "correct": 2,
+    "rationale": "Los antónimos respectivos para completar la serie verbal son los términos «ralentizar, esclavizar y desproteger», en ese orden."
+  },
+  {
+    "type": "reading_comprehension",
+    "statement": "La superioridad racial del europeo, esgrimida como argumento para revitalizar la leyenda de la conquista del Perú, brotó en el siglo XVI, pero es en el XIX cuando cobró verdadero valor. Morton (1829) sostiene que «las cabezas de los indígenas comunes del Perú acusan un claro índice de estupidez». El estadounidense Charles. F. Lummis, por su parte, afirma que el solo hecho de haber estado el Perú poblado por indios es una prueba palmaria de su inferioridad total, es decir, para este estudioso, los incas fueron incapaces de constituir un reino y forjar una alta cultura:\n\nPara comprender lo que fue la conquista del Tahuantinsuyo, es menester realizar un esbozo del Perú. Nos han contado que el Perú era un gran imperio, opulento, populoso y civilizado; que era gobernado por una extensa serie de reyes incas; que eran conquistadores de vastos territorios y que tenían caminos militares, mejores que los que construyeron los romanos. Sobre todo se nos ha hablado mucho del largo linaje de monarcas incas, cuyo último rey fue Huayna Cápac, cuyos hijos, Huáscar y Atahualpa, se enfrentaron entre sí por la corona imperial. Que Pizarro azuzó a un hermano contra el otro a fin de conquistar el imperio. Pero todo esto, con otras mil cosas igualmente ridículas, son falsedades que se han escrito, basadas en la más supina ignorancia de aquel país y de sus habitantes, porque hay que recordar que aquellos «sorprendentes» seres no eran más que indios (Lummis, 1893, 100).\n\nTales afirmaciones subjetivas, con el desarrollo de la Antropología y de la Etnohistoria, han quedado desmanteladas, de tal modo que decir que ciento setentaiocho españoles pudieron conquistar sin ayuda de nadie el imperio andino, compuesto de varios de miles de soldados y de millones de pobladores supuestamente inferiores, es totalmente absurdo. Las fuentes documentales, como las crónicas de los propios españoles (entre ellos Pedro Cieza de León), dan fe de que las huestes de Pizarro contaron con la colaboración de etnias indígenas opuestas a los incas. Alejandro Lipschutz (1963) fue el pionero en esgrimir tales argumentos al afirmar que algunos señores étnicos decidieron prestar asistencia a los españoles. Asimismo, existe abundante información de la época que dan fe de dichas alianzas, sobre todo de las entabladas con los curacas chancas Francisco Cusichaca y Felipe Guacrapáucar, quienes elaboraron informes mediante los cuales reclamaban ciertos beneficios como reconocimiento de las alianzas establecidas con Francisco Pizarro. ESPINOZA S., Waldemar (1977). La destrucción del imperio de los incas. Lima: Retablo de Papel. Resumido.",
+    "questions": [
+      {
+        "statement": "1. El tema central entorno al cual se enfrentan las posiciones del texto es",
+        "alternatives": [
+          "A) la etnohistoria como disciplina auxiliar de la historia.",
+          "B) el talento militar del Marqués del Perú, Francisco Pizarro.",
+          "C) la causa de la caída del Imperio incaico por los españoles.",
+          "D) la importancia de las crónicas como fuente histórica.",
+          "E) la generalización de la visión idealizada del Imperio incaico."
+        ],
+        "correct": 2,
+        "rationale": "En el texto se plantea dos visiones opuestas sobre la causa de la conquista del Imperio incaico por los españoles. La primera es subjetiva y señala que fue porque los indios eran inferiores a los españoles, la segunda, apoyándose en fuentes documentales, postula la aseveración que hubo un factor objetivo: la ayuda proveniente de curacas indígenas."
+      },
+      {
+        "statement": "2. En el texto, el término «SORPRENDENTES», connota",
+        "alternatives": [
+          "A) encono.",
+          "D) candor.",
+          "B) loa.",
+          "E) ironía.",
+          "C) lenidad."
+        ],
+        "correct": 4,
+        "rationale": "Dicho término aparece en un contexto en el que se refuta la idealizada idea de la grandeza del Imperio incaico, porque en este habitaban gentes inferiores incapaces de desarrollar una ata cultura; en ese sentido, «sorprendentes» connota ironía."
+      }
+    ]
+  },
+  {
+    "type": "reading_comprehension",
+    "statement": "Dicho término aparece en un contexto en el que se refuta la idealizada idea de la grandeza del Imperio incaico, porque en este habitaban gentes inferiores incapaces de desarrollar una ata cultura; en ese sentido, «sorprendentes» connota ironía.",
+    "questions": [
+      {
+        "statement": "Del hecho de que los españoles contaron con la colaboración de etnias indígenas contrarias a los incas, podemos inferir que",
+        "alternatives": [
+          "A) todos los indígenas estuvieron obligados a brindar su ayuda.",
+          "B) dicha colaboración fue proficua a la logística de los españoles.",
+          "C) refrenda la tesis de la supuesta inferioridad indígena de Lummis.",
+          "D) existen fuentes documentales que testimonian dichas alianzas.",
+          "E) los curacas chancas y sus indígenas actuaron como mercenarios."
+        ],
+        "correct": 1,
+        "rationale": "Que los españoles hayan contado con la colaboración de etnias indígenas opuestas a los incas nos lleva a pensar que estas ofrecieron a los incas información, conocimientos geográficos, alimentos y hombres que fueron de gran valía para los españoles."
+      },
+      {
+        "statement": "De los argumentos que plantean la superioridad de los europeos como causa de la conquista del Imperio incaico, es compatible señalar que estos se basan en",
+        "alternatives": [
+          "A) crónicas españolas.",
+          "C) egregios antropólogos.",
+          "E) el parangón con Roma.",
+          "B) la ciencia biológica.",
+          "D) sesgos subjetivos."
+        ],
+        "correct": 3,
+        "rationale": "Morton y Lummis, son quienes sostienen dichos argumentos sin ofrecer pruebas científicas o documentales que solventas tales afirmaciones; de tal modo es correcto señalar que adolecen de sesgos subjetivos que califican como racismo."
+      },
+      {
+        "statement": "Si no se conociera la existencia de los informes presentados por los curacas chancas Francisco Cusichaca y Felipe Guacrapáucar, es posible que",
+        "alternatives": [
+          "A) aun así, la asistencia indígena sería irrefutable.",
+          "B) escribir la historia de la conquista sería inviable.",
+          "C) las tesis de Lummis y Morton serían inobjetables.",
+          "D) la tesis de Waldemar Espinosa sería un dislate.",
+          "E) estos hayan sido comprados por un coleccionista."
+        ],
+        "correct": 0,
+        "rationale": "Waldemar Espinosa, refuta la tesis de la superioridad racial de los españoles sobre los indígenas como causa de la conquista del Imperio incaico, sosteniendo que esta se debió al apoyo que algunas etnias indígenas contrarias a los incas ofrecieron a los españoles, comprobadas en documentos de archivo y crónicas escritas por españoles."
+      }
+    ]
+  },
+  {
+    "type": "reading_comprehension",
+    "statement": "Con dicho término se busca trasmitir la idea que todo, a nivel celular, marche en óptimas condiciones en los organismos, «ya que de lo bien que equilibre esas tareas depende la salud y la longevidad de una célula»; en ese sentido, connota las funciones de las células.",
+    "questions": [
+      {
+        "statement": "De la segunda cita en inglés de Adam Antebi, sobre los estudios que viene realizando sobre los nucléolos, es compatible sostener que",
+        "alternatives": [
+          "A) los nucléolos cumplen funciones celulares irrelevantes para la vida del organismo.",
+          "B) generalmente el tamaño del núcleo es proficuo a la longevidad de las células.",
+          "C) las únicas funciones que cumplen los nucléolos son la producción de ribosomas.",
+          "D) entre las células y sus nucléolos existe una trascendente estrecha relación.",
+          "E) el tamaño de los nucléolos se regula en función a la producción de alimentos."
+        ],
+        "correct": 3,
+        "rationale": "La referida cita puede interpretarse como: «Creemos que los nucléolos más pequeños pueden ser un sello celular de la longevidad en ciertas células bajo ciertas condiciones»; en ese sentido, es correcto decir que hay un fuerte vínculo entre el tamaño del nucléolo y el tiempo de vida de la célula u organismo."
+      },
+      {
+        "statement": "De la expresión «Si la célula fuera un globo ocular, estarías viendo su pupila», podemos inferir que la autora establece __________a fin de poder reconocer al nucléolo.",
+        "alternatives": [
+          "A) un eufemismo.",
+          "D) un aforismo.",
+          "B) un parangón .",
+          "E) una aporía.",
+          "C) una paradoja."
+        ],
+        "correct": 1,
+        "rationale": "Cuando la autora nos dice que «si la célula fuera un globo ocular, estaríamos viendo su pupila», lo hace para enseñarnos a reconocer al nucléolo en la célula; en ese sentido utiliza la analogía entre uno y otro elemento para precisarnos cómo es el nucléolo."
+      },
+      {
+        "statement": "De acuerdo con la investigación de Adam Antebi, si los nucléolos carecieran de la capacidad de poder encogerse, es probable que",
+        "alternatives": [
+          "A) la vida de los animales sería más larga de lo que ya es.",
+          "B) los insectos y bichos alcanzarían una vida más longeva.",
+          "C) su producción de ribosomas sea inocua a su vida celular.",
+          "D) los seres humanos sin excepción sufrirían de cáncer.",
+          "E) la vida de los humanos se caracterizaría por ser efímera."
+        ],
+        "correct": 2,
+        "rationale": "El texto, en el último párrafo, nos dice que el nucléolo puede crecer o encogerse dependiendo de la producción de ribosomas que realice, comprometiendo así la vida de la célula o del organismo: mientras más grande es, mayor ribosoma produce y menor vida alcanza la célula (ya la inversa); en ese sentido, si un nucléolo no disminuyera en tamaño, su tiempo de vida está determinado por su tamaño actual, es decir, los ribosomas que produce, probablemente entonces no atentaría contra su tiempo de vida."
+      }
+    ]
+  },
+  {
+    "type": "reading_comprehension",
+    "statement": "Tras el brutal ataque a Eyvi Liset Ágreda Marchena, quien lucha por su vida al tener quemaduras en el 60% de su cuerpo, luego de que un sujeto le prendiera fuego en un bus en Miraflores, nos preguntamos cuántas mujeres han sido víctimas de ataques en lo que va del año. La respuesta es escalofriante. Solo en el primer trimestre del 2018, 32 mujeres fueron brutalmente agredidas hasta la muerte, esta cifra se ha incrementado en un 10% respecto al año pasado, según revela un informe de la Defensoría del Pueblo. Las opiniones están divididas sobre el hecho que motiva a los agresores para atacar a sus víctimas, pues algunos consideran que se deben por problemas mentales, mientras que otros piensan que los victimarios son conscientes del daño que están perpetrando; así por ejemplo, el doctor Elmer Huerta, especialista en salud pública, sostiene que los pacientes que tienen trastornos en su salud mental, cometen menos actos violentos que las personas que no lo tienen, y de hacerlo lo hacen contra sí mismos. S/A (2018). Nota de prensa «Feminicidios en el Perú: 32 mujeres han muerto en el primer trimestre del 2018». Televisión. Recuperado <https://panamericana.pe/buenosdiasperu/nacionales/244266-feminicidios-peru-32-mujeres-muerto-primer-trimestre-2018>. Adaptado. Panamericana 2018. mayo En: 23 de de el El Comercio (2018). Infografía «Casos de feminicidios y tentativas aumentaron en el Perú en 2018». Recuperado el 23 de mayo de 2018. <https://elcomercio.pe/peru/casos-feminicidios-y-tentativas-aumentaron-peru-2018-noticia-515109>.",
+    "questions": [
+      {
+        "statement": "El tema central del texto es",
+        "alternatives": [
+          "A) ataques contra las mujeres en el Perú durante el primer trimestre del 2018.",
+          "B) el incremento desproporcion del feminicidio en el Perú a fines del 2017.",
+          "C) los trastornos mentales como causa de feminicidio en el Perú en el 2018.",
+          "D) las escalofriantes cifras de abusos sexuales en contra de las mujeres.",
+          "E) incremento del feminicidio y violación sexual en el Perú entre 2017 y 2018."
+        ],
+        "correct": 0,
+        "rationale": "Tanto el texto como la infografía nos revelan datos de los feminicidios e intentos de feminicidios en el Perú durante el primer trimestre del año 2018 en comparación con el primero del año anterior."
+      },
+      {
+        "statement": "En el texto, el término ESCALOFRIANTE connota",
+        "alternatives": [
+          "A) frivolidad.",
+          "D) temeridad.",
+          "B) parcialidad.",
+          "E) lenidad.",
+          "C) alarma."
+        ],
+        "correct": 2,
+        "rationale": "Dicho término nos trasmite la idea que el feminicidio viene creciendo en comparación con el año anterior; en ese sentido, es un tema que debe causar preocupación en la sociedad."
+      }
+    ]
+  },
+  {
+    "type": "sentence_elimination",
+    "statement": "De los ataques perpetrados en contra de las mujeres mostrados en la infografía, es incompatible sostener que",
+    "alternatives": [
+      "A) los casos que alcanzó en el primer trimestre del 2018 fueron superiores en más del 50% de los alcanzados en el año anterior.",
+      "B) del total de los casos de intentos de feminicidios en 2018, las mujeres entre los 30 y 59 años representan el grueso de los mismos.",
+      "C) los feminicidios registrados en el primer trimestre del 2018, se han incremento en comparación con los tres primeros meses del 2017.",
+      "D) en el primer trimestre del 2018 los casos de intento de feminicidio superan en 50 los casos en que las víctimas perdieron la vida.",
+      "E) las tentativas de feminicidio en el primer trimestre de 2018 fueron, en cada uno de los meses, superiores a sus correlativos del 2017."
+    ],
+    "correct": 4,
+    "rationale": null
+  },
+  {
+    "type": "sentence_elimination",
+    "statement": "Del ruin ataque sufrido por la señorita Eyvi Ágreda Marchena, podemos colegir que",
+    "alternatives": [
+      "A) le provocó quemaduras en el 60% de su cuerpo.",
+      "B) en la ciudad impera la inseguridad ciudadana.",
+      "C) se perpetró cuando ella viajaba rumbo a su casa.",
+      "D) está incluido dentro de los casos del mes de marzo.",
+      "E) fue motivado por los celos enfermizos de su pareja."
+    ],
+    "correct": 1,
+    "rationale": "El texto nos dice que el aciago ataque se llevó a cabo en un bus de transporte público, lo que nos hace pensar que la inseguridad ciudadana predomina en la ciudad."
+  },
+  {
+    "type": "sentence_elimination",
+    "statement": "Si se determinara mediante pruebas psicológicas que la posición del Dr. Huerta es correcto respecto a la salud mental de los perpetradores de feminicidios o intento de feminicidios, es posible que",
+    "alternatives": [
+      "A) se les pueda identificar de manera rauda para procesarlos judicialmente.",
+      "B) muchos de ellos podrían quedar absueltos de cumplir una pena judicial.",
+      "C) se llegue a eliminar tan nefastos crímenes en contra de la mujer peruana.",
+      "D) las diferencias entorno a las motivaciones de los agresores quede zanjada.",
+      "E) el Dr. Huerta se asimile a la Policía Nacional del Perú como oficial asesor."
+    ],
+    "correct": 3,
+    "rationale": "El texto dice que las motivaciones que tienen los agresores de mujeres ha generado opiniones divididas: unos creen que se pueden explicar por problemas mentales; otros, entre ellos el doctor Huerta, «que los victimarios son conscientes del daño que están perpetrando»; en ese sentido, si se llagara a determinar, como se enuncia en la pregunta, que este tiene razón, entonces, es posible pensar que dicha discrepancia se disipe."
+  }
+]

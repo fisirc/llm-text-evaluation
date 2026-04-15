@@ -1,0 +1,756 @@
+[
+  {
+    "type": "reading_comprehension",
+    "statement": "Del mismo modo que los faraones no dispusieron de un ejército estable al\nmenos hasta el Imperio Nuevo, tampoco contaron con un cuerpo de policía\norganizado. Las labores de mantenimiento del orden estaban repartidas entre\ndiversas instancias, según el lugar de que se tratase . En la corte, los soberanos\ncontaban con un cuerpo propio de guardaespaldas, pero, en cambio, la vigilancia del\nharén real —la residencia de las mujeres de la familia real y de sus vástagos —\nestaba encomendada a un grupo de hombres conocidos como sasha .\nFuera de la corte, la seguridad estaba en manos de funcionarios que operaban\na una escala local, pagados por el Estado para cumplir misiones específicas. Este\nera el caso de la ciudad de los constructores de las pirámides, al sur de Gizeh. Allí\nobservamos que dos de sus calles parecen contar en un extremo con casas\ndestinadas a vigilantes, encargados de controlar las idas y venidas y hacer sentir el\ndominio del faraón sobre los trabajadores. En la entrada de los talleres reales, que\ntrabajaban para el Estado, había también vigilantes a modo de porteros -policías, los\ncuales, según la Sátira de los oficios ,un texto que data del Imperio Nuevo, se\ndejaban sobornar por los artesanos que deseaban salir del recinto para tomarse un\ndescanso.\nOtro grupo de policías del faraón era el de los llamados sa-per, que\nacompañaban a los recaudadores de impuestos cuando estos acudían, cada dos\naños, a cobrar el famoso «recuento del ganado». Con sus bastones y su fuerza\nfísica los sa-per acogotaban a los campesinos ante los es cribas para que declararan\nsus ganancias, además de apalear a los recalcitrantes o a quienes se mostraban\nincapaces de pagar. Es una imagen que vemos reflejada en muchas tumbas.\nEn los poblados existía asimismo una especie de policía local encargada de\nmantener el orden los días de mercado. Para ello se servían de un instrumento de\nintimidación muy curioso ,tal como vemos representado en la decoración de la mastaba de Niakhnum y Knumhotep (dinastía V). En una de las escenas, dos\npersonas se pasean por el m ercado local y cada una lleva un babuino sujeto con\nuna correa. En principio podrían parecer dos hombres y sus mascotas, pero si nos\nfijamos vemos que, mientras uno de los simios coge una fruta de un cesto, el otro se\nha lanzado contra la pierna de un amigo de lo ajeno que se marchaba con algo que\nno había pagado. ¡Monos policías! No eran los únicos animales utilizados para\npatrullar, pues también se usaban perros.",
+    "questions": [
+      {
+        "statement": "El texto trata centralmente acerca de",
+        "alternatives": [
+          "A) el uso de animales silvestres en el Imperio egipcio.",
+          "B) los diversos grupos de policías en el antiguo Egipto.",
+          "C) la corrupción policial acusada en el Imperio egipcio.",
+          "D) los murales que representaban a los llamados sasha .",
+          "E) los porteros -policías en el Imperio Nuevo egipcio."
+        ],
+        "correct": 1,
+        "rationale": null
+      },
+      {
+        "statement": "La palabra CURIOSO se puede reemplazar por",
+        "alternatives": [
+          "A) cuidadoso.",
+          "B) despierto.",
+          "C) singular.",
+          "D) lúcido.",
+          "E) avispado."
+        ],
+        "correct": 2,
+        "rationale": "La palabra Se usa para referirse al desacostumbrado uso de animales, como los\nbabuinos, para patrullar y castigar a los ladrones. El sinónimo en contexto, en\nConsecuencia, es SINGULAR."
+      },
+      {
+        "statement": "La expresión AMIGO DE LO AJENO",
+        "alternatives": [
+          "A) se utiliza para dar a conocer que los ladrones eran inofensivos.",
+          "B) resulta un claro caso de enunciado tabuizado de denominación.",
+          "C) connota la forma en que era considerado el latrocinio en Egipto.",
+          "D) es una metáfora eufemística usada para referirse a los la drones.",
+          "E) pondera un uso inadecuado para denominar el trabajo policial."
+        ],
+        "correct": 3,
+        "rationale": "La expresión en cuestión es una metáfora que se utiliza para evitar la palabra ladrón\n o ratero ,de interpretación más chocante; en tal sentido, esta metáfora resulta\n eufemística, pues sublima el carácter condenable del ladrón."
+      }
+    ]
+  },
+  {
+    "type": "sentence_elimination",
+    "statement": "Si los policías en el antiguo Egipto hubiesen prescindido del uso de animales para amedrentar, entonces",
+    "alternatives": [
+      "A) el faraón habría carecido de un poder de dominio real sobre sus súbditos.",
+      "B) los murales habrían configurado la existencia mítica de vigilantes reales.",
+      "C) habrían tenido en la violencia física una manera efectiva de intimidación.",
+      "D) las representaciones de estos en las tumbas habrían sido decorativas.",
+      "E) las labores del Ejército habrían car ecido de relevancia para el Imperio."
+    ],
+    "correct": 2,
+    "rationale": "Los policías usaban tácticas de sujeción y amedrentamiento; el uso de animales para castigar ladrones era una de tantas en la que se ejercía la violencia. Los policías que acompañaban a los recaudadores, por ejemplo, golpeaban a los deudores."
+  },
+  {
+    "type": "sentence_elimination",
+    "statement": "Si los policías ocupados de la vigilancia en los talleres reales hubieran sido totalmente fieles al faraón y hubieran recibido un trato especial, probablemente",
+    "alternatives": [
+      "A) los guardaespaldas reales se habrían rebe lado contra el Imperio.",
+      "B) habrían sido implacables para combatir los intentos de soborno.",
+      "C) sus labores se habrían extendido a los mercados de los poblados.",
+      "D) el Ejército en el antiguo Egipto habría desaparecido sin remedio.",
+      "E) las escrituras de la Sátira de los oficios resultarían ser apócrifas."
+    ],
+    "correct": 1,
+    "rationale": "Los talleres eran resguardados por vigilantes que eran sobornados. Si hubieran recibido un trato especial que asegure una alta fidelidad al faraón, probablemente habrían procurado combatir los sobornos."
+  },
+  {
+    "type": "sentence_elimination",
+    "statement": "Si antes del Imperio Nuevo la policía egipcia hubiera contado con una organización consistente, probablemente",
+    "alternatives": [
+      "A) el emperador habría considerado la posibilidad de desaparecer el Ejército.",
+      "B) ciertas tareas de ordenamiento en poblados alejados habrían desaparecido.",
+      "C) habrían sido los miembros del Ejército los que defiendan los intereses reales.",
+      "D) las coimas y los sobornos habrían sido practicadas de forma abierta y regular.",
+      "E) las tareas de esta habrían sido menos heteróclitas y de mayor especificidad."
+    ],
+    "correct": 4,
+    "rationale": "La desorganización de la policía hizo que esta tuviera distintos ámbitos de acción, y una mayor heterogeneidad que suponía una carencia de identidad; por lo tanto, de haber contado con una organicidad real, sus labores como institución cohesionada habrían sido más específicas."
+  },
+  {
+    "type": "reading_comprehension",
+    "statement": "La última misión de la NASA a Marte pretende descubrir la atmósfera extinguida del planeta rojo. El pasado 18 de noviembre partía hacia ese destino la nave MAVEN (Misión de la Evolución Atmosférica y Volátil de Marte), un proyecto de diez meses de duración y 671 millones de dólares destinado a explorar el planeta más parecido a la Tierra, donde algunos confían que aún haya vida. La MAVEN es una sonda orbital, no un todoterreno, cuya función será orbitar a unos 170 kilómetros de la superficie marciana y orientar sus instrumentos hacia la atmósfera superior. El objetivo es averiguar a qué ritmo acaba el viento solar con el agua y el dióxido de carbono, los dos gases más importantes para comprender el pasado de la atmósfera. En otro tiempo Marte tuvo una atmósfera cálida y húmeda. La misión de la MAVEN es redescubrir qué condiciones hicieron entonces posible la existencia de lagos, ríos y mares que dejaron huella en la superficie del planeta hace miles de millones de años. La atmósfera de Marte es muy fina, más de cien veces más delgada que la de la Tierra a nivel del mar. Su gas principal (un 95 %de la atmósfera del planeta rojo) es el dióxido de carbono, un gas de efecto invernadero que cuando formaba una capa gruesa sobre Marte actuaba probablemente como una capa aislante que contribuía a mantener es os ríos y mares que desaparecieron hace tanto tiempo.",
+    "questions": [
+      {
+        "statement": "¿Cuál es el tema central del texto?",
+        "alternatives": [
+          "A) La investigación de la atmósfera de Marte a través de la sonda MAVEN",
+          "B) La atmósfera marciana caracterizada por su calidez, humedad y finura",
+          "C) Los todoterren os encargados de dar evidencias sobre la vida en Marte",
+          "D) Misiones preparadas por la Nasa para investigar Marte, el planeta rojo",
+          "E) Los rastros de vida en la superficie de Marte, captados por la MAVEN"
+        ],
+        "correct": 0,
+        "rationale": "El tema central del texto es la misión MAVEN ,que a diferencia de otras, tiene como objetivo investigar la atmósfera marciana."
+      },
+      {
+        "statement": "La palabra AISLANTE connota",
+        "alternatives": [
+          "A) facilidad.",
+          "B) permeabilidad.",
+          "C) detección.",
+          "D) protección.",
+          "E) alejamiento."
+        ],
+        "correct": 3,
+        "rationale": "La palabra se usa para expresar la capacidad de la antigua atmósfera marciana para preservar los mares y ríos, debido a su grosor. En tal sentido, la protección es un concepto que se connota a partir del adjetivo indicado."
+      },
+      {
+        "statement": "Respecto de la atmósfera marciana, resulta incompatible afirmar que",
+        "alternatives": [
+          "A) está siendo explorada por la promisoria misión MAVEN.",
+          "B) mantuvo los mares y los ríos, hoy extintos, de Marte.",
+          "C) se caracterizó posteriormente por su calidez y humedad.",
+          "D) contiene una mayor cantidad de dióxido de carbono.",
+          "E) cuenta con un a capa gruesa de dióxido de carbono."
+        ],
+        "correct": 4,
+        "rationale": "La atmósfera marciana es fina, es decir, delgada. El hecho de que presente en mayor proporción dióxido de carbono no significa que sea una atmósfera densa."
+      },
+      {
+        "statement": "Es posible inferir del desarrollo textual que la antigua atmósfera marciana",
+        "alternatives": [
+          "A) era demasiado frágil como para asegurar que la vida exista en ese planeta.",
+          "B) se mantuvo con altos niveles de oxígeno rastreados por la sonda MAVEN.",
+          "C) actualmente presenta un grosor mayor al de la época en que había mares.",
+          "D) habría asegurado la existencia de vida, puesto que preservó mares y ríos.",
+          "E) fue tan dinámica y sensible a los cambios que no ha dejado relictos de agua."
+        ],
+        "correct": 3,
+        "rationale": "La atmósfera de Marte era gruesa en otras épocas y sirvió de aislante, ello pudo mantener mares y ríos con los cuales es posible pensar en la presencia de vida en superficie marciana."
+      }
+    ]
+  },
+  {
+    "type": "verbal_series",
+    "statement": "4. Es posible inferir del desarrollo textual que la antigua atmósfera marciana",
+    "alternatives": [
+      "A) era demasiado frágil como para asegurar que la vida exista en ese planeta.",
+      "B) se mantuvo con altos niveles de oxígeno rastreados por la sonda MAVEN.",
+      "C) actualmente presenta un grosor mayor al de la época en que había mares.",
+      "D) habría asegurado la existencia de vida, puesto que preservó mares y ríos.",
+      "E) fue tan dinámica y sensible a los cambios que no ha dejado relictos de agua."
+    ],
+    "correct": 3,
+    "rationale": "La atmósfera de Marte era gruesa en otras épocas y sirvió de aislante, ello pudo mantener mares y ríos con los cuales es posible pensar en la presencia de vida en superficie marciana."
+  },
+  {
+    "type": "verbal_series",
+    "statement": "5. Si la atmósfera de Marte hubiera carecido de grosor en épocas prístinas,",
+    "alternatives": [
+      "A) el planeta, además del rojo, presentaría otra coloración .",
+      "B) la misión MAVEN debería realizarse en un tiempo menor.",
+      "C) las huellas de mares y ríos extintos resultarían implausibles.",
+      "D) la vida en el planeta tendría solo algunos años de existencia.",
+      "E) resultaría admisible sostener que los organismos vivos existe n."
+    ],
+    "correct": 2,
+    "rationale": "El grosor de la atmósfera de Marte en épocas prístinas aseguraba que los mares y ríos se mantengan. Al volverse delgada estos se extinguieron pero dejaron huellas de su otrora presencia. De haber sido delgada siempre, probablemente la conformación de mares hubiera sido imposible."
+  },
+  {
+    "type": "sentence_elimination",
+    "statement": "1. I) La mutación del gen MCPH 1, que regula la proliferación de los precursores neuronales, genera microcefalia. II) El gen ASPM que mantiene un patrón de división simbétrica de los precursores neuronales genera un crecimiento inferior de la cabeza al mutar. III) Los genes SHH y CDK5RAP2 desencadenan microcefalia como consecuencia asociada a su mutación. IV) El gen DYX1C1, al mutar, genera el trastorno lingüístico llamado dislexia. V) La mutación del gen CENPJ, encargado de la regulación de la nucleación de los microtúbulos, ocasiona microcefalia primaria.",
+    "alternatives": [
+      "A) I",
+      "B) II",
+      "C) III",
+      "D) IV",
+      "E) V"
+    ],
+    "correct": 0,
+    "rationale": "Se elimina IV por impertinencia. El eje temático es los genes que, al mutar, generan microcefalia."
+  },
+  {
+    "type": "sentence_elimination",
+    "statement": "2. I) Los lóbulos temporal y parietal del hemisferio izquierdo permiten la extracción de rasgos fonéticos con valor fonológico. II) El área de Broca hace posible que los individuos ejecuten la memoria de trabajo verbal de carácter sintáctico. III) El córtex frontal y los ganglios basales permiten ejecutar procesos de derivación morfológica. IV) Las regiones inferiores y mediales del lóbulo temporal del hemisferio izquierdo hacen posible la organización de información semántica. V) Ciertas áreas cerebrales permiten la ejecución de actividades de carácter lingüístico.",
+    "alternatives": [
+      "A) I",
+      "B) III",
+      "C) II",
+      "D) IV",
+      "E) V"
+    ],
+    "correct": 4,
+    "rationale": "Se elimina V por redundancia. V redunda con las demás."
+  },
+  {
+    "type": "sentence_elimination",
+    "statement": "3. I) La etapa del balbuceo en la ontogenia lingüística se caracteriza por la capacidad para producir distintos sonidos vocálicos y consonánticos por parte del niño. II) La etapa de habla telegráfica en el proceso de adquisición lingüística consiste en la capacidad para combinar palabras en pseudooraciones. III) El niño es capaz de articular sonidos y de estructurar combinaciones mayores en distintas etapas de desarrollo lingüístico. IV) El niño empieza a usar morfemas flexivos que indican funciones gramaticales en la etapa de desarrollo morfosintáctico. V) El niño comienza a emitir combinaciones formadas por dos elementos (generalmente dos sustantivos) en la etapa de las dos palabras.",
+    "alternatives": [
+      "A) I",
+      "B) II",
+      "C) III",
+      "D) IV",
+      "E) V"
+    ],
+    "correct": 2,
+    "rationale": "La oración III es redundante, pues está implicada en I, II y III."
+  },
+  {
+    "type": "sentence_elimination",
+    "statement": "4. I) George Christopher Williams fue uno de los más importantes e influyentes biólogos del siglo XX. II) George Christopher Williams consideró que la adaptación fue una, entre tantas otras causas, que causó el diseño de los organismos vivos. III) Las leyes generales de la física y de la química también influyen, con un costo menor, en el diseño orgánico de los seres vivos según Williams. IV) Existen, según George Williams, causas o efectos de carácter inespecífico, es decir, diferentes a los causados por adaptación o por las leyes de la física. V) Williams plantea que es posible pensar también en el simple azar como una causa del diseño de los organismos.",
+    "alternatives": [
+      "A) II",
+      "B) I",
+      "C) V",
+      "D) III",
+      "E) IV"
+    ],
+    "correct": 1,
+    "rationale": "Se elimina I por impertinencia. El tema es la formulación de causas que expliquen el diseño de todo organismo vivo según Cristopher Williams, no su trascendencia en el campo de la biología."
+  },
+  {
+    "type": "sentence_elimination",
+    "statement": "I) George Christopher Williams fue uno de los más importantes e influyentes biólogos del siglo XX. II) George Christopher Williams consideró que la adaptación fue una, entre tantas otras causas, que causó el diseño de los organismos vivos. III) Las leyes generales de la física y de la química también influyen, con un costo menor, en el diseño orgánico de los seres vivos según Williams. IV) Existen, según George Williams, causas o efectos de carácter inespecífico, es decir, diferentes a los causados por adaptación o por las leyes de la física. V) Williams plantea que es posible pensar también en el simple azar como una causa del diseño de los organismos.",
+    "alternatives": [
+      "A) II",
+      "B) I",
+      "C) V",
+      "D) III",
+      "E) IV"
+    ],
+    "correct": 1,
+    "rationale": "Se elimina I por impertinencia. El tema es la formulación de causas que expliquen el diseño de todo organismo vivo según Cristopher Williams, no su trascendencia en el campo de la biología."
+  },
+  {
+    "type": "sentence_elimination",
+    "statement": "I) El esquema de Kuhn sobre la actividad científica consiste en suponer que la epistemología de Kuhn. II) Los paradigmas, indica Kuhn, determinan los criterios con los que se debe evaluar una solución y los procedimientos experimentales que se consideren aceptables. III) La noción de inconmensurabilidad propuesta por Thomas Kuhn es polémica y cuestionable. V) La ciencia normal entra en crisis y entonces se asiste a un cambio de paradigma en el marco de un periodo «revolucionario» según Kuhn.",
+    "alternatives": [
+      "A) I",
+      "B) II",
+      "C) III",
+      "D) IV",
+      "E) V"
+    ],
+    "correct": 3,
+    "rationale": "Se elimina el enunciado IV en virtud del criterio de inatingencia, pues el eje temático es la descripción de la propuesta epistemológica de Kuhn no los aspectos conflictivos de la noción de inconmensurabilidad."
+  },
+  {
+    "type": "sentence_elimination",
+    "statement": "I) Popper busca un criterio de demarcación entre las teorías científicas y las no científicas a través de la noción de falsabilidad . II) El psicoanálisis ola astrología le dan a sus enunciados un carácter ad hoc para encajar los resultados empíricos según Popper. III) Según Popper, para que una teoría sea científica tiene que hacer predicciones que, en principio, puedan ser falsas en el mundo real. IV) Si una teoría es falsable, y en consecuencia científica, se puede someter a pruebas de falsación para Popper. V) El énfasis en la falsación, para Popper, pone de manifiesto una asimetría crucial: nunca se puede probar que una teoría es verdadera.",
+    "alternatives": [
+      "A) II",
+      "B) IV",
+      "C) III",
+      "D) I",
+      "E) V"
+    ],
+    "correct": 0,
+    "rationale": "Se elimina el enunciado IV en virtud del criterio de inatingencia, pues soslaya el tema de la propuesta popperiana de falsación de una teoría."
+  },
+  {
+    "type": "reading_comprehension",
+    "statement": "COMPRENSIÓN DE LECTURA\n\nCuando un animal emite un sonido y se desplaza al mismo tiempo, genera un cambio de frecuencia de onda conocido como efecto Doppler que puede ser detectado por posibles depredadores. Un estudio de la Universidad de Extremadura ha investigado mediante modelos matemáticos cómo este efecto puede ser minimizado por ciertas especies de cetáceos, que tratan de zafarse del ataque de las orcas. Según el coordinador de la investigación, Daniel Patón, profesor de la Universidad de Extremadura, «las orcas son auténticas centrales de escucha del sonido, ya que su oído detecta un enorme intervalo de frecuencias: desde infrasonidos por debajo de 200 Hz hasta sonidos superiores a 20 000 Hz. Cualquier variación en las múltiples frecuencias de sonido que hay en el mar les advierte de la presencia de un animal. Por eso, los cetáceos intentan minimizar su detección por parte de las orcas y los tiburones a base de adaptar su señal a la velocidad a la que se desplacen en ese momento». A partir del análisis matemático de las llamadas de ecolocalización de 69 especies de cetáceos, los investigadores han buscado un patrón común en la gran variabilidad de comunicación de estas especies, que constituyen sin duda el grupo animal de mayor complejidad acústica que existe. El modelo matemático ha sido realizado teniendo en cuenta la temperatura del agua y su salinidad, así como la mayoría de las especies mantiene baja la frecuencia de onda de su movimiento y que solo 15 de ellas tienen un efecto Doppler alto. En estos casos, se trata de animales que cuentan con otras estratagemas . Por ejemplo, las ballenas hocicudas o los zifios permanecen completamente mudos por encima de los 200 metros de profundidad, que es el área de caza de las orcas. Y otras especies son más veloces que las temibles ballenas asesinas. Los datos que aporte este estudio mejorarán la detección de cetáceos, y po drían ser aplicados para evitar las colisiones de estos con los barcos.",
+    "questions": [
+      {
+        "statement": "El término ESTRATAGEMA adquiere el sentido de",
+        "alternatives": [
+          "A) engaño.",
+          "B) embuste.",
+          "C) hechizo.",
+          "D) ingenio.",
+          "E) recurso."
+        ],
+        "correct": 4,
+        "rationale": "El término es usado para referirse a las formas en que algunos cetáceos se permiten evitar a las peligrosas orcas; en tal sentido, estratagema es equivalente a recurso que les permite a los cetáceos escapar de los depredadores."
+      },
+      {
+        "statement": "Determine el tema central del texto.",
+        "alternatives": [
+          "A) El estudio del uso de emisiones acústicas en cetáceos para hacer taxonomías.",
+          "B) Los recursos usados por ciertos cetáceos para evitar ser cazados por las orcas.",
+          "C) La investigación de la notoria complejidad acústica de 69 especies de cetáceos.",
+          "D) El análisis matemático de frecuencias acústicas menores a 200 Hz en el mar.",
+          "E) Las orcas y su habilidad para captar cualquier variación acústica en el océano."
+        ],
+        "correct": 0,
+        "rationale": "El tema central aborda la capacidad de los cetáceos para escapar a la aguzada capacidad sensorial de las orcas para de tectarlos procesando variaciones de frecuencia en el mar, además de la permanencia en silencio."
+      },
+      {
+        "statement": "Se infiere que un ser humano, capaz de procesar energía acústica en un rango de 20 Hz a 20 000 Hz como máximo,",
+        "alternatives": [
+          "A) tiene condiciones acústicas para pasar desapercibido por las peligrosas orcas.",
+          "B) carece de capacidad para detectar los ultrasonidos emitidos por los cetáceos.",
+          "C) puede evitar el efecto Doppler generando variaciones fónicas fuera del océano.",
+          "D) son incapaces de investigar minuciosamente los efectos de la ecolocalización.",
+          "E) presentan muchas limitaciones para captar todas las emisiones de los cetáceos."
+        ],
+        "correct": 1,
+        "rationale": "Los seres humanos presentan una barrera acústica para percibir sonidos. Resulta imposible para estos procesar datos de energía acústica por encima de los 20 000 Hz, los cuales son emitidos por los cetáceos estudiados."
+      }
+    ]
+  },
+  {
+    "type": "reading_comprehension",
+    "statement": "Si las ciencias humanas quieren beneficiarse de los indudables éxitos de las ciencias naturales, en lugar de hacerlo extrapolando directamente sus conceptos técnicos, se podrían inspirar en todo lo que de positivo hay en sus principios metodológicos ,empezando por éste: medir la validez de una proposición en función de los hechos y los razonamientos que la apoyan, no de las cualidades personales o el estatuto social de sus defensores o de tractores. Esto es sólo un principio ,por supuesto, y dista mucho de ser universalmente acatado en la práctica, incluso en las ciencias naturales. Los científicos, después de todo, son seres humanos y no son inmunes a las modas o a la adulación como genios. Eso no impide que hayamos heredado de la «epistemología de la Ilustración» una desconfianza totalmente justificada hacia la exégesis de textos sagrados —y textos que no son religiosos en el sentido habitual del término pueden desempeñar perfectamente esta función — y hacia el argumento de autoridad. En París, encontramos un estudiante que, tras haber finalizado brillantemente sus estudios de licenciatura en Física, empezó a leer filosofía, centrando su atención en Deleuze. Se esforzaba denodadamente por comprender Diferencia y repetición y, tras haber leído ciertos fragmentos matemáticos, admitió que no tenía idea de hacia dónde pretendía llegar Deleuze. Sin embargo, era tanta la fama de que gozaba dicho filósofo, que se resistía a sacar la conclusión lógica que, si alguien como él, que como físico había estudiado durante años el cálculo diferencial e integral, era incapaz de comprender aquellos textos, supuestamente consagrados a ese tema, probablemente era porque no tenían mucho sentido. Creemos que este ejemplo debería haberlo animado a ana lizar de manera más crítica el resto de la obra de Deleuze.",
+    "questions": [
+      {
+        "statement": "En efecto, el texto desarrolla el tema de lo necesario que resulta el recelo hacia el criterio de autoridad para asumir que una propuesta es consistente, este recelo el autor lo deriva al campo de las ciencias humanas",
+        "alternatives": [
+          "A) Una advertencia sobre la inconsistencia del argumento de autoridad en el marco de las ciencias humanas",
+          "B) La sofisticada e inaprensible propuesta de D eleuze en su obra cumbre Diferencia y repetición",
+          "C) La necesidad de extrapolar de manera consistente las nociones de las ciencias naturales a las humanidades",
+          "D) Los principios epistemológicos heredados de la Ilustración como factor cientificista necesario",
+          "E) Las modas y las adulaciones que reciben los científicos que gozan de relativa reputación y estima"
+        ],
+        "correct": 0,
+        "rationale": "En efecto, el texto desarrolla el tema de lo necesario que resulta el recelo hacia el criterio de autoridad para asumir que una propuesta es consistente, este recelo el autor lo deriva al campo de las ciencias humanas."
+      },
+      {
+        "statement": "El término INSPIRAR connota",
+        "alternatives": [
+          "A) emoción.",
+          "B) creatividad.",
+          "C) ánimo.",
+          "D) tenacidad.",
+          "E) influencia."
+        ],
+        "correct": 4,
+        "rationale": "El verbo INSPIRAR se usa para referirse a la forma en que las ciencias humanas deberían nutrirse de ciertos principios metodológicos de las ciencias naturales. En tal sentido, connota influjo."
+      },
+      {
+        "statement": "Es incompatible sostener que pensadores reputados como Deleuze",
+        "alternatives": [
+          "A) presentan un pensamiento tan complejo que incluso los físicos están negados a comprenderlo cabalmente.",
+          "B) generan adeptos en el campo de las ciencias naturales por el posicionamiento del que gozan.",
+          "C) se permiten usar conceptos pertinentes de disciplinas científicas de manera arbitraria e injustificada.",
+          "D) pueden desarrollar un amasijo de asunciones desarticuladas y sin sentido que son aceptadas y estudiadas.",
+          "E) deben ser abordados siempre con escepticismo, pues en todo ámbito es posible la consagración gratuita."
+        ],
+        "correct": 0,
+        "rationale": "El caso del estudiante que no pudo encontrar consistencia en el uso de conceptos matemáticos por parte de Deleuze es evidencia, no de la complejidad de este filósofo, sino de lo impertinente de su injustificada extrapolación de conceptos carentes de pertinencia en el campo de las humanidades."
+      }
+    ]
+  },
+  {
+    "type": "synonyms_and_antonyms",
+    "statement": "1. Cuidadoso, esmerado, esforzado",
+    "alternatives": [
+      "A) lábil.",
+      "B) gravoso.",
+      "C) agudo.",
+      "D) audaz.",
+      "E) prolijo."
+    ],
+    "correct": 4,
+    "rationale": "Serie verbal sinonímica."
+  },
+  {
+    "type": "synonyms_and_antonyms",
+    "statement": "2. Inane, conducente; flébil, lamentable; ignoto, común;",
+    "alternatives": [
+      "A) adusto, huraño.",
+      "B) vigoroso, tísico.",
+      "C) inocuo, vacuo.",
+      "D) falible, preciso.",
+      "E) vaporoso, dúctil."
+    ],
+    "correct": 0,
+    "rationale": "Serie verbal mixta, se completa con el par de sinónimos ADUSTO, HURAÑO."
+  },
+  {
+    "type": "verbal_series",
+    "statement": "5. Trompo, puyón; vagón, tren; pedestal, cornisa;",
+    "alternatives": [
+      "A) armadura, yelmo.",
+      "B) lambrequín, escudo.",
+      "C) bota, cuero.",
+      "D) pieza, porción.",
+      "E) carrusel, tiovivo."
+    ],
+    "correct": 1,
+    "rationale": "Serie verbal que contiene las relaciones HOLÓNIMO -MERÓNIMO; MERÓNIMO - HOLÓNIMO; HOLÓNIMO, MERÓNIMO; se completa con la relación MERÓNIMO - HOLÓNIMO."
+  },
+  {
+    "type": "reading_comprehension",
+    "statement": "Un niño aprende a hablar con facilidad y sin esfuerzo aparente. Los estímulos ambientales que recibe, sin embargo, resultan escasamente informativos, se le ofrecen desorganizadamente y no podrían por sí solos explicar la rica estructura de conocimiento lingüístico a la que el niño rápidamente accede. No mediando patologías o carencias extremas en la estimulación recibida, todos se convierten en seres parlantes empleando más o menos el mismo tiempo y atravesando una misma secuencia de fases, sin importar las sutilezas formales del sistema lingüístico a cuyo conocimiento concretamente accedan. Esto es, en rápida síntesis, lo que desde cualquier teoría sobre el lenguaje humano empeñada en algo más que simplemente describir de modo adecuado el sistema capaz de generar las secuencias bien formadas en una lengua cualquiera. Una teoría que acepta tal desafío se sitúa «más allá de la adecuación descriptiva» y adopta como criterio de «adecuación explicativa» el de lograr una descripción adecuada de los sistemas lingüísticos capaz de dar asimismo respuesta al Problema de Platón. La lingüística chomskyana dio forma en lo s primeros años de la década de los ochenta del pasado siglo a una teoría que, al menos en el marco de esta corriente, sigue siendo hoy considerada como una hipótesis no desmentida, y por tanto correcta, con relación al Problema de Platón. La hipótesis plantea que el niño accede al conocimiento de la lengua propia de su comunidad a través de una estructura de conocimientos lingüísticos a priori o innata gracias a la cual consigue dar sentido al ruido lingüístico con que se encuentra al nacer en el ambiente social en que va a desarrollarse. Esta estructura innata de conocimiento es una característica de la especie humana y subyace, por tanto, a la organización de cualquier sistema particular de comunicación lingüística. Puede así ser caracterizada como una g ramática sucinta compuesta por principios de alcance universal o, directamente, como una Gramática Universal (GU).",
+    "questions": [
+      {
+        "statement": "1. El tema central del texto es",
+        "alternatives": [
+          "A) el desafío de toda ciencia en lo que concierne al estudio del lenguaje.",
+          "B) los efectos del innatismo l ingüístico planteado por Chomsky en 1965.",
+          "C) la gramática particular impuesta por las diversas comunidades de habla.",
+          "D) los principios universales de las lenguas humanas y su uso cotidiano.",
+          "E) el Problema de Platón y su resolución a través de la hipótesis innatista."
+        ],
+        "correct": 4,
+        "rationale": "El texto aborda el tema de la pobreza de estímulos o Problema de Platón, que consiste en la asunción de que los datos son escasamente informativos para el niño, pero este logra sobreponerse a este estímulo deficiente gracias a que cuenta con principios lingüísticos innatos."
+      },
+      {
+        "statement": "2. La idea principal del texto afirma que",
+        "alternatives": [
+          "A) la Gramática Universal está conformada por principios cuya proyección universal es verificable en la aparente heterogeneidad lingüística.",
+          "B) el problema de un estímulo pobre en el desarrollo lingüístico es resuelto por Chomsky planteando una estructura de conocimientos a priori o innata.",
+          "C) el Problema de Platón formulado por Chomsky en la década del 60 supuso un desafío soslayado en la actualidad debido a su imposibilidad de falsación.",
+          "D) los estímulos lingüísticos recibidos por el niño son determinantes en la etapa inicial de adquisición l ingüística, pues este requiere ser adiestrado.",
+          "E) el niño accede a la estructura de su lengua materna gracias a la continua formación que recibe en la comunidad donde este se desarrolla."
+        ],
+        "correct": 1,
+        "rationale": "el problema de un estímulo pobre en el desarrollo lingüístico es resuelto por Chomsky planteando una estructura de conocimientos a priori o innata."
+      }
+    ]
+  },
+  {
+    "type": "verbal_series",
+    "statement": "4. Trompo, puyón; vagón, tren; pedestal, cornisa;",
+    "alternatives": [
+      "A) armadura, yelmo.",
+      "B) lambrequín, escudo.",
+      "C) bota, cuero.",
+      "D) pieza, porción.",
+      "E) carrusel, tiovivo."
+    ],
+    "correct": 1,
+    "rationale": "Serie verbal que contiene las relaciones de HOLÓNIMO -MERÓNIMO; MERÓNIMO - HOLÓNIMO; HOLÓNIMO, MERÓNIMO; se completa con la relación MERÓNIMO - HOLÓNIMO."
+  },
+  {
+    "type": "verbal_series",
+    "statement": "5. Fuerza, fortaleza, vigor,",
+    "alternatives": [
+      "A) fiereza.",
+      "B) reciedumbre.",
+      "C) inhumanidad.",
+      "D) pertinacia.",
+      "E) contumacia."
+    ],
+    "correct": 1,
+    "rationale": "Serie verbal sinonímica. Clave: B"
+  },
+  {
+    "type": "verbal_series",
+    "statement": "6. Elija la alternativa que no corresponda a la serie verbal.",
+    "alternatives": [
+      "A) Confusión",
+      "B) Desorden",
+      "C) Behetría",
+      "D) Temporal",
+      "E) Caos"
+    ],
+    "correct": 3,
+    "rationale": "Serie verbal sinonímica. Temporal es sinónimo de tempestad, tormenta."
+  },
+  {
+    "type": "verbal_series",
+    "statement": "7. Determine el antónimo de las palabras BORRASCOSO, TEMPESTUOSO,\nTORMENTOSO.",
+    "alternatives": [
+      "A) Aprensivo",
+      "B) Luctuoso",
+      "C) Correoso",
+      "D) Proceloso",
+      "E) Calmado"
+    ],
+    "correct": 4,
+    "rationale": "La palabra CALMADO es el antónimo de los vocablos propuestos."
+  },
+  {
+    "type": "reading_comprehension",
+    "statement": "El texto aborda el tema de la pobreza de estímulos o Problema de Platón, que consiste en la asunción de que los datos son escasamente informativos para el niño, pero este logra sobreponerse a este estímulo deficiente gracias a que cuenta con principios lingüísticos innatos.",
+    "questions": [
+      {
+        "statement": "El vocablo RUIDO hace referencia a evidencia lingüística",
+        "alternatives": [
+          "A) altamente bulliciosa.",
+          "B) excesivamente estridente.",
+          "C) sucinta y homogénea.",
+          "D) heterogénea y opaca.",
+          "E) sumamente clara."
+        ],
+        "correct": 3,
+        "rationale": "La palabra RUIDO hace referencia a la evidencia lingüística al que un niño al nacer está expuesto. El niño no recibe un nivel básico de la lengua, sino que aborda los aspectos más complejos de esta en sus primeros años de vida; en consecuencia, la evidencia lingüística es heterogénea y nada clara."
+      },
+      {
+        "statement": "Respecto de la adquisición lingüística espontánea en el niño, resulta incompatible sostener que",
+        "alternatives": [
+          "A) se produce a pesar de la evidente carencia de datos sistemáticos.",
+          "B) solo es posible si se asume que este está predispuesto a desarrollarla.",
+          "C) genera una paradoja pues el conocimiento adquirido es muy complejo.",
+          "D) es impl ausible si se postula que los datos recibidos por este la definen.",
+          "E) es un proceso llevado a cabo incluso si este presenta alguna patología."
+        ],
+        "correct": 4,
+        "rationale": "El proceso de adquisición lingüística se desarrolla de forma acelerada en el niño, si es que este no presenta alguna anomalía lingüística o un caso extremo de carencia de estímulos."
+      },
+      {
+        "statement": "Es posible deducir que el criterio de adecuación explicativa asumido por Chomsky",
+        "alternatives": [
+          "A) se cristaliza solo en el análisis sistemático y riguroso de una lengua particular en los siguientes niveles: fonológico, morfológico, sintáctico y semántico.",
+          "B) implica considerar la diversidad lingüística como un epifenómeno capaz de darnos pistas sobre la naturaleza de los principios generales del lenguaje.",
+          "C) supone la con sideración de que las lenguas del mundo son altamente divergentes y resulta inconducente postular engarces subyacentes.",
+          "D) direcciona las investigaciones únicamente al planteamiento de conjeturas sobre los procesos cognitivos que definen la competencia par ticular de un hablante.",
+          "E) se evidencia en investigadores que asumen la diversidad como un abanico de posibilidades gramaticales sin relación alguna en lo sustancial."
+        ],
+        "correct": 2,
+        "rationale": "La adecuación explicativa no solo permite la caracterización rigurosa de los mecanismos de una lengua particular, sino a la resolución del Problema de Platón (objeto de la teoría). En tanto que tal, las lenguas son solo fenómenos accesorios al objetivo real que es el lenguaje."
+      },
+      {
+        "statement": "Si se demostrara que la enseñanza objetiva de los padres es fundamental en el proceso de adquisición lingüística de un niño, probablemente",
+        "alternatives": [
+          "A) la propuesta chomskiana quedaría plenamente confirmada.",
+          "B) el innatismo lingüístico se vería corroborado con los datos.",
+          "C) el criterio de adecuación explicativa sería el único viable.",
+          "D) resultaría inconducente plantear que el estímulo es pobre.",
+          "E) los principios generales a priori serían fácilmente descritos."
+        ],
+        "correct": 3,
+        "rationale": "La propuesta innatista asume que el estímulo es pobre; si se demostrara que el flujo de los padres es decisivo, la propuesta chomskiana se vería refutada y, en consecuencia, plantear la pobreza de los datos resultaría inconducente."
+      }
+    ]
+  },
+  {
+    "type": "reading_comprehension",
+    "statement": "A diferencia de los mayas, el otro imperio de Mesoamérica, los aztecas se identifican exclusivamente con México, que no pierde ocasión de elevarlos a la categoría de mito. El águila azteca ocupa el centro de la bandera mexicana y destaca en los logotipos de las dos principales compañías aéreas del país. Hay un Banco Azteca y una TV Azteca, y la selección nacional de fútbol luce el águila en las camisetas y juega en el Estadio Azteca. La propia Ciudad de México es un homenaje implícito a la ciudad -estado de Tenochtitlan y al carácter indómito de los aztecas. Sin embargo, tras el icono azteca existe una realidad mucho más aparente que cierta. Para empezar, los poderosos aztecas sólo mantuvieron su imperio (la Triple Alianza de Tenochtitlan, Texcoco y Tlacopan) durante apenas un siglo, antes de ser derrotados por los conquistadores españoles. Por mucho temor y aversión que sus monarcas en las regiones sometidas, su dominio fue efímero. No erigieron templos por doquier ni propagaron tradiciones culturales a través de un extenso territorio como hicieron los romanos o los incas. En lugar de eso, los aztecas mantuvieron lo que algunos estudiosos denominan «un imperio barato», en el que permitían a los conquistados seguir gobernándose a sí mismos mientras cumplieran con el pago de los tributos. Era un sistema de venta de protección, sostenido por periódicas demostraciones de fuerza. Los aztecas prefirieron expresar su ingenio en su epicentro, Tenochtitlan. Sin embargo, la gran ciudad era en muchos aspectos un compendio de tradiciones, imágenes y prácticas religiosas heredadas extendido es que la cultura azteca fue completamente original. No lo fue». La tosca caricatura de unos aztecas sedientos de sangre es igualmente incorrecta. Los conquistadores españoles exageraron sin duda las prácticas sangrientas (afirmaron, por ejemplo, que habían sacrificado 80 400 víctimas humanas en la consagración de un solo templo); pero los análisis químicos practicados durante los 15 últimos años en terrenos porosos de diferentes puntos de Ciudad de México revelan algo diferente, según López Luján. «Tenemos las losas utilizadas para los sacrificios, los cuchillos rituales y los cuerpos de solo 127 víctimas. No podemos negar los sacrificios humanos», declara, aunque el número es sensiblemente menor.",
+    "questions": [
+      {
+        "statement": "El tema central del texto es",
+        "alternatives": [
+          "A) la distorsionada imagen que se tiene respecto de los aztecas.",
+          "B) los numerosos sacrificios humanos realizados por los aztecas.",
+          "C) los aztecas y su simbolización en la cultura mexicana actual.",
+          "D) la originalidad cultural de los aztecas durante siglos de dominio.",
+          "E) las prácticas religiosas realizadas por los aztecas y los mayas."
+        ],
+        "correct": 0,
+        "rationale": "La propuesta innatista asume que el estímulo es pobre; si se demostrara que el influjo de los padres es decisivo, la propuesta chomskiana se vería refutada y, en consecuencia, plantear la pobreza de los datos resultaría inconducente."
+      },
+      {
+        "statement": "El término SENSIBLEMENTE se puede reemplazar por",
+        "alternatives": [
+          "A) emocionalmente.",
+          "B) notablemente.",
+          "C) especialmente.",
+          "D) amicalmente.",
+          "E) severamente."
+        ],
+        "correct": 1,
+        "rationale": "La palabra se usa para referirse a la cantidad de sacrificados: mientras que los españoles señalaban que fueron decenas de miles, se tiene evidencia de poco más de un centenar, con lo que el número de sacrificados es notablemente menor."
+      },
+      {
+        "statement": "La palabra COMPENDIO connota",
+        "alternatives": [
+          "A) pluralidad étnica.",
+          "B) gran consolidación.",
+          "C) acelerado final.",
+          "D) sí ntesis cultural.",
+          "E) resumen histórico."
+        ],
+        "correct": 3,
+        "rationale": "La palabra compendio es usada para hacer referencia a la forma en que los aztecas se apropiaron de costumbres de civilizaciones anteriores. Por consiguiente, supone una síntesis cultural antes que un imperio signado por la originalidad."
+      },
+      {
+        "statement": "Es posible deducir del texto que el dominio azteca",
+        "alternatives": [
+          "A) fue fielmente representado por los conquistadores españoles.",
+          "B) estuvo lejos de ostentar un carácter omnímodo y expansivo.",
+          "C) es equiparable a la hegemonía impuesta por el Imperio inca.",
+          "D) contó con centros de ejecución en diversas zonas geográficas.",
+          "E) se instauró sobre la base de una política articulada de expansión."
+        ],
+        "correct": 1,
+        "rationale": "El Imperio azteca focalizó su poder en un lugar específico, y dejó que las poblaciones dominadas se gobiernen a sí mismas a cambio de tributos; entonces carecía de poder omnímodo, esto es, que lo abraza y lo comprende todo."
+      }
+    ]
+  },
+  {
+    "type": "sentence_elimination",
+    "statement": "Es posible deducir del texto que el dominio azteca",
+    "alternatives": [
+      "A) fue fielmente representado por los conquistadores españoles.",
+      "B) estuvo lejos de ostentar un carácter omnímodo y expansivo.",
+      "C) es equiparable a la hegemonía impuesta por el Imperio inca.",
+      "D) contó con centros de ejecución en diversas zonas geográficas.",
+      "E) se instauró sobre la base de una política articulada de expansión."
+    ],
+    "correct": 1,
+    "rationale": "El Imperio azteca focalizó su poder en un lugar específico, y dejó que las poblaciones dominadas se gobiernen a sí mismas a cambio de tributos; entonces carecía de poder omnímodo, esto es, que lo abraza y lo comprende todo."
+  },
+  {
+    "type": "sentence_elimination",
+    "statement": "Si los aztecas hubieran establecido su dominio en zonas estratégicamente dispuestas para extender su territorio, probablemente",
+    "alternatives": [
+      "A) sus costumbres serían mínimas.",
+      "B) habrían durado más de un siglo.",
+      "C) jamás habrían sido subyugados.",
+      "D) habrían cogobernado con los mayas.",
+      "E) habrían contado con más originalidad."
+    ],
+    "correct": 1,
+    "rationale": "El hecho de concentrarse en un solo lugar para gobernar hizo que el dominio azteca dure un siglo. Si su política hubiera sido expansiva, probablemente su duración habría sido mayor."
+  },
+  {
+    "type": "reading_comprehension",
+    "statement": "La lateralización del cerebro humano tiene un carácter anatómico y funcional. La lateralización funcional es, en sí misma, una característica arcaica dentro de los vertebrados. Del mismo modo, la lateralización anatómica de las regiones más significativas implicadas en el procesamiento lingüístico, como sucede con el área de Broca, constituye un rasgo compartido por el ser humano y otros primates, cuyas capacidades lingüísticas son claramente diferentes de las nuestras. Los grandes\n\nel caso de la estructura entre ambos hemisferios cerebrales son de menor entidad\nque las que existen en nuestra especie, como sucede paradigmáticamente con el\ncórtex temporal. Del mismo modo, en los macacos se observa una activación\npreferente del polo temporal del hemisferio izquierdo en respuesta a la audición de\nlas vocalizaciones características de la especie. Esta respuesta asimétrica parece\nestar ligada, además, a la prominencia comunicativa de las llamadas, y no tanto a\nlas características acústicas, al igual que sucede con nuestra propia especie.\nFinalmente, y como también ocurre en el ser humano, esta asimetría se desarrolla\nconforme aumenta la exposición a los estímulos procesados por el área cerebral en\ncuestión, de forma que está ausente en los individuos recién nacidos.",
+    "questions": [
+      {
+        "statement": "En el texto, la palabra ENTIDAD adquiere el sentido de",
+        "alternatives": [
+          "A) apariencia.",
+          "B) límite.",
+          "C) existencia.",
+          "D) proporción.",
+          "E) aspecto."
+        ],
+        "correct": 3,
+        "rationale": "La palabra se usa para referirse a las diferencias entre los grandes simios y los seres humanos en lo concerniente a la asimetría de los hemisferios cerebrales; aun cuando se advierte en los grandes simios esta no es equivalente en proporción."
+      },
+      {
+        "statement": "El tema central del texto es",
+        "alternatives": [
+          "A) la lateralización funcional en el ser humano y en los demás vertebrados.",
+          "B) la aparición de hemisferios asimétricos en los primates que se comunican.",
+          "C) la lateralización del cerebro humano: engarces y deslindes con los primates.",
+          "D) la ausencia de asimetría en los hemisferios cerebrales de los recién nacidos.",
+          "E) aspectos genéticos de la lateralización anatómica en los primates mayores."
+        ],
+        "correct": 2,
+        "rationale": "En efecto , el texto desarrolla el tema de la lateralización cerebral como un rasgo producido por la evolución y establece similitudes y diferencias de esta con la de los primates."
+      },
+      {
+        "statement": "Si solo los seres humanos presentaran lateralización cerebral, probablemente",
+        "alternatives": [
+          "A) esta se habría gestado paralelamente al desarrollo cerebral de otros primates.",
+          "B) se trate de un fenómeno reciente y no un relicto detectable en otras especies.",
+          "C) el área de Broca sea anatómicamente detectable en diferentes ve rtebrados.",
+          "D) las causas que definen este fenómeno biológico sean de índole estocástica.",
+          "E) la detección de este fenómeno tendría que remitirse a épocas más antiguas."
+        ],
+        "correct": 1,
+        "rationale": "Este fenómeno es evidenciable en otros vertebrados por lo que se puede deducir que fue forjado mediante mecanismos evolutivos en épocas prístinas. De detectarse en seres humanos exclusivamente, sería razonable pensar que se trata de un fenómeno reciente."
+      },
+      {
+        "statement": "Si el desarrollo cerebral prescindiera de una diferencia entre la información acústica y la prominencia comunicativa, probablemente",
+        "alternatives": [
+          "A) la lateralización aparecería como un fenómeno evolutivo reciente.",
+          "B) los macacos tenderían la misma uniformidad cerebral que los humanos.",
+          "C) los primates mayores serían los únicos en desarrollar lenguaje oral.",
+          "D) el ser humano carecería de la asimetría en los hemisferios cerebrales.",
+          "E) la lateralización sería un proceso de carácter puramente funcional."
+        ],
+        "correct": 3,
+        "rationale": "La diferencia entre información acústica y datos comunicativos direccio nan el desarrollo cerebral asimétrico. De no haber tal diferencia, posiblemente el desarrollo cerebral sea simétrico"
+      }
+    ]
+  },
+  {
+    "type": "reading_comprehension",
+    "statement": "Este fenómeno es evidenciable en otros vertebrados por lo que se puede deducir que fue forjado mediante mecanismos evolutivos en épocas prístinas. De detectarse en seres humanos exclusivamente, sería razonable pensar que se trata de un fenómeno reciente.",
+    "questions": [
+      {
+        "statement": "Si el desarrollo cerebral prescindiera de una diferencia entre la información acústica y la prominencia comunicativa, probablemente",
+        "alternatives": [
+          "A) la lateralización aparecería como un fenómeno evolutivo reciente.",
+          "B) los macacos tendrían la misma uniformidad cerebral que los humanos.",
+          "C) los primates mayores serían los únicos en desarrollar lenguaje oral.",
+          "D) el ser humano carecería de la asimetría en los hemisferios cerebrales.",
+          "E) la lateralización sería un proceso de carácter puramente funcional."
+        ],
+        "correct": 3,
+        "rationale": "La diferencia entre información acústica y datos comunicativos direccio nan el desarrollo cerebral asimétrico. De no haber tal diferencia, posiblemente el desarrollo cerebral sea simétrico"
+      }
+    ]
+  },
+  {
+    "type": "verbal_series",
+    "statement": "Tenaz, firme, persistente,",
+    "alternatives": [
+      "A) pertinaz.",
+      "B) consistente.",
+      "C) tornadizo.",
+      "D) veleidoso.",
+      "E) impoluto."
+    ],
+    "correct": 0,
+    "rationale": "Serie verbal sinonímica, se completa con la palabra PERTINAZ."
+  },
+  {
+    "type": "verbal_series",
+    "statement": "Patente, evidente, ostensible,",
+    "alternatives": [
+      "A) confuso.",
+      "B) empañado.",
+      "C) común.",
+      "D) enmarañado.",
+      "E) aparente."
+    ],
+    "correct": 2,
+    "rationale": "Serie verbal sinonímica, se completa con la palabra COMÚN."
+  },
+  {
+    "type": "verbal_series",
+    "statement": "Prisionero, aherrojado, apresado,",
+    "alternatives": [
+      "A) expedito.",
+      "B) privado.",
+      "C) sumido.",
+      "D) asimilado.",
+      "E) sujetado."
+    ],
+    "correct": 4,
+    "rationale": "Serie verbal sinonímica, se completa con la palabra SUJETADO."
+  },
+  {
+    "type": "verbal_series",
+    "statement": "Elija la alternativa que sea hiperónimo de TRIGO, ARROZ y SORGO.",
+    "alternatives": [
+      "A) Gimnosperma",
+      "B) Fanerógama",
+      "C) Dicotiledóneo",
+      "D) Tuberoso",
+      "E) Gramínea"
+    ],
+    "correct": 4,
+    "rationale": "Las palabras del encabezado se encuentran comprendidas en la palabra GRAMÍNEA, que es su hiperónimo."
+  },
+  {
+    "type": "verbal_series",
+    "statement": "Elija la alternativa que sea hiperónimo de TRIGO, ARROZ y SORGO.",
+    "alternatives": [
+      "A) Gimnosperma",
+      "B) Fanerógama",
+      "C) Dicotiledóneo",
+      "D) Tuberoso",
+      "E) Gramínea"
+    ],
+    "correct": 4,
+    "rationale": "Las palabras del encabezado se encuentran comprendidas en la palabra GRAMÍNEA, que es su hiperónimo."
+  },
+  {
+    "type": "verbal_series",
+    "statement": "Distante, separado; dudoso, seguro; ominoso, despreciable;",
+    "alternatives": [
+      "A) refinado, prosaico.",
+      "B) visionario, iluso.",
+      "C) pensativo, reflexivo.",
+      "D) arrojado, bravo.",
+      "E) vivo, espirituoso."
+    ],
+    "correct": 0,
+    "rationale": "Serie verbal mixta que tiene una secuencia de SINÓNIMOS, ANTÓNIMOS y SINÓNIMOS. Se completa con el par de antónimos REFINADO, PROSAICO."
+  },
+  {
+    "type": "verbal_series",
+    "statement": "Brioso, cobarde; irreflexivo, imprudente; canudo, joven;",
+    "alternatives": [
+      "A) arriscado, resuelto.",
+      "B) zote, avispado.",
+      "C) achantado, tímido.",
+      "D) mendrugo, despierto.",
+      "E) torvo, abierto."
+    ],
+    "correct": 0,
+    "rationale": "Serie verbal mixta que contiene una secuencia de ANTÓNIMOS, SINÓNIMOS y ANTÓNIMOS. Se completa con el par de sinónimos ARRISCADO RESUELTO."
+  }
+]

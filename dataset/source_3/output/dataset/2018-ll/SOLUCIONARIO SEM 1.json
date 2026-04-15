@@ -1,0 +1,469 @@
+[
+  {
+    "type": "reading_comprehension",
+    "statement": "Las especies de aves insulares tienen el cerebro más grande en comparación con el tamaño del cuerpo que las especies de aves que habitan en el continente, según un comunicado del Consejo Superior de Investigaciones Científicas (CSIC). Un equipo internacional de investigadores ha analizado más de 11 500 especímenes correspondientes a más de 1900 especies de aves, descubriendo la siguiente tendencia: un mayor tamaño del cerebro entre aquellas especies que habitan en islas. «Aún no está claro por qué los animales necesitan cerebros más grandes en las islas, pero podría deberse a la necesidad de subsistir bajo condiciones ambientales cambiantes. A diferencia del continente, en las islas, los animales no pueden marcharse cuando se deterioran las condiciones. Un cerebro grande permite hacer frente a los desafíos porque facilita el desarrollo de respuestas de comportamiento», explica Daniel Sol, investigador del CSIC, uno de los firmantes del estudio publicado en Nature Communications. Esta tendencia en el tamaño del cerebro de las familias de aves insulares es el resultado de cambios evolutivos que no se produjeron antes, sino después de la colonización de la isla por parte de la especie. «Ciertas características distintivas de las islas como el aislamiento geográfico, las biotas empobrecidas, el tamaño reducido y los límites bien definidos hacen que algunas presiones selectivas sean más comunes en las islas que en las áreas continentales adyacentes». En Barbados, por ejemplo, explica Sol, la población de la zenaida caribeña (Zenaida aurita) ha aumentado tanto que algunos individuos han empezado a utilizar nuevos recursos alimentarios, como el grano que se almacena en las factorías. Esta expansión del nicho es notoria, porque ha implicado que un individuo pasara de ser territorial y muy agresivo ante aves de su misma especie a alimentarse en grandes bandadas con escasos conflictos entre los integrantes. Otro caso curioso es el del pájaro carpintero de las islas Galápagos, «cuya técnica tradicional de captura de insectos ha sido reemplazada por el uso de ramitas para extraer los insectos de los recovecos durante los años de sequías severas». En general, «este tipo de experiencias concuerdan con la teoría de que las islas pueden favorecer la evolución de habilidades cognitivas avanzadas», afirma Ferrán Sayol, coautor del estudio. Forssmann, A. (13de agosto de 2018). «Cerebros más grandes en las especies de aves insulares que en continentales». las https://www.nationalgeographic.com.es/naturaleza/actualidad/cerebros-mas-grandes-especies-aves-insulares-que-continentales_13073/1 Recuperado Geographic España. National En de",
+    "questions": [
+      {
+        "statement": "1. El texto sostiene medularmente que un grupo de investigadores del Consejo Superior de Investigaciones Científicas",
+        "alternatives": [
+          "A) estima que las dimensiones del cerebro de los pájaros que habitan en las islas y los que pueblan los territorios continentales difieren.",
+          "B) ha analizado más de 11 500 especímenes correspondientes a más de 1900 especies de aves asentadas en regiones insulares.",
+          "C) ha propuesto que existe una diferencia notable entre el tamaño del cerebro y del cuerpo en aquellas aves que habitan regiones isleñas.",
+          "D) descubrió que el tamaño del cerebro de las aves asentadas en las islas es mayor que el de las especies que habitan en el continente.",
+          "E) ha formulado una hipótesis para explicar el aumento del tamaño del cerebro de las aves que se asientan fuera de la zona continental."
+        ],
+        "correct": 3,
+        "rationale": "El texto informa sobre el hallazgo de unos investigadores del Consejo Superior de Investigaciones Científicas: las aves que habitan en islas poseen un cerebro de mayor tamaño que aquellas que se asientan en la zona continental."
+      },
+      {
+        "statement": "2. El término CONCORDAR sugiere que los casos estudiados _____________la hipótesis de los investigadores.",
+        "alternatives": [
+          "A) conforman",
+          "B) reiteran",
+          "C) comprenden",
+          "D) refrendan",
+          "E) vindican"
+        ],
+        "correct": 3,
+        "rationale": "En el texto, Ferrán Sayol afirma que «este tipo de experiencias CONCUERDAN con la teoría…». Esta expresión sugiere que, hasta el momento, los casos confirman la hipótesis de los investigadores. «Refrendar», en una de sus acepciones, es sinónimo de corroborar."
+      },
+      {
+        "statement": "3. De la posible explicación del aumento de tamaño del cerebro de las aves insulares que refiere Daniel Sol, en su primera intervención, es válido colegir que",
+        "alternatives": [
+          "A) advierte que las aves son seres íntimamente arraigados a su lugar de origen.",
+          "B) cree que la variación del clima carece de relevancia para entender a las aves.",
+          "C) los ornitólogos se muestran reacios a plantear el enlace entre clima y cerebro.",
+          "D) la imposibilidad de migrar podría ser un factor clave de su modificación orgánica.",
+          "E) observa que el tamaño cerebral de las aves responde a su estancia ribereña."
+        ],
+        "correct": 3,
+        "rationale": "Según Sol, al verse obligadas a mantenerse en el mismo lugar, es decir, al no poder migrar, las aves deben desarrollar soluciones que suponen una mayor actividad cerebral, hecho que explicaría el aumento de su masa encefálica."
+      },
+      {
+        "statement": "4. Es falso sostener que el actual tamaño del cerebro de las aves insulares ha sido producto de la intensidad de las condiciones ambientales de su entorno, ya que",
+        "alternatives": [
+          "A) los investigadores todavía no han obtenido un promedio total del incremento del volumen del cerebro de las aves ajenas a las islas.",
+          "B) las especies de aves que viven en el continente no son capaces de migrar si faltan alimentos o su hábitat se haya contaminado.",
+          "C) es la constante variación de las condiciones ambientales la que, hipotéticamente, podría explicar las dimensiones de su materia gris.",
+          "D) un incremento en las medidas del cerebro permite enfrentar a los desafíos debido a que facilita el desarrollo de respuestas inmediatas.",
+          "E) fue el resultado de un cambio evolutivo gestado en un momento anterior al arribo de las aves a los territorios que habitan actualmente."
+        ],
+        "correct": 2,
+        "rationale": "Los investigadores aún no conocen la razón del aumento del tamaño del cerebro de las aves insulares, aunque, a modo de hipótesis, estiman que podría estar la necesidad de «subsistir bajo condiciones ambientales relacionadas con cambiantes»."
+      },
+      {
+        "statement": "5. Si, a pesar del aumento de su población, la zenaida caribeña se mantuviera fiel a sus recursos alimentarios tradicionales,",
+        "alternatives": [
+          "A) incluso así sería factible observar su empleo de herramientas sofisticadas para consumir y compartir las raciones de sus alimentos cotidianos.",
+          "B) podría invocarse este caso para cuestionar la relación causal entre presión selectiva y desarrollo de habilidades cognitivas sofisticadas.",
+          "C) su gusto por el grano almacenado en las factorías podría ser explicado por la dimensión alcanzada por su encéfalo en tiempos recientes.",
+          "D) su conducta agresiva se reduciría inexorablemente a raíz de los cambios climáticos que afectan la zona donde habita en la actualidad.",
+          "E) la expansión de su nicho y su alimentación por bandadas podrían formar parte de una evolución producida por factores todavía ininteligibles."
+        ],
+        "correct": 1,
+        "rationale": "Los investigadores consideran que vivir en una isla supone una serie de presiones selectivas, distintas a las que existen en la zona continental, que estimulan «la evolución de habilidades cognitivas avanzadas». En el texto, el caso de la zenaida caribeña coincide con esta hipótesis."
+      }
+    ]
+  },
+  {
+    "type": "reading_comprehension",
+    "statement": "Según la Encuesta Nacional de Hogares (Enaho), realizada por el INEI, la tasa de pobreza se elevó un punto porcentual el 2017, al pasar del 20,7% al 21,7% de la población. Así, 375 000 peruanos dejaron de ubicarse en la clase media para caer en situación de pobreza, donde ahora hay 6 906 000 personas. Este resultado implica que el 21,7% de la población del país subsiste gastando menos de S/ 338 mensuales, monto que, según la metodología del INEI, permite cubrir las necesidades básicas alimenticias y no alimenticias.\n\nLa trayectoria es diferenciada según las zonas geográficas. En áreas rurales, la pobreza subió a 44,4% (0,6 puntos más que en el 2016), mientras en las urbanas el incremento fue de 1,2 puntos porcentuales, con lo que esta condición afectó al 15,1% de la población. La zona con mayor deterioro en el país fue Lima, donde la pobreza escaló desde 11% hasta 13,3% el año pasado, alcanzando a 180 000 personas adicionales. Esto representa la mitad del incremento en el ámbito nacional.\n\nA la luz de estos resultados, el investigador principal de GRADE (Grupo de Análisis para el Desarrollo), Hugo Ñopo, advierte que ahora somos un país con más pobres urbanos que rurales. «Eso es bien importante para el diseño de política pública. Combatir la pobreza urbana es más difícil que combatir la rural, porque dificulta la focalización», sostiene. En tanto, el ex ministro de Economía, Alonso Segura, precisa que el enfriamiento de la actividad económica se siente más en las zonas urbanas, porque es ahí donde la dinámica del PBI contagia más.\n\nAsimismo, este rebote en la pobreza coincide con un año en que la economía peruana anotó una de sus menores tasas de crecimiento en tiempos recientes: 2,5%. Sin embargo, en el 2009 y el 2014, la actividad económica mostró un dinamismo incluso más débil y, aun así, se logró reducir la pobreza. Ñopo resalta que esto se debe a que, ahora que la pobreza está en niveles históricamente bajos, cada vez se hace más complicado seguir reduciéndola. Más aun, apunta que un descuido en la política social puede llevar a estos rebotes. Por su parte, Segura afirma que la capacidad de generación de bienestar se ha visto mermada por la debilidad de la actividad económica.\n\nAlegría, L. (24 de abril de 2018). «Pobreza en el Perú sube por primera vez en este milenio». En El Comercio. Recuperado de https://elcomercio.pe/economia/peru/pobreza-peru-sube-primera-vez-milenio-noticia-514460\n",
+    "questions": [
+      {
+        "statement": "1. En esencia, el texto sostiene que",
+        "alternatives": [
+          "A) la ciudad de Lima es la zona más afectada por el aumento de la pobreza producido el año 2017.",
+          "B) los resultados de la Enaho indican que desde el año pasado la pobreza ha aumentado un punto.",
+          "C) el 21,7% de la población nacional cubre sus gastos de alimentación y vivienda con S/ 338 mensuales.",
+          "D) una encuesta realizada por el INEI muestra que la tasa de pobreza se ha elevado a 21,7% el año pasado.",
+          "E) 375 000 peruanos ya no pertenecen a la clase media, porque viven en condición de extrema pobreza."
+        ],
+        "correct": 3,
+        "rationale": "El texto informa que, el año pasado, según la Encuesta Nacional de Hogares, realizada por el INEI, la tasa de pobreza aumentó un punto porcentual, de 20,7% a 21,7% de la población."
+      },
+      {
+        "statement": "2. El término TRAYECTORIA connota",
+        "alternatives": [
+          "A) tendencia.",
+          "B) orientación.",
+          "C) sentido.",
+          "D) dirección.",
+          "E) incremento."
+        ],
+        "correct": 4,
+        "rationale": "En el texto, el término TRAYECTORIA se refiere al «incremento» de la pobreza producido el año pasado. La oración donde figura la palabra en cuestión indica que este aumento varió según la zona."
+      },
+      {
+        "statement": "3. De la observación del gráfico, se puede inferir que, desde el año 2006 hasta el 2017,",
+        "alternatives": [
+          "A) la economía peruana ha afrontado prolongadas etapas de «enfriamiento».",
+          "B) hubo una disminución drástica de los índices de mendicidad en las calles.",
+          "C) se ha producido una disminución uniforme y permanente de la economía.",
+          "D) puede hablarse de una reducción de la pobreza meramente demagógica.",
+          "E) la reducción de la pobreza en la zona rural y urbana difieren en 13 puntos."
+        ],
+        "correct": 4,
+        "rationale": "La reducción de la pobreza en la zona rural alcanzó la cifra de 34,9%, mientras que en la zona urbana la disminución fue de 21,9%. Hecha la sustracción, la diferencia entre ambas cifras es 13 puntos porcentuales."
+      },
+      {
+        "statement": "4. Respecto a la información de la lucha contra la pobreza representada en el gráfico, es incompatible sostener que",
+        "alternatives": [
+          "A) la pobreza había mostrado una tendencia hacia la reducción hasta el año 2016.",
+          "B) la mayor reducción de pobreza se halla en la zona rural entre el 2007 y el 2008.",
+          "C) la pobreza en la zona rural disminuyó, plausiblemente, en 34,9% desde el 2006.",
+          "D) la pobreza se redujo en 28,4% aproximadamente en una década (2006-2016).",
+          "E) la zona urbana, en el 2015, no presentó ni un punto de reducción de la pobreza."
+        ],
+        "correct": 1,
+        "rationale": "La mayor reducción de pobreza en la zona rural, según las cifras que presenta el gráfico, se produjo entre el año 2009 y el 2010, con una disminución de 5,7% aproximadamente."
+      },
+      {
+        "statement": "5. Si, en el Perú, la falta de recursos para subsistir se concentrara únicamente en el campo,",
+        "alternatives": [
+          "A) el Estado peruano no se preocuparía por los rebotes locales de la pobreza.",
+          "B) Ñopo seguiría postulando que somos un territorio con más pobres urbanos.",
+          "C) sería factible plantear políticas públicas focalizadas para combatir la inopia.",
+          "D) la dinámica del PBI sería un factor irrelevante para comprender la pobreza.",
+          "E) no habría modo de explicar el aumento de la miseria producida el año 2017."
+        ],
+        "correct": 2,
+        "rationale": "Según Hugo Ñopo, cuando la pobreza se concentra en zonas urbanas es más complicado combatirla, porque la focalización se vuelve difícil. Por ello, si la pobreza fuera únicamente un problema rural, sería posible afrontarla desde políticas públicas focalizadas."
+      }
+    ]
+  },
+  {
+    "type": "reading_comprehension",
+    "statement": "III. TEXTO DIALÉCTICO\n\nLos grandes perdedores por la llegada de venezolanos son los trabajadores peruanos. El grueso de la migración es de mano de obra no calificada en el comercio y en los servicios. Así, son los trabajadores peruanos no calificados los que sufren el costo de la migración desde Venezuela. Cada año se incorporan alrededor de 300 000 personas a la fuerza laboral. Si al año llegan 100 000 venezolanos, entonces un tercio del flujo de nuevos empleos será absorbido por los inmigrantes. Ello implica que los trabajadores nacionales tendrán mayor dificultad para conseguir y mantener un puesto de trabajo. Si el ritmo de llegada de venezolanos se mantiene, habría cerca de 400 000 inmigrantes para el 2021. La mayor oferta laboral causará una reducción de 2% a 5% del salario no calificado.\n\nNuestros compatriotas también ven afectadas sus aspiraciones laborales, pues muchos empresarios prefieren contratar trabajadores venezolanos. Esta decisión está motivada, en primer lugar, por el bajo salario que están dispuestos a recibir los inmigrantes y, en segundo lugar, por su calificación profesional y la disposición que tienen para cumplir con las tareas encomendadas. A esto se agrega que muchos de ellos tienen un importante bagaje cultural, resultado de una preparación técnica o universitaria, que les brinda la posibilidad de entablar una eficaz interrelación personal con sus empleadores.\n\nDe acuerdo con la Superintendencia Nacional de Migraciones, cerca de 115 000 venezolanos se han establecido en el Perú. Esta migración tiene principalmente ganadores. Para comenzar, gana nuestro país, porque incrementa su fuerza laboral, lo cual permitirá producir una mayor cantidad de bienes y servicios en los próximos años. Se estima que, por cada 100 000 migrantes, el PBI del Perú aumentaría cerca de USD 600 millones cada año, lo que representa un incremento anual de 0,3%. Esta cifra puede servir para dinamizar la economía peruana y estimular su crecimiento, que debido a diversos factores da la impresión de haberse estancado.\n\nGanan, en segundo lugar, los inmigrantes venezolanos, ya que consiguen trabajo y mejoran sus ingresos. El salario mínimo en Venezuela apenas alcanza para comprar un kilo de arvejas. En cambio, en el Perú, los venezolanos que llegan perciben aproximadamente entre 800 y 1200 soles mensuales. A veces, este dinero incluso alcanza para que envíen remesas a sus familiares que se han quedado en su país natal. Ganan, por último, también las empresas y negocios peruanos, a causa de que cuentan con más trabajadores dispuestos a aceptar salarios más bajos. Los menores salarios reducen el costo de producción de los empresarios. Si ello se traduce en menores precios de los bienes y servicios, ganarán también los consumidores peruanos.\n\nMendoza, J. (2017). «¿Cuáles son los efectos de la inmigración venezolana al Perú?». En Exitosa.\nRecuperado de https://exitosanoticias.pe/opinion-juan-mendoza-cuales-los-efectos-la-inmigracion-\nvenezolana-al-peru/ (Adaptación)\n\n",
+    "questions": [
+      {
+        "statement": "La polémica entre ambos textos gira entorno a",
+        "alternatives": [
+          "A) los perjuicios resultados del arribo de inmigrantes venezolanos al territorio.",
+          "B) la oportunidad económica que surge para las empresas por la inmigración.",
+          "C) la migración de mano de obra no calificada para las ventas y los servicios.",
+          "D) los efectos provocados por la llegada de inmigrantes venezolanos al Perú.",
+          "E) la necesidad de poner barreras legales a la migración de venezolanos hoy."
+        ],
+        "correct": 3,
+        "rationale": "Ambos textos asumen posición respecto a los efectos del ingreso de inmigrantes venezolanos al territorio nacional. Para el texto 3A, su llegada ha supuesto un perjuicio para los trabajadores connacionales, mientras que, para el texto 3B, las consecuencias son positivas a diferentes niveles."
+      },
+      {
+        "statement": "En el texto 3A, el término GRUESO es equivalente a ___________;y, en el texto 3B, el término TRADUCIR se entiende como ___________.",
+        "alternatives": [
+          "A) la población; interpretar",
+          "D) la mayoría; consolidar",
+          "B) una mayor parte; valorar",
+          "E) la mayor parte; provocar",
+          "C) un sector; causar"
+        ],
+        "correct": 4,
+        "rationale": "En el primer caso, GRUESO alude a «la mayor parte» de los inmigrantes venezolanos. En el segundo, TRADUCIR hace referencia a la disminución de precios que la reducción de costos de producción puede «provocar»."
+      },
+      {
+        "statement": "Desde la perspectiva del texto 3B, la comparación entre los salarios de Venezuela y Perú permite concluir que",
+        "alternatives": [
+          "A) los migrantes se encuentran descontentos con los sueldos percibidos en el Perú.",
+          "B) el envío de remesas hacia su país es una práctica común a todos los migrantes.",
+          "C) la política de su país, para los migrantes, carece de una orientación determinada.",
+          "D) los niveles de inflación económica en el país llanero son extremadamente altos.",
+          "E) el Estado peruano ha contribuido en el malestar de los inmigrantes venezolanos."
+        ],
+        "correct": 3,
+        "rationale": "En el texto 3B, se indica que el sueldo mínimo en Venezuela solo alcanza «para comprar un kilo de arvejas». Es decir, la moneda venezolana se ha depreciado. Este inflación económica en Venezuela son detalle sugiere que los niveles de"
+      },
+      {
+        "statement": "Respecto a la preferencia de los empresarios peruanos por los trabajadores venezolanos, reseñada en el texto 3A, no es correcto afirmar que",
+        "alternatives": [
+          "A) a veces se justifica por su calificación profesional y su disposición laboral.",
+          "B) el monto salarial reducido es un factor para comprender esta predilección.",
+          "C) establecer una interrelación personal eficiente favorece a los inmigrantes.",
+          "D) obedece a factores solamente relacionados con la formación profesional.",
+          "E) disminuye las posibilidades laborales reales de la mano de obra nacional."
+        ],
+        "correct": 3,
+        "rationale": "El texto señala que la comunicación eficaz y la disposición hacia el trabajo, presumiblemente su proactividad, son también factores que los empleadores peruanos consideran al momento de elegir personal extranjero."
+      },
+      {
+        "statement": "Si se aprobara una ley que le prohibiera a las empresas y a los negocios pagar a todos sus trabajadores menos de lo establecido,",
+        "alternatives": [
+          "A) indagar por opciones laborales en el Perú no sería viable para los venezolanos.",
+          "B) aumentar los beneficios para los migrantes devendría en una prioridad nacional.",
+          "C) asumir que la migración podría beneficiar a los consumidores sería implausible.",
+          "D) para incrementar el PBI a 600 millones cada año se requeriría apoyo venezolano.",
+          "E) buscar personal capaz entre los migrantes sería una táctica empresarial común."
+        ],
+        "correct": 2,
+        "rationale": "Si se establece un sueldo fijo para todos los trabajadores, no sería factible la reducción de precios de los bienes y servicios, ya que las empresas no podrían disminuir sus costos de producción."
+      }
+    ]
+  },
+  {
+    "type": "reading_comprehension",
+    "statement": "COMPRENSIÓN DE LECTURA\n\nNo es fácil para nosotros, acostumbrados desde siempre a sabernos registrados con\nprecisión en archivos y ficheros, imaginar cuán ardua podía ser la verificación de la\nidentidad personal en una sociedad que no conocía la fotografía ni los documentos de\nidentidad. De hecho, en la segunda mitad del siglo XIX, es este el problema central para\naquellos que se concebían como los «defensores de la sociedad», frente a la aparición y\nla creciente difusión de la figura que parece constituir la obsesión de la burguesía de la\nepoca: el «delincuente habitual». Tanto en Francia como en Inglaterra fueron votadas\nleyes que distinguían claramente entre el primer crimen, cuya pena era la prisión, y la\nreincidencia, que se castigaba en cambio con la deportación a las colonias. La necesidad\n\nde poder identificar con certeza a la persona arrestada por un delito se vuelve entonces\nuna condición necesaria para el funcionamiento del sistema judicial.\n\nFue esta necesidad la que empujó a un oscuro funcionario de la Prefectura de\nPolicía de París, Alphonse Bertillon, a poner a punto, hacia el final de los años setenta, el\nsistema de identificación de los delincuentes basado en la medición antropométrica y en\nla fotografía de filiación, que en pocos años se hizo célebre en el mundo entero como\nbertillonage. Cualquiera que por alguna razón se encontraba en estado de detención o de\narresto era sometido inmediatamente a una serie de mediciones del cráneo, de los\nbrazos, de los dedos de las manos y los pies, de la oreja y de la cara. A continuación, el\nindividuo sospechoso era fotografiado tanto de frente como de perfil, y ambas fotografías\nse pegaban en la «tarjeta Bertillon», que contenía todos los datos útiles para su\nidentificación, según el sistema que su inventor había bautizado como «portrait parlé»\n(«retrato hablado»).\n\nEn los mismos años, un primo de Darwin, Francis Galton, desarrollando los trabajos\nde un funcionario de la administración colonial inglesa, Henry Faulds, empezó a trabajar\nen un sistema de clasificación de las huellas digitales que permitiría la identificación de los\ncriminales reincidentes sin posibilidad de error. Curiosamente Galton era un partidario\nconvencido del método antropométrico-fotográfico de Bertillon, cuya adopción en\nInglaterra apoyaba; pero sostenía que el relevamiento de las huellas digitales era\nparticularmente idóneo para los nativos de las colonias, cuyos rasgos físicos tienden a\nconfundirse y a parecer iguales para un ojo europeo. Otro ámbito donde el procedimiento\ntuvo una aplicación precoz fue la prostitución, porque se creía que los procedimientos\nantropométricos implicaban una promiscuidad embarazosa con las criaturas de sexo\nfemenino, cuyas largas cabelleras, por otro lado, volvían más difícil la medición. Ya en los\nprimeros veinte años del siglo XX, ambos sistemas antropométricos combinados se\ndifunden en todos los estados del mundo.\n\nAgamben, G. (2014). «Identidad sin persona». Desnudez. Buenos Aires: Adriana Hidalgo Editora, pp. 70-72.",
+    "questions": [
+      {
+        "statement": "De forma precisa, se puede afirmar que el texto gira entorno",
+        "alternatives": [
+          "A) a los aportes de Galton y Bertillon para los procesos de identificación.",
+          "B) al origen, desarrollo y generalización de las técnicas antropométricas.",
+          "C) a la aparición de la técnica de huellas digitales a finales del siglo XIX.",
+          "D) a la oposición entre el bertillonage y la tipificación de huellas digitales.",
+          "E) a los modernos mecanismos que permiten reconocer a los individuos."
+        ],
+        "correct": 1,
+        "rationale": "El texto describe el origen, desarrollo y generalización de las técnicas antropométricas y de las huellas digitales."
+      },
+      {
+        "statement": "En el texto, el término CÉLEBRE tiene el sentido contextual de",
+        "alternatives": [
+          "A) relevante.",
+          "B) necesario.",
+          "C) pertinente.",
+          "D) incidental.",
+          "E) conocido."
+        ],
+        "correct": 4,
+        "rationale": "CÉLEBRE significa conocido; el texto dice que la técnica se hizo célebre."
+      },
+      {
+        "statement": "Del texto se infiere que, por su origen, la aplicación generalizada de las técnicas antropométricas",
+        "alternatives": [
+          "A) implica que las obsesiones de los burgueses carecen de relevancia actualmente.",
+          "B) sufrió una serie de modificaciones luego de ser usada para identificar meretrices.",
+          "C) supone que, en cierto sentido, cualquier individuo es potencialmente un criminal.",
+          "D) fue muy útil para la administración de un amplio sector de territorios colonizados.",
+          "E) demandó que, de modo reiterado, Galton colaborara estrechamente con Bertillon."
+        ],
+        "correct": 2,
+        "rationale": "En un principio, las mediciones de Bertillon fueron concebidas para tratar con criminales. Al extender su uso a toda la sociedad, implícitamente, se coloca a cada uno de sus integrantes bajo sospecha: así, cada ciudadano, potencialmente, es un criminal."
+      },
+      {
+        "statement": "No es válido afirmar que el sistema de clasificación de huellas digitales fue creado especialmente para reemplazar el método antropométrico-fotográfico de Bertillon, ya que",
+        "alternatives": [
+          "A) la reincidencia fue un fenómeno poco frecuente en el territorio galo.",
+          "B) Galton, su creador, lo concibió como un complemento del segundo.",
+          "C) el funcionario francés estaba al tanto de la legislación en Inglaterra.",
+          "D) los recursos técnicos del primo de Darwin eran sin duda superiores.",
+          "E) las técnicas elaboradas en Francia se impusieron por todo el globo."
+        ],
+        "correct": 1,
+        "rationale": "El texto indica que Galton creó el sistema para contribuir a una mejor detección de reincidentes en las zonas coloniales donde el sistema de Bertillon tenía mayores problemas de aplicación."
+      },
+      {
+        "statement": "Si la burguesía, a mediados del siglo XIX, no se hubiera obsesionado con la figura del «delincuente habitual»",
+        "alternatives": [
+          "A) el sistema legal francés se habría distinguido por su severidad ante el crimen.",
+          "B) la generalización de los sistemas antropométricos habría tomado más tiempo.",
+          "C) el sistema propuesto por Bertillon habría prescindido de la clasificación digital.",
+          "D) la aparición del sistema de Galton se habría anticipado al del francés Bertillon.",
+          "E) Bertillon habría abandonado su cargo administrativo para elaborar su sistema."
+        ],
+        "correct": 1,
+        "rationale": "La secuencia del texto sugiere que modificar el primer eslabón retrasaría la generalización de los sistemas antropométricos."
+      }
+    ]
+  },
+  {
+    "type": "reading_comprehension",
+    "statement": "SECCIÓN 1B\n\nLa importancia y los beneficios del uso de la tecnología en la educación no se pueden\nignorar. La tecnología ha revolucionado la forma en que los profesores enseñan y los\nestudiantes aprenden, facilitando la manera en que se transmite el conocimiento y la\nmanera en que este se adquiere. Además, se ha convertido en un aprendizaje más\ndivertido y dinámico. Hace solo una década se utilizaba el tablero de tiza, luego se pasó al\ntablero de acrílico y ahora se están utilizando tableros inteligentes. Estos tableros\npermiten a los profesores enseñar y compartir conocimiento de muchas maneras posibles.\nLa habilidad audio-visual de los computadores, desde presentaciones de Power Point\nhasta softwares animados, están siendo usados para presentar información de manera\ninteractiva y dinámica. Además el uso de proyectores, micrófonos y parlantes permiten a\nlos profesores llegar a un número masivo de estudiantes de manera inmediata. Estudios\nhan demostrado que las herramientas señaladas aumentan los niveles de concentración\nde los estudiantes y los lleva a mejorar el nivel de atención frente al contenido. Es\necesario recalcar que el internet ha jugado un papel determinante en la educación de\nhoy en día. Siendo una inmensa fuente de información, los estudiantes lo ven como una\nherramienta efectiva para adquirir conocimiento. No solo permite encontrar todo tipo de\ninformación de manera rápida y fácil, sino que hace posible adquirir conocimiento\nespecífico mediante cursos virtuales abiertos para todo público.\n\nSin embargo, los efectos positivos del uso de la tecnología en la educación tales\ncomo las comunicaciones, el entretenimiento y la habilidad para hacer las cosas más\nfáciles y rápidas, pueden ser uno de los óbices en el salón de clase. Varios de los\nelementos de entretenimiento como los celulares, juegos móviles, aplicaciones y en\ngeneral navegar por internet puede distraer a los estudiantes. Además, el uso común del\nchat a través de los teléfonos celulares aumenta drásticamente la falta de concentración\nentre compañeros. Con las nuevas tecnologías los estudiantes pueden obtener buenas\nnotas sin el mayor esfuerzo haciendo búsquedas rápidas para resolver cualquier tipo de\nproblema. No obstante, La tecnología hizo que el fraude se convierta en un ejercicio\nsimple de hacer como nunca antes había ocurrido, con una probabilidad muy baja de ser\natrapado. Por ejemplo, estudiantes a los que se les permite sacar una calculadora en un\nexamen, escriben dentro de esta un programa que les permitirá obtener todas las\nfórmulas para que puedan resolver el examen fácilmente. Otro de los escenarios posibles\nes que los estudiantes tomen una foto de su tarea y la envíen a sus amigos vía e-mail o a\ntravés de sus celulares inteligentes para que estos, a su vez, la plagien.\n\nCollazos, A. (10 de febrero de 2014). «Los pros y los contras del uso de la tecnología en la Educación». En\nRevista Educación Virtual. Recuperado de https://revistaeducacionvirtual.com/archives/755. (Adaptación)",
+    "questions": [
+      {
+        "statement": "1. El tema central que se discute en el texto es",
+        "alternatives": [
+          "A) los resultados polivalentes del empleo de tecnología en educación.",
+          "B) los efectos múltiples de la aplicación de tecnología en la educación.",
+          "C) los pros y contras del uso de la tecnología aplicada a la educación.",
+          "D) las causas del déficit de atención desencadenado por la tecnología.",
+          "E) los factores que determinan el déficit de aprendizaje en la actualidad."
+        ],
+        "correct": 2,
+        "rationale": "La respuesta se discute en el texto: En el texto, se discute la polémica sobre los efectos positivos y negativos del uso la tecnología en el ámbito de la educación."
+      },
+      {
+        "statement": "2. Si las instituciones educativas regularan el uso de dispositivos tecnológicos en las aulas, probablemente,",
+        "alternatives": [
+          "A) se dificultaría en gran medida el aprendizaje de los discentes.",
+          "B) el fraude académico sería erradicado por completo de la educación.",
+          "C) los estudiantes podrían mostrar más empeño en el razonamiento.",
+          "D) los riesgos de fraude académico se reducirían significativamente.",
+          "E) muchos estudiantes experimenten un retroceso en su aprendizaje."
+        ],
+        "correct": 3,
+        "rationale": "La tecnología hizo que el fraude se convirtiera en una cosa muy simple de practicar, con una probabilidad muy baja de ser atrapado; un mejor control de su empleo reduciría de forma significativa este inconveniente."
+      },
+      {
+        "statement": "3. El término ÓBICE connota",
+        "alternatives": [
+          "A) impedancia.",
+          "D) decadencia.",
+          "B) barrera.",
+          "E) dificultad.",
+          "C) contingencia."
+        ],
+        "correct": 3,
+        "rationale": "El termino ÓBICE se refiere a las dificultades que se presentan en el salón de clase tras la irrupción de la tecnología."
+      },
+      {
+        "statement": "4. Del uso positivo de la tecnología en la educación, es incompatible afirmar que",
+        "alternatives": [
+          "A) viene desempeñando ahora un rol prescindible en la educación y, de forma",
+          "específica, en el proceso de enseñanza-aprendizaje.",
+          "B) ha revolucionado los procesos y métodos de enseñanza-aprendizaje de forma",
+          "exponencial cuando están bien orientados.",
+          "C) provocó un aumento de los niveles de concentración de los estudiantes en casos",
+          "en los que se usaron micrófonos o Power Point.",
+          "D) contribuye a optimizar la atención del discente entorno al contenido cuando las",
+          "herramientas tecnológicas son las adecuadas.",
+          "E) es usado para presentar información de manera interactiva y dinámica en el aula",
+          "de clases y fuera de ella mediante cursos virtuales."
+        ],
+        "correct": 0,
+        "rationale": "Este enunciado es incompatible, ya que herramientas como el internet cumplen un papel determinante en la educación de hoy en día."
+      },
+      {
+        "statement": "5. Respecto del aprendizaje mediante TIC (Tecnologías de la Información y Comunicación), se infiere que",
+        "alternatives": [
+          "A) ha ampliado los límites del conocimiento y el número de sus destinatarios.",
+          "B) ha hecho del fraude una práctica consuetudinaria, inopinada en el pasado.",
+          "C) podría constituirse como óbice para los estudiantes en el salón de clase.",
+          "D) agiliza la búsqueda de información veraz y la adquisición de saber global.",
+          "E) viene desarrollando un papel sustituto del conocimiento en la actualidad."
+        ],
+        "correct": 0,
+        "rationale": "Los cursos virtuales están abiertos a todo el público, estos pueden acceder a la información de forma inmediata, posibilitando la adquisición conocimiento específico, en este sentido, ha ampliado el número de sus destinatarios y los límites del conocimiento."
+      }
+    ]
+  },
+  {
+    "type": "reading_comprehension",
+    "statement": "Siguiendo a Keynes, estamos seguros de que el libre mercado carece de mecanismos de autoequi­librio que lleven al empleo a su plenitud. Como economistas keynesianos, justificamos la intervención del Estado mediante políticas públicas orientadas a lograr el pleno empleo y la estabilidad de precios. Keynes argumentaba que una demanda general inadecuada podría dar lugar a largos períodos de alto desempleo. ¿Por qué? Porque simplemente el producto de bienes y servicios de una economía es la suma de cuatro inversión, compras del gobierno y exportaciones netas.\n\ncomponentes: consumo,\nCualquier aumento de la demanda tiene que provenir de uno de esos cuatro componentes. Pero durante una recesión, suelen intervenir fuerzas poderosas que deprimen la demanda al caer el gasto. Por ejemplo, al caer la economía la incertidumbre a menudo erosiona la confianza de los consumidores, que reducen entonces sus gastos, especialmente en compras discrecionales como prendas gravosas o un automóvil. Esa reducción del gasto de consumo puede llevar a las empresas a invertir menos, como respuesta a una menor demanda de sus productos. Así, la tarea de hacer crecer el producto recae en el Estado. Así, en consonancia con la teoría keynesiana, entendemos que la intervención estatal es necesaria para moderar los auges y caídas de la actividad económica, es decir, el ciclo económico.\n\nSarwat, J., Mahmud, A. S., y Papageorgiou, C. (2014). «¿Qué es a economía keynesiana?». En Finanzas &\nhttps://www.imf.org/external/pubs/ft/fandd/spa/2014/09/pdf/basics.pdf.\n\nde\n\nDesarrollo. Recuperado\n(Adaptación)\n\nEn Hayek, la distinción, en el terreno económico, es entre un sistema donde la actividad económica de los hombres está sometida al control del Estado y un sistema de competencia en donde el individuo es libre, razón esencial pero no suficiente; pues también se requiere que el Estado deje en total libertad las fuerzas económicas. Porque cuando el Estado deja de intervenir en la economía, el hombre casi mágicamente es\n\ncapaz de satisfacer sus necesidades, siempre y cuando concurra libremente, en su papel\nde consumidor, al mercado libre. Lo que no ocurre en una sociedad donde el Estado interviene. Así, pues, tenemos que aceptar que cuando el Estado interviene da dirección\ncolectiva y consciente a las fuerzas sociales; consecuentemente, lo que hace es\nreemplazar el mecanismo impersonal y anónimo del mercado porque no permite\ndesarrollar la capacidad socialmente mal distribuida, lo cual resulta a todas luces negativo\npara el ejercicio de la libertad de forma plena. Por ende, sostenemos que existe en todos\nlos individuos la misma potencialidad de satisfacer necesidades accediendo al mercado,\naunque se sostenga que en esta propuesta se olvida no solo la diferencia de posibilidades\nde acceso al mercado que existe entre las clases sociales; sino, además, la distancia que\nsepara y enfrenta a distintos estamentos dentro de una misma clase. Por consiguiente, el\nintervencionismo estatal tiene que ser desechado como posibilidad.\n\nCardoso, H. (2006). «El origen del neoliberalismo: tres perspectivas». En Espacios Públicos. 18 (9).\n\nRecuperado de http://www.redalyc.org/articulo.oa?id=67601812. (Adaptación)\n\nÚltimamente, en los medios de comunicación vemos que se utilizan las denominaciones\nde «migrante» o «refugiado» de manera indistinta, cuando dichas denominaciones\nguardan grandes diferencias legales que se basan en la situación en la que hayan dejado\nsus países. En efecto, el Alto Comisionado de las Naciones Unidas para los Refugiados\n(ACNUR) distingue a los «migrantes económicos» de los «refugiados» de la siguiente\nmanera: «para un “refugiado”, las condiciones económicas del país de asilo son menos\nimportantes que su seguridad». Para la Organización Mundial para la Migración, por su\nparte, no existe una definición internacional de «migrante». La Organización de las\nNaciones Unidas, no obstante, lo define como un «individuo que ha residido en un país\nextranjero durante más de un año independientemente de las causas, ya sean voluntarias\no involuntarias, y de los medios para lograrlo, regulares o irregulares».\n\nDe acuerdo con el artículo 13 de\n\nla Ley sobre Refugiados, Protección\nComplementaria y Asilo Político de los Estados Unidos Mexicanos: «la condición de\nrefugiado se reconocerá a todo extranjero que se encuentre en territorio nacional, bajo\nalguno de los siguientes supuestos: 1. Debido a fundados temores de ser perseguido por\nmotivos de raza, religión, nacionalidad, género, pertenencia a determinado grupo social u",
+    "questions": [
+      {
+        "statement": "El tema central que articula la discusión entre ambos autores es",
+        "alternatives": [
+          "A) los efectos de la intervención del Estado en las fuerzas económicas.",
+          "B) los riesgos del intervencionismo estatal en las fuerzas económicas.",
+          "C) la relevancia del intervencionismo estatal en el impulso económico.",
+          "D) las causas que determinan la reducción de los gastos de consumo.",
+          "E) los factores que determinan el alza y baja de los gastos de consumo."
+        ],
+        "correct": 0,
+        "rationale": "En ambos textos se tiene como tema articulador la presencia del Estado como regulador de las fuerzas económica. Para Keynes esta intervención es fundamental, mientras que para Hayek es nociva para el desarrollo del libre mercado."
+      },
+      {
+        "statement": "Según la teoría keynesiana, si la intervención estatal no fuera decisiva para moderar\nel ciclo económico, posiblemente,",
+        "alternatives": [
+          "A) los economistas keynesianos detentarían el poder estatal indefinidamente.",
+          "B) los consumidores estarían impedidos de realizar compras discrecionales.",
+          "C) el Estado entraría inevitablemente en una fase de prosperidad económica.",
+          "D) los consumidores y las empresas replegarían sus gastos e inversiones.",
+          "E) aumentarían sostenidamente los índices de pobreza entre la población."
+        ],
+        "correct": 3,
+        "rationale": "Según la teoría keynesiana, la intervención estatal es necesaria para moderar los auges y caídas de la actividad económica (ciclo económico); de no poder atender esta situación la reducción del gasto de consumo podría llevar a las empresas a invertir menos frente a una menor demanda de sus productos en el mercado."
+      },
+      {
+        "statement": "En el texto 2B, el significado de COMPRAS DISCRECIONALES se refiere de forma\nespecífica a",
+        "alternatives": [
+          "A) oferta y demanda.",
+          "C) bienes y servicios.",
+          "E) bienes normales.",
+          "B) bienes suntuarios.",
+          "D) bienes secundarios."
+        ],
+        "correct": 1,
+        "rationale": "La frase COMPRAS DISCRECIONALES se relaciona con las compras de bienes que se diferencian de artículos de primera necesidad."
+      },
+      {
+        "statement": "De los argumentos expuestos en el texto 2A sobre la intervención del Estado en la\neconomía, es incompatible sostener que, durante una recesión,",
+        "alternatives": [
+          "A) se reducen todos los gastos de consumo, especialmente, en compras discrecionales.",
+          "B) la reducción del gasto de consumo puede llevar a las empresas a invertir mucho menos dinero.",
+          "C) suelen intervenir fuerzas poderosas que deprimen el consumo al reducirse el gasto público.",
+          "D) la incertidumbre a menudo erosiona la confianza de los consumidores al caer la economía.",
+          "E) la tarea del Estado es desaparecer el producto como respuesta a una menor demanda."
+        ],
+        "correct": 4,
+        "rationale": "Este enunciado es incompatible, ya que, como explica la teoría keynesiana, la tarea del Estado es hacer crecer el producto tras la caída de los gastos de consumo e inversión."
+      },
+      {
+        "statement": "Se infiere del texto 2B que, con la intervención del Estado en la dirección colectiva y\nconsciente a las fuerzas sociales",
+        "alternatives": [
+          "A) surgiría una impresión falaz de capacidad de consumo en toda la sociedad.",
+          "B) surgiría una falsa impresión de equilibrio económico en los sectores sociales.",
+          "C) los consumidores podrían llegar a satisfacer sus necesidades de consumo.",
+          "D) se estrecharían las distancias que separa y enfrenta a distintos estamentos.",
+          "E) se agravarían las brechas sociales, limitando con ello el acceso al consumo."
+        ],
+        "correct": 0,
+        "rationale": "Cuando el Estado interviene, da dirección colectiva y consciente a las fuerzas sociales; consecuentemente, lo que hace es reemplazar el mecanismo impersonal y anónimo del mercado porque no permite desarrollar la capacidad socialmente mal distribuida, desde la perspectiva de las estructuras clasistas humanas de satisfacer sus necesidades. Por ende, parecería que existe en todos los individuos la misma potencialidad de satisfacer necesidades accediendo al mercado."
+      }
+    ]
+  },
+  {
+    "type": "reading_comprehension",
+    "statement": "Últimamente, en los medios de comunicación vemos que se utilizan las denominaciones de «migrante» o «refugiado» de manera indistinta, cuando dichas denominaciones guardan grandes diferencias legales que se basan en la situación en la que hayan dejado sus países. En efecto, el Alto Comisionado de las Naciones Unidas para los Refugiados (ACNUR) distingue a los «migrantes económicos» de los «refugiados» de la siguiente\nmanera: «para un “refugiado”, las condiciones económicas del país de asilo son menos importantes que su seguridad». Para la Organización Mundial para la Migración, por su parte, no existe una definición internacional de «migrante». La Organización de las Naciones Unidas, no obstante, lo define como un «individuo que ha residido en un país extranjero durante más de un año independientemente de las causas, ya sean voluntarias o involuntarias, y de los medios para lograrlo, regulares o irregulares».\n\nDe acuerdo con el artículo 13 de\nla Ley sobre Refugiados, Protección\nComplementaria y Asilo Político de los Estados Unidos Mexicanos: «la condición de refugiado se reconocerá a todo extranjero que se encuentre en territorio nacional, bajo alguno de los siguientes supuestos: 1. Debido a fundados temores de ser perseguido por motivos de raza, religión, nacionalidad, género, pertenencia a determinado grupo social u opiniones políticas. 2. Que ha huido de su país de origen, porque su vida, seguridad o libertad han sido amenazadas por violencia generalizada, agresión extranjera, conflictos internos, violación masiva de los derechos humanos u otras circunstancias que hayan perturbado gravemente el orden público. 3. Que debido a circunstancias que hayan surgido en su país de origen o como resultado de actividades realizadas, durante su estancia en territorio nacional, tenga fundados temores de ser perseguido a su regreso».\nLa forma más común de distinguir a un «refugiado» de un «migrante» es a partir de los motivos por los cuales dejaron sus países. Mientras un migrante tiene «opciones», un refugiado sale de su país pues ya no tiene ninguna opción para sobrevivir en él, de manera que es pertinente la distinción.\n\nDíaz, P. (15 de setiembre de 2015). «¿Cuál es la diferencia legal entre refugiados y migrantes?». En Nexos.\nRecuperado de https://eljuegodelacorte.nexos.com.mx/?p=4923. (Adaptación)",
+    "questions": [
+      {
+        "statement": "El tema central del texto es",
+        "alternatives": [
+          "A) las diferencias legales entre refugiados y migrantes.",
+          "B) la definición de la ONU sobre refugiados y migrantes.",
+          "C) diferencias y atingencias entre migrantes y refugiados.",
+          "D) la condición legal de que gozan migrantes y refugiados.",
+          "E) la oposición de los conceptos de migrantes y refugiados."
+        ],
+        "correct": 0,
+        "rationale": "El tema central estriba en identificar con precisión las diferencias legales entre migrantes y refugiados."
+      },
+      {
+        "statement": "Respecto de la distinción entre refugiado y migrante, resulta incompatible afirmar que",
+        "alternatives": [
+          "A) este último posee ciertas posibilidades en su país a diferencia del primero.",
+          "B) para el marco legal mexicano existen condiciones precisas para establecerla.",
+          "C) para el ACNUR en el caso del primero es de relevancia capital su seguridad.",
+          "D) resulta inconducente establecerla para efectos de asilo y ayuda humanitaria.",
+          "E) se establece de forma diferenciada de acuerdo con el marco legal de referencia."
+        ],
+        "correct": 3,
+        "rationale": "El autor del texto está de acuerdo que un refugiado es un migrante que en su país no tenía opciones para sobrevivir."
+      },
+      {
+        "statement": "En el segundo párrafo, el término FUNDADOS connota",
+        "alternatives": [
+          "A) caución.",
+          "B) principio.",
+          "C) facultad.",
+          "D) presunción.",
+          "E) certeza."
+        ],
+        "correct": 4,
+        "rationale": "En el texto FUNDADOS se vincula con el término CERTEZA ya que el refugiado tiene la seguridad que su vida corre riesgo en el lugar del que migra."
+      },
+      {
+        "statement": "Sobre la chuleta representada en la caricatura, se infiere que",
+        "alternatives": [
+          "A) es el refugiado solicitando asilo tras el temor de ser «devorado» por los agentes de riesgo en su país.",
+          "B) es el migrante solicitando asilo en los tribunales estadounidenses por el temor a ser devorado.",
+          "C) simboliza la condición del migrante escudándose en la justica extranjera para soslayar su ilegalidad.",
+          "D) representa la inseguridad de los refugiados y el buen recaudo que les brinda la justicia extranjera.",
+          "E) muestra el grado de abandono de los refugiados frente a la indolencia de las autoridades extranjeras."
+        ],
+        "correct": 0,
+        "rationale": "Se puede inferir que la chuleta es el refugiado solicitando asilo frente los tribunales norteamericanos; los riesgos que corre en su lugar de origen son simbolizados por un cardumen de pirañas."
+      },
+      {
+        "statement": "Si el desplazamiento de individuos se definiera de manera excluyente por el riesgo de situaciones o hechos que perjudiquen su integridad, entonces,",
+        "alternatives": [
+          "A) los organismos internacionales tendrían más diligencia en diseñar un marco legal que los incluya en guetos.",
+          "B) tales movilizaciones serían categorizadas como poblaciones de refugiados cuantitativamente numerosas.",
+          "C) se acentuarían las diferencias que separan jurídica y conceptualmente a los migrantes y refugiados.",
+          "D) las políticas migratorias del país anfitrión serían menos receptivas frente a la población de refugiados.",
+          "E) las políticas internacionales de asistencia humanitaria redoblarían esfuerzos para bloquear esta contingencia."
+        ],
+        "correct": 1,
+        "rationale": "Si los migrantes no tuvieran otras «opciones» que determinen su desplazamiento, más que el temor por su seguridad, estos serían clasificados como refugiados por los organismos internacionales."
+      }
+    ]
+  }
+]

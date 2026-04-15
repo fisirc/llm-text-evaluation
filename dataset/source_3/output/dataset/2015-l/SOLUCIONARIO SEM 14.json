@@ -1,0 +1,594 @@
+[
+  {
+    "type": "reading_comprehension",
+    "statement": "EDITORIAL A\n\nEn la actualidad, la gente se pregunta sobre el programa de los viaje s espaciales; las\npersonas se cuestionan sino habrá un mejor uso para los billones gastados cada año en\nesta investigación.\nEn 1980, se invirtió en el programa espacial solamente un centavo por cada dólar de\nimpuesto. ¡Únicamente un centavo de cada dólar ! Los norteamericanos gastan más de\nveinticinco centavos, por cada dólar, tan solo en defensa.\nAhora bien, ¿cuánto se gana por ese simple centavo? ¡Realmente demasiado! Un\nestudio hecho en 1977 demostró que por cada centavo invertido en el espacio,\nNorteamérica ganó seis centavos. Esta ganancia proviene de los empleos y ocupaciones\nque no existirían sin el programa espacial. El dinero procede de los inventos que mejoran\nla calidad de vida.\nEn 1957, los rusos enviaron el Sputnik al espacio. Este hecho hizo que Norteamérica\niniciara su propio programa espacial. También constituyó el comienzo de una industria\nexitosa; después de todo, alguien debía construir el equipo para enviar a los\nnorteamericanos al espacio y mantenerlos vivos allí. Como resultado, mucha gente se\ninvolucró en la construcción de dicho equipo.\n¿Por qué suspender el programa espacial cuando este eleva el nivel de vida de los\nnorteamericanos? El programa produce nuevos empleos y nuevos productos.\nProbablemente, el programa produzca por sí mismo una compensación doce veces mayor.\nEs difícil imaginar cómo podría ser la vida si nunca hubiera existido un programa\nespacial. Diversas máquinas muy útiles no existirían. Si no tuviéramos marcapasos, para\nmuchas personas la vida terminaría. Sin los satélites meteorológicos, sería muy difícil\npronosticar las heladas destructivas. Ello significaría que no podríamos poner a salvo\nnuestras cosechas. Sí, el mundo sería diferente.\nCada cierto tiempo, un transbordador espacial se levanta de su base y a umenta\nnuestra esperanza en el futuro. Es indiscutible la necesidad de un programa espacial.\nDeberíamos enfrentar el futuro con coraje y continuar nuestro viaje por el espacio.\n\nEDITORIAL B\n\nLos seres humanos somos criaturas extrañas. Nos apasionamos tanto con nuestros\nnuevos proyectos que olvidamos terminar los viejos. Las ocupaciones con el novedoso\nprograma espacial son un ejemplo. Somos como el niño con su cometa nueva, a quien se\nle ha dicho una y otra vez que limpie su cuarto y sólo se preocupa por salir a elevar su\ncometa.\nAsí, a una mayor escala, se han gastado billones y billones de dólares tan sólo en\nenviar unos pocos norteamericanos al espacio exterior en viaje de campamento. Solamente\nel año pasado se gastaron más de cinco billones de dólares. ¡Cinco billones! ¿Y qué se\nconsiguió a cambio de este dinero? ¿Cuánta menos gente fue a la cama con hambre?\n¿Cuántos niños más aprendieron a leer y escribir? ¿Cuántas personas más tuvieron techo\ncomo resultado de la inversión de este dinero? ¿Se ha detenido a pensar que el programa\nespacial es un viaje egocéntrico ? ¿No cree que, como nación, los norteamericanos se\nestán comportando como un hatajo de exhibicionistas? En 1957, los norteamericanos se\ndejaron confundir por los rusos y su Sputnik , y empezaron a gastar dinero en el espacio .\nNorteamérica había tenido una muy buena existencia sin enviar ser humano alguno al\nespacio exterior. Tal vez se hubiera podido solucionar el problema de la escasez de comida,\nalgo bastante importante. Los expertos dicen que la solución al problema del hambre en el\ntierras para el cultivo.\nEs obvio que debemos arreglar nuestro propio mundo, antes de lanzarnos a explorar\notro. Algún día estará bien gastar billones y trillones en un programa espacial. En la\nactualidad, muchas personas cambiarían el programa espacial completo –con\ntransbordador y todo – por un planeta Tierra que fuera simplemente un pequeño espacio\nmás claro, más sano y más feliz.",
+    "questions": [
+      {
+        "statement": "¿Cuál es el antónimo de la palabra EGOCÉNTRICO que aparece en el editorial B?",
+        "alternatives": [
+          "A) Solipsista",
+          "B) Dinámico",
+          "C) Solidario",
+          "D) Excéntrico",
+          "E) Cándido"
+        ],
+        "correct": 2,
+        "rationale": "Solución : El término EGOCÉNTRICO significa una acción centrada en un lujo irresponsable para con los demás. Por ello, el antónimo es SOLIDARIO."
+      },
+      {
+        "statement": "Mientras que el editorial A argumenta que los viajes espaciales son ____________ ; el editorial B aduce que son ____________.",
+        "alternatives": [
+          "A) costosos – onerosos",
+          "B) factibles – imposibles",
+          "C) universales – particulares",
+          "D) proficuos – escandalosos",
+          "E) fascinantes – tediosos"
+        ],
+        "correct": 3,
+        "rationale": "Solución : En el editorial A se establece centralmente el carácter beneficioso de los viajes espaciales. En el B se sostiene que estos viajes responden a un deplorable exhibicionismo, dado que hay asuntos más importantes que atender."
+      },
+      {
+        "statement": "Desde diferentes perspectivas, las dos editoriales convergen en una mirada",
+        "alternatives": [
+          "A) lúgubre sobre el futuro de nuestro universo.",
+          "B) desencantada respecto de la ciencia y la técnica.",
+          "C) hipercrítica contra la política de las naciones.",
+          "D) optimista sobre el futuro de la humanidad."
+        ],
+        "correct": 3,
+        "rationale": "que deberíamos “enfrentar el futuro con coraje”. En el texto B, al aludir a la insensatez actual en el gasto i nterespacial, apuesta por una Tierra más sana y más feliz."
+      },
+      {
+        "statement": "Medularmente, el editorial A incide en el valor de los viajes espaciales argumentado que son",
+        "alternatives": [
+          "A) someros.",
+          "B) rentables.",
+          "C) efímeros.",
+          "D) difíciles.",
+          "E) científicos."
+        ],
+        "correct": 1,
+        "rationale": "Solución : Según el editorial A, el programa eleva la calidad de vida y es beneficioso para evitar desastres."
+      },
+      {
+        "statement": "Fundamentalmente, el editorial B se lanza contra los viajes espaciales arguyendo que son",
+        "alternatives": [
+          "A) una aplicación de la perniciosa tecnología.",
+          "B) un gasto que no puede ser sufragado.",
+          "C) la causa de la desnutrición en el mundo.",
+          "D) una consecuencia de una política rusa.",
+          "E) una ostentación de irresponsabilidad."
+        ],
+        "correct": 4,
+        "rationale": "Solución : El ejemplo del niño que juega con la cometa y la constatación de que el dinero de los viajes espaciales podría haber sido usado para solucionar el problema del hambre son elocuentes en la argumentación del editorial B."
+      },
+      {
+        "statement": "El editorial B emite la siguiente opinión: El programa espacial es realmente un viaje egocéntrico . Frente a esa opinión, el editorialista A podría replicar que",
+        "alternatives": [
+          "A) en 1957 los rusos enviaron el Sputnik al espacio.",
+          "B) los norteamericanos gastan mucho en defensa.",
+          "C) el programa ha ayudado a prever heladas violentas.",
+          "D) los transbordadores se levantan de sus bases.",
+          "E) el programa ha invertido muchos billones de dólares."
+        ],
+        "correct": 2,
+        "rationale": "Solución : Evidentemente, no es tan egocéntrico si tiene esa consecuencia tan valiosa desde el punto de vista social."
+      },
+      {
+        "statement": "En la perspectiva del editorial A, si se suspendieran los programas espaciales",
+        "alternatives": [
+          "A) habría una explosión en el invento de nuevas máquinas.",
+          "B) el mundo podría embarcarse hacia la ruta del progreso.",
+          "C) el nivel de vida de los norteamericanos sufriría un descenso.",
+          "D) muchos norteamericanos conseguirían vivir en estado apacible.",
+          "E) la inopia dejaría de existir como problema para la humanidad."
+        ],
+        "correct": 2,
+        "rationale": "Solución : Dado que el programa espacial eleva la calidad de vida de la gente, se infiere esa consecuencia."
+      },
+      {
+        "statement": "Según la visión del editorial B, si se suspendieran los programas espaciales",
+        "alternatives": [
+          "A) sería el fin para muchas personas que sufren enfermedades coronarias.",
+          "B) se podría aliviar el problema de la escasez de recursos en la Tierra.",
+          "C) Norteamérica, como un todo, perdería una cantidad considerable de dinero.",
+          "D) el futuro de la humanidad en su conjunto sería bastante lúgubre y triste."
+        ],
+        "correct": 1,
+        "rationale": "Solución : Se sugiere que podría aliviar el problema de la escasez de recursos en la Tierra."
+      },
+      {
+        "statement": "El editorialista B estaría de acuerdo con los viajes espaciales si",
+        "alternatives": [
+          "A) los problemas de la Tierra se hubiesen ya solucionado.",
+          "B) se demostrase que todos necesitáramos de marcapasos.",
+          "C) fuesen llevados a cabo por personas exhibicionistas.",
+          "D) el planeta Tierra fuese gobernado por una alianza.",
+          "E) los norteamericanos reconocieran su egocentrismo."
+        ],
+        "correct": 0,
+        "rationale": "Solución : Si llegáramos a arreglar nuestra Tierra, podríamos lanzarnos a explorar otro."
+      },
+      {
+        "statement": "Mientras que el editorial A sostiene que la vida humana, sin programas espaciales, resultaría ______________ ; el editorial B sostiene que resultaría ________________.",
+        "alternatives": [
+          "A) inferior – promisoria",
+          "B) factible – divertida",
+          "C) impredecible – abstracta",
+          "D) mejor – indiferente",
+          "E) inviable – más sana"
+        ],
+        "correct": 0,
+        "rationale": "Solución : Se reduciría la calidad de vida, según el editorial A. Dado que se podrían resolver algunos problemas, la vida humana resultaría promisoria, según el editorial B."
+      },
+      {
+        "statement": "¿Cuál de los siguientes enunciados podría cambiar el pensamiento del autor del editorial B?",
+        "alternatives": [
+          "A) La Tierra es un planeta muy pequeño y los viajes espaciales pueden ayudarnos a cobrar conciencia de la real magnitud de nuestro planeta.",
+          "B) La Tierra sufre una amenaza real de colisión con asteroides y la solución reside en los resultados de las investigaciones del programa espacial.",
+          "C) En los viajes espaciales se hace, efectivamente, un viaje de campamento, pero se trata de un viaje que eleva considerablemente la autoestima.",
+          "D) Los viajes espaciales, en el futuro, serán muy beneficiosos, sobre todo cuando el planeta Tierra no pueda cobijar a todos los seres del globo.",
+          "E) Gracias a los viajes espaciales, se ha podido comprobar algunas hipótesis de la cosmología teórica, ciencia muy ligada a la abstracción formal."
+        ],
+        "correct": 1,
+        "rationale": "Solución : Ese hecho significaría que el programa espacial puede salvar, ahora, nuestro mundo. Así, se revelaría no como un viaje egocéntrico, sino uno muy responsable."
+      }
+    ]
+  },
+  {
+    "type": "sentence_elimination",
+    "statement": "1. I) Ettore Majorana, nacido en Sicilia en 1906, fue integrante de una familia acomodada y de gran tradición cultural. II) Majorana se doctoró con el trabajo: La teoría cuántica de los núcleos radiactivos ,con el que obtuvo sobresaliente cum laude . III) Ettore Majorana en total escribió nueve artículos con los que contribuyó de forma importante con la Física. IV) Ha pasado a la historia de la física teórica por dos conceptos: la ecuación de Majorana y el fermión de Majorana. V) El talento de Majorana se vio reforzado por el hecho de trabajar al lado del físico Fermi y el llamado Grupo de Roma.",
+    "alternatives": [
+      "A) I",
+      "B) II",
+      "C) III",
+      "D) IV",
+      "E) V"
+    ],
+    "correct": 0,
+    "rationale": "Se elimina la oración I por impertinencia."
+  },
+  {
+    "type": "sentence_elimination",
+    "statement": "2. I) Un estudio monitoreó 1,112 resoluciones realizadas por jueces de cuatro prisiones en Israel para saber si el descanso se relacionaba con la toma de decisiones favorables. II) En el transcurso de 10 meses, los investigadores encontraron que las decisiones favorables se relacionaban directamente con el descanso tomado por los jueces. III) El porcentaje de resoluciones favorables de los jueces decaía (de 65% a casi cero) por cada sesión transcurrida; sin embargo, regresaba a 65% después de un descanso. IV) Según la investigación realizada en el 2011, se concluyó que entre más de scansados se sentían los jueces mentalmente, más positivas eran sus resoluciones. V) De acuerdo con un experto en fatiga de decisión, al tomar una decisión o evitar una tentación, se usa el suministro de energía mental que tienes reservado para el día.",
+    "alternatives": [
+      "A) I",
+      "B) II",
+      "C) III",
+      "D) IV",
+      "E) V"
+    ],
+    "correct": 4,
+    "rationale": "Se elimina la oración V por impertinencia."
+  },
+  {
+    "type": "sentence_elimination",
+    "statement": "3. I) Un estudio de la Universidad de Harvard determinó que los que consumen vino en dosis moderadas tienen un 30% menos de probabilidades de sufrir un ataque cardíaco. II) Según datos de la Federación Mundial del Corazón, las enfermedades cardiovasculares y los infartos causan 17,5 millones de muertes al año. III) Científicos de la Universidad de Leicester explicaron que el consumo moderado de vino de forma regular puede reducir la tasa de tumores intestinales en un 50%. IV) Según diversos estudios, consumir una copa de vino al día nos ayuda a retrasar el proceso del envejecimiento debido a sus propiedades vasodilatadoras. V) Un equipo de científicos de la Universidad de Loyola Medical Center encontró que el consumo moderado de vino puede reducir el riesgo de desarrollar demencia.",
+    "alternatives": [
+      "A) I",
+      "B) II",
+      "C) III",
+      "D) IV",
+      "E) V"
+    ],
+    "correct": 1,
+    "rationale": "Se elimina la oración II por impertinencia."
+  },
+  {
+    "type": "sentence_elimination",
+    "statement": "4. I) El término Narcicismo derivó de Narciso, un personaje de la mitología griega que estaba enamorado de sí mismo. II) Boicot fue acuñado en base a Charles Boycott, un inglés quien al negarse a bajar los precios de la renta de sus propiedades, tuvo que vivir alejado de la sociedad . III) El vocablo casanova nació del nombre de un italiano del siglo XVIII, Giacomo Casanova, quien se hizo famoso por vivir una gran cantidad de aventuras amorosas. IV) El término sadismo proviene del apellido del Marqués de Sade, un noble escritor, famoso de batallas pese a resultar herido, gracias a su fervor y lealtad.",
+    "alternatives": [
+      "A) I",
+      "B) II",
+      "C) III",
+      "D) IV",
+      "E) V"
+    ],
+    "correct": 0,
+    "rationale": "Se elimina la oración I por impertinencia."
+  },
+  {
+    "type": "sentence_elimination",
+    "statement": "5. I) Según un equipo de investigación, la domesticación por parte de los seres humanos dejaría una huella en el ADN de los animales. II) Los investigadores examinaron el ADN de ratas de alcantarilla, también llamadas ratas de noruega o ratas chinas, que habían sido criadas durante varias generaciones. III) Los resultados de ADN revelaron que las ratas dóciles o domesticadas tenían cambios genéticos en al menos 1,880 genes. IV) Concluyeron que la domesticación tenía un cambio asociado en los genes para los factores de crecimiento epidérmico y otras proteínas que estimulan el crecimiento de las células. V) En los análisis de ADN de otros animales domésticos comunes como perros, gatos, o cerdos y sus respectivos compañeros en estado salvaje, los expertos también hallaron el cambio en el ADN.",
+    "alternatives": [
+      "A) II",
+      "B) III",
+      "C) I",
+      "D) IV",
+      "E) V"
+    ],
+    "correct": 2,
+    "rationale": "Se elimina la oración I por redundancia."
+  },
+  {
+    "type": "sentence_elimination",
+    "statement": "6. I) Los antiguos romanos concedieron menos importancia que nosotros al matrimonio. II) Una buena parte de la población romana llegaba a emparejarse y nada más. III) Es decir, eran “pareja de hecho” sin llegar a casarse. IV) Solamente una de cada tres parejas en la Roma antigua llegaba a casarse. V) Asimismo, en la Roma antigua, si la esposa pasaba tres noches seguidas fuera del hogar, el divorcio era inmediato.",
+    "alternatives": [
+      "A) I",
+      "B) IV",
+      "C) III",
+      "D) V",
+      "E) II"
+    ],
+    "correct": 3,
+    "rationale": "Impertinencia. El tema es “el matrimonio de hecho en la antigua Roma”."
+  },
+  {
+    "type": "sentence_elimination",
+    "statement": "7. I) La ingeniería de materiales está presente en la mayoría productos de la vida diaria (automóviles, aviones, computadoras, televisores, aparatos biomédicos, etc.), en especial cuando están hechos nuevos materiales. II) Todos estos artículos requieren materiales diseñados específicamente para sus aplicaciones, los cuales se obtienen al seleccionar cuidadosamente los materiales y controlar los procesos de fabricación. III) Esta es justamente la tarea de los ingenieros de materiales que va desde la producción de materiales primarios, pasando por el diseño y desarrollo de nuevos materiales, hasta la manufactura confiable y económica de los productos finales. IV) Lo s materiales nuevos obtenidos por la ingeniería de materiales constituyen una tecnología subyacente. V) La ingeniería de materiales es una de las carreras con excelentes oportunidades en el futuro .",
+    "alternatives": [
+      "A) V",
+      "B) III",
+      "C) II",
+      "D) I",
+      "E) IV"
+    ],
+    "correct": 0,
+    "rationale": "Por impertinencia se elimina la oración V, porque no desarrolla el tema de la relación entre la ingeniería de materiales y la producción de nuevos materiales."
+  },
+  {
+    "type": "sentence_elimination",
+    "statement": "8. I) Hace más de 2000 años, el matemático griego Eratóstenes desarrolló un método para el cálculo de los números primos. II) Es un método matemático que permite averiguar rápidamente los números primos desde el 1 hasta el número donde deseamos finalizar (n). III) La criba de Eratóstenes es un algoritmo matemático que permite hallar todos los números primos menores que un número natural dado. IV) Un número natural se considera primo si tiene solamente dos divisores distintos: el 1 y el propio número. V) La criba, al inicio, consistía en elaborar una tabla con todos los números naturales comprendidos entre 2 y n, en la cual se tachaban los números que no eran primos .",
+    "alternatives": [
+      "A) V",
+      "B) III",
+      "C) II",
+      "D) I",
+      "E) IV"
+    ],
+    "correct": 1,
+    "rationale": null
+  },
+  {
+    "type": "sentence_elimination",
+    "statement": "9. I) Efraín Miranda Luján nació el 2 de marzo de 1925 en Puno en la comunidad de Condoraque. II) Entre 1948 y 1950, Miranda conformó el grupo literario Abemur en Arequipa. III) En la década de los 60, Efraín Miranda trabajó en Puno como profesor de una escuela rural en la comunidad de Jacha Huinchoca, esta experiencia fue fundamental en su vida. IV) Choza es una de las obras más elogiadas de Efraín Miranda y ha sido valorada como un poemario revelador, histórico, biológico e integral. V) Efraín Miranda falleció el viernes 10 de abril en Arequipa .",
+    "alternatives": [
+      "A) IV",
+      "B) III",
+      "C) V",
+      "D) I",
+      "E) II"
+    ],
+    "correct": 0,
+    "rationale": "El tema del ejercicio es “biografía de Efraín Miranda”; entonces, por impertinencia se elimina la oración IV."
+  },
+  {
+    "type": "reading_comprehension",
+    "statement": "LAS FALACIAS: ERRORES EN LA ARGUMENTACIÓN\n\nPodemos definir una falacia como una argumentación que transgrede un principio o una regla de razonamiento, pero que, en el contexto propicio, puede ser crucial para ganar la adhesión del auditorio.\nLas falacias son de dos grandes tipos: de atingencia o de ambigüedad. Las falacias de atingencia son extra dictione, es decir, manipulan información referida a los hechos, no al lenguaje. Las falacias de ambigüedad son in diccione, por cuanto dependen de la estructura del lenguaje, no de la realidad.\n\nPrincipales falacias de atingencia\n\n1. Argumentum ad baculum (apelación a la fuerza)\nSe trata de un razonamiento que recurre a medios de coacción o de intimidación. Por ejemplo: «Si no apoyas la moción que voy a plantear en la asamblea, debes atenerte a las consecuencias».\n\ncontroversia. Por ejemplo: «No puede ser plausible lo que dice Nietzsche de la religión cristiana porque, cuando escribió El Anticristo, estaba completamente loco».\n\n3. Argumentum ad ignorantiam (ignorancia)\nSe comete esta falacia cuando se sostiene que una proposición es verdadera porque nadie ha demostrado que es falsa, o bien que es falsa dado que nadie ha demostrado su verdad. Por ejemplo: «Es indudable que existen los fantasmas porque nadie ha demostrado que no existen».\n\n4. Argumentum ad misericordiam (porla piedad)\nSe trata de establecer una conclusión sobre la base de suscitar un sentimiento de piedad o compasión. Por ejemplo: «Eugenio merece la beca porque no cuenta con recursos económicos para estudiar».\n5. Argumentum ad verecundiam (de autoridad)\nEs un razonamiento que busca apoyar una idea o tesis sobre la base de la opinión de una autoridad, que no tiene pertinencia en el tema tratado. Por ejemplo: «La mejor doctrina religiosa es el panteísmo naturalista porque fue una tesis que defendió el gran físico Albert Einstein».\n\n6. Argumento de la causa falsa.\nEs un razonamiento que establece una relación causal sobre la única base de la precedencia temporal. Por ejemplo: «José sufrió un terrible accidente porque un gato negro se cruzó en su camino».\n\nPrincipales falacias de ambigüedad\n\n1. El equívoco\nEsta falacia se produce cuando en un razonamiento se emplea una palabra con dos acepciones diferentes, pero se considera que se ha usado bajo una sola acepción. Por ejemplo: «Los problemas son esenciales para la ciencia. De acuerdo, soy un verdadero problema en tu vida. Luego, soy esencial para tu vida».\n\n2. La anfibología\nEsta falacia se produce cuando las premisas empleadas presentan una ambigüedad en virtud de su estructura gramatical. Un enunciado es anfibológico cuando su comprensión se ve obstruida no por el significado individual de las palabras, sino por la combinación de ellas. Por ejemplo, «María fue a la playa con su prima vestida de rojo» es una oración anfibológica porque no resulta claro quién es taba vestida de rojo (¿María o su prima?).\n\n3. El énfasis\nLa falacia del énfasis consiste en una manera especial de jugar con los significados de las palabras. Debido a un énfasis particular, el significado de la palabra puede variar y en esta inflexión observamos el núcleo del error en el razonamiento. Así, cuando alguien dice «Los peruanos merecemos la libertad», no hay problema sino hay ningún énfasis que pueda producir un sentido especial. En cambio, si hay un énfasis en ‘peruanos’ se daría un sentido especial al enunciado (‘Los PERUANOS merecemos la libertad’) y se podría concluir que no merecen la libertad los bolivianos, los chilenos, los argentinos, etc., lo cual constituye una conclusión inadmisible.\n\nDetermine qué falacia se ha cometido en los siguientes razonamientos.\n\n1. Creso, rey de Lidia, planeaba una guerra contra el reino de Persia. Como era un hombre prudente, no quería arriesgarse a emprender una guerra sin tener la seguridad de ganarla. Al consultar al oráculo de Delfos sobre la cuestión, recibió la siguiente respuesta: «Si Creso emprende la guerra contra Persia, destruirá un reino poderoso».\nEncantado con esta predicción, Creso inició la guerra y fue rápidamente derrotado por Ciro, rey de los persas. Como se le perdonó la vida, después escribió al oráculo una carta en la que se quejaba amargamente. Los sacerdotes de Delfos respondieron que el oráculo había hecho una predicción correcta. Al desencadenar la guerra, Creso destruyó un reino poderoso: ¡El suyo propio!\n\nSolución: Anfibología.\n\n2. Casi a punto de partir cierto barco, hubo una disputa entre el capitán y su primer oficial. La disensión se agravaba por la tendencia a beber del primer oficial, pues el capitán era un fanático de la abstinencia y raramente perdía oportunidad de regañarlo por su defecto. Inútil decir que sus sermones sólo conseguían que el primer oficial bebiera aún más. Después de repetidas advertencias, un día que el primer oficial había bebido más que de costumbre, el capitán registró el hecho en el cuaderno de bitácora y escribió: «Hoy, el primer oficial estaba borracho». Cuando le tocó al primer oficial hacer los registros en el libro, se horrorizó al ver esta constancia oficial de su mala conducta. El propietario del barco iba a leer el diario y su reacción, probablemente, sería despedir al primer oficial, con malas referencias además. Suplicó al capitán que eliminara la constancia, pero el capitán se negó. El primer oficial no sabía qué hacer, hasta que, finalmente, dio con la manera de vengarse. Al final de los registros regulares que había hecho en el diario ese día, agregó: « Hoy, el capitán estaba sobrio».\n\nSolución : Falacia de énfasis.\n\n3. Sostengo que la inflación es un mal necesario cuando se quiere, sobre todo, dinamizar la economía. Me apoyo para sostener esa idea en las brillantes apreciaciones de José Saramago, Premio Nobel de Literatura.\n\nSolución : Argumento ad verecundiam .\n\n4. Se ha cometido un crimen y el fiscal sospecha de X, un personaje bastante impopular. El fiscal dice que X no puede explicar dónde estuvo a la hora del crimen, de donde deduce que es el culpable.\n\nSolución : Argumento ad Ignorantiam.\n\n5. Estimado gerente: Tengo tres hijos en edad escolar. Mi esposa ha perdido su empleo. En realidad, soy un padre atribulado. Creo que merezco un mejor pago, ¿no es cierto?\n\nSolución : Argumento ad misericordiam .\n\n6. En la ciudad de Nueva York se han construido más iglesias que en cualquier otra ciudad de los Estados Unidos. En Nueva York se cometen más crímenes que en cualquier otro lado. Gracias a estas consideraciones, resulta evidente que para eliminar los crímenes, debemos derruir las iglesias neoyorquinas.\n\nSolución : Argumento de causa falsa.\n\npianista acabado.\n\nSolución : Falacia de equívoco.\n\n8. Debes elogiar el libro que he escrito. Recuerda que todavía me debes una fuerte suma de dinero.\n\nSolución : Argumento ad baculum .\n\n9. Se puede decir, sin temor a cometer yerro alguno, que su obra carece de valor filosófico: es un beodo redomado y vive acosando a las jovencitas.\n\nSolución : Argumento ad hominem .\n\nCOMPRENSIÓN LECTORA\n\nLas falacias son tan problemáticas en Derecho como en cualquier otro contexto en el que buscamos juicios confiables. Pero lo que pueden parecer errores del razonamiento en el discurso ordinario, pueden convertirse, a causa de las condiciones especiales impuestas por los procesos legales, en buenos argumentos.\nVale la pena notar varios ejemplos de esas condiciones especiales. Primero, cuando la evidencia de cierto tipo es esencial para resolver un caso, el énfasis en la falta de esa evidencia que puede parecer una apelación a la ignorancia (el argumento ad ignorantiam ) puede ser lógicamente correcto. Así, la inocencia de un acusado se puede considerar establecida en ausencia de pruebas definitivas en su contra. Un fiscal puede ser incapaz de establecer lo que requiere la convicción de culpabilidad. Esta situación es frecuente aun en los casos de violaciones superficiales a la ley. Muy comúnmente, hay una carga positiva en la parte que entra en disputa legal para probar algo; entonces, el argumento de la parte opuesta, basado en la ausencia de lo que es la prueba, viene a ser, en cierto sentido, un argumento ad ignorantiam . Sin embargo, en este uso, no es una técnica falaz.\nLa gran confianza en la autoridad es una segunda característica especial del razonamiento legal. Lo que ordinariamente puede parecer una apelación fa laz a la autoridad (el argumento ad verecundiam ),puede resultar correcto y hasta persuasivo en el proceso legal. Abundan en Derecho las referencias a las opiniones emitidas por otros tribunales (el criterio de jurisprudencia) y la máxima stare decisis (locución latina que se traduce como «mantenerse con las cosas decididas») juega un papel central en el argumento legal. La falacia ad verecundiam no consiste simplemente en la apelación a la autoridad, sino que debe ser una apelación inapropiada .\nEn tercer lugar, un argumento ad hominem puede no ser falaz dentro de una disputa legal. El testimonio y la evidencia que se presenten en un juicio pueden entrar en conflicto. Los jueces frecuentemente deciden en qué testimonio se debe confiar y qué testigos son dignos de crédito. Por lo tanto, una parte puede tratar de desacreditar a un testigo que proporcionó un testimonio falso o malintencionado exhibiendo inconsistencias en el mismo. O el testigo puede ser impugnado, esto es, puede cuestionarse su honestidad o integridad, o su conocimiento o claridad acerca de las materias en discusión.\nOtra forma no falaz de argumentación jurídica se asemeja al argumento ad misericordiam . Desde luego, la apelación a la misericordia es un argumento falaz si con él se pretende evadir el castigo para un criminal, pero no si lo que se trata es de despertar la compasión del jurado para que atenúe la pena. La pobreza ola miseria del acusado en el momento en que cometió el crimen puede no tener importancia para determinar si es o no culpable, pero puede ser un argumento apropiado para determinar la severidad de la pena.\nFinalmente, el argumento ad baculum ,la apelación a la fuerza, es en cierto grado el\n\nfuerza, si son eficaces, pueden ser muy útiles para la comunidad. El temor al castigo puede evitar la realización de actos criminales o de actos dañinos en contra de otras personas.\nAsí, la apelación a la fuerza otorga a la ley «uñas y dientes» y la torna eficaz.\n\nRpta.:",
+    "questions": [
+      {
+        "statement": "¿Cuál de los siguientes enunciados resume adecuadamente el texto?",
+        "alternatives": [
+          "A) Las falacias son tan problemáticas en Derecho como en cualquier otro contexto en el que buscamos juicios confiables.",
+          "B) El argumento ad ignorantiam ,generalmente, deja de ser falaz cuando es aplicado en la esfera jurídica y, sobre todo, penal.",
+          "C) Ciertas falacias del ámbito ordinario pueden ser razonamientos correctos en las condiciones especiales del ámbito jurídico.",
+          "D) En el campo del Derecho no hay cabida para las falacias porque todos los razonamientos son válidos para defender la ley.",
+          "E) Entre las falacias lógicas y las falacias jurídicas hay una analogía fundamental: el respeto por el imperio de la ley."
+        ],
+        "correct": 2,
+        "rationale": "Sobre la base de cinco casos, el autor demuestra que una falacia en la esfera ordinaria puede convertirse en un buen argumento en función de las condiciones especiales del Derecho."
+      },
+      {
+        "statement": "Si desacreditáramos el testimonio de un perito con la demostración de la obsolescencia de sus juicios,",
+        "alternatives": [
+          "A) utilizaríamos un recurso ad hominem que no es falaz.",
+          "B) emplearíamos una falacia: el argumento ad baculum .",
+          "C) incurriríamos en una falacia porque nos burlamos de él.",
+          "D) aplicaríamos correctamente un recurso ad ignorantiam .",
+          "E) cometeríamos la falacia del argumento ad verecundiam"
+        ],
+        "correct": 0,
+        "rationale": "En ciertas condiciones, es legítimo el procedimiento ad hominem. Si el valor del testimonio reside en su calidad de experto, podemos vulnerarlo demostrando que sus juicios están desactualizados."
+      },
+      {
+        "statement": "Si nos apoyáramos en el juicio de una autoridad impertinente a nuestro caso, cometeríamos la falacia del argumento ad",
+        "alternatives": [
+          "A) hominem .",
+          "B) misericordiam .",
+          "C) ignorantiam .",
+          "D) baculum .",
+          "E) verecundiam ."
+        ],
+        "correct": 4,
+        "rationale": "El argumento ad verecundiam es la falacia que consiste en apelar a la autoridad inapropiada."
+      },
+      {
+        "statement": "Entre ‘falacias’ y ‘buenos argumentos’ se establece una relación de",
+        "alternatives": [
+          "A) sinonimia.",
+          "B) ejemplificación.",
+          "C) implicación.",
+          "D) analogía.",
+          "E) antonimia."
+        ],
+        "correct": 4,
+        "rationale": "En el primer párrafo, es claro que hay una fuerte oposición entre una falacia y un buen argumento."
+      },
+      {
+        "statement": "correctamente el argumento ad",
+        "alternatives": [
+          "A) misericordiam .",
+          "B) baculum .",
+          "C) ignorantiam .",
+          "D) hominem .",
+          "E) verecundiam."
+        ],
+        "correct": 2,
+        "rationale": "El In dubio pro reo es un ejemplo en que el argumento ad ignorantiam no es falaz."
+      },
+      {
+        "statement": "La expresión «uñas y dientes» indica metafóricamente que la ley es",
+        "alternatives": [
+          "A) salvaje.",
+          "B) irracional.",
+          "C) natural.",
+          "D) coercitiva.",
+          "E) benevolente."
+        ],
+        "correct": 3,
+        "rationale": "Con esa metáfora se indica la fuerza coercitiva de la ley."
+      },
+      {
+        "statement": "¿Cuál de los siguientes enunciados es incompatible con el texto?",
+        "alternatives": [
+          "A) La intimidación es una parte consustancial al sentido de la ley.",
+          "B) Es una falacia recurrir a la piedad para atenuar el rigor de la sanción.",
+          "C) Es correcto que en un juicio se censure la mendacidad del testigo.",
+          "D) Ampararse en la jurisprudencia es un legítimo recurso a la autoridad.",
+          "E) En la es fera ordinaria, apoyarse en la ignorancia es un recurso falaz."
+        ],
+        "correct": 1,
+        "rationale": "No es una falacia, dado que la severidad de la pena puede ser menor si se mira la penosa situación del criminal."
+      },
+      {
+        "statement": "Se infiere del texto que un abogado defensor",
+        "alternatives": [
+          "A) en ningún caso puede desacreditar a un testigo de la fiscalía.",
+          "B) debe confiar ciegamente en el testimonio de un experto en un tema.",
+          "C) puede usar la piedad válidamente para demostrar la inocencia del reo.",
+          "D) puede utilizar correctamente el argumento ad ignorantiam contra el fiscal.",
+          "E) tiene licencia para cometer contradicciones en su propia argumentación."
+        ],
+        "correct": 3,
+        "rationale": "Dado que la carga de la prueba acusatoria le pertenece al fiscal, el abogado defensor puede emplear válidamente la técnica del argumento ad ignorantiam."
+      },
+      {
+        "statement": "Si un testigo declara que vio al reo cuando huía de la escena del crimen y el abogado demuestra que el testigo es muy miope, aplica correctamente el argumento ad",
+        "alternatives": [
+          "A) baculum .",
+          "B) ignorantiam .",
+          "C) misericordiam .",
+          "D) verecundiam .",
+          "E) hominem ."
+        ],
+        "correct": 4,
+        "rationale": "La recusación es una forma del argumento ad hominem."
+      },
+      {
+        "statement": "Se infiere del texto que la apelación a la fuerza en el marco legal tiene un sentido",
+        "alternatives": [
+          "A) equitativo.",
+          "B) punitivo.",
+          "C) disuasivo.",
+          "D) económico.",
+          "E) idealista."
+        ],
+        "correct": 2,
+        "rationale": "La fuerza de la ley busca intimidad a quienes puedan transgredir la ley. En consecuencia, tiene un sentido disuasivo."
+      }
+    ]
+  },
+  {
+    "type": "verbal_series",
+    "statement": "9. Si un testigo declara que vio al reo cuando huía de la escena del crimen y el abogado\naplica correctamente el argumento ad",
+    "alternatives": [
+      "A) baculum .",
+      "B) ignorantiam .",
+      "C) misericordiam .",
+      "D) verecundiam .",
+      "E) hominem ."
+    ],
+    "correct": 4,
+    "rationale": "La recusación es una forma del argumento ad hominem."
+  },
+  {
+    "type": "verbal_series",
+    "statement": "10. Se infiere del texto que la apelación a la fuerza en el marco legal tiene un sentido",
+    "alternatives": [
+      "A) equitativo.",
+      "B) punitivo.",
+      "C) disuasivo.",
+      "D) económico.",
+      "E) idealista."
+    ],
+    "correct": 2,
+    "rationale": "La fuerza de la ley busca intimidad a quienes puedan transgredir la ley. En consecuencia, tiene un sentido disuasivo."
+  },
+  {
+    "type": "verbal_series",
+    "statement": "1. ¿Cuál de los siguientes vocablos se aleja del campo semántico?",
+    "alternatives": [
+      "A) Ojeriza",
+      "B) Tirria",
+      "C) Animadversión",
+      "D) Encono",
+      "E) Apatía"
+    ],
+    "correct": 4,
+    "rationale": "Son sinónimos de rencor."
+  },
+  {
+    "type": "verbal_series",
+    "statement": "2. Profuso, copioso; liberal, cicatero; gravoso, molesto;",
+    "alternatives": [
+      "A) disoluto, libertino.",
+      "B) cenceño, enjuto.",
+      "C) encastillado, soberbio.",
+      "D) honorable, nefando.",
+      "E) remolón, desidioso."
+    ],
+    "correct": 3,
+    "rationale": "Se trata de una serie verbal mixta (sinónimos, antónimos y sinónimos)."
+  },
+  {
+    "type": "verbal_series",
+    "statement": "3. Palurdo, zafio; arisco, hosco; turgente, abultado;",
+    "alternatives": [
+      "A) denodado, apocado.",
+      "B) abominable, atractivo.",
+      "C) estocástico, azaroso.",
+      "D) sublevado, sumiso.",
+      "E) desmesurado, frugal."
+    ],
+    "correct": 2,
+    "rationale": "Se trata de una serie basada en sinónimos."
+  },
+  {
+    "type": "verbal_series",
+    "statement": "4. Deseo, anhelo, ansia,",
+    "alternatives": [
+      "A) desidia.",
+      "B) premura.",
+      "C) abulia.",
+      "D) prurito.",
+      "E) entereza."
+    ],
+    "correct": 3,
+    "rationale": "Serie verbal basada en sinónimos."
+  },
+  {
+    "type": "verbal_series",
+    "statement": "5. Fulero, embustero; taimado, ingenuo; obcecado, deslumbrado;",
+    "alternatives": [
+      "A) enteco, enfermizo.",
+      "B) espléndido, cicatero.",
+      "C) inane, funesto.",
+      "D) infatuado, fatuo.",
+      "E) pigre, negligente."
+    ],
+    "correct": 1,
+    "rationale": "Se trata de una serie verbal mixta (sinónimos, antónimos, sinónimos)."
+  },
+  {
+    "type": "verbal_series",
+    "statement": "6. Insensato, disparatado, absurdo,",
+    "alternatives": [
+      "A) extraño.",
+      "B) descabellado.",
+      "C) prudente.",
+      "D) impúdico.",
+      "E) prosaico."
+    ],
+    "correct": 1,
+    "rationale": "Campo semántico de “desacertado, ilógico, irracional”."
+  },
+  {
+    "type": "reading_comprehension",
+    "statement": "SEMANA 14 C\n\nY puestos en el terreno de los conocimientos, es oportuno referirse al viejo conflicto\nque enfrenta al mito con la razón. Para los defensores del método analítico como único\ncamino a seguir para alcanzar la realidad, es obvio que la mitología carece de los mínimos\nfundamentos para ser tenida en cuenta a la hora de \"comprender\". Así, y según Platón,\n“discordias, combates, reconciliaciones, matrimonios y procreaciones; todo está puesto en\nescena en la narración mítica. Puede seducir, en efecto, a los espíritu s pueriles; mas no\naporta nada a quien trata de comprender, en el sentido propio de este término, ya que el\nentendimiento se refiere a una forma de intelligibilidad que el mito no entraña y que solo el\ndiscurso explicativo posee\". En tiempos de la Grecia cl ásica, la defensa a ultranza de la\nrazón, su exaltación, propició la proliferación de manifestaciones críticas contra todos\naquellos que veían en la mitología algo más que la recopilación de simples relatos.\nAristóteles, discípulo de Platón durante 20 años , siguió los pasos de su maestro en lo que\na la valoración de los mitos se refiere:\" Las sutilezas mitológicas no merecen ser sometidas\na un examen serio. Volvamos más bien al lado de aquellos que razonan por la vía de la\ndemostración\". Con todo, es necesario recordar que el mismo Aristóteles señaló que la\nrazón y el mito griego de la creación comparten puntos de encuentro.\nLa Ilustración y el Romanticismo se acercaron a la mitología sin mayores problemas.\nLos ilustrados, a pesar de desenvolverse en los á mbitos propios de la racionalidad, se\nabstuvieron de condenar a los mitos y, por el contrario, se propusieron encontrar sentido\na los relatos míticos aparentemente fantásticos. La tradición romántica, en confrontación\ndirecta con todo aquello que surgiera del radicalismo intelectual, defendió los contenidos\nque no estaban al alcance de la razón y, por lo tanto, les atribuyó un valor añadido. Es más,\ndesacreditaron a la razón como vía adecuada para ofrecer explicaciones sobre el mito.\n\nA) El relato mitológico es contraproducente para el conocimiento humano.\nB) La narración mítica resulta irrelevante en los procesos cognitivos.\nC) La controversia entre mito y razón contribuyó al desarrollo intelectual.\nD) A través del tiempo, la valoración del mito se justificó según posturas.\nE) El análisis racional ha confrontado a la explicación mitológica.\n\nSolución : El autor del texto explica la valoración del mito según el periodo histórico\nque lo aborda.\nRpta.: D\n\n2. En el texto, el antónimo contextual del término ABSTENER es\n\nA) convencer . B) conmover . C) inhibir .\nD) imponer . E) atrever .\n\nSolución : En el texto, abstener hace alusión a contenerse, entonces su antónimo en\nel contexto planteado es atrever.\nRpta.: E\n\n3. Resulta congruente con el texto asegurar que los mitos\n\nA) se hallan circunscritos dentro al método analítico.\nB) eran pasibles de se r demostrados para Aristóteles.\nC) fueron desestimados por los racionales ilustrados.\nD) seducían al hombre ingenuo según los románticos.\nE) sustentan relatos que no se sujetan a la razón humana.\n\nSolución : Según el autor, quienes han criticado los mitos parten del presupuesto de\nque estos relatos deberían ser demostrados. Sin embargo, esta forma de explicar\nhechos muy antiguos tiene otro camino ajeno a la racionalidad.\nRpta.: E\n\n4. Es posible inferir que, para el autor del texto, el filósofo Aristóteles\n\nA) contradijo a su maestro Platón entorno a valoraciones de la mitología.\nB) admitió la presencia de la razón en relatos mitológicos sobre la creación.\nC) se abstuvo de emitir una posición acerca de la veracidad de los mitos.\nD) propuso someter a las narraciones míticas a una evaluación rigurosa.\nE) habría formulado un juicio ecléico entre la racionalidad y la mitología.\n\nSolución : Según el autor, el filósofo Aristóteles señaló que la razón y el mito griego\nde la creación comparten puntos de encuentro. Entonces, habría admitido la presencia\nde la razón en ellos.\nRpta.: B\n\n5. Si los ilustrados no se hubiesen abstenido de condenar los mitos, entonces\n\nA) la Ilustración habría reconsiderado la importancia cultural de la mitología.\nB) la apreciación de Platón sobre estas narraciones se vería confirmada.\nC) ellos habrían desestimado la posibilidad de encontrarles sentido a estos relatos.\nD) estas historias poseerían un valor inconmensurable para los románticos.\nE) la mitología habría quedado rezagada por la imponente racionalidad.\n\nSolución : Según el autor los ilustrados se abstuvieron de condenar a los mitos y, por\nel contrario, se propusieron encontrar sentido a los relatos míticos aparentemente\nfantásticos. Si los hubieran condenado, entonces no les habría interesado\nencontrarles sentido.\n\nLa ficción es más que un entretenimiento, más que un ejercicio intelectual que aguza\nla sensibilidad y despierta el espíritu crítico. Es una necesidad imprescindible para que la\ncivilización siga existiendo, renovándose y conservando en nosotros lo mejor de lo humano.\nPara que no retrocedamos a la barbarie de la incomunicación y la vida no se reduzca al\npragmatismo de los especialistas que ven las cosas en profundidad pero ignoran lo que las\nrodea, precede y continúa. Para que no pasemos de servirnos de las máquinas que\ninventamos a ser sus sirvientes y esclavos. Y porque un mundo sin literatura sería un mundo\nsin deseos ni ideales ni desacatos, un mundo de autómatas privados de lo que hace que el\nser humano sea de veras humano: la capacidad de salir de sí m ismo y mudarse en otro ,\nen otros, modelados con la arcilla de nuestros sueños.\nDe la caverna al rascacielos, del garrote a las armas de destrucción masiva, de la vida\ntautológica de la tribu a la era de la globalización, las ficciones de la literatura han\nmultiplicado las experiencias humanas, impidiendo que hombres y mujeres sucumbamos al\nletargo, al ensimismamiento, a la resignación. Nada ha sembrado tanto la inquietud,\nremovido tanto la imaginación y los deseos, como esa vida de mentiras que añadimos a la\nque tenemos gracias a la literatura para protagonizar las grandes aventuras, las grandes\npasiones, que la vida verdadera nunca nos dará. Las mentiras de la literatura se vuelven\nverdades a través de nosotros, los lectores transformados, contaminados de anhelos y, por\nculpa de la ficción, en permanente entredicho con la mediocre realidad. Hechicería que, al\nilusionarnos con tener lo que no tenemos, serlo que no somos, acceder a esa imposible\nexistencia donde, como dioses paganos, nos sentimos terrenales y eternos a la vez, la\nliteratura introduce en nuestros espíritus la inconformidad y la rebeldía, que están detrás de\ntodas las hazañas que han contribuido a disminuir la violencia en las relaciones humanas.\nA disminuir la violencia, no a acabar con ella. Porque la nuestra será siempre, por fortuna,\nuna historia inconclusa. Por eso tenemos que seguir soñando, leyendo y escribiendo, la\nmás eficaz manera que hemos encontrado de ayudar nuestra condición perecedera, de\nderrotar a la carcoma del tiempo y de convertir en posible lo imposible.\nVargas Llosa, M. (8 de diciembre de 2010). Elogio de la lectura y la ficción”. En El\nPaís. Recuperado el 27 de marzo del 2015, de El País :\nhttp://elpais.com/diario/2010/12/08/cultura/1291762802_850215.html",
+    "questions": [
+      {
+        "statement": "La expresión MUDARSE EN OTRO significa que ,gracias a la literatura ficcional , podemos",
+        "alternatives": [
+          "A) ser mucho más fieles a la realidad en que vivimos.",
+          "B) reafirmar aún más nuestra naturaleza obsecuente.",
+          "C) volvernos más implacables con nuestros enemigos.",
+          "D) ser por momentos lo que naturalmente no somos.",
+          "E) ser menos tolerantes con nuestros semejantes."
+        ],
+        "correct": 3,
+        "rationale": "La ficción nos permite convertir en posible lo imposible, nos permite acceder a una existencia que no tenemos en la realidad."
+      },
+      {
+        "statement": "Resulta que, para el autor, la verdad",
+        "alternatives": [
+          "A) es un concepto totalmente innecesario en su argumentación.",
+          "B) consiste en la adecuación de la descripción con lo acaecido.",
+          "C) debe caracterizarse fundamentalmente por su intelligibilidad.",
+          "D) debe corroborarse in eludiblemente con los datos empíricos.",
+          "E) no depende necesariamente de lo que llamamos realidad."
+        ],
+        "correct": 4,
+        "rationale": "La ficción se vuelve verdad a través de nosotros, es decir, la verdad en la literatura no implica necesariamente adecuación con la realidad."
+      },
+      {
+        "statement": "Si la literatura solo se orientara a reflejar pasivamente la realidad,",
+        "alternatives": [
+          "A) seríamos capaces de eliminar nuestra tendencia a la violencia.",
+          "B) no estimularía el espíritu contestatario de los seres humanos.",
+          "C) podríamos olvidar por momentos nuestra condición perecedera.",
+          "D) esta lograría incrementar la sensibilidad de los seres humanos.",
+          "E) seguiríamos preservando lo mejor de nuestra condición humana."
+        ],
+        "correct": 1,
+        "rationale": "Si la literatura no pudiera transformar la realidad, no se generaría inconformidad y; por lo tanto, no despertaría la rebeldía."
+      },
+      {
+        "statement": "Si la literatura solo se orientara a reflejar pasivamente la realidad,",
+        "alternatives": [
+          "A) seríamos capaces de eliminar nuestra tendencia a la violencia.",
+          "B) no estimularía el espíritu contestatario de los seres humanos.",
+          "C) podríamos olvidar por momentos nuestra condición perecedera.",
+          "D) esta lograría incrementar la sensibilidad de los seres humanos.",
+          "E) seguiríamos preservando lo mejor de nuestra condición humana."
+        ],
+        "correct": 1,
+        "rationale": "Si la literatura no pudiera transformar la realidad, no se generaría inconformidad y; por lo tanto, no despertaría la rebeldía."
+      }
+    ]
+  },
+  {
+    "type": "reading_comprehension",
+    "statement": "Generalmente solemos dar por sentado que las lenguas naturales funcionan como\ncódigos, es decir, como sistemas que emparejan signos y mensajes de una manera constante: la lengua establece una relación diádica, convencional y arbitraria entre\nrepresentaciones fonológicas (significantes) y representaciones semánticas (significados).\nTambién habitualmente partimos de la base de que, cuando nos comunicamos por medio\ndel lenguaje, lo que hacemos es simplemente codificar información, esto es, elegimos las\nrepresentaciones fonológicas que corresponden al contenido semántico que deseamos\ntransmitir. Estas dos ideas —la de que las lenguas son códigos, y la de que comunicarse\nconsiste en codificar y descodificar información —, que gozan de extraordinaria popularidad\ny difusión, pueden resultar útiles algunos momentos y para algunos propósitos concretos,\npero dibujan solo un esquema muy simplificado de la comunicación. La realidad se encarga\npronto de demostrar que las cosas no son tan sencillas. Observemos el siguiente texto:\n\nCuando un diplomático dice sí, quiere decir «quizá»;\ncuando dice quizá ,quiere decir «no»;\ny cuando dice no, no es un diplomático.\nCuando una dama dice no, quiere decir «quizá»;\nCuando dice quizá ,quiere decir «sí»;\nY cuando dice sí, no es una dama\nVOLTAIRE",
+    "questions": [
+      {
+        "statement": "El tema central del texto es",
+        "alternatives": [
+          "A) el carácter diádico de la lengua como sistema.",
+          "B) el problema del significado no convencional.",
+          "C) las diferentes clases de signos para Voltaire.",
+          "D) la relación entre lo fonológico y lo semántico.",
+          "E) el contenido semántico arbitrario al hablar."
+        ],
+        "correct": 1,
+        "rationale": "A manera de conclusión, la autora se permite plantear el tema central; esto es, el significado no convencional manifiesto en el uso concreto que se hace de la lengua."
+      },
+      {
+        "statement": "El término DIBUJAR, en el texto, adquiere el sentido de",
+        "alternatives": [
+          "A) trazar. ",
+          "B) perfilar. ",
+          "C) delinear.",
+          "D) esbozar. ",
+          "E) presentar."
+        ],
+        "correct": 4,
+        "rationale": "El verbo en cuestión hace alusión a la forma en que los conceptos tradicionales sobre la lengua y su uso PRESENTAN el fenómeno comunicativo."
+      },
+      {
+        "statement": "Resulta incompatible con el desarrollo textual afirmar que la intención de la autora es",
+        "alternatives": [
+          "A) confutar la conocida y extendida idea sobre la comunicación.",
+          "B) evaluar un aspecto de la comunicación relativo al uso concreto.",
+          "C) propugnar la idea extendida de que las lenguas son códigos.",
+          "D) presentar casos en que el uso semántico es no convencional.",
+          "E) hacer manifiesta la debilidad del enfoque tradicional de lengua."
+        ],
+        "correct": 2,
+        "rationale": "La autora no defiende la idea extendida de que las lenguas son códigos que emparejan significantes con significados, más bien la refuta, esto es, la impugna."
+      }
+    ]
+  },
+  {
+    "type": "sentence_elimination",
+    "statement": "Se mezcla arroz de S/. 3 y S/. 4 el kilo en la proporción de 1 a 3 ,respectivamente.\nSi el kilo de la mezcla se vende en S/. 4,50, halle el porcentaje que se ganó",
+    "alternatives": [
+      "A) 20%",
+      "B) 24%",
+      "C) 25%",
+      "D) 30%",
+      "E) 32%"
+    ],
+    "correct": 0,
+    "rationale": "Costo de la mezcla: (1/4)*3 + (3/4)*4 = 3,75. Ganancia = 4,50 - 3,75 = 0,75. Porcentaje de ganancia = 0,75 / 3,75 = 0,20 → 20%."
+  }
+]

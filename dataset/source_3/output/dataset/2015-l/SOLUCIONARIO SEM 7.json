@@ -1,0 +1,710 @@
+[
+  {
+    "type": "reading_comprehension",
+    "statement": "La malaria o paludismo es una de las enfermedades más devastadoras del planeta. Cada año, esta afecta a unos 400 millones de individuos, con resultados de muerte para dos millones de ellos. Las víctimas principales son niños del Tercer Mundo. El agente causante de la enfermedad es el Plasmodium ,un parásito intracelular que se transmite por la picadura de mosquitos infectados. Varios intentos de erradicar esta enfermedad durante el último siglo han fracasado. Ello se explica, en buena medida, por la aparición de parásitos resistentes a los medicamentos aplicados y al desarrollo de resistencia contra insecticidas en los mosquitos vectores. Ante esa situación, los científicos se esfuerzan por hallar nuevas soluciones para detener el desarrollo de la enfermedad, en particular la búsqueda de una vacuna contra la malaria. Pero esa vía no ha dado los frutos esperados. Se impone, pues, volver al estudio de la biología de Plasmodium con el fin de poder diseñar otras estrategias más eficaces. El ciclo biológico del p arásito comprende varios estadios, que se desarrollan en dos huéspedes diferentes: uno vertebrado (desde reptiles hasta humanos) y otro, un insecto que actúa como vector (el mosquito Anopheles ).La malaria se transmite a través de la picadura de un mosquito infectado que porta el protozoo Plasmodium en estadio de esporozoito en las glándulas salivares. El mosquito introduce su probóscide en la piel del huésped buscando un capilar con sangre y deposita, debajo de la piel, saliva que contiene los esporozoitos del Plasmodium . Desde aquí los esporozoitos migran a la sangre en pocos minutos; el torrente sanguíneo los transporta hasta el hígado. Se desconoce por qué los esporozoitos del Plasmodium se detienen en el hígado, el único órgano que son capaces de infectar.",
+    "questions": [
+      {
+        "statement": "¿Cuál es la aserción compatible con el texto?",
+        "alternatives": [
+          "A) El Anopheles es el agente causante de la malaria.",
+          "B) Plasmodium ataca a muchos órganos humanos.",
+          "C) El parásito ha causado la extinción de los mosquitos.",
+          "D) Los insecticidas resultan ineficaces contra la malaria.",
+          "E) La malaria es una enfermedad relativamente inocua."
+        ],
+        "correct": 3,
+        "rationale": "Los insecticidas no pueden eliminar a los mosquitos vectores, por tanto no son la solución para la enfermedad."
+      },
+      {
+        "statement": "Con respecto al texto, es incoherente afirmar que",
+        "alternatives": [
+          "A) la vacuna resulta ser un medio eficaz contra la malaria.",
+          "B) los intentos por erradicar la enfermedad han fracasado.",
+          "C) el ciclo biológico del parásito consta de varias etapas.",
+          "D) el Anopheles es un huésped del parásito Plasmodium .",
+          "E) lmalaria es un mal que puede atacar a los reptiles."
+        ],
+        "correct": 0,
+        "rationale": "La vía de la vacuna no ha dado los frutos esperados."
+      }
+    ]
+  },
+  {
+    "type": "reading_comprehension",
+    "statement": "Desde el famoso precepto de Gracián: «Lo bueno, si breve, dos veces bueno» hasta el imperativo periodístico de ser breve y directo, pasando por la fascinación de Walter Benjamin por las obras de arte en miniatura, la brevedad y la condensación han sido una virtud. Un libro, desde luego, jamás será reemplazado por su resumen, pero los resúmenes, al exigir condensación y brevedad, suponen ya, más allá de los usos didácticos o publicitarios, una interpretación, una indicación de lectura, un ejercicio de crítica que dice tanto sobre el libro resumido como sobre el autor del resumen. Todos hemos padecido resúmenes mal hechos o hemos sufrido por haber llegado a ciertos textos solamente a través de ellos. Y hemos odiado la escuela cuando nos obligaban a hacer resúmenes. Sin embargo, estos son como el estudio de memoria: por sí solo no basta y molesta. ¡Pero cuidado con no aprender textos de memoria! Estudiar de memoria mantiene a esta en ejercicio y permite que un texto que amamos nos acompañe durante largo tiempo. Más aún, nos permite también descubrir, años después, que un texto que nos hicieron estudiar de memoria podía y debía ser amado. El resumen es útil por dos razones: ejercita la capacidad de síntesis de quien lo hace y le ahorra tiempo a quien lo lee. Pienso que hacerlo es mucho más importante que leerlo. El arte del resumen es importante y muy útil, y se aprende haciendo resúmen es. Hacer resúmenes enseña a condensar las ideas. En otras palabras, enseña a escribir.",
+    "questions": [
+      {
+        "statement": "1. Es incompatible con respecto al resumen sostener que",
+        "alternatives": [
+          "A) su elaboración es tarea importante.",
+          "B) de pequeños odiábamos redactarlos.",
+          "C) hacer uno supone interpretar un texto.",
+          "D) carece de utilidad para quien lo hace.",
+          "E) fomenta nuestra capacidad de síntesis."
+        ],
+        "correct": 3,
+        "rationale": "La propuesta del texto es encomiar el resumen como un ejercicio de escritura, por ello es muy útil para quien lo hace."
+      },
+      {
+        "statement": "2. Resulta inconsistente con el texto afirmar que",
+        "alternatives": [
+          "A) el resumen impone un ejercicio de concentración.",
+          "B) una interpretación está implícita en un resumen.",
+          "C) un libro puede ser reemplazado por un resumen.",
+          "D) el estudio de memoria es molesto, pero necesario.",
+          "E) el arte de hacer resúmenes enseña a escribir."
+        ],
+        "correct": 2,
+        "rationale": "En ningún momento un resumen reemplazará a un libro, pero no por ello deja de ser importante. Por tanto, es incompatible afirmar que un libro puede ser reemplazado por un resumen."
+      },
+      {
+        "statement": "3. Es incompatible, con respecto a las características del resumen, aseverar que este es",
+        "alternatives": [
+          "A) didáctico",
+          "B) breve",
+          "C) útil",
+          "D) dilatado",
+          "E) sintético."
+        ],
+        "correct": 3,
+        "rationale": "Lo fundamental en el resumen es su brevedad."
+      }
+    ]
+  },
+  {
+    "type": "reading_comprehension",
+    "statement": "Alguien trajo, cierto día, a mi laboratorio unos conejos procedentes del mercado. Los colocó sobre una mesa, donde se orinaron, y observé por casualidad que la orina era clara y ácida. El hecho me sorprendió, puesto que los conejos tienen una orina turbia y alcalina, como todos los herbívoros, mientras que los carnívoros, por el contrario, como todo el mundo sabe ,tienen la orina clara y ácida. El observar la acidez de la orina en los conejos me hizo suponer que aquellos animales se encontraban en una condición alimenticia de carnívoros. Supuse que probablemente no habrían comido desde muchos días atrás y que, debido al ayuno, se habrían transformado en verdaderos animales carnívoros que vivirían de su propia sangre. Nada más fácil que verificar por la experiencia esta idea. Di a comer hierba a los conejos y unas horas después su orina se había vuelto turbia y alcalina. Puse inmediatamente a ayunar a aquellos conejos y, después de veinticuatro horas, su orina se había vuelto otra vez clara y muy ácida. Luego se volvía de nuevo alcalina al darles de comer otra vez hierba, y viceversa. Repetí esta experiencia tan simple gran número de veces con los mismos conejos y siempre obtuve el mismo resultado. La repetí luego con un caballo, animal también herbívoro, que tiene igualmente la orina turbia y alcalina. Hallé que el ayuno producía, igual que en los conejos, una súbita acidez de orina y un aumento relativamente considerable de la úrea, hasta el punto de que, al enfriarse la orina, cristalizaba espontáneamente. Así llegué, al final de estas experiencias a esta proposición general, desconocida hasta entonces, a saber, que en ayunas todos los animales se nutren de su carne, de modo que los herbívoros poseen, en este caso, orina semejante a la de los carnívoros. Se trata aquí de un hecho particular muy simple, que permite seguir fácilmente la evolución del razonamiento experimental. Cuando uno ve un fenómeno que no tiene costumbre de ver, hay que preguntarse siempre a qué se debe o bien, dicho de otra manera, cuál es su causa; entonces se hace presente al pensamiento una respuesta o una idea que es preciso someter a experiencia. Al observar la orina ácida en los conejos, me pregunté cuál podía ser la causa. La idea experimental consistía en la relación que mi mente había establecido entre la acidez de la orina en el conejo y el estado de ayunas que yo consideré como una verdadera alimentación carnívora. El razonamiento que implícitamente hice fue el siguiente: la orina de los carnívoros es ácida; ahora bien, los conejos que tengo ante mis ojos tienen orina ácida; por tanto, son carnívoros mientras están en situación de ayunas. Esto último era lo que debía establecerse por la experiencia. Pero, con el fin de probar que mis conejos en ayunas eran verdaderamente carnívoros, tuve que realizar una contraprueba. Era preciso fabricar un conejo carnívoro , alimentándolo con carne, para ver si su orina era entonces clara, ácida y relativamente cargada de úrea como durante el ayuno. Para ello, hice alimentar conejos con carne de bue y hervida fría (alimento que comen bien cuando no se les da otra cosa). Mi previsión se verificó una vez más, y mientras duró este tipo de alimentación animal los conejos tuvieron una orina clara y ácida.",
+    "questions": [
+      {
+        "statement": "1. La intención principal del autor del texto es",
+        "alternatives": [
+          "A) denunciar el caso de conejos carnívoros comprados en un mercado.",
+          "B) presentar el modo como se desarrolla el razonamiento experimental.",
+          "C) solucionar las dificultades para diferenciar a los animales herbívoros.",
+          "D) valorar la facilidad con que surgen hipótesis e ideas en la mente."
+        ],
+        "correct": 1,
+        "rationale": "experimental y emplea como ejemplo varias pruebas con animales."
+      },
+      {
+        "statement": "2. En el texto, el término PREVISIÓN puede reemplazarse por",
+        "alternatives": [
+          "A) consideración. ",
+          "B) moderación. ",
+          "C) predicción.",
+          "D) sustitución. ",
+          "E) contraprueba."
+        ],
+        "correct": 2,
+        "rationale": "Al final del texto, el autor señala que su previsión se verificó. El término previsión hace referencia a un pronóstico o predicción."
+      },
+      {
+        "statement": "3. Resulta incompatible con el texto afirmar que",
+        "alternatives": [
+          "A) los herbívoros tienen una orina turbia y alcalina.",
+          "B) los carnívoros poseen una orina clara y ácida.",
+          "C) solo se utilizan los sentidos en la experimentación.",
+          "D) la contraprueba es necesaria en la experimentación.",
+          "E) un científico busca las causas de los fenómenos."
+        ],
+        "correct": 2,
+        "rationale": "En el experimento que el autor utiliza como ejemplo para mostrar el razonamiento experimental también se emplea el pensamiento."
+      },
+      {
+        "statement": "4. Se infiere del texto que la experimentación",
+        "alternatives": [
+          "A) es inaplicable en casos que no tenemos costumbre de observar.",
+          "B) no puede contradecir, con sus resultados, las teorías aceptadas.",
+          "C) parte de la causa de un fenómeno que califica como metafísica.",
+          "D) hace inútil e improductiva la realización de una contraprueb a.",
+          "E) atraviesa por varias etapas que requieren un continuo control."
+        ],
+        "correct": 4,
+        "rationale": "Esto se debe a que la prueba se repitió varias veces, según expresa el autor."
+      },
+      {
+        "statement": "5. En el texto, la expresión FABRICAR UN CONEJO CARNÍVORO se entiende como",
+        "alternatives": [
+          "A) condiciones experimentales.",
+          "B) modificaciones evolutivas.",
+          "C) tortuosos cruces genéticos.",
+          "D) operaciones imaginarias.",
+          "E) transformaciones de apariencia."
+        ],
+        "correct": 0,
+        "rationale": "Esa expresión se utiliza para referirse a la comprobación del experimento."
+      }
+    ]
+  },
+  {
+    "type": "verbal_series",
+    "statement": "Temor, fobia; cariño, obsesión, alegría, júbilo;",
+    "alternatives": [
+      "A) candidez, torpeza.",
+      "B) amor, insania.",
+      "C) timidez, indiferencia.",
+      "D) tranquilidad, sosiego.",
+      "E) tristeza, agonía."
+    ],
+    "correct": 4,
+    "rationale": "Serie de analogías de intensidad de menos a más. Debe completarse con tristeza, agonía."
+  },
+  {
+    "type": "verbal_series",
+    "statement": "Aciago, funesto, nefasto,",
+    "alternatives": [
+      "A) supino.",
+      "B) lábil.",
+      "C) craso.",
+      " ",
+      "D) fúlgido.",
+      "E) ominoso."
+    ],
+    "correct": 2,
+    "rationale": "Solución : Serie de sinónimos."
+  },
+  {
+    "type": "verbal_series",
+    "statement": "Débil, quebradizo, deleznable,",
+    "alternatives": [
+      "A) espurio.",
+      "B) frágil.",
+      "C) descolorido.",
+      "D) macilento.",
+      "E) etéreo."
+    ],
+    "correct": 1,
+    "rationale": "La serie verbal es sinonímica y se completa con la palabra FRÁGIL."
+  },
+  {
+    "type": "verbal_series",
+    "statement": "Cachazudo, lento, flemático,",
+    "alternatives": [
+      "A) taimado.",
+      "B) adocenado.",
+      "C) macuco.",
+      "D) fariseo.",
+      "E) parsimonioso."
+    ],
+    "correct": 4,
+    "rationale": "La serie verbal es sinonímica y se completa con la palabra PARSIMONIOSO."
+  },
+  {
+    "type": "verbal_series",
+    "statement": "Extenuado, cansado; adocenado, refinado; beligerante, combativo;",
+    "alternatives": [
+      "A) caduco, sutil.",
+      "B) débil, enervado.",
+      "C) raudo, lento.",
+      "D) dúctil, maleable.",
+      "E) ecuménico, universal."
+    ],
+    "correct": 2,
+    "rationale": "La serie verbal es mixta (sinónimos, antónimos, sinónimos) y se completa con las palabras RAUDO y LENTO."
+  },
+  {
+    "type": "synonyms_and_antonyms",
+    "statement": "Determine el antónimo de los términos REPRESIVO, INHIBITORIO y COERCITIVO.",
+    "alternatives": [
+      "A) venal.",
+      "B) sádico.",
+      "C) pertinente.",
+      "D) punible.",
+      "E) liberal."
+    ],
+    "correct": 4,
+    "rationale": "El antónimo de los vocablos propuestos es LIBERAL."
+  },
+  {
+    "type": "sentence_elimination",
+    "statement": "En su trabajo científico, la acción inicial realizada por el experimentador fue la de",
+    "alternatives": [
+      "A) observar la extraña orina del conejo.",
+      "B) comparar la alimentación del animal.",
+      "C) comprar los conejos en el mercado.",
+      "D) definir los diversos tipos de úrea.",
+      "E) cambiar la nutrición de los conejos."
+    ],
+    "correct": 0,
+    "rationale": "Lo primero que hace el experimentador es observar las características resaltantes de la orina."
+  },
+  {
+    "type": "sentence_elimination",
+    "statement": "Tanto el conejo como el caballo son usados por el ex perimentador como medios",
+    "alternatives": [
+      "A) de comprobación de su hipótesis.",
+      "B) de contraprueba del experimento.",
+      "C) para la práctica experimental diaria.",
+      "D) para la explicación de estadísticas.",
+      "E) de comparación entre herbívoros."
+    ],
+    "correct": 0,
+    "rationale": "El experimentador realiza pruebas con esos animales para comprobar la repuesta inicial que le dio al problema."
+  },
+  {
+    "type": "verbal_series",
+    "statement": "6. Extenuado, cansado; adocenado, refinado; beligerante, combativo;",
+    "alternatives": [
+      "A) caduco, sutil.",
+      "B) débil, enervado.",
+      "C) raudo, lento.",
+      "D) dúctil, maleable.",
+      "E) ecuménico, universal."
+    ],
+    "correct": 2,
+    "rationale": "La serie verbal es mixta (sinónimos, antónimos, sinónimos) y se completa con las palabras RAUDO y LENTO."
+  },
+  {
+    "type": "verbal_series",
+    "statement": "7. Determine el antónimo de los términos REPRESIVO, INHIBITORIO y COERCITIVO.",
+    "alternatives": [
+      "A) venal.",
+      "B) sádico.",
+      "C) pertinente.",
+      "D) punible.",
+      "E) liberal."
+    ],
+    "correct": 4,
+    "rationale": "El antónimo de los vocablos propuestos es LIBERAL."
+  },
+  {
+    "type": "verbal_series",
+    "statement": "8. Transgredir, conculcar; afrentar, ensalzar; ciar, recular;",
+    "alternatives": [
+      "A) finiquitar, rematar.",
+      "B) obliterar, obstruir.",
+      "C) sofrenar, azuzar.",
+      "D) elucidar, dilucidar.",
+      "E) soterrar, ocultar."
+    ],
+    "correct": 2,
+    "rationale": "Se trata de una serie verbal mixta: sinónimos, antónimos, sinónimos; por lo tanto, corresponde un par de antónimos."
+  },
+  {
+    "type": "verbal_series",
+    "statement": "10. Indolente, ignavo; arriscado, pusilánime; velado, latente;",
+    "alternatives": [
+      "A) diletante, aficionado.",
+      "B) enclenque, enfermizo.",
+      "C) altruista, generoso.",
+      "D) recalcitrante, tozudo.",
+      "E) inopinado, planificado."
+    ],
+    "correct": 4,
+    "rationale": "Corresponde a una serie verbal mixta: sinónimos, antónimos, sinónimos; por lo tanto, corresponde un par de antónimos."
+  },
+  {
+    "type": "reading_comprehension",
+    "statement": "El tipo que desde una empresa me pidió que le presupueste un trabajo y una vez enviado el presupuesto llamó y me dijo «está ok, pero al total súmale un diez por ciento extra y luego me lo depositas en mi cuenta personal», ha puesto en Facebook que asistirá a la marcha contra la TV Basura. Lo llamado TV Basura de be ser para él un ente que inocula en las personas el virus de la inmoralidad y arranca de raíz sus firmes valores. ¡Qué manía de prohibir lo que hemos desarrollado! Pienso que la proscripción de productos –en este caso audiovisuales – que un grupo considera negativos, es la versión dictatorial del fortalecimiento de lo positivo. En la propuesta, debate y selección de alternativas, está la respuesta al problema de la televisión. Ninguna solución puede radicar en el recorte de nuestras propias libertades. Pid ámosles a las marcas auspiciadoras que inviten a los gerentes de canales a incluir, inyectar o encajar contenidos culturales en sus programas de entretenimiento, por ejemplo. Más contenidos, más narrativas y más estilos. Que haya personas combatiendo eso que llaman TV Basura en lugar de poner sus ojos en otros problemas nacionales –de acuerdo a mi perspectiva, más graves – me sorprende, pero esa es solo mi forma de ver las cosas y entiendo que hay otras. Algunos han elegido que esa sea su guerra y bien, porque el fondo del asunto es la acción de elegir. No defiendo los contenidos que la televisión nacional quiere darnos, pero defiendo la posibilidad de cambiar de canal y escoger, frente a que un comité de notables decida qué se ve y qué no. El cambio tiene que venir desde la sociedad y venir por decisión mayoritaria, no a la fuerza ni decidio por unos cuantos que creen tener la razón. Es obvio que el tipo que me pidió con desparpajo un 10% por elegirme para un trabajo no entiende que ese es un acto de corrupción y que por eso no le contesté más. Supongo que no le importa porque está ocupado luchando contra la inmoralidad que ve en las pantallas. García, C. (18 de marzo de 2015). «Basura qué». La República .",
+    "questions": [
+      {
+        "statement": "Medularmente, el texto se refiere a",
+        "alternatives": [
+          "A) los avances de la corrupción en la sociedad peruana.",
+          "B) la incongruencia que muestran los adversarios de la TV basura.",
+          "C) lo inconducente que resulta tratar de prohibir programas televisivos.",
+          "D) las alternativas existentes para mejorar los contenidos de la TV.",
+          "E) la influencia de la televisión en la vida social y cultural del Perú."
+        ],
+        "correct": 2,
+        "rationale": "El autor argumenta acerca de lo pernicioso que resulta el tratar de prohibir ciertos programas de televisión."
+      },
+      {
+        "statement": "Se puede colegir que el autor del texto presenta una postura de carácter",
+        "alternatives": [
+          "A) socialista.",
+          "B) po pulista.",
+          "C) existencial.",
+          "D) liberal.",
+          "E) nihilista."
+        ],
+        "correct": 3,
+        "rationale": "Es una postura liberal, pues pondera el derecho de cada uno a decidir qué quiere ver."
+      },
+      {
+        "statement": "Resulta incompatible con el texto señalar que la TV Basura",
+        "alternatives": [
+          "A) representa para la sociedad peruana un problema tangible.",
+          "B) indudablemente representa uno de los mayores males nacionales.",
+          "C) debe restringirse fundamentalmente por acción de la sociedad.",
+          "D) existe porque un gran sector de la población gusta de ella.",
+          "E) no debe someterse a la a cción política del Estado según el autor."
+        ],
+        "correct": 1,
+        "rationale": "En el texto se señala que hay problemas más importantes que discutir en nuestro país."
+      },
+      {
+        "statement": "Si los auspiciadores no trataran de influenciar en los dueños de los canales para hacer que los contenidos de los programas fueran más edificantes,",
+        "alternatives": [
+          "A) los televidentes tendrían que apagar sus aparatos de televisión para mostrar su descontento.",
+          "B) la TV peruana continuaría mostrando la monotonía y limitaciones de creatividad actuales.",
+          "C) el Estado tendría que intervenir para regular los contenidos mostrados por la televisión.",
+          "D) los problemas más importantes del Perú pasarían inmediatamente a un segundo plano.",
+          "E) habría oportunidad para desarrollar un gran debate entorno a los programas de TV."
+        ],
+        "correct": 1,
+        "rationale": "El autor señala que una solución al problema sería que los auspiciadores influenciaran en los gerentes de los canales. Así habría más contenidos, más estilos."
+      }
+    ]
+  },
+  {
+    "type": "reading_comprehension",
+    "statement": "Yo propongo que una organización sea creada por el Estado para quienes intervienen en la producción de televisión. Cualquiera que esté ligado a la producción televisiva debe tener una patente, una licencia, una cédula profesional, que le pueda ser retirada de por vida cuando actúe en contravención de ciertos principios. Este es el medio por el cual yo quisiera que se introdujese finalmente una disciplina en este campo. Quienquiera que haga\n\ncon base en el juicio de la organización, podrá perder esa patente. El organismo que tenga la facultad de retirar la patente será una especie de tribunal. Por esto, en un sistema televisivo que operase según mi propuesta, todos se sentirían bajo la constante supervisión de este organismo y deberían sentirse constantemente en la situación de quien, si comete un error (siempre con base en las reglas fijada s por la organización), puede perder la licencia. Esta supervisión constante es algo mucho más eficaz que la censura, porque la patente, en mi propuesta, debe ser concedida solo después de un curso de adiestramiento, al término del cual habrá un examen.\nUno de los fines principales del curso será enseñar a aquel que aspira a producir televisión, que de hecho, le guste o no, participará en la educación de masas, en un tipo de educación que es terriblemente poderoso e importante. De esto se deberán dar cuenta, quiéranlo o no, todos los que participan en hacer televisión: actúan como educadores, dado que la televisión presenta sus imágenes tanto ante los niños y jóvenes como ante los adultos.\nHace ocho años, en una lección sostuve la tesis de que estamos educando a nuestros niños para la violencia, y que sino hacemos algo, la situación necesariamente se deteriorará, porque las cosas se dirigen siempre por la dirección que presenta menor resistencia. En otras palabras, se va siempre por la parte que resulta más fácil, aquella en que uno se ayuda a superar un problema, reduciendo las obligaciones del trabajo. La violencia, el sexo y el sensacionalismo son el medio que los productores de televisión tienen más a la mano, son el medio ya probado que siempre es capaz de captar a la audiencia.",
+    "questions": [
+      {
+        "statement": "Medularmente, el autor propugna",
+        "alternatives": [
+          "A) un reordenamiento de los medios de comunicación debido a su notoria falta de criterio para educar.",
+          "B) la eliminación de los medios de comunicación por ser perjudiciales para los niños y jóvenes.",
+          "C) el otorgamiento y la revocatoria de licencias para quienes trabajan en medios de comunicación.",
+          "D) la supresión de la violencia como contenido de los programas de televisión e n horario de protección al menor.",
+          "E) un sistema de patentes para los dueños de los medios de comunicación en función de sus ganancias."
+        ],
+        "correct": 2,
+        "rationale": "Solución : Popper propone que una organización sea creada por el Estado para quienes intervienen en la producción de tele visión. Cualquiera que esté ligado a la producción televisiva debe tener una patente, una licencia, una cédula profesional, que le pueda ser retirada de por vida cuando actúe en contravención de ciertos principios."
+      },
+      {
+        "statement": "En el texto, el vocablo DISCIPLINA implica",
+        "alternatives": [
+          "A) ciencia.",
+          "B) supervisión.",
+          "C) censura.",
+          "D) dictadura.",
+          "E) coacción."
+        ],
+        "correct": 1,
+        "rationale": "Solución : Mediante el otorgamiento de cédulas profesionales, Popper pretende introducir disciplina (supervisión) en el ámbito de los medios de comunicación."
+      },
+      {
+        "statement": "4. A) bajo la lógica de maximizar ganancias con el menor costo y riesgo posible.",
+        "alternatives": [
+          "A) bajo la lógica de maximizar ganancias con el menor costo y riesgo posible.",
+          "B) con el apoyo de todos los padres de familia de los países desarrollados.",
+          "C) siguiendo siempre las recomendaciones de filósofos como Karl Popper.",
+          "D) violentamente cuando se busca controlar los contenidos de sus programas.",
+          "E) irresponsablemente al buscar un modelo económico distinto al libre mercado."
+        ],
+        "correct": 0,
+        "rationale": "Solución : La violencia, el sexo y el sensacionalismo son el medio que los productores de televisión tienen más a la mano, son el medio ya probado que siempre es capaz de captar a la audiencia. Al respecto los dueños de los medios no asumen riesgos para captar la audiencia."
+      },
+      {
+        "statement": "5) ¿Cuál es el enunciado incompatible con el texto?",
+        "alternatives": [
+          "A) El organismo propuesto supera la mera censura e implica adiestramiento.",
+          "B) Los canales de televisión solo deberían producir programas filosóficos.",
+          "C) Los medios de comunicación deberían tener supervisión constante.",
+          "D) Las reglas para obtener una licencia deben ser planteadas claramente.",
+          "E) La educación de los jóvenes no sólo involucra a la escuela o a la familia."
+        ],
+        "correct": 1,
+        "rationale": "Solución : El control sobre los contenidos de los medios se relaciona con evitar la violencia o el sensacionalismo; no implica producir programas filosóficos necesariamente."
+      }
+    ]
+  },
+  {
+    "type": "sentence_elimination",
+    "statement": "1. I) La ciudad de Alejandría fue, sin lugar a dudas, el centro económico y cultural más importante del mundo al apagarse los resplandores de la antigua Atenas . II) Apoyada en el favor munificente de los sucesores de Alejandro y en su prosperidad comercial, Alejandría desarrolló allí una sociedad refinada y culta. III) Allí se crearon las primeras grandes instituciones culturales de Occidente, que heredaron la gloria que de una manera más modesta habían alcanzado en Atenas la Academia y el Liceo. IV) Alejandría fue un foco de atracción para los judíos, y fue allí donde tuvo lugar principalmente la confrontación entre la cultura y la religión semíticas y la religión grecorromana. V) En Alejandría vivió el judío Filón, cuya vasta obra literaria pretende reinterpretar las Escrituras y la religión de los judíos, de tal suerte que incorporen los mejores logros de la civilización helenística.",
+    "alternatives": [
+      "A) I",
+      "B) II",
+      "C) III",
+      "D) IV",
+      "E) V"
+    ],
+    "correct": 4,
+    "rationale": "pues trata del judío Filón. Criterio impertinencia."
+  },
+  {
+    "type": "sentence_elimination",
+    "statement": "2. I) La neurociencia nos dice que las actividades lúdicas fortalecen dos áreas de la masa gris: el cerebelo, que coordina los movimientos, y el lóbulo frontal, asociado a la toma de decisiones y el control de los impulsos . II) El juguete sirve para que los niños más pequeños aprendan la relación causa -efecto –«si empujo el cochecito, se mueve» –. III) A través del juego, los ni ños ejercitan el cálculo de probabilidades mediante el ensayo -error. IV) Para Petra María Pérez Alonso -Geta, catedrática de Teoría de la Educación de la Universidad de Valencia los juguetes son un vehículo para desarrollar habilidades como la atención, la abstracción, la memoria ,la representación ,la simbolización ola resolución de problemas. V) Los especialistas están divididos sobre las ventajas o inconvenientes de la tableta o el smartphone con respecto al juguete convencional.",
+    "alternatives": [
+      "A) I",
+      "B) II",
+      "C) III",
+      "D) IV",
+      "E) V"
+    ],
+    "correct": 4,
+    "rationale": "La oración V es impertinente, pues no se ocupa de las ventajas del juego para el desarrollo."
+  },
+  {
+    "type": "sentence_elimination",
+    "statement": "3. I) El 17 de marzo se celebra el día de san Patricio, patrón de Irlanda . II) San Patricio nació en el 387 en Kilpatrick, cerca de Dumbarton, en Escocia. III) Piratas irlandeses tomaron prisionero al joven Patricio de 16 años y lo vendieron como esclavo. IV) Pasó seis años en Irlanda, donde aprendió a hablar el idioma celta, hasta que consiguió fugarse y se marchó a Francia para prepararse para la vida monástica, y se ordenó sacerdote. V) Cuando contaba con 46 años de edad, decidió volver a Irlanda para evangelizar a sus habitantes.",
+    "alternatives": [
+      "A) I",
+      "B) II",
+      "C) III",
+      "D) IV",
+      "E) V"
+    ],
+    "correct": 0,
+    "rationale": "La oración I es impertinente, pues no habla de san Patricio, sino de la celebración de este."
+  },
+  {
+    "type": "sentence_elimination",
+    "statement": "4. I) En el Museo de El Carmen los hongos afectan a una docena de momias pertenecientes a religiosos y benefactores que vivieron hace aproximadamente 300 años. II) El profesor López y su equipo han identificado 24 hongos diferentes que están degradando los cuerpos y las vestimentas de varias momias en el Museo de El Carmen. III) Los hongos no solo suponen una amenaza para las momias del Museo de El Carmen, sino también para los visitantes que las contemplan, que pueden sufrir infecciones respiratorias y procesos alérgicos. IV) Para acabar con los hongos que atacan a las momias del Museo de El Carmen, el profesor Rubén López y su equipo decidieron poner a prueba un tratamiento antifúngico con Imazalil, una sustancia utilizada para liberar de los hongos a los Guerreros de Terracota (China). V) A la vista de la eficacia del Imazalil para acabar con los hongos de las momias del Museo de El Carmen, se piensa utilizarlo como medida de limpieza en archivos y bibliotecas .",
+    "alternatives": [
+      "A) I",
+      "B) II",
+      "C) III",
+      "D) IV",
+      "E) V"
+    ],
+    "correct": 4,
+    "rationale": "Se elimina la oración V por impertinencia. Habla de otras aplicaciones del Imazalil para preservar materiales históricos."
+  },
+  {
+    "type": "sentence_elimination",
+    "statement": "6. I) El tiburón toro vive en aguas cálidas poco profundas, llega a medir hasta 3,5 metros con 230 kg de peso. II) Con el enorme crecimiento que ha tenido la zona hotelera de Cancún, la convivencia con los tiburones toro se vuelve cada vez más peligrosa. III) Un equipo de científicos de la Universidad de Lethbridge en Australia pueden haber encontrado la solución ante el peligro que suponen los tiburones toro . IV) Ryan Kempster, partícipe del experimento sobre tiburones toro, sugiere un posible repelente de tiburón que, al emitir señales de peligro, los aleje de playas pobladas y áreas de pesca que los pongan en riesgo . V) El experimento para repeler el ataque de tiburones toro se erige como una solución más ecológica para estos depredadores que nadan en las peligrosas aguas de Cancún.",
+    "alternatives": [
+      "A) I",
+      "B) II",
+      "C) III",
+      "D) IV",
+      "E) V"
+    ],
+    "correct": 0,
+    "rationale": "Se elimina la oración I por impertinencia. El tema es la posible solución al problema de los tiburones."
+  },
+  {
+    "type": "sentence_elimination",
+    "statement": "7. I) María Winkelmann nació el 25 de febrero de 1670 en la ciudad alemana de Leipzig. II) María Winkelmann se convirtió en la primera mujer de la historia en descubrir un cometa, el C/1702, aunque en un primer momento no obtuvo reconocimiento. III) Oficialmente, el hallazgo de Winkelmann recayó en su esposo y no fue hasta 8 años después cuando se supo que ella era la verdadera descubridora. IV) Winkelmann nunca consiguió reconocimiento como astrónoma, ni siquiera cuando publicó varios estudios como Las observaciones sobre la aurora boreal . V) Al morir el esposo de María Winkelmann en el año 1710, se le negó un puesto oficial en el observatorio por su condición de mujer.",
+    "alternatives": [
+      "A) III",
+      "B) II",
+      "C) I",
+      "D) V",
+      "E) IV"
+    ],
+    "correct": 2,
+    "rationale": "Se aplica el criterio de impertinencia. El tema está relacionado con la condición de mujer de María Winkelmann."
+  },
+  {
+    "type": "reading_comprehension",
+    "statement": "7. I) María Winkelmann nació el 25 de febrero de 1670 en la ciudad alemana de Leipzig.\nII) María Winkelmann se convirtió en la primera mujer de la historia en descubrir un\ncometa, el C/1702, aunque en un primer momento no obtuvo reconocimiento. III)\nOficialmente, el hallazgo de Winkelmann recayó en su esposo y no fue hasta 8 años\ndespués cuando se supo que ella era la verdadera descubridora. IV) Winkelmann\nnunca consiguió reconocimiento como astrónoma, ni siquiera cuando publicó varios\nestudios como Las observaciones sobre la aurora boreal . V) Al morir el esposo de\nMaría Winkelmann en el año 1710, se le negó un puesto oficial en el observatorio por\nsu condición de mujer.",
+    "questions": [
+      {
+        "statement": "1. Básicamente, el autor trata de advertir sobre",
+        "alternatives": [
+          "A) cuantiosos beneficios terapéuticos de la hormona melatonina.",
+          "B) las secuelas del envejecimiento prematuro en el ser humano.",
+          "C) las reacciones adversas del organismo al consumir melatonina.",
+          "D) los experimentos para inducir la longevidad de los roedores.",
+          "E) los peligros letales por consumir preparados hormonales."
+        ],
+        "correct": 2,
+        "rationale": "En el cuarto párrafo del texto, se concluye que no es recomendable consumir sustancias que no están respaldadas experimentalmente por médicos, pues se desconoce los beneficios y las secuelas ."
+      }
+    ]
+  },
+  {
+    "type": "reading_comprehension",
+    "statement": "La melatonina es una hormona segregada por la glándula pineal. Ayuda a restablecer los ritmos fisiológicos y quizá con tribuya a regular el ciclo del sueño. No es de extrañar que se hayan elogiado sus virtudes para aliviar las molestias causadas por los cambios de horario al hacer viajes largos en avión —esta sigue siendo su aplica ción más probada — y como somní fero universal. Pero el mayor éxito de la melatonina se debe al temor de la gente a envejecer.\nLa concentración en el organismo de hormonas como la testosterona, los estrógenos y la melatonina es un índice de la juventud de una persona, pues alcanza su mayor magnitud en los adultos jóvenes y disminuye a un ritmo constante en la edad madura y la vejez. Si mantuviéramos la c oncentración propia de la juventud, ¿podríamos combatir los efectos del envejecimiento?\nCiertos experimentos realizados con ratas y ratones parecían indicar que sí. El oncólogo estadounidense William Regelson y el inmunólogo italiano Walter Pierpaoli trasplantaron las glándulas pineales de unos ratones jóvenes a unos de edad mediana y avanzada para incrementar su concentración de melatonina, y éstos «rejuvenecieron a ojos vistas», según escribieron los médicos en su libro The Melatonin Miracle (‘El milagro de la melatonina’), publicado en 1995. Sin embargo, en el Journal of the American Medical Association apareció después un artículo que expresa ba algunas reservas sobre la melatonina ;entre ellas que puede reducir la fertilidad de ambos sexos e inhibir el deseo sexual de los varones, y que constriñe las arterias cerebrales de las ratas.\nEn abril de 1997, el Instituto Nacional de la Senectud de Estados Unidos emprendió una campaña en los medios informativos desaconsejando el uso de remedios hormonales contra el envejecimiento por el peligro que entrañan. Los expertos de la institución advierten que no se ha comprobado que la melatonina tenga las propiedades rejuvenecedoras que se le atribuyen, y no aconsejan tomar preparados hormonales sino es bajo la supervisión de un médico.\nKing, E. (marzo de 2008). El reloj del envejecimiento. Selecciones, 2 , 40-41.",
+    "questions": [
+      {
+        "statement": "1. Básicamente, el autor trata de advertir sobre",
+        "alternatives": [
+          "A) cuantiosos beneficios terapéuticos de la hormona melatonina.",
+          "B) las secuelas del envejecimiento prematuro en el ser humano.",
+          "C) las reacciones adversas del organismo al consumir melatonina.",
+          "D) los experimentos para inducir la longevidad de los roedores.",
+          "E) los peligros letales por consumir preparados hormonales."
+        ],
+        "correct": 2,
+        "rationale": "Solución : En el cuarto párrafo del texto, se concluye que no es recomendable consumir sustancias que no están respaldadas experimentalmente por médicos, pues se desconoce los beneficios y las secuelas ."
+      },
+      {
+        "statement": "2. En el texto, se emplea el término RESERVA para indicar",
+        "alternatives": [
+          "A) los beneficios y usos de la hormona melatonina.",
+          "B) los efectos perniciosos de la hormona pineal.",
+          "C) las desventajas hormonales de la melatonina.",
+          "D) la disfunción secretora de la glándula pineal."
+        ],
+        "correct": 1,
+        "rationale": "Rpta.: B"
+      },
+      {
+        "statement": "3. Resulta incongruente con el texto sostener que",
+        "alternatives": [
+          "A) la melatonina es, esencialmente, un preparado hormonal que induciría esterilidad.",
+          "B) la hormona segregada por la glándula pineal funcionaría como regulador de sueño.",
+          "C) experimentalmente, se ha visto resultados de rejuvenecimiento con la melatonina.",
+          "D) ingerir cualquier preparado hormonal ocasionaría alteraciones nocivas en el organismo.",
+          "E) hay controversia sobre resultados que genera el consumo de la hormona melatonina."
+        ],
+        "correct": 0,
+        "rationale": "Solución : La melatonina es una hormona segregada por la glándula pineal. Ayuda a restablecer los ritmos fisiológicos y quizá con tribuya a regular el ciclo del sueño. En el Journal of the American Medical Association apareció un artículo que expresa ba algunas contraindicaciones sobre la melatonina ;entre ellas que puede reducir la fertilidad de ambos sexos e inhibir el deseo sexual de los varones."
+      },
+      {
+        "statement": "4. Del texto, se puede colegir que la hormona melatonina",
+        "alternatives": [
+          "A) restablece los ritmos fisiológicos del organismo.",
+          "B) coadyuva a la regeneración de las células enfermas.",
+          "C) alcanza su mayor concentración en la edad provecta.",
+          "D) es un paliativo efectivo para casos de insomnio.",
+          "E) propicia la dilatación de las arterias cerebrales."
+        ],
+        "correct": 3,
+        "rationale": "Solución : La melatonina es una hormona que a yuda a restablecer los ritmos fisiológicos y quizá con tribuya a regular el ciclo del sueño. A liviaría las molestias causadas por los cambios de horario al hacer viajes largos en avión —esta sigue siendo su aplicación más probada — y como somní fero universal."
+      },
+      {
+        "statement": "5. Si se comprobara taxativamente que la administración de melatonina en seres vetustos provocase remozarlos,",
+        "alternatives": [
+          "A) resultaría ya ineficaz su uso como un potente somnífero.",
+          "B) sería prescindible las hormonas testosterona y estrógeno.",
+          "C) las enfermedades degenerativas serían tratadas con éxito.",
+          "D) se refutaría tajantemente sus consecuencias perniciosas.",
+          "E) se corroboraría los resultados experimentales de Regelson."
+        ],
+        "correct": 4,
+        "rationale": "Solución : El oncólogo estadounidense William Regelson y el inmunólogo italiano Walter Pierpaoli trasplantaron las glándulas pineales de unos ratones jóvenes a unos de edad media na y avanzada para incrementar su concentración de melatonina. Los resultados que obtuvieron fue que estos roedores \"rejuvenecieron a ojos vistas”."
+      }
+    ]
+  },
+  {
+    "type": "reading_comprehension",
+    "statement": "De joven, uno habla mucho de la muerte. Por ejemplo, en mi generación de rockeros hippies todos solíamos decir que moriríamos temprano y que no seguiríamos en este mundo más allá de los 40 años de edad. Estas baladronadas nos salían con naturalidad y muy fácilmente porque siendo veinteañero uno considera que los 40 están tan lejos como el fin del mundo, o que incluso es una edad un poco fabulosa que jamás se alcanza. De joven tu muerte es prácticamente inexistente, y por eso puedes coquetear con ella como si fuera una aventura más de la vida. Pero enseguida el tiempo empieza a caer sobre tus hombros con efecto de alud, quiero decir que cada vez pesa más, cada vez es más denso, más",
+    "questions": [
+      {
+        "statement": "1. La expresión COMO UN PÁJARO EN EL LAZO alude a la",
+        "alternatives": [
+          "A) agilidad de las tropas del Antiguo Egipto.",
+          "B) vulnerabilidad del soldado en el combate.",
+          "C) ferocidad del ejército del Antiguo Egipto.",
+          "D) destreza del soldado egipcio en la batalla.",
+          "E) sujeción del militar en el Antiguo Egipto."
+        ],
+        "correct": 1,
+        "rationale": "Solución : El autor establece una comparación entre el soldado y un ave que cae en una trampa."
+      },
+      {
+        "statement": "2. El tema central del texto es",
+        "alternatives": [
+          "A) la trascendencia de la sabiduría en el Antiguo Egipto.",
+          "B) el envidiable estatus del escriba en el Antiguo Egipto.",
+          "C) la oposición entre las labores del escriba y el soldado.",
+          "D) la estimación de la sabiduría en las antiguas culturas.",
+          "E) la opresión de las clases menos favorecidas en Egipto."
+        ],
+        "correct": 1,
+        "rationale": "Rpta.: B"
+      },
+      {
+        "statement": "3. Es incongruente sostener que, en el Antiguo Egipto, el saber era",
+        "alternatives": [
+          "A) estimado por los individuos de clases humildes.",
+          "B) percibido como una vía para el ascenso social.",
+          "C) un bien muy preciado por múltiples razones.",
+          "D) concebido por todos como un fin en sí mismo.",
+          "E) apreciado esencialmente por su utilidad práctica."
+        ],
+        "correct": 3,
+        "rationale": "Solución : El texto sostiene que los egipcios sentían verdadera veneración por el saber, no por puro saber, sino porque el escriba, hombre instruido, ejercía autoridad sobre los demás."
+      },
+      {
+        "statement": "4. Se colige que la ponderación de la labor del escriba se efectúa desde una perspectiva",
+        "alternatives": [
+          "A) metafísica",
+          "B) estética",
+          "C) gnoseológica",
+          "D) pragmática",
+          "E) teorética."
+        ],
+        "correct": 3,
+        "rationale": "Solución : En el antiguo Egipto se valoraba al escriba por la autoridad que iba a ejercer."
+      },
+      {
+        "statement": "5. Si las funciones del escriba no implicaran prerrogativas de clase,",
+        "alternatives": [
+          "A) ser soldado habría constituido la mayor aspiración de todo joven egipcio.",
+          "B) ser escriba no habría sido el objetivo más codiciado en el Antiguo Egipto.",
+          "C) se habría tenido una mayor deferencia por el saber en el Antiguo Egipto.",
+          "D) conseguir el estatus de escriba habría sido el caro ideal para todo egipcio.",
+          "E) la condición de campesino habría sido la más codiciada entre los jóvenes."
+        ],
+        "correct": 1,
+        "rationale": "La mayoría de egipcios aspiraban a ser escribas porque estos ejercían autoridad sobre las demás clases sociales y tenían ciertos privilegios."
+      }
+    ]
+  },
+  {
+    "type": "incomplete_sentences",
+    "statement": "5. Si las funciones del escriba no implicaran prerrogativas de clase,",
+    "alternatives": [
+      "A) ser soldado habría constituido la mayor aspiración de todo joven egipcio.",
+      "B) ser escriba no habría sido el objetivo más preciado en el Antiguo Egipto.",
+      "C) se habría tenido una mayor deferencia por el saber en el Antiguo Egipto.",
+      "D) conseguir el estatus de escriba habría sido el caro ideal para todo egipcio.",
+      "E) la condición de campesino habría sido la más codiciada entre los jóvenes."
+    ],
+    "correct": 1,
+    "rationale": "La mayoría de egipcios aspiraban a ser escribas porque estos ejercían autoridad sobre las demás clases sociales y tenían ciertos privilegios."
+  },
+  {
+    "type": "reading_comprehension",
+    "statement": "De joven, uno habla mucho de la muerte. Por ejemplo, en mi generación de rockeros hippies todos solíamos decir que moriríamos temprano y que no seguiríamos en este mundo más allá de los 40 años de edad. Estas baladronadas nos salían con naturalidad y muy fácilmente porque siendo veinteañero uno considera que los 40 están tan lejos como el fin del mundo, o que incluso es una edad un poco fabulosa que jamás se alcanza. De joven tu muerte es prácticamente inexistente, y por eso puedes coquetear con ella como si fuera una aventura más de la vida. Pero enseguida el tiempo empieza a caer sobre tus hombros con efecto de alud, quiero decir que cada vez pesa más, cada vez es más denso, más copioso, una dura, crecedera y congelada bola de tiempo que se precipita sobre ti y te empuja y te aplasta, y antes de que puedas darte cuenta has pasado por la frontera de los 40 años como una exhalación y vas camino del espacio exterior a toda prisa. Pues bien, desde el momento en que la muerte entra de verdad en escena, desde el instante en que te sabes mortal, nos entran a todos unas ganas de vivir enternecedoras. o me maravilla, lo que me asombra, es el hambre de vida que los humanos tenemos. Lo expresó formidablemente el escritor húngaro Imre Kertész, premio Nobel de Literatura, que fue internado a los 15 años en el campo de exterminio de Auschwitz y que, por lo tanto, tuvo conciencia real de la muerte a una edad mucho más temprana que la media. Recordando su adolescencia cruel, escribió: “Pese a la reflexión y al sentido común, no podía ignorar un deseo sordo que se había deslizado dentro de mí, vergonzosamente insensato y sin embargo tan obstinado: yo quería vivir todavía un poco más en aquel bonito campo de concentración”. Qué frase tan estremecedora y tan veraz: para nuestra ansiedad de seguir siendo, Auschwitz era más dulce que la muerte. Montero, R. (1 de marzo de 2015) Aquel campo de concentración tan bonito. El País . Recuperado el 20 de marzo de 2015, de El País: http://elpais.com/elpais/2015/02/27/eps/1425064894_244588.html",
+    "questions": [
+      {
+        "statement": "¿Cuál es el tema central del texto?",
+        "alternatives": [
+          "A) La juventud como la etapa en que se revela el temor ante la muerte",
+          "B) La percepción que tienen lo s jóvenes sobre la naturaleza de la muerte",
+          "C) El profundo deseo humano de seguir viviendo pese a las adversidades",
+          "D) La terrible experiencia de Imre Kertész en un campo de concentración",
+          "E) El temprano acercamiento a la muerte que tuvo el gran Imre Kerté sz"
+        ],
+        "correct": 2,
+        "rationale": "El autor destaca esencialmente el hambre de vida de los seres humanos que despierta sobre todo en situaciones límite."
+      },
+      {
+        "statement": "En el texto, el vocablo BALADRONADA implica",
+        "alternatives": [
+          "A) obstinación.",
+          "B) inocencia.",
+          "C) fanfarronería.",
+          "D) transigencia.",
+          "E) inquietud."
+        ],
+        "correct": 2,
+        "rationale": "Cuando se es joven se puede fingir valor ante la muerte solo porque se la considera un evento lejano. Fanfarroneamos de algo que asumimos lejano."
+      },
+      {
+        "statement": "Es incompatible aseverar que, para la mayoría de jóvenes ,la muerte",
+        "alternatives": [
+          "A) es concebida como una aventura más en sus vidas.",
+          "B) es utilizada para amenizar algunas de sus charlas.",
+          "C) es un evento muy lejano, prácticamente inexistente.",
+          "D) constituye un tema que se aborda con cierta ligereza.",
+          "E) constituye un poderoso tabú en sus conversaciones."
+        ],
+        "correct": 4,
+        "rationale": "En el texto se señala que los jóvenes hablan, aunque superficialmente, de la muerte."
+      },
+      {
+        "statement": "Se desprende del texto que el deseo de vivir",
+        "alternatives": [
+          "A) no es inherente a la naturaleza de los humanos.",
+          "B) solo se manifiesta cuando somos muy jóvenes.",
+          "C) disminuye notoriamente a partir de los 40 años.",
+          "D) suele aplacarse ante situaciones complicadas.",
+          "E) plenamente conscientes de ella y nos entran a todos unas ganas de vivir."
+        ],
+        "correct": 4,
+        "rationale": null
+      },
+      {
+        "statement": "Si Imre Kertész no hubiera tenido conciencia real de la muerte a una edad mucho más temprana que el promedio, probablemente al llegar a los veinte años de edad",
+        "alternatives": [
+          "A) no habría llegado a obtener ningún reconocimiento literario.",
+          "B) habría perdido completamente las ganas de seguir viviendo.",
+          "C) habría considerado que la muerte era una aventura más.",
+          "D) su literatura se habría caracterizado por ser muy trivial.",
+          "E) habría concebido la muerte como un fenómeno inexorable."
+        ],
+        "correct": 2,
+        "rationale": "Cuando uno es joven, la muerte no existe, y por eso podemos coquetear con ella como si fuera una aventura más de la vida."
+      }
+    ]
+  }
+]

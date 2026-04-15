@@ -1,0 +1,158 @@
+[
+  {
+    "type": "sentence_elimination",
+    "statement": "12. Señale la alternativa donde hay consonantes laterales",
+    "alternatives": [
+      "A) Mañana traería más ejemplares a la tienda.",
+      "B) Lalo acudió pronto al llamado de su jefe.",
+      "C) Poco a poco se fue despejando la duda.",
+      "D) Verónica lució un moño en la ceremonia.",
+      "E) Juan vive en el tercer piso de aquel edificio"
+    ],
+    "correct": 1,
+    "rationale": ". Las consonantes nasales diferentes son las siguientes:/m/, /n/, /ñ/"
+  },
+  {
+    "type": "sentence_elimination",
+    "statement": "13. Marque la opción donde se encuentra la función distinta de las vocales cerradas.",
+    "alternatives": [
+      "A) Reo /veo",
+      "B) Cero /cerro",
+      "C) Burro /barro",
+      "D) Tino / tina",
+      "E) Pino / Puno"
+    ],
+    "correct": 4,
+    "rationale": ". Las vocales i, u son vocales cerradas."
+  },
+  {
+    "type": "sentence_elimination",
+    "statement": "14. Señale la alternativa que contiene más consonantes fricativas diferentes.",
+    "alternatives": [
+      "A) Mat eo combinó los compuestos químicos.",
+      "B) El evento Mistura atrajo muchos turistas.",
+      "C) Federico dirigió la competencia en un yate.",
+      "D) El festival de S an Remo fue importante.",
+      "E) Los zapatos de Eduardo son anticuados."
+    ],
+    "correct": 2,
+    "rationale": ". Las consonantes fricativas son las siguientes:/ f/ (Federico), /(Competencia), /j/(yate) , /x/(dirigió)."
+  },
+  {
+    "type": "sentence_elimination",
+    "statement": "15. De la palabra “herramienta”, se puede afirmar que",
+    "alternatives": [
+      "A) todas sus consonantes son sonoras.",
+      "B) no todas las letras representan fonemas.",
+      "C) todas las consonantes son oclusivas.",
+      "D) todas las vocales son abiertas.",
+      "E) todas las consonantes son alveolares."
+    ],
+    "correct": 1,
+    "rationale": ". En efecto ,la letra h no representa ningún fonema."
+  },
+  {
+    "type": "sentence_elimination",
+    "statement": "16. Señale la opción donde se observa la función distintiva de las vibrante s simple y múltiple.",
+    "alternatives": [
+      "A) bala /gala",
+      "B) chino /vino",
+      "C) meta / neta",
+      "D) vago /pago",
+      "E) pero /perro"
+    ],
+    "correct": 4,
+    "rationale": ". Las palabras pero y perro tienen significado s diferente s propiciados por la presencia de fonemas vibrantes distintas ."
+  },
+  {
+    "type": "sentence_elimination",
+    "statement": "17. Señale el enunciado donde aparece más veces la vocal central baja .",
+    "alternatives": [
+      "A) Mara tala los árboles de su hacienda.",
+      "B) Verónica entrevistó a Luis Rodríguez.",
+      "C) Víctor publicará un libro de cuentos.",
+      "D) Ella emprendió un viaje sin retorno.",
+      "E) El buey embistió al distraído chofer ."
+    ],
+    "correct": 0,
+    "rationale": ". En esa alternativa se reitera más veces la vocal /a/."
+  },
+  {
+    "type": "sentence_elimination",
+    "statement": "18. En el enunciado “encontrar las alha jas era una quimera”, el número de fonemas consonánticos diferentes asciende a",
+    "alternatives": [
+      "A) nueve.",
+      "B) ocho.",
+      "C) siete.",
+      "D) seis.",
+      "E) diez."
+    ],
+    "correct": 2,
+    "rationale": ". Las consonantes diferentes representadas son /n/, /k/, /l/, /t/, /r/, /s/, /x/ y /m/"
+  },
+  {
+    "type": "sentence_elimination",
+    "statement": "19. Según el modo de articulación, la palabra “maletín” presenta, respectivamente, consonantes",
+    "alternatives": [
+      "A) nasal, vibrante, oclusivo, nasal.",
+      "B) nasal, lateral, fricativo, nasal.",
+      "C) nasal, vibrante, oclusivo, nasal.",
+      "D) nasal, lateral, oclusivo, nasal.",
+      "E) nasal, vibrante, fricativo, nasal."
+    ],
+    "correct": 3,
+    "rationale": ". Las consonantes respectivamente son nasal, lateral, oclusivo, nasal."
+  },
+  {
+    "type": "sentence_elimination",
+    "statement": "20. Marque la opción donde las vocales son, respectivamente, posterior alta y central baja.",
+    "alternatives": [
+      "A) Vela",
+      "B) Tilo",
+      "C) Sana",
+      "D) Pino",
+      "E) Suma"
+    ],
+    "correct": 4,
+    "rationale": ". Las vocales /u/ y /a/ son respectivamente, posterior alta y central baja."
+  },
+  {
+    "type": "sentence_elimination",
+    "statement": "22. Las vocales originan las diferencia s de significado s entre las palabras “tala”, “tela” y “Tula”, respectively, son",
+    "alternatives": [
+      "A) anterior, posterior, central.",
+      "B) abierta, cerrada, cerrada.",
+      "C) media, baja, cerrada.",
+      "D) central, anterior, posterior.",
+      "E) central, posterior, anterior."
+    ],
+    "correct": 3,
+    "rationale": ". La /a/ es central; la /e/ es anterior y la /u/ es posterior."
+  },
+  {
+    "type": "sentence_elimination",
+    "statement": "23. Marque la opción donde se presentan, respectivamente, consonante palatal y alveolar.",
+    "alternatives": [
+      "A) Pelo – pero",
+      "B) Taza – tara",
+      "C) Tacho – tarro",
+      "D) Gallo – gato",
+      "E) Oso – ojo"
+    ],
+    "correct": 2,
+    "rationale": null
+  },
+  {
+    "type": "sentence_elimination",
+    "statement": ". La /a/ es central; la /e/ es anterior y la /u/ es posterior.\n\n23. Marque la opción donde se presentan, respectivamente, consonante palatal y alveolar.",
+    "alternatives": [
+      "A) Pelo – pero",
+      "B) Taza – tara",
+      "C) Tacho – tarro",
+      "D) Gallo – gato",
+      "E) Oso – ojo"
+    ],
+    "correct": 2,
+    "rationale": null
+  }
+]

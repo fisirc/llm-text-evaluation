@@ -1,0 +1,809 @@
+[
+  {
+    "type": "sentence_elimination",
+    "statement": "8. Alonso tiene por tarea distribuir los números 1,2, 3, 4,5,6, 7 y 8 en los círculos de modo que cada círculo tenga un número diferente, además la suma de los 4 números ubicados en la pared derecha debe ser igual a la suma de los 4 números ubicados en la parte mostrada del tejado y siendo esta suma la menor posible.\nSi en las casillas sombreadas se debe escribir números consecutivos, ¿cuál sería la suma de los dos números ubicados en la parte superior del tejado?",
+    "alternatives": [
+      "A) 5",
+      "B) 6",
+      "C) 8",
+      "D) 9",
+      "E) 10"
+    ],
+    "correct": 3,
+    "rationale": "Elegimos los 6 menores números: 1,2, 3, 4,5 y 6 para el tejado y la pared derecha .\n\nLuego: 5 + 4 = 9"
+  },
+  {
+    "type": "reading_comprehension",
+    "statement": "En las narraciones pop ulares de muchas culturas aparecen «individuos pequeñitos» con poderes mágicos: gnomos, elfos, duendes, geniecillos, hadas. Un buen número de\nsemejanzas y modos de comportarse sugiere que, al menos en algunas de esas historias, ciertos personajes parecen m odelados según el síndrome de Williams. Se trata de una\nhipótesis acorde con la idea mantenida por los historiadores según la cual el folclor y la\nmitología parten de acontecimientos de la vida real.\nLos rasgos faciales de los enfermos de Williams se desc riben a menudo como propios\nde gnomos o elfos. En común con estos personajes fantásticos, muchos pacientes tienen\nuna nariz respingona, chata, ojos saltones, orejas ovaladas y boca grande con labios\nabultados y rematados por una barbilla pequeña. Estos rasgos son, en efecto, frecuentes\nen los niños con síndrome de Williams que se parecen entre sí más que a sus parientes\ncercanos, sobre todo en la infancia. El síndrome se acompaña de un crecimiento y un\ndesarrollo lentos, que hacen que muchos individuos que lo padecen sean de baja estatura.\nLos personajes míticos de los cuentos son, a menudo, músicos y narradores. Las\nhadas «repiten una y otra vez las canciones que han oído» y pueden «seducir» a los\nhombres con sus melodías. Cosas parecidas podrían decirse también de los enfermos con\nel síndrome de Williams, quienes, a pesar de tener cocientes intelectuales típicamente\nsubnormales, poseen dotes narrativas fuera de lo común y un gran talento musical. Las\ngrandes orejas puntiagudas se asocian a menudo con estos personajes míticos y pueden\nrepresentar de manera simbólica la sensibilidad de estos individuos por la música y por los\nsonidos en general.\nComo grupo, lo enfermos de Williams son gente cariñosa e inspiran confianza, de\nmanera semejante a las hadas madrinas. En el pasado, los escritor es tejieron historias\nsobre personajes imaginarios para explicar fenómenos que no comprendían, incluyendo tal\nvez los rasgos típicos, físicos y conductuales, de los enfermos con síndrome de Williams.",
+    "questions": [
+      {
+        "statement": "Jerárquicamente, el texto gira entorno a",
+        "alternatives": [
+          "A) la relación entre enfermos con síndrome de Williams y ciertos personajes del mundo imaginario popular.",
+          "B) la amabilidad y la profunda candidez como características conspicuas de los enfermos de Williams.",
+          "C) las eximias cualidades musicales que poseen, sin excepción, los niños con síndrome de Williams.",
+          "D) los marcados prejuicios sobre el grado de inteligencia en los escritores de los tiempos anteriores.",
+          "E) los gnomos y hadas como fuente inspiradora para la inteligencia de los niños con síndrome de Williams."
+        ],
+        "correct": 0,
+        "rationale": null
+      },
+      {
+        "statement": "En el texto, «gnomos, elfos, duendes, geniecillos» c onfiguran una serie de",
+        "alternatives": [
+          "A) sinónimos.",
+          "B) antónimos.",
+          "C) homónimos.",
+          "D) cohipónimos.",
+          "E) merónimos."
+        ],
+        "correct": 3,
+        "rationale": null
+      },
+      {
+        "statement": "Se colige del texto que el síndrome de Williams",
+        "alternatives": [
+          "A) afecta a todos los niños que tienen proclividad a ser musicalmente creativos y diestros.",
+          "B) ha sido un reto para la psicología actual en lo que concierne a su elevada inteligencia.",
+          "C) era una enfermedad desconocida para quienes crearon a los elfos y gnomos.",
+          "D) está constituido por rasgos fenotípicos patentes, pero no existe una base genética profunda.",
+          "E) puede ser diagnosticado cuando alguien cree firmemente en la existencia de las hadas madrinas."
+        ],
+        "correct": 2,
+        "rationale": null
+      },
+      {
+        "statement": "Resulta incompatible con el texto afirmar que los niños con síndrome de Williams",
+        "alternatives": [
+          "A) exhiben un desarrollo cognitivo marcadamente lento.",
+          "B) preservan los rasgos fenotípicos de sus progenitores.",
+          "C) podrían haber inspirado el mito de los duendes y gnomos.",
+          "D) concitan ternura y poseen gran talento para la música.",
+          "E) ostentan un cociente intelectual debajo de lo normal."
+        ],
+        "correct": 1,
+        "rationale": null
+      },
+      {
+        "statement": "Si los pacientes con síndrome de Williams tuviesen un fenotipo indiscernible en relación con una persona normal,",
+        "alternatives": [
+          "A) carecerían de amabilidad y destreza para crear increíbles piezas literarias.",
+          "B) tendría que reformularse la propuesta acerca de sus proezas musicales.",
+          "C) sería posible asumir solamente que los elfos fueron inspirados en aquellos.",
+          "D) no habría un nexo evidente entre estos y los personajes míticos señalados."
+        ],
+        "correct": 3,
+        "rationale": null
+      }
+    ]
+  },
+  {
+    "type": "reading_comprehension",
+    "statement": "La ironía es la característica peculiar de la dialéctica socrática y no solo desde el punto de vista formal, sino también desde una perspectiva sustancial. En general, «ironía» significa «simulación». En nuestro caso específico, a saber, en lo que concierne al método usado por Sócrates, indica juego bromista, múltiple y diverso, de las ficciones y estrategias utilizadas por este para obligar a su interlocutor a dar razón de sí mismo. «Con la broma —ha escrito un documentado autor — Sócrates quita cierta máscara a las palabras o a los hechos, se muestra como entrañable amigo de su interlocutor, admira la capacidad y los méritos de este, le pide consejo e instrucción, y así sucesivamente. Al mismo tiempo, empero, y para quien observe con más profundidad, se cuida de que la ficción resulte transparente» (H. Maier). En conclusión, lo jocoso siempre está en función de un objeto serio y, por lo tanto, siempre es metódico. A veces en sus simulaciones irónicas, Sócrates fingía adoptar como propios los métodos de su interlocutor, sobre todo si este era hombre culto y en particular si era filósofo. A continuación, se dedicaba al juego de exagerarlos hasta límites caricaturescos, para después invertirlos con la lógica peculiar de dichos métodos, de forma que se hiciese patente la contradicción. Por debajo de los distintos disfraces que Sócrates iba utilizando siempre, se veían los rasgos del disfraz esencial, al que antes hemos aludido: el no saber, la ignorancia. Se puede afirmar que, en el fondo, los polícromos disfraces de la ironía socrática no eran más que variantes de un disfraz básico, que —a través de un multiforme y habilísimo juego de ocultaciones — acababa siempre por reaparecer.",
+    "questions": [
+      {
+        "statement": "1. Determine la idea central del texto.",
+        "alternatives": [
+          "A) Sócrates ponderaba lo jocoso por encima de la práctica filosófica seria, debido a su propia falta de profundidad para pensar.",
+          "B) La caricaturización socrática implicaba un desmedido anhelo por acreditarse como el hombre más sabio.",
+          "C) Sócrates usaba la ironía como método eficaz para mofarse y ridiculizar la ignorancia de sus adversarios.",
+          "D) La polifonía de la ironía socrática evidencia cualidades histriónicas en Sócrates, puesto que siempre tendía a la simulación.",
+          "E) La ironía era un rasgo esencial del método socrático para reconocer la ignorancia de su interlocutor."
+        ],
+        "correct": 4,
+        "rationale": "El texto desarrolla el tema de la ironía socrática como elemento medular para hacer descubrir la propia ignorancia de su adversario."
+      },
+      {
+        "statement": "2. Entre FORMAL y SUSTANCIAL, se esta blece una relación de",
+        "alternatives": [
+          "A) oposición.",
+          "B) identidad.",
+          "C) sinonimia."
+        ],
+        "correct": 0,
+        "rationale": "Son modos opuestos en la medida en que lo sustancial va a lo profundo."
+      },
+      {
+        "statement": "3. Se infiere del texto que, en Sócrates, la ironía es un recurso",
+        "alternatives": [
+          "A) espontáneo.",
+          "B) hierático.",
+          "C) histriónico.",
+          "D) irregular.",
+          "E) ilógico."
+        ],
+        "correct": 3,
+        "rationale": "En Sócrates, la ironía obedece a un juego de simulación basado en ciertas estratagemas de la dialéctica."
+      },
+      {
+        "statement": "4. Respecto del método socrático, es incompatible aseverar que",
+        "alternatives": [
+          "A) involucraba la simulación constante de puntos de vista diversos.",
+          "B) nunca determinaba antagonismos de ideas en la propia discusión.",
+          "C) se originaba en un rasgo esencial que lo caracterizaba plenamente.",
+          "D) buscaba el reconocimiento de la ignorancia a través de la jocosidad.",
+          "E) implicaba el fingimiento del punto de vista de su oponente de turno."
+        ],
+        "correct": 1,
+        "rationale": "El método socrático adopta el punto de vista del contrario para exagerarlo de forma burlona, hasta que se haga patente la contradicción. Afirmar que nunca determinaba antagonismos supone la negación de lo indicado."
+      },
+      {
+        "statement": "5. Si la ironía socrática se hubiese restringido a un mero juego de palabras,",
+        "alternatives": [
+          "A) la lucha por reconocer la ignorancia habría sido cruelmente sancionada.",
+          "B) el fingimiento del adversario habría sido desplazado por la solemnidad.",
+          "C) sería insostenible asumir que formaba parte de un engranaje metódico.",
+          "D) el reconocimiento de la ignorancia habría sido el único camino factible.",
+          "E) la banalización del adversario se habría sostenido en la burla encubierta."
+        ],
+        "correct": 2,
+        "rationale": "La ironía era el rasgo característico del método socrático, y, en tanto que tal, era parte metódica de todo un procedimiento para develar la ignorancia."
+      }
+    ]
+  },
+  {
+    "type": "synonyms_and_antonyms",
+    "statement": "ACTIVIDADES DE SINONIMIA CONTEXTUAL Y ANTONIMIA CONTEXTUAL\n\nEstablezca el sinónimo y el antónimo para cada uno de los vocablos resaltados en negrita del siguiente texto.\n\nDesde la infancia me destaqué por la docilidad y bondad de mi carácter. La ternura que abrigaba mi corazón era tan grande que llegaba a convertirme en objeto de burla para mis\n\nuna gran variedad. Pasaba a su lado la mayor parte del tiempo, y jamás me sentía más feliz\nque cuando les daba de comer y los acariciaba. Este rasgo de mi carácter creció conmigo\ny, cuando llegué a la virilidad ,se convirtió en una de mis principales fuentes de placer.\n\n1. DOCILIDAD 2. BURLA 3. VIRILIDAD",
+    "alternatives": [
+      "A) extrañeza",
+      "B) mansedumbre",
+      "C) solemnidad",
+      "D) reluctancia",
+      "E) algarabía"
+    ],
+    "correct": 1,
+    "rationale": "1 sinónimo B, antónimo D"
+  },
+  {
+    "type": "synonyms_and_antonyms",
+    "statement": "ACTIVIDADES DE SINONIMIA CONTEXTUAL Y ANTONIMIA CONTEXTUAL\n\nEstablezca el sinónimo y el antónimo para cada uno de los vocablos resaltados en negrita del siguiente texto.\n\nDesde la infancia me destaqué por la docilidad y bondad de mi carácter. La ternura que abrigaba mi corazón era tan grande que llegaba a convertirme en objeto de burla para mis\n\nuna gran variedad. Pasaba a su lado la mayor parte del tiempo, y jamás me sentía más feliz\nque cuando les daba de comer y los acariciaba. Este rasgo de mi carácter creció conmigo\ny, cuando llegué a la virilidad ,se convirtió en una de mis principales fuentes de placer.\n\n1. DOCILIDAD 2. BURLA 3. VIRILIDAD",
+    "alternatives": [
+      "A) incontinencia",
+      "B) indiscreción",
+      "C) escarnio",
+      "D) eufonía",
+      "E) encomio"
+    ],
+    "correct": 2,
+    "rationale": "2 sinónimo C, antónimo E"
+  },
+  {
+    "type": "synonyms_and_antonyms",
+    "statement": "ACTIVIDADES DE SINONIMIA CONTEXTUAL Y ANTONIMIA CONTEXTUAL\n\nEstablezca el sinónimo y el antónimo para cada uno de los vocablos resaltados en negrita del siguiente texto.\n\nDesde la infancia me destaqué por la docilidad y bondad de mi carácter. La ternura que abrigaba mi corazón era tan grande que llegaba a convertirme en objeto de burla para mis\n\nuna gran variedad. Pasaba a su lado la mayor parte del tiempo, y jamás me sentía más feliz\nque cuando les daba de comer y los acariciaba. Este rasgo de mi carácter creció conmigo\ny, cuando llegué a la virilidad ,se convirtió en una de mis principales fuentes de placer.\n\n1. DOCILIDAD 2. BURLA 3. VIRILIDAD",
+    "alternatives": [
+      "A) ecuanimidad",
+      "B) fatuidad",
+      "C) infancia",
+      "D) senectud",
+      "E) adultez"
+    ],
+    "correct": 4,
+    "rationale": "3 sinónimo E, antónimo C"
+  },
+  {
+    "type": "reading_comprehension",
+    "statement": "Se me hizo agua la boca al ver el pollo recién horneado. Camarón que se duerme se lo lleva la corriente. Mientras masticas, no intentes hablar. Las personas tímidas se ruborizan con facilidad. Nunca maduró porque fue el hijito de mamá. La corriente eléctrica se transmite a través de un conductor. Me dio una mano para laborar en esa importante fábrica. Hijito, come solo la fruta madura para evita r problemas. El veterinario salvó la vida de nuestra adorable mascota. Su afamada luna de miel se convirtió en luna de hiel.",
+    "questions": [
+      {
+        "statement": "1. Se me hizo agua la boca al ver el pollo recién horneado.",
+        "alternatives": [
+          "D) Denotación",
+          "C) Connotación"
+        ],
+        "correct": 1,
+        "rationale": null
+      },
+      {
+        "statement": "2. Camarón que se duerme se lo lleva la corriente.",
+        "alternatives": [
+          "D) Denotación",
+          "C) Connotación"
+        ],
+        "correct": 1,
+        "rationale": null
+      },
+      {
+        "statement": "3. Mientras masticas, no intentes hablar.",
+        "alternatives": [
+          "D) Denotación",
+          "C) Connotación"
+        ],
+        "correct": 0,
+        "rationale": null
+      },
+      {
+        "statement": "4. Las personas tímidas se ruborizan con facilidad.",
+        "alternatives": [
+          "D) Denotación",
+          "C) Connotación"
+        ],
+        "correct": 0,
+        "rationale": null
+      },
+      {
+        "statement": "5. Nunca maduró porque fue el hijito de mamá.",
+        "alternatives": [
+          "D) Denotación",
+          "C) Connotación"
+        ],
+        "correct": 1,
+        "rationale": null
+      },
+      {
+        "statement": "6. La corriente eléctrica se transmite a través de un conductor.",
+        "alternatives": [
+          "D) Denotación",
+          "C) Connotación"
+        ],
+        "correct": 0,
+        "rationale": null
+      },
+      {
+        "statement": "7. Me dio una mano para laborar en esa importante fábrica.",
+        "alternatives": [
+          "D) Denotación",
+          "C) Connotación"
+        ],
+        "correct": 1,
+        "rationale": null
+      },
+      {
+        "statement": "8. Hijito, come solo la fruta madura para evita r problemas",
+        "alternatives": [
+          "D) Denotación",
+          "C) Connotación"
+        ],
+        "correct": 0,
+        "rationale": null
+      },
+      {
+        "statement": "9. El veterinario salvó la vida de nuestra adorable mascota.",
+        "alternatives": [
+          "D) Denotación",
+          "C) Connotación"
+        ],
+        "correct": 0,
+        "rationale": null
+      },
+      {
+        "statement": "10. Su afamada luna de miel se convirtió en luna de hiel.",
+        "alternatives": [
+          "D) Denotación",
+          "C) Connotación"
+        ],
+        "correct": 1,
+        "rationale": null
+      }
+    ]
+  },
+  {
+    "type": "verbal_series",
+    "statement": "1. Vanidad, fatuidad; banalidad, relevancia; negligencia, descuido;",
+    "alternatives": [
+      "A) insania, demencia.",
+      "B) indolencia, estolidez.",
+      "C) elocuencia, modorra.",
+      "D) prudencia, astucia.",
+      "E) impericia, experiencia."
+    ],
+    "correct": 4,
+    "rationale": "Rpta.: E"
+  },
+  {
+    "type": "verbal_series",
+    "statement": "2. Idóneo, adecuado, apropiado,",
+    "alternatives": [
+      "A) inope.",
+      "B) apto.",
+      "C) cansino",
+      "D) baquiano",
+      "E) ladino"
+    ],
+    "correct": 1,
+    "rationale": "Rpta.: B"
+  },
+  {
+    "type": "verbal_series",
+    "statement": "3. Reminiscencia, recuerdo, nostalgia,",
+    "alternatives": [
+      "A) omnisciencia.",
+      "B) introspección.",
+      "C) tristeza.",
+      "D) remembranza",
+      "E) semblanza"
+    ],
+    "correct": 3,
+    "rationale": "Rpta.: D"
+  },
+  {
+    "type": "verbal_series",
+    "statement": "4. Zozobra, inquietud, desazón,",
+    "alternatives": [
+      "A) desasosiego.",
+      "B) persistencia.",
+      "C) exultación.",
+      "D) insensatez",
+      "E) versatilidad."
+    ],
+    "correct": 0,
+    "rationale": "Rpta.: A"
+  },
+  {
+    "type": "verbal_series",
+    "statement": "5. Encono, tirria, inquina,",
+    "alternatives": [
+      "A) injuria.",
+      "B) ojeriza.",
+      "C) vehemencia.",
+      "D) perspicacia.",
+      "E) veleidad."
+    ],
+    "correct": 1,
+    "rationale": "Rpta.: B"
+  },
+  {
+    "type": "synonyms_and_antonyms",
+    "statement": "5. Encono, tirria, inquina,",
+    "alternatives": [
+      "A) injuria.",
+      "B) ojeriza.",
+      "C) vehemencia.",
+      "D) perspicacia.",
+      "E) veleidad."
+    ],
+    "correct": 1,
+    "rationale": "Serie basada en la sinonimia."
+  },
+  {
+    "type": "synonyms_and_antonyms",
+    "statement": "6. ¿Cuál es el término que no corresponde al campo semántico?",
+    "alternatives": [
+      "A) Pagano",
+      "B) Infiel",
+      "C) Idólatra",
+      "D) Hereje",
+      "E) Ignaro"
+    ],
+    "correct": 4,
+    "rationale": "Ignaro significa ignorante."
+  },
+  {
+    "type": "synonyms_and_antonyms",
+    "statement": "7. Áspero, picante, acre,",
+    "alternatives": [
+      "A) negligente.",
+      "B) mordaz.",
+      "C) benevolente.",
+      "D) insulso.",
+      "E) sápido."
+    ],
+    "correct": 1,
+    "rationale": "El sinónimo directo de las tres palabras que conforman la serie es MORDAZ."
+  },
+  {
+    "type": "synonyms_and_antonyms",
+    "statement": "8. Deletéreo, ponzoñoso; negligente, prolijo; austero, moderado;",
+    "alternatives": [
+      "A) ufano, pretencioso.",
+      "B) soterrado, domeñado.",
+      "C) prístino, reciente.",
+      "D) adocenado, vulgar."
+    ],
+    "correct": 2,
+    "rationale": "La serie verbal es mixta (sinónimos, antónimos, sinónimos). Se completa con el par de antónimos PRÍSTINO y RECIENTE."
+  },
+  {
+    "type": "reading_comprehension",
+    "statement": "SEMANA 6 B\n\nUn estudio publicado en Nature Communications sugiere que la domesticación del\nperro ocurrió en Europa hace entre 20 000 y 40 000 años y que, a finales del Neolítico, la\npoblación europea de perros no fue reemplazada por otra domesticada\nindependientemente en el este de Asia, como han propuesto algunos estudios previos. La\nsegunda investigación, publicada en Science Advances ,demuestra que la\nhipersociabilidad, una característica central del síndrome de Williams -Beuren, es también\nun elemento clave en la domesticación, que diferencia a los perros de los lobos; es decir,\nlos investigadores han encontrado un importante componente genético que forma la\npersonalidad del animal y que influyó en el proceso de domesticación del lobo salvaje al\nperro manso . El tercer estudio, publicado en Scientific Reports ,revela un hecho curioso: las\nrazas de perro sin pelo difieren de otros perros no solo porque carecen de pelaje, sino\ntambién en el número y en la naturaleza de sus dientes . Estos hallazgos morfológicos están\nasociados a una variación del gen FOXI3.\nEl primer estudio, dirigido por Krishna Veeramah, de la Universidad de Stony Brook\n(Nueva York), ha secuenciado los genomas de un perro de comienzos del Neolítico y otro\nde finales del mismo período, cuyos restos fueron hallados en Alemania, en el sitio\narqueológico de Herxheim y en la Cueva del Cerezo, respectively. \"We observed a\ngenetic continuity through the Neolithic and to the present, with the ancient dogs sharingan\nimportant ancestry with modern European dogs\", afirman los autores del estudio. Europa,\npor tanto, ha sido crucial en la evolución del perro , acogiendo los restos indiscutibles m ás\nantiguos, del Paleolítico, y convirtiéndose en el centro de la creación de razas de perro .\nEl síndrome de Williams -Beuren en los humanos, un trastorno genético poco común,\ntiene características hipersociables como, por ejemplo, un sentido gregario excepcional; la\npersonalidad del afectado puede ser muy amigable, desinhibida, entusiasta y gregaria. \"It\nwas the remarkable similarity between the behavioral presentation of Williams -Beuren\nsyndrome and the friendliness of domestic dogs which suggested to us that there might be\nsimilarities in the genetic architecture of both phenotypes \",dice Bridgett vonHoldt, la\ncoautora del estudio publicado en Science Advances ,de la Universidad de Princeton. Emily\nShuldiner, la principal autora del estudio, de la misma universidad, fue quien identificó las\ncoincidencias entre la arquitectura genética del síndrome de Williams -Beuren y la docilidad\ncanina. \"En resumen, nuestros hallazgos sugieren que la misma re gión afectada por\nvariantes estructurales en el síndrome de Williams -Beuren en los humanos está asociada\ncon la exuberante sociabilidad de los perros domésticos\", concluye el estudio. Es decir, los\nperros, a diferencia de los lobos, tienen una condición genética que puede traducirse en\nuna motivación exagerada por buscar el contacto social .\nEl tercer estudio, desarrollado por científicos del Instituto Max Planck de Antropología\nEvolutiva en Leipzig y de la Universidad Friedrich Schiller en Jena, se ha centrado en el\nestudio de los cráneos y los dientes de perros de raza sin pelo, procedentes de la colección\ndel Phyletisches Museum de la Universidad de Jena. La falta de pelo en razas de perro\n\ngen FOXI3 que, entre otros, está implicado en el desarrollo de los dientes . Los\ninvestigadores han descubierto que los perros sin pelo han perdido casi completamente sus\ndientes de reemplazo (incisivos, caninos y premolares) y, sin embargo, los molares están\npresentes. También resulta destacable que los premolares deciduos y los m olares\npermanentes de los perros sin pelo carecen de cúspides linguales específicas. \"This gene\nmay also have played an important role in the evolutionary changes in human dental\nmorphology \",dice Kornelius Kupczik, el principal autor del estudio.\n\nTomado de http://www.nationalgeographic.com.es/ciencia/actualidad/estudios -sobre -origen -evolucion-\ncomportamiento -los-perros_11752",
+    "questions": [
+      {
+        "statement": "1. El texto trata medularmente sobre",
+        "alternatives": [
+          "A) tres hipótesis que justificarían los cambios genéticos del lobo salvaje al perro europeo.",
+          "B) las publicaciones científicas que descifran los misterios genéticos del perro doméstico.",
+          "C) tres estudios genéticos recientes sobre el origen, la evolución y el comportamiento de los perros.",
+          "D) investigaciones científicas incuestionables sobre la personalidad y genética del perro manso.",
+          "E) tres experimentos que revelan el origen de los diversos tipos de razas de perros domésticos."
+        ],
+        "correct": 2,
+        "rationale": "En el primer párrafo, el autor presenta los tres estudios genéticos recientes sobre el origen, la evolución y el comportamiento de los perros."
+      },
+      {
+        "statement": "2. La cita en inglés del primer estudio reseñado en el texto implica",
+        "alternatives": [
+          "A) una brecha infranqueable entre los perros de las diferentes etapas del neolítico.",
+          "B) la existencia de un tronco común entre los perros antiguos y los perros modernos en Europa.",
+          "C) la inviabilidad de la continuidad genética entre los perros de diversos periodos prehistóricos.",
+          "D) el condicionamiento conductual del perro doméstico a la hostilidad del periodo neolítico.",
+          "E) la tipología rebatible entre los perros antiguos del neolítico y los perros modernos."
+        ],
+        "correct": 1,
+        "rationale": "La cita en inglés mencionada sostiene que se ha observado una continuidad genética a través del Neolítico y hasta el presente, con los antiguos perros compartiendo una ascendencia importante con los perros europeos modernos."
+      }
+    ]
+  },
+  {
+    "type": "reading_comprehension",
+    "statement": "En el Perú, y también en diversos países de la región, la obesidad infantil se ha convertido en un problema que va en aumento . El consumo excesivo de azúcares, sodios y grasas saturadas, así como el sedentarismo puede generar graves consecuencias desde la infancia (Gráfico 1). L a nutricionista Elizabeth Solís ,directora del programa estatal Salud para Aprender de México ,asegura que se necesitan acciones multisectoriales y “no solo una ley” para disminuir los casos de obesidad en los colegios.\n“Existen alimentos procesados con alto nivel de sal y azúcar, pero si uno cocina algún alimento y se le añade estos elementos en exceso, entonces se generan las mismas consecuencias. Lo que debemos hacer es considerar todos los factores de riesgo y ejecutar acciones de prevención y control”, aseguró la especialista, quien llegó al Perú en junio del 2015 para un congreso por la Sociedad Peruana de Nutrición en temas de obesidad infantil.\nElizabeth Solís recalcó que “junto a la ley de promoción de la alimentación saludable debe haber un cambio en la cultura”, en referencia a que cada vez aumenta el sedentarismo en la población.\nSegún la ex perta, uno de los principales problemas en la sociedad es que la obesidad no es considerada como una enfermedad en sí cuando, al contrario, se trata de una con características crónicas; es decir, no tiene cura y solo puede ser controlada. “Si un niño tiene obesidad, desde muy temprana edad, la probabilidad de que desencadene diabetes es mayor. Si ya tiene la condición de prediabetes, en cuatro de cada diez casos, se generará diabetes en menos de cinco años”, advirtió Solís.",
+    "questions": [
+      {
+        "statement": "En última instancia, el texto trata sobre",
+        "alternatives": [
+          "A) cómo hacer frente al incremento de obesidad infantil.",
+          "B) el marco legal de la alimentación saludable en el Perú.",
+          "C) las enfermedades generadas por el sobrepeso infantil.",
+          "D) las tendencias de sobrepeso y obesidad en los niños.",
+          "E) las preferencias alimenticias en los niños peruanos."
+        ],
+        "correct": 0,
+        "rationale": "El autor del texto sostiene que la obesidad infantil va en aumento no solo en Perú sino en varios países de la región. Pero se centra en explicar a través de la nutricionista Solís cómo se podría hacer frente a esta enfermedad, la obesidad."
+      },
+      {
+        "statement": "En el texto, el término CRÓNICO se entiende como",
+        "alternatives": [
+          "A) temporal.",
+          "B) originario.",
+          "C) general.",
+          "D) omnímodo.",
+          "E) endémico."
+        ],
+        "correct": 4,
+        "rationale": "Una enfermedad crónica es un mal arraigado en el tiempo y con una duración muy prolongada."
+      }
+    ]
+  },
+  {
+    "type": "reading_comprehension",
+    "statement": "Durante su vida, Edgar Allan Poe fue reconocido, sobre todo, como crítico literario.\nEl crítico James Russell Lowell lo llamó \"el crítico más discriminador, filosófico y sin temor\nsobre las obras imaginativas que ha escrito en América\", sugiriendo, retóric amente, que\nocasionalmente usaba ácido prúsico en lugar de tinta. Las críticas cáusticas de Poe le\nvalieron la reputación de ser un \"tomahawk man\".\nUn blanco preferido de la crítica de Poe era el aclamado poeta de Boston Henry\nWadsworth Longfellow, que a menudo era defendido por sus amigos literarios en lo que\nmás tarde se llamaría \"The Longfellow War\". Poe acusó a Longfellow de \"la herejía de la\ndidáctica\", escribiendo poesía que era predicadora, derivada y temáticamente plagiada.\nPoe predijo correctamente que la reputación y el estilo de la poesía de Longfellow\ndeclinarían, \"le concedemos las calidades altas, pero le negamos el futuro\", concluyó.\nPoe también fue conocido como escritor de ficción y se convirtió en uno de los\nprimeros autores estadounidenses del siglo XIX en hacerse más popular en Europa que en\nlos Estados Unidos. Poe es particularmente respetado en Francia, en parte debido a las\nprimeras traducciones de Charles Baudelaire. Las traducciones de Baudelaire se\nconvirtieron en interpretaciones definitivas de la obra de Poe en toda Europa.\nLos primeros cuentos de ficción policial de Poe con C. Auguste Dupin sentaron las\nbases para futuros detectives en la literatura. Sir Arthur Conan Doyle dijo: \"Cada una de las\nhistorias policiales de Poe es una raíz de la que se ha desarrollado toda una literatura...\nWhere was the detective story until Poe breathed the breath of life into it?\"\nComo muchos artistas famosos, las obras de Poe han generado imitadores. Una\ntendencia entre los imitadores de Poe ha sido las afirmaciones de clarividentes o psíquicos\nde estar \"canalizando\" poemas del espíritu de Poe. Uno de los más notables fue Lizzie\ndoten, que publicó Poemas de la Vida Interior en 1863, obra en la que afirmaba haber\n\"recibido\" nuevas composiciones del espíritu de Poe.\n",
+    "questions": [
+      {
+        "statement": "En síntesis, el texto trata sobre",
+        "alternatives": [
+          "A) el reconocimiento Edgar A. Poe como crítico literario y creador.",
+          "B) la popularidad de la literatura de ficción de Edgar A. Poe en Europa.",
+          "C) la vasta producción literaria en narración y poesía de Edgar A. Poe.",
+          "D) la trascendencia de la obra de Poe en América y en toda Europa."
+        ],
+        "correct": 0,
+        "rationale": "En el texto se marca un énfasis en reconocer la labor literaria de Edgar A. Poe como\ncrítico literario, así como en el género narrativo y p oético."
+      },
+      {
+        "statement": "En el texto, el término CÁUSTICO significa",
+        "alternatives": [
+          "A) lenitivo",
+          "B) mordaz",
+          "C) arbitrario",
+          "D) dominante",
+          "E) sibilino"
+        ],
+        "correct": 1,
+        "rationale": "Según el texto, Edgar A. Poe fue un crítico literario cáustico; por eso; lo denominaron\n\"tomahawk man\". Se entiende el término “CÁUSTICO” como sinónimo de “MORDAZ”."
+      },
+      {
+        "statement": "En virtud de la cita de Arthur Conan Doyle, se puede atribuir a Poe",
+        "alternatives": [
+          "A) la profusa imitación del estilo literario.",
+          "B) el espíritu benevolente en la crítica.",
+          "C) la creación del género policíaco.",
+          "D) la insólita expresión del misterio.",
+          "E) el enfoque espiritual en los poemas."
+        ],
+        "correct": 2,
+        "rationale": "En el texto, el autor sostiene que cada historia policiaca de Poe va dando forma a la\nliteratura de este tipo. Y en la cita en inglés hace mención a que las historias de\ndetectives no habrían existido hasta que Poe inició sus relatos policiacos."
+      }
+    ]
+  },
+  {
+    "type": "reading_comprehension",
+    "statement": "Según el texto, Edgar A. Poe fue un crítico literario cáustico; por eso; lo denominaron \"tomahawk man\". Se entiende el término “CÁUSTICO” como sinónimo de “MORDAZ”.",
+    "questions": [
+      {
+        "statement": "3. En virtud de la cita de Arthur Conan Doyle, se puede atribuir a Poe",
+        "alternatives": [
+          "A) la profusa imitación del estilo literario.",
+          "B) el espíritu benevolente en la crítica.",
+          "C) la creación del género policíaco.",
+          "D) la insólita expresión del misterio.",
+          "E) el enfoque espiritual en los poemas."
+        ],
+        "correct": 2,
+        "rationale": "En el texto, el autor sostiene que cada historia policiaca de Poe va dando forma a la literatura de este tipo. Y en la cita en inglés hace mención a que las historias de detectives no habrían existido hasta que Poe inició sus relatos policiacos."
+      },
+      {
+        "statement": "4. Respecto de Edgar Allan Poe, resulta incompatible con el texto aseverar que",
+        "alternatives": [
+          "A) desarrolló con rigor una crítica literaria muy sólida.",
+          "B) fue popular en Francia debido a Charles Baudelaire.",
+          "C) la labor de crítica puede coexistir con la obra creativa.",
+          "D) fue llamado \"tomahawk man\" por su crítica edulcorada.",
+          "E) ha trascendido tanto en la narrativa como en la poesía."
+        ],
+        "correct": 3,
+        "rationale": "Según el texto, Edgar Allan Poe fue llamado \"tomahawk man\" por su crítica cáustica y sería el creador de la narrativa policiaca."
+      },
+      {
+        "statement": "5. Si Edgar A. Poe se hubiese equivocado al predecir el eclipse literario del poeta Longfelow,",
+        "alternatives": [
+          "A) el apelativo \"tomahawk man\" ya no le correspondería a Poe.",
+          "B) aun en la actualidad este poeta sería estudiado y admirado.",
+          "C) los psíquicos ya no habrían imitado la poesía de Edgar A. Poe.",
+          "D) Longfelow habría sido acusado de “la herejía de la didáctica”."
+        ],
+        "correct": 1,
+        "rationale": "En el texto, el autor sostiene que Poe predijo correctamente que la reputación y el estilo de la poesía de Longfellow declinarían, \"le concedemos las calidades altas, pero le negamos el futuro\", concluyó."
+      }
+    ]
+  },
+  {
+    "type": "reading_comprehension",
+    "statement": "Existe una diferencia fundamental entre el comportamiento del animal y la acción humana ;mientras que el primero está gobernado por el instinto, la segunda se caracteriza por una gran flexibilidad para el aprendizaje. La acción animal aparece preprogramada o determinado, y el comportamiento humano, en cambio, se caracteriza por ser abierto y libre. Precisamente, este carácter libre y abierto de la acción es lo que hace al ser humano responsable de sus actos. Si un individuo reflexiona ante una determinada situación, toma una decisión y actúa en concordancia con ella, es el autor de esa acción y, por tanto, debe responder por ella; es decir, debe estar dispuesto a recibir el reconocimiento ola amonestación de sí mismo y de los demás. Este carácter libre del actuar humano constituye también la base del carácter moral que posee en exclusividad. La libertad, es decir, la capacidad para decidir y elegir entre varias opciones posibilita que las acciones concretas que alguien lleva a cabo se ajusten o no a las costumbres y normas de su comunidad. Cuando el sujeto decide actuar de acuerdo con las normas asumidas, actúa correctamente (es moral); cuando decide libremente saltárselas, actúa incorrectamente (es inmoral). Pero, en cualquier caso, lo que no puede hacer es dejar de actuar en el marco de ese código normativo (ya sea acatándolo o violándolo); es decir, lo que no se puede hacer es ser amoral.",
+    "questions": [
+      {
+        "statement": "1. Los textos A y B sostienen posturas antagónicas entorno a",
+        "alternatives": [
+          "A) la importancia de las costumbres y normas en la vida del hombre.",
+          "B) la libertad, conciencia y racionalidad en el desenvolvimiento humano.",
+          "C) la racionalidad imperante y determinante en el accionar consciente.",
+          "D) la responsabilidad moral asumida por el individuo de una sociedad.",
+          "E) los impulsos instintivos sometidos a la libertad y racionalidad humana."
+        ],
+        "correct": 1,
+        "rationale": "En este texto, las posturas de A y B parten del problema entorno a la libertad, conciencia y racionalidad como guías del comportamiento, pensamiento, acción del hombre."
+      },
+      {
+        "statement": "2. En el texto, el antónimo contextual del término DELIBERADO es",
+        "alternatives": [
+          "A) planificado .",
+          "B) racional .",
+          "C) fortuito .",
+          "D) instintivo .",
+          "E) contingente ."
+        ],
+        "correct": 2,
+        "rationale": "En el texto A, se menciona elecciones deliberadas, es decir, elecciones que son resultado de una planificación o hechas a voluntad. Por ello, el antónimo contextual sería FORTUITO."
+      },
+      {
+        "statement": "3. A partir de los resultados descritos en el texto A, se colige que la libertad humana",
+        "alternatives": [
+          "A) se reduce a una mera ilusión.",
+          "B) sustenta la racionalidad humana.",
+          "C) se expande en toda la sociedad.",
+          "D) es base de las acciones sociales.",
+          "E) ejerce una vida llena de moral."
+        ],
+        "correct": 0,
+        "rationale": "En el texto A, se sostiene que el hombre se aut oengaña al pensar que es libre consciente y autosuficiente. Y que la conducta humana podría ser prevista a través de ecuaciones matemáticas."
+      }
+    ]
+  },
+  {
+    "type": "reading_comprehension",
+    "statement": "En el texto A, se menciona elecciones deliberadas, es decir, elecciones que son resultado de una planificación o hechas a voluntad. Por ello, el antónimo contextual sería FORTUITO.",
+    "questions": [
+      {
+        "statement": "3. A partir de los resultados descritos en el texto A, se colige que la libertad humana",
+        "alternatives": [
+          "A) se reduce a una mera ilusión.",
+          "B) sustenta la racionalidad humana.",
+          "C) se expande en toda la sociedad.",
+          "D) es base de las acciones sociales.",
+          "E) ejerce una vida llena de moral."
+        ],
+        "correct": 0,
+        "rationale": "En el texto A, se sostiene que el hombre se aut oengaña al pensar que es libre consciente y autosuficiente. Y que la conducta humana podría ser prevista a través de ecuaciones matemáticas."
+      },
+      {
+        "statement": "5. Si se demostrara que la esencia de la conducta humana se puede predecir a partir de una ecuación simbólica,",
+        "alternatives": [
+          "A) la tesis de Alex Pentland se vería rebatida.",
+          "B) se demostraría el valor absoluto de la libertad.",
+          "C) se validaría el carácter libre del acto humano.",
+          "D) se fortalecería la idea de un instinto humano.",
+          "E) la postura de John Bargh perdería asidero."
+        ],
+        "correct": 3,
+        "rationale": "En el texto A, se sostiene que Pentland halló que el 90% de lo que la mayoría de la gente hace durante el día es tan rutinario que su conducta podría ser prevista con solo unas pocas ecuaciones matemáticas."
+      }
+    ]
+  },
+  {
+    "type": "reading_comprehension",
+    "statement": "SEMANA 6C\n\nLa tuberculosis es causada por Mycobacterium tuberculosis ,una bacteria que casi\nsiempre afecta a los pulmones. Se trata de una afección curable y que se puede prevenir.\nLa infección se transmite de persona a persona a través del aire. Cuando un enfermo de\ntuberculosis pulmonar tose, estornuda o escupe, expulsa bacilos tuberculosos al aire. Basta\ncon que una persona inhale unos pocos bacilos para quedar infectada (Gráfico 1).\nSe calcula que una tercera parte de la población mundial tiene tuberculosis latente,\ntérmino aplicado a las personas\ninfectadas por el bacilo, pero que\naún no han enfermado ni pueden\ntransmitir la infección. Las personas infectadas con el bacilo\ntuberculoso tienen un riesgo a lo\nlargo de la vida de enfermar de\ntuberculosis de un 10%. En cambio, las personas\ninmunodeprimidas, por ejemplo las que padecen VIH, desnutrición o\ndiabetes, y los consumidores de tabaco corren un riesgo mucho\nmayor de enfermar.\nCuando alguien desarrolla tuberculosis, activa los síntomas (tos, fiebre, sudores nocturnos,\npérdida de peso, etc.) y pueden ser leves durante muchos meses. Esto puede hacer que la persona\nafectada tarde en buscar atención médica, con el consiguiente riesgo\nde que la bacteria se transmita a\notros sujetos.",
+    "questions": [
+      {
+        "statement": "1. El autor del texto tiene la intención de",
+        "alternatives": [
+          "A) cuestionar la negligencia de los pacientes que padecen de tuberculosis.",
+          "B) analizar la situación del paciente con tuberculosis para su tratamiento.",
+          "C) describir la sintomatología de la tuberculosis en pacientes deprimidos.",
+          "D) alertar a la población sobre el incremento de pacientes con un mal incurable.",
+          "E) explicar la manera de contagio y el riesgo de padecer tuberculosis pulmonar."
+        ],
+        "correct": 4,
+        "rationale": "En el texto, al autor se centra en explicar la manera de contagio y el riesgo de padecer tuberculosis pulmonar."
+      },
+      {
+        "statement": "2. Entre INHALAR y EXPULSAR, se establece una",
+        "alternatives": [
+          "A) equivalencia.",
+          "B) síntesis.",
+          "C) afinidad.",
+          "D) antonimia.",
+          "E) simultaneidad."
+        ],
+        "correct": 3,
+        "rationale": "Por la manera como se usan y en virtud de su definición léxica, se establece una antonimia."
+      },
+      {
+        "statement": "3. No se condice con el gráfico sostener que en la tuberculosis pulmonar",
+        "alternatives": [
+          "A) la persona portadora se contagia al expulsar aire con la bacteria de la tuberculosis.",
+          "B) la persona inhala las bacterias tosidas en el aire por la persona con tuberculosis.",
+          "C) el sistema inmunológico ataca a las bacterias y las encapsula en un tubérculo.",
+          "D) una persona que padece sida está más propensa a desarrollar la tuberculosis.",
+          "E) el sistema inmune fortalecido puede evitar la eclosión de la bacteria encapsulada."
+        ],
+        "correct": 0,
+        "rationale": "En el gráfico se explica que una persona se contagia de tuberculosis al inhalar la bacteria tosida en el aire por la persona con tuberculosis (portadora)."
+      }
+    ]
+  },
+  {
+    "type": "sentence_elimination",
+    "statement": "No se condice con el gráfico sostener que en la tuberculosis pulmonar",
+    "alternatives": [
+      "A) la persona portadora se contagia al expulsar aire con la bacteria de la tuberculosis.",
+      "B) la persona inhala las bacterias tosidas en el aire por la persona con tuberculosis.",
+      "C) el sistema inmunológico ataca a las bacterias y las encapsula en un tubérculo.",
+      "D) una persona que padece sida está más propensa a desarrollar la tuberculosis.",
+      "E) el sistema inmune fortalecido puede evitar la eclosión de la bacteria encapsulada."
+    ],
+    "correct": 0,
+    "rationale": "En el gráfico se explica que una persona se contagia de tuberculosis al inhalar la bacteria tosida en el aire por la persona con tuberculosis (portadora)."
+  },
+  {
+    "type": "sentence_elimination",
+    "statement": "Es posible inferir que las personas con inmunodepresión",
+    "alternatives": [
+      "A) están exentas de contagiar enfermedades infecciosas.",
+      "B) son más proclives de padecer tuberculosis pulmonar.",
+      "C) poseen un sistema inmune infestado de tubérculos.",
+      "D) son invulnerables de padecer enfermedades virales.",
+      "E) son el 10% de la población que padece tuberculosis."
+    ],
+    "correct": 1,
+    "rationale": "Según el texto, las personas inmunodeprimidas, por ejemplo las que padecen VIH, desnutrición o diabetes, y los consumidores de tabaco corren un riesgo mucho mayor de enfermar."
+  },
+  {
+    "type": "sentence_elimination",
+    "statement": "Si los tubérculos pulmonares se rompieran y dejaran salir a la bacteria Mycobacterium tuberculosis,",
+    "alternatives": [
+      "A) el paciente portador comenzaría a desarrollar la enfermedad.",
+      "B) esta perniciosa bacteria ya no podría ser expulsada al aire.",
+      "C) los síntomas de la tuberculosis se mantendrían latentes.",
+      "D) la situación clínica del paciente mejoraría notablemente.",
+      "E) la persona infectada con esta bacteria mo riría sin remedio."
+    ],
+    "correct": 0,
+    "rationale": "Según el texto, la bacteria Mycobacterium tuberculosis que una persona inhala del aire será encapsulada en un tubérculo por el sistema inmunológico. Si este se debilita, los tubérculos se rompen y esta bacteria saldrá y se dará inicio a la enfermedad."
+  },
+  {
+    "type": "reading_comprehension",
+    "statement": "Entre 1486 y 1502, durante el reinado de Ahuítzotl y el descubrimiento de América por Cristóbal Colón, un lobo de unos ocho meses de edad fue sacrificado por los aztecas (o mexicas) y su cuerpo adornado con piezas de oro purísimo y con un cinturón de conchas del océano Atlántico. A continuación, fue cuidadosamente depositado en un espacio de piedra cuadrado junto con otras piezas del metal precioso y cuchillos de pedernal. El entierro, cercano al Zócalo, la plaza principal de la Ciudad de México ,donde antaño se erigió el Templo Mayor, permaneció inalterado varios siglos; únicamente quedó afectado en 1900, durante la co nstrucción de la red de alcantarillado. El entierro sacrificial ha sido descubierto más de 500 años después ,gracias a unas excavaciones dirigidas por el arqueólogo Leonardo López Luján, según reveló el viernes pasado David Alire García, de Reuters . La cantidad y calidad de los ornamentos del entierro es excepcional: incluye 22 piezas completas de oro fino ,entre ellas pendientes, una argolla nasal y un pectoral en forma de disco. El lobo representaba a Huitzilopochtli ,la principal deidad de los mexicas, e l dios del sol y de la guerra, pues se suponía que ayudaría a los guerreros caídos a cruzar el río del inframundo. El animal fue enterrado durante el reinado de Ahuítzotl, un comandante temido y sanguinario que llevó a cabo una política exterior expansionista, dominando prácticamente todo el centro y sur de México, Guatemala incluida. López Luján, el director del Proyecto Templo Mayor del Instituto Nacional de Antropología e Historia, ha explicado a Reuters que será necesario realizar pruebas en las costillas del animal para comprobar la teoría según la cual se extraía el corazón de la víctima como parte del sacrificio .",
+    "questions": [
+      {
+        "statement": "¿Cuál es el tema central del texto?",
+        "alternatives": [
+          "A) El camino al inframundo a través de sacrificios",
+          "B) Las técnicas funerarias en los entierros aztecas",
+          "C) El hallazgo de un entierro sacrificial azteca",
+          "D) El viaje al inframundo en la visión azteca"
+        ],
+        "correct": 2,
+        "rationale": "En el texto, se trata medularmente sobre el hallazgo de un entierro sacrificial azteca, un lobo que representa a Huitzilopochtli ,la principal deidad de los mexicas o aztecas."
+      },
+      {
+        "statement": "En el texto, el sentido contextual de CAÍDO es",
+        "alternatives": [
+          "A) occiso.",
+          "B) hético.",
+          "C) moribundo.",
+          "D) apacado.",
+          "E) raí do."
+        ],
+        "correct": 0,
+        "rationale": "Según el texto, el dios Huitzilopochtli ayudaría a los guerreros caídos (occisos) a cruzar el río del inframundo."
+      },
+      {
+        "statement": "Resulta compatible con el texto sostener que el sacrificio del lobo",
+        "alternatives": [
+          "A) se habría llevado a cabo en el siglo XV, sin lugar a dudas.",
+          "B) tenía como finalidad exclusiva la extracción del corazón del animal.",
+          "C) se llevó a cabo durante el reinado del dios Huitzilopochtli .",
+          "D) permitía a los nobles aztecas conocer el río del inframundo.",
+          "E) era parte de los rituales u homenajes funerarios a soldados."
+        ],
+        "correct": 4,
+        "rationale": "En el texto, se sostiene que el lobo sacrificado representaba a Huitzilopochtli ,la principal deidad de los mexicas. Y era quien ayudaría a los guerreros caídos a cruzar el río del inframundo."
+      }
+    ]
+  },
+  {
+    "type": "sentence_elimination",
+    "statement": "Resulta compatible con el texto sostener que el sacrificio del lobo",
+    "alternatives": [
+      "A) se habría llevado a cabo en el siglo XV, sin lugar a dudas.",
+      "B) tenía como finalidad exclusiva la extracción del corazón del animal.",
+      "C) se llevó a cabo durante el reinado del dios Huitzilopochtli .",
+      "D) permitía a los nobles aztecas conocer el río del inframundo.",
+      "E) era parte de los rituales u homenajes funerarios a soldados."
+    ],
+    "correct": 4,
+    "rationale": "En el texto, se sostiene que el lobo sacrificado representaba a Huitzilopochtli ,la\nprincipal deidad de los mexicas. Y era quien ayudaría a los guerreros caídos a cruzar\nel río del inframundo."
+  },
+  {
+    "type": "sentence_elimination",
+    "statement": "Es posible inferir que el dios Huitzilopochtli",
+    "alternatives": [
+      "A) experimentó licantropía durante los sacrificios aztecas.",
+      "B) habría sido muy venerado durante el reinado de Ahuítzotl.",
+      "C) brindaba cobijo a los soldados aztecas en el inframundo.",
+      "D) carecería de veneración debido al miedo que infundía.",
+      "E) fue derrocado por el comandante sanguinario Ahuítzotl."
+    ],
+    "correct": 1,
+    "rationale": "En el texto, se sostiene que Huitzilopochtli es el dios del sol y de la guerra y que el rey\nAhuítzotl, un comandante temido y sanguinario, llevó a cabo una política exterior\nexpansionista."
+  },
+  {
+    "type": "sentence_elimination",
+    "statement": "Si un equipo de arqueólogos hubiese descubierto el entierro sacrificial del lobo antes de 1900, entonces",
+    "alternatives": [
+      "A) ya se habría confirmado que la extracción del corazón era parte del ritual.",
+      "B) el arqueólogo Leonardo López Luján habría dirigido las excavaciones.",
+      "C) la construcción de la red de alcantarillado de 1900 se habría cancelado.",
+      "D) se habría dado mejor atención para conservar la integridad del hallazgo."
+    ],
+    "correct": 3,
+    "rationale": "Según el texto, el entierro del lobo permaneció inalterado varios siglos, pero\núnicamente quedó afectado en 1900, durante la construcción de la red de\nalcantarillado. Ya luego, 500 años después del ritual, fue descubierto por unas\nexcavaciones dirigidas por el arqueólogo Leonardo López Luján."
+  },
+  {
+    "type": "reading_comprehension",
+    "statement": "La tradición oral es el conducto primigenio por el cual la mitología se perpetúa. Tanto el narrador como el público que escucha sus explicaciones parten de la base de que se trata de historias supuestamente reales que justifican la existencia de preceptos, ideas, creencias y realidades. Claro que todo ello acostumbra a estar ataviado de hechos fantásticos y sobrenaturales. De esta forma, el mito, que siempre es interpretativo, suele estar compuesto por una serie de símbolos y ornamentos que tienen por objeto penetrar en la conciencia del oyente o bien en su evolución.\nEl psiquiatra Jung defendía la existencia de una entidad superior a la que denominó \"inconsciente colectivo\", que sería algo así como un gran banco central de datos formado por la energía de los arquetipos de la sabiduría con el que ocasionalmente el ser humano podría conectar. Dichas conexiones se efectuarían mediante estados de trance, iluminación, revelación por ayuno o sueño. Dicho de otro modo, las leyendas, mitos, relatos e incluso más tardíamente cuentos, no serían sino conexiones de una sabiduría superior que tendría la misión de formar a la especie humana para lograr su evolución.\nNo deja de ser curioso, si hacemos caso a la hipótesis referida, que exista una cierta concomitancia entre relatos mitológicos de culturas totalmente distintas y que no han tenido contacto entre ellas. Es como si la evolución hubiera sido prácticamente pareja en todas partes y los distintos pueblos hubieran tenido la necesidad de crear, cada uno en función del entorno en el que vivían, historias muy similares que explicasen hechos que son universales. Más allá de todo ello, hay algo innegable, y es que el mito siempre se desarrolla en un tiempo que es anterior al mundo actual, y siempre alude a hechos extraordinarios y a dioses y personajes inaccesibles y dotados de poderes sobrenaturales. Por último, la gran mayoría de los mitos han sido considerados como aspectos inspiradores de cultos y religiones.\nPalao, P. Roig, O. (2006). Diccionario de Mitología . Madrid: Edimat Libros",
+    "questions": [
+      {
+        "statement": "En última instancia, el autor del texto destaca",
+        "alternatives": [
+          "A) la teoría del psiquiatra Jung para explicar la evolución del ser humano.",
+          "B) la influencia de los mitos en las ceremonias religiosas y cultos paganos.",
+          "C) la trascendencia del mito en la formación y desarrollo del pensamiento.",
+          "D) la oralidad como rasgo distintivo de relatos sobre entes sobrenaturales.",
+          "E) la relevancia del \"inconsciente colectivo\" presente en la sabiduría humana."
+        ],
+        "correct": 2,
+        "rationale": "El autor del texto sostiene una serie de características del mito: su oralidad, seres\nsobrenaturales, explicaciones pasadas, inspirador de cultos…y al final concluye su\nimportante papel en el desarrollo y evolución del pensamiento del hombre."
+      },
+      {
+        "statement": "En el texto, el término CONCOMITANCIA significa",
+        "alternatives": [
+          "A) coincidencia .",
+          "B) disparidad .",
+          "C) oposición ."
+        ],
+        "correct": 0,
+        "rationale": "En el texto se menciona que habría cierta concomitancia, es decir, coincidencia entre\nrelatos mitológicos de culturas totalmente distintas y que no han tenido contacto entre\nellas."
+      },
+      {
+        "statement": "Resulta compatible con el texto sostener que el mito",
+        "alternatives": [
+          "A) logró su permanencia debido a su transmisión escrita.",
+          "B) fue un medio exclusivo de la parafernalia religiosa.",
+          "C) se centra en el porvenir de los pueblos antiguos.",
+          "D) ha destacado las vivencias del hombre ordinario.",
+          "E) sería el medio más prístino de explicar la realidad."
+        ],
+        "correct": 4,
+        "rationale": "Tanto el narrador como el público que escucha el mito parten de la base de que se\ntrata de historias supuestamente reales que justifican la existencia de preceptos,\nideas, creencias y realidades."
+      }
+    ]
+  }
+]

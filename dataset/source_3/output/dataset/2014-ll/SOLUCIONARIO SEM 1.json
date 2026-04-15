@@ -1,0 +1,67 @@
+[
+  {
+    "type": "reading_comprehension",
+    "statement": "La lectura está considerada como una actividad instrumental básica de crucial importancia para el individuo que mediatiza cualquier tipo de aprendizaje llevado a cabo a través del formato escrito. Ninguna otra actividad humana ha alterado tanto el rumbo del desarrollo individual y cultural. Gracias a ella podemos adquirir nuevos conocimientos y destrezas e, incluso, ocupar momentos de ocio. Sin embargo, el número de procesos involucrados en la lectura y su compleja naturaleza la convierten en una tarea de gran dificultad que culmina con la construcción e integración de una representación textual. Esta representación es mucho más que la suma de significados de las palabras individual es, de ahí que el concepto de lectura y comprensión se solapen n. Por ello, es evidente que el aprendizaje de la lectura no puede ser entendido como la simple adquisición de códigos gráficos, como lo cree la visión tradicional, sino que se trata del desarrollo de la capacidad de elaboración y utilización de la lengua escrita. Leer es algo más que un mero acto de descifrado mecánico (conversión grafema -fonema); es sobre todo un acto de razonamiento que lleva al sujeto a la construcción activa y consciente de una interpretación del mensaje escrito.\nNo obstante, la enseñanza de la lectura ha sido, durante años, considerada como un conjunto de subprocesos susceptibles de ser enseñados de forma independiente (identificar letras, palabras, frases...). Pero parece evidente que leer es algo más que procesar de manera secuencial las distintas letras y seguidamente las distintas palabras de que consta un texto. Desde esta concepción únicamente lograríamos que nuestros alumnos aprendiesen a leer, pero difícilmente leerían para aprender. Hoy día, desde la perspectiva cognitivista, la lectura es considerada como una tarea de solución de problemas (una tarea cognitiva) y las dificultades observadas a lo largo del proceso de aprendizaje son debidas a procesos cognitivos. Procesos que impiden al niño conceptualizar las unidades lingüísticas y comprender la relación entre el código fonológico y el código gráfico. Este último proceso de conversión grafema -fonema es de vital importancia en la fase de decodificación o descifrado, fase que constituye un paso importante en la actividad de lectura. Además, ha de poseer cierto desarrollo del lenguaje oral; por ejemplo, para poder reconocer las palabras por la ruta fonológica, es necesario disponer de representaciones de las palabras en el léxico auditivo. Pero, para que tenga lugar una lectura comprensiva, es necesario que el sujeto posea un sistema cognitivo lo suficientemente desarrollado como para integrar el mensaje en su memoria.",
+    "questions": [
+      {
+        "statement": "¿Cuál es el tema central del texto?",
+        "alternatives": [
+          "A) La lectura desde la perspectiva cognitivista",
+          "C) Estrategias para aprender y enseñar a leer",
+          "D) La lectura compr ensiva como objetivo educativo",
+          "E) La importancia de la lectura en los niños"
+        ],
+        "correct": 0,
+        "rationale": "El texto trata sobre el aprendizaje y la enseñanza de la lectura desde la perspectiva del cognitivismo."
+      },
+      {
+        "statement": "La palabra SOLAPEN implica que lectura y comprensión se",
+        "alternatives": [
+          "A) ocultan.",
+          "B) vinculan.",
+          "C) contradicen.",
+          "D) igualan.",
+          "E) perjudican."
+        ],
+        "correct": 1,
+        "rationale": "El autor resalta el estrecho vínculo entre lectura y comprensión."
+      },
+      {
+        "statement": "Se infiere que la visión tradicional asume que la lectura",
+        "alternatives": [
+          "A) puede soslayar la identificación grafema -fonema.",
+          "B) no es importante en la formación académica.",
+          "C) es únicamente recepción pasiva de mensajes.",
+          "D) impide que podamos adquirir nuevos saberes.",
+          "E) implica subproces os que se vinculan siempre."
+        ],
+        "correct": 2,
+        "rationale": "La concepción cognitivista asume la construcción activa del significado al momento de la lectura. De allí que, la concepción tradicional niegue esa perspectiva."
+      },
+      {
+        "statement": "Resulta incompatible afirmar que la lectura compr ensiva",
+        "alternatives": [
+          "A) requiere desvincular el proceso de descifrado y el desarrollo del lenguaje oral.",
+          "B) demanda que el sujeto posea un sistema cognitivo lo suficientemente desarrollado.",
+          "C) es considerada como una tarea de solución de problemas a lo que nos enfrentamos.",
+          "D) hace necesario disponer de representaciones de las palabras en el léxico auditivo.",
+          "E) es una tarea que culmina con la construcción de una representación textual."
+        ],
+        "correct": 0,
+        "rationale": "La enseñanza de la lectura ha sido, durante años, considerada como un conjunto de subprocesos susceptibles de ser enseñados de forma independiente; a esto se opone la perspectiva cognitivista."
+      },
+      {
+        "statement": "Si la conversión grafema -fonema fuese caótica en un individuo,",
+        "alternatives": [
+          "A) su nivel de comprensión lectora sería superlativo.",
+          "B) no podría interpretar o construir los mensajes.",
+          "C) no presentaría un sistema cognitivo deficitario.",
+          "D) podríamos hablar de subsistemas desvinculados.",
+          "E) la ciencia cognitiva se vería ampliamente refutada."
+        ],
+        "correct": 1,
+        "rationale": "La conversión grafema -fonema es importante para la lectura que implica una labor de construcción e interpretación de mensajes."
+      }
+    ]
+  }
+]

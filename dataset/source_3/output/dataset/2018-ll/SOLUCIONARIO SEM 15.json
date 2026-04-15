@@ -1,0 +1,386 @@
+[
+  {
+    "type": "reading_comprehension",
+    "statement": "Habilidad Verbal\n\nSECCIÓN A\n\nEL TEXTO CIENTÍFICO\n\nEl texto científico da a conocer información o resultados asociados con la práctica de\nla investigación científica. Algunos textos muestran un hecho basado en una descripción\nobjetiva y rigurosa, que en principio es susceptible de confirmación. Otros describen un\nexperimento que permitió establecer un resultado. Cuando de resultados se trata, estos\npueden ser positivos, como la corroboración de una hipótesis o un descubrimiento de\nimpacto; o negativos, como la refutación o rechazo de una hipótesis.\n\nNo pocos textos científicos explican una teoría o un aspecto involucrado en ella,\nfundamentada en una profunda elucidación conceptual. Pero en su mayoría son textos de\ndivulgación científica, en los cuales, sin perder su exactitud, se pone al alcance de la\ncomprensión de los lectores no especializados información de alto nivel académico.\n\nEjemplos y actividades vinculados con el texto científico\n\n¿Qué pasó antes de la gran explosión? ¿Qué pasó antes del principio? Los\nastrofísicos no tenemos ni idea. Mejor dicho, nuestras ideas más creativas tienen poca\nbase, o ninguna, en la ciencia experimental. Sin embargo, una persona con fe religiosa\ntiende a afirmar, a menudo con un dejo de petulancia, que algo debió de iniciarlo todo:\nuna fuerza superior a las demás, una fuente de la que surge el resto de cosas. Un\nactivador fundamental. En la mente de una persona así ese algo es, lógicamente, Dios,\ncuya naturaleza varía de un creyente a otro, pero que siempre corre con la\nresponsabilidad de poner la pelota a rodar. Pero y ¿si el universo estuvo siempre ahí, en\nun estado o condición aún por identificar, un multiverso, por ejemplo, en el que todo lo que\ndenominamos universo equivale tan solo a una diminuta burbuja en un mar de espuma? Y\n¿si el universo, como sus partículas, empezó a existir sin más, a partir de nada que\npodamos ver? Por lo general, estas réplicas no satisfacen a nadie. En cualquier caso, nos\nrecuerdan que la ignorancia bien informada propicia el estado natural de la mente para los\ninvestigadores en las siempre cambiantes fronteras del conocimiento. Las personas que\ncreen que lo saben todo nunca han buscado ni se han encontrado con los lindes entre lo\nconocido y lo desconocido en el cosmos. Y ahí reside una dicotomía fascinante. «El\nuniverso siempre estuvo» no merece ningún respeto como respuesta legítima a la\npregunta de qué había ahí antes del principio; sin embargo, para muchas personas\nreligiosas, «Dios estuvo siempre» es la respuesta obvia y satisfactoria a qué había ahí\nantes de Dios. Al margen de dónde se posicione cada uno, participar en la búsqueda por\n\ndescubrir dónde y cómo empezó todo puede provocar cierto fervor emocional; como si el\nhecho de conocer nuestros inicios nos otorgara cierta forma de fraternidad con lo que\nviene después, o acaso de gobernanza sobre ello. Así pues, lo que es válido para la vida\nmisma es válido para el universo: saber de dónde venimos no es menos importante que\nsaber adónde vamos.\n\nDeGrasse T., N. y D. Goldsmith (2014). Orígenes. Catorce mil millones de años de evolución cósmica.\nBarcelona: Paidós. (Texto editado)\n\n",
+    "questions": [
+      {
+        "statement": "1. El autor del texto evidencia en las respuestas que plantea sobre el inicio del cosmos,",
+        "alternatives": [
+          "A) la posición taxativa de un físico reputado.",
+          "B) el derrotero de un escéptico solipsista.",
+          "C) una postura que dista de ser concluyente.",
+          "D) lo inobjetables que resultan sus hallazgos.",
+          "E) su rechazo decidido contra la ignorancia"
+        ],
+        "correct": 2,
+        "rationale": "El autor plantea preguntas legítimas que ameritan respuesta. Sin embargo, es franco en asumir que existe más un universo de problemas por resolver que soluciones a estos problemas; por consiguiente, su postura es reservada, lejos de todo cariz concluyente."
+      },
+      {
+        "statement": "2. Es preciso afirmar que el científico, a pesar de la dedicada preparación con que cuenta, se caracteriza por ser",
+        "alternatives": [
+          "A) taxativo.",
+          "D) absoluto.",
+          "B) creyente.",
+          "E) seguro.",
+          "C) circunspecto."
+        ],
+        "correct": 4,
+        "rationale": "El científico siempre asume su labor con prudencia. Los autores parten de la aceptación de sus limitaciones."
+      },
+      {
+        "statement": "3. Se deduce del texto que los desafíos más inquietantes y complejos vinculados con el cosmos devienen, a su vez, en",
+        "alternatives": [
+          "A) hipótesis que constituyen el soporte irrefutable del conocimiento.",
+          "B) confrontaciones ásperas entre fanáticos religiosos y progresistas.",
+          "C) respuestas multidisciplinarias orientadas, al fin, por las emociones.",
+          "D) posiciones heteróclitas que eventualmente podrían contraponerse.",
+          "E) estudios que permiten la consecución de respuestas concluyentes."
+        ],
+        "correct": 3,
+        "rationale": "Los inicios del universo, entre otros desafíos, desencadenan respuestas objetivas diversas, aunque también es posible que puedan articularse respuestas de corte religioso."
+      },
+      {
+        "statement": "4. Es inconsistente con la reflexión del autor del texto sobre las inquietudes que impulsan la investigación científica afirmar que esta está exenta de",
+        "alternatives": [
+          "A) subjetividad.",
+          "D) dudas.",
+          "B) problemas.",
+          "E) inventiva.",
+          "C) desafíos."
+        ],
+        "correct": 0,
+        "rationale": "En el texto se señala que «participar en la búsqueda por descubrir dónde y cómo empezó todo puede provocar cierto fervor emocional». En tal sentido, es posible que el científico pueda alegrarse por un descubrimiento o logro derivado de su investigación, de modo tal que no está exento de subjetividad."
+      },
+      {
+        "statement": "5. En el texto, el adverbio LÓGICAMENTE se puede reemplazar por",
+        "alternatives": [
+          "A) racionalmente.",
+          "D) frecuentemente.",
+          "B) sesudamente.",
+          "E) asiduamente.",
+          "C) obviamente."
+        ],
+        "correct": 2,
+        "rationale": "En el texto, el vocablo se refiere a la postura evidente de un religioso; es decir, a la fe que lo mueve para explicar el inicio del universo. De esta manera, esta se puede reemplazar por OBVIAMENTE."
+      }
+    ]
+  },
+  {
+    "type": "reading_comprehension",
+    "statement": "Un conocido científico (algunos dicen que fue Bertrand Russell) daba una vez una conferencia sobre astronomía. En ella describía cómo la Tierra giraba alrededor del Sol y cómo este, a su vez, giraba alrededor del centro de una vasta colección de estrellas conocida como nuestra galaxia. Al final de la charla, una simpática señora ya de edad se levantó y le dijo desde el fondo de la sala: «Lo que nos ha contado usted no son más que tonterías. El mundo es en realidad una plataforma plana sustentada por el caparazón de una tortuga gigante». El científico sonrió ampliamente antes de replicarle, «¿y en qué se apoya la tortuga?». «Usted es muy inteligente, joven, muy inteligente —dijo la señora—. ¡Pero hay infinitas tortugas una debajo de otra!». La mayor parte de la gente encontraría bastante ridícula la Imagen de nuestro universo como una torre infinita de tortugas, pero ¿en qué nos basamos para creer que lo conocemos mejor? ¿Qué sabemos acerca del universo y cómo hemos llegado a saberlo? ¿De dónde surgió el universo, y adónde va? ¿Tuvo el universo un principio, y, si así fue, que sucedió con anterioridad a él? ¿Cuál es la naturaleza del tiempo? ¿Llegará este a un final alguna vez? Avances recientes de la física, posibles en parte gracias a fantásticas nuevas tecnologías, sugieren respuestas a algunas de estas preguntas que desde hace mucho tiempo nos preocupan. Algún día estas respuestas podrán parecernos tan obvias como el que la Tierra gire alrededor del Sol, o, quizás, tan ridículas como una torre de tortugas. Solo el tiempo (cualquiera que sea su significado) lo dirá.\n\nHawking, S. (2011). Historia del tiempo: Del big bang a los agujeros negros. Madrid: Alianza Editorial.",
+    "questions": [
+      {
+        "statement": "A partir de un inicio textual que utiliza el recurso anecdótico, el autor del texto desarrolla medularmente el tema de",
+        "alternatives": [
+          "A) la intrincada complejidad del universo científico.",
+          "B) el progreso científico y los desafíos que enfrenta.",
+          "C) las conjeturas relativas al tiempo y el universo.",
+          "D) el desarrollo tecnológico gatillado por la ciencia.",
+          "E) la inconsistencia de ciertas teorías anticientécnicas."
+        ],
+        "correct": 1,
+        "rationale": "En efecto, el texto recurre al recurso de la anécdota para definir la temática hacia el final. Esta se enfoca en las múltiples interrogantes, aún sin repuesta, que la ciencia enfrenta, además de las posibles maneras de abordarlas objetivamente gracias al avance científico."
+      },
+      {
+        "statement": "Es posible entender de la lectura que las conjeturas científicas enfrentaron inicialmente escollos inciertos y carentes de rigor, dado que",
+        "alternatives": [
+          "A) los telescopios para comprobar lo señalado por Russell se inventarían varios siglos después de aquel evento.",
+          "B) la gente de la época actuaba con decoro y prudencia ante aseveraciones carentes de sentido racional.",
+          "C) Bertrand Russell carecía del poder de persuasión de los científicos más reputados y experimentados.",
+          "D) las explicaciones de ciertos fenómenos del mundo natural eran poco sofisticadas y con ribetes de absurdo.",
+          "E) los científicos en los primeros tiempos aportaban solo en tecnología, pero carecían de profundidad intelectual."
+        ],
+        "correct": 3,
+        "rationale": "De acuerdo con la lectura, algunas explicaciones se caracterizaron por lindar con lo ridículo, de manera que el desarrollo científico se inició de forma poco auspiciosa, pues coexistió con intuiciones sin mayor complejidad."
+      },
+      {
+        "statement": "Se desprende de la anécdota referida en el texto que la reacción de Russell frente a la réplica de la señora",
+        "alternatives": [
+          "A) fue una muestra de flexibilidad y condescendencia.",
+          "B) demuestra que la ignorancia es atrevida y delirante.",
+          "C) implicó el inicio de una férrea discusión sin cuartel.",
+          "D) supuso una aplastante respuesta por parte de este.",
+          "E) dejó en claro que es improductiva el debate insano."
+        ],
+        "correct": 0,
+        "rationale": "Russell, a pesar de la delirante respuesta, actuó de forma moderada y flexible."
+      },
+      {
+        "statement": "En el texto, el sinónimo de la palabra DECIR es",
+        "alternatives": [
+          "A) afirmar.",
+          "D) explicitar.",
+          "B) definir.",
+          "E) confirmar.",
+          "C) confutar."
+        ],
+        "correct": 2,
+        "rationale": "Se trata de un verbo de habla que, sin embargo, se refiere a la determinación de un evento hacia el futuro. En tanto que tal, el sinónimo es DEFINIR."
+      },
+      {
+        "statement": "Si los avances tecnológicos se realizaran de forma ralentizada en la actualidad,",
+        "alternatives": [
+          "A) algunas hipótesis resultarían absurdas y poco predictivas.",
+          "B) los importantes problemas de la ciencia serían irresolubles.",
+          "C) se requeriría de más investigadores como Bertrand Russell.",
+          "D) la gente con intuiciones absurdas proliferaría en la actualidad.",
+          "E) los impresionantes avances físicos resultarían poco factibles."
+        ],
+        "correct": 4,
+        "rationale": "Si el avance tecnológico fuera lento, los logros en el campo de la física también se caracterizarían por su progreso lento."
+      }
+    ]
+  },
+  {
+    "type": "reading_comprehension",
+    "statement": "Después del derrumbe del Imperio Austríaco se había producido una revolución en Austria: el aire estaba cargado de lemas e ideas revolucionarias, y de nuevas y a menudo audaces teorías. Entre las teorías que me interesaban, la teoría de la relatividad de Einstein era sin duda, la más importante. Otras tres eran la teoría de la historia de Marx, el psicoanálisis de Freud y la llamada «psicología del individuo» de Alfred Adler.\n\nDurante el verano de 1919 comencé a sentirme cada vez más insatisfecho con esas tres teorías, la teoría marxista de la historia, el psicoanálisis y la psicología del individuo; comencé a sentir dudas acerca de su pretendido carácter científico. Mis dudas tomaron al principio la siguiente forma simple: «¿Qué es lo que no anda en el marxismo, el psicoanálisis y la psicología del individuo? ¿Por qué son tan diferentes de las teorías físicas, de la teoría de Newton y especialmente de la teoría de la relatividad?». Para aclarar este contraste debo explicar que pocos de nosotros, por entonces, habríamos dicho que creíamos en la verdad de la teoría einsteiniana de la gravitación. Esto muestra que no eran mis dudas acerca de la verdad de esas otras tres teorías lo que me preocupaba, sino alguna otra cosa. Tampoco consistía en que yo simplemente tuviera la sensación de que la física matemática era más exacta que las teorías de tipo sociológico o psicológico. Así, lo que me preocupaba no era el problema de la verdad, en esta etapa al menos, ni el problema de la exactitud o mensurabilidad. Era más bien el hecho de que sentía que esas tres teorías, aunque se presentaban como ciencias, de hecho, tenían más elementos en común con los mitos primitivos que con la ciencia; que se asemejaban a la astrología más que a la astronomía.\n\nMe pareció que el elemento más característico de esa situación era la incesante corriente de confirmaciones y observaciones que «verificaban» las teorías en cuestión; y este aspecto era constantemente destacado por sus adherentes. Un marxista no podía abrir un periódico sin hallar en cada página pruebas confirmatorias de su interpretación de la historia; no solamente en las noticias, sino también en su presentación —que revelaba el sesgo clasista del periódico— y, especialmente, por supuesto, en lo que el periódico no decía. Los analistas freudianos subrayaban que sus teorías eran constantemente verificadas por sus «observaciones clínicas». Sin embargo, en resumen, el criterio fundamental para establecer el estatus científico de una teoría es su refutabilidad o su testabilidad, y los tres casos anteriores no cumplen con tal requisito.\n\nPopper, K. (1991). Conjeturas y refutaciones. El desarrollo del conocimiento científico. Barcelona: Paidós.\n(Texto adaptado)\n",
+    "questions": [
+      {
+        "statement": "La mejor síntesis del texto puede ser planteada en los siguientes términos:",
+        "alternatives": [
+          "A) La teoría de la historia propuesta por Marx es equiparable con la corriente psicoanalítica y la psicología del individuo en virtud de su incapacidad para ser cuestionada; por consiguiente, Popper considera pertinente poner al descubierto las evidentes inconsistencias que son encubiertas con datos falsamente corroborados.",
+          "B) Lo que define a una teoría científica y permite diferenciarla de un cuerpo pseudocientífico de conocimientos es su capacidad para ser refutada; en tal sentido, la teoría marxista, el psicoanálisis y la psicología del individuo quedan excluidas de ser consideradas propuestas científicas, a diferencia de la teoría Einsteiniana.",
+          "C) Es evidente que las tres teorías más reputadas del siglo XX presentaban demasiados escollos insalvables que fueron puestos al descubierto por Popper, aunque se presentaban como ciencias, tenían más elementos en común con los mitos primitivos que con la ciencia; además, se asemejaban a la astrología más que a la astronomía.",
+          "D) La revolución producida después del derrumbe del Imperio austríaco devino en un conjunto de lemas e ideas revolucionarias, y de nuevas y a menudo audaces teorías. Entre las teorías interesantes, además de la teoría de Einstein, se valoraban la teoría de la historia de Marx, el psicoanálisis de Freud y la llamada «psicología del individuo».",
+          "E) En rigor, no es un problema real la determinación de que la teoría de Einstein es verdadera, de manera que las objeciones que se erigen entorno de la propuesta de Marx sobre la historia, el psicoanálisis de Freud y la psicología del individuo de Adler está orientada a otros aspectos débiles que estos marcos de conocimiento evidencian internamente."
+        ],
+        "correct": 1,
+        "rationale": "El tema central del texto es el criterio de falsabilidad popperiano y su inaplicabilidad a tres propuestas acientíficas que granjeó muchos seguidores en la primera mitad del siglo XX. En tal sentido, el mejor resumen del texto debe desarrollar la refutabilidad a través de una idea."
+      },
+      {
+        "statement": "En el texto, la expresión TOMAR LA FORMA SIMPLE connota",
+        "alternatives": [
+          "A) consciencia.",
+          "D) impugnación.",
+          "B) refutación.",
+          "E) ignorancia.",
+          "C) desconfianza."
+        ],
+        "correct": 4,
+        "rationale": "Tomar la forma simple se refiere al acto de formular potenciales problemas epistemológicos. Por consiguiente,"
+      },
+      {
+        "statement": "El autor sostiene que\n\nlos marxistas detectaban abundante evidencia que\ncorroboraba los asertos fundamentales de su propuesta. Sobre el particular, sería\nincompatible sostener que",
+        "alternatives": [
+          "A) tales casos hacían del marxismo una corriente científica de poder predictivo.",
+          "B) la propuesta como explicación plausible era defendida de manera dogmática.",
+          "C) Popper recelaba, a pesar de su entusiasmo inicial, sobre su carácter científico.",
+          "D) la actitud de estos evidenciaba una sobrevaloración de la presunta evidencia.",
+          "E) esta era consistente en apariencia, pues el marxismo carecía de refutabilidad."
+        ],
+        "correct": 0,
+        "rationale": "En principio, la conclusión de Popper es que el marxismo no es ciencia. En tal sentido, pensar en su poder predictivo es inatingente."
+      },
+      {
+        "statement": "Se deduce del texto que una propuesta cuyos postulados principales carezcan de\n\npasibilidad para ser testeados sería recusada por el autor, porque",
+        "alternatives": [
+          "A) algunos detractores se percatarían de su falta de sistematicidad.",
+          "B) sus predicciones más rigurosas dejarían insatisfecho a su creador.",
+          "C) carecería de capacidad para emparejarse con abundante evidencia.",
+          "D) incumple con la condición necesaria para ser considerada científica.",
+          "E) se aproximaría a la condición de verdad de la teoría Einsteiniana."
+        ],
+        "correct": 3,
+        "rationale": "La refutabilidad o testabilidad es necesaria para que una propuesta sea considerada científica según Popper."
+      },
+      {
+        "statement": "Si la propuesta psicoanalítica fuese un marco refutable de conocimientos,",
+        "alternatives": [
+          "A) resolvería las dificultades sociales de mayor urgencia.",
+          "B) sería considerado una ciencia en el sentido popperiano.",
+          "C) desecharía la validez científica de la psicología de Adler.",
+          "D) presentaría hipótesis cuyo valor superaría al de Einstein.",
+          "E) serían rechazadas por la ciencia matemática de Marx."
+        ],
+        "correct": 1,
+        "rationale": "La condición para que una propuesta sea científica es su refutabilidad."
+      }
+    ]
+  },
+  {
+    "type": "reading_comprehension",
+    "statement": "SECCIÓN B\n\nEl hombre es ante todo un animal social. La vida humana, tal y como la entendemos hoy, sería imposible si los otros no existieran. No solo la vida del adulto aislado sería difícil de concebir, sino que la del niño sería inimaginable. Casos como la historia de Robinson Crusoe, el personaje de la famosa novela de Daniel Defoe que sobrevive solo durante años en una isla antes de encontrar a «Viernes», exemplifican la necesidad que tenemos de los otros y la precariedad de la vida de un hombre solo. Robinson además puede sobrevivir porque ha adquirido previamente todas las capacidades del adulto e incluso ha conservado muchas de las producciones de la sociedad, a través de los restos salvados en el naufragio. En el caso del niño, el aislamiento tiene efectos más patéticos todavía, porque no puede llegar a desarrollarse y convertirse en un adulto sin el concurso de otros adultos; pero, además, la investigación reciente ha mostrado que la compañía y el cariño de los otros es algo tan necesario para el desarrollo como la alimentación, y que, por tanto, se encuentra entre las necesidades básicas.\n\nEn la mitología y la literatura hay historias sobre niños que se han criado en aislamiento, como Rómulo y Remo, los fundadores mitológicos de Roma, quienes sobrevivieron gracias a los cuidados de una loba. Esas historias ponen de manifiesto precisamente lo excepcional o milagroso de esas situaciones. En épocas más recientes se han ido recogiendo casos de «niños lobos», «niños selváticos», seres con profundas privaciones sociales, situados entre los hombres y los animales.\n\nGran parte del éxito adaptativo del hombre, hay que atribuirlo, sin duda, a su gran capacidad para cooperar (y quizás también para competir de una manera positiva) con otros hombres. El ser humano no solo puede vivir como sus parientes animales con congéneres en grupos, sino que puede cooperar estrechamente con otros en la realización de tareas y, además, puede mantener vínculos sociales a lo largo de grandes periodos de tiempo y con individuos que están alejados. Su capacidad social se apoya, en este caso, en su desarrollo intelectual y, a la vez, la conexión entre ambas es muy estrecha. Podemos pensar que el desarrollo social y las relaciones con otros hacen posible la asimilación de la cultura, y contribuyen poderosamente al desarrollo intelectual, pero a su vez este es el que hace posible el mantenimiento de relaciones sociales muy extensas en un marco que desborda, completamente, las relaciones inmediatas.\n\nDelval, J. (2008). El desarrollo humano. España: Siglo XXI. (Texto editado pp. 179-180)\n\n1. En última instancia, el autor del texto sostiene que\n\nA) el progreso del ser humano fue propiciado por su desarrollo social e intelectual.\nB) las relaciones sociales han sido determinantes para el desarrollo intelectual.\nC) la cultura ha dotado al hombre de la capacidad para poder adaptarse con éxito.\nD) el ser humano no ha perdido su instinto animal para lograr subsistir en grupo.\nE) el aprendizaje del ser humano se halla modulado por el contexto sociocultural.\n\nSolución:\n\nAl final del texto, el autor concluye que el ser humano logra adaptarse y por tanto progresa debido a su capacidad social y desarrollo intelectual, estas son su sustento.\n\nRpta.: A\n\n2. En el texto, el término PATÉTICO alude a\n\nA) un momento triste.\nC) una situación lamentable.\nE) un suceso ridículo.\n\nB) la mala fortuna.\nD) una carencia afectiva.\n\nSolución:\n\nEn entorno sociales sumamente importante no solo para el adulto, sino aún más para el niño, pues este en aislamiento experimentaría efectos patéticos, pues no podría desarrollarse. En este caso, el término patético alude a situación lamentable.\n\nRpta.: C\n\n3. Resulta incompatible con el texto afirmar que el desarrollo social del hombre ha sido contraproducente para su desarrollo intelectual, debido a que\n\nA) desde que es un niño requiere de la compañía de adultos.\nB) algunos niños criados en aislamiento han podido sobrevivir.\nC) ambos carecen de relación alguna en el proceso adaptativo.\nD) aquel ha sido muy favorable para el afianzamiento de este.\nE) este ha progresado al margen de cualquier factor social.\n\nSolución:\n\nEntre el desarrollo social y el desarrollo intelectual hay una relación recíproca, pues el primero ha promovido el desarrollo firme del segundo y, a la vez, este ha permitido que se mantengan y amplíen las relaciones sociales.\n\nRpta.: D\n\n4. Del texto se desprende que el autor cita a «Robinson Crusoe» para\n\nA) argüir que los niños necesitan de los adultos para aprender.\nB) poner en tela de juicio la condición social del ser humano.\nC) ejemplificar cómo el aprendizaje social permite subsistir.\nD) destacar la importancia de la narrativa de Daniel Defoe.\nE) desmitificar la idea de que el hombre es un animal social.\n\nSolución:\n\nEl autor cita a este personaje para ejemplificar a través de él la importancia del contacto social que tuvo este hombre para, luego del naufragio, poder adaptarse a la soledad y lograr la subsistencia.\n\nRpta.: C\n\n5. Si los personajes míticos Rómulo y Remo hubiesen sido cuidados por seres humanos,\n\nA) ninguno de ellos habría podido fundar la ciudad romana.\nB) su historia no sería apreciada como algo sobrenatural.\nC) ambos habrían podido subsistir a pesar del aislamiento.\nD) serían seres ordinarios como el resto de las personas.\nE) habrían adquirido capacidades sociales e intelectivas.\n\nSolución:\n\nEs innegable que el hombre por naturaleza es un ser social y que esto le haya permitido desarrollarse y progresar. Por eso, las historias míticas, como las de Rómulo y Remo criados por animales resultan excepcionales o milagrosas, pues transgreden lo natural.\n\nRpta.: B\n\nAdemás de la estructura mental propia de su estadio, el alumno trae conocimientos previos como resultado de experiencias educativas anteriores vividas en la escuela o fuera de ella. Crear las condiciones para que los nuevos conocimientos se «enganchen» con los previos es uno de los supuestos para que, junto con la motivación y el material sustantivo (no arbitrario), se dé el aprendizaje significativo propuesto por Ausubel. El rasgo central de la teoría de Ausubel es, precisamente, el del «aprendizaje significativo», por contraposición al aprendizaje memorístico.\n\nLa adquisición de la nueva información que se da en el aprendizaje significativo es un proceso que depende, en forma principal, de las ideas relevantes que posee el sujeto y cómo las tiene estructuradas, y se produce a través de la interacción entre estas y la nueva información. El resultado de esa interacción es una asimilación entre los viejos y los nuevos significados para formar una estructura cognoscitiva más altamente diferenciada. La interacción entre los nuevos conceptos y los ya existentes se realiza siempre de forma transformadora y el producto final supone una modificación, tanto de las nuevas ideas aprendidas como de las ya existentes. Por ejemplo, en el estudio de formas de gobierno, los alumnos conocen mejor las características de los gobiernos autoritarios al conocer con claridad las de los gobiernos democráticos. Así podrían establecer sus diferencias y lograrían un mejor conocimiento de ambos.",
+    "questions": [
+      {
+        "statement": "En última instancia, el autor del texto sostiene que",
+        "alternatives": [
+          "A) el progreso del ser humano fue propiciado por su desarrollo social e intelectual.",
+          "B) las relaciones sociales han sido determinantes para el desarrollo intelectual.",
+          "C) la cultura ha dotado al hombre de la capacidad para poder adaptarse con éxito.",
+          "D) el ser humano no ha perdido su instinto animal para lograr subsistir en grupo.",
+          "E) el aprendizaje del ser humano se halla modulado por el contexto sociocultural."
+        ],
+        "correct": 0,
+        "rationale": "Al final del texto, el autor concluye que el ser humano logra adaptarse y por tanto progresa debido a su capacidad social y desarrollo intelectual, estas son su sustento."
+      },
+      {
+        "statement": "En el texto, el término PATÉTICO alude a",
+        "alternatives": [
+          "A) un momento triste.",
+          "C) una situación lamentable.",
+          "E) un suceso ridículo.",
+          "B) la mala fortuna.",
+          "D) una carencia afectiva."
+        ],
+        "correct": 2,
+        "rationale": "En entorno sociales sumamente importante no solo para el adulto, sino aún más para el niño, pues este en aislamiento experimentaría efectos patéticos, pues no podría desarrollarse. En este caso, el término patético alude a situación lamentable."
+      },
+      {
+        "statement": "Resulta incompatible con el texto afirmar que el desarrollo social del hombre ha sido contraproducente para su desarrollo intelectual, debido a que",
+        "alternatives": [
+          "A) desde que es un niño requiere de la compañía de adultos.",
+          "B) algunos niños criados en aislamiento han podido sobrevivir.",
+          "C) ambos carecen de relación alguna en el proceso adaptativo.",
+          "D) aquel ha sido muy favorable para el afianzamiento de este.",
+          "E) este ha progresado al margen de cualquier factor social."
+        ],
+        "correct": 3,
+        "rationale": "Entre el desarrollo social y el desarrollo intelectual hay una relación recíproca, pues el primero ha promovido el desarrollo firme del segundo y, a la vez, este ha permitido que se mantengan y amplíen las relaciones sociales."
+      },
+      {
+        "statement": "Del texto se desprende que el autor cita a «Robinson Crusoe» para",
+        "alternatives": [
+          "A) argüir que los niños necesitan de los adultos para aprender.",
+          "B) poner en tela de juicio la condición social del ser humano.",
+          "C) ejemplificar cómo el aprendizaje social permite subsistir.",
+          "D) destacar la importancia de la narrativa de Daniel Defoe.",
+          "E) desmitificar la idea de que el hombre es un animal social."
+        ],
+        "correct": 2,
+        "rationale": "El autor cita a este personaje para ejemplificar a través de él la importancia del contacto social que tuvo este hombre para, luego del naufragio, poder adaptarse a la soledad y lograr la subsistencia."
+      },
+      {
+        "statement": "Si los personajes míticos Rómulo y Remo hubiesen sido cuidados por seres humanos,",
+        "alternatives": [
+          "A) ninguno de ellos habría podido fundar la ciudad romana.",
+          "B) su historia no sería apreciada como algo sobrenatural.",
+          "C) ambos habrían podido subsistir a pesar del aislamiento.",
+          "D) serían seres ordinarios como el resto de las personas.",
+          "E) habrían adquirido capacidades sociales e intelectivas."
+        ],
+        "correct": 1,
+        "rationale": "Es innegable que el hombre por naturaleza es un ser social y que esto le haya permitido desarrollarse y progresar. Por eso, las historias míticas, como las de Rómulo y Remo criados por animales resultan excepcionales o milagrosas, pues transgreden lo natural."
+      }
+    ]
+  },
+  {
+    "type": "reading_comprehension",
+    "statement": "Además de la estructura mental propia de su estadio, el alumno trae conocimientos previos como resultado de experiencias educativas anteriores vividas en la escuela o fuera de ella. Crear las condiciones para que los nuevos conocimientos se «enganchen» con los previos es uno de los supuestos para que, junto con la motivación y el material sustantivo (no arbitrario), se dé el aprendizaje significativo propuesto por Ausubel. El rasgo central de la teoría de Ausubel es, precisamente, el del «aprendizaje significativo», por contraposición al aprendizaje memorístico.\n\nLa adquisición de la nueva información que se da en el aprendizaje significativo es un proceso que depende, en forma principal, de las ideas relevantes que posee el sujeto y cómo las tiene estructuradas, y se produce a través de la interacción entre estas y la nueva información. El resultado de esa interacción es una asimilación entre los viejos y los nuevos significados para formar una estructura cognoscitiva más altamente diferenciada. La interacción entre los nuevos conceptos y los ya existentes se realiza siempre de forma transformadora y el producto final supone una modificación, tanto de las nuevas ideas aprendidas como de las ya existentes. Por ejemplo, en el estudio de formas de gobierno, los alumnos conocen mejor las características de los gobiernos autoritarios al conocer con claridad las de los gobiernos democráticos. Así podrían establecer sus diferencias y lograrían un mejor conocimiento de ambos.\n\nBonvecchio de Aruani, M (2006). Evaluación de los aprendizajes. Argentina: Novedades Educativas. (Texto editado pp. 37-38)",
+    "questions": [
+      {
+        "statement": "En el texto, el término SUSTANTIVO implica",
+        "alternatives": [
+          "A) idoneidad.",
+          "D) abundancia.",
+          "B) superficialidad.",
+          "E) complejidad.",
+          "C) controversia."
+        ],
+        "correct": 0,
+        "rationale": "En el aprendizaje significativo es importante que el alumno se halle motivado, además de contar con el material sustantivo para facilitar su aprendizaje. Entonces, se entiende por SUSTANTIVO «aquello que es adecuado y apropiado para algo», por tanto, implica IDONEIDAD."
+      },
+      {
+        "statement": "De la imagen del texto se puede afirmar que esos escolares",
+        "alternatives": [
+          "A) forman parte del enfoque de aprendizaje significativo.",
+          "B) se hallan dentro de la enseñanza de tipo memorístico.",
+          "C) carecen de los conocimientos previos para aprender.",
+          "D) se hallan motivados, pero no lograron concentrarse.",
+          "E) tuvieron una ardua jornada sobre una sola asignatura."
+        ],
+        "correct": 1,
+        "rationale": "En la imagen se ejemplifica una clase basada en el modelo memorista, en el cual los alumnos asumen un rol pasivo para retener datos. Así como llegaron conversaron, se retiran hablando de lo mismo."
+      },
+      {
+        "statement": "Del texto se desprende que el aprendizaje significativo",
+        "alternatives": [
+          "A) es indiscernible de la enseñanza memorística.",
+          "B) omite recurrir a los saberes previos del alumno.",
+          "C) corresponde a la teoría propuesta por Ausubel.",
+          "D) prioriza el uso idóneo de estrategias didácticas.",
+          "E) es un proceso reconstructivo del conocimiento."
+        ],
+        "correct": 4,
+        "rationale": "En el aprendizaje significativo, los nuevos conceptos y los ya existentes generan transformaciones en el conocimiento, lo cual conlleva a modificaciones para ambos. Por lo tanto, es un proceso reconstructivo del conocimiento."
+      },
+      {
+        "statement": "Si un docente explicara los rasgos de los gobiernos autoritarios a alumnos que desconocen las características de los democráticos,",
+        "alternatives": [
+          "A) sería muy probable que estos aprendan mejor los tipos de gobiernos.",
+          "B) estos podrían investigar sobre la democracia para mejorar su aprendizaje.",
+          "C) sería infructuosa su clase, pues sus receptores carecen de datos necesarios.",
+          "D) se trataría de una enseñanza enfocada en el marco teórico de Ausubel.",
+          "E) carecería de relevancia la información previa para asimilar nuevos saberes."
+        ],
+        "correct": 2,
+        "rationale": "Al enseñar las formas de gobierno, los alumnos pueden aprender mejor qué es un gobierno autoritario si conoce con claridad qué es un gobierno democrático. Además, al relacionar ambos tipos de gobierno, los alumnos logran un mejor conocimiento de ambos."
+      }
+    ]
+  },
+  {
+    "type": "reading_comprehension",
+    "statement": "La mayoría de experimentos realizados en animales no tienen finalidad biomédica; es decir, no buscan obtener mejoras en la salud humana. En algunos casos se trata de pruebas de impacto medioambiental de productos químicos. En otros se trata de pruebas de seguridad de productos cosméticos o del hogar. En otras ocasiones se emplea a animales no humanos en la investigación militar. Esto revela que es irrelevante o nulo el beneficio que los seres humanos pueden recibir por estas prácticas. Pese a ello, se somete a un gran número de animales a daños graves. Ahora bien, razonar éticamente requiere rechazar toda forma de discriminación basada en características de los individuos que no tienen que ver con su capacidad para ser dañados o beneficiados. No tener en cuenta los daños que los animales padecen en estos experimentos, o darles una menor importancia, simplemente porque no pertenecen a la especie humana, es un tipo de discriminación arbitraria, el especismo. Del mismo modo que no respetar a alguien por su color de piel o su género está injustificado, también lo está no respetar su especie. La experimentación con animales con fines medioambientales, cosméticos o militares debe ser, por lo tanto, rechazada. Afortunadamente, parte de estas prácticas ya están siendo prohibidas en algunos ordenamientos jurídicos, como es el caso de la experimentación para productos cosméticos en la Unión Europea o India.\n\nPaez, E. (2017). «¿Es la experimentación animal?». En El diario. Recuperado de <https://www.eldiario.es/caballodenietzsche/justificable-experimentacion-animal_6_602699753.html>. (Texto editado)\n\njustificable\n\nLa experimentación en animales se lleva a cabo para mejorar la vida humana. Este\ntipo de investigaciones ha permitido que se descubran maneras de curar enfermedades,\nmejorar sus condiciones de vida y prolongar la vida del ser humano. En la medicina, se\nusan animales para probar medicamentos antes de ser probados en humanos. Para esto,\nlos animales son enfermados para poder observar los efectos de algún fármaco. Si bien,\nalgunas personas ven esta práctica como inhumana, conlleva menos problemas éticos\nque probar nuevos fármacos en humanos, donde se puede incluso causar la muerte al\nvoluntario. La experimentación en animales ha coadyuvado a la creación de vacunas, el\ndesarrollo de los trasplantes, la fabricación de productos cosméticos sin toxicidad para el\nuso humano, incluso en periodos de guerra han sido muy útiles para no exponer vidas de\nsoldados. Por tanto, prohibir la experimentación con animales pondría en grave riesgo al\nhombre, ya que a partir de los resultados de la investigación con modelos animales se\npuede contar con información necesaria para diseñar pruebas médicas, cosméticas o de\ncualquier aspecto que involucre la vida humana.\n\nMomox Beristain, L. (2011). «Importancia, beneficios y ética de la experimentación animal». En\nBioéticablog. Recuperado de <http://experimentaciondhtic.blogspot.com/2011/12/importancia-beneficios-y-\netica-de-la.html>. (Texto editado)\n\n1. En última instancia, ambos textos (Ay B) tratan sobre\n\nA) la permisibilidad de la experimentación en animales.\nB) los problemas éticos en la utilización de animales.\nC) los diversos fines de la experimentación animal.\nD) la inviabilidad de la experimentación en animales.\nE) la discriminación arbitraria en experimentos animales.\n\nSolución:\n\nAmbos textos centran su discurso entorno a la experimentación en animales. No\nobstante, cada uno sostiene su punto de vista entorno a su aplicación.\n\nRpta.: A\n\n2. En el texto A, el sinónimo contextual del término SOMETER es\n\nA) obedecer.\nD) dominar.\n\nB) exponer. C) presionar.\nE) predestinar.\n\nSolución:\n\nSe sostiene que muchos animales son sometidos a daños muy graves. Se entiende\nque estos animales son expuestos a estas situaciones.\n\nRpta.: B\n\n3. Para el texto A, la experimentación en animales\nA) es una actividad que busca salvaguardar la integridad de estos.\nB) ha brindado resultados provechosos para la salud cosmética.\nC) debe ser permitida en las investigaciones del ámbito castrense.\nD) resulta muy útil para el ser humano, al margen del aspecto moral.\nE) debe estar prohibida, debido a nuestra condición de seres éticos.\n\nSolución:\n\nEl texto A sostiene que nuestro razonamiento ético debe conducirnos a repudiar La\nexperimentación con animales.\n\nRpta.: E\n\n4. Es posible inferir que ambos textos (Ay B) coinciden en reconocer\n\nA) la urgencia de prohibir legalmente cualquier tipo de abuso animal.\nB) el trasfondo del razonamiento ético en defensa de la vida animal.\nC) la utilidad de la experimentación animal en el área de la medicina.\nD) la necesidad de buscar otros seres para experimentar con ellos.\nE) el desarrollo militar logrado, gracias a la experimentación animal.\n\nSolución:\n\nEl autor del texto A sostiene que debe prohibirse la experimentación animal en\nasuntos medioambientales, cosméticos o militares, mas no en área médica. Y el\nautor del texto B la defiende en todos los aspectos.\n\nRpta.: C\n\n5. Si las leyes solo permitieran la experimentación en animales con fines biomédicos,\n\nA) las investigaciones cosméticas, militares o medioambientales omitirían emplear\nanimales.\n\nB) los fármacos nuevos tendrían que ser probados en personas que padecen una\nenfermedad.\n\nC) el uso de cerdos para ensayos de vacunas o trasplantes de órganos sería\npenalizado.\n\nD) las polémicas éticas entorno a la manipulación de animales habrían llegado a su\nfin definitivo.\n\nE) al fin se habría razonado éticamente en beneficio de la integridad física que\nestos merecen.\n\nSolución:\n\nAl haber un marco legal sobre la experimentación con animales, se regularía su\npráctica. Como es el caso de la Unión Europea y la India, según el texto A.\n\nRpta.: A",
+    "questions": [
+      {
+        "statement": "En última instancia, ambos textos (Ay B) tratan sobre",
+        "alternatives": [
+          "A) la permisibilidad de la experimentación en animales.",
+          "B) los problemas éticos en la utilización de animales.",
+          "C) los diversos fines de la experimentación animal.",
+          "D) la inviabilidad de la experimentación en animales.",
+          "E) la discriminación arbitraria en experimentos animales."
+        ],
+        "correct": 0,
+        "rationale": "Ambos textos centran su discurso entorno a la experimentación en animales. No obstante, cada uno sostiene su punto de vista entorno a su aplicación."
+      },
+      {
+        "statement": "En el texto A, el sinónimo contextual del término SOMETER es",
+        "alternatives": [
+          "A) obedecer.",
+          "D) dominar.",
+          "B) exponer.",
+          "C) presionar.",
+          "E) predestinar."
+        ],
+        "correct": 1,
+        "rationale": "Se sostiene que muchos animales son sometidos a daños muy graves. Se entiende que estos animales son expuestos a estas situaciones."
+      },
+      {
+        "statement": "Para el texto A, la experimentación en animales",
+        "alternatives": [
+          "A) es una actividad que busca salvaguardar la integridad de estos.",
+          "B) ha brindado resultados provechosos para la salud cosmética.",
+          "C) debe ser permitida en las investigaciones del ámbito castrense.",
+          "D) resulta muy útil para el ser humano, al margen del aspecto moral.",
+          "E) debe estar prohibida, debido a nuestra condición de seres éticos."
+        ],
+        "correct": 4,
+        "rationale": "El texto A sostiene que nuestro razonamiento ético debe conducirnos a repudiar La experimentación con animales."
+      },
+      {
+        "statement": "Es posible inferir que ambos textos (Ay B) coinciden en reconocer",
+        "alternatives": [
+          "A) la urgencia de prohibir legalmente cualquier tipo de abuso animal.",
+          "B) el trasfondo del razonamiento ético en defensa de la vida animal.",
+          "C) la utilidad de la experimentación animal en el área de la medicina.",
+          "D) la necesidad de buscar otros seres para experimentar con ellos.",
+          "E) el desarrollo militar logrado, gracias a la experimentación animal."
+        ],
+        "correct": 2,
+        "rationale": "El autor del texto A sostiene que debe prohibirse la experimentación animal en asuntos medioambientales, cosméticos o militares, mas no en área médica. Y el autor del texto B la defiende en todos los aspectos."
+      },
+      {
+        "statement": "Si las leyes solo permitieran la experimentación en animales con fines biomédicos,",
+        "alternatives": [
+          "A) las investigaciones cosméticas, militares o medioambientales omitirían emplear animales.",
+          "B) los fármacos nuevos tendrían que ser probados en personas que padecen una enfermedad.",
+          "C) el uso de cerdos para ensayos de vacunas o trasplantes de órganos sería penalizado.",
+          "D) las polémicas éticas entorno a la manipulación de animales habrían llegado a su fin definitivo.",
+          "E) al fin se habría razonado éticamente en beneficio de la integridad física que estos merecen."
+        ],
+        "correct": 0,
+        "rationale": "Al haber un marco legal sobre la experimentación con animales, se regularía su práctica. Como es el caso de la Unión Europea y la India, según el texto A."
+      }
+    ]
+  }
+]

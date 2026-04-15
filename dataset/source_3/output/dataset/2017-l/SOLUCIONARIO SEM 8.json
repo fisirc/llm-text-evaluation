@@ -1,0 +1,224 @@
+[
+  {
+    "type": "reading_comprehension",
+    "statement": "Michelangelo Buonarroti (1475 -1564) fue un reconocido pintor, escultor y arquitecto italiano de estilo renacentista. Es tenido como uno de los más grandes artistas de la historia tanto por sus esculturas como por sus pinturas y obra arquitectónica. Desarrolló su labor artística a lo largo de más de setenta años entre Florencia y Roma, que era donde vivían sus grandes mecenas, la familia Médici de Florencia y los diferentes papas romanos.",
+    "questions": [
+      {
+        "statement": "Se colige del texto que Michelangelo Buonarroti",
+        "alternatives": [
+          "A) era un artista muy opulento.",
+          "B) vivió ochenta y nueve años.",
+          "C) fue un escritor renacentista.",
+          "D) fue un artista monofacético.",
+          "E) radicó solamente en Roma."
+        ],
+        "correct": 1,
+        "rationale": "En el texto se expone el año de nacimiento de Michelangelo Buonarroti y también el año de fallecimiento. La resta de ambos años arroja el tiempo que vivió."
+      }
+    ]
+  },
+  {
+    "type": "reading_comprehension",
+    "statement": "«Lo de Delpo es muy impresionante. Cuando jugué contra él a principios de este año noté que algo había cambiado en su juego, que había cambiado su revés, que le pegaba con efecto slice, cortando más la pelota. Es interesante ver cómo adaptó su juego después de la cirugía. Es el típico jugador que vale mucho más que su puesto en el ranking. Creo que hay 50 y 50 de chances. Por cómo está jugando Del Potro, Argentina tiene una chance de ganar por primera vez la Copa Davis. Aunque no se debe minimizar a Croacia », expresó Roger Federer, el ex número uno del tenis.",
+    "questions": [
+      {
+        "statement": "Se infiere de la cita textual que la intención principal de Federer es",
+        "alternatives": [
+          "A) elogiar el progreso de salud y deportivo del tenista argentino Del Potro.",
+          "B) sugerir más concentración en sus duelos al tenista argentino Del Potro.",
+          "C) querer imitar el slice del tenista Del Potro en sus duelos por Copa Davis.",
+          "D) anunciar su retiro permanente de las competiciones mundiales de tenis.",
+          "E) pronosticar qué país va a ser el próximo campeón de la Copa Davis."
+        ],
+        "correct": 0,
+        "rationale": "Principalmente, Roger Federer señala que Del Potro ha mejorado su forma de jugar el tenis luego de haber sido operado, de manera que tiene chances de ganar la Copa Davis."
+      }
+    ]
+  },
+  {
+    "type": "reading_comprehension",
+    "statement": "Casi un 35% de peruanos no ingiere los requerimientos calóricos mínimos, según el Programa de las Naciones Unidas para el Desarrollo (PNUD). En el 2004, el promedio nacional de déficit calórico en todas las edades fue de 32.3%, mientras que en el 2010 este indicador alcanzó el 28.4%. Igualmente, el sistema de salud en el país agoniza. Según el estándar de la Organización Mundial de la Salud (OMS), el nivel de atención debe ser de un médico para mil habitantes, pero  en el Perú es un galeno por diez mil pobladores. Por otro lado, cualquier actividad económica requiere una red básica de obras y servicios que la soporte. A esa red se le denomina infraestructura. En este caso, el Perú está bastante atrasado en su desarrollo. El Perú debe invertir casi US$160 mil millones en los próximos 10 años para acercarse a niveles de los países de la Organización para la Cooperación y el Desarrollo Económico (OCDE). Pero el problema no es solo la cantidad. De acuerdo con el Foro Económico Mundial, la calidad de la infraestructura en el Perú está por debajo de la mayoría de países de la región. De la misma forma, si bien Perú está cada vez más cerca de lograr la universalización de la educación primaria, el problema educativo más grave que afecta a las niñas y niños del Perú es el bajo nivel existente de comprensión lectora y razonamiento matemático. De acuerdo con la Evaluación Censal de Estudiantes (ECE), en el año 2007, apenas el 15,9% de las niñas y niños de segundo grado de educación primaria alcanzó un nivel de desempeño suficiente en comprensión de textos, mientras que en matemáticas lo hizo el 7,2%. Para el año 2013, estos valores fueron de 33% en comprensión lectora y 16.8% en matemáticas.",
+    "questions": [
+      {
+        "statement": "Se infiere de la lectura que el tema central del texto es",
+        "alternatives": [
+          "A) los distintos problemas sociales del Perú.",
+          "B) las deudas urgentes del gobierno peruano.",
+          "C) las diversas causas de la pobreza en Perú.",
+          "D) los indicadores del subdesarrollo en el Perú.",
+          "E) los severos problemas económicos del Perú."
+        ],
+        "correct": 3,
+        "rationale": "El texto expone diferentes datos numéricos de los diversos problemas que afronta Perú, de modo que el tema que unifica el texto tiene que ver con su desarrollo deficitario."
+      }
+    ]
+  },
+  {
+    "type": "reading_comprehension",
+    "statement": "La Administración Electrónica (E -Administración) hace referencia a la incorporación de las nuevas tecnologías de la información y la comunicación o TIC en las administraciones públicas, logrando una total transformación y modernización de la propia administración. La administración precursora de este gran cambio en España fue la Administración Tributaria, extendiéndose actualmente en diferentes administraciones públicas, tanto a nivel nacional como de Comunidades Autónomas así como provinciales e incluso municipales, desarrollando programas de mejora a través de las oficinas virtuales que ofrecen información y trámites por vía electrónica. Por ello hay que mencionar el Plan de Transformación Digital de la Administración General del Estado y sus organismos públicos (estrategia TIC 2015 -2020) cuya estrategia principal es la implantación y transformación digital de las administraciones públicas antes de 2020, consiguiendo así un modelo de prestación de servicios administrativos más racional que facilite la constancia de documentos y actuaciones a través del archivo electrónico. Otra de las novedades es la implantación del sistema de notificación electrónica a través de las sedes electrónicas o por medio de una dirección electrónica habilitada, que facilita el acceso a las notificaciones sin necesidad de trasladarse a las diferentes instituciones o sedes de la administración pública.",
+    "questions": [
+      {
+        "statement": "4. Se deduce que la implementación de la E -Administración en un país conducirá",
+        "alternatives": [
+          "A) a la nula comisión de errores en la administración pública estatal.",
+          "B) al despido cabal de los administradores públicos de cualquier país.",
+          "C) a reducir notoriamente el uso de papel en la administración pública.",
+          "D) a inevitables huelgas de los  administradores por mejoras de sueldo.",
+          "E) al fortalecimiento de las instituciones públicas y privadas del Estado."
+        ],
+        "correct": 2,
+        "rationale": "La E-Administración se basa en el uso de medios computacionales para que los diferentes documentos administrativos circulen en formato digital."
+      }
+    ]
+  },
+  {
+    "type": "reading_comprehension",
+    "statement": "«Ojalá tuviera una cama y una ducha en la oficina», es un deseo que muchos de nosotros hemos tenido después de una larga jornada de trabajo ante la idea de tener que madrugar al día siguiente. Pero lo que para la mayoría no pasa de ser una broma o un lamento, para más de 100 empleados del aeropuerto internacional de Los Ángeles (LAX) se convirtió en realidad. Y las autoridades del aeródromo lo permitieron. Los más de 100 empleados se quedaron a vivir en el estacionamiento del aeropuerto en casas rodantes y pagan menos de US$100 al mes por quedarse ahí. Hay pilotos, copilotos, asistentes de vuelo, mecánicos, trabajador es de las empresas de carga de mercancías y personal que trabaja en el aeropuerto. «Este es el precio de ser piloto hoy día», le dice Todd a BBC Mundo, un hombre de 45 años que trabaja para la aerolínea Alaska Airlines. Su esposa y su hijo de 7 años viven en Fresno, una ciudad situada a unas 4 horas de Los Ángeles en auto. Y como él son muchos los casos de ese tipo en esa improvisada y pasajera comunidad rodante.",
+    "questions": [
+      {
+        "statement": "5. Se colige plausiblemente del texto que algunos trabajadores del aeropuerto de Los Ángeles optaron por vivir en casas rodantes en el estacionamiento porque",
+        "alternatives": [
+          "A) está prohibido por ley que los empleados vivan en sus propias casas.",
+          "B) el alquiler de vivienda cerca al aeropuerto les resulta bastante costoso.",
+          "C) el estacionamiento del aeropuerto tiene mejor clima que en otros lares.",
+          "D) sus contratos determinan que tienen que alojarse en el estacionamiento.",
+          "E) de esa forma están cumpliendo sus sueños de vivir de manera errante."
+        ],
+        "correct": 1,
+        "rationale": "Según el texto, algunos empleados optaron por vivir en el estacionamiento del Aeropuerto de Los Ángeles porque pagan menos de US$100 al mes, entonces, es plausible inferir que en el alquiler de viviendas cerca al aeropuerto es caro."
+      }
+    ]
+  },
+  {
+    "type": "reading_comprehension",
+    "statement": "El virus zika, originario de África, tiene a las autoridades de Salud atemorizadas. El temor ha llegado al punto de solicitarle a las mujeres evitar quedar embarazadas en estos tiempos por la relación que existe entre la enfermedad que produce el virus y la microcefalia en recién nacidos (reducción del tamaño habitual del cerebro) reportada en Brasil desde octubre 2015.\nLas autoridades sanitarias de Colombia, Honduras y El Salvador han recomendado a sus ciudadanos no concebir un hijo. En Colombia la sugerencia de las autoridades es hasta el mes de julio, mientras que en Honduras y El Salvador la petición es que se eviten los embarazos hasta el 2017. En este último país se han reportado 96 embarazadas con sospecha de que se infectaron con el zika.\nEn Panamá, los primeros casos de enfermos por este virus, transmitido por el mosquito Aedes aegypti, se reportaron desde noviembre 2015 en la comarca Guna Yala.\nSegún informes del Ministerio de Salud (MINSA), desde ese mes y hasta los primeros días de enero, el zika ha afectado a 41 personas en esta comarca. Entre estos infectados hay una mujer embarazada de 22 años.\nPor la relación entre el virus y la microcefalia en recién nacidos de Brasil, el Ministerio de Salud (MINSA) está realizando controles y seguimientos estrictos a las mujeres embarazadas de la comarca Guna Yala.\nDe acuerdo con Israel Cedeño, coordinador nacional de Vigilancia Epidemiológica Internacional, el MINSA está dando atención oportuna de los pacientes sintomáticos. Ciclo Ordinario 2017 -I\n\nAdicionalmente, según Cedeño, se está vigilando a las embarazadas, hay búsquedas febriles, se está haciendo fumigaciones bisemanales y eliminando los criaderos del mosquito.\nLa directora Nacional de Salud, Itza Barahona de Mosca, aseguró que a las féminas en estado de gravidez se les realizará un control prenatal estricto. Barahona de Mosca además dijo que, de ser necesario, se enviará un ginecólogo para que haga el control de la circunferencia cefálica de los infantes concebidos.\nMientras Panamá refuerza sus controles de vigilancia, Estados Unidos y Costa Rica han aconsejado a las mujeres embarazadas no viajar a los 22 países que tienen casos de zika. Esto, a raíz de que en Brasil se reportaron 3 893 casos sospechosos de microcefalia.\nDe este total, en 224 bebés se ha confirmado la relación del zika con la malformación congénita.\nLa Organización Mundial de la Salud (OMS) no ha hecho ninguna recomendación específica, pues considera que los gobiernos pueden tomar las acciones que consideren oportunos.",
+    "questions": [
+      {
+        "statement": "El texto trata fundamentalmente acerca de",
+        "alternatives": [
+          "A) la pandemia del zika en diversas comarcas de Panamá y Brasil.",
+          "B) el ingente número de niños microcefálicos en la comarca de Guna Yala.",
+          "C) las políticas de salud de diversos países de Latinoamérica contra  el zika.",
+          "D) la falta de recursos sanitarios ante el rebrote del zika en Latinoamérica.",
+          "E) la ayuda sanitaria de la OMS a los países afectados por el virus del zika."
+        ],
+        "correct": 2,
+        "rationale": "El texto gira en relación a las medidas que están tomando muchos países americanos ante el incremento de casos de zika en la región."
+      },
+      {
+        "statement": "En el texto, la palabra PETICIÓN significa",
+        "alternatives": [
+          "A) mandato.   ",
+          "B) sugerencia.   ",
+          "C) coacción.",
+          "D) ayuda.   ",
+          "E) información."
+        ],
+        "correct": 1,
+        "rationale": "En el texto se entiende por “petición” a la “sugerencia”, hecha por las autoridades, para evitar embarazos entre la población."
+      },
+      {
+        "statement": "Es compatible aseverar en el texto que la comarca Guna Yala",
+        "alternatives": [
+          "A) ya registra una pandemia implacable.",
+          "B) cuenta con recursos para hacer frente al zika.",
+          "C) carece de apoyo del gobierno panameño.",
+          "D) recibe solo la ayuda sanitaria de la OMS.",
+          "E) es el foco viral originario del virus del zika."
+        ],
+        "correct": 1,
+        "rationale": "En Guna Yala se está vigilando a las embarazadas, hay búsquedas febriles, se está haciendo fumigaciones bisemanales y eliminando los criaderos del mosquito. Por tanto, cuenta con recursos para hacer frente al zika."
+      },
+      {
+        "statement": "Se colige del cuadro que países como Bolivia",
+        "alternatives": [
+          "A) cuenta con políticos  de primer nivel que han podido repeler a este virus.",
+          "B) ya ha reportado una gran cantidad de recién nacidos con microcefalia.",
+          "C) sin medidas preventivas de salud, podría presentar un incremento de casos.",
+          "D) no han implementado ninguna política de salud para contrarrestar el virus.",
+          "E) carecen de recursos económicos para poder combatir correctamente al zika."
+        ],
+        "correct": 2,
+        "rationale": "Al reportar solo un caso de zika, se colige que las autoridades no toman medidas urgentes  de salud como ya las va tomando El Salvador y Honduras."
+      },
+      {
+        "statement": "Si el Perú experimentara un número significativo de recién nacidos microcefálicos, probablemente,",
+        "alternatives": [
+          "A) el gobierno evitaría que todas las mujeres salgan embarazadas.",
+          "B) se trataría de una pandemia que acabaría con muchas vidas.",
+          "C) los científicos peruanos carecerían de medios para una vacuna.",
+          "D) se tomarían políticas de salud similares a otros países de la región.",
+          "E) solicitarán asesoría sanitaria a gobiernos como Brasil y Colombia."
+        ],
+        "correct": 3,
+        "rationale": "De reportarse numerosos caso s de hidrocefalia, el gobierno, posiblemente, tomaría acciones similares a otros países con casos confirmados de zika."
+      }
+    ]
+  },
+  {
+    "type": "reading_comprehension",
+    "statement": "El tiburón de Groenlandia, una especie emblemática del océano Ártico, es el vertebrado más longevo que se conoce , según un estudio científico publicado el pasado viernes en  Science . Este tiburón de crecimiento lento, de más de cinco metros de longitud , tiene una esperanza de vida de un mínimo de 272 años y un máximo de 512 años , según los investigadores, que han analizado 28 hembras de esta especie, conocida científicamente como  Somniosus microcephalus . «Tendemos a pensar que los vertebrados viven aproximadamente tanto como nosotros, súmale  o réstale 50 o 100 años », afirman los investigadores. Sin embargo, un tiburón de Groenlandia actualmente vivo  puede que naciera en el siglo XVI o XVII , mientras que no hay un solo ser humano vivo que haya nacido antes del siglo XX. El método de datación utilizado «hará época », según expresa en un comunicado la Universidad de Copenhague, que participa en la investigación. El equipo de biólogos marinos de la Universidad de Copenhague, dirigido por Julius Nielsen,  ha realizado la datación por radiocarbono del núcleo o parte central del cristalino  (la parte del ojo que permite enfocar los objetos) de cada uno de los 28 ejemplares. « El centro del cristalino no cambia desde el nacimiento del tiburón y por eso la composición química del tejido permite conocer la edad del animal. Utilizamos métodos de datación por radiocarbono, pero combinados de una forma totalmente nueva », declara Nielsen. El estudio también  supone un hito importante en los programas de conservación de esta especie . «Los tiburones de Groenlandia son unos de los tiburones carnívoros más grandes del planeta y su función como superpredador en el ecosistema ártico se ha pasado completamente por alto. Miles de ellos acaban capturados accidentalmente por todo el Atlántico norte,  por lo que  espero que nuestro estudio sirva para prestar una mayor atención a esta especie », concluye Nielsen. NATIONAL GEOGRAPHIC  [en línea]:  El tiburón de Groenlandia es el vertebrado más longevo del planeta. [España]: [Modificado. 10 de marzo de 2017] Disponible en:http://www.nationalgeographic.com.es/naturaleza/actualidad/tiburon -groenlandia -vertebrado -lonuevo - planeta_10608",
+    "questions": [
+      {
+        "statement": "¿Cuál es el tema principal del texto?",
+        "alternatives": [
+          "A) la diferenciación cronológica entre diversos tipos de tiburones.",
+          "B) la caza indiscriminada del tiburón de Groenlandia en el Ártico.",
+          "C) las últimas investigaciones sobre tiburones de Julius Nielsen.",
+          "D) el largo período de vida de algunos tiburones del océano Ártico.",
+          "E) un estudio que revela la longevidad del tiburón de Groenlandia."
+        ],
+        "correct": 4,
+        "rationale": "El texto hace mención a un estudio en donde se demuestra la longevidad del tiburón de Groenlandia, de acuerdo a un estudio de datación por radiocarbono."
+      },
+      {
+        "statement": "2. En el primer párrafo, la palabra EMBLEMÁTICO connota",
+        "alternatives": [
+          "A) sobresaliente.",
+          "B) representatividad.",
+          "C) inconsistencia.",
+          "D) incongruencia.",
+          "E) exactitud."
+        ],
+        "correct": 1,
+        "rationale": "El tiburón de Groenlandia es una especie “emblemática”, esto es, representativa en el océano Ártico."
+      },
+      {
+        "statement": "3. Es compatible con respecto al tiburón de Groenlandia que",
+        "alternatives": [
+          "A) no es de interés científico.",
+          "B) es el tiburón más vetusto.",
+          "C) es víctima de la caza furtiva.",
+          "D) habita en el océano Atlántico.",
+          "E) tiene un crecimiento acelerado."
+        ],
+        "correct": 1,
+        "rationale": "El estudio de Nielsen precisa que el tiburón de Groenlandia es el animal más longevo que se conoce."
+      },
+      {
+        "statement": "4. Se infiere del texto que los estudios de Julius Nielsen",
+        "alternatives": [
+          "A) no considera precisar la datación cronológica del tiburón.",
+          "B) carece de importancia para los estudios sobre escualos.",
+          "C) tiene entre sus objetivos proteger al tiburón de Groenlandia.",
+          "D) favorece solo a los científicos de la Universidad de Copenhague .",
+          "E) no toma en cuenta la prueba de datación por radiocarbono."
+        ],
+        "correct": 2,
+        "rationale": "Se deduce que por el interés suscitado por este tiburón, es importante protegerlo de cualquier peligro que provoque la merma de la especie."
+      },
+      {
+        "statement": "5. Si el estudio en mención no hubiera utilizado la prueba de datación de radiocarbono, probablemente,",
+        "alternatives": [
+          "A) se evidenciaría la antigüedad del tiburón Groenlandia por otros medios.",
+          "B) no se habría determinado la longevidad del tiburón de Groenlandia.",
+          "C) el estudio le habría otorgado la longevidad más larga a otro animal.",
+          "D) se habría utilizado la prueba del carbono catorce en diversos escualos.",
+          "E) la investigación no sería auspiciada por la Universidad de Copenhague."
+        ],
+        "correct": 1,
+        "rationale": "Nielsen declara: “ Utilizamos métodos de datación por radiocarbono, pero  combinados de una forma totalmente nueva ”, probablemente, si no se hubiera utilizado este método innovador, no se hubiera determinado con precisión la longevidad del tiburón de Groenlandia."
+      }
+    ]
+  }
+]

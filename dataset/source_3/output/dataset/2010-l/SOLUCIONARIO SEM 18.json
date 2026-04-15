@@ -1,0 +1,488 @@
+[
+  {
+    "type": "reading_comprehension",
+    "statement": "En el texto se dice que investigó en el gran libro del mundo, es decir, en la naturaleza.",
+    "questions": [
+      {
+        "statement": "Se infiere del texto que para descubrir una ley de la naturaleza se requiere",
+        "alternatives": [
+          "A) enumerar todas las posibles situaciones de gran abstracción.",
+          "B) conciliar hipótesis incompatibles en cuanto a la matemática.",
+          "C) refutar diversas soluciones matemáticas de nivel filosófico.",
+          "D) conjugar el análisis matemático con la experimentación.",
+          "E) confirmar varios enfoques matemáticos de índole paradójica."
+        ],
+        "correct": 3,
+        "rationale": "En el texto se menciona que Descartes estableció diversas soluciones basadas en hipótesis diferentes pero que no llegó a resolverlo porque no conjugaba el análisis matemático con la experimentación, en ese sentido el análisis matemático no basta es necesario establecerla con la ayuda de la experimentación."
+      },
+      {
+        "statement": "Del texto se infiere que Descartes",
+        "alternatives": [
+          "A) el conocimiento evidente.",
+          "B) la geometría analítica.",
+          "C) el método hermenéutico.",
+          "D) el conocimiento místico.",
+          "E) la creencia religiosa."
+        ],
+        "correct": 0,
+        "rationale": "En el texto se dice que Descartes consideraba que debía de dudar metódicamente para llegar a ciertos conocimientos evidentes en sí mismos que le permitiesen reconstruir todas las ciencias. En ese sentido el fundamento de la ciencia radicaría en esos conocimientos evidentes a partir de la cual se la reconstruye."
+      },
+      {
+        "statement": "Se desprende del texto que Descartes",
+        "alternatives": [
+          "A) tenía un interés superficial en las matemáticas.",
+          "B) despreciaba a la metafísica de toda índole.",
+          "C) mostraba interés en varias áreas del saber.",
+          "D) ostentaba un fuerte sentimiento de patriotismo.",
+          "E) disponía escasos conocimientos en geometría."
+        ],
+        "correct": 2,
+        "rationale": "Descartes tuvo interés por la matemática, la filosofía, la física, la psicología moral, la prolongación de la vida, la música; es decir fue una persona multifacética no se intereso sólo por la matemática y la filosofía."
+      }
+    ]
+  },
+  {
+    "type": "reading_comprehension",
+    "statement": "Tiene, a continuación, 15 preguntas sobre el Discurso del método de René Descartes. Antes de elegir la respuesta para cada ítem, rememore la lectura del discurso cartesiano y reflexione entorno a ellas.",
+    "questions": [
+      {
+        "statement": "Si alguien constantemente tomara lo falso por verdadero, según Descartes, ello probaría que",
+        "alternatives": [
+          "A) la búsqueda de la certeza es una tarea inviable.",
+          "B) esa persona carece del denominado buen sentido.",
+          "C) el ideal de la razón tiene muy pocos seguidores.",
+          "D) los seres humanos viven siempre embaucados.",
+          "E) las reglas de la ciencia lógica son del todo infértiles."
+        ],
+        "correct": 1,
+        "rationale": "El buen sentido o razón es la facultad de distinguir lo verdadero de lo falso."
+      }
+    ]
+  },
+  {
+    "type": "sentence_elimination",
+    "statement": "3. Con respecto a la virtud de un orador, se infiere que",
+    "alternatives": [
+      "A) es susceptible de enseñanza.",
+      "B) es una guía para la teoría.",
+      "C) es una habilidad innata.",
+      "D) es imposible sin la retórica.",
+      "E) es ajena a los humanistas."
+    ],
+    "correct": 2,
+    "rationale": "Según Descartes, la elocuencia es un don del espíritu."
+  },
+  {
+    "type": "sentence_elimination",
+    "statement": "4. Resulta incompatible con el pensamiento cartesiano decir que",
+    "alternatives": [
+      "A) saber latín es muy útil para leer libros antiguos.",
+      "B) el campo de la filosofía es el reino de lo debatible.",
+      "C) las matemática s son inútiles en las artes mecánicas.",
+      "D) la memoria es una capacidad importante para pensar.",
+      "E) la cuestión del método es gravitante para las ciencias."
+    ],
+    "correct": 2,
+    "rationale": "Descartes solía pensar que la única utilidad de las matemáticas era en las artes mecánicas."
+  },
+  {
+    "type": "sentence_elimination",
+    "statement": "5. Para Descartes, los errores son ideas",
+    "alternatives": [
+      "A) que permiten un nuevo conocimiento.",
+      "B) necesarias para todo tipo de aprendizaje.",
+      "C) anidadas en la mente antes de nacer.",
+      "D) de las que hay que librarnos siempre.",
+      "E) en las que es muy útil caer de por vida."
+    ],
+    "correct": 3,
+    "rationale": "Según Descartes, es una tarea necesaria librarnos de los errores porque obnubilan el entendimiento."
+  },
+  {
+    "type": "sentence_elimination",
+    "statement": "7. Para Descartes, la creación del mundo se puede considerar",
+    "alternatives": [
+      "A) imposible.",
+      "B) irreal.",
+      "C) imperfecta.",
+      "D) mirífica.",
+      "E) irracional."
+    ],
+    "correct": 3,
+    "rationale": "Descartes, de modo explícito, concede y habla del milagro de la creación."
+  },
+  {
+    "type": "sentence_elimination",
+    "statement": "8. Si alguien sostuviera que la perfección está garantizada si la obra fue hecha por muchas personas,",
+    "alternatives": [
+      "A) podría valerse de los ejemplos de la arquitectura.",
+      "B) Descartes se opondría al falaz razonamiento.",
+      "C) emitiría un juicio imposible de rebatir lógicamente.",
+      "D) no podría distinguir entre barbarie y civilización.",
+      "E) abogaría por la obra de un solo legislador prudente."
+    ],
+    "correct": 1,
+    "rationale": "Según Descartes, en las obras hechas por manos diversas hay imperfección."
+  },
+  {
+    "type": "reading_comprehension",
+    "statement": "Descartes, de modo explícito, concede y habla del milagro de la creación.",
+    "questions": [
+      {
+        "statement": "Si alguien sostuviera que la perfección está garantizada si la obra fue hecha por muchas personas,",
+        "alternatives": [
+          "A) podría valerse de los ejemplos de la arquitectura.",
+          "B) Descartes se opondría al falaz razonamiento.",
+          "C) emitiría un juicio imposible de rebatir lógicamente.",
+          "D) no podría distinguir entre barbarie y civilización.",
+          "E) abogaría por la obra de un solo legislador prudente."
+        ],
+        "correct": 1,
+        "rationale": "Según Descartes, en las obras hechas por manos diversas hay imperfección."
+      },
+      {
+        "statement": "El método cartesiano pone de relieve",
+        "alternatives": [
+          "A) la asimetría.",
+          "B) la pre vención.",
+          "C) la exhaustividad.",
+          "D) la conjetura.",
+          "E) la imaginación."
+        ],
+        "correct": 2,
+        "rationale": "Descartes consideraba importantes las enumeraciones completas con el fin de que se tuviese la seguridad de no omitir nada."
+      },
+      {
+        "statement": "Se puede determinar que el primer precep to del método cartesiano pone de relieve el valor",
+        "alternatives": [
+          "A) del análisis.",
+          "B) de la síntesis.",
+          "C) de la intuición.",
+          "D) de los datos.",
+          "E) de la experiencia."
+        ],
+        "correct": 2,
+        "rationale": "Gracias a la intuición se obtiene la evidencia."
+      },
+      {
+        "statement": "Según el tratado que reseña en la Quinta Parte, en la descripción de la naturaleza Descartes seguía",
+        "alternatives": [
+          "A) el enfoque teológico.",
+          "B) el razonamiento causal.",
+          "C) la concepción logicista.",
+          "D) el método probabilístico.",
+          "E) la ciencia de la geometría."
+        ],
+        "correct": 1,
+        "rationale": "Encadena las causas con los efecto s. Ergo, sigue el razonamiento causal."
+      },
+      {
+        "statement": "En la explicación del movimiento del corazón, Descartes recurre",
+        "alternatives": [
+          "A) a la investigación de gabinete.",
+          "B) a las fuentes de la Antigüedad.",
+          "C) a la inducción y generalización.",
+          "D) al método experimental.",
+          "E) al enfoque hermenéutico"
+        ],
+        "correct": 3,
+        "rationale": "Efectúa un razonamiento causal apoyado en la experimentación: corta a un animal grande con pulmones para determinar la circulación de la sangre."
+      },
+      {
+        "statement": "La duda cartesiana es muy diferente de la duda escéptica porque Descartes aspira a la",
+        "alternatives": [
+          "A) lógica.",
+          "B) revelación.",
+          "C) certeza.",
+          "D) paradoja.",
+          "E) refutación."
+        ],
+        "correct": 2,
+        "rationale": "La duda cartesiana es metódica porque se enmarca en la ruta que conduce a la verdad."
+      }
+    ]
+  },
+  {
+    "type": "sentence_elimination",
+    "statement": "En el razonamiento cartesiano, la inmortalidad del alma se presenta como",
+    "alternatives": [
+      "A) un postulado.",
+      "B) una falsedad.",
+      "C) una paradoja.",
+      "D) una confusión.",
+      "E) un corolario."
+    ],
+    "correct": 4,
+    "rationale": "Dado que se trata de una consecuencia de su larga argumentación sobre el alma, es un corolario."
+  },
+  {
+    "type": "sentence_elimination",
+    "statement": "Si Descartes hubiese podido ver una computadora programada para emitir palabras, habría",
+    "alternatives": [
+      "A) refutado la creencia en la idea de Dios.",
+      "B) sostenido que sus tesis siguen en pie.",
+      "C) abominado de su método filosófico.",
+      "D) conferido razón a todos los animales.",
+      "E) se habría negado a escucha r el sonido."
+    ],
+    "correct": 1,
+    "rationale": "Dado que no sería una evidencia de creatividad lingüística, las tesis cartesianas sobre el alma racional seguirían en pie."
+  },
+  {
+    "type": "reading_comprehension",
+    "statement": "Se ha demostrado que la enfermedad de las vacas locas es una enfermedad degenerativa del sistema del sistema nervioso central de los bovinos. Se caracteriza por la aparición de un fuerte escozor ( scrapie ) en los animales adultos y termina con la muerte del animal. Es una enfermedad que se reportó en 1986 (Gran Bretaña) y que se puede transmitir a seres humanos a través del consumo de la carne de animales infectados. Aunque se sabe que esta enfermedad es causada por un prion (P rp) descubierto por Stanley Prusiner (Nobel de Medicina), ciertas industrias rivales de las factorías bovinas se enriquecieron notablemente por el miedo de los seres humanos a contraer la enfermedad. En consecuencia, la causa de la enfermedad de las vacas locas habría que buscarla en el enriquecimiento financiero de estas industrias.",
+    "questions": [
+      {
+        "statement": "1. Gracias a una lectura analítica, se puede decir que el escozor insoportable sufrido por una vaca",
+        "alternatives": [
+          "A) es la causa de severos trastornos en los animales bovinos.",
+          "B) puede ser un síntoma de la enfermedad de las vacas locas.",
+          "C) es un indicio inequívoco de la presencia de una bacteria.",
+          "D) permite deducir plausiblemente un fraude en las empresas.",
+          "E) sugiere que el animal tiene un temor ante la presencia humana."
+        ],
+        "correct": 1,
+        "rationale": "El fuerte escozor (scrapie) es un rasgo asociado a la enfermedad. Ergo, es un síntoma del mal de las vacas locas (encefalopatía espongiforme bovina)."
+      },
+      {
+        "statement": "2. Una crítica sólida contra el texto consistiría en decir que",
+        "alternatives": [
+          "A) recurre a la falacia del argumento a la autoridad.",
+          "B) apela a un sentimiento de compasión por las vacas.",
+          "C) se sustenta en la autoridad científica de S. Prusiner.",
+          "D) comete una falacia en el encadenamiento causal.",
+          "E) no explica suficientemente que la vaca es un bovino."
+        ],
+        "correct": 3,
+        "rationale": "En efecto, toma una consecuencia como causa."
+      }
+    ]
+  },
+  {
+    "type": "reading_comprehension",
+    "statement": "El 28 de junio de 1992, el presidente francés François Mitterrand se desplazó súbitamente, sin previo aviso y sin que nadie lo esperara, a Sarajevo, escenario central de una guerra en los Balcanes que en lo que quedaba de año se cobraría quizás 150.000 vidas. Su objetivo era hacer patente a la opinión mundial la gravedad de la crisis de Bosnia. En verdad, la presencia de un estadista distinguido, anciano y visiblemente debilitado bajo los disparos de las armas de fuego y de la artillería fue muy comentada y despertó una gran admiración. Sin embargo, un aspecto de la visita de Mitterrand pasó prácticamente inadvertido, aunque tenía una importancia fundamental: la fecha. ¿Por qué había elegido el presidente de Francia esa fecha para ir a Sarajevo? Porque el 28 de junio era el aniversario del asesinato en Sarajevo, en 1914, del archiduque Francisco Fernando de Austria -Hungría, que desencadenó, pocas semanas después, el estallido de la primera guerra mundial. Para cualquier europeo instruido de la edad de Mitterrand, era evidente la conexión entre la fecha, el lugar y el recordatorio de una catástrofe histórica precipitada por una equivocación política y un error de cálculo. La elección de una fecha simbólica era tal vez la mejor forma de resaltar las posibles consecuencias de la crisis de Bosnia. Sin embargo, sólo algunos historiadores profesionales y algunos ciudadanos de edad muy avanzada comprendieron la alusión. La memoria histórica ya no estaba viva. La destrucción del pasado, o más bien de los mecanismos sociales que vinculan la experiencia contemporánea del individuo con la de generaciones anteriores, es uno de los fenómenos más característicos y extraños de las postrimerías del siglo XX y de los albores del XXI. En su mayor parte, los jóvenes, hombres y mujeres de este tiempo crecen en una suerte de presente permanente sin relación orgánica alguna con el pasado del tiempo en el que viven. Esto otorga a los historiadores, cuya tarea consiste en recordar lo que otros olvidan, mayor trascendencia que la que han tenido nunca. Pero por esa misma razón deben ser algo más que simples cronistas, recordadores y compiladores, aunque esta sea también una función necesaria de los historiadores .",
+    "questions": [
+      {
+        "statement": "El episodio de Mitterrand se menciona para poner de relieve",
+        "alternatives": [
+          "A) la causa de las guerras mundiales.",
+          "B) el gran valor de recordar el pasado.",
+          "C) el papel decisivo de las humanidades.",
+          "D) la importancia de los líderes pacifistas.",
+          "E) las paradojas inherentes al siglo XX."
+        ],
+        "correct": 1,
+        "rationale": "El texto da cuenta del viaje de Mitterrand a Sarajevo para concluir afirmando que, en la actualidad, los hombres crecen en una especie de presente permanente sin conexión con el pasado. Clave: B"
+      },
+      {
+        "statement": "En el primer párrafo del texto, la palabra PATENTE significa",
+        "alternatives": [
+          "A) contundente.",
+          "B) oficial.",
+          "C) manifiesto.",
+          "D) verdadero.",
+          "E) profundo."
+        ],
+        "correct": 2,
+        "rationale": "La acción de Mitterrand buscaba poner de manifiesto, es decir, hacer visible la gravedad de la crisis de Bosnia. Clave: C"
+      },
+      {
+        "statement": "Es incompatible con la información proporcionada en el texto afirmar que",
+        "alternatives": [
+          "A) la intención profunda de Mitterrand fue inadvertida por muchos.",
+          "B) la crisis de Bosnia no era un asunto trivial de finales del siglo XX.",
+          "C) el viaje de Mitterrand a Sa rajevo se realizó de manera inopinada.",
+          "D) François Mitterrand demostró poseer una gran conciencia histórica.",
+          "E) la recolección de datos históricos es una labor totalmente superflua."
+        ],
+        "correct": 4,
+        "rationale": "Hacia el final del texto se afirma que aunque la labor de los historiadores va más allá de su trabajo como compiladores, esta función es también indispensable. Clave: E"
+      },
+      {
+        "statement": "Se puede inferir que, debido a la desconexión entre la experiencia contemporánea del individuo y la de generaciones pasadas, el historiador tiene",
+        "alternatives": [
+          "A) una urgente necesidad de conocimiento.",
+          "B) proclividad por los gobiernos autoritarios.",
+          "C) ansiedad por la inminencia de la guerra.",
+          "D) un compromiso moral con la sociedad.",
+          "E) un método científico de valor absoluto."
+        ],
+        "correct": 3,
+        "rationale": "El historiador tiene como tarea recordar lo que otros olvidan, en este caso la catástrofe que significó una guerra mundial. Es posible inferir que el historiador se encuentra comprometido moralmente con una sociedad que ha olvidado el significado de eventos de tamaña magnitud. Clave: D"
+      },
+      {
+        "statement": "Si una persona no tuviera una buena memoria histórica acerca del desarrollo de los acontecimientos de su propia vida,",
+        "alternatives": [
+          "A) iniciaría un tratamiento para curar su terrible amnesia.",
+          "B) podría cometer los mismos errores de sus tiempos idos.",
+          "C) estaría muy predispuesta a ser una persona conflictiva.",
+          "D) imitaría la forma en que otros resuelven sus problemas.",
+          "E) minimizaría sus errores alegando incapacidad de recordar."
+        ],
+        "correct": 1,
+        "rationale": "El conocimiento del pasado y su vinculación con la experiencia presente es crucial para el adecuado desarrollo de las colectividades. Se puede extrapolar esta lógica al desarrollo individual de una persona. Clave: B"
+      }
+    ]
+  },
+  {
+    "type": "reading_comprehension",
+    "statement": "Los guetos afroamericanos parecen parte del paisaje social urbano, que uno podría asumir que siempre han estado presentes. De hecho, son una consecuencia social reciente. Antes de 1900, negros y blancos en ciudades norteñas vivían, estudiaban y trabajaban juntos. Los negros vivían en áreas pobres, pero la mayoría de las ciudades también tenía una élite negra, compuesta de profesionistas, dueños de comercios y trabajadores de oficios experimentados que se mezclaban con libertad con sus colegas blancos y clientes. Es verdad que los afroamericanos no disfrutaron oportunidades iguales, pero los dos grupos raciales vivieron en los mismos mundos sociales e\n\nPara 1940, la mayoría de los afroamericanos urbanos vivían en barrios negros. La creación de gueto urbano negro no era una cuestión de oportunidad u opción sino el resultado de decisiones personales e institucionales. La clase obrera blanca vio el número creciente de obreros negros como una competencia para los trabajos que no era bienvenida. Entre 1900 y 1920, una ola de violencia racial se expandió a través de las ciudades norteñas: individuos fueron atacados y muchos hogares negros incendiados. En comunidades de blancos de clase media se formaron «asociaciones de mejora de barrios», cuya meta principal era excluir a los residentes negros; de esta manera los afroamericanos huyeron o fueron enviados a barrios marginados. A fines de los años cincuenta y principios de los sesenta, la gente aprovechó los programas gubernamentales de renovación urbana para recuperar y restaurar viejas viviendas y reconstruir distritos comerciales y teatros en la ciudad. Debido a esta «renovación urbana», familias afroamericanas fueron enviadas a las viviendas públicas. Para el fin de la década, estos proyectos habían empezado a parecer «reservaciones» afroamericanas. En la actualidad, un tercio de afroamericanos vive en grandes barrios urbanos, viejos, controlados por la delincuencia, están sobrepoblados y no muestran ninguna señal de recuperarse. Según Massey, «los negros que viven en el corazón del gueto están entre la gente más aislada de la tierra». En gran medida, Estados Unidos parece haber abandonado la meta de asimilación o integración completa y se inclinó más hacia el multiculturalismo.",
+    "questions": [
+      {
+        "statement": "El tema medular del texto gira entorno a",
+        "alternatives": [
+          "A) la aparición de guetos afroamericanos en los EE . US.",
+          "B) los típicos barrios estadounidenses de los años 1940.",
+          "C) la multiculturalidad estadounidense como vida global.",
+          "D) el integracionismo americano desde el lejano 1920.",
+          "E) la renovación urbana en ciudades de Norteamérica."
+        ],
+        "correct": 0,
+        "rationale": "El tema aborda el tema de la creación de guetos, a saber, barrios marginales de población afrodescendiente en EE. UU. Clave: A"
+      },
+      {
+        "statement": "¿Cuál es la idea principal del texto?",
+        "alternatives": [
+          "A) EE. UU. ha desistido de integrar a las poblaciones negras a núcleos plurales y ha optado por un programa de multiculturalismo agresivo.",
+          "B) La renovación urbana implicó una política de exclusión hacia las poblaciones afroamericanas en las décadas del cincuenta y sesenta.",
+          "C) Antes de 1900, la convivencia entre negros y blancos en un mismo espacio sociocultural era normal a pesar de las diferencias sociales.",
+          "D) La creación de los guetos en Norteamérica se debió a la iniciativa de estas poblaciones a escapar de políticas integracionistas.",
+          "E) Los guetos afroamericanos en EE. UU. aparecieron recientemente de bido a decisiones excluyentes que marginaron a las poblaciones negras."
+        ],
+        "correct": 4,
+        "rationale": "Clave: E"
+      }
+    ]
+  },
+  {
+    "type": "reading_comprehension",
+    "statement": "El texto aborda el tema de la creación de guetos, a saber, barrios marginales de población afrodescendiente en EE. UU.",
+    "questions": [
+      {
+        "statement": "¿Cuál es la idea principal del texto?",
+        "alternatives": [
+          "A) EE. UU. ha desistido de integrar a las poblaciones negras a núcleos plurales y ha optado por un programa de multiculturalismo agresivo.",
+          "B) La renovación urbana implicó una política de exclusión hacia las poblaciones afroamericanas en las décadas del cincuenta y sesenta.",
+          "C) Antes de 1900, la convivencia entre negros y blancos en un mismo espacio sociocultural era normal a pesar de las diferencias sociales.",
+          "D) La creación de los guetos en Norteamérica se debió a la iniciativa de estas poblaciones a escapar de políticas integracionistas.",
+          "E) Los guetos afroamericanos en EE. UU. aparecieron recientemente de bido a decisiones excluyentes que marginaron a las poblaciones negras."
+        ],
+        "correct": 4,
+        "rationale": "Los guetos, en efecto, tienen una historia reciente ya que las poblaciones de negros y blancos vivían juntos antes de 1900. Clave: E"
+      },
+      {
+        "statement": "En el texto, la palabra OLA hace referencia a",
+        "alternatives": [
+          "A) una onda de gran amplitud que se forma en el agua.",
+          "B) la convivencia sin fricciones entre negros y blancos.",
+          "C) un movimiento frenético de gente con fines similares.",
+          "D) las poblaciones integradas que vivían en los sesenta.",
+          "E) las agrupaciones multiétnicas en los Estados Unidos."
+        ],
+        "correct": 2,
+        "rationale": "La palabra OLA hace referencia a un movimiento excluyente y violento de personas que se desató entre 1900 y 1920 en contra de los negros. Clave: C"
+      },
+      {
+        "statement": "Se deduce del texto que la denominada «renovación ur bana»",
+        "alternatives": [
+          "A) implicaba separar a los negros de los núcleos urbanos desarrollados.",
+          "B) involucraba medidas planificadas y tolerantes para situar a los negros.",
+          "C) fue una iniciativa aislada que no encontró eco en el gobierno central.",
+          "D) implicó, a la larga, la consolidación de una política integracionista.",
+          "E) definió la constitución de núcleos urbanos indignos para los blancos."
+        ],
+        "correct": 0,
+        "rationale": "La renovación urbana significó la exclusión de las poblaciones negras de esos núcleos urbanos creados para la gente blanca. Clave: A"
+      },
+      {
+        "statement": "Es incompatible con el desarrollo textual asumir que los guetos",
+        "alternatives": [
+          "A) ha generado que Estados Unidos propenda al multiculturalismo.",
+          "B) son producto, en parte, de la renovación urbana de los sesenta.",
+          "C) se consolidaron como centros urbanos marginales antes de 1900.",
+          "D) fueron creados a través de medidas sumamente excluyentes.",
+          "E) son lugares en los que impera la delincuencia y el aislamiento."
+        ],
+        "correct": 2,
+        "rationale": "Los guetos, tal como se señala en el primer párrafo, son de corta data: no existían antes de 1 900. Clave: C"
+      },
+      {
+        "statement": "Si la nación estadounidense reforzara su gran meta asimilacionista,",
+        "alternatives": [
+          "A) la aparición de centros urbanos marginales sería inminente.",
+          "B) los negros vivirían al margen de las decisiones de los blancos.",
+          "C) la multiculturalidad sería una realidad patente y no un proyecto.",
+          "D) habría una marcada propensión a la desaparición de guetos.",
+          "E) en los guetos, los afroamericanos podrían mejorar sus vidas."
+        ],
+        "correct": 3,
+        "rationale": "La política asimilacionista estadounidense supone la inserción de las poblaciones negras en grupos sociales y culturales distintos. Si se hubiese cumplido a cabalidad con este proyecto, probablemente no existirían guetos. Clave: D"
+      }
+    ]
+  },
+  {
+    "type": "reading_comprehension",
+    "statement": "La política asimilacionista estadounidense supone la inserción de las poblaciones negras en grupos sociales y culturales distintos. Si se hubiese cumplido a cabalidad con este proyecto, probablemente no existirían guetos.\nClave: D\n\nEn filosofía natural, René Descartes se propuso dos cosas. En primer lugar, examinar y generalizar e l método matemático de la ciencia natural. En segundo lugar, construir mediante dicho método una imagen mecánica general de las operaciones de la naturaleza.\nDescartes había leído las doctrinas de Francis Bacon acerca del método científico. Aunque simpatizaba con los objetivos del filósofo inglés, pensaba que Bacon había iniciado sus investigaciones por un lugar inadecuado. Bacon había partido de los hechos empíricos del mundo material en lugar de hacerlo de los principios generales que suministraban la base de la investigación deductiva. Descartes se sentía impresionado por el método matemático que se desarrollaba en el seno de las ciencias físicas y se dio cuenta de que del mismo modo que el estudioso de la mecánica limitaba la diversidad de las cosas observables a aquellas que eran medibles, así también él debía recortar la variedad de teorías que se pudiesen sugerir, limitándola a aquellas que se pudiesen desarrollar matemáticamente.\nDel mismo modo, no todas las cualidades medibles tenían la misma importancia, habiéndose de desestimar algunas para simplificar el estudio. Descartes pensaba que no todas las ideas susceptibles de tratamientos matemáticos tenían la misma importancia, sino que había ciertas ideas fundamentales «dadas por intuición» que suministraban el punto de partida más seguro para las deducciones de carácter matemático. Dichas ideas eran las de movimiento, extensión y Dios. La idea de Dios constituía el fundamento principal de su sistema, dado que Dios había creado la extensión y había puesto el movimiento en el universo. Puesto que el movimiento había sido conferido al universo una vez sólo en el momento de la creación, la cantidad de movimiento del mundo había de ser constante. Mediante tal argumento, Descartes llegó al principio de con servación del momento.",
+    "questions": [
+      {
+        "statement": "Medularmente, el sistema de Descartes se cimienta en",
+        "alternatives": [
+          "A) la deducción.",
+          "B) el cálculo.",
+          "C) la observación.",
+          "D) la creencia.",
+          "E) la intuición."
+        ],
+        "correct": 4,
+        "rationale": "El sistema cartesiano parte de las evidencias dadas por la intuición."
+      },
+      {
+        "statement": "En el texto, la palabra COSA significa",
+        "alternatives": [
+          "A) entidad.",
+          "B) propiedad.",
+          "C) objetivo.",
+          "D) método.",
+          "E) naturaleza."
+        ],
+        "correct": 2,
+        "rationale": "Cosa se usa como sinónimo de objetivo o propósito."
+      },
+      {
+        "statement": "Resulta incompatible con el texto aseverar que",
+        "alternatives": [
+          "A) Descartes sos tenía que la extensión equivalía al movimiento.",
+          "B) la ciencia cartesiana se fundamentaba en un método matemático.",
+          "C) Descartes emigró a Holanda en busca de un entorno más propicio.",
+          "D) la aplicación de las reglas matemáticas tiene una índole deductiva."
+        ],
+        "correct": 0,
+        "rationale": "Extensión y movimiento eran nociones diferentes obtenidas por intuición."
+      },
+      {
+        "statement": "Un fiel seguidor de las ideas de Descartes sostendría que",
+        "alternatives": [
+          "A) el movimiento puede ser considerado esencialmente perpetuo.",
+          "B) las deducciones de la matemática se prueban empíricamente.",
+          "C) las ciencias físicas pueden prescindir de las deducciones.",
+          "D) el concepto de deducción es más importante que el de intuición.",
+          "E) la búsqueda de la verdad es imposible sin orden en el pensar."
+        ],
+        "correct": 4,
+        "rationale": "Tal es la posición que se deriva del método."
+      },
+      {
+        "statement": "Si Descartes hubiese sido un epígono de Bacon, se habría adherido al",
+        "alternatives": [
+          "A) racionalismo.",
+          "B) indeterminismo.",
+          "C) politeísmo.",
+          "D) irracionalismo.",
+          "E) empirismo."
+        ],
+        "correct": 4,
+        "rationale": "Aunque Descartes simpatizaba con los objetivos de Bacon, estaba en contra de su empirismo."
+      }
+    ]
+  }
+]

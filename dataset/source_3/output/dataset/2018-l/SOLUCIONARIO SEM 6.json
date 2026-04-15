@@ -1,0 +1,530 @@
+[
+  {
+    "type": "reading_comprehension",
+    "statement": "Araujo Robles, E, De la adicción a la adicción a internet.",
+    "questions": [
+      {
+        "statement": "¿Cuál de las siguientes afirmaciones es compatible con el texto?",
+        "alternatives": [
+          "A) La dependencia psicológica tiene como causa principal la abstinencia repentina de drogas.",
+          "B) El craving es un concepto que se puede entender por sí solo, al margen del de adicción.",
+          "C) Para West y Brown, el craving es el deseo imperioso que induce a la conducta adictiva.",
+          "D) Según Khanziant y Albanese, la abstinencia repentina provocaría la muerte del adicto.",
+          "E) Sin una abstinencia repentina, la dependencia física y psicológica se mantienen latentes."
+        ],
+        "correct": 3,
+        "rationale": "Según Khanziant y Albanese, la abstinencia repentina de drogas adictivas causa al individuo una variedad de síntomas adversos, incluso algunos que son riesgosos para su vida."
+      }
+    ]
+  },
+  {
+    "type": "reading_comprehension",
+    "statement": "La lectura es uno de los mejores ejercicios posibles para mantener en forma el cerebro y las capacidades mentales. Es así porque la actividad de leer requiere poner en juego un importante número de procesos mentales, entre los que destacan la percepción, la memoria y el razonamiento. Cuando leemos activamos preferentemente el hemisferio izquierdo del cerebro, que es el del lenguaje y el más dotado de capacidades analíticas en la mayoría de las personas, pero son muchas más las áreas cerebrales de ambos hemisferios que se activan e intervienen en el proceso. Decodificar las letras, las palabras y las frases y convertirlas en sonidos mentales requiere activar amplias áreas de la corteza cerebral. Las cortezas occipital y temporal se activan para ver y reconocer el valor semántico de las palabras, es decir, su significado. La corteza frontal motora se activa cuando evocamos mentalmente los sonidos de las palabras que leemos. Los recuerdos que evoca la interpretación de lo leído activan poderosamente el hipocampo y el lóbulo temporal medial. Las narraciones y los contenidos sentimentales del escrito, sean o no de ficción, activan la amígdala y demás áreas emocionales del cerebro. El razonamiento sobre el contenido y la semántica de lo leído activan la corteza prefrontal y la memoria de trabajo, que es la que utilizamos para resolver problemas, planificar el futuro y tomar decisiones. Está comprobado que la activación regular de esa parte del cerebro fomenta no solo la capacidad de razonar, sino también, en cierta medida, la inteligencia de las personas. La lectura, en definitiva, inunda de actividad el conjunto del cerebro y refuerza también las habilidades sociales y la empatía, además de reducir el nivel de estrés del lector. Ignacio Morgado Bernal, Cómo percibimos el mundo: una exploración de la mente y los sentidos. Barcelona: Ariel 2012.",
+    "questions": [
+      {
+        "statement": "Respecto del tema centrales compatible afirmar que la lectura",
+        "alternatives": [
+          "A) permite estimular de manera creciente la percepción, la memoria y el razonamiento analítico.",
+          "B) llega a activar principalmente el hemisferio izquierdo del cerebro, que es el del lenguaje.",
+          "C) permite decodificar las letras, las palabras y las frases y convertirlas en sonidos mentales.",
+          "D) muy beneficiosa para el cerebro, pues activa un buen número de procesos mentales.",
+          "E) fomenta fundamentalmente la capacidad de razonar y la inteligencia de todos los lectores."
+        ],
+        "correct": 3,
+        "rationale": "El tema centrales que la lectura es uno de los mejores ejercicios posibles para mantener en forma el cerebro y las capacidades mentales."
+      }
+    ]
+  },
+  {
+    "type": "reading_comprehension",
+    "statement": "En torno a la industria petrolera —junto con la minería— el capitalismo ha organizado la producción industrial de la mayor parte de las sustancias y energías perniciosas que hoy saturan no solamente los depósitos de basura; sino, también, los sistemas hídricos, la atmósfera y finalmente el clima del planeta. Las compañías petroleras, aunque prometen responsabilidad social, controles y medidas de seguridad adecuados y el uso de las mejores prácticas, actúan con total impunidad, violando derechos humanos y contaminando el ambiente en grados que representan crímenes contra el ambiente, la naturaleza y la humanidad en su conjunto. Frente al poder de los gigantes petroleros, difícilmente los estados pueden proteger a sus pueblos o a la naturaleza forzándolos a hacerse responsable de sus actos. E incluso en aquellos casos en que hay una respuesta judicial, suele ser insuficiente en términos de dar satisfacción a los reclamos de justicia de las comunidades afectadas, cuyos valores, cultura o derecho tradicional en algunos casos no tienen cabida en los sistemas judiciales. Tal es el caso de las tierras sagradas, los conceptos de propiedad comunitaria de la tierra o los Derechos de la Naturaleza, este último concepto incorporado en la constitución ecuatoriana. Para el pueblo U'wa, que habita las selvas del oriente colombiano, el petróleo es la sangre de la Madre Tierra, por lo que perforarla constituye una profanación. Expresan: “Sabemos que el riowa (hombre blanco) le ha puesto precio a todo lo vivo y hasta a la misma piedra, comercia con su propia sangre y quiere que nosotros hagamos lo mismo en nuestro territorio sagrado ruiria, la sangre de la tierra a la que ellos llaman petróleo...todo esto es extraño a nuestras costumbres...” Por eso han mantenido un prolongado conflicto con el estado colombiano y la empresa estadounidense Occidental Petroleum (OXY), autorizada por el gobierno a desarrollar un proyecto petrolero en el corazón del territorio U´wa, sufriendo represión y muerte.",
+    "questions": [
+      {
+        "statement": "En el texto, la expresión PROMETEN RESPONSABILIDAD SOCIAL connota",
+        "alternatives": [
+          "A) promesa real ante las exigencias del poder judicial y los pueblos nativos.",
+          "B) obligación de proteger el medio ambiente y los derechos de los U'wa.",
+          "C) total impunidad de parte de los gigantes petroleros y empresas mineras.",
+          "D) compromiso incumplido por la desconfianza del pueblo nativo U'wa.",
+          "E) un embuste intencional de parte de los gigantes petroleros y mineros."
+        ],
+        "correct": 4,
+        "rationale": "Los gigantes petroleros prometen responsabilidad social, pero actúan con total impunidad, violando derechos humanos y contaminando el ambiente. En consecuencia, esta promesa es un embuste."
+      },
+      {
+        "statement": "La intención principal del autor es",
+        "alternatives": [
+          "A) explicar por qué las empresas mineras contaminan, devastan la naturaleza y violan los derechos humanos de pueblos nativos como los U'wa.",
+          "B) exigir que las empresas petroleras y mineras cumplan con su compromiso de responsabilidad social controles y medidas de seguridad.",
+          "C) cuestionar la laxitud de los poderes del estado frente al incumplimiento de las promesas de los gigantes petroleros y mineros.",
+          "D) denunciar la impunidad con la que los gigantes petroleros y mineros contaminan el medio ambiente y las tierras sagradas de los pueblos nativos.",
+          "E) reclamar que las empresas mineras y petroleras se sometan al derecho tradicional de los pueblos nativos como a los de los U'wa."
+        ],
+        "correct": 3,
+        "rationale": "El autor denuncia a las compañías petroleras de actuar con total impunidad, violando los derechos humanos y contaminando el ambiente y las tierras sagradas de los pueblos nativos, como es el caso del pueblo U'wa."
+      },
+      {
+        "statement": "Un argumento fundamental que esgrime el pueblo U'wa en su conflicto con la Occidental Petroleum (OXY) es que",
+        "alternatives": [
+          "A) los poderes del estado colombiano se coludieron abiertamente con esta empresa.",
+          "B) la Tierra es sagrada y esta empresa la profana al perforarla para extraer su sangre.",
+          "C) la contaminación de la naturaleza afecta a todos, incluso a los profanadores riowa.",
+          "D) el derecho tradicional del pueblo U'wa es superior porque preserva la naturaleza.",
+          "E) la constitución ecuatoriana otorga fuerza de ley a los derechos de la naturaleza."
+        ],
+        "correct": 1,
+        "rationale": "Para el pueblo U'wa, el petróleo es la sangre de la Madre Tierra, por lo que perforarla constituye una profanación."
+      },
+      {
+        "statement": "Si el pueblo U'wa hubiese concebido la naturaleza imbuido de la ideología capitalista, probablemente,",
+        "alternatives": [
+          "A) la valiosa y sagrada sangre de esta se habría agotado con prontitud.",
+          "B) habría reclamado la propiedad de los pozos petrolíferos en explotación.",
+          "C) habría considerado natural el proceder de los riowa (hombres blancos).",
+          "D) habría pactado en mejores condiciones con la Occidental Petroleum (OXY).",
+          "E) aun así, el territorio sagrado ruiria solo habría servido para actos litúrgicos."
+        ],
+        "correct": 2,
+        "rationale": "Como los riowa (hombres blancos), habría puesto precio a todo lo vivo y hasta a la misma piedra."
+      }
+    ]
+  },
+  {
+    "type": "reading_comprehension",
+    "statement": "LOS movimientos campesinos han defendido y están defendiendo no solo el agro y la biodiversidad de la quinua y los granos andinos, sino también la vida misma y la preservación de los recursos naturales, pero necesitan ser «oxigenados» por movimientos de consumidores urbanos en apoyo a la soberanía alimentaria. Las dicotomías entre campo-ciudad, científicos-productores, consumidores-productores deben ser eliminadas. Es necesario romper las barreras culturales que fragmentan artificialmente a estos grupos y que los consumidores tomen conciencia del poder que tienen para determinar el modelo de producción y su rol para la conservación de la biodiversidad a través del modelo agroecológico y sus vínculos con los productores.\n\nEstá demostrado que una productividad insuficiente no es la que determina las crisis alimentarias. Es el modelo capitalista imperante y los problemas de distribución los que impiden que el alimento llegue a todas las personas. Es necesario potenciar la agroecología y reconocer los movimientos de economía social y solidaria. Existen experiencias que han mostrado la factibilidad del modelo agroecológico que requieren ser potenciadas y escaladas con apoyo de los gobiernos nacionales y locales. A pesar de los avances normativos en algunos países, no existe la suficiente voluntad política para impulsar estas iniciativas. La paradoja es que hay exclusión de los que más necesitan de este alimento creándoles una cultura de vender antes que consumir y como consecuencia se observa una alta tasa de desnutrición en las regiones que producen en mayor escala. Inclusión a los países que tienen poder económico a quienes se le vende lo mejor de este producto.\n\nhttp://revistasinvestigacion.unmsm.edu.pe/index.php/sociales/article/view/12993/11603",
+    "questions": [
+      {
+        "statement": "Es incompatible con respecto el texto afirmar que",
+        "alternatives": [
+          "A) el modelo agroecológico requiere ser promovido por los gobiernos.",
+          "B) el modelo capitalista de producción es la genera las crisis alimentarias.",
+          "C) la unión productor-consumidor es decisiva para definir el modelo de producción.",
+          "D) el trabajo campesino está ligado a la preservación de la biodiversidad andina.",
+          "E) los productores tienen todo el poder para instaurar el modelo agroecológico."
+        ],
+        "correct": 4,
+        "rationale": "El autor, básicamente, sostiene que la instauración del modelo agroecológico requiere la unión de agricultores y consumidores así como apoyo efectivo de los gobiernos nacionales y locales."
+      },
+      {
+        "statement": "Respecto de la palabra OXIGENADOS es incompatible afirmar que esta alude a la acción de",
+        "alternatives": [
+          "A) fortalecer.",
+          "B) apoyar.",
+          "C) marginar.",
+          "D) respaldar.",
+          "E) abogar."
+        ],
+        "correct": 2,
+        "rationale": "Esta palabra alude a la acción de respaldar al movimiento campesino."
+      },
+      {
+        "statement": "Es incompatible afirmar que los productores de quinua",
+        "alternatives": [
+          "A) producen y comercializan sus productos al margen del modelo capitalista.",
+          "B) producen, principalmente, para comercializar en el mercado capitalista.",
+          "C) requieren fortalecer su movimiento con el apoyo de los consumidores.",
+          "D) pese a producir un producto muy nutritivo, muchos padecen de anemia.",
+          "E) exigen el cumplimiento de las normas favorables al modelo agroecológico."
+        ],
+        "correct": 0,
+        "rationale": "Estos productores están imbuidos por la cultura del modelo capitalista de vender, por eso prefieren vender y no consumir sus productos como la quinua."
+      },
+      {
+        "statement": "Si los alimentos llegaran a todos, pese a la producción insuficiente, sería incompatible afirmar que",
+        "alternatives": [
+          "A) los consumidores apoyarían a los campesinos.",
+          "B) repuntaría la producción agroecológica de estos.",
+          "C) la desnutrición campesina tendería a menguar.",
+          "D) se fortalecería el modelo capitalista imperante.",
+          "E) se potenciaría la economía social y solidaria."
+        ],
+        "correct": 3,
+        "rationale": "Según el texto, es el modelo capitalista imperante es uno de los factores que impiden que el alimento llegue a todas las personas. En consecuencia, si los alimentos llegaran a todos, debilitaría el modelo capitalista de comercialización de los alimentos."
+      }
+    ]
+  },
+  {
+    "type": "reading_comprehension",
+    "statement": "En el dominio de la economía política, la investigación científica libre no solamente enfrenta al mismo enemigo que en todos los demás campos. La naturaleza peculiar de su objeto convoca a la lid contra ella a las más violentas, mezquinas y aborrecibles pasiones del corazón humano: las furias del interés privado. La Alta Iglesia de Inglaterra, por ejemplo, antes perdonará el ataque a treinta y ocho de sus treinta y nueve artículos de fe que a un treintainueveavo de sus ingresos. Hoy en día el propio ateísmo es culpa levis [pecado venial] si se lo compara con la crítica a las relaciones de propiedad tradicionales.",
+    "questions": [
+      {
+        "statement": "Es compatible con el texto afirmar que, en el dominio de la economía política, la investigación científica libre tiene como objeto de estudio",
+        "alternatives": [
+          "A) los altos ingresos de la iglesia cristiana.",
+          "B) las bajas pasiones del corazón humano",
+          "C) las relaciones de propiedad tradicionales.",
+          "D) las furias provocadas por el interés privado.",
+          "E) la naturaleza peculiar del interés privado."
+        ],
+        "correct": 2,
+        "rationale": "Según el texto, el objeto de estudio de la economía política son las relaciones de propiedad tradicionales, por cuya crítica es víctima de las furias del interés privado."
+      }
+    ]
+  },
+  {
+    "type": "reading_comprehension",
+    "statement": "Imagínese repantigado en el sofá de su sala de estar, absorto en la contemplación de una serie en la televisión, y que de pronto le cruza la cabeza el pensamiento de que tiene que hacer algo en la cocina. Se levanta, recorre la alfombra con unos cuantos pasos apresurados, y entonces, en el preciso momento en que llega a la cocina —poof!— se da usted cuenta de que acaba de olvidar lo que había venido a hacer. Permanece usted unos instantes ahí, de pie, aturdido, y luego se encoge de hombros y vuelve al sofá. Estos pequeños fallos de memoria se producen con tanta frecuencia que no les prestamos demasiada atención. Les damos carpetazo diciendo que son otros tantos casos de «absentmindedness», o si ya vamos cumpliendo años, los calificamos de «senior moments». Sin embargo, estos incidentes vienen a revelar una de las limitaciones fundamentales de nuestra mente, a saber, la minúscula capacidad de nuestra memoria de trabajo. La memoria de trabajo es lo que los científicos que estudian el cerebro denominan el almacén de información a corto plazo, ya que es ahí donde conservamos el contenido de nuestra conciencia en un momento dado cualquiera —es decir, una selección de todas las impresiones y pensamientos que afluyen a nuestra mente a lo largo del día—. En la década de 1950, George Miller, un psicólogo de la Universidad de Princeton, expuso el célebre argumento de que nuestros cerebros únicamente pueden almacenar siete fragmentos de información de manera simultánea. E incluso esa cifra podría resultar excesivamente elevada, dado que en la actualidad hay investigadores del cerebro que creen que la capacidad máxima de nuestra memoria de trabajo se limita simplemente a tres o cuatro elementos. Llamamos carga cognitiva (cognitive load) a la cantidad de información que accede al plano consciente en un instante dado cualquiera. Si nuestra carga cognitiva supera la capacidad de nuestra memoria de trabajo, nuestras competencias intelectuales sufrirán las consecuencias. La información entra y sale de nuestra mente a tanta velocidad que nunca llegamos a aprehenderla adecuadamente de forma consciente. Y esa es la razón de que uno no recuerde lo que había ido a hacer a la cocina. La información se desvanece antes de que tengamos siquiera la posibilidad de transferirla a nuestra memoria a largo plazo e incorporararla a la madeja de nuestros conocimientos. De este modo recordamos un menor número de cosas y nuestra capacidad para pensar de manera crítica y en términos conceptuales se debilita. Una memoria de trabajo sobrecargada tiende, asimismo, a incrementar nuestro nivel de distracción. A fin de cuentas, como ya ha señalado el neurocientífico Torkel Klingberg: «We have to remember what it is we are to concentrate on». Si perdemos de vista ese objetivo, «distractions more distracting».",
+    "questions": [
+      {
+        "statement": "1. Fundamentalmente, el autor reflexiona sobre",
+        "alternatives": [
+          "A) la capacidad de la memoria de trabajo y la carga cognitiva que soporta.",
+          "B) la información que se desvanece o que perdemos irremediablemente.",
+          "C) el célebre postulado de George Miller sobre lo que podemos almacenar.",
+          "D) el vínculo sobre concentración y desinterés en nuestra labor académica.",
+          "E) los senior moments y su aumento en las personas con sobrecarga cognitiva."
+        ],
+        "correct": 0,
+        "rationale": "El texto plantea situaciones donde se vincula la carga cognitiva y lo que podemos almacenar en nuestra memoria de trabajo."
+      },
+      {
+        "statement": "2. Resulta incompatible con el texto sostener que la cognitive load",
+        "alternatives": [
+          "A) se refiere al plano consciente de nuestra mente.",
+          "B) para algunos no puede superar los siete fragmentos.",
+          "C) se vincula con nuestras competencias intelectuales.",
+          "D) se limita a información relevante para nuestro empleo.",
+          "E) puede variar según la peculiaridad de los individuos."
+        ],
+        "correct": 3,
+        "rationale": "El término memoria de trabajo al que se relaciona no implica información relevante solo para nuestras labores asalariadas."
+      },
+      {
+        "statement": "3. En el texto, el término REPANTIGADO implica",
+        "alternatives": [
+          "A) incredulidad.",
+          "D) soledad.",
+          "B) comodidad.",
+          "E) insalubridad.",
+          "C) desinterés."
+        ],
+        "correct": 2,
+        "rationale": "El estar absorto disfrutando ver televisión implica comodidad."
+      }
+    ]
+  },
+  {
+    "type": "reading_comprehension",
+    "statement": "Las personas de inteligencia descollante asumen que el brillo intelectual es la clave de cualquier logro humano. Este tipo de personas acostumbran a votar en favor de los candidatos más inteligentes y procuran elegirles para dirigir gobiernos, piden a los más hábiles expertos que conciban planes para encauzar la economía y atribuyen a los más sagaces científicos los más notables descubrimientos. Sin embargo, todos ellos corren tras una falsa liebre. La clave de los logros humanos no reside en modo alguno en la inteligencia de los individuos concretos. La razón de que los seres humanos dominen actualmente el planeta no se debe al hecho de que posean un gran cerebro. La evolución hasta conseguir un cerebro de mil doscientos centímetros cúbicos dotado con una importante cantidad de amenos programas lógicos como el del lenguaje, era uno de los elementos necesarios para el acceso a la civilización, pero no una condición suficiente. La razón de que unas economías funcionen mejor que otras no radica desde luego en el hecho de que las que triunfen tengan al frente a personas más inteligentes, y el motivo de que en algunos lugares se realicen importantes descubrimientos no hay que buscarlo en la hipótesis de que las personas que habitan esos lugares en particular sean intelectualmente más agudas que las de otros. Los logros humanos son un fenómeno íntegramente imputable al trabajo en red. Al reunir a un gran número de cerebros en tareas por medio de la división del trabajo, la sociedad humana encuentra el modo de mejorar el nivel de vida, de incrementar la capacidad de carga, de mejorar el virtuosismo tecnológico y de elevar la base de conocimiento de la especie. Las consecuciones humanas encuentran su fundamento en la inteligencia colectiva — y los nodos de la red neural humana son las propias personas—. Al dedicarse cada individuo a una sola cosa y acabar haciéndola muy bien, y al compartir más tarde con otros los resultados de su saber y combinar lo aprendido, la gente adquiere la capacidad de hacer cosas que ni siquiera comprende. Como ya observó en su momento el economista Leonard Read en un ensayo titulado «I, Pencil», no single person knows how to make even a pencil—the knowledge is distributed in society among many thousands of graphite miners, lumberjacks, designers, and factory workers. Y como ya señaló también Friedrich Hayek, en su notable ensayo titulado The Use of Knowledge in Society: «The cleverest person is no match for the collective brain at working out how to distribute consumer goods».",
+    "questions": [
+      {
+        "statement": "Fundamentalmente, el autor reflexiona entorno",
+        "alternatives": [
+          "A) a la inteligencia colectiva.",
+          "C) al consumismo excesivo.",
+          "E) a las personas descollantes.",
+          "B) a la evolución humana.",
+          "D) a la economía según Hayek."
+        ],
+        "correct": 0,
+        "rationale": "El autor del texto se dedica a valorar la inteligencia colectiva por encima de la individual."
+      },
+      {
+        "statement": "La expresión CORRER TRAS UNA FALSA LIEBRE implica",
+        "alternatives": [
+          "A) participar de una estafa.",
+          "C) refutar una fantasía.",
+          "E) solucionar un problema.",
+          "B) incurrir en un error.",
+          "D) caer en una aporía."
+        ],
+        "correct": 1,
+        "rationale": "La expresión implica incurrir en un error al atribuir un efecto a una causa no relacionada."
+      },
+      {
+        "statement": "Se infiere que el enfoque del autor para enfrentar un problema",
+        "alternatives": [
+          "A) aceptaría la supremacía del más experimentado.",
+          "B) se sustentaría en la brillantez ola genialidad.",
+          "C) desarrollaría un análisis económico del mismo.",
+          "D) privilegiaría el trabajo en equipo sobre lo individual.",
+          "E) implicaría una defensa del indeterminismo."
+        ],
+        "correct": 3,
+        "rationale": "Para el autor, lo colectivo prima sobre lo individual. Si así hemos evolucionado, cualquier problema puede enfrentarse desde esa perspectiva."
+      }
+    ]
+  },
+  {
+    "type": "reading_comprehension",
+    "statement": "Desde el momento en que los seres humanos comienzan a producir lo que necesitan para la supervivencia, se sitúan al margen de los animales. Las especiales exigencias de lo que producen y el modo de producirlo les conforma la vida. Conforme se desarrolla la sociedad, asimismo se hacen más complejas las relaciones sociales que son necesarias para que funcione la producción; cuanto más desarrollada está una sociedad, mayor división del trabajo hay. La división del trabajo no es más que la asignación de las distintas tareas a las distintas personas. Por ejemplo, en una sociedad muy simple todos los individuos pueden cultivar la tierra, cazar y construir su propia vivienda. En una sociedad más desarrollada, cada una de estas funciones las realizarán probablemente personas distintas.\n\nMarx y Engels en La ideología alemana consideraron que la extremada división del trabajo que caracteriza a las economías capitalistas tenía una poderosa influencia negativa sobre la vida humana. Daba lugar a la alienación, el alejamiento entre la vida y el trabajo de cada cual. La división del trabajo da lugar a individuos que son víctimas indefensas de un sistema que los esclaviza y deshumaniza. Esto es especialmente dañino cuando se produce la división entre trabajo manual e intelectual, puesto que reduce las posibilidades de alcanzar una existencia plenamente satisfactoria a quienes sólo hacen las tareas duras y tediosas del trabajo manual. Más importancia tiene para Marx y Engels que la división del trabajo vaya contra el interés general. Su utopía es un mundo donde estará abolida la propiedad privada y todos los individuos serán libres para desempeñar distintas funciones a lo largo de la jornada. Tal como escriben, en esa sociedad me será posible «hacer una cosa hoy y otra mañana, cazar por la mañana, pescar a mediodía y ser granjero por la tarde, hacer de crítico después de comer, lo que se me ocurra, sin convertirme jamás en cazador, pescador, ganadero ni crítico». Se trata de una visión del trabajo como actividad libremente elegida y satisfactoria en lugar de ser una rutina forzosa sin otra alternativa que el hambre. Las simpatías de Marx y Engels siempre están con el trabajador de clase obrera atrapado en una tarea insatisfactoria: la víctima de un sistema económico sin rostro.\n\nUna crítica a La ideología alemana es que pinta un cuadro demasiado rosa de lo que será el trabajo en el futuro y no reconoce la importancia de la división del trabajo para la sociedad. Es absurda la idea de que en una verdadera sociedad comunista se podrán ejercer distintas tareas. La división del trabajo suele estar basada en la diversidad de aptitudes: hay personas que son mejores que otras trabajando la madera, de modo que es lógico que quienes tienen esa capacidad pasen a ser carpinteros y orienten a los torpes hacia otras tareas. Si yo quisiera hacer una mesa de comedor, es posible que me ocupara cinco o seis veces más tiempo del que tardaría un carpintero en hacer lo mismo; y todo el que me contrate, o confíe en mí, para que haga una mesa correrá el riesgo de recibir un mueble mal hecho. El carpintero trabaja con la madera todos los días y ha adquirido la destreza que se necesita para hacer una mesa. Yo sólo trabajo con madera de vez en cuando y nunca hago nada bien. De manera que es lógico repartir las ocupaciones entre los que son más idóneos para cada cual. Sería absurdo pretender que es posible ser cirujano por la mañana, maquinista de tren a mediodía y futbolista profesional por la tarde.\n\nWarburton, Nigel (2001). Philosophy: The classics. London: Routledge.",
+    "questions": [
+      {
+        "statement": "Centralmente, en el texto se polemiza entorno a",
+        "alternatives": [
+          "A) el conflicto entre Marx y Engels.",
+          "B) la recepción de La ideología alemana.",
+          "C) la posibilidad de la división del trabajo.",
+          "D) la alienación del trabajador industrial.",
+          "E) la extensión de la jornada laboral."
+        ],
+        "correct": 2,
+        "rationale": "En el texto se expone la concepción de Marx y Engels sobre la división del trabajo y se critica la factibilidad de la eliminación de esta."
+      },
+      {
+        "statement": "En el texto, la expresión SIN ROSTRO equivale a una situación",
+        "alternatives": [
+          "A) edificante.",
+          "B) pueril.",
+          "C) inhumana.",
+          "D) noble.",
+          "E) visible."
+        ],
+        "correct": 2,
+        "rationale": "Referirse a un sistema económico sin rostro que aplica la división del trabajo que tiene una influencia negativa en el ser humano nos refiere a un sistema inhumano o alienador."
+      },
+      {
+        "statement": "Resulta incompatible con el texto afirmar que la concepción de Marx y Engel propugna",
+        "alternatives": [
+          "A) el bienestar pleno del ser humano.",
+          "B) el vínculo entre la vida y el trabajo.",
+          "C) la búsqueda de una vida satisfactoria.",
+          "D) una forzada rutina del obrero industrial.",
+          "E) la relación de lo manual y lo intelectual."
+        ],
+        "correct": 3,
+        "rationale": "Lo concepción de Marx y Engels propugna librar al trabajador de la forzosa rutina."
+      }
+    ]
+  },
+  {
+    "type": "reading_comprehension",
+    "statement": "Es tentador pensar que todo enunciado es cierto o es falso. No obstante, hay una tercera clase importante de enunciados, a saber, los que no son ciertos ni falsos, sino que literalmente carecen de significado. El principio de verificación de Ayer, formulado en su Lenguaje, verdad y lógica, está pensado para identificar esta tercera clase de enunciados. Así, por ejemplo, es verdad que yo estoy mecanografiando esto en un procesador de textos; es falso que esté escribiendo a mano; y carece de significado decir «ideas verdes incoloras duermen con rabia». Este último enunciado equivale a decir «palabrería»: aunque utiliza palabras, no puede ser cierto ni falso, dado que es imposible encontrar un criterio que determine si es cierto o falso. El principio de verificación hace dos preguntas a cualquier enunciado. En primer lugar: ¿Es cierto por definición?». Y en segundo lugar, sino: «¿Es en principio verificable?». Todo enunciado que pase la prueba, tanto si es verdad por definición como si es en principio verificable, tiene significado. Todo enunciado que no supera la prueba carece de significado y, por lo tanto, no se ha de tomar en serio. Según Ayer, muchos filósofos han sido víctimas de creer que estaban formulando enunciados con significado cuando en realidad, como se revela al aplicar el principio de verificación, han escrito incoherencias. Su palabra favorita para estos dislates en el campo de la filosofía es «metafísica». Un enunciado metafísico es el que pretende decir algo genuino (es decir, con significado), pero, debido a no ser cierto por definición ni empíricamente verificable, en realidad carece de significado. La crítica más seria al libro de Ayer es que el principio de verificación no parece superar su propia prueba para garantizar el significado. ¿Es el principio verdad por definición? Evidentemente que no. ¿Es empíricamente verificable? Cuesta trabajo ver cómo sería eso factible. Por lo tanto, de acuerdo con los dictados del principio, el mismo principio es un absurdo. De dar por buena esta crítica, el proyecto de Ayer se desmorona, puesto que depende por completo de que sea verdad la tesis de que toda proposición con significado pasaría la prueba. Ayer responde a esta crítica que el principio de verificación es verdad por definición. Lo mismo que la ecuación matemática «91 x 79 = 7189», no es evidentemente verdad por definición: por lo mismo puede resultar interesante y es un descubrimiento. No obstante, Alfred Ayer no demuestra de dónde deduce este principio de verificación ni aporta el equivalente a un cálculo matemático mediante el cual sea posible comprobar si su respuesta ha sido correcta. O tal vez el principio de verificación no sea más que una propuesta, la recomendación de que debemos utilizar la expresión «con significado» de la manera que indica el principio. Pero, de ser así, constituiría según sus propios criterios el equivalente metafísico a la manifestación de una emoción, exactamente el tipo de enunciado que tan concienzudamente ha eliminado Ayer de la filosofía. En cualquier caso, la crítica de que el principio de verificación se autorrefuta tiene una fuerza devastadora. Warburton, Nigel (2001). Philosophy: The classics. London: Routledge.",
+    "questions": [
+      {
+        "statement": "Principalmente, la crítica al principio de verificación se sustenta en",
+        "alternatives": [
+          "A) la autorreferencia de su propia formulación.",
+          "D) la definición más pertinente para la metafísica.",
+          "C) la diferencia entre enunciado y palabrería.",
+          "D) el postulado sin sentido de Lenguaje, verdad y lógica.",
+          "E) las similitudes entre la lógica y la realidad."
+        ],
+        "correct": 0,
+        "rationale": "Alfred Ayer formuló el principio de verificación y en el texto se analiza y luego se formula la crítica más sería a aquel principio: ¿es ese principio de verificación también verificable?"
+      },
+      {
+        "statement": "El antónimo contextual de DISLATES es",
+        "alternatives": [
+          "A) afirmaciones.",
+          "D) insensateces.",
+          "B) aciertos.",
+          "E) ambigüedades.",
+          "C) bemoles."
+        ],
+        "correct": 2,
+        "rationale": "El término «dislates» significa en el texto errores o equívocos al proferir enunciados que carecen de significado. De allí que, su antónimo contextual sea aciertos."
+      },
+      {
+        "statement": "Resulta incompatible sostener que Alfred Ayer",
+        "alternatives": [
+          "A) escribió el libro Lenguaje, verdad y lógica.",
+          "B) proscribió las sentencias metafísicas.",
+          "C) reflexionó en base a una lógica bivalente.",
+          "D) consideró los enunciados matemáticos.",
+          "E) limitó lo que tiene significado a lo verificable."
+        ],
+        "correct": 4,
+        "rationale": "En principio, Ayer señaló que un enunciado tiene sentido por definición o porque es verificable; por tanto, no es correcto afirmar que solo lo verificable es verdadero."
+      }
+    ]
+  },
+  {
+    "type": "sentence_elimination",
+    "statement": "Resulta incompatible sostener que Alfred Ayer",
+    "alternatives": [
+      "A) escribió el libro Lenguaje, verdad y lógica.",
+      "B) proscribió las sentencias metafísicas.",
+      "C) reflexionó en base a una lógica bivalente.",
+      "D) consideró los enunciados matemáticos.",
+      "E) limitó lo que tiene significado a lo verificable."
+    ],
+    "correct": 4,
+    "rationale": "En principio, Ayer señaló que un enunciado tiene sentido por definición o porque es verificable; por tanto, no es correcto afirmar que solo lo verificable es verdadero."
+  },
+  {
+    "type": "sentence_elimination",
+    "statement": "Se desprende del texto que el autor de Lenguaje, verdad y lógica privilegió",
+    "alternatives": [
+      "A) la ciencia por sobre la metafísica.",
+      "B) la matemática en vez de la física.",
+      "C) el análisis lingüístico de enunciados.",
+      "D) los estudios filosóficos amplios.",
+      "E) los tratados de lógica polivalente."
+    ],
+    "correct": 0,
+    "rationale": "Al llamar incoherentes a los enunciados no verificables de la metafísica; y al sostener que solo tiene sentido lo verificable o lo verdadero por definición; está claro que posicionó en primer lugar a la ciencia."
+  },
+  {
+    "type": "sentence_elimination",
+    "statement": "Si alguien escribiera «el principio de verificación mide dos metros y medio»",
+    "alternatives": [
+      "A) sería un conspicuo filósofo.",
+      "C) acabaría en un manicomio.",
+      "E) refutaría a Alfred Ayer.",
+      "B) formularía un sin sentido.",
+      "D) expresaría una falsedad."
+    ],
+    "correct": 3,
+    "rationale": "Dicho enunciado no sería falso, sino un sinsentido en principio inverificable."
+  },
+  {
+    "type": "reading_comprehension",
+    "statement": "De acuerdo a los Estudios Epidemiológicos en Salud Mental (EESM) que desarrolla el INSM «HD-HN» desde el año 2002, la presencia de al menos alguna discapacidad o inhabilidad en la población generales en promedio del 14%, fluctuando entre 8,3% en las ciudades de la sierra rural hasta 26.5% en Lima y Callao (Gráfico Nº 1). En cuanto a las actitudes hacia la persona con trastorno mental, se ha encontrado que la aceptación hacia ellas varía desde un 13,3% en ciudades de la sierra rural hasta 35,1% en ciudades de la costa peruana; la actitud de ayuda hacia ellas estuvo presente desde un 42,8% de personas en ciudades de la costa peruana hasta el 58,7% en ciudades de la sierra rural. Las actitudes de alejamiento fueron reportadas por 14,8% de la población, de indiferencia por 4,3% y el rechazo explícito por 1,8% a nivel nacional.\n\nGráfico N° 1: Porcentaje de población adulta con al menos una discapacidad o inhabilidad\n(EESM INSM «HD-HN»)\n\nEsta cifras nos muestran que al menos 1 de cada 7 peruanos (3 950 907 personas)\ntendría algún tipo de discapacidad que dificultaría su desempeño personal, familiar,\nacadémico, laboral y/o social.\n\nEn lo referente a la discapacidad específica por trastornos mentales, se encuentra que\nla prevalencia de vida de trastornos mentales a nivel nacional es de 33,7% (9 510 397\npersonas), lo cual significa que aproximadamente 1 de cada 3 peruanos en algún momento\nde su vida presentará algún problema de salud mental. Si se examina la prevalencia actual\n(por ejemplo últimos 6 meses) de cualquier trastorno mental, esta cifra es de 17,6%. A pesar\nde ser tan frecuente, la brecha del tratamiento o proporción de personas que necessitando\natención no la reciben es de 80%, es decir 8 de cada 10 personas con un trastorno mental\nno reciben tratamiento adecuado. Las razones de ello incluyen dificultades de acceso,\noferta, disponibilidad de recursos, estigma y otros factores relacionados, que hacen más\ncomplicado su afronte y recuperación con el consecuente aumento de situaciones de\ndiscapacidad para dichas personas.",
+    "questions": [
+      {
+        "statement": "En el texto, el término OFERTA connota",
+        "alternatives": [
+          "A) escasez.",
+          "D) disponibilidad.",
+          "B) requerimiento.",
+          "E) deterioro.",
+          "C) disposición."
+        ],
+        "correct": 0,
+        "rationale": "Una de las razones para la brecha de tratamiento mental (80%) es la escasez de centros de salud para este tratamiento."
+      },
+      {
+        "statement": "Respecto de la población que padece trastorno mental es incompatible afirmar que",
+        "alternatives": [
+          "A) la población de las ciudades de la sierra rurales más proclive a la ayuda.",
+          "B) la población de las ciudades de la costa es más tolerante con dicha población.",
+          "C) se encuentra concentrada en gran porcentaje en las ciudades de Lima y Callao.",
+          "D) pesa el estigma, sobre todo, en la población de la sierra rural.",
+          "E) encuentra mayor esperanza para sus males en las ciudades de la sierra rural."
+        ],
+        "correct": 4,
+        "rationale": "En estas ciudades es menos aceptado y encuentra mayores dificultades de acceso para su tratamiento."
+      },
+      {
+        "statement": "A partir del gráfico, se puede deducir que la población con al menos una discapacidad",
+        "alternatives": [
+          "A) se ha estancado en la selva y en la sierra rural.",
+          "B) está concentrada, principalmente, en Lima y Callao.",
+          "C) en las ciudades de la sierra rural crece lentamente.",
+          "D) en las fronteras, se encuentra más abandonada.",
+          "E) se incrementará cuando se incluya a los menores."
+        ],
+        "correct": 1,
+        "rationale": "El 26,5%, el mayor porcentaje, está concentrada en Lima y Callao."
+      }
+    ]
+  },
+  {
+    "type": "verbal_series",
+    "statement": "Señale el término que no corresponde a la serie verbal.",
+    "alternatives": [
+      "A) pasado",
+      "D) remoto",
+      "B) allende",
+      "E) antaño",
+      "C) pretérito"
+    ],
+    "correct": 2,
+    "rationale": "Serie verbal que corresponde al campo semántico de lo pasado."
+  },
+  {
+    "type": "verbal_series",
+    "statement": "Señale el término que no corresponde a la serie verbal.",
+    "alternatives": [
+      "A) fárrago",
+      "B) laberinto",
+      "C) dédalo",
+      "D) caos",
+      "E) policromo"
+    ],
+    "correct": 4,
+    "rationale": "Serie verbal que corresponde al campo semántico del caos."
+  },
+  {
+    "type": "verbal_series",
+    "statement": "Señale el término que no corresponde a la serie verbal.",
+    "alternatives": [
+      "A) contumaz",
+      "B) rebelde",
+      "C) renuente",
+      "D) indisciplinado",
+      "E) díscolo"
+    ],
+    "correct": 0,
+    "rationale": "Serie verbal que corresponde al campo semántico de la rebeldía."
+  },
+  {
+    "type": "sentence_elimination",
+    "statement": "3. Señale el término que no corresponde a la serie verbal.",
+    "alternatives": [
+      "A) contumaz",
+      "B) rebelde",
+      "C) renuente",
+      "D) indisciplinado",
+      "E) díscolo"
+    ],
+    "correct": 0,
+    "rationale": "Serie verbal que corresponde al campo semántico de la rebeldía."
+  },
+  {
+    "type": "verbal_series",
+    "statement": "5. Insomnio, vigilia; somnolencia, modorra; óbice, escollo;",
+    "alternatives": [
+      "A) tristeza, exultación.",
+      "B) interés, empeño.",
+      "C) perspicacia, intrepidez.",
+      "D) aliciente, diligencia.",
+      "E) inopia, opulencia."
+    ],
+    "correct": 1,
+    "rationale": "Serie verbal formada por parejas de sinónimos."
+  },
+  {
+    "type": "verbal_series",
+    "statement": "6. Hilarante, patético; ameno, tedioso; pernicioso, inocuo;",
+    "alternatives": [
+      "A) indefenso, inerme.",
+      "B) infausto, feliz.",
+      "C) ileso, incólume.",
+      "D) luctuoso, lamentable.",
+      "E) histriónico, gracioso."
+    ],
+    "correct": 1,
+    "rationale": "Serie verbal formada por parejas de antónimos."
+  },
+  {
+    "type": "verbal_series",
+    "statement": "7. Engrandecer, magnificar, ensalzar,",
+    "alternatives": [
+      "A) descollar.",
+      "B) medrar.",
+      "C) enaltecer.",
+      "D) incentivar.",
+      "E) inculcar."
+    ],
+    "correct": 2,
+    "rationale": "Serie basada en la sinonimia que se completa adecuadamente con enaltecer que significa: ensalzar, engrandecer."
+  },
+  {
+    "type": "sentence_elimination",
+    "statement": "8. ¿Cuál de los siguientes términos no pertenece a la serie verbal?",
+    "alternatives": [
+      "A) macizo",
+      "B) duro",
+      "C) sólido",
+      "D) inexpugnable",
+      "E) compacto"
+    ],
+    "correct": 3,
+    "rationale": "El término inexpugnable que significa: aquello que no se puede tomar o conquistar por las armas, no entra en el campo semántico de lo sólido, compacto, etc."
+  },
+  {
+    "type": "verbal_series",
+    "statement": "¿Cuál de los siguientes términos no pertenece a la serie verbal?",
+    "alternatives": [
+      "A) macizo",
+      "B) duro",
+      "C) sólido",
+      "D) inexpugnable",
+      "E) compacto"
+    ],
+    "correct": 3,
+    "rationale": "El término inexpugnable que significa: aquello que no se puede tomar o conquistar por las armas, no entra en el campo semántico de lo sólido, compacto, etc."
+  }
+]

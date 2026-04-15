@@ -1,0 +1,307 @@
+[
+  {
+    "type": "reading_comprehension",
+    "statement": "La negación de la naturaleza humana no solo ha enrarecido el mundo de la crítica y de los intelectuales, sino que también ha perjudicado la vida de las personas corrientes. La teoría de que los hijos pueden ser moldeados por sus padres como se moldea la arcilla ha propiciado unos regímenes educativos artificiales y, a veces, crueles. Ha distorsionado las posibilidades con que cuentan las madres cuando tratan de equilibrar su vida, y han multiplicado la ansiedad de aquellos progenitores cuyos hijos no se han convertido en lo que esperaban. La creencia de que los gustos humanos no son más que preferencias culturales reversibles ha llevado a los planificadores sociales a impedir que la gente disfrute de la ornamentación, de la luz natural y de la escala humana, y ha forzado a millones de personas a vivir en grises cajas de cemento. La idea romántica de que todo mal es un producto de la sociedad ha justificado la puesta en libertad de psicópatas peligrosos que de inmediato asesinaron a personas inocentes. Y la convicción de que\n\nciertos proyectos masivos de ingeniería social podrían remodelar la humanidad ha llevado a algunas de las mayores atrocidades de la historia.\n\nPinker, S. (2003). La tabla rasa. La negación moderna de la naturaleza humana. Barcelona: Paidós. (Texto editado, pp. 7-8).",
+    "questions": [
+      {
+        "statement": "1. Sobre el ideal romántico de que la maldad es un producto social, es compatible sostener que",
+        "alternatives": [
+          "A) permitió atender a peligrosos asesinos con psicopatía para curar sus fobias.",
+          "B) ha devenido en diversos experimentos de cambios de personalidad criminales.",
+          "C) ocasionó que enfermos mentales fueran liberados y asesinen gente inocente.",
+          "D) es atingente con la consideración de que lo genético define nuestra conducta.",
+          "E) derivó en la reclusión injusta de esquizofrénicos en hospitales psiquiátricos."
+        ],
+        "correct": 2,
+        "rationale": "Se indica claramente en el texto que los psicópatas fueron liberados y, de inmediato, asesinaron gente inocente."
+      },
+      {
+        "statement": "2. Sobre la negación de la naturaleza humana, es compatible afirmar que",
+        "alternatives": [
+          "A) ha sido ciertamente proficua en la vida cotidiana de muchas personas comunes.",
+          "B) esta se manifiesta en teorías sobre el amoldamiento de los hijos por los padres.",
+          "C) ocasionó que los enfermos mentales peligrosos se curen de sus taras sociales.",
+          "D) generó el desplazamiento de la carga cultural que determina nuestra conducta.",
+          "E) ha sido interpretada de forma inadecuada por el autor del texto, pues la recusa."
+        ],
+        "correct": 1,
+        "rationale": "La negación de la naturaleza biológica del ser humano, en efecto, se manifiesta en la consideración de que los hijos son esponjas moldeables por los padres."
+      },
+      {
+        "statement": "3. Es compatible con el texto afirmar que muchas veces los padres se frustran al evidenciar que sus hijos carecen del potencial que ellos esperaban, porque",
+        "alternatives": [
+          "A) el desequilibrio generado por la enseñanza es el camino seguro hacia el éxito.",
+          "B) la naturaleza humana debe ser repensada con base en criterios socioculturales.",
+          "C) los factores biológicos determinan la manipulación de la conducta en los niños.",
+          "D) la naturaleza humana, al ser negada, desencadena la tolerancia a los fracasos.",
+          "E) la negación de la naturaleza humana ha desvirtuado la diversidad de aptitudes."
+        ],
+        "correct": 4,
+        "rationale": "En el texto se señala que es la negación de la naturaleza humana la que ha determinado que los padres se tensionen al fracasar en los objetivos que estos habían previsto."
+      }
+    ]
+  },
+  {
+    "type": "sentence_elimination",
+    "statement": "2. Es compatible con el desarrollo textual afirmar que la intencionalidad debería hacerse manifiesta en la evidencia de diversas actividades del neandertal, porque",
+    "alternatives": [
+      "A) además de los entierros y la disposición de la osamenta de los enterrados, esta se podría detectar en ofrendas rituales.",
+      "B) los entierros son, en algunos casos, realizados de forma premeditada, pero los ritos son necesariamente voluntarios.",
+      "C) la necesidad de otorgar productos está vinculada de forma excluyente con los muertos y los ritos oficiados.",
+      "D) algunos neandertales estuvieron emparentados con especies como el Homo sapiens y superaron su torpeza.",
+      "E) se ha comprobado que esta especie ha sido inventiva en diversas aristas de su vida cotidiana e interactiva."
+    ],
+    "correct": 0,
+    "rationale": "Son tres las actividades que hacen posible la determinación de la capacidad simbólica del hombre de Neanderthal: los entierros de los muertos, las ofrendas, etc.; luego, estas deben realizarse de forma premeditada."
+  },
+  {
+    "type": "sentence_elimination",
+    "statement": "3. Respecto de los entierros oficiados por los seres humanos, de comprobarse que los neandertales también ofrecían dádivas rituales, es compatible afirmar que",
+    "alternatives": [
+      "A) solo los enfermos eran sepultados por una inopinada consideración y estima.",
+      "B) la capacidad simbólica dejaría de ser considerada privativa de nuestra especie.",
+      "C) los entierros de estos fueron realizados de forma aleatoria y secreta por aquellos.",
+      "D) algunos de los restos fósiles encontrados se vincularían con otra especie ignota.",
+      "E) el Homo sapiens fue el responsable de adiestra a estos últimos en ciertas tareas."
+    ],
+    "correct": 1,
+    "rationale": "Las ofrendas permitirían afirmar que el hombre de Neanderthal desarrolló capacidad simbólica, de manera que no sería únicamente el Homo sapiens a quien se le reconozca esta."
+  },
+  {
+    "type": "reading_comprehension",
+    "statement": "Una de las mayores hazañas de la física en los últimos dos mil años ha sido el aislamiento y la identificación de las cuatro fuerzas que rigen el universo. Todas ellas pueden describirse en el lenguaje de los campos introducido por Faraday. Por desgracia, ninguna de ellas tiene exactamente las propiedades de los campos de fuerza que se describen en la mayor parte de la literatura de ciencia ficción. Estas fuerzas son:\n\n1.\n\n2.\n\nGravedad. La fuerza silenciosa que mantiene nuestros pies en el suelo, impide que la Tierra y las estrellas se desintegren, y mantiene unidos el sistema solar y la galaxia. Sin la gravedad, la rotación de la Tierra nos haría salir despedidos del planeta hacia el espacio a una velocidad de 1600 kilómetros por hora. El problema es que la gravedad tiene propiedades exactamente opuestas a las de los campos de fuerza que encontramos en la ciencia ficción: es atractiva, no repulsiva; es extremadamente débil; y actúa a distancias astronómicas.\n\nElectromagnetismo (EM). La fuerza que ilumina nuestras ciudades. Los láseres, la radio, la televisión, los aparatos electrónicos modernos, la internet, la electricidad, entre otros, son consecuencias de la fuerza electromagnética. Es quizá la fuerza más útil que han llegado a dominar los seres humanos. A diferencia de la gravedad, puede ser tanto atractiva como repulsiva. Sin embargo, no es apropiada como un campo de fuerza. En primer lugar, puede neutralizarse con facilidad. Los plásticos y otros aislantes, por ejemplo, pueden penetrar fácilmente en un potente campo eléctrico o magnético. En segundo lugar, el electromagnetismo actúa a distancias muy grandes y no puede concentrarse fácilmente en un plano.\n\n3. y 4. Las fuerzas nucleares débil y fuerte. La fuerza débil es la fuerza de la desintegración radiactiva, calienta el centro de la Tierra (que es radiactivo). Es la fuerza que hay detrás de los volcanes, los terremotos y la deriva de los continentes. La fuerza fuerte mantiene unido el núcleo del átomo. La energía del Sol y las estrellas tiene su origen en la fuerza nuclear, que es responsable de iluminar el universo. El problema es que la fuerza nucleares una fuerza de corto alcance, que actúa principalmente a la distancia de un núcleo. Puesto que está tan ligada a las propiedades de los núcleos, es extraordinariamente difícil de manipular. Por el momento, las únicas formas que tenemos de manipular esta fuerza consisten en romper partículas subatómicas en colisionadores de partículas o detonar bombas atómicas.\n\nKaku, M. (2009). Física de lo imposible. Barcelona: Debate. (Texto editado, pp. 18-20).\n\n1. Determine el tema central del texto.\n\nA) El efecto de diferenciar las cuatro fuerzas de la física en la creación de los llamados campos de fuerza.\nB) Las cuatro fuerzas físicas fundamentales y su desvinculación del concepto de campos de fuerza.\nC) La unificación de las cuatro fuerzas esenciales que rigen el universo desde una concepción física.\nD) La gravedad y el electromagnetismo como fuerzas fundamentales para unificar los campos de fuerza.\nE) La explicación de los campos de fuerza propuestos por Faraday con base en las cuatro fuerzas físicas.\n\n2. En el texto, la palabra AISLAMIENTO connota\n\nA) confinamiento.\nD) alejamiento.\nB) destierro.\nE) expulsión.\nC) diferenciación.\n\n3. Es compatible, respecto de los campos de fuerza propuestos en la lectura, afirmar que\n\nA) son diferentes a las cuatro fuerzas físicas medulares por su naturaleza.\nB) fueron predichos por Faraday para materializarlos a partir de la gravedad.\nC) carecen de sustento empírico y, por esa razón, jamás serán inventados.\nD) estos se caracterizan por atraer cuerpos extraños a fin de desintegrarlos.\nE) son productos de la ciencia ficción, pues los físicos los han rechazado.",
+    "questions": [
+      {
+        "statement": "1. Determine el tema central del texto.",
+        "alternatives": [
+          "A) El efecto de diferenciar las cuatro fuerzas de la física en la creación de los llamados campos de fuerza.",
+          "B) Las cuatro fuerzas físicas fundamentales y su desvinculación del concepto de campos de fuerza.",
+          "C) La unificación de las cuatro fuerzas esenciales que rigen el universo desde una concepción física.",
+          "D) La gravedad y el electromagnetismo como fuerzas fundamentales para unificar los campos de fuerza.",
+          "E) La explicación de los campos de fuerza propuestos por Faraday con base en las cuatro fuerzas físicas."
+        ],
+        "correct": 1,
+        "rationale": "El autor se enfoca en presentar las cuatro fuerzas fundamentales del universo develadas por la física, pero para deslindar sus propiedades de las de los campos de fuerza propuestos por Faraday."
+      },
+      {
+        "statement": "2. En el texto, la palabra AISLAMIENTO connota",
+        "alternatives": [
+          "A) confinamiento.",
+          "D) alejamiento.",
+          "B) destierro.",
+          "E) expulsión.",
+          "C) diferenciación."
+        ],
+        "correct": 2,
+        "rationale": "El vocablo es usado por el autor para referirse a la acción de distinguir las propiedades idiosincrásicas de cada una de las fuerzas. Estas características, en efecto, permiten aislar o diferenciar cada una de estas."
+      },
+      {
+        "statement": "3. Es compatible, respecto de los campos de fuerza propuestos en la lectura, afirmar que",
+        "alternatives": [
+          "A) son diferentes a las cuatro fuerzas físicas medulares por su naturaleza.",
+          "B) fueron predichos por Faraday para materializarlos a partir de la gravedad.",
+          "C) carecen de sustento empírico y, por esa razón, jamás serán inventados.",
+          "D) estos se caracterizan por atraer cuerpos extraños a fin de desintegrarlos.",
+          "E) son productos de la ciencia ficción, pues los físicos los han rechazado."
+        ],
+        "correct": 0,
+        "rationale": "Los campos de fuerza, en tanto predicciones, son diferentes de las cuatro fuerzas fundamentales del universo descubiertas por los físicos."
+      }
+    ]
+  },
+  {
+    "type": "reading_comprehension",
+    "statement": "SECCIÓN 7B\n\nEVALUACIÓN DE LA COMPRENSIÓN LECTORA EN ESPAÑOL\n\nEn las sociedades han existido siempe códigos culturales para la regulación de la sexualidad. Para algunos autores ciertas reglas, como las que establecen qué uniones son legítimas y, sobre todo, las que restringen la endogamia y proscriben el incesto, están en la base misma de la organización social. Parece haber sido de fundamental importancia en todas las sociedades conocidas la reglamentación cultural de la vida sexual: el control y la orientación del deseo, a través de un cuerpo de reglas que establecían con quiénes estaba permitido unirse y con quiénes estaba vedado. Este conjunto de restricciones y prohibiciones organizaban en cada sociedad las relaciones lícitas entre los sexos, el cortejo, las uniones matrimoniales, el cuidado y sustento de los hijos. En la civilización occidental, basada en la tradición judeo-cristiana (conel agregado de la herencia grecorromana), se han instalado desde muy antiguo formas de organización de la familia y normativas relativas al matrimonio que incluyen grandes restricciones respecto de la vida sexual en general.\n\nTales restricciones han arraigado profundamente en la cultura y forman parte de sus códigos, de los modos de percibir y apreciar, de los valores y las disposiciones afectivas con las que los individuos se han socializado durante muchas generaciones. La distinción entre sexo y género, que ha cobrado mayor relevancia en las últimas décadas, tiende a poner de manifiesto que muchos de los comportamientos distintivos entre hombres y mujeres tienen su base en los procesos de socialización. «Sexo» remite, principal- mente, a los comportamientos y diferencias que reconocen un origen biológico o anatómico, mientras que la palabra «género» da relevancia a los condicionamientos de tipo cultural, el modo como cada cultura ha los comportamientos esperados y el lugar social de los hombres o de las mujeres.\n\nido definiendo históricamente\n\nEn la cultura occidental han predominado desde tiempos muy lejanos pautas que reprimían,regulaban y restringían la sexualidad y ordenaban las formas legítimas de unión, las cuales estaban igualmente sujetas a reglas estrictas. Las instituciones hegemónicas, como la Iglesia y el Estado, tenián amplia jurisdicción sobre estos aspectos; por eso, la familia monogámica, basada en el matrimonio legítimo, ocupó un papel central en la organización de la vida social y económica: de ahí su trascendencia pública, particularmente en lo referido a la conservación y transmisión del patrimonio y del linaje.\n\nMargulis, M. (2003). Juventud, cultura, sexualidad. Argentina: Editorial Biblos.\n",
+    "questions": [
+      {
+        "statement": "El autor del texto tiene la intención de explicar",
+        "alternatives": [
+          "A) la trascendencia de la distinción entre sexo y género en Occidente.",
+          "B) la regulación de la sexualidad como parte de la organización social.",
+          "C) la labor de la Iglesia y del Estado en la conservación del patrimonio.",
+          "D) la configuración de la familia monogámica, a partir del matrimonio.",
+          "E) el trasfondo ideológico de los patrones conductuales según el género."
+        ],
+        "correct": 1,
+        "rationale": "En el texto se desarrolla, básicamente, el tema de la regulación de la sexualidad como parte de la organización social."
+      },
+      {
+        "statement": "Resulta compatible con el texto sostener que la distinción entre sexo y género",
+        "alternatives": [
+          "A) ha sido desdeñada en las últimas décadas.",
+          "B) carece de valor para explicar el comportamiento.",
+          "C) se halla al margen del proceso de socialización.",
+          "D) ha sido inviable, pues ambos son indiscernibles.",
+          "E) ha coadyuvado la explicación de la conducta."
+        ],
+        "correct": 4,
+        "rationale": "El interés por esclarecer la distinción entre sexo y género ha logrado revelar que la conducta de hombres y mujeres se erigen sobre los procesos de socialización."
+      },
+      {
+        "statement": "En el texto, el término CUERPO significa",
+        "alternatives": [
+          "A) molde.",
+          "B) patrón.",
+          "C) estereotipo.",
+          "D) sistema.",
+          "E) estructura."
+        ],
+        "correct": 3,
+        "rationale": "En todas las sociedades se ha definido la reglamentación cultural de la vida sexual, para ello, se contaban con un cuerpo o sistema de reglas, las cuales establecían qué uniones eran permitidas y qué otras eran vetadas."
+      }
+    ]
+  },
+  {
+    "type": "reading_comprehension",
+    "statement": "En todas las sociedades se ha definido la reglamentación cultural de la vida sexual, para ello, se contaban con un cuerpo o sistema de reglas, las cuales establecían qué uniones eran permitidas y qué otras eran vetadas.",
+    "questions": [
+      {
+        "statement": "Se desprende del texto que la regulación de la sexualidad",
+        "alternatives": [
+          "A) pudo llevarse a cabo a través de códigos culturales.",
+          "B) estaba orientada a la prohibición de la endogamia.",
+          "C) no fue homogénea, sino orientada a cada sociedad.",
+          "D) era un asunto desvinculado de la Iglesia o del Estado.",
+          "E) suscitó el interés solo de las sociedades occidentales."
+        ],
+        "correct": 2,
+        "rationale": "La regulación de la sexualidad se habría desprendido de la base de la organización social de cada cultura. Por tal motivo, no habría sido homogénea, sino que habría estado orientada a cada sociedad."
+      },
+      {
+        "statement": "Si la Iglesia y el Estado no hubiesen tenido amplia jurisdicción sobre la regulación de la sexualidad en la cultura occidental,",
+        "alternatives": [
+          "A) la familia monogámica no habría sido el eje de su organización socioeconómica.",
+          "B) la conservación y la trasmisión del patrimonio y del linaje habrían sido inviables.",
+          "C) las sociedades carecerían de un sistema de normas que legitimen los matrimonios.",
+          "D) esta se habría impuesto al margen de la diferenciación entre el sexo y el género.",
+          "E) las restricciones morales habrían definido el estatus social de hombres y mujeres."
+        ],
+        "correct": 0,
+        "rationale": "Las instituciones hegemónicas gozaban de poder y autoridad sobre la regulación sexual; por tal motivo, instauraron la familia monogámica para salvaguardar el patrimonio y el linaje."
+      }
+    ]
+  },
+  {
+    "type": "reading_comprehension",
+    "statement": "En la mayoría de las especies animales se observa una serie de situaciones definidas, estereotipadas, que preceden el acto sexual (figura v.2). Los estudios de animales, en particular de mamíferos, muestran la importancia del hipotálamo que, como hemos visto, desempeña un papel clave en la generación y la modulación de las emociones. La activación de neuronas en estas regiones del hipotálamo excita, a su vez, a otras que tienen a su cargo la iniciación y coordinación de un conjunto de movimientos musculares y viscerales, que se repiten de manera consistente y terminan con la consumación del acto sexual. Algunos de estos patrones son también característicos de la última parte del acto sexual en el humano. Lo que ocurre antes es justamente el terreno del proceso creativo, del erotismo, cuando la mente puede elaborar pensamientos, lenguaje y acciones complejas mucho antes de culminar el proceso con un acto sexual. Imaginación, fantasía, ensoñación, que son elementos básicos del erotismo, se encuentran hasta donde sabemos, en sitios, neuronas y conexiones neuronales exclusivas de la especie humana.\n\nEn el animal, los estímulos que incitan a la cópula son variados; el olor de la hembra en celo, el color del plumaje o del pelaje de los machos, la expresión del canto en las aves o el chirriar de las cigarras. En el hombre, además de la existencia de estos mismos estímulos relativamente sencillos que le permiten funcionar en forma simple semejante a la de los animales, existe una multitud de otras motivaciones externas, pero más sutiles, como la representación escrita o plástica, y de manera muy importante, otras internas como la evocación y la imaginación.",
+    "questions": [
+      {
+        "statement": "El tema central del texto es",
+        "alternatives": [
+          "A) el papel de las neuronas en las relaciones sexuales.",
+          "B) los estereotipos sexuales en las especies animales.",
+          "C) la trascendencia neuronal en las motivaciones sexuales.",
+          "D) las funciones del hipotálamo en la reproducción animal.",
+          "E) la complejidad motivacional de la sexualidad humana."
+        ],
+        "correct": 2,
+        "rationale": "En el texto, medularmente, se explica el papel que desempeña el cerebro en las motivaciones de las uniones sexuales de animales y humanos, y si hay semejanzas también se presentan diferencias, en función a cualidades privativas de zonas neuronales en el hombre."
+      },
+      {
+        "statement": "Respecto de los alacranes del gráfico, resulta compatible sostener que",
+        "alternatives": [
+          "A) revelan cambios significativos en su patrón conductual de apareamiento.",
+          "B) se hallan entrelazados para dar inicio a una lucha campal por la hembra.",
+          "C) unen sus tenazas de forma inusual a sus congéneres para finalizar su ritual.",
+          "D) ponen en contacto sus pinzas de la misma manera que el resto de su especie.",
+          "E) son animales que rehúsan el contacto físico para empezar el rito nupcial."
+        ],
+        "correct": 3,
+        "rationale": "En la imagen se observa a dos alacranes que unen sus pinzas como antesala al apareamiento."
+      },
+      {
+        "statement": "En el texto, el antónimo contextual del término CLAVE es",
+        "alternatives": [
+          "A) general.",
+          "B) irrelevante.",
+          "C) evidente.",
+          "D) esencial.",
+          "E) complementario."
+        ],
+        "correct": 1,
+        "rationale": "En el texto, se sostiene que el hipotálamo desempeña un papel clave (crucial) en la generación y regulación de las emociones. Por lo tanto, el antónimo contextual para la palabra CLAVE es IRRELEVANTE."
+      }
+    ]
+  },
+  {
+    "type": "synonyms_and_antonyms",
+    "statement": "En el texto, el hipotálamo desempeña un papel clave (crucial) en la generación y regulación de las emociones.\n3. En el texto, el antónimo contextual del término CLAVE es",
+    "alternatives": [
+      "A) general.",
+      "B) irrelevante.",
+      "C) evidente.",
+      "D) esencial.",
+      "E) complementario."
+    ],
+    "correct": 1,
+    "rationale": "El antónimo contextual para la palabra CLAVE es IRRELEVANTE."
+  },
+  {
+    "type": "synonyms_and_antonyms",
+    "statement": "Hay rasgos comunes que comparten los humanos y los animales en la unión sexual; sin embargo, resulta evidente que en el ser humano hay una antesala a esta y es el erotismo. Este requiere de procesos privativos del hombre, como la imaginación y la fantasía.\n4. Se infiere del texto que el erotismo",
+    "alternatives": [
+      "A) es una serie de conductas estereotipadas del cortejo animal.",
+      "B) es un rasgo distintivo del ser humano para dar inicio a la cópula.",
+      "C) suele estimular la reacción sexual, luego de la unión sexual.",
+      "D) se halla circunscrito al comportamiento instintivo del hombre.",
+      "E) constituye el fundamento de la producción de pensamientos."
+    ],
+    "correct": 1,
+    "rationale": "Hay rasgos comunes que comparten los humanos y los animales en la unión sexual; sin embargo, resulta evidente que en el ser humano hay una antesala a esta y es el erotismo. Este requiere de procesos privativos del hombre, como la imaginación y la fantasía."
+  },
+  {
+    "type": "synonyms_and_antonyms",
+    "statement": "Existen lugares específicos del cerebro humano que son responsables de la imaginación, fantasía y ensoñación, las cuales son la base del erotismo. Por lo tanto, este lo distingue de los animales en relación a la unión sexual.\n5. Si el ser humano careciera de imaginación, fantasía y ensoñación,",
+    "alternatives": [
+      "A) el hipotálamo no podría preparar al organismo para el apareamiento.",
+      "B) los animales también poseerían erotismo para dar inicio a sus cortejos.",
+      "C) las conexiones neuronales humanas serían indiscernibles a los animales.",
+      "D) su desempeño sexual sería equiparable a una conducta estereotipada.",
+      "E) serían evidentes las diferencias reproductivas entre animales y humanos."
+    ],
+    "correct": 3,
+    "rationale": "Existen lugares específicos del cerebro humano que son responsables de la imaginación, fantasía y ensoñación, las cuales son la base del erotismo. Por lo tanto, este lo distingue de los animales en relación a la unión sexual."
+  },
+  {
+    "type": "reading_comprehension",
+    "statement": "En el texto B, se explica que lo punitivo se halla asociado al castigo debido a que alguien infringe la ley. Entonces, el término INFRINGIR connota TRASGRESIÓN. Para el texto A, la evaluación docente es una manera de vulnerar la estabilidad laboral del docente, mientras que para el autor B, se trata de la forma más idónea para conocer los atributos del docente. En el texto B, se sostiene que la CNTE fue la que tildó de punitiva a la evaluación docente, pues esta es parte de la reforma educativa y en esta reforma se vieron perjudicados, al perder el poder que ostentaron por mucho tiempo.",
+    "questions": [
+      {
+        "statement": "En el texto B, el término INFRINGIR connota",
+        "alternatives": [
+          "A) transgresión.",
+          "D) omisión.",
+          "B) separación.",
+          "E) objeción.",
+          "C) vulnerabilidad."
+        ],
+        "correct": 0,
+        "rationale": "En el texto B, se explica que lo punitivo se halla asociado al castigo debido a que alguien infringe la ley. Entonces, el término INFRINGIR connota TRASGRESIÓN."
+      },
+      {
+        "statement": "Se puede afirmar que para el autor del texto A la evaluación docente va ocasionar __;mientras que para el autor del texto B esta evaluación __.",
+        "alternatives": [
+          "A) mejoras significativas; es coercitiva",
+          "B) despidos masivos; transgrede las leyes mexicanas",
+          "C) avances en la educación; es contraproducente",
+          "D) inestabilidad laboral; revelaría los atributos del docente",
+          "E) temor en los docentes; es una improvisación"
+        ],
+        "correct": 3,
+        "rationale": "Para el texto A, la evaluación docente es una manera de vulnerar la estabilidad laboral del docente, mientras que para el autor B, se trata de la forma más idónea para conocer los atributos del docente."
+      },
+      {
+        "statement": "Si la reforma educativa hubiese incrementado el poder que ostentaba la Coordinadora Nacional de Trabajadores de la Educación (CNTE),",
+        "alternatives": [
+          "A) esta no habría tildado de punitiva a la evaluación docente.",
+          "B) los docentes mexicanos serían reacios a ser evaluados.",
+          "C) los despidos docentes irían disminuyendo paulatinamente.",
+          "D) se incrementarían los contratos de docentes aprobados.",
+          "E) las plazas docentes ya no podrían ser manejadas por esta."
+        ],
+        "correct": 0,
+        "rationale": "En el texto B, se sostiene que la CNTE fue la que tildó de punitiva a la evaluación docente, pues esta es parte de la reforma educativa y en esta reforma se vieron perjudicados, al perder el poder que ostentaron por mucho tiempo."
+      }
+    ]
+  }
+]

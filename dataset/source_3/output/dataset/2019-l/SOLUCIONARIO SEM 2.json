@@ -1,0 +1,287 @@
+[
+  {
+    "type": "reading_comprehension",
+    "statement": "COMPRENSIÓN LECTORA\ntipo 1 no puede\nLa diabetes de\nprevenirse con\nlos conocimientos\nactuales. Existen enfoques efectivos\npara prevenir la diabetes de tipo 2, así\ncomo las complicaciones y la muerte\nprematura que pueden derivarse de\ntodos los tipos de diabetes. Entre tales\nenfoques cabe citar las políticas y\nprácticas aplicables a\nlas poblaciones y en entornos específicos\n(escuelas, hogar, lugar de trabajo) que\ncontribuyen a la buena salud de todos,\nindependientemente de si tienen o no\ndiabetes, como practicar ejercicio físico\ncon una regularidad, mantener\nfumar y\nalimentación sana, evitar\ncontrolar\nlos\nlípidos.\n\ntensión arterial y\n\ntodas\nla\nAdoptar una perspectiva que\ncontemple todo el curso de vida es\nfundamental para prevenir la diabetes\nde tipo 2, como lo es para muchas\nafecciones de salud. Las primeras\netapas de la vida, cuando se forman\nlos hábitos alimentarios y de práctica\npuede\nde\nlargo\nprogramarse\nplazo del equilibrio energético, ofrecen una oportunidad inmejorable de intervención para\nmitigar el riesgo de obesidad y de diabetes de tipo 2 en etapas posteriores.\n\nla regulación a\n\nactividad\n\nfísica\n\ny\nNo hay intervenciones o políticas que por sí solas puedan garantizar que ello\nocurra. Es fundamental adoptar un enfoque pangubernamental y pansocial, en el que\ntodos los sectores tengan en cuenta de forma sistemática las repercusiones que tienen en\nla salud las políticas comerciales, agrícolas, económicas, de transporte, educativas y\nurbanísticas, y reconocer que la salud se potencia o se socava como resultado de las\npolíticas aplicadas en esos y otros ámbitos.\n\nOrganización Mundial de\nhttps://apps.who.int/iris/bitstream/handle/10665/204877/WHO_NMH_NVI_16.3_spa.pdf;jsessionid=605C5A\nD2CA5282B72B243458DD16C4B5?sequence=1\n\nInforme mundial sobre\n\nla Salud. (2016).",
+    "questions": [
+      {
+        "statement": "Determine la mejor síntesis del texto.",
+        "alternatives": [
+          "A) Solo adoptando un enfoque pangubernamental y pansocial se conseguirá prevenir\nlos malestares que provoca la diabetes en el organismo humano.",
+          "B) Urge prevenir las complicaciones y la muerte prematura que pueden derivarse de\nlos tres tipos de diabetes por medio de políticas de notorio carácter holístico.",
+          "C) La mejor manera de prevenir la diabetes requiere una perspectiva que contemple\nel ciclo vital e involucre a todos los sectores de la sociedad y del gobierno.",
+          "D) La prevención de la diabetes requiere practicar ejercicio físico con regularidad,\nmantener una buena nutrición, dejar de fumar y controlar el nivel de lípidos.",
+          "E) La intervención política para prevenir la diabetes es importante, pero por sí sola\nno es suficiente para conseguir la reducción del total de casos registrados."
+        ],
+        "correct": 1,
+        "rationale": "Solución:\nEn la lectura, se sostiene que la manera más adecuada de prevenir la diabetes y las complicaciones que derivan de ella demanda un enfoque que observe la vida en su totalidad y la participación de la sociedad y el gobierno en su conjunto."
+      },
+      {
+        "statement": "En el texto, el adjetivo SANA significa",
+        "alternatives": [
+          "A) inocente.",
+          "D) inocua.",
+          "B) saludable.",
+          "E) potente.",
+          "C) vital."
+        ],
+        "correct": 1,
+        "rationale": "De acuerdo con el sentido contextual, una alimentación sana es una alimentación saludable, vale decir, que es balanceada para evitar la aparición de enfermedades."
+      },
+      {
+        "statement": "Sobre la base de la información ofrecida en la infografía, es incompatible sostener\nque la diabetes",
+        "alternatives": [
+          "A) afecta a una de cada once personas en el mundo hoy en día.",
+          "B) constituye un malestar superable para las mujeres gestantes.",
+          "C) podría afectar ciertos órganos como los riñones o el corazón.",
+          "D) encuentra su origen en una crónica y aguda insuficiencia renal.",
+          "E) pondría en riesgo la integridad corporal de algunas personas."
+        ],
+        "correct": 3,
+        "rationale": "En el gráfico se señala que la insuficiencia renal es una consecuencia de la diabetes."
+      }
+    ]
+  },
+  {
+    "type": "sentence_elimination",
+    "statement": "3. Sobre la base de la información ofrecida en la infografía, es incompatible sostener",
+    "alternatives": [
+      "A) afecta a una de cada once personas en el mundo hoy en día.",
+      "B) constituye un malestar superable para las mujeres gestantes.",
+      "C) podría afectar ciertos órganos como los riñones o el corazón.",
+      "D) encuentra su origen en una crónica y aguda insuficiencia renal.",
+      "E) pondría en riesgo la integridad corporal de algunas personas."
+    ],
+    "correct": 3,
+    "rationale": "En el gráfico se señala que la insuficiencia renal es una consecuencia de la diabetes."
+  },
+  {
+    "type": "sentence_elimination",
+    "statement": "4. Determine el valor de verdad (Vo F) de los siguientes enunciados de acuerdo con el contenido del texto y de la infografía.",
+    "alternatives": [
+      "A) FVV",
+      "B) FFF",
+      "C) VVV",
+      "D) FVF",
+      "E) VVF"
+    ],
+    "correct": 3,
+    "rationale": "Solamente es verdadero el segundo enunciado: en efecto, una consecuencia penosa de la diabetes es la ceguera que puede darse en una edad no tan avanzada."
+  },
+  {
+    "type": "sentence_elimination",
+    "statement": "5. Si una política gubernamental sostuviera que la prevención debe restringirse a la esfera escolar por considerar que es el ámbito donde se imparten los conocimientos más valorados,",
+    "alternatives": [
+      "A) se estaría poniendo de relieve la salud de todos los miembros de la sociedad.",
+      "B) incurriría en un error, porque se estarían soslayando otros entornos importantes.",
+      "C) fallaría porque se ha demostrado que el origen de la diabetes es de índole social.",
+      "D) se lograría eliminar el riesgo de obesidad y de la temible diabetes de tipo 2.",
+      "E) estaría en lo cierto, pues la política de prevención siempre funciona con éxito."
+    ],
+    "correct": 1,
+    "rationale": "Si bien la escuela es un ámbito muy importante, no es el único para erigir una adecuada política de prevención."
+  },
+  {
+    "type": "reading_comprehension",
+    "statement": "Maquiavelo defiende dos tesis básicas. En primer lugar, la idea de “razón de Estado”: lo más importante es la construcción, consolidación y ampliación del Estado, pues es el que posibilita la seguridad y libertad de los ciudadanos y el beneficio colectivo, frente al interés individual. Para ello, el Príncipe debe tener un poder fuerte que garantice que los ciudadanos desarrollen su vida de forma provechosa frente a un poder débil con continuas revueltas que desestabilizan el Estado. En segundo lugar, la defensa de que “el fin justifica los medios”. La virtud del gobernante, que en la filosofía clásica suponía honradez, honestidad, generosidad, justicia y piedad, según Maquiavelo está en lograr el fin perseguido, aunque esto implique actuar en contra de la moral. Se propone así una distinción absoluta entre la ética y la política. De esta forma, las virtudes fundamentales del Príncipe son la astucia (zorro) y la fuerza (león). La astucia para conseguir sus objetivos de la forma más inteligente posible, logrando no resultar odiado por sus súbditos, y la fuerza para resultar temido y hacer imposible la rebelión (los lobos). Uniendo ambas cualidades, el Príncipe asegura su poder, fin último de la política. A pesar de todo esto, Maquiavelo asume que la mejor forma de gobierno no es la Monarquía absoluta sino la República libre, el modelo de la República romana clásica. Esto es así, pues si bien el monarca absoluto, en su búsqueda de poder, es útil a la hora de crear y configurar el Estado; sin embargo, una vez creado se dejará llevar por sus intereses personales y no atenderá al interés general del propio Estado. En cambio, en una República donde los ciudadanos participan, una vez constituido un Estado fuerte, presionan al monarca a buscar el interés general. Así, el Príncipe es la figura ideal para crear ese Estado fuerte que una vez ya constituido debe beneficiar siempre a los ciudadanos.",
+    "questions": [
+      {
+        "statement": "1. En el nuevo Estado que proponen Maquiavelo y Rousseau, se pone de relieve",
+        "alternatives": [
+          "A) al individuo que renuncia a todo tipo de egoísmo.",
+          "B) la renuncia de los ciudadanos a los intereses propios.",
+          "C) las virtudes éticas y políticas de los gobernantes.",
+          "D) la necesidad de evitar los graves conflictos sociales.",
+          "E) el papel protagónico y activo que asume el ciudadano."
+        ],
+        "correct": 4,
+        "rationale": "Maquiavelo destaca el papel protagónico de los ciudadanos: estos presionan al monarca a buscar el bien general; así mismo, según Rousseau, el pueblo es el soberano que expresa la voluntad general."
+      },
+      {
+        "statement": "2. A partir de las propuestas de un nuevo Estado de Maquiavelo y Rousseau, se puede deducir que estos discrepan, fundamentalmente, entorno",
+        "alternatives": [
+          "A) al objetivo final de este Estado respecto de los beneficiarios",
+          "B) al valor de la ética en la toma de las decisiones políticas.",
+          "C) a la imperiosa necesidad de reformar el viejo Estado.",
+          "D) a la necesidad de promover el bien de los ciudadanos.",
+          "E) al criterio de sobreponerse a los intereses personales."
+        ],
+        "correct": 1,
+        "rationale": "En la propuesta de Maquiavelo se admite la distinción absoluta entre la ética y la política; en cambio, en la de Rousseau, es esencial renuncia al egoísmo y al interés personal para sentar las bases de una sociedad justa."
+      },
+      {
+        "statement": "3. Si se llegara a demostrar que en las comunidades humanas más prístinas había una lucha encarnizada por el poder, se podría concluir que",
+        "alternatives": [
+          "A) las tesis de Maquiavelo estaban totalmente equivocadas.",
+          "B) hay una antítesis profunda entre comunidad y sociedad.",
+          "C) la premisa básica de Rousseau estriba en un grave error.",
+          "D) las revueltas políticas solo son expresión de la modernidad.",
+          "E) el ser humano nunca ha sido un lobo para otro ser humano."
+        ],
+        "correct": 2,
+        "rationale": "Se derribaría la idea de Rousseau del buen salvaje como un mito falaz."
+      }
+    ]
+  },
+  {
+    "type": "reading_comprehension",
+    "statement": "Poco después, escuchamos ruidos y, en un recodo, surgió un grupo agitado de monjes y servidores. Al vernos, uno de ellos vino a nuestro encuentro diciendo con gran cortesía:\n\n–Bienvenido, señor. No os asombréis si imagino quién sois, porque nos han avisado de vuestra visita. Yo soy Remigio da Varagine, el cillerero del monasterio. Si sois, como creo yo, fray Guillermo de Baskerville, habrá que avisar al Abad. ¡Tú –ordenó a uno del grupo–, sube a avisar que nuestro visitante está por entrar en el recinto!\n\n–Os lo agradezco, señor cillerero –respondió cordialmente mi maestro–, y aprecio aún más vuestra cortesía porque para saludarme habéis interrumpido la persecución. Pero no temáis, el caballo ha pasado por aquí y ha tomado el sendero de la derecha. No podrá ir muy lejos, porque, al llegar al estercolero tendrá que detenerse. Es demasiado inteligente para arrojarse por la pendiente...\n\n–¿Cuándo lo habéis visto? –preguntó el cillerero.\n–¿Verlo? No lo hemos visto, ¿verdad, Adso? –dijo Guillermo volviéndose hacia mí con expresión divertida–. Pero si buscáis a Brunello, el animal solo puede estar donde yo os he dicho.\n\nEl cillerero vaciló. Miró a Guillermo, después al sendero, y, por último, preguntó:\n–¿Brunello? ¿Cómo sabéis...?\n–l¡Vamos! –dijo Guillermo–. Es evidente que estáis buscando a Brunello, el caballo preferido del Abad, el mejor corcel de vuestra cuadra, pelo negro, cinco pies de alzada, cola elegante, cascos pequeños y redondos, pero de galope bastante regular, cabeza pequeña, orejas finas, ojos grandes. Se ha ido por la derecha, os digo, y, en cualquier caso, apresuraos.\n\nEl cillerero, tras un momento de vacilación, hizo un signo a los suyos y se lanzó por el sendero de la derecha, mientras nuestros mulos reiniciaban la ascensión. Cuando, mordido por la curiosidad, estaba por interrogar a Guillermo, él me indicó que esperara. En efecto: pocos minutos más tarde escuchamos gritos de júbilo, y en el recodo del sendero reaparecieron monjes y servidores, trayendo al caballo por el freno. Pasaron junto a nosotros, sin dejar de mirarnos un poco estupefactos, y se dirigieron con paso acelerado hacia la abadía. Creo, incluso, que Guillermo retuvo un poco la marcha de su montura para que pudieran contar lo que había sucedido. Yo ya había descubierto que mi maestro, hombre de elevada virtud en todo y para todo, se concedía el vicio de la vanidad cuando se trataba de demostrar su agudeza y, habiendo tenido ocasión de apreciar sus sutiles dotes de diplomático, comprendí que deseaba llegar a la meta, precedido por una sólida fama de sabio.\n\n–Y ahora decidme –pregunté sin poderme contener–. ¿Cómo habéis podido saber?\n–Mi querido Adso –dijo el maestro–, durante todo el viaje he estado enseñándote a reconocer las huellas por las que el mundo nos habla como por medio de un gran libro. Me da casi vergüenza tener que repetirte lo que deberías saber. En la encrucijada, sobre la nieve aún fresca, estaban marcadas con mucha claridad las improntas de los cascos de un caballo, que apuntaban hacia el sendero situado a nuestra izquierda. Esos signos, separados por distancias bastante grandes y regulares, decían que los cascos eran pequeños y redondos, y el galope muy regular. De ahí deduje que se trataba de un caballo, y que su carrera no era desordenada como la de un animal desbocado. Allí donde los pinos formaban una especie de cobertizo natural, algunas ramas acababan de ser rotas, justo a cinco pies del suelo. Una de las matas de zarzamora, situada donde el animal debe de haber girado, meneando altivamente la hermosa cola, para tomar el sendero de su derecha, aún conservaba entre las espinas algunas crines largas y muy negras. Si el caballo cuyo paso he adivinado no hubiese sido realmente el mejor de la cuadra, no podrías explicar por qué no solo han corrido los mozos tras él, sino también el propio cillerero.\n\n–Bueno –dije–, pero ¿por qué Brunello?\n–¡Que el Espíritu Santo ponga un poco más de sal en tu cabezota, hijo mío! – exclamó el maestro–. ¿Qué otro nombre le habrías puesto si hasta el gran Buridán, que está a punto de ser rector en París, no encontró nombre más natural para referirse a un caballo hermoso?\n\nAsí era mi maestro. No solo sabía leer en el gran libro de la naturaleza, sino también en el modo en que los monjes leían los libros de la escritura, y pensaban a través de ellos. Dotes estas que, como veremos, habrían de serle bastante útiles en los días que siguieron.",
+    "questions": [
+      {
+        "statement": "El signo que hace el cillerero se entiende como",
+        "alternatives": [
+          "A) una treta.",
+          "D) un desdén.",
+          "B) una advertencia.",
+          "E) un enigma.",
+          "C) una orden."
+        ],
+        "correct": 4,
+        "rationale": "El cillerero emite un signo para que busquen a Brunello."
+      },
+      {
+        "statement": "El fragmento seleccionado de la novela de Eco gira entorno a",
+        "alternatives": [
+          "A) la infinita curiosidad discipular de Adso.",
+          "B) la cordialidad del cillerero del monasterio.",
+          "C) la valoración de los caballos por los monjes.",
+          "D) la sutileza en el razonamiento de Guillermo.",
+          "E) la vanidad de los maestros de filosofía."
+        ],
+        "correct": 3,
+        "rationale": "La anécdota se centra en la extraordinaria capacidad de Guillermo en atar cabos y resolver un problema de interpretación."
+      },
+      {
+        "statement": "Resulta incompatible con el texto decir que",
+        "alternatives": [
+          "A) Guillermo deduce informaciones a partir de observar las señales.",
+          "B) Adso mira con devoción las capacidades lógicas de su gran maestro.",
+          "C) Guillermo atribuye la capacidad de la inteligencia al caballo Brunello.",
+          "D) Brunello huye de la abadía con un paso veloz, pero bastante armonioso.",
+          "E) la visita de Guillermo y Adso al monasterio era totalmente inesperada."
+        ],
+        "correct": 4,
+        "rationale": "Dice el cillerero que la visita ha sido anunciada."
+      },
+      {
+        "statement": "Guillermo conjetura el nombre de Brunello porque",
+        "alternatives": [
+          "A) sabe que el caballo lleva a cabo un galope prudente.",
+          "B) interpreta bien la tradición cultural de los monasterios.",
+          "C) ha observado bien que la nieve está todavía fresca.",
+          "D) ha visto que meneaba altivamente la hermosa cola.",
+          "E) combina unos hermosos ojos grandes con orejas finas."
+        ],
+        "correct": 3,
+        "rationale": null
+      }
+    ]
+  },
+  {
+    "type": "incomplete_sentences",
+    "statement": "3. Determine el valor de verdad (Vo F) de los siguientes enunciados relativos a las ideas de Maquiavelo y Rousseau.\n\nI. Para Maquiavelo, el origen del mal en la sociedad reside en la desigualdad entre los seres humanos.\n\nII. Para Rousseau, el fin supremo de la política apunta a un gobierno donde los súbditos obedecen al soberano.\n\nIII. Según Maquiavelo, la monarquía absoluta es la forma de gobierno humano más lograda y perfecta.",
+    "alternatives": [
+      "A) FFF",
+      "B) VVV",
+      "C) FFV",
+      "D) VFF",
+      "E) FVF"
+    ],
+    "correct": 0,
+    "rationale": "Los tres enunciados no corresponden con la exposición de ideas de los pensadores Maquiavelo y Rousseau."
+  },
+  {
+    "type": "incomplete_sentences",
+    "statement": "4. La frase RAZÓN DE ESTADO en la doctrina maquiavélica implica que",
+    "alternatives": [
+      "A) el príncipe debe gobernar con la razón y no con la fuerza.",
+      "B) el último fin de la sociedad es el individuo en su egoísmo.",
+      "C) la convivencia humana es un asunto que se deja al azar.",
+      "D) la acción política se rige por criterios diferentes a la moral.",
+      "E) el ideal de verdad se impone sobre todos los valores políticos."
+    ],
+    "correct": 3,
+    "rationale": "Con su lema de la razón de Estado, Maquiavelo inicia la teoría política como un nivel autónomo que no se debe supeditar a patrones morales."
+  },
+  {
+    "type": "incomplete_sentences",
+    "statement": "5. Determine el valor de verdad (Vo F) de los siguientes enunciados relativos a las ideas de Maquiavelo y Rousseau.\n\nI. Para Maquiavelo, el origen del mal en la sociedad reside en la desigualdad entre los seres humanos.\n\nII. Para Rousseau, el fin supremo de la política apunta a un gobierno donde los súbditos obedecen al soberano.\n\nIII. Según Maquiavelo, la monarquía absoluta es la forma de gobierno humano más lograda y perfecta.",
+    "alternatives": [
+      "A) FFF",
+      "B) VVV",
+      "C) FFV",
+      "D) VFF",
+      "E) FVF"
+    ],
+    "correct": 0,
+    "rationale": "Los tres enunciados no corresponden con la exposición de ideas de los pensadores Maquiavelo y Rousseau."
+  },
+  {
+    "type": "reading_comprehension",
+    "statement": "John Wheeler nació en 1911 en Jacksonville (Florida). En 1933 se doctoró en la Universidad John Hopkins con un trabajo sobre el esparcimiento de la luz por los átomos de helio. En 1938, trabajó con el físico danés Niels Bohr para desarrollar la teoría de la fisión nuclear. Posteriormente, Wheeler trabajó durante un tiempo con su estudiante de\ndoctorado Richard Feynman y se dedicaron al proyecto de la electrodinámica; pero poco\ntiempo después de que los EE. UU. entraran en la Segunda Guerra Mundial ambos\nparticiparon en el proyecto Manhattan.\n\nA comienzos de la década del cincuenta, inspirado por el trabajo de Robert\nOppenheimer sobre el colapso gravitatorio de una estrella masiva, Wheeler dirigió su\natención a la teoría de la relatividad de Einstein. En aquella época, la mayoría de los\nfísicos estaban inmersos en el estudio de la física nuclear, y la relatividad general no era\nconsiderada relevante para el mundo físico. Sin embargo, en solitario, Wheeler transformó\nel campo mediante su investigación y su enseñanza en Princeton del primer curso de\nrelatividad general.\n\nMucho tiempo después, en 1969, creó el término “agujero negro” para el estado\ncolapsado de la materia, cuya finalidad real pocos habían creído. Inspirado por el trabajo\nde Werner Israel, conjeturó que los agujeros negros no tienen pelos, lo que significa que\nel estado colapsado de cualquier estrella masiva no rotante podría ser descrito por la\nfórmula del astrónomo alemán Karl Schwarzschild.\n\nS. Hawking (2003). El universo en una cáscara de nuez.",
+    "questions": [
+      {
+        "statement": "En síntesis, el texto refiere a",
+        "alternatives": [
+          "A) los descubrimientos de John Wheeler.",
+          "B) la vida y obra de John Wheeler.",
+          "C) la creación de los agujeros negros.",
+          "D) las teorías físicas de John Wheeler.",
+          "E) la teoría de la relatividad general."
+        ],
+        "correct": 1,
+        "rationale": "Efectivamente, en el texto se desarrolla la vida y obra del físico americano John Wheeler."
+      },
+      {
+        "statement": "En el texto, el término CREAR puede ser reemplazado por",
+        "alternatives": [
+          "A) idear.",
+          "B) expresar.",
+          "C) maquinar.",
+          "D) acuñar.",
+          "E) descubrir."
+        ],
+        "correct": 3,
+        "rationale": "De acuerdo con el contexto discursivo, el término más preciso es “acuñar”."
+      }
+    ]
+  },
+  {
+    "type": "sentence_elimination",
+    "statement": "3. Resulta incompatible con lo desarrollado en el texto sostener que",
+    "alternatives": [
+      "A) la teoría de la relatividad general tuvo, desde sus inicios, una amplia difusión.",
+      "B) durante su vida, John Wheeler\npersonalidades.",
+      "C) John Wheeler creyó que los agujeros negros son el estado colapsado de la\nmateria.",
+      "D) Wheeler dilucidó la naturaleza del esparcimiento de la luz de los átomos de helio.",
+      "E) Princeton fue el primer lugar donde se impartió un curso de relatividad general."
+    ],
+    "correct": 0,
+    "rationale": "John Wheeler fue el primero en estudiar la teoría de la relatividad, ya que la mayoría de sus colegas estaba analizando la física nuclear, por ello, la teoría de Einstein no fue muy difundida en sus inicios."
+  },
+  {
+    "type": "sentence_elimination",
+    "statement": "4. Respecto de John Wheeler, se puede inferir que",
+    "alternatives": [
+      "A) a diferencia de los demás, estudió la teoría de la relatividad.",
+      "B) logró su doctorado antes de cumplir los veinticinco años.",
+      "C) enseñó un curso sobre relatividad general en Princeton.",
+      "D) desde joven se inclinó por el estudio de la relatividad.",
+      "E) realizó todas sus investigaciones sin ningún apoyo."
+    ],
+    "correct": 1,
+    "rationale": "John Wheeler nació en 1911 y se doctoró en 1933, en consecuencia, logró ese grado académico antes de los 25 años."
+  },
+  {
+    "type": "sentence_elimination",
+    "statement": "5. Si John Wheeler hubiese ignorado totalmente el trabajo de Oppenheimer,",
+    "alternatives": [
+      "A) nadie habría enseñado física en Princeton.",
+      "B) la teoría de la relatividad habría sido abandonada.",
+      "C) se habría doctorado en ciencias astronómicas.",
+      "D) Schwarzschild no habría propuesto su fórmula.",
+      "E) no habría estudiado la física del agujero negro."
+    ],
+    "correct": 4,
+    "rationale": "La inspiración de Oppenheimer fue fundamental para estudiar los efectos del colapso gravitatorio, lo que lo condujo a la idea de los agujeros negros."
+  }
+]

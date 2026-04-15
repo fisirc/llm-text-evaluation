@@ -1,0 +1,20 @@
+[
+  {
+    "type": "reading_comprehension",
+    "statement": "La narración de ficción construye un modelo análogo del universo real, lo que\npermite, como en todos los modelos, conocer la estructura y los procesos internos de la realidad y manipularla cognitivamente. Se otorga así un valor cognoscitivo a la ficción, de modo tal que todas las posibles connotaciones, no expresadas directamente por el texto,\nsino –más bien– mostradas implícitamente o implicadas contextualmente en lo dicho por\nel mismo texto, iluminan aspectos de la realidad que sin estas extrapolaciones ficcionales\npermanecería en penumbras.",
+    "questions": [
+      {
+        "statement": "Si la narración de ficción no pudiera construir un modelo análogo del universo real,",
+        "alternatives": [
+          "A) sería considerada como uno de los medios más eficaces para conocer.",
+          "B) nos permitiría entender las profundidades de los sentimientos humanos.",
+          "C) nos daría la pista para interpretar el mundo exterior que nos rodea.",
+          "D) podríamos manipular cognitivamente la realidad creada por la ficción.",
+          "E) la estructura de la realidad no se vería reflejada en la narración ficcional."
+        ],
+        "correct": 4,
+        "rationale": "Solución: En el texto se sostiene que la narración gana un valor cognoscitivo en tanto construye un modelo similar al del universo."
+      }
+    ]
+  }
+]

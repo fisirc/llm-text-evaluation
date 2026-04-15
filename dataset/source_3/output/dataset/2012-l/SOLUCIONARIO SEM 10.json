@@ -1,0 +1,570 @@
+[
+  {
+    "type": "reading_comprehension",
+    "statement": "Una disciplina totalmente autónoma no puede formar parte del sistema de las ciencias, ya que estas se solapan parcialmente y se influyen recíprocamente, como corresponde a los componentes de un sistema único, en este caso el sistema científico. Por supuesto que es necesaria una cierta división del trabajo, pero esta no debe llevarse al extremo de aislar unas ciencias de las otras, porque toda división del trabajo es en gran parte convencional. A medida que se comprende mejor el carácter artificial de dicha división del trabajo, se facilita la integración de la psicología con la neurobiología, la endocrinología, la inmunología, la medicina, la antropología, la sociología y las ciencias de la educación. El aislamiento de una disciplina del sistema total de las ciencias es un indicador fidedigno de su carácter no científico. Piénsese en la parapsicología y el psicoanálisis, ambos incompatibles con la psicología y las biología. Recuérdese que Freud exigía la total independencia del psicoanálisis respecto de la psicología experimental y de la fisiología. Llegó a proponer la creación de una facultad de psicoanálisis, en la que no habría biología ni sociología, pero, en cambio, habría disciplinas humanísticas. ¡No fuera a ser que el psicoanálisis se contaminara con el método experimental y se asomara al cerebro! Lacan fue más lejos, al sostener, en uno de sus discursos descosidos, que el psicoanálisis, lejos de ser una ciencia, es una práctica, «la práctica de la función simbólica», y, por lo tanto, más cercana a la retórica que a la biología. El autonomismo psicológico no solo es científicamente esterilizante: también es impráctico, porque no puede ayudar a corregir los trastornos del comportamiento, de la afección o del aprendizaje. No puede ser eficaz porque se empecina en imaginar que la mente es un ente separado del cuerpo, aunque admite que puede influir sobre este. Este dualismo psicofísico le impide utilizar los recursos de la neurocirugía y de la psicofarmacología, así como las técnicas de la modificación del comportamiento, ya que estas se fundan sobre trabajos de laboratorio. ¡Pobre del maníaco -depresivo, del autista, del fóbico o del débil mental que caiga en manos de un logoterapeuta! ¡Desventurados su sistema nervioso y su bolsillo! En resumen, no se leve mérito alguno a la tesis de la autonomía de la psicología. Consagra el mito de la inmaterialidad de la psique, prohíbe la investigación biológica de los procesos mentales, y favorece el enfoque seudocientífico de la psique.",
+    "questions": [
+      {
+        "statement": "El texto gira fundamentalmente entorno a",
+        "alternatives": [
+          "A) la concluyente justificación epistemológica del psicoanálisis.",
+          "B) el carácter insostenible de la tesis de la autonomía de la psicología.",
+          "C) la psicología com o una poderosa ciencia estrictamente formalista.",
+          "D) las diversas perspectivas seudocientíficas sobre la mente humana.",
+          "E) el psicoanálisis como una rama integrada al sistema científico."
+        ],
+        "correct": 1,
+        "rationale": "CLAVE B. El texto se centra en asegurar que no es posible la independencia de la psicología. Si se declarara independiente sería considerada seudocientífica."
+      },
+      {
+        "statement": "En la texto, la palabra DESCOSIDOS connota que los discursos de Lacan, en la perspectiva del autor, lindan con",
+        "alternatives": [
+          "A) la ingenuidad.",
+          "B) la ambigüedad.",
+          "C) la resiliencia.",
+          "D) el despropósito.",
+          "E) la exuberancia."
+        ],
+        "correct": 3,
+        "rationale": "CLAVE D. El discurso de Lacan fue más lejos que el de Freud y es calificado de disparatado por estar fuera de razón."
+      },
+      {
+        "statement": "Con respecto a la perspectiva epistemológica del autor, se desprende que",
+        "alternatives": [
+          "A) carece de una posición suficientemente firme.",
+          "B) soslaya deliberadamente la interdisciplinariedad.",
+          "C) se inscribe en el falsacionismo metodológico.",
+          "D) defiende un enfoque sistémico de las ciencias."
+        ],
+        "correct": 3,
+        "rationale": "CLAVE D. Un a disciplina totalmente autónoma no puede formar parte del sistema de las ciencias, ya que estas se influyen mutuamente como componentes de un sistema único."
+      },
+      {
+        "statement": "Es posible deducir que un logoterapeuta",
+        "alternatives": [
+          "A) cultiva especial afición por las ciencias naturales.",
+          "B) tiene eficacia comprobada en la terapia psíquica.",
+          "C) busca el fundamento de su labor en la neurología.",
+          "D) es el que más necesita de terapia psicoanalítica.",
+          "E) se caracteriza por preterir el método experimental."
+        ],
+        "correct": 4,
+        "rationale": "CLAVE E. El psicoanalista huye deliberadamente del método experimental porque juzga que es posible el autonomismo psicológico."
+      },
+      {
+        "statement": "Si un estudioso propugnara la independencia teórica de la informática con respecto a la lógica formal y a cualquier otra disciplina científica,",
+        "alternatives": [
+          "A) deve ndría en revolucionario teórico de probada credencial científica.",
+          "B) el autor del texto lo acusaría de tener una perspectiva seudocientífica.",
+          "C) se convertiría en un muy devoto seguidor del psicoanálisis freudiano.",
+          "D) articularía necesariamente su discurso con el de la parapsicología.",
+          "E) originaría una revolución científica que sacuda a todas las disciplinas."
+        ],
+        "correct": 1,
+        "rationale": "CLAVE B. El aislamiento de una disciplina del sistema total de las ciencias es un indicador fidedigno de su carácter no científico."
+      }
+    ]
+  },
+  {
+    "type": "sentence_elimination",
+    "statement": "I) Según un estudio, los genes podrían orientarnos en una dirección u otra puesto\nque los intereses intelectuales de una persona están determinados, en parte, por la\nherencia genética. II) La investigación ha encontrado que las personas en cuyas\nfamilias hay casos de autismo o síndrome de Asperger son más propensas a\nescoger profesiones técnicas y científicas. III) En cambio, entre quienes se\ndecantan por las artes y las humanidades es más probable encontrar antecedentes\nfamiliares de d epresión, bipolaridad o abuso de sustancias. IV) Los intereses\nintelectuales de una persona también dependen de factores ambientales como la\neducación recibida ola presión del mercado laboral. V) El estudio se realizó\nencuestando a más de mil estudiantes de primer año de la Universidad de\nPrinceton que debieron contestar a preguntas relacionadas con sus objetivos\nacadémicos y la incidencia de desórdenes neuropsiquiátricos en su familia.",
+    "alternatives": [
+      "A) I",
+      "B) II",
+      "C) III",
+      "D) IV",
+      "E) V"
+    ],
+    "correct": 3,
+    "rationale": "Se elimina IV por inat ingencia."
+  },
+  {
+    "type": "sentence_elimination",
+    "statement": "I) La depresión tiene un efecto en la vista que hace que sea más difícil de detectar\nel contraste entre blanco y negro . II) Como consecuencia el mundo se percibe\nliteralmente en tonos grises cuando nos sentimos deprimidos , según revela una\ninvestigación llevada a cabo en la Universidad de Friburgo. III) En el estudio,\nLudger Tebartz van Elst y su equipo midieron la respuesta de la retina de varias\npersonas, tanto con depresión como sin ella, que fueron sometidas a análisis de\nneuropsiquiatría y oftalmología. IV) La retina ,ubicada en la parte posterior del ojo,\ncontiene células sensibles que convierten la luz en impulsos nerviosos que el\ncerebro interpreta para permitirnos ver. V) Los autores del estudio sugieren que\nesto podría explicar por qué, a través del tiempo, los artistas de todas las culturas\nhan representado la depresión usando los símbolos de la oscuridad ola\nuniformidad del gris.",
+    "alternatives": [
+      "A) I",
+      "B) II",
+      "C) III",
+      "D) IV",
+      "E) V"
+    ],
+    "correct": 3,
+    "rationale": "Se elimina IV por inatingencia."
+  },
+  {
+    "type": "sentence_elimination",
+    "statement": "I) En contra de lo que se pensaba, las neuronas no son las únicas responsables de\nnuestra memoria. II) Un estudio del Instituto Cajal, perteneciente al consejo\nSuperior de Investigaciones Científicas (CSIC) ha encontrado que los astrocitos,\nunas células del sistema nervioso con forma de estrella, también tienen mucho que\nveren los procesos relacionados con la memoria . III) Algunas enfermedades\nneurodegenerativas como el Alzheimer acarrean serios daños sobre la memoria\nhumana. IV) En concreto, los astrocitos controlan y regulan la comunicación entre\nneuronas, lo cual hace posible el ejercicio de la memoria. V) Los astrocitos también\nintervienen en la \"potenciación a largo plazo\" (LTP), un proceso que está muy\nrelacionado con la capacidad de recordar.",
+    "alternatives": [
+      "A) I",
+      "B) II",
+      "C) III",
+      "D) IV",
+      "E) V"
+    ],
+    "correct": 2,
+    "rationale": "Se elimina III por inatingencia."
+  },
+  {
+    "type": "sentence_elimination",
+    "statement": "I) La reacción de los dedos tiene una relación con una inhibición. II) Según han\ndemostrado Hubert Dinse y sus colegas de la Universidad de Bochum, las células\nnerviosas que controlan los dedos vecinos afectan la capacidad de respuesta\nindividual de cualquier dedo. III) L a inhibición es el proceso de impacto negativo que\nretarda la capacidad de respuesta de un dedo cualquiera de la mano . IV) El\ndedo medio recibiría la inhibición de los dos dedos adyacentes de cada lado. V ) El\nmeñique y el pulgar solo reciben la inhibición de un dedo contiguo.",
+    "alternatives": [
+      "A) I",
+      "B) II",
+      "C) III",
+      "D) IV",
+      "E) V"
+    ],
+    "correct": 0,
+    "rationale": "Se elimina I por redundancia."
+  },
+  {
+    "type": "sentence_elimination",
+    "statement": "I) Desde hace tiempo se sabe que el canto de las aves juega un papel importante y\nbien conocido en la selección sexual, además de definir la personalidad de los\ndistintos individuos. II) Las aves cantoras suelen tener más éxito en los cortejos\nsexuales que las aves timortas. III) Un canto llamativo es propio de aves osadas,\nya que no solo atraen el interés de sus parejas sexuales sino también de sus\ndepredadores. IV) El repertorio vocal de un ave dice mucho de su idiosincrasia: los\nindividuos más aventureros exploran un mayor rango de hábitats, donde escuchan\nsonidos variados que incorporan después a sus exitosos cantos. V) Los\nespecímenes machos que cantan en postes bajos cercanos a la vegetación son\nidentificados como exploradores y ligan más que los tímidos que se sitúan en los\npostes altos.",
+    "alternatives": [
+      "A) I",
+      "B) II",
+      "C) III",
+      "D) IV",
+      "E) V"
+    ],
+    "correct": 1,
+    "rationale": "Se elimina II por redundancia."
+  },
+  {
+    "type": "sentence_elimination",
+    "statement": "I) Un nuevo ejemplar de Arctica islandica (la almeja de Islandia) acaba de ser\ndescubierto y puede presumir de ser el animal vivo más longevo de la Tierra con sus\n405 años de edad. II) El hallazgo del antiguo ejemplar de la almeja de Islandia es de\nsumo interés para los esclerocronólogos, es decir, científicos que deducen el\ncrecimiento y la edad de las almejas a partir de las líneas de sus conchas . III) La\nesclerocronología reconstruye la historia del clima pasado a partir de las huellas que\nlas condiciones medioambientales como la temperatura del agua, la salinidad y la\ndisponibilidad de alimento dejan en las conchas. IV) En la almeja de Islandia la\nevolución ha desarrollado mecanismos de defensa extraordinariamente efectivos\nque le permiten retrasar el envejecimiento . V) Analizar cómo funcionan los tejidos\nde Arctica islandica podría ayudarnos a entender cómo evitar el declive propio de\nla vejez en los seres humanos.",
+    "alternatives": [
+      "A) I",
+      "B) II",
+      "C) III",
+      "D) IV",
+      "E) V"
+    ],
+    "correct": 2,
+    "rationale": "Se elimina III por inatingencia."
+  },
+  {
+    "type": "verbal_series",
+    "statement": "Quebrantar, transgredir, vulnerar,",
+    "alternatives": [
+      "A) resarcir.",
+      "B) incordiar.",
+      "C) conculcar.",
+      "D) inquirir.",
+      "E) acometer."
+    ],
+    "correct": 2,
+    "rationale": "Serie verbal sinonímica."
+  },
+  {
+    "type": "verbal_series",
+    "statement": "Ristra, ringlera, sarta,",
+    "alternatives": [
+      "A) triza.",
+      "B) indicio.",
+      "C) confite.",
+      "D) retahíla.",
+      "E) periodo."
+    ],
+    "correct": 3,
+    "rationale": "Serie verbal sinonímica."
+  },
+  {
+    "type": "verbal_series",
+    "statement": "Manifestación, aparición, visión,",
+    "alternatives": [
+      "A) epifanía.",
+      "B) refulgencia.",
+      "C) contrición.",
+      "D) temperancia.",
+      "E) salacidad."
+    ],
+    "correct": 0,
+    "rationale": "Serie verbal sinonímica."
+  },
+  {
+    "type": "verbal_series",
+    "statement": "Cisterna, tanque, cuba,",
+    "alternatives": [
+      "A) gozne.",
+      "B) celda.",
+      "C) aldaba.",
+      "D) barrena.",
+      "E) aljibe."
+    ],
+    "correct": 4,
+    "rationale": "Serie verbal sinonímica."
+  },
+  {
+    "type": "verbal_series",
+    "statement": "Melindre, afectación, remilgo,",
+    "alternatives": [
+      "A) dulzura.",
+      "B) postín.",
+      "C) hipocresía.",
+      "D) doblez.",
+      "E) desidia."
+    ],
+    "correct": 1,
+    "rationale": "Serie verbal sinonímica."
+  },
+  {
+    "type": "verbal_series",
+    "statement": "Elija la alternativa que no corresponda a la serie verbal.",
+    "alternatives": [
+      "A) milenio",
+      "B) lustro",
+      "C) década",
+      "D) centuria",
+      "E) lapso"
+    ],
+    "correct": 4,
+    "rationale": ""
+  },
+  {
+    "type": "reading_comprehension",
+    "statement": "Según algunos, Nicolás ll, el último Zar de Rusia, fue un monarca por debajo de lo normal. Fue acusado de torpe durante la guerra Ruso -Japonesa de 1904 -1905, y su régimen es taba plagado de corrupción e incompetencia. Aun así, probablemente no mereció el destino que tuvo él y su familia una noche de verano de 1918. Como veremos, la comprensión completa de este hecho depende, por encima de todo, del DNA mitocondrial. Después de haber sido forzado a abdicar en 1917, finalizando los 300 años de reinado de los Romanov, el Zar Nicolás y la familia imperial fueron desterrados a Ekaterimburgo, en el oeste de Siberia. Allí, se creía, estarían fuera del alcance de los feroces bolcheviques antiimperialistas, que estaban luchando para obtener el control del país. Pero los bolcheviques capturaron finalmente a los Romanov. En una noche de julio de 1918, el Zar Nicolás, la Zarina Alejandra (nieta de la Reina Victoria), sus cinco hijos (Olga, 22; Tatiana, 21; María, 19; Anastasia, 17 y Alexei, 13), el médico de la familia y tres de sus sirvientes, fueron despertados y llevados a una habitación del piso inferior de la casa en donde se les mantuvo prisioneros. Se les pidió que formaran una fila doble contra la pared, probablemente para que se les pudiera fotografiar. En vez de ello, prorrumpieron en el cuarto 11 hombres con revólveres y abrieron fuego. Después de agotar su munición, hundieron sus bayonetas en los cuerpos y destrozaron sus rostros con las culatas de los rifles. Luego, llevaron los cadáveres en carro y los arrojaron en el pozo de una mina y solo dos días más tarde los sacaron y los descargaron en una fosa poco profunda, los rociaron con ácido sulfúrico y los enterraron. Allí estuvieron durante más de 60 años. Muy pronto, el asesinato de los Romanov se rodeó de un aire de misterio. ¿Murieron todos los hijos de Nicolás y Alejandra con sus padres aquella noche sangrienta o se salvó la hija más joven, Anastasia? Durante años, la posibilidad de que Anastasia escapara milagrosamente de la ejecución ha inspirado incontables libros, una película de Hollywood, un ballet, una obra de teatro de Broadway y, más recientemente, una película de dibujos animados. En todas estas nuevas versiones, Anastasia reaparece reclamando su derecho como el único miembro sobreviviente de los Romanov. Al misterio se añadió una tal Anna Anderson. Dos años después de ser recuperada de un canal de Berlín después de un intento de suicidio en 1920, comenzó a pretender que era la gran duquesa Anastasia. A pesar de su historial de desequilibrio mental y de una curiosa incapacidad para hablar ruso, logró convencer a muchas personas. El misterio comenzó a desenredarse en 1979, cuando un geólogo siberiano y un director de cine moscovita descubrieron cuatro cráneos que creyeron pertenecían a la familia del Zar. No fue hasta el verano de 1991, después de la «glasnost», que comenzó la exhumación. En conjunto, se recuperaron casi 1000 fragmentos de huesos, que sirvieron para reconstruir nueve esqueletos, cinco de mujeres y cuatro de hombres. Basándose en la medida de los huesos y superponiendo los cráneos en fotografías con ayuda informática, se identificaron los restos como pertenecientes posiblemente a los Romanov asesinados. Pero todavía faltaban dos cuerpos, uno de las hijas (quese creía podría ser de Anastasia) y del joven Alexei. El siguiente paso para autentificar los restos implicaba estudios de DNA, llevados a cabo por Pavel lvanov, el líder de los forenses rusos, analista de DNA, en colaboración con Peter Gill, del Servicio Científico Forense Británico. Su objetivo fue establecer las relaciones familiares entre los restos, y luego determinar, en comparación con parientes vivos, si el grupo familiar era de hecho de los Romanov. Congelaron los fragmentos de los huesos de los nueve esqueletos en nitrógeno líquido, los trituraron en un polvo fino y extrajeron pequeñas cantidades de DNA, que comprendía tanto DNA nuclear como relaciones familiares y demostró que, realmente, faltaba una de las princesas y Alexei. Ahora, la prueba final de que los huesos pertenecían a los Romanov esperó al análisis del mtDNA. El DNA mitocondrial es ideal para estudios forenses por varias razones. Primero, ya que todas las mitocondrias de las células humanas derivan de las mitocondrias presentes en el óvulo, el mtDNA se transmite estrictamente de la madre a los descendientes, nunca del padre a los descendientes. Por ello, las secuencias del mtDNA se pueden utilizar para seguir la línea materna, sin los efectos complicados del entrecruzamiento en la meiosis, que recombina los genes nucleares maternos y paternos en cada generación. Además, el mtDNA es pequeño (16.600 pares de bases) y hay entre 500 y 1000 copias por célula, por lo que es mucho más fácil recuperarlo intacto que el DNA nuclear. El grupo de lvanov amplificó dos regiones muy variables del mtDNA aislado de las nueve muestras de huesos y determinó la secuencia de nucleótidos de dichas regiones. Comparando estas secuencias con los parientes vivos de los Romanov, esperaban establecer la identidad de los restos de Ekaterimburgo de una vez por todas. Las secuencias de la Zarina Alejandra encajaban perfectamente con las del príncipe Felipe de Edimburgo, que es su sobrino nieto, verificando su identidad. Sin embargo, la autentificación del Zar fue más complicada. Las secuencias del Zar se compararon con las de los dos únicos parientes vivos a los que se pudo persuadir que participaran en el estudio, el Conde Xenia Cheremeteff -Sfiri (su sobrino bisnieto) y de James George Alexander Bannerman Carnegie, tercer duque de Fife (un pariente más alejado, descendiente de mujeres estrechamente relacionadas con la abuela del Zar). Estas comparaciones dieron una sorpresa. En la posición 16.169 del mtDNA del Zar parecía que había ola base C ola T. No obstante, el conde y el duque tenían solo T. La conclusión fue que el Zar Nicolás tenía en sus células dos poblaciones distintas de mitocondrias, cada una con una base distinta en la posición 16.169 de su mtDNA. Esta situación, llamada heteroplasmia, se cree que se produce en el 10 al 20 por ciento de los humanos. La ambigüedad entre el supuesto Zar y sus dos parientes maternos vivos arrojó dudas sobre la identificación de los restos. Afortunadamente, el gobierno ruso aprobó la petición de analizar los restos del hermano más joven del Zar, el gran duque Georgij Romanov, que murió en 1899 de tuberculosis. Se encontró que el mtDNA del gran duque tenía la misma variante heteroplásmica en la posición 16.169, con C o con T. Se concluyó que los huesos de Ekaterimburgo eran de la familia imperial asesinada. Con años de controversia resueltos finalmente, los restos autentificados del Zar Nicolás II, la Zarina Alejandra y tres de sus hijas fueron enterrados en la Catedral de San Pedro y San Pablo de San Petersburgo el 17 de Julio de 1998, 80 años después del día en que fueron asesinados. Sin embargo, este análisis del DNA no resolvió el misterio del destino de Anastasia. ¿Murió ella con sus padres, hermanas y hermano en 1918? ¿O es posible que Anna Anderson dijera la verdad y que ella fuera la duquesa escapada? En un estudio distinto, se recuperó el DNA nuclear y el mtDNA de tejido intestinal de Anna Anderson, conservado de una operación realizada cinco años antes de su muerte en 1984. Los análisis de este DNA confirmaron que ella no era Anastasia, sino una campesina polaca llamada Francisca Schanzkowska. Si los restos de Anastasia no se encontraron entre los de sus padres y hermanas y si Anna Anderson era una impostora, ¿qué le sucedió a Anastasia? Muchas evidencias sugieren que Anastasia y su hermano Alexei no se encontraron con los otros en la fosa común debido a que sus cuerpos fueron quemados sobre la tumba dos días después de los asesinatos y sus cenizas, esparcidas, nunca se encontrarán. No exactamente como un final de Hollywood.",
+    "questions": [
+      {
+        "statement": "1. La expresión FINAL DE HOLLYWOOD sugiere",
+        "alternatives": [
+          "A) violencia en las acciones.",
+          "B) misterio en relación con Anastasia.",
+          "C) un desenlace venturoso.",
+          "D) impunidad para los bolcheviques.",
+          "E) una cruenta venganza."
+        ],
+        "correct": 2,
+        "rationale": "CLAVE C. El final de la familia Romanov fue trágico, murieron violentamente y sus cadáveres fueron incinerados."
+      },
+      {
+        "statement": "2. La palabra DESENREDARSE que figura en el cuarto párrafo puede ser reemplazada por",
+        "alternatives": [
+          "A) elucidarse.",
+          "B) encriptarse.",
+          "C) difuminarse.",
+          "D) difundirse.",
+          "E) cifrarse."
+        ],
+        "correct": 0,
+        "rationale": "CLAVE A. El misterio que envolvía a la princesa Anastasia comenzó a aclara/se aclararse en el año 1979."
+      },
+      {
+        "statement": "3. En el contexto del segundo párrafo de la lectura, la palabra AGOTAR connota",
+        "alternatives": [
+          "A) extenuación.",
+          "B) consunción.",
+          "C) adormecimiento.",
+          "D) ajusticiamiento.",
+          "E) carestía."
+        ],
+        "correct": 3,
+        "rationale": "CLAVE D. Los Bolcheviques dispararon contra los prisioneros y trataron de deshacerse de los cadáveres."
+      },
+      {
+        "statement": "4. La palabra CURIOSA, en el tercer párrafo del texto, connota",
+        "alternatives": [
+          "A) animadversión.",
+          "B) desinterés.",
+          "C) afabilidad.",
+          "D) escrupulosidad.",
+          "E) suspicacia."
+        ],
+        "correct": 4,
+        "rationale": "CLAVE E. La incapacidad para hablar ruso de Anna Anderson no ayuda a probar que ella sea Anastasia. Por el contrario, es motivo de desconfianza de que así sea."
+      },
+      {
+        "statement": "5. El texto gira fundamentalmente entorno a",
+        "alternatives": [
+          "A) la estructura interna del ADN mitocondrial y su relación con el ADN nuclear.",
+          "B) la dilucidación del misterio de los Romanov a través del análisis del mtDNA.",
+          "C) el complejo perfil genético del Zar que fue asesinado por los bolcheviques.",
+          "D) los intentos fallidos por resolver el misterio de la dinastía rusa Romano v.",
+          "E) la inexplicable e inopinada desaparición de la duquesa Anastasia de Rusia."
+        ],
+        "correct": 1,
+        "rationale": "CLAVE B. La noción capital del texto alude al esclarecimiento del caso Romanov mediante el análisis molecular del ADN mitocondrial."
+      },
+      {
+        "statement": "6. La idea principal del texto asevera que",
+        "alternatives": [
+          "A) las dinastías europeas estaban emparentadas por vínculos de consanguinidad que debilitaban su estirpe.",
+          "B) la genética concibe la verdad como una idea regulativa que favorece la indagación y el descubrimiento.",
+          "C) el análisis del DNA mitocondrial fue crucial para resolver el misterio del exterminio de la dinastía Romanov.",
+          "D) la revolución bolchevique puso término al gobierno despótico de una dinastía que duró mucho siglos.",
+          "E) el destino final de la gran duquesa Anastasia de Rusia permanece totalmente incierto hasta la actualidad."
+        ],
+        "correct": 2,
+        "rationale": "CLAVE C. El desarrollo esencial del tema central debe señalar, bajo la forma de una oración, la importancia del análisis del mtDNA para la resolución del caso en cuestión."
+      },
+      {
+        "statement": "7. Señale la mejor síntesis del texto.",
+        "alternatives": [
+          "A) Anna Anderson pretendió ser la gran duquesa Anastasia durante mucho tiempo. Esta mujer que convenció a muchas personas sobre su identidad no podía expresarse en ruso, padecía de afecciones que alteraban su equilibrio mental y murió en 1984.",
+          "B) El asesinato de la familia real rusa inspiró a la literatura, el cine e incluso el teatro para la elaboración de versiones edulcoradas en las que la hija menor del Zar Nicolás II escapa a la ejecución de 1918 y vuelve más tarde para reclamar sus derechos.",
+          "C) Las investigaciones científicas en el terreno de la genética prosperaron lo suficiente durante la segunda mitad del siglo XX como para poder identificar personas a partir del análisis molecular de restos óseos de muchos años de antigüedad.",
+          "D) La revolución bolchevique exterminó a la dinastía Romanov y marcó un hito fundamental en la historia humana. Muchos años después, la «glasnost» liberalizó el sistema político del país y lo insertó en el contexto capitalista contemporáneo.",
+          "E) En 1918, los bolcheviques ejecutan a la dinastía Romanov y se teje un halo de misterio entorno a los asesinatos. Se exhuman unos cadáveres, se analizan y solo el examen del mtDNA resuelve el caso identificando a los miembros de la familia."
+        ],
+        "correct": 4,
+        "rationale": "CLAVE E. Se trata de un texto que narra una historia real que podría resumirse esencialmente enunciando el inicio, el nudo y el desenlace."
+      },
+      {
+        "statement": "8. Se infiere que la dilación en la exhumación de los restos de la familia Romanov se debió a obstáculos de índole",
+        "alternatives": [
+          "A) científica.",
+          "B) religiosa.",
+          "C) filosófica.",
+          "D) política.",
+          "E) teórica."
+        ],
+        "correct": 3,
+        "rationale": "CLAVE D. La dilación se debió a obstáculos políticos."
+      }
+    ]
+  },
+  {
+    "type": "reading_comprehension",
+    "statement": "común debido a que sus cuerpos fueron quemados sobre la tumba dos días después de\nlos asesinatos y sus cenizas, esparcidas, nunca se encontrarán. No exactamente como\nun final de Hollywood.",
+    "questions": [
+      {
+        "statement": "La expresión FINAL DE HOLLYWOOD sugiere",
+        "alternatives": [
+          "A) violencia en las acciones.",
+          "B) misterio en relación con Anastasia.",
+          "C) un desenlace venturoso.",
+          "D) impunidad para los bolcheviques.",
+          "E) una cruenta venganza."
+        ],
+        "correct": 2,
+        "rationale": "El final de la familia Romanov fue trágico, murieron violentamente y sus cadáveres fueron incinerados."
+      },
+      {
+        "statement": "La palabra DESENREDARSE que figura en el cuarto párrafo puede ser reemplazada por",
+        "alternatives": [
+          "A) elucidarse.",
+          "B) encriptarse.",
+          "C) difuminarse.",
+          "D) difundirse.",
+          "E) cifrarse."
+        ],
+        "correct": 0,
+        "rationale": "El misterio que envolvía a la princesa Anastasia comenzó a ac lararse en el año 1979."
+      },
+      {
+        "statement": "En el contexto del segundo párrafo de la lectura, la palabra AGOTAR connota",
+        "alternatives": [
+          "A) extenuación.",
+          "B) consunción.",
+          "C) adormecimiento.",
+          "D) ajusticiamiento.",
+          "E) carestía."
+        ],
+        "correct": 3,
+        "rationale": "Los Bolcheviques dispararon contra los prisioneros y trataron de deshacerse de los cadáveres."
+      },
+      {
+        "statement": "La palabra CURIOSA, en el tercer párrafo del texto, connota",
+        "alternatives": [
+          "A) animadversión.",
+          "B) desinterés.",
+          "C) afabilidad.",
+          "D) escrupulosidad.",
+          "E) suspicacia."
+        ],
+        "correct": 4,
+        "rationale": "La incapacidad para hablar ruso de Anna Anderson no ayuda a probar que ella sea Anastasia. Por el contrario, es motivo de desconfianza de que así sea."
+      },
+      {
+        "statement": "El texto gira fundamentalmente entorno a",
+        "alternatives": [
+          "A) la estructura interna del ADN mitocondrial y su relación con el ADN nuclear.",
+          "B) la dilucidación del misterio de los Romanov a través del análisis del mtDNA.",
+          "C) el complejo perfil genético del Zar que fue asesinado por los bolcheviques.",
+          "D) los intentos fallidos por resolver el misterio de la dinastía rusa Romano v.",
+          "E) la inexplicable e inopinada desaparición de la duquesa Anastasia de Rusia."
+        ],
+        "correct": 1,
+        "rationale": "La noción capital del texto alude al esclarecimiento del caso Romanov mediante el análisis molecular del ADN mitocondrial."
+      },
+      {
+        "statement": "La idea principal del texto asevera que",
+        "alternatives": [
+          "A) las dinastías europeas estaban emparentadas por vínculos de consanguinidad que debilitaban su estirpe.",
+          "B) la genética concibe la verdad como una idea regulativa que favorece la indagación y el descubrimiento.",
+          "C) el análisis del DNA mitocondrial fue crucial para resolver el misterio del exterminio de la dinastía Romanov.",
+          "D) la revolución bolchevique puso término al gobierno despótico de una dinastía que duró mucho siglos.",
+          "E) el destino final de la gran duquesa Anastasia de Rusia permanece totalmente incierto hasta la actualidad."
+        ],
+        "correct": 2,
+        "rationale": "El desarrollo esencial del tema central debe señalar, bajo la forma de una oración, la importancia del análisis del mtDNA para la resolución del caso en cuestión."
+      },
+      {
+        "statement": "Señale la mejor síntesis del texto.",
+        "alternatives": [
+          "A) Anna Anderson pretendió ser la gran duquesa Anastasia durante mucho tiempo. Esta mujer que convenció a muchas personas sobre su identidad no podía expresarse en ruso, padecía de afecciones que alteraban su equilibrio mental y murió en 1984.",
+          "B) El asesinato de la familia real rusa inspiró a la literatura, el cine e incluso el teatro para la elaboración de versiones edulcoradas en las que la hija menor del Zar Nicolás II escapa a la ejecución de 1918 y vuelve más tarde para reclamar sus derechos.",
+          "C) Las investigaciones científicas en el terreno de la genética prosperaron lo suficiente durante la segunda mitad del siglo XX como para poder identificar personas a partir del análisis molecular de restos óseos de muchos años de antigüedad.",
+          "D) La revolución bolchevique exterminó a la dinastía Romanov y marcó un hito fundamental en la historia humana. Muchos años después, la «glasnost» liberalizó el sistema político del país y lo insertó en el contexto capitalista contemporáneo.",
+          "E) En 1918, los bolcheviques ejecutan a la dinastía Romanov y se teje un halo de misterio entorno a los asesinatos. Se exhuman unos cadáveres, se analizan y solo el examen del mtDNA resuelve el caso identificando a los miembros de la familia."
+        ],
+        "correct": 4,
+        "rationale": "Se trata de un texto que narra una historia real que podría resumirse esencialmente enunciando el inicio, el nudo y el desenlace."
+      },
+      {
+        "statement": "Se infiere que la dilación en la exhumación de los restos de la familia Romanov se debió a obstáculos de índole",
+        "alternatives": [
+          "A) científica.",
+          "B) religiosa.",
+          "C) filosófica.",
+          "D) política.",
+          "E) teórica."
+        ],
+        "correct": 3,
+        "rationale": "Los restos se hallan en 1979. Sin embargo, no fue hasta 1991, después de la «glasnost», que comenzó la exhumación."
+      },
+      {
+        "statement": "Con respecto a los sirvientes de l zar, es posible inferir que",
+        "alternatives": [
+          "A) se trataba de dos varones y una mujer.",
+          "B) estuvieron coludidos con los bolcheviques.",
+          "C) eran miembros de la familia Romanov.",
+          "D) carecían insólitamente de ADN mitocondrial.",
+          "E) sobrevivieron a la matanza del año 1918."
+        ],
+        "correct": 0,
+        "rationale": "Se logró reconstruir nueve esqueletos; cinco mujeres y cuatro varones. Solo faltaban dos cuerpos; una de las hijas y el joven Alexei."
+      },
+      {
+        "statement": "Se colige del texto que los verdugos de la familia Romanov",
+        "alternatives": [
+          "A) sintieron muchos remordimientos al ultimar a los Romanov.",
+          "B) hicieron un acto de contrición después de lo cometido.",
+          "C) pertenecían realmente a una poderosa dinastía enemiga.",
+          "D) fueron castigados severamente por el crimen que cometieron.",
+          "E) buscaban imposibilitar la identificación de sus víctimas."
+        ],
+        "correct": 4,
+        "rationale": "Los asesinos de los Romanov destrozaron los rostros de los cadáveres a culatazos. Adicionalmente, rociaron los cuerpos con ácido sulfúrico."
+      },
+      {
+        "statement": "Se desprende del texto que la dinastía Romanov",
+        "alternatives": [
+          "A) promovía subrepticiamente la gran revolución en Rusia.",
+          "B) tenía como único sobreviviente al forense ruso Pavel Ivanov.",
+          "C) puso en práctica la filantropía durante su reinado en Rusia.",
+          "D) tenía vínculos de consanguinidad con la familia real británica.",
+          "E) proscribió en Rusia el estudio de la genética mendeliana."
+        ],
+        "correct": 3,
+        "rationale": "La zarina Alejandra era nieta de la reina Victoria. Las secuencias de Alejandra encajaban con las del príncipe Felipe de Edimburgo."
+      },
+      {
+        "statement": "En última instancia, que el zar haya tenido dos poblaciones distintas de mitocondrias en sus células",
+        "alternatives": [
+          "A) significó que él y la zarina eran en realidad hermanos solo de madre.",
+          "B) incrementó ostensiblemente la probabilidad de una muerte violenta.",
+          "C) imposibilitó la autentificación de la identidad de los restos hallados.",
+          "D) permitió identificar sus restos de manera mucho más concluyente.",
+          "E) incrementó las posibilidades de heredar la heteroplasmia a su prole."
+        ],
+        "correct": 3,
+        "rationale": "La heteroplasmia le da mayor contundencia a las conclusiones del estudio comparativo entre el zar y Georgij Romanov pues solo le ocurre a un 20% de la población."
+      },
+      {
+        "statement": "Un enunciado incompatible con el texto afirmaría que",
+        "alternatives": [
+          "A) la identificación del zar Nicolás II fue más compleja que la de la zarina.",
+          "B) el mtDNA es una estructura molecular más escasa que el DNA nuclear.",
+          "C) el análisis genético de los restos desentrañó relaciones de parentesco.",
+          "D) la literatura ofreció una versión romántica de la desaparecida Anastasia."
+        ],
+        "correct": 1,
+        "rationale": "Hay entre 500 y 1000 copias de mtDNA por célula, por lo que es mucho más fácil recuperarlo intacto que el DNA nuclear."
+      },
+      {
+        "statement": "Respecto a la meiosis, resulta incongruente sostener que",
+        "alternatives": [
+          "A) recombina los genes nucleares maternos y pate rnos.",
+          "B) tiene efectos que resultan muy difíciles de analizar.",
+          "C) es un óbice para la variabilidad genética en humanos.",
+          "D) no es capaz de alterar la configuración del mtDNA.",
+          "E) es un fenómeno que se repite cada vez que hay cruce."
+        ],
+        "correct": 2,
+        "rationale": "La meiosis recombina los genes nucleares maternos y paternos y con ello favorece la variabilidad genética."
+      },
+      {
+        "statement": "En relación con la identificación de los restos de la familia real rusa, no se condice con el texto decir que",
+        "alternatives": [
+          "A) fue una tarea que implicó a varios nobles de otras nacionalidades.",
+          "B) tuvo la aquiescencia de las autoridades del moderno estado ruso.",
+          "C) contó con la participación de un experto de nacionalidad británica.",
+          "D) requirió únicamente de los adelantos logrados en materia genética.",
+          "E) habría sido imposible durante un régimen político de corte comunista."
+        ],
+        "correct": 3,
+        "rationale": "No solo se necesitó conocimientos de genética, sino también de informática y hasta de genealogía."
+      },
+      {
+        "statement": "Resulta incompatible con el texto decir que los bolcheviques",
+        "alternatives": [
+          "A) sentían animadversión por el régimen zarista de Rusia.",
+          "B) llegaron al poder en 1917 terminando con el gobierno del Zar.",
+          "C) iniciaron el mito sobre la sobreviviente princesa Anastasia.",
+          "D) exterminaron a los Romanov por una venganza política.",
+          "E) lucharon contra un régimen caracterizado por la corrupción."
+        ],
+        "correct": 2,
+        "rationale": "Los bolcheviques victimaron a toda la familia. La evidencia apunta a que su cadáver fue totalmente quemado."
+      },
+      {
+        "statement": "Si los bolcheviques no hubiesen tenido éxito en su lucha por conquistar el poder político en Rusia,",
+        "alternatives": [
+          "A) Ekaterimburgo sería la capital de la Rusia actual.",
+          "B) los restos de los Romanov habrían aparecido antes.",
+          "C) la dinastía Romanov no habría sido ejecutada.",
+          "D) la genética no se habría desarrollado como lo hizo.",
+          "E) el zar habría tenido que dimitir de todos modos."
+        ],
+        "correct": 2,
+        "rationale": "Hay una relación causal entre el éxito de los revolucionarios bolcheviques y la ejecución de los Romanov. El zar y su familia eran una amenaza para la revolución."
+      },
+      {
+        "statement": "Si la identificación de los restos del zar se hubiera efectuado utilizando información genética de parientes vivos de la línea paterna,",
+        "alternatives": [
+          "A) se habría descubierto la hemofilia del zar.",
+          "B) los Bolcheviques impugnarían el estudio.",
+          "C) la revolución rusa hallaría justificación.",
+          "D) los restos de Alexei se habrían hallado.",
+          "E) habría sido una tarea mucho más ardua."
+        ],
+        "correct": 4,
+        "rationale": "El ADN mitocondrial puede ser estudiado sin tomar en cuenta los complicados efectos del entrecruzamiento en la meiosis."
+      },
+      {
+        "statement": "Si Anna Anderson hubiese sido verdaderamente Anastasia,",
+        "alternatives": [
+          "A) se habría demostrado su vínculo con Felipe de Edimburgo.",
+          "B) los bolcheviques la habrían confundido con una sirvienta.",
+          "C) se habría probado que la matanza de los Romanov fue un mito.",
+          "D) presentaría más copias de DNA nuclear que mitocondrial.",
+          "E) estaría totalmente claro que padecía de una locura hereditaria."
+        ],
+        "correct": 0,
+        "rationale": null
+      },
+      {
+        "statement": "Si el gran duque Georgij Romanov y el zar Nicolás II solo hubieran tenido al padre como progenitor común,",
+        "alternatives": [
+          "A) los bolcheviques cifrarían sus esperanzas libertarias en el príncipe Alexei.",
+          "B) se habría dado origen a una sangrienta guerra de sucesión en la gran Rusia.",
+          "C) las pruebas realizadas al hermano menor del zar no habrían sido decisivas.",
+          "D) con toda certeza el duque Georgij tendría la misma variante heteroplásmica.",
+          "E) habrían estado más unidos para enfrentar a los revolucionarios bolcheviques."
+        ],
+        "correct": 2,
+        "rationale": "Las pruebas realizadas al cadáver de Georgij Romanov fueron decisivas pues revelaron que también él presentaba la heteroplasmia que a mbos habrían heredado de la madre."
+      }
+    ]
+  }
+]

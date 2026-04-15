@@ -1,0 +1,404 @@
+[
+  {
+    "type": "synonyms_and_antonyms",
+    "statement": "1. ATRAPADO",
+    "alternatives": [
+      "A) trastornado",
+      "B) cautivado",
+      "C) atontado",
+      "D) atado",
+      "E) encarcelado"
+    ],
+    "correct": 1,
+    "rationale": "Quedar atrapado por un relato significa quedar cautivado por él."
+  },
+  {
+    "type": "synonyms_and_antonyms",
+    "statement": "2. COBRAN",
+    "alternatives": [
+      "A) enriquecen",
+      "B) reciben",
+      "C) adquieren",
+      "D) expenden",
+      "E) perciben"
+    ],
+    "correct": 2,
+    "rationale": "El significado que cobran los cuentos es el que adquieren en tanto son leídos en voz alta."
+  },
+  {
+    "type": "synonyms_and_antonyms",
+    "statement": "3. CLAVE",
+    "alternatives": [
+      "A) llave",
+      "B) secreto",
+      "C) base",
+      "D) entrada",
+      "E) interpretación"
+    ],
+    "correct": 4,
+    "rationale": "Ver el mundo en clave surrealista significa apreciarlo bajo esa interpretación."
+  },
+  {
+    "type": "synonyms_and_antonyms",
+    "statement": "4. ATMÓSFERA",
+    "alternatives": [
+      "A) espacio",
+      "B) ambiente",
+      "C) escenario",
+      "D) drama",
+      "E) antesala"
+    ],
+    "correct": 4,
+    "rationale": "Los personajes se envuelven en una atmósfera o ambiente fantástico."
+  },
+  {
+    "type": "reading_comprehension",
+    "statement": "Todos hemos oído hablar de «la nube», pero su significado no está claro para mucha gente.\nEn esencia, la informática en la nube consiste en usar la potencia de Internet para realizar allí tareas\nque tradicionalmente haríamos en un ordenador personal: cualquier cosa, desde gestionar el\nalmacenamiento hasta el desarrollo y procesamiento complejos, en una vasta y potente red remota\nde máquinas interconectadas. Esta externalización es práctica para el usuario ocasional, que está\nharto de tener que liberar espacio en su disco duro, y también para las empresas. En otros tiempos,\nestas compraban infraestructura informática basándose en lo que pensaban que podían necesitar\na dos años vista y se tendía a comprar en exceso, infrautilizando los equipos. Además, el software\nes caro; por no mencionar los servidores, las redes, el ancho de banda, la energía, la refrigeración,\nel espacio de oficina y los expertos necesarios para instalar, configurar y hacer funcionar todo.\n\nCon la informática en «la nube» las empresas pueden ejecutar programas y aplicaciones\nesenciales a través de Internet, lo que les hace ahorrar tiempo, espacio, molestias y dinero. La\nfacturación de los servicios en la nube funciona de la misma manera que p agamos por servicios\npúblicos como el gas y la electricidad en nuestro domicilio; pagamos por lo que usamos. La nube\ntambién es algo muy flexible . Para las tareas más exigentes, los clientes tienen acceso instantáneo\na potencia de proceso escalada sobre la marcha. Cuando han terminado de trabajar, simplemente\nla vuelven a liberar a «la nube».\n\n«La nube» está compuesta por centros de datos remotos a los que se accede por Internet. Se\nfísicamente; se controla en remoto mediante interfaces web.\n\nUna de las características principales de «la nube» es la virtualización. La máquinas virtuales\nse crean con software que subdivide la potencia de cómputo, el almacenamiento y la memoria de\nuna máquina en varias unidades más pequeñas, cada una funcionando con su propio sistema\noperativo. Así se pueden compartir y asignar los recursos informáticos de modo eficiente en «la\nnube».\n¿Qué es la nube? (Marzo de 2015) Cómo funciona . España. N° 48.",
+    "questions": [
+      {
+        "statement": "El sinónimo contextual de FLEXIBLE es",
+        "alternatives": [
+          "A) efímero.",
+          "B) cimbreante.",
+          "C) adaptable.",
+          "D) tolerante.",
+          "E) delicado."
+        ],
+        "correct": 2,
+        "rationale": "Flexible se refiere en el texto a la posibilidad de usarse de diversas formas según diferentes necesidades."
+      },
+      {
+        "statement": "¿Cuál es el tema central del texto?",
+        "alternatives": [
+          "A) La gran flexibilidad que posee el trabajo online para las organizaciones",
+          "B) Los métodos actuales de externalización de los trabajos informáticos",
+          "C) El contraste entre el uso de «la nube» y los servicios tradicionales de Internet",
+          "D) Las posibilidades de ahorro en los negocios que brinda la virtualización",
+          "E) La caracterización y ventajas de «la nube» para individuos y empresas"
+        ],
+        "correct": 4,
+        "rationale": "El texto establece cuáles son las principales características de la nube y los beneficios que brinda en diferentes aspectos."
+      },
+      {
+        "statement": "Es incompatible con lo expresado en el texto sostener que",
+        "alternatives": [
+          "A) «la nube» permite el ahorro de costos únicamente en el ámbito de la infraestructura.",
+          "B) la virtualización implica la distribución del procesamiento entre diferentes máquinas.",
+          "C) la mayoría de personas no tienen claro en qué consiste exactamente «la nube».",
+          "D) con «la nube», una PC con una capacidad limitada realizaría tareas muy complejas.",
+          "E) cada máquina interconectada para formar «la nube» tiene su propio sistema operativo."
+        ],
+        "correct": 0,
+        "rationale": "«La nube» también permite ahorrar el costo generado por los profesionales en informática que se requieren tradicionalmente para poner a funcionar los sistemas informáticos."
+      },
+      {
+        "statement": "Si todas las PC fuesen baratas y al mismo tiempo tuviesen una enorme capacidad de procesamiento y memoria,",
+        "alternatives": [
+          "A) «la nube» no habría tenido el desarrollo que muestra actualmente .",
+          "B) el hardware de «la nube» pública se podría manipular físicamente.",
+          "C) las empresas sufrirían una mayor infrautilización de sus equipos.",
+          "D) la facturación de los servicios en «la nube» tenderían a desaparecer.",
+          "E) no existiría el software que permitiría los actuales avances informáticos."
+        ],
+        "correct": 0,
+        "rationale": "El desarrollo de la nube fue estimulado especialmente por la necesidad de realizar trabajos complejos y de almacenamiento que las PC comunes no pueden hacer o hacen con elevado gasto."
+      },
+      {
+        "statement": "A) resulta especialmente ventajosa para los grandes empresarios.",
+        "alternatives": [
+          "A) resulta especialmente ventajosa para los grandes empresarios.",
+          "B) elimina cualquier riesgo de seguridad para la información guardada.",
+          "C) puede bloquear el acceso instantáneo de los clientes a sus cuentas.",
+          "D) ha causado que todos los dispositivos de la PC se vuelvan obsoletos.",
+          "E) privada deja de lado cualquier mención a la llamada «virtualización»."
+        ],
+        "correct": 0,
+        "rationale": "Los mayores gastos de infraestructura y material humano los tienen las empresas, no los usuarios individuales."
+      }
+    ]
+  },
+  {
+    "type": "reading_comprehension",
+    "statement": "Si la fragmentación del Imperio romano había motivado la desaparición de la unidad lingüística creada por el latín, la conquista de la península ibérica por los árabes y la inmediata destrucción de la monarquía visigótica, originan el nacimiento de una serie de dialectos que vienen a substituir el prerromance hablado en toda España en el siglo VII.\nCada uno de los re inos cristianos que ahora se constituyen empieza a ofrecer formas idiomáticas que van diferenciándose progresivamente. En el siglo X, época en que por primera vez aparecen algunas de estas fijadas por escrito, se hablan ya en España seis dialectos de origen latino: gallego, leonés, castellano, navarro -aragonés, catalán y mozárabe. De todos ellos, es el mozárabe el que con mayor ahínco mantiene las formas propias de la época visigótica. En cambio, el castellano presenta ya desde sus comienzos un decidido carácter innovador, diferenciándose por esto de los restantes dialectos, mucho más arcaizantes.\nCastilla conquista su independencia en el siglo X, movida por un espíritu revolucionario que les impulsa a desligarse de la muy romanizada tradición visigótica, de la que el reino de León se considera heredero. Este sentido progresivo de los castellanos se revela en sus preferencias lingüísticas: la pérdida de la f y g inicial ( filium >hijo; genesta > hiniesta), la conversión del grupo ct en ch ( noctem >noche), de li en j ( foliam >hoja), la diptongación de la e y o breves ( terram >tierra; bonam >buena) y otros muchos fenómenos que diferencian notablemente el castellano de los restantes dialectos hispánicos.\nA mediados del siglo XI, Castilla, constituida ya en reino, inicia una serie de luchas que poco después le darán la hegemonía frente a León y Navarra. Coincidiendo con ello, el castellano comienza a introducir una cuña hacia el Sur -que desplazará a los ya decadentes dialectos mozárabes, gracia s a la conquista de Toledo por Alfonso VI - y a proyectar sobre los otros dialectos vecinos un influjo que al aumentar en los siglos siguientes acabará por procurarle el predominio absoluto. Las primeras voces romances que conservamos por escrito aparecen e n las Glosas Silenses y Emilianenses , redactadas hacia el siglo X, y en las que para aclarar el texto latino se intercalan algunas palabras en dialecto navarro -aragonés( trastorné ,nuestro , terzero , cusina …). Las más antiguas muestras de expresión lírica e n una lengua neolatina conocidas hasta el presente son varias jarchas en dialecto mozárabe, correspondientes, a su vez, al siglo XI. No obstante, la primera obra de gran extensión que ha llegado hasta nosotros en la que la lengua vulgar se utiliza con fines literarios -el Cantar del Mío Cid - está compuesta en castellano. Sus formas lingüísticas se remontan al siglo XII, época en que también empiezan a desarrollarse las restantes literaturas románicas. El cultivo definitivo del castellano como lengua escrita se inicia en el siglo XIII, durante el reinado de Fernando III, quien oficializó el castellano para la Cancillería, en vez del latín.",
+    "questions": [
+      {
+        "statement": "1) A) los cambios políticos y lingüísticos motivados por un espíritu revolucionario de la sociedad española durante el siglo XI.",
+        "alternatives": [
+          "A) los cambios políticos y lingüísticos motivados por un espíritu revolucionario de la sociedad española durante el siglo XI.",
+          "B) la hegemonía de Castilla a nivel político y lingüístico que eclipsó no solo el poderío de los visigodos sino también el de los árabes.",
+          "C) los procesos lingüísticos del latín para diferenciarse del resto de dialectos, lo cual coadyuvó a su descarte como lengua oficial.",
+          "D) la decadencia del Imperio romano debido a la desestabilización de la lengua latina en el siglo VII producido por el poderío visigodo.",
+          "E) el surgimiento de los dialectos de origen latino, de los cuales hay una preeminencia del castellano hasta consolidarse como lengua oficial."
+        ],
+        "correct": 4,
+        "rationale": "El autor del texto plantea que el surgimiento de los dialectos latino s motivó el reemplazo de la lengua latina y de estas el castellano mostró un desarrollo divergente al resto. Debido al espíritu revolucionario de Castilla esta logra consolidarse como reino y el castellano, su oficialización."
+      },
+      {
+        "statement": "2) El antónimo contextual de DECADENTE es",
+        "alternatives": [
+          "A) consolidado.",
+          "B) impopular.",
+          "C) inservible.",
+          "D) maravilloso.",
+          "E) inexistente."
+        ],
+        "correct": 0,
+        "rationale": "A mediados del siglo XI, Castilla logra la hegemonía. A la vez el castellano comienza a introducir una cuña hacia el Sur -que desplazará a los ya decadentes dialectos mozárabes, gracias a la conquista de Toledo por Alfonso VI -.Lo opuesto al término decadente es consolidado."
+      },
+      {
+        "statement": "3) Resulta congruente con el texto aseverar que",
+        "alternatives": [
+          "A) el rey Alfonso VI oficializó el uso del castellano en el siglo XIII para la Cancillería.",
+          "B) la unidad lingüística del latín mantuvo intacto el poderío árabe en la península.",
+          "C) el surgimiento de dialectos latinos ocasionó la extinción del latín en España.",
+          "D) tanto el mozárabe como el castellano reflejaron una tendencia muy arcaizante.",
+          "E) los cambios lingüísticos del castellano estuvieron sujetos a la tradición visigótica."
+        ],
+        "correct": 0,
+        "rationale": "Si la fragmentación del Imperio romano había motivado la desaparición de la"
+      }
+    ]
+  },
+  {
+    "type": "reading_comprehension",
+    "statement": "A mediados del siglo XI, Castilla logra la hegemonía. A la vez el castellano comienza a introducir una cuña hacia el Sur -que desplazará a los ya decadentes dialectos mozárabes, gracias a la conquista de Toledo por Alfonso VI -.Lo opuesto al término decadente es consolidado.",
+    "questions": [
+      {
+        "statement": "2. El antónimo contextual de DECADENTE es",
+        "alternatives": [
+          "A) consolidado.",
+          "B) impopular.",
+          "C) inservible.",
+          "D maravilloso.",
+          "E) inexistente."
+        ],
+        "correct": 0,
+        "rationale": "A mediados del siglo XI, Castilla logra la hegemonía. A la vez el castellano comienza a introducir una cuña hacia el Sur -que desplazará a los ya decadentes dialectos mozárabes, gracias a la conquista de Toledo por Alfonso VI -.Lo opuesto al término decadente es consolidado."
+      },
+      {
+        "statement": "3. Resulta congruente con el texto aseverar que",
+        "alternatives": [
+          "A) el rey Alfonso VI oficializó el uso del castellano en el siglo XIII para la Cancillería.",
+          "B) la unidad lingüística del latín mantuvo intacto el poderío árabe en la península.",
+          "C) el surgimiento de dialectos latinos ocasionó la extinción del latín en España.",
+          "D) tanto el mozárabe como el castellano reflejaron una tendencia muy arcaizante.",
+          "E) los cambios lingüísticos del castellano estuvieron sujetos a la tradición visigótica."
+        ],
+        "correct": 2,
+        "rationale": "Si la fragmentación del Imperio romano había motivado la desaparición de la unidad lingüística creada por el latín, la conquista de la península ibérica por los árabes y la inmediata destrucción de la monarquía visigótica, originan el nacimiento de una serie de dialectos que vienen a substituir el prerromance hablado en toda España en el siglo VII."
+      },
+      {
+        "statement": "4. Es posible inferir de l texto que la lengua castellana",
+        "alternatives": [
+          "A) se oficializó por afán literario debido a la publicación de la exitosa obra el Mío Cid.",
+          "B) marca la supremacía de España y su hegemonía en toda la Europa del Medioevo.",
+          "C) facilitó la toma de Toledo al expandirse y desplazar al mozárabe por toda España.",
+          "D) se hallaba propensa a continuar las formas lingüísticas del dialecto mozárabe.",
+          "E) tuvo repercusión con su oficialización en la formación de la identidad española."
+        ],
+        "correct": 0,
+        "rationale": "El avance progresivo de los castellanos para desligarse de la muy romanizada tradición visigótica se reveló también en los cambios o fenómenos lingüísticos que pasó el castellano para diferenciarse notablemente del resto de dialectos. Al lograr convertirse en lengua oficial de España no solo representó la unidad lingüística de este país, sino también su identidad nacional."
+      },
+      {
+        "statement": "5. Si el desarrollo del capitalismo industrial hubiera estado restringido únicamente a los países europeos,",
+        "alternatives": [
+          "A) países como Inglaterra o Francia no habrían atravesado por las tres etapas de desarrollo urbano.",
+          "B) el surgimiento de miniciudades como La Molina o Chacarilla resultaría un fenómeno implausible .",
+          "C) las clases desposeídas europeas habrían tenido que salir de los márgenes de los grandes ríos.",
+          "D) las naciones latinoamericanas habrían superado notablemente el desarrollo urbano del viejo mundo.",
+          "E) distritos como Breña, Lince o Pueblo Libre se convertirían en las nuevas zonas marginales de Lima."
+        ],
+        "correct": 1,
+        "rationale": "industrial. Si este se hubiera restringido solo a Europa, la aparición de estas miniciudades, habría sido hecho inusual."
+      }
+    ]
+  },
+  {
+    "type": "reading_comprehension",
+    "statement": "Juventud es sinónimo de salud. Algo que no es necesariamente cierto en el caso de los padres que tienen hijos durante la pubertad. Y es que los varones menores de 19 años son más propensos a transmitir mutaciones genéticas. Esquizofrenia, espina bífida, autismo… Hay enfermedades dolorosas, con graves consecuencias y que condicionan la vida de los niños. Según estudios actuales, la probabilidad de desarrollar este tipo de dolencias aumenta considerablemente en el caso de padres adolescentes.\n\nLa investigación ha sido llevada a cabo por un equipo de investigación internacional de las universidades de Münster y Cambridge. Ya en 2007, un estudio confirmó que ciertas enfermedades tienen mayor probabilidad de ser transmitidas por padres muy jóvenes. Entre los 20 y 25 años, sin embargo, el riesgo disminuye, y vuelve a aumentar a partir de los 30.\n\n«Hasta ahora, los estudios habían demostrado que el esperma de los padres con edades comprendidas entre los 20 y los 35 años es el más saludable», aclara el doctor Peter Forster, genetista de la Universidad de Cambridge. Sus investigaciones actuales explican la razón: «simplemente tienen una tasa de mutación menor», explica Forster.\n\nAl contrario de lo que se pensaba hasta ahora, los investigadores creen que el material genético de los adolescentes no es más saludable que el de otros hombres más mayores. «Una razón para ello puede ser que, en el caso de los muy jóvenes, el mecanismo de producción de semen no termina de ponerse en marcha en la pubertad y esto puede ocasionar una serie de errores», conjetura Forster. Para demostrar esta hipótesis, los científicos han estudiado una frecuencia genética especial que claramente se hereda de padres a hijos y no puede ser modificada por factores ambientales externos, los llamados micros atélites. Se necesitaron 24000 pruebas de ADN realizadas a padres adolescentes procedentes de Europa, Oriente Próximo y África, y a sus respectivos hijos, para confirmar la mutación de esta frecuencia genética.\n\n«Ciertamente, siempre existen factores externos que influyen en el desarrollo de ciertas enfermedades y que son casi imposibles de medir», dice Forster. «Aunque hemos encontrado una correlación significativa entre la edad de los padres y la tasa de mutación de su material genético, ésta, naturalmente, no excluye estos factores».\n\nDuhm, L. (18 de febrero de 2015). Esperma joven, de menor calidad. Deutsche Welle . Recuperado el 04 de marzo de 2015, de Deutsche Welle:\nhttp://www.dw.de/esperma -joven -de-menor -calidad/a -18266020",
+    "questions": [
+      {
+        "statement": "1. En el texto, la expresión NO TERMINA DE PONERSE EN MARCHA supone",
+        "alternatives": [
+          "A) inexactitud.",
+          "B) inmadurez.",
+          "C) fragilidad .",
+          "D) cabalidad.",
+          "E) irresolución."
+        ],
+        "correct": 1,
+        "rationale": "En los adolescentes, el mecanismo de producción de esperma presenta errores porque aún no estaría desarrollado del todo."
+      }
+    ]
+  },
+  {
+    "type": "reading_comprehension",
+    "statement": "Edgar Allan Poe (1809 -1849) goza ya de tanta fama que su mera mención produce cierto cansancio. Esto se debe en parte a su manida imagen de tópico paladín de la desdicha y el malditismo, y a menudo a su injusta condición de enfática lectura temprana. Sin embargo, Poe es uno de los pocos escritor es que pueden ostentar con holgura el solemne apelativo de genio , y no solo por haber inventado el género policial y establecido las leyes del cuento moderno. Poe construyó su propia poética con sumo cuidado. Primero se planteó la extensión, y optó por la forma breve, como el poema. La brevedad hace posible la máxima intensidad del efecto . La longitud de la novela no permite la lectura de un solo tirón, por tanto el efecto no puede mantenerse todo el tiempo y acaba diluyéndose en la totalidad del texto. Por el contrario, la brevedad del relato asume en todo momento un perfecto control sobre el plano imaginario del lector, que sostiene y modula el crescendo emocional de la lectura en cada una de las partes del argumento. De modo que todos los episodios inventados y atmósferas imaginadas tienen por misión conducir al lector a un",
+    "questions": [
+      {
+        "statement": "¿Cuál es el tema central del texto?",
+        "alternatives": [
+          "A) El carácter verdaderamente excéntrico de Allan Poe",
+          "B) La aparente contradicción en la escritura de Allan Poe",
+          "C) El origen de lo terrorífico en la narrativa de Allan Poe",
+          "D) La poética de Poe y los rasgos esenciales de su obra",
+          "E) La trascendencia de Allan Poe en la literatura del XIX"
+        ],
+        "correct": 3,
+        "rationale": "El texto desarrolla continuamente aspectos esenciales de Edgar Allan Poe, tanto en relación a los principios de escritura que sigue (su poética) como lo que corresponde a la configuración de sus personajes y su mundo representado."
+      },
+      {
+        "statement": "La palabra ADEPTO connota",
+        "alternatives": [
+          "A) simple imitación.",
+          "B) gran desconocimiento.",
+          "C) ningún respeto.",
+          "D) suma admiración.",
+          "E) excesiva consideración."
+        ],
+        "correct": 0,
+        "rationale": "En el texto, la calificación de adepto de Hoffman aplicada a Poe implica que este se coloca en un nivel inferior que este, pues se constituye en un simple imitador que no alcanza la calidad de aquel."
+      },
+      {
+        "statement": "Se infiere del texto que la valoración tan intensa que muestra Poe del componente racional en la creación literaria",
+        "alternatives": [
+          "A) contrasta fuertemente con el carácter subjetivo de su obra.",
+          "B) refleja un total desprecio por lo inexplicable y lo misterioso.",
+          "C) aleja completamente a este autor de la órbita del malditismo.",
+          "D) interfiere con su capacidad de diseñar personajes coherentes.",
+          "E) lo aproxima a las posturas literarias asumidas por Hoffman."
+        ],
+        "correct": 0,
+        "rationale": "En el texto se afirma que a la preocupación por lo racional de Poe se une el adentramiento en lo subjetivo."
+      },
+      {
+        "statement": "Es incompatible, respecto a Edgar Allan Poe y su obra, afirmar que",
+        "alternatives": [
+          "A) el calificativo de genio aplicado a Poe se justifica plenamente.",
+          "B) Poe aplica en su escritura la teoría romántica de la inspiración.",
+          "C) el planteamiento de sus personajes permite adentrarse en lo inconsciente.",
+          "D) la novela tiene una estructura menos trabada que un cuento corto.",
+          "E) la estructura del relato breve se dirige a conseguir un efecto en el lector."
+        ],
+        "correct": 1,
+        "rationale": "puede discernir con claridad y escapan a su control. Todo lo contrario de Poe, que es escribía cuidando que todos los elementos le permitieran alcanzar el efecto previamente fijado."
+      },
+      {
+        "statement": "Si los cuentos de Poe no pudieran leerse de un solo tirón,",
+        "alternatives": [
+          "A) carecerían de influencia de lo subjetivo.",
+          "B) su teoría del horror sería inválida.",
+          "C) tendría n un efecto menos intenso.",
+          "D) carecerían de imágenes de horror.",
+          "E) evidenciarían un ataque a lo racional."
+        ],
+        "correct": 2,
+        "rationale": "La brevedad hace posible la máxima intensidad del efecto . La longitud de la novela no permite la lectura de un solo tirón, por tanto el efecto no puede mantenerse todo el tiempo."
+      }
+    ]
+  },
+  {
+    "type": "sentence_elimination",
+    "statement": "I) Se conoce como Inkarri al personaje central de un mito surgido en los Andes peruanos después de la llegada de los españoles. II) El mito de Inkarri narra la visión andina de la invasión y conquista española del Perú. III) Para hacerlo se vale de un complejo simbolismo basado en algunos elementos del mundo andino. IV) Este mito plantea la esperanza en la reconstitución del Tahuantinsuyo. V) El mito del Inkarri fue recogido de la tradición oral andina por primera vez en 1955. Inkarri. Las demás oraciones tienen como eje el mito de Inkarri.",
+    "alternatives": [
+      "A) II",
+      "B) IV",
+      "C) V",
+      "D) I",
+      "E) III"
+    ],
+    "correct": 3,
+    "rationale": null
+  },
+  {
+    "type": "sentence_elimination",
+    "statement": "I) En el Diccionario de la Real Academia Española [DRAE], «adonis» significa ‘joven hermoso’, por alusión a la hermosura del personaje mítico Adonis. II) En el DRAE, «celestina» significa ‘alcahueta’, por alusión a Celestina quien es personaje de la tragicomedia de Calisto y Melibea . III) En el DRAE, «quijote» significa ‘hombre que antepone sus ideales’, por alusión a don Quijote de la Mancha. IV) En el DRAE, «pantagruélico» significa ‘comida excesiva’, por alusión a Pantagruel, personaje y título de una obra de Rabelais. V) El DRAE incluye la palabra «mefistofélico» que significa ‘diabólico, perverso’, por alusión a Mefistófeles, personaje de la leyenda de Fausto popularizado por Goethe.",
+    "alternatives": [
+      "A) II",
+      "B) I",
+      "C) V",
+      "D) III",
+      "E) IV"
+    ],
+    "correct": 1,
+    "rationale": null
+  },
+  {
+    "type": "sentence_elimination",
+    "statement": "I) Jean Paul Sartre fue un filósofo defensor y propulsor del existencialismo y el marxismo. II) J. P. Sartre dedicó parte de su tiempo a dirigir la revista Les Temps Modernes, una de las revistas más importantes de su época. III) Sartre escribió también un tratado filosófico para fundamentar su planteamiento existencialista, El ser y la nada . IV) En una segunda etapa se adscribió al marxismo, cuyo pensamiento expresó en La crítica de la razón dialéctica. V) Jean Paul Sartre también escribió algunas novelas y relatos inspirados en su postura filosófica, como La náusea o Los caminos de la libertad .",
+    "alternatives": [
+      "A) V",
+      "B) I",
+      "C) III",
+      "D) IV",
+      "E) II"
+    ],
+    "correct": 1,
+    "rationale": null
+  },
+  {
+    "type": "verbal_series",
+    "statement": "1. Brisa, ventarrón; llovizna, aguacero;",
+    "alternatives": [
+      "A) tormenta, brisa.",
+      "B) calamidad, trueno.",
+      "C) nevada, tsunami.",
+      "D) garúa, chubasco.",
+      "E) torbellino, terremoto."
+    ],
+    "correct": 3,
+    "rationale": null
+  },
+  {
+    "type": "verbal_series",
+    "statement": "2. Audaz, osado, atrevido,",
+    "alternatives": [
+      "A) lozano.",
+      "B) atrabiliario.",
+      "C) pugnaz.",
+      "D) resuelto.",
+      "E) recalcitrante."
+    ],
+    "correct": 3,
+    "rationale": null
+  },
+  {
+    "type": "verbal_series",
+    "statement": "4. Francachela, borrachera; coraje, amilanamiento; persistencia, terquedad;",
+    "alternatives": [
+      "A) pócima , ungüento.",
+      "B) prótesis, dispositivo.",
+      "C) indigencia, opulencia.",
+      "D) catarata, glaucoma.",
+      "E) explosión, fisión ."
+    ],
+    "correct": 2,
+    "rationale": null
+  },
+  {
+    "type": "verbal_series",
+    "statement": "5. Asno, rebuznar; becerro, berrear; buey, mugir; cordero,",
+    "alternatives": [
+      "A) chillar.",
+      "B) graznar.",
+      "C) grajear.",
+      "D) balar.",
+      "E) relinchar."
+    ],
+    "correct": 3,
+    "rationale": null
+  },
+  {
+    "type": "verbal_series",
+    "statement": "6. Certidumbre, duda; conjetura, hipótesis; tesis, antítesis;",
+    "alternatives": [
+      "A) axioma , inducción.",
+      "B) celo, recelo.",
+      "C) abuso, imparcialidad.",
+      "D) teorema, demostración.",
+      "E) colusión, contusión."
+    ],
+    "correct": 3,
+    "rationale": null
+  }
+]

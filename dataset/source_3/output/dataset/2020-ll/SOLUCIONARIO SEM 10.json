@@ -1,0 +1,450 @@
+[
+  {
+    "type": "reading_comprehension",
+    "statement": "La primera teoría completa sobre la gravedad fue desarrollada por Isaac Newton.\nPuede decirse que él, junto con Galileo Galilei, inventó la ciencia tal como la conocemos.\nNacido a mediados del siglo XVII (1642), Newton vivió en una época conflictiva, en la que\nel monopolio dogmático de la Iglesia sobre la ciencia se estaba desmoronando con los\nnuevos descubrimientos en las principales ramas del saber. Galileo ya había sido forzado\nbajo amenaza de tortura a retractarse de sus importantes descubrimientos astronómicos y\nGiordano Bruno había sido quemado en la hoguera por atreverse a cuestionar algunas\nideas ortodoxas en astronomía. Toda Europa, que durante mucho tiempo había estado\noprimida por el corsé intelectual del pensamiento religioso tradicional, se estaba agitando\nbajo el impacto desafiante de nuevas ideas. En 1543, el astrónomo polaco Nicolás\nCopérnico, tras un examen cuidadoso del movimiento de los planetas, había publicado\nuna tesis revolucionaria sobre la disposición astronómica del sistema solar. Sugirió que la\ntierra no permanecía fija en el centro del universo, sino que giraba alrededor del Sol con\nlos demás planetas, rechazando las antiguas teorías (inspiradas en Ptolomeo), que\ndurante siglos habían prevalecido, sobre la posición de la humanidad en el Cosmos.\n\nNewton, que había nacido el mismo año de la muerte de Galileo, cuando tenía poco\nmás de veinte años había hecho ya descubrimientos trascendentales en matemáticas,\nfísica y astronomía. Eran especialmente importantes sus teorías sobre el espacio, el\ntiempo y el movimiento. Estas teorías las desarrolló en ecuaciones matemáticas precisas\nque sirvieron para relacionar conceptos como fuerza, cantidad de movimiento y\naceleración de los cuerpos materiales. Las leyes de Newton sobre el movimiento son\nusadas aún hoy en día, tres siglos más tarde.\n\nUna fuerza que atrajo la atención de Newton fue la gravedad (estimulada, dice la leyenda, por la caída de la\nmanzana). Con gran perspicacia postuló que la gravedad\nactuaba no solo sobre la Tierra sino también entre los \"cuerpos graves\", como las\nestrellas, el Sol y los planetas. La hipótesis podía ser comprobada aplicando las leyes que\ndescubrió al movimiento de los planetas alrededor del sistema solar bajo la acción de las\nfuerzas gravitatorias. Adivinó correctamente la fórmula matemática de esta fuerza al\ndarse cuenta de que debía disminuir con la distancia (elevada al cuadrado) entre los\ncuerpos graves y fue capaz de resolver las ecuaciones y encontrar la forma y el tamaño\nde las órbitas de los planetas y de la Luna. El éxito fue inmediato: las órbitas planetarias\nresultaron ser elípticas, con el Sol situado en uno de sus focos, exactamente tal como el\nastrónomo austríaco Johannes Kepler había deducido previamente a partir de las\nobservaciones de los planetas realizadas por Tycho Brahe. Newton también consiguió\ncalcular la relación correcta entre la velocidad del movimiento de los planetas y su\ndistancia al Sol, así como el período correcto de la Luna. Fue un progreso brillante, que\nmostró por vez primera que las leyes de la ciencia descubiertas en laboratorios de la\ntierra podían ser aplicadas con éxito a cuerpos graves, considerados hasta entonces\ncomo pertenecientes a un dominio puramente celestial.",
+    "questions": [
+      {
+        "statement": "El texto trata fundamentalmente sobre",
+        "alternatives": [
+          "A) los descubrimientos científicos hechos durante el siglo XVIII.",
+          "B) el estudio de la gravedad hecho por Newton y sus resultados.",
+          "C) los principales acontecimientos de la astronomía moderna.",
+          "D) los hitos determinantes en la vida científica de Isaac Newton."
+        ],
+        "correct": 1,
+        "rationale": "El texto inicia diciendo que la primera teoría completa sobre la gravedad fue desarrollada por Newton y luego explica su desarrollo."
+      },
+      {
+        "statement": "En el texto, ORTODOXA connota",
+        "alternatives": [
+          "A) dogma.",
+          "B) epítome.",
+          "C) verdad.",
+          "D) axioma."
+        ],
+        "correct": 0,
+        "rationale": "Se alude a algo que se acepta de manera dogmática."
+      },
+      {
+        "statement": "Marque la alternativa incompatible con la información sobre los científicos mencionados en el texto.",
+        "alternatives": [
+          "A) Tycho Brahe hizo muchas observaciones sobre los planetas.",
+          "B) Kepler se basó en las observaciones hechas por Tycho Brahe.",
+          "C) Actualmente se utilizan las leyes de Newton sobre el movimiento.",
+          "D) Galileo demostró de manera exacta el valor del periodo lunar."
+        ],
+        "correct": 3,
+        "rationale": "Es una deducción de Newton."
+      },
+      {
+        "statement": "Se colige del texto que la tesis del universo geocéntrico fue propugnada por",
+        "alternatives": [
+          "A) Bruno.",
+          "B) Newton.",
+          "C) Ptolomeo.",
+          "D) Kepler."
+        ],
+        "correct": 2,
+        "rationale": "Se desprende del texto que Ptolomeo defiende una teoría geocéntrica, que, luego, será refutada por Copérnico."
+      },
+      {
+        "statement": "Si el cálculo de las órbitas de los planetas hecho por Newton hubiese demostrado una estructura circular,",
+        "alternatives": [
+          "A) la atracción gravitatoria no disminuiría con la distancia.",
+          "B) los planetas no serían considerados como cuerpos graves.",
+          "C) la fuerza gravitatoria no ejercería acción sobre los planetas.",
+          "D) habría contradicho el trabajo científico de Johannes Kepler."
+        ],
+        "correct": 3,
+        "rationale": "Si newton hubiese planteado órbitas circulares estaría contra lo planteado por Kepler, que planteaba órbitas elípticas. Ambas serían teorías rivales."
+      }
+    ]
+  },
+  {
+    "type": "reading_comprehension",
+    "statement": "El Estado tiene la obligación de legalizar la prostitución. Esto significa que no debe dictar normas cuyo objetivo sea castigar a las personas implicadas en esta práctica siempre que la misma se realice con el consentimiento de todas ellas. Esto es, no toda compra-venta de sexo es el resultado de una acción coactiva, y no todas las prostitutas son víctimas de trata, ya que muchas prostitutas se iniciaron en este mercado por decisión propia, aunque sí empujadas por necesidades económicas que las agobiaban constantement e. Gracias a la prostitución, ellas pueden satisfacer tales necesidades, ya que pueden agenciarse más dinero en menos tiempo que en cualquier otro trabajo, quedándoles tiempo libre para realizar un sinnúmero de actividades que les genera gratificaciones personales. Asimismo, tengamos en cuenta también que estamos hablando de un sujeto con derechos y, en tal sentido, la mujer tiene el derecho a disponer de su cuerpo como estime oportuno. Esto es, hacer ejercicio de su derecho a la libertad, a la libertad de comercializar su cuerpo en este caso, es algo totalmente compatible en la sociedad de consumo en la que vivimos.\n\nLegalizar la prostitución se ha convertido en el caballito de batalla de las feministas extremas, en tanto creen estar erigiéndose como las defensoras de la libertad de elección de las mujeres que libremente deciden ejercer este oficio para ganarse la vida, lo que a su vez supone libertad para decidir sobre su cuerpo (venderlo, alquilarlo). Tales afirmaciones no son más que necias palabras, ya que no se puede hablar, de ninguna manera, de prostitución libremente consentida porque las mujeres que han decido prostituirse, lo han hecho empujadas por una necesidad imperiosa. Vale decir, cuando las condiciones en las que se vive son precarias, no hay opciones que elegir: no hay una libre elección. Asimismo, carece de sentido afirmar que la mujer que se prostituye lo hace en ejercicio de su derecho a la libertad de elegir sobre su cuerpo, porque esto implica un problema de corte ético, ya que la mujer que se prostituye decide enajenarse a sí misma para convertirse en una mercancía a la cual se puede acceder por intercambio de dinero; cosa que no debería permitirse, como tampoco se permite la venta de órganos.\n\nGimeno, M. (2017). La argumentación a favor del trabajo sexual y sus implicaciones éticas. (Texto editado).\nhttp://www.scielo.org.co/pdf/ojum/v17n33/1692-2530-ojum-17-33-00073.pdf.",
+    "questions": [
+      {
+        "statement": "La tensión entre los dos textos gira entorno a",
+        "alternatives": [
+          "A) las bases de la legitimidad de la prostitución.",
+          "B) la plausibilidad de legalización del meretricio.",
+          "C) la situación legal de las mujeres prostitutas.",
+          "D) la mercantilización de la mujer en la sociedad."
+        ],
+        "correct": 1,
+        "rationale": "En ambos textos, se hace referencia a la legalización de la prostitución. En el texto A, se defiende la legalización; en el texto B, su impugna la misma."
+      },
+      {
+        "statement": "En el texto B, el término IMPERIOSA connota la idea de una necesidad",
+        "alternatives": [
+          "A) ominosa.",
+          "B) lastimera.",
+          "C) implacable.",
+          "D) urgente."
+        ],
+        "correct": 3,
+        "rationale": "En el texto B, dicho término es usado en un contexto en el que se indica que la situación que puede atravesar la mujer que decide prostituirse es una situación urgente."
+      },
+      {
+        "statement": "Respecto de los argumentos expuestos en el texto dialéctico en conjunto sobre la legalización de la prostitución, podemos inferir que",
+        "alternatives": [
+          "A) ambos textos coinciden en señalar que las necesidades económicas fueron determinantes para que algunas mujeres decidan prostituirse.",
+          "B) las feministas extremas que propugnan la legalización de la prostitución, según el texto B, se sustentan en la noción de un derecho universal.",
+          "C) se plantea, en el texto A, la exoneración de culpa y responsabilidad de todas las personas que participan en el negocio de la prostitución.",
+          "D) ambos textos convergen en que la prostitución es un medio que permite que las mujeres puedan formar parte activa de una empresa privada."
+        ],
+        "correct": 0,
+        "rationale": "Tanto en el texto A como en el texto B, no se duda en reconocer que la imposibilidad de satisfacer necesidades, por una situación económica precaria, ha llevado a que algunas mujeres elijan la prostitución como oficio; en este sentido, podemos inferir que existe una convergencia en este punto, pese a la oposición de sus posturas."
+      },
+      {
+        "statement": "De acuerdo con el argumento expuesto en el texto A, sobre desestimar castigos a las personas implicadas en la prostitución, es compatible afirmar que",
+        "alternatives": [
+          "A) contribuiría a la estigmatización de este añejo oficio.",
+          "B) implicaría la inacción de las instituciones estatales.",
+          "C) la actividad de prostitución puede tener base legal.",
+          "D) estimularía el incremento de mujeres en este oficio."
+        ],
+        "correct": 2,
+        "rationale": "En el texto A, se señala que «no debe dictarse normas cuyo objetivo sea castigar a las personas implicadas en esta práctica siempre que la misma se realice con el consentimiento de todas ellas», esto es que podrían verse libres tanto las prostitutas, como los proxenetas, siempre y cuando sea una libre elección."
+      },
+      {
+        "statement": "De acuerdo con la lógica del texto B, si las mujeres prostitutas se hubiesen visto exentas de necesidades económicas al momento de tomar la decisión de prostituirse,",
+        "alternatives": [
+          "A) su falta de decoro se podría explicar con la noción de legalidad.",
+          "B) la legalización de la prostitución sería una realidad en el corto plazo.",
+          "C) propugnar la legalización de la prostitución seguiría siendo un error.",
+          "D) los Estados podrían despenalizar el tráfico de órganos en sus países."
+        ],
+        "correct": 2,
+        "rationale": "En el texto B, se afirma que la legalización de la prostitución no debe permitirse por dos razones: la mujer no decide prostituirse libremente, ya que hay una situación económica precaria que la empuja a ello, y porque al hacerlo mercantiliza su cuerpo. El caso hipotético de la pregunta solo afecta a una razón, la otra se mantiene; en ese sentido, es posible pensar la legalización de la prostitución es un error."
+      }
+    ]
+  },
+  {
+    "type": "reading_comprehension",
+    "statement": "No siempre es clara la línea divisoria entre lo enfermo y lo normal en el mundo de\nlos trastornos psiquiátricos. De hecho, la nueva psiquiatría nos muestra lo tenue de esa\nlínea divisoria y cómo hay «piezas normales» en la estructura cognitiva del enfermo\nmental y «piezas anormales» en la estructura cognitiva del ser humano normal. Sin duda\nque estas observaciones –en las que más y más se adentra la actual neuropsicología y\nneuropsiquiatría cognitiva y las nuevas técnicas de imagen mental– están aproximando\nideas que nos permiten ver cada vez más la convergencia de lo «normal» y lo «anormal».\nPrecisamente, la falta de marcadores capaces de delimitar con claridad y precisión (como\nlos hay para una diabetes o un tumor cerebral) las enfermedades mentales o psiquiátricas\nhace que éstas sigan teniendo un perfil difuso en su relación con procesos varios.\n\nY salvo los extremos (que quiere decir la nítida patología como bien pudiera ser la\nesquizofrenia florida ola depresión endógena ola manía), el continuum de la\npersonalidad humana, desde la timidez y la tristeza en una parte del espectro hasta la\ndesinhibición, alegría y hasta cierta hipomanía en el otro lado, es un abanico tan grande\nque puede acomodar la conducta de casi todos los seres humanos, desde las\nprofundidades de lo prosaico a las cimas de la genialidad. De hecho, en la actualidad,\nadmitimos que no existe «eso» de la personalidad sana, normal y perfecta, y que más que\ndistinguir entre normal y patológico, dentro de ese amplio rango, consideramos las\ndiferencias como formando parte en lo que hoy acuñamos como la diversidad humana.\n\nNo está muy lejos el tiempo en el que la psiquiatría ha sido un «saco» de gran\nutilidad en el que el poder político y social ha metido y ha aislado muchos individuos\ninconvenientes para ese mismo orden social. En su libro A question of madness, el\ncientífico ruso Zhores Medvedev (1974) cuenta la historia de su encarcelación, al parecer\ncausada sólo por la oposición que él presentó al partido y estado soviético, y su posterior\ninternamiento en un hospital psiquiátrico. ¿Cuál fue el diagnóstico? Esquizofrenia\nprogresiva, paranoia y pobre adaptación al medio social en el que se vive.\n\n1. El antónimo contextual de TENUE es\n\nA) tajante.\n\nB) iluminada.\n\nC) sencilla.\n\nD) concisa.\n\nSolución:\n\nEn el texto, tenue‘ se entiende como un concepto débil, por lo cual el antónimo es\ntajante‘.\n\nRpta.: A\n\n2. El texto dilucida fundamentalmente que\n\nA) el mundo de la genialidad tiene el mismo valor que el nivel mental prosaico.\nB) todos los trastornos psiquiátricos se pueden subsumir en la esquizofrenia.\nC) el límite entre lo normal y lo patológico es muy difuso en la nueva psiquiatría.\nD) los órdenes sociales han hecho frecuente mal uso de categorías psiquiátricas.\n\nI\n\nSolución:\n\nDe manera fundamental, se explica la labilidad de la distinción entre lo normal y lo\npatológico en el contexto de la ciencia de la psiquiatría.\n\nRpta.: C\n\n3. Resulta incompatible con el texto aseverar que\n\nA) se puede hallar en los lunáticos rasgos de normalidad.\nB) hay convergencia entre lo normal y el carácter insano.\nC) la nueva neuropsicología enfatiza la diversidad humana.\nD) la hipomanía revela un fuerte nivel de depresión mental.\n\nSolución:\n\nUna hipomanía es un estadio menor si se compara con un fuerte nivel de depresión.\n\nRpta.: D\n\n4. Se deduce del texto que un individuo llamado normal\n\nA) está totalmente caracterizado por la depresión endógena.\nB) tiene la seguridad de no sufrir nunca una manía psicológica.\nC) puede llegar con facilidad a las cimas de la genialidad.\nD) puede presentar ciertos rasgos anómalos en su talante.\n\nSolución:\n\nNo hay un individuo plenamente normal. Hasta la persona considerada normal\npuede presentar ciertas anomalías.\n\nRpta.: D\n\n5. Si un sistema totalitario quisiera eliminar a un enemigo del régimen,\n\nA) lo catalogaría como un elemento prosaico.\nB) lo tildaría de insano e inadaptado social.\nC) lo presentaría con un tipo de hipomanía.\nD) trataría de adscribirlo a una idea de genio.\n\nSolución:\n\nDe acuerdo con la explicación del autor, un sistema totalitario utiliza la dicotomía\ncordura/locura para zafarse de enemigos políticos.\n\nRpta.: B\n\n6. En el texto, se menciona al científico Zhores Medvedev para ilustrar que\n\nA) la esquizofrenia florida puede anidarse fijamente en la mente de un científico.\nB) la depresión endógena suele ser un rasgo distintivo de los hombres de ciencia.\nC) la psiquiatría científica siempre ha sido un baluarte contra todos los totalitarismos.\nD) las dictaduras utilizaron categorías psiquiátricas para la represión de los opositores.\n\nSolución:\n\nJustamente, el sistema totalitario utilizó es adscripción como una forma de represión\nde tipo político.\n\nRpta.: D\n\nI\n\nSEMANA 10 B\n\nUn miembro de cada familia padecerá un trastorno de salud mental en algún\nmomento de su vida. Sí, los trastornos mentales son la próxima epidemia sanitaria",
+    "questions": [
+      {
+        "statement": "El antónimo contextual de TENUE es",
+        "alternatives": [
+          "A) tajante.",
+          "B) iluminada.",
+          "C) sencilla.",
+          "D) concisa."
+        ],
+        "correct": 0,
+        "rationale": "En el texto, tenue‘ se entiende como un concepto débil, por lo cual el antónimo es tajante‘."
+      },
+      {
+        "statement": "El texto dilucida fundamentalmente que",
+        "alternatives": [
+          "A) el mundo de la genialidad tiene el mismo valor que el nivel mental prosaico.",
+          "B) todos los trastornos psiquiátricos se pueden subsumir en la esquizofrenia.",
+          "C) el límite entre lo normal y lo patológico es muy difuso en la nueva psiquiatría.",
+          "D) los órdenes sociales han hecho frecuente mal uso de categorías psiquiátricas."
+        ],
+        "correct": 2,
+        "rationale": "De manera fundamental, se explica la labilidad de la distinción entre lo normal y lo patológico en el contexto de la ciencia de la psiquiatría."
+      },
+      {
+        "statement": "Resulta incompatible con el texto aseverar que",
+        "alternatives": [
+          "A) se puede hallar en los lunáticos rasgos de normalidad.",
+          "B) hay convergencia entre lo normal y el carácter insano.",
+          "C) la nueva neuropsicología enfatiza la diversidad humana.",
+          "D) la hipomanía revela un fuerte nivel de depresión mental."
+        ],
+        "correct": 3,
+        "rationale": "Una hipomanía es un estadio menor si se compara con un fuerte nivel de depresión."
+      },
+      {
+        "statement": "Se deduce del texto que un individuo llamado normal",
+        "alternatives": [
+          "A) está totalmente caracterizado por la depresión endógena.",
+          "B) tiene la seguridad de no sufrir nunca una manía psicológica.",
+          "C) puede llegar con facilidad a las cimas de la genialidad.",
+          "D) puede presentar ciertos rasgos anómalos en su talante."
+        ],
+        "correct": 3,
+        "rationale": "No hay un individuo plenamente normal. Hasta la persona considerada normal puede presentar ciertas anomalías."
+      },
+      {
+        "statement": "Si un sistema totalitario quisiera eliminar a un enemigo del régimen,",
+        "alternatives": [
+          "A) lo catalogaría como un elemento prosaico.",
+          "B) lo tildaría de insano e inadaptado social.",
+          "C) lo presentaría con un tipo de hipomanía.",
+          "D) trataría de adscribirlo a una idea de genio."
+        ],
+        "correct": 1,
+        "rationale": "De acuerdo con la explicación del autor, un sistema totalitario utiliza la dicotomía cordura/locura para zafarse de enemigos políticos."
+      },
+      {
+        "statement": "En el texto, se menciona al científico Zhores Medvedev para ilustrar que",
+        "alternatives": [
+          "A) la esquizofrenia florida puede anidarse fijamente en la mente de un científico.",
+          "B) la depresión endógena suele ser un rasgo distintivo de los hombres de ciencia.",
+          "C) la psiquiatría científica siempre ha sido un baluarte contra todos los totalitarismos.",
+          "D) las dictaduras utilizaron categorías psiquiátricas para la represión de los opositores."
+        ],
+        "correct": 3,
+        "rationale": "Justamente, el sistema totalitario utilizó es adscripción como una forma de represión de tipo político."
+      },
+      {
+        "statement": "En el texto, se menciona al científico Zhores Medvedev para ilustrar que",
+        "alternatives": [
+          "A) la esquizofrenia florida puede anidarse fijamente en la mente de un científico.",
+          "B) la depresión endógena suele ser un rasgo distintivo de los hombres de ciencia.",
+          "C) la psiquiatría científica siempre ha sido un baluarte contra todos los totalitarismos.",
+          "D) las dictaduras utilizaron categorías psiquiátricas para la represión de los opositores."
+        ],
+        "correct": 3,
+        "rationale": "Justamente, el sistema totalitario utilizó es adscripción como una forma de represión de tipo político."
+      }
+    ]
+  },
+  {
+    "type": "reading_comprehension",
+    "statement": "SEMANA 10 B\n\nUn miembro de cada familia padecerá un trastorno de salud mental en algún momento de su vida. Sí, los trastornos mentales son la próxima epidemia sanitaria mundial y de cuyos efectos no escapará ningún país. Es una preocupante noticia en víspera del Día Mundial de la Salud Mental, que se conmemora cada martes 10 de octubre.\n\n«La tendencia es clara y el Perú no es una excepción en el panorama general de América Latina y el mundo, respecto a este tópico», advirtió Andrea Bruni, asesor internacional de salud mental y uso de sustancias para la subregión de Sudamérica de la Organización Mundial de la Salud (OMS) y Organización Panamericana de la Salud (OPS).\n\nEn el Perú, las cifras son preocupantes: 8 486 184 personas tuvieron un trastorno mental alguna vez en su vida y 4 909 076 lo experimentaron el año pasado, reveló el director Ejecutivo de la Dirección de Salud Mental del Ministerio de Salud (Minsa), Yuri Cutipé. Dichos números no distinguen edad, condición social, ingreso económico, profesión, género, talento; ser muy conocido o un perfecto anónimo.\n\nKarina Garay (Andina) 9/10/2017 \\u2aa1 Un miembro de cada familia padecerá un trastorno de salud mental en algún momento\\u2aa2 Recuperado y editado de: https://andina.pe/agencia/noticia-un-miembro-cada-familia-padecera-un-trastorno-salud -mental-algun-momento-685767.aspx",
+    "questions": [
+      {
+        "statement": "¿Cuál es el tema central del texto?",
+        "alternatives": [
+          "A) Trastornos de salud mental en Perú",
+          "B) Trastornos mentales en Latinoamérica",
+          "C) Trastornos de salud mental en el mundo",
+          "D) Una nueva epidemia sobre salud mental"
+        ],
+        "correct": 0,
+        "rationale": "Tanto el texto como la imagen describen el panorama de los trastornos de salud mental, específicamente, en Perú."
+      },
+      {
+        "statement": "Tal como se emplea en el texto, el término TÓPICO significa",
+        "alternatives": [
+          "A) epítome.",
+          "B) asunto.",
+          "C) lugar.",
+          "D) episodio."
+        ],
+        "correct": 1,
+        "rationale": "El contexto nos permite determinar que el término TÓPICO se refiere a un tema o asunto."
+      },
+      {
+        "statement": "A partir de la imagen sobre episodios y trastornos mentales, se puede inferir que",
+        "alternatives": [
+          "A) en Perú, los episodios de ansiedad superan a los episodios depresivos.",
+          "B) los trastornos mentales originan un problema muy fácil de solucionar.",
+          "C) las políticas sobre salud en general no están dando buenos resultados.",
+          "D) la afición excesiva de whisky puede originar un problema de tipo mental."
+        ],
+        "correct": 3,
+        "rationale": "A partir de la infografía, se puede razonar que consumir alcohol excesivamente puede devenir en un problema de salud mental."
+      },
+      {
+        "statement": "Sobre las personas que pueden ser afectadas por los trastornos mentales, se puede deducir que",
+        "alternatives": [
+          "A) prácticamente, cualquier persona puede sufrir algún episodio.",
+          "B) suelen ser sujetos que tienen una baja condición económica.",
+          "C) son personas que se caracterizan por una estructura genética.",
+          "D) todas se caracterizan por un gran intenso consumo de alcohol."
+        ],
+        "correct": 0,
+        "rationale": "El texto señala que este tipo de enfermedades puede afectar a cualquier persona.\nDe ello, se deduce que las personas afectadas por esas enfermedades no presentan rasgos sociales particulares."
+      },
+      {
+        "statement": "Si una política de salud mental se dedicara de manera exclusiva a un sector social,",
+        "alternatives": [
+          "A) se trataría de una política holística.",
+          "B) se incurriría en un sesgo equivocado.",
+          "C) las enfermedades mentales disminuirían.",
+          "D) habría un beneficio para toda la sociedad."
+        ],
+        "correct": 1,
+        "rationale": "Si hubiera políticas sólidas que enfrenten a los trastornos mentales, sería lógico que\nlos pacientes de dichas enfermedades disminuyan."
+      }
+    ]
+  },
+  {
+    "type": "reading_comprehension",
+    "statement": "Casi dos millones de personas se mueren al año por falta de agua potable. Y es probable que en 15 años la mitad de la población mundial viva en áreas en las que no habrá suficiente agua para todos. Nuestro planeta contiene más de mil millones de litros de H2O, pero poca se puede tomar. Más del 97% del agua en la Tierra es salada. Dos tercios del agua dulce están retenidos en glaciares y capas de hielo polar. De lo que queda, la mayor parte está atrapada en el suelo o en acuíferos subterráneos. Eso deja disponible para la mayoría de los seres vivos una fracción mínima. Y la humanidad no solo la necesita para tomar: casi todo lo que hace involucra al agua de alguna manera. Es difícil imaginarse cuán alto es el consumo individual, si uno solo piensa en lo que toma o lo que gasta duchándose o lavando la ropa. Pero hay un uso «escondido»: el agua que se necesita para cultivar la comida que comemos y hacer los productos que usamos y consumimos. El total del requerimiento global de agua al año es de más de cuatro billones de litros al año, y las fuentes naturales del precioso líquido ya no dan abasto. ¿Cuánto gastamos con lo que hacemos y en producir lo que consumimos? Si se acaba el agua, afectará la agricultura, lo que aumentará los precios de los alimentos. Como señala el geólogo Ian Steward, no es difícil imaginarse que, si no se encuentra una solución pronto, la posibilidad de que estallen guerras por agua dulce es alta.",
+    "questions": [
+      {
+        "statement": "1. Medularmente, el texto se refiere",
+        "alternatives": [
+          "A) al agua atrapada en el suelo y el subsuelo del planeta.",
+          "B) al consumo de agua potable en las actividades cotidianas.",
+          "C) a las guerras ocasionadas por la falta de agua en el mundo.",
+          "D) a la escasez de agua potable y la vinculación con su uso."
+        ],
+        "correct": 3,
+        "rationale": "En efecto, mediante cifras específicas, el autor advierte acerca de la escasez de agua que se deriva del consumo irracional que se hace de esta."
+      },
+      {
+        "statement": "2. En el texto, el antónimo de ESCONDIDO es",
+        "alternatives": [
+          "A) esotérico.",
+          "B) oculto.",
+          "C) evidente.",
+          "D) subrepticio."
+        ],
+        "correct": 2,
+        "rationale": "El término es usado en referencia a causas subyacentes, es decir, que no son evidentes. En tanto que tal, el antónimo de ESCONDIDO es EVIDENTE."
+      },
+      {
+        "statement": "3. Resulta incompatible con el desarrollo textual afirmar que la escasez de agua a nivel mundial y las consecuencias que esta acarrearía",
+        "alternatives": [
+          "A) carecen de causas antropogénicas definidas y medibles objetivamente.",
+          "B) se explica en parte por las escasas fuentes de agua dulce en el mundo.",
+          "C) podría derivar en conflictos bélicos si se carece de medidas remediales.",
+          "D) presenta entre sus causas potenciales la actividad industrial y agrícola."
+        ],
+        "correct": 0,
+        "rationale": "El consumo de agua es desmedido y se vincula con innumerables actividades humanas. Indicar que no existen causas antropogénicas constituye una negación fuerte."
+      },
+      {
+        "statement": "4. Es posible deducir del texto que el agua para el consumo humano trasciende las necesidades cotidianas, puesto que",
+        "alternatives": [
+          "A) es desperdiciada en los acuíferos subterráneos y glaciares.",
+          "B) parte importante de esta se usa en la industria alimentaria.",
+          "C) la escasez carece de efectos palmarios en la vida silvestre.",
+          "D) los efectos de su escasez se evidenciarán siglos después."
+        ],
+        "correct": 1,
+        "rationale": "El agua que se consume a diario en las necesidades cotidianas es poca comparada con la que se requiere para producir una hamburguesa o ropa de algodón y lana. De manera que el uso de agua trasciende lo cotidiano."
+      },
+      {
+        "statement": "5. Si los países del mundo impulsaran medidas sostenibles para racionalizar el consumo de agua potable,",
+        "alternatives": [
+          "A) el efecto invernadero desaparecería y las lluvias serían intensas.",
+          "B) las casas con agua potable podrían servir para producir polos.",
+          "C) los potenciales conflictos bélicos por agua serían neutralizados.",
+          "D) la tala indiscriminada sería un obstáculo para evitar sequías."
+        ],
+        "correct": 2,
+        "rationale": "Si se enfocaran las acciones en la racionalización del agua, la escasez sea manejable y, en consecuencia, las guerras por agua sean neutralizadas."
+      }
+    ]
+  },
+  {
+    "type": "sentence_elimination",
+    "statement": "5. Si los países del mundo impulsaran medidas sostenibles para racionalizar el consumo de agua potable,",
+    "alternatives": [
+      "A) el efecto invernadero desaparecería y las lluvias serían intensas.",
+      "B) las casas con agua potable podrían servir para producir polos.",
+      "C) los potenciales conflictos bélicos por agua serían neutralizados.",
+      "D) la tala indiscriminada sería un obstáculo para evitar sequías."
+    ],
+    "correct": 2,
+    "rationale": "Si se enfocaran las acciones en la racionalización del agua, la escasez sea manejable y, en consecuencia, las guerras por agua sean neutralizadas."
+  },
+  {
+    "type": "reading_comprehension",
+    "statement": "Arthur Schopenhauer: El amor, las mujeres y la muerte (fragmento)\n\nI\n\n5. Si los países del mundo impulsaran medidas sostenibles para racionalizar el consumo de agua potable,\n\nSolución:\n\nSi se enfocaran las acciones en la racionalización del agua, la escasez sea manejable y, en consecuencia, las guerras por agua sean neutralizadas.\n\nRpta. C",
+    "questions": [
+      {
+        "statement": "¿Cuál es el tema central del texto?",
+        "alternatives": [
+          "A) El dolor inherente a la existencia humana",
+          "B) La verdad del sistema metafísico antiguo",
+          "C) La desventura de los otros seres humanos",
+          "D) La naturaleza inefable de la vida humana"
+        ],
+        "correct": 0,
+        "rationale": "Si nuestra existencia no tiene por fin inmediato el dolor, puede afirmarse que no tiene ninguna razón de seren el mundo."
+      },
+      {
+        "statement": "¿Cuál de los siguientes enunciados resulta incompatible con el texto?",
+        "alternatives": [
+          "A) El bienestar y la felicidad son negativos para el ser humano.",
+          "B) Los sistemas metafísicos explican el dolor como algo negativo.",
+          "C) El ser humano puede vivir plenamente sin ningún tipo de dolor.",
+          "S) El dolor aminora cuando volteamos a vera los más desgraciados."
+        ],
+        "correct": 2,
+        "rationale": "Pero si todos los deseos se viesen colmados apenas se formulan, entonces se vería a los hombres morir de aburrimiento o ahorcarse."
+      },
+      {
+        "statement": "Se colige que Schopenhauer fue un filósofo",
+        "alternatives": [
+          "A) existencialista.",
+          "B) pesimista.",
+          "C) hedonista.",
+          "D) racionalista."
+        ],
+        "correct": 1,
+        "rationale": "Schopenhauer es pesimista porque considera que el teatro de la existencia está signado por el dolor."
+      },
+      {
+        "statement": "En la lógica del pensamiento de Schopenhauer, si una persona fuera completamente",
+        "alternatives": [
+          "A) su vida carecería de sentido.",
+          "C) sería un sujeto lleno de dolor.",
+          "B) pertenecería a la corriente metafísica.",
+          "D) habría superado a la metafísica."
+        ],
+        "correct": 0,
+        "rationale": "Todo bien, toda felicidad, toda satisfacción son cosas negativas, porque no hacen más que suprimir un deseo y terminar una pena."
+      },
+      {
+        "statement": "Al decir que se muere con las armas en la mano se connota que",
+        "alternatives": [
+          "A) los seres humanos suelen huir del mundo.",
+          "B) el suicidio se hace de una forma determinada.",
+          "C) el hombre quiere sucumbir ante el adversario.",
+          "D) la vida humana es un conflicto permanente."
+        ],
+        "correct": 3,
+        "rationale": "En todas partes se encuentra un adversario. La vida es una guerra sin tregua, y se muere con las armas en la mano."
+      }
+    ]
+  },
+  {
+    "type": "sentence_elimination",
+    "statement": "5. Al decir que se muere con las armas en la mano se connota que",
+    "alternatives": [
+      "A) los seres humanos suelen huir del mundo.",
+      "B) el suicidio se hace de una forma determinada.",
+      "C) el hombre quiere sucumbir ante el adversario.",
+      "D) la vida humana es un conflicto permanente."
+    ],
+    "correct": 3,
+    "rationale": "En todas partes se encuentra un adversario. La vida es una guerra sin tregua, y se muere con las armas en la mano."
+  },
+  {
+    "type": "sentence_elimination",
+    "statement": "6. Se puede inferir que apreciamos la salud",
+    "alternatives": [
+      "A) cuando nos encontramos sanos.",
+      "B) después de haberla perdido.",
+      "C) si es que no hay nada de dolor.",
+      "D) en contra de nuestros deseos."
+    ],
+    "correct": 1,
+    "rationale": "No advertimos la salud general de nuestro cuerpo, sino tan sólo el ligero sitio donde nos hace daño el calzado, es decir, cuando padecemos alguna enfermedad."
+  },
+  {
+    "type": "sentence_elimination",
+    "statement": "7. Se puede inferir que el placer",
+    "alternatives": [
+      "A) solo es alcanzado por seres extraordinarios.",
+      "B) es un estado entre el dolor y el aburrimiento.",
+      "C) es la ausencia momentánea del sufrimiento.",
+      "D) solo es posible en los animales irracionales."
+    ],
+    "correct": 2,
+    "rationale": "Nuestra existencia está en un constante sufrimiento y solo podemos sentir placer cuando por un momento estamos desligados del dolor."
+  },
+  {
+    "type": "sentence_elimination",
+    "statement": "8. Una fuerte objeción en contra de la argumentación de Schopenhauer sería la siguiente:",
+    "alternatives": [
+      "A) La vida es dolor, caducidad y miseria; la existencia, un completo sinsentido.",
+      "B) La única salvación que el hombre puede esperar es la de su reposo definitivo.",
+      "C) La historia nos demuestra que el hombre es como un lobo para el hombre.",
+      "D) En la historia de la humanidad, la paz ha primado sobre los tiempos de guerra."
+    ],
+    "correct": 3,
+    "rationale": "Sostiene centralmente Schopenhauer que la vida de los pueblos nos muestra guerras y sediciones."
+  }
+]

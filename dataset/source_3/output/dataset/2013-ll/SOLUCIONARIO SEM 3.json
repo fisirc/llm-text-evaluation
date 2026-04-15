@@ -1,0 +1,15 @@
+[
+  {
+    "type": "sentence_elimination",
+    "statement": "10. Se dispone de piezas de mayólica formada por seis hexágonos regulares cuyo lado mide 10 cm, como se indica en la figura. Con tres de estas piezas, sin superponerlas se cubren totalmente ciertas regiones del piso de una habitación. ¿Cuál es el menor perímetro que pueden tener dichas regiones?",
+    "alternatives": [
+      "A) 320 cm",
+      "B) 550 cm",
+      "C) 500 cm",
+      "D) 510 cm",
+      "E) 300 cm"
+    ],
+    "correct": 0,
+    "rationale": "i) La región de menor perímetro será aquella que es cubierta de tal modo que las piezas tengan la mayor cantidad de lados en contacto.\n\nPerímetro: 320 cm"
+  }
+]

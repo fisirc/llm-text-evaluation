@@ -1,0 +1,206 @@
+[
+  {
+    "type": "reading_comprehension",
+    "statement": "TEXTO CIENTÍFICO El texto científico da a conocer información o resultados asociados con la práctica de la investigación científica. Algunos textos muestran un hecho basado en una descripción objetiva y rigurosa que, en principio, es susceptible de confirmación. Otros describen un experimento que permitió es tablecer un resultado: la corroboración de una hipótesis (o un de scubri miento de impacto) ola refutación de una hipótesis. No pocos textos científicos explican una teoría o un aspecto involucrado en ella, fundamentada en una profunda elucidación conceptual. Pero en su mayoría son textos de divulgación científica, en los cuales, sin perder su exactitud, se pone al alcance de la comprensión de los lectores no especializados información de alto nivel académico. Texto de ejemplo A finales del siglo XIX, Lord Kelvin pronosticaba que la física estaba definitivamente constituida en sus conceptos fundamentales. Poco tiempo hubo de pasar para que aquellos conceptos tan firmes se tambalearan. Dos fueron básicamente los fenómenos que pusieron a la física en cuarentena: la radiación del cuerpo negro y la electrodinámica de los cuerpos en movimiento. Los físicos entienden por cuerpo negro un absorbente ideal, capaz por tanto de engullir cuanta radiación electromagnética le llegue, y por ello, también, un emisor ideal; un pequeño agujero en una caja completamente cerrada a cualquier temperatura es un ejemplo de cuerpo negro. La explicación que desde los principio s de la física clásica se puede dar de este comportamiento, basada en que la energía absorbida o emitida corresponde a un proceso ondulatorio, continuo por tanto, conduce a una situación absurda calificada como catástrofe ultravioleta. Catástrofe que supondría, de ser posible, que al abrir la puerta del horno de la cocina, en el que la energía radiante está constantemente rebotando contra las paredes, seríamos alcanzados súbitamente por una radiación mortífera. Hecho que por fortuna no sucede , contraviniendo los principios de la física clásica. En cuanto a la electrodinámica de los cuerpos en movimiento, los hechos también se revelaban contra las explicaciones newtonianas. Véamos cómo plantea Albert Einstein el problema en su célebre artículo Sobre la electrodinámica de los cuerpos en movimiento : Tomemos, por ejemplo, la interacción electrodinámica entre un imán y un conductor... Si el imán está en movimiento y el conductor está en reposo, en la vecindad del imán aparece un campo eléctrico con una energía definida que produce una corriente en aquellos lugares donde están situadas las partes del conductor. Pero si el imán está en reposo mientras que el conductor está en movimiento, no aparece ningún campo eléctrico en la vecindad del imán, sino una fuerza electromotriz en el conductor a la que, en sí, no corresponde ninguna energía, pero que da lugar –suponiendo que el movimiento relativo es igual en ambos casos – a corrientes eléctricas de la misma dirección e intensidad que las producidas por las fuerzas eléctricas en el primer supuesto. Solucionario Nº16 Pag. 2 A Einstein le sorprende esta asimetría en la descripción de dos fenómenos aparentemente recíprocos en cuanto a los movimientos relativos entre conductores e imanes y con resultados idénticos, ya que la corriente producida en ambos casos es la misma. Además, aplicando en las ecuaciones de Maxwell las transformaciones de coordenadas, según la mecánica newtoniana, a los movimientos relativos entre cargas e imanes, los resultados teóricos no se corresponden con los fenómenos observados. Este inesperado comportamiento electrodinámico de los cuerpos en movimiento dejaba abiertas otras interrogantes más a los físicos que , en palabras de Gamow ,estaban atravesando las angustias de la metamorfosis desde la larva clásica a la mariposa moderna.",
+    "questions": [
+      {
+        "statement": "1. La frase EN CUARENTENA alude a",
+        "alternatives": [
+          "A) una dicotomía.",
+          "B) una crisis.",
+          "C) un epifenómeno.",
+          "D) un misterio.",
+          "E) una paradoja."
+        ],
+        "correct": 1,
+        "rationale": null
+      },
+      {
+        "statement": "2. ¿Cuál es la mejor síntesis del texto?",
+        "alternatives": [
+          "A) Tanto la catástrofe ultravioleta como la asimetría perfecta de la electrodinámica de los cuerpos en movimiento revelan las serias falencias del sistema científico clásico conocido como la teoría newtoniana del universo.",
+          "B) Aunque a fines del siglo XIX Lord Kelvin consideraba que la física estaba totalmente terminada, a principios del siglo XX se hicieron muchos descubrimientos que sugerían, en esencia, todo lo contrario.",
+          "C) La naturaleza del cuerpo negro es imposible de describir en términos clásicos, puesto que es tanto el absorbente ideal como el emisor ideal, esto es, su comportamiento sigue un patrón ondulatorio.",
+          "D) La radiación del cuerpo negro y la electrodinámica de los cuerpos en movimiento son los fenómenos que revelaban la debacle de la física clásica y motivaban la constitución de un nuevo enfoque en la física.",
+          "E) A Einstein le sorprendió sobremanera la asimetría en la interacción electrodinámica entre un imán y un conductor, de modo que tuvo que replantear los conceptos fundamentales de la ciencia física."
+        ],
+        "correct": 3,
+        "rationale": null
+      },
+      {
+        "statement": "3. Se infiere que, según la nueva concepción de la física, la radiación del cuerpo negro es",
+        "alternatives": [
+          "A) infinita.",
+          "B) ondulatoria.",
+          "C) dispersa.",
+          "D) discreta.",
+          "E) imposible."
+        ],
+        "correct": 3,
+        "rationale": null
+      },
+      {
+        "statement": "4. Resulta incompatible con el texto enunciar que",
+        "alternatives": [
+          "A) la predicción de Lord Kelvin sobre los alcances de la física clásica resultó, en última instancia, fallida.",
+          "B) Albert Einstein queda satisfecho con la asimetría en la descripción del comportamiento del imán.",
+          "C) la llamada catástrofe ultravioleta es una situación física considerada como un completo absurdo.",
+          "D) felizmente no ocurre nada terrible cuando una cocinera abre de improviso la puerta del horno.",
+          "E) Gamow describe literariamente la eclosión de una nueva teoría en el campo de la física contemporánea."
+        ],
+        "correct": 1,
+        "rationale": null
+      },
+      {
+        "statement": "5. Si la radiación del cuerpo negro y la electrodinámica de los cuerpos en movimiento hubiesen podido ser explicadas en términos del marco de la física newtoniana,",
+        "alternatives": [
+          "A) la física habría tenido que abandonar la mecánica ondulatoria.",
+          "B) Gamow habría sido un crítico feroz de la ciencia física.",
+          "C) la confianza de Lord Kelvin habría tenido fuerte asidero.",
+          "D) de todos modos se habría hecho la revolución relativista.",
+          "E) la ruptura de la simetría habría sido la ley fundamental."
+        ],
+        "correct": 2,
+        "rationale": null
+      }
+    ]
+  },
+  {
+    "type": "reading_comprehension",
+    "statement": "Al interpretar el experimento Michelson -Morley lo interpretaron bajo el modelo teórico newtoniano que consideraba al tiempo y espacio absolutos. Einstein , al combinar el tiempo con el espacio, lo convirtió en un objeto cuatridimensional. La postura positivista sostiene que una teoría es un modelo matemático que empleamos para describir los resultados de nuestras observaciones. Para la física teórica es más importante la búsqueda de la autoconsistencia, es decir, que el sistema no sea contradictorio. …no conozco ninguna gran teoría desarrollada exclusivamente sobre la base de la experimentación. Los investigadores se resisten a abandonar su teoría y la modifican ad -hoc, por lo tanto se resisten a que su teoría sea refutada. Solo es posible conocer la realidad con un modelo matemático. Si los epistemólogos abandonaran la noción clásica de realidad, la mecánica cuántica les sería incomprensible. La dificultad de los filósofos en entender el experimento conocido como el gato de Schrödinger estriba en que son reacios a comprender la noción de suma de historias. Los epistemólogos so lo aceptan que los objetos tengan una sola historia. Si un epistemólogo sostuviera que el tiempo fluye indefinidamente , sería un Newtoniano. Esa es la concepción del tiempo introducida por Newton. De acuerdo con uno de los corolarios de la teoría de la relatividad, se establece que el tiempo físico",
+    "questions": [
+      {
+        "statement": "Del texto se deduce que Einstein",
+        "alternatives": [
+          "A) absolutizó el espacio -tiempo.",
+          "B) desgaj ó el espacio del tiempo.",
+          "C) se adhirió al realismo.",
+          "D) se basó en experimentos.",
+          "E) geometrizó el espacio -tiempo."
+        ],
+        "correct": 4,
+        "rationale": null
+      },
+      {
+        "statement": "Para el autor del texto ,se infiere que Einstein habría sido un científico",
+        "alternatives": [
+          "A) positivista.",
+          "*B) mimético.",
+          "C) realista.",
+          "D) solipsista.",
+          "E) inductivista."
+        ],
+        "correct": 0,
+        "rationale": null
+      },
+      {
+        "statement": "Para el autor, es esencial que la teoría física",
+        "alternatives": [
+          "A) evite las contradicciones.",
+          "B) describa la realidad absoluta.",
+          "C) sea un modelo matemático.",
+          "D) se base en la experiencia.",
+          "E) se derive de la experiencia."
+        ],
+        "correct": 0,
+        "rationale": null
+      },
+      {
+        "statement": "Para la física teórica es más importante la búsqueda de la autoconsistencia, es decir, que el sistema no sea contradictorio.",
+        "alternatives": [
+          "A) se puede apoyar en un modelo matemático.",
+          "B) tiene que inferirse a partir de la experiencia.",
+          "C) podría explicar una amplia gama de hechos.",
+          "D) puede ser altamente contrastable y predictiva.",
+          "E) tiene que contrastarse mediante los hechos."
+        ],
+        "correct": 1,
+        "rationale": null
+      },
+      {
+        "statement": "…no conozco ninguna gran teoría desarrollada exclusivamente sobre la base de la experimentación.",
+        "alternatives": [
+          "A) propiciar una nueva manera de evaluar la teoría.",
+          "B) estipular una nueva noción de realidad física.",
+          "C) dar paso a una metodología científica rigurosa.",
+          "D) proteger a la teoría vigente y evitar su colapso.",
+          "E) construir una nueva interpretación matemática."
+        ],
+        "correct": 3,
+        "rationale": null
+      },
+      {
+        "statement": "Los investigadores se resisten a abandonar su teoría y la modifican ad -hoc, por lo significa se resisten a que su teoría sea refutada.",
+        "alternatives": [
+          "A) propiciar una nueva manera de evaluar la teoría.",
+          "B) estipular una nueva noción de realidad física.",
+          "C) dar paso a una metodología científica rigurosa.",
+          "D) proteger a la teoría vigente y evitar su colapso.",
+          "E) construir una nueva interpretación matemática."
+        ],
+        "correct": 3,
+        "rationale": null
+      },
+      {
+        "statement": "Si un científico quisiera conocer la realidad con independencia de un modelo,",
+        "alternatives": [
+          "A) tendría que emplear el método inductivo.",
+          "B) perseguiría solamente una quimera ",
+          "C) deduciría sus leyes de la naturaleza.",
+          "D) defendería una tesis instrumentalista.",
+          "E) po dría descubrir una teoría del todo."
+        ],
+        "correct": 1,
+        "rationale": null
+      },
+      {
+        "statement": "Si los ep istemólogos abandonaran la noción clásica de realidad,",
+        "alternatives": [
+          "A) la mecánica cuántica les sería incomprensible.",
+          "B) podrían comprender el principio de Heisenberg. ",
+          "C) aceptarían que los objetos tienen so lo una historia.",
+          "D) interpretarían la realidad sin modelos teóricos.",
+          "E) recusarían el experimento mental de Schrödinger."
+        ],
+        "correct": 1,
+        "rationale": null
+      },
+      {
+        "statement": "La dificultad de los filósofos en entender el experimento conocido como el gato de Schrödinger estriba en que",
+        "alternatives": [
+          "A) est án acostumbrados a las paradojas de los matemáticos.",
+          "B) han logrado refutar la noción de suma infinita de historias.",
+          "C) esa condición hipotética sería como una singularidad.",
+          "D) un gato que está medio muerto es una inconsistencia.",
+          "E) son reacios a comprender la noción de suma de historias."
+        ],
+        "correct": 4,
+        "rationale": null
+      },
+      {
+        "statement": "Si un epistemólogo sostuviera que el tiempo fluye indefinidamente , sería un",
+        "alternatives": [
+          "A) newtoniano.",
+          "B) relativista.",
+          "C) positivista.",
+          "D) solipsista.",
+          "E) einsteniano."
+        ],
+        "correct": 0,
+        "rationale": null
+      },
+      {
+        "statement": "De acuerdo con uno de los corolarios de la teoría de la relatividad, se establece que el tiempo físico",
+        "alternatives": [
+          "A) es anterior al big bang.",
+          "B) tuvo un comienzo.",
+          "C) no tiene inicio ni fin.",
+          "D) sigue un curso rectilíneo.",
+          "E) es puramente imaginario ."
+        ],
+        "correct": 1,
+        "rationale": null
+      }
+    ]
+  }
+]

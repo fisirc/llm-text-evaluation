@@ -1,0 +1,401 @@
+[
+  {
+    "type": "reading_comprehension",
+    "statement": "El cerebro de un humano adulto puede, a veces, compensar una lesión sufrida estableciendo nuevas conexiones entre las neuronas supervivientes. Pero no puede repararse a sí mismo, pues carece de células madre que permitan la regeneración neuronal. Al menos eso era lo que la neurobiología aceptaba hasta hace muy poco.\n\nEn noviembre de 1998, Peter S. Eriksson, del Hospital Universitario Sahlgrenska de Goteborg, y sus colaboradores hicieron pública una sorprendente noticia: en el cerebro humano se generan neuronas de forma habitual, al menos en el hipocampo, un área importante relacionada con la memoria y el aprendizaje.\n\nComparada con el número total de células del cerebro, la cifra absoluta de células nuevas es pequeña. Aun así, considerando los recientes hallazgos en animales, el descubrimiento insinúa prometedoras posibilidades en medicina. A tenor de los datos disponibles, las células madre podrían producir neuronas nuevas en otra región del localizaciones cerebro humano y residen, probablemente, si bien adicionales. Pese a su pobre autorreparación, el cerebro adulto podría, en realidad, albergar un gran potencial de regeneración neuronal. Si se descubriera cómo provocar que las células madre existentes generen una cantidad útil de células nerviosas funcionales en partes seleccionadas del cerebro, se aliviarían los trastornos relacionados con la lesión y la muerte neuronal. Estamos pensando en la enfermedad de Alzheimer y en el Parkinson, así como en las discapacidades que acompañan al accidente cerebro vascular y a los traumatismos.\n\ninactivas, en",
+    "questions": [
+      {
+        "statement": "¿Cuál es el tema central del texto?",
+        "alternatives": [
+          "A) La regeneración neuronal.",
+          "B) Los trastornos neuronales.",
+          "C) Nuevas conexiones neuronales.",
+          "D) Función del cerebro humano."
+        ],
+        "correct": 0,
+        "rationale": "El tema del texto versa principalmente acerca del hallazgo sorprendente de Eriksson y su equipo: La creación de nuevas neuronas en forma habitual."
+      }
+    ]
+  },
+  {
+    "type": "reading_comprehension",
+    "statement": "A lo largo de un extenso proceso, los árabes habían ido recibiendo los fundamentos de la cultura, la filosofía y la ciencia griega y los supieron incorporar al legado cultural, através del helenismo y transmitieron a Occidente. A filosofo y científico que posteriormente del cristianismo de habla griega de las iglesias orientales, especialmente nestorianos y monofisitas, quienes realizaron las primeras traducciones siríacas de la filosofía griega, los árabes se inician en la filosofía y en la ciencia, que desarrollaron en muchos de sus ámbitos y llevaron consigo a los países conquistados en su rápida expansión hasta la Península Ibérica. En contacto con ellos, los cristianos latinos inician el proceso de redescubrimiento y asimilación de los autores griegos con los comentarios de los tratadistas árabes y se ponen las bases de la recuperación cultural y científica del Occidente latino, que llevó hasta el desarrollo científico del Renacimiento y de la Edad Moderna europea.\n\nLa recepción del legado griego en el mundo árabe se había producido en dos momentos sucesivos y había tenido lugar en dos ambientes y culturas distintas: los cristianos griegos orientales hasta el siglo VI-VII y las traducciones impulsadas por los Califas musulmanes para hacer frente a las necesidades culturales y administrativas del califato de los abasíes.\n\nCon carácter previo al mundo musulmán, se desarrolla una labor de traducción de textos griegos a la lengua siríaca en los ambientes cristianos de Oriente por las necesidades sentidas por estos en el seno de la liturgia y los estudios propios de la vida cristiana y especialmente en el ámbito de la filosofía. A principios del siglo V d. C. se nos cuenta en la Peregrinatio Aetheriae que en los oficios litúrgicos celebrados en griego en Jerusalén se intercalaba la traducción al siríaco para que los fieles los comprendiesen. Por la misma razón debieron traducirse textos patrísticos y sobre todo el Nuevo Testamento. De Aristóteles se sabe que partes del Organon, junto con la Isagoge de Porfirio, fueron traducidas al siríaco y fragmentos de los Meteoros de Teofrasto solo se han conservado en esta lengua. La gramática de Dionisio Tracio fue vertida al siríaco y el tratado de agricultura, Geoponicá, de Casiano Baso, traducido al árabe desde el siríaco, puede estar en la base de los tratados agrícolas árabes.\n\n1. ¿Cuál es el tema central del texto?\nA) La influencia griega en la filosofía y ciencia arábiga\nB) La traducción siríaca de los filósofos helenísticos\nC) El descubrimiento y asimilación de los autores griegos\nD) La traducción de textos griegos al latín yal árabe",
+    "questions": [
+      {
+        "statement": "¿Cuál es el tema central del texto?",
+        "alternatives": [
+          "A) La influencia griega en la filosofía y ciencia arábiga",
+          "B) La traducción siríaca de los filósofos helenísticos",
+          "C) El descubrimiento y asimilación de los autores griegos",
+          "D) La traducción de textos griegos al latín yal árabe"
+        ],
+        "correct": 0,
+        "rationale": "El texto tiene por tema central el modo como los árabes se iniciaron en filosofía y en ciencia, y esto se dio por influencia de los griegos a través de las traducciones siríacas."
+      },
+      {
+        "statement": "¿Cuál es la idea principal del texto?",
+        "alternatives": [
+          "A) Los árabes tradujeron a la lengua siríaca los textos más descollantes de todo el mundo helénico.",
+          "B) La lengua siríaca fue el canal de comunicación entre los árabes y los cristianos orientales.",
+          "C) Los árabes transmitieron a Occidente una ciencia y una filosofía influenciada por los griegos.",
+          "D) Los cristianos de oriente tradujeron obras griegas para legárselos a los árabes de Occidente."
+        ],
+        "correct": 2,
+        "rationale": "El primer párrafo menciona que los árabes se iniciaron en ciencia y filosofía griega a partir de las traducciones siríacas de los textos helénicos. El producto de esta asimilación fue el legado que los árabes dejaron a Occidente durante y luego de su rápida expansión."
+      }
+    ]
+  },
+  {
+    "type": "reading_comprehension",
+    "statement": "La situación es peor de lo que uno puede imaginarse. Diana Portal, comisionada de la Adjuntía para los Derechos de la Mujer de la Defensoría del Pueblo, anunció que un estudio de la Organización Mundial de la Salud de 2013, en naciones con alta incidencia de casos, reveló que el Perú ocupa el tercer lugar en el mundo entre los países con mayor prevalencia de mujeres entre 15 y 49 años que sufren de violencia sexual por parte de su pareja. Estamos por debajo solo de países como Etiopía y Bangladesh, donde las violaciones crecen porque las menores son casadas antes de los 15 años. \"Esto es el reflejo de una sociedad machista, donde las mujeres no pueden ejercer sus derechos. A ello se debe tantos casos de feminicidios y acoso sexual, que dan cuenta de cómo la mujer es vista como un objeto sexual\", dice Portal.\n\nviolaciones\n\ncorresponden\n\nSegún las estadísticas del Estudio para la Defensa de los Derechos de la Mujer (Demus), el 42% de las mujeres fueron violadas en sus domicilios o en otros espacios que eran considerados seguros, como las escuelas y las casas de familiares. Además, en la mayoría de casos, el agresor fue un familiar de la víctima y el 75% de las mujeres violadas eran menores de edad. María Ysabel Cedano, directora de Demus, alertó que la cifra de sería mayor, pues las estadísticas solo las realizadas. Según denuncias internacionales, solo estudios un 5% de las víctimas adultas de violencia sexual presenta su denuncia. \"El resto no lo hace tema de carácter sociocultural los problemas de impunidad que se presentan en el acceso a la justicia\", dijo Cedano.\n\npor a y denuncia La Encuesta Demográfica y de Salud Familiar (Endes) lo corrobora, ya que 2013 muestra que en el Perú el 48% de casos de violación sexual no se por miedo, vergüenza o sentimiento de culpa. \"Lo que ocurre es que el sistema de justicia no está respondiendo a las demandas de las agredidas, pues, en muchos casos, se revictimiza a la mujer al pedirte pruebas físicas del hecho\", comentó Cedano. Según datos de 625 Demus, denuncias el que Ministerio Público en 2013 por violación sexual, apenas 925 recibió defensa pública de 15 recibió las de oficio, pese a que se trata de un derecho de las víctimas. Asimismo, aunque el acuerdo plenario de la Corte Suprema 1-2011- CJ-116 estableció un protocolo de cómo deben actuar los jueces en los casos de agresión sexual, en la mayoría de regiones este no se cumple. \"Estándares hay. Tenemos un sistema penal con sanciones severas, hay avances en el Código Procesal Penal, pero lo que falta es voluntad política\", sostuvo Diana Portal. Por otra parte, Cedano pidió al Gobierno trabajar en la formación de ciudadanos libres de estereotipos de género.\n\n1. Fundamentalmente, el texto pretende llamar la atención entorno a\nA) la preocupante estadística sobre la incidencia de la violación sexual a la mujer en el Perú.\nB) la situación política y social que las féminas atraviesan en varios países sudamericanos.\nC) las ineficaces campañas preventivas en el Perú para atenuar las vejaciones sexuales.\nD) los datos sobre el maltrato a la mujer y la ausencia de respuesta por parte del Estado.",
+    "questions": [
+      {
+        "statement": "Fundamentalmente, el texto pretende llamar la atención entorno a",
+        "alternatives": [
+          "A) la preocupante estadística sobre la incidencia de la violación sexual a la mujer en el Perú.",
+          "B) la situación política y social que las féminas atraviesan en varios países sudamericanos.",
+          "C) las ineficaces campañas preventivas en el Perú para atenuar las vejaciones sexuales.",
+          "D) los datos sobre el maltrato a la mujer y la ausencia de respuesta por parte del Estado."
+        ],
+        "correct": 0,
+        "rationale": "Lo que llama la atención de manera gravitante son los datos estadísticos que presentan la terrible condición del caso peruano."
+      },
+      {
+        "statement": "Se puede deducir que en el Perú las víctimas de violación sexual",
+        "alternatives": [
+          "A) se sienten resguardadas por las cifras expuestas en los distintos sondeos sobre su problema.",
+          "B) perciben que las instituciones encargadas de protegerlas participan de estereotipos machistas.",
+          "C) reconocen un amparo legal en los distintos fueros y niveles correspondientes a su denuncia.",
+          "D) exclusivamente, se encuentran ubicadas en las regiones alto andinas y de más extrema pobreza."
+        ],
+        "correct": 1,
+        "rationale": "La lectura sugiere que el sistema de justicia no está respondiendo a las demandas de las agredidas, y se revictimiza a la mujer; la opción que mejor resume ello es que perciben estereotipos machistas."
+      }
+    ]
+  },
+  {
+    "type": "reading_comprehension",
+    "statement": "Podríamos describir brevemente el dualismo metafísico como la perspectiva según la cual existen dos substancias de naturaleza distinta e independiente una de la otra: la mente (el espíritu) y el cuerpo (la materia). En ese sentido, no hallaríamos una relación potencial entre mente y cuerpo. Con esta postura encontramos a Descartes, para quien los conceptos (filosóficos o metafísicos) existen como entidades puramente mentales o espirituales, y por lo mismo universales, e independientes de la materia corporal del ser que los piensa y concibe. De la misma forma, considera el conocimiento matemático como un modelo para tratar los problemas referidos a estas dos dimensiones, extendiendo su conclusión al conocimiento en general, que concibe entonces como descorporeizado, es decir, independiente de las sensaciones corporales, de la experiencia y de la perspectiva del que conoce.\n\nLa visión descorporeizada de la mente, desarrollada por Descartes, se relaciona con el concepto de razón en la Modernidad, y con el cognitivismo de los años cincuenta (postulado por Fodor y Chomsky), que considera al lenguaje como un módulo separado de los procesos de comprensión y de la experiencia que los seres humanos tienen de sus propios cuerpos, lo que explica que el significado sea tratado, preferentemente, en términos de condiciones de verdad. En otras palabras, para Descartes y compañía, el componente conceptual no sería moldeado o elaborado sobre la base de los procesos corpóreos experienciales.\n\nUno de los problemas centrales que surgen del dualismo es el de si existen o puede haber relaciones causales entre estas dos substancias (mente y cuerpo). Johnson rechaza el dualismo metafísico (o substancial), al sostener que lo que llamamos mente no es una substancia independiente de nuestra experiencia corporal. La independencia no existíría, de acuerdo con la postura de Johnson, porque el cuerpo define, en tanto es su materia prima, los conceptos de los que la mente se vale para comprender el mundo o dar sentido a la experiencia. En ese sentido, mente y cuerpo son aspectos de un proceso orgánico, de tal modo que el significado, el pensamiento y el lenguaje emergen de las dimensiones estéticas de esa actividad corpórea. En una mente corporeizada todos los conceptos son encarnados, incluso los matemáticos.\n\nEsta postura intenta explicar, por ejemplo, cómo se forma y se estructura cognitivamente un concepto de un estado mental (como el de “tener miedo”) a partir del sustrato corporal o emocional no proposicional. Este material corporal condiciona el contenido proposicional del concepto del estado mental (el concepto de miedo, por ejemplo). En otros términos, la mente encarnada es una respuesta naturalista acerca de nuestras representaciones mentales, que explica estas, consecuentemente, a partir de la experiencia corpórea básica (cuerpo) que llega a la mente mediante operaciones cognitivas o principios cognitivos, como la metáfora conceptual.\n\n1. Determine la idea principal del texto 2 A.\n\nA) El dualismo metafísico sustenta una dependencia entre dos sustancias.\nB) La mente y el cuerpo se engarzan para desarrollar el sistema conceptual.\nC) Entre mente y cuerpo, no existe una relación de causalidad sistemática.\nD) El dualismo metafísico es un concepto desarrollado por René Descartes.\n",
+    "questions": [
+      {
+        "statement": "1. Determine la idea principal del texto 2 A.",
+        "alternatives": [
+          "A) El dualismo metafísico sustenta una dependencia entre dos sustancias.",
+          "B) La mente y el cuerpo se engarzan para desarrollar el sistema conceptual.",
+          "C) Entre mente y cuerpo, no existe una relación de causalidad sistemática.",
+          "D) El dualismo metafísico es un concepto desarrollado por René Descartes."
+        ],
+        "correct": 2,
+        "rationale": "En el texto A, se sustenta que no hay una relación sistemática entre las dos sustancias (mente y cuerpo)."
+      }
+    ]
+  },
+  {
+    "type": "sentence_elimination",
+    "statement": "2. Se puede deducir que en el Perú las víctimas de violación sexual",
+    "alternatives": [
+      "A) se sienten resguardadas por las cifras expuestas en los distintos sondeos sobre su problema.",
+      "B) perciben que las instituciones encargadas de protegerlas participan de estereotipos machistas.",
+      "C) reconocen un amparo legal en los distintos fueros y niveles correspondientes a su denuncia.",
+      "D) exclusivamente, se encuentran ubicadas en las regiones alto andinas y de más extrema pobreza."
+    ],
+    "correct": 1,
+    "rationale": "Las víctimas no hacen las denuncias porque tienen la percepción de que serán tratadas con negligencia en virtud del patrón patriarcal que pervive en las instituciones."
+  },
+  {
+    "type": "sentence_elimination",
+    "statement": "3. ¿Cuál es el antónimo de la palabra CORROBORAR?",
+    "alternatives": [
+      "A) Apreciar",
+      "B) Analizar",
+      "C) Confirmar",
+      "D) Rebatir"
+    ],
+    "correct": 3,
+    "rationale": "La palabra ‘corroborar’ significa validar, confirmar o ratificar. Por ello, el antónimo es ‘rebatir’."
+  },
+  {
+    "type": "sentence_elimination",
+    "statement": "4. A partir de lo expuesto en el cuadro sobre la violación sexual en América Latina, determine los enunciados incompatibles.",
+    "alternatives": [
+      "A) I y II",
+      "B) II y IV",
+      "C) III y IV",
+      "D) I y III"
+    ],
+    "correct": 2,
+    "rationale": "El grupo más vulnerable es más joven y los 500 episodios son un estimado, vale decir, un cálculo."
+  },
+  {
+    "type": "sentence_elimination",
+    "statement": "5. Si Colombia siguiera el ritmo de Bangladesh en las agresiones en contra de la mujer,",
+    "alternatives": [
+      "A) podría experimentar un número de episodios tolerable.",
+      "B) su tasa de denuncias crecería de manera deplorable.",
+      "C) de todos modos, sería superado por un país como Perú.",
+      "D) el promedio de episodios en América Latina decrecería."
+    ],
+    "correct": 1,
+    "rationale": "Dado que Bangladesh se presenta como un país con una tasa muy elevada, el bajo nivel que muestra Colombia crecería, lo que sería digno de deplorar."
+  },
+  {
+    "type": "reading_comprehension",
+    "statement": "Antoine-Laurent de Lavoisier (1743-1794) es conocido en la historia de la ciencia\ncomo el gran gestor de una revolución sin precedentes en el campo de la química. Como acota I. Bernard Cohen en Revolution in Science, el rasgo central de esta revolución química fue la demolición de la vieja teoría del flogisto y su reemplazo por un nuevo esquema conceptual basado en el rol del oxígeno, es decir, la teoría de la oxidación. Por ello, la obra de Lavoisier es un ejemplo paradigmático de la revolución en la ciencia.\n\nLavoisier estableció una armónica simbiosis entre teoría y medición, al llevar a cabo los primeros experimentos químicos realmente cuantitativos con el fin de evaluar las doctrinas químicas vigentes en la época. Fue plenamente consciente de la necesidad de hacer un viraje radical en el dominio de la química y, por ello, se suele decir que fue un científico en busca de una revolución: quería repetir uno por uno todos los experimentos llevados a cabo antes de él para corroborarlos o para demostrar la comisión de algún error. Brindó las primeras pruebas rigurosas y fehacientes para establecer la ley de la conservación de la materia. Algunos de los experimentos más importantes de Lavoisier examinaron la naturaleza de la combustión, así como el papel del oxígeno en la respiración de los animales y las plantas. En su monumental Tratado elemental de Química (1789), Lavoisier definió operativamente el concepto de elemento como una sustancia simple que no se puede dividir mediante ningún método de análisis químico conocido, y elaboró una teoría de la formación de compuestos a partir de los elementos. De esta manera, perfiló mejor una intuición de Robert Boyle avanzada en El químico escéptico.\n\nSe puede aquilatar la naturaleza revolucionaria del trabajo de Lavoisier si consideramos que los viejos teóricos del flogisto, como Joseph Priestley, sostenían el carácter compuesto de los metales, a la luz de la siguiente fórmula: cal + flogisto = metal. Lavoisier propuso correctamente que los metales eran elementos y que el oxígeno (noel inexistente flogisto) es el agente crucial en los procesos de combustión, calcinación y respiración.\n\nQuien hizo una gran revolución en la ciencia fue, más bien, conservador en la esfera de la política. Es más, dado que fue comisario del tesoro de la monarquía francesa, cuando triunfó la Revolución, fue arrestado y juzgado sumariamente por el Tribunal, y fue condenado a morir guillotinado el 8 de mayo de 1794. Como dijo flébilmente Lagrange, «bastó un segundo para cercenar esa noble testa y pasarán cientos de años antes de que nazca otra igual».\n",
+    "questions": [
+      {
+        "statement": "¿Cuál es la mejor síntesis del texto?",
+        "alternatives": [
+          "A) Se puede calibrar el ingente peso de la revolución científica de Lavoisier si consideramos que los teóricos del flogisto sostenían que los metales eran sustancias compuestas y Lavoisier determinó correctamente que eran elementos químicos.",
+          "B) Aunque conservador en la esfera política, Lavoisier es una figura paradigmática de la revolución científica porque refutó la teoría del flogisto y apuntaló una nueva visión basada en la oxidación, para lo cual recurrió a la combinación de teoría y medición.",
+          "C) La gesta científica de Lavoisier consistió en llevar a cabo una verdadera simbiosis entre teoría y medición, con la cual pudo enterrar definitivamente una manera de hacer ciencia que consistía en apelar a la intuición y a la imaginación sin ningún basamento.",
+          "D) Lavoisier ocupa un puesto de privilegio en la historia de la ciencia porque en su Tratado elemental de Química (1789) logró una verdadera definición operativa de elemento, con lo cual superó las limitaciones de un químico antiguo como Robert Boyle."
+        ],
+        "correct": 1,
+        "rationale": "Se explica centralmente el carácter revolucionario de Lavoisier y se hace un comentario marginal sobre su carácter conservador en la arena política."
+      }
+    ]
+  },
+  {
+    "type": "reading_comprehension",
+    "statement": "El proceso de adquisición del lenguaje sigue una serie de etapas bien establecidas: (a) Fase de los gorgoritos, en la que se utilizan sonidos que recuerdan a los característicos del habla del individuo adulto, y que se extiende aproximadamente entre el momento del nacimiento y los seis primeros meses de vida. (b) Etapa del balbuceo, en la que el niño es capaz de producir distintos sonidos vocálicos y consonánticos, pero también de combinarlos de diversas maneras, así como de conferirles diferentes patrones de entonación. Esta fase tiene lugar entre los seis y los doce meses de edad, cuando esta forma de «prelenguaje» comienza a cobrar un valor social. (c) Etapa holofrástica, en la que el niño emite enunciados constituidos por una única palabra, los cuales, si bien pueden funcionar en ocasiones como un sintagma o una oración, tienen habitualmente un carácter referencial. En muchos casos, la utilización de estas «palabras únicas» implica un fenómeno de sobreextensión semántica, por cuanto dichos elementos se emplean para designar objetos parecidos en cuanto a forma, sonido, tamaño, función o comportamiento. En general, el elemento sobreextendido suele corresponderse con el término de rango intermedio en una jerarquía de hipónimos e hiperónimos. La etapa holofrástica se extiende aproximadamente entre los doce y dieciocho meses de vida. (d) Etapa biléxica o de dos palabras, en la que, coincidiendo con una notable expansión de vocabulario, el niño comienza a emitir combinaciones formadas por dos elementos (generalmente, dos sustantivos), los cuales suelen tener un elevado valor funcional en términos comunicativos, si bien merced en gran medida al esfuerzo de interpretación que hacen los interlocutores adultos. Esta etapa tiene lugar aproximadamente entre los dieciocho y los veinticuatro meses de vida. (e) Etapa del habla telegráfica, que comienza alrededor de los dos años de vida, y en la que el niño es capaz de combinar diversas palabras de forma apropiada para construir pseudooraciones; si bien en los momentos iniciales de la misma el niño desconoce aún la manera de modificar la forma de los elementos que las componen, progresivamente empiezan a flexionarse algunas palabras y a utilizarse elementos de relación, fundamentalmente preposiciones. (f) Etapa de desarrollo de la morfología y de la sintaxis, que comienza aproximadamente a partir de los dos años y medio de edad, y en la que empiezan a aparecer de forma sistemática morfemas flexivos que señalan las funciones gramaticales desempeñadas por los sustantivos y los verbos. En un primer momento suele advertirse en su aplicación una tendencia a la sobregeneralización, si bien en algunos casos la utilización de formas irregulares precede a la adquisición de la correspondiente regla de derivación de las formas regulares mediante las oportunas desinencias flexivas, algo que sucede especialmente en el caso de los verbos.",
+    "questions": [
+      {
+        "statement": "¿Cuál es el tema central del texto?",
+        "alternatives": [
+          "A) El desarrollo social del lenguaje",
+          "B) El innatismo en el lenguaje humano",
+          "C) El habla holofrástica en los niños",
+          "D) Fases en la ontogenia lingüística"
+        ],
+        "correct": 3,
+        "rationale": "Se presentan las fases del proceso de adquisición del lenguaje."
+      },
+      {
+        "statement": "En el texto, la palabra PATRONES equivale a",
+        "alternatives": [
+          "A) dominios.",
+          "B) esquemas.",
+          "C) orígenes.",
+          "D) contrastes."
+        ],
+        "correct": 1,
+        "rationale": "Dado que se habla de «patrones de entonación», el término hace referencia a esquemas."
+      },
+      {
+        "statement": "Resulta incompatible con el texto decir que la etapa holofrástica",
+        "alternatives": [
+          "A) se inicia aproximadamente al cumplir el primer año de edad.",
+          "B) utiliza una palabra sola como si fuese todo un enunciado.",
+          "C) se caracteriza por implicar una sobreextensión semántica.",
+          "D) resulta más compleja que la fase denominada biléxica."
+        ],
+        "correct": 3,
+        "rationale": "La etapa biléxica entraña un incremento de complejidad respecto de la etapa holofrástica."
+      },
+      {
+        "statement": "Se infiere que el niño dice «yo sabo» en vez de «yo sé», aproximadamente, a los",
+        "alternatives": [
+          "A) doce meses.",
+          "B) quince meses.",
+          "C) treinta meses.",
+          "D) veinte meses."
+        ],
+        "correct": 2,
+        "rationale": "Se trata de una sobregeneralización típica de la etapa de desarrollo de la morfología y de la sintaxis (que empieza aproximadamente a los dos años y medio de edad)."
+      },
+      {
+        "statement": "Si un niño de dos años y medio solamente emitiera enunciados formados por una\nsola palabra,",
+        "alternatives": [
+          "A) sería una prueba concluyente en contra del innatismo del lenguaje.",
+          "B) expresaría un retraso en el proceso de adquisición lingüística.",
+          "C) se demostraría que el lenguaje se aprende por mera imitación.",
+          "D) sería incapaz de llevar a cabo alguna sobreextensión semántica."
+        ],
+        "correct": 1,
+        "rationale": "Se encontraría en la fase holofrástica cuando debiera ya iniciar la etapa de desarrollo de la morfología y de la sintaxis."
+      }
+    ]
+  },
+  {
+    "type": "reading_comprehension",
+    "statement": "Anxiety describes a group of disorders that cause worry, nervousness, and fear.\nThese feelings of anxiety interfere with everyday life and are out of proportion to the\ntriggering object or event.\n\nIn some cases, people are unable to identify a trigger and feel anxious for what\\seems like no reason. While mild anxiety can be expected in some situations, such as\nbefore an important presentation or meeting, persistent anxiety can interfere with a\nperson's well-being.\n\nAnxiety can have a significant effect on the body, and long-term anxiety increases\n\nthe risk of developing chronic physical conditions.\n\nThe medical community suspects that anxiety develops in the amygdala, an area of\n\nthe brain that manages emotional responses.",
+    "questions": [
+      {
+        "statement": "De acuerdo con el sentido contextual, el término CONNIVENCIA implica",
+        "alternatives": [
+          "A) refutación.",
+          "B) confabulación.",
+          "C) acuerdo.",
+          "D) contubernio."
+        ],
+        "correct": 2,
+        "rationale": "Aunque puede implicar complicidad o complot, incluso contubernio, en la lectura solo implica una coincidencia o un acuerdo."
+      },
+      {
+        "statement": "¿Cuál es el tema central del texto?",
+        "alternatives": [
+          "A) El carácter sofístico de todo escepticismo",
+          "B) La falaz negación escéptica de la verdad",
+          "C) Análisis lógicos de la concepción de verdad",
+          "D) El razonamiento lógico sobre las creencias"
+        ],
+        "correct": 1,
+        "rationale": "Se presenta la argumentación escéptica de Enesidemo, y se determina de manera lógica que es un sofisma."
+      },
+      {
+        "statement": "Determine cuál de los siguientes enunciados guarda incompatibilidad con el desarrollo argumentativo del texto.",
+        "alternatives": [
+          "A) El carácter endeble de la argumentación de Enesidemo implica reformar el lenguaje ordinario.",
+          "B) El error del razonamiento de Enesidemo estriba en considerar que la verdad es como una cosa en sí.",
+          "C) La verdad tiene que entenderse como una relación entre un objeto y el contenido de un pensamiento.",
+          "D) La falacia de los escépticos radica en su conceptualización de la verdad en términos absolutos."
+        ],
+        "correct": 0,
+        "rationale": "Se trata de una formulación incompatible, por cuanto el error escéptico se funda en el uso corriente del lenguaje: en efecto, hablamos de la existencia de la verdad."
+      },
+      {
+        "statement": "Se infiere que el error escéptico se origina en pensar en la verdad como algo",
+        "alternatives": [
+          "A) histórico.",
+          "B) relativo.",
+          "C) lógico.",
+          "D) intrínseco."
+        ],
+        "correct": 3,
+        "rationale": "La verdad es una relación, una correspondencia. Así, pues, el escéptico yerra al pensar en la verdad como una propiedad intrínseca, o de las cosas o de los pensamientos."
+      },
+      {
+        "statement": "Si un filósofo sostuviera que la verdad es algo por descubrir en el mundo,",
+        "alternatives": [
+          "A) sería presa fácil de la refutación escéptica.",
+          "B) tendría que construir un lenguaje matemático.",
+          "C) demostraría que la verdad es representación.",
+          "D) coincidiría plenamente con los escépticos."
+        ],
+        "correct": 0,
+        "rationale": "Al sostener que la verdad es una cosa que se puede descubrir, se aceptaría la tesis de la verdad como algo inherente. En ese sentido, la refutación escéptica sería irreprochable."
+      }
+    ]
+  },
+  {
+    "type": "reading_comprehension",
+    "statement": "Anxiety describes a group of disorders that cause worry, nervousness, and fear.\nThese feelings of anxiety interfere with everyday life and are out of proportion to the\ntriggering object or event.\n\nIn some cases, people are unable to identify a trigger and feel anxious for what\nseems like no reason. While mild anxiety can be expected in some situations, such as\nbefore an important presentation or meeting, persistent anxiety can interfere with a\nperson's well-being.\n\nAnxiety can have a significant effect on the body, and long-term anxiety increases\n\nthe risk of developing chronic physical conditions.\n\nThe medical community suspects that anxiety develops in the amygdala, an area of\nthe brain that manages emotional responses.\n\nWhen a person becomes anxious, stressed, or frightened, the brain sends signals to\nother parts of the body. The signals communicate that the body should prepare to fight or\nflee.\n\nThe fight or flight response is useful when confronting an aggressive person, but it is\nless helpful when going for a job interview or giving a presentation. Also, it is not healthy\nfor this response to persist in the long term.\n\nJayne, L.\n(2018) «The effects of anxiety on\nRetrievedfromhttps://www.medicalnewstoday.com/articles/322510.php",
+    "questions": [
+      {
+        "statement": "The main purpose of the author of the passage is",
+        "alternatives": [
+          "A) to promote mental health care in our society.",
+          "B) to determine the incidence of anxiety in people.",
+          "C) to expose the situations that can trigger anxiety.",
+          "D) to describe anxiety and its effects on people."
+        ],
+        "correct": 3,
+        "rationale": "The text mainly describes what anxiety is and how people who suffer from it feel."
+      },
+      {
+        "statement": "The contextual antonym of the word INTERFERE is",
+        "alternatives": [
+          "A) facilitate.",
+          "B) imped.",
+          "C) hinder.",
+          "D) intrude."
+        ],
+        "correct": 0,
+        "rationale": "The contextual antonym of ¿interfere’ is ‘facilitate’."
+      },
+      {
+        "statement": "It is inferred that anxiety is _____________for people's health.",
+        "alternatives": [
+          "A) positive",
+          "B) harmful",
+          "C) refreshing",
+          "D) beneficial"
+        ],
+        "correct": 1,
+        "rationale": "In any situation, anxiety brings negative effects for people. Therefore, it is indicated that it is harmful."
+      },
+      {
+        "statement": "It is not compatible with the author to affirm that",
+        "alternatives": [
+          "A) anxiety can cause disorders such as nervousness and fear.",
+          "B) some people cannot determine the causes of their anxiety.",
+          "C) persistent anxiety could never affect person's well-being.",
+          "D) anxiety develops in an area that manages emotional responses."
+        ],
+        "correct": 2,
+        "rationale": "In the last lines of the second paragraph, the author of the text says 'persistent anxiety can interfere with a person's well-being'."
+      },
+      {
+        "statement": "If a person suffers brain damage in the area of the amygdala,",
+        "alternatives": [
+          "A) he will always be willing to run away from any situation.",
+          "B) it will become a unique case in the medical community.",
+          "C) over time, other areas of his brain will also be damaged.",
+          "D) possibly, their emotional responses will be very limited."
+        ],
+        "correct": 3,
+        "rationale": "The reading mentions that the amygdala area is in charge of emotional responses. If that area suffers damage, emotional responses will be affected."
+      }
+    ]
+  },
+  {
+    "type": "reading_comprehension",
+    "statement": "Lee D. Ross, a psychologist at Stanford University, has a friend who lost both her\nparents in the Holocaust. According to the woman, the awful events of the Holocaust taught her that it was inappropriate to be upset about trivial things in life and important to enjoy human relationships. Even though the circumstances of her life were tragic, the woman was extremely happy, perhaps due to an innate sense of well-being.\n\nAccording to psychologists, most of our self-reported level of happiness, a measure that researchers call «subjective well-being», seems to be genetically predetermined, rather than caused by experience. A study carried out by Auke Tellegen and David Lykken of the University of Minnesota compared the subjective well-being scores of both fraternal and identical twins, some of whom were separated and raised in different families. By comparing the scores of the twins, Tellegen and Lykken determined that most of the differences in people’s levels of happiness are determined by differences in genetic makeup.\n\nA genetic predisposition toward a certain level of happiness means that regardless of what happens in a person’s life, he or she will eventually adjust to the new circumstances and report the same level of subjective well-being as before.",
+    "questions": [
+      {
+        "statement": "The passage’s focus is primarily on the",
+        "alternatives": [
+          "A) search for the specific genes.",
+          "C) influence of genes on happiness.",
+          "B) stories about happy life.",
+          "D) scientific studies on Holocaust."
+        ],
+        "correct": 1,
+        "rationale": "Sobre la base de estudios, se indaga en el factor genético y su vínculo con el sentimiento de felicidad (happiness)."
+      },
+      {
+        "statement": "The word AWFUL means",
+        "alternatives": [
+          "A) amazing.",
+          "B) abysmal.",
+          "C) incredible.",
+          "D) fearful."
+        ],
+        "correct": 3,
+        "rationale": "Debido a que se relaciona con un fenómeno como el Holocausto, se determina que es una experiencia horrible (fearful)."
+      },
+      {
+        "statement": "About the Lykken and Tellegen study, it is not compatible to say that",
+        "alternatives": [
+          "A) the twins studied were all raised together.",
+          "B) the subjects were paired groups of twins.",
+          "C) the subjects rated their happiness.",
+          "D) the study found happiness is genetic."
+        ],
+        "correct": 0,
+        "rationale": "Los gemelos vivieron separados con el fin de determinar hasta qué punto el factor genético tiene primacía."
+      },
+      {
+        "statement": "It is inferred that the subjects of the Lykken and Tellegen study were asked",
+        "alternatives": [
+          "A) to summarize the theory of happiness.",
+          "B) to reflect on the horrible Holocaust.",
+          "C) to describe their own subjective well-being.",
+          "D) to comment on the cost of living."
+        ],
+        "correct": 2,
+        "rationale": "Se infiere que el estudio estableció hacer preguntas a los sujetos para que describan su propia sensación de sentirse bien."
+      },
+      {
+        "statement": "Choose the truth-value (T or F) of following sentences about the happiness.\n\nI. There are little relationships between a person’s circumstances and his or her level of happiness.\n\nII. Even an experience as Holocaust cannot destroy the sensation of personal happiness.\n\nIII. All people have the same level of individual happiness throughout their basic lives.",
+        "alternatives": [
+          "A) FFF",
+          "B) TTT",
+          "C) TTF",
+          "D) FFT"
+        ],
+        "correct": 2,
+        "rationale": "Solo es falso el tercer enunciado en la medida en que hay diferencias entre las personas por cuanto el factor hereditario es crucial."
+      }
+    ]
+  }
+]

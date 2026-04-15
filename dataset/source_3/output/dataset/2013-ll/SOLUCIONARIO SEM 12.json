@@ -1,0 +1,514 @@
+[
+  {
+    "type": "reading_comprehension",
+    "statement": "Sé que me acusan de soberbia, y tal vez de misantropía, y tal vez de locura. Tales acusaciones (que yo castigaré a su debido tiempo) son irrisorias. Es verdad que no salgo de mi casa, pero también es verdad que sus puertas (cuyo número es infinito) están abiertas día y noche a los hombres y también a los animales. Que entre el que quiera. No hallará pompas mujeriles aquí ni el bizarro aparato de los palacios pero sí la quietud y la soledad. Asimismo hallará una casa como no hay otra en la faz de la tierra. (Mienten los que declaran que en Egipto hay una parecida). Hasta mis detractores admiten que no hay un solo mueble en la casa. Otra especie ridícula es que yo, Asterión, soy un prisionero. ¿Repetiré que no hay una puerta cerrada, añadiré que no hay una cerradura? Por lo demás, algún atardecer he pisado la calle; si antes de la noche volví, lo hice por el temor que me infundieron las caras de la plebe, caras descoloridas y aplanadas, como la mano abierta. Ya se había puesto el sol, pero el desvalido llanto de un niño y las toscas plegarias de la grey dijeron que me habían reconocido. La gente oraba, huía; se prosternaba; unos se encaramaban al estilóbato del templo de las Hachas, otros juntaban piedras. Alguno, creo, se ocultó bajo el mar. No en vano fue una reina mi madre; no puedo confundirme con el vulgo, aunque mi modestia lo quiera. El hecho es que soy único. No me interesa lo que un hombre pueda transmitir a otros hombres. Como el filósofo, pienso que nada es comunicable por el arte de la escritura. Las enojosas y triviales minucias no tienen cabida en mi espíritu, que está capacitado para lo grande; jamás he retenido la diferencia entre una letra y otra. Cierta impaciencia generosa no ha consentido que yo aprendiera a leer. A veces lo deploro, porque las noches y los días son largos. Claro que no me faltan distracciones. Semejante al carnero que va a embestir, corro por las galerías de piedra hasta rodar al suelo, marcado. Me agazapo a la sombra de un aljibe o a la vuelta de un corredor y juego a que me buscan. Hay azoteas desde las que me dejo caer, hasta ensangrentarme. A cualquier hora puedo jugar a estar dormido, con los ojos cerrados y la respiración poderosa. (Aveces me duermo realmente, a veces ha Ciclo 201 3-II cambiado el color del día cuando he abierto los ojos). Pero de tantos juegos el que prefiero es el de otro Asterión. Finjo que viene a visitarme y que yo le muestro la casa. Con grandes reverencias le digo: Ahora volvemos a la encrucijada anterior o Ahora desembocamos en otro patio o Bien decía yo que te gustaría la canaleta o Ahora verás una cisterna que se llenó de arena o ya verás cómo el sótano se bifurca. A veces me equivoco y nos reímos buenamente los dos. No sólo he imaginado esos juegos; también he meditado sobre la casa. Todas las partes de la casa están muchas veces, cualquier lugar es otro lugar. No hay un aljibe, un patio, un abrevadero, un pesebre; son catorce [son infinitos] los pesebres, abrevaderos, patios, aljibes. La casa es del tamaño del mundo; mejor dicho ,es el mundo. Sin embargo; a fuerza de fatigar patios con un aljibe y polvorientas galerías de piedra gris he alcanzado la calle y he visto el templo de las Hachas y el mar. Eso no lo entendí hasta que una visión de la noche me reveló que también son catorce [son infinitos] los mares y los templos. Todo está muchas veces, catorce veces, pero dos cosas hay en el mundo que parecen estar una sola vez: arriba, el intrincado sol; abajo, Asterión. Quizá yo he creado las estrellas y el sol y la enorme casa, pero ya no me acuerdo. Cada nueve años entran en la casa nueve hombres para que yo los libere de todo mal. Oigo sus pasos o su voz en el fondo de las galerías de piedra y corro alegremente a buscarlos. La ceremonia dura pocos minutos. Uno tras otro caen sin que yo me ensangrente las manos. Donde cayeron, quedan, y los cadáveres ayudan a distinguir una galería de las otras. Ignoro quiénes son, pero sé que uno de ellos profetizó, en la hora de su muerte, que alguna vez llegaría mi redentor. Desde entonces no me duele la soledad, porque sé que vive mi redentor y al fin se levantará sobre el polvo. Si mi oído alcanzara todos los rumores del mundo, yo percibiría sus pasos. Ojalá me lleve a un lugar con menos galerías y menos puertas. ¿Cómo será mi redentor?, me pregunto. ¿Será un toro o un hombre? ¿Será tal vez un toro con cara de hombre? ¿O será como yo? El sol de la mañana reverberó en la espada de bronce. Ya no quedaba ni un vestigio de sangre. -¿Lo creerás, Ariadna? -dijo Teseo -.El Minotauro a penas se defendió.",
+    "questions": [
+      {
+        "statement": "1. ¿Quién es el principal narrador en el texto?",
+        "alternatives": [
+          "A) Teseo",
+          "B) Ariadna",
+          "C) El otro Minotauro",
+          "D) El rey Minos",
+          "E) Asterión "
+        ],
+        "correct": 4,
+        "rationale": "Solución: Asterión reflexiona sobre su condición."
+      },
+      {
+        "statement": "2. ¿Cuál es el acontecimiento que señala el desenlace de lo narrado?",
+        "alternatives": [
+          "A) La redención de Teseo",
+          "B) El sacrificio de los jóvenes",
+          "C) La salida de Asterión",
+          "D) La visita del otro Asterión",
+          "E) La muerte del Minotauro "
+        ],
+        "correct": 4,
+        "rationale": "Solución: Asterión, el Minotauro, espera a su redentor. Teseo en la escena final refiere la muerte de Asterión."
+      },
+      {
+        "statement": "3. Medularmente, la historia transcurre en",
+        "alternatives": [
+          "A) la casa de Teseo.",
+          "B) el templo de las Hachas.",
+          "C) la habitación de Ariadna.",
+          "D) el laberinto de Asterión. ",
+          "E) el hábitat de la plebe."
+        ],
+        "correct": 3,
+        "rationale": "Solución: Toda la reflexión de Asterión sucede dentro del laberinto que es su hogar."
+      },
+      {
+        "statement": "4. Resulta incompatible con lo narrado que Asterión",
+        "alternatives": [
+          "A) describe su hogar como muy austero pero único.",
+          "B) rechaza el denuesto de que odia a los humanos.",
+          "C) alude a su alcurnia para explicar el porqué le temen.",
+          "D) niega siempre de su condición de analfabeto. ",
+          "E) se regocija por no cavilar entorno a nimiedades."
+        ],
+        "correct": 3,
+        "rationale": "Solución: No me interesa lo que un hombre pueda transmitir a otros hombres. Como el filósofo, pienso que nada es comunicable por el arte de la escritura… A veces lo deploro, porque las noches y los días son largos."
+      },
+      {
+        "statement": "5. Según el texto, el Minotauro se reconoce a sí mismo como",
+        "alternatives": [
+          "A) una bestia solitaria .",
+          "B) una aberración divina.",
+          "C) un salvador de hombres.",
+          "D) un guía del laberinto.",
+          "E) el redentor de Tes eo."
+        ],
+        "correct": 2,
+        "rationale": "Solución: Cada nueve años entran en la casa nueve hombres para que yo los libere de todo mal."
+      },
+      {
+        "statement": "6. Se puede inferir que la pasividad del Minotauro al final del relato se debió a que",
+        "alternatives": [
+          "A) consideró que su redentor había llegado.",
+          "B) sabía que Ariadna quedaría desamparada.",
+          "C) asumió una filosofía de tipo indeterminista.",
+          "D) terminó por reconocer en Teseo a un toro.",
+          "E) comprendió que jamás saldría del laberinto."
+        ],
+        "correct": 0,
+        "rationale": "Solución: Asterión esperaba a su redentor. Si Teseo no tuvo problemas en matarlo, seguramente Asterión vio en él a su liberador."
+      }
+    ]
+  },
+  {
+    "type": "reading_comprehension",
+    "statement": "Había una vez un imán en el vecindario y en el vecindario vivían unas limaduras de acero. Un día, a dos limaduras se les ocurrió bruscamente visitar al imán y empezaron a hablar de lo agradable que sería la visita. Otras limaduras cercanas se sorprendieron de la conversación y las embargó el mismo deseo. Se agregaron otras y al fin todas las limaduras comenzaron a discutir el asunto y gradualmente el vago propósito se transformó en impulso. ¿Por qué no i r hoy?, dijeron algunas, pero otras opinaron que sería mejor ir al día siguiente. Mientras tanto, sin advertirlo, habían ido acercándose al imán, que estaba muy tranquilo, como sino se diera cuenta de nada. Así prosiguieron discutiendo, siempre acercándose. Al fin, prevalecieron las impacientes, y en un impulso terrible la comunidad entera gritó: “Inútil esperar. Iremos hoy. Iremos ahora. Iremos en el acto. ” La masa unánime se precipitó y que dó pegada al imán por todos los lados. El imán sonrió, porque las limaduras de acero estaban convencidas de que su visita era voluntaria .",
+    "questions": [
+      {
+        "statement": "1. El desenlace del texto nos muestra la oposición entre",
+        "alternatives": [
+          "A) el libre albedrío y el determinismo. ",
+          "B) la voluntad individual y la masa .",
+          "C) el impulso y el genuino objetivo .",
+          "D) las limaduras de hierro y el imán .",
+          "E) la sabiduría y la inconciencia ."
+        ],
+        "correct": 0,
+        "rationale": "Solución: El texto muestra el supuesto libre albedrío de las limaduras de acero frente a un imán, cuando se comportaban siguiendo las leyes físicas."
+      },
+      {
+        "statement": "2. El término VAGO se puede reemplazar por",
+        "alternatives": [
+          "A) inane",
+          "B) pigre",
+          "C) veleidoso.",
+          "D) vacío.",
+          "E) impreciso . "
+        ],
+        "correct": 4,
+        "rationale": "Solución: “… todas las limaduras comenzaron a discutir el asunto y gradualmente el vago propósito (impreciso, indeterminado) se transformó en impulso”."
+      },
+      {
+        "statement": "3. El final del relato es una muestra de la confianza del imán en",
+        "alternatives": [
+          "A) el destino de seres insignificantes.",
+          "B) la impericia de las limaduras de hierro.",
+          "C) la marcha inexorable de los hechos . ",
+          "D) los designios de las divinidades .",
+          "E) la honestidad de los objetos de metal ."
+        ],
+        "correct": 2,
+        "rationale": "Solución: La tranquilidad y la sonrisa del imán se deben a su confianza en el transcurrir de los acontecimientos."
+      },
+      {
+        "statement": "4. ¿Cuál es la intención fundamental del autor?",
+        "alternatives": [
+          "A) Aseverar que la voluntad, cuando es grupal ,siempre es más consistente.",
+          "B) Mostrar las distintas opciones que tenemos para decidir un curso de acción.",
+          "C) Señalar que la pretendida libertad ,frente a las leyes físicas, es ilusoria . ",
+          "D) Dilucidar la ambigüedad de las leyes científicas sobre la atracción física .",
+          "E) Concluir que precipitarse en las decisiones conlleva malos resultados."
+        ],
+        "correct": 2,
+        "rationale": "Solución: Las limaduras pretendían que sus acciones y discusiones se enmarcaban en el libre albedrío, no obstante, eran ilusas frente a lo que les deparaba las leyes físicas."
+      },
+      {
+        "statement": "5. Si algunas limaduras hubieran carecido del impulso irrefrenable de visitar al imán,",
+        "alternatives": [
+          "A) los imanes desaparecerían de la faz del planeta.",
+          "B) esas limaduras serían expulsadas de la vecindad.",
+          "C) podría sostenerse algún tipo de indetermi nismo . ",
+          "D) el imán conversaría con ellas para convencerlas.",
+          "E) tendríamos que aceptar que no hay leyes naturales ."
+        ],
+        "correct": 2,
+        "rationale": "Solución: La intención principales negar el libre albedrío; si se da la condición señalada, el libre albedrío quedaría garantizado, al menos, en el caso de esas limaduras."
+      }
+    ]
+  },
+  {
+    "type": "reading_comprehension",
+    "statement": "Aun para el examen más superficial, el vocabulario usual de la filosofía no es inteligible sin acudir a su griego: son palabras griegas. Pero a la inversa de lo que ocurre con otras disciplinas donde se nombra con palabras griegas cosas descubiertas después, como si buscase en la apelación griega una especie de carta de nobleza, en el vocabulario filosófico las palabras griegas son aquellas mismas que utilizaron los grandes pensadores: física , metafísica, lógica, historia, categoría, mito, idea, psíquico, silogismo, etc. Otros vocablos fundamentales son traducciones latinas de términos griegos: ente, entidad, substancia, género, especie, conocimiento, ciencia, esencia, existencia, etc. De aquí resulta una forzosa relación, una inevitable solidaridad entre todo filosofar y la lengua griega, no sólo porque al utilizar como términos técnicos palabras griegas se vuelve a las fuentes originales de estas palabras, a los textos de los grandes pensado res, sino porque una lengua es algo más que un conjunto de palabras, es una visión, una interpretación del mundo. Y esa visión, esa interpretación, interviene de modo implícito unas veces, deliberado otras, orientando, condicionando, transformando, en cual quier grado o medida, la elaboración del pensamiento y la conducta de la reflexión. Cuando se quiere entender lo que realmente significan los términos filosóficos griegos, es necesario conocer la lengua, impregnarse de su espíritu, interiorizar sus características principales. Más de una vez se ha señalado la importancia que ha tenido para el pensamiento filosófico el modo de conceptualización especial de la lengua griega. La riqueza de las formas verbales, la diversidad de matices que expresa, las numerosas posibilidades de transformación, hacen del griego una lengua privilegiada para la expresión de relaciones complejas, de sutilezas, de distinciones. Es una lengua intelectu al.",
+    "questions": [
+      {
+        "statement": "1. Medularmente, el autor argumenta entorno",
+        "alternatives": [
+          "A) a la forzosa relación entre el filosofar y la lengua griega.",
+          "B) a la imposibilidad de un pensamiento filosófico genuino.",
+          "C) a la solidaridad entre el pasado y el futuro del filosofar.",
+          "D) al deslinde que hacen los intelectuales de su pasado.",
+          "E) al carácter de los pensamientos cargados de ideología."
+        ],
+        "correct": 0,
+        "rationale": "Solución: El texto reitera la inevitable solidaridad entre la filosofía y la lengua griega."
+      },
+      {
+        "statement": "2. Principalmente, el autor asume que una lengua es",
+        "alternatives": [
+          "A) un conjunto de vocablos.",
+          "B) una cosmovisión del mundo.",
+          "C) un óbice para el pensar.",
+          "D) sólo útil para los sabios.",
+          "E) una ideología defo rmadora."
+        ],
+        "correct": 1,
+        "rationale": "Solución: Una lengua es algo más que un conjunto de palabras, es una visión, una interpretación del mundo."
+      },
+      {
+        "statement": "3. Resulta incompatible afirmar que la lengua griega",
+        "alternatives": [
+          "A) permite expresar pensamientos abstractos.",
+          "B) incluye términos como física, lógica o mito.",
+          "C) surge a partir de traducciones del latín.",
+          "D) es muy importante para la filosofía actual.",
+          "E) posibilita una plasticidad en la expresión"
+        ],
+        "correct": 2,
+        "rationale": "Solución: Las palabras griegas fueron traducidas al latín."
+      },
+      {
+        "statement": "4. La expresión CARTA DE NOBLEZA se puede reemplazar por",
+        "alternatives": [
+          "A) prestigio.",
+          "B) herencia.",
+          "C) contraste.",
+          "D) bondad.",
+          "E) motivo."
+        ],
+        "correct": 0,
+        "rationale": "Solución: En otras disciplinas se nombra con palabras griegas cosas descubiertas después, como si buscase en la apelación griega una especie de carta de nobleza o prestigio académico."
+      },
+      {
+        "statement": "5. Para el autor la reflexión de un filósofo debería",
+        "alternatives": [
+          "A) ser ajena a toda ideología.",
+          "B) desdeñar el manejo del griego.",
+          "C) partir de un marco histórico.",
+          "D) anclarse solo en latinismos.",
+          "E) minusvalorar lo teórico."
+        ],
+        "correct": 2,
+        "rationale": "Solución: A diferencia de otras disciplinas que pueden prescindir de su pasado e incluso renegarlo, la filosofía es su propio pasado."
+      }
+    ]
+  },
+  {
+    "type": "verbal_series",
+    "statement": "2. ¿Cuál es el término que no corresponde al campo semántico?",
+    "alternatives": [
+      "A) Felón ",
+      "B) Nesciente",
+      "C) Ignaro",
+      "D) Inculto",
+      "E) Indocto"
+    ],
+    "correct": 1,
+    "rationale": "Solución: Felón significa traidor."
+  },
+  {
+    "type": "verbal_series",
+    "statement": "3. Baladí, anodino, inane,",
+    "alternatives": [
+      "A) insustancial.",
+      "B) apócrifo. ",
+      "C) inatingente.",
+      "D) inverosímil.",
+      "E) inope."
+    ],
+    "correct": 1,
+    "rationale": "Solución: Serie verbal basada en la sinonimia."
+  },
+  {
+    "type": "verbal_series",
+    "statement": "4. Obstinado, pertinaz; dogmático, heterodoxo; ufano, infatuado;",
+    "alternatives": [
+      "A) lascivo, sicalíptico.",
+      "B) locuaz, gárrulo.",
+      "C) cuerdo, imprudente.",
+      "D) orate, insano.",
+      "E) procaz, grosero."
+    ],
+    "correct": 2,
+    "rationale": "Solución: Serie verbal mixta, se completa con una pareja de antónimos."
+  },
+  {
+    "type": "verbal_series",
+    "statement": "5. Veleidoso, voluble, caprichoso,",
+    "alternatives": [
+      "A) inconstante.",
+      "B) verosímil.",
+      "C) yermo.",
+      "D) paladino.",
+      "E) inextricable."
+    ],
+    "correct": 0,
+    "rationale": "Solución: Relación de sinonimia."
+  },
+  {
+    "type": "verbal_series",
+    "statement": "6. Lábil, ende ble; inmarcesible, imperecedero;",
+    "alternatives": [
+      "A) inadmisible, intangible.",
+      "B) flemático, parsimonioso.",
+      "C) calmoso, sosegado.",
+      "D) pugnaz, entrometido.",
+      "E) ínclito, conspicuo."
+    ],
+    "correct": 1,
+    "rationale": "Solución: Relación de sinonimia."
+  },
+  {
+    "type": "verbal_series",
+    "statement": "7. Señale término que debe ser excluido de la serie verbal.",
+    "alternatives": [
+      "A) fausto ",
+      "B) gárrulo",
+      "C) locuaz",
+      "D) charlatán",
+      "E) facundo"
+    ],
+    "correct": 0,
+    "rationale": "Solución: Fausto es feliz, no significa hablador."
+  },
+  {
+    "type": "verbal_series",
+    "statement": "8. Encomio, loa, apología,",
+    "alternatives": [
+      "A) ludibrio.",
+      "B) estulticia.",
+      "C) marasmo.",
+      "D) pigricia.",
+      "E) lisonja. "
+    ],
+    "correct": 4,
+    "rationale": "Solución: serie basada en la sinonimia."
+  },
+  {
+    "type": "reading_comprehension",
+    "statement": "Desde tiempos inmemoriales los seres humanos han imaginado artefactos –ídolos, imprevisibles dioses, obedientes esclavos, robots – que pudieran compartir la esencia humana: pensar, razonar, asociar y crear. Mitos, historias, argumentos filosóficos reflejan a través de los siglos esa obsesión. Pero recién con la existencia de las computadoras, los primeros instrumentos aptos para procesar símbolos, es que esta búsqueda mítica pasa a constituirse en una zona de investigación formal con posibilidad de definir rigurosamente aspectos de la inteligencia artificial, contrastarlos y lograr la realimentación rápida que permita el avance de la experimentación. Y hemos dicho aspectos, porque la definición de inteligencia es una bruma que envuelve a cualquiera que desee comenzar a caracterizar este concepto. Desde su fundación formal en la Conferencia de Dartmouth en 1956, la investigación en inteligencia artificial se ha realizado siguiendo dos enfoques conectados y enfrentados mutuamente. El primero tiene por meta principal la construcción de sistemas orientados a la resolución de problemas, sin necesariamente imitar la forma en que la mente humana realiza esta tarea aunque sí buscando alcanzar su desempeño. El segundo intenta imitar (sin poder conseguirlo plenamente hasta hoy) los modos de funcionamiento de la inteligencia humana por medio de un programa de computación, buscando arrojar luz sobre el proceso cognitivo humano. En el primer enfoque se busca producir conductas que podrían ser originadas a través del uso de la inteligencia, independientemente de los medios empleados en obtener el resultado: Si la conducta obtenida tiene un grado considerable de inteligencia, el sistema es exitoso. En el otro, se pretende construir modelos. Un modelo debe producir también una salida apropiada, pero debe hacerlo mediante procesos y representaciones de información que sean espejo de los procesos inteligentes que se producen en la mente humana.",
+    "questions": [
+      {
+        "statement": "1. El texto gira entorno a",
+        "alternatives": [
+          "A) los enfoques de investigación en inteligencia artificial.",
+          "B) las definiciones contrapuestas de inteligencia artificial.",
+          "C) la conferencia tecnológica desarrollada en Dartmouth.",
+          "D) los rotundos fracasos al modelar el cerebro humano.",
+          "E) los innumerables intentos por imitar la esencia humana ."
+        ],
+        "correct": 0,
+        "rationale": "Solución. El texto presenta los dos enfoques principales de investigación en el campo de la Inteligencia Artificial."
+      },
+      {
+        "statement": "2. En el texto, el término BRUMA connota",
+        "alternatives": [
+          "A) oscuridad .",
+          "B) niebla.",
+          "C) problemática.",
+          "D) negligencia.",
+          "E) ceguera."
+        ],
+        "correct": 2,
+        "rationale": "Solución. La definición de inteligencia es una bruma que envuelve a cualquiera que desee comenzar a caracterizar el área."
+      },
+      {
+        "statement": "3. Resulta incompatible respecto al afán por emular la inteligencia humana aseverar que",
+        "alternatives": [
+          "A) se remonta a los albores de la humanidad.",
+          "B) fue tema de diversos mitos de la Antigüedad.",
+          "C) implica entender cómo tomamos decisiones.",
+          "D) apareció recién con la revolución informática.",
+          "E) fue tema de debate en la conferencia de Dartmouth."
+        ],
+        "correct": 3,
+        "rationale": "Solución. Desde tiempos inmemoriales, los humanos han imaginado artefactos que imiten la esencia humana."
+      },
+      {
+        "statement": "4. Según el texto, los adelantos en la informática",
+        "alternatives": [
+          "A) carecen de aplicabilidad en otros campos.",
+          "B) refutan todo intento teórico de los filósofos.",
+          "C) apoyan únicamente al primer enfoque.",
+          "D) permiten definir con claridad la inteligencia.",
+          "E) dieron estatus científico a un anhelo ancestral."
+        ],
+        "correct": 4,
+        "rationale": "Solución. Con la aparición de las primeras computadoras se pasa de las especulaciones míticas al plano de la investigación formal."
+      },
+      {
+        "statement": "5. Si fuese imposible plasmar un paralelo entre neuronas y componentes electrónicos,",
+        "alternatives": [
+          "A) el segundo enfoque sería inviable.",
+          "B) todos lo s enfoques serían nulos.",
+          "C) el primer enfoque alcanzaría su meta.",
+          "D) los sueños míticos serían desterrados.",
+          "E) la reunión en Darmouth habría fracasado."
+        ],
+        "correct": 0,
+        "rationale": "Solución. En el texto se señala que el segundo enfoque de investigación “intenta imitar los modos de funcionamiento de la inteligencia humana… buscando arrojar luz sobre el proceso cognitivo humano”."
+      }
+    ]
+  },
+  {
+    "type": "reading_comprehension",
+    "statement": "Del sentido vago que tiene el vocablo philosophía en sus orígenes, se pasa poco a poco al sentido estricto, especial, que conserva hasta nuestros días, aunque en ningún momento de su historia se haya perdido por completo la significación original de “amor por la sabiduría”, que sirve como trasfondo irreductible de las diversas significaciones que ha ido adquiriendo en el curso de la historia. El momento decisivo está representado sin duda por la aparición del movimiento ideológico de los sofistas y de su confrontación y combate con la escuela socrática. Aunque, someramente conviene observar que la contribución de los sofistas a la historia del pensamiento ha tenido una importancia considerable y ha significado una verdadera “revolución” dentro del ámbito de la cultura griega. Nietzsche podía decir por eso que “todo progreso del conocimiento psicológico o moral ha restaurado a los sofistas”. En este sentido conviene observar también que la historia de la filosofía ha sido dominada por el prejuicio socratista, es decir, por la aceptación pasiva y sin crítica de la posición anti -sofística asumida por Sócrates y su escuela. Los sofistas son los creadores de las “ciencias humanas”, los creadores del arte de la argumentación, los creadores de la pedagogía en su forma moderna, los creadores de la vida intelectual como discusión, debate, controversia. Sofista quiere decir sabio. Así se llamó a los siete sabios de Grecia: sofistas. Sócrates y su escuela acreditaron ante la historia la acepción peyorativa del término, es decir, la significación de retórico venal, maestro de argucias, charlatán y fanfarrón, mientras que en la realidad fueron los grandes sofistas espíritus eminentes cuya reputación alcanzaba todos los confines de Grecia. Una de las tareas principales de la escuela socrática consistió en oponer al sofista la imagen del filósofo, como el bien se opone al mal, como la verdad se opone al error, como al vicio se opone a la virtud. El filósofo es la contra -imagen del sofista. Pero es muy difícil distinguir al sofista del filósofo, y Platón dedica todo un diálogo para establecer la distinción. El filósofo decía Platón es al sofista como el perro es al lobo. Es decir: el sofista es un disfraz del filósofo, es la apariencia del filósofo, es la imagen inversa del filósofo.",
+    "questions": [
+      {
+        "statement": "1. El texto gira entorno a",
+        "alternatives": [
+          "A) la sabiduría de Sócrates",
+          "B) los prejuicios socráticos",
+          "C) el prestigio de los sofistas.",
+          "D) las humanidades en Grecia",
+          "E) el significado de philosophía ."
+        ],
+        "correct": 2,
+        "rationale": "Solución: El autor analiza el prejuicio socrático hacia los sofistas y analiza el desprestigio de que son objeto."
+      },
+      {
+        "statement": "2. ¿Cuál es la intención principal del autor?",
+        "alternatives": [
+          "A) Argumen tar en favor de los sofistas ",
+          "B) Rechazar la sabiduría de Sócrates",
+          "C) Dilucidar el origen de las humanidades",
+          "D) Diferenciar al filósofo de los sofistas",
+          "E) Definir qué es la genuina filosofía"
+        ],
+        "correct": 0,
+        "rationale": "Solución: El análisis del prejuicio socrático hacia los sofistas conlleva una reivindicación a esos verdaderos sabios revolucionarios."
+      },
+      {
+        "statement": "3. En el texto, RESTAURADO significa ____e IRREDUCTIBLE alude a lo que no puede_____.",
+        "alternatives": [
+          "A) edificado – conocerse",
+          "B) incrementado – reducirse",
+          "C) denigrado –emplearse",
+          "D) posibilitado – olvidarse",
+          "E) reivindicado – eliminarse. "
+        ],
+        "correct": 4,
+        "rationale": "Solución: Según lo señalado por Nietzsche, el prestigio de los sofistas queda restaurado, esto es, reivindicado; además la referencia a la etimología de filosofía nos da un sustrato irreductible, que no puede reducirse o eliminarse."
+      },
+      {
+        "statement": "4. Se desprende que en el diálogo platónico dedicado a los sofistas, estos son",
+        "alternatives": [
+          "A) ensalzados como genuinos y eminentes pensadores.",
+          "B) defendidos de los ataques de los discípulos socráticos.",
+          "C) soslayados por carecer de habilidades para la retórica.",
+          "D) vapuleados en concordancia con el prejuicio socratista. ",
+          "E) considerados la única salvación para la polis griega."
+        ],
+        "correct": 3,
+        "rationale": "Solución: Si Platón considera al sofista como un disfraz, una imagen inversa, del filósofo, su crítica a los sofistas es evidente."
+      },
+      {
+        "statement": "5. Si el autor del texto rechazara lo sostenido por Nietzsche, entonces",
+        "alternatives": [
+          "A) propugnaría la posición anti -sofística. ",
+          "B) refutaría la tesis platónica del sofista.",
+          "C) asumiría que los sofistas fueron genios.",
+          "D) dejaría de existir la philosophía restringida.",
+          "E) las ciencias humanas no habrían surgido."
+        ],
+        "correct": 0,
+        "rationale": "Solución: La posición de Nietzsche es en favor de la reivindicación de los sofistas, rechazar esa postura es pensar desde el marco del desprecio socrático a los sofistas."
+      }
+    ]
+  },
+  {
+    "type": "reading_comprehension",
+    "statement": "La utopía arcaica. Otro, analizar, a partir de la obra de Arguedas, en sus méritos y deméritos, lo que hay de realidad y de ficción en la literatura y la ideología indigenistas. Aunque he dedicado al Perú buena parte de lo que he escrito, hasta donde puedo juzgar la literatura peruana ha tenido escasa influencia en mi vocación. Entre mis autores favoritos, esos que uno lee y relee y llegan a constituir su familia espiritual, casi no figuran peruanos, ni siquiera los más grandes, como el Inca Garcilaso de la Vega o el poeta César Vallejo. Entre los escritores nacidos en el Perú es el único con el que he llegado a tener una relación entrañable, como la tengo con Flaubert o Faulkner o la tuve de joven con Sartre. No creo que Arguedas fuera tan importante como ellos, sino un buen escritor que escribió por lo menos una hermosa novela, Los ríos profundos, y cuyas otras obras, aunque éxitos parciales o fracasos, son siempre interesantes y a veces turbadoras. Mi interés por Arguedas no se debe sólo a sus libros; también a su caso, privilegiado y patético. Privilegiado porque en un país escindido en dos mundos, dos lenguas, dos culturas, dos tradiciones históricas, a él le fue dado conocer ambas realidades íntimamente, en sus miserias y grandezas, y, por lo tanto, tuvo una perspectiva mucho más amplia que la mía y que la de la mayor parte de escritores peruanos sobre nuestro país. Patético porque el arraigo en esos mundos antagónicos hizo de él un desarraigado. Su vida fue triste, y traumas de infancia, que nunca llegó a superar y que dejan un reguero de motivos en toda su obra, sumados a crisis de adulto, lo condujeron al suicidio. En su caso y en su obra repercute de manera constante la problemática histórica y cultural de los Andes y la del escritor latinoamericano: su escasa articulación y su difícil acomodo con el medio; sus aciertos y yerros políticos; sus responsabilidades morales, sociales y culturales; las presiones a que debe hacer frente y cómo ellas inciden en su vocación, estimulándola o destruyéndola. En José María Arguedas se puede estudiar de manera muy vívida lo que los existencialistas llamaban «la situación» del escritor en América Latina, por lo menos hasta los años sesenta, y éste es uno de los propósitos de Ciclo 201 3-II. La utopía arcaica. Otro, analizar, a partir de la obra de Arguedas, en sus méritos y deméritos, lo que hay de realidad y de ficción en la literatura y la ideología indigenistas.",
+    "questions": [
+      {
+        "statement": "1. Fundamentalmente, la intención del autor es",
+        "alternatives": [
+          "A) dar a conocer la simpatía que siente por José María Arguedas.",
+          "B) explicar los propósitos que lo llevaron a escribir La utopía arcaica. ",
+          "C) reseñar Los ríos profundos, pues marca un hito en las letras peruanas.",
+          "D) ensalzar la figura de uno de los escritores más conspicuos del Perú.",
+          "E) exponer su fanatismo por las obras del ilustre José María Arguedas."
+        ],
+        "correct": 1,
+        "rationale": "Solución: En José María Arguedas se puede estudiar de manera muy vívida la situación del escritor en América Latina, y éste es uno de los propósitos de La utopía arcaica. Otro, analizar sus méritos y deméritos, lo que hay de realidad y de ficción en la literatura y la ideología indigenistas."
+      },
+      {
+        "statement": "2. En el texto, el término ESCINDIDO se puede reemplazar por",
+        "alternatives": [
+          "A) Adividido. ",
+          "B) roto",
+          "C) conciliado",
+          "D) inconcluso",
+          "E) concluido."
+        ],
+        "correct": 1,
+        "rationale": "Solución: El Perú es un país escindido en dos mundos, dos lenguas, dos culturas, dos tradiciones históricas; es decir, un país bifurcado."
+      },
+      {
+        "statement": "3. Es incompatible con el texto aseverar que La utopía arcaica",
+        "alternatives": [
+          "A) refleja solo un interés por analizar la ideología indigenista.",
+          "B) exhibe la ideología indigenista de José María Arguedas.",
+          "C) permite conocer la atormentada personalidad de Arguedas.",
+          "D) expone la situación de José María Arguedas en América Latina.",
+          "E) analiza lo que hay de ficción en la literatura indigenista ."
+        ],
+        "correct": 0,
+        "rationale": "Solución: Mi interés por Arguedas no se debe sólo a sus libros; también a su caso, privilegiado y patético."
+      },
+      {
+        "statement": "4. Del texto se infiere que el autor de La utopía arcaica",
+        "alternatives": [
+          "A) es un prestigioso epígono del escritor José María Arguedas.",
+          "B) considera que las vicisitudes de Arguedas explican su obra .",
+          "C) soslaya la dualidad trágica de lo indio frente a lo occidental.",
+          "D) describe a Arguedas como una persona briosa y lúcida.",
+          "E) es portavoz legítimo de todas las clases sociales oprimidas."
+        ],
+        "correct": 1,
+        "rationale": "Solución: En José María Arguedas se puede estudiar de manera muy vívida lo que los existencialistas llamaban «la situación» del escritor en América Latina."
+      },
+      {
+        "statement": "5. Si el autor hubiese tenido entre sus favoritos a César Vallejo,",
+        "alternatives": [
+          "A) habría escrito un ensayo ensalzando la personalidad de éste.",
+          "B) recordaría con fervor alguna madrugada parisina en su prosa.",
+          "C) se sentiría tan humanamente cercano a la poesía del célebre vate.",
+          "D) al igual que Flaubert, Vallejo formaría parte de su familia espiritual.",
+          "E) no le habría dedicado La utopía arcaica a José María Arguedas."
+        ],
+        "correct": 3,
+        "rationale": "Solución: Entre mis autores favoritos... casi no figuran peruanos, ni siquiera los más grandes, como César Vallejo."
+      }
+    ]
+  },
+  {
+    "type": "incomplete_sentences",
+    "statement": "EJERCICIOS DE CLASE N° 12 1. Para fijar el precio de un artículo se aumentó su costo en un 30%, pero al venderlo se hizo una rebaja del 10% del precio fijado. ¿Qué tanto por ciento del costo se ganó? A) 15% B) 17% C) 16% D) 20% E) 18%",
+    "alternatives": [
+      "A) 15%",
+      "B) 17%",
+      "C) 16%",
+      "D) 20%",
+      "E) 18%"
+    ],
+    "correct": 1,
+    "rationale": "Solución: 1.3 de costo menos 1.0 de costo resulta en 1.17 costo, es decir 17% de ganancia."
+  }
+]

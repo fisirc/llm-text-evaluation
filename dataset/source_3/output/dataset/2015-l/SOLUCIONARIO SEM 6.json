@@ -1,0 +1,604 @@
+[
+  {
+    "type": "reading_comprehension",
+    "statement": "Científicos de dos continentes han descubierto de manera independiente un conjunto de objetos\ny podrían ser la clave para la comprensión de la materia oscura y del proceso por el cual se\nforman las galaxias más grandes.\nInvestigadores del proyecto Dark Energy Survey, con sede en el Laboratorio Nacional Fermi\n(Fermilab ),del Departamento de Energía de Estados Unidos, y un grupo independiente de\ncientíficos de la Universidad de Cambridge, anunciaron recientemente sus hallazgos de manera\nconjunta. «El gran contenido de materia oscura de las galaxias satélite de la Vía Láctea hace\nde este resultado algo muy importante, tanto para la astronomía como para la física», expresó\nAlex Drlica -Wagner, del Fermilab y uno de los líderes del Dark Energy Survey.\nLas galaxias satélite son pequeños objetos celestes que orbitan alrededor de las galaxias más\ngrandes, como nuestra propia Vía Láctea. Las galaxias enanas pueden tener menos de 100\nestrellas, y son débiles y difíciles de detectar (encambio, la Vía Láctea, una galaxia de tamaño\nmedio, contiene miles de millones de estrellas). Estos objetos descubiertos recientemente son\nmiles de millones de veces más débiles que la Vía Láctea, y un millón de veces menos masivos.\nEl más cercano de ellos se encuentra a unos 100 000 años luz de distancia.\n\nNational Geographic en español (s.f.) Recup erado el 21 de marzo de 2015, de National\nGeographic en español http://www.ngenespanol.com/ciencia/el -espacio/15/03/15/la -galaxia-\nenanaquenosronda .html",
+    "questions": [
+      {
+        "statement": "El tema central del texto es",
+        "alternatives": [
+          "A) el contenido ingente de materia oscura de las galaxias satélite.",
+          "B) el descubrimiento de una galaxia enana próxima a la Vía Láctea.",
+          "C) las galaxias satélite y la nimia cantidad de estrellas que contienen.",
+          "D) la distancia en años luz entre la Vía Láctea y las galaxias enanas.",
+          "E) los hallazgos científicos de Alex Drlica -Wagner sobre el universo."
+        ],
+        "correct": 1,
+        "rationale": "El texto trata acerca del descubrimiento de una galaxia enana muy próxima a la Vía Láctea, la cual fue detectada de manera separada en dos continentes."
+      },
+      {
+        "statement": "En el texto, la palabra DÉBIL se puede reemplazar por",
+        "alternatives": [
+          "A) delgado.",
+          "B) diáfano.",
+          "C) celeste.",
+          "D) agudo.",
+          "E) tenue."
+        ],
+        "correct": 4,
+        "rationale": "El término está referido a una galaxia difícil de percibir; por lo tanto, el sinónimo en contexto es TENUE."
+      },
+      {
+        "statement": "Resulta incompatible con el desarrollo textual afirmar que las galaxias enanas",
+        "alternatives": [
+          "A) podrían ser la clave para la comprensión de la materia oscura.",
+          "B) son miles de millones de veces más débiles que la Vía Láctea.",
+          "C) orbitan alrededor de las galaxias más grandes como la Vía Láctea.",
+          "D) son imperceptibles por eso se conjeturan solo a nivel teórico.",
+          "E) están conformadas por una cantidad muy exigua de estrellas."
+        ],
+        "correct": 3,
+        "rationale": "Las galaxias enanas son difíciles de detectar, pero eso no supone que sean imperceptibles. De hecho el descubrimiento arroja luces al respecto."
+      },
+      {
+        "statement": "Es posible deducir del desarrollo textual que las galaxias enanas",
+        "alternatives": [
+          "A) son masivas y presentan exiguo contenido de materia oscura según el estudio.",
+          "B) pueden llegar a tener menos de 100 estrellas, y son débiles y difíciles de detectar.",
+          "C) fueron descubiertas por científicos que presentaron sus resultados por separado.",
+          "D) presentan una concentración de masa que les impide orbitar de forma autónoma.",
+          "E) se posicionan consistentemente a 100 000 millones de años luz de otras galaxias."
+        ],
+        "correct": 3,
+        "rationale": "Las galaxias enanas, al contar con una cantidad pequeña de estrellas (pueden llegar a tener cien), son débiles y difíciles de detectar; si estuvieran conformadas por millones de estrellas, podrían visualizarse de forma más sencilla."
+      },
+      {
+        "statement": "Si las galaxias enanas estuvieran conformadas por millones de estrellas,",
+        "alternatives": [
+          "A) los científicos las considerarían un reto analítico.",
+          "B) serían fácilmente detectables por los astrónomos.",
+          "C) se alejarían considerablemente de la Vía Láctea.",
+          "D) presentarían una masa idéntica a la Vía Láctea.",
+          "E) ostentarían una órbita más regular y dependiente."
+        ],
+        "correct": 1,
+        "rationale": "Las galaxias enanas, al contar con una cantidad pequeña de estrellas (pueden llegar a tener cien), son débiles y difíciles de detectar; si estuvieran conformadas por millones de estrellas, podrían visualizarse de forma más sencilla."
+      }
+    ]
+  },
+  {
+    "type": "sentence_elimination",
+    "statement": "I) Aprovechando que su padre era catedrático, Noether asistió a sus clases de manera\nextraofiscal, pues en su época las mujeres no podían ir a la universidad. II) Después\naccedería a la Universidad de Gotinga también de manera extraoficial y allí Emmy\nNoether decidió especializar sus estudios en las matemáticas. III) Durante siete años,\nNoether trabajó como profesora en el Instituto de Matemáticas de Erlangen; pero sin\nrecibir un sueldo, por su condición femenina. IV) En 1915 impartió clases en la\nUniversidad de Gotinga recibiendo el desprecio de los que no aceptaban que una\nmujer pudiera dictar una cátedra universitaria. V) En 1918, Emmy Noether formuló el\nteorema que recibiría su nombre y que algunos científicos pondrían a la misma altura\nque el Teorema de Pitágoras.",
+    "alternatives": [
+      "A) II",
+      "B) III",
+      "C) I",
+      "D) IV",
+      "E) V"
+    ],
+    "correct": 4,
+    "rationale": "Se aplica el criterio de impertinencia. El tema está vinculado con el desprecio a Emmy Noether por ser mujer."
+  },
+  {
+    "type": "sentence_elimination",
+    "statement": "I) La oxitocina ,llamada «hormona del amor», hace que los seres humanos nos\nvolvamos más generosos, confiados y sociales. II) Investigadores de la Universidad\nde Emory en Atlanta han descubierto que la oxitocina tiene efecto en muchas especies\nde mamíferos, como los perros. III) Los científicos rociaron el hocico de 16 perros de\nmás de 1 año de edad con oxitocina y a otros con una solución salina. IV) Los\ninvestigadores descubrieron que los perros que habían sido rociados con oxitocina\neran los más propensos a oler, lamer o dar la pata a sus dueños. V) El estudio,\npublicado en Proceedings of the National Academy of Sciences, revela que la\noxitocina podría formar relaciones sociales entre humanos y perros.",
+    "alternatives": [
+      "A) V",
+      "B) II",
+      "C) III",
+      "D) I",
+      "E) IV"
+    ],
+    "correct": 3,
+    "rationale": "Se aplica el criterio de impertinencia. El tema está vinculado con una investigación científica."
+  },
+  {
+    "type": "sentence_elimination",
+    "statement": "I) Científicos han descubierto que el contenido de arsénico en el cabello de Napoleón\nno tuvo nada que ver con su muerte. II) Los análisis de muestras de cabello de varios\nmomentos de la vida de Napoleón revelaron que su deceso no se debió al arsénico,\nNapoleón, incluyendo su esposa y su hijo. IV) Los científicos llegaron a la conclusión\nde que el contenido de arsénico normal en un individuo de principios del siglo XIX era\n100 veces superior al actual. V) Según los investigadores, la alta concentra ción de\narsénico se atribuye a los pegamentos y tintes usados en la época del emperador\nfrancés.",
+    "alternatives": [
+      "A) II",
+      "B) III",
+      "C) I",
+      "D) IV",
+      "E) V"
+    ],
+    "correct": 2,
+    "rationale": "Se aplica el criterio de redundancia."
+  },
+  {
+    "type": "sentence_elimination",
+    "statement": "I) La varicela es una enfermedad contagiosa causada por el virus de la varicela -zóster,\nun virus de la familia de los herpesvirus que también es el causante del herpes zóster. II) Fue descrita por primera vez en el siglo XVI, por diferentes autores con el término Cristalli o Verol volante (el virus de la viruela de vuelo). III) Es una de las enfermedades clásicas de la infancia, que en los niños suele ser leve pero en adolescentes y adultos tiene mayor riesgo de complicaciones. IV) Clínicamente se inicia con un periodo prodrómico semejante a un cuadro gripal con fiebre leve o moderada. V) posteriormente aparece un exantema maculopapular, con evolución a vesículas y costras, que suelen producir cicatrices permanentes.",
+    "alternatives": [
+      "A) II",
+      "B) IV",
+      "C) III",
+      "D) I",
+      "E) V"
+    ],
+    "correct": 0,
+    "rationale": "Se elimina por inatingencia. Las oraciones giran entorno a una descripción clínica de la Varicela. La segunda oración se refiere a la historia de la enfermedad."
+  },
+  {
+    "type": "sentence_elimination",
+    "statement": "I) Se denomina triunvirato a cualquier ejercicio del poder compartido por tres\ngobernantes. II) El término triunvirato se usó por vez primera para denominar a la\nalianza política hecha en el 60 a.C. por Pompeyo Magno, Julio César y Marco Licinio\nCraso para favorecer su programa de engrandecimiento político contra la oposición\ndel Senado. III) Este compromiso, por lo general llamado el primer triunvirato, no fue\nun triunvirato en el sentido propio del término, porque en un principio carecía de\nexistencia legal. IV) El término triunvirato también se aplicó a la división del gobierno\nde Roma entre Octavio (más tarde el emperador Augusto), Marco Antonio y Marco\nEmilio Lépido en el 43 a.C., tras el asesinato de César. V) El segundo triunvirato\nestuvo dotado de un carácter público, pero en el 36 a.C., se excluyó a Lépido y,\nfinalmente, en el 32 a.C. se disolvió el triunvirato tras el enfrentamiento entre Octavio\ny Marco Antonio.",
+    "alternatives": [
+      "A) I",
+      "B) II",
+      "C) III",
+      "D) IV",
+      "E) V"
+    ],
+    "correct": 0,
+    "rationale": "El tema es los dos triunviratos desarrollados en Roma. Se elimina la oración I por impertinencia."
+  },
+  {
+    "type": "incomplete_sentences",
+    "statement": "Quisieron intimidarlo con duras amenazas, __________no pudieron _________su carácter era bastante rudo.",
+    "alternatives": [
+      "A) sin embargo – aunque",
+      "B) pero – porque",
+      "C) y – pues",
+      "D) mas – en consecuencia",
+      "E) dado que – porque"
+    ],
+    "correct": 1,
+    "rationale": null
+  },
+  {
+    "type": "incomplete_sentences",
+    "statement": "__________ sus fans querían tocar al ídolo, este expresó un sentimiento de desdén, __________,de desprecio.",
+    "alternatives": [
+      "A) Porque – incluso",
+      "B) A pesar de que – más bien",
+      "C) Aunque – esto es",
+      "D) Puesto que – o",
+      "E) Si bien – entonces"
+    ],
+    "correct": 2,
+    "rationale": null
+  },
+  {
+    "type": "incomplete_sentences",
+    "statement": "_______ el equipo se lo propone, no s olo ganará tres partidos,_________ el torneo.",
+    "alternatives": [
+      "A) Si – sino",
+      "B) Si – sino",
+      "C) Puesto que – entonces",
+      "D) Aunque – sino",
+      "E) Dado que – o"
+    ],
+    "correct": 0,
+    "rationale": null
+  },
+  {
+    "type": "incomplete_sentences",
+    "statement": "__________ que celebraron un gran banquete, al día siguiente nadie habló de la fiesta _______ellos se sintieron apenados.",
+    "alternatives": [
+      "A) A pesar de – pues",
+      "B) Por – y",
+      "C) Puesto – aunque",
+      "D) Dado – entonces",
+      "E) Por más – y"
+    ],
+    "correct": 4,
+    "rationale": null
+  },
+  {
+    "type": "incomplete_sentences",
+    "statement": "A ningún asistente le gustó la conferencia,________ las incoherencias ________confusiones del expositor.",
+    "alternatives": [
+      "A) debido a – y",
+      "B) porque – o",
+      "C) a causa de – ni",
+      "D) pues – sin",
+      "E) sin embargo – y"
+    ],
+    "correct": 0,
+    "rationale": null
+  },
+  {
+    "type": "reading_comprehension",
+    "statement": "La prematura muerte del faraón Tutankhamón pudo haberse producido por un accidente de carro y, por otro lado, hay razones de peso para creer que su cuerpo sufrió una combustión espontánea en el interior del ataúd poco después de su muerte y tras un proceso de embalsamamiento que resultó una chapuza. Éstas son las sorprendentes conclusiones a las que ha llegado el egiptólogo Chris Naunton, director de la Egypt Exploration Society (EES), y un equipo formado por diferentes científicos y especialistas. La investigación sobre la vida y muerte del joven faraón se anunció a través de un documental ( Tutankhamón: el misterio de la momia quemada )que se emitió el pasado 10 de noviembre en el cadena británica Channel 4. La muerte de Tutankhamón ha estado envuelta en el misterio desde el descubrimiento de su tumba por parte del egiptólogo británico Howard Carter, en 1922. Chris Naunton, con la esperanza de arrojar algo de luz, examinó con detalle miles de notas pertenecientes a los archivos de excavación de Howard Carter, quien visitó Egipto por primera vez en 1891, en calidad de artista de la EES. Naunton se ha servido de este valioso material y ha viajado a Egipto para filmar el documental en el Museo Egipcio de El Cairo, en la tumba de Tutankhamón en el Valle de los Reyes y en otros lugares del país de las pirámides. Howard Carter probablemente sigue sin ser debidamente valorado como arqueólogo, sus logros han sido ensombrecidos por el esplendor del tesoro de Tutankhamón. Sus registros de la excavación y del material, realizados bajo presión, fueron increíblemente buenos y sus notas están llenas de observaciones y sugerencias intrigantes, muchas de las cuales no han sido tenidas en cuenta, explica Naunton.",
+    "questions": [
+      {
+        "statement": "1. En el texto, la palabra RETAZO significa",
+        "alternatives": [
+          "A) jirón.",
+          "B) extremo.",
+          "C) resto.",
+          "D) piltrafa.",
+          "E) escombro."
+        ],
+        "correct": 2,
+        "rationale": "RETAZO se refiere a lo que queda, es decir, al resto, de la bancada oficialista."
+      },
+      {
+        "statement": "2. El autor del texto, sobre la posibilidad de que se apruebe una ley de unión civil homosexual, se muestra",
+        "alternatives": [
+          "A) cauteloso.",
+          "B) irónico.",
+          "C) optimista.",
+          "D) relativista.",
+          "E) optimista."
+        ],
+        "correct": 4,
+        "rationale": "El autor señala que la derrota en el Congreso fue solo un “traspié”, es decir, un tropiezo, en el camino hacia la aprobación final de esta norma. Por lo tanto, se muestra optimista."
+      },
+      {
+        "statement": "3.______ la actitud del padre Linares de calificar como «lesbiana» a la premier por solo haber defendido el proyecto de unión civil.",
+        "alternatives": [
+          "A) monseñor Bambarén se muestra contradictorio con su actitud ante el proyecto de unión civil.",
+          "B) es lógico suponer que los defensores de la unión civil entre personas del mismo sexo son homosexuales.",
+          "C) algunas personas defienden medidas que lesionan gravemente la dignidad humana.",
+          "D) las concepciones sobre cuáles son los derechos de las personas varían con el tiempo.",
+          "E) el miedo impulsa a algunos políticos a mostrarse en contra de la ley de unión civil entre personas del mismo sexo."
+        ],
+        "correct": 1,
+        "rationale": "El autor critica la actitud del padre Linares de calificar como «lesbiana» a la premier por solo haber defendido el proyecto de unión civil."
+      },
+      {
+        "statement": "4. Se desprende del texto que la intención del autor es la de",
+        "alternatives": [
+          "A) exponer los alcances de la ley sobre unión civil entre personas del mismo sexo en otros países.",
+          "B) contrastar las actitudes retrógradas de la Iglesia con la postura progresista de ciertos políticos.",
+          "C) dilucidar la naturaleza de los derechos humanos de homosexuales y heterosexuales.",
+          "D) sustentar la necesidad de reconocer los derechos de las parejas del mismo sexo en nuestro país.",
+          "E) defender la ley de unión civil como primer paso para la aprobación del matrimonio homosexual."
+        ],
+        "correct": 3,
+        "rationale": "El autor pretende argumentar la validez del proyecto de unión civil debido a que este solo estaría reconociendo el derecho de las personas a optar por este enlace."
+      },
+      {
+        "statement": "5. Si en las próximas elecciones los congresistas que rechazaron el proyecto de unión civil fueran reelegidos,",
+        "alternatives": [
+          "A) muchos votantes no considerarían importante el reconocimiento de los derechos de los homosexuales.",
+          "B) no se debatirían más proyectos para favorecer la unión o el matrimonio de los heterosexuales.",
+          "C) el reconocimiento legal del derecho de los homosexuales para formar una familia sería anulado en el mundo.",
+          "D) el debate político sería más alturado y no se caería en el ataque verbal como ha sucedido hasta ahora.",
+          "E) estos utilizarían argumentos más sólidos para sustentar su posición de rechazo a esta ley."
+        ],
+        "correct": 0,
+        "rationale": "Al final el autor advierte al lector que si le parece importante el reconocimiento de este derecho, no debería votar por los que ahora negaron su aprobacion al proyecto."
+      }
+    ]
+  },
+  {
+    "type": "reading_comprehension",
+    "statement": "La prematura muerte del faraón Tutankhamón pudo haberse producido por un accidente de carro y, por otro lado, hay razones de peso para creer que su cuerpo sufrió una combustión espontánea en el interior del ataúd poco después de su muerte y tras un proceso de embalsamamiento que resultó una chapuza. Éstas son las sorprendentes conclusiones a las que ha llegado el egiptólogo Chris Naunton, director de la Egypt Exploration Society (EES), y un equipo formado por diferentes científicos y especialistas. La investigación sobre la vida y muerte del joven faraón se anunció a través de un documental ( Tutankhamón: el misterio de la momia quemada )que se emitió el pasado 10 de noviembre en el cadena británica Channel 4. La muerte de Tutankhamón ha estado envuelta en el misterio desde el descubrimiento de su tumba por parte del egiptólogo británico Howard Carter, en 1922. Chris Naunton, con la esperanza de arrojar algo de luz, examinó con detalle miles de notas pertenecientes a los archivos de excavación de Howard Carter, quien visitó Egipto por primera vez en 1891, en calidad de artista de la EES. Naunton se ha servido de este valioso material y ha viajado a Egipto para filmar el documental en el Museo Egipcio de El Cairo, en la tumba de Tutankhamón en el Valle de los Reyes y en otros lugares del país de las pirámides. Howard Carter probablemente sigue sin ser debidamente valorado como arqueólogo, sus logros han sido ensombrecidos por el esplendor del tesoro de Tutankhamón. Sus registros de la excavación y del material, realizados bajo presión, fueron increíblemente buenos y sus notas están llenas de observaciones y sugerencias intrigantes, muchas de las cuales no han sido tenidas en cuenta, explica Naunton. El cuerpo momificado del faraón presenta importantes lesiones en la parte inferior izquierda, además de costillas rotas y la pelvis destrozada. Los investigadores, tras realizar una autopsia virtual del cadáver, consideran que el faraón pudo haber sido arrollado por un carro de combate, pues las lesiones son similares a las que puede sufrir una persona en un accidente de circulación. Un proceso de embalsamamiento chapucero —como lo han calificado los investigadores — pudo dañar el corazón del difunto, de ahí que no se haya conservado este órgano, un hecho inusual en la momificación del Antiguo Egipto. Los análisis químicos han demostrado que la momia sufrió una combustión espontánea mientras yacía en el interior del ataúd, provocada por una reacción química de los aceites de embalsamam iento. National Geographic. España (s. f.) Recuperado el 21 de marzo de 2015, de National Geographic:http://www.nationalgeographic.com.es/articulo/historia/actualidad/875/tutankhamon_pudo_morir_atropellado_momia_sufrio_una_combustion_espontanea.html",
+    "questions": [
+      {
+        "statement": "La idea principal del texto es :",
+        "alternatives": [
+          "A) el faraón pudo haber sido arrollado por un carro de combate, pues las lesiones que presenta la momia de este son severas.",
+          "B) un estudio químico ha demostrado que la momia sufrió una combustión espontánea por los aceites de embalsamamiento.",
+          "C) Tutankhamón pudo morir atropellado y su momia sufrió una combustión espontánea, según un estudio reciente.",
+          "D) el proceso de embalsamamiento de Tutankhamón resultó ser una chapuza y por eso combustionó espontáneamente.",
+          "E) el corazón de Tutankhamón no se conservó debido a que al ser momificado no se tomaron los cuidados necesarios."
+        ],
+        "correct": 2,
+        "rationale": "Un estudio reciente arroja evidencias sobre la forma en que murió Tutankhamón y las condiciones de la momia permitirían conjeturar que una reacción química por los aceites de momificación generaron una combustión espontánea."
+      },
+      {
+        "statement": "Es incompatible con el texto afirmar que el proceso de momificación en Egipto",
+        "alternatives": [
+          "A) permitió la conservación de órganos vitales y relevantes en la mayoría de casos.",
+          "B) contaba con procedimientos que permitían la preservación diligente del corazón.",
+          "C) únicamente se llevaba a cabo para preservar las partes externas del cuerpo.",
+          "D) se ejecutaba con el uso de aceite s con los que se bañaba el cuerpo del difunto.",
+          "E) era realizada, en algunos casos, por individuos que soslayaban los cuidados."
+        ],
+        "correct": 2,
+        "rationale": "Se procuraba preservar el corazón, aunque en algunos casos no se conseguía el objetivo. Es incompatible afirmar que solo se procuraba preservar las partes externas."
+      },
+      {
+        "statement": "Es posible deducir que el embalsamamiento de los muertos en Egipto",
+        "alternatives": [
+          "A) nunca se realizaba con diligencia, pues era encomendada a gente inexperta para realizar esta labor.",
+          "B) ha sido abordado por diversos arqueólogos que han tomado los estudios previos de Howard Carter.",
+          "C) dejaron evidencia del maltrato y vejación post mortem de los fallecidos cuando estos eran esclavos.",
+          "D) debía oficiarse en épocas de luna llena, sobre todo si se trataba del cuerpo de los faraones.",
+          "E) no siempre se realizaban de manera diligente, incluso si el muerto era alguien importante."
+        ],
+        "correct": 4,
+        "rationale": "Se indica que la ausencia del corazón en los cuerpos momificados era inusual, y eso se debió probablemente a una momificación descuidada. De lo anterior se deduce que no siempre se embalsamaba con los cuidados del caso."
+      },
+      {
+        "statement": "Si el descubrimiento del tesoro de Tutankhamón hubiera devenido en un realce del trabajo arqueológico de Howard Carter, probablemente",
+        "alternatives": [
+          "A) los carros de combate habrían carecido de relevancia para explicar su muerte.",
+          "B) los aceites con los que el cuerpo del faraón combustionó habrían sido obviados.",
+          "C) la relevancia de Tutankhamón como gobernador de Egipto se vería opacada.",
+          "D) sus innumerables notas y observaciones serían tomados seriamente en cuenta.",
+          "E) los datos sobre la momificación en Egipto se ve rían ensombrecidos por su fama."
+        ],
+        "correct": 3,
+        "rationale": "El impacto del tesoro descubierto hizo que la figura de Howar Carter y su trabajo como arqueólogo queden opacados; por eso sus anotaciones minuciosas no se tomaron en cuenta."
+      }
+    ]
+  },
+  {
+    "type": "verbal_series",
+    "statement": "Señale la alternativa que presente tres palabras sinónimas.",
+    "alternatives": [
+      "A) Anaquel, mueble, portón",
+      "B) Cuchillo, puñal, lanzadera",
+      "C) Estufa, calentador, hornillo",
+      "D) Bastón, garrote, conducto"
+    ],
+    "correct": 2,
+    "rationale": null
+  },
+  {
+    "type": "verbal_series",
+    "statement": "Mendaz, veraz; antipático, afectuoso; borroso, nítido;",
+    "alternatives": [
+      "A) locuaz, gárrulo.",
+      "B) garrulo, montaraz.",
+      "C) callado, lacónico.",
+      "D) acre, melifluo",
+      "E) huraño, hosco."
+    ],
+    "correct": 3,
+    "rationale": null
+  },
+  {
+    "type": "verbal_series",
+    "statement": "Pipiolo, inexperto, novato,",
+    "alternatives": [
+      "A) bisoño.",
+      "B) somnoliento.",
+      "C) lascivo.",
+      "D) pícaro.",
+      "E) lúbrico."
+    ],
+    "correct": 0,
+    "rationale": null
+  },
+  {
+    "type": "verbal_series",
+    "statement": "Cruel, despiadado, feroz,",
+    "alternatives": [
+      "A) sibarita.",
+      "B) ponzoñoso.",
+      "C) longevo.",
+      "D) sádico.",
+      "E) surrealista."
+    ],
+    "correct": 3,
+    "rationale": null
+  },
+  {
+    "type": "verbal_series",
+    "statement": "Reincidir, recaer; encomiar, vituperar; presagiar, barruntar;",
+    "alternatives": [
+      "A) prevaricar, proliferar",
+      "D) premunir, amenazar",
+      "B) sospechar, presumir",
+      "E) ostentar, prescindir",
+      "C) fracturar, rotular."
+    ],
+    "correct": 3,
+    "rationale": null
+  },
+  {
+    "type": "verbal_series",
+    "statement": "¿Cuál es el término que se aleja del campo semántico?",
+    "alternatives": [
+      "A) Radical",
+      "B) Drástico",
+      "C) Prensil",
+      "D) Tajante",
+      "E) Rotundo"
+    ],
+    "correct": 2,
+    "rationale": "Solución : Todas las alternativas hacen referencia a lo «categórico, concluyente», excepto PRENSIL, que se refiere a lo «que sirve para asir o coger»."
+  },
+  {
+    "type": "verbal_series",
+    "statement": "Melifluo, dulce; compacto, pétreo; propenso, proclive;",
+    "alternatives": [
+      "A) ígneo, álgido.",
+      "B) ingenioso, lerdo.",
+      "C) frugal, opíparo.",
+      "D) bravucón, discreto.",
+      "E) charlatán, gárrulo."
+    ],
+    "correct": 4,
+    "rationale": "Serie de sinónimos. Se completa con el par «charlatán, gárrulo»."
+  },
+  {
+    "type": "sentence_elimination",
+    "statement": "¿Cuál es el término que se aleja del campo semántico?",
+    "alternatives": [
+      "A) Radical",
+      "B) Drástico",
+      "C) Prensil",
+      "D) Tajante",
+      "E) Rotundo"
+    ],
+    "correct": 2,
+    "rationale": "Solución : Todas las alternativas hacen referencia a lo «categórico, concluyente», excepto PRENSIL, que se refiere a lo «que sirve para asir o coger»."
+  },
+  {
+    "type": "sentence_elimination",
+    "statement": "Melifluo, dulce; compacto, pétreo; propenso, proclive;",
+    "alternatives": [
+      "A) ígneo, álgido.",
+      "B) ingenioso, lerdo.",
+      "C) frugal, opíparo.",
+      "D) bravucón, discreto.",
+      "E) charlatán, gárrulo."
+    ],
+    "correct": 4,
+    "rationale": "Solución : Serie de sinónimos. Se completa con el par «charlatán, gárrulo»."
+  },
+  {
+    "type": "sentence_elimination",
+    "statement": "Ceñudo, afable; exiguo, escaso; indolente, melindroso;",
+    "alternatives": [
+      "A) fausto, dichoso.",
+      "B) tozudo, permisivo.",
+      "C) relegado, propincuo.",
+      "D) menesteroso, austero."
+    ],
+    "correct": 0,
+    "rationale": "completarse con los sinónimos \"fausto, dichoso\"."
+  },
+  {
+    "type": "reading_comprehension",
+    "statement": "SEMANA 6C\n\nLos investigadores utilizan generalmente una de dos teorías para explicar por qué a la gente\nle gustan las películas de terror. La primera es que la persona no está realmente asustada,\nsino excitada con la película. La segunda explicación es que está dispuesta a soportar el\nterror para gozar de un sentimiento eufórico de alivio en el final. Pero un nuevo estudio de\nEduardo Andrade (Universidad de California en Berkeley) y Joel B. Cohen (Universidad de\nFlorida) argumenta que ninguna de estas teorías es corre cta. «Creemos que es necesaria\nuna reevaluación de las dos explicaciones dominantes sobre por qué voluntariamente la\ngente consume experiencias «negativas». Ambas explicaciones asumen que la gente no\npuede experimentar emociones negativas y positivas simul táneamente», explican Andrade\ny Cohen. Y ahí está el fallo, según ellos, ya que es incorrecto suponer ello.\nEs decir, Andrade y Cohen argumentan que los espectadores de películas de terror son\nfelices al ser infelices. Este nuevo enfoque de la emoción revela que la gente experimenta\nemociones negativas y positivas simultáneamente. Las personas, según ellos, realmente\npueden disfrutar siendo asustadas, no sólo por la sensación de alivio que experimentan\ncuando desaparece la amenaza. En ese sentido, los autores sostienen que los momentos\nmás placenteros de un acontecimiento particular pueden ser también los que más miedo\ninspiren. Andrade y Cohen desarrollaron y utilizan una nueva metodología para hacer el\nseguimiento de los sentimientos negativos y positivos al mismo tiempo. Su método podría\naplicarse a otras experiencias que tienden a despertar sensaciones de peligro, disgusto y\nhasta terror, pero que al mismo tiempo son del agrado de quienes las practican, como es\nel caso de los deportes extremos o de alto riesgo.\nGonzález, A. (28 de Agosto de 2007). ¿Por Qué la Gente Adora las Películas de\nTerror? Amazings. Recuperado el 14 marzo de 2015, de Amazings:\nhttp://www.amazings.com/ciencia/notic ias/280807d.html",
+    "questions": [
+      {
+        "statement": "¿Cuál es el tema central del texto?",
+        "alternatives": [
+          "A) La experimentación simultánea de emociones negativas y positivas",
+          "B) El placer ecuménico de los espectadores por las películas de terror",
+          "C) Los rasgos bipolares de los sentimientos y emociones humanos",
+          "D) La refutación de dos teorías sobre la afición a las escenas macabras",
+          "E) Los fundamentos del fanatismo por los deportes de alto riesgo"
+        ],
+        "correct": 0,
+        "rationale": "Solución : A partir de las investigaciones de Andrade y Cohen, el autor presenta el tercer enfoque de estos: revela que la gente experimenta emociones negativas y positivas simultáneamente."
+      },
+      {
+        "statement": "En el texto, el antónimo del término REVELAR es",
+        "alternatives": [
+          "A) ignorar.",
+          "B) ocultar.",
+          "C) reservar.",
+          "D) callar.",
+          "E) disfrazar."
+        ],
+        "correct": 1,
+        "rationale": "Solución : Este nuevo enfoque de la emoción revela, es decir, descubre que la gente experimenta emociones negativas y positivas simultáneamente. Entonces el antónimo del término \"revelar\" sería \"ocultar\"."
+      },
+      {
+        "statement": "A) un suceso terrorífico podría convertirse en algo hilarante.\nB) las películas de terror gozan de gran aceptación del público.\nC) es inviable la experimentación de sensaciones antagónicas.\nD) el espectador deliberadamente se expone a escenas dantescas.\nE) El miedo puede inducir sensaciones de satisfacción plena.",
+        "alternatives": [
+          "A) un suceso terrorífico podría convertirse en algo hilarante.",
+          "B) las películas de terror gozan de gran aceptación del público.",
+          "C) es inviable la experimentación de sensaciones antagónicas.",
+          "D) el espectador deliberadamente se expone a escenas dantescas.",
+          "E) El miedo puede inducir sensaciones de satisfacción plena."
+        ],
+        "correct": 2,
+        "rationale": "Solución : Andrade y Cohen argumentan que los espectadores de películas de terror son felices al ser infelices. Este nuevo enfoque de la emoción revela que la gente experimenta emociones negativas y positivas simultáneamente."
+      },
+      {
+        "statement": "Se colige del texto que una película de terror",
+        "alternatives": [
+          "A) estimula la práctica de deportes de alto riesgo.",
+          "B) presenta escenas que inhiben las sensaciones positivas.",
+          "C) revelaría los meandros de los sentimientos humanos.",
+          "D) genera gran expectativa por el desenlace de su historia.",
+          "E) presenta sucesos excitantes y personajes eufóricos."
+        ],
+        "correct": 2,
+        "rationale": "Solución : Andrade y Cohen desarrollaron y utilizaban una nueva metodología para hacer el seguimiento de los sentimientos negativos y positivos al mismo tiempo. Entonces se colige del texto que una película de terror revelaría los meandros de los sentimientos humanos."
+      },
+      {
+        "statement": "Si un psicólogo afirmara que una película de terror solo genera miedo e infelicidad en el espectador,",
+        "alternatives": [
+          "A) este debería reemplazarla, de inmediato, por un género más constructivo.",
+          "B) los investigadores Andrade y Cohen respaldarían dicha aseveración.",
+          "C) tal sentencia se opondría a los tres enfoques sobre la afición por este género.",
+          "D) dicha aserción sería el cuarto enfoque de explicación sobre los emociones.",
+          "E) entonces las sensaciones opuestas y simultáneas carecerían de asidero."
+        ],
+        "correct": 2,
+        "rationale": "Solución : Del texto se desprende que hay tres enfoques para explicar por qué a la gente le gustan las películas de terror. Hay cierto placer que experimentan los espectadores. Entonces si un psicólogo afirmara que una película de terror solo genera miedo e infelicidad en el espectador. Tal afirmación se opondría a los tres enfoques sobre la afición por este género."
+      }
+    ]
+  },
+  {
+    "type": "sentence_elimination",
+    "statement": "3. Es incompatible con lo establecido en el texto sostener que",
+    "alternatives": [
+      "A) el humanismo acepta el modo de ser del hombre no occidental.",
+      "B) la razón occidental conlleva la violencia como su medio y condición.",
+      "C) la civilización occidental ha hecho uso de la razón y de la violencia.",
+      "D) Occidente ha sido intransigente frente a las culturas primitivas.",
+      "E) la cultura occidental llegó a los Trópicos con su fe, su moral y técnica."
+    ],
+    "correct": 0,
+    "rationale": "El texto indica: «la efectiva violencia de que estas son víctimas no es extraña al humanismo, no es sino el signo visible de una proximidad más lejana con la razón». Y la razón es contraria a todo lo que considera como irracional, lo que ocurre con el modo de ser del hombre no occidental."
+  },
+  {
+    "type": "sentence_elimination",
+    "statement": "5. Si la razón occidental hubiese buscado entender en su propia perspectiva a las culturas primitivas,",
+    "alternatives": [
+      "A) no habrían ocurrido los violentos enfrentamientos bélicos.",
+      "B) otra civilización superior se habría terminado por imponer.",
+      "C) la técnica, la fe y la moral occidental habrían desaparecido.",
+      "D) las culturas primitivas se habrían tornado muy virulentas.",
+      "E) posiblemente algunas de estas no habrían desaparecido."
+    ],
+    "correct": 4,
+    "rationale": "El autor del texto presenta a la razón occidental vinculada a la violencia, al rechazo de lo que considera como irracional; si hubiese buscado entender otras perspectivas, posiblemente algunas de las culturas primitivas habrían sobrevivido."
+  },
+  {
+    "type": "reading_comprehension",
+    "statement": "La filosofía es una cosa entretenida cuando se la estudia con moderación en la juventud;\npero si se fija uno en ella más de lo que conviene, es el azote de los hombres. Por mucho\ngenie que uno tenga, si continúa filosofando hasta una edad avanzada, se le hacen\nnecesariamente nuevas todas las cosas, que uno no puede dispensarse de saber si quiere\nhacerse hombre de bien y crearse una reputación.\nEn efecto, los filósofos no tienen conocimiento alguno de las leyes que se observan en una\nciudad; ignoran cómo debe tratarse a los hombres en las relaciones, públicas o privadas,\nque con ellos se mantiene; no tienen ninguna experiencia de los placeres y pasiones\nhumanas, ni, en una palabra, de lo que se llama la vida. Así es que cuando se les\nencomienda algún negocio doméstico o civil, se ponen en ridículo poco más o menos como\nlos hombres políticos, cuando asisten a vuestras controversias y a vuestras disputas.\nPorque nada más cierto que este dicho de Eurípides: « Cada cual se aplica con gusto a las\ncosas para la s que ha descubierto tener más talento; a ello consagra la mayor parte del día,\na fin de hacerse superior a sí mismo .» Por el contrario, se aleja de aquellas, en las que su\ntrabajo le ofrece malos resultados, y habla de ellas con desprecio; mientras que por amor\npropio alaba las primeras, creyendo que así se alaba a sí mismo.\nPero el mejor partido es, a mi entender, tener algún conocimiento de las unas y de las\notras. Es bueno tener una tintura de la filosofía, tanto más, cuanto que la reclama el cultivo\ndel espíritu, y no es vergonzoso para un joven el filosofar. Pero cuando uno ha entrado en\nla declinación de la vida y continúa filosofando, se pone en ridículo. Yo, a los que se aplican\na la filosofía, los considero del mismo modo que a los que balbucean y juguetean. Cuando\nlo veo en un niño, en quien es muy natural el tartamudear y el divertirse, lo encuentro bien\nservilismo. Igualmente, si es un hombre el que balbucea y enreda, esto se juzga por todos\nridículo, impropio de la edad y digno de crítica.\n\nPlatón. (1967). Gorgias. En Platón, Diálogos. México: Editora Nacional.\n",
+    "questions": [
+      {
+        "statement": "La pregunta que engloba el tema central del texto es :",
+        "alternatives": [
+          "A) ¿cuál es la filosofía más apropiada para el hombre?",
+          "B) ¿cuándo la filosofía es apropiada y cuándo no?",
+          "C) ¿quién debe dedicarse solamente a la filosofía?",
+          "D) ¿cómo se logra ser un filósofo reconocido por todos?",
+          "E) ¿cuándo la filosofía se convierte en un peligro?"
+        ],
+        "correct": 1,
+        "rationale": "El expositor considera que la filosofía es apropiada cuando se es joven, pero inapropiada cuando se es un hombre de edad provecta."
+      },
+      {
+        "statement": "¿Qué enunciado constituye una idea incompatible con el texto?",
+        "alternatives": [
+          "A) Los niños que balbucean resultan graciosos.",
+          "B) Los filósofos de edad avanzada son ridículos.",
+          "C) El expositor considera nefasta a la filosofía.",
+          "D) Cada quien se dedica a lo que tiene talento.",
+          "E) Cada quien debe comportars e según su edad."
+        ],
+        "correct": 2,
+        "rationale": "El expositor no considera nefasta la filosofía, pues la considera apropiada para los jóvenes."
+      },
+      {
+        "statement": "La expresión EL MEJOR PARTIDO hace referencia",
+        "alternatives": [
+          "A) a la destacada competencia.",
+          "B) al espectáculo superior.",
+          "C) a lo más memorable.",
+          "D) a la opción preferible.",
+          "E) al encuentro deseado."
+        ],
+        "correct": 3,
+        "rationale": "EL MEJOR PARTIDO en este caso se refiere a la mejor opción que se puede elegir desde el punto de vista del expositor."
+      },
+      {
+        "statement": "Se infiere de lo que se plantea en el segundo párrafo que los filósofos son",
+        "alternatives": [
+          "A) incapaces de gobernar.",
+          "B) semejantes a los políticos.",
+          "C) amigos de los poetas.",
+          "D) admiradores de Eurípides.",
+          "E) enemigos de los poetas."
+        ],
+        "correct": 0,
+        "rationale": "Debido a que el expositor presenta a los filósofos como desconocedores de las leyes, ignorantes de cómo debe tratarse a los hombres e ignaros de la vida, los muestra como incapaces de gobernar."
+      },
+      {
+        "statement": "Si la filosofía fuese útil en el ámbito político, entonces, para el expositor,",
+        "alternatives": [
+          "A) todos los políticos se harían filósofos.",
+          "B) sería ventajosa solo para los ancianos.",
+          "C) habría que crear una filosofía para niños.",
+          "D) el discurso político perdería atractivo.",
+          "E) sería ventajosa no solo para los jóvenes."
+        ],
+        "correct": 4,
+        "rationale": "El expositor reconoce utilidad a la filosofía en la juventud, si también tuviera utilidad en el ámbito político, no solo sería ventajosa para los jóvenes."
+      }
+    ]
+  }
+]

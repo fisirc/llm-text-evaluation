@@ -1,0 +1,878 @@
+[
+  {
+    "type": "reading_comprehension",
+    "statement": "Un buen día de 1895, un físico prusiano de 40 años investiga acerca de los llamados rayos catódicos. Su indagación no es de índole teórica, sino de la más estricta vena experimental. ¿Qué quiere saber? La manera de evitar la fluorescencia violeta de los rayos catódicos en un tubo de Crookes (una suerte de tubo vacío con electrodos para generar corrientes de alto voltaje). El físico se llama Wilhelm Roentgen, nacido en 1845 (Alemania), y ha estudiado en la Universidad de Würzburg. En su calidad de jefe del departamento de física de la Universidad de München, lleva a cabo cuidadosos experimentos. Es un hombre metódico y su aguzada capacidad de observación ya ha tenido resultados impactantes. Roentgen se encuentra en un laboratorio cerrado. Pa ra generar un ambiente de oscuridad, apaga las luces y cubre el tubo de Crookes con una funda de cartón negro. Se encuentra algo cansado y decide continuar a la mañana siguiente. Para cerciorarse de que todo va a quedar en perfecta s condiciones para el próximo día, antes de irse a sus aposentos, conecta su equipo por última vez. ¿Sucede algo extraño? Sí. Visualiza un débil resplandor en un pequeño objeto que contiene una solución de cristales de platino-cianuro de bario. Cuando apagaba el tubo de Crookes, el resplandor desaparecía. Cuando prendía el tubo, volvía la fulguraci ón. Entusiasmado, repite la operación una cantidad ingente de veces y variando las circunstancias (la distancia, la densidad del material, etc). No es un juego; o, en todo caso, es el juego de la ciencia. El físico quiere estar seguro de que ha encontrado algo objetivo y que responde a la más estricta causalidad científica. No hay ninguna duda. El resplandor que se observa en el objeto con cristales de platino-cianuro de bario procede del tubo de Crook es: son rayos misteriosos que pueden atravesar una cartulina negra e, incluso, metales menos densos que el plomo. En virtud del misterio, el físico decide llamarlos rayos X, pero alguien se le ocurrió que también podrían ser denominados rayos Roentgen. ¿Qué descubrió exactamente Roentgen? Una forma de radiación electromagnética producida, fundamentalmente, por la desaceleración de los electrones. Los rayos X son una radiación ionizante por que, al interactuar con la materia, se origina partículas con carga, esto es, iones. ¿Por qué son importantes los rayos X? Fundamentalmente, porque nos dan una nueva visión: hacen que lo invisible sea algo visible. Así, podemos ver qué es lo que pasa dentro del cuerpo humano, sin necesidad de abrirlo. Se cuenta que, una vez anunciado el gran descubrimiento de Roentgen, se pudo utilizar la técnica de los rayos X para saber exactamente dónde es taba una bala en el cuerpo de una mujer americana que había sufrido un ataque armado. La operación fue un éxito y la fémina quedó eternamente agradecida. Gracias al descubrimiento de Roentgen, la medicina adquirió una nueva disciplina fundamental para las terapias: la radiología. Aunque los rayos X tienen bastantes aplicaciones (por ejemplo, en cristalografía), su utilización en el diagnóstico de dolencias profundas implicó una verdadera revolución en la ciencia médica. Con todo, actualmente, sabemos que no se debe abusar de esta técnica porque implica riesgos para la salud humana. En virtud del reconocimiento de los ex traordinarios servicios prestados por el descubrimiento de los notables rayos que llevan su nombre, Roentgen recibió el primer premio Nobel de Física en 1901. En un acto humano que lo pinta de cuerpo entero, donó el premio pecuniario a su universidad y se mostró reacio a registrar una patente vinculada con su nombre. Aunque él descubrió los rayos X, su utilidad –argumentaba él con una pulcra moral– era totalmente para la humanidad.",
+    "questions": [
+      {
+        "statement": "El texto anterior gira entorno",
+        "alternatives": [
+          "A) a la corroboración de una teoría científica.",
+          "B) a la interpretación de lo casual en la ciencia.",
+          "C) a un descubrimiento científico de impacto.",
+          "D) al surgimiento de una nueva disciplina.",
+          "E) al valor social de los saberes científicos."
+        ],
+        "correct": 2,
+        "rationale": "El tema central del texto es el descubrimiento de los rayos X logrado por Roentgen."
+      },
+      {
+        "statement": "El sentido contextual de AGUZADA es",
+        "alternatives": [
+          "A) lábil.",
+          "B) bizantina.",
+          "C) c apciosa.",
+          "D) abstrusa.",
+          "E) fina."
+        ],
+        "correct": 4,
+        "rationale": "Aguzada capacidad alude a la sutileza del gran científico."
+      },
+      {
+        "statement": "¿Cuál es el mejor resumen del texto?",
+        "alternatives": [
+          "A) El físico alemán Wilhelm Roentgen quiere investigar la manera de evitar la fluorescencia violeta de los rayos catódicos en un tubo de Crookes (un tubo vacío con electrodos para generar corrientes de alto voltaj",
+          "E) y así logra el Nobel de Física en 1901",
+          "B) La desaceleración de electrones produce una extraña forma de radiación electromagnética, lo que recién se pudo comprobar a fines del siglo XIX, debido a que en esa época se logró inventar el procedimiento físico conocido como tubo de Crookes",
+          "C) Wilhelm Roentgen se caracterizó por un espíritu metódico y un elevado rigor teórico, capacidades que lo llevaron a descubrir, fundamentalmente por casualidad, la verdadera naturaleza de los rayos que él denominó X por tratarse de rayos totalmente ignotos",
+          "D) Gracias a una investigación sobre rayos catódicos en el tubo de Crookes, Roentgen llegó a conocer la realidad de unos misteriosos rayos con los cuales se puede verlo invisible. El hallazgo es t an gravitante que obtiene el premio Nobel de Física en 1901",
+          "E) Debido a que la indagación de Roentgen era de índole experimental, usó el tubo de Crookes para descubrir la naturaleza electromagnética de los rayos catódicos. Así logro fundar la técnica de la radiología, lo que significó un gran avance para la medicina."
+        ],
+        "correct": 3,
+        "rationale": "El resumen debe incidir en el impactante descubrimiento y en la consecuencia: la obtención del Nobel."
+      },
+      {
+        "statement": "¿Cuál es el enunciado incompatible con el texto?",
+        "alternatives": [
+          "A) El descubrimiento de W. Roent gen revela un elemento fortuito en las investigaciones.",
+          "B) Roentgen hizo el des cubrimiento de los rayos X cuando frisaba los 56 años de edad.",
+          "C) La radiología médica es una aplicación impactante del descubrimiento de Roentgen.",
+          "D) Hacia los 50 años, Wilhelm Roentgen es ya un científico con una buena trayectoria.",
+          "E) Las investigaciones de Wilhelm Roentgen distaban de ser meramente especulativas."
+        ],
+        "correct": 1,
+        "rationale": "El descubrimiento data de 1895, cuando cuenta con 50 años."
+      },
+      {
+        "statement": "De la referencia al juego de la ciencia se puede inferir un rasgo esencial de la ciencia, a saber, su carácter",
+        "alternatives": [
+          "A) tecnológico.",
+          "B) apor ético.",
+          "C) metódico.",
+          "D) abstracto.",
+          "E) idealizador."
+        ],
+        "correct": 2,
+        "rationale": "Con esa frase se alude al rigor en la lógica de la confirmación, esto es, se apunta a un criterio metódico."
+      },
+      {
+        "statement": "Se deduce del texto que un descubrimiento cien tífico amerita el premio Nobel si a la calidad científica aúna",
+        "alternatives": [
+          "A) modestia intelectual.",
+          "B) espíritu filosófico.",
+          "C) supremacía racial.",
+          "D) trascendencia social.",
+          "E) rentabilidad financiera."
+        ],
+        "correct": 3,
+        "rationale": "El ejemplo de los rayos X de Roentgen revela una de las condiciones esenciales para recibir el premio Nobel: descubrimiento científico con gran impacto de utilidad social."
+      }
+    ]
+  },
+  {
+    "type": "sentence_elimination",
+    "statement": "6. Se deduce del texto que un descubrimiento cien tífico amerita el premio Nobel si a la calidad científica aúna",
+    "alternatives": [
+      "A) modestia intelectual.",
+      "B) espíritu filosófico.",
+      "C) supremacía racial.",
+      "D) trascendencia social.",
+      "E) rentabilidad financiera."
+    ],
+    "correct": 3,
+    "rationale": null
+  },
+  {
+    "type": "sentence_elimination",
+    "statement": "7. Si alguien propugnara el uso irrestricto e hiperbólico de los rayos X,",
+    "alternatives": [
+      "A) podría ser tildado de irresponsable.",
+      "B) revelaría una actitud procientífica.",
+      "C) refrendaría la actitud de Roentgen.",
+      "D) cuestionaría la técnica de Crookes.",
+      "E) podría patentar una teoría científica."
+    ],
+    "correct": 0,
+    "rationale": null
+  },
+  {
+    "type": "sentence_elimination",
+    "statement": "8. Se colige del texto que un rasgo notable de Roentgen es su",
+    "alternatives": [
+      "A) ferviente deseo de inmortalidad.",
+      "B) espíritu signado por la filantropía.",
+      "C) carácter cansino y muy aprensivo.",
+      "D) búsqueda de riquezas personales.",
+      "E) precipitación en la busca de la verdad."
+    ],
+    "correct": 1,
+    "rationale": null
+  },
+  {
+    "type": "reading_comprehension",
+    "statement": "En las matemáticas del siglo XIX el infinito aparece por lo general sólo en su forma “potencial”. Basándose en esta forma, A. L. Cauchy y sus sucesores establecieron los rigurosos fundamentos del cálculo en la primera mitad de ese siglo. Durante la segunda mitad, K. Weierstrass, G. Cantor, H. Mé ray y otros usaron esta forma para desarrollar teorías aritméticas sobre los números i rracionales, teorías que luego utilizaron para construir la teoría de las funciones. El infinito potencial puede ilus trarse mediante un ejemplo muy sencillo: la expresión ()01= n Límn [(léase : el límite de 1/ n, cuando n tiende al infinito, es cero (o infinitamente pequeño)] no es más que una abreviatura de la afirmación “puede hacerse que el cociente 1/ n se aproxime a 0 con cualquier precisión deseada si el entero positivo n se considera suficientemente grande ” (el que tan grande deba considerarse n, entonces, depende de la precisión deseada en la aproximación a 0 por 1/ n). En esta afirmación no se plantea lo “infinitamente grande” o “lo infinitamente pequeño”, y el símbolo sirve tan sólo como una notación concisa. Esta es la situación a la que Gauss hacía referencia cuando escribió su famosa carta a Schumacher en 1831: “en las matemática s las magnitudes infinitas nunca pueden tomarse como algo final; el infinito es sólo una façon de parler ,que significa un límite al cual ciertas proporciones puede n aproximarse tan cercanament e como se desee cuando se permite que otras se in crementen indefin idamente”.",
+    "questions": [
+      {
+        "statement": "1. Medularmente, el texto hace referencia",
+        "alternatives": [
+          "A) al infinito potencial en matemática.",
+          "B) a Cantor y los números irracionales.",
+          "C) a A. L. Cauchy y el infinito potencial.",
+          "D) al modo de referir los números infinitos.",
+          "E) al como una notación de lo infinito."
+        ],
+        "correct": 0,
+        "rationale": null
+      },
+      {
+        "statement": "2. El término MAGNITUDES tiene el significado contextual de",
+        "alternatives": [
+          "A) medidas.",
+          "B) dimensiones.",
+          "C) cantidades.",
+          "D) extensiones.",
+          "E) proporciones."
+        ],
+        "correct": 2,
+        "rationale": null
+      },
+      {
+        "statement": "3. De acuerdo con el autor ,no es coherente afirmar que",
+        "alternatives": [
+          "A) la expresión del cociente 1/n es igual a cero.",
+          "B) el infinito potencial se da en el siglo XIX.",
+          "C) el infinito potencial es ()01= n Límn .",
+          "D) en las matemáticas el infinito es sólo un límite.",
+          "E) el símbolo sólo sirve como notación breve."
+        ],
+        "correct": 0,
+        "rationale": null
+      }
+    ]
+  },
+  {
+    "type": "reading_comprehension",
+    "statement": "Los átomos se combinan, afirmó B ohr, de forma que tienden a conseguir una capa exterior completa. A veces, como en el caso de la molécula de hidrógeno, ello se consigue gracias a que dos núcleos comparten un par de electrones; en otras ocasiones, una imagen más apropiada puede consistir en imaginar que un átomo con un electrón únicamente en la capa exterior (el sodio, por ejemplo) se lo cede a otro átomo que en la capa externa contenga siete electrones y una vacante (en este caso el cloro, por ejemplo). Así, cada átomo queda completo: el sodio por perder el electrón y quedar con una capa externa completa, aunque más profunda; el cloro por ganar el electrón que le permite completar la capa externa. El resultado neto, no obstante, es que el átomo de sodio se ha convertido en un ion cargado positivamente al perder una unidad de carga negativa, mientras que el átomo de cloro ha pasado a se r un ion negativo. Como las cargas opuestas se atraen, los dos permanecen ligados formando una mo lécula eléctricamente neutra de cloruro sódico o sal común. Todas las reacciones químicas se puede n explicar como un comportamiento o intercambio de electrones entre átomos a base de una tendencia a la estabilidad que proporciona el tener completas las capas de electrones.",
+    "questions": [
+      {
+        "statement": "1. El texto se refiere centralmente",
+        "alternatives": [
+          "A) a la combinación de electrones y núcleos.",
+          "B) a la molécula de hidrógeno y su núcleo.",
+          "C) al intercambio de electrones entre átomos.",
+          "D) a la pérdida de electrones en unos átomos.",
+          "E) a la reacción química del núcleo atómico."
+        ],
+        "correct": 2,
+        "rationale": "Al inicio del texto se afirma la combinación de átomos para completar sus capas exteriores mostrando un ejemplo con el cloruro sódico, y concluye que las reacciones químicas son un intercambio de electrones entre átomos."
+      },
+      {
+        "statement": "2. En el texto, IMAGEN se entiende como",
+        "alternatives": [
+          "A) problema.",
+          "B) invento.",
+          "C) reflejo.",
+          "D) abstracción.",
+          "E) modelo."
+        ],
+        "correct": 4,
+        "rationale": "El término ‘imagen’ se entiende como ‘modelo’ ,pues se refiere a la imaginación de un caso."
+      },
+      {
+        "statement": "3. Es incompatible con lo sostenido por el autor afirmar que",
+        "alternatives": [
+          "A) los átomos se combinan para completar su capa exterior.",
+          "B) la sal común es una molécula eléctricamente neutra.",
+          "C) el sodio cede un electrón y se convierte en ion negativo.",
+          "D) el cloro gana un electrón y se convierte en ion negativo.",
+          "E) el cloruro sódico es una molécula eléctricamente neutra."
+        ],
+        "correct": 2,
+        "rationale": "El sodio se convierte en ion positivo."
+      }
+    ]
+  },
+  {
+    "type": "reading_comprehension",
+    "statement": "Siempre que los legisladores destruyen o se adueñan de la propiedad del pueblo, o lo esclavizan bajo un poder ar bitrario, se ponen a sí mismos en un estado de guerra con respecto a su pueblo, el cual queda, por ello, libre de seguir obedeciendo y se puede acoger al refugio común con que Dios ha dotado a todos los hombres frente a la guerra y la violencia. Así y todo, puede que quienes sostienen que esta doctrina mía supone un fundamento para la rebelión se refieran a que puede dar lugar a guerras civiles, o luchas intestinas, por decir al pueblo que, ante un atentado ilegal contra sus libertades o propiedades, quedan libres de obedecer e incluso que pueden enfrentarse violentamente con los que fueron sus magistrados e hicieron un uso ilegítimo de la fuerza para invadir sus propiedades, traicionando la confianza que se puso en ello s; y que, por tanto, esta doctrina no ha de ser permitida porque resulta absolutamente perjudicial para la paz del mundo. En tal caso, y por las mismas razones, habría que decir que un ciudadano honrado no debe oponerse a los ladrones ni a los piratas, porque esto puede ocasionar desórdenes y derramamientos de sangre. Ahora bien, los daños que se pudieran producir en casos de este tipo no habría que atribuirl os a aquel que defiende sus derechos, sino a quien invade el de sus vecinos.",
+    "questions": [
+      {
+        "statement": "Medularmente, el texto trata sobre",
+        "alternatives": [
+          "A) la ambigüedad existente en los gobiernos democráticos.",
+          "B) la enérgica represión de la tiranía de los magistrados.",
+          "C) el derecho del pueblo a des obedecer a sus autoridades.",
+          "D) la justificación de la rebelión en una situación pacífica.",
+          "E) la sociedad como garante de las cruentas guerras civiles."
+        ],
+        "correct": 2,
+        "rationale": "El texto señala la situación en la que está justificada la desobediencia civil."
+      },
+      {
+        "statement": "Se puede apreciar que, a lo largo del texto, el autor intenta defender la",
+        "alternatives": [
+          "A) libertad de los ciudadanos.",
+          "B) arbitrariedad de la política.",
+          "C) violencia en la sociedad.",
+          "D) insubordinación militar.",
+          "E) intolerancia religiosa."
+        ],
+        "correct": 0,
+        "rationale": "El derecho de resistencia está bien fundado cuando los gobernantes esclavizan al pueblo. Por ende, la libertad se defiende a como dé lugar."
+      },
+      {
+        "statement": "En el texto, la expresión PODER AR BITRARIO alude",
+        "alternatives": [
+          "A) al despotismo.",
+          "B) a la aleatoriedad.",
+          "C) a la causalidad.",
+          "D) a la divinidad.",
+          "E) a lo consuetudinario."
+        ],
+        "correct": 0,
+        "rationale": "“Siempre que los legisladores destruyen o se adueñan de la propiedad del pueblo, o los esclavizan bajo un poder arbitrario, se ponen a sí mismos en un estado de guerra respecto a su pueblo”, ponerse en este “estado de guerra” implica un gobierno despótico o de abuso de poder."
+      }
+    ]
+  },
+  {
+    "type": "reading_comprehension",
+    "statement": "“Siempre que los legisladores destruyen o se adueñan de la propiedad del pueblo, o los esclavizan bajo un poder arbitrario, se ponen a sí mismos en un estado de guerra respecto a su pueblo”, ponerse en este “estado de guerra” implica un gobierno despótico o de abuso de poder.",
+    "questions": [
+      {
+        "statement": "En el texto, la expresión PODER AR BITRARIO alude",
+        "alternatives": [
+          "A) al despotismo.",
+          "B) a la aleatoriedad.",
+          "C) a la causalidad.",
+          "D) a la divinidad.",
+          "E) a lo consuetudinario."
+        ],
+        "correct": 0,
+        "rationale": "El texto señala que la expresión alude a un gobierno despótico o de abuso de poder."
+      },
+      {
+        "statement": "Resulta incompatible señalar que el autor del texto",
+        "alternatives": [
+          "A) defiende únicamente la propiedad colectiva.",
+          "B) es una persona que apela a su creencia en Dios.",
+          "C) conoce y emplea el concepto de guerra civil.",
+          "D) considera la paz mundial en su argumentación.",
+          "E) estima justo defender los derechos civiles."
+        ],
+        "correct": 0,
+        "rationale": "Por ejemplo, en la referencia a los ladrones o piratas se encuentra implícita la noción de propiedad privada."
+      },
+      {
+        "statement": "Si un pueblo sojuzgado se levantara en contra de un tirano y ocurrieran hechos cruentos,",
+        "alternatives": [
+          "A) la desobediencia estaría injustificada.",
+          "B) la responsabilidad recaería en el tirano.",
+          "C) Dios se opondría a la cruenta rebelión.",
+          "D) la paz ecuménica nunca podría lograrse.",
+          "E) el tirano debería ser recompensado."
+        ],
+        "correct": 1,
+        "rationale": "Se razona en base al posible contraargumento que el autor considera: “los daños que se pudieran producir en casos de este tipo no habría que atribuirlos a aquel que defiende sus derechos, sino a quien invade el de sus vecinos”."
+      }
+    ]
+  },
+  {
+    "type": "reading_comprehension",
+    "statement": "Ya en la Ilíada , Odiseo destaca por su inteligencia y espíritu práctico, como un consejero hábil y oportuno, as tuto, audaz para las emboscadas y las embajadas arduas. También es un magnífico estratega en su momento. Por eso sabemos que, después de la muerte de Aquiles, es él quien hereda sus armas espléndidas: el elegido es Odiseo y no Áyax que encarnaba el tipo de guerrero más antiguo, harto fiado en su coraje y su enorme vigor bélico. Tal decisión acredita a Odiseo como el sucesor del gran héroe, de tan distinto carácter. Es Odiseo quien, con la ayuda de Atenea, su girió la construcción del caballo de madera con el que se tomó al fin Troya. Con todo es en la Odisea , en el poema que lleva su nombre, donde advertimos todo el complejo valor de Odis eo. Ya los epítetos formularios tradicionales nos indican que es un héroe especial. De otros se destacaban aspectos físicos: Aquiles, el de los pies ligeros; Menelao, eximio en el grito de guerra; Héctor, el de tremolante penacho; Áyax, el de escudo de torre; Agamenón, el poderoso señor de las tropas. Pero a Odiseo los epítetos lo califican de acuerdo con su fisonomía interior: como polytas, polytropos, polymetis, polymechanos (muy sufrido, muy artero, muy sagaz, de muchos artificioso trucos). Así destaca entre los jefes griegos por su carácter, no por su apariencia física. Es un héroe de la metis ,de la astucia y de la habilidad con la palabra. Es un navegante mediterráneo que, gracias a su ingenio, atraviesa un mundo mítico, venciendo las seducciones y peligros inmensos de la travesía, escapando de monstruos y encantamientos, visitando el m undo de los muertos, dejando ciego al cíclope Polifemo. Es más, escapa de las aterradora s sirenas sin dejar de oír su canto. Regresa así, más experimentado, más magnánimo, a su añorada, austera y pedrego sa isla de Íta ca, la pobre patria, donde le aguardan, desde hace 20 años, su fiel esposa, su hijo, su oikos y reino.",
+    "questions": [
+      {
+        "statement": "Analizando los mecanismos de coherencia, se puede establecer que Odiseo es sucesor de",
+        "alternatives": [
+          "A) Menelao.",
+          "B) Aquiles.",
+          "C) Áyax.",
+          "D) un dios.",
+          "E) una diosa."
+        ],
+        "correct": 1,
+        "rationale": "Las referencias apuntan a Aquiles, el héroe de pies ligeros."
+      },
+      {
+        "statement": "La construcción del caballo de Troya sirve para ilustrar un rasgo de Odiseo, a saber,",
+        "alternatives": [
+          "A) la astucia.",
+          "B) la audacia.",
+          "C) el carácter.",
+          "D) el coraje.",
+          "E) la fidelidad."
+        ],
+        "correct": 0,
+        "rationale": "Gracias al caballo, pueden ingresar a Troya y ganar la batalla. Es un acto de astucia."
+      },
+      {
+        "statement": "Cabe inferir que Odiseo logró escapar de las sirenas",
+        "alternatives": [
+          "A) debido a que decidió no escuchar su canto.",
+          "B) porque supo como causarles la ceguera.",
+          "C) con la ayuda invalor able de la sabia Atenea.",
+          "D) en virtud de un eficaz acto de prevención.",
+          "E) gracias a su vehemencia y fuerza imbatibles."
+        ],
+        "correct": 3,
+        "rationale": "Se deduce que la huida se logró porque no fue seducido por el canto y, para ello, utilizó la precaución."
+      },
+      {
+        "statement": "En contraste con las características de los otros héroes helenos, los rasgos de Odiseo se destacan por su índole",
+        "alternatives": [
+          "A) física.",
+          "B) dinámica.",
+          "C) muscular.",
+          "D) mental.",
+          "E) ostensible."
+        ],
+        "correct": 3,
+        "rationale": null
+      }
+    ]
+  },
+  {
+    "type": "reading_comprehension",
+    "statement": "Cabe inferir que Odiseo logró escapar de las sirenas En contraste con las características de los otros héroes helenos, los rasgos de Odiseo se destacan por su índole Se infiere que para Odiseo el retorno a Ítaca fue un viaje Resulta incompatible con el texto señalar que Odiseo sobresale por su Odiseo no hubiese podido vencer a Polifemo sin una dosis de",
+    "questions": [
+      {
+        "statement": "Cabe inferir que Odiseo logró escapar de las sirenas",
+        "alternatives": [
+          "A) debido a que decidió no escuchar su canto.",
+          "B) porque supo como causarles la ceguera.",
+          "C) con la ayuda invalor able de la sabia Atenea.",
+          "D) en virtud de un eficaz acto de prevención.",
+          "E) gracias a su vehemencia y fuerza imbatibles."
+        ],
+        "correct": 3,
+        "rationale": "Se deduce que la huida se logró porque no fue seducido por el canto y, para ello, utilizó la precaución."
+      },
+      {
+        "statement": "En contraste con las características de los otros héroes helenos, los rasgos de Odiseo se destacan por su índole",
+        "alternatives": [
+          "A) física.",
+          "B) dinámica.",
+          "C) muscular.",
+          "D) mental.",
+          "E) ostensible."
+        ],
+        "correct": 3,
+        "rationale": "En agudo contraste con los rasgos físicos de los héroes helenos, Odiseo destaca por la agilidad mental."
+      },
+      {
+        "statement": "Se infiere que para Odiseo el retorno a Ítaca fue un viaje",
+        "alternatives": [
+          "A) intempestivo y raudo.",
+          "B) totalmente austero.",
+          "C) regido por el olvido.",
+          "D) lleno de avatares.",
+          "E) exento de peligros."
+        ],
+        "correct": 3,
+        "rationale": "Duró veinte años y tuvo que sortear terribles peligros."
+      },
+      {
+        "statement": "Resulta incompatible con el texto señalar que Odiseo sobresale por su",
+        "alternatives": [
+          "A) pragmatismo.",
+          "B) inteligencia.",
+          "C) garrulería.",
+          "D) impulsividad.",
+          "E) estrategia."
+        ],
+        "correct": 3,
+        "rationale": "Debido a su astucia, Odiseo no puede ser im pulsivo, es decir, actuar de manera irreflexiva."
+      },
+      {
+        "statement": "Odiseo no hubiese podido vencer a Polifemo sin una dosis de",
+        "alternatives": [
+          "A) azar.",
+          "B) riqueza.",
+          "C) valentía.",
+          "D) estulticia.",
+          "E) magnanimidad."
+        ],
+        "correct": 2,
+        "rationale": "Para dejar ciego a un cíclope se requiere de valentía."
+      }
+    ]
+  },
+  {
+    "type": "sentence_elimination",
+    "statement": "Odiseo no hubiese podido vencer a Polifemo sin una dosis de",
+    "alternatives": [
+      "A) azar.",
+      "B) riqueza.",
+      "C) valentía.",
+      "D) estulticia.",
+      "E) magnanimidad."
+    ],
+    "correct": 2,
+    "rationale": "Para dejar ciego a un cíclope se requiere de valentía."
+  },
+  {
+    "type": "sentence_elimination",
+    "statement": "La especial heroicidad de Odiseo radica en sus virtudes",
+    "alternatives": [
+      "A) magnánimas.",
+      "B) estratégicas.",
+      "C) oratorias.",
+      "D) físicas.",
+      "E) austeras."
+    ],
+    "correct": 1,
+    "rationale": "La capacidad de planificar para engañar, la polymetis, es esencial en el carácter heroico de Odiseo."
+  },
+  {
+    "type": "sentence_elimination",
+    "statement": "Si hubiese sido esencial la fuerza bélica para elegir al sucesor de Aquiles,",
+    "alternatives": [
+      "A) de todos modos Odiseo habría sido el elegido.",
+      "B) la diosa Atenea se habría inclinado por un dios.",
+      "C) el elegido habría sido Áy ax, el de escudo de torre.",
+      "D) el héroe de los pies ligeros no habría tenido sucesor.",
+      "E) se habría optado por el héroe de tremolante penacho."
+    ],
+    "correct": 2,
+    "rationale": "En efecto, Áyax destaca por su inusual fuerza para el combate."
+  },
+  {
+    "type": "sentence_elimination",
+    "statement": "I) El positivismo se apoya en una filo sofía realista defensora de que el mundo se puede captar tal como es. II) El positivismo mantiene la idea de que el conocimiento de la realidad solo es posible a través del método científico. III) En el enfoque positivista predominan el método deductivo y las técnicas cuantitativas. IV) Según el positivismo la indagación científica consiste en contrastar empíricamente las teorías al comparar sus consecuencias deductivas con los resultados de las observaciones y de la experimentación. V) La concepción del positivismo fue recusada por los modernos filósofos de la ciencia.",
+    "alternatives": [
+      "A) I",
+      "B) II",
+      "C) III",
+      "D) IV",
+      "E) V"
+    ],
+    "correct": 4,
+    "rationale": "Se aborda el enfoque positivista, la oración V es imperti nente porque es una crítica a este enfoque."
+  },
+  {
+    "type": "sentence_elimination",
+    "statement": "I) Para algunos, las disciplinas epistemología y gnoseología son conceptualmente indiscernibles. II) Algunos identifican ‘e pistemología’ y ‘gnoseología’, pues las definen como teoría del conocimiento; no obstante, la primera se restringe al conocimiento científico. III) La epistemología también se suele identificar con la filosofía de la ciencia, pero se puede considerar a esta última como más amplia que la epistemología. IV) Se puede diferenciar a la epistemología de la metodología: el metodólogo no pone en tela de juicio el conocimiento ya aceptado; en cambio, el epistemólogo podría cuestionarlo. V) La epistemología se ocupa de problemas como las circunstancias que llevan a la obtención del conocimiento científico, y los criterios por los cuales se lo justifica.",
+    "alternatives": [
+      "A) I",
+      "B) II",
+      "C) III",
+      "D) IV",
+      "E) V"
+    ],
+    "correct": 0,
+    "rationale": "Se elimina la primera oración por r edundancia respecto a la segunda y tercera oración."
+  },
+  {
+    "type": "sentence_elimination",
+    "statement": "I) El holismo es la idea de que la s propiedades de un sistema no pueden ser explicados por las partes que los componen por sí solas. II) Un sistema es un conjunto de elementos organizados que interactúan entre sí para lograr un objetivo. III) El holismo sostiene que el sistema como un todo determina cómo se comportan las partes. IV) El principio general del hol ismo fue resumido por Aristóteles así: “El todo es más que la suma de sus partes”. V) El holismo desarrolla sus tesis en diversos ámbitos epistemológicos como la biología, la economía y la sociología.",
+    "alternatives": [
+      "A) I",
+      "B) II",
+      "C) III",
+      "D) IV",
+      "E) V"
+    ],
+    "correct": 1,
+    "rationale": "Se elimina la segunda oración por inatingencia. Tema: El holismo."
+  },
+  {
+    "type": "reading_comprehension",
+    "statement": "Algunos meses después de la publicación del Diálogo de los dos Máximos Sistemas del Mundo , el editor recibió un mandato de Roma obligándole a suspender la venta del libro, y pocos meses después Galileo recibía la orden de presenta rse en Roma ante el Tribunal de la Inquisición. Galileo se quedó perplejo. Había cumplido todas las instrucciones que se le habían dado, había hecho todas las modificaciones que las autoridades le habían pedido. El libro había sido cuidadosamente anal izado, primero en Roma y luego en Florencia, obteniendo el permiso en ambas ciudades. Nadie tenía idea de lo que estaba pasando; e incluso hoy, tres siglos después, y una vez conocidos y estudiados una serie de documentos de la Inquisición, secretos en aquella época, nos llena de asombro y perplejidad aquella decisión. Una cosa es cierta: el Papa Urbano VIII estaba profundamente irritado y había pasado de ser amigo de Galileo a convertirse en su más acérrimo enemigo. Probablemente creía que Galileo se había burlado de él. El último párrafo del Diálogo reproducía una declaración que él mismo había sugerido: La doctrina copernicana no es “veraz ni concluyente” y “sería demasiada osadía el que alguien quisiera limitar y coartar el divino poder y sabiduría a una fantasía suya particular”. Pero Galileo había puesto estas palabras en boca de Simplicio, el hombre de inteligencia limitada, que a lo largo de todo el Diálogo es la figura más mezquina desde el punto de vista intelectual. Galileo no había podido hacer otra cosa ,porque era precisamente Simplicio quien defendía la postura anticopernicana. Pero al parecer hubo alguien que insinuó que Galileo representaba al Papa en la figura de Simplicio. En verdad es poco probable que Galileo quisiera realmente burlarse del Papa, puesto que siempre había demostrado gran respeto para con la autoridad; a menudo había buscado el apoyo de los poderosos y a veces se había incluso esforzado para conseguirlo. Por otra parte parece también bastante difícil creer que mientras escribía o revisaba el Diálogo no se hubiera dado cuenta de que obedecía tan sólo formalmente, pero no al espíritu, de la petición de los revisores. Que en realidad presentaba la concepción copernicana como un hecho probado y no como una hipótesis. De todas formas, los censores, que no eran astrónomos, no se percataron del fuerte carácter copernicano del libro de Galileo. Y sin duda hubo algunas personas que al darse posteriormente cuenta se dedicaron a planteárselo así al Papa. Una vez nacida la sospecha en su mente, Urbano VIII se dejó convencer de que el Diálogo era “más execrando y pernicioso para la Santa Iglesia que las Escrituras de Lutero y de Calvino”, tal como dijo el propio Galileo. Muchos pensaron que esta opinión que expresó respondía a una sugerencia de determinados círculos jesuitas. Galileo había ofendido al padre Scheiner y al Padre Grassi con sus polémicas , y a muchos otros jesuitas también, en algunos párrafos del Diálogo ; quizá ahora quisieran vengarse. Así pues, vemos que existen muchas posibles razones por las que Galileo podía ser reclamado a comparecer ante la Inquisición: por una parte, el orgullo herido, las ambiciones personales y la vanidad de sus enemigos; por otra, la ambición y la ingenuidad del mismo Galileo, que no se había conformado con ver aceptadas sus ideas por lo s científicos, sino que buscó la aprobación y gratitud de la Iglesia, confiando en que podría derribar con la fuerza de sus palabras unas tradiciones que reinaban desde hacía miles de años.",
+    "questions": [
+      {
+        "statement": "Fundamentalmente, el texto",
+        "alternatives": [
+          "A) presenta la inclinación que tenía Galileo hacia la verdad del copernicanismo.",
+          "B) especula sobre los motivos por los cual es Galileo fue citado por la Inquisición.",
+          "C) evidencia la sumisión de Galileo ante las autoridades de la Santa Inquisición.",
+          "D) explica la arrogancia de Galileo manifiesta en el estilo de su obra científica.",
+          "E) barrunta sobre los ínsitos motivos que llevaron a Galileo a escribir el Diálogo ."
+        ],
+        "correct": 1,
+        "rationale": "Fundamentalmente el texto es pecula sobre los motivos por los cuales la Santa Inquisición citó a Galileo."
+      },
+      {
+        "statement": "En el texto, MEZQUINA se entiende como",
+        "alternatives": [
+          "A) cicatero.",
+          "B) proterva.",
+          "C) austera.",
+          "D) estólida.",
+          "E) testaruda."
+        ],
+        "correct": 3,
+        "rationale": "Simplicio era la persona más mezquina desde el punto de vista intelectual, es decir de poca inteligencia, comprensión o cultura."
+      },
+      {
+        "statement": "Es incompatible con el texto afirmar que Galileo",
+        "alternatives": [
+          "A) se burló adrede del Papa en el Diálogo .",
+          "B) se granjeó la animadversión del Papa.",
+          "C) no comprendió la decis ión de la Inquisición.",
+          "D) ofendió a algunos jesuitas en sus debates.",
+          "E) buscaba el apoyo de los poderosos."
+        ],
+        "correct": 0,
+        "rationale": "Galileo no escribió íntegramente el Diálogo porque introdujo varias correcciones de los censores de la Inquisición."
+      }
+    ]
+  },
+  {
+    "type": "reading_comprehension",
+    "statement": "La frontera entre erotismo y pornografía sólo se puede definir en términos estéticos. Toda literatura que se refiere al placer sexual y que alcanza un determinado coeficiente estético puede ser llamada literatura erótica. Si se queda por debajo de ese mínimo que da categoría de obra artística a un texto, es pornografía. Si la materia importa más que la expresión, un texto podrá ser clínico o sociológico, pero no tendrá valor literario. El erotismo es un enriquecimiento del acto sexual y de todo lo que lo rodea gracias a la cultura, gracias a la forma es tética. Lo erótico consiste en dotar al acto sexual de un decorado, de una teatralidad para, sin escamotear el placer y el sexo, añadirle una dimensión artística. Ese tipo de literatura alcanzó su apogeo en el siglo XVIII. Los de ese siglo son grandes textos eróticos que a la vez son grandes textos artísticos. A esto habría que añadirle que en ellos hay una carga crítica que hoy se ha perdido. Los autores de esa época creían que escribir de esa manera, reivindicar el placer sexual y darle al cuerpo ese tratamiento reverente era un acto de rebeldía, un desafío a lo establecido, al poder. Los escritores eróticos eran, pues, pensadores revolucionarios. Diderot, por ejemplo. O Mirabeau, que desde la prisión escribe a Sofía de Monnier cartas de un contenido sexual muy fuerte. Para él esos escritos forman parte de una lucha por la transformación humana, por la reforma social. El caso más extremo sería el marqués de Sade, aunque no creo que de los textos de Sade pueda decirse que son de exaltación del placer erótico. Hay algo intelectual, obsesivo, casi fanático en sus demostraciones sexuales. Sea como fuere, el reconocimiento del derecho al placer es en el siglo XVIII un instrumento para conseguir un mundo mejor, más libre, más auténtico, menos hipócrita, un medio para liberar al individuo de las iglesias, de las convenciones. Eso no se vuelve a alcanzar. El erotismo en el siglo XIX se convierte en un juego muy refinado. Y en el XX se banaliza, se vuelve superficial y previsible, se comercializa, en el peor sentido de la palabra. Ya no genera experimentación formal y pierde su carga crítica, salvo en casos excepcionales, como el de Bataille. Los escritos de G eorges Bataille son profundamente revulsivos, muy desafiantes con las últimas conventions. A la vez son más lúgubres y siniestros. Los suyos son más textos de pe rversión que de asunción del placer, pero es uno de los escritores modernos en los que el erotismo va acompañado de una gran audacia artística.",
+    "questions": [
+      {
+        "statement": "En el texto, el autor dilucida, fundamentalmente,",
+        "alternatives": [
+          "A) la pornografía y el modo como fue utilizada por los grandes escritores decimonónicos.",
+          "B) la perversión, el erotismo y lo siniestro en los textos del gran Georges Bataille.",
+          "C) la pornografía y el erotismo como categorías indiscernibl es en la literatura moderna.",
+          "D) el desacuerdo entre los más ínclitos escritores para determinar el concepto de lo erótico.",
+          "E) el erotismo desde el punto de vista artístico y su diferencia con la mera pornografía."
+        ],
+        "correct": 4,
+        "rationale": "Desde el inicio del texto, es lo que se propone el autor: “ La frontera entre erotismo y pornografía sólo se puede definir en términos estéticos”."
+      },
+      {
+        "statement": "En el texto, el término ESCAMOTEAR significa",
+        "alternatives": [
+          "A) ignorar.",
+          "B) ac echar.",
+          "C) despojar.",
+          "D) birlar.",
+          "E) tergiversar."
+        ],
+        "correct": 0,
+        "rationale": "El autor dice: “Lo erótico consiste en dotar al acto sexual de un decorado, de una teatralidad para, sin escamotear el placer y el sexo, añadirle una dimensión artística”. En ese contexto, e scamotear equivale a ignorar."
+      }
+    ]
+  },
+  {
+    "type": "reading_comprehension",
+    "statement": "En un extraño curso denominado «Física di gital», Edward Fredkin expuso la más excéntrica de sus teorías: el universo es una computadora. Fredkin trabaja en una región nebulosa de la ciencia moderna: en la zona interfacial de la ciencia de la computación y la física. Aquí, dos conceptos que han figurado como fundamentos de la ciencia –la materia y la energía– se funden en un tercero: la información. Según la teoría de Fredkin, la información es más fundamental que la materia y la energía. Piensa que los átomos, electrones y quarks están constituidos primordialmente de bits, como los que comúnmente se utilizan en las computadoras personales. Cree, además, que el comportamiento de estos bits está gobernado por una sola regla de programación. Según Fredkin, esta regla es muy simple, aunque definitivamente más arcana que los constructos matemáticos que los físicos convencionales usan para explicar las fuerzas de la realidad física. Mediante una incesante repetición –a l tomar, incansablemente, información que ha sido transformada y que a su vez se transforma en una nueva– se ha generado una complejidad universal. Según Fredkin, la regla fundamental de pr ogramación describirá el mundo físico con precisión perfecta, dado que el universo es literalmente una computadora en tres dimensiones: una retícula cristalina de unidades lógicas interactuantes, cada una decidiendo un número astronómico de veces por segundo si estará prendida o apagada el siguiente punto en el tiempo. La información que se produce en consecuencia es el tejido de la realidad, la sustancia a partir de la cual se crea la materia y la energía.",
+    "questions": [
+      {
+        "statement": "¿Cuál es la mejor síntesis del texto?",
+        "alternatives": [
+          "A) Según Fredkin el universo es una computadora dado que funciona obedeciendo a una regla fundamental de programación.",
+          "B) En el curso de “Física digital” Fr edkin examinó computac ionalmente las leyes básicas de la materia y la energía.",
+          "C) El concepto capital de la ciencia física es la información con la que se pueden entender las fuerzas de la naturaleza.",
+          "D) Para entender bien el universo se requiere idear la metáfora de la computadora con sus reglas y bits de información.",
+          "E) Edward Fredkin ha desarrollado una i dea novedosa al unir los campos separados de la física y la ciencia de la computación."
+        ],
+        "correct": 0,
+        "rationale": "El texto nos informa de la tesis central de Fredkin (el universo es literalmente una computadora) y, luego, trata de explicar los términos básicos de la teoría (la arcana pero simple regla de programación)."
+      },
+      {
+        "statement": "En el texto, EXTRAÑO significa",
+        "alternatives": [
+          "A) ajeno.",
+          "B) súbito.",
+          "C) frenético.",
+          "D) absurdo.",
+          "E) extravagante."
+        ],
+        "correct": 4,
+        "rationale": "Extraño curso se refiere a una asi gnatura desacostumbrada o extravagante."
+      },
+      {
+        "statement": "Señale el enunciado incompatible con el texto.",
+        "alternatives": [
+          "A) La información es una categoría que subsume tanto la materia como la energía.",
+          "B) El universo como computadora es una red de cristales de unidades lógicas.",
+          "C) Según Fredkin, los átomos, electrones y quarks están compuestos de bits.",
+          "D) En términos computacionales, la información se organiza en forma de bits.",
+          "E) En la concepción de Fredkin, el universo se considera como bidimensional."
+        ],
+        "correct": 4,
+        "rationale": "Se dice en el texto que, para Fredkin, el universo es tridimensional."
+      }
+    ]
+  },
+  {
+    "type": "reading_comprehension",
+    "statement": "El autor dice: “Lo erótico consiste en dotar al acto sexual de un decorado, de una teatralidad para, sin escamotear el placer y el sexo, añadirle una dimensión artística”. En ese contexto, escamotear equivale a ignorar.",
+    "questions": [
+      {
+        "statement": "En el texto, el término ESCAMOTEAR significa",
+        "alternatives": [
+          "A) ignorar.",
+          "B) ac echar.",
+          "C) despojar.",
+          "D) birlar.",
+          "E) tergiversar."
+        ],
+        "correct": 0,
+        "rationale": "El autor dice: “Lo erótico consiste en dotar al acto sexual de un decorado, de una teatralidad para, sin escamotear el placer y el se xo, añadirle una dimensión artística”. En ese contexto, e scamotear equivale a ignorar."
+      },
+      {
+        "statement": "Se deduce del texto que el erotismo",
+        "alternatives": [
+          "A) es un instrumento procaz en literatura.",
+          "B) presupone un elevado nivel de cultura.",
+          "C) puede identificarse con la pornografía.",
+          "D) llegó a su cúspide en pleno siglo XX.",
+          "E) se compone de dosis de obscenidad."
+        ],
+        "correct": 1,
+        "rationale": "El erotismo es un enriquecimiento del acto sexual y de todo lo que lo rodea gracias a la cultura, gracias a la forma estética."
+      },
+      {
+        "statement": "Si la literatura erótica del siglo XX tuviese el carácter crítico de antaño, probablemente",
+        "alternatives": [
+          "A) el valor literario de los textos sería soslayado totalmente.",
+          "B) entrañaría, sin duda, una notable capacidad estética.",
+          "C) la exaltación del placer quedaría en un segundo plano.",
+          "D) las obras estarían plagadas de una serie de objeciones.",
+          "E) los hombres se verían liberados del yugo de la iglesia."
+        ],
+        "correct": 1,
+        "rationale": "Esa carga crítica viene acompañada de una gran audacia artística."
+      },
+      {
+        "statement": "De acuerdo con el autor es incompatible sostener que",
+        "alternatives": [
+          "A) la liberalidad de las costumbres ha jugado en contra de la literatura erótica.",
+          "B) hoy el erotismo se torna muy banal y predecible, un mero producto comercial.",
+          "C) los escritos de Georges Bataille son muy estéticos, pero muy convencionales.",
+          "D) una obra se considera pornográfica si carece de un adecuado nivel estético.",
+          "E) el erotismo enriquece el acto se xual, dado que le imprime un sello artístico."
+        ],
+        "correct": 2,
+        "rationale": "Bataille es un inconforme, atenta contra las convenciones."
+      }
+    ]
+  },
+  {
+    "type": "reading_comprehension",
+    "statement": "Extraño curso se refiere a una asi gnatura desacostumbrada o extravagante.",
+    "questions": [
+      {
+        "statement": "Señale el enunciado incompatible con el texto.",
+        "alternatives": [
+          "A) La información es una categoría que subsume tanto la materia como la energía.",
+          "B) El universo como computadora es una red de cristales de unidades lógicas.",
+          "C) Según Fredkin, los átomos, electrones y quarks están compuestos de bits.",
+          "D) En términos computacionales, la información se organiza en forma de bits.",
+          "E) En la concepción de Fredkin, el universo se considera como bidimensional."
+        ],
+        "correct": 4,
+        "rationale": "Se dice en el texto que, para Fredki n, el universo es tridimensional."
+      },
+      {
+        "statement": "Si los quarks no se pudiesen explicar con la regla fundamental de programación,",
+        "alternatives": [
+          "A) la idea de Fredkin se vería refutada.",
+          "B) los átomos serían los bits informáticos.",
+          "C) Fredkin seguiría teniendo la razón.",
+          "D) el universo sería como una computadora.",
+          "E) la física como ciencia sería imposible."
+        ],
+        "correct": 0,
+        "rationale": "Dado que es fundamental para el modelo de Fredkin dar cuenta del comportamiento de las distintas formas de materia, sería un fuerte contraejemplo que entrañaría la refutación del modelo."
+      },
+      {
+        "statement": "Para Fredkin la explicación de la complejidad del universo se hace en términos de una operación",
+        "alternatives": [
+          "A) aritmética.",
+          "B) intuitiva.",
+          "C) inductiva.",
+          "D) recursiva.",
+          "E) filosófica."
+        ],
+        "correct": 3,
+        "rationale": "La regla es muy simple, pero al aplicar se una y otra vez va transformando la información, en un proceso recursivo."
+      }
+    ]
+  },
+  {
+    "type": "verbal_series",
+    "statement": "1. Irrefragable, indudable, apodíctico,",
+    "alternatives": [
+      "A) asertivo.",
+      "B) inconcuso.",
+      "C) inope.",
+      "D) insigne.",
+      "E) deleznable."
+    ],
+    "correct": 1,
+    "rationale": "Serie verbal sinonímica que se proyecta coherentemente en ‘inconcuso’."
+  },
+  {
+    "type": "verbal_series",
+    "statement": "2. Loa, vituperio; nobleza, vileza; plétora, exigüidad;",
+    "alternatives": [
+      "A) abulia, taciturnidad.",
+      "B) murria, melancolía",
+      "C) puerilidad, nimiedad.",
+      "D) elocuencia, insolencia.",
+      "E) probidad, deshonestidad."
+    ],
+    "correct": 4,
+    "rationale": "Serie verbal fundada en la antonimia."
+  },
+  {
+    "type": "verbal_series",
+    "statement": "3. Bisoño, novel, inexperto,",
+    "alternatives": [
+      "A) ávido.",
+      "B) desmañado.",
+      "C) melifl uo.",
+      "D) insipiente.",
+      "E) tozudo."
+    ],
+    "correct": 1,
+    "rationale": "Serie verbal sinonímica que se proyecta en ‘bisoño’."
+  },
+  {
+    "type": "verbal_series",
+    "statement": "Serie verbal fundada en la antonimia. Clave: E 3. Bisoño, novel, inexperto,",
+    "alternatives": [
+      "A) ávido.",
+      "B) desmañado.",
+      "C) melifl uo.",
+      "D) insipiente.",
+      "E) tozudo."
+    ],
+    "correct": 1,
+    "rationale": "Serie verbal sinonímica que se proyecta en ‘bisoño’."
+  },
+  {
+    "type": "verbal_series",
+    "statement": "Serie verbal fundada en la antonimia. Clave: E 4. Determine la serie compuesta por tres sinónimos",
+    "alternatives": [
+      "A) domeñar, cooptar, abreviar",
+      "B) separar, transigir, ceder.",
+      "C) luchar, bregar, forcejear.",
+      "D) inquirir, impostar, escrutar.",
+      "E) incordiar, odiar, amistar"
+    ],
+    "correct": 2,
+    "rationale": "Por cuanto remiten a la acción de pelear."
+  },
+  {
+    "type": "verbal_series",
+    "statement": "Serie verbal fundada en la antonimia. Clave: E 5. Escoja el vocablo que no corresponde al campo semántico de los restantes. A) cejar B) pergeñar C) realizar D) hacer E) ejecutar",
+    "alternatives": [
+      "A) cejar",
+      "B) pergeñar",
+      "C) realizar",
+      "D) hacer",
+      "E) ejecutar"
+    ],
+    "correct": 0,
+    "rationale": "Cuatro palabras están relacionadas entre sí (la acción de hacer), excepto ‘cejar’."
+  },
+  {
+    "type": "verbal_series",
+    "statement": "Serie verbal fundada en la antonimia. Clave: E 6. Inconquistable, imbatible, invencible, A) ineluctable. B) imperdible. C) inescrutable. D) ininteligible. E) inexpugnable.",
+    "alternatives": [
+      "A) ineluctable.",
+      "B) imperdible.",
+      "C) inescrutable.",
+      "D) ininteligible.",
+      "E) inexpugnable."
+    ],
+    "correct": 4,
+    "rationale": "La serie hace referencia a lo que no se puede vencer o batir."
+  },
+  {
+    "type": "verbal_series",
+    "statement": "Serie verbal fundada en la antonimia. Clave: E 7. Prontitud, rapidez, presteza, A) celeridad. B) coherencia. C) actividad. D) reputación. E) ignición.",
+    "alternatives": [
+      "A) celeridad.",
+      "B) coherencia.",
+      "C) actividad.",
+      "D) reputación.",
+      "E) ignición."
+    ],
+    "correct": 0,
+    "rationale": "Serie de sinónimos referida a la rapidez, continúa celeridad."
+  },
+  {
+    "type": "verbal_series",
+    "statement": "Serie verbal fundada en la antonimia. Clave: E 8. Presumido, a rrogante, ufano, A) lujoso. B) insulso. C) orondo. D) fastuoso. E) circunspecto.",
+    "alternatives": [
+      "A) lujoso.",
+      "B) insulso.",
+      "C) orondo.",
+      "D) fastuoso.",
+      "E) circunspecto."
+    ],
+    "correct": 2,
+    "rationale": "Serie de sinónimos continúa orondo, que está satisfecho de sí mismo."
+  },
+  {
+    "type": "verbal_series",
+    "statement": "Presumido, a rrogante, ufano,",
+    "alternatives": [
+      "A) lujoso.",
+      "B) insulso.",
+      "C) orondo.",
+      "D) fastuoso.",
+      "E) circunspecto."
+    ],
+    "correct": 2,
+    "rationale": "Serie de sinónimos continúa orondo, que está satisfecho de sí mismo."
+  },
+  {
+    "type": "verbal_series",
+    "statement": "Párvulo, infante; austeridad, derroche; tunante, taimado;",
+    "alternatives": [
+      "A) negligencia, desidia",
+      "B) nefasto, ominoso",
+      "C) barullo, confusión",
+      "D) sicalíptico, lascivo",
+      "E) orden, behetría"
+    ],
+    "correct": 4,
+    "rationale": "Serie de sinónimos, antónimos, sinónimos, continúa un par de antónimos, orden y caos."
+  },
+  {
+    "type": "verbal_series",
+    "statement": "SEDICIOSO, INSURRECTO; ESTOICO, IMPASIBLE; ECUÁNIME, EQUITATIVO;",
+    "alternatives": [
+      "A) procaz, pertinaz.",
+      "B) intransigente, intolerante.",
+      "C) azorado, ensimismado.",
+      "D) vesánico, sensato.",
+      "E) voluble, ignaro."
+    ],
+    "correct": 1,
+    "rationale": "Serie compuesta por pares de sinónimos."
+  },
+  {
+    "type": "verbal_series",
+    "statement": "ALTRUISTA, BENEFACTOR, HUMANITARIO,",
+    "alternatives": [
+      "A) filántropo.",
+      "B) misántropo.",
+      "C) misógino.",
+      "D) visionario.",
+      "E) licántropo."
+    ],
+    "correct": 0,
+    "rationale": "La serie se completa con el sinónimo filántropo: \"Persona que se distingue por el amor a sus semejantes y por sus obras en bien de la comunidad.\""
+  },
+  {
+    "type": "verbal_series",
+    "statement": "Señale el término que no corresponde a la serie verbal.",
+    "alternatives": [
+      "A) Ínclito",
+      "B) Ilustre",
+      "C) conspicuo",
+      "D) perspicuo.",
+      "E) insigne."
+    ],
+    "correct": 3,
+    "rationale": "Perspicuo significa \"claro, transparente y terso\"."
+  }
+]

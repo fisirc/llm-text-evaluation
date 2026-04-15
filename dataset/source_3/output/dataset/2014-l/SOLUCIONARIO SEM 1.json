@@ -1,0 +1,838 @@
+[
+  {
+    "type": "reading_comprehension",
+    "statement": "La publicación esta semana en la revista Nature del descubrimiento de un nuevo planeta , el más cercano a la Tierra fuera del Sistema Solar ,por parte de un equipo europeo ha suscitado un gran interés. Este mundo, que orbita alrededor de la estrella Alpha Centauri B ,tiene una masa casi idéntica a la de la Tierra, un requisito fundamental para ser considerado un gemelo del nuestro, pero en poco más se parece. En realidad, reúne una serie de características que complicarían mucho una agradable estancia sobre el terreno. Su proximidad, está situado a solo 4,3 de años luz, astronómicamente una nadería, convierte al nuevo exoplaneta en un interesante objeto de estudio. La luz que refleja podría permitirnos descubrir y analizar una posible atmósfera e incluso conocer de qué se compone su superficie, características que nunca antes se habían podido observar en mundos tan pequeños y cercanos. Pero si alguna vez consiguiéramos enviar astronautas hasta allí – algo ahora imposible, dado que un solo año luz equivale a 9,6 billones de km. –,",
+    "questions": [
+      {
+        "statement": "¿Cuál es el tema central del texto?",
+        "alternatives": [
+          "A) La maravillosa Tierra y el estudio de su incompatible gemelo celeste",
+          "B) La temperatura de la superficie de un exoplaneta recientemente hallado",
+          "C) La duración del tránsito de un exoplaneta frente a su estrella",
+          "D) Planetas de tamaños parecidos al terrestre y potencialmente habitables",
+          "E) El descubrimiento de un exoplaneta más cercano a la Tierra"
+        ],
+        "correct": 4,
+        "rationale": "SOLUCIÓN: E . El exoplaneta es uno de los más cercanos detectados hasta la fecha"
+      }
+    ]
+  },
+  {
+    "type": "reading_comprehension",
+    "statement": "No sabemos con qué vínculos los antiguos retenían a los planetas en los espacios regularmente en sus órbitas. Creo que para explicar esto se inventaron las esferas sólidas. Los filósofos más recientes o piensan que son los vórtices, como Kepler o Descartes, o algún otro impulso o principio de atracción, como Borelli, Hooke y otros de entre los nuestros. Por la ley primera del movimiento es absolutamente cierto que se requiere alguna fuerza. Es nuestro propósito elucidar su cantidad y propiedades e investigar matemáticamente los efectos en los cuerpos en movimiento; por tanto, para no determinar su especie de manera hipotética, la hemos denominado centrípeta con un nombre genérico, por cuanto tiende a un centro o también, tomando el nombre del centro, circunsolar a la que tiende al Sol; circunterrestre a la que tiende a la Tierra; circunjovial a la que tiende a Júpiter, y así en los demás.",
+    "questions": [
+      {
+        "statement": "¿Cuál es la idea principal del texto?",
+        "alternatives": [
+          "A) El denominado movimiento circunjovial es un movimiento centrípeto.",
+          "B) La hipótesis de un principio de atracción es esencial para los planetas.",
+          "C) Los planetas se mantienen suspendidos en virtud de la fuerza de vórtices.",
+          "D) En el espacio, los planetas giran con bastante regularidad en sus órbitas.",
+          "E) El movimiento de los planetas requiere de una fuerza llamada centrípeta."
+        ],
+        "correct": 4,
+        "rationale": "SOLUCIÓN: E . Newton explica la naturaleza de la fuerza centrípeta para superar las ideas de los antiguos."
+      }
+    ]
+  },
+  {
+    "type": "reading_comprehension",
+    "statement": "Durante el debate del Congreso de Estados Unidos sobre los proyectos de ley para prohibir la clonación humana, en 2001, el congresista Tred Strickland, de Ohio, insistió en que debemos guiarnos estrictamente por las mejores fuentes científicas disponibles y en que «no debemos permitir que la teología, la filosofía ola política influyan en la decisión que tomemos al respecto». Muchos estarían de acuerdo con tal declaración. Las encuestas realizadas en la mayoría de los países demuestran que el público tiene mejor opinión de los científicos que de los políticos, por no decir de los teólogos y de los filósofos. Los legisladores, como bien sabemos, son aficionados a la pose, la exageración, la anécdota, el puñetazo en la mesa y la condescendencia. Con frecuencia actúan y hablan desde la ignorancia y suelen estar muy influidos por grupos de presión e intereses fuertemente afianzados. ¿Por qué deben ellos, no la desinteresada comunidad científica, tener la última palabra sobre cuestiones técnicas y complejas como la biotecnología? Los intentos de los políticos por limitar aquello que los científicos hacen en su propio ámbito traen a la memoria la Iglesia Católica medieval, que tachó a Galileo de hereje por afirmar que la Tierra giraba alrededor del Sol. Desde los tiempos de Francis Bacon, la investigación científica se ha visto como una actividad intrínsecamente legítima que sirve a los intereses generales de la humanidad. Esta perspectiva, por desgracia, no es correcta. La ciencia no puede, por sí misma, establecer los fines a cuya consecución se consagra. Puede descubrir vacunas y curas para las enfermedades, pero también puede crear agentes infecciosos; puede revelar la física de los semiconductores, pero también la física de la bomba de hidrógeno. A la ciencia, en cuanto ciencia, no le importa si la",
+    "questions": [
+      {
+        "statement": "¿Cuál es la idea principal del texto?",
+        "alternatives": [
+          "A) Los fines de la ciencia se pueden establecer solo desde la filosofía.",
+          "B) La ciencia, en cuanto ciencia, está más allá de los intereses particulares.",
+          "C) La regulación de la biotecnología se debe hacer con criterio político.",
+          "D) El público suele creer que la ciencia se ciñe a la objetividad racional.",
+          "E) La biotecnología no es buena ni mala, depende de cómo sea utilizada."
+        ],
+        "correct": 2,
+        "rationale": "SOLUCIÓN: C. Frente a la propuesta de un político norteamericano, el autor esgrime su clara posición en contra de la tecnocracia."
+      }
+    ]
+  },
+  {
+    "type": "reading_comprehension",
+    "statement": "En la civilización del espectáculo es normal y casi obligatorio que la cocina y la moda ocupen buena parte de las secciones dedicadas a la cultura y que los “chefs” y los “modistos” y “modistas” tengan en nuestros días el protagonismo que antes tenían los científicos, los compositores y los filósofos. Los hornillos y los fogones y las pasarelas se confunden dentro de las coordenadas culturales de la época con los libros, los conciertos, los laboratorios y las óperas, así como las estrellas de la televisión ejercen una influencia sobre las costumbres, los gustos y las modas que antes tenían los profesores, los pensadores y (antes todavía) los teólogos. Hace medio siglo, probablemente en Estados Unidos era un Edmund Wilson, en sus artículos de The New Yorker o The New Republic ,quien decidía el fracaso o el éxito de un libro de poemas, una novela o un ensayo. Hoy son los programas televisivos de Oprah Winfrey. No digo que esté mal que sea así. Digo simplemente que es así. El vacío dejado por la desaparición de la crítica ha permitido que, insensiblemente, lo haya llenado la publicidad, convirtiéndose esta en nuestros días no sólo en parte constitutiva de la vida cultural sino en su vector determinante. La publicidad ejerce una influencia decisiva en los gustos, la sensibilidad, la imaginación y las costumbres y de este modo la función que antes tenían, en este campo, los sistemas filosóficos, las creencias religiosas, las ideologías y doctrinas y aquellos mentores que en Francia se conocía com o los mandarines de una época, hoy la cumplen los anónimos “creativos” de las agencias publicitarias. Era en cierta forma obligatorio que así ocurriera a partir del momento en que la obra literaria y artística pasó a ser considerada un producto comercial que jugaba su supervivencia o su extinción nada más y nada menos que en los vaivenes desfilar en las pasarelas de París o los experimentos de la nouvelle cuisine alcanzan el estatuto de ciudadanos honorarios de la alta cultura.",
+    "questions": [
+      {
+        "statement": "Fundamentalmente, el texto trata sobre",
+        "alternatives": [
+          "A) la frivolidad, una forma de entender el mundo actual.",
+          "B) la diversión como referente de la desintegración cultural .",
+          "C) las nuevas propuestas literarias y artísticas en España.",
+          "D) la desaparición de la crítica y la influencia de la publicidad.",
+          "E) las técnicas publicitarias más utilizadas en nuestro tiempo."
+        ],
+        "correct": 3,
+        "rationale": "SOLUCIÓN D: En la civilización del espectáculo es normal y casi obligatorio que la cocina y la moda ocupen buena parte de las secciones dedicadas a la cultura y que los “chefs” y los “modistos” y “modistas” tengan en nuestros días el protagonismo que antes tenían los científicos, los compositores y los filósofos."
+      }
+    ]
+  },
+  {
+    "type": "reading_comprehension",
+    "statement": "Si Odiseo es un simulador, todo el relato que le hace al rey de los feacios puede ser falso. De hecho, sus aventuras marinas concentradas en cuatro cantos centrales de la Odisea, en una rápida sucesión de encuentros con seres fantásticos como el cíclope Polifemo, todos los vientos encerrados en un odre, los encantamientos y pócimas de Circe, el canto de las sirenas, los monstruos marinos como Caribdis y Escila contrastan con el resto del poema, en el que dominan los tonos graves, la tensión psicológica y dramática, que culmina en un final admirable y épico: la reconquista del reino y de Penélope, asediada por los pretendientes. Aquí también se encuentran motivos comunes a los de los cuentos populares, como la tela de Penélope y la prueba de tiro al arco, pero estamos en un terreno más cercano a los criterios modernos de realismo y verosimilitud, ya que las intervenciones sobrenaturales tienen que ver solamente con las apariciones de los dioses del Olimpo, habitualmente ocultos bajo apariencia humana. Según Alfred Heubeck, antes de la Odisea (incluida la Iliada ), Odiseo siempre había sido un héroe épico y los héroes épicos, como Aquiles y Héctor en la Iliada ,no tienen aventuras del tipo de las de Odiseo o de los cuentos populares, basadas en monstruos marinos y encantamientos. Pero el autor de la Odisea tiene que mantener a Odiseo lejos de casa y de Ítaca durante diez años, desaparecido, inhallable para los familiares y los ex compañeros de armas. Para ello debe hacerlo salir del mundo conocido y pasarlo a otra geografía, a un mundo extrahumano, a un más allá (no por nada, sus viajes culminan con la visita al país de los muertos, el Hades). Para este destierro fuera de los territorios de la épica, el autor de la Odisea recurre a tradiciones (éstas, sí, más arcaicas) como la empresa de Jasón y los argonautas. Por tanto, la novedad de la Odisea es haber enfrentado a un héroe como Odiseo con hechiceras y gigantes, con monstruos y devoradores de hombres, es decir, con situaciones de un tipo de saga más arcaica, cuyas raíces han de buscarse en el mundo de la antigua fábula y, directamente, en primitivas concepciones mágicas y chamánicas. Y es aquí donde el autor de la Odisea muestra, según Heubeck, su verdadera modernidad, la que nos lo vuelve cercano, universal y actual: Si tradicionalmente el héroe épico era un paradigma de virtudes aristocráticas y militares, Odiseo es todo esto, pero, además, es el hombre que soporta las experiencias más duras, los esfuerzos, el dolor y la soledad. Es cierto que él también arrastra a su público a un mítico mundo de sueños, pero ese mundo de sueños se convierte en la imagen especular del mundo en que vivimos, donde dominan la necesidad, la angustia, el terror y el dolor, y donde el hombre está inmerso sin posibilidad de escape.",
+    "questions": [
+      {
+        "statement": "Respecto de Odiseo, principalmente, el autor destaca que",
+        "alternatives": [
+          "A) nutre su heroísmo de mitos primitivos.",
+          "B) se construye de elementos modernos.",
+          "C) siempre dice la verdad y toda la verdad.",
+          "D) se define por su discurso sarcástico.",
+          "E) es un personaje dependiente de los dioses."
+        ],
+        "correct": 1,
+        "rationale": "SOLUCIÓN B: En el texto se propone que lo más destacado de Odisea es precisamente el carácter moderno de la constitución de su personaje."
+      }
+    ]
+  },
+  {
+    "type": "sentence_elimination",
+    "statement": "1. I) Los cefalópodos constituyen uno de los grupos de moluscos más importantes y populares. II) Además, son los animales invertebrados más evolucionados del planeta. III) La evolución es un proceso que puede seguir líneas im pensadas por los científicos más sagaces. IV) Los cefalópodos son todos marinos, con cabeza voluminosa y ojos muy desarrollados. V) Los cefalópodos poseen tentáculos que pueden alcanzar gran longitud, como es el caso del pulpo.",
+    "alternatives": [
+      "A) V",
+      "B) III",
+      "C) IV",
+      "D) II",
+      "E) I"
+    ],
+    "correct": 0,
+    "rationale": "SOLUCIÓN: V es inatingente, el tema es los cefalópodos."
+  },
+  {
+    "type": "sentence_elimination",
+    "statement": "2. I) Los pulmones son dos órganos lobulares que realizan el intercambio gaseoso con el medio. II) Este intercambio consiste en el ingreso del oxígeno y la expulsión del dióxido de carbono. III ) Los pulmones están contenidos en la caja torácica. IV) Se encuentran suspendidos por la tráquea, a la altura del corazón. V) Son penetrados por los bronquios, los cuales se ramifican dentro de ellos.",
+    "alternatives": [
+      "A) I",
+      "B) V",
+      "C) II",
+      "D) III",
+      "E) IV"
+    ],
+    "correct": 2,
+    "rationale": "SOLUCIÓN: II es ina tingente, el tema es los pulmones."
+  },
+  {
+    "type": "sentence_elimination",
+    "statement": "3. I) Las quemaduras son lesiones cutáneas producidas por el fuego, radiaciones, líquido caliente, etc. II) Las quemaduras se clasifican en tres tipos. III) Las quemaduras de primer grado dejan la piel enrojecida. IV) Las de segundo grado forman ampollas. V) Las quemaduras de tercer grado generan muerte celular y carbonización.",
+    "alternatives": [
+      "A) I",
+      "B) IV",
+      "C) III",
+      "D) II",
+      "E) V"
+    ],
+    "correct": 3,
+    "rationale": "SOLUCIÓN: II es redundante, se desarrolla en III, IV y V."
+  },
+  {
+    "type": "sentence_elimination",
+    "statement": "4. I) El queso se elabora con leche de vaca, pero también se utiliza la leche de oveja y cabra. II) Para la preparación de queso es necesario que la leche se coagule con ácido láctico para obtener suero. III) Este suero se somete a distintos procedimientos y luego se almacena. IV) Se pueden añadir en esta etapa diversos microorganismos para obtener quesos blandos. V) Con el tiempo, el queso obtiene el aroma, textura y color característicos.",
+    "alternatives": [
+      "A) V",
+      "B) III",
+      "C) II",
+      "D) IV",
+      "E) I"
+    ],
+    "correct": 4,
+    "rationale": "SOLUCIÓN: I es inatingente, el tema es la elaboración de los quesos."
+  },
+  {
+    "type": "sentence_elimination",
+    "statement": "5. I) Las pinturas rupestres son dibujos realizados sobre una superficie pétrea. II) Son obra de cazadores que hace 20 o 30 milenios habitaban la Tierra. III) En estas pinturas se representa a los animales de caza de la época. IV) Las pinturas rupestres reflejan, por lo general, el movimiento de los animales. V) Los bisontes, caballos salvajes, renos y ciervos fueron muy cazados durante el Paleolítico.",
+    "alternatives": [
+      "A) III",
+      "B) II",
+      "C) I",
+      "D) V",
+      "E) IV"
+    ],
+    "correct": 3,
+    "rationale": "SOLUCIÓN: V es inatingente."
+  },
+  {
+    "type": "sentence_elimination",
+    "statement": "6. I) La basílica de Santa Sofía destaca por sus diferentes elementos arquitectónicos. II) Las ventanas abiertas de la basílica de Santa Sofía parecen poner en movimiento los rayos del sol. III) El exterior de la basílica es compacto y macizo, y proporciona una visión de profundo impacto estético. IV) La inmensa cúpula de la basílica de Santa Sofía crea una sensación extraordinaria de gran espacio. V) Sus muros están cubiertos con mármol y adornados con hermosos mosaicos.",
+    "alternatives": [
+      "A) V",
+      "B) II",
+      "C) I",
+      "D) III",
+      "E) IV"
+    ],
+    "correct": 2,
+    "rationale": "SOLUCIÓN: I es redundante, está desarrollada en las demás oraciones."
+  },
+  {
+    "type": "sentence_elimination",
+    "statement": "I) Los cefalópodos constituyen uno de los grupos de moluscos más importantes y populares. II) Además, son los animales invertebrados más evolucionados del planeta. III) La evolución es un proceso que puede seguir líneas im pensadas por los científicos más sagaces. IV) Los cefalópodos son todos marinos, con cabeza voluminosa y ojos muy desarrollados. V) Los cefalópodos poseen tentáculos que pueden alcanzar gran longitud, como es el caso del pulpo.",
+    "alternatives": [
+      "A) V",
+      "B) III",
+      "C) IV",
+      "D) II",
+      "E) I"
+    ],
+    "correct": 0,
+    "rationale": "V es inatingente, el tema es los cefalópodos."
+  },
+  {
+    "type": "sentence_elimination",
+    "statement": "I) Los pulmones son dos órganos lobulares que realizan el intercambio gaseoso con el medio. II) Este intercambio consiste en el ingreso del oxígeno y la expulsión del dióxido de carbono. III) Los pulmones están contenidos en la caja torácica. IV) Se encuentran suspendidos por la tráquea, a la altura del corazón. V) Son penetrados por los bronquios, los cuales se ramifican dentro de ellos.",
+    "alternatives": [
+      "A) I",
+      "B) V",
+      "C) II",
+      "D) III",
+      "E) IV"
+    ],
+    "correct": 2,
+    "rationale": "II es ina tingente, el tema es los pulmones."
+  },
+  {
+    "type": "sentence_elimination",
+    "statement": "I) Las quemaduras son lesiones cutáneas producidas por el fuego, radiaciones, líquido caliente, etc. II) Las quemaduras se clasifican en tres tipos. III) Las quemaduras de primer grado dejan la piel enrojecida. IV) Las de segundo grado forman ampollas. V) Las quemaduras de tercer grado generan muerte celular y carbonización.",
+    "alternatives": [
+      "A) I",
+      "B) IV",
+      "C) III",
+      "D) II",
+      "E) V"
+    ],
+    "correct": 3,
+    "rationale": "II es redundante, se desarrolla en III, IV y V."
+  },
+  {
+    "type": "sentence_elimination",
+    "statement": "I) El queso se elabora con leche de vaca, pero también se utiliza la leche de oveja y cabra. II) Para la preparación de queso es necesario que la leche se coagule con ácido láctico para obtener suero. III) Este suero se somete a distintos procedimientos y luego se almacena. IV) Se pueden añadir en esta etapa diversos microorganismos para obtener quesos blandos. V) Con el tiempo, el queso obtiene el aroma, textura y color característicos.",
+    "alternatives": [
+      "A) V",
+      "B) III",
+      "C) II",
+      "D) IV",
+      "E) I"
+    ],
+    "correct": 4,
+    "rationale": "I es inatingente, el tema es la elaboración de los quesos."
+  },
+  {
+    "type": "sentence_elimination",
+    "statement": "I) Las pinturas rupestres son dibujos realizados sobre una superficie pétrea. II) Son obra de cazadores que hace 20 o 30 milenios habitaban la Tierra. III) En estas pinturas se representa a los animales de caza de la época. IV) Las pinturas rupestres reflejan, por lo general, el movimiento de los animales. V) Los bisontes, caballos salvajes, renos y ciervos fueron muy cazados durante el Paleolítico.",
+    "alternatives": [
+      "A) III",
+      "B) II",
+      "C) I",
+      "D) V",
+      "E) IV"
+    ],
+    "correct": 3,
+    "rationale": "V es inatingente."
+  },
+  {
+    "type": "sentence_elimination",
+    "statement": "I) La basílica de Santa Sofía destaca por sus diferentes elementos arquitectónicos. II) Las ventanas abiertas de la basílica de Santa Sofía parecen poner en movimiento los rayos del sol. III) El exterior de la basílica es compacto y macizo, y proporciona una visión de profundo impacto estético. IV) La inmensa cúpula de la basílica de Santa Sofía crea una sensación extraordinaria de gran espacio. V) Sus muros están cubiertos con mármol y adornados con hermosos mosaicos.",
+    "alternatives": [
+      "A) V",
+      "B) II",
+      "C) I",
+      "D) III",
+      "E) IV"
+    ],
+    "correct": 2,
+    "rationale": "I es redundante, está desarrollada en las demás oraciones."
+  },
+  {
+    "type": "reading_comprehension",
+    "statement": "El nacionalismo no es una doctrina política sino una ideología y está más cerca del acto de fe en que se fundan las religiones que de la racionalidad que es la esencia de los debates de la cultura democrática . Eso explica que el Presidente Artur Mas pueda comparar su campaña soberanista con la lucha por los derechos civiles de Martin Luther King en los Estados Unidos sin que sus partidarios se le rían en la cara. O que la televisión catalana exhiba en sus pantallas a unos niños adoctrinados proclamando, en estado de trance, que a la larga “España será derrotada”, sin que una opinión pública se indigne ante semejante manipulación. El nacionalismo es una construcción artificial que, sobre todo en tiempos difícil es, como los que vive España, puede prender rápidamente, incluso en las sociedades más cultas –y tal vez Cataluña sea la comunidad más culta de España– por obra de demagogos o fanáticos en cuyas manos “el país opresor” es el chivo expiatorio de todo aquello que anda mal, de la falta de trabajo, de los altos impuestos, de la corrupción, de la discriminación, etcétera, etcétera. Y la panacea para salir de ese infierno es, claro está, la independencia. ¿Por qué semejante maraña de tonterías, lugares comunes, flagrantes mentiras puede llegar a constituir una verdad política y a persuadir a millones de personas? Porque los gobiernos españoles, de derecha o de izquierda, han mantenido ante el nacionalismo un extraño complejo de inferioridad. Los de derechas, para no ser acusados de franquistas y fascistas, y los de izquierda porque, en una de las retractaciones ideológicas más lastimosas de la vida moderna, han legitimado el nacionalismo como una fuerza progresista y democrática, con el que no han tenido el menor reparo en aliarse para compartir el poder aun a costa de concesiones irreparables. Así hemos llegado a la sorprendente situación actual. En la que el nacionalismo catalán crece y es dueño de la agenda política, en tanto que sus adversarios brillan por su ausencia, aunque representen una mayoría inequívoca del electorado nacional y seguramente catalán. Lo peor, desde luego, es que quienes se atreven a salir a enfrentarse a cara descubierta a los nacionalistas sean grupúsculos fascistas, como los que asaltaron la librería Blanquerna de Madrid hace unos días, o viejos paquidermos del antiguo régimen que hablan de “España y sus esencias”, a la manera falangista. Con enemigos así, claro, quién no es nacionalista. Al nacionalismo no hay que combatirlo desde el fascismo porque el fascismo nació, creció, sojuzgó naciones, provocó guerras mundiales y matanzas vertiginosas en nombre del nacionalismo, es decir, de un dogma incivil y retardatario que quiere regresar al individuo soberano de la cultura democrática a la época antediluviana de la tribu, cuando el individuo no existía y era solo parte del conjunto, un mero epifenómeno de la colectividad, sin vida propia. Pertenecer a una nación no es ni puede ser un valor ni un privilegio, porque creer que sí lo es deriva siempre en xenofobia y racismo, como ocurre siempre a la corta o a la larga con todos los movimientos nacionalistas. Y, por eso, el nacionalismo está reñido con la libertad del individuo, la más importante conquista de la historia, que dio al ciudadano la prerrogativa de elegir su propio destino – su cultura, su religión, su vocación, su lengua, su domicilio, su identidad sexual – y de coexistir con los demás, siendo distinto a los otros, sin ser discriminado ni penalizado por ello.",
+    "questions": [
+      {
+        "statement": "1. Principalmente, el autor del texto asevera que",
+        "alternatives": [
+          "A) el nacionalismo catalán, más próximo al acto de fe que a la cultura democrática, hay que combatirlo, como a todo nacionalismo, en nombre de la libertad.",
+          "B) el nacionalismo es una construcción artificial que en tiempos violentos puede prender rápidamente, incluso en las sociedades más cultas.",
+          "C) el nacionalismo español crece y es dueño de la agenda política, en tanto que sus adversarios brillan por su ausencia.",
+          "D) el derecho a decidir si Cataluña se separa de España solo puede ejercerlo quien es depositaria de la soberanía nacional: la realeza española.",
+          "E) si hubiera una minoría clara de catalanes que quiere la independencia, sería más sensato (y menos peligroso) concedérsela que negársela."
+        ],
+        "correct": 0,
+        "rationale": "A partir del independentismo catalán, el autor reflexiona sobre el nacionalismo."
+      },
+      {
+        "statement": "Del texto se infiere que el derecho a decidir se halla vinculado fundamentalmente con la",
+        "alternatives": [
+          "A) honestidad.",
+          "B) autocracia.",
+          "C) legalidad.",
+          "D) autonomía.",
+          "E) política."
+        ],
+        "correct": 3,
+        "rationale": "El nacionalismo está reñido con la libertad del individuo, la más importante conquista de la historia, que dio al ciudadano la prerrogativa de elegir su propio destino."
+      },
+      {
+        "statement": "Según el autor ,resulta incompatible aseverar que",
+        "alternatives": [
+          "A) el gran desafío de España más que la crisis económica es el nacionalismo.",
+          "B) el nacionalismo atrae a los nostálgicos del fascismo y el comunismo.",
+          "C) el caso más extremado de nacionalismo es el nacionalismo cultural.",
+          "D) las guerras mundiales y los millones de muertos son producto del nacionalismo.",
+          "E) la sumisión a la tribu propicia la responsabilidad de ser una persona soberana."
+        ],
+        "correct": 4,
+        "rationale": "El nacionalismo es un dogma incivil y retardatario que quiere regresar al individuo soberano de la cultura democrática a la época antediluviana de la tribu."
+      },
+      {
+        "statement": "En el texto, el término PANACEA puede ser reemplazado por",
+        "alternatives": [
+          "A) medicina.",
+          "B) atributo.",
+          "C) esencia.",
+          "D) solución.",
+          "E) estrategia."
+        ],
+        "correct": 3,
+        "rationale": "En este caso se trata de buscar una solución eficaz para resolver el problema."
+      },
+      {
+        "statement": "En el texto, la expresión ESTADO DE TRANCE hace referencia",
+        "alternatives": [
+          "A) a la suspensión del juicio.",
+          "B) a un momento crítico y decisivo.",
+          "C) al liberalismo salvaje.",
+          "D) a atribuciones delirantes.",
+          "E) a un éxtasis místico."
+        ],
+        "correct": 0,
+        "rationale": "Ilustra el adoctrinamiento de pequeños catalanes."
+      }
+    ]
+  },
+  {
+    "type": "reading_comprehension",
+    "statement": "Garcilaso (1539- 1616) escribió los Comentarios reales para ofrecer una visión diferente y en abierta contradicción con la leyenda negra que sobre el imperio incaico habían forjado aquellos que, como Ginés de Sepúlveda, consideraban a los indios como bárbaros o monos. Cuando Garcilaso llegó a España en 1561, estaba fresco el debate sobre la ética de la conquista que siguió a las denuncias llegadas de América de los terribles abusos cometidos por los españoles. Conoció seguramente el debate en la Universidad de Salamanca y leyó a Bartolomé de las Casas, Ginés de Sepúlveda, Francisco de Vitoria y otros. Garcilaso no los cita ni discute con ellos, porque, probablemente, prefería evitar una confrontación que podría haberle causado más problemas de los muchos que ya había tenido en España; sin embargo, es indudable que los tuvo en cuenta y ofreció un texto importantísimo para conocer la sociedad inca sin todos los prejuicios racistas y etnocéntricos de los justificadores de la conquista. Garcilaso hizo un trabajo de historia con solvencia y brillantez en un combate a favor de los indios de América. No fue un historiador neutro, votó a favor de los incas y los presentó como gestores de una gran civilización, justa y de grandes adelantos. Los españoles y europeos que leyeron los Comentarios reales vieron una versión opuesta a capaz de percibir hechos de tamaña magnitud, ser testigo, único testigo, de sucesos de tan colosal importancia, supone algo más que un cronista. Supone a un verdadero genio de la historia, como lo fue el Inca Garcilaso de la Vega”.",
+    "questions": [
+      {
+        "statement": "1. En el texto, el término VISIÓN, que alude a la leyenda negra, equivale a",
+        "alternatives": [
+          "A) sucesión",
+          "B) versión",
+          "C) ilusión",
+          "D) reflexión",
+          "E) retrato"
+        ],
+        "correct": 1,
+        "rationale": "Una visión diferente se refiere a los Comentarios que es una versión “diferente y en abierta contradicción con la leyenda negra que sobre el imperio incaico.”"
+      },
+      {
+        "statement": "2. El autor expone principalmente la idea de que Garcilaso",
+        "alternatives": [
+          "A) pese a tener interés, no se involucró en el debate que se desarrolló en las aulas de la Universidad de la Salamanca.",
+          "B) en los Comentarios reales , condenó abiertamente a Ginés de Sepúlveda por haber forjado la leyenda negra sobre los indios.",
+          "C) escribió los Comentarios reales con solvencia y brillantez que lo encumbró como un genio de la historia.",
+          "D) escribió los Comentarios reales para hacer conocer a los incas como gestores de una gran civilización.",
+          "E) fue el único testigo del proceso de transición a la sociedad colonial; por ello, escribió los Comentarios reales."
+        ],
+        "correct": 3,
+        "rationale": "La idea que destaca en el texto es que Garcilaso escribió los Comentarios para presentar a los incas como gestores de una gran civilización, en contra de la leyenda negra que presentaba a los indios como bárbaros o monos."
+      },
+      {
+        "statement": "3. Se infiere que la “verdad oficial” que pretendía imponer la corona española",
+        "alternatives": [
+          "A) había sido confrontada con la realidad americana.",
+          "B) fue difundida por todos los intelectuales españoles.",
+          "C) solo se conocía en los círculos del poder español.",
+          "D) puso fin al debate en la Universidad de Salamanca.",
+          "E) coincidía con la versión de Ginés de Sepúlveda."
+        ],
+        "correct": 4,
+        "rationale": "Pues, como ésta, la “verdad oficial” justificaba la conquista."
+      },
+      {
+        "statement": "4. Si Garcilaso hubiera asumido una posición neutral en sus Comentarios reales ,",
+        "alternatives": [
+          "A) habría reconocido la grandeza tanto de la cultura inca como de la española.",
+          "B) habría escrito con más objetividad acerca de los hechos de la conquista.",
+          "C) su obra se habría convertido en la “historia oficial” de la corona española.",
+          "D) su obra habría circulado libremente en los dominios de la corona española.",
+          "E) su obra habría sido considerado como una historia justificadora de la conquista."
+        ],
+        "correct": 0,
+        "rationale": "Así habría obrado de no haberse parcializado con los incas ni con los españoles."
+      },
+      {
+        "statement": "5. Es incompatible con el texto sostener que",
+        "alternatives": [
+          "A) existen pasajes de los Comentarios reales que son incuestionables.",
+          "B) Garcilaso es genial porque fue testigo de la grandeza de los incas.",
+          "C) Durand reconoce en Garcilaso su genialidad como historiador.",
+          "D) el contenido de la “verdad oficial” era racista y etnocéntrica.",
+          "E) la leyenda negra sobre el incario fue una versión no neutral."
+        ],
+        "correct": 1,
+        "rationale": "Garcilaso es un historiador genial porque fue capaz de percibir el clima espiritual y el vigoroso sentimiento de todo lo que significó el tránsito cruel entre dos épocas :de los incas al colonialismo."
+      }
+    ]
+  },
+  {
+    "type": "reading_comprehension",
+    "statement": "Garcilaso (1539- 1616) escribió los Comentarios reales para ofrecer una visión diferente y en abierta contradicción con la leyenda negra que sobre el imperio incaico habían forjado aquellos que, como Ginés de Sepúlveda, consideraban a los indios como bárbaros o monos. Cuando Garcilaso llegó a España en 1561, estaba fresco el debate sobre la ética de la conquista que siguió a las denuncias llegadas de América de los terribles abusos cometidos por los españoles. Conoció seguramente el debate en la Universidad de Salamanca y leyó a Bartolomé de las Casas, Ginés de Sepúlveda, Francisco de Vitoria y otros. Garcilaso no los cita ni discute con ellos, porque, probablemente, prefería evitar una confrontación que podría haberle causado más problemas de los muchos que ya había tenido en España; sin embargo, es indudable que los tuvo en cuenta y ofreció un texto importantísimo para conocer la sociedad inca sin todos los prejuicios racistas y etnocéntricos de los justificadores de la conquista. Garcilaso hizo un trabajo de historia con solvencia y brillantez en un combate a favor de los indios de América. No fue un historiador neutro, votó a favor de los incas y los presentó como gestores de una gran civilización, justa y de grandes adelantos. Los españoles y europeos que leyeron los Comentarios reales vieron una versión opuesta a capaz de percibir hechos de tamaña magnitud, ser testigo, único testigo, de sucesos de tan colosal importancia, supone algo más que un cronista. Supone a un verdadero genio de la historia, como lo fue el Inca Garcilaso de la Vega”.",
+    "questions": [
+      {
+        "statement": "1. En el texto, el término VISIÓN, que alude a la leyenda negra, equivale a",
+        "alternatives": [
+          "A) sucesión",
+          "B) versión",
+          "C) ilusión",
+          "D) reflexión",
+          "E) retrato"
+        ],
+        "correct": 1,
+        "rationale": "Una visión diferente se refiere a los Comentarios que es una versión “diferente y en abierta contradicción con la leyenda negra que sobre el imperio incaico.”"
+      },
+      {
+        "statement": "2. El autor expone principalmente la idea de que Garcilaso",
+        "alternatives": [
+          "A) pese a tener interés, no se involucró en el debate que se desarrolló en las aulas de la Universidad de la Salamanca.",
+          "B) en los Comentarios reales , condenó abiertamente a Ginés de Sepúlveda por haber forjado la leyenda negra sobre los indios.",
+          "C) escribió los Comentarios reales con solvencia y brillantez que lo encumbró como un genio de la historia.",
+          "D) escribió los Comentarios reales para hacer conocer a los incas como gestores de una gran civilización.",
+          "E) fue el único testigo del proceso de transición a la sociedad colonial; por ello, escribió los Comentarios reales."
+        ],
+        "correct": 3,
+        "rationale": "La idea que destaca en el texto es que Garcilaso escribió los Comentarios para presentar a los incas como gestores de una gran civilización, en contra de la leyenda negra que presentaba a los indios como bárbaros o monos."
+      },
+      {
+        "statement": "3. Se infiere que la “verdad oficial” que pretendía imponer la corona española",
+        "alternatives": [
+          "A) había sido confrontada con la realidad americana.",
+          "B) fue difundida por todos los intelectuales españoles.",
+          "C) solo se conocía en los círculos del poder español.",
+          "D) puso fin al debate en la Universidad de Salamanca.",
+          "E) coincidía con la versión de Ginés de Sepúlveda."
+        ],
+        "correct": 4,
+        "rationale": "Pues, como ésta, la “verdad oficial” justificaba la conquista."
+      },
+      {
+        "statement": "4. Si Garcilaso hubiera asumido una posición neutral en sus Comentarios reales ,",
+        "alternatives": [
+          "A) habría reconocido la grandeza tanto de la cultura inca como de la española.",
+          "B) habría escrito con más objetividad acerca de los hechos de la conquista.",
+          "C) su obra se habría convertido en la “historia oficial” de la corona española.",
+          "D) su obra habría circulado libremente en los dominios de la corona española.",
+          "E) su obra habría sido considerado como una historia justificadora de la conquista."
+        ],
+        "correct": 0,
+        "rationale": "Así habría obrado de no haberse parcializado con los incas ni con los españoles."
+      },
+      {
+        "statement": "5. Es incompatible con el texto sostener que",
+        "alternatives": [
+          "A) existen pasajes de los Comentarios reales que son incuestionables.",
+          "B) Garcilaso es genial porque fue testigo de la grandeza de los incas.",
+          "C) Durand reconoce en Garcilaso su genialidad como historiador.",
+          "D) el contenido de la “verdad oficial” era racista y etnocéntrica.",
+          "E) la leyenda negra sobre el incario fue una versión no neutral."
+        ],
+        "correct": 1,
+        "rationale": "Garcilaso es un historiador genial porque fue capaz de percibir el clima espiritual y el vigoroso sentimiento de todo lo que significó el tránsito cruel entre dos épocas :de los incas al colonialismo."
+      }
+    ]
+  },
+  {
+    "type": "reading_comprehension",
+    "statement": "Garcilaso (1539-1616) escribió los Comentarios reales para ofrecer una vision diferente y en abierta contradiccion con la leyenda negra que sobre el imperio incaico habian forjado aquellos que, como Ginés de Sepúlveda, consideraban a los indios como barbaros o monos. Cuando Garcilaso llego a Espana en 1561, estaba fresco el debate sobre la etica de la conquista que siguio a las denuncias llegadas de America de los terribles abusos cometidos por los españoles. Conocio seguramente el debate en la Universidad de Salamanca y leyo a Bartolome de las Casas, Ginés de Sepúlveda, Francisco de Vitoria y otros. Garcilaso no los cita ni discute con ellos, porque, probablemente, preferia evitar una confrontacion que podria haberle causado mas problemas de los muchos que ya habia tenido en Espana; sin embargo, es indudable que los tuvo en cuenta y ofrecio un texto importantisimo para conocer la sociedad inca sin todos los prejuicios racistas y etnocentricos de los justificadores de la conquista. Garcilaso hizo un trabajo de historia con solvencia y brillantez en un combate a favor de los indios de America. No fue un historiador neutro, voto a favor de los incas y los presento como gestores de una gran civilizacion, justa y de grandes adelantos. Los españoles y europeos que leyeron los Comentarios reales vieron una version opuesta a capaz de percibir hechos de tamaña magnitud, ser testigo, unico testigo, de sucesos de tan colosal importancia, supone algo más que un cronista. Supone a un verdadero genio de la historia, como lo fue el Inca Garcilaso de la Vega",
+    "questions": [
+      {
+        "statement": "En el texto, el termino VISION, que alude a la leyenda negra, equivale a",
+        "alternatives": [
+          "A) sucesion",
+          "B) version",
+          "C) ilusion",
+          "D) reflexion",
+          "E) retrato"
+        ],
+        "correct": 1,
+        "rationale": "Una vision diferente se refiere a los Comentarios que es una version."
+      },
+      {
+        "statement": "El autor expone principalmente la idea de que Garcilaso",
+        "alternatives": [
+          "A) pese a tener interes, no se involucró en el debate que se desarrollo en las aulas de la Universidad de Salamanca.",
+          "B) en los Comentarios reales , condenó abiertamente a Ginés de Sepúlveda por haber forjado la leyenda negra sobre los indios.",
+          "C) escribió los Comentarios reales con solvencia y brillantez que lo encumbró como un genio de la historia.",
+          "D) escribió los Comentarios reales para hacer conocer a los incas como gestores de una gran civilización.",
+          "E) fue el unico testigo del proceso de transicion a la sociedad colonial; por ello, escribio los Comentarios reales "
+        ],
+        "correct": 3,
+        "rationale": "La idea que destaca en el texto es que Garcilaso escribió los Comentarios para presentar a los incas como gestores de una gran civilización, en contra de la leyenda negra que presentaba a los indios como barbaros o monos."
+      },
+      {
+        "statement": "Se infiere que la “verdad oficial” que pretendía imponer la corona española",
+        "alternatives": [
+          "A) habia sido confrontada con la realidad americana.",
+          "B) fue difundida por todos los intelectuales españoles.",
+          "C) solo se conocia en los circulos del poder español.",
+          "D) puso fin al debate en la Universidad de Salamanca.",
+          "E) coincidía con la version de Ginés de Sepúlveda."
+        ],
+        "correct": 4,
+        "rationale": "Pues, como esta, la “verdad oficial” justificaba la conquista."
+      },
+      {
+        "statement": "Si Garcilaso hubiera asumido una posicion neutral en sus Comentarios reales ,",
+        "alternatives": [
+          "A) habria reconocido la grandeza tanto de la cultura inca como de la española.",
+          "B) habría escrito con mas objetividad acerca de los hechos de la conquista.",
+          "C) su obra se habría convertido en la “historia oficial” de la corona española.",
+          "D) su obra habría circulado libremente en los dominios de la corona española.",
+          "E) su obra habría sido considerado como una historia justificadora de la conquista."
+        ],
+        "correct": 0,
+        "rationale": "Así habría obrado de no haberse parcializado con los incas ni con los españoles."
+      },
+      {
+        "statement": "Es incompatible con el texto sostener que",
+        "alternatives": [
+          "A) existen pasajes de los Comentarios reales que son incuestionables.",
+          "B) Garcilaso es genial porque fue testigo de la grandeza de los incas.",
+          "C) Durand reconoce en Garcilaso su genialidad como historiador.",
+          "D) el contenido de la “verdad oficial” era racista y etnocéntrica.",
+          "E) la leyenda negra sobre el incario fue una versión no neutral."
+        ],
+        "correct": 1,
+        "rationale": "Garcilaso es un historiador genial porque fue capaz de percibir el clima espiritual y el vigoroso sentimiento de todo lo que significó el tránsito cruel entre dos épocas :de los incas al colonialismo."
+      }
+    ]
+  },
+  {
+    "type": "verbal_series",
+    "statement": "Elija la tríada de sinónimos",
+    "alternatives": [
+      "A) rústico, zafio, sofisticado",
+      "B) gandul, protervo, holgazán",
+      "C) bruñido, lustroso, afable",
+      "D) súbito, imprevisto, inopinado",
+      "E) raudo, vertiginoso, proceloso"
+    ],
+    "correct": 3,
+    "rationale": "D. En ella se encuentran tres sinónimos."
+  },
+  {
+    "type": "verbal_series",
+    "statement": "Primigenio, ancestral, primordial,",
+    "alternatives": [
+      "A) perspicuo",
+      "B) prístino",
+      "C) munificente",
+      "D) edulcorado",
+      "E) azulado"
+    ],
+    "correct": 1,
+    "rationale": "Se establece una serie verbal de sinónimos."
+  },
+  {
+    "type": "verbal_series",
+    "statement": "Voluble, veleidoso; inope, indigente; agrio,",
+    "alternatives": [
+      "A) melifluo",
+      "B) solemne",
+      "C) acre",
+      "D) hosco",
+      "E) remiso"
+    ],
+    "correct": 2,
+    "rationale": "Se trata de una serie configurada con un nexo sinonímico."
+  },
+  {
+    "type": "verbal_series",
+    "statement": "Sagaz, astuto, taimado,",
+    "alternatives": [
+      "A) gaznápiro",
+      "B) menesteroso",
+      "C) racional",
+      "D) capcioso",
+      "E) tunante"
+    ],
+    "correct": 4,
+    "rationale": "Se trata de una serie verbal conformada por tres sinónimos inscritos en el campo semántico de la astucia."
+  },
+  {
+    "type": "verbal_series",
+    "statement": "Complete con sinónimos respectivos la siguiente serie verbal: Hesitar, __________; incordiar,____________;eludir, _________________",
+    "alternatives": [
+      "A) vacilar, importunar, esquivar",
+      "B) barruntar, molestar, soslayar",
+      "C) azuzar, atenuar, hincar",
+      "D) concitar, estimular, morigerar",
+      "E) afirmar, calmar, enfrentar"
+    ],
+    "correct": 0,
+    "rationale": "La serie se completa con los siguientes términos: vacilar, importunar y esquivar."
+  },
+  {
+    "type": "verbal_series",
+    "statement": "Alborozo, algarabía; desasosiego, remanso; acicate, estímulo;",
+    "alternatives": [
+      "A) estulticia, inteligencia",
+      "B) fuerza, estabilidad",
+      "C) vergüenza, rubor",
+      "D) lasitud, astenia",
+      "E) calígine, oscuridad"
+    ],
+    "correct": 0,
+    "rationale": "Es una serie verbal mixta: s inonimia, antonimia, sinonimia."
+  },
+  {
+    "type": "verbal_series",
+    "statement": "Miedo, terror; desazón, angustia; grito, griterío;",
+    "alternatives": [
+      "A) coagulación, trombosis",
+      "B) defensa, zaga",
+      "C) calor, bochorno",
+      "D) poder, virtud",
+      "E) murmurio, ruido"
+    ],
+    "correct": 2,
+    "rationale": "Porque hay una nítida relación de intensidad en el par ‘calor, bochorno’."
+  },
+  {
+    "type": "verbal_series",
+    "statement": "Complete con antónimos respectivos la siguiente serie verbal: Acelerar,__________; manumitir,______________; acorazar, _______________",
+    "alternatives": [
+      "A) aturdir, emancipar, desarmar",
+      "B) lentificar, eximir, inquietar",
+      "C) apremiar, aherrojar, atrofiar",
+      "D) apaciguar, acicatear, recular",
+      "E) ralentizar, esclavizar, desproteger"
+    ],
+    "correct": 4,
+    "rationale": "De acuerdo con la directiva del enunciado, el ítem se resuelve con los antónimos respectivos."
+  },
+  {
+    "type": "reading_comprehension",
+    "statement": "El reggae ya se habia impuesto como la musica mas popular, pero Bob Marley le imprimio un inconfundible sello personal y lo elevo a la dignidad de rito religioso y evangelio politico. La poesia que le insufflo removía las entretelas del alma de sus coterráneos, porque en ella reconocían sus tormentos, las mil y una injusticias de que estaba hecha la vida en Babilonia, pero, en ella, hallaban tambien razones optimistas, persuasivas, para resistir la adversidad: saberse los elegidos de Jah, los que estaban por superar la larga prueba, a punto de llegar a la tierra prometida, los inminentes redimidos. Esa musica los embriagaba pues era la suya tradicional, enriquecida con los ritmos modernos que venian de America, el rock, el jazz o el calipso, y los himnos y danzas de las iglesias. El lenguaje con que Bob Marley les hablaba era el patois jamaicano, indescifrable para el oido no avezado, y sus temas los de sus querellas, pasiones y chismografias callejeras, pero arrebozadas de ternura, misticismo y piedad. La palabra  ¿No es esta un simple problema tecnico para cualquier creador que domina su oficio? Para Bob Marley nunca lo fue: el volcó en las canciones que compuso, por lo menos desde 1968, cuando gracias a sus pláticas con Mortimo Plano asumio definitivamente la religión Rastafari, su vasta fe y su mística canaille, su sueño mesiánico al mismo tiempo que su sabiduria musical, su ardiente celo religioso y el denso, selvatico lamento de su voz. Por eso, aunque en su época —los sesenta y los setenta— surgieron muchos compositores y artistas de talento en el mundo, solo él fue, además de inspirado y original, de una autenticidad sin macula, que resistio todas las tentaciones, incluso la mas hechizera que es la de la vida, pues prefirio morir, a los treinta y seis años, antes de permitir que le amputaran el dedo del pie roido por el cancer, porque su religion se lo prohibía. Es verdad que murio riquisimo —dejo treinta millones de dolares — pero el casi no disfruto de esa fortuna, pues, cuando uno visita la casa de Hope Road, el unico lujo que se permitio cuando su subita fama lo hizo opulento, advierte que modesto era ese lujo comparado con el que puede permitirse, hoy, cualquier cancionista de mediano exito. El solo disfruto, en la gloria de sus años postreros como en la miseria de los primeros, en el polvo y los detritus de Trench Town: pateando una pelota de futbol, sumido en una misteriosa introspección de la que volvía al mundo euforico o llorando, garabateando una cancion en un cuaderno de escolar, explorando una melodía en el rasgueo de su guitarra o tragando las nubes agridulces de su cigarro de ganja. Fue generoso y hasta prodigo con sus amigos y enemigos, y el dia mas feliz de su vida fue aquel en que pudo socorrer con su dinero a los parientes del defenestrado Haile Selassie, el despot a quien creia Dios. Cuando visito el Africa descubrio que aquel continente estaba lejos de ser aquella tierra de salvacion para el pueblo negro con que lo mitificaban su credo y sus canciones y, desde entonces, estas fueron menos negristas, mas ecumenicas y fue mas intensa su predica pacifista y su reclamo de espiritualidad. No hay que ser religioso para darse cuenta de que sin las religiones la vida seria infinitamente mas pobre y miserable para los pobres y los miserables, y, tambien, de que los pueblos tienen las religiones que les hacen falta. Yo abomini de los pintorescos sincretismos teologicos de los rastas, de sus ceremonias marihuanas, de las horrendas recetas de su dietario y de sus pelambres inextri cables cuando descubri que un hijo mio y un grupo de amigos suyos del colegio se habian vuelto catecumenos de semejante fe. Pero lo que en ellos era sin duda pasajera moda, versatil voluptuosidad de jovenes privilegiados, en los luctuosos callejones de Trench Town, o en la pobreza y el abandono de las aldeas de la parroquia de St. Ann me ha parecido una conmovedora apuesta por la vida del espiritu, en contra de la desintegracion moral y la injusticia humana. Pido perdon a los rastas por lo que pense y escribi de ellos y, junto a mi admiracion por su musica, proclamo mi respeto por las ideas y creencias de Bob Marley.",
+    "questions": [
+      {
+        "statement": "Fundamentalmente, el texto versa sobre",
+        "alternatives": [
+          "A) el particular lenguaje de Bob Marley, el patois jamaiquino.",
+          "B) los inconfundibles rastas y sus creencias sobre Bob Marley.",
+          "C) el peculiar estilo de vida de un musico jamaiquino apodado Bob.",
+          "D) Marley el mas conocido y respetado interprete de la musica reggae.",
+          "E) la exitosa difusión del movimiento rastafari en el continente africano."
+        ],
+        "correct": 3,
+        "rationale": "Bob Marley es el mas conocido y respetado interprete de la musica reggae y difundio tanto la musica de Jamaica como el movimiento rastafari (del que era un miembro comprometido) a una audiencia mundial."
+      },
+      {
+        "statement": "El sentido contextual de CATECÚMENOS es",
+        "alternatives": [
+          "A) criticos.",
+          "B) seguidores.",
+          "C) fustigadores.",
+          "D) religiosos.",
+          "E) irreverentes."
+        ],
+        "correct": 1,
+        "rationale": "Yo abomine de los pintorescos sincretismos teologicos de los rastas, de sus comuniones marihuanas, de las horrendas recetas de su dietario y de sus pelambres inextri cables cuando descubri que un hijo mio y un grupo de amigos suyos del colegio se habian vuelto catecumenos de semejante fe."
+      },
+      {
+        "statement": "Para el autor, ser un rasta como Bob Marley implica",
+        "alternatives": [
+          "A) desprenderse de todos los bienes materiales.",
+          "B) practicar una particular filosofia de vida.",
+          "C) ser politico y tener un espiritu revolucionario.",
+          "D) asumir la religion como unico medio de dialogo.",
+          "E) despojarse de los prejuicios sociales."
+        ],
+        "correct": 1,
+        "rationale": "Bob Marley le imprimio al reggae un inconfundible sello personal y lo elevo a la dignidad de rito religioso y evangelio politico."
+      },
+      {
+        "statement": "Desde la perspectiva del autor, hoy, Bob Marley no podria ser considerado un",
+        "alternatives": [
+          "A) musico.",
+          "B) religioso.",
+          "C) rastafari.",
+          "D) potentado.",
+          "E) altruista."
+        ],
+        "correct": 3,
+        "rationale": "el unico lujo que se permitió cuando su súbita fama lo hizo opulento, advierte que modesto era ese lujo comparado con el que puede permitirse, hoy, cualquier cancionista de mediano exito."
+      },
+      {
+        "statement": "Es incompatible señalar que Bob Marley",
+        "alternatives": [
+          "A) inventó el reggae en los años sesenta.",
+          "B) le añadió ternura al patoi jamaiquino.",
+          "C) propugnó siempre un credo pacifista.",
+          "D) asumió en 1968 la religión Rastafari.",
+          "E) fue espléndido incluso con sus enemigos."
+        ],
+        "correct": 0,
+        "rationale": "Bob Marley no inventó el reggae, pero le imprimió un inconfundible sello personal y lo elevó a la dignidad de rito religioso y evangelio político."
+      },
+      {
+        "statement": "Se desprende del texto que África para los coterráneos de Bob Marley,",
+        "alternatives": [
+          "A) fue cuna de Mortimo Plano, gran maestro de reggae.",
+          "B) era un claro referente de la desintegración moral .",
+          "C) suponía una autentica esperanza mesiánica.",
+          "D) representaba siglos de servidumbre y opresión.",
+          "E) era el lugar perfecto para la practica politica."
+        ],
+        "correct": 2,
+        "rationale": "Cuando visito el Africa descubrio que aquel continente estaba lejos de ser aquella tierra de salvacion para el pueblo negro con que lo mitificaban su credo y sus canciones y, desde entonces, estas fueron menos negristas, mas ecumenicas y fue mas intensa su predica pacifista y su reclamo de espiritualidad."
+      }
+    ]
+  },
+  {
+    "type": "reading_comprehension",
+    "statement": "quino, indescifrable para el oído no avezado, y sus temas los de sus querellas, pasiones y chismografías callejeras, pero arrebozadas de ternura, misticismo y piedad. La palabra ¿No es esta un simple problema técnico para cualquier creador que domina su oficio? Para Bob Marley nunca lo fue: él volcó en las canciones que compuso, por lo menos desde 1968, cuando gracias a sus pláticas con Mortimo Plano asumió definitivamente la religión Rastafari, su vasta fe y su mística canaille, su sueño mesiánico al mismo tiempo que su sabiduría musical, su ardiente celo religioso y el denso, selvático lamento de su voz. Por eso, aunque en su época —los sesenta y los setenta— surgieron muchos compositores y artistas de talento en el mundo, sólo él fue, además de inspirado y original, de una autenticidad sin mácula, que resistió todas las tentaciones, incluso la más hechice ra que es la de la vida, pues prefirió morir, a los treinta y seis años, antes de permitir que le amputaran el dedo del pie roído por el cáncer, porque su religión se lo prohibía. Es verdad que murió riquísimo —dejó treinta millones de dólares — pero él casi no disfrutó de esa fortuna, pues, cuando uno visita la casa de Hope Road, el único lujo que se permitió cuando su súbita fama lo hizo opu lento, advierte qué modesto era ese lujo comparado con el que puede permitirse, hoy, cualquier cancionista de mediano éxito. Él sólo disfrutó, en la gloria de sus años postreros como en la miseria de los primeros, en el polvo y los detritus de Trench Town: pateando una pelota de fútbol, sumido en una misteriosa introspección de la que volvía al mundo eufórico o llorando, garaba-teando una canción en un cuaderno de escolar, explorando una melodía en el rasgueo de su guitarra o tragando las nubes agridulces de su cigarro de ganja. Fue generoso y hasta pródigo con sus amigos y enemigos, y el día más feliz de su vida fue aquel en que pudo socorrer con su dinero a los parientes del defenestrado Haile Selassie, el déspota al que creía Dios. Cuando visitó el África des cubrió que aquel continente estaba lejos de ser aquella tierra de salvación para el pueblo negro con que lo mitificaban su credo y sus canciones, y desde entonces, estas fueron menos \"negristas\", más ecuménicas y fue más intensa su prédica pacifista y su reclamo de espiritualidad. No hay que ser religioso para darse cuenta de que sin las religiones la vida sería infinitamente más pobre y miserable para los pobres y los miserables, y, también, de que los pueblos tienen las religiones que les hacen falta. Yo abominé de los pintorescos sin-cretismos teológicos de los rastas, de sus comuniones marihuanas, de las horrendas recetas de su dietario y de sus pelambres inextri cables cuando descubrí que un hijo mío y un grupo de amigos su-yos del colegio se habían vuelto catecúmenos de semejante fe. Pero lo que en ellos era sin duda pasajera moda, versátil voluptuosidad de jóvenes privilegiados, en los luctuosos callejones de Trench Town, o en la pobreza y el abandono de las aldeas de la parroquia de St. Ann me ha parecido una conmovedora apuesta por la vida del es píritu, en contra de la desintegración moral y la injusticia humana. Pido perdón a los rastas por lo que pensé y escribí de ellos y, junto a mi admiración por su música, proclamo mi respeto por las ideas y creencias de Bob Marley.",
+    "questions": [
+      {
+        "statement": "Fundamentalmente, el texto versa sobre",
+        "alternatives": [
+          "A) el particular lenguaje de Bob Marley, el patois jamaiquino.",
+          "B) los inconfundibles rastas y sus creencias sobre Bob Marley.",
+          "C) el peculiar estilo de vida de un músico jamaiquino apodado Bob.",
+          "D) Marley el más conocido y respetado intérprete de la música reggae.",
+          "E) la exitosa difusión del movimiento rastafari en el continente africano."
+        ],
+        "correct": 3,
+        "rationale": "Bob Marley es el más conocido y respetado intérprete de la música reggae y difundió tanto la música de Jamaica como el movimiento rastafari (del que era un miembro comprometido) a una audiencia mundial."
+      },
+      {
+        "statement": "El sentido contextual de CATECÚMENOS es",
+        "alternatives": [
+          "A) críticos.",
+          "B) seguidores.",
+          "C) fustigadores.",
+          "D) religiosos.",
+          "E) irreverentes."
+        ],
+        "correct": 1,
+        "rationale": "Yo abominé de los pintorescos sincretismos teológicos de los rastas, de sus comuniones marihuanas, de las horrendas recetas de su dietario y de sus pelambres inextri cables cuando descubrí que un hijo mío y un grupo de amigos su-yos del colegio se habían vuelto catecúmenos de semejante fe."
+      },
+      {
+        "statement": "Para el autor, ser un rasta como Bob Marley implica",
+        "alternatives": [
+          "A) desprenderse de todos los bienes materiales.",
+          "B) practicar una particular filosofía de vida.",
+          "C) ser político y tener un espíritu revolucionario.",
+          "D) asumir la religión como único medio de diálogo.",
+          "E) despojarse de los prejuicios sociales."
+        ],
+        "correct": 1,
+        "rationale": "Bob Marley le imprimió al reggae un inconfundible sello personal y lo elevó a la dignidad de rito religioso y evangelio político."
+      },
+      {
+        "statement": "Desde la perspectiva del autor, hoy, Bob Marley no podría ser considerado un",
+        "alternatives": [
+          "A) músico.",
+          "B) religioso.",
+          "C) rastafari.",
+          "D) potentado.",
+          "E) altruista."
+        ],
+        "correct": 3,
+        "rationale": "el único lujo que se permitió cuando su súbita fama lo hizo opulento, advierte qué modesto era ese lujo comparado con el que puede permitirse, hoy, cualquier cancionista de mediano éxito."
+      },
+      {
+        "statement": "Es incompatible señalar que Bob Marley",
+        "alternatives": [
+          "A) inventó el reggae en los años sesenta.",
+          "B) le añadió ternura al patoi jamaiquino.",
+          "C) propugnó siempre un credo pacifista.",
+          "D) asumió en 1968 la religión Rastafari.",
+          "E) fue espléndido incluso con sus enemigos."
+        ],
+        "correct": 0,
+        "rationale": "Bob Marley no inventó el reggae, pero le imprimió un inconfundible sello personal y lo elevó a la dignidad de rito religioso y evangelio político."
+      },
+      {
+        "statement": "Se desprende del texto que África para los coterráneos de Bob Marley,",
+        "alternatives": [
+          "A) fue cuna de Mortimo Plano, gran maestro de reggae.",
+          "B) era un claro referente de la desintegración moral .",
+          "C) suponía una auténtica esperanza mesiánica.",
+          "D) representaba siglos de servidumbre y opresión.",
+          "E) era el lugar perfecto para la práctica política."
+        ],
+        "correct": 2,
+        "rationale": "Cuando visitó el África descubrió que aquel continente estaba lejos de ser aquella tierra de salvación para el pueblo negro con que lo mitificaban su credo y sus canciones."
+      }
+    ]
+  },
+  {
+    "type": "reading_comprehension",
+    "statement": "Advertí que, respecto de la lógica, sus silogismos y la mayor parte de sus instrucciones sirven para explicar a otro las cosas que uno ya sabe (o aun, como el arte aprenderlas. Y aunque realmente contenga preceptos muy buenos, están mezclados con tantos otros que son nocivos y superfluos; de modo que separarlos es casi tan difícil como sacar una Diana o una Minerva de un bloque de mármol todavía sin esbozar. Luego, respecto del análisis de los antiguos y del álgebra de los modernos (aparte de que se aplican a materias muy abstrusas y que no parecen de utilidad alguna), el primero está siempre supeditado a la consideración de las figuras que no puede ejercitar el entendimiento sin cansar mucho la imaginación; y, en la última, uno está sometido a tantas reglas y a tantas cifras, que se ha hecho de ellas un arte confuso y oscuro que entorpece el espíritu en lugar de ser una ciencia que lo cultive. Todo lo anterior fue la causa de que yo pensara que era preciso buscar otro método que, abarcando las ventajas de esos tres, estuviera exento de sus defectos. Y como la multitud de leyes sirve a menudo de excusa para los vicios, en lugar de ese gran número de preceptos de que se compone la lógica, creí que me bastarían los cuatro siguientes, a condición de que tomara una firme y constante resolución de no dejar de cumplirlos ni una sola vez. El primero consistía en no admitir jamás nada por verdadero que yo no conociera que evidentemente era tal; es decir, evitar minuciosamente la precipitación y la prevención, y no abarcar en mis juicios nada más que lo que se presentara tan clara y distintamente en mi espíritu que no tuviera ocasión de ponerlo en duda. El segundo, en dividir cada una de las dificultades que examinara en tantas partes como fuera posible y necesario para mejor resolverlas. El tercero, en conducir por orden mis pensamientos comenzando por los objetos más simples y más fáciles de conocer, para subir poco a poco, como por grados, hasta el conocimiento de los más compuestos, y suponiendo un orden aun entre aquellos que no se preceden naturalmente unos a otros. Y el último, en hacer en todo enumeraciones tan completas y revisiones tan generales que tuviese la seguridad de no omitir nada.",
+    "questions": [
+      {
+        "statement": "En el texto, el sentido de ABSTRUSA es",
+        "alternatives": [
+          "A) abstracta.",
+          "B) contradictoria.",
+          "C) paradójica.",
+          "D) difusa.",
+          "E) superflua."
+        ],
+        "correct": 0,
+        "rationale": "A . La calidad de abstrusa implica un alto nivel de abstracción."
+      },
+      {
+        "statement": "¿Cuál es el tema central del texto?",
+        "alternatives": [
+          "A) El poder de la deducción en el pensamiento.",
+          "B) La lógica y las demostraciones filosóficas.",
+          "C) La duda en la fijación de las creencias.",
+          "D) La naturaleza de la geometría racional.",
+          "E) La búsqueda de la verdad en las ciencias."
+        ],
+        "correct": 4,
+        "rationale": "Se estipula un método en la persecución de la verdad."
+      },
+      {
+        "statement": "Con respecto al arte de Lulio, Descartes profiere un juicio",
+        "alternatives": [
+          "A) ambivalente.",
+          "B) laudatorio.",
+          "C) amable.",
+          "D) lapidario.",
+          "E) sumario."
+        ],
+        "correct": 3,
+        "rationale": "Es muy crítico con este arte y lo denuesta fuertemente."
+      },
+      {
+        "statement": "Se puede deducir que el segundo precepto del método indagatorio cartesiano es de índole",
+        "alternatives": [
+          "A) sintética .",
+          "B) analítica.",
+          "C) algebraica.",
+          "D) empírica.",
+          "E) enumerativa."
+        ],
+        "correct": 1,
+        "rationale": "El precepto radica en dividir cada una de las dificultades que examinara en tantas partes como fuera posible y necesario para mejor resolverlas."
+      },
+      {
+        "statement": "Si un aserto fuese indubitable, Descartes lo consideraría",
+        "alternatives": [
+          "A) evidente.",
+          "B) superfluo.",
+          "C) paradójico.",
+          "D) precario.",
+          "E) ilógico."
+        ],
+        "correct": 0,
+        "rationale": "Para Descartes la evidencia se caracteriza por la carencia de hesitación."
+      }
+    ]
+  }
+]

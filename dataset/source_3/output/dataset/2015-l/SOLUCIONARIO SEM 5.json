@@ -1,0 +1,412 @@
+[
+  {
+    "type": "sentence_elimination",
+    "statement": "I) Siddhartha es una novela escrita por Hermann Hesse en 1922 . II) La novela Siddhartha relata la vida de un hombre hindú llamado Siddhartha. III) Siddhartha Gautama o simplemente Buda fue un sabio en cuyas enseñanzas se basa el budismo. IV) En la novela de Hesse, Siddhartha es hijo de un brahman (sacerdote) que busca afanosamente y por los más diversos caminos su propio derrotero vital. V) Él, junto a su fiel amigo Govinda, realiza un viaje para responder la pregunta por el sentido de la vida.\n\nA) I B) II C) III D) IV E) V",
+    "alternatives": [
+      "A) I",
+      "B) II",
+      "C) III",
+      "D) IV",
+      "E) V"
+    ],
+    "correct": 2,
+    "rationale": "La oración III no es atingente. El tema es la novela Siddhartha ."
+  },
+  {
+    "type": "sentence_elimination",
+    "statement": "tareas encargadas a diferentes personas. II) La organización de la construcción de un acueducto romano dependía directamente del emperador, como primera jerarquía. III) El personal que ocupaba la segunda jerarquía en la construcción de un acueducto romano estaba constituido por el curator aquarum , el ingeniero militar, el ingeniero civil y el topógrafo. IV) Los artesanos —llamados fabri—, los picaped reros y los carpinteros constituían un segundo nivel de relevancia en la construcción de acueductos romanos. V) Por último, los esclavos eran los encargados de realizar todo tipo de faenas, sobre todo las más pesadas, para edificar acueductos romanos.\n\nA) I B) II C) III D) IV E) V",
+    "alternatives": [
+      "A) I",
+      "B) II",
+      "C) III",
+      "D) IV",
+      "E) V"
+    ],
+    "correct": 0,
+    "rationale": "La oración I es redundante, resume lo que las demás presentan."
+  },
+  {
+    "type": "sentence_elimination",
+    "statement": "I) La sífilis no muestra los mismos síntomas en todas sus etapas. II) La primera etapa de la sífilis se caracteriza por la aparición del chancro. III). En la segunda etapa de la sífilis, aparece un salpullido en las palmas de las manos, de los pies y en otras partes del cuerpo. IV) Luego, A la sífilis le sigue una etapa que puede durar de dos a más de treinta años sin señales ni síntomas. V) En la última etapa de la sífilis, se presentan complicaciones en el corazón y los vasos sanguíneos, así como desordenes crónicos del sistema nervioso.\n\nA) I B) II C) III D) IV E) V",
+    "alternatives": [
+      "A) I",
+      "B) II",
+      "C) III",
+      "D) IV",
+      "E) V"
+    ],
+    "correct": 0,
+    "rationale": "La oración I es redundante, pues se infiere de las demás."
+  },
+  {
+    "type": "sentence_elimination",
+    "statement": "I) Según una encuesta encargada por Proética a Ipsos Perú, la institución más corrupta del Perú —con un 55% — es el Congreso de la República. II) El segundo lugar en las encuestas sobre corrupción lo ocupa la Policía Nacional con un 53%. III) E l poder judicial se ubica en la encuesta en un tercer lugar con un 48%. IV) Las municipalidades son consideradas corruptas por un 28% de los encuestados y obtienen el cuarto lugar. V) Debe tenerse en cuenta que las encuestas más que mostrar una situación objetiva reflejan el estado de ánimo de las personas encuestadas.\n\nA) I B) II C) III D) IV E) V",
+    "alternatives": [
+      "A) I",
+      "B) II",
+      "C) III",
+      "D) IV",
+      "E) V"
+    ],
+    "correct": 4,
+    "rationale": "La oración V no es atingente. Puesto que habla del ranking de las instituciones más corruptas."
+  },
+  {
+    "type": "reading_comprehension",
+    "statement": "Google teme al mercado chino no solo porque es una plaza controlista —con cientos de prohibiciones estatales y censuras en la navegación web —, sino también porque este país tiene un poderoso buscador reinante: Baidu . Es tal el dominio del buscador chino que, pese al poderío de Google ,la estadounidense ha tenido que conformarse con un honorable tercer lugar de este mercado.\nBaidu es una empresa creada por dos jóvenes chinos que en los años 90 trabajaban para corporaciones estadounidenses: Robin Li y John Wu, quienes decidieron un día dejar EE.UU. y fundar en 1999 una empresa que hoy se encuentra valorizada en más de US$ 3000 millones.\nSe suele acusar a Baidu de ser un fiel reflejo de Google . Li, CEO de la compañía, ha indicado que se trata de un motor de búsqueda distinto, pues se ha desarrollado bajo otro tipo de algoritmos y procedimientos; además, la característica más popular de Baidu es la posibilidad de efectuar búsquedas de archivos de audio con una precisión sorprendente.\nAunque, algunos creen que el secreto del éxito radica en que las leyes de la República Popular China no prohíben poner música en internet, y Baidu se encuentra bajo jurisdicción china.\nBaidu no se co nforma con el éxito local y si se tiene en cuenta que su fórmula no es posible de exportar a otras naciones, se entenderá por qué la apuesta ha sido por la innovación y la tecnología, que van desde soluciones webs y aplicaciones hasta proyectos como la construcción de automóviles autónomos. En esta línea, ya ha anunciado que el prototipo del automóvil autónomo estará listo para este año, de esta manera también ha superado a Google que ha indicado que lo tendrá en el 2020. Según los especialistas, esta empresa china tiene detrás de ella una asociación no solo con automotrices de su país, sino el interés del Gobierno Chino de lanzar un producto novedoso y accesible al mundo.\n\nEl Comercio . (15 de marzo de 2015) «La sombra china de Google». Recuperado el 15 de marzo de 2015, de El Comercio: http://elcomercio.pe/economia/mundo/buscador -baidu - sombra -china -google -noticia -1797548 .",
+    "questions": [
+      {
+        "statement": "¿Cuál es la idea principal del texto?",
+        "alternatives": [
+          "A) Robin Li y John Wu lograron hacer una empresa valorizada en más de US$ millones.",
+          "B) Baidu, una empresa china creada en 1999, se perfila como un serio competidor de Google.",
+          "C) La aguda y amplia competencia en el ámbito de los buscadores más exitosos en la web.",
+          "D) Baidu, una empresa china, desafía el monopolio de las compañías norteamericanas en la web.",
+          "E) La innovación tecnológica implementada por el navegador Baidu en la República Popular China."
+        ],
+        "correct": 1,
+        "rationale": null
+      },
+      {
+        "statement": "Resulta incompatible con respecto a lo que plantea el texto señalar que",
+        "alternatives": [
+          "A) la competencia entre Baidu y Google se restringe al ámbito de los buscadores.",
+          "B) Baidu planea producir aplicaciones para la web y otros productos tecnológicos.",
+          "C) el gobierno chino brinda apoyo a la empresa fundada por R. Li y J. Wu.",
+          "D) el director ejecutivo de la multimillonaria empresa Baidu es Robin Li.",
+          "E) los creadores de Baidu trabajaron previamente en empresas de EE.UU."
+        ],
+        "correct": 0,
+        "rationale": null
+      },
+      {
+        "statement": "En el texto, la palabra APLICACIONES alude a",
+        "alternatives": [
+          "A) operaciones matemáticas.",
+          "B) adornos tecnológicos.",
+          "C) servicios de ingeniería.",
+          "D) herramientas informáticas.",
+          "E) prácticas profesionales."
+        ],
+        "correct": 3,
+        "rationale": null
+      },
+      {
+        "statement": "Se infiere de lo planteado en el primer párrafo que",
+        "alternatives": [
+          "A) Baidu es una empresa debidamente adaptada a las restricciones impuestas por el gobierno chino.",
+          "B) Baidu es la respuesta de los regímenes socialistas al gigante de la navegación norteamericana: Google.",
+          "C) Google ha logrado tener un sorprendente éxito en un a plaza controlista como es el mercado chino.",
+          "D) Google a la larga logrará ocupar el primer lugar en el ámbito de la navegación en los países asiáticos.",
+          "E) Google no se resigna a ocupar el tercer lugar en el mercado chino y su meta es ocupar el segundo lugar."
+        ],
+        "correct": 0,
+        "rationale": null
+      },
+      {
+        "statement": "Si las condiciones en el mercado chino fuesen las de un mercado de libre competencia y sin tantas prohibiciones y censuras,",
+        "alternatives": [
+          "A) de todas maneras, Baidu ocuparía el primer lugar.",
+          "B) empresas como Baidu no podrían seguir existiendo.",
+          "C) la competencia entre Baidu y Google sería más justa.",
+          "D) Google, definitivamente, ocuparía el primer lugar.",
+          "E) cada navegador tendría un número igual de usuarios."
+        ],
+        "correct": 2,
+        "rationale": null
+      }
+    ]
+  },
+  {
+    "type": "reading_comprehension",
+    "statement": "Los géneros literarios aparecen en la Edad Media tan vinculados con las clases sociales, que, en términos generales, es posible establecer una clasificación basada en la especial estructura de la sociedad.\nLa existencia de una aristocracia guerrera da lugar desde muy antiguo a una poesía oral en lengua vulgar y de carácter heroico (cantares de gesta), cuyas formas elementales responden a la rudeza del público a quien va dirigida. Nobles y siervos, ajenos por igual a todo refinamiento cultural, constituyen el auditorio de estas epopeyas guerreras, fuertemente impregnadas de un espíritu localista.\nLa clerecía produce, por su parte, toda la literatura de carácter religioso, moral y científico.\nEn un principio, el latín es el medio de expresión utilizado para todos estos géneros; más tarde, desde el siglo XIII, se impone el castellano. A partir de esta época, comienza también un proceso de secularización de la producción didáctica, a medida que la cultura deja de ser patrimonio exclusivo de la Iglesia.\nAl renacer la vida en las ciudades, la burguesía exige unas formas artísticas que respondan a su peculiar visión del mundo. El cuento y la poesía de fondo satírico son los géneros más característicos de esta nueva clase social, ajena a todo afán universalista y para la que solo existe el reducido mundo de las cosas familiares. Frente a las figuras del héroe o del santo, exaltadas por juglares y por clérigos, la literatura burguesa representa la apología del hombre práctico y avisado, cuyo malicioso sentido crítico le hace triunfar en los más difíciles\n\ncapitales, la aventura y el amor, da a su vez origen a numerosas novelas, donde se relatan fantas­ticas proezas de esforzados paladines, y a toda una lírica amorosa de tono idealista y refinadas formas.\nTodo cuanto acabamos de decir no significa que los géneros se hallen separados por barreras infranqueables. Muy al contrario, se observan frecuentes interferencias entre ellos, y no es raro encontrar elementos épicos o caballerescos en la producción de los clérigos, o cortesanos y religiosos en la de los burgueses.\n\nGarcía, J. (1972). Historia de la Literatura Española . Barcelona: Vinces",
+    "questions": [
+      {
+        "statement": "Principalmente, la intención del autor consiste en explicar",
+        "alternatives": [
+          "A) el proceso histórico de la literatura medieval determinado por la ideología.",
+          "B) la trascendencia social del desenvolvimiento literario durante la Edad Media.",
+          "C) la influencia de las clases sociales en el surgimiento de los géneros literarios.",
+          "D) la manipulación política de las clases sociales mediante los géneros literarios.",
+          "E) el vínculo intrínseco entre la sociedad estratificada y el desarrollo literario."
+        ],
+        "correct": 2,
+        "rationale": "Los géneros literarios aparecen en la Edad Media tan vinculados con las clases sociales, que, en términos generales, es posible establecer una clasificación basada en la especial estructura de la sociedad."
+      },
+      {
+        "statement": "En el texto, el término IMPREGNAR connota",
+        "alternatives": [
+          "A) influencia.",
+          "B) motivación.",
+          "C) predominio.",
+          "D) inspiración.",
+          "E) precisión."
+        ],
+        "correct": 0,
+        "rationale": "Nobles y siervos, ajenos por igual a todo refinamiento cultural, constituyen el auditorio de las epopeyas guerreras, fuertemente impregnadas de un espíritu localista. En este contexto, impregnar connota influencia."
+      },
+      {
+        "statement": "Resulta congruente con el texto aseverar que",
+        "alternatives": [
+          "A) la nobleza refinada formaba parte del auditorio de las diversas epopeyas guerreras.",
+          "B) la noción del héroe y santo era irreconciliable e inadmisible en la literaria medieval.",
+          "C) la cultura y la educación fueron exclusivos patrimonios de la Iglesia en el Medioevo.",
+          "D) el burgués sentía complacencia por la caracterización literaria del personaje pícaro.",
+          "E) los géneros literarios estuvieron al margen de los caracteres de las clases sociales."
+        ],
+        "correct": 3,
+        "rationale": "Frente a las figuras del héroe o del santo, exaltadas por juglares y por clérigos, la literatura burguesa representa la apología del hombre práctico y avisado, cuyo malicioso sentido crítico le hace triunfar en los más difíciles trances de la vida cotidiana."
+      },
+      {
+        "statement": "Del texto, se puede inferir que la clerecía",
+        "alternatives": [
+          "A) concentró el patrimonio cultural hasta que se oficializó el castellano.",
+          "B) habría tomado el control de todo acervo cultural a partir del siglo XIII.",
+          "C) desestimó el uso de recursos épicos en sus composiciones literarias.",
+          "D) estuvo muy propensa a producir composiciones poéticas sensuales."
+        ],
+        "correct": 0,
+        "rationale": null
+      },
+      {
+        "statement": "Si la sociedad medieval hubiese mostrado desdén por toda composición literaria,",
+        "alternatives": [
+          "A) la aparición de los géneros literarios no habría estado motivada por ella.",
+          "B) la clerecía habría permanecido interesada en las composiciones épicas.",
+          "C) es seguro que la lengua latina no habría sido desplazada por el castellano.",
+          "D) cada género literario sería congruente con los estereotipos del pueblo.",
+          "E) la literatura habría carecido de géneros literarios durante la Edad Media."
+        ],
+        "correct": 0,
+        "rationale": "Según el texto, los géneros literarios surgen motivados por las diversas clases sociales. Cada grupo social utilizó la literatura para expresar sus intereses y necesidades. Si la sociedad medieval hubiese mostrado desdén por toda composición literaria, entonces la aparición de los géneros literarios no habría estado motivada por ella."
+      }
+    ]
+  },
+  {
+    "type": "reading_comprehension",
+    "statement": "SEMANA 5C\n\nLa hora en que te acuestas y el tiempo que duermes en determinado momento realmente podría dificultarte el estar libre de preocupaciones, según científicos de la Universidad de Binghamton. Un estudio, dirigido por Meredith Coles, directora de la Clínica de Ansiedad Binghamton y el estudiante graduado Jacob Nota, encontraron que quienes duermen periodos cortos y se acuestan demasiado tarde en la noche a menudo están agobiados con más pensamientos negativos que aquellos que mantienen horarios más regulares para dormir.\nSe dice que las personas tienen pensamientos negativos repetitivos cuando reflexiones pesimistas molestas parecen repetirse en sus mentes, sin que esas personas sientan que tienen mucho control sobre esas contemplaciones. Tienden a preocuparse excesivamente por el futuro, a profundizar demasiado en el pasado y a experimentar pensamientos intrusivos desagradables. Tales ideas a menudo son típicas en quienes sufren trastorno de ansiedad generalizada, trastorno depresivo mayor, trastorno de estrés postraumático, trastorno obsesivo -compulsivo y trastorno de ansiedad social. Estas personas también tienden a tener problemas de sueño.\nLos investigadores encontraron que las personas que duermen por periodos de tiempo más cortos y se van a la cama más tarde con frecuencia experimentan más pensamientos negativos repetitivos que otros. Esto también resultó cierto para estudiantes que se describieron a sí mismos como individuos nocturnos. Los resultados de la investigación también sugieren que la interrupción del sueño podría estar relacionada con el desarrollo de pensamientos negativos repetitivos. Nota y Coles creen que concentrarse en dormir lo suficiente podría beneficiar a personas que están en riesgo de desarrollar un trastorno caracterizado por tener pensamiento s intrusivos.\n\nNational Geographic en español (s.f.) Recuperado el 21 de marzo de 2015, de National Geogra phic en español: http://www.ngenespanol.com/ciencia/salud/15/03/20/la -felicidad- si-teduermestemprano .html",
+    "questions": [
+      {
+        "statement": "2. En el texto, el vocablo SUGERIR connota",
+        "alternatives": [
+          "A) desarrollo.",
+          "B) posibilidad.",
+          "C) delusión.",
+          "D) aprobación.",
+          "E) demostración."
+        ],
+        "correct": 1,
+        "rationale": "El vocablo en el texto es usado para referirse a una conjetura acerca de la interrupción del sueño y el desarrollo de pensamientos negativos persistentes. En tal sentido, connota probabilidad o posibilidad."
+      },
+      {
+        "statement": "3. Resulta incompatible con el desarrollo textual afirmar que dormir muchas horas",
+        "alternatives": [
+          "A) genera pensamientos intrusivos desagradables.",
+          "B) evitaría los trastornos de pensamientos intrusivos.",
+          "C) beneficiaría psicológicamente a los individuos.",
+          "D) permitiría controlar los pensamientos negativos.",
+          "E) ayudaría a desarrollar una visión más optimista."
+        ],
+        "correct": 0,
+        "rationale": "Dormir muchas horas evitaría pensamientos negativos, ya que estos están asociados al hábito de dormir muy tarde y pocas horas."
+      },
+      {
+        "statement": "4. Es posible deducir del desarrollo textual que una persona cuyos hábitos para dormir sean los adecuados",
+        "alternatives": [
+          "A) dejarían de padecer enfermedades físicas y, sobre todo, cognitivas.",
+          "B) serían medicadas por presentar delaciones de manía y agresividad.",
+          "C) ostentarían una visión prospectiva menos obsesiva y más optimista.",
+          "D) convendrían en ayudar a las personas que sufren trastornos de sueño.",
+          "E) servirían para demostrar que el sueño es positivo si dura menos horas."
+        ],
+        "correct": 2,
+        "rationale": "Las personas que duermen poco y muy tarde piensan obsesivamente en el futuro y desarrollan una perspectiva negativa; contrariamente, es razonable asumir que las personas que duermen adecuadamente tendrían una visión más optimista del futuro."
+      },
+      {
+        "statement": "5. los pensamientos negativos, probablemente",
+        "alternatives": [
+          "A) la dificultad para dormir en personas noctámbulas sería la causa real de los trastornos.",
+          "B) la hipótesis central del estudio quedaría corroborada por la evidencia contundente al respecto.",
+          "C) los casos en que se presente una visión pesimista del futuro desaparecerían en su totalidad.",
+          "D) los trastornos de pensamientos intrusivos aparecerían marcadamente en quienes duermen más.",
+          "E) no habría manera de establecer una relación causal entre estos y la falta de sueño."
+        ],
+        "correct": 4,
+        "rationale": "El estudio permite establecer un patrón entre quienes duermen menos, pues estos presentan pensamientos negativos. Si los pensamientos negativos aparecieran en quienes duermen bien o quienes duermen pocas horas, sería implausible establecer una conexión causal."
+      }
+    ]
+  },
+  {
+    "type": "reading_comprehension",
+    "statement": "Es de vital importancia considerar el problema de la representación de personas andinas en los medios de comunicación peruanos. Por una parte, Bruce mantiene que la exclusión ejercida por la televisión y la publicidad en revistas al representar a los peruanos refuerza la idea de que ser proveniente de la sierra no es aceptado. Afirma que la publicidad muestra modelos cuyas características corporales no concuerdan con las de la mayoría de peruanos, especialmente las de los provenientes de la sierra, creando una división de la idea de belleza: las personas de raza blanca son atractivas, las de la sierra no lo son. A manera de estrategia, Bruce propone empezar una campaña de inclusión y reconocimiento de la diversidad. Por otra parte, Ardito (2007) afirma que pese a haber cierta representación de personas provenientes de la sierra en los medios, esta es por lo general negativa. Por ejemplo, en las comedias, dichas personas normalmente son representadas como sujetos tontos cuyo limitado conocimiento y su peculiar acento son motivos de burla. Incluso utilizan la palabra «cholo» o «serrano», que describen personas de origen andino de manera peyorativa. Dicha actitud se convierte en una práctica cotidiana y confirma la regla postulada por Dyer (1977) para el estereotipo: que la característica negativa es establecida por la naturaleza, siempre ha sido igual y que es imposible cambiar la actitud. De manera similar, otro ejemplo notable estaría constituido por la representación de personas de la sierra en programas de televisión del tipo reality . A inicios de la década de 2000, un popular talk show , Laura en América , representó a las personas de la sierra como salvajes cuyos problemas solo se podían solucionar mediante peleas y demostrando otros tipos de conducta violenta, lo que generaba vergüenza entre los espectadores.\nMás recientemente, un programa del tipo reality , Vidas Extremas , en el que un personaje conocido debe vivir durante algunos días con alguien que vive en condiciones extremas de pobreza, resalta la idea de que las personas provenientes de la sierra son las más desaventajadas, sufren y no son felices, lo que crea en los espectadores un sentimiento de pena y lástima por ellos. Estos ejemplos ayudan a entender la aparición de la necesidad de una representación de dichas personas en los medios de comunicación peruanos que contribuya a reducir actitudes y prácticas racistas.\n\nYaranga, M. (2012) « “20 lucas”: discriminación y representación de las personas andinas en la era del fenómeno culinario peruano» . En Consensus . Vol. 17. N.° 1. Lima: UNIFE.",
+    "questions": [
+      {
+        "statement": "2. En el texto, la palabra PEYORATIVA alude a la",
+        "alternatives": [
+          "A) discriminación.",
+          "B) deficiencia.",
+          "C) exactitud.",
+          "D) jocosidad.",
+          "E) deferencia."
+        ],
+        "correct": 0,
+        "rationale": "En el texto, PEYORATIVA alude a la forma en que caracterizan los medios al hombre andino: como un ser deficiente e inferior con respecto al resto."
+      },
+      {
+        "statement": "3. Se deduce del texto que los programas de tipo reality",
+        "alternatives": [
+          "A) difunden ideales de belleza sucedáneos de nuestra complexión física ideal.",
+          "B) fundamentalmente fomentan una visión prototípica acerca del hombre andino.",
+          "C) son los principales responsables de instituir el estereotipo del «serrano sucio».",
+          "D) construyen imágenes distorsionadas de la realidad del hombre andino.",
+          "E) muestran una actitud de exclusión constante solo hacia el hombre andino."
+        ],
+        "correct": 3,
+        "rationale": "Los ejemplos mencionados en el texto son muestra clara de que esos programas no muestran la realidad acerca de las personas, sino estereotipos."
+      },
+      {
+        "statement": "4. Señale el enunciado incompatible con el texto.",
+        "alternatives": [
+          "A) La publicidad contribuye a la baja autoestima de ciertos sectores de la población.",
+          "B) El objetivo de los realitys es producir valoraciones inclusivas del hombre andino.",
+          "C) El hombre andino es discriminado por razones raciales y socioeconómicas.",
+          "D) Dar por válidos los estereotipos sobre el hombre andino implica cierto fatalismo.",
+          "E) Existen casos en los que se representa de forma vulnerable al hombre andino."
+        ],
+        "correct": 1,
+        "rationale": "En el texto se dice que los realitys generan o bien vergüenza ante la situación del hombre andino o bien como salvajes, es contrario afirmar que estas imágenes sean inclusivas."
+      }
+    ]
+  },
+  {
+    "type": "reading_comprehension",
+    "statement": "Los filósofos neopositivistas pensaban que el método característico de la ciencia era el método inductivo, según el cual la ciencia se basa en la observación empírica de los hechos y, a partir de ahí, formula leyes universales. Así, por ejemplo, empezamos observando que cada uno de los cuervos que encontramos es negro y acabamos concluyendo que todos los cuervos son negros.\nEl problema es que este tipo de razonamiento no es concluyente, pues por muchas veces que haya mos observado un fenómeno nunca podremos estar seguros de que en un futuro el fenómeno seguirá dándose de la misma manera. Así, podemos haber observado muchos cisnes y haber visto que todos ellos eran blancos, pero si de eso deducimos que todos los cisnes son blancos corremos el riesgo de equivocarnos (de hecho, hay cisnes negros). Es lo que se conoce como el problema de la inducción.\nEn su libro Los problemas de la filosofía , Bertrand Russell lo ilustró de esta forma: imaginemos un pavo al que un granjero da de comer todos los días. El pavo se acaba acostumbrando a esto y cada vez que ve aparecer al granjero espera recibir su ración diaria. Supongamos que el pavo es un buen inductivista y no quiere precipitarse en sus conclusiones. Se dedica por lo tanto a recoger pacientemente datos sobre el asunto que más le interesa: la hora de la comida. Finalmente, en vista de la regularidad con que se suceden los fenómenos, el pavo acaba deduciendo que siempre que aparece el granjero, él recibe su ración de pienso. Es el Día de Acción de Gracias y el pavo se pavonea con su descubrimiento. No imagina que ese mismo día el granjero que lo ha estado alimentando, en vez de darle la comida, le retorcerá el pescuezo, lo meterá en el horno y se lo comerá.\nGonzáles, P. (2007). Filosofía para bufones . Barcelona: Editorial Ariel.\n",
+    "questions": [
+      {
+        "statement": "¿Cuál es la idea principal del texto?",
+        "alternatives": [
+          "A) Los Neopositivistas asumían que el método que caracterizaba a la ciencia era la inducción.",
+          "B) El problema de la inducción radica en que es un tipo de razonamiento de carácter no concluyente.",
+          "C) Bertrand Russell presenta el ejemplo del pavo para ilustrar cómo se desarrolla la inducción.",
+          "D) El método inductivo fue defendido con mucha determinación por los filósofos neopositivistas.",
+          "E) El uso del método inductivo revela que la lógica constituye uno de los pilares de inductivo."
+        ],
+        "correct": 1,
+        "rationale": null
+      },
+      {
+        "statement": "La expresión RECOGER PACIENTEMENTE DATOS SOBRE EL ASUNTO implica",
+        "alternatives": [
+          "A) antelación.",
+          "B) observación.",
+          "C) premura.",
+          "D) divagación.",
+          "E) enajenación."
+        ],
+        "correct": 1,
+        "rationale": "El pavo, como buen inductivista, se dedica a observar los hechos recurrentes con cuidado para extraer de ellos una conclusión."
+      },
+      {
+        "statement": "Es incompatible con el texto aseverar que Bertrand Russell",
+        "alternatives": [
+          "A) abordó la inducción en Los problemas de la filosofía .",
+          "B) asumía que el método inductivo no era concluyente.",
+          "C) propuso una historia alegórica acerca de la inducción.",
+          "D) buscaba justificar la utilización del método inductivo.",
+          "E) discrepaba de los neopositivistas sobre la inducción."
+        ],
+        "correct": 3,
+        "rationale": "Mediante la historia del pavo, Russell muestra el problema de la inducción. No puede afirmarse que él quiera justificar la inducción."
+      },
+      {
+        "statement": "Se desprende del texto que, para los neopositivistas,",
+        "alternatives": [
+          "A) el método inductivo no es el apropiado para alcanzar el conocimiento científico.",
+          "B) el método basado en la inducción encerraba un problema totalmente insoluble.",
+          "C) la deducción debería ser el método más usado en todas las ciencias empíricas.",
+          "D) el conocimiento de la ciencia empírica se obtiene por medio de la inducción.",
+          "E) el método inductivo debería ser desdeñado por no ser totalmente concluyente."
+        ],
+        "correct": 3,
+        "rationale": "Los filósofos neopositivistas pensaban que el método característico de la ciencia era el método inductivo. La inducción servía como método para la formulación de leyes universales."
+      },
+      {
+        "statement": "Si llegado el Día de Acción de Gracias el granjero le hubiera dado su ración de pienso al pavo",
+        "alternatives": [
+          "A) podríamos sostener que los fenómenos naturales son inmutables.",
+          "B) dicho caso probaría lo sostenido por los filósofos neopositivistas.",
+          "C) aun en tal situación, la conclusión del pavo no sería concluyente.",
+          "D) sería una prueba de que la inducción es totalmente concluyente.",
+          "E) la conclusión de este último no podría impugnarse en el futuro."
+        ],
+        "correct": 2,
+        "rationale": "Nunca podremos estar seguros de que en un futuro el fenómeno seguirá dándose del mismo modo. De ahí que la inducción no sea concluyente."
+      }
+    ]
+  },
+  {
+    "type": "verbal_series",
+    "statement": "Mordaz, cáustico, punzante,",
+    "alternatives": [
+      "A) comedido.",
+      "B) agresivo.",
+      "C) sensato.",
+      "D) draconiano.",
+      "E) transigente."
+    ],
+    "correct": 1,
+    "rationale": "Serie de sinónimos. Se completa adecuadamente con «agresivo»."
+  },
+  {
+    "type": "sentence_elimination",
+    "statement": "I) Dieta sana, ejercicio y evitar el consumo de tóxicos pueden considerarse como los tres pilares para mantener una vida sana tanto para varones como para mujeres. II) En el caso de las mujeres, los problemas cardiovasculares ola osteoporosis son afecciones a las que ellas son más proclives después de la menopausia. III) Es posible que la mujer pueda evitar estas enfermedades , según los especialistas, si lograse mantener una vida saludable en el máximo de tiempo posible. IV) Es fundamental, además, que la mujer logre obtener un buen pico de masa ósea durante la juventud. V) No obstante, unos buenos hábitos de vida desde la temprana edad de la mujer pueden ser, según este especialista, uno de los métodos preventivos más eficaces.",
+    "alternatives": [
+      "A) I",
+      "B) II",
+      "C) III",
+      "D) IV",
+      "E) V"
+    ],
+    "correct": 0,
+    "rationale": "El tema es recomendaciones para evitar el desarrollo de enfermedades cardiovasovasculares ola osteoporosis en la mujer. Se elimina la oración I por impertinencia."
+  },
+  {
+    "type": "sentence_elimination",
+    "statement": "I) La torre Eiffel es una estructura de hierro pudelado situada en el extremo del Campo de Marte a la orilla del río Sena en París. II) Este monumento parisino, símbolo de Francia y su capital, es la estructura más alta de la ciudad. III) Su construcción fue obra del ingeniero francés Gustave Eiffel y de sus colaboradores para la Exposición universal de 1889 en París. IV) Asimismo, la torre Eiffel es el monumento, que cobra entrada, más visitado del mundo, con 7,1 millones de turistas cada año. V) La torre Eiffel es considerado un símbolo de la cultura francesa y se ubica cerca al río Sena, el más famoso de París.",
+    "alternatives": [
+      "A) III",
+      "B) I",
+      "C) II",
+      "D) V",
+      "E) IV"
+    ],
+    "correct": 3,
+    "rationale": "Se elimina por redundancia. La información de la quinta oración se haya parcialmente en la primera y en la segunda."
+  },
+  {
+    "type": "sentence_elimination",
+    "statement": "I) La procrastinación es el hábito de retrasar actividades o situaciones que deben atenderse, sustituyéndolas por otras situaciones más irrelevantes o agradables. II) La procrastinación se aplica comúnmente al sentido de ansiedad generado ante una tarea pendiente de concluir. III) La procrastinación es un trastorno del comportamiento que tiene su raíz en la asociación de la acción a realizar con el cambio, el dolor ola la incomodidad (estrés). IV) El estrés es una reacción fisiológica del organismo en el que entran en juego diversos mecanismos de defensa para afrontar una situación que se percibe como amenazante o de demanda incrementada. V) El acto que se pospone en la procrastinación puede ser percibido como abrumador, desafiante ,inquietante, peligroso, difícil, tedioso o aburrido, es decir, estresante, por lo cual se autojustifica posponerlo a un futuro incierto.",
+    "alternatives": [
+      "A) I",
+      "B) IV",
+      "C) II",
+      "D) III",
+      "E) V"
+    ],
+    "correct": 1,
+    "rationale": "Se elimina por inatingencia. Todas las oraciones aluden a la procrastinación, salvo la cuarta que se destaca el tema del estrés."
+  },
+  {
+    "type": "verbal_series",
+    "statement": "2. En una división entera, el cociente es 12 y el residuo es máximo. Si la suma del dividendo y el divisor es 1441, halle el producto de las cifras del dividendo",
+    "alternatives": [
+      "A) 72",
+      "B) 36",
+      "C) 64",
+      "D) 48",
+      "E) 56"
+    ],
+    "correct": 0,
+    "rationale": "q = 12, r máx = d – 1, D + d = 1441  12d + d – 1 + d = 1441  14d – 1 = 1441  d = 1442  d = 103  D = 103.12 + 102 = 1338. Por lo tanto 1.3.3.8 = 72"
+  }
+]

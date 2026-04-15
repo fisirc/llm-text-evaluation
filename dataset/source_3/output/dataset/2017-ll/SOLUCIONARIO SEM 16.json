@@ -1,0 +1,469 @@
+[
+  {
+    "type": "reading_comprehension",
+    "statement": "SEMANA 16A EL TEXTO CIENTÍFICO El texto científico da a conocer información o resultados asociados con la práctica de la investigación científica. Algunos textos muestran un hecho basado en una descripción objetiva y rigurosa ,que en principio es susceptible de confirmación. Otros describen un experimento que permitió establecer un resultado. Cuando de resultados se trata, estos pueden ser positivos, como la corroboración de una hipótesis o un descubrimiento de impacto; o negativos, como la refutación o rechazo de una hipótesis. No pocos textos científicos explican una teoría o un aspecto involucrado en ella, fundamentada en una profunda elucidación conceptual. Pero en su mayoría son textos de divulgación científica, en los cuales, sin perder su exactitud, se pone al alcance de la comprensión de los lectores no especializados información de alto nivel académico. Plutón quedó degradado a la categoría de planeta enano en 2006 y, desde entonces, se considera que so lo existen ocho planetas orbitando el Sol. Sin embargo, de confirmarse la hipótesis de un equipo de astrónomos del Instituto de Tecnología de California (Caltech), podrían volver a ser nueve los planetas integrantes del sistema solar. Los modelos matemáticos y simulaciones por ordenador han constatado que, teóricamente, debería de haber un nuevo planeta, denominado Planeta Nueve, pero no se ha podido observar y localizar de manera práctica. Los resultados preliminares, que deben ser corroborados en el futuro, han levantado un gran revuelo por su importancia histórica. \"Por primera vez en 150 años tenemos pruebas sólidas de que el censo planetario del sistema solar está incompleto\", explican los científicos.",
+    "questions": [
+      {
+        "statement": "Básicamente, el texto trata sobre",
+        "alternatives": [
+          "A) la localización del Planeta Nueve en el sistema solar.",
+          "B) la reconsideración de Plutón como el noveno planeta.",
+          "C) la posible existencia de Planeta Nueve en el sistema solar.",
+          "D) un informe riguroso del CaItech sobre el censo planetario.",
+          "E) la importancia de los modelos matemáticos en astronomía."
+        ],
+        "correct": 2,
+        "rationale": "El texto trata, fundamentalmente, la hipótesis sobre la existencia de Planeta Nueve en el sistema solar."
+      },
+      {
+        "statement": "En el texto, el sentido del término DEGRADAR es",
+        "alternatives": [
+          "A) humillar.",
+          "B) envilecer.",
+          "C) resumir.",
+          "D) transformar.",
+          "E) reducir."
+        ],
+        "correct": 4,
+        "rationale": "El término RUPTURA significa excepción."
+      },
+      {
+        "statement": "No se condice con el texto sostener que el sistema solar",
+        "alternatives": [
+          "A) se hallaba integrado por nueve planetas antes del 2006.",
+          "B) podría albergar a Planeta Nueve según un equipo del Caltech.",
+          "C) presenta un censo planetario incompleto sin lugar a dudas.",
+          "D) está conformado por nueve planetas muy bien localizados.",
+          "E) es analizado a través de modelos matemáticos y simulaciones."
+        ],
+        "correct": 3,
+        "rationale": "En el texto se sostiene que, teóricamente, debería de haber un nuevo planeta, denominado Planeta Nueve, pero no se ha podido observar y localizar de manera práctica."
+      }
+    ]
+  },
+  {
+    "type": "reading_comprehension",
+    "statement": "Un solo fotón puede potencialmente desencadenar una reacción química que implica varias moléculas, superando la segunda ley de la fotoquímica. Cuando la luz provoca reacciones químicas, como en la fotosíntesis o visión, la segunda ley sostiene que cada fotón reacciona con una sola molécula, aunque hay excepciones. Javier Galego, F rancisco García -Vidal y Johannes Feist de la Universidad Autónoma de Madrid informan de una nueva ruptura de la norma, cuando la luz existe como una onda permanente contenida por los espejos. Sugieren que a medida que la luz resuena en esta cavidad óptica, podría desencadenar reacciones con todas las moléculas allí. Esto permitiría que un único fotón interactuara con muchas moléculas al mismo tiempo, induciendo a todas ellas a liberar energía almacenada. Si se demuestra experimentalmente, el principio podría utilizarse para desarrollar formas de almacenar y liberar la energía solar, dicen los autores.",
+    "questions": [
+      {
+        "statement": "¿Cuál es la idea principal del texto?",
+        "alternatives": [
+          "A) Los fotones no pueden reaccionar, simultáneamente, con varias moléculas para liberar energía almacenada.",
+          "B) Según la segunda ley de la fotoquímica, un fotón logra reaccionar con muchas moléculas al mismo tiempo.",
+          "C) La demostración experimental de la excepción a la segunda ley de la fotoquímica permite usar energía solar.",
+          "D) Un solo fotón puede desencadenar muchas reacciones, esquivando la segunda ley de la fotoquímica.",
+          "E) Un fotón puede desencadenar muchas reacciones en diferentes moléculas en tiempos distantes."
+        ],
+        "correct": 3,
+        "rationale": "La hipótesis sobre una nueva ruptura a la norma quedaría sin sustento si se demuestra que solo es posible que cada fotón reacciona con una sola molécula."
+      },
+      {
+        "statement": "En el texto, el sentido del término RUPTURA es",
+        "alternatives": [
+          "A) contingencia.",
+          "B) excepción.",
+          "C) escisión.",
+          "D) atingencia.",
+          "E) desarraigo."
+        ],
+        "correct": 1,
+        "rationale": "Javier Galego, Francisco García -Vidal y Johannes Feist de la Universidad Autónoma de Madrid informan de una nueva ruptura de la norma. El término RUPTURA significa excepción."
+      },
+      {
+        "statement": "Si se concluyera, taxativamente, que cada fotón reacciona con una sola molécula, sin excepciones, entonces",
+        "alternatives": [
+          "A) la hipótesis de Galego, García -Vidal y Feist carecería de asidero.",
+          "B) no se podría justificar la actuación de la luz en la fotosíntesis.",
+          "C) este principio haría plausible la obtención de energía solar.",
+          "D) un solo fotón lograría una reacción qu ímica polimolecular.",
+          "E) la segunda ley de la fotoquímica quedaría desestimada."
+        ],
+        "correct": 0,
+        "rationale": "La hipótesis sobre una nueva ruptura a la norma quedaría sin sustento si se demuestra que solo es posible que cada fotón reacciona con una sola molécula."
+      }
+    ]
+  },
+  {
+    "type": "reading_comprehension",
+    "statement": "El desarrollo de una vacuna capaz de curar el cáncer constituye uno de los principales anhelos, cuando no el mayor de los deseos, del imaginario popular. El problema es que, en sí mismo, el cáncer no es una enfermedad, sino solo el t érmino que se utiliza para definir a un conjunto de procesos muy diversos caracterizados por un crecimiento de células malignas. Por ejemplo, el proceso por el que se desarrolla una leucemia es muy diferente del que da lugar al cáncer de mama. De hecho, ni siquiera los distintos tipos de tumores de la mama se parecen demasiado entre sí. Pero, ¿no podría diseñarse una vacuna para cada tipo de tumor? O mejor aún, ¿no podrían desarrollarse vacunas específicas para tratar el proceso oncológico específico que presenta cada paciente individual? Pues parece que investigadores de la Universidad de Michigan en Ann Arbor (EE.UU.) podrían haber dado un paso muy significativo en este sentido. El estudio, publicado en la revista « Nature Materials », muestra cómo la inoculación\n\ncancerígenas – con las mutaciones específicas del tumor ‘muestra’ o ‘enseña’ al sistema inmune quién es el enemigo. En consecuencia, el sistema inmune desarrolla linfocitos T frente a estos neoantígenos específicos –o lo que es lo mismo, frente a las células cancerígenas –, con lo que puede no solo destruir el tumor, sino incluso prevenir su reaparición. Como explica James Moon, coautor de la investigación, “basically what we are doing is educating the immune system with th ese nanodiscs so that the immune cells can attack the cancer cells in a personalized way. The idea is that the nanodiscos of the vaccine activate the immune system to combat the existing tumor in a personalized way”. En el estudio, los autores utilizaron la tecnología de los nanodiscos en modelos animales –ratones – de cáncer colorrectal y de melanoma. Y lo que observaron es que, gracias a la administración de la vacuna, hasta un 27% de los linfocitos circulantes en la sangre de los animales se unieron a la lucha para hacer frente al tumor .\n\nTomado de http://www.abc.es/salud/enfermedades/abci -mas-cerca -ansiada -vacuna -terapeutica -personalizada -contra-\ncancer -201612231930_noticia.html",
+    "questions": [
+      {
+        "statement": "El texto se centra en una investigación que sostiene",
+        "alternatives": [
+          "A) la inviabilidad de lograr un tratamiento personalizado que pueda curar los diversos tipos de cáncer.",
+          "B) la posibilidad de hallar una vacuna universal capaz de inhibir la aparición de células cancerígenas.",
+          "C) las limitaciones de las vacunas tradicionales para impedir el crecimiento y desarrollo de tumores malignos,",
+          "D) la plausibilidad de emplear nanodiscos en la vacuna que active el sistema inmune para combatir un tumor ya existente.",
+          "E) la promisoria aplicación de nanopartículas en la medicina para contrarrestar diversas enfermedades."
+        ],
+        "correct": 3,
+        "rationale": "En el texto se desarrolla, básicamente, la publicación de un estudio donde se propone que los nanodiscos con neoantígenos de la vacuna activen al sistema inmune para combatir el tumor ya existente de forma personalizada."
+      },
+      {
+        "statement": "En el texto, el antónimo contextual del término DESTRUIR es",
+        "alternatives": [
+          "A) iniciar.",
+          "B) amainar.",
+          "C) prolifer ar.",
+          "D) medrar.",
+          "E) fortalecer."
+        ],
+        "correct": 4,
+        "rationale": "Según el texto, los nanodiscos con neoantígenos activarán al sistema inmune y este desarrollará linfocitos T específicos para destruir (eliminar) el tumor. Entonces, el antónimo contextual del término DESTRUIR es FORTALECER."
+      },
+      {
+        "statement": "Se colige del texto que la vacuna terapéutica personalizada",
+        "alternatives": [
+          "A) ha logrado curar diferentes tipos de cáncer a muchos pacientes.",
+          "B) ha generado expectativa por los resultados obtenidos en animales.",
+          "C) es un cóctel de neoantígenos que logra restablecer la salud humana.",
+          "D) se usará para inhibir la a ctividad protectora del sistema inmunológico.",
+          "E) contiene linfocitos T específicos para eliminar células cancerígenas."
+        ],
+        "correct": 1,
+        "rationale": "Según el texto, ante la necesidad imperiosa de hallar soluciones al cáncer, un estudio plantea la vacuna terapéutica personalizada para reactivar al sistema inmune y produzca linfocitos T y estos ataquen células cancerígenas del tipo de cáncer que se padezca. Los resultados en ratones son promisorios."
+      },
+      {
+        "statement": "Si el sistema inmune no lograra desarrollar linfocitos T frente a las células cancerígenas específicas, entonces",
+        "alternatives": [
+          "A) la vacuna personalizada contaría con mayor posibilidad de contrarrestar células cancerígenas.",
+          "B) sería necesaria la utilización de vacunas más potentes para reactivar el sistema inmunológico del paciente.",
+          "C) El uso de la tecnología de los nanodiscos en las vacunas contra el cáncer habría resultado muy propicia.",
+          "D) las células inmunes producidas por el sistema inmunológico no lograrían cumplir su función de defensa.",
+          "E) sería imposible hacer frente al cáncer, pues no se podría detener, destruir o"
+        ],
+        "correct": 4,
+        "rationale": "Según el estudio, la vacuna personalizada busca reactivar al sistema inmune para que prepare células específicas y estas puedan destruir y prevenir la aparición de células cancerígenas."
+      }
+    ]
+  },
+  {
+    "type": "verbal_series",
+    "statement": "Balcanizar, escindir, desmembrar,",
+    "alternatives": [
+      "A) fragmentar",
+      "B) finiquitar",
+      "C) soslayar",
+      "D) extirpar",
+      "E) suprimir."
+    ],
+    "correct": 0,
+    "rationale": "Serie de palabras asociadas a la división."
+  },
+  {
+    "type": "verbal_series",
+    "statement": "Solazar, recrear, distraer,",
+    "alternatives": [
+      "A) encomiar",
+      "B) ostentar",
+      "C) transigir",
+      "D) periclitar",
+      "E) esparcir."
+    ],
+    "correct": 4,
+    "rationale": "Serie de palabras asociadas al esparcimiento, a la diversión."
+  },
+  {
+    "type": "verbal_series",
+    "statement": "Solazar, recrear, distraer,",
+    "alternatives": [
+      "A) encomiar",
+      "B) ostentar",
+      "C) transigir",
+      "D) periclitar",
+      "E) esparcir."
+    ],
+    "correct": 0,
+    "rationale": null
+  },
+  {
+    "type": "verbal_series",
+    "statement": "Ineficacia, insuficiencia, ineficiencia,",
+    "alternatives": [
+      "A) insania",
+      "B) inoperancia",
+      "C) inactividad",
+      "D) inviabilidad",
+      "E) impericia ."
+    ],
+    "correct": 1,
+    "rationale": null
+  },
+  {
+    "type": "analogies",
+    "statement": "Aturdido, atolondrado; espabilado, astuto; porfiado, obstinado;",
+    "alternatives": [
+      "A) Inope, potentado",
+      "B) apto, grogui",
+      "C) cansino, gravoso",
+      "D) baquiano, versado",
+      "E) ladino, obtuso."
+    ],
+    "correct": 3,
+    "rationale": null
+  },
+  {
+    "type": "analogies",
+    "statement": "Serie de analogías basada en la sinonimia.",
+    "alternatives": [
+      "A) ensañar, enfurecer",
+      "B) defenestrar, denegar",
+      "C) aherrojar, liberar",
+      "D) instruir, aprehender",
+      "E) abjurar, repudiar."
+    ],
+    "correct": 3,
+    "rationale": null
+  },
+  {
+    "type": "analogies",
+    "statement": "Serie de analogías mixtas: sinónimos, antónimos, sinónimos y debe completarse con antónimos.",
+    "alternatives": [
+      "A) ensañar, enfurecer",
+      "B) defenestrar, denegar",
+      "C) aherrojar, liberar",
+      "D) instruir, aprehender",
+      "E) abjurar, repudiar."
+    ],
+    "correct": 2,
+    "rationale": null
+  },
+  {
+    "type": "reading_comprehension",
+    "statement": "SEMANA 16 B\n\nSegún Dan iel Goleman, profesor de psicología de la Universidad de Harvard y autor\ndel best seller Inteligencia Emocional ,esta se define como “la capacidad de reconocer,\nacepta r y canalizar nuestras emociones para dirigir nuestras conductas a objetivos\ndeseados, lograrlo y compartirlos con los demás” .\nA efectos prácticos, eso significa que si somos capaces de identificar y gestionar\ncorrectamente nuestras emociones , sin dejar que nos dominen ni nos sorprendan,\nademás si podemos detectarlas y actuar en consecuencia cuando se están produciendo\nen los demás, tanto nuestras relaciones sociales como la relación con nosotros mismos\nnos resultarán mucho más gratificantes.\nLa Inteligencia Emocional puede dividirse en cuatro grandes bloques:\nel autoconocimiento y la autorregulación de las emociones (área intrapersonal), y\nla empatía y habilidades sociales (área interpersonal). Algunos autores añaden al área\nintrapersonal la capacidad de automotivarse y adaptarse al cambio.\n\nsociales y autoestima. Existen numerosos estudios científicos que han demostrado que\nsus ventajas se extienden a muchas otras áreas de la vida, como por ejemplo:\n\nMayor satisfacción y éxitos tanto a nivel personal como profesional (O’Boyle Jr., 2010)\nMenor dependencia de las adicciones (Zysberg, 2013 y UAB, 2007)\nMejor sistema inmunitario y salud en general (Martins et al., 2010)\nReducción de la ansiedad y el estrés (Lusch & Serpkeuci, 1990)\nMayor satisfacción con el matrimonio (Eslami, 2014)\nMayor carisma en tu círculo social y profesional (Walter V. Clarke Associates, 1997)\n",
+    "questions": [
+      {
+        "statement": "¿Cuál es la idea principal del texto?",
+        "alternatives": [
+          "A) El fortalecimiento de la inteligencia emocional garantiza el éxito laboral de los profesionales.",
+          "B) La inteligencia emocional está determinada por cuatro bloques infranqueables.",
+          "C) La felicidad humana está sujeta al equilibrio de los cuatro bloques de la inteligencia emocional.",
+          "D) El buen manejo de la inteligencia emocional beneficia el área intrapersonal en desmedro del área interpersonal.",
+          "E) Una correcta gestión de la inteligencia emocional favorece notablemente la vida del hombre."
+        ],
+        "correct": 4,
+        "rationale": "Según el texto, una buena gestión emocional genera una serie de ventajas en el individuo."
+      },
+      {
+        "statement": "¿Resulta compatible con el gráfico sostener que",
+        "alternatives": [
+          "A) los cuatro bloques de la inteligencia emocional se encuentran integrados.",
+          "B) las habilidades sociales se desarrollan al margen de la inteligencia emocional.",
+          "C) el autocontrol del individuo ostenta mayor jerarquía que los demás bloques.",
+          "D) la empatía permite el afianzamiento del egocentrismo de cada individuo.",
+          "E) los sentimientos de una persona se estringen solo al área interpersonal."
+        ],
+        "correct": 0,
+        "rationale": "Según el gráfico del texto, estos cuatro bloques en que se divide la inteligencia emocional se relacionan al área intrapersonal y al área interpersonal. Estas dos áreas son complementarias."
+      }
+    ]
+  },
+  {
+    "type": "reading_comprehension",
+    "statement": "Según el texto, una buena gestión emocional genera una serie de ventajas en el individuo.",
+    "questions": [
+      {
+        "statement": "Resulta compatible con el gráfico sostener que",
+        "alternatives": [
+          "A) los cuatro bloques de la inteligencia emocional se encuentran integrados.",
+          "B) las habilidades sociales se desarrollan al margen de la inteligencia emocional.",
+          "C) el autocontrol del individuo ostenta mayor jerarquía que los demás bloques.",
+          "D) la empatía permite el afianzamiento del egocentrismo de cada individuo.",
+          "E) los sentimientos de una persona se estringen solo al área interpersonal."
+        ],
+        "correct": 0,
+        "rationale": "Según el gráfico del texto, estos cuatro bloques en que se divide la inteligencia emocional se relacionan al área intrapersonal y al área interpersonal. Estas dos áreas son complementarias."
+      },
+      {
+        "statement": "En el texto, el sinónimo contextual del término GRATIFICANTE es",
+        "alternatives": [
+          "A) satisfactorio.",
+          "B) lúdico.",
+          "C) dinámico.",
+          "D) ple tórico.",
+          "E) onírico."
+        ],
+        "correct": 0,
+        "rationale": "En el texto, el término GRATIFICANTE hace referencia a la satisfacción que se siente por una buena gestión emocional."
+      },
+      {
+        "statement": "Se infiere del texto que la inteligencia emocional",
+        "alternatives": [
+          "A) se restringe al funcionamiento del área intrapersonal.",
+          "B) puede coadyuvar al buen desenvolvimiento personal.",
+          "C) resulta contraproducente para el desarrollo cognitivo.",
+          "D) ha sido un best seller del psicólogo Daniel Goleman.",
+          "E) no logra trascender las relaciones sociales del individuo."
+        ],
+        "correct": 1,
+        "rationale": "Por la referencias de diversos estudios que se citan en el texto, una buena gestión de la inteligencia emocional sería muy ventajosa en diversas áreas de la vida."
+      },
+      {
+        "statement": "Si una persona no fuera capaz de identificar y gestionar correctamente sus emociones, entonces",
+        "alternatives": [
+          "A) sería probable que no haya logrado gestionar su inteligencia emocional.",
+          "B) podría mejorar sus emociones si recibe buen tratamiento psicológico.",
+          "C) estaría catalogado como paradigma de un sólido desarrollo emocional.",
+          "D) sus relaciones sociales podrían ser hostiles, pero muy gratificantes.",
+          "E) vería menoscabada su vida cotidiana por sus trastornos psicológicos."
+        ],
+        "correct": 0,
+        "rationale": "Según el texto, una buena gestión de las emociones permite ser capaces de identificar y canalizar nuestras emociones para lograr resultados muy gratificantes en nuestra vida."
+      }
+    ]
+  },
+  {
+    "type": "reading_comprehension",
+    "statement": "El trabajo sobre las ventajas y desventajas de ser muy hermoso de las psicólogas sociales Lisa Slattery Walker y Tonya Frevert de la Universidad de Carolina del Norte, publicado por el diario BBC Mundo ,analiza varias evidencias de distintos estudios y sus resultados arrojaron sorprendentes datos.\nCuando una persona observa a otra físicamente agradable, el subconsciente deduce automáticamente que también es hermoso en otros aspectos.\n\"Es una de las muchas características asociadas al estatus que podemos identificar en las primeras interacciones con una persona\", explicó Walker.\nOtro estudio realizado a profesionales con una maestría demostró que los más\ntrabajo\", mencionó la psicóloga Lisa Slattery. La experta contó que la justicia también está de parte de los atractivos, ya que según los datos en un juicio, una apariencia agradable puede lograr que le den una sentencia más baja al acusado, hasta se puede salvar de la condena.\nEn las desventajas de ser considerado una persona atractiva juegan los prejuicios sexistas en contra de las mujeres bellas, según el estudio las mujeres hermosas son consideradas menos confiables para puestos de gran responsabilidad y autoridad.\nEl estudio asegura que una gran parte de los entrevistadores de trabajo no suele contratar personas que considere más guapas que él mismo.\nTambién la tendencia a relacionar el buen aspecto con el estar sano lleva a que muchas veces se tome menos en serio la enfermedad cuando el paciente es hermoso.\nLas investigaciones explican que los médicos suelen tener menos cuidado con los pacientes atractivos cuando estos han acudido a ellos por dolores.\nLas psicólogas de la Universidad de Carolina del Norte concluyen que el significado mismo de la belleza es superficial y no está de ninguna forma ligado a nuestra biología.\n“We have a whole set of cultural ideals about beauty that allows us to say whether someone is attractive or not, and we associate those same patterns with each other's abilities”, añaden.",
+    "questions": [
+      {
+        "statement": "Medularmente el texto trata sobre",
+        "alternatives": [
+          "A) la divulgación de un estudio entorno a las consecuencias de ser considerada una persona muy hermosa.",
+          "B) los estudios psicológicos de Lisa Slattery Walker y Tonya Frevert sobre la importancia de la belleza humana.",
+          "C) el impacto socio -cultural generado por estereotipos de belleza y prejuicios en torno a ella.",
+          "D) la revelación de patrones de comportamiento en la gente al observar y tratar a personas demasiado bellas.",
+          "E) un informe psicológico sobre las ventajas y desventajas de paradigmas estéticos universales."
+        ],
+        "correct": 0,
+        "rationale": "En el texto se aborda la publicación sobre los resultados de la investigación de psicólogas de la Universidad de California entorno a las ventajas y desventajas (consecuencias) de ser demasiado hermoso."
+      },
+      {
+        "statement": "En el texto, el sentido del término ARROJAR es",
+        "alternatives": [
+          "A) propagar.",
+          "B) revelar.",
+          "C) facilitar.",
+          "D) plantear.",
+          "E) sugerir."
+        ],
+        "correct": 1,
+        "rationale": "En el texto, se sostiene que los resultados de los estudios de las psic ólogas arrojaron sorprendentes datos. En este caso, la palabra ARROJAR significa REVELAR."
+      }
+    ]
+  },
+  {
+    "type": "reading_comprehension",
+    "statement": "La tradición oral es el conducto primigenio por el cual la mitología se perpetúa. Tanto el narrador como el público que escucha sus explicaciones parten de la base de que se trata de historias supuestamente reales que justifican la existencia de preceptos, ideas, creencias y realidades. Claro que todo ello acostumbra a estar ataviado de hechos fantásticos y sobrenaturales. De esta forma, el mito, que siempre es interpretativo, suele estar compuesto por una serie de símbolos y ornamentos que tienen por objeto penetrar en la conciencia del oyente o bien en su evolución.\nEl psiquiatra Jung defendía la existencia de una entidad superior a la que denominó \"inconsciente colectivo\", que sería algo así como un gran banco central de datos formado por la energía de los arquetipos de la sabiduría con el que ocasionalmente el ser humano podría conectar. Dichas conexiones se efectuarían mediante estados de trance, iluminación, revelación por ayuno o sueño. Dicho de otro modo, las leyendas, mitos, relatos e incluso más tardíamente cuentos, no serían sino conexiones de una sabiduría superior que tendría la misión de formar a la especie humana para lograr su evolución.\nNo deja de ser curioso, si hacemos caso a la hipótesis referida, que exista una cierta concomitancia entre relatos mitológicos de culturas totalmente distintas y que no han tenido contacto entre ellas. Es como si la evolución hubiera sido prácticamente pareja en todas partes y los distintos pueblos hubieran tenido la necesidad de crear, cada uno en función del entorno en el que vivían, historias muy similares que explicasen hechos que son universales. Más allá de todo ello, hay algo innegable, y es que el mito siempre se desarrolla en un tiempo que es anterior al mundo actual, y siempre alude a hechos extraordinarios y a dioses y personajes inaccesibles y dotados de poderes sobrenaturales. Por último, la gran mayoría de los mitos han sido considerados como aspectos inspiradores de cultos y religiones.\nPalao, P. Roig, O. (2006). Diccionario de Mitología . Madrid: Edimat Libros",
+    "questions": [
+      {
+        "statement": "En última instancia, el autor del texto destaca",
+        "alternatives": [
+          "A) la teoría del psiquiatra Jung para explicar la evolución del ser humano.",
+          "B) la influencia de los mitos en las ceremonias religiosas y cultos paganos.",
+          "C) la trascendencia del mito en la formación y desarrollo del pensamiento.",
+          "D) la oralidad como rasgo distintivo de relatos sobre entes sobrenaturales.",
+          "E) la relevancia del \"inconsciente colectivo\" presente en la sabiduría humana."
+        ],
+        "correct": 2,
+        "rationale": "El autor del texto sostiene una serie de características del mito: su oralidad, seres sobrenaturales, explicaciones pasadas, inspirador de cultos…y al final concluye su importante papel en el desarrollo y evolución del pensamiento del hombre ."
+      },
+      {
+        "statement": "A) coincidencia. B) disparidad. C) proximidad. D) engarce. E) incongruencia.",
+        "alternatives": [
+          "A) coincidencia.",
+          "B) disparidad.",
+          "C) proximidad.",
+          "D) engarce.",
+          "E) incongruencia."
+        ],
+        "correct": 0,
+        "rationale": "En el texto se menciona que habría cierta concomitancia, es decir, coincidencia entre relatos mitológicos de culturas totalmente distintas y que no han tenido contacto entre ellas."
+      },
+      {
+        "statement": "Resulta compatible con el texto sostener que el mito",
+        "alternatives": [
+          "A) logró su permanencia debido a su transmisión escrita.",
+          "B) fue un medio exclusivo de la parafernalia religiosa.",
+          "C) se centra en el porvenir de los pueblos antiguos.",
+          "D) ha destacado las vivencias del hombre ordinario.",
+          "E) sería el medio más prístino de explicar la realidad."
+        ],
+        "correct": 4,
+        "rationale": "Tanto el narrador como el público que escucha el mito parten de la base de que se trata de historias supuestamente reales que justifican la existencia de preceptos, ideas, creencias y realidades."
+      }
+    ]
+  },
+  {
+    "type": "reading_comprehension",
+    "statement": "Tanto el narrador como el público que escucha el mito parten de la base de que se trata de historias supuestamente reales que justifican la existencia de preceptos, ideas, creencias y realidades. El psiquiatra Jung denominó \"inconsciente colectivo\" a un gran banco central de datos formado por la sabiduría con el que ocasionalmente el ser humano podría conectar. En tal sentido, se puede inferir que el \"inconsciente colectivo\" transmitiría los saberes ancestrales del ser humano. Tanto el narrador como el público que escucha sus explicaciones parte de la base de que se trata de historias supuestamente reales para así penetrar en la conciencia del oyente o bien en su evolución. De no haberse dado así solo habrían cumplido un rol literario.",
+    "questions": [
+      {
+        "statement": "Resulta compatible con el texto sostener que el mito",
+        "alternatives": [
+          "A) logró su permanencia debido a su transmisión escrita.",
+          "B) fue un medio exclusivo de la parafernalia religiosa.",
+          "C) se centra en el porvenir de los pueblos antiguos.",
+          "D) ha destacado las vivencias del hombre ordinario.",
+          "E) sería el medio más prístino de explicar la realidad."
+        ],
+        "correct": 4,
+        "rationale": "Tanto el narrador como el público que escucha el mito parten de la base de que se trata de historias supuestamente reales que justifican la existencia de preceptos, ideas, creencias y realidades."
+      },
+      {
+        "statement": "Según el texto, se puede colegir que el \"inconsciente colectivo\" de Jung",
+        "alternatives": [
+          "A) gira entorno al desarraigo cultural del hombre.",
+          "B) es accesible solo durante un estado de plena lucidez.",
+          "C) ha sido un escollo para la evolución del hombre.",
+          "D) revela la disparidad de los mitos entre las culturas.",
+          "E) transmitiría los saberes ancestrales del ser humano."
+        ],
+        "correct": 4,
+        "rationale": "El psiquiatra Jung denominó \"inconsciente colectivo\" a un gran banco central de datos formado por la sabiduría con el que ocasionalmente el ser humano podría conectar. En tal sentido, se puede inferir que el \"inconsciente colectivo\" transmitiría los saberes ancestrales del ser humano."
+      }
+    ]
+  },
+  {
+    "type": "sentence_elimination",
+    "statement": "Al haber un consumo indiscriminado de esteroides, se generará un exceso de producción hormonal y esto conllevará una serie de alteraciones.",
+    "alternatives": [
+      "A) es causal de sanción y descalificación en competencias deportivas.",
+      "B) está respaldado y fomentado por los centros deportivos profesionales.",
+      "C) ha resultado contraproducente para la ganancia de masa muscular.",
+      "D) es desestimado tajantemente por quienes practican fisicoculturismo.",
+      "E) dista de tener secuelas físicas o mentales en quienes los consumen."
+    ],
+    "correct": 0,
+    "rationale": "El uso de esteroides se halla prohibido en los deportes de alta competencia por el tema del dopping o dopaje, pues darían una tremenda ventaja en cuanto a rendimiento."
+  },
+  {
+    "type": "sentence_elimination",
+    "statement": "4. Se colige del texto que los esteroides",
+    "alternatives": [
+      "A) son nocivos porque disminuyen la cantidad de testosterona.",
+      "B) pueden generar efectos colaterales en quienes los consumen.",
+      "C) tienen mejor efecto hormonal en su presentación de tableta s.",
+      "D) potencian las facultades mentales de los deportistas calificados.",
+      "E) son anabólicos hormonales y tienen como base la testosterona."
+    ],
+    "correct": 1,
+    "rationale": "El consumo de esteroides no solo afectaría la espermatogénesis y la función eréctil sino que también alter aría otras funciones físicas y mentales descritas en el gráfico."
+  },
+  {
+    "type": "sentence_elimination",
+    "statement": "5. Si la ingesta indiscriminada de esteroides no produjera grave perjuicio en la espermatogénesis, entonces",
+    "alternatives": [
+      "A) el riesgo de padecer infertilidad por consumo de estos anabólicos quedaría desestimado.",
+      "B) las gónadas masculinas dejarían de producir el 95% de las hormonas sexuales.",
+      "C) su consumo incrementaría notablemente el deseo y la potencia sexual de los varones.",
+      "D) el eje hormonal Hipotálamo -Hipofisario -Gonadal resultaría o bstruido por saturación hormonal.",
+      "E) sería muy probable que el consumo de este tipo de anabólicos deje de estar proscrito."
+    ],
+    "correct": 0,
+    "rationale": "Según el especialista, este tipo de complementos produce un grave perjuicio en la espermatogénesis y no podría producir adecuados espermatozoides."
+  },
+  {
+    "type": "verbal_series",
+    "statement": "1. Determine el valor de verdad de las siguientes proposiciones:\n\nI) Si la media aritmética de los “n” primeros números enteros positivos es 11 entonces n es igual a 5.\nII) Si las tasas de interés vigentes de tres bonos son 4%, 2% y 8%. Entonces la tasa promedio de interés vigente de los bonos es 8 .\nIII) Si la edad promedio de “n” hombres es “p” años y ninguno de ellos es menor de “q” años entonces la máxima edad en años que puede tener uno de ellos es\nnp – q(n – 1)",
+    "alternatives": [
+      "A) FFF",
+      "B) FVF",
+      "C) VVF",
+      "D) VVV",
+      "E) VFV"
+    ],
+    "correct": 4,
+    "rationale": null
+  }
+]

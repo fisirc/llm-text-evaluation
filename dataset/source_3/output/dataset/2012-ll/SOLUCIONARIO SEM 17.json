@@ -1,0 +1,614 @@
+[
+  {
+    "type": "reading_comprehension",
+    "statement": "Qué felices seremos los dos y qué dulces los besos serán, pasaremos la noche en la luna, viviendo en mi casita de papel: eso cantaba Jorge Sepúlveda con voz de terciopelo allá en la posguerra. En esa época gran parte del país aún estaba bajo los efectos de las bombas, pero en medio de los escombros comenzó a brotar el afán de poseer, aunque fuera en la luna, esa casita de papel donde pasar la noche, un sueño que muchos españoles no pudieron cumplir hasta 60 años después. Durante ese tiempo se pasó del boniato a las cocochas carameladas de la nueva cocina, de la nublada tiranía de un general galápago a la soleada playa azul de la libertad, del bacilo de Koch a los espléndidos cuerpos de una juventud saludable y bien alimentada. Finalmente todo parecía ir bien. Por todas partes las grúas de la construcción ayudaban a tapar con ladrillos el horizonte. Por lo demás solo había que entrar en el banco de la esquina, llenar unos formularios, firmar abajo sin leer la letra pequeña y recibías un crédito junto con los parabienes del director y del notario. Ya eras el dueño de aquella casita de papel, que cantaba Sepúlveda echando caramelos por la boca. La casita no estaba en la luna, sino en una barriada de extrarradio; era un piso conseguido con mucho trabajo, con mucho sudor. Allí los besos de las parejas fueron muy dulces durante algunos años, en los patios de luz goteaba felizmente la colada y en el hueco de la escalera resonaban los gritos y las risas de los niños. Pero aquella casita era de un papel repleto de trampas de la hipoteca que habías firmado con ilusión en el banco ante un notario muy afable y un director sonriente. Un día te quedaste sin trabajo y un dogal de hierro comenzó a constreñirte la garganta. Todos los papeles de la casita que llevaban tu firma se volvieron sentencias ejecutivas. El banquero acudió al juez y el juez llamó a la policía. Te echaron de casa sin piedad para que siguieras pagando la deuda al banco desde la calle. En la crisis del 29 se arrojaban al vacío los banqueros, ahora son sus hipotecados los únicos que se tiran por la ventana. Me dijo un notario: antes era la fiesta de la compraventa, ahora es la tragedia del desahucio la que salva de la crisis mi despacho.",
+    "questions": [
+      {
+        "statement": "1. El texto versa sobre",
+        "alternatives": [
+          "A) los componentes que determinaron la aparición del crédito hipotecario .",
+          "B) las diversas conjeturas acerca del origen de la crisis en España .",
+          "C) el anhelo generalizado de poseer una casa propia en la capital.",
+          "D) los elementos de un desahucio y sus efectos perjudiciales .",
+          "E) la aparente prosperidad que generó el crédito inmobiliario en España ."
+        ],
+        "correct": 4,
+        "rationale": "Solución: E. Por todas partes las grúas de la construcción ayudaban a tapar con ladrillos el horizonte. Luego, todos los papeles de la casita que llevaban tu firma se sentencias ejecutivas."
+      },
+      {
+        "statement": "2. En el texto, la posición del notario podría relacionarse con la siguiente sentencia:",
+        "alternatives": [
+          "A) En casa de herrero, cuchillo de palo.",
+          "B) Unos nacen con estrella y otros nacen estrellados.",
+          "C) A falta de pan, buenas son tortas.",
+          "D) A río revuelto, ganancia de pescadores .",
+          "E) El ojo del amo engorda el ganado."
+        ],
+        "correct": 3,
+        "rationale": "Solución: D. Del mismo modo que aparece más pesca cuando las agua s de un río se revuelven, en la situación narrada, los notarios se benefician aprovechando el engañoso"
+      },
+      {
+        "statement": "3. La palabra DESAHUACIO e n el texto tiene el sentido de",
+        "alternatives": [
+          "A) hipoteca.",
+          "B) trampa .",
+          "C) deuda .",
+          "D) desalojo.",
+          "E) embargo ."
+        ],
+        "correct": 3,
+        "rationale": "Solución: D. Desalojo o expulsión legal de un inquilino por parte del dueño."
+      },
+      {
+        "statement": "4. La frase: SIN LEER LA LETRA PEQUEÑA alude a",
+        "alternatives": [
+          "A) un nerviosismo lógico .",
+          "B) una negligencia extrema .",
+          "C) una natural confianza.",
+          "D) un minucioso cuidado .",
+          "E) una ligera desidia ."
+        ],
+        "correct": 1,
+        "rationale": "Solución: B. Solo había que entrar en el banco de la esquina, llenar unos formularios, firmar abajo sin leer la letra pequeña y recibías un crédito junto con los parabienes del director y del notario. Luego, todos los papeles de la casita que llevaban tu firma se volvieron sentencias ejecutivas."
+      },
+      {
+        "statement": "5. Resulta incompatible con el desarrollo textual afirmar que",
+        "alternatives": [
+          "A) la competencia bancaria ha facilitado el acceso y mejorado las condiciones del crédito hipotecario.",
+          "B) los bancos españoles se han dedicado a prestar a empresas promotoras y constructoras.",
+          "C) el milagro económico español se refleja claramente en el déficit de liquidez en el mercado.",
+          "D) en estos últimos años, el crecimiento de la construcción total en España ha sido altísimo .",
+          "E) una generación de españoles va a perder sus ahorros porque los ha dedicado a comprar viviendas ."
+        ],
+        "correct": 2,
+        "rationale": "Solución: C. Se empieza a hablar de una burbuja (o crisis) cuando hay un exceso de liquidez en el mercado."
+      }
+    ]
+  },
+  {
+    "type": "verbal_series",
+    "statement": "1. Atendible, admisible, aceptable…",
+    "alternatives": [
+      "A) plausible",
+      "B) óptimo",
+      "C) seguro",
+      "D) afirmativo",
+      "E) positivo"
+    ],
+    "correct": 0,
+    "rationale": "Solución: A. La serie sinonímica se completa consistentemente con la palabra PLAUSIBLE ‘atendible, admisible’."
+  },
+  {
+    "type": "verbal_series",
+    "statement": "2. Determine los antónimos de las palabras NIMIO, ATINENTE y ENERVADO.",
+    "alternatives": [
+      "A) pueril, discordante, irritado",
+      "B) ínfimo, concerniente, sosegado",
+      "C) prolijo , tocante, molesto",
+      "D) ingente, relacional, canijo",
+      "E) sustancial es antónimo de NIMIO ‘insignificante’; inconexo ‘sin relación o conexión’ es antónimo de ATINENTE ‘tocante, perteneciente’; y vigoroso es antónimo de ENERVADO ‘debilitado’."
+    ],
+    "correct": 4,
+    "rationale": "Solución: E. Los antónimos de las palabras planteadas los detectamos en (E): sustancial es antónimo de NIMIO ‘insignificante’; inconexo ‘sin relación o conexión’ es antónimo de ATINENTE ‘tocante, perteneciente’; y vigoroso es antónimo de ENERVADO ‘debilitado’."
+  },
+  {
+    "type": "verbal_series",
+    "statement": "3. El antónimo de la palabra PINGÜE es",
+    "alternatives": [
+      "A) garrafal.",
+      "B) craso.",
+      "C) fornido.",
+      "D) asténico.",
+      "E) infértil."
+    ],
+    "correct": 4,
+    "rationale": "Solución: E. El antónimo de la palabra PINGÜE ‘craso, adiposo; abundante, fértil’ es INFÉRTIL."
+  },
+  {
+    "type": "verbal_series",
+    "statement": "4. Aclarar, explicar, dis ipar…",
+    "alternatives": [
+      "A) barruntar",
+      "B) confutar",
+      "C) constatar",
+      "D) dilucidar",
+      "E) conjeturar"
+    ],
+    "correct": 3,
+    "rationale": "Solución: D. La serie sinonímica se completa con la palabra DILUCIDAR."
+  },
+  {
+    "type": "verbal_series",
+    "statement": "5. Determine la alternativa que no contenga un sinónimo de la palabra IMPUGNAR.",
+    "alternatives": [
+      "A) Combatir",
+      "B) Contradecir",
+      "C) Refutar",
+      "D) Rebatir",
+      "E) Azuzar"
+    ],
+    "correct": 4,
+    "rationale": "Solución: E. En efecto, ella palabra AZUZAR ‘irritar, estimular’ no es sinónimo de la palabra IMPUGNAR."
+  },
+  {
+    "type": "verbal_series",
+    "statement": "6. Deletéreo, inofensivo; justipreciar, apreciar; infatuado, humilde…",
+    "alternatives": [
+      "A) instigar, moderar",
+      "B) deprecar , rogar",
+      "C) incoar, finiquitar",
+      "D) morigerar, exceder",
+      "E) azorar, irrogar"
+    ],
+    "correct": 1,
+    "rationale": "Solución: B. La serie mixta está conformada por un par de antónimos (adjetivos), un par de sinónimos (verbos), y un par de antónimos (adjetivos). Por consiguiente, corresponde un par de sinónimos verbales: deprecar, rogar."
+  },
+  {
+    "type": "verbal_series",
+    "statement": "7. Incoherente, inconexo, desvinculado",
+    "alternatives": [
+      "A) desatinado",
+      "B) irracional",
+      "C) irregular",
+      "D) desengarzado",
+      "E) autárquico"
+    ],
+    "correct": 3,
+    "rationale": "Solución: D . La serie está conformada por sinónimos de la palabra incoherente."
+  },
+  {
+    "type": "verbal_series",
+    "statement": "8. ¿Qué vocablo no corresponde a la serie verbal?",
+    "alternatives": [
+      "A) hético",
+      "B) macizo",
+      "C) enclenque",
+      "D) enteco",
+      "E) canijo"
+    ],
+    "correct": 1,
+    "rationale": "Solución: B . La serie está conformada por sinónimos de la palabra esmirriado."
+  },
+  {
+    "type": "verbal_series",
+    "statement": "9. Elija la palabra que no guarda afinidad con las demás.",
+    "alternatives": [
+      "A) mascullar",
+      "B) balbucir",
+      "C) tartamudear",
+      "D) farfullar",
+      "E) rezongar"
+    ],
+    "correct": 4,
+    "rationale": "Solución: E. La serie está conformada por términos que aluden al habla o lectura con pronunciación dificultosa."
+  },
+  {
+    "type": "verbal_series",
+    "statement": "10. cegado , alucinado , ofuscado,",
+    "alternatives": [
+      "A) procaz",
+      "B) contrito",
+      "C) aturdido",
+      "D) lunático",
+      "E) exánime"
+    ],
+    "correct": 2,
+    "rationale": "Solución: C. La serie está conformada por sinónimos de la palabra deslumbrado."
+  },
+  {
+    "type": "verbal_series",
+    "statement": "Atendible, admisible, aceptable…",
+    "alternatives": [
+      "A) plausible",
+      "B) óptimo",
+      "C) seguro",
+      "D) afirmativo",
+      "E) positivo"
+    ],
+    "correct": 0,
+    "rationale": "Solución: A. La serie sinonímica se completa consistentemente con la palabra PLAUSIBLE ‘atendible, admisible’."
+  },
+  {
+    "type": "verbal_series",
+    "statement": "Determine los antónimos de las palabras NIMIO, ATINENTE y ENERVADO.",
+    "alternatives": [
+      "A) pueril, discordante, irritado",
+      "B) ínfimo, concerniente, sosegado",
+      "C) prolijo , tocante, molesto",
+      "D) ingente, relacional, canijo",
+      "E) sustancial es antónimo de NIMIO ‘insignificante’; inconexo ‘sin relación o conexión’ es antónimo de ATINENTE ‘tocante, perteneciente’; y vigoroso es antónimo de ENERVADO ‘debilitado’."
+    ],
+    "correct": 4,
+    "rationale": "Solución: E. Los antónimos de las palabras planteadas los detectamos en (E): sustancial es antónimo de NIMIO ‘insignificante’; inconexo ‘sin relación o conexión’ es antónimo de ATINENTE ‘tocante, perteneciente’; y vigoroso es antónimo de ENERVADO ‘debilitado’."
+  },
+  {
+    "type": "verbal_series",
+    "statement": "El antónimo de la palabra PINGÜE es",
+    "alternatives": [
+      "A) garrafal.",
+      "B) craso.",
+      "C) fornido.",
+      "D) asténico.",
+      "E) infértil."
+    ],
+    "correct": 4,
+    "rationale": "Solución: E. El antónimo de la palabra PINGÜE ‘craso, adiposo; abundante, fértil’ es INFÉRTIL."
+  },
+  {
+    "type": "verbal_series",
+    "statement": "Aclarar, explicar, dis ipar…",
+    "alternatives": [
+      "A) barruntar",
+      "B) confutar",
+      "C) constatar",
+      "D) dilucidar",
+      "E) conjeturar"
+    ],
+    "correct": 3,
+    "rationale": "Solución: D. La serie sinonímica se completa con la palabra DILUCIDAR."
+  },
+  {
+    "type": "verbal_series",
+    "statement": "Determine la alternativa que no contenga un sinónimo de la palabra IMPUGNAR.",
+    "alternatives": [
+      "A) Combatir",
+      "B) Contradecir",
+      "C) Refutar",
+      "D) Rebatir",
+      "E) Azuzar"
+    ],
+    "correct": 4,
+    "rationale": "Solución: E. En efecto, ella palabra AZUZAR ‘irritar, estimular’ no es sinónimo de la palabra IMPUGNAR."
+  },
+  {
+    "type": "verbal_series",
+    "statement": "Deletéreo, inofensivo; justipreciar, apreciar; infatuado, humilde…",
+    "alternatives": [
+      "A) instigar, moderar",
+      "B) deprecar , rogar",
+      "C) incoar, finiquitar",
+      "D) morigerar, exceder",
+      "E) azorar, irrogar"
+    ],
+    "correct": 1,
+    "rationale": "Solución: B. La serie mixta está conformada por un par de antónimos (adjetivos), un par de sinónimos (verbos), y un par de antónimos (adjetivos). Por consiguiente, corresponde un par de sinónimos verbales: deprecar, rogar."
+  },
+  {
+    "type": "verbal_series",
+    "statement": "Incoherente, inconexo, desvinculado",
+    "alternatives": [
+      "A) desatinado",
+      "B) irracional",
+      "C) irregular.",
+      "D) desengarzado",
+      "E) autárquico"
+    ],
+    "correct": 3,
+    "rationale": "Solución: D . La serie está conformada por sinónimos de la palabra incoherente."
+  },
+  {
+    "type": "verbal_series",
+    "statement": "¿Qué vocablo no corresponde a la serie verbal?",
+    "alternatives": [
+      "A) hético",
+      "B) macizo",
+      "C) enclenque",
+      "D) enteco",
+      "E) canijo"
+    ],
+    "correct": 1,
+    "rationale": "Solución: B . La serie está conformada por sinónimos de la palabra esmirriado."
+  },
+  {
+    "type": "verbal_series",
+    "statement": "Elija la palabra que no guarda afinidad con las demás.",
+    "alternatives": [
+      "A) mascullar",
+      "B) balbucir",
+      "C) tartamudear",
+      "D) farfullar",
+      "E) rezongar"
+    ],
+    "correct": 4,
+    "rationale": "Solución: E. La serie está conformada por términos que aluden al habla o lectura con pronunciación dificultosa."
+  },
+  {
+    "type": "verbal_series",
+    "statement": "cegado , alucinado , ofuscado,",
+    "alternatives": [
+      "A) procaz .",
+      "B) contrito .",
+      "C) aturdido.",
+      "D) lunático.",
+      "E) exánime ."
+    ],
+    "correct": 2,
+    "rationale": "Solución: C. La serie está conformada por sinónimos de la palabra deslumbrado."
+  },
+  {
+    "type": "reading_comprehension",
+    "statement": "¿Es la evolución un deporte de equipo o una competición por la supervivencia que se disputa entre individuos? No hay duda de que la selección natural actúa sobre los organismos individuales. Aquellos que poseen rasgos favorables tienen mayor probabilidad de transmitir sus genes a la generación siguiente. Pero es posible que se den otros procesos similares en los distintos niveles de la jerarquía biológica, de modo que la selección natural perpetúe rasgos que no favorecen a un individuo, sino a una unidad social, se trate de una bandada o colonia, una especie entera o incluso de un ecosistema compuesto por muchas especies. La pregunta de fondo es: ¿puede un rasgo biológico evolucionar por \"el bien del grupo\"? Muchos de los primeros evolucionistas aceptaron la idea de la selección de grupo sin pensárselo mucho. Les par ecía, por ejemplo, que cabía decir que las manadas de animales rumiantes habían evolucionado en el sentido de poder mantener a largo plazo su suministro de alimento. Las manadas que restringiesen su alimentación tendrían una mayor probabilidad de sobrevivir que las que agotaran rápidamente un recurso esencial. Pero al analizar la cuestión con más detalle, otros biólogos descubrieron un error en el razonamiento. El uso prudente de los recursos beneficia a todos los miembros del grupo, incluso al \"tramposo\" que consume más que el resto. Los genes asociados a ser tramposo se esparcirán por el grupo y la tendencia al uso cooperativo de los recursos quedará socavada. La situación es muy familiar en la experiencia humana; es el fenómeno que Garrett Hardin denominó \"la tragedia de los bienes comunales\". A mediados de los años sesenta, las ideas relativas a la selección de grupo estaban muy mal vistas; se evitaba la expresión en manuales y bibliografía científica. Cuando los biólogos observaban conductas que parecían beneficiosas para el grupo ola especie, se esforzaban por explicarlas únicamente por medio de la selección individual. Así, los animales cooperarían porque comparten genes (\"selección por parentesco\") o por una probable ayuda recíproca en el futuro. El altruismo aparente se interpretaba como un egoísmo inteligente. Llegó a ser casi de rigor orillar las menciones a la selección de grupo. Ha llegado el momento de hacer una valoración más cuidadosa y sin prejuicios de la selección de grupo en el pensamiento evolutivo. La forma más ingenua de selección de grupo —la que axiomáticamente supone que la conducta evoluciona por el bien del grupo— es insostenible. Sin embargo, hay rasgos beneficiosos para el grupo que, a pesar de tener un coste privado, surgen en la evolución por selección natural. El hecho de que los tramposos tengan una ventaja en el seno de un grupo no implica que prevalezcan en la población en su conjunto. La selección dentro de grupos se opone a la selección entre grupos; el resultado final depende de la fuerza relativa de esos efectos.",
+    "questions": [
+      {
+        "statement": "1. El texto trata sobre",
+        "alternatives": [
+          "A) la valoración de la expresión selección de grupo.",
+          "B) los grupos de ciudadanos denominados «tramposos ».",
+          "C) el estudio de la selección de entidades de un nivel mayor.",
+          "D) la supervivencia y reproducción de los individuos.",
+          "E) la problemática en las interacciones entre grupos."
+        ],
+        "correct": 0,
+        "rationale": "Solución: A Ha llegado el momento de hacer una valoración más cuidadosa y sin prejuicios de la selección de grupo en el pensamiento evolutivo."
+      },
+      {
+        "statement": "2. Es incompatible con lo planteado en el texto afirmar que",
+        "alternatives": [
+          "A) especular que la conducta evoluciona por el bien del grupo es inadmisible.",
+          "B) la selección de grupo, aceptada en un comienzo de forma acrítica, cayó en el descrédito.",
+          "C) la selección dentro de grupos se opone a la selección entre grupos.",
+          "D) el uso prudente de los recursos beneficia a todos los miembros del grupo, incluso al «tramposo ».",
+          "E) el conjunto de transformaciones que ha originado la diversidad de formas se da por el bien del grupo."
+        ],
+        "correct": 4,
+        "rationale": "Solución: E La forma más ingenua de selección de grupo —la que axiomáticamente supone que la conducta evoluciona por el bien del grupo — es insostenible."
+      },
+      {
+        "statement": "3. El término ORILLAR puede ser reemplazado por",
+        "alternatives": [
+          "A) conciliar.",
+          "B) resolver.",
+          "C) zanjar.",
+          "D) concluir.",
+          "E) es quivar."
+        ],
+        "correct": 4,
+        "rationale": "Solución: E Llegó a ser casi de rigor soslayar las menciones a la selección de grupo."
+      },
+      {
+        "statement": "4. Se infiere que los debates acerca de la selección de grupo se vinculan con la necesidad de explicar",
+        "alternatives": [
+          "A) el comportamiento altruista.",
+          "B) el pensamiento evolutivo.",
+          "C) el uso accidental de recursos.",
+          "D) la selección entre grupos.",
+          "E) la selección dentro de grupos."
+        ],
+        "correct": 0,
+        "rationale": "Solución: A El altruismo aparente se interpretaba como un egoísmo inteligente. Llegó a ser casi de rigor orillar las menciones a la selección de grupo."
+      }
+    ]
+  },
+  {
+    "type": "reading_comprehension",
+    "statement": "Hoy día los científicos de todo el mundo utilizan el ADN mitocondrial para recrear las migraciones de otros antiguos pueblos a través de África, América y el resto del mundo. Sin embargo, es importante tener en mente que la exquisita diversidad de nuestro código mitocondrial que nos permite rastrear estos eventos es la clásica excepción que confirma la regla. En la mayoría de nuestros genes (el 99.9 por ciento) cada ser humano es exactamente igual. Asimismo, la mayoría de las variaciones en el 0.1 por ciento restante no se agrupa por regiones geográficas ni por grupos raciales, sino que está disperso por todo el mundo. En otras palabras: los snips y los fragmentos de snips del código que se juntan para formar a una persona única están dispersos en otros genomas únicos por todo el mundo, enlazándonos en una espléndida maraña de interrelaciones. Esta maraña no empieza en nuestra rama evolutiva, sino que se extiende más abajo. Todas las diferencias anatómicas entre humanos y chimpancés, e incluso la sagrada peculiaridad de la cognición humana, pueden de hecho surgir de ligeros cambios en unos cuantos genes que regulan el desarrollo fetal. Nueve décimas de nuestros genes son idénticas a las de un ratón (una congruencia particularmente agradable para los genetistas, pues los ratones de laboratorio se estudian mejor y son más fáciles de disecar que un humano). Más de un tercio de los genes del humilde gusano nematodo Caenorhabditis elegans es compartido por el eminente primate Homo sapiens. Y según nuestros genomas, hasta las bacterias son nuestros primos de código genético. De hecho, el último y más poderoso secreto revelado por nuestros genes es la indiscutible unidad de todos los seres vivientes.",
+    "questions": [
+      {
+        "statement": "1. El tema central del texto es",
+        "alternatives": [
+          "A) las diferencias genéticas irreconciliables entre seres humanos.",
+          "B) el código genético del Homo sapiens y el ADN mitocondrial.",
+          "C) el ADN mitocondrial y los engarces genéticos entre especies.",
+          "D) el estudio cuantitativo de las diferencias genéticas en humanos.",
+          "E) la relación genética entre seres humanos, bacterias y ratones."
+        ],
+        "correct": 2,
+        "rationale": "Solución: C. El texto desarrolla el tema de los estudios del ADN mitocondrial y los resultados sorprendentes respecto de la relación entre las distintas especies animales y el hombre."
+      },
+      {
+        "statement": "2. Determine la alternativa que contenga la mejor síntesis del texto.",
+        "alternatives": [
+          "A) Los snips y los fragmentos de snips del ADN mitocondrial son los que determinan que cada persona tenga características particulares y se diferencie sustancialmente de otra, y se encuentran dispersos.",
+          "B) Resulta sugerente el porcentaje de información genética que comparten un ser humano y un ratón, ya que de esa manera es más sencillo para los científicos trabajar con roedores.",
+          "C) Las sutiles variaciones en el desarrollo embrionario de la especie humana definen particularidades entre cada persona, además de orientar el desarrollo específico de las capacidades cognitivas.",
+          "D) Gracias al ADN mitocondrial es posible rastrear la historia de los movimientos masivos de seres humanos con la consiguiente determinación de las diferencias significativas entre especies.",
+          "E) Los estudios de ADN mitocondrial han dado luces respecto de las exiguas diferencias entre seres humanos así como los posibles engarces génicos de estos con especies insospechadas como gusanos o ratones."
+        ],
+        "correct": 4,
+        "rationale": "Solución: E. El mejor resumen del texto lo detectamos en (E), en virtud de que detectamos el desarrollo esencial del tema central, a saber, la investigación sobre el ADN mitocondrial para definir las mínimas diferencias entre seres humanos, aunque lo más sorprendente sea la potencial relación entre todo ser vivo."
+      },
+      {
+        "statement": "3. El sentido contextual de la palabra ESPLÉNDIDA es",
+        "alternatives": [
+          "A) sorprendente.",
+          "B) importante.",
+          "C) solemne .",
+          "D) pomposa.",
+          "E) suntuosa."
+        ],
+        "correct": 0,
+        "rationale": "Solución: A. ESPLÉNDIDA maraña de relaciones implica que estas conexiones genéticas son sorprendentes, ya que es posible rastrear engarces entre el hombre, los gusanos e incluso las bacterias."
+      },
+      {
+        "statement": "4. La palabra AGRADABLE connota",
+        "alternatives": [
+          "A) diversión.",
+          "B) afabilidad.",
+          "C) deleite.",
+          "D) practicidad.",
+          "E) complacencia."
+        ],
+        "correct": 3,
+        "rationale": "Solución: D. En el texto, la palabra AGRADABLE refiere a la facilidad que supone la experimentación con ratones; por consiguiente, el término connota practicidad."
+      },
+      {
+        "statement": "5. Resulta incompatible con el desarrollo del texto afirmar que",
+        "alternatives": [
+          "A) dentro de los resultados que arroja el estudio del genoma se encuentra nuestro vínculo con bacterias.",
+          "B) más del 90% del código genético de los seres humanos se comparte y las diferencias son exiguas.",
+          "C) los seres humanos presentan diferencias insalvables en porcentajes significativos del ADN mitocondrial.",
+          "D) los estudios del ADN mitocondrial hacen posible la detección de las rutas migratorias en la historia.",
+          "E) la unidad genética entre todos los seres vivos, a la luz de los estudios sobre el genoma, es evidente."
+        ],
+        "correct": 2,
+        "rationale": "Solución: C. El porcentaje es realmente ínfimo, apenas el 0.1 del total del código genético que es diferente ni siquiera se encuentra en una sola persona; esto supone que no existen diferencias génicas significativas."
+      },
+      {
+        "statement": "6. Es congruente con el entramado textual aseverar que",
+        "alternatives": [
+          "A) resulta muy complicada la experimentación con ratones.",
+          "B) el 30% del genoma humano es igual al de los gusanos.",
+          "C) el genoma del chimpancé es idéntico al del ser humano.",
+          "D) los seres vivos carecen de emparentamiento genético.",
+          "E) sutiles cambios ontogénicos definen la cognición humana."
+        ],
+        "correct": 4,
+        "rationale": "Solución: E. En efecto, la alternativo (E) presenta una aserción consistente y acorde con el desarrollo textual, ya que la cognición humana es producto de ligeras modificaciones en el desarrollo fetal."
+      },
+      {
+        "statement": "7. Es posible colegir que las características visibles que distinguen a una persona de otra",
+        "alternatives": [
+          "A) son indeterminadas en términos de su potencial origen genético.",
+          "B) se deben a la total equivalencia de snips que los humanos poseemos.",
+          "C) son producto del 99% de divergencia genética entre seres humanos.",
+          "D) se deben a menos del 0.1% del ADN mitocondrial de cada individuo.",
+          "E) son equivalentes a las diferencias entre los humanos y nematodos."
+        ],
+        "correct": 3,
+        "rationale": "Solución: D. Las diferencias visibles se deben al 0.1% según el texto, pero este porcentaje no se encuentra en un solo individuo, sino que se encuentra disperso por todo el mundo."
+      },
+      {
+        "statement": "8. Si el acervo génico entre los distintos seres vivos fuese completamente diferente,",
+        "alternatives": [
+          "A) la indiscutible propuesta de la unidad total sería insostenible.",
+          "B) los chimpancés y los humanos conformarían una misma rama.",
+          "C) la superioridad racial tendría un consistente asidero científico.",
+          "D) la cognición humana sería el producto de procesos complejos.",
+          "E) los diferentes caminos migratorios en animales serían claros."
+        ],
+        "correct": 0,
+        "rationale": "Solución: A. Existe evidencia en los genes de las distintas especies que hacen posible la hipótesis de la convergencia de todos los seres vivos. Si las diferencias fuesen irreconciliables, tal propuesta sería inconducente."
+      }
+    ]
+  },
+  {
+    "type": "reading_comprehension",
+    "statement": "Desde 1821 hasta 2012 son 191 años desde que el Perú rompió los lazos políticos que lo ligaron a la metrópoli española. Pero esta ruptura política, conseguida por la eficaz intervención de los ej ércitos del Sur (San Martín) y del Norte (Bolívar) no significó en manera alguna la quiebra del ordenamiento económico y social de carácter colonial que continuó vigente hasta el ocaso del siglo XIX. Por el contrario, la persistencia de esta situación colonial facilitó y más tarde consolidó la nueva orientación de la economía peruana, cuando ella ingresó al espacio dominado por Inglaterra. La independencia política de España dejó, pues, intactos los fundamentos mismos de la sociedad peruana, que se habían desarrollado y cristalizado a lo largo de 300 años de vida colonial. En el contexto internacional, la Independencia de la metrópoli española aceleró un proceso que había comenzado desde la segunda mitad del siglo XVIII: la dominación efectiva de Inglaterra, la nueva potencia del mundo. Para el historiador, que examina el pasado para comprender y explicar el presente y que observa el presente para interrogar el pasado, la situación descrita invita a más de una reflexión. La cuestión principales, precisamente, por qué la Independencia no provocó un cambio real y significativo de la situación colonial. Tal vez una respuesta anticipada se puede encontrar en la Independencia misma –como proceso -que, en el caso del Perú, como es bien conocido pero pudorosamente encubierto, fue conseguida por los ejércitos aliados de fuera. Es decir, una Independencia concedida más que obtenida. Ni la sólida organización defensiva impuesta por el virrey Abascal, ni las algunos ideólogos criollos pueden desmentir o atenuar esta afirmación. Tanto la acción como la prédica fueron hechos de minorías, de hombres aislados.",
+    "questions": [
+      {
+        "statement": "1. La tesis principal que el autor defiende es que la Independencia del Perú",
+        "alternatives": [
+          "A) fue un proceso político intenso y complejo que comenzó en la segunda mitad del siglo XVIII.",
+          "B) fue obra de los ejércitos de San Martín y Bolívar y no implicó un cambio real de la economía.",
+          "C) se consiguió tras superar la sólida organización defensiva impuesta por el virrey Abascal.",
+          "D) sin el apoyo del pueblo, fue fruto de la prédica y la acción de minorías, de hombres aislados.",
+          "E) en esencia, fue colonialista pues aceleró la dominación efectiva del mundo por Inglaterra."
+        ],
+        "correct": 1,
+        "rationale": "La ruptura política, conseguida por la eficaz intervención de los ejércitos del Sur (San Martín) y del Norte (Bolívar) no significó en manera alguna la quiebra del ordenamiento económico y social de carácter colonial que continuó vigente hasta el ocaso del siglo XIX."
+      },
+      {
+        "statement": "2. Del texto se desprende que las conspiraciones a favor de la Independencia del Perú",
+        "alternatives": [
+          "A) fueron pudorosamente encubiertas por los ideólogos criollos de la emancipación.",
+          "B) fueron muy escasas debido a la acción defensiva impuesta por el virrey Abascal.",
+          "C) repercutieron negativamente en el ánimo de los ejércitos aliados venidos de fuera.",
+          "D) se concretaron gracias a una sacrificada minoría de ideólogos y soldados criollos.",
+          "E) fueron acciones débiles que no pusieron en riesgo la dominación colonial española."
+        ],
+        "correct": 4,
+        "rationale": "E fue una Independencia concedida más que obtenida ."
+      },
+      {
+        "statement": "3. Es incompatible aseverar que la sólida organización defensiva impuesta por el virrey Abascal",
+        "alternatives": [
+          "A) tenía como objetivo preservar la hegemonía colonial española.",
+          "B) se resquebrajó cuando hizo frente a las fuerzas venidas de fuera.",
+          "C) generó grandes esperanzas en la aristocracia criolla colonialista.",
+          "D) fue el último escollo importante para San Martín y Simón Bolívar.",
+          "E) con gran esfuerzo, hizo frente a la acción de los conspiradores."
+        ],
+        "correct": 4,
+        "rationale": "E fue una Independencia concedida más que obtenida."
+      },
+      {
+        "statement": "4. En el texto, el vocablo AISLADOS alude específicamente a la carencia de",
+        "alternatives": [
+          "A) independencia.",
+          "B) amparo.",
+          "C) solidaridad.",
+          "D) apoyo.",
+          "E) sensibilidad."
+        ],
+        "correct": 3,
+        "rationale": "Tanto la acción como la prédica fueron hechos de minorías, de hombres aislados."
+      },
+      {
+        "statement": "5. Si la Independencia hubiera sido obra de los ideólogos y conspiradores criollos peruanos,",
+        "alternatives": [
+          "A) San Martín y Bolívar habrían pugnado por liderar a estas fuerzas.",
+          "B) las fuerzas del virrey Abascal habrían sido derrotadas rápidamente.",
+          "C) se habría producido un cambio real y significativo de la economía.",
+          "D) se habría desacelerado la dominación colonial inglesa del mundo.",
+          "E) el virrey Abascal habría enfrentado a estos militar e ideológicamente."
+        ],
+        "correct": 2,
+        "rationale": "Tal vez una respuesta anticipada se puede encontrar en la Independencia misma –como proceso -que, en el caso del Perú, como es bien conocido pero pudorosamente encubierto, fue conseguida por los ejércitos aliados de fuera."
+      },
+      {
+        "statement": "6. El argumento de que la Independencia fue fruto tanto de la acción como de la prédica de minorías, de hombres aislados, refuta la idea de que esta Independencia",
+        "alternatives": [
+          "A) provocó cambios sustanciales en la política y economía coloniales.",
+          "B) fue una necesidad muy sentida por los criollos de ese entonces.",
+          "C) contó con el decidido respaldo de prominentes ideólogos criollos.",
+          "D) necesariamente requería la intervención de ejércitos aliados.",
+          "E) recibió el respaldo de la nueva potencia del mundo: Inglaterra."
+        ],
+        "correct": 1,
+        "rationale": "ni las prédicas a favor de la emancipación lanzadas por algunos ideólogos criollos pueden desmentir o atenuar esta afirmación."
+      }
+    ]
+  },
+  {
+    "type": "sentence_elimination",
+    "statement": "I) Las arañas de mar utilizan sus extremidades para deslizarse como si fueran tentáculos miniaturas. II) Las arañas del mar viven en todos los océanos del mundo. III) Las patas de las arañas de mar sirven como depósitos auxiliares que albergan parte del aparato digestivo. IV) Las patas de las arañas de mar sirven también como almacén natural del aparato reproductor. V) Los especímenes machos de las arañas de mar poseen un par de patas especiales llamadas ovígeras en las cuales transportan lo s huevos de las hembras.",
+    "alternatives": [
+      "I) Las arañas de mar utilizan sus extremidades para deslizarse como si fueran tentáculos miniaturas.",
+      "II) Las arañas del mar viven en todos los océanos del mundo.",
+      "III) Las patas de las arañas de mar sirven como depósitos auxiliares que albergan parte del aparato digestivo.",
+      "IV) Las patas de las arañas de mar sirven también como almacén natural del aparato reproductor.",
+      "V) Los especímenes machos de las arañas de mar poseen un par de patas especiales llamadas ovígeras en las cuales transportan lo s huevos de las hembras."
+    ],
+    "correct": 3,
+    "rationale": "Se elimina la oración II debido a que es inatingente: el tema es la polifuncionalidad de las patas de las arañas de mar no su hábitat."
+  },
+  {
+    "type": "sentence_elimination",
+    "statement": "I) El universo abierto con poca densidad asumido por muchos teóricos crece más rápidamente que el plano, también se expande y tiene un número infinito de galaxias II) El modelo del universo plano planteada por los científicos comienza como un modelo cerrado pero se expande para siempre. III) El modelo del universo cerrado para los físicos de alta densidad predice un número finito de galaxias. IV) En el universo cerrado ,la gravedad atrae la materia hasta unirla en una gran contracción. V). Existen en el mundo científico algunos modelos respecto de la apariencia y la dinámica del universo.",
+    "alternatives": [
+      "A) I",
+      "B) V",
+      "C) III",
+      "D) IV",
+      "E) II"
+    ],
+    "correct": 0,
+    "rationale": "Se elimina la oración (V) debido a que es redundante."
+  },
+  {
+    "type": "sentence_elimination",
+    "statement": "I) Las obras de rie go permiten atender necesidades como la escasez de agua y la ampliación en el uso de tierras. II) Las obras de riego amplían las áreas de bajo riego incorporando nuevas tierras a la agricultura. III) Las obras de riego incrementan el volumen disponible por parcela para ajustarse a las demandas por el ingreso de nuevos cultivos. IV) Las obras de riego permite que los agricultores puedan hacer frente a las heladas, tan perniciosas en el ámbito agrícola. V) Las obras de regadío hacen posible que el agricultor no dependa de la estación de lluvia para que la tierra produzca sobre todo en época de sequía.",
+    "alternatives": [
+      "A) III",
+      "B) I",
+      "C) IV",
+      "D) II",
+      "E) V"
+    ],
+    "correct": 1,
+    "rationale": "La oración (I) está implicada en II y en V."
+  },
+  {
+    "type": "sentence_elimination",
+    "statement": "I) La metáfora es una figura literaria usada con la finalidad de reemplazar poéticamente un objeto por otro. II) La metáfora se concibe como un mecanismo cognitivo que se sustenta en el marco experiencial. III) La metáfora conceptual es una propuesta de la Teoría Cognitiva y asume que el lenguaje humano es esencialmente metafórico. IV) Las metáforas en el lenguaje cotidiano hacen posible que ciertos conceptos complejos sean interpretados más fácilmente. V) El uso de expresiones metafóricas suponen que las cualidades de un dominio específico se trasladen a otro, por ejemplo, las características animales al mundo humano.",
+    "alternatives": [
+      "A) V",
+      "B) II",
+      "C) IV",
+      "D) I",
+      "E) III"
+    ],
+    "correct": 3,
+    "rationale": "El tema centrales la metáfora en el discurso cotidiano; por consiguiente, la oración que se elimina es la (I)."
+  }
+]

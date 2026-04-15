@@ -1,0 +1,603 @@
+[
+  {
+    "type": "reading_comprehension",
+    "statement": "temporal que enmarca los acontecimientos. Estos hechos también se dan subsidiariamente en un espacio en el que tienen lugar. Por ello la dimensión espacio -temporal en los textos de este tipo es imprescindible.\n\nSe cuenta de un rey de Israel que fue un tirano. Cierto día, mientras estaba sentado en el. trono de su reino, vio que entraba un hombre por la puerta de palacio; tenía la pinta de un pordiosero y un semblante aterrador. Indignado por su aparición, asustado por el aspecto, el Rey se puso en pie de un salto y preguntó:\n-¿Quién eres? ¿Quién te ha permitido entrar? ¿Quién te ha mandado venir a mi casa?\n-Melo ha mandado el Dueño de la casa. A mí no me anuncian los chambelanes ni necesito permiso para presentarme ante reyes ni me asusta la autoridad de los sultanes ni sus numerosos soldados. Yo soy aquel que no respeta a los tiranos. Nadie puede escapar a mi abrazo; soy el destructor de las dulzuras, el separador de los amigos.\nEl Rey cayó por el suelo al oír estas palabras y un estremecimiento recorrió todo su cuerpo, quedándose sin sentido. Al volver en sí, dijo:\n-¡Tú eres el Ángel de la Muerte!\n-Sí.\n-¡Te ruego, por Dios, que m e concedas el aplazamiento de un día tan sólo para que pueda pedir perdón por mis culpas, buscar la absolución de mi Señor y devolver a sus legítimos dueños las riquezas que encierra mi tesoro; así no tendré que pasar las angustias del juicio ni el dolor del castigo!\n-¡Ay! ¡Ay! No tienes medio de hacerlo. ¿Cómo te he de conceder un día si los días de tu vida están contados, si tus respiros están inventariados, si tu plazo de vida está predeterminado y registrado?\n-¡Concédeme una hora!\n-La hora también está en la cuenta. Ha transcurrido mientras tú te mantenías en la ignorancia y no te dabas cuenta. Has terminado ya con tus respiros: sólo te queda uno.\n-¿Quién estará conmigo mientras sea llevado a la tumba?\n-Únicamente tus obras.\n-¡No tengo buenas obras!\n-Pues entonces, no cabe duda de que tu morada estará en el fuego, de que en el porvenir te espera la cólera del Todopoderoso.\nA continuación le arrebató el alma y el Rey se cayó del trono al suelo. Los clamores de sus súbditos se dejaron oír; se elevaron voces, gritos y llantos; si hubieran sabido lo que le preparaba la ira de su Señor, los lamentos y sollozos aún hubiesen sido mayores y más y más fuertes los llantos.",
+    "questions": [
+      {
+        "statement": "Una idea incompatible con respecto a lo narrado en el texto es que",
+        "alternatives": [
+          "A) el Rey busca una nueva oportunidad para reparar sus errores.",
+          "B) el Rey se sorprende que un mendigo haya podido ingresar.",
+          "C) existe un lugar más allá del mundo de los entes corpóreos.",
+          "D) el ángel se asemeja a las representaciones seráficas católicas.",
+          "E) los vasallos lamentan y plañen la muerte del injusto Rey."
+        ],
+        "correct": 3,
+        "rationale": "El ángel se asemeja a las representaciones seráficas católicas."
+      },
+      {
+        "statement": "Se infiere de la respuesta que el ángel ofrece al Rey, cuando este solicita vivir un día más, que",
+        "alternatives": [
+          "A) no se puede eludir el final previamente establecido.",
+          "B) el cuento se escribió para los gobernantes incrédulos",
+          "C) el ángel es un ente cruel y mefistofélico.",
+          "D) no tiene sentido arrepentirse en los últimos días de vida.",
+          "E) toda vida humana es desgraciada y triste."
+        ],
+        "correct": 0,
+        "rationale": "El ángel le dice al Rey que el tiempo de su vida está predeterminado y registrado."
+      },
+      {
+        "statement": "El término DUEÑO es sustituible por",
+        "alternatives": [
+          "A) Rey.",
+          "B) tirano.",
+          "C) sultán.",
+          "D) destructor.",
+          "E) Señor."
+        ],
+        "correct": 4,
+        "rationale": "Con el término Dueño el texto se refiere al Señor o Dios."
+      },
+      {
+        "statement": "Se colige de la respuesta que el ángel brinda al Rey, cuando este indaga por quién lo acompañará, que",
+        "alternatives": [
+          "A) se juzgará al hombre y sus acciones.",
+          "B) el hombre nace y muere des nudo.",
+          "C) es inútil que alguien lo acompañe.",
+          "D) lo importante son las intenciones.",
+          "E) lo importante son sus edificaciones."
+        ],
+        "correct": 0,
+        "rationale": "Se juzga post mortem al hombre con relación a sus acciones (obras)."
+      },
+      {
+        "statement": "El antónimo de la palabra ABSOLUCIÓN es",
+        "alternatives": [
+          "A) condonación.",
+          "B) aquiescencia.",
+          "C) indulgencia.",
+          "D) condena.",
+          "E) contrición."
+        ],
+        "correct": 3,
+        "rationale": "El antónimo de la palabra absolución es condena."
+      }
+    ]
+  },
+  {
+    "type": "reading_comprehension",
+    "statement": "Zaratustra bajó solo de las montañas sin encontrar a nadie. Pero cuando llegó a los bosques surgió de pronto ante él un anciano que había abandonado su santa cabaña para buscar raíces en el bosque. Y el anciano habló así a Zaratustra:\n«No me es desconocido este caminante: hace algunos años pasó por aquí. Zaratustra se llamaba; pero se a transformado. Zaratustra está transformado, Zaratustra se ha convertido en un niño, Zaratustra es un despierto: ¿qué quieres hacer ahora entre los que duermen?»\nZaratustra respondió: «Yo amo a los hombres»\n«¿Por qué, dijo el santo, me he venido yo a los bosques y a las soledades? ¿No fue acaso porque amaba demasiado a los hombres? Ahora amo a Dios: a los hombres no los amo. El hombre es para mí una cosa demasiado imperfecta. El amor al hombre me mataría. »\nZaratustra respondió: «¡Qué dije amor! ¡Lo que yo llevo a los hombres es un regalo!»\nNo les des nada, dijo el santo. «Quítales mejor alguna cosa… ¡Y si quieres darles algo, no les des más que una limosna, y deja que además la mendiguen!»\n«No, respondió Zaratustra, yo no doy limosnas. No soy basta nte pobre para eso».\nEl santo se rió de Zaratustra y dijo: « ¡Entonces cuida de que acepten tus tesoros! Ellos desconfían de los eremitas y no creen que vayamos para hacer regalos».\n« ¿Y qué hace el santo en los bosques?» preguntó Zaratustra.\nEl santo respondió: «Hago canciones y las canto; y cuando hago canciones, río, lloro y murmuró : así alabo a Dios… Cantando, llorando, riendo y gruñendo alabo al Dios que es mi Dios. Mas ¿qué regalo es el que tú nos traes?». \nCuando Zaratustra hubo oído estas palabras, se despidió del santo y le dijo: «¡Qué tendría yo que darte! ¡Pero dejadme que me vaya rápido, para que no os quite nada!» – Y así se separaron el uno del otro, el anciano y el hombre, riendo como ríen los niños.\nMas cuando Zaratustra estuvo solo, habló así a su corazón: «¡Será posible! ¡Este viejo santo en su bosque no ha oído todavía nada de que Dios ha muerto !»",
+    "questions": [
+      {
+        "statement": "Cuando el santo califica a Zaratustra de ser un despierto, se refiere a que",
+        "alternatives": [
+          "A) vigila el bosque.",
+          "B) sufre de insomnio.",
+          "C) es un iluminado.",
+          "D) es un tipo avispado.",
+          "E) está ahora preocupado."
+        ],
+        "correct": 2,
+        "rationale": "El texto tiene referencias a diversas fuentes religiosas (zoroastrismo, cristianismo, budismo). El estar despierto es propio de Buda, el iluminado."
+      },
+      {
+        "statement": "El tema central del texto es",
+        "alternatives": [
+          "A) la historia de dos hombres sabios en el bosque.",
+          "B) la ignorancia del santo sobre la partida de Dios.",
+          "C) el encuentro entre Zaratustra y un viejo santo.",
+          "D) la transformación de Zaratustra en un niño.",
+          "E) los quehacer es del viejo santo en el bosque."
+        ],
+        "correct": 2,
+        "rationale": null
+      }
+    ]
+  },
+  {
+    "type": "sentence_elimination",
+    "statement": "El estar despierto es propio de Buda, el iluminado. 2. El tema central del texto es",
+    "alternatives": [
+      "A) la historia de dos hombres sabios en el bosque.",
+      "B) la ignorancia del santo sobre la partida de Dios.",
+      "C) el encuentro entre Zaratustra y un viejo santo.",
+      "D) la transformación de Zaratustra en un niño.",
+      "E) los quehacer es del viejo santo en el bosque."
+    ],
+    "correct": 2,
+    "rationale": null
+  },
+  {
+    "type": "sentence_elimination",
+    "statement": "El estar despierto es propio de Buda, el iluminado. 4. Con respecto a la actitud del santo frente a los hombres es compatible afirmar que",
+    "alternatives": [
+      "A) es un antisocial",
+      "B) es un ser altruista",
+      "C) es un indiferente",
+      "D) es un misántropo",
+      "E) ama a su prójimo."
+    ],
+    "correct": 3,
+    "rationale": "El santo ya no ama a los hombres, más bien se muestra receloso de ellos, es un\nmisántropo."
+  },
+  {
+    "type": "sentence_elimination",
+    "statement": "El estar despierto es propio de Buda, el iluminado. 5. ¿Cuál de las siguientes afirmaciones es compatible con lo planteado en el texto?",
+    "alternatives": [
+      "A) El santo y Zaratustra son creyentes convencidos.",
+      "B) Zaratustra y el santo son personas solitarias.",
+      "C) Dios es un ente eterno, inmortal y todopoderoso.",
+      "D) El santo se sorprende cuando vea Zaratustra.",
+      "E) Zaratustra comparte su inquina con el santo."
+    ],
+    "correct": 1,
+    "rationale": "Ambos son eremitas, persona s solitarias."
+  },
+  {
+    "type": "sentence_elimination",
+    "statement": "El eje temático está constituido por los planteamientos políticos de Georges Sorel. Se incurrirse en redundancia porque la oración I, está contenida en II y III.",
+    "alternatives": [
+      "A) II",
+      "B) V",
+      "C) III",
+      "D) I",
+      "E) IV"
+    ],
+    "correct": 3,
+    "rationale": null
+  },
+  {
+    "type": "sentence_elimination",
+    "statement": "El tema es el comportamiento de las hembras bonobo, la oración II es inatingente.",
+    "alternatives": [
+      "A) I",
+      "B) V",
+      "C) II",
+      "D) IV",
+      "E) III"
+    ],
+    "correct": 2,
+    "rationale": null
+  },
+  {
+    "type": "sentence_elimination",
+    "statement": "El tema es J. Edgar Hoover y la importancia de la información. La oración I es inatingente",
+    "alternatives": [
+      "A) II",
+      "B) I",
+      "C) III",
+      "D) V",
+      "E) V"
+    ],
+    "correct": 1,
+    "rationale": null
+  },
+  {
+    "type": "sentence_elimination",
+    "statement": "3. I) J. Edgar Hoover se convirtió en el personaje más poderoso y temido de los Estados Unidos por casi cinco décadas, y sobrevivió a ocho presidentes. II) Descubrió que los secretos ajenos y sobre todo la vida íntima de las personas constituían una información de incalculable valor. III) Dedicó su existencia a hacerse con los archivos personales de todos aquellos que merecía la pena controlar: delincuentes, comunistas y enemigos de Norteamérica. IV) Inventó en 1926 el archivo de huellas dactilares, que con el tiempo se convertiría en el más grande del mundo. V) Los expedientes de los archivos personales del jefe del FBI contenían desde cartas manuscritas hasta grabaciones de infidelidades de los más variados personajes como el presidente Kennedy, Martin Luther King y Charles Chaplin.",
+    "alternatives": [
+      "A) II",
+      "B) I",
+      "C) III",
+      "D) V",
+      "E) V"
+    ],
+    "correct": 1,
+    "rationale": "El tema es J. Edgar Hoover y la importancia de la información. La oración I es inatingente"
+  },
+  {
+    "type": "sentence_elimination",
+    "statement": "4. I) Un terremoto de 7,9 grados, cuyo epicentro se situó en la costa central del Perú, devastó las ciudades de Chincha y Pisco el 15 de agosto del 2007 . II) El 19 de setiembre de 1985, un terremoto golpeó la capital mexicana y dejó un saldo de al menos 9 500 personas muertas. III) Manila fue sacudida por un sismo de 7,7 grados Richter el 15 de agosto del 2007 ,que dejó 1 597 muertos. IV) El 27 de febrero del 2010, un terremoto de más de 8,8 grados en la escala de Richter causó una gran destrucción en el centro y sur de Chile. V) Haití sufrió los estragos de un terremoto de 7,0 grados en la escala de Richter, el peor en su historia, el 12 de enero del 2010.",
+    "alternatives": [
+      "A) II",
+      "B) IV",
+      "C) I",
+      "D) V",
+      "E) III"
+    ],
+    "correct": 4,
+    "rationale": "El tema son los terremotos en el continente americano. La oración III es inatingente."
+  },
+  {
+    "type": "sentence_elimination",
+    "statement": "tempo. II) La influencia del tempo en la obra musical es excesiva, pues añade diferentes sensaciones o incluso puede d eformar la obra por completo. III) Su influencia va más allá de la obra musical y aparece en el ambiente, en la actitud de quienes la oyen, en su comportamiento. IV) La influencia del tempo es tal que para muchos músicos es un producto casi del inconsciente. V) El tempo musical debe ser valorado como unos de los primeros elementos a tener en cuenta a la hora de componer música.",
+    "alternatives": [
+      "A) V",
+      "B) II",
+      "C) IV",
+      "D) III",
+      "E) I"
+    ],
+    "correct": 4,
+    "rationale": "Las oraciones se centran en el tema del tempo; sin embargo, la oración I, resulta redundante al estar contenida en las demás."
+  },
+  {
+    "type": "sentence_elimination",
+    "statement": "6. I) Cuando se realizó el Mundial en Estados Unidos, la mascota fue Striker, un perro de raza indefinida. II) En México 70, la mascota del Mundial de fútbol fue Juanito, un niño mexicano con el típico sombrero del país. III) Footix, un gallo doméstico con los colores de la bandera francesa, fue la mascota del Mundial de 1998 IV) En Sudáfrica 2010, la mascota fue un leopardo que tenía una peluca verde: Sakumi. V) El último Mundial ha tenido como mascota a Fuleco, un armadillo brasileño de tres bandas.",
+    "alternatives": [
+      "A) V",
+      "B) IV",
+      "C) II",
+      "D) I",
+      "E) III"
+    ],
+    "correct": 2,
+    "rationale": "La oración II no se refiere a una mascota animal."
+  },
+  {
+    "type": "reading_comprehension",
+    "statement": "Como todos los espíritus mezquinos, la señora Vauquer tenía la costumbre de no salir del círculo de los acontecimientos y no juzgar las causas de los mismos. Le gustaba achacar las culpas a los demás. Cuando tuvo lugar esta pérdida, consideró al honrado fabricante de fideos como el principio de su infortunio, y comenzó desde entonces, como ella decía, a desenamorarse. Cuando hubo reconocido la inutilidad de sus mimos y de sus “gastos de representación”, no tardó en adivinar la razón de ello. Advirtió entonces que su huésped tenía su modo propio de vivir. En fin, quedó demostrado que su esperanza tan lindamente acariciada se apoyaba sobre una base quimérica, y que nunca sacaría nada de aquel hombre, según la expresión de la condesa, que parecía muy",
+    "questions": [
+      {
+        "statement": "1. El tema central del texto se refiere",
+        "alternatives": [
+          "A) al desenamoramiento intempestivo de la señora Vauquet de su inquilino: un honrado fabricante de fideos que se apellida Goriot.",
+          "B) al odio de la señora Vauquet, un espíritu mezquino, contra quien no correspondió a sus expectativas: el señor Goriot.",
+          "C) al proceder vengativo de los espíritus mezquinos: incesantes pequeños ataques contra las víctimas que no siguen sus planes.",
+          "D) al paso del amor a la aversión de la señora Vauquet contra su indiferente inquilino, un empresario del sector secundario.",
+          "E) a la agudeza de la condensa, quien se percato que los esfuerzos de la señora Vauquet por conquistar a Goriot eran inútiles."
+        ],
+        "correct": 1,
+        "rationale": "El autor se refiere a la señora Vauquet tanto al comienzo como al final del texto como una persona mezquina y que odiaba a Goriot porque había frustrado sus esperanzas puestas en él."
+      },
+      {
+        "statement": "2. Se infiere de lo manifestado en el segundo párrafo que la señora Vauquet se enamoró",
+        "alternatives": [
+          "A) incondicionalmente.",
+          "B) platónicamente.",
+          "C) puerilmente.",
+          "D) locamente.",
+          "E) interesadamente."
+        ],
+        "correct": 4,
+        "rationale": "Se habla en este párrafo de “gastos de representación” que son propiamente inversión, como cuando una empresa invita a sus clientes a almorzar. La viuda se había fijado en Goriot porque vio en él un buen partido."
+      }
+    ]
+  },
+  {
+    "type": "reading_comprehension",
+    "statement": "Cuatro -dijo el Jaguar.\nLos rostros se suavizaron en el resplandor vacilante que el globo de luz difundía por\nel recinto, a través de escasas partículas limpias de vidrio: el peligro había\ndesaparecido para todos, salvo para Porfirio Cava. Los dados estaban quietos,\nmarcaban tres y uno, su blancura contrastaba con el suelo sucio.\n-Cuatro -repitió el Jaguar - ¿Quién?\n-Yo -murmuró Cava - Dije cuatro.\n-Apúrate -replicó el Jaguar - Ya sabes, el segundo de la izquierda.\nCava sintió frío. Los baños estaban al fondo de las cuadras, separados de ellas por\nuna delgada puerta de madera, y no tenían ventanas. En años anteriores, el invierno\n\nviento, que, en las noches, conseguía penetrar hasta en los baños, disipar la\nhediondez acumulada durante el día y destruir su atmósfera tibia. Pero Cava había\nnacido y vivido en la sierra, estaba acostumbrado al invierno: era el miedo lo que\nerizaba su piel.\n-¿Se acabó? ¿Puedo irme a dormir? -dijo Boa: un cuerpo y una voz desmesurados,\nun plumero de pelos grasientos que corona una cabeza prominente, un rostro\ndiminuto de ojos hundidos por el sueño. Tenía la boca abierta, del labio inferior\nadelantado colgaba una hebra de tabaco. El Jaguar se había vuelto a mirarlo.\n-Entro de imaginaria a la una -dijo Boa -.Quisiera dormir algo.\n-Váyanse -dijo el Jaguar - Los despertaré a las cinco.\nBoa y Rulos salieron. Uno de ellos tropezó al cruzar el umbral y maldijo.\n-Apenas regreses, me despiertas -ordenó el Jaguar - No te demores mucho. Van a\nser las doce.\n-Sí -dijo Cava. Su rostro, por lo común impenetrable, parecía fatigado -.Voy a\nvestirme.\nSalieron del baño. La cuadra estaba a oscuras, pero Cava no necesitaba ver para\norientarse entre las dos columnas de literas; conocía de memoria ese recinto\nestirado y alto. Lo colmaba ahora una serenidad silenciosa, alterada\ninstantáneamente por ronquidos o murmullos. Llegó a su cama, la segunda de la\nderecha, la de abajo, a un metro de la entrada. Mientras sacaba a tientas del ropero\nel pantalón, la camisa caqui y los botines, sentía junto a su rostro el aliento teñido de\ntabaco de Vallano, que dormía en la litera superior. Distinguió en la oscuridad la\ndoble hilera de dientes grandes y blanquísimos del negro y pensó en un roedor. Sin\nbulla, lentamente, se despojó del pijama de franela azul y se vistió.",
+    "questions": [
+      {
+        "statement": "1. El texto trata, esencialmente, de",
+        "alternatives": [
+          "A) el juego clandestino de un grupo de jóvenes cadetes dirigido por el Jaguar en un\nbaño destartalado.",
+          "B) la vida nocturna y ajetreada de un grupo de cuatro jóvenes amigos en un severo\ncolegio militar.",
+          "C) un juego de dados entre cadetes en el que el azar señala a Cava para realizar\nuna misión pergeñada.",
+          "D) la descripción de una cuadra de un colegio militar donde un grupo de cadetes\nburla los controles.",
+          "E) la rebeldía de un grupo de cadetes que prefiere apostar a dormir en una cuadra\nde un colegio militar."
+        ],
+        "correct": 2,
+        "rationale": "El texto se inicia describiendo el número resultante de la suma de los dígitos de las caras superiores de los dados, según este resultado es Cava quien se encargará de una misión de la que solo dice el Jaguar: “Ya sabes, el segundo de la izquierda”."
+      },
+      {
+        "statement": "2. El término AGRESIVO tiene el sentido de",
+        "alternatives": [
+          "A) virulento.",
+          "B) álgido.",
+          "C) infausto.",
+          "D) pertinaz.",
+          "E) violento."
+        ],
+        "correct": 1,
+        "rationale": "Se indica que este año el invierno era agresivo, es decir, muy frío (álgido)."
+      }
+    ]
+  },
+  {
+    "type": "synonyms_and_antonyms",
+    "statement": "El término AGRESIVO tiene el sentido de",
+    "alternatives": [
+      "A) virulento.",
+      "B) álgido.",
+      "C) infausto.",
+      "D) pertinaz.",
+      "E) violento."
+    ],
+    "correct": 1,
+    "rationale": "Se indica que este año el invierno era agresivo, es decir, muy frío (álgido)."
+  },
+  {
+    "type": "synonyms_and_antonyms",
+    "statement": "Cava es",
+    "alternatives": [
+      "A) el Jaguar.",
+      "B) el Rulos.",
+      "C) un imaginaria.",
+      "D) el Boa.",
+      "E) un moreno."
+    ],
+    "correct": 4,
+    "rationale": "La persona que duerme en la litera superiores Vallano, un moreno."
+  },
+  {
+    "type": "synonyms_and_antonyms",
+    "statement": "Si no hubiese salido en el juego tres y uno,",
+    "alternatives": [
+      "A) se tendría que haber vuelto a aventar los dados.",
+      "B) habría tocado la suerte al cadete apodado Boa.",
+      "C) el Jaguar habría maliciado que algo raro pasaba.",
+      "D) Cava estaría tranquilo y se habría ido a dormir.",
+      "E) no habría salido elegido ninguno de los cadetes."
+    ],
+    "correct": 3,
+    "rationale": "Cava habría reaccionado como los otros con alivio y se habría ido a dormir."
+  },
+  {
+    "type": "synonyms_and_antonyms",
+    "statement": "Una idea incompatible con respecto a la cuadra es que",
+    "alternatives": [
+      "A) se trata de un ambiente sofocante.",
+      "B) era el lugar destinado para el reposo.",
+      "C) no siempre estaban ahí los cadetes.",
+      "D) se trata de un espacio alargado.",
+      "E) estaba ocupada por varios camarotes."
+    ],
+    "correct": 0,
+    "rationale": "Un ambiente sofocante es un ambiente en el que no se puede respirar, dada las características que se brinda de la cuadra esa situación no se presentaba."
+  },
+  {
+    "type": "synonyms_and_antonyms",
+    "statement": "Una idea incompatible con respecto al juego es que",
+    "alternatives": [
+      "A) no dependía de la destreza del que lanzaba los dedos.",
+      "B) era una actividad que se efectuaba de manera sigilosa.",
+      "C) se realizó donde estaban los servicios higiénicos.",
+      "D) el Jaguar anunció y repitió cual era el resultado.",
+      "E) se efectúo sobre una mesa iluminada por un foco."
+    ],
+    "correct": 4,
+    "rationale": "Los dados se lanzaron al piso."
+  },
+  {
+    "type": "reading_comprehension",
+    "statement": "Suele decirse que ambos, Galileo y la Iglesia, erraron en el propio campo y\n\nhipótesis copernicana no quedaba demostrada por el hecho de que salvase las\napariencias, es decir, porque implicase todos los fenómenos astronómicos\nobservados. El error de Galileo en el terreno científico estribó en tener por\nconcluyente la prueba de las mareas, cuya falsedad fue prontamente identificada por\nlos bien asesorados teólogos.\nEn el terreno teológico, el error de los eclesiásticos no consistió en declarar\nformalmente herético el copernicanismo, pues hemos visto que esta calificación fue\nenmendada en el documento oficial. Aquí el error consistió más bien en llamar\n«falsa» a la que debió calificar como doctrina «no probada», y en llamar «totalmente\nopuesta a la Escritura» a una opinión que solo «literalmente se oponía» a la\ninterpretación estricta de algunos pasajes de la Biblia. La opinión no se oponía\nrealmente a la Escritura y versaba acerca de algo meramente científico. Si alguien\nafirmara, en cambio, que el universo no ha tenido principio, sino que existe\neternamente, expresaría una doctrina que, aun tratando de materia natural, puede\noponerse y, de hecho se opone, al sentido de la Escritura. Ahora bien, tal\ncontradicción no puede darse si Dios es autor último del sentido de la Escritura y\nautor de la Naturaleza. En el caso Galileo no parece cierto que el error consistiera en\nsancionar negativamente una cuestión científica que realmente no se opone a la\nEscritura. El error estriba en haber sancionado una cuestión estrictamente científica,\nesso es, sin ninguna implicación teológica, por el mero hecho de hallarse en la Biblia\nalgunos pasajes que podían interpretarse en contra de ella. Debió entenderse, con\nSan Agustín, San Jerónimo y tantos otros, que simplemente se hablaba según el\nmodo de expresión de la época.\n",
+    "questions": [
+      {
+        "statement": "1. El texto se centra en una explicación de",
+        "alternatives": [
+          "A) el planteamiento coherente de Bellarmino.",
+          "B) la oposición de la Iglesia a la física moderna.",
+          "C) la tesis de que el universo carece de principio.",
+          "D) los errores de Galileo y de la Iglesia católica.",
+          "E) cómo se interpreta a Galileo desde la Escritura."
+        ],
+        "correct": 3,
+        "rationale": "Se plantea desde el inicio del texto que tanto Galileo como la Iglesia cometieron errores."
+      },
+      {
+        "statement": "2. El significado connotativo de la palabra CAMPO es",
+        "alternatives": [
+          "A) territorio.",
+          "B) gleba.",
+          "C) palestra.",
+          "D) estrado.",
+          "E) especialidad."
+        ],
+        "correct": 4,
+        "rationale": "La referencia textual a campo connota especialidad."
+      },
+      {
+        "statement": "3. Resulta incompatible sostener que",
+        "alternatives": [
+          "A) Galileo estaba en lo correcto al considerar como concluyente la prueba de las mareas.",
+          "B) Bellarmino acertó al considerar que el copernicanismo no quedaba demostrado al\nse retractaron.",
+          "D) no hay contradicción entre sentido de la Escritura y la Naturaleza porque ambas\nson creaciones divinas.",
+          "E) Galileo erró al considerar que una cuestión estrictamente científica requería\nprueba bíblica."
+        ],
+        "correct": 0,
+        "rationale": "Este fue el error de Galileo que le valió una aclaración por parte de la Iglesia."
+      },
+      {
+        "statement": "4. Es posible colegir de lo que se indica al inicio del texto que",
+        "alternatives": [
+          "A) sustentar que el universo es eterno refuerza la posición de que fuera creado por la omnipotencia de Dios.",
+          "B) el error de los de la Iglesia romana no estribaba en admitir como falso el heliocentrismo defendido por Galileo.",
+          "C) la tesis defendida por Galileo iba más allá de lo que meramente se consideraba como una lectura literal de la Biblia.",
+          "D) tanto Galileo como los representantes de la Iglesia carecían de pruebas adecuadas para probar sus posiciones.",
+          "E) tanto la posición de Bellarmino como la de Galileo desvalorizan las Sagradas escrituras en sus argumentaciones."
+        ],
+        "correct": 3,
+        "rationale": "Desde que el texto alude a que erraron en campo propio, podemos colegir que sus pruebas no fueron las más adecuadas."
+      },
+      {
+        "statement": "5. Si Galileo hubiera asumido una actitud más contempori zadora con la Iglesia,",
+        "alternatives": [
+          "A) los errores en su especialidad habrían sido mucho más notorios que los que se\nllegaron a conocer entonces.",
+          "B) no habría generado discrepancias con la Inquisición ni con otras personas que envidiaban sus descubrimientos.",
+          "C) habría sido considerado como el fundador de la ciencia moderna por el uso del\nmétodo inductivo en particular.",
+          "D) la fuerza con que habría sido cuestionado por la Iglesia habría sido mayor que la\nessa ocasión.",
+          "E) sus enemigo s se habrían incrementado en forma tan alarmante que le habría sido imposible defenderse."
+        ],
+        "correct": 1,
+        "rationale": "Es posible pensar que parece haberle faltado a Galileo algo de prudencia frente a la poderosa Iglesia; si hubiese contemporizado, habría tenido menos resistencias."
+      }
+    ]
+  },
+  {
+    "type": "reading_comprehension",
+    "statement": "La creatividad, al ser uno de los procesos psíquicos más sofisticados y estructurados, permite la realización de las más diferentes, complejas y trascendentes actividades humanas. En este proceso creador toda nuestra personalidad se halla comprometida.\nPor su articulación con la naturaleza humana la creatividad es una fuente indispensable desde la que es posible obtener para llevar a la práctica en la forma más concreta posible todo a quel caudal de recursos que se hallan \"dormidos\" en nuestro psiquismo. A estos recursos potenciales, quizás, deberíamos recurrir en todos los momentos de nuestra vida, en los que se producen cambios de un alto contenido significativo.\nLa creación o el acto de crear es una característica esencial del ser humano. Es este uno de los misterios que se hallan en el fondo de nuestro inconsciente. Será en la creación en la que \"algo\" que no era pasa a ser, y será al hombre, quien posee el poder de crear y modificar la naturaleza de las cosas, que le servirá de \"sustento\" diario y trascendente.\nCuando analizamos la historia de la creatividad, nos maravillamos del enorme progreso que se manifiesta en el siglo XX: teorías atómicas, relatividad, mecánica cuántica, física nuclear, genética, inmunología, cibernética, radioastronomía. En estos descubrimientos el hombre da cuenta de la íntima naturaleza de las cosas, las que como siempre, nunca son tal como totalmente aparecen a nuestros sentidos.\nCuando se crea, el hombre se acerca a las esencias; pero, cuando solo se repite, se llega a una mera apariencia.\nSerá en la obra de arte como tal, que se unirá cósmicamente (ordenadamente) todo aquello que al hombre se le presenta caótico. De esta manera el arte (aunque no todas las veces) evidencia ese aspecto organizador, sea tendencia al equilibrio y a la armonía, innatos en la conciencia humana. También podríamos hablar de \"otro orden\" o bien de \"un nuevo orden\", cuando la obra de arte o de la técnica ya que ambas son complementarias presenta formas que se apartan de las concepciones clásicas. La incertidumbre que caracteriza a estos finales de siglo, se presenta aquí también en sus singulares credenciales.\nToda creación humana avanza buscando incrementar el equilibrio y ordenar lo desparejo aun cuando ciertas asimetrías nos produzcan tanto placer estético. La creación humana se desarrolla y se desarrollaría en el sentido de dar significatividad a la vida.\nNo obstante, la creatividad no se desarrolla en forma constante. E xisten ciertas imprecisiones en la emergencia de la misma. Hay tiempos históricos en los que la creativdad es más profunda y otros en los que no aparece. Desde esta perspectiva se podría decir que la creatividad tanto en el creador como en la creación histórica, avanza por saltos. Saltos de naturaleza epistemológica. Estos podrán observarse tanto en la creación de la técnica como en la creación artística ya sea esta, musical, literaria o pictórica.",
+    "questions": [
+      {
+        "statement": "El texto gira ,fundamentalmente , entorno a",
+        "alternatives": [
+          "A) la creación que evoluciona proporcionando ordenamiento a lo disparejo o asimétrico.",
+          "B) los recursos potenciales a los que deberíamos recurrir, pero que permanecen inactivos.",
+          "C) los tiempos históricos durante los cuales la creatividad fue más profunda que en otros.",
+          "D) la obra de arte que engarza sistemáticamente aquello que se muestra en forma caótica.",
+          "E) la creatividad como un complejo proceso psíquico que involucra toda la personalidad."
+        ],
+        "correct": 3,
+        "rationale": "Se dilucida nuclearmente en el texto, la creatividad como un proceso complejo y sofisitcado de gran trascendencia, de gran potencialidad personal y que permite salir de lo meramente reiterativo."
+      },
+      {
+        "statement": "La palabra SALTOS cobra el sentido connotativo de",
+        "alternatives": [
+          "A) cambios cuantitativos.",
+          "B) cambios cualitativos.",
+          "C) impulsos i rrefrenables.",
+          "D) avances paulatinos.",
+          "E) movimientos aleatorios."
+        ],
+        "correct": 1,
+        "rationale": "Un avance por saltos, epistemológicamente connota un cambio cualitativo que conduce a una etapa más elevada."
+      },
+      {
+        "statement": "No se condice con lo sustentado en el texto afirma que",
+        "alternatives": [
+          "A) una visión histórica de la creatividad nos muestra un ingente progreso producido durante el siglo XX, que nos maravilla.",
+          "B) la creatividad no muestra un desarrollo constante, sino que con frecuencia se presentan imprecisiones en su aparición.",
+          "C) por lo regular , el arte pone de manifiesto una tendencia organizadora dentro de una tendencia al equilibrio y armonía.",
+          "D) en la creatividad , el hombre capta cabalmente la apariencia de las cosas, mientras que en la reiteración, sus esencias.",
+          "E) los descubrimientos logrados penetran en la naturaleza íntima de las cosas, que es distinta a la que muestran los sentidos."
+        ],
+        "correct": 3,
+        "rationale": "En el texto se sustenta lo contrario, es decir, cuando se crea, el hombre se acerca a las esencias; pero, cuando se repite, solo se llega a una mera apariencia."
+      },
+      {
+        "statement": "Se colige, según lo afirmado de la creatividad en el segundo párrafo, que",
+        "alternatives": [
+          "A) es una constante en todas las etapas de la historia.",
+          "B) canaliza una serie de capacidades del ser humano.",
+          "C) no puede apartarse en el arte de los cánones clásicos.",
+          "D) se tiende a manifestar más cuando estamos dormidos."
+        ],
+        "correct": 1,
+        "rationale": "Se vincula la creatividad a un conjunto de recursos que están „dormidos, es decir ,a capacidades a las que la creatividad da curso."
+      },
+      {
+        "statement": "Si la existencia del hombre se desenvolviera al margen de la creatividad, posiblemente",
+        "alternatives": [
+          "A) la humanidad anhelaría una comprensión más amplia, más profunda y mejor orientada de la invención libre de condicionamientos.",
+          "B) las tendencias de la innovación más emergentes se habrían integrado natural y evolucionativamente en sus diferentes componentes.",
+          "C) existiría una vinculación entre la evolución del conocimiento e investigación de la invención con mayores niveles de conciencia.",
+          "D) la complejidad de los descubrimientos nos referiría a propuestas arcaicas como la reminiscencia platónica o el innatismo.",
+          "E) esta carecería de progreso y constituiría un descenso a niveles como el de los animales inferiores que actúan instintivamente."
+        ],
+        "correct": 4,
+        "rationale": "Desprovisto el hombre de creatividad, no progresaría, y posiblemente tendría su vida, las limitaciones propias de los animales considerados inferiores."
+      }
+    ]
+  },
+  {
+    "type": "reading_comprehension",
+    "statement": "El texto se centra en este estado de la materia primigenia que se presentaría por un brevísimo instante a altísimas temperaturas.",
+    "questions": [
+      {
+        "statement": "El sinónimo contextual de la palabra LADRILLO es",
+        "alternatives": [
+          "A) dovela.",
+          "B) elemento.",
+          "C) caolín.",
+          "D) numen.",
+          "E) greda."
+        ],
+        "correct": 1,
+        "rationale": "Se concebía a la materia como una construcción de ladrillos, es decir, de entes básicos, indivisibles, elementales"
+      },
+      {
+        "statement": "Resulta incompatible lo desarrollado en el texto afirma que",
+        "alternatives": [
+          "A) el plasma glasma es posible que sea producida en el Centro europeo de investigaciones nucleares.",
+          "B) el quagma se presenta a una exigua temperatura con el bombardeo de ciertas partículas.",
+          "C) se supusieron indivisibles los átomos durante veinticuatro siglos has ta que se los pudo manipular.",
+          "D) los átomos se pudieron dividir y manipular de mil maneras en el siglo XX, descubriéndose muchas partículas.",
+          "E) para el bombardeo con algunas de las partículas se han ido empleando máquinas cada vez más potentes."
+        ],
+        "correct": 1,
+        "rationale": "Al contrario el glasma se presenta a altísimas temperaturas."
+      },
+      {
+        "statement": "5. Si fuera imposible estudiar el plasma en el laboratorio,",
+        "alternatives": [
+          "A) sería improbable que se vea la película de la creación del mundo.",
+          "B) se podría ver solo el final del universo pero no el momento inicial.",
+          "C) no se podría tener pruebas indirectas de que ocurrió el Big Bang.",
+          "D) tendríamos que aceptar que es Dios quien creo todo de la nada.",
+          "E) estaríamos ante una temperatura de ingentes trillones de grados."
+        ],
+        "correct": 0,
+        "rationale": "El autor alude que si fuera posible estudiar el plasma en el laboratorio, estaríamos como viendo la película de la creación del universo."
+      }
+    ]
+  },
+  {
+    "type": "synonyms_and_antonyms",
+    "statement": "Cohabitado, ayuntado; soterrado, patente; baqueteado, avezado;",
+    "alternatives": [
+      "A) acometido, arremetido.",
+      "B) benévolo, indulgente.",
+      "C) intrínseco, fortuito.",
+      "D) vigorizado, afianzado.",
+      "E) abatido, desalentado."
+    ],
+    "correct": 2,
+    "rationale": "Serie mixta de sinonimia, antonimia y sinonimia, exige intrínseco, fortuito."
+  },
+  {
+    "type": "synonyms_and_antonyms",
+    "statement": "Frustrado, exitoso; sinuoso, franco; engreído, humillado;",
+    "alternatives": [
+      "A) iluso, utópico.",
+      "B) anodino, magnífico.",
+      "C) apremio, premura.",
+      "D) próspero, boyante.",
+      "E) comedido, discreto."
+    ],
+    "correct": 1,
+    "rationale": "Es una serie de antónimos, culmina con anodino -magnífico"
+  },
+  {
+    "type": "synonyms_and_antonyms",
+    "statement": "Prístino, antiguo, primitivo,",
+    "alternatives": [
+      "A) transparente.",
+      "B) original.",
+      "C) perspicuo.",
+      "D) acendrado.",
+      "E) diáfano."
+    ],
+    "correct": 0,
+    "rationale": "La serie sinonímica concluye en original que alude a lo primigenio."
+  },
+  {
+    "type": "synonyms_and_antonyms",
+    "statement": "Esponsales, connubio, himeneo,",
+    "alternatives": [
+      "A) yugo.",
+      "B) vínculo.",
+      "C) nupcias.",
+      "D) fusión.",
+      "E) afinidad."
+    ],
+    "correct": 2,
+    "rationale": "Esta es una serie sinonímica que culmina en nupcias, esto es, matrimonio."
+  },
+  {
+    "type": "synonyms_and_antonyms",
+    "statement": "Crucial, fundamental, capital,",
+    "alternatives": [
+      "A) nutricio.",
+      "B) decisivo.",
+      "C) idóneo.",
+      "D) consistente.",
+      "E) asertivo."
+    ],
+    "correct": 2,
+    "rationale": "La sinonimia establecida culmina con decisivo."
+  },
+  {
+    "type": "sentence_elimination",
+    "statement": "1. Al cancelar una deuda gastaría el 60% del dinero que tengo. Si de lo que me quedaría ganara su 20%, perdería en total S/. 780 ¿Cuántos soles tengo?",
+    "alternatives": [
+      "A) 1500",
+      "B) 1980",
+      "C) 1090",
+      "D) 1700",
+      "E) 1100"
+    ],
+    "correct": 0,
+    "rationale": null
+  }
+]

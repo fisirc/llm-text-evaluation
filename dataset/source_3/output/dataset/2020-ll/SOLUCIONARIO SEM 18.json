@@ -1,0 +1,368 @@
+[
+  {
+    "type": "reading_comprehension",
+    "statement": "En 334, Alejandro cruzaría el Helesponto para no regresar jamás. Se dirigió a Persia con un ejército de 35 000 hombres para liberar a los griegos de la dominación de Darío. Alejandro se enfrentaba con un imperio cincuenta veces mayor que el suyo y veinte veces más populoso, que se extendía desde el Helesponto hasta la India y desde el mar Negro al océano Índico. Con zonas de frío intenso y otras de calor asfixiante, el país era, además, una mezcolanza de razas, lenguas y religiones. El poder regio era la única fuerza aglutinante de tantas tierras y pueblos.\n\nLas fuerzas griegas eran insignificantes en comparación al ingente número de pueblos y los recursos inagotables de Persia. Con todo, los persas tenían asimismo sus puntos flacos: carecían de la cohesión táctica de los macedonios, los soldados estaban menos adiestrados y la organización de la intendencia dejaba mucho que desear. La fuerza estratégica del imperio residía, sobre todo, en la inhóspita geografía de gran parte de sus territorios; parecía que los ardientes desiertos y las escarpadas montañas hubieran sido colocados a propósito para obstaculizar los movimientos de un gran ejército. Por eso, Darío se sentía seguro en su palacio de Babilonia y juzgaba que el joven invasor padecía delirios de grandeza. El colosal imperio era como un gigante dormido que apenas\n\nI\n\npestañeó cuando los griegos, una “partida de bandidos”, como les llamo Darío, pisaron su suelo asiático.\n\nEl mayor peligro para el conquistador era la superioridad naval persa, cuya flota podía dirigirse en cualquier momento a Grecia y fomentar allí una rebelión que obligara a Alejandro a interrumpir su campaña en Asia. Para evitarlo, el macedonio desarrolló una estrategia genial: apoderarse del litoral mediterráneo antes de penetrar en el continente. Así impediría a la flota persa establecer bases de operaciones; al ocupar los puertos griegos, imposibilitaría el reclutamiento de nuevas tropas y cortaría su aprovisionamiento. El combate decisivo se resolvería en tierra, y para ello debía previamente inmovilizar la flota persa.\n\nEsta permaneció inactiva desde el principio; ni siquiera dio señales de vida cuando Alejandro pasó sus tropas a la otra orilla del Helesponto. Las vanguardias enviadas por Filipo favorecieron también la libertad de movimientos de Alejandro y nadie se le opuso en la costa asiática. Si la flota persa se hubiera apresurado, habría podido hundir la escuadra macedonia e imposibilitar el desembarco griego. ¿Cometían ya el primer error o esperaban batir con más facilidad al invasor cuando estuviera en el interior del continente asiático, lejos de su patria? Este plan era apoyado por el general más competente del ejército persa, el griego Memnón, que aconsejaba eludir el combate hasta extenuar a los griegos, que sin duda traerían pocos víveres. El mejor medio de aniquilarlos, decía, era combinar la retirada del ejército persa con una táctica de tierra calcinada para que el ejército griego, al ocupar unas regiones devastadas, no encontrase nada para subsistir. Al mismo tiempo, la flota persa les cortaría las rutas con su patria y llevaría la guerra allí. El plan fue rechazado por los sátrapas persas del Asia Menor, que no querían cargar con la “vergüenza” de una retirada, aunque fuera con fines estratégicos. Además, no consentían la destrucción del país, fuente de inmensas riquezas para los sátrapas. Resolvieron, por tanto, esperar al joven macedonio cerca del Gránico, un riachuelo de los montes de Ida que desemboca en el mar de Mármara. Pero Alejandro obtuvo allí una resonante victoria. Gracias a la asombrosa rapidez de su ataque, las pérdidas griegas fueron insignificantes, y la victoria, rotunda. El ejército persa fue destruido en parte y el resto huyó a la desbandada. Alejandro ya podía considerarse dueño y señor del Asia Menor occidental. Poco después de esta victoria, fue apoderándose de los contornos, para evitar un ataque por la retaguardia, riesgo tanto mayor cuanto más penetraba hacia el este. La población urbana del Asia Menor era en su mayor parte griega. Alejandro se atrajo su amistad restableciendo leyes y normas democráticas y liberándola de los tributos que pagaba a Persia. Los griegos del Asia Menor respiraban de nuevo el aire de la libertad helénica.\n\n[Carl Grimberg (1973) Historia Universal. Barcelona: Ediciones Daimon]",
+    "questions": [
+      {
+        "statement": "Señale la mejor síntesis del texto.",
+        "alternatives": [
+          "A) La superioridad numérica de los soldados persas era realmente abrumadora, pero carecían de la disciplina táctica de los griegos.",
+          "B) En la pugna por el Asia Menor, los griegos se impusieron a los aventajados persas gracias a la excelencia estratégica de Alejandro.",
+          "C) La población del Asia Menor clamaba por la ayuda de Alejandro y se puso de su lado cuando este llegó hasta donde ellos estaban.",
+          "D) Los persas adolecían de una pésima organización política y militar, pero eran poseedores de una flota numerosa y de gran poderío."
+        ],
+        "correct": 1,
+        "rationale": "El mejor resumen debe destacar lo esencial: la superioridad numérica persa, el área en cuestión y la sorprendente victoria griega."
+      },
+      {
+        "statement": "Resulta incompatible con el texto señalar que",
+        "alternatives": [
+          "A) la estrategia griega tenía flaquezas que pudieron ser aprovechadas.",
+          "B) las satrapías persas estaban subordinadas al control regio de Darío.",
+          "C) Memnón había ideado un plan eficiente para doblegar a los griegos.",
+          "D) la fama del genio militar de Alejandro causó un pánico en Darío."
+        ],
+        "correct": 3,
+        "rationale": "Darío juzgaba que el joven invasor padecía delirios de grandeza. Los griegos eran para él una “partida de bandidos”."
+      },
+      {
+        "statement": "Es posible colegir que Memnón era",
+        "alternatives": [
+          "A) un mercenario.",
+          "B) un espía.",
+          "C) un sátrapa.",
+          "D) un soldado leal."
+        ],
+        "correct": 0,
+        "rationale": "Es mercenario aquel que por estipendio sirve en la guerra a un poder extranjero."
+      },
+      {
+        "statement": "Con respecto a los sátrapas persas del Asia Menor, se desprende que",
+        "alternatives": [
+          "A) buscaron una sangrienta venganza.",
+          "B) actuaron con mucha perspicacia.",
+          "C) fueron presa del orgullo y la avidez.",
+          "D) castigaron al buen general Memnón."
+        ],
+        "correct": 2,
+        "rationale": "Los sátrapas no querían cargar con la vergüenza de una retirada ni destruir el país que era su fuente de riqueza."
+      },
+      {
+        "statement": "Se infiere que las medidas que adoptó Alejandro en lo que respecta a la población del Asia Menor",
+        "alternatives": [
+          "A) recibieron como agradecimiento un acto de traición.",
+          "B) tuvieron una motivación fundamentalmente política.",
+          "C) fueron ejecutadas por la filantropía del conquistador.",
+          "D) buscaban la reconciliación con el rey persa Darío."
+        ],
+        "correct": 1,
+        "rationale": "Alejandro fue apoderándose de los contornos para evitar un ataque por la retaguardia, se atrajo la amistad de la población con esas medidas."
+      }
+    ]
+  },
+  {
+    "type": "reading_comprehension",
+    "statement": "Si se tiene la paciencia de leer las distintas clases de lector que presenta la infografía de manera lúdica, es menester que se precise de forma clara cuál es la tipología básica de lectores, de acuerdo con estudios recientes sobre el particular. El primer tipo de lector que podemos perfilar es aquel que significa sus prácticas lectoras a través de la lectura de libros de ficción. Este es el sujeto que tiene legitimadas sus lecturas tanto en el contexto institucional como socioculturalmente. Lo llamaremos lector de ficción. Este tipo de lector, cuando manifiesta sus prácticas lectoras dice explícitamente que es un lector de libros de ficción o, al menos, se puede inferir por la descripción de sus prácticas lectoras. El segundo tipo de lector que podemos presentar es aquel que se representa mediante prácticas lectoras que hacen referencia a la información. Llamamos a este tipo de lector: lector de información. Estos afirman no sentir interés o no gastar su tiempo en la lectura de novelas o literatura en general, pero se identifican como lectores de noticias, historia, geografía o temas técnicos de su interés. Un tercer y último tipo de lector es el que rechaza leer. Llamamos a este tipo de lector antilector. Aunque parezca un contrasentido afirmar que una persona que no lee es un tipo de lector, afirmamos dicha cuestión en la idea de que las prácticas lectoras no hacen referencia necesariamente a las acciones aisladas que registramos, sino que presuponen cierta relación con lo escrito, de cómo se les otorga sentido a los textos. Partiendo de esa base la no lectura no es tan solo la ausencia de la acción de leer, sino que también una relación de rechazo a la cultura escrita; en tal sentido, el antilector hace manifiesto un rechazo hacia la cultura escrita. Texto adaptado de GUILARDÉS M., Francisco (2014). Leer lo necesario. Tipos de lectores, prácticas lectoras y uso de internet en establecimientos escolares del Gran Valparaíso. Tesis para optar por el título profesional en Sociología. Chile, Universidad de Valparaíso. Imagen recogida de Literatura SM México.",
+    "questions": [
+      {
+        "statement": "1. El texto sustancialmente se enfoca en",
+        "alternatives": [
+          "A) los tipos de lectores de acuerdo con su condición socioeconómica.",
+          "B) los tipos de lectores inclinados al procesamiento de datos ficticios.",
+          "C) una tipología de lectores de acuerdo con los contenidos y la actitud.",
+          "D) la comprensión de los textos vinculada con la preferencia del lector."
+        ],
+        "correct": 2,
+        "rationale": "En efecto, tanto en la imagen como en el texto lineal se enfatiza en establecer una clasificación de los lectores de acuerdo con los contenidos de su preferencia, además de la actitud de estos frente a la lectura."
+      },
+      {
+        "statement": "2. Se deduce del contenido textual que los textos expositivos serían los preferidos de\nlos",
+        "alternatives": [
+          "A) lectores de información y de aquellos que recomiendan diversos títulos a sus amigos y sus familiares.",
+          "B) lectores de ficción y los neuróticos, pues los contenidos son más sencillos de procesar y son abundantes.",
+          "C) lectores que gustan de diversos personajes y diversas historias, puesto que les permiten autoidentificarse.",
+          "D) que están iniciándose en la lectura, como los lectores denominados neuróticos o antilectores."
+        ],
+        "correct": 0,
+        "rationale": "Un texto expositivo, en rigor, es de carácter informativo, de manera que serían los favoritos de un lector «de información» o de un lector «altruista», cuyo volumen de lecturas es amplio."
+      },
+      {
+        "statement": "3. Resulta compatible con el desarrollo textual afirmar que resultaría razonable establecer una relación entre el lector _____________y el lector _____________.",
+        "alternatives": [
+          "A) extrovertido, de ficción",
+          "C) altruista, introvertido",
+          "B) neurótico, antilector",
+          "D) monógamo, informativo"
+        ],
+        "correct": 1,
+        "rationale": "En efecto, quien más se aproxima al antilector definido en el texto es el neurótico, pues este último rara vez acaba un libro, de manera que su actitud no es positiva respecto de la práctica lectora."
+      },
+      {
+        "statement": "4. El vocablo PERFILAR se puede reemplazar por",
+        "alternatives": [
+          "A) trazar.",
+          "B) marcar.",
+          "C) definir.",
+          "D) aparecer."
+        ],
+        "correct": 2,
+        "rationale": "La palabra se usa para referirse a un primer tipo de lector; es decir, se precisa o define a la primera clase de acuerdo con características específicas. Por consiguiente, es sinónimo de DEFINIR."
+      },
+      {
+        "statement": "5. Si la tipología presentada en el texto mixto se ciñera a la preferencia por los contenidos, es posible que",
+        "alternatives": [
+          "A) la categoría de antilector sea innecesaria en la clasificación propuesta.",
+          "B) los lectores polígamos deban ocuparse de una sola lectura a la vez.",
+          "C) el lector extrovertido se pueda vincular con la categoría de antilector.",
+          "D) algunos antilectores prefieran vincularse con la lectura de tipo literaria."
+        ],
+        "correct": 0,
+        "rationale": "Si se trata del tipo de lector de acuerdo únicamente con el contenido, la actitud como criterio quedaría al margen; por consiguiente, el antilector sería innecesario."
+      }
+    ]
+  },
+  {
+    "type": "reading_comprehension",
+    "statement": "SECCIÓN B\n\nEl número de víctimas de los diversos desastres naturales aumentó de 147 a 211 millones por año entre 1991 y 2000. En el mismo período, más de 665 000 personas perecieron en 2557 desastres naturales, de los cuales más del 90% tuvieron que ver con el agua. De estos últimos, las inundaciones representaron alrededor de un 50%, las enfermedades transmitidas por el agua y por vector un 28% y las sequías un 11%. Las inundaciones causaron un 15% de decesos y las sequías un 42% de las pérdidas de vidas humanas causadas por todo tipo de desastres naturales. Las pérdidas económicas derivadas de las catástrofes naturales han aumentado de 30 000 a 70 000 millones de dólares de los Estados Unidos entre 1990 y 1999. Estas cifras subestiman la verdadera magnitud de las pérdidas, que son probablemente dos o más veces mayores. Además y si bien estas cifras indican la repercusión económica de los desastres en la actualidad, no evalúan los efectos sobre futuros costos sociales, la pérdida de los medios de subsistencia, etc. Las cifras de la figura 5 indican que los desastres naturales suceden con una frecuencia creciente y que afectan de manera desproporcionada a los países de ingresos bajos. Efectivamente, alrededor del 97% de las muertes causadas por ellos han tenido lugar en países en desarrollo.",
+    "questions": [
+      {
+        "statement": "1. Determine el tema central del texto.",
+        "alternatives": [
+          "A) Flujo de agua entre países pobres y desarrollados",
+          "B) Las clases de desastres naturales y su incidencia",
+          "C) Los lugares con mayor ocurrencia de desastres",
+          "D) Los desastres naturales vinculados con el agua"
+        ],
+        "correct": 3,
+        "rationale": "El texto desarrolla específicamente la incidencia de desastres a nivel mundial, y se enfoca en aquellos vinculados con el agua."
+      },
+      {
+        "statement": "2. El sinónimo en contexto de la palabra DERIVADA es",
+        "alternatives": [
+          "A) establecida.",
+          "C) conducida.",
+          "B) ocasionada.",
+          "D) encaminada."
+        ],
+        "correct": 2,
+        "rationale": "La palabra en cuestión se refiere a las pérdidas económicas que devienen de las catástrofes naturales. Por consiguiente, el sinónimo adecuado es OCASIONADA."
+      },
+      {
+        "statement": "3. Resulta incompatible con el texto y la imagen afirmar que los registros de desastres naturales comprendidos en el estudio",
+        "alternatives": [
+          "A) hacen posible postular la desaparición progresiva de lugares vitales para ciertos grupos humanos.",
+          "B) permiten sostener que uno de los lugares más afectados con los desastres es el continente asiático.",
+          "C) comprenden zonas afectadas como África y Asia, continentes en los que su ocurrencia es mucho mayor.",
+          "D) permiten reconocer que estos suceden con mucha mayor frecuencia de lo que se suele pensar."
+        ],
+        "correct": 0,
+        "rationale": "En el texto se afirma que estos datos no permiten definir los costos sociales que podrían acarrear en el futuro."
+      },
+      {
+        "statement": "4. Es posible deducir del desarrollo textual que el estudio sobre los desastres naturales vinculados con el agua",
+        "alternatives": [
+          "A) vincula el desastre con las diversas epidemias que pueden ocasionar.",
+          "B) se enfocó en las consecuencias inmediatas solo en zonas de tipo rural.",
+          "C) carece del rasgo medular en toda indagación: la capacidad predictiva.",
+          "D) fue llevado a cabo por un comité científicos de los países en desarrollo."
+        ],
+        "correct": 2,
+        "rationale": "El estudio solo obtiene datos sobre el impacto inmediato. Por consiguiente, carece de capacidad predictiva."
+      },
+      {
+        "statement": "5. Si se pudiera proyectar el impacto que los desastres naturales ocasionarían en un periodo de tres décadas hacia el futuro, es posible que",
+        "alternatives": [
+          "A) los expertos manejen información certera sobre ciertos vectores.",
+          "B) los temidos incendios forestales sean completamente controlados.",
+          "C) las inundaciones sean usadas para cultivar en zonas desérticas.",
+          "D) se puedan articular medidas preventivas para atenuar los efectos."
+        ],
+        "correct": 3,
+        "rationale": "Si se pudiera predecir, podrían articularse medidas preventivas para que el impacto no sea devastador."
+      }
+    ]
+  },
+  {
+    "type": "reading_comprehension",
+    "statement": "En la actualidad llamar a alguien un «sabelonada», o know nothing, podría significar una de dos cosas. Si eres un estudiante de historia estadounidense, podrías comparar a esa persona con un integrante del partido Know Nothing de la década de 1850: un grupo intolerante, xenófobo y antiinmigrante que en su punto más alto contaba con más de cien integrantes en el congreso y con ocho gobernadores. Sin embargo, lo más probable es que quieras decir que esa persona es ignorante de forma deliberada; alguien que rechaza los hechos cuando estos entran en conflicto con sus prejuicios. Lo triste es que en la actualidad Estados Unidos está gobernado por gente que cumple con ambas definiciones. Además, los «sabelonadas» en el poder están haciendo todo lo posible por sabotear los cimientos mismos de la grandiosidad de Estados Unidos.\n\nLos paralelismos entre la agitación antiinmigrante de mediados del siglo XIX y el trumpismo son evidentes; como se señala a menudo actualmente «lo único que parece haber cambiado son las nacionalidades difamadas». Irlanda y Alemania, las principales fuentes de la ola inmigrante de aquella época, eran los «países de mierda» de ese momento. La mitad de la población de Irlanda emigró debido a la hambruna, mientras que los alemanes huyeron por problemas económicos y políticos. Los inmigrantes de los dos países —los irlandeses en particular— eran retratados como criminales borrachos, por no decir «subhumanos». También los percibían como subversivos: católicos cuya primera lealtad era hacia el papa. Unas pocas décadas más tarde, la siguiente ola de inmigrantes —italianos, judíos y muchos más— inspiró prejuicios similares. Y henos aquí de nuevo. El prejuicio antiirlandés, el antialemán y el antiitaliano son en esencia cosas del pasado (aunque el antisemitismo sigue con fuerza), pero siempre habrá nuevos grupos que odiar. Sin embargo, los republicanos de la actualidad —porque esto no solo trata de Donald Trump: es todo el partido— no solo caben en una de las dos definiciones de «sabelonada», sino que portan los dos estandartes. La cantidad de temas para los que los conservadores acusan que hay un sesgo liberal de los hechos solo sigue creciendo.",
+    "questions": [
+      {
+        "statement": "Determine el tema central del texto.",
+        "alternatives": [
+          "A) El concepto de «sabelonada» para los estudiantes de historia en USA.",
+          "B) La animadversión de los «sabelonadas» a los irlandeses y alemanes.",
+          "C) Los «sabelonadas» antiinmigracionistas en el contexto actual de USA.",
+          "D) La actitud hostil de los «sabelonadas» a las políticas de Donald Trump."
+        ],
+        "correct": 2,
+        "rationale": "El texto precisa los sentidos de la noción de «sabelonada» en el contexto norteamericano actual a fin de establecer su conexión con el acendrado antiinmigracionismo que se vive en los Estados Unidos gobernado por Trump."
+      },
+      {
+        "statement": "En el texto, el término PARALELISMO se puede reemplazar por",
+        "alternatives": [
+          "A) coordenada.",
+          "B) semejanza.",
+          "C) extensión.",
+          "D) distinción."
+        ],
+        "correct": 1,
+        "rationale": "El vocablo se utiliza para establecer un parangón entre el siglo XIX y el siglo XXI. En tal sentido, es sinónimo de SEMEJANZA."
+      },
+      {
+        "statement": "Resulta incompatible con el desarrollo textual afirmar que la noción de «sabelonada», en cuanto a su interpretación en el contexto norteamericano,",
+        "alternatives": [
+          "A) podría vincularse con la intolerancia ocurrida en el siglo XIX.",
+          "B) puede hacer referencia a un individuo intolerante y xenófobo.",
+          "C) indicaría, además de intolerante, a un ignorante intencionado.",
+          "D) carece del carácter polisémico que es usual en los vocablos."
+        ],
+        "correct": 3,
+        "rationale": "Se indica que esta palabra se usa en dos sentidos posibles."
+      },
+      {
+        "statement": "Se deduce, respecto del rechazo a los inmigrantes en Estados Unidos, que",
+        "alternatives": [
+          "A) es un problema de larga data que solo ha trastocado a los afectados, pero aún no ha sido superado.",
+          "B) ahora este implica el desprecio de todos aquellos que sean descendientes de irlandeses y alemanes.",
+          "C) ha sido una problemática detectable en el siglo XIX, pero impensable actualmente en ese país.",
+          "D) se consideró como un problema preocupante hace bastantes siglos, pero Trump lo ha combatido."
+        ],
+        "correct": 0,
+        "rationale": "El autor establece una relación entre los EE.UU. del siglo XIX y el país en la actualidad. En tal sentido afirma que las taras segregacionistas de esa época «lo único que parece haber cambiado son las nacionalidades difamadas». Es decir, es un problema sin superar."
+      },
+      {
+        "statement": "Si el carácter xenófobo fuera un prejuicio carente de aceptación en el partido republicano estadounidense,",
+        "alternatives": [
+          "A) los irlandeses podrían manifestar públicamente su adhesión al papa.",
+          "B) la apertura a grupos de migrantes sería parte de la política americana.",
+          "C) solo las poblaciones de afrodescendientes estarían al margen de la ley.",
+          "D) las colonias de alemanes y judíos podrían retornar a su país de origen."
+        ],
+        "correct": 1,
+        "rationale": "Si esa fuera la condición, los grupos de migrantes en USA serían aceptados y los republicanos considerarían este acto como parte de sus principios políticos."
+      }
+    ]
+  },
+  {
+    "type": "reading_comprehension",
+    "statement": "I\n\nPese a que en el mundo la historia nos ofrece un rosario de ejemplos de\nsegregación racial entre los seres humanos, declaramos que todos los seres humanos\nnacemos libres e iguales en dignidad y derechos, y estamos dotados de la posibilidad de\ncontribuir al desarrollo y al bienestar de nuestras sociedades por igual. Toda doctrina de\nsuperioridad racial es científicamente falsa, moralmente condenable, socialmente injusta y\npeligrosa, razón por la cual debe rechazársela junto con las teorías que tratan de\ndeterminar la existencia de razas humanas separadas. Sin embargo, reconocemos que el\nracismo ha sido una práctica ubicua gracias al colonialismo, que ha hecho posible que los\nafricanos y\nlos afrodescendientes sean víctimas, por muchas generaciones, de\ncondiciones afrentosas y violentas, que persisten aún en la actualidad, y que fortalecen la\ndesigualdad social y económica en el mundo.\n\nDe allí que creemos que una auténtica igualdad de oportunidades para todos es\nfundamental para erradicar el racismo, de tal modo que concebimos que la universalidad\nde la educación es una buena manera de combatirla, ya que permite la difusión de ideas\nsaludables contrarias al racismo, en tanto ideología, también se enseña. En ese sentido,\nl a educación fomentaría la difusión de los derechos humanos, lo que podría garantizar el\ncabal cumplimiento de estos en contra de cualquier práctica racista y discriminatoria, que,\ncomo hemos dicho, carece de todo sentido, ya que los hombres son indiscernibles en su\nnaturaleza, sino realicemos el siguiente ejercicio mental, propuesto por John Grisham en\nsu A time to kill:\n\nImaginemos a una niña blanca jugando en los columpios del parque,\nimaginémosla reír y disfrutar plenamente el momento, abstraída del\nmundo. Imaginemos ahora que un par de hombres blancos, alcoholizados\ny drogados, la acechan, la secuestran, la llevan a unos matorrales y\nabusan de ella. ¡Terrible no! ¿Acaso no pediríamos al unísono una\ncondena ejemplar para tan protervos hombres como castigo por su\nabominable crimen: violentar sexualmente a niña candorosa que jugaba\nen el parque? Bien, ahora imaginemos que esta niña blanca no es blanca,\nsino una niña negra. ¿Cuál es la diferencia?\n\nNaciones Unidas. (2012). Unidos contra el racismo, la discriminación racial, la xenofobia y las formas\nconexas de intolerancia. (Texto editado).\n\nA mediados del siglo XIX, un grupo de egregios biólogos se esmeraron en demostrar la\ninferioridad del negro respecto al blanco. Carl Vogt, por ejemplo, en su monografía\ntitulada Lecciones sobre el hombre, su lugar en la creación y en la historia de la tierra\n(1863), comparaba al negro con el alemán, y estableció diferencias sustanciales entre\nambos grupos humanos, tales como sus cráneos, sus cerebros y sus capacidades\nintelectuales; en todas estas, el alemán resultaba mejor dotado que su contraparte, de tal\nmodo que se podía concluir que las razas africana y teutónica debían considerárselas\ncomo especies de primates discernibles y no como miembros de la misma especie.\n\nPor su parte, el ingente biólogo T.H. Huxley, partidario de la unidad de la especie\nhumana y contrario a la trata de esclavos, llevaría, con la publicación de su ensayo\nEmancipation. Black and White (1865), las evidencias científicas sobre la inferioridad\nevolutiva de la raza negra al terreno del debate social sobre la abolición de la esclavitud.\nAunque con una extraña mezcla de filantropía erudita y científica, Huxley argumentaba a\n\nI\n\nfavor de la abolición de la esclavitud de los negros, sin dejar de reconocer la inferioridad\nbiológica de estos como un hecho irrefutable:\n\n«Puede ser bastante cierto que algunos negros sean mejores que ciertos\nhombres blancos, pero ninguna persona racional puede pensar que, en la\nmedia, el negro sea igual y, mucho menos, superior que el hombre\nblanco; por eso, resulta increíble pensar que, cuando nuestro prognato\nfamiliar se vea en libertad, el negro vaya a ser capaz de competir con\néxito con su rival de mayor cerebro y menor mandíbula, en una\ncompetición que tendrá que llevarse a cabo con el pensamiento y no a\nbocados» (Huxley, 1865).\n\nSánchez, J. (2008). La biología humana como ideología: el racismo biológico y las estructuras simbólicas de\ndominación racial a fines del siglo XIX. Theoria, 65, pp. 107-124. (Texto editado).\n",
+    "questions": [
+      {
+        "statement": "La tensión entre los dos textos gira entorno a",
+        "alternatives": [
+          "A) los aportes científicos de la Biología al racismo",
+          "B) las bases biológicas o culturales del racismo",
+          "C) la declaración de las NU en contra del racismo",
+          "D) al racismo como una constante en la historia"
+        ],
+        "correct": 1,
+        "rationale": "En el texto B se plantea que el racismo tiene bases científicas. En el texto A se\nrefuta dicha posición sentenciando que el racismo carece de basamentos científicos,\nen tanto es una ideología impuesta y heredada de contextos coloniales."
+      },
+      {
+        "statement": "El sinónimo contextual del término INCREÍBLE que aparece en el texto B es",
+        "alternatives": [
+          "A) genial",
+          "B) lamentable",
+          "C) sorprendente",
+          "D) absurdo."
+        ],
+        "correct": 3,
+        "rationale": "En el texto B dicho término es usado en un contexto en el que se indica que la\ninferioridad del negro es algo notorio, al punto de no causar preocupación al blanco."
+      },
+      {
+        "statement": "Respecto a los argumentos expuestos en el texto A, entorno a combatir el racismo,\npodemos concluir que las Naciones Unidas",
+        "alternatives": [
+          "A) pondera el rol capital de la educación para alcanzar el desarrollo humano.",
+          "B) sostiene que el racismo es una práctica ecuménica gracias al colonialismo.",
+          "C) considera que la pobreza tiene como única causa la discriminación racial.",
+          "D) propone la distribución equitativa de las riquezas mediante la expropiación."
+        ],
+        "correct": 0,
+        "rationale": "En el texto A, las Naciones Unidas considera que, para combatir el racismo, se debe\nhacer universal la educación, ya que esta «fomentaría la difusión de los derechos\nhumanos, lo que podría garantizar el cabal cumplimiento de estos»; en ese sentido,\ndisfrutando de sus derechos, los ciudadanos podrían alcanzar el desarrollo."
+      },
+      {
+        "statement": "Es incompatible sostener que, para Huxley, el hombre blanco debería oponerse a la\nmanumisión del hombre negro porque",
+        "alternatives": [
+          "A) el prognatismo del negro es un rasgo de superioridad evolutiva.",
+          "B) el hombre negro no representa una amenaza por su inferioridad.",
+          "C) cree que estos podrían cobrar venganza por años de vejaciones.",
+          "D) con la emancipación la producción de algodón reduciría."
+        ],
+        "correct": 1,
+        "rationale": "En el texto B, Huxley, pese a su temple antiesclavista, sostiene que el negro, en\nlibertad, jamás podría representar una seria amenaza para el blanco, ya que es un\nser inferior, por tal razón, el blanco no debería oponerse a su liberación."
+      },
+      {
+        "statement": "Si se llegase a comprobar científicamente que en la especie humana hay diferencias\nraciales, entonces, las Naciones Unidas",
+        "alternatives": [
+          "A) defendería que el coloniaje es favorable al desarrollo de un país.",
+          "B) ofrecería disculpas en su página oficial a la comunidad científica.",
+          "C) seguiría recusando el racismo por vulnerar los derechos humanos.",
+          "D) tendría que reconocer la legitimidad de la discriminación racial."
+        ],
+        "correct": 2,
+        "rationale": "Si bien en el texto A se menciona que las Naciones Unidas sostiene que las teorías\nde superioridad racial carecen de basamentos científicos, plantea que «todos los\nseres humanos nacemos libres e iguales en dignidad y derechos», en ese sentido,\ndado que el racismo atenta contra los derechos humanos, seguiría rechazándolo."
+      }
+    ]
+  },
+  {
+    "type": "reading_comprehension",
+    "statement": "Once upon a time a Wolf was lapping at a spring on a hillside, when, looking up, what should he see but a Lamb just beginning to drink a little lower down. \"There's my supper,\" thought he, \"if only I can find some excuse to seize it.\" Then he called out to the Lamb, \"How dare you muddle the water from which I am drinking?\" \"Nay, master, nay,\" said Lambikin; \"if the water be muddy up there, I cannot be the cause of it, for it runs down from you tome.\" \"Well, then,\" said the Wolf, \"why did you call me bad names this time last year?\" \"That cannot be,\" said \"I am only six months old.\" \"I don't care,\" snarled the Wolf; \"if it was not you it was your father;\" and with that he rushed upon the poor little Lamb and ate her all up. But before she died she gasped out: \"Any excuse will serve a tyrant.\"",
+    "questions": [
+      {
+        "statement": "The fable is about",
+        "alternatives": [
+          "A) abuse.",
+          "B) audacity.",
+          "C) lies.",
+          "D) power."
+        ],
+        "correct": 0,
+        "rationale": "The central topic of the fable is the abuse or tiranny."
+      },
+      {
+        "statement": "The Wolf was looking for some kind of",
+        "alternatives": [
+          "A) argument.",
+          "B) cause.",
+          "C) pretext.",
+          "D) reason."
+        ],
+        "correct": 2,
+        "rationale": "The Wolf needs a pretext for attacking the Lamb."
+      },
+      {
+        "statement": "The opposite of MUDDY is",
+        "alternatives": [
+          "A) cleansed.",
+          "B) heavy.",
+          "C) opaque.",
+          "D) plenty."
+        ],
+        "correct": 0,
+        "rationale": "Muddy is dirty. The opposite is cleansed."
+      },
+      {
+        "statement": "Presumably, the Wolf tried to talk to the Lamb for _____ her.",
+        "alternatives": [
+          "A) approaching",
+          "B) encouraging",
+          "C) knowing",
+          "D) persuading"
+        ],
+        "correct": 0,
+        "rationale": "The Wolf needs a pretext to approaching to the Lamb to attack her."
+      },
+      {
+        "statement": "If the Lamb had not responded to the Wolf, probably",
+        "alternatives": [
+          "A) she would have fled in complete safety.",
+          "B) she would not have taken a little water.",
+          "C) the Wolf would have attacked her anyway.",
+          "D) the Wolf would have taken pity on her."
+        ],
+        "correct": 2,
+        "rationale": "The Wolf saw the Lamb and decided to eat her."
+      }
+    ]
+  }
+]

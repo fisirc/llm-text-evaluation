@@ -1,0 +1,947 @@
+[
+  {
+    "type": "reading_comprehension",
+    "statement": "La contaminación visuales todo aquello que afecta o perturba la visualización de una determinada zona o rompe la estética del paisaje. El cerebro humano tiene una determinada capacidad de absorción de datos que se ve rebasada por la cantidad de elementos en el paisaje. Las causas de este tipo de contaminación son: vallas publicitar ias, tráfico aéreo, cableados, antenas de televisión, parabólicas, par arrayos, basuras o vertederos, grafitis, edificios deteriorados, redes de distribución eléctrica, exceso de señales de tráfico e incluso molinos eólicos. Sus consecuencias son diversas: accidentes ocasionados por obstrucción visual al conducir, trastornos de atención, estética paisajística afectada, alteraciones del sistema nervioso, estrés por saturación de elementos y colores, dolor de cabeza, mal humor y disminución de la eficiencia laboral. Algunas soluciones para combatirlas son entre otras, reducir la cantidad de anuncios y hacer un seguimiento de normas urbanísticas racionales, evitando elementos agresivos o recargados.",
+    "questions": [
+      {
+        "statement": "1. PERTURBA",
+        "alternatives": [
+          "A) enreda",
+          "B) confunde",
+          "C) divierte",
+          "D) altera",
+          "E) distrae"
+        ],
+        "correct": 3,
+        "rationale": "Clave: D"
+      },
+      {
+        "statement": "2. ABSORCIÓN",
+        "alternatives": [
+          "A) captación",
+          "B) incorporación",
+          "C) aspiración",
+          "D) transferencia",
+          "E) pretensión"
+        ],
+        "correct": 0,
+        "rationale": "Clave: A"
+      },
+      {
+        "statement": "3. OBSTRUCCIÓN",
+        "alternatives": [
+          "A) atasco",
+          "B) atolladero",
+          "C) impedimento",
+          "D) problema",
+          "E) atoramiento"
+        ],
+        "correct": 2,
+        "rationale": "Clave: C"
+      },
+      {
+        "statement": "4. RECARGADO",
+        "alternatives": [
+          "A) pomposo",
+          "B) exuberante",
+          "C) cuantioso",
+          "D) profuso",
+          "E) excesivo"
+        ],
+        "correct": 4,
+        "rationale": "Clave: E"
+      },
+      {
+        "statement": "5. SATURACIÓN",
+        "alternatives": [
+          "A) impregnación",
+          "B) acumulación",
+          "C) hartazgo",
+          "D) efusión",
+          "E) saciedad"
+        ],
+        "correct": 1,
+        "rationale": "Clave: B"
+      },
+      {
+        "statement": "6. VERTEDERO",
+        "alternatives": [
+          "A) escombro",
+          "B) desagüe",
+          "C) sumidero",
+          "D) depósito",
+          "E) almacén"
+        ],
+        "correct": 3,
+        "rationale": "Clave: D"
+      }
+    ]
+  },
+  {
+    "type": "reading_comprehension",
+    "statement": "Hay almas piadosas que, para morigerar la inmigración, proponen a los gobiernos de los países modernos una generosa política de ayuda económica al Tercer Mundo. Esto, en principio, parece muy altruista. La verdad es que si la ayuda se entiende como ayuda a los Gobiernos del Tercer Mundo, esta política sólo sirve para agravar el problema en vez de resolverlo de raíz. Porque la ayuda que llega a gángsters como el Mobutu del Zaire o la satrapía militar de Nigeria o a cualquiera de las otras dictaduras africanas sólo sirve para inflar aún más las cuentas bancarias privadas que aquellos déspotas tienen en Suiza, es decir, para acrecentar la corrupción, sin que ella beneficie en lo más mínimo a las víctimas. Si ayuda hay, ella debe ser cuidadosamente canalizada hacia el sector privado y sometida a una vigilancia en todas sus instancias para que cumpla con la finalidad prevista, que es crear empleo y desarrollar los recursos, lejos de la gangrena estatal.\nEn realidad, la ayuda más efectiva que los países democráticos modernos pueden prestar a los países pobres es abrirles las fronteras comerciales, recibir sus productos, estimular los intercambios y una enérgica política de incentivos y sanciones para lograr su democratización, ya que, al igual que en América Latina, el de spotismo y el autoritarismo políticos son el mayor obstáculo que enfrenta hoy el continente africano para revertir ese destino de empobrecimiento sistemático que es el suyo desde la descolonización.",
+    "questions": [
+      {
+        "statement": "Medularmente, el texto desarrolla una disidente opinión acerca de",
+        "alternatives": [
+          "A) los procesos de migración e inmigración en América Latina.",
+          "B) los fundamentos de la migración esbozados por los países ricos.",
+          "C) las bases altruistas de las políticas inmigracionistas de los países modernos.",
+          "D) la política de incentivos y sanciones utilizada por los países democráticos.",
+          "E) la política de ayuda económica para África como restricción inmigratoria."
+        ],
+        "correct": 4,
+        "rationale": "En efecto, el autor no considera que la ayuda económica ponga coto a la marea inmigratoria."
+      },
+      {
+        "statement": "En el texto, el término MORIGERAR significa",
+        "alternatives": [
+          "A) extremar.",
+          "B) contener.",
+          "C) clausurar.",
+          "D) cesar.",
+          "E) vigilar."
+        ],
+        "correct": 1,
+        "rationale": "El término alude a la disminución o moderación de la marea inmigratoria."
+      },
+      {
+        "statement": "Se puede colegir del texto que el continente africano",
+        "alternatives": [
+          "A) ofrece oportunidades de mejora a sus ciudadanos.",
+          "B) recibe ingente ayuda de los países democráticos.",
+          "C) enfrenta un clima de poca estabilidad política.",
+          "D) es totalmente ajeno a las políticas migratorias.",
+          "E) estuvo plagado de sátrapas militares y dictadores."
+        ],
+        "correct": 2,
+        "rationale": "El despotismo y el autoritarismo políticos son el mayor obstáculo que enfrenta hoy el continente africano."
+      }
+    ]
+  },
+  {
+    "type": "reading_comprehension",
+    "statement": "El término alude a la disminución o moderación de la marea inmigratoria.",
+    "questions": [
+      {
+        "statement": "Se puede colegir del texto que el continente africano",
+        "alternatives": [
+          "A) ofrece oportunidades de mejora a sus ciudadanos.",
+          "B) recibe ingente ayuda de los países democráticos.",
+          "C) enfrenta un clima de poca estabilidad política.",
+          "D) es totalmente ajeno a las políticas migratorias.",
+          "E) estuvo plagado de sátrapas militares y dictadores."
+        ],
+        "correct": 2,
+        "rationale": "El despotismo y el autoritarismo políticos son el mayor obstáculo que enfrenta hoy el continente africano."
+      },
+      {
+        "statement": "Resulta incompatible con el texto aseverar que los países democráticos modernos",
+        "alternatives": [
+          "A) están llamados a ayudar a los países del Tercer Mundo.",
+          "B) deberían recibir los productos de los países pobres.",
+          "C) podrían revertir el em pobrecimiento de algunos estados.",
+          "D) propugnan una forma de convivencia y organización social.",
+          "E) diseñan programas para pe rmeabilizar las fronteras."
+        ],
+        "correct": 4,
+        "rationale": "Se trata de una posibilidad, mas no de una realidad."
+      },
+      {
+        "statement": "Si los países modernos abrieran sus fronteras comerciales a los Gobiernos del Tercer Mundo, probablemente,",
+        "alternatives": [
+          "A) terminaría con la gangrena estatal en estos.",
+          "B) se conseguiría la democratización en estos.",
+          "C) acrecentaría la corrupción política en África.",
+          "D) los productos de estos tendrían un nivel inferior.",
+          "E) desaparecería el autoritarismo en aquellos."
+        ],
+        "correct": 1,
+        "rationale": "Es la tesis que maneja el autor."
+      }
+    ]
+  },
+  {
+    "type": "verbal_series",
+    "statement": "Marque la palabra que completa la siguiente serie Exactitud, regularidad, precisión,",
+    "alternatives": [
+      "A) rigor",
+      "B) imprecisión",
+      "C) vaguedad",
+      "D) duda",
+      "E) fluctuación"
+    ],
+    "correct": 0,
+    "rationale": "Las palabras de la serie verbal se enmarcan dentro de la idea de lo preciso."
+  },
+  {
+    "type": "verbal_series",
+    "statement": "Chompa, lana; queso, leche; gasolina, petróleo;",
+    "alternatives": [
+      "A) balón, gas",
+      "B) cesta, mimbre",
+      "C) hielo, agua",
+      "D) cuero, zapato",
+      "E) cremallera, cierre"
+    ],
+    "correct": 1,
+    "rationale": "En los enunciados se observa una relación analógica de producto elaborado – materia prima."
+  },
+  {
+    "type": "verbal_series",
+    "statement": "Excusar, acusar; vigor, energía; limpio, sórdido;",
+    "alternatives": [
+      "A) melifluo, dulce",
+      "B) impertérr ito, cobarde",
+      "C) prólogo, colofón",
+      "D) dinámico, indolente",
+      "E) ensimismado, despreocupado"
+    ],
+    "correct": 0,
+    "rationale": "Existe par de antónimos, sinónimos, antónimos; completa la serie un par de sinónimos."
+  },
+  {
+    "type": "verbal_series",
+    "statement": "3. Excusar, acusar; vigor, energía; limpio, sórdido;\nExiste par de antónimos, sinónimos, antónimos; completa la serie un par de sinónimos.",
+    "alternatives": [
+      "A) melifluo, dulce",
+      "B) impertérr ito, cobarde",
+      "C) prólogo, colofón",
+      "D) dinámico, indolente",
+      "E) ensimismado, despreocupado"
+    ],
+    "correct": 0,
+    "rationale": "Existe par de antónimos, sinónimos, antónimos; completa la serie un par de sinónimos."
+  },
+  {
+    "type": "verbal_series",
+    "statement": "4. Cristianismo, Biblia; hinduismo, Veda; islamismo, Corán",
+    "alternatives": [
+      "A) judaísmo, Torá.",
+      "B) taoísm o, Shang Di.",
+      "C) politeísmo, Zeus.",
+      "D) budismo, Nirvana.",
+      "E) marxismo, El Capital ."
+    ],
+    "correct": 0,
+    "rationale": "La serie verbal establece una relación entre una religión y su libro sagrado."
+  },
+  {
+    "type": "reading_comprehension",
+    "statement": "Bien conocido es el hecho de que el Perú es un país étnicamente heterogéneo. Aquí reside justamente uno de los legados contemporáneos de la colonización hispánica. La división-oposición entre blancos, indios y negros fue una consecuencia y una de las condiciones del mantenimiento de la dominación colonial. Esta fractura no sólo no fue resuelta cuando se establece el Estado nacional, sino que la oligarquía civilista, básicamente limeña y blanca, tuvo la prudencia y el suficiente tino de ni siquiera plantear su discusión. La cruel derrota que sufrieron las masas indias con el aplastamiento de la rebelión de Túpac Amaru, su debilidad y dispersión posterior, facilitaron seguramente su control social y político por parte de los poderosos caciques locales. En el caso de los negros, por otra parte, su debilidad numérica, el escape a su condición opresiva que le brindaba el cimarronaje, asociado a una dispersión semejante a la de los indios, eran condiciones que restaban toda peligrosidad a la presencia del grupo negro frente a la dominación de los blancos. Este mosaico racial se complica aún más cuando la oligarquía criolla se ve obligada a importar masivamente cerca de 93.130 chinos entre 1849 y 1874, como respuesta a la crisis interna de la mano de obra y a la movilización de la economía peruana producida por la explotación del guano, de los ferrocarriles, del algodón y la caña de azúcar. Pero también aquí la dispersión del grupo chino en estas diferentes unidades productivas atenuaba grandemente la peligrosidad de sus revueltas en contra de la explotación de que eran víctimas. Estas rebeliones nunca fueron más allá de un estricto marco local. Con la destrucción del Estado oligárquico, la dispersión del Ejército, y la desorganización de la sociedad peruana, el encuadramiento de esta sociedad entre 1879 y 1884 (Guerra con Chile) representaba, ahora, características totalmente diferentes a la que ofrecía en las décadas anteriores.",
+    "questions": [
+      {
+        "statement": "En el texto, el vocablo MOSAICO es antónimo de",
+        "alternatives": [
+          "A) homogeneidad.",
+          "B) unicidad.",
+          "C) equidad.",
+          "D) limitación.",
+          "E) heterogeneidad."
+        ],
+        "correct": 0,
+        "rationale": "Mosaico racial se refiere a variedad; por lo tanto, el antónimo es homogeneidad."
+      },
+      {
+        "statement": "La idea principal que el autor expone es que",
+        "alternatives": [
+          "A) la cruel derrota de la rebelión de Túpac Amaru fue aprovechada por los poderesos caciques locales para imponer su control social y político sobre los indios.",
+          "B) los indios, negros y chinos, antes de la Guerra con Chile, contribuyeron con su pesimismo a la consolidación del Est ado oligárquico en manos de los blancos.",
+          "C) entre los años 1849 y 1874, el mosaico racial peruano se incrementó con la importación de miles de chinos para la explotación del guano y del algodón.",
+          "D) la dominación colonial y el Estado oligárquico, en el Perú de antes de 1879, fue posible debido a la fractura racial y la dispersión de indios, negros y chinos.",
+          "E) hasta 1879, en relación a los blancos, los indios, negros y chinos fueron racialmente mayoritarios, pero insuficientes para movilizar la economía peruana."
+        ],
+        "correct": 3,
+        "rationale": "En el texto, el autor destaca la idea de que la fractura racial y la dispersión de indios negros y chinos hicieron posible la dominación colonial y el Estado oligárquico."
+      },
+      {
+        "statement": "Para los indios, negros y chinos ,la fractura referida por el autor",
+        "alternatives": [
+          "A) reveló la existencia de un mosaico racial.",
+          "B) se remonta, incluso, a la época colonial.",
+          "C) constituyó una gran debilidad política.",
+          "D) se consiguió superar recién en 1879.",
+          "E) fue una barrera contra el mestizaje."
+        ],
+        "correct": 2,
+        "rationale": "Esta fractura determinó que las rebeliones de indios, negros e indios fueran derrotadas o carezcan de fuerza, por lo que no significaron ni ngún riesgo para la dominación colonial y el Estado oligárquico."
+      },
+      {
+        "statement": "Es incompatible aseverar que entre los años de 1849 a 1874,",
+        "alternatives": [
+          "A) la importación de miles de chinos fue una necesidad.",
+          "B) se incrementó aún más el mosaico racial peruano.",
+          "C) algunos sectores requerían producir aún más.",
+          "D) la economía peruana recibió un nuevo impulso.",
+          "E) decreció ostensiblemente la explotación del guano."
+        ],
+        "correct": 3,
+        "rationale": "Por el contrario, fue una época de crecimiento y movilización de la economía peruana."
+      }
+    ]
+  },
+  {
+    "type": "reading_comprehension",
+    "statement": "Esta fractura determinó que las rebeliones de indios, negros e indios fueran derrotadas o carezcan de fuerza, por lo que no significaron ni ngún riesgo para la dominación colonial y el Estado oligárquico.",
+    "questions": [
+      {
+        "statement": "Es incompatible aseverar que entre los años de 1849 a 1874,",
+        "alternatives": [
+          "A) la importación de miles de chinos fue una necesidad.",
+          "B) se incrementó aún más el mosaico racial peruano.",
+          "C) algunos sectores requerían producir aún más.",
+          "D) la economía peruana recibió un nuevo impulso.",
+          "E) decreció ostensiblemente la explotación del guano."
+        ],
+        "correct": 2,
+        "rationale": "Por el contrario, fue una época de crecimiento y movilización de la economía peruana."
+      },
+      {
+        "statement": "Si la economía peruana se hubiera mantenido estancada entre los años de 1849 a 1874, el Estado oligárquico habría",
+        "alternatives": [
+          "A) eliminado radicalmente el “cimarronaje” de los negros.",
+          "B) considerado superflua la importación masiva de chinos.",
+          "C) profundizado, aún más, la fractura racial en el Perú.",
+          "D) impulsado la producción de caña de azúcar y algodón.",
+          "E) sometido a mayor explotación a los indios y negros."
+        ],
+        "correct": 1,
+        "rationale": "Dada esta premisa, la importación de chinos habría sido considerada vana por el Estado oligárquico."
+      }
+    ]
+  },
+  {
+    "type": "reading_comprehension",
+    "statement": "Como dice el texto, fue la ocasión para que los coolíes chinos expresen el contenido odio social contra sus antiguos explotadores, los terratenientes nacionales.",
+    "questions": [
+      {
+        "statement": "Según el texto, los coolíes chinos cumplieron, en sumo mento, el mismo papel que realizaron",
+        "alternatives": [
+          "A) las tropas invasoras.",
+          "B) los hacendados del norte.",
+          "C) las etnias mal sometidas.",
+          "D) los gobernantes incas.",
+          "E) el audaz Pizarro."
+        ],
+        "correct": 2,
+        "rationale": "Así como las etnias mal sometidas por los incas, los coolíes chinos fueron colaboradores del ejército invasor."
+      },
+      {
+        "statement": "A partir del texto se puede afirmar que el general Lynch",
+        "alternatives": [
+          "A) tenía un minucioso conocimiento del territorio peruano.",
+          "B) era un militar con amplia experiencia en el arte de la guerra.",
+          "C) despreció el odio de los “coolíes” chinos a los hacendados.",
+          "D) propició el patriotismo chileno entre los coolíes chinos.",
+          "E) desconfiaba de la lealtad militar de los coolíes chinos."
+        ],
+        "correct": 4,
+        "rationale": "Esta respuesta se deduce del hecho de que el general chileno Lynch y otros oficiales se opusieron a la incorporación de los chinos al ejército chileno."
+      },
+      {
+        "statement": "Es incompatible con el informe de Spencer St. Jhon aseverar que",
+        "alternatives": [
+          "A) el 31 de marzo, unos ladrones habían ido a refugiarse al teatro chino.",
+          "B) en el conflicto con Chile, éste tomó partido a favor de los chinos.",
+          "C) hace un recuento de los trágicos hechos ocurridos el 31 de marzo.",
+          "D) hace una velada defensa de los chinos refugiados en el teatro chino.",
+          "E) corrobora la tesis del autor en re lación a la situación de los chinos."
+        ],
+        "correct": 0,
+        "rationale": "Según el informe de Spencer, el supuesto refugio de unos ladrones en el teatro chino fue solo un pretexto para maltratar a los chinos."
+      },
+      {
+        "statement": "Si los hacendados del norte del país hubieran tratado con justicia a los coolíes chinos, probablemente",
+        "alternatives": [
+          "A) aquellos se habrían mantenido firmes en la defensa de sus propiedades.",
+          "B) las maquinarias y las herramientas de aquellos no habrían sido ocultadas.",
+          "C) estos se habrían sumado a la lucha por la expulsión de los invasores chilenos.",
+          "D) se habría incrementado la producción agrícola y ganadera en las haciendas.",
+          "E) estos habrían sido considerados “traidores” por Lynch y los oficiales chilenos."
+        ],
+        "correct": 2,
+        "rationale": "Si los coolíes chinos hubieran recibido ese trato, no habrían albergado ningún sentimiento de odio a sus antiguos patrones peruanos y, probablemente, se habrían sumado a la lucha contra el invasor."
+      }
+    ]
+  },
+  {
+    "type": "sentence_elimination",
+    "statement": "I) La cantidad de plomo presente en el organismo se refleja en los valores elevados de plomo en la sangre. II) Los hombres tienen niveles de plomo en la sangre más elevados que las mujeres. III) No parece que esta diferencia se pueda atribuir enteramente a los valores más elevados del hematocrito en los hombres. IV) El hematocrito es el aparato centrifugador que separa las células sanguíneas del plasma para averiguar su proporción relativa y para realizar otros análisis V) La concentración de plomo en la sangre de los varones no tiene relación alguna con la edad de los adultos ni se ha evaluado plenamente la influencia del tabaquismo.",
+    "alternatives": [
+      "A) III",
+      "B) I",
+      "C) II",
+      "D) V",
+      "E) IV"
+    ],
+    "correct": 3,
+    "rationale": "El tema expuesto en el texto es la concentración de plomo en la sangre. Se elimina el enunciado IV por impertinente."
+  },
+  {
+    "type": "sentence_elimination",
+    "statement": "I) En el ser humano son escasos los estudios experimentales sistemáticos sobre los efectos del plomo. II) La anemia es un efecto tóxico precoz característico de la concentración de plomo en la sangre. III) Los efectos sobre el sistema nervioso varían según la exposición al plomo, dist inguiéndose diferencias entre los efectos sobre el sistema nervioso central y aquellos sobre los nervios periféricos. IV) En la exposición crónica al plomo puede haber efectos notables que se denominan encefalopatía saturnina. V) El aumento moderado de la absorción de plomo disminuiría la fecundidad masculina.",
+    "alternatives": [
+      "A) III",
+      "B) IV",
+      "C) I",
+      "D) II",
+      "E) V"
+    ],
+    "correct": 2,
+    "rationale": "El tema del ejercicio es efectos del plomo en el organismo del hombre. Se elimina la oración I por impertinente."
+  },
+  {
+    "type": "sentence_elimination",
+    "statement": "2. I) En el ser humano son escasos los estudios experimentales sistemáticos sobre los efectos del plomo. II) La anemia es un efecto tóxico precoz característico de la concentración de plomo en la sangre. III) Los efectos sobre el sistema nervioso varían según la exposición al plomo, dist inguiéndose diferencias entre los efectos sobre el sistema nervioso central y aquellos sobre los nervios periféricos. IV) En la exposición crónica al plomo puede haber efectos notables que se denominan encefalopatía saturnina. V) El aumento moderado de la absorción de plomo disminuiría la fecundidad masculina.",
+    "alternatives": [
+      "A) III",
+      "B) IV",
+      "C) I",
+      "D) II",
+      "E) V"
+    ],
+    "correct": 2,
+    "rationale": "El tema del ejercicio es efectos del plomo en el organismo del hombre. Se elimina la oración I por impertinente."
+  },
+  {
+    "type": "sentence_elimination",
+    "statement": "3. I) Una mosca se lanza entre los pinos en Carolina del Norte y, atraída por lo que parece el aroma de néctar de una mancha escarlata en forma de flor sobre el suelo, se posa sobre la acolchada superficie de una hoja rojiza. II) Esta misteriosa hoja rojiza es una trampa mortal para la mosca que muere a causa de unas enzimas corrosivas. III) La mosca toma un sorbo del líquido dulce que rezuma de la hoja, rozando con la pata un pelo di minuto y luego otro. IV) De pronto, las paredes de ambos lados de la hoja se están cerrando y las espinas en sus bordes se entrelazan como dientes de una mandíbula. V) Mientras la mosca lucha por escapar, la trampa se aprieta hasta cerrarse y, ahora, en vez de ofrecer néctar dulce, la hoja libera enzimas que corroen gradualmente las entrañas de la mosca hasta convertirlas en una sustancia pegajosa.",
+    "alternatives": [
+      "A) III",
+      "B) I",
+      "C) IV",
+      "D) II",
+      "E) V"
+    ],
+    "correct": 3,
+    "rationale": "El tema del texto es la hoja rojiza, trampa en la que es atrapada y muerta la mosca. Se elimina la oración II porque repite a las oraciones IV y V"
+  },
+  {
+    "type": "sentence_elimination",
+    "statement": "4. I) En la lingüística, como en otras ciencias del conocimiento humano, existe una disputa entre el empirismo y el nativismo. II) El nativismo sostiene que la capacidad de ver, oír, pensar y hablar son actos in natos o genéticos. III) En cambio los empiristas, a la cabeza de los behavioristas o conductistas, están convencidos de que el niño aprende a hablar porque imita a los adultos -sobre todo a la madre- y porque tiene necesidad de manifestar sus necesidades y deseos. IV) Según los empiristas, el niño aprende el idioma de la misma manera que otras destrezas físicas y mentales. Es decir, mediante la llamada \"conducta operante\", que está determinada por la influencia de factores externos o adquiridos. V) El enfoque nativista en la lingüística s obrevalora los factores internos cuando aborda el origen del habla.",
+    "alternatives": [
+      "A) II",
+      "B) I",
+      "C) IV",
+      "D) V",
+      "E) III"
+    ],
+    "correct": 3,
+    "rationale": "El tema del texto es la disputa entre el empirismo y el nativismo en la lingüística. Se elimina la oración V porque repite el enunciado II."
+  },
+  {
+    "type": "sentence_elimination",
+    "statement": "5. I) Una nueva especie de dinosaurio relacionada con el velocirraptor y caracterizada por tener unas garras curvadas como guadañas ha sido descubierta en la región china de Mongolia Interior. II) El fósil del animal, denominado Linheraptor exquisitus, fue hallado en la formación montañosa de Wulansuhai. III) Esta montaña es muy reconocida porque en ella el británico Michael Pittman y el estadounidense Jonah Choiniere han descubierto otros dinosaurios. IV) El esqueleto del Linheraptor exquisitus corresponde a un dinosaurio carnívoro de unos 2,44 metros de largo y unos 25 kilos de peso, que vivió hace 75 millones de años. V) Todo hace suponer que era muy ágil y que tenía una garra extremadamente curvada en cada pata que le pudo haber servido para desgarrar a las presas.",
+    "alternatives": [
+      "A) III",
+      "B) I",
+      "C) IV",
+      "D) II",
+      "E) V"
+    ],
+    "correct": 0,
+    "rationale": "El tema del ejercicio es el descubrimiento de el esqueleto del Linheraptor exquisitus y sus características. Se elimina III por impertinencia."
+  },
+  {
+    "type": "sentence_elimination",
+    "statement": "6. I) Si hay un cuento, una pieza divertida sobre los mundos y los afectos que destilan las botellas, esa es la titulada Las botellas y los hombres ,de Julio Ramón Ribeyro, capaz de beberse una licorería y caer de pie. II) Ribeyro practicó la embriaguez moderada como método de conocimiento y la escritura como sucedáneo del tabaquismo. III) Divertido y penetrante, Ribeyro nos relata el encuentro entre un padre y un hijo después de ocho años. IV) Un padre arrancado del festín de la vida y con ganas de parranda y un hijo maquillado por el brillo del dinero y acomplejado de progenitor. IV) Los vapores del alcohol aproximarán sus corazones para después repelerse.",
+    "alternatives": [
+      "A) III",
+      "B) IV",
+      "C) I",
+      "D) V",
+      "E) II"
+    ],
+    "correct": 4,
+    "rationale": "En el ejercicio se refiere al contenido de Las botellas y los hombres de Julio Ramón Ribeyro. Se elimina II por impertinencia."
+  },
+  {
+    "type": "verbal_series",
+    "statement": "SERIES VERBALES 1. Agudo, perspicaz; compendioso, charlatán; ufano, presumido;",
+    "alternatives": [
+      "A) silencioso, extrovertido.",
+      "B) elocuente, ampuloso.",
+      "C) estruendoso, explosivo.",
+      "D) lacónico, locuaz.",
+      "E) reservado, misterioso."
+    ],
+    "correct": 3,
+    "rationale": "En la serie de pares de palabras se observa la secuencia de sinonimia, antonimia, sinonimia y (respuesta) antonimia."
+  },
+  {
+    "type": "verbal_series",
+    "statement": "Agudo, perspicaz; compendioso, charlatán; ufano, presumido;",
+    "alternatives": [
+      "A) silencioso, extrovertido.",
+      "B) elocuente, ampuloso.",
+      "C) estruendoso, explosivo.",
+      "D) lacónico, locuaz.",
+      "E) reservado, misterioso."
+    ],
+    "correct": 3,
+    "rationale": "En la serie de pares de palabras se observa la secuencia de sinonimia, antonimia, sinonimia y (respuesta) antonimia."
+  },
+  {
+    "type": "verbal_series",
+    "statement": "El término que no corresponde a la serie es",
+    "alternatives": [
+      "A) munífico.",
+      "B) filántropo.",
+      "C) solidario.",
+      "D) generoso.",
+      "E) cortés."
+    ],
+    "correct": 4,
+    "rationale": "La serie verbal está conformada por sinónimos del vocablo filántropo."
+  },
+  {
+    "type": "verbal_series",
+    "statement": "Libro, capítulo; informe, introducción;",
+    "alternatives": [
+      "A) revista, editorial.",
+      "B) imprenta, editor.",
+      "C) volumen, página.",
+      "D) narración, novela.",
+      "E) problema, conclusión."
+    ],
+    "correct": 0,
+    "rationale": "Las series de palabras guardan una relación analógica de todo –parte."
+  },
+  {
+    "type": "verbal_series",
+    "statement": "Pérfido, arrogante; felón, fatuo; traidor, petulante;",
+    "alternatives": [
+      "A) desleal, presumido.",
+      "B) díscolo, leal.",
+      "C) ignaro, soberbio.",
+      "D) melancólico, hilarante.",
+      "E) anónimo, renombrado."
+    ],
+    "correct": 0,
+    "rationale": "Las series de palabras guardan la siguiente relación: todas las primeras palabras son sinónimas, al igual que las segundas."
+  },
+  {
+    "type": "verbal_series",
+    "statement": "Vehículo, automóvil; rosa, flor; vivienda, bohío;",
+    "alternatives": [
+      "A) sábado, día.",
+      "B) senda, meta.",
+      "C) prenda, camisa.",
+      "D) insecto, abeja.",
+      "E) pez, cardumen."
+    ],
+    "correct": 0,
+    "rationale": "La secuencia verbal es hi perónimo, hipónimo; hipónimo , hiperónimo; hiperónimo, hipónimo; en consecuencia, (respuesta) hipónimo, hiperónimo."
+  },
+  {
+    "type": "verbal_series",
+    "statement": "Marque la serie formada exclusivamente por sinónimos.",
+    "alternatives": [
+      "A) Novicio, nobel, novato.",
+      "B) Salado, acre, agrio.",
+      "C) Frágil, endeble, débil.",
+      "D) Agudo, romo, raudo.",
+      "E) Obcecado, pertinaz, torpe."
+    ],
+    "correct": 2,
+    "rationale": "Los vocablos de esta alternativa son los únicos sinónimos."
+  },
+  {
+    "type": "synonyms_and_antonyms",
+    "statement": "Marque la serie formada exclusivamente por sinónimos.",
+    "alternatives": [
+      "A) Novicio, nobel, novato.",
+      "B) Salado, acre, agrio.",
+      "C) Frágil, endeble, débil.",
+      "D) Agudo, romo, raudo.",
+      "E) Obcecado, pertinaz, torpe."
+    ],
+    "correct": 2,
+    "rationale": "Los vocablos de esta alternativa son los únicos sinónimos."
+  },
+  {
+    "type": "reading_comprehension",
+    "statement": "Dos son los mecanismos que, en la sociedad democrática, han ido desacralizando la literatura hasta convertirla únicamente en producto industrial. Uno es sociológico y cultural. La nivelación de los ciudadanos, la extinción de las élites , el arraigo de la tolerancia —del derecho \"ala diferencia y a la indiferencia\"— y el consiguiente desarrollo del individualismo y el narcisismo, han abolido el interés por el pasado y la preocupación por el futuro, centrado la atención en el presente y tornado en máximo ideal la satisfacción de las necesidades inmediatas. Víctima de este presentismo ha sido lo sagrado, realidad alternativa cuya razón de ser desaparece cuando una comunidad, contenta o descontenta con el mundo en el que vive, acepta a este como el único posible y renuncia a la \"al-teridad\" de la que las creaciones literarias eran emblema y alimento. En una sociedad así puede haber libros, pero ha m uerto la literatura. El otro mecanismo es económico. \"No hay otra democracia, ay, que la del mercado\", dice Raczymow, lo que significa que el libro, despojado de su condición de objeto religioso o mítico, se vuelve una mera mercancía sometida al frenético vaivén —a la ley de hierro— de la oferta y la demanda, en la que \"un libro es un producto y un producto elimina a otro, incluso del mismo escritor\". La banalización es el resultado de esa vorágine en la que ningún libro permanece, en la que todos pasan y no vuelven, pues la literatura ya sólo cuenta como producto de consumo inmediato, entretenimiento efímero o información que caduca en el instante de ser conocida.",
+    "questions": [
+      {
+        "statement": "¿Cuál es el tema central del texto?",
+        "alternatives": [
+          "A) La posible banalización de la literatura y el mecanismo económico.",
+          "B) La inminente desacralización del quehacer literario en nuestro tiempo.",
+          "C) El mecanismo cultural en la sociedad democrática contemporánea.",
+          "D) El libro como herramienta sagrada en la sociedad moderna.",
+          "E) Los mecanismos responsables de la desacralización de la literatura."
+        ],
+        "correct": 4,
+        "rationale": "Dos son los mecanismos que, en la sociedad democrática, han ido desacralizando la literatura hasta convertirla únicamente en producto industrial."
+      },
+      {
+        "statement": "La palabra VORÁGINE tiene el sentido de",
+        "alternatives": [
+          "A) violencia.",
+          "B) remolino.",
+          "C) Tempestad.",
+          "D) desorden.",
+          "E) tenacidad."
+        ],
+        "correct": 3,
+        "rationale": "La banalización es el resultado de esa vorágine en la que ningún libro permanece, en la que todos pasan y no vuelven, pues la literatura ya sólo cuenta como producto de consumo inmediato, entretenimiento efímero o información que caduca en el instante de ser conocida."
+      },
+      {
+        "statement": "De acuerdo con el texto, el mecanismo cultural",
+        "alternatives": [
+          "A) permite la producción de libros.",
+          "B) motiva el quehacer literario.",
+          "C) expone obras literarias que admiramos.",
+          "D) no tiene relevancia en la sociedad democrática.",
+          "E) se basa en las aspiraciones de los escritores."
+        ],
+        "correct": 0,
+        "rationale": "En una sociedad así puede haber libros, pero ha muerto la literatura."
+      },
+      {
+        "statement": "De la expresión de Raczymow es posible inferir que",
+        "alternatives": [
+          "A) la literatura debe solamente entretener.",
+          "B) el mercado actual resulta promisorio para los artistas.",
+          "C) el entretenimiento está reñido con el rigor intelectual.",
+          "D) la sociedad moderna desacra liza la persona del escritor.",
+          "E) no siempre hay lugar para los escritores estrellas."
+        ],
+        "correct": 3,
+        "rationale": "Lo que significa que el libro , despojado de su condición de objeto religioso o mítico, se vuelve una mera mercancía sometida al frenético vaivén —a la ley de hierro— de la oferta y la demanda, en la que \"un libro es un producto y un producto elimina a otro, incluso del mismo escritor\"."
+      },
+      {
+        "statement": "Desde la perspectiva económica es posible inferir que",
+        "alternatives": [
+          "A) el libro no es más un objeto religioso.",
+          "B) los ámbitos intelectuales desestiman la literatura.",
+          "C) el libro desaparecerá indiscutiblemente.",
+          "D) no son relevantes los escritores guías o maestros.",
+          "E) la persona del escritor ha sido vejada."
+        ],
+        "correct": 3,
+        "rationale": "\"un libro es un producto y un producto elimina a otro, incluso del mismo escritor\""
+      }
+    ]
+  },
+  {
+    "type": "reading_comprehension",
+    "statement": "Lo que significa que el libro , despojado de su condición de objeto religioso o mítico,\nse vuelve una mera mercancía sometida al frenético vaivén —a la ley de hierro— de la oferta y la demanda, en la que \"un libro es un producto y un producto elimina a otro, incluso del mismo escritor\".Clave: D\n\n5. Desde la perspectiva económica es posible inferir que\n\nA) el libro no es más un objeto religioso.\nB) los ámbitos intelectuales desestiman la literatura.\nC) el libro desaparecerá indiscutiblemente.\nD) no son relevantes los escritores guías o maestros.\nE) la persona del escritor ha sido vejada.\n\nSolución:\n\"un libro es un producto y un producto elimina a otro, incluso del mismo escritor\"\nClave: D\n\nNadie dio mucha importancia en Alemania a aquella pareja de discípulos del\nhumanista Rudolf Steiner, que, desde una aldea perdida de Baviera, interpuso hace algún\ntiempo una acción ante el Tribunal Constitucional de la República, en Karlsruhe, alegando\nque sus tres pequeños hijos habían quedado \"traum atizados\" por el espectáculo del Cristo\ncrucificado que estaban obligados a ver, a diario, ornando las paredes de la escuela\npública en la que estudian. Pero hasta la última familia del país supo —y buen número de ellas quedaron desmandibuladas de estupefacci ón al saberlo— que el alto Tribunal encargado de velar\n por la recta aplicación de los principios constitucionales en la vida política, económica y\nadministrativa de la Alemania federal, cuyas decisiones son inapelables, había acogido la\nquerella. Por boca de su presidente, una eminencia jurídica, Johann Friederich Henschel,\nlos ocho magistrados que lo integran fallaron que la oferta de aquella escuela bávara de\nreemplazar los crucifijos de sus paredes por escuetas cruces —a ver esta simplificación\n\"destraumatizaba\" a los infantes del pleito— era insuficiente y ordenar on al Estado de\nBaviera que retirara cruces y crucifijos de todas las aulas pues \"en materia religiosa el\nEstado debe ser neutral\". El Tribunal matizó esta sentencia estipulando que sólo en caso\nde que hubiera unanimidad absoluta entre padres de familia, profesores y alumnos podría\nuna escuela conservar en sus aulas el símbolo cristiano. Los trémol os del escándalo han\nllegado hasta este apacible lago de los bosques austriacos donde he venido a refugiarme\nhuyendo del calor y la sequía londinense. El Estado de Baviera no es sólo el paraíso del colesterol y los triglicéridos —pues allí\nse bebe la mejor cerveza y se comen los mejores embutidos del mundo—; es también un\nbaluarte del conservadurismo político y la Iglesia católica tiene en él una sólida\nimplantación (no sugiero que haya una relación de causa-efecto entre ambas cosas): más\ndel 90 por ciento de los 850 000 escolares báv aros pertenecen a familias católicas\npracticantes. La Unión Social Cristiana, ve rsión local y aliada del Partido Demócrata-\nCristiano del canciller Kohl, ejerce un dominio político indisputad o en la región y su líder,\nTheo Waigel, ha sido el primero en protestar contra el fallo del Tribunal Constitucional, en\nun artículo en el órgano partidario, el Bayernkurier . \"Debido al ostentoso empeño del\nTribunal de proteger a las minorías y rel egar cada día más a un segundo plano las\nnecesidades de la mayoría, los valores establecidos y el pa triotismo constitucional se\nhallan en peligro\", afirmó.\n1. El texto expone un fallo del Tribunal Constitucional de la Alemania federal, del que\nse destaca el hecho de\nA) haberse publicado en Baviera. B) que generase disputa en el Partido Demócrata.\nC) que trate de fijar un precedente para los cristianos. D) haberse anticipado a su tiempo en asuntos jurídicos.\nE) ser contrario a la tradición cristiana.\nSolución:\n“El Estado de Baviera es un baluarte del conservadurismo político y la Iglesia\ncatólica tiene en él una sólida implantación”.\nClave: E\n\n2. Resulta erróneo afirmar que el Estado de Baviera\nA) es democrático y regido por la ley. B) conserva neutralidad en asuntos religiosos. C) es un baluarte del conservadurismo político. D) tiene comedores de butifarras y churrascos. E) posee familias católicas practicantes.\nSolución:\nA juzgar por las reacciones, no posee tal neutralidad.\nClave: B\n\n3. El término BALUARTE denota A) defensa. B) fortaleza. C) recinto. D) atención. E) refugio.\nSolución:\nEl Estado de Baviera es un baluarte del conservadurismo político, es decir,\ndefensa o amparo.\nClave: A\n\n4. Cabe inferir del texto la posibilidad de una relación estrecha entre\nA) cristianismo e islamismo. B) democracia y persecución. C) sentencia e iconoclasia. D) libertad y democracia. E) peregrinación y Estado.\nSolución:\nCabe pensar que el fallo del Tribunal Constitucional se relaciona con una cultura\ndemocrática: “sólo en caso de que hubiera unanimidad absoluta entre padres de familia, profesores y alumnos podría una escuela conservar en sus aulas el símbolo\\ cristiano”.\nClave: D\n\n5. Si tuviéramos que sintetizar lo que le da al fallo su carácter peculiar, sin duda nos\nreferiríamos puntualmente\nA) al profundo desdén religioso que ostenta. B) a los crucifijos y cruces. C) a los jueces del Tribunal constitucional. D) al proceso democratizador que implica. E) a su precipitada imposición.\nSolución:\nEn efecto, hasta la última familia del país supo que el alto Tribunal encargado de velar por la recta aplicación de los principios constitucionales en la vida política, económica y administrativa de la Alemania federal, cuyas decisiones son inapelables, había acogido la querella interpuesta desde una aldea perdida de Baviera.\nClave: D",
+    "questions": [
+      {
+        "statement": "1. El texto expone un fallo del Tribunal Constitucional de la Alemania federal, del que se destaca el hecho de",
+        "alternatives": [
+          "A) haberse publicado en Baviera.",
+          "B) que generase disputa en el Partido Demócrata.",
+          "C) que trate de fijar un precedente para los cristianos.",
+          "D) haberse anticipado a su tiempo en asuntos jurídicos.",
+          "E) ser contrario a la tradición cristiana."
+        ],
+        "correct": 4,
+        "rationale": "\"El Estado de Baviera es un baluarte del conservadurismo político y la Iglesia católica tiene en él una sólida implantación\""
+      },
+      {
+        "statement": "2. Resulta erróneo afirmar que el Estado de Baviera",
+        "alternatives": [
+          "A) es democrático y regido por la ley.",
+          "B) conserva neutralidad en asuntos religiosos.",
+          "C) es un baluarte del conservadurismo político.",
+          "D) tiene comedores de butifarras y churrascos.",
+          "E) posee familias católicas practicantes."
+        ],
+        "correct": 1,
+        "rationale": "A juzgar por las reacciones, no posee tal neutralidad."
+      },
+      {
+        "statement": "3. El término BALUARTE denota",
+        "alternatives": [
+          "A) defensa.",
+          "B) fortaleza.",
+          "C) recinto.",
+          "D) atención.",
+          "E) refugio."
+        ],
+        "correct": 0,
+        "rationale": "El Estado de Baviera es un baluarte del conservadurismo político, es decir, defensa o amparo."
+      },
+      {
+        "statement": "4. Cabe inferir del texto la posibilidad de una relación estrecha entre",
+        "alternatives": [
+          "A) cristianismo e islamismo.",
+          "B) democracia y persecución.",
+          "C) sentencia e iconoclasia.",
+          "D) libertad y democracia.",
+          "E) peregrinación y Estado."
+        ],
+        "correct": 3,
+        "rationale": "Cabe pensar que el fallo del Tribunal Constitucional se relaciona con una cultura democrática: “sólo en caso de que hubiera unanimidad absoluta entre padres de familia, profesores y alumnos podría una escuela conservar en sus aulas el símbolo cristiano”."
+      },
+      {
+        "statement": "5. Si tuviéramos que sintetizar lo que le da al fallo su carácter peculiar, sin duda nos referiríamos puntualmente",
+        "alternatives": [
+          "A) al profundo desdén religioso que ostenta.",
+          "B) a los crucifijos y cruces.",
+          "C) a los jueces del Tribunal constitucional.",
+          "D) al proceso democratizador que implica.",
+          "E) a su precipitada imposición."
+        ],
+        "correct": 3,
+        "rationale": "En efecto, hasta la última familia del país supo que el alto Tribunal encargado de velar por la recta aplicación de los principios constitucionales en la vida política, económica y administrativa de la Alemania federal, cuyas decisiones son inapelables, había acogido la querella interpuesta desde una aldea perdida de Baviera."
+      }
+    ]
+  },
+  {
+    "type": "reading_comprehension",
+    "statement": "Cabe pensar que el fallo del Tribunal Constitucional se relaciona con una cultura democrática: “sólo en caso de que hubiera unanimidad absoluta entre padres de familia, profesores y alumnos podría una escuela conservar en sus aulas el símbolo cristiano”.",
+    "questions": [
+      {
+        "statement": "5. Si tuviéramos que sintetizar lo que le da al fallo su carácter peculiar, sin duda nos referiríamos puntualmente",
+        "alternatives": [
+          "A) al profundo desdén religioso que ostenta.",
+          "B) a los crucifijos y cruces.",
+          "C) a los jueces del Tribunal constitucional.",
+          "D) al proceso democratizador que implica.",
+          "E) a su precipitada imposición."
+        ],
+        "correct": 3,
+        "rationale": null
+      }
+    ]
+  },
+  {
+    "type": "reading_comprehension",
+    "statement": "Paulo Freire, pedagogo que ha analizado la problemática educativa desde un punto de vista crítico e integral, señala que la \"deshumanización\" que padece el hombre es consecuencia de la opresión. Esta, afecta no solo a los oprimidos sino también a aquellos que lo oprimen. La violencia ejercida por los opresores tarde o temprano genera alguna reacción por parte de los oprimidos y esto s, generalmente, anhelan convertirse en opresores de sus ex-opresores. Sin embargo, lo s oprimidos tienen para sí el desafío de transformarse en los restauradores de la libertad de ambos. Los oprimidos son descritos por Freire como seres duales que, de algún modo, \"idealizan\" al opresor. Se trata pues de una contradicción: en vez de la liberación, lo que prevalece en el oprimido es la id entificación con el contrario: es la sombra testimonial del antiguo opresor. Ellos temen a la libertad porque esta les exigirá ser autónomos y expulsar de sí mismos la sombra de los opresores. De esta forma, debería nacer un hombre nuevo que supere la contradicción, ni opresor ni oprimido: un hombre libre. Sin embargo, para alcanzar la liberación, no basta conocer la relación dialéctica entre el opresor y el oprimido. Es necesario que este se entre gue a la praxis liberadora. Cuanto más descubren las masas populares la realidad objetiva sobre la cual deben incidir su acción transformadora, más se in sertan críticamente. Lo mismo sucede con el opresor, el que este reconozca su rol no equivale a solidarizarse con los oprimidos. El asistencialismo, que gustan practicar los opresores, no es sino un intento de minimizar la conciencia de culpa de estos. En consecuencia, su conducta paternalista deviene, en última instancia, en refuerzo de las relaciones de dependencia. La verdadera solidaridad debería expresarse transformando a los oprimidos en hombres reales, libres, despojados de toda situación de injusticia.",
+    "questions": [
+      {
+        "statement": "1. En el texto, la condición de “DESHUMANIZADO” es opuesto a la de A) opresor. B) sabio. C) honrado. D) pacífico. E) libre.",
+        "alternatives": [
+          "A) opresor",
+          "B) sabio",
+          "C) honrado",
+          "D) pacífico",
+          "E) libre"
+        ],
+        "correct": 4,
+        "rationale": null
+      },
+      {
+        "statement": "2. El tema principal que se desarrolla en el texto es A) la contradicción entre los opresores y oprimidos. B) la opresión y el paternalismo de los opresores. C) la forja del hombre libre, según Paulo Freire. D) la liberación de los opresores, según Freire. E) la teoría de la dominación de Paulo Freire.",
+        "alternatives": [
+          "A) la contradicción entre los opresores y oprimidos.",
+          "B) la opresión y el paternalismo de los opresores.",
+          "C) la forja del hombre libre, según Paulo Freire.",
+          "D) la liberación de los opresores, según Freire.",
+          "E) la teoría de la dominación de Paulo Freire."
+        ],
+        "correct": 2,
+        "rationale": null
+      },
+      {
+        "statement": "3. Se deduce que, según Paulo Freire, los oprimidos que luchan como objetos",
+        "alternatives": [
+          "A) anhelan humanizar a quienes han perdido el derecho de ser.",
+          "B) si triunfan, devendrán en opresores de sus ex-opresores.",
+          "C) asumen la acción transformador a con conciencia crítica.",
+          "D) son hombres reales que te rminarán con la dominación.",
+          "E) en los hechos, se limitan a practicar el asistencialismo."
+        ],
+        "correct": 1,
+        "rationale": null
+      },
+      {
+        "statement": "4. Si los opresores realmente se solidarizaran con los oprimidos,",
+        "alternatives": [
+          "A) tendrían muchísima pena por la situación de estos.",
+          "B) repartirían parte de sus bienes entre los más pobres.",
+          "C) renunciarían, sobre todo, a su conducta paternalista",
+          "D) experimentarían la situación de estos por algún tiempo.",
+          "E) devendrían en seres humanos esencialmente libres."
+        ],
+        "correct": 4,
+        "rationale": null
+      },
+      {
+        "statement": "5. Es incompatible con la ideas de P aulo Freire aseverar que la humanización del hombre",
+        "alternatives": [
+          "A) será fruto de la persistente práctica de la resignación.",
+          "B) se conseguirá con la superación de su condición dual.",
+          "C) será obra de hombres reales, libres de toda injusticia.",
+          "D) implicará la eliminación de todo signo de explotación.",
+          "E) será la superación de la c ontradicción opresor-oprimido."
+        ],
+        "correct": 0,
+        "rationale": null
+      }
+    ]
+  },
+  {
+    "type": "sentence_elimination",
+    "statement": "Es incompatible con la ideas de P aulo Freire aseverar que la humanización del hombre",
+    "alternatives": [
+      "A) Será fruto de la persistente práctica de la resignación.",
+      "B) se conseguirá con la superación de su condición dual.",
+      "C) será obra de hombres reales, libres de toda injusticia.",
+      "D) implicará la eliminación de todo signo de explotación.",
+      "E) será la superación de la c ontradicción opresor-oprimido."
+    ],
+    "correct": 0,
+    "rationale": "Según Paulo Freire, la humanización del hombre será fruto de un a praxis liberadora y no de la resignación."
+  },
+  {
+    "type": "verbal_series",
+    "statement": "Marque la alternativa que complete la serie con los sinónimos respectivos: Connotado, ________; reticent e____________; ac iago___________",
+    "alternatives": [
+      "A) pródigo – testarudo – relevante.",
+      "B) ilustre – evasivo – funesto.",
+      "C) latente – permisible – triste.",
+      "D) famoso – austero – infeliz.",
+      "E) célebre – huidizo – inconstante."
+    ],
+    "correct": 1,
+    "rationale": "Esta alternativa está conformada por los sinónimos de las palabras que están en el enunciado."
+  },
+  {
+    "type": "verbal_series",
+    "statement": "Agudeza, perspicacia, sutileza,…",
+    "alternatives": [
+      "A) erudición.",
+      "B) sapiencia.",
+      "C) omnisciencia.",
+      "D) portento.",
+      "E) sagacidad."
+    ],
+    "correct": 4,
+    "rationale": "Sagacidad es el sinónimo que completa la serie."
+  },
+  {
+    "type": "verbal_series",
+    "statement": "Dédalo, embrollo, laberinto,…",
+    "alternatives": [
+      "A) caos.",
+      "B) desasosiego.",
+      "C) ludibrio.",
+      "D) vicio.",
+      "E) barullo."
+    ],
+    "correct": 0,
+    "rationale": "Caos es el sinónimo que completa la serie."
+  },
+  {
+    "type": "verbal_series",
+    "statement": "¿Cuál es el hiperónimo de la serie: ballet, polca, cueca?",
+    "alternatives": [
+      "A) danza.",
+      "B) Pericia.",
+      "C) cántico.",
+      "D) arte.",
+      "E) música."
+    ],
+    "correct": 0,
+    "rationale": "Ballet, polca, cueca son danzas."
+  },
+  {
+    "type": "verbal_series",
+    "statement": "Marque la alternativa que complete la serie con los antónimos respectivos: Voluble, _______; munific encia, _____________; pompa, ________",
+    "alternatives": [
+      "A) afligido – benevolencia – probidad.",
+      "B) invariable – sapiencia – lujo.",
+      "C) veleidoso – ostentación – pobreza.",
+      "D) frívolo – altruismo – mesura.",
+      "E) constante – egoísmo – sobriedad."
+    ],
+    "correct": 4,
+    "rationale": "Esta alternativa está conformada por los antónimos de las palabras que están en el enunciado."
+  },
+  {
+    "type": "verbal_series",
+    "statement": "5. Marque la alternativa que complete la serie con los antónimos respectivos:\nVoluble, _______; munific encia, _____________; pompa, ________",
+    "alternatives": [
+      "A) afligido – benevolencia – probidad.",
+      "B) invariable – sapiencia – lujo.",
+      "C) veleidoso – ostentación – pobreza.",
+      "D) frívolo – altruismo – mesura.",
+      "E) constante – egoísmo – sobriedad."
+    ],
+    "correct": 4,
+    "rationale": "Esta alternativa está conformada por los antónimos de las palabras que están en el enunciado."
+  },
+  {
+    "type": "synonyms_and_antonyms",
+    "statement": "6. Señale el término que no guarda relación con los demás.",
+    "alternatives": [
+      "A) mesura.",
+      "B) prudencia.",
+      "C) honradez.",
+      "D) sobriedad.",
+      "E) ecuanimidad."
+    ],
+    "correct": 2,
+    "rationale": "Esta alternativa no corresponde al campo semántico de la ponderación."
+  },
+  {
+    "type": "synonyms_and_antonyms",
+    "statement": "7. Indique la palabra que no corresponde al campo semántico de CORTESÍA.",
+    "alternatives": [
+      "A) cognición.",
+      "B) afabilidad.",
+      "C) urbanidad.",
+      "D) civilidad.",
+      "E) crianza."
+    ],
+    "correct": 0,
+    "rationale": "La cognición es la acción o el efecto de conocer."
+  },
+  {
+    "type": "verbal_series",
+    "statement": "8. Polémico, controvertible, dudoso,…",
+    "alternatives": [
+      "A) categórico.",
+      "B) indiscutible.",
+      "C) cáustico.",
+      "D) explícito.",
+      "E) debatible."
+    ],
+    "correct": 4,
+    "rationale": "Debatible es el sinónimo que completa la serie."
+  },
+  {
+    "type": "verbal_series",
+    "statement": "9. Apacible, dócil; galante, soez; pasmo, asombro;…",
+    "alternatives": [
+      "A) ingrato, arisco.",
+      "B) rayano, circunspecto.",
+      "C) ingente, diminuto .",
+      "D) lábil, voluble.",
+      "E) precario, efímero."
+    ],
+    "correct": 2,
+    "rationale": "La serie debe continuar con un par de antónimos."
+  },
+  {
+    "type": "verbal_series",
+    "statement": "10. batahola, algazara, jolgorio,…",
+    "alternatives": [
+      "A) letargo.",
+      "B) diatriba.",
+      "C) sosiego.",
+      "D) algarabía.",
+      "E) improperio."
+    ],
+    "correct": 3,
+    "rationale": "Serie verbal fundada en el criterio de la sinonimia."
+  },
+  {
+    "type": "verbal_series",
+    "statement": "La serie debe continuar con un par de antónimos. 10. batahola, algazara, jolgorio,…",
+    "alternatives": [
+      "A) letargo.",
+      "B) diatriba.",
+      "C) sosiego.",
+      "D) algarabía.",
+      "E) improperio."
+    ],
+    "correct": 3,
+    "rationale": "Serie verbal fundada en el criterio de la sinonimia."
+  }
+]

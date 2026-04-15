@@ -1,0 +1,145 @@
+[
+  {
+    "type": "verbal_series",
+    "statement": "Terco, obstinado, empecinado,",
+    "alternatives": [
+      "A) robusto.",
+      "B) silente.",
+      "C) ávido.",
+      "D) lenguaraz.",
+      "E) pertinaz."
+    ],
+    "correct": 4,
+    "rationale": "Solución: Serie verbal basada en la sinonimia."
+  },
+  {
+    "type": "verbal_series",
+    "statement": "Malsano, protervo, malvado,",
+    "alternatives": [
+      "A) facineroso.",
+      "B) filibuste ro.",
+      "C) hipócrita.",
+      "D) vehemente.",
+      "E) irascible."
+    ],
+    "correct": 0,
+    "rationale": "Solución: Serie verbal basada en la afinidad semántica (campo semántico de la maldad)."
+  },
+  {
+    "type": "verbal_series",
+    "statement": "Basto, grosero, zafio,",
+    "alternatives": [
+      "A) inane.",
+      "B) ramplón.",
+      "C) directo.",
+      "D) lato.",
+      "E) acrisolado."
+    ],
+    "correct": 1,
+    "rationale": "Solución: Serie verbal de sinónimos (la idea de rusticidad)."
+  },
+  {
+    "type": "verbal_series",
+    "statement": "Timorato, arriscado; inerte, vital; aciago, venturoso;",
+    "alternatives": [
+      "A) lúdico, festivo",
+      "D) lóbrego, diáfano",
+      "B) pusilánime, pávido",
+      "E) célebre, ínclito",
+      "C) mirífico, prodigioso."
+    ],
+    "correct": 3,
+    "rationale": "Solución: Serie verbal analógica que se funda en el criterio de la antonimia ."
+  },
+  {
+    "type": "verbal_series",
+    "statement": "Incentivo, estímulo, acicate,",
+    "alternatives": [
+      "A) enigma.",
+      "B) movimiento.",
+      "C) prerrogativa.",
+      "D) proyección.",
+      "E) aliciente."
+    ],
+    "correct": 4,
+    "rationale": "Solución: Serie verbal basada en la sinonimia."
+  },
+  {
+    "type": "sentence_elimination",
+    "statement": "I) Las personas con una personalidad esquizotípica se encuentran social y emocionalmente aisladas. II) Los esquizotípicos desarrollan pensamientos, percepciones y comunicaciones insólitas. III) Se ha observado que algunos esquizotípicos muestran propensión al pensamiento mágico. IV) Aunque pueden evidenciar comportamiento paranoide, los esquizotípicos no desarrollan el mal de la esquizofrenia. V) La esquizofrenia entraña una grave disociación de las funciones psíquicas que puede conducir a una demencia incurable.\n\nA) III B) II C) I D) IV E) V",
+    "alternatives": [
+      "A) III",
+      "B) II",
+      "C) I",
+      "D) IV",
+      "E) V"
+    ],
+    "correct": 4,
+    "rationale": "Solución: Se elimina por impertinencia, pues el tema es la personalidad esquizotípica ."
+  },
+  {
+    "type": "sentence_elimination",
+    "statement": "I) En 1914, la situación europea era muy conflictiva, con tensiones entre Alemania y las demás potencias . II) En la segunda guerra mundial, Alemania hizo un frente con Italia y Japón. III) La excusa para dar inicio a la guerra fue el asesinato de Francisco Fernando, heredero de Austria. IV) Las estrategias bélicas alemanas fracasaron y el bloque de los aliados logró la victoria en 1918 . V) El fin de la guerra se cristalizó en el Tratado de Versalles (1919), según el cual, Alemania perdía todas sus colonias y debía pagar exageradas reparaciones.\n\nA) III B) V C) II* D) IV E) I",
+    "alternatives": [
+      "A) III",
+      "B) V",
+      "C) II",
+      "D) IV",
+      "E) I"
+    ],
+    "correct": 2,
+    "rationale": "Solución: Se elimina por impertinencia, pues el tema es la primera guerra mundial."
+  },
+  {
+    "type": "sentence_elimination",
+    "statement": "I) San Agustín nació en Tagaste, en Numidia, cerca de Cartago, el año de 354. II) En Cartago, fue maestro de retórica y se dedicó a la filosofía y a la práctica de la astrología. (III) San Agustín plantea la primera filosofía de la historia en su obra Civitas Dei [La ciudad de Dios]. (IV) En Hipona es ordenado sacerdote y, más tarde, es consagrado obispo de esta misma ciudad. V) San Agustín muere en la ciudad de Hipona el año 430 cuando los vándalos sitiaron la ciudad.\n\nA) IV B) III* C) II D) I E) V",
+    "alternatives": [
+      "A) IV",
+      "B) III",
+      "C) II",
+      "D) I",
+      "E) V"
+    ],
+    "correct": 1,
+    "rationale": "Solución: Se elimina por impertinencia, puesto que el tema es datos biográficos y no una valoración de su filosofía ."
+  },
+  {
+    "type": "sentence_elimination",
+    "statement": "I) Hay algunas normas generales para saber cómo elegir una bicicleta de paseo. II) Para elegir una bicicleta de paseo podemos optar por una sin horquilla. III) A la hora de elegir una bicicleta de paseo es conveniente tener en cuenta que las marchas de buje necesitan poco mantenimiento. IV) Es preferible elegir bicicletas de paseo con tres marchas. V) Es mejor elegir una bicicleta de paseo que tenga frenos de pedal.\n\nA) V B) I C) IV D) II E) III",
+    "alternatives": [
+      "A) V",
+      "B) I",
+      "C) IV",
+      "D) II",
+      "E) III"
+    ],
+    "correct": 1,
+    "rationale": "Solución: Eliminación por Redundancia\nEl contenido de la primera oración ha sido desarrollado en las demás oraciones.\nClave: B"
+  },
+  {
+    "type": "sentence_elimination",
+    "statement": "I) El histriónico vivaz tiene un nivel de energía muy elevado y muchos rasgos narcisistas. II) El histriónico teatral es un camaleón que se transforma en cada situación nueva. III) El histriónico infantil se asemeja a la personalidad límite, con cambios emocionales muy rápidos. IV) El histriónico, en general, busca no pasar inadvertido y quiere causar sensación en todo momento . V) El histriónico malicioso tiene algunas características antisociales y es vengativo y manipulador.\n\nA) I B) V C) III D) II E) IV",
+    "alternatives": [
+      "A) I",
+      "B) V",
+      "C) III",
+      "D) II",
+      "E) IV"
+    ],
+    "correct": 4,
+    "rationale": "Solución: Eliminación por Impertinencia\nEl conjunto oracional se refiere a las variantes de la personalidad histriónica.\nClave: E"
+  },
+  {
+    "type": "sentence_elimination",
+    "statement": "I) La equitación es el arte o habilidad para montar un caballo con precisión. II) La equitación es un arte disciplinado con potenciales efectos terapéuticos. III) La equitación tiene finalidades recreativas, de trabajo y hasta curativas. IV) La equitación es una disciplina que exige un conocimiento perfecto del animal y un profundo respeto hacia él. V) Contrariamente a lo que se suele pensar, en equitación, la montura no lo hace todo, pues montar a caballo exige un trabajo muscular muy importante a nivel de espalda y abdominales.\n\nA) IV B) II C) III D) I E) V",
+    "alternatives": [
+      "A) IV",
+      "B) II",
+      "C) III",
+      "D) I",
+      "E) V"
+    ],
+    "correct": 1,
+    "rationale": "Solución: Eliminación por redundancia\nLa oración II es superflua.\nClave: B"
+  }
+]

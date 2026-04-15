@@ -1,0 +1,308 @@
+[
+  {
+    "type": "sentence_elimination",
+    "statement": "En la definición de filosofía que ofrece Popper, se pone de relieve que la filosofía",
+    "alternatives": [
+      "A) implica erudición y pericia.",
+      "C) es inherente al ser humano.",
+      "B) elabora ideas inextricables.",
+      "D) está exenta de ideologías."
+    ],
+    "correct": 2,
+    "rationale": null
+  },
+  {
+    "type": "sentence_elimination",
+    "statement": "Al afirmar que las personas pueden tener «prejuicios filosóficos» que sustentan sin haberlos sometido a una evaluación crítica, se colige que Popper establece",
+    "alternatives": [
+      "A) una valoración de las idiosincrasias populares en el plano del conocimiento.",
+      "B) un apotegma que data desde el periodo presocrático de la antigua Grecia.",
+      "C) que los prejuicios sociales caben en las reflexiones filosóficas más densas.",
+      "D) una diferencia entre filosofía en sentido amplio y filosofía en sentido estricto."
+    ],
+    "correct": 3,
+    "rationale": null
+  },
+  {
+    "type": "sentence_elimination",
+    "statement": "Teniendo en cuenta la definición de Popper y la caricatura de Mafalda, es incompatible afirmar que",
+    "alternatives": [
+      "A) el amigo de Mafalda se asombra de la actitud reflexiva del padre de su amiga.",
+      "B) el papá de Mafalda se esmera en corresponder al talante filosófico de su hija.",
+      "C) los problemas filosóficos suelen ser soslayados porque son estériles e inanes.",
+      "D) el papá de Mafalda demuestra ser una persona carente de prejuicios filosóficos."
+    ],
+    "correct": 2,
+    "rationale": null
+  },
+  {
+    "type": "reading_comprehension",
+    "statement": "Después de eso –proseguí– compara nuestra naturaleza respecto de su educación y de su falta de educación con una experiencia como esta. Represéntate hombres en una morada subterránea en forma de caverna, que tiene la entrada abierta, en toda su extensión, a la luz. En ella están desde niños con las piernas y el cuello encadenados, de modo que deben permanecer allí y mirar solo delante de ellos, porque las cadenas les impiden girar en derredor la cabeza. Más arriba y más lejos se halla la luz de un fuego que brilla detrás de ellos; y entre el fuego y los prisioneros hay un camino más alto, junto al cual imagínate un tabique construido de lado a lado, como el biombo que los titiriteros levantan delante del público para mostrar los muñecos.",
+    "questions": [
+      {
+        "statement": "El sinónimo contextual del término NECESIDAD es",
+        "alternatives": [
+          "A) urgencia.",
+          "B) verdad.",
+          "C) carencia.",
+          "D) discreción."
+        ],
+        "correct": 1,
+        "rationale": null
+      },
+      {
+        "statement": "La intención principal del autor es",
+        "alternatives": [
+          "A) propugnar un modelo educativo basado en la experimentación.",
+          "B) impugnar el sistema esclavista a fin de erradicarlo del Estado.",
+          "C) ilustrar que el verdadero conocimiento trasciende a los sentidos.",
+          "D) rebatir los argumentos de Glaucón, con quien está debatiendo."
+        ],
+        "correct": 2,
+        "rationale": null
+      },
+      {
+        "statement": "Respecto a lo último que podría llegarse a veren el ámbito inteligible (la Idea del Bien), podemos inferir que",
+        "alternatives": [
+          "A) es la causa de todas las cosas rectas y bellas.",
+          "B) es implausible acceder a ella por su naturaleza.",
+          "C) posibilita normar nuestras prácticas cotidianas.",
+          "D) depende de las impresiones de los hombres."
+        ],
+        "correct": 2,
+        "rationale": null
+      }
+    ]
+  },
+  {
+    "type": "reading_comprehension",
+    "statement": "La creencia de que la ciencia procede de la observación a la teoría está tan difundida y es tan fuerte que mi negación de ella a menudo choca con la incredulidad, incluso, se ha sospechado que soy insincero, de que niego lo que nadie, en su sano juicio, puede dudar. En realidad, la creencia de que podemos comenzar con observaciones puras, sin nada que se parezca a una teoría, es absurda. Este absurdo queda bien ilustrado por la historia del hombre que dedicó su vida a la ciencia natural, anotó todo lo que podía observar y transmitió su inapreciable colección de observaciones a la Royal Society para que se la usara como material inductivo. Esta historia nos muestra que, si bien la recolección de escarabajos puede ser útil, la de observaciones no lo es.\n\nHace veinticinco años traté de explicar esto a un grupo de estudiantes de física de Viena comenzando una clase con las siguientes instrucciones: «tomen papel y lápiz, observen cuidadosamente y escriban lo que han observado.» Me preguntaron, por supuesto, qué es lo que yo quería que observaran. Evidentemente, la indicación \"¡observen!\" es absurda (nisiquiera cumple con las reglas del idioma, a menos que se sobreentienda el objeto del verbo transitivo), ya que la observación siempre es selectiva. Esto es, necesita un objeto elegido, una tarea definida, un interés, un punto de vista o un problema. Y su descripción presupone un lenguaje descriptivo, con palabras apropiadas; presupone una semejanza y una clasificación, las que a su vez presuponen intereses, puntos de vista y problemas. Por ejemplo, «un animal hambriento —escribe Katz— divide el medio ambiente en cosas comestibles y no comestibles. Un animal en fuga ve caminos para escapar y lugares para ocultarse... En general, el objeto cambia según las necesidades del animal».\n\nAsí, podemos agregar que los objetos pueden ser clasificados y pueden convertirse en semejantes o disímiles solamente de esta manera, es decir, relacionándolos con necesidades e intereses. Esta regla no solo se aplica a los animales, sino también a los científicos. Al animal, el punto de vista se lo suministran sus necesidades, su tarea del momento y sus expectativas; al científico, sus intereses teóricos, el problema especial que tiene en investigación, sus conjeturas y anticipaciones, y las teorías que acepta como una especie de trasfondo: su marco de referencia, su horizonte de expectativas».",
+    "questions": [
+      {
+        "statement": "¿Cuál es la idea principal del texto?",
+        "alternatives": [
+          "A) La observación se basa en la inducción.",
+          "B) La observación hace patente los objetos",
+          "C) La observación científica es selectiva.",
+          "D) La ciencia procede de la observación."
+        ],
+        "correct": 2,
+        "rationale": "Popper afirma que la observación científica está dirigida por intereses del científico, haciéndola selectiva."
+      },
+      {
+        "statement": "Tomando en cuenta las ideas expuestas por Popper sobre la observación, podemos inferir que",
+        "alternatives": [
+          "A) es impulsada por la Royal Society para estimular a jóvenes y noveles científicos.",
+          "B) para que esta sea proficua debe estar guiada por las expectativas del científico.",
+          "C) resulta capital para la investigación ya que registra fenómenos minuciosamente.",
+          "D) es un ejercicio de clase que Karl Popper acostumbra a dejar a sus estudiantes."
+        ],
+        "correct": 1,
+        "rationale": "Popper afirma que la investigación pura es absurda, ya que esta es selectiva, es decir, está orientada por lo que el investigador desea descubrir."
+      },
+      {
+        "statement": "De acuerdo con Katz, citado por Popper, es incompatible decir que los animales observan indiscriminadamente los objetos porque",
+        "alternatives": [
+          "A) en la Royal Society únicamente se ha fomentado el estudio de insectos.",
+          "B) ante una amenaza, los animales no sabrían si huir o detenerse a comer.",
+          "C) los animales no son capaces de establecer relaciones entre las cosas.",
+          "D) las necesidades de los animales determinan su relación con los objetos."
+        ],
+        "correct": 3,
+        "rationale": "Katz señala que un animal cuando tiene hambre es capaz de diferenciar qué cosa es comestible y qué no lo es, cuando se ve amenazado, puede identificar qué lugar puede ser un refugio y qué lugar no; en ese sentido, de acuerdo a sus necesidades, puede discernir entre las cosas."
+      }
+    ]
+  },
+  {
+    "type": "sentence_elimination",
+    "statement": "De acuerdo con Katz, citado por Popper, es incompatible decir que los animales observan indiscriminadamente los objetos porque",
+    "alternatives": [
+      "A) en la Royal Society únicamente se ha fomentado el estudio de insectos.",
+      "B) ante una amenaza, los animales no sabrían si huir o detenerse a comer.",
+      "C) los animales no son capaces de establecer relaciones entre las cosas.",
+      "D) las necesidades de los animales determinan su relación con los objetos."
+    ],
+    "correct": 3,
+    "rationale": "Katz señala que un animal cuando tiene hambre es capaz de diferenciar qué cosa es comestible y qué no lo es, cuando se ve amenazado, puede identificar qué lugar puede ser un refugio y qué lugar no; en ese sentido, de acuerdo a sus necesidades, puede discernir entre las cosas."
+  },
+  {
+    "type": "sentence_elimination",
+    "statement": "En el texto, el término CONJETURA significa",
+    "alternatives": [
+      "A) cuestión.",
+      "B) ficción.",
+      "C) método.",
+      "D) hipótesis."
+    ],
+    "correct": 3,
+    "rationale": "Dicho término se entiende como una propuesta teórica, vale decir, una hipótesis."
+  },
+  {
+    "type": "sentence_elimination",
+    "statement": "Si un estudiante quisiera observar la realidad puramente, es decir, sin una carga teórica preestablecida,",
+    "alternatives": [
+      "A) sería imposible para él entablar relaciones entre hechos.",
+      "B) su conocimiento científico estaría exento de dogmatismo.",
+      "C) la objetividad en la práctica científica se vería fortalecida.",
+      "D) aplicaría la versión más adecuada del método científico."
+    ],
+    "correct": 0,
+    "rationale": "Popper nos dice al final del texto que la observación de un objeto está condicionada por los intereses, sus conjeturas y las teorías que le servirán como referencia, es decir, su observación no es neutral, y de ese modo puede establecer clasificaciones y semejanzas entre los objetos; en ese sentido, sino fuese así, es posible que el científico no podría establecer relaciones entre los objetos."
+  },
+  {
+    "type": "reading_comprehension",
+    "statement": "No queremos que con nosotros sean indulgentes nuestros mejores enemigos, ni tampoco aquellos a quienes amamos a fondo. ¡Por ello dejadme que os diga la verdad! ¡Hermanos míos en la guerra! Yo os amo a fondo, yo soy y he sido vuestro igual. Y yo soy también vuestro mejor enemigo. ¡Por ello dejadme que os diga la verdad! Yo sé del odio y de la envidia de vuestro corazón. No sois bastante grandes para no conocer odio y envidia. ¡Sed, pues, bastante grandes para no avergonzaros de ellos! Y sino podéis ser santos del conocimiento, sed al menos guerreros de él. Estos son los acompañantes y los precursores de tal santidad.\n\nVeo muchos soldados: ¡muchos guerreros es lo que quisiera yo ver! «Uniforme» se llama lo que llevan puesto: ¡ojalá no sea uniformidad lo que con ello encubren! Debéis ser de aquellos cuyos ojos buscan siempre un enemigo -vuestro enemigo. Y en algunos de vosotros hay un odio a primera vista. ¡Debéis buscar vuestro enemigo, debéis hacer vuestra guerra, y hacerla por vuestros pensamientos! ¡Y si vuestro pensamiento sucumbe, vuestra honestidad debe cantar victoria a causa de ello! Debéis amar la paz como medio para nuevas guerras. Y la paz corta más que la larga.\n\nA vosotros no os aconsejo el trabajo, sino la lucha. A vosotros no os aconsejo la paz, sino la victoria. ¡Sea vuestro trabajo una lucha, sea vuestra paz una victoria! Solo se puede estar callado y tranquilo cuando se tiene una flecha y un arco: de lo contrario, se charla y se disputa. ¡Sea vuestra paz una victoria! ¿Vosotros decís que la buena causa es la que santifica incluso la guerra? Yo os digo: la buena guerra es la que santifica toda causa. La guerra y el valor han hecho más cosas grandes que el amor al prójimo. No vuestra compasión, sino vuestra valentía es la que ha salvado hasta ahora a quienes se hallaban en peligro. «¿Qué es bueno?», preguntáis. Ser valiente es bueno. Dejad que las niñas pequeñas digan: «ser bueno es ser bonito y a la vez conmovedor».\n\nRebelión -esa es la nobleza en el esclavo. ¡Sea vuestra nobleza obediencia! ¡Vuestro propio mandar sea un obedecer! «Tú debes» le suena a un buen guerrero más agradable que «yo quiero», y a todo lo que os es amado debéis dejarle que primero os mande. ¡Sea vuestro amor a la vida amor a vuestra esperanza más alta: y sea vuestra esperanza más alta el pensamiento más alto de la vida! Pero debéis permitir que yo os ordene vuestro pensamiento más alto - y dice así: el hombre es algo que debe ser\n\nI\n\nsuperado. ¡Vivid, pues, vuestra vida de obediencia y de guerra! ¡Qué importa vivir mucho tiempo! ¡Qué guerrero quiere ser tratado con indulgencia! ¡Yo no os trato con indulgencia, yo os amo a fondo, hermanos míos en la guerra!- Así habló Zaratustra.",
+    "questions": [
+      {
+        "statement": "El autor argumenta fundamentalmente a favor de",
+        "alternatives": [
+          "A) la superación del hombre.",
+          "C) la maldad humana innata.",
+          "B) la actitud destructiva.",
+          "D) la vida en soledad."
+        ],
+        "correct": 0,
+        "rationale": "A lo largo del texto, Nietzsche ensalza la importancia de la voluntad del hombre esbozando la idea de lucha, de decisión y resolución para alcanzar la superación."
+      },
+      {
+        "statement": "Del AMOR A FONDO hacia los hombres que se expresa en el texto, se colige que el autor brinda un trato basado en",
+        "alternatives": [
+          "A) la empatía.",
+          "B) la lucha.",
+          "C) el halago.",
+          "D) la igualdad."
+        ],
+        "correct": 0,
+        "rationale": "Dicha expresión alude a un sentimiento de identificación muy cercana entre los hombres y quien la profiere, incluso los llega a llamar «¡Hermanos míos en la guerra!», de allí el hecho de exhortarlos a que se superen."
+      },
+      {
+        "statement": "En el texto, la palabra UNIFORMIDAD implica un espíritu",
+        "alternatives": [
+          "A) intrépido.",
+          "B) adocenado.",
+          "C) temerario.",
+          "D) disímil."
+        ],
+        "correct": 1,
+        "rationale": "Dicha expresión aparece en un contexto en el que se afirma que el guerrero no sea uniforme al resto de soldados y que busque su propio enemigo y pelee su propia guerra, motivado por su pensamiento."
+      }
+    ]
+  },
+  {
+    "type": "reading_comprehension",
+    "statement": "Aunque nosotros hoy día no inflijamos a los que no piensan como nosotros graves males como en otros tiempos, nos perjudicamos quizá más que nunca por nuestra manera de tratarlos. Sócrates, aunque fue condenado a muerte, su filosofía trascendió en el intelecto; los cristianos fueron arrojados a los leones, pero la iglesia que fundaron se convirtió en un árbol magnífico. Nuestra intolerancia meramente social no mata a nadie, no desarraiga ninguna opinión, pero induce a los hombres a desfigurarla o a abstenerse a todo esfuerzo para su difusión. Entre nosotros las opiniones heréticas permanecen encerradas en el estrecho círculo de pensadores en que nacieron, sosteniendo un estado de cosas deseables solo para ciertos espíritus, las opiniones predominantes, cuyo precio es condenar al sacrificio el coraje moral del espíritu humano, privándonos de esas inteligencias heterodoxas consistentes y lógicas, que hacen temblar a los ortodoxos. traducidos en la paz de En ese sentido, gana más la sociedad con los errores de un hombre que piensa por sí mismo que con las opiniones justas de los que la profesan solo porque no se permiten pensar. No queremos decir que la libertad de pensamiento sea necesaria para formar grandes pensadores; creemos, más bien, que es necesaria para hacer que los hombres sean capaces de vislumbrar la estatura mental que puedan alcanzar. Han existido grandes pensadores individuales en una atmósfera general de esclavitud mental, pero nunca existió ni existirá, en tal atmósfera, un pueblo intelectualmente activo. Cuando un pueblo ha poseído esta actividad, ha sido porque allí dejaron de actuar los temores a las especulaciones heterodoxas; en cambio, allí donde se han entendido tácitamente que los principios no deben ser discutidos, no debemos esperar que se encuentre en un grado intelectual elevado esa actividad que ha hecho tan brillantes a algunas épocas de la historia. Europa, por ejemplo, ha contemplado tres épocas brillantes, y aunque las tres se diferencian en las opiniones particulares que desarrollaron, se parecen en que todas sacudieron el yugo de la autoridad destronando el antiguo despotismo intelectual.",
+    "questions": [
+      {
+        "statement": "La idea principal del texto es",
+        "alternatives": [
+          "A) la intolerancia como impedimento para alcanzar la actividad intelectual se ve reflejada en la restricción a la libertad de expresión.",
+          "B) la intolerancia como condición ineludible para garantizar la paz social se ha caracterizado por la imposición de opiniones ortodoxas.",
+          "C) las influencias clásicas y cristianas en las épocas brillantes de Europa sirvieron como fundamento para impeler la difusión de ideas.",
+          "D) los ideales democráticos patentizados en la historia intelectual de Europa han sufrido restricciones en las civilizaciones de occidente."
+        ],
+        "correct": 0,
+        "rationale": "El texto nos habla sobre lo contraproducente que resulta la intolerancia para que los pueblos puedan alcanzar una actividad intelectual elevada que se alcanza gracias al libre pensamiento y, sobre todo, a la libre difusión de nuevas y diferentes ideas."
+      },
+      {
+        "statement": "En el texto, el término ESCLAVITUD implica",
+        "alternatives": [
+          "A) incapacidad.",
+          "B) fatalidad.",
+          "C) elucubración.",
+          "D) dominación."
+        ],
+        "correct": 3,
+        "rationale": "En el texto, con dicho término se busca trasmitir la idea de que se puede ejercer sobre las personas un poder que les prohíbe pensar por sí mismas."
+      },
+      {
+        "statement": "Respecto a las inteligencias heterodoxas que hacen temblar a los ortodoxos, podemos colegir que",
+        "alternatives": [
+          "A) permanecen encerradas entre sus pensadores.",
+          "B) son un escollo para el desarrollo del intelecto.",
+          "C) fueron difícilmente elucubradas por sus autores.",
+          "D) estas se caracterizan por ser cuestionadoras."
+        ],
+        "correct": 3,
+        "rationale": "En el texto se afirma que dichas ideas son consistentes y lógicas, y que su restricción sostiene el estado de cosas que conviene a quienes defienden las opiniones predominantes, en ese sentido, podemos inferir que resultan críticas a las ideas predominantes de los ortodoxos."
+      }
+    ]
+  },
+  {
+    "type": "reading_comprehension",
+    "statement": "Que ni nuestros pensamientos, ni las pasiones, ni las ideas formadas por la imaginación existen sin la mente, es algo que todo el mundo admitirá. Y no parece menos evidente que las varias sensaciones o ideas impresas en el sentido, como quiera que se mezclen y combinen unas con otras, no pueden existir sino en una mente que las perciba, quien preste atención a lo que quiere decirse con el término existir cuando este se aplica a cosas sensibles, creo que podrá obtener un conocimiento intuitivo de esto. Por ejemplo, la mesa en la que escribo existe; esto es, la veo y la siento. Y si estando yo fuera de mi estudio dijera que la mesa existe, lo que yo estaría diciendo es que, si yo entrara de nuevo en mi estudio, podría percibirla, o que algún otro espíritu está de hecho percibiéndola. «Había un olor», esto es, fue olido; «había un sonido», es decir, fue oído; «había un color, una figura»: es que fueron percibidos por la vista o por el tacto. Esto es todo lo que yo puedo entender cuando se emplean estas y otras expresiones semejantes. Pues lo que se dice de la existencia absoluta de cosas impensadas, sin relación alguna con el hecho de ser percibidas, me resulta completamente ininteligible, en tanto su esse es su percipi, o sea, no es posible que posean existencia alguna fuera de las mentes o cosas pensantes que las perciben. En ese sentido, me es extraño que prevalezca entre los hombres la opinión de que las casas, las montañas, los ríos y, en una palabra, todos los objetos sensibles tienen una existencia natural o real, distinta de la de su ser percibidos por el entendimiento, más aún cuando solo basta hacerse las siguientes preguntas para caer en la cuenta de que dicho principio implica una contradicción manifiesta: ¿qué son los objetos arriba mencionados sino cosas percibidas por el sentido? ¿Y qué es lo que percibimos que no sean nuestras propias ideas o sensaciones? BERKELEY, G. (1992). Tratado sobre los principios del conocimiento humano. Madrid: Alianza Editorial. (Texto editado) Si el conocimiento reside en las ideas, entonces, este podría ser quimérico. No dudo que mi lector, al leerme, podría pensar que no intento más que construir un castillo en el aire, y hasta podría agregar que afirmo que el conocimiento no es sino la percepción del acuerdo o del desacuerdo de nuestras propias ideas; a lo que le replicaría, ¿quién sabe qué sean esas ideas?, ¿hay algo, acaso, más extravagante que las imaginaciones del cerebro humano? O si suponemos que exista un hombre sabio, ¿qué diferencia podría haber, según sus reglas, entre el conocimiento que tenga ese hombre y el de la mente más fantaseadora, ya que ambos tienen sus ideas y ambos perciben el acuerdo y el desacuerdo que guardan entre sí? Si acaso alguna diferencia existiera entre ellos, según sus reglas, la ventaja quedaría del lado del hombre de imaginación calenturienta, puesto que tendría mayor número de ideas, y más vivaces; de tal modo que él sería el más conocedor, sin que importe cómo son las cosas, lo que sería un error, ya que las fantasías de los hombres no son importantes, sino el conocimiento de las cosas como son, que es posible solo gracias a la intervención de las ideas que tenemos acerca de ellas. Esto es, nuestro conocimiento solo es real en la medida en que existe una conformidad entre nuestras ideas y la realidad de las cosas. Pero seguro él, con la intención de amainar nuestro argumento preguntaría ¿cómo podría conocer la mente si estas están de acuerdo con las cosas mismas si solo percibe sus propias ideas? A lo que le respondería, apelando a las ideas simples, que como la mente no puede forjar estas ideas por sí sola, estas tienen necesariamente que ser el producto de las cosas operando sobre la mente de una manera natural y produciendo en ella esas percepciones, de lo que se desprende que las ideas (simples) no son ficciones de nuestras facultades, sino productos naturales y regulares de las cosas que están fuera de nosotros y que efectivamente operan sobre nosotros, representándonos las cosas bajo las apariencias que dichas cosas producen en nosotros, como la idea de blancura por ejemplo. LOCKE, J. (2005). Ensayo sobre el entendimiento humano. México: FCE. (Texto editado) 1. La controversia de ambos textos gira entorno a A) la fuente de conocimiento. C) los tipos de conocimiento. B) si existen ideas simples. D) la naturaleza de las cosas. I Solución: Ambos textos exponen argumentos refiriéndose a si las cosas existen por ser percibidas o por sí mismas para refrendar que es posible conocerlas, ya sea en un plano netamente ideal o en otro basado en la relación práctica con ellas. Rpta.: A 2. Mientras que el antónimo contextual de ININTELIGIBLE en el texto A es __________,en el texto B el sinónimo contextual de AMAINAR es __________. A) abstruso – debilitar C) evidente – refrendar B) intrincado – mermar D) lógico – impugnar Solución: En el texto A dicho término aparece en un contexto en el cual se niega que las cosas puedan existir independientemente de ser percibidas, de allí que pensar lo contrario es absurdo. En el texto B con ese término se busca trasmitir la idea de que el argumento que presenta el autor sería rechazado por su opositor (su lector). Rpta.: D",
+    "questions": [
+      {
+        "statement": "La controversia de ambos textos gira entorno a",
+        "alternatives": [
+          "A) la fuente de conocimiento.",
+          "C) los tipos de conocimiento.",
+          "B) si existen ideas simples.",
+          "D) la naturaleza de las cosas."
+        ],
+        "correct": 0,
+        "rationale": "Ambos textos exponen argumentos refiriéndose a si las cosas existen por ser percibidas o por sí mismas para refrendar que es posible conocerlas, ya sea en un plano netamente ideal o en otro basado en la relación práctica con ellas."
+      },
+      {
+        "statement": "Mientras que el antónimo contextual de ININTELIGIBLE en el texto A es __________,en el texto B el sinónimo contextual de AMAINAR es __________.",
+        "alternatives": [
+          "A) abstruso – debilitar",
+          "C) evidente – refrendar",
+          "B) intrincado – mermar",
+          "D) lógico – impugnar"
+        ],
+        "correct": 3,
+        "rationale": "En el texto A dicho término aparece en un contexto en el cual se niega que las cosas puedan existir independientemente de ser percibidas, de allí que pensar lo contrario es absurdo. En el texto B con ese término se busca trasmitir la idea de que el argumento que presenta el autor sería rechazado por su opositor (su lector)."
+      }
+    ]
+  },
+  {
+    "type": "reading_comprehension",
+    "statement": "En el texto A dicho término aparece en un contexto en el cual se niega que las cosas puedan existir independientemente de ser percibidas, de allí que pensar lo contrario es absurdo. En el texto B con ese término se busca trasmitir la idea de que el argumento que presenta el autor sería rechazado por su opositor (su lector). Es incompatible afirmar que para el autor del texto B el conocimiento no es sino la percepción del acuerdo o del desacuerdo de nuestras propias ideas, puesto que En el texto B Locke afirma que el conocimiento de las cosas es posible debido a que podemos tener ideas que se corresponden con las cosas en sí y no basado en el acuerdo o desacuerdo entre la percepción y nuestras ideas, como hipotéticamente su lector podría acusarle. Respecto al texto A, en tanto las cosas se caracterizan por esse es su percipi, podemos inferir que En el texto A Berkeley argumenta que las cosas existen solo si son percibidas o pueden ser percibidas, fuera de esa condición no existirían; en ese sentido, en una isla desierta nada de lo que haya allí, podría ser percibido, por lo tanto, no existiría. Si las cosas, que existen en sí mismas, no operasen sobre nosotros, es posible que En el texto B Locke afirma que «las ideas (simples) no son ficciones de nuestras facultades, sino productos naturales y regulares de las cosas que están fuera de nosotros y que efectivamente operan sobre nosotros, representándonos las cosas bajo las apariencias que dichas cosas producen en nosotros» con la intención de dejar en claro que de esa manera es que podemos conocer las cosas; en ese sentido, si las cosas no operasen sobre nosotros, las ideas simples no existirían, y en tal sentido, el conocimiento no sería posible.",
+    "questions": [
+      {
+        "statement": "2. Mientras que el antónimo contextual de ININTELIGIBLE en el texto A es __________,en el texto B el sinónimo contextual de AMAINAR es __________.",
+        "alternatives": [
+          "A) abstruso – debilitar",
+          "C) evidente – refrendar",
+          "B) intrincado – mermar",
+          "D) lógico – impugnar"
+        ],
+        "correct": 3,
+        "rationale": "En el texto A dicho término aparece en un contexto en el cual se niega que las cosas puedan existir independientemente de ser percibidas, de allí que pensar lo contrario es absurdo. En el texto B con ese término se busca trasmitir la idea de que el argumento que presenta el autor sería rechazado por su opositor (su lector)."
+      },
+      {
+        "statement": "3. Es incompatible afirmar que para el autor del texto B el conocimiento no es sino la percepción del acuerdo o del desacuerdo de nuestras propias ideas, puesto que",
+        "alternatives": [
+          "A) sostiene que el conocimiento se funda en las ideas simples que guardan relación con las cosas en sí.",
+          "B) entre un hombre sabio y un soñador, este posee mayores conocimientos en tanto elucubra ideas increíbles.",
+          "C) señala que las cosas en sí no existen sino hasta que estas puedan ser percibidas por un ser pensante.",
+          "D) argumenta que hay ideas como círculo, triángulo y cuadrado que no tienen una correspondencia con la realidad."
+        ],
+        "correct": 0,
+        "rationale": "En el texto B Locke afirma que el conocimiento de las cosas es posible debido a que podemos tener ideas que se corresponden con las cosas en sí y no basado en el acuerdo o desacuerdo entre la percepción y nuestras ideas, como hipotéticamente su lector podría acusarle."
+      },
+      {
+        "statement": "4. Respecto al texto A, en tanto las cosas se caracterizan por esse es su percipi, podemos inferir que",
+        "alternatives": [
+          "A) las cosas no poseen existencia fuera de las mentes o cosas pensantes que las perciban.",
+          "B) en una isla desierta, las palmeras que podrían encontrarse allí, no tendrían existencia.",
+          "C) es posible determinar la existencia real de las cosas gracias a las ideas simples que generan.",
+          "D) dicha característica es un óbice para poder llegar a una comprensión cabal de las cosas."
+        ],
+        "correct": 1,
+        "rationale": "En el texto A Berkeley argumenta que las cosas existen solo si son percibidas o pueden ser percibidas, fuera de esa condición no existirían; en ese sentido, en una isla desierta nada de lo que haya allí, podría ser percibido, por lo tanto, no existiría."
+      },
+      {
+        "statement": "5. Si las cosas, que existen en sí mismas, no operasen sobre nosotros, es posible que",
+        "alternatives": [
+          "A) confundiríamos el color blanco de las nubes con el azul del cielo.",
+          "B) sería imposible sostener que la mente humana podría fantasear.",
+          "C) resultaría poco plausible arribar a un conocimiento de las cosas.",
+          "D) cosas como pizarras, mesa y computadoras existirían realmente."
+        ],
+        "correct": 2,
+        "rationale": "En el texto B Locke afirma que «las ideas (simples) no son ficciones de nuestras facultades, sino productos naturales y regulares de las cosas que están fuera de nosotros y que efectivamente operan sobre nosotros, representándonos las cosas bajo las apariencias que dichas cosas producen en nosotros» con la intención de dejar en claro que de esa manera es que podemos conocer las cosas; en ese sentido, si las cosas no operasen sobre nosotros, las ideas simples no existirían, y en tal sentido, el conocimiento no sería posible."
+      }
+    ]
+  }
+]

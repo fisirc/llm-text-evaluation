@@ -1,0 +1,751 @@
+[
+  {
+    "type": "sentence_elimination",
+    "statement": "En el texto, el autor dilucida, principalmente,",
+    "alternatives": [
+      "A) las dificultades en la investigación científica.",
+      "B) la objetividad en toda investigación científica.",
+      "C) el carácter singular de la investigación social.",
+      "D) los condicionamientos en la investigación social.",
+      "E) la comprensión del hecho físico y la objetividad."
+    ],
+    "correct": 3,
+    "rationale": "En el texto se mencionan algunos ejemplos (lengua, escrita y hablada, los rituales, etc.) que son incluidos en la categoría instrumentos."
+  },
+  {
+    "type": "sentence_elimination",
+    "statement": "La diferencia fundamental entre la investigación en la ciencia física y la realizada en la ciencia social reside en",
+    "alternatives": [
+      "A) el hecho que se investiga y el rigor del sujeto que investiga.",
+      "B) en el objeto de estudio y la naturaleza de la comprensión.",
+      "C) la selección de problemas y el comportamiento del científico.",
+      "D) los modelos de comportamiento y la persona que comprende.",
+      "E) los valores implícitos den científico y los conceptos operativos"
+    ],
+    "correct": 1,
+    "rationale": "El objeto de estudio (primera parte) y la naturaleza de la comprensión (segunda parte)."
+  },
+  {
+    "type": "sentence_elimination",
+    "statement": "Se colige que, en la ciencia social, el conocimiento del objeto de estudio",
+    "alternatives": [
+      "A) repercute en el sujeto cognoscente.",
+      "B) se alcanza luego de mucho tiempo.",
+      "C) se logra cuando se establece la ley.",
+      "D) implica un método más riguroso.",
+      "E) es mejor la comprensión de la física."
+    ],
+    "correct": 0,
+    "rationale": "Como dice Sartre, “comprender es cambiarse, es ir más allá de sí  mismo”."
+  },
+  {
+    "type": "sentence_elimination",
+    "statement": "Se infiere que la selección de un determinado hecho social como problema  podría",
+    "alternatives": [
+      "A) ser más complejo que en el ámbito de la ciencia física.",
+      "B) ser válido para todos los investigadores de la ciencia social.",
+      "C) depende r de la experiencia directa de los investigadores.",
+      "D) delata r al investigador su pertenencia a un grupo social.",
+      "E) ser muy importante para el desarrollo de las ciencias."
+    ],
+    "correct": 3,
+    "rationale": "No todo lo que es problema para un grupo social lo es para otro."
+  },
+  {
+    "type": "sentence_elimination",
+    "statement": "Es incompatible con el texto aseverar que el científico físico",
+    "alternatives": [
+      "A) tiene como objetivo final establecer la ley científica.",
+      "B) en su labor, se guía por el principio de la objetividad.",
+      "C) está imbuido de la cultura de su respectivo medio social.",
+      "D) es más sistemático y riguroso que un científico social.",
+      "E) es inmune a la influencia de su objeto de estudio."
+    ],
+    "correct": 3,
+    "rationale": "Según el autor, la sistematicidad y la rigurosidad son características tanto de la ciencia física como de la ciencia social."
+  },
+  {
+    "type": "reading_comprehension",
+    "statement": "Al analizar el papel que desempeña la cultura en el desarrollo individual, Lev Vygotsky, destacado psicólogo soviético, centra su análisis en aquellos elementos que tienen por objeto controlar los procesos mentales y el comportamiento del hombre. Se trata de los diferentes instrumentos y técnicas (incluso tecnologías) que el hombre asimila y orienta hacia sí mismo para influir en sus propias funciones mentales. Se crea así un sistema gigantesco de “estímulos artificiales y exteriores” mediante los cuales el hombre domina sus propios estados interiores. Una vez más, pero de modo diferente, encontramos en Vygotsky el fenómeno del interpsiquismo. Desde el punto de vista psicológico, el individuo tiene su prolongación, por un lado, en el otro y, por otro lado, en sus obras y en su cultura, que constituye según Marx su “cuerpo no orgánico”. Esta expresión es muy justa: la cultura forma parte integrante del individuo y, no obstante, es exterior a él. Considerado de esta manera, el desarrollo del hombre no se reduce únicamente a los cambios que acontecen en el interior del individuo, sino que se manifiesta como un desarrollo alomorfo que podría adoptar dos formas distintas: producción de auxiliares exteriores en cuanto tales y creación de instrumentos exteriores que pueden utilizarse para producir cambios interiores (psicológicos). De esta manera, aparte de los instrumentos que el hombre ha creado a lo largo de toda su historia y que sirven para dominar los objetivos (la realidad exterior ), existe toda una serie de instrumentos que, orientados hacia el hombre mismo, se pueden utilizar para controlar, dominar y desarrollar las capacidades del individuo. Estos instrumentos comprenden , por mencionar solo algunos: la lengua, escrita y hablada,  los rituales, los modelos de comportamiento en las obras de arte, los sistemas de conceptos científicos, las técnicas que ayudan a la memoria o al pensamiento, los instrumentos que fortalecen la movilidad o la percepción humana, etc. Todos estos instrumentos culturales son “extensiones del hombre” (McLuhan 1964) , es decir, factores de prolongación y de amplificación de las capacidades humanas.",
+    "questions": [
+      {
+        "statement": "En el texto, la palabra COMPRENDER se puede reemplazar por",
+        "alternatives": [
+          "A) completar.",
+          "B) confirmar.",
+          "C) entender.",
+          "D) incluir.",
+          "E) desarrollar."
+        ],
+        "correct": 3,
+        "rationale": "En el texto se mencionan algunos ejemplos (lengua, escrita y hablada, los rituales, etc.) que son incluidos en la categoría instrumentos."
+      }
+    ]
+  },
+  {
+    "type": "reading_comprehension",
+    "statement": "En el texto se mencionan algunos ejemplos (lengua, escrita y hablada, los rituales, etc.) que son incluidos en la categoría instrumentos.",
+    "questions": [
+      {
+        "statement": "En el texto , el autor relieva la idea de que",
+        "alternatives": [
+          "A) Vygotsky, destacado psicólogo soviético, analizó parcial mente la relación que existe entre cultura y procesos mentales.",
+          "B) los instrumentos y técnicas creados por el hombre, orientados hacia él, influyen en el desarrollo de las capacidades de este.",
+          "C) el desarrollo del individuo se manifiesta en su cambio orgánico y en la producción de instrumentos y técnicas.",
+          "D) el desarrollo de las capacidades mentales del individuo constituyen el centro de las investigaciones de Vygotsky.",
+          "E) la lengua, escrita y hablada, los rituales y los modelos de comportamiento generan la memoria o el pensamiento."
+        ],
+        "correct": 1,
+        "rationale": "Según el texto, existe toda una serie de instrumentos que, orientados hacia el hombre mismo, se pueden utilizar para controlar, dominar y desarrollar las capacidades del individuo."
+      },
+      {
+        "statement": "Con respecto a los “estímulos artificiales y exteriores” es incompatible afirmar que",
+        "alternatives": [
+          "A) entre otros, lo conforman la lengua, escrita y hablada.",
+          "B) prolongan y amplifican las capacidades humanas.",
+          "C) propician el desarrollo de la memoria y el pensamiento.",
+          "D) son producidos por el “cuerpo no orgánico” del individuo.",
+          "E) generan las capacidades cognoscitivas del individuo."
+        ],
+        "correct": 4,
+        "rationale": "Estos estímulos permiten controlar, dominar y desarrollar las capacidades del individuo. No permite generar dichas capacidades."
+      },
+      {
+        "statement": "Del texto se deduce que el desarrollo de las capacidades del individuo",
+        "alternatives": [
+          "A) es posible so lo en contextos donde el desarrollo de la cultura es más pronunciada.",
+          "B) aumenta en individuos que tiene n contacto indirecto con los instrumentos de trabajo.",
+          "C) repercute, a su vez, en la producción más sofisticada de los instrumentos auxiliares.",
+          "D) es superior en los individuos que, en su comunicación, privilegian la lengua escrita.",
+          "E) como la memoria o el  pensamiento, es inherente al desarrollo orgánico del individuo."
+        ],
+        "correct": 2,
+        "rationale": "Se deduce que existe una relación dialéctica entre los instrumentos auxiliares y las capacidades del individuo. Existe una interinfluencia."
+      },
+      {
+        "statement": "Si el desarrollo del individuo dependiera so lo de los cambios físicos de su organismo,",
+        "alternatives": [
+          "A) los instrumentos culturales carecerían de importancia en dicho proceso.",
+          "B) McLuhan lo habría recusado relievando la importancia de la lengua escrita.",
+          "C) disminuiría ostensible mente la creación y producción de instrumentos culturales.",
+          "D) se eliminaría la diferencia fundamental que existe entre hombres y animales.",
+          "E) a diferencia de la biología, la psicología no tendría definido su objeto de estudio."
+        ],
+        "correct": 0,
+        "rationale": "En el texto, el desarrollo del hombre se concibe de manera integral: Cambios al interior del individuo, producción de auxiliares exteriores en cuanto tales y creación de instrumentos exteriores que pueden utilizarse para producir cambios interiores (psicológicos)."
+      }
+    ]
+  },
+  {
+    "type": "reading_comprehension",
+    "statement": "Hoy, en buena parte del mundo en desarrollo, la globalización está en tela de juicio.\nPor ejemplo en Latinoamérica, después de un breve periodo de crecimiento a principios\nde la década de 1990, se han instaurado el estancamiento y la recesión. El crecimiento no\nfue sostenido; algunos dirían que no era sostenible. De hecho, en esta coyuntura, el\nhistorial de crecimiento de la llamada era posreformista no es mejor, y en algunos países\nes mucho peor. Las\nreformas  han expuesto a las naciones a riesgos mayores, y estos han recaído\ninjustamente en los que están menos preparados para afrontarlos. Al igual que en muchos\npaíses donde el ritmo y secuencia de las reformas han hecho que sea mayor la\ndestrucción que la creación de empleos, así también la exposición a riesgos sobrepasó la\ncapacidad de crear instituciones que les hagan frente, entre ellas redes de seguridad\nefectivas.\nEn este yermo panorama pueden encontrarse algunos signos positivos . Los del Norte\nse han vuelto más conscientes de las desigualdades de la arquitectura económica global.\nEl acuerdo de Doha de llevar a cabo una nueva ronda de negociaciones comerciales , ¿la\n«ronda del desarrollo»? , promete rectificar algunos de los desequilibrios del pasado. Se\nha producido un cambio marcado en la retórica de las instituciones económicas\ninternacionales; por lo menos ya hablan de pobreza. En el Banco Mundial se han\nefectuado algunas reformas verdaderas, y se ha notado cierto progreso en trasladar la\nretórica a la realidad, en asegurar que se escuchen las voces de los pobres y se tomen en\ncuenta las preocupaciones de las naciones en desarrollo. Fuera de ahí, sin embargo,\nexiste a menudo un abismo entre la retórica y la realidad.\n\nSTIGLITZ. J, et, al. Pánico en la Globalización . Cali: FiCa 2001",
+    "questions": [
+      {
+        "statement": "En el texto, la expresión SIGNOS POSITIVOS connota, en última instancia,",
+        "alternatives": [
+          "A) una conclusión optimista.",
+          "B) una nueva realidad.",
+          "C) una constatación.",
+          "D) una contradicción.",
+          "E) una ambigüedad."
+        ],
+        "correct": 3,
+        "rationale": "Stiglitz encuentra en la política de los países del Norte algunos signos positivos, pero, en realidad, es sólo retórica."
+      },
+      {
+        "statement": "En el texto, el autor, fundamentalmente,",
+        "alternatives": [
+          "A) destaca la conciencia de la desigualdad en los países del Norte.",
+          "B) compara el crecimiento de las décadas 60 y 90 en América Latina.",
+          "C) cuestiona la globalización en los llamados países en desarrollo.",
+          "D) define como globalización el crecimiento de la década de los 90.",
+          "E) crítica a la globalización por haber prevenido  el estancamiento."
+        ],
+        "correct": 2,
+        "rationale": "Stiglitz es claro en su cuestionamiento a la globalización que si bien es cierto produjo un efímero crecimiento; sin embargo, ha instaurado el estancamiento y la recesión en los países en desarrollo."
+      }
+    ]
+  },
+  {
+    "type": "sentence_elimination",
+    "statement": "2. En el texto, el autor, fundamentalmente,",
+    "alternatives": [
+      "A) destaca la conciencia de la desigualdad en los países del Norte.",
+      "B) compara el crecimiento de las décadas 60 y 90 en América Latina.",
+      "C) cuestiona la globalización en los llamados países en desarrollo.",
+      "D) define como globalización el crecimiento de la década de los 90.",
+      "E) crítica a la globalización por haber prevenido  el estancamiento."
+    ],
+    "correct": 2,
+    "rationale": "Stiglitz es claro en su cuestionamiento a la globalización que si bien es cierto produjo un efímero crecimiento; sin embargo, ha instaurado el estancamiento y la recesión en los países en desarrollo."
+  },
+  {
+    "type": "sentence_elimination",
+    "statement": "3. Se deduce que en los decenios de 1950 y 1960,",
+    "alternatives": [
+      "A) los gobiernos de América Latina promovían el desarrollo de su industria nacional.",
+      "B) los países en desarrollo eliminaron las importaciones de productos industriales.",
+      "C) los países del Norte diseñaron la arquitectura económica de la globalización.",
+      "D) en un principio, el crecimiento económico caracterizó a los países en desarrollo.",
+      "E) se cerró el mercado internacional para la producción de los países en desarrollo."
+    ],
+    "correct": 0,
+    "rationale": "En estos decenios, los países de la región trataban de industrializarse a base de restringir las compras al exterior."
+  },
+  {
+    "type": "sentence_elimination",
+    "statement": "4. Es incompatible afirmar que el acuerdo de Doha",
+    "alternatives": [
+      "A) desilusionó a J. Stiglitz quien, luego de un profundo análisis, lo calificó como acuerdo retórico.",
+      "B) fue exuberante en discursos sobre desequilibrios en las negociaciones comerciales internacionales.",
+      "C) es una promesa de los países del Norte para aplicar una política de equilibrio en el comercio internacional.",
+      "D) fue consecuencia  de la constatación de las profundas desigualdades sociales en los países en desarrollo.",
+      "E) generó, en su momento, cierto entusiasmo en los países del Norte y en los países en desarrollo."
+    ],
+    "correct": 3,
+    "rationale": "El acuerdo fue una nueva ronda de negociaciones comerciales que prometía rectificar desequilibrios del pasado en este ámbito."
+  },
+  {
+    "type": "sentence_elimination",
+    "statement": "5. Si el Banco Mundial hubiera escuchado realmente las voces de los pobres,",
+    "alternatives": [
+      "A) este organismo habría cambiado radicalmente la composición de representantes en el acuerdo de Doha.",
+      "B) la globalización habría implicado, entre otras, medidas a favor de una mayor seguridad en los países en desarrollo.",
+      "C) este organismo habría publicado textos oficiales a favor del equilibrio comercial en el con los países en desarrollo.",
+      "D) disminuirían sostenidamente las desigualdades sociales en los países en desarrollo y los del Norte.",
+      "E) la globalización se habría distinguido claramente de las reformas que han alentado la concentración de la riqueza."
+    ],
+    "correct": 1,
+    "rationale": "Las reformas  o globalización significó no solo mayor destrucción de empleos,  sino exposición a riesgos que sobrepasó la capacidad de crear instituciones que les hagan frente, entre ellas redes de seguridad efectivas."
+  },
+  {
+    "type": "sentence_elimination",
+    "statement": "1. I) Mitad dios, mitad hombre, rey entre los suyos, ser privilegiado, noble, guerrero, el señor de Sipán se muestra al mundo en las postrimerías del siglo XX. II) Un hermoso valle en el desierto y ahí un reino de Sipán, con riquezas, bellas vírgenes, esclavo s, cortesanos y todo el esplendor que rodea a un rey. III) No un rey como los del viejo mundo, sino especial, amigo de su pueblo, amigo del compartir y de trabajar, de la agricultura y del arte. IV) Un pensador que veía la necesidad de preservar su cultura , para el futuro, que ordenó la construcción de grandes templos y pirámides. V) Una visita a Sipán es un privilegio reservado a nuestra generación, un reencuentro con aquellos hombres que ofrendaron todo a su rey.",
+    "alternatives": [
+      "A) IV",
+      "B) V",
+      "C) III",
+      "D) II",
+      "E) I"
+    ],
+    "correct": 1,
+    "rationale": "Tema: El Señor de Sipán, se elimina la oración V por inatingencia ."
+  },
+  {
+    "type": "sentence_elimination",
+    "statement": "2. I) La teoría del acuerdo racional ha sido desarrollada por filósofos contemporáneos como Otto Apel y Jürgen Habermas. II) Para la teoría del acuerdo racional , un enunciado es verdadero cuando puede alcanzar la aceptación unánime de todos en un diálogo. III) Según la teoría del acuerdo racional, en el diálogo, todos debemos argumentar sin ningún tipo de limitación. IV) La teoría del acuerdo racional se basa en una concepción dialógica de la razón; es decir, la razón es inseparable del diálogo. V) El ejercicio de la razón, la argumentación y la búsqueda de la verdad, no es una actividad privada y subjetiva, sino que es siempre intersubjetiva.",
+    "alternatives": [
+      "A) I",
+      "B) II",
+      "C) III",
+      "D) IV",
+      "E) V"
+    ],
+    "correct": 4,
+    "rationale": "Tema: La teoría del acuerdo racional. Se elimina la oración V por inatingencia."
+  },
+  {
+    "type": "sentence_elimination",
+    "statement": "2. I) La teoría del acuerdo racional ha sido desarrollada por filósofos contemporáneos como Otto Apel y Jürgen Habermas. II) Para la teoría del acuerdo racional , un enunciado es verdadero cuando puede alcanzar la aceptación unánime de todos en un diálogo. III) Según la teoría del acuerdo racional, en el diálogo, todos debemos argumentar sin ningún tipo de limitación. IV) La teoría del acuerdo racional se basa en una concepción dialógica de la razón; es decir, la razón es inseparable del diálogo. V) El ejercicio de la razón, la argumentación y la búsqueda de la verdad, no es una actividad privada y subjetiva, sino que es siempre intersubjetiva.",
+    "alternatives": [
+      "A) I",
+      "B) II",
+      "C) III",
+      "D) IV",
+      "E) V"
+    ],
+    "correct": 4,
+    "rationale": "Se elimina la oración V por inatingencia."
+  },
+  {
+    "type": "sentence_elimination",
+    "statement": "3. I) La teoría aristotélica afirma un cosmos único y finito, donde materia y espacio son inseparables y donde se niega el vacío. II) En el universo finito,  cerrado, esférico y estratificado, Aristóteles coloca la Tierra inmóvil en el centro. III) Según Aristóteles, a la Tierra se superponen nueve esferas transparentes y concéntricas a las que están respectivamente unidos los planetas. IV) Según la teoría aristotélica, una parte del universo, finito y esférico, está sometida al cambio. V) Para Aristóteles, todo lo que se encuentra en el interior de la superficie en la que se halla la Luna está sometida a los defectos asociados al cambio.",
+    "alternatives": [
+      "A) I",
+      "B) II",
+      "C) III",
+      "D) IV",
+      "E) V"
+    ],
+    "correct": 3,
+    "rationale": "Se elimina la oración IV por redundancia."
+  },
+  {
+    "type": "reading_comprehension",
+    "statement": "Hiroshima, Chernobil, el desastre de la central química de Bhopal y muchos trágicos sucesos del siglo XX han sembrado la duda sobre el papel progresista y emancipador de la ciencia. Esas tragedias y otras catástrofes en el mundo del trabajo (minas, transportes) han provocado un sentimiento de desilusión y desconfianza hacia los resultados de la ciencia y la tecnología. Prueba de ello son el incremento de los movimientos antinucleares y ecologistas en Occidente y la creciente influencia de los movimientos en favor de una ciencia al servicio del pueblo. En la India, por ejemplo, grupos como el Kerala Shastra Sahitya Parishad (KSSP) luchan por mejorar los conocimientos científicos de la población, estimular su espíritu crítico y obtener que la ciencia y la tecnología esté n al servicio de sus necesidades esenciales. Para muchos, esa desilusión está vinculada a otros problemas, particularmente agudos en los países en desarrollo, a los que les corresponde menos del 10% del gasto mundial en investigación y desarrollo (I+D). Esos países han visto surgir, con la mundialización, la liberalización económica y las privatizaciones, una nueva concepción de la ciencia, en la que se ve ahora una “mercancía”. La aplicación de criterios basados en el mercado para evaluar y regular la investigación es contraria al modelo científico de la “ciencia como bien público”. Hay claros indicios de que la investigación al servicio de ese ideal se estanca o retrocede. Ello plantea graves problemas en los países en desarrollo como la India, donde más de 80% de la I+D se financia con fondos públicos. A los investigadores de esos países, universitarios o no, les cabe la responsabilidad social de defender a la ciencia de los intereses comerciales fomentados por la lógica del conocimiento como propiedad privada.",
+    "questions": [
+      {
+        "statement": "Frente a la desilusión con respecto a la ciencia contemporánea, el autor propondría, fundamentalmente, que",
+        "alternatives": [
+          "A) se regule el mercado de conocimientos para evitar tragedias como las de Chernobil y Bhopal.",
+          "B) se incremente sustancialmente el presupuesto para la investigación en los países en desarrollo.",
+          "C) esta se conciba como un bien público al servicio de las necesidades esenciales del hombre.",
+          "D) se evalúe el papel de la mundialización en el estancamiento de las investigaciones al servicio del hombre.",
+          "E) se promueva una campaña mundial de condena a las tragedias de Hiroshima, Chernobil y Bhopal."
+        ],
+        "correct": 2,
+        "rationale": "El autor condena la ciencia concebida como mercancía y está a favor de la ciencia como bien público."
+      },
+      {
+        "statement": "Respecto a las investigaciones que dieron lugar a sucesos trágicos como los mencionados del siglo XX, es incongruente aseverar que",
+        "alternatives": [
+          "A) resultaron contrarias a la orientación original de la ciencia.",
+          "B) fueron ajenas a la consideración de la ciencia como bien público.",
+          "C) fueron canceladas definitivamente para evitar daños colaterales.",
+          "D) gozaron del respaldo oficial de sus respectivos países sede.",
+          "E) los responsables de estas prefirieron ser ignorados por la prensa"
+        ],
+        "correct": 2,
+        "rationale": "Los daños colaterales fueron inevitables."
+      },
+      {
+        "statement": "Se deduce que la aplicación del modelo científico de la “ciencia como bien público”",
+        "alternatives": [
+          "A) exige deslindar consecuentemente con la economía de libre mercado.",
+          "B) plantea la necesidad de evitar la investigación en el campo nuclear.",
+          "C) se estanca o retrocede, en especial, en países en desarrollo como la India.",
+          "D) al canza sus fines cuando se financia exclusivamente con fondos públicos.",
+          "E) solo es posible cuando los investigadores pertenecen a una universidad."
+        ],
+        "correct": 0,
+        "rationale": "Porque esta economía todo lo convierte en mercancía."
+      }
+    ]
+  },
+  {
+    "type": "reading_comprehension",
+    "statement": "Si la economía del mundo del siglo XIX se formó principalmente bajo la influencia de la revolución industrial inglesa, su política e  ideología se formaron principalmente bajo la influencia de la revolución francesa. Inglaterra proporcionó el modelo para sus ferrocarriles y fábricas y el explosivo económico que hizo estallar las tradicionales estructuras económicas y sociales del mundo no europeo, pero Francia hizo sus revoluciones y les dio sus ideas, hasta el punto de que cualquier cosa tricolor se convirtió en el emblema de todas las nacionalidades nacientes.\n Entre 1789 y 1917, las políticas europeas (y las de todo el mundo) lucharon ardorosamente en pro o en contra de los principios de 1789 o los más incendiarios todavía de 1793. Francia proporcionó el vocabulario y los programas de los partidos liberales, radicales y democráticos de la mayor parte del mundo. Francia ofreció el prime r gran ejemplo, el concepto y el vocabulario del nacionalismo. Francia proporcionó los códigos legales, el modelo de organización científica y técnica y el sistema métrico decimal a muchísimos países. La ideología del mundo moderno penetró por primera vez en las antiguas civilizaciones, que hasta entonces habían resistido a las ideas europeas, a través de la influencia francesa. Esta fue la obra de la revolución francesa. Esta diferencia entre las influencias francesa e inglesa no se puede llevar demasiado lejos. Ninguno de los centros de la doble revolución limitó su influencia a cualquier campo especial de la actividad humana y ambos fueron complementarios más que competidores. Sin embargo, aunque los dos coinciden más claramente —como en el socialismo, qu e fue inventado y bautizado casi simultáneamente en los dos países —, convergen desde direcciones diferentes.\nEric Hobsbawm, Las revoluciones burguesas",
+    "questions": [
+      {
+        "statement": "El texto desarrolla, principalmente, el siguiente tema:",
+        "alternatives": [
+          "A) La confrontación entre la revolución industrial inglesa y la revolución francesa en el mundo del siglo XIX.",
+          "B) La ideología liberal del mundo moderno adoptado por los países de reciente aparición en el siglo XIX.",
+          "C) La trascendencia ecuménica de la revolución industrial inglesa y la revolución francesa en el siglo XIX.",
+          "D) La revolución industrial inglesa y la revolución francesa, un capítulo de Las revoluciones burguesas de E. Hobsbawm.",
+          "E) La influencia de la revolución industrial francesa y la revolución inglesa en el mundo contemporáneo."
+        ],
+        "correct": 2,
+        "rationale": "La economía, la política y la ideología del mundo del siglo XIX se formaron, principalmente, bajo la influencia de la revolución industrial inglesa y la revolución francesa, respectivamente."
+      },
+      {
+        "statement": "Con respecto al explosivo económico al que alude el texto, es incompatible afirmar",
+        "alternatives": [
+          "A) fue adoptado por las naciones nacientes en el siglo XIX.",
+          "B) fue llevado en ferrocarriles a las naciones no europeas.",
+          "C) fue el complemento ideal de la gran revolución francesa.",
+          "D) mostró la superioridad de la economía inglesa del siglo XIX.",
+          "E) repercutió radicalmente en la economía mundial del siglo XIX."
+        ],
+        "correct": 1,
+        "rationale": "Se trata de una política económica."
+      },
+      {
+        "statement": "Se infiere que, luego de 1917, la ideología de la revolución francesa",
+        "alternatives": [
+          "A) se distanció de la economía surgida con revolución industrial inglesa.",
+          "B) sólo fue asumida por los incendiarios y los partidos más radicales.",
+          "C) dejó de ser el centro de la polémica entre conservadores y liberales.",
+          "D) fue abandonada, incluso, por las naciones que surgieron en el siglo XIX.",
+          "E) consolidó su influencia en los partidos democráticos y nacionalistas ."
+        ],
+        "correct": 2,
+        "rationale": "El texto señala los límites temporales (1879 y 1917) de la lucha ardorosa en pro y en contra de los principios de 1879. Se deduce que luego de esta fecha , decae dicha lucha ardorosa."
+      }
+    ]
+  },
+  {
+    "type": "reading_comprehension",
+    "statement": "El mito de la lengua pura es una condena al inmovilismo. El latín de Cicerón es tal vez una lengua pura, pero ya nadie lo habla y en la actualidad se practican con diversas denominaciones (italiano, español, rumano, francés, catalán) latines diferentes, que han evolucionado a lo largo de la historia. Este mito de la pureza de las lenguas, este afán de protección demuestra en efecto un temor irracional frente al cambio, a los términos tomados de otras lenguas y a la evolución, como si la estabilidad fuera la  única garantía de la identidad. Y ello plantea un cierto número de interrogantes. ¿Hasta dónde pueden llegar las políticas lingüísticas de protección de los idiomas? ¿Es posible mantener en vida, por una especie de ensañamiento terapéutico  o con cuidados intensivos, formas lingüísticas abandonadas por sus hablantes? Es cierto que algunas políticas lingüísticas tuvieron resultados satisfactorios. Por ejemplo, Atatürk pudo, de modo autoritario, reformar la ortografía del turco y suprimir de su léxico las palabras tomadas del árabe y del farsi. Indonesia se dio una lengua de unificación, el bahasa . Pero en otros lugares las cosas no han sido tan fáciles. Por ejemplo, la política de arabización de Argelia sigue tropezando con serias dificultades, y los intentos  de Sékou Touré de convertir a Guinea en un país oficialmente plurilingüe fue un completo fracaso. Las lenguas pertenecen a los que las hablan. En realidad, una política lingüística solo tiene éxito si sigue el rumbo que la práctica social ha esbozado, y es muy raro que logre imponerse una lengua o una reforma que toda una población rechaza. Cabe pues preguntarse si es posible defender (o salvar) un idioma contra la voluntad de los hablantes. Pues, en ese caso, lo que está en juego no es la lengua, sino el  valor que sus hablantes le atribuyen. La política lingüística no debe ignorarlos. En efecto, un idioma no solo desaparece porque otro lo domina, sino también –y quizás sobre todo – porque los ciudadanos aceptan o deciden abandonarlo, no transmitirlo a sus  hijos. La “guerra de las lenguas” es una metáfora cómoda, pero las lenguas por sí mismas no se hacen la guerra. Son los seres humanos los que luchan, se oponen o contemporizan. Y es posible seguir sus relaciones conflictivas a través de las relaciones entre sus idiomas. Para un lingüista, la desaparición de una lengua es siempre lamentable, pero estas no son objetos de arte. Pertenecen a los que las hablan y cambian día a día, se adaptan a sus necesidades: han de servir al hombre y no a la inversa. Pues las lenguas evolucionan sin cesar, en sus formas y en sus relaciones. Y si unas mueren, otras nacen, a veces frente a nosotros. Desde la caída del muro de Berlín y el desmembramiento de Yugoeslavia, nuevos países han aparecido y, con ellos, nuevas lenguas: e l bosnio, el serbio, el croata, que eran considerados hasta hace poco como una sola lengua (el serbocroata), se están reafirmando y sus hablantes, para marcar mejor su identidad, están acentuando y endureciendo las diferencias entre ellas, que solo correspondían a algunas decenas de palabras.",
+    "questions": [
+      {
+        "statement": "1. En el texto, la expresión ensañamiento terapéutico alude a una política lingüística",
+        "alternatives": [
+          "A) inverosímil.",
+          "B) inexorable.",
+          "C) insustancial.",
+          "D) inviable.",
+          "E) incipiente."
+        ],
+        "correct": 4,
+        "rationale": "Si son abandonados por sus hablantes, la extinción de las lenguas no tiene remedio."
+      },
+      {
+        "statement": "2. Con respecto a las lenguas, el autor propone, principalmente,",
+        "alternatives": [
+          "A) que cuando estas evolucionan, deben adoptar diferentes denominaciones.",
+          "B) que se debe rechazar la idea de la pureza de  las lenguas porque es irracional.",
+          "C) su preservación obligatoria  como un deber para consolidar la identidad nacional.",
+          "D) se debe adoptar una política de enriquecimiento léxico solo con palabras nativas.",
+          "E) que las políticas lingüísticas deben orientarse más por la voluntad de los hablantes."
+        ],
+        "correct": 4,
+        "rationale": "Las lenguas pertenecen a los que las hablan; en consecuencia, toda política de reforma o preservación de lenguas debe orientarse por la voluntad de los hablantes."
+      },
+      {
+        "statement": "3. Con respecto a la “guerra de las lenguas”, es incompatible afirmar que",
+        "alternatives": [
+          "A) es una metáfora a la se recurre con frecuencia.",
+          "B) más que un problema lingüístico, es de orden social.",
+          "C) encubre una realidad de graves luchas sociales.",
+          "D) so lo debe interesar a los profesionales lingüistas.",
+          "E) es la apariencia de una verdadera guerra social."
+        ],
+        "correct": 3,
+        "rationale": "Son los seres humanos los que luchan, se oponen o contemporizan, no las lenguas. En consecuencia, no solo debe interesar a los lingüistas, sino también a los científicos sociales."
+      },
+      {
+        "statement": "4. Se deduce que la política de arabización de Argelia y los intentos de convertir a Guinea en un país oficialmente plurilingüe",
+        "alternatives": [
+          "A) tienen como finalidad enriquecer las lenguas de sus respectivas naciones.",
+          "B) tienen como objetivo promover una nueva identidad para sus naciones.",
+          "C) fueron decisiones al margen de la voluntad de sus respectivas poblaciones.",
+          "D) en ambos casos, se desdeñó la antigüedad de sus lenguas originarias.",
+          "E) son políticas erróneas que promueven verdaderas guerras de lenguas."
+        ],
+        "correct": 2,
+        "rationale": "En el primer caso tiene serios tropiezos; en el segundo, fue un verdadero fracaso porque no respetaron la voluntad de los hablantes. Las lenguas pertenecen a los que las hablan."
+      }
+    ]
+  },
+  {
+    "type": "sentence_elimination",
+    "statement": "4. Si la ideología del mundo moderno hubiera surgido en Inglaterra,",
+    "alternatives": [
+      "A) este habría sido reconocido como el símbolo indiscutible de las naciones recientes del siglo XIX.",
+      "B) la ardorosa lucha en pro y en contra de los principios de 1789 habría amainado en los países no europeos.",
+      "C) habría sido muy remota la posibilidad de eclosión de partidos políticos incendiarios en las naciones recientes.",
+      "D) la resistencia de las antiguas civilizaciones a las ideas europeas de17 89 habría más frágil.",
+      "E) así como las ideas liberales, tampoco  el socialismo habría sido fruto de la convergencia."
+    ],
+    "correct": 0,
+    "rationale": "Este país se habría constituido en modelo económico, político y cultural de las naciones que surgieron en el siglo XIX."
+  },
+  {
+    "type": "sentence_elimination",
+    "statement": "5. Se deduce que el mundo del siglo XIX se caracterizó, principalmente, por",
+    "alternatives": [
+      "A) la conformación de sólidos partidos políticos democráticos y liberales.",
+      "B) la confluencia de la revolución industrial francesa y la revolución  inglesa .",
+      "C) la férrea resistencia de las antiguas civilizaciones a la expansión liberal.",
+      "D) una creciente transformación en todos los ámbitos bajo la orientación liberal.",
+      "E) redacción de códigos y la sistematización de vocabularios del nacionalismo."
+    ],
+    "correct": 3,
+    "rationale": "Este siglo se caracteriza por transformaciones en los ámbitos económico e ideológico bajo la influencia de las revoluciones liberales de Inglaterra y Francia."
+  },
+  {
+    "type": "reading_comprehension",
+    "statement": "El trastorno límite de la personalidad es una enfermedad mental grave que se distingue por los estados de ánimo, comportamiento y relaciones inestables. En 1980, el Manual de Diagnóstico y Estadístico de los Trastornos Mentales, Tercera edición (DSM III por sus siglas en inglés) enumeró por primera vez al trastorno límite de la personalidad como una enfermedad diagnosticable.  La mayoría de los psiquiatras y otros profesionales de la salud mental utilizan el DSM para diagnosticar las enfermedades mentales. Como algunas personas con el trastorno límite de la personalidad sufren de episodios psicóticos breves, originalmente los expertos pensaban que esta enfermedad era una versión atípica, o límite, de otros trastornos mentales. Aunque los expertos de la salud mental coinciden en que el nombre “trastorno límite de la personalidad” está mal interpretado, y todavía no existe un término más preciso.  La mayoría de las personas con el trastorno límite de la personalidad sufren de:problemas para regular las emociones y pensamientos, comportamiento impulsivo e imprudente, relaciones inestables con otras personas. Las personas con este trastorno también tienen tasas altas de trastornos concurrentes, como depresión, trastornos de ansiedad, abuso de sustancias y trastornos de la alimentación, así como la automutilación, los comportamientos suicidas o suicidios. Según los datos de un subconjunto de participantes de una encuesta nacional sobre trastornos mentales, aproximadamente el 1,6 por ciento de adultos en los Estados  Unidos sufren del trastorno límite de la personalidad en un año.  Con frecuencia, el trastorno límite de la personalidad se considera difícil de tratar. Sin embargo, investigaciones recientes muestran que el trastorno límite de la personalidad puede tratarse con eficacia y que muchas personas con esta enfermedad mejoran con el tiempo.",
+    "questions": [
+      {
+        "statement": "¿Cuál es el propósito fundamental del autor?",
+        "alternatives": [
+          "A) Presentar un manual innovador para poder diagnosticar a las personas que presentan trastorno límite de la personalidad.",
+          "B) Elaborar una lista de síntomas para facilitar el tratamiento de la enfermedad en quienes la padecen.",
+          "C) Argumentar en contra de la mala utilización del nombre trastorno límite de la personalidad.",
+          "D) Graficar los porcentajes de personas que padecen el trastorno límite de la personalidad en el mundo.",
+          "E) Exponer de manera general los síntomas y las características del trastorno límite de la personalidad."
+        ],
+        "correct": 4,
+        "rationale": "El autor del texto se dedica principalmente a exponer las características que presentan las personas que padecen de esta enfermedad; para ello describe brevemente algunos aspectos de la misma como depresión, ansiedad, relaciones cortas, entre otros."
+      },
+      {
+        "statement": "En el texto, el término DIAGNOSTICABLE connota sobre todo",
+        "alternatives": [
+          "A) medicación.",
+          "B) evaluación.",
+          "C) soterramiento.",
+          "D) especulación.",
+          "E) manipulación."
+        ],
+        "correct": 1,
+        "rationale": "En el texto, el término diagnosticar hace referencia a la posibilidad que tuvieron los expertos para poder evaluar la enfermedad, es decir, poder determinar cuáles son los síntomas que ella presenta."
+      },
+      {
+        "statement": "Se infiere del texto que , antes de 1980, el trastorno límite de la personalidad",
+        "alternatives": [
+          "A) era una enfermedad que existía, pero que tenía otro nombre.",
+          "B) aún no había presentado casos de personas que lo padecieran.",
+          "C) era considerado como una enfermedad no diagnosticable.",
+          "D) afectaba a menos del 1,6 por ciento de personas al año.",
+          "E) no tenía la depresión como característica sintomatológica."
+        ],
+        "correct": 2,
+        "rationale": "En el texto se dice que “en 1980, el Manual de Diagnóstico y Estadístico de los Trastornos Mentales, Tercera edición (DSM III por sus siglas en inglés) enumeró por primera vez al trastorno límite de la personalidad como una enfermedad diagnosticable”; de ello se desprende que antes de esa fecha no era considerado como tal."
+      },
+      {
+        "statement": "Señale lo incompatible según el entramado textual.",
+        "alternatives": [
+          "A) El trastorno límite de personalidad es una enfermedad mental grave  según el Manual de Trastornos Mentales .",
+          "B) El DSM es empleado por la mayoría de psicólogos y psiquiatras  para diagnosticar enfermedades .",
+          "C) Los expertos de la salud mental coinciden en que el nombre “trastorno límite de la personalidad” es exacto para definir esta enfermedad.",
+          "D) En 1980, el DMS III consideró e l trastorno límite de la personalidad como enfermedad diagnosticable .",
+          "E) Aproximadamente el 1,6 por ciento de adultos sufren del trastorno límite de la personalidad en un año."
+        ],
+        "correct": 2,
+        "rationale": "El enunciado C afirma que el nombre es exacto; el texto indica que está mal interpretado, por lo que es incompatible."
+      },
+      {
+        "statement": "En el texto se dice que “en 1980, el Manual de Diagnóstico y Estadístico de los Trastornos Mentales, Tercera edición (DSM III por sus siglas en inglés) enumeró por primera vez al trastorno límite de la personalidad como una enfermedad diagnos t icable ”; de ello se desprende que antes de esa fecha no era considerado como tal.\n\n4. Señale lo incompatible según el entramado textual.",
+        "alternatives": [
+          "A) El trastorno límite de personalidad es una enfermedad mental grave  según el Manual de Trastornos Mentales .",
+          "B) El DSM es empleado por la mayoría de psicólogos y psiquiatras  para\ndiagnosticar enfermedades .",
+          "C) Los expertos de la salud mental coinciden en que el nombre “trastorno límite de la\npersonalidad” es exacto para definir esta enfermedad.",
+          "D) En 1980, el DMS III consideró e l trastorno límite de la personalidad como\nenfermedad diagnosticable .",
+          "E) Aproximadamente el 1,6 por ciento de adultos sufren del trastorno límite de la\npersonalidad en un año."
+        ],
+        "correct": 2,
+        "rationale": "Según el texto, existe consenso entre los expertos de salud mental con respecto al\nuso inexacto “trastorno límite de la personalidad” como nombre de esta enfermedad."
+      },
+      {
+        "statement": "5. Si la mayoría de las personas con el trastorno límite de la personalidad hubieran\nsufrido de episodios psicóticos prolongados, posiblemente\n\n A) estas personas no podrían recuperarse nunca y les sería del todo imposible\nllevar una vida normal.\n B) este trastorno sería considerado por los expertos como una variante de otros\ntrastornos mentales.\n C) el trastorno límite de la personalidad sería una enfermedad mental leve y sin\nmayor importancia.\n D) las personas que padecen de esta enfermedad ya no sufrirían de depresión ni\ntendrían deseos suicidas.\n E) el porcentaje del el 1,6 de adultos que sufren dicha enfermedad en Estados\nUnidos disminuiría considerablemente.    Ciclo Ordinario 2016 -I\n\nSegún el texto, son esos episodios psicóticos “breves” los que llevaron a tener esa\nhipótesis a los expertos, de ello se desprende que si esos episodios fueran más\nprolongados, quizá podría considerarse al trastorno límite de personalidad como una\nvariante de otros trastornos mentales .",
+        "alternatives": [
+          "A) estas personas no podrían recuperarse nunca y les sería del todo imposible llevar una vida normal.",
+          "B) este trastorno sería considerado por los expertos como una variante de otros trastornos mentales.",
+          "C) el trastorno límite de la personalidad sería una enfermedad mental leve y sin mayor importancia.",
+          "D) las personas que padecen de esta enfermedad ya no sufrirían de depresión ni tendrían deseos suicidas.",
+          "E) el porcentaje del el 1,6 de adultos que sufren dicha enfermedad en Estados Unidos disminuiría considerablemente.    Ciclo Ordinario 2016 -I"
+        ],
+        "correct": 1,
+        "rationale": "Según el texto, son esos episodios psicóticos “breves” los que llevaron a tener esa hipótesis a los expertos, de ello se desprende que si esos episodios fueran más prolongados, quizá podría considerarse al trastorno límite de personalidad como una variante de otros trastornos mentales ."
+      }
+    ]
+  },
+  {
+    "type": "reading_comprehension",
+    "statement": "Todos los peruanos somos testigos de los beneficios y oportunidades que trae la política de apertura comercial y de integración a la economía global por la que el Perú ha apostado. La libertad de elección, competencia, mejores precios, nuevos mercados que representan miles de clientes, nichos, acceso para los productos peruanos, inversión privada, generación de empleo formal, mejores ingresos para los trabajadores y mejor calidad de vida para los peruanos son algunas de las ganancias del libre comercio. Basta mirar a algunos vecinos para ver las diferencias con aquellos que apostaron con mirar solo hacia adentro. En estas semanas, en las que se desarrollan las rondas finales del Acuerdo de Asociación Transpacífico (TPP), hemos vuelto a oír esos mismos argumentos contra el libre comercio, con mensajes trillados ya ampliamente desmentidos por ser falsos. Advertencias apocalípticas sobre el aumento en los precios de las medicinas, la escasez de genéricos, la soberanía del Estado menoscabada frente a disputas iniciadas por inversionistas extranjeros, la desaparición de la agricultura, etc. Los peruanos sabemos que todo eso es falso; por ello, esa campaña de desinformación no tiene eco en nuestro país. Esas millonarias campañas organizadas por ONG internacionales anticomercio, antidesarrollo, y sus socios locales, pueden irse por donde vinieron. Acá en el Perú no nos cuentan cuentos, acá hemos vivido y gozamos los beneficios del libre comercio. Para el Perú, el TPP es la gran oportunidad de consolidar su presencia e n los mercados internacionales y las economías más dinámicas del planeta. El TPP será el área de libre comercio más grande del mundo y nuestro país no solo debe participar sino liderar este proceso, como lo viene haciendo con un excelente y experimentado equipo negociador que tiene todo nuestro respaldo. Este es el acuerdo más ambicioso y moderno bajo negociación, pues impulsará el comercio y la inversión, mejorará el ambiente de negocios y ayudará a optimizar la conectividad de las cadenas de suministros. Este acuerdo permitirá mejorar las condiciones con países con los que ya tenemos acuerdos comerciales, como Canadá, México y Japón, además de abrir nuevas oportunidades en mercados como Brunéi, Malasia, Australia y Nueva Zelanda, con quienes no tenemos un TLC. El TPP, además, es un bloque fundamental para lograr el objetivo del Área de Libre Comercio del Asia Pacífico (FTAAP) del APEC. Para el Perú, la participación en el APEC es positiva por donde se le mire: comercio, inversiones, transferencia de tecnología, vínculos académicos y programas de cooperación. Desde el ingreso del Perú al APEC, el intercambio comercial (exportaciones más importaciones) ha crecido a una tasa promedio anual del 15%. Este resultado es espectacular; ya quisieran otros países tener  este socio que impulsa no solo el comercio exterior sino el desarrollo económico y social de nuestros país. Estamos en la dirección correcta. El desarrollo se logra avanzando, no retrocediendo.",
+    "questions": [
+      {
+        "statement": "1. Medularmente, el texto trata sobre",
+        "alternatives": [
+          "A) las normativas fin ales del Acuerdo de Asociación Transpacífico.",
+          "B) los beneficios económicos del TPP para el Perú.",
+          "C) las oportunidades económicas para los peruanos.",
+          "D) las ventajas que el TPP brinda a la economía  mundial .",
+          "E) el ingreso del Perú al APEC."
+        ],
+        "correct": 1,
+        "rationale": "El autor del texto, fundamentalmente, quiere mostrar los beneficios y las oportunidades que el Acuerdo de Asociación Transpacífico trae en el aspecto económico para el Perú."
+      },
+      {
+        "statement": "2. En el texto, el modo como se emplea la palabra ECO  connota",
+        "alternatives": [
+          "A) ruido.  ",
+          "B) entereza .",
+          "C) resonancia.",
+          "D) intrascendencia. ",
+          "E) perogrullada ."
+        ],
+        "correct": 3,
+        "rationale": "En el texto se dice que “esa campaña de desinformación no tiene eco en nuestro país”, es decir, que no tiene mayor trascendencia para los peruanos."
+      },
+      {
+        "statement": "3. Según el entramado textual, señale lo incompatible.",
+        "alternatives": [
+          "A) Con el ingreso del Perú a APEC, el intercambio comercial creció en 15%.",
+          "B) La escasez de genéricos es una advertencia que hacen los escépticos del TPP.",
+          "C) Uno de los beneficios del TPP es una mejor calidad de vida para los peruanos.",
+          "D) El Perú, hace poco, firmó un Tratado de Libre Comercio con Nueva Zelanda.",
+          "E) Chile aún no ha firmado el Acuerdo de Asociación Transpacífico."
+        ],
+        "correct": 3,
+        "rationale": "Según el texto, “este acuerdo permitirá mejorar las condiciones con países con los que ya tenemos acuerdos comerciales, como Canadá, México y Japón, además de abrir nuevas oportunidades en mercados como Brunéi, Malasia, Australia y Nueva Zelanda, con quienes no tenemos un TLC”. Resulta falso afirmar que ya se ha firmado un TLC con ellos."
+      },
+      {
+        "statement": "4. Se deduce del texto que “las advertencias apocalípticas”",
+        "alternatives": [
+          "A) son emitidas por organismos autofinanciados.",
+          "B) generan temor entre los empresarios peruanos.",
+          "C) exigen tomar medidas contra las exportaciones.",
+          "D) contrarían la situación económica de los peruanos.",
+          "E) para el autor, pone en riesgo el bienestar del país."
+        ],
+        "correct": 3,
+        "rationale": "Según el autor, este tratado beneficia a la situación económica de los peruanos."
+      }
+    ]
+  },
+  {
+    "type": "verbal_series",
+    "statement": "Ingente, escaso; inicuo, inocuo; estragado,",
+    "alternatives": [
+      "A) encauzado.",
+      "B) removido.",
+      "C) relevado.",
+      "D) restaurado.",
+      "E) arrasado."
+    ],
+    "correct": 3,
+    "rationale": "Serie de palabras antónimas."
+  },
+  {
+    "type": "verbal_series",
+    "statement": "Candidez, niño; cicatería, avaro ; sabiduría, erudito;",
+    "alternatives": [
+      "A) probidad, clérigo.",
+      "B) claridad, bardo.",
+      "C) sagacidad, vendedor.",
+      "D) locuacidad, orador.",
+      "E) severidad, juez."
+    ],
+    "correct": 3,
+    "rationale": "Solución: Serie de palabras  que indican característica -sujeto."
+  },
+  {
+    "type": "verbal_series",
+    "statement": "El hiperónimo de garúa es",
+    "alternatives": [
+      "A) huracán.",
+      "B) ciclón.",
+      "C) chubasco.",
+      "D) viento.",
+      "E) lluvia."
+    ],
+    "correct": 4,
+    "rationale": "Garúa es una especie o tipo de lluvia."
+  },
+  {
+    "type": "verbal_series",
+    "statement": "Guante, mano; uniforme , soldado; sombrero, cabeza;",
+    "alternatives": [
+      "A) título, profesional .",
+      "B) discurso, orador.",
+      "C) código, juez.",
+      "D) sombrilla, ambulante .",
+      "E) toga, magistrado."
+    ],
+    "correct": 4,
+    "rationale": "Relación mixta: objeto, lugar; prenda que caracteriza al sujeto; objeto , lugar;… corresponde prenda que caracteriza al sujeto."
+  },
+  {
+    "type": "sentence_elimination",
+    "statement": "Guante, mano; uniforme , soldado; sombrero, cabeza;",
+    "alternatives": [
+      "A) título, profesional .",
+      "B) discurso, orador.",
+      "C) código, juez.",
+      "D) sombrilla, ambulante .",
+      "E) toga, magistrado."
+    ],
+    "correct": 4,
+    "rationale": "Relación mixta: objeto, lugar; prenda que caracteriza al sujeto; objeto , lugar;… corresponde prenda que caracteriza al sujeto."
+  },
+  {
+    "type": "sentence_elimination",
+    "statement": "Indica la alternativa que contiene solo sinónimos.",
+    "alternatives": [
+      "A) Pigre, negligente, poltrón",
+      "B) Intolerante, iracundo, inflexible",
+      "C) Facundo, locuaz, gárrulo",
+      "D) Canijo, mustio, mohíno",
+      "E) Cabezón,  perspicaz, lúcido"
+    ],
+    "correct": 2,
+    "rationale": "Sinónimos"
+  },
+  {
+    "type": "sentence_elimination",
+    "statement": "I) La hemorragia es un flujo de sangre que se produce por fuera de la circulación sanguínea natural. II) Puede consistir en un simple sangrado de poca cantidad como el caso de una pequeña herida en la piel o de una gran pérdida de sangre que amenace la vida. III) El sangrado se puede exteriorizar a través de la piel o a través de un orificio natural IV) En el caso de la  epistaxis , el sangrado se elimina por la nariz ; en la hemoptisis, se expulsa a través de la boca. V) En el caso de la hemorragia llamada hematemesis , la sangre, de origen digestivo, se exterioriza a través del ano.",
+    "alternatives": [
+      "A) V",
+      "B) III",
+      "C) I",
+      "D) II",
+      "E) IV"
+    ],
+    "correct": 1,
+    "rationale": "Tema: La hemorragia y los canales de expulsión de la sangre. Se elimina III por redundancia."
+  },
+  {
+    "type": "sentence_elimination",
+    "statement": "I) La migración de mayor densidad de neuronas especializadas en almacenar cono cimiento, desde el tronco encefálico hacia la corteza cerebral es un factor determinante de la inteligencia. II) Esta migración crea conexiones sinápticas más entrelazadas en los primeros meses de vida. III) Un individuo puede desarrollar mejor su inteligencia si es motivado por su familia o personas de su entorno. IV) El medio socio cultural es muy importante en el desarrollo intelectual de un individuo. V) En cambio, ambientes muy opresivos pueden limitar el desarrollo de la inteligencia al generar inestabilidad emocional.",
+    "alternatives": [
+      "A) V",
+      "B) III",
+      "C) II",
+      "D) IV",
+      "E) I"
+    ],
+    "correct": 2,
+    "rationale": "Tema: Factores que influyen en el desarrollo de la inteligencia. Se  elimina II por inatingencia."
+  },
+  {
+    "type": "sentence_elimination",
+    "statement": "I) Nicolás Maquiavelo (1469 -1527)  recibió una sólida educación humanística, basada en el estudio de los clásicos latinos e italianos. II) Fue  un humanista con nostalgia de la grandeza de la antigua Roma; patriota , sin principios éticos y oportunista. III)  Maquiavelo no se distinguió ni por su amor ni por su respeto a sus semejantes. IV) Para Maquiavelo, procurar el bien moral o material del pueblo quedaba relegado frente al objetivo de afianzar el poder del déspota. V) Según Maquiavelo, la política nada tenía que ver con la moral, la ética o la religión.",
+    "alternatives": [
+      "A) V",
+      "B) III",
+      "C) II",
+      "D) IV",
+      "E) I"
+    ],
+    "correct": 4,
+    "rationale": "Tema: Pensamiento ético y político de Maquiavelo. Se elimina I por inatingencia."
+  },
+  {
+    "type": "sentence_elimination",
+    "statement": "I) Debido a su variada coloración, la investigación del guayabo es interesante.  II) El guayabo, llamado también shahuinto , es un árbol que alcanza más de cinco metros y da sabrosos frutos. III) Sus frutos son bayas de regular volumen, cuya parte comestible es dulce. IV) La fruta  del guayabo contiene gran cantidad de azúcares que nuestro organismo necesita. V) El cromatismo del shahuinto  varía según las especies, pudiendo ser crema, amarilla, rosada o morada.",
+    "alternatives": [
+      "A) I",
+      "B) II",
+      "C) III",
+      "D) IV",
+      "E) V"
+    ],
+    "correct": 0,
+    "rationale": "Ciclo Ordinario 2016 -I Se elimina la oración I al poseer menor información que la V."
+  },
+  {
+    "type": "sentence_elimination",
+    "statement": "4. I) Debido a su variada coloración, la investigación del guayabo es interesante.  II) El\nguayabo, llamado también shahuinto , es un árbol que alcanza más de cinco metros\ny da sabrosos frutos. III) Sus frutos son bayas de regular volumen, cuya parte\ncomestible es dulce. IV) La fruta  del guayabo contiene gran cantidad de azúcares\nque nuestro organismo necesita. V) El cromatismo del shahuinto  varía según las\nespecies, pudiendo ser crema, amarilla, rosada o morada.\n\n A) I B) II C) III  D) IV  E) V   Ciclo Ordinario 2016 -I\n\n Se elimina la oración I al poseer menor información que la V.",
+    "alternatives": [
+      "A) I",
+      "B) II",
+      "C) III",
+      "D) IV",
+      "E) V"
+    ],
+    "correct": 0,
+    "rationale": "Se elimina la oración I al poseer menor información que la V."
+  },
+  {
+    "type": "sentence_elimination",
+    "statement": "5. I) Uno de los papeles más relevantes del escritor, que se percibe nítido a través de\nla historia, es el de despertar la crítica, fundamentar una crítica, hacer pensar sobre\nun estado de cosas. II) Este el caso del padre de Las Casas quien, en el siglo XVI,\ndefiende la tesis audaz que postula que los indios de América son seres humanos,\nposen alma y  que les asiste derechos y no so lo obligaciones. III) En la Guerra Civil\nde la República del Salvador, entre 1980 y 1992, cientos de modestos escritores, en\nsus poesías, ensayos sociológicos, novelas y cuentos, mostraron la ignominia y el\nsufrimiento de los prisioneros. IV) En Chile, durante la dictadura de Augusto\nPinochet (1973 -1990), corrían clandestinamente en fotocopias borrosas los trabajos\nde Mario Benedetti y se difundía la poesía social de Neruda. V) En el año de 1984,\nVargas Llosa y la Comisión respectiva concluyeron que los campesinos\nconfundieron cámaras fotográficas con armas y que por eso dieron muerte a los\nperiodistas en Uchuraccay (Perú).\n\n A) II B) I C) V D) III  E) IV",
+    "alternatives": [
+      "A) II",
+      "B) I",
+      "C) V",
+      "D) III",
+      "E) IV"
+    ],
+    "correct": 2,
+    "rationale": "Se elimina por inatingencia."
+  },
+  {
+    "type": "sentence_elimination",
+    "statement": "7. I) William James sostenía que la verdad es aquello que es útil, conveniente,\nprovechoso, lo que satisface nuestras necesidades. II) Esta verdad se demuestra\ncon nuestra satisfacción o complacencia. III) La verdad es la concordancia de la idea\ncon nuestras necesidades y deseos. IV) Es evidente que este criterio de verdad\nparte de una premisa aceptable, pero arriba a una conclusión falaz e incorrecta.\nV) Si bien es cierto de que la verdad es útil y conveniente, pero no todo lo que es útil\ny provechoso es verdadero.\n\n A) II B) I C) V D) III  E) IV",
+    "alternatives": [
+      "A) II",
+      "B) I",
+      "C) V",
+      "D) III",
+      "E) IV"
+    ],
+    "correct": 3,
+    "rationale": "Se elimina por redundancia."
+  },
+  {
+    "type": "sentence_elimination",
+    "statement": "8. I) El “arte macabro” surgió en el siglo XIV y cobró gran importancia en la centuria\nsiguiente, tal vez como respuesta a la crisis y la gran mortandad que azotaron  esa\népoca. II) El “arte macabro” tuvo varios exponentes, como “El encuentro de los tres\nvivos y los tres muertos”, “El triunfo de la muerte y, el más célebre, la “Danza de la\nmuerte”. III) Al igual que “El triunfo de la muerte”, la “Danza de la muerte” personificaba\na la muerte como una serie de escenas en las que unos esqueletos van emparejándose\ncon los vivos, arrastrándolos a bailar con ellos. IV) En la “Danza de la muerte”, la muerte\nno aparece personificada como un monstruo amenazante atrapando a sus indefensas\nvíctimas. V) Es posible que el “arte macabro” no sea la expresión de mentes afiebradas\nsino de una trágica realidad que cobró numerosas vidas.\n\n A) II B) III  C) I D) V E) IV",
+    "alternatives": [
+      "A) II",
+      "B) III",
+      "C) I",
+      "D) V",
+      "E) IV"
+    ],
+    "correct": 3,
+    "rationale": "Tema El “arte macabro de los siglos XIV y XV ”. Se elimina V por redundancia."
+  }
+]

@@ -1,0 +1,884 @@
+[
+  {
+    "type": "verbal_series",
+    "statement": "Caso 1\n\nCarlos y Eduardo son hermanos, y son amigos de Luis y Raúl. Sabemos que los cuatro amigos tienen ocupaciones diferentes: actor, dentista, mecánico y albañil.\nSabemos que Luis no es albañil, Carlos es hermano del mecánico y Raúl es actor.\nAhora, determina el valor de verdad (Vo F) de los siguientes enunciados:\nI. Luis es albañil. II. Carlos es albañil. III. Eduardo no es mecánico. IV. Luis es dentista.",
+    "alternatives": [
+      "A) VVVV",
+      "B) FVFV",
+      "C) FFFF",
+      "D) FVVF",
+      "E) VVVF"
+    ],
+    "correct": 1,
+    "rationale": null
+  },
+  {
+    "type": "verbal_series",
+    "statement": "Caso 2\n\nTres hermanas (Carmen, Estefanía y E lizabeth) deciden comprarse una falda cada una. Luego de mucha deliberación, se quedan con tres colores: rojo, azul y violeta.\nCada una de ellas elige el color que hace juego con sus zapatos: Elizabeth tiene UNMSM – CENTRO PREUNI VERSITARIO\n\nzapatos azules y elige la falda azul. Si Estefanía nos dice que la falda violeta no va con sus zapatos, podemos deducir que",
+    "alternatives": [
+      "A) Carmen elige la falda de color azul.",
+      "B) Estefanía tiene zapatos color violeta.",
+      "C) Carmen no elige la falda de color violeta.",
+      "D) Estefanía elige la falda de color rojo.",
+      "E) Estefanía elige la falda de color azul."
+    ],
+    "correct": 3,
+    "rationale": null
+  },
+  {
+    "type": "verbal_series",
+    "statement": "Caso 3\n\nSe ha cometido un grave de sfalco en la oficina de finanzas públicas. Hay tres\nsospechosos: el director, el contador y el secretario. Si fue el director, el desfalco se\nretrotrae hasta enero último. Si fue el contador, el delito se perpetró con la anuencia\nde los guardias. Si el desfalco fue cometido por el secretario, se produjo en el mes\nde abril. Dado que el des falco se produjo antes del mes de abril, se colige\nválidamente que",
+    "alternatives": [
+      "A) los tres sospechosos deben ser inmediatamente liberados.",
+      "B) hay que pensar en la posibilidad de un cuarto sospechoso.",
+      "C) los guardias están involucrados en la comisión del desfalco.",
+      "D) indefectiblemente, el culpable es el director de esa oficina.",
+      "E) el secretario no pudo ser el causante del desfalco cometido."
+    ],
+    "correct": 4,
+    "rationale": null
+  },
+  {
+    "type": "sentence_elimination",
+    "statement": "Se deduce que, en la perspectiva de Aureliano, la herejía anular era",
+    "alternatives": [
+      "A) fundada.",
+      "B) temible.",
+      "C) inexpugnable.",
+      "D) antiplatónica.",
+      "E) irrisoria."
+    ],
+    "correct": 4,
+    "rationale": "Para Aureliano, la herejía anular no implica ba mayor riesgo por su carácter disímil. En tal sentido, cabe inferir que la consideraba irrisoria."
+  },
+  {
+    "type": "sentence_elimination",
+    "statement": "Se infiere que los hunos se caracterizaban por",
+    "alternatives": [
+      "A) una mentalidad fetichista.",
+      "B) un ateísmo vehemente.",
+      "C) un fideísmo abstracto.",
+      "D) una concepción platónica de la vida.",
+      "E) un amor desmedido por los libros."
+    ],
+    "correct": 0,
+    "rationale": "Al adorar a una cimitarra, evidencian una mentalidad fetichista."
+  },
+  {
+    "type": "sentence_elimination",
+    "statement": "Se infiere del texto que el hiperónimo de CÓDICE es",
+    "alternatives": [
+      "A) palimpsesto.",
+      "B) manu scrito.",
+      "C) dogma.",
+      "D) código.",
+      "E) idioma."
+    ],
+    "correct": 1,
+    "rationale": "El códice que fue quemado pertenecía a una biblioteca monástica. Se trata de un tipo de manuscrito."
+  },
+  {
+    "type": "sentence_elimination",
+    "statement": "Se infiere del texto que tanto Aureliano como Juan de Panonia son conspicuos",
+    "alternatives": [
+      "A) herejes.",
+      "B) heresiarcas.",
+      "C) heresiólogos.",
+      "D) santos.",
+      "E) obispos."
+    ],
+    "correct": 2,
+    "rationale": "Dado que estudian las herejías, se co lige fácilmente que son heresiólogos."
+  },
+  {
+    "type": "sentence_elimination",
+    "statement": "Se deduce del texto que Platón",
+    "alternatives": [
+      "A) es autor de la célebre obra Civitas dei .",
+      "B) fue denostado por los herejes anulares.",
+      "C) era admirado y venerado por los hunos.",
+      "D) defendió los dogmas de la religión cristiana.",
+      "E) tenía una concepción cíclica del tiempo."
+    ],
+    "correct": 4,
+    "rationale": "A partir de la enseñanza narrada en la Civitas dei ,se colige una concepción cíclica o circular del tiempo (el retorno)."
+  },
+  {
+    "type": "reading_comprehension",
+    "statement": "El pensamiento popular está pletórico de creencias como “el asunto se pone color de hormiga”, “el que quiere azul celeste que le cueste”, “antes todo era color de rosa”, “de noche todos los gatos son pardos”. De finitivamente, los re franes populares está n llenos de color y eso indica el arraigo cultural de aquél entre las gentes.\nCada sociedad usa de terminados colores para sus símbolos re presentativos y sus señales convencionales . A veces, los colores se asocia n con ciertos sentimientos, por ejemplo, en muchas comunidades vestir de negro significa luto; el blanco, pureza y castidad; el verde, esperanza; etc. Pero aparte de los patrones convencionales, los científicos han descubierto otros secretos del f antástico mundo de los colores.\nEl colores parte importante de nuestro escenario cotidiano, causa impacto en nuestro estado de ánimo e influye en el comportamiento. Estos efectos se deben a que los colores ocasionan cambios fisiológicos que repercuten como su tiles modificadores de la conducta.\nLos colores corresponden a bandas del espectro luminoso. Cada color tiene su propia longitud de onda que afecta siempre de la misma manera los pigmentos fotosensibles que se encuentran en las células de la retina. Los pigmentos fotorrecepto res son moléculas especiales que experimentan li geros cambios al ser golpeados por la luz. Estas variaciones generan mensajes nerviosos que viajan a las glándulas pineal y pituitaria ,cercanas al cerebro. Estas glándulas se consideran como maestras en la regulación del sistema hormonal del cuerpo. Las hormonas desempeñan un papel importante en la coordinación UNMSM – CENTRO PREUNI VERSITARIO\n\nquímica del organismo y, por tanto, la actividad glandular, estimulada por los mensajes producidos por los colores, puede alterar el genio, acelerar los latidos del corazón o incrementar la actividad del cerebro.",
+    "questions": [
+      {
+        "statement": "1. La expresión “color de hormiga” alude a una situación",
+        "alternatives": [
+          "A) diversa.",
+          "B) difícil.",
+          "C) lúdica.",
+          "D) ambigua.",
+          "E) difusa."
+        ],
+        "correct": 1,
+        "rationale": "La expresión “color de hormiga” significa que algo se complica o se torna difícil."
+      },
+      {
+        "statement": "2. ¿Cuál es la idea principal del texto?",
+        "alternatives": [
+          "A) Los varios colores del espectro constituyen una parte importante de nuestro escenario cotidiano.",
+          "B) Los refranes populares están llenos de color y eso indica el arraigo cultural del color en el pueblo.",
+          "C) Tras muchas investigaciones, los científicos han descubierto secretos del mundo de los colores.",
+          "D) La actividad cerebral humana depende sustancialmente del funcionamiento de las hormonas.",
+          "E) Los colores ocasionan cambios fisiológicos que repercuten en la modificación de las conductas."
+        ],
+        "correct": 4,
+        "rationale": "El saber popular está refrendado por los estudios fisiológicos: la percepción del color influye en nuestro estado de ánimo y reacciones conductuales."
+      },
+      {
+        "statement": "3. ¿Cuál es la mejor síntesis del texto?",
+        "alternatives": [
+          "A) El color está muy arraigado en nuestra cultura porque puede influir en nuestro estado emocional y modificar nuestra con ducta; ello se debe a que los colores ocasionan cambios fisiológicos en la actividad glandular.",
+          "B) Los colores corresponden a bandas del espectro luminoso, de tal manera que cada color tiene su propia longitud de onda que afecta siempre de la misma manera los pigmentos fotosensibles que están en la retina.",
+          "C) Definitivamente, los refranes populares están pletóricos de color y eso es un claro indicio del enorme arraigo cultural de los colores entre las personas pertenecientes a todas las culturas de la faz de la tierra.",
+          "D) Dado que las hormonas desempeñan un papel importante en la coordinación química del organismo de los seres humanos, se puede explicar por qué los colores son tan importantes en nuestra vida cotidiana.",
+          "E) Cada sociedad determina el significado convencional de los diferentes colores y nuestra fisiología es capaz de explicar la relatividad que existe en la interpretación de los mensajes transmitidos por los colores del espectro."
+        ],
+        "correct": 4,
+        "rationale": "En síntesis, el texto presenta el arraigo popular de los colores y, luego, ofrece el sustento científico de este fenómeno cultural."
+      },
+      {
+        "statement": "4. La visión de un determinado color",
+        "alternatives": [
+          "A) depende absolutamente del contexto cultural de nuestra patria.",
+          "B) solamente es posible si nuestro estado de ánimo está acelerado.",
+          "C) ocasiona un cambio fisiológico que no altera la conducta humana.",
+          "D) induce una determinada actividad fisiológica en la glándula pituitaria.",
+          "E) es totalmente independiente del marco que da el espectro luminoso."
+        ],
+        "correct": 3,
+        "rationale": "El texto permite establecer el siguiente mecanismo: el impacto de un color en el pigmento fotorreceptor ocasiona una actividad en la glándula pituitaria."
+      },
+      {
+        "statement": "5. Determina el valor de verdad (Vo F) de los siguientes enunciados ,de acuerdo con el contenido del texto.",
+        "alternatives": [
+          "A) FFVVF",
+          "B) VFVFV",
+          "C) FVVVF",
+          "D) VVFFV",
+          "E) FFVVV"
+        ],
+        "correct": 0,
+        "rationale": "En virtud de la información textual, se determina que solamente son verdaderos los enunciados tercero y cuarto: el impacto de la luz incide en la acción de la glándula pituitaria y el espectro luminoso determina los colores."
+      },
+      {
+        "statement": "6. Se deduce del texto que, en la cultura occidental, el color verde se asocia con",
+        "alternatives": [
+          "A) el belicismo.",
+          "B) el frenesí.",
+          "C) la furia.",
+          "D) el azar.",
+          "E) el sosiego."
+        ],
+        "correct": 4,
+        "rationale": "Dado que es un símbolo de esperanza, el verde con nota tranquilidad. En nuestra cultura, es un color tranquilizador."
+      }
+    ]
+  },
+  {
+    "type": "reading_comprehension",
+    "statement": "Dado que es un símbolo de esperanza, el verde con nota tranquilidad. En nuestra cultura, es un co lor tranquilizador.\nClave: E\n\nNadie puede negar que el siglo XX se portó muy bien allá en las alturas, en los espacios siderales. El hombre caminó en la Luna y anduvo suelto como un pájaro en la inmensidad. Con la duda sobre vida inteligente en otras galaxias, descubrió nuevas estrellas y llenó el cielo de satélites fabricados por el ingenio humano. Un telescopio gigantesco atravesó galaxias y cinceló la luz, fosilizada en las tinieblas, de los primeros estallidos del big bang, la explosión que dio origen al universo. Allá por la cima, todo bien. O no tanto. La capa de ozono, protectora del planeta, está llena de huecos; la temperatura de la atmósfera está más alta; lluvias ácidas se precipitan sobre nosotros. La verdad es que aquí, en la llanura de los hombres, en la vida diaria del planeta, el siglo dejó a los terrestres comiendo un pan que amasó el diablo. ¿Vamos a loar los UNMSM – CENTRO PREUNI VERSITARIO\n\navances brillantes de la ciencia y la tecnología? Merecen el encomio, puesto que son conquistas pasmosas. Sin embargo, es bueno reconocer que los frutos de la inteligencia humana parece que solo sirven para agravar la s desigualdades sociales y no apaciguan el sufrimiento de millones de miserables esparcidos por el planeta. El siglo XX dejó al mundo más indigente: millones de seres humanos en estado de hambre absoluta. También es verdad que el siglo XX dejó un mundo más pequeño. Los vuelos supersónicos acabaron con las distancias. Solitarios en sus órbitas espaciales, los satélites realizan prodigios de telecomunicación: el mundo entero se comunica. Y entre tanto, bajo el dominio ecuménico y obsesivo de la televisión, el hombre está reducido a la c ondición de animal que ve, oye y compra. O sufre porque no puede comprar. El mundo se comunica, es cierto, pero las personas no conversan más: es tán perdiendo el don bendito del habla. El gusto de la conversación es una virtud humana en extinción. El siglo XX nos dejó un residuo de indiferencia o miedo y la desconfianza alarmante de los pueblos en los gobernantes. Aprendemos a matar niños que viven en las calles y mi selva, el lugar más verde del planeta, continúa siendo devastada por la insensatez humana. Se habla mucho de que el nuevo milenio será marcado por la automatización, el dominio de la informática, el milagro de la ingeniería genética y la supremacía de la máquina. Yo sigo buscando la construcción de una sociedad humana en la que todos cooperemos para buscar el mayor bien posible y, con ardor, deseo que estemos en el milenio de la humanización de los hombres, del encuentro de los humanos con sus profundos deberes, el mayor de los cuales es su vocación para la felicidad, la satisfacción de vivir con dignidad.",
+    "questions": [
+      {
+        "statement": "En el texto, el adjetivo PASMOSA significa",
+        "alternatives": [
+          "A) tétrica.",
+          "B) insondable.",
+          "C) ominosa.",
+          "D) tensa.",
+          "E) asombrosa."
+        ],
+        "correct": 4,
+        "rationale": "Una conquista pasmosa es digna de admiración o asombro."
+      },
+      {
+        "statement": "¿Cuál es el tema central del texto?",
+        "alternatives": [
+          "A) La encrucijada del futuro de la humanidad.",
+          "B) El enorme valor de la ciencia y la tecnología.",
+          "C) El poder de la máquina de inteligencia artificial.",
+          "D) La futura exploración de los espacios siderales.",
+          "E) El poder omnímodo de la ciencia en la sociedad."
+        ],
+        "correct": 0,
+        "rationale": "La mirada crítica sobre el siglo XX apunta a establecer la encrucijada del siglo XXI."
+      },
+      {
+        "statement": "¿Cuál es la intención fundamental del autor?",
+        "alternatives": [
+          "A) Exponer de manera pesimista que los seres humanos han perdido su esencial vocación para alcanzar la felicidad.",
+          "B) Argumentar a favor de las pasmosas conquistas de la ciencia practicada por los seres humanos en el pasado siglo XX. UNMSM – CENTRO PREUNI VERSITARIO",
+          "C) Presentar como innegables los rotundos éxitos de la física, la cosmología, la informática y la ingeniería genética.",
+          "D) Hacer una crítica de la tecnología del siglo XX con la esperanza de marcar un derrotero fraterno para la humanidad.",
+          "E) Establecer un agudo contraste entre los logros científicos de la cosmología y las falencias de la ciencia de lo humano."
+        ],
+        "correct": 3,
+        "rationale": "El autor presenta lo admirable de la tecnología para hacer más fuerte su crítica: nada ha hecho por mejorar la calidad de vida de lo s seres humanos. En esto radica la fuerza de su reto."
+      },
+      {
+        "statement": "Los impactantes logros de la cosmología científica son contrastados por el autor al presentar un mundo humano cada vez más",
+        "alternatives": [
+          "A) comunicado.",
+          "B) diverso.",
+          "C) famélico.",
+          "D) capaz.",
+          "E) cínico."
+        ],
+        "correct": 2,
+        "rationale": "El contraste es claro: el mundo cada vez es más famélico."
+      },
+      {
+        "statement": "Se infiere que, a diferencia de la conversación que pondera el autor, la comunicación actual",
+        "alternatives": [
+          "A) está alejada de los elementos de la tecnología.",
+          "B) ha perdido la capacidad para la relación íntima.",
+          "C) ha perdido literalmente la capacidad articulatoria.",
+          "D) solamente toca asuntos de ciencia y tecnología.",
+          "E) se rige por un ritmo ralentizado y monotemático."
+        ],
+        "correct": 1,
+        "rationale": "La gente se comunicia, pero no conversa . Dado el contexto, se deduce que la conversación se define por la intimidad."
+      },
+      {
+        "statement": "Se colige que el autor es un crítico",
+        "alternatives": [
+          "A) de la cosmología.",
+          "B) de las pláticas.",
+          "C) del viaje a la Luna.",
+          "D) de la televisión.",
+          "E) del consumismo."
+        ],
+        "correct": 4,
+        "rationale": "El autor se refiere en términos negativos a quienes compran o sufren porque no pueden comparar. Se deduce que es un adversario del consumismo."
+      }
+    ]
+  },
+  {
+    "type": "reading_comprehension",
+    "statement": "La gente se comunica, pero no conversa . Dado el contexto, se deduce que la conversación se define por la intimidad.",
+    "questions": [
+      {
+        "statement": "Se colige que el autor es un crítico",
+        "alternatives": [
+          "A) de la cosmología.",
+          "B) de las pláticas.",
+          "C) del viaje a la Luna.",
+          "D) de la televisión.",
+          "E) del consumismo."
+        ],
+        "correct": 4,
+        "rationale": "El autor se refiere en términos negativos a quienes compran o sufren porque no pueden comparar. Se deduce que es un adversario del consumismo."
+      },
+      {
+        "statement": "El autor ponderería, sobre todo, el valor de la",
+        "alternatives": [
+          "A) solidaridad.",
+          "B) eficiencia.",
+          "C) imaginación.",
+          "D) inteligencia.",
+          "E) filosofía."
+        ],
+        "correct": 0,
+        "rationale": "Lo que más reclama el autor es que el siglo XX no haya construido un camino fraterno. Se colige que el autor es un propugnador de la solidaridad."
+      },
+      {
+        "statement": "Frente a los problemas que el autor describe, la solución verdadera provendría de",
+        "alternatives": [
+          "A) un avance científico vertiginoso.",
+          "B) la tecnología en todo su esplendor.",
+          "C) una visión materialista de la vida.",
+          "D) la confianza en los gobernantes.",
+          "E) un auténtico compromiso moral."
+        ],
+        "correct": 4,
+        "rationale": "Dado que los problemas son de índole moral, la verdadera solución está en el plano moral."
+      },
+      {
+        "statement": "Si alguien opinara que lo s valores humanos deben estar definidos por la tecnología,",
+        "alternatives": [
+          "A) sería, no obstante, muy crítico con los logros de la inteligencia artificial.",
+          "B) consideraría la llegada del hombre a la Luna como una gesta portentosa.",
+          "C) ponderaría el gusto por la conversación como un signo de la humanidad.",
+          "D) el autor estaría esencialmente de acuerdo, aunque con una ligera reserva.",
+          "E) pondría de relieve la imaginación que va más allá de los puros hechos."
+        ],
+        "correct": 1,
+        "rationale": "La respuesta se sustenta en que la llegada del hombre a la Lun a fue un logro de la tecnología."
+      }
+    ]
+  },
+  {
+    "type": "verbal_series",
+    "statement": "Elija la palabra que no comparte el significado común del grupo.",
+    "alternatives": [
+      "A) Contender",
+      "B) Di sputar",
+      "C) Reñir",
+      "D) Pender",
+      "E) Pendenciar"
+    ],
+    "correct": 3,
+    "rationale": "Cuatro vocablos denotan el acto de pelear; por lo tanto, esta alternativa se elimina."
+  },
+  {
+    "type": "verbal_series",
+    "statement": "Elija la palabra que no es sinónima de las demás.",
+    "alternatives": [
+      "A) Aturdido",
+      "B) Gr ogui",
+      "C) Atontado",
+      "D) Tambaleante",
+      "E) Insomne"
+    ],
+    "correct": 4,
+    "rationale": "El vocablo insomne implica no poder dormir; de esta manera se aleja de las otras palabras más afines."
+  },
+  {
+    "type": "synonyms_and_antonyms",
+    "statement": "Elija la palabra que no es sinónima de las demás.",
+    "alternatives": [
+      "A) Aturdido",
+      "B) Gr ogui",
+      "C) Atontado",
+      "D) Tambaleante",
+      "E) Insomne"
+    ],
+    "correct": 4,
+    "rationale": "El vocablo insomne implica no poder dormir; de esta manera se aleja de las otras palabras más afines."
+  },
+  {
+    "type": "synonyms_and_antonyms",
+    "statement": "Elija el término que no guarda cohiponimia con el conjunto.",
+    "alternatives": [
+      "A) Cereza",
+      "B) Hojaldre",
+      "C) Frambuesa",
+      "D) Uva",
+      "E) Grosella"
+    ],
+    "correct": 1,
+    "rationale": "La cohiponimia se refiere al hiperónimo ‘fruta’. No corresponde ‘hojaldre’."
+  },
+  {
+    "type": "analogies",
+    "statement": "Elija la opción que mantiene una relación analógica con el par ‘húmero, hueso’.",
+    "alternatives": [
+      "A) Peldaño, escalera",
+      "B) Conversación, plática",
+      "C) Llaga, úlcera",
+      "D) Parábola, narración",
+      "E) Doctrina, fase"
+    ],
+    "correct": 3,
+    "rationale": "Se trata de una relación de especie-género. La clave es ‘parábola, narración’."
+  },
+  {
+    "type": "synonyms_and_antonyms",
+    "statement": "6. Seleccione la tríada de sinónimos.",
+    "alternatives": [
+      "A) Aislado, solitario, señero",
+      "B) Verídico, falaz, veraz",
+      "C) Sandio, necio, obediente",
+      "D) Somero, patente, latente",
+      "E) Fútil, fornido, nimio"
+    ],
+    "correct": 0,
+    "rationale": "Los tres términos designan lo que está solo."
+  },
+  {
+    "type": "analogies",
+    "statement": "7. Sotana, toga; pijama, bata; calcetín, rodillera; Relación analógica de cohipónimos.",
+    "alternatives": [
+      "A) overol, usina.",
+      "B) diadema, mitra.",
+      "C) terno, chaleco.",
+      "D) abrigo, gabán.",
+      "E) lienzo, funda."
+    ],
+    "correct": 1,
+    "rationale": "Relación analógica de cohipónimos."
+  },
+  {
+    "type": "analogies",
+    "statement": "8. Determine el par de adjetivos que guardan una relación de antonimia.",
+    "alternatives": [
+      "A) reacio, violento",
+      "B) benévol o, amical",
+      "C) diáfano, prístino",
+      "D) fruslero, frívolo",
+      "E) flemático, airado"
+    ],
+    "correct": 4,
+    "rationale": "Hay antonimia entre ‘flemático’ (que todo lo toma con calma excesiva) y ‘airado’ (colérico, irritado)."
+  },
+  {
+    "type": "sentence_elimination",
+    "statement": "I) Lavoisier estableció una armónica simbiosis entre teoría y medición, al llevar a cabo los primeros experimentos químicos realmente cuantitativos con el fin de evaluar las doctrinas químicas vigentes en la época. II) Fue plenamente consciente de la necesidad de hacer un viraje radical en el dominio de la química y, por ello, desplazó la teoría del flogisto y propuso la moderna teoría de la oxidación. III) Al derrocar a la teoría del flogisto, Lavoisier llevó a cabo una verdadera revolución en la química. IV) El gran Lavoisier brindó las primeras pruebas rigurosas y fehacientes para establecer la ley de la conservación de la materia. V) Lavoisier definió operativamente el concepto de elemento como una sustancia simple que no se puede dividir mediante ningún método de análisis químico conocido, y elaboró una teoría de la formación de compuestos a partir de los elementos.",
+    "alternatives": [
+      "A) V",
+      "B) III",
+      "C) I",
+      "D) II",
+      "E) IV"
+    ],
+    "correct": 1,
+    "rationale": "Se elimina la oración III por ser redundante (está contenida en II)."
+  },
+  {
+    "type": "sentence_elimination",
+    "statement": "2. I) Albert Einstein, nacido en Ulm el 14 de marzo de 1879, comparte con el físico Isaac Newton el puesto de mayor honor en la historia del pensamiento científico. II) En 1905, cuando era un joven físico desconocido y trabajaba como humilde empleado en la Oficina de Pat entes de Berna, publicó su teoría de la relatividad especial y, además, escribió otros artículos, cada uno merecedor de un Nobel. III) Cuando frisaba los 25 años, Einstein formuló la ecuación más conocida por los legos, E=mc² ,un impecable corolario lógico de la t eoría de la relatividad. IV) En 1915, desarrolló su Teoría General de la Relatividad, en la que reformula por completo el concepto de gravedad de raigambre newtonian a. V) En virtud de su adhesión a la causa sionista, se le ofreció la presidencia de Israel, pero Einstein no la aceptó.",
+    "alternatives": [
+      "A) II",
+      "B) I",
+      "C) V",
+      "D) III",
+      "E) IV"
+    ],
+    "correct": 2,
+    "rationale": "Se elimina la oración IV por impertinencia, dado que el tema es el significado científico de Einstein."
+  },
+  {
+    "type": "sentence_elimination",
+    "statement": "3. I) Nietzsche fue un gran pensador que sentenció la ausencia de Dios y cultivó, con excelencia, la filología clásica. II) Desde muy joven, mostró un elevado rigor en el conocimiento de las lenguas clásicas y, por ello, fue natural que se dedicara a la filología. III) Gracias a su talento, ingresó como ca tedrático en Basilea sin haber culminado los estudios universitarios y nos dio bellas lecciones de arte y ciencia con obras esplendentes como El nacimiento de la tragedia . IV) Friedrich Nietzsche tuvo una perspicacia sin igual en comprender el espíritu científico de Demócrito y su UNMSM – CENTRO PREUNI VERSITARIO lección inaugural sobre Homero es una pequeña obra maestra de valor inmarcesible. V) Aunque vivió en el seno de una familia anclada en el pietismo, Nietzsche elevó notablemente su librepensamiento y llegó a ser la verdadera cumbre del ateísmo.",
+    "alternatives": [
+      "A) II",
+      "B) V",
+      "C) III",
+      "D) I",
+      "E) IV"
+    ],
+    "correct": 3,
+    "rationale": "Se elimina la oración I por el criterio de redundancia."
+  },
+  {
+    "type": "sentence_elimination",
+    "statement": "4. I) La digestión comienza en la boca, donde los dientes trituran y muelen el alimento. II) Cuando el alimento es mascado, se mezcla con un líquido acuoso que lo hace resbaloso y más digerible. III) Cuando el alimento llega al estómago, es mezclado con jugos digestivos provenientes de las paredes del estómago. IV) Para que la alimentación sea de calidad, los alimentos deben contener una gran cantidad de nutrientes. V) El fuerte ácido de los jugos mata cualquier bacteria presente en el alimento y este se convierte en una sopa que va al intestino delgado.",
+    "alternatives": [
+      "A) III",
+      "B) IV",
+      "C) V",
+      "D) II",
+      "E) I"
+    ],
+    "correct": 1,
+    "rationale": "Se elimina la oración IV, dado que no es atingente al tema: el proceso digestivo."
+  },
+  {
+    "type": "sentence_elimination",
+    "statement": "4. I) La digestión comienza en la boca, donde los dientes trituran y muel en el alimento.\nII) Cuando el alimento es mascado, se mezcla con un líquido acuoso que lo hace resbaloso y más digerible. III) Cuando\nel alimento llega al es tómago, es mezclado\ncon jugos digestivos provenientes de las paredes del estómago. IV) Para que la\nalimentación sea de calidad, los alimentos deben contener una gran cantidad de\nnutrientes. V) El fuerte ácido de los jugos mata cualquier bacteria presente en el alimento y este se convierte en una sopa que va al intestino delgado.",
+    "alternatives": [
+      "A) III",
+      "B) IV",
+      "C) V",
+      "D) II",
+      "E) I"
+    ],
+    "correct": 1,
+    "rationale": "Se elimina la oración IV, dado que no es atingente al tema: el proceso digestivo."
+  },
+  {
+    "type": "sentence_elimination",
+    "statement": "5. I) Las emociones son sentimientos fuertes como el amor, el odio, la ira y la pena.\nII) Se originan en el cerebro y suelen afectar a todo el organismo. III) Cuando\nsentimos miedo, el cerebro libera hormonas y nos prepara para actuar. IV) El cerebro\nlibera endorfinas que afectan la forma en que sentimos dolor. V) Los sentidos\nhumanos están muy activos en el momento en que dura la vigilia.",
+    "alternatives": [
+      "A) V",
+      "B) III",
+      "C) I",
+      "D) IV",
+      "E) II"
+    ],
+    "correct": 0,
+    "rationale": "Se elimina la oración II por no pertinencia: el tema apunta a los sentimientos y emociones y al papel del cerebro en ellos."
+  },
+  {
+    "type": "sentence_elimination",
+    "statement": "6. I) Los dioses han sido muy importantes en la configuración del pensamiento de las civilizaciones antiguas de la Mesopotamia. II) Los sumerios organizaron a sus dioses en tríadas y la principal estaba conformada por Anu, Enlil (el padre de los dioses y de los hombres) y Enki. III) Las divinidades su merias estaban ligadas a la tierra, a los astros y a las fuerzas de la naturaleza. IV) Aunque inmortales, los dioses sumerios padecían las mismas debilidades emocionales que los humanos: eran capaces de amar, odiar y vengarse. V) Los sumerios guardaban un gran temor por ciertos dioses que eran enemigos de los seres humanos.",
+    "alternatives": [
+      "A) V",
+      "B) I",
+      "C) III",
+      "D) IV",
+      "E) II"
+    ],
+    "correct": 1,
+    "rationale": "Se elimina la oración I, puesto que el tema se refiere a los dioses sumerios y no resulta pertinente hablar de los dioses de la Mesopotamia, en general."
+  },
+  {
+    "type": "sentence_elimination",
+    "statement": "7. I) Los egipcios desarrollaron tres sistemas de escritura, pero la jeroglífica fue la más antigua y complicada. II) La escritura jeroglífica, con más de setecientos signos, se utilizó hasta el siglo X de nuestra era. III) La escritura jeroglífica de los egipcios se puede definir como elitista y su manejo entr añaba cierta dificultad. IV) Con ella se escribían los textos reales y los sagrados ,grabados sobre piedra o en pliegos de papiro. V) Por su naturaleza, era conocida solamente por algunos miembros de las clases privilegiadas y estaba compuesta por fonogramas e ideogramas.",
+    "alternatives": [
+      "A) I",
+      "B) V",
+      "C) II",
+      "D) IV",
+      "E) III"
+    ],
+    "correct": 4,
+    "rationale": "Se elimina por redundancia: está contenida en I y V."
+  },
+  {
+    "type": "sentence_elimination",
+    "statement": "8. I) No sabemos por qué algunas personas contraen cáncer y otras no, pero,\\indudablemente, las causas de muchos c ánceres son genes defectuosos. II) Para\ntratar con éxito el cáncer, se recurre a la radioterapia con el fin de matar\ndirectamente células cancerígenas. III ) Algunos tratamientos comprenden\noperaciones quirúrgicas para eliminar lo s tumores cancerosos. IV) Se recurre\nta también a fuertes medicamentos (quimioterapia), aunque este procedimiento tiene\nefectos laterales desagradables. V) En tratamientos modernos, se emplean “balas\nmágicas”, drogas que se aplican dire ctamente a las células cancerígenas.",
+    "alternatives": [
+      "A) V",
+      "B) I",
+      "C) IV",
+      "D) III",
+      "E) II"
+    ],
+    "correct": 1,
+    "rationale": "Se elimina la oración I por se r no atingente: el tema es la terapia contra el cáncer."
+  },
+  {
+    "type": "reading_comprehension",
+    "statement": "Los primeros mamíferos verdaderos aparecieron hacia finales del período triásico,\nhace unos 220 millones de años. Eran mucho más pequeños que sus antepasados\ncinodontes, que pesaban más de un kilogramo. Los primeros mamíferos pesaban menos\nde 30 gramos y se parecían a las musarañas actuales. Eran depredadores muy activos\ncon importantes innovaciones en el cerebro, en los mecanismos de la audición y en el\ndesarrollo de los dientes. En contraste con estos cambios progresivos, en los mamíferos\ntempranos el sistema visual era más endeble. Los cinodontes tenían ojos grandes protegidos por un soporte óseo denominado barra post-orbital, pero los ojos de los mamíferos tempranos perdieron esa protección.\nEsta falta de protección ocular es característica de los actuales mamíferos nocturnos de\nojos pequeños, como las musarañas, los erizos, los tanrec (especie de erizo) olas\nzarigüeyas. De hecho, la gran mayoría de especies de mamíferos actuales son activas sobre todo por la noche, prueba añadida de una vieja herencia mamífera de nocturnidad.\nOtra conclusión a la que podemos llegar sobre la conducta de los mamíferos\ntempranos, partiendo de las musarañas y la s zarigüeyas, es que aquéllos tenían una\nestructura social muy simple, en la cual los adultos eran solitarios, salvo las madres\nlactantes, quienes asumían la plena responsabilidad de la cría de su prole.\nEn los primeros mamíferos se produjo una importante transformación del aparato\nauditivo. Dos huesos que, en los cinodontes, formaban parte de la articulación de la\nmandíbula acabaron incorporados al aparato auditivo de los mamíferos tempranos para UNMSM – CENTRO PREUNI VERSITARIO\nconstituir la cadena de osículos que conduce el sonido desde el tímpano al oído interno.\nEstos dos huesos, el articular y el rectangular de la mandíbula de los cinodontes, se\nconvirtieron en el martillo y el yunque del oído de los mamíferos. El tercer integrante de\na esa cadena de osículos, el estribo, ya funcionaba como conductor del sonido y todavía es\nel único órgano que cumple esa función en anf ibios, reptiles y aves. En 1837, C. B.\nReichart advirtió por primera vez en embriones de cerdo en desarrollo esta asombrosa\ntransformación de huesos de mandíbula en osículos del oído medio, que posteriormente\nse observó en los mamíferos más tempranos. Parece que la ventaja funcional de la cadena de osículos tiene que ver con la\ncapacidad de los mamíferos de discriminar frecuencias mucho mayores que las que\nreptiles y aves son capaces de oír. En los no mamíferos, la audición está limitada a menos\nde 10 000 ciclos, mientras los mamíferos pueden oír frecuencias muy superiores, a veces\npor encima de 100 000 ciclos. En los mamíferos, el músculo estapedio gradúa la rigidez\nde la conexión entre los osícul os. Cuando el estapedio se contrae, reduce la transmisión\nde sonidos de frecuencia baja, lo que permite que los receptores de las células ciliadas de\nla cóclea analicen sonidos de frecuencia alta.\nLa segunda gran novedad de los mamíferos fue el modo en que se desarrollaron sus\ndientes. Los cinodontes, igual que los reptiles, crecían despacio, y sus dientes eran\ncontinuamente sustituidos a lo largo de su vida a medida que se deterioraban. Los\nmamíferos tempranos eran esencialmente cinodontes en miniatura que maduraron cuando\ntenían todavía el tamaño de las crías de cinodonte. Durante su vida tenían solo dos series\nde dientes, los caducos y los permanentes, como en la mayoría de los mamíferos\nactuales. La presencia de un conjunto único de dientes permanentes en la vida adulta\npermitió un ajuste más preciso entre las superficies coronadas de los molares superiores e\ninferiores, lo que brindó una masticación más eficaz, lo cual, a su vez, habría facilitado\nuna digestión más rápida del alimento triturado y, con ello, una superior tasa metabólica.\nEsta situación contrasta con la de los cinodontes, en los que los dientes eran\nreemplazados continuamente y los superiores y los inferiores estaban mal emparejados.",
+    "questions": [
+      {
+        "statement": "¿Cuál es la idea central del texto?",
+        "alternatives": [
+          "A) Mientras que los cinodontes tenían ojos grandes con una buena protección, los mamíferos carecían de protección ocular.",
+          "B) Hacia finales del triásico, aparecieron los prístinos mamíferos con innovaciones importantes frente a los cinodontes.",
+          "C) En los primeros mamíferos se produjo una gravitante transformación del aparato auditivo: se hizo más fino.",
+          "D) Hace unos 200 millones de años, los primeros mamíferos llevaron una lucha encarnizada contra depredadores terribles.",
+          "E) A diferencia de los antiguos cinodontes, los mamíferos prístinos se caracterizan por una dentadura fuerte y muy estable."
+        ],
+        "correct": 1,
+        "rationale": "Básicamente el texto presenta el cambio evolutivo que lleva de los cinodontes a los primeros mamíferos. Por ello, es medular describir las principales innovaciones en esa ruta evolutiva."
+      },
+      {
+        "statement": "¿Cuál es el mejor resumen del texto?",
+        "alternatives": [
+          "A) A pesar de un tamaño muy reducido, los mamíferos tempranos resultaron ser temibles depredadores, ya que gozaban de adaptaciones ventajosas en su estructura cerebral, lo que facilitaba la co nsecución del alimento y la evasión de posibles peligros representados por animales grandes del Triásico.",
+          "B) Hacia finales del período triásico (es decir, hace unos 220 millones de años) los antiguos cinodontes, muy parecidos a los reptiles, evolucionaron gradualmente y se convirtieron en mamíferos; estos eran mucho más pequeños que los cinodontes y guardaban un gran parecido con las musarañas actuales.",
+          "C) Los primeros mamíferos aparecieron hace unos 220 millones de años y presentan innovaciones importantes con respecto a sus antepasados cinodontes, sobre todo, en los mecanismos de la audición y en el desarrollo de los dientes; sin embargo, en los mamíferos tempranos el sistema visual era más endeble.",
+          "D) Al igual que los reptiles, los cin odontes crecían lentamente y no contaban con dientes permanentes; por ello fue una innovación crucial en los mamíferos tempranos que contaran con un conjunto único de dientes permanentes, perfectamente acoplados y afinados para la tarea de la trituración de presas.",
+          "E) Se puede establecer fehacientemente que los mamíferos tempranos se distinguen de los no mamíferos por su aparato auditivo, dado que la ventaja funcional de la cadena de osículos de ese sistema tiene que ver con la capacidad de los mamíferos de discriminar frecuencias de sonido más amplias."
+        ],
+        "correct": 2,
+        "rationale": "En apretada síntesis, el texto presenta las principales innovaciones que determinaron la aparición de los primeros mamíferos: estos se diferenciaron de los cinodontes en una mejor audición y una mejor dentición, aunque el sistema visual de los mamíferos perdió protección."
+      },
+      {
+        "statement": "¿Cuál es la idea central del texto?",
+        "alternatives": [
+          "A) Mientras que los cinodontes tenían ojos grandes con una buena protección, los mamíferos carecían de protección ocular.",
+          "B) Hacia finales del triásico, aparecieron los prístinos mamíferos con innovaciones importantes frente a los cinodontes.",
+          "C) En los primeros mamíferos se produjo una gravitante transformación del aparato auditivo: se hizo más fino.",
+          "D) Hace unos 200 millones de años, los primeros mamíferos llevaron una lucha encarnizada contra depredadores terribles.",
+          "E) A diferencia de los antiguos cinodontes, los mamíferos prístinos se caracterizan por una dentadura fuerte y muy estable."
+        ],
+        "correct": 1,
+        "rationale": "Básicamente el texto presenta el cambio evolutivo que lleva de los cinodontes a los primeros mamíferos. Por ello, es medular describir las principales innovaciones en esa ruta evolutiva."
+      },
+      {
+        "statement": "Determina el valor de verdad (VoF) de los siguientes enunciados, en virtud del contenido del texto.\n\nI. Los mamíferos tempranos le dieron una nueva función al estribo auditivo.\nII. En los mamíferos, el estapedio cumple una crucial función reguladora.\nIII. Las aves son capaces de oír frecuencias superiores a los 50 000 ciclos.\nIV. Los mamíferos tempranos eran como unos cinodontes en miniatura.\nV. Los cinodontes se caracterizaban por tener una digestión muy lenta.\nVI. Una masticación más eficaz permite una mejoría en la digestión.\n\nA) FFVVFF B) FVFVVV C) VVFVVF D) VVVFFV E) FVFVVF",
+        "alternatives": [
+          "A) FFVVFF",
+          "B) FVFVVV",
+          "C) VVFVVF",
+          "D) VVVFFV",
+          "E) FVFVVF"
+        ],
+        "correct": 1,
+        "rationale": "En virtud del contenido del texto, son falsos los en unciados primero y tercero: el estribo no cambia y las aves tienen una reducida capacidad auditiva."
+      },
+      {
+        "statement": "En función de la estructura expositiva, se podría decir que el texto es uno de",
+        "alternatives": [
+          "A) causa-efecto, puesto que explica las causas de la extinción de los cinodontes.",
+          "B) enumeración, pues detalla todas las propiedades anatómicas de los mamíferos.",
+          "C) secuencia porque explica fundamentalmente la evolución de los mamíferos.",
+          "D) correlación de hechos porque describe las conductas prístinas de los cinodontes.",
+          "E) comparación-contraste, puesto que se centra en los mamíferos y cinodontes."
+        ],
+        "correct": 4,
+        "rationale": "La exposición del texto presenta las innovaciones de los primeros mamíferos; en tal sentido, opera mediante co mparaciones y contrastes."
+      }
+    ]
+  },
+  {
+    "type": "reading_comprehension",
+    "statement": "En virtud del contenido del texto, son falsos los en unciados primero y tercero: el\nestribo no cambia y las aves tienen una reducida capacidad auditiva.",
+    "questions": [
+      {
+        "statement": "6. En función de la estructura expositiva, se podría decir que el texto es uno de",
+        "alternatives": [
+          "A) causa-efecto, puesto que explica las causas de la extinción de los cinodontes",
+          "B) enumeración, pues detalla todas las propiedades anatómicas de los mamíferos",
+          "C) secuencia porque explica fundamentalmente la evolución de los mamíferos",
+          "D) correlación de hechos porque describe la s conductas prístinas de los cinodontes",
+          "E) comparación-contraste, puesto que se centra en los mamíferos y cinodontes."
+        ],
+        "correct": 4,
+        "rationale": "La exposición del texto presenta las innovaciones de los primeros mamíferos; en tal sentido, opera mediante co mparaciones y contrastes."
+      },
+      {
+        "statement": "7. Cabe colegir del texto que las musarañas se caracterizan por",
+        "alternatives": [
+          "A) una dieta esencialmente frugívora.",
+          "B) un metabolismo muy simplificado.",
+          "C) una longevidad de muchos años.",
+          "D) un hábitat reducido y especializado.",
+          "E) una capacidad visual muy limitada."
+        ],
+        "correct": 4,
+        "rationale": "Dado que las musarañas presentan las principales características de los mamíferos primitivos, podemos colegir acertadamente que tienen un sistema visual endeble."
+      }
+    ]
+  },
+  {
+    "type": "reading_comprehension",
+    "statement": "SEMANA 8 C\n\nLa mayoría de las mujeres desea tener hijos, son felices con el recién nacido y\nvehementes en sus cuidados. Ello ocurre a pesar del hecho de que no «obtienen» nada\ndel niño a cambio, excepto una sonrisa o una expresión de satisfacción en su rostro. Se\nsupone que la actitud de amor está parcialmente arraigada en un equipo instintivo que se\nencuentra tanto en los animales como en la mujer. Pero cualquiera sea la gravitación de\nese factor, también existen factores psicológicos específicamente humanos que UNMSM – CENTRO PREUNI VERSITARIO\ndeterminan este tipo de amor maternal. C abe encontrar uno de ellos en el elemento\nnarcisista del amor materno. En la medida en que sigue sintiendo al niño como una parte\nsuya, el amor y la infatuación pueden satisfacer su narcisismo. Otra motivación radica en\nel deseo de poder o de posesión de la madre. El niño, desvalido y sometido por entero a\nsu voluntad, constituye un objeto natural de satisfacción para una mujer dominante y\nposesiva.\nSi bien aparecen con frecuencia, tales motivaciones no son probablemente tan\nimportantes y universales como la que podemos llamar necesidad de trascendencia. Tal\nnecesidad de trascendencia es una de las necesidades básicas del hombre, arraigada en\nel hecho de su autoconciencia, en el hecho de que no está satisfecho con el papel de la\ncriatura, de que no puede aceptarse a sí mismo como un dado ar rojado fuera de l cubilete.\nNecesita sentirse creador, ser alguien que trasciende el papel pasivo de ser creado. Hay\nmuchas formas de alcanzar esa satisfacción en la creación; la más natural, y también la\nmás fácil de lograr, es el amor y el cuidado de la madre por su creación. Ella se trasciende\nen el niño; su amor por él da sentido y significación a su vida. (En la incapacidad misma\ndel varón para satisfacer su necesidad de trascendencia concibiendo hijos reside su\nimpulso a trascenderse por medio de la creación de cosas hechas por el hombre y de\nideas.)\nPero el niño debe crecer. Debe emerger del vientre materno, del pecho de la madre; eventualmente, debe convertirse en un ser humano completamente separado. La esencia\nmisma del amor materno es cuidar de que el niño crezca, y esto significa desear que el\nniño se separe de ella.",
+    "questions": [
+      {
+        "statement": "1. En el texto, VEHEMENTE significa",
+        "alternatives": [
+          "A) profundo.",
+          "B) apasionado.",
+          "C) crucial.",
+          "D) significativo.",
+          "E) desmesurado."
+        ],
+        "correct": 1,
+        "rationale": "Las mujeres son felices con el recién nacido y vehementes en sus cuidados, ello implica una apasionada atención."
+      },
+      {
+        "statement": "2. Es incompatible con el texto afirmar que",
+        "alternatives": [
+          "A) la madre se realiza en su amor por el niño que crece.",
+          "B) el amor maternal no desea nada para la propia madre.",
+          "C) los factores psicológicos inciden en el amor maternal.",
+          "D) la relación entre madre e hijo es de básica igualdad.",
+          "E) el amor materno es un amor por un ser desprotegido."
+        ],
+        "correct": 3,
+        "rationale": "La relación es de desigualdad, pues el niño desvalido se halla sometido por entero a su madre."
+      },
+      {
+        "statement": "3. Se infiere del texto que la madre",
+        "alternatives": [
+          "A) supera el desasosiego por medio de la amistad.",
+          "B) está unida a sus hijos por unos lazos insondables.",
+          "C) es muy virtuosa, pero i rremisiblemente ególatra.",
+          "D) obedece solamente a instintos animales invariables.",
+          "E) descubre su valor en la propia autonomía del niño."
+        ],
+        "correct": 4,
+        "rationale": "En efecto, según el texto, la esencia misma del amor materno es cuidar de que el niño crezca, y esto significa desear que el niño se separe de ella."
+      },
+      {
+        "statement": "4. Si el varón pudiera satisfacer su capacidad de trascendencia,",
+        "alternatives": [
+          "A) podría identificarse plenamente con sus hijos.",
+          "B) expresaría un amor sobrenatural por su creación.",
+          "C) suscitaría en las mujeres un nuevo tipo de amor.",
+          "D) obedecería a sus anhelos de autoconciencia.",
+          "E) se convertiría en un sujeto fatuo y dominante."
+        ],
+        "correct": 3,
+        "rationale": "La necesidad de trascendencia es una de las necesidades básicas del hombre, arraigada en el hecho de su autoconciencia."
+      }
+    ]
+  },
+  {
+    "type": "reading_comprehension",
+    "statement": "La vivencia de la separati dad provoca angustia; es, por cierto, la fuente de toda angustia. Estar separado significa estar aislado, sin posibilidad alguna para utilizar mis poderes humanos. De ahí que estar separado si gnifique estar desvalido, ser incapaz de aferrar el mundo –las cosas y las personas– activamente; significa que el mundo puede invadirme sin que yo pueda reaccionar. Así, pues ,la separatidad es la fuente de una intensa angustia. Por otra parte, produce ver güenza y un sentimiento de culpa. El relato bíblico de Adán y Eva expresa esa experiencia de culpa y vergüenza en la separatidad. Después de haber comido Adán y Eva del fruto del «árbol del conocimiento del bien y del mal», después de haber desobedecido (el bien y el mal no existen sino hay libertad para desobedecer), después de haberse vuelto humano sal emanciparse de la originaria armonía animal con la naturaleza, es decir, después de su nacimiento como seres humanos, vieron «que estaban desnudos y tuvieron vergüenza». ¿Debemos suponer que un mito tan antiguo y elemental como ese comparte la mojigatería del enfoque moralista del siglo XIX; y que el punto importante que el relato quiere trans mitirnos es la turbación de Adán y Eva porque sus genitales eran visibles? Es muy difícil que así sea, y si interpretamos el relato con un espíritu victoriano, pasamos por alto el punto principal, que parece ser el siguiente: después que hombre y mujer se hicieron conscientes de sí mismos y del otro, tuvieron conciencia de su separatidad, y de la diferencia entre ambos, en la medida en que pertenecían a sexos distintos. Pero, al reconocer su separatidad siguen siendo desconocidos el uno para el otro, porque aún no han aprendido a amarse (como lo demuestra el hecho de que Adán se defiende, acusando a Eva, en lugar de tratar de defenderla). La conciencia de la separación humana –sin la reunión por el amor– es la fuente de la vergüenza. Es, al mismo tiempo ,la fuente de la culpa y la angustia.",
+    "questions": [
+      {
+        "statement": "2. En la palabra TURBACIÓN puede ser reemplazada por",
+        "alternatives": [
+          "A) desorientación.",
+          "B) trastorno.",
+          "C) desconcierto.",
+          "D) ofuscación.",
+          "E) enfado."
+        ],
+        "correct": 2,
+        "rationale": "La turbación se usa en el sentido de sorpresa que altera una situación."
+      },
+      {
+        "statement": "3. En última instancia, el autor del texto propugna",
+        "alternatives": [
+          "A) un mensaje de adhesión a los claros prer eceptos de las narraciones bíblicas.",
+          "B) guardar incredulidad sobre el grado de individualización de la modernidad.",
+          "C) tener preocupación frente a las consecuencias de la crucial separación.",
+          "D) interpretar el relato bíblico de Adán y Eva según la rígida óptica victoriana.",
+          "E) la necesidad de superar la separatidad a través del sentimiento del amor."
+        ],
+        "correct": 4,
+        "rationale": "La conciencia de la separación humana –sin la reunión por el amor– es la fuente de la vergüenza."
+      },
+      {
+        "statement": "4. Se puede inferir del texto que la ex presión ESPÍRITU VICTORIANO alude a",
+        "alternatives": [
+          "A) puritanismo y doble moral.",
+          "B) cambios sociales específicos.",
+          "C) un punto de vista cientificista.",
+          "D) una tesis de raigambre medieval.",
+          "E) valores propios de la política."
+        ],
+        "correct": 0,
+        "rationale": "La respuesta se sustenta en la siguiente pregunta: ¿Debemos suponer que un mito tan antiguo y elemental como ese comparte la mojigatería del enfoque moralista del siglo XIX; y que el punto importante que el relato quiere trasmitirnos es la turbación de Adán y Eva porque sus genitales eran visibles?"
+      },
+      {
+        "statement": "5. ¿Cuál es la idea principal del texto?",
+        "alternatives": [
+          "A) El amor maternal involucra diversas y múltiples formas de expresión.",
+          "B) La infatuación materna se origina en el relativo crecimiento del niño.",
+          "C) La trascendencia resulta una tarea muy ardua en el caso de los varones.",
+          "D) El carácter altruista que la madre exhibe se reduce mucho con los años.",
+          "E) El auténtico amor mater nal implica aceptar la separación de los hijos."
+        ],
+        "correct": 4,
+        "rationale": "El auténtico amor maternal implica aceptar la separación de los hijos."
+      }
+    ]
+  },
+  {
+    "type": "sentence_elimination",
+    "statement": "I) La oxitocina es la hormona responsable de que la atracción inicial dé paso a un vínculo de amor duradero. II) La oxitocina fomenta la unión entre los amantes: la creación de lazos estrechos. III) S egún Gareth Leng, de la Universidad de Edimburgo, esta hormona ayuda a forjar lazos permanentes entre los amantes y define la estabilidad de la pasión. IV) La oxitocina es tá involucrada en muchos aspectos del amor, desde el maternal hasta el hecho de que algunos logren permanecer felices por décadas con la misma pareja, o que otros sean incapaces de forjar una relación duradera. V) Varias investigaciones han descubierto que la oxitocina es producida en grandes cantidades por el cerebro durante el parto, la lactancia y cuando hay actividad sexual.\n\nLa oración II está contenida en I, III y IV.",
+    "alternatives": [
+      "A) V",
+      "B) II",
+      "C) III",
+      "D) IV",
+      "E) I"
+    ],
+    "correct": 1,
+    "rationale": "La oración II está contenida en I, III y IV."
+  },
+  {
+    "type": "sentence_elimination",
+    "statement": "4. Se puede inferir del texto que la ex presión ESPÍRITU VI CTORIANO alude a\n\nA) puritanismo y doble moral. B) cambios sociales específicos.\nC) un punto de vista cientificista. D) una tesis de raigambre medieval.\nE) valores propios de la política.",
+    "alternatives": [
+      "A) puritanismo y doble moral.",
+      "B) cambios sociales específicos.",
+      "C) un punto de vista cientificista.",
+      "D) una tesis de raigambre medieval.",
+      "E) valores propios de la política."
+    ],
+    "correct": 0,
+    "rationale": "Clave: A"
+  },
+  {
+    "type": "sentence_elimination",
+    "statement": "5. Si se tuviera en cuenta al amor en la vivencia de la separatidad,\n\nA) hombre y mujer serían consciente s de sí mismos y del otro.\nB) las parejas sentirían vergüenza y culpa por el tiempo perdido.\nC) el hombre rompería las barreras que lo separan de los objetos.\nD) la esencia de la existencia se concentraría en la individualidad.\nE) los hombres podrían emanciparse y resistir las transformaciones.",
+    "alternatives": [
+      "A) hombre y mujer serían consciente s de sí mismos y del otro.",
+      "B) las parejas sentirían vergüenza y culpa por el tiempo perdido.",
+      "C) el hombre rompería las barreras que lo separan de los objetos.",
+      "D) la esencia de la existencia se concentraría en la individualidad.",
+      "E) los hombres podrían emanciparse y resistir las transformaciones."
+    ],
+    "correct": 0,
+    "rationale": "Clave: A"
+  },
+  {
+    "type": "sentence_elimination",
+    "statement": "Se elimina la oración III, puesto que el conjunto oracional se refiere a algunos aspectos de la vida del filósofo Karl Popper.",
+    "alternatives": [
+      "A) IV",
+      "B) V",
+      "C) I",
+      "D) III",
+      "E) II"
+    ],
+    "correct": 1,
+    "rationale": "La oración V está implicada I y II."
+  },
+  {
+    "type": "sentence_elimination",
+    "statement": "I) En la narrativa de Stendhal se puede apreciar una marcada sensibilidad romántica y un agudo espíritu crítico . II) Stendhal, seudónimo de Henri Beyle, fue un célebre escritor francés que nació en Grenoble y murió en París. III) Los personajes de Stendhal presentan un egotismo típico, reflejo de una filosofía sig nada por la caza de la felicidad. IV) Stendhal tiene gran maestría en el análisis de las pasiones y en la dinámica de los comportamientos sociales. V) En las novelas de Stendhal, hay un fino retrato del clima moral e intelectual de la Francia decimonónica.",
+    "alternatives": [
+      "A) V",
+      "B) III",
+      "C) IV",
+      "D) I",
+      "E) II"
+    ],
+    "correct": 4,
+    "rationale": "Se elimina la oración II por impertinencia: no nos brinda un análisis de las obras de Stendhal."
+  },
+  {
+    "type": "verbal_series",
+    "statement": "Tenue, denso; lábil, precario; pávido, osado;",
+    "alternatives": [
+      "A) melómano, seminal.",
+      "B) esmerado, meticuloso.",
+      "C) prolijo, irrisorio.",
+      "D) melindroso, decrépito.",
+      "E) pertinaz, nimio"
+    ],
+    "correct": 1,
+    "rationale": "La relación analógica es de antonimia, sinonimia, antonimia y sinonimia."
+  },
+  {
+    "type": "verbal_series",
+    "statement": "Señale el vocablo que no pertenece a la serie verbal.",
+    "alternatives": [
+      "A) cebada.",
+      "B) arroz.",
+      "C) trigo.",
+      "D) maíz.",
+      "E) soya."
+    ],
+    "correct": 4,
+    "rationale": "La serie está compuesta por cereales."
+  },
+  {
+    "type": "verbal_series",
+    "statement": "Automóvil, carburador; solicitud, sumilla; microscopio, lente;",
+    "alternatives": [
+      "A) volcán, cráter.",
+      "B) núcleo, célula.",
+      "C) astrágalo, falange.",
+      "D) radiador, volante.",
+      "E) raíz, xilema."
+    ],
+    "correct": 0,
+    "rationale": "La relación analógica es todo-parte."
+  },
+  {
+    "type": "verbal_series",
+    "statement": "Determine la palabra que no forma parte de la serie.",
+    "alternatives": [
+      "A) tunante",
+      "B) bellaco",
+      "C) pícaro",
+      "D) ribaldo",
+      "E) angurriento"
+    ],
+    "correct": 4,
+    "rationale": "La serie verbal está compuesta de sinónimos: persona que actúa con picardía."
+  },
+  {
+    "type": "verbal_series",
+    "statement": "4. Determine la palabra que no forma parte de la serie.",
+    "alternatives": [
+      "A) tunante",
+      "B) bellaco",
+      "C) pícaro",
+      "D) ribaldo",
+      "E) angurriento"
+    ],
+    "correct": 4,
+    "rationale": "La serie verbal está compuesta de sinónimos: persona que actúa con picardía."
+  },
+  {
+    "type": "verbal_series",
+    "statement": "5. EXTRAVAGANTE, RARO; PECULIAR, TÍPICO; LATO, VASTO;",
+    "alternatives": [
+      "A) oscuro, somero.",
+      "B) efímero, fugaz.",
+      "C) expedito, flemático.",
+      "D) impertérrito, nervioso.",
+      "E) locuaz, parco."
+    ],
+    "correct": 1,
+    "rationale": "La serie está formada por pares de sinónimos."
+  }
+]

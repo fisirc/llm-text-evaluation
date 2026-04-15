@@ -1,0 +1,618 @@
+[
+  {
+    "type": "verbal_series",
+    "statement": "Brillar, reverberar , resplandecer,",
+    "alternatives": [
+      "A) preterir.",
+      "B) fulgurar.",
+      "C) labrar.",
+      "D) atravesar.",
+      "E) transigir."
+    ],
+    "correct": 1,
+    "rationale": "Serie compuesta por sinónimos de «brillar». Solo cumple con esta relación «fulgurar»."
+  },
+  {
+    "type": "verbal_series",
+    "statement": "Elija la alternativa que no sea sinónimo de BRÍO.",
+    "alternatives": [
+      "A) Pujanza.",
+      "B) Garbo .",
+      "C) Gallardía .",
+      "D) Coraje .",
+      "E) Conmoción ."
+    ],
+    "correct": 4,
+    "rationale": "El término «brío» refiere al valor, a la resolución, al garbo, la gallardía. La palabra «conmoción» significa ‘movimiento o perturbación violenta’."
+  },
+  {
+    "type": "verbal_series",
+    "statement": "Aleatorio, azaroso; marasmo, paralización; diligente,",
+    "alternatives": [
+      "A) presto.",
+      "B) supeditado.",
+      "C) negligente.",
+      "D) locuaz.",
+      "E) mentecato."
+    ],
+    "correct": 0,
+    "rationale": "Serie verbal basada en la relación de sinonimia. Una acepción de la palabra «diligente» es ‘pronto, presto, ligero en el obrar’, de ahí que se tenga que elegir «presto»."
+  },
+  {
+    "type": "verbal_series",
+    "statement": "Sabio, erudito, culto,",
+    "alternatives": [
+      "A) docto.",
+      "B) estulto.",
+      "C) pigre",
+      "D) memorioso.",
+      "E) sagaz."
+    ],
+    "correct": 0,
+    "rationale": "Los términos son sinonímicos, se completa con docto."
+  },
+  {
+    "type": "verbal_series",
+    "statement": "¿Qué término no corresponde al campo semántico?",
+    "alternatives": [
+      "A) Hablador",
+      "B) Gárrulo",
+      "C) Lenguaraz",
+      "D) Perspicaz",
+      "E) Locuaz"
+    ],
+    "correct": 3,
+    "rationale": "El campo semántico tiene que ver con el habla fluida, la perspicacia está asociada a la inteligencia."
+  },
+  {
+    "type": "reading_comprehension",
+    "statement": "Es mucho lo que la ciencia no entiende, quedan muchos misterios todavía por resolver. En un universo que abarca decenas de miles de millones de años luz y de unos diez o quince miles de millones de años de antigüedad, quizá siempre será así. Tropezamos constantemente con sorpresas. Los científicos pueden rechazar revelaciones místicas de las que no hay más prueba que lo que dice alguien, pero es difícil que crean que su conocimiento de la naturaleza es completo. La ciencia está lejos de ser un instrumento de conocimiento perfecto. Simplemente, es el mejor que tenemos. La ciencia por sí misma no puede apoyar determinadas acciones humanas, pero sin duda puede iluminar las posibles consecuencias de acciones alternativas. La manera de pensar científica es imaginativa y disciplinada al mismo tiempo. Ésta es la base de su éxito. La ciencia nos invita a aceptar los hechos, aunque no se adapten a nuestras ideas preconcebidas. Nos aconseja tener hipótesis alternativas en la cabeza y ver cuál se adapta mejor a los hechos. Nos insta a un delicado equilibrio entre una apertura sin barreras a las nuevas ideas, por muy herejes que sean, y el escrutinio escéptico más riguroso. La ciencia es exitosa porque tiene un mecanismo incorporado que corrige los errores en su propio seno. Cada vez que ejercemos la autocrítica, cada vez que comprobamos nuestras ideas a la luz del mundo exterior, estamos haciendo ciencia. Cuando somos autoindulgentes y acríticos, cuando confundimos las esperanzas con los hechos, caemos en la pseudociencia y la superstición. Cada vez que un estudio científico presenta algunos datos, va acompañado de un margen de error: un recordatorio discreto pero insistente de que ningún conocimiento es completo o perfecto . Es una forma de medir la confianza que tenemos en lo que creemos saber. Además, los científicos suelen ser muy cautos al establecer la condición verídica de sus intentos de entender el mundo, puede haber nuevas circunstancias nunca examinadas antes —sobre los agujeros negros, por ejemplo, o dentro del electrón, o acerca de la velocidad de la luz — en las que incluso nuestras loadas leyes de la naturaleza fallan y, por muy válidas que puedan seren circunstancias ordinarias, necesitan corrección.\n\nSagan, C. (2000). El mundo y sus demonios: La ciencia como una luz en la oscuridad . Barcelona: Planeta.",
+    "questions": [
+      {
+        "statement": "Fundamentalmente, el autor intenta explicar",
+        "alternatives": [
+          "A) la infalibilidad del quehacer científico.",
+          "B) el talante crítico de la pseudociencia.",
+          "C) los insondables misterios de la ciencia.",
+          "D) el notable éxito de la actividad científica.",
+          "E) la fuerza ortodoxa de la superstición."
+        ],
+        "correct": 3,
+        "rationale": "Si bien la ciencia no explica todo, es lo mejor que tenemos, posee éxito. El autor intenta explicar la causa de este éxito de la ciencia."
+      },
+      {
+        "statement": "¿Cuál es la mejor síntesis del texto?",
+        "alternatives": [
+          "A) La ciencia es exitosa porque ,a pesar de que no nos brinda un perfecto conocimiento, este puede mejorarse creativamente corrigiendo los errores.",
+          "B) El método científico se caracteriza por poseer un mecanismo incorporado que corrige los errores en su propio seno a través de la autocrítica permanente.",
+          "C) La ciencia deja todavía muchos misterios por resolver pues tropezamos prueba que lo que dice alguien, pero es difícil que alcance la perfección.",
+          "E) Los científicos, al tener ideas heréticas se enfrentan a los dogmas de la religión y las pseudociencias que quieren dominar el mundo."
+        ],
+        "correct": 0,
+        "rationale": "El enunciado aborda el tema central y la idea principal al explicar el éxito de la ciencia basado en su método y su apertura."
+      },
+      {
+        "statement": "En el texto, se entiende por AUTOINDULGENTE a una persona que",
+        "alternatives": [
+          "A) invierte en sus proyectos.",
+          "B) perdona los pecado s.",
+          "C) oculta sus desaciertos.",
+          "D) carece de esperanza.",
+          "E) es un ferviente creyente."
+        ],
+        "correct": 2,
+        "rationale": "Una persona autoindulgente pervierte los hechos, es decir, no admite sus errores."
+      },
+      {
+        "statement": "El sentido contextual de ESCRUTINIO es",
+        "alternatives": [
+          "A) investigación.",
+          "B) verificación.",
+          "C) recuento.",
+          "D) alucinación.",
+          "E) elección."
+        ],
+        "correct": 0,
+        "rationale": "El texto refiere al examen o escrutinio escéptico propio de la ciencia."
+      },
+      {
+        "statement": "Resulta incompatible afirmar que el proceder científico es",
+        "alternatives": [
+          "A) disciplinado.",
+          "B) creativo.",
+          "C) autocrítico.",
+          "D) dogmático.",
+          "E) perfectible."
+        ],
+        "correct": 3,
+        "rationale": "La ciencia nos invita a aceptar los hechos, aunque no se adapten a nuestras ideas preconcebidas, es antidogmática."
+      },
+      {
+        "statement": "Se infiere que ,ante un margen de error ínfimo, el científico",
+        "alternatives": [
+          "A) daría por concluida la investigación.",
+          "B) tendría confianza en lo que alcanzó.",
+          "C) caería en una flagrante contradicción.",
+          "D) afirmaría que el mundo es incognoscible.",
+          "E) negaría todas las teorías previas."
+        ],
+        "correct": 1,
+        "rationale": "Cada vez que un estudio científico presenta algunos datos, va acompañado de un margen de error, una forma de medir la confianza que tenemos en lo que creemos saber."
+      },
+      {
+        "statement": "¿Cuál de los siguientes enunciados sería contradictorio con la dinámica de la ciencia?",
+        "alternatives": [
+          "A) Incluso las leyes científicas más respetadas pueden ser erróneas.",
+          "B) Solo existe en el universo lo que hemos comprobado con certeza.",
+          "C) La naturaleza puede desvelarse de un modo sumamente asombroso.",
+          "D) La ciencia no ha logrado resolver todos los misterios del universo.",
+          "E) Un aserto puede rechazarse sino hay pruebas que lo sustenten."
+        ],
+        "correct": 3,
+        "rationale": "La ciencia está lejos de ser un instrumento de conocimiento perfecto y quedan muchos misterios por resolver, de allí que la certeza nos está vetada."
+      }
+    ]
+  },
+  {
+    "type": "synonyms_and_antonyms",
+    "statement": "4. Sabio, erudito, culto,",
+    "alternatives": [
+      "A) docto.",
+      "B) estulto.",
+      "C) pigre",
+      "D) memorioso.",
+      "E) sagaz."
+    ],
+    "correct": 0,
+    "rationale": "Los términos son sinonímicos, se completa con docto."
+  },
+  {
+    "type": "synonyms_and_antonyms",
+    "statement": "5. ¿Qué término no corresponde al campo semántico?",
+    "alternatives": [
+      "A) Hablador",
+      "B) Gárrulo",
+      "C) Lenguaraz",
+      "D) Perspicaz",
+      "E) Locuaz"
+    ],
+    "correct": 3,
+    "rationale": "El campo semántico tiene que ver con el habla fluida, la perspicacia está asociada a la inteligencia."
+  },
+  {
+    "type": "verbal_series",
+    "statement": "A) arbitrario. B) desaforado. C) perturbador. D) vitando. E) proteico.",
+    "alternatives": [
+      "A) arbitrario.",
+      "B) desaforado.",
+      "C) perturbador.",
+      "D) vitando.",
+      "E) proteico."
+    ],
+    "correct": 3,
+    "rationale": "La serie verbal está constituida por sinónimos de despreciable."
+  },
+  {
+    "type": "verbal_series",
+    "statement": "7. ¿Qué término no es sinónimo de ABYECTO?",
+    "alternatives": [
+      "A) Infame",
+      "B) Bajo",
+      "C) Miserable",
+      "D) Maleable",
+      "E) Avieso"
+    ],
+    "correct": 3,
+    "rationale": "La palabra «maleable» significa ‘que se le puede dar otra forma sin romperlo’, mientras que «abyecto» significa ‘despreciable, vil en extremo’."
+  },
+  {
+    "type": "verbal_series",
+    "statement": "8. Minucioso, puntilloso; holgazán, pigre; irresoluto, dubitativo;",
+    "alternatives": [
+      "A) mojigato, poltrón.",
+      "B) ominoso, execrable.",
+      "C) atosigado, tranquilo.",
+      "D) acongojado, alegre.",
+      "E) mohíno, optimista."
+    ],
+    "correct": 1,
+    "rationale": "Serie verbal basada en la relación semántica de la sinonimia."
+  },
+  {
+    "type": "verbal_series",
+    "statement": "9. Infringir, respetar; vapulear, acariciar; enervarse, tranquilizarse;",
+    "alternatives": [
+      "A) desdeñar, apreciar.",
+      "B) reprobar, criticar.",
+      "C) anegar, inundar.",
+      "D) domeñar, dominar.",
+      "E) refregar, friccionar."
+    ],
+    "correct": 0,
+    "rationale": "Serie verbal basada en la relación semántica de la antonimia."
+  },
+  {
+    "type": "verbal_series",
+    "statement": "10. Estrafalario, extraño, extravagante,",
+    "alternatives": [
+      "A) estrambótico.",
+      "B) cínico.",
+      "C) estulto.",
+      "D) escatológico.",
+      "E) vil."
+    ],
+    "correct": 0,
+    "rationale": "Serie verbal constituida por sinónimos, se completa con la palabra estrambótico."
+  },
+  {
+    "type": "reading_comprehension",
+    "statement": "Los crímenes cometidos por los soldados nazis durante la Segunda Guerra Mundial son conocidos ampliamente por la sociedad. Y es que, en su currículum tienen el infame privilegio de haber realizado desde crueles experimentos científicos en seres humanos, hasta asesinar a una ingente cantidad de personas en los campos de concentración . Sin embargo, lo que no suele aparecer en los libros de historia son los crímenes que los soldados aliados cometieron contra la población civil. En un intento de luchar contra este olvido, la historiadora alemana Miriam Gebhardt ha publicado un libro (del que se ha hecho eco el Daily Mail ) en el que afirma que los soldados aliados violaron aproximadamente a un millón de mujeres y niñas al final de la contienda. En esta cruel esta dística, la experta también incluye a las personas que sufrieron este tipo de abusos sexuales tras la caída de Berlín, lugar en el que el terror sembrado que ocuparon la región y por sus ayudantes. Sucedió en todas partes», explica en sus primeras líneas el libro de Gebhardt. A su vez, la investigadora afirma que, contrariamente a la idea que estaba extendida hasta hace bien poco, estas tropelías no fueron cometidas únicamente por soldados soviéticos (a quienes Stalin había solicitado hacer el mayor daño posible a Alemania en venganza por la invasión de la U.R.S.S.) sino también por estadounidenses y británicos . Pero… ¿Por qué razón no han trascendido estos crímenes de guerra? Para responder a esta pregunta, Gebhardt recurre a la misma idea que ya explicó a ABC el escritor e investigador Alberto de Frutos hace unos meses: la vergüenza . Pero no la vergüenza por ser blanco de este perverso acto, sino porque los aliados se esforzaron en extender la idea de que Alemania y sus ciudadanos habían sido los culpables de la Segunda Guerra Mundial. Como tal, convencieron a las mujeres de que cualquier castigo que le fuera impuesto a la población era pequeño comparado con los asesinatos en masa de Adolf Hitler. ABC.es. (03 de marzo de 2015). Los soldados aliados violaron a más de un millón de mujeres y niñas alemanas tras la II Guerra Mundial. Recup erado el 12 de marzo de 2015, de ABC.es: http://www.abc.es/cultura/20150302/abci -segunda -guerra- mundiales-violaciones -201503021049.html",
+    "questions": [
+      {
+        "statement": "En esencia, el texto es una reseña sobre",
+        "alternatives": [
+          "A) un ensayo que revela la vergüenza por los actos realizados por su gobierno operó en el pueblo alemán.",
+          "B) un reciente libro de Mirian Gebhardt que revisa los casos de violaciones cometidas por los soldados aliados.",
+          "C) una investigación que saca a la luz las nefastas acciones del ejército soviético tras la caída de la ciudad de Berlín.",
+          "D) un balance que tenía como eje los actos de violencia contra los seres humanos cometidos durante el holocausto.",
+          "E) una cifra espeluznante de violaciones contra mujeres y niñas alemanas cometidas por los oficiales de la Unión Soviética."
+        ],
+        "correct": 1,
+        "rationale": "El texto reseña un nuevo libro de Mirian Gebhardt que indaga en las violaciones cometidas por los soldados aliados en territorio alemán durante la II Guerra Mundial."
+      },
+      {
+        "statement": "El término IMBORRABLE puede ser reemplazado por",
+        "alternatives": [
+          "A) inolvidable.",
+          "B) preeminente.",
+          "C) incorregible.",
+          "D) estremecedor.",
+          "E) intachable."
+        ],
+        "correct": 0,
+        "rationale": "En este caso la expresión IMBORRABLE se refiere al rastro de terror que dejó a su paso el ejército soviético tras la caída de Berlín. Así, el terror que provocaron entre los alemanes es «inolvidable»."
+      },
+      {
+        "statement": "Según el texto, es incompatible sostener que durante la II Guerra Mundial",
+        "alternatives": [
+          "A) una serie de inhumanos experimentos científicos fueron ejecutados por los nazis.",
+          "B) los militares nazis estuvieron comprometidos en el exterminio de seres humanos.",
+          "C) el mayor número de crímenes de lesa humanidad fue ocasionado por los aliados.",
+          "D) no solo los soldados británicos violaron a un millón de mujeres y niñas alemanas."
+        ],
+        "correct": 2,
+        "rationale": "En ese sentido, no puede decirse que los aliados sean los causantes de un mayor número de crímenes de lesa humanidad."
+      },
+      {
+        "statement": "Se desprende del hecho de que el sentimiento de «vergüenza» de las alemanas haya sido servido para silenciar las violaciones que cometieron los aliados que",
+        "alternatives": [
+          "A) la violencia contra la mujer solamente puede ser aceptada en casos de guerra.",
+          "B) a muchas de ellas no les importó ser forzadas a causa de sus valores católicos.",
+          "C) la victoria definitiva sobre los alemanes se alcanzó gracias al poderío soviético.",
+          "D) las víctimas acusaron posteriormente a sus abusadores ante una corte marcial.",
+          "E) es importante considerar que la guerra se libró también en un plano ideológico."
+        ],
+        "correct": 4,
+        "rationale": "Se menciona hacia el final del texto que «los aliados se esforzaron en extender la idea de que Alemania y sus ciudadanos habían sido los culpables de la Segunda Guerra Mundial». Así, la guerra también se libró a un nivel ideológico."
+      }
+    ]
+  },
+  {
+    "type": "reading_comprehension",
+    "statement": "Rainer María Rilke nació en Praga, escribió en alemán y halló su inspiración en un esteticismo cosmopolita. Fue un hombre que intentó aislarse de la vida y refugiarse en sí mismo, ser independiente de todo menos de lo Bello, vivir enteramente para su arte. Nadie, ni siquiera Stéphane Mallarmé, trató más seriamente a su arte; pocos sacrificaron más por él. Fue un mártir de su ideal. Su vida fue una larga lucha para extraer de sí hasta la última gota de poesía. Para esto soportó largos meses de melancólica soledad y de trabajo inflexibile, a menudo no recompensado. Organizó su vida para ser un poeta. No pertenecía a ningún grupo y no tenía un lugar en los movimientos contemporáneos. No escuchaba las críticas ni creía en su valor. Realizó cambios en su manera de escribir, pero cada uno de ellos respondía a un cambio en sí mismo; y cuando encontró lo que le parecía apropiado se gastó en ello y pasó sus últimos años en una sensación trágica de vaciedad. Es una figura representativa de su época porque es el poeta más considerable que se entregó al esteticismo como tal. Era una esteta deliberado y sin términos medios. La Belleza era su único fin, y la interpretó en un sentido riguroso. Por naturaleza respondía intensamente a los espectáculos y a las ideas, y en estas respuestas halló el material para su poesía y para su teoría de ella. Dependía totalmente de su sensibilidad. Por ella y de ella vivió. La carrera poética de Rilke, y apenas tuvo otra, puede considerarse una serie de intentos para dar expresión plena a su sensibilidad, para traducir en forma permanente todo lo que sentía. Se tomaba tiempo para descubrir sus sentimientos y para expresarlos de la mejor obra fue el desarrollo inevitable de su propia naturaleza, pero por haber vivido en su época ilustra los movimientos de ese tiempo. Su carrera es casi un comentario sobre el simbolismo, pues pasó del romanticismo al esteticismo y del esteticismo a una clase especial de misticismo. Es como si destinado por naturaleza a ser un simbolista, hubiera gastado sus energías en otra clase de poesía hasta que se vio forzado a crear un simbolismo propio. Sin duda fue influido por el ejemplo de otros hombres. Su esteticismo debía mucho a Rodin; su última modalidad fue confirmada por el descubrimiento de Paul Valéry. Pero estos ejemplos servían principalmente para fortalecer impulsos que ya eran activos en él y sancionar opiniones que ya había formado. Su carrera demuestra cuán adecuados eran los ideales y los métodos de los simbolistas para un poeta cuya naturaleza religiosa había soltado las amarras y necesitaba una nueva fe. La fe en el Arte y en la Belleza hizo de Rilke lo que fue.\n\nBowra, C. (1951). «Rainer María Rilke (1875 -1926)». En: La herencia del simbolismo. Buenos Aires: Losada.",
+    "questions": [
+      {
+        "statement": "En última instancia, el autor concluye que",
+        "alternatives": [
+          "A) el poeta Rilke valoró de alguna manera la literatura, la poesía y el arte.",
+          "B) el autoconocimiento fue la principal prerrogativa en la poesía de Rilke.",
+          "C) la lírica de Rainer María Rilke pivotó entorno a su propia sensibilidad.",
+          "D) la obra poética de Rilke está marcada por una búsqueda de la belleza.",
+          "E) la obra de Rainer María Rilke no se condice con su actitud personal."
+        ],
+        "correct": 3,
+        "rationale": "El esteticismo de Rilke se expresó principalmente en una búsqueda de la belleza, manifiesta en toda su obra poética y en su actitud vital."
+      },
+      {
+        "statement": "La expresión TRATAR MÁS SERIAMENTE alude a que Rilke",
+        "alternatives": [
+          "A) decidió entregarse por completo a la valoración crítica del arte.",
+          "B) estuvo en extremo preocupado por la valoración de su público.",
+          "C) se equivocó al descuidar los valores estéticos de su obra lírica.",
+          "D) se inclinó por mantenerse al margen de toda actividad estética.",
+          "E) consideró que su arte era la principal preocupación de su vida."
+        ],
+        "correct": 4,
+        "rationale": "La frase completa hace referencia a la forma cómo se entregó Rilke a su arte, de forma denodada y absoluta, lo que lo convierte en un caso excepcional."
+      },
+      {
+        "statement": "De la personalidad de Rainer María Rilke es válido inferir que",
+        "alternatives": [
+          "A) manifestó una actitud exultante en su vida diaria.",
+          "B) prefirió las relaciones amorosas muy conflictivas.",
+          "C) estuvo dada al pensamiento y a la introspección.",
+          "D) fue un individuo en extremo rabioso y reservado.",
+          "E) se caracterizó especialmente por su negligencia."
+        ],
+        "correct": 2,
+        "rationale": "En el texto se menciona que los cambios en la poesía de Rainer María Rilke obedecieron a una transformación interior y que «se tomaba tiempo para descubrir sus sentimientos». De ahí se infiere que fue un hombre dado a la reflexión y al autoconocimiento."
+      },
+      {
+        "statement": "5. Si la naturaleza religiosa de Rilke no hubiera soltado las amarras,",
+        "alternatives": [
+          "A) la personalidad del poeta se habría debilitado sin duda.",
+          "B) su poesía se habría mantenido alejada del esteticismo.",
+          "C) el escritor Paul Valéry sería su principal influencia lírica.",
+          "D) de seguro cambiaría la literatura por las artes plásticas.",
+          "E) el poeta se habría entregado sin reparos a sus lectores."
+        ],
+        "correct": 1,
+        "rationale": "En la parte final del texto, se menciona que, al liberarse su naturaleza religiosa, Rilke se vio obligado a buscar una nueva fe y que esta fue el esteticismo, que en esencia es un culto al arte y a la belleza."
+      }
+    ]
+  },
+  {
+    "type": "sentence_elimination",
+    "statement": "I) Nicolás Maquiavelo ejerció cargos como diplomático y funcionario público, además de ser considerado como filósofo y escritor II) Maquiavelo es central para entender el pensamiento durante el Renacimiento italiano, movimiento cultural que se produjo en Europa Occidental durante los siglos XV y XVI. III) Maquiavelo nació y murió en Florencia en mayo de 1469; a los 44 años se consagra como filósofo político al escribir El Príncipe. IV) Maquiavelo fue hijo de Bernardo Maquiavelo y de Bartolomea di Stefano Nelli, cuando niño vivió con cierta modestia pese al origen nobiliario del padre, debido a las deudas de este último. V) Maquiavelo tuvo la oportunidad de visitar varias cortes como la francesa, alemana y ciudades estado italianas, sus viajes fueron misiones diplomáticas, concluidas las mismas y de regreso en Florencia, fue arrestado y exiliado.",
+    "alternatives": [
+      "A) II",
+      "B) IV",
+      "C) V",
+      "D) I",
+      "E) III"
+    ],
+    "correct": 0,
+    "rationale": "Se elimina II por impertinencia. El eje temático son datos sobre la vida de Maquiavelo y no la influencia o importancia para entender el pensamiento durante el Renacimiento."
+  },
+  {
+    "type": "sentence_elimination",
+    "statement": "I) Existen demasiados enfoques como para tratar de determinar un enfoque unitario en la conceptualización del conocimiento. II) Se asume el conocimiento como una construcción basada en insumos informativos. III) Hay ,pues ,quienes soslayan los saberes mítico -religiosos por considerarlos falsos conocimientos. IV) En el fondo despreciar el conocimiento alternativo, por no tener su origen en la ciencia, solo evidencia una postura cientificista. V) El positivismo lógico vio fracasar su proyecto de ciencia unificada en la imposibilidad de articular un solo lenguaje científico.",
+    "alternatives": [
+      "A) I",
+      "B) III",
+      "C) II",
+      "D) IV",
+      "E) V"
+    ],
+    "correct": 4,
+    "rationale": "Se elimina la oración I por impertinencia. El tema gira entorno a lo que el argumento es y no sobre si es más o menos efectivo en relación a la retórica o las falacias."
+  },
+  {
+    "type": "sentence_elimination",
+    "statement": "I) Convencer con argumentos toma más tiempo que hacerlo con reflexiones retóricas o falacias. II) Existen argumentos deductivos e inductivos, teniendo en cuenta la relación de necesidad de los primeros (entre premisas y conclusión) y la relación de contingencia en los segundos. III) Los argumentos son conjuntos de proposiciones en cuya relación o fundamento reposa la posible verdad de los mismos. IV) El argumento no válido no puede confundirse con el no argumento, responden a naturalezas, estructuras y propósitos distintos. V) El argumento es una construcción que debe incluir: premisas, conclusión, un mismo contexto y una ineludible relación inferencial o relación lógica.",
+    "alternatives": [
+      "A) I",
+      "B) III",
+      "C) II",
+      "D) IV",
+      "E) V"
+    ],
+    "correct": 0,
+    "rationale": "Se elimina la oración I por impertinencia. El tema gira entorno a lo que el argumento es y no sobre si es más o menos efectivo en relación a la retórica olas falacias."
+  },
+  {
+    "type": "sentence_elimination",
+    "statement": "I) Brad Dourif, actor de cine, es conocido por haber puesto su voz al personaje Chucky de la película de terror llamada El muñeco diabólico . II) Robert Englund es un actor que obtuvo reconocimiento por haber interpretado el papel de Freddy Krueger en la película de terror llamada Pesadilla en Elm Street . III) William Henry Platt, conocido como Boris Karloff, es un actor que alcanzó fama por haber representado a Frankestein en diversas películas de terror como La novia de Frankestein o El hijo de Frankestein . IV) Tyler Man, nacido con el nombre de Daryl Karolat, es un actor que alcanzó renombre por haber actuado como Michael Myers en la película de terror titulada Halloween . V) Derek Mears es un actor de cine conocido por haber personificado a Jason Voorhees en la película de terror llamada Viernes 13 .",
+    "alternatives": [
+      "A) I",
+      "B) IV",
+      "C) III",
+      "D) V",
+      "E) II"
+    ],
+    "correct": 4,
+    "rationale": "Se elimina la oración I según el criterio de impertinencia, puesto que no refiere a un actor."
+  },
+  {
+    "type": "sentence_elimination",
+    "statement": "4. I) Brad Dourif, actor de cine, es conocido por haber puesto su voz al personaje Chucky de la película de terror llamada El muñeco diabólico . II) Robert Englund es un actor que obtuvo reconocimiento por haber interpretado el papel de Freddy Krueger en la película de terror llamada Pesadilla en Elm Street . III) William Henry Platt, conocido como Boris Karloff, es un actor que alcanzó fama por haber representado a Frankestein en diversas películas de terror como La novia de Frankestein o El hijo de Frankestein . IV) Tyler Man, nacido con el nombre de Daryl Karolat, es un actor que alcanzó renombre por haber actuado como Michael Myers en la película de terror titulada Halloween . V) Derek Mears es un actor de cine conocido por haber personificado a Jason Voorhees en la película de terror llamada Viernes 13.",
+    "alternatives": [
+      "A) I",
+      "B) IV",
+      "C) III",
+      "D) V",
+      "E) II"
+    ],
+    "correct": 4,
+    "rationale": "Se elimina la oración I según el criterio de impertinencia, puesto que no refiere a un actor."
+  },
+  {
+    "type": "sentence_elimination",
+    "statement": "5. I) El 30 de octubre de 1974 se disputó una de las peleas más memorables de la historia del boxeo entre los pesos pesados Mohamed Alí y George Foreman. II) Con la asistencia de cerca de sesenta mil personas en el estadio de 20 Mai, en Kinshasa, Zaire, Rumble in the jungle fue la primera pelea por el título de los pesos pesados que se disputó en África. III) Foreman, de 25 años, era el favorito de apostadores y entendidos, pues estaba invicto después de 40 combates; el retador fue Al í, de 32 años. IV) Mohamed Ali salió airoso de la contienda tras ocho rondas, con un puñetazo de derecha con el cual mandó a la lona a su contrincante. V) Tras agotar a su rival, la oportunidad de Al í llegó en los instantes finales del octavo asalto mediante una combinación de izquierda y derecha que estalló en el rostro de Foreman, quien cayó a la lona y el árbitro contó hasta diez .",
+    "alternatives": [
+      "A) I",
+      "B) IV",
+      "C) II",
+      "D) V",
+      "E) III"
+    ],
+    "correct": 1,
+    "rationale": "Por redundancia con la V, se elimina la oración IV."
+  },
+  {
+    "type": "reading_comprehension",
+    "statement": "El cristianismo entró en el mundo como una religión revelada: fue ofrecido al mundo por Cristo como una doctrina de redención y salvación y amor, y no como un sistema abstracto y teorético; Cristo envió a sus apóstoles a predicar, no a ocupar cátedras de profesores. El cristianismo era «el camino», un camino hacia Dios que tenía que ser recorrido en la práctica, no un sistema filosófico para añadir a los sistemas y escuelas de la Antigüedad. Los apóstoles y sus sucesores se sentían llamados a convertir al mundo, no a excogitar un sistema filosófico. Además, en la medida en que su mensaje iba dirigido a judíos ,los apóstoles tenían que enfrentarse con ataques teológicos más que filosóficos y, por lo que respecta a los no judíos, no estamos informados de que, aparte del famoso sermón de san Pablo en Atenas, tuvieran que enfrentarse, ni siquiera que tuviesen trato, con filósofos griegos en el sentido académico de la palabra.\nNo obstante, cuando el cristianismo fue arraigando y creció, provocó la suspicacia y la hostilidad, no solamente de los judíos y de las autoridades políticas, sino también de intelectuales y escritores paganos. Algunos de los ataques dirigidos al cristianismo fueron debidos simplemente a ignorancia, a crédulas sospechas, a miedo de lo desconocido, a representaciones erróneas; pero también se lanzaron ataques en el plano teorético, sobre bases f ilosóficas, y esos ataques exigían respuesta. Eso significó que hubo que utilizar argumentaciones filosóficas, y no meramente teológicas. Se encuentran, pues, elementos filosóficos en los escritos de los primeros Padres y apologistas cristianos; pero sería evidentemente ocioso buscar allí un sistema filosófico, puesto que el interés de aquellos escritores era primordialmente teológico: defender la fe. Sin embargo, al llegar el cristianismo a establecerse más firmemente y a ser mejor conocido, y al llegar a ser posible que estudiosos cristianos desarrollasen su pensamiento y su formación intelectual, el elemento filosófico tendió a hacerse más claramente reconocible, en especial cuando de lo que se trataba era de enfrentarse con los ataques de filósofos pagan os profesionales.\nCopleston, F. (1971). Historia de la filosofía. Vol. 2. Barcelona: Ariel.\n\n1. ¿Cuál es la idea principal del texto?\n\nA) Una vez afirmado el cristianismo se elaboró una prolija presentación para los paganos.\nB) Pablo de Tarso realizó la primera presentación filosófica del cristianismo en Atenas.\nC) El cristianismo es una religión revelada que busca sobre todo la redención del teoréticos.\nE) Los apóstoles se vieron obligados al debate teológico, ya que se dirigían a otros judíos.\n\nSolución : El autor presenta el proceso que llevó al cristianismo a usar argumentos filosóficos, estos se elaboraron para dar respuesta a los ataques teoréticos.\nRpta.: D\n\n2. En el texto, el término PAGANO se puede sustituir por\n\nA) insensible. B) agnóstico. C) fariseo. D) monoteísta. E) hereje.\n\nSolución : Un pagano era un no cristiano, como un politeísta, un sinónimo de esta palabra es gentil o hereje.\nRpta.: E\n\n3. Si el cristianismo no se hubiera expandido y echado raíces,\n\nA) se habría probado la debilidad de las religiones reveladas.\nB) no se habrían presentado contra él los ataques filosóficos.\nC) Pablo de Tarso habría evitado viajar a lugares como Atenas.\nD) no se habría presentado como el camino hacia Dios.\nE) el judaísmo lo habría aceptado como parte de su tradición.\n\nSolución : Si el cristianismo no se hubiera expandido y afirmado, no se habrían producido primero la hostilidad del judaísmo y luego ataques que tenían bases filosóficas.\nRpta.: B\n\n4. ¿Cuál es el enunciado incompatible con el texto?\n\nA) Los ataques que recibió el cristianismo fueron exclusivamente de orden práctico.\nB) La predica de los apóstoles y sus sucesores estaba orientada a convertir al mundo.\nC) Se encuentran elementos filosóficos en los escritos de los primeros Padres y apologistas cristianos.\nD) El crecimiento del cristianismo provocó las suspicacias de los judíos y de los escritores paganos.\nE) El cristianismo en sus inicios fue una doctrina carente de una fundamentación teórica.\n\nSolución : Los ataques contra el cristianismo no fueron solo teológicos o filosóficos.\n\nRpta.: A\n\n5. Se infiere de lo escrito en el primer párrafo que el cristianismo\n\nA) se presentó como una religión pagana.\nB) predicaba la salvación a través de la guerra.\nC) era predicado a través de un lenguaje llano.\nD) tenía apóstoles que eran eximios juristas.\nE) fue fundado por los mejores filósofos.\n\nSolución : El texto indica que en un principio el cristianismo se presentó como una doctrina carente de aspectos abstractos y teoréticos y que el objetivo era la prédica, por tanto, usaba de un lenguaje llano.",
+    "questions": [
+      {
+        "statement": "¿Cuál es la idea principal del texto?",
+        "alternatives": [
+          "A) Una vez afirmado el cristianismo se elaboró una prolija presentación para los paganos.",
+          "B) Pablo de Tarso realizó la primera presentación filosófica del cristianismo en Atenas.",
+          "C) El cristianismo es una religión revelada que busca sobre todo la redención del teoréticos.",
+          "E) Los apóstoles se vieron obligados al debate teológico, ya que se dirigían a otros judíos."
+        ],
+        "correct": 3,
+        "rationale": "El autor presenta el proceso que llevó al cristianismo a usar argumentos filosóficos, estos se elaboraron para dar respuesta a los ataques teoréticos."
+      },
+      {
+        "statement": "En el texto, el término PAGANO se puede sustituir por",
+        "alternatives": [
+          "A) insensible.",
+          "B) agnóstico.",
+          "C) fariseo.",
+          "D) monoteísta.",
+          "E) hereje."
+        ],
+        "correct": 4,
+        "rationale": "Un pagano era un no cristiano, como un politeísta, un sinónimo de esta palabra es gentil o hereje."
+      },
+      {
+        "statement": "Si el cristianismo no se hubiera expandido y echado raíces,",
+        "alternatives": [
+          "A) se habría probado la debilidad de las religiones reveladas.",
+          "B) no se habrían presentado contra él los ataques filosóficos.",
+          "C) Pablo de Tarso habría evitado viajar a lugares como Atenas.",
+          "D) no se habría presentado como el camino hacia Dios.",
+          "E) el judaísmo lo habría aceptado como parte de su tradición."
+        ],
+        "correct": 1,
+        "rationale": "Si el cristianismo no se hubiera expandido y afirmado, no se habrían producido primero la hostilidad del judaísmo y luego ataques que tenían bases filosóficas."
+      },
+      {
+        "statement": "¿Cuál es el enunciado incompatible con el texto?",
+        "alternatives": [
+          "A) Los ataques que recibió el cristianismo fueron exclusivamente de orden práctico.",
+          "B) La predica de los apóstoles y sus sucesores estaba orientada a convertir al mundo.",
+          "C) Se encuentran elementos filosóficos en los escritos de los primeros Padres y apologistas cristianos.",
+          "D) El crecimiento del cristianismo provocó las suspicacias de los judíos y de los escritores paganos.",
+          "E) El cristianismo en sus inicios fue una doctrina carente de una fundamentación teórica."
+        ],
+        "correct": 0,
+        "rationale": "Los ataques contra el cristianismo no fueron solo teológicos o filosóficos."
+      },
+      {
+        "statement": "Se infiere de lo escrito en el primer párrafo que el cristianismo",
+        "alternatives": [
+          "A) se presentó como una religión pagana.",
+          "B) predicaba la salvación a través de la guerra.",
+          "C) era predicado a través de un lenguaje llano.",
+          "D) tenía apóstoles que eran eximios juristas.",
+          "E) fue fundado por los mejores filósofos."
+        ],
+        "correct": 3,
+        "rationale": "El texto indica que en un principio el cristianismo se presentó como una doctrina carente de aspectos abstractos y teoréticos y que el objetivo era la prédica, por tanto, usaba de un lenguaje llano."
+      }
+    ]
+  },
+  {
+    "type": "reading_comprehension",
+    "statement": "Es un elemento cotidiano que aprendimos a utilizar (unos con más maña que otros) y que se ha convertido en parte de nuestra actividad diaria. Apenas reparamos en él, pero el teclado QWERTY lleva más de un siglo con nosotros: pasó de las máquinas de escribir a los ordenadores y de ahí a los smartphones sin sufrir apenas modificaciones. La disposición de las letras en este teclado parece una decisión caprichosa o, al menos, aleatoria. Llama la atención, por ejemplo, que algunas de las letras más utilizadas en el español, como la A, la S ola D, estén al alcance de la mano izquierda cuando la mayoría de la población es diestra. Entonces, la pregunta que nos asalta es ¿de dónde ha salido este diseño? «El teclado QWERTY nació a finales del siglo XIX y su distribución final fue una evolución fruto de varios objetivos. El primero de ellos era crear un sistema de tecleado que utilizase las dos manos de forma equilibrada», cuenta Xavier Molero, profesor de la Universidad Politécnica de Valencia y responsable del Museo de Informática que acoge la propia universidad. Antes de su desarrollo por parte del editor de periódicos e inventor, Christopher Latham Sholes, lo habitual era que las teclas estuviesen situadas en orden alfabético, sin tener en cuenta la frecuencia de uso de cada letra. Sholes estudió ese factor y dispuso el teclado con él en mente, para que la mano derecha y la izquierda interviniesen más o menos alternativamente. Además de equilibrar el uso de ambas manos, había detrás otra intención, relacionada con la tecnología. «Hay que tener en cuenta que lo que se utilizaba entonces eran máquinas de escribir, que funcionaban con un sistema mecánico: al pulsar una tecla, se elevaba el tipo metálico correspondiente, que apretaba la cinta tintada contra el papel y dejaba la letra impresa», explica Molero. Si se pulsaban rápidamente varias teclas próximas se atascaban los tipos, parando y entorreciendo el trabajo. «Colocando así las teclas se intentaba conseguir un ritmo de tecleado algo más lento pero más constante». El modelo triunfó porque en definitiva hacía la escritura más ágil, y tras varios años de desarrollo, se implementó con éxito en el mercado de las máquinas de escribir y de ahí pasó a los ordenadores sin muchas variaciones. «La gente aprendía con él y una vez acostumbrados es muy difícil cambiar\".\n\nBenavente, R. (2013). ¿Por qué escribimos como lo hacemos? La historia tras el teclado QWERTY. El Confidencial . Recuperado el 20 de marzo de 2015, de El Confidencial: http://www.elconfidencial.com/tecnologia/2013 -12-08/por -que-escribimos -como -lo-hacemos -la-historia -tras-el-teclado-qwerty_62926/",
+    "questions": [
+      {
+        "statement": "1. El sentido contextual de DISPUSO es",
+        "alternatives": [
+          "A) cubrió.",
+          "B) incrustó.",
+          "C) deshizo.",
+          "D) adecuó.",
+          "E) conservó."
+        ],
+        "correct": 3,
+        "rationale": "Según el texto, Sholes acondicionó el antiguo teclado en orden alfabético en función al uso habitual de las teclas."
+      },
+      {
+        "statement": "2. El texto desarrolla principalmente el tema del",
+        "alternatives": [
+          "A) surgimiento de los teclados de PC.",
+          "B) origen del teclado QWERTY.",
+          "C) aprendizaje del orden QWERTY.",
+          "D) deterioro del teclado QWERTY.",
+          "E) orden alfabético en el QWERTY."
+        ],
+        "correct": 1,
+        "rationale": "El texto tiene como tema central al teclado QWERTY, específicamente, desarrolla su origen: de las máquinas de escribir a los ordenadores y smartphones ."
+      },
+      {
+        "statement": "3. Se infiere del texto que la intención de ralentizar el ritmo de tecleado con el QWERTY",
+        "alternatives": [
+          "A) convirtió el proceso de escribir en una tarea bastante tediosa.",
+          "B) fue una solución inapropiada por el ritmo que tenemos al escribir.",
+          "C) se hizo cierto porque escribimos lentamente en los ordenadores.",
+          "D) fue definitivamente la peor solución que pudo proponer Sholes.",
+          "E) fue refutada porque la escritura se hizo ágil cuando se aprendía."
+        ],
+        "correct": 4,
+        "rationale": "Uno de los primeros objetivos de disponer el teclado en un orden no alfabético era que la escritura se tornara lenta, pero constante; mas la experiencia rebatió esa primera intención, pues la escritura se hizo ágil una vez que los usuarios aprendían la disposición del teclado."
+      },
+      {
+        "statement": "4. Se infiere del texto que la intención de ralentizar el ritmo de tecleado con el QWERTY",
+        "alternatives": [
+          "A) convirtió el proceso de escribir en una tarea bastante tediosa.",
+          "B) fue una solución inapropiada por el ritmo que tenemos al escribir.",
+          "C) se hizo cierto porque escribimos lentamente en los ordenadores.",
+          "D) fue definitivamente la peor solución que pudo proponer Sholes.",
+          "E) fue refutada porque la escritura se hizo ágil cuando se aprendía."
+        ],
+        "correct": 4,
+        "rationale": "Uno de los primeros objetivos de disponer el teclado en un orden no alfabético era que la escritura se tornara lenta, pero constante; mas la experiencia rebatió esa primera intención, pues la escritura se hizo ágil una vez que los usuarios aprendían la disposición del teclado."
+      },
+      {
+        "statement": "5. Si los ordenadores tuvieran el teclado en orden alfabético, probablemente la escritura",
+        "alternatives": [
+          "A) dejaría de presentar definitivamente errores en su producción.",
+          "B) utilizaría solo una mano porque sería un orden muy conocido.",
+          "C) se vería entorpecida por los constantes errores tipográficos.",
+          "D) sería ágil y constante una vez aprendido el orden las teclas.",
+          "E) se popularizaría y masificaría porque todos podrían practicarla."
+        ],
+        "correct": 3,
+        "rationale": "El problema con los teclados alfabéticos se daba en las máquinas de escribir las pulsaciones levantaban tipos metálicos; en cambio, los ordenadores no tienen ese inconveniente"
+      }
+    ]
+  },
+  {
+    "type": "sentence_elimination",
+    "statement": "5. Si los ordenadores tuvieran el teclado en orden alfabético, probablemente la escritura",
+    "alternatives": [
+      "A) dejaría de presentar definitivamente errores en su producción.",
+      "B) utilizaría solo una mano porque sería un orden muy conocido.",
+      "C) se vería entorpecida por los constantes errores tipográficos.",
+      "D) sería ágil y constante una vez aprendido el orden las teclas.",
+      "E) se popularizaría y masificaría porque todos podrían practicarla."
+    ],
+    "correct": 3,
+    "rationale": "La explicación señala que el problema con los teclados alfabéticos se daba en las máquinas de escribir; en cambio, los ordenadores no tienen ese inconveniente."
+  },
+  {
+    "type": "reading_comprehension",
+    "statement": "Nadie tendrá fácilmente por verdadera una doctrina tan solo porque esta haga felices o haga virtuosos a los hombres: exceptuados, acaso, los queridos idealistas que se entusiasman con lo bueno, lo verdadero, lo bello, y que hacen nadar mezcladas en su estanque todas las diversas especies de multicolores, burdas y bonachonas idealidades. La felicidad y la virtud no son argumentos. Pero a la gente, también a los espíritus reflexivos, le gusta olvidar que el hecho de que algo haga infelices y haga malvados a los hombres no es tampoco un argumento en contra. Algo podría ser verdadero: aunque resultase perjudicial y peligroso en grado sumo; más aún, podría incluso ocurrir que el que nosotros perezcamos a causa de nuestro conocimiento total formase parte de la con stitución básica de la existencia, de tal modo que la fortaleza de un espíritu se mediría justamente por la cantidad de verdad que soportase o, dicho con más claridad, por el grado en que necesitase que la verdad quedase diluida, encubierta y edulcorada . Pero no cabe ninguna duda de que, para descubrir ciertas partes de la verdad, los malvados y los infelices están mejor dotados y tienen mayor probabilidad de obtener éxito; para no hablar de los malvados que proporcionen condiciones más favorables que aquella bonachonería suave, fina, complaciente, y aquel arte de tomar todo a la ligera, cosas ambas que la gente aprecia en un docto. Presuponiendo, y esto es algo previo, que no se restrinja el concepto de «filósofo» al filósofo que escribe libros, ¡o que incluso lleva su filosofía a los libros! A la imagen del filósofo de espíritu libre Stendhal agrega un último rasgo que yo no quiero dejar de subrayar en razón del gusto alemán, pues ese rasgo va contra el gusto alemán: Para ser un buen filósofo, dice este último psicólogo grande, hace falta ser seco, claro, sin ilusiones. Un banquero que haya hecho fortuna posee una parte del carácter requerido para hacer descubrimientos en filosofía, es decir, para ver claro en lo que es.\n\nNietzsche, F. (2012) [1886] Más allá del bien y del mal . Madrid: Alianza.",
+    "questions": [
+      {
+        "statement": "Medularmente, el autor intenta dilucidar cómo",
+        "alternatives": [
+          "A) librarse de la bonachonería.",
+          "B) injuriar a los filósofos idealistas.",
+          "C) descubrir una teoría verdadera.",
+          "D) emplear la fortaleza en el filosofar.",
+          "E) publicar un buen libro de filosofía."
+        ],
+        "correct": 2,
+        "rationale": "La explicación señala que Nietzsche intenta mostrar cómo descubrir verdades a través de la filosofía, y denuncia la manera errónea de asumir una doctrina verdadera como bella, buena o beneficiosa."
+      },
+      {
+        "statement": "El término EDULCORADA alude a una verdad",
+        "alternatives": [
+          "A) amortiguada.",
+          "B) esquiva.",
+          "C) negada.",
+          "D) enrarecida.",
+          "E) soslayada."
+        ],
+        "correct": 0,
+        "rationale": "Nietzsche señala la posibilidad de necesitar que la verdad quedase diluida, encubierta, edulcorada, es decir, mitigar su dureza."
+      },
+      {
+        "statement": "Resulta incoherente respecto a la postura nietzscheana afirmar que",
+        "alternatives": [
+          "A) los idealistas confunden belleza y verdad.",
+          "B) soportamos la verdad en cierto grado.",
+          "C) toda verdad es siempre beneficiosa.",
+          "D) un buen filósofo requiere ser astuto.",
+          "E) existen personas malvadas pero felices."
+        ],
+        "correct": 2,
+        "rationale": "Algo podría ser verdadero: aunque resultase perjudicial y peligroso en grado sumo."
+      }
+    ]
+  }
+]

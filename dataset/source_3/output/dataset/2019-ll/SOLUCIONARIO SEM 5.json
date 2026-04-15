@@ -1,0 +1,455 @@
+[
+  {
+    "type": "reading_comprehension",
+    "statement": "Intentemos imaginar, siguiendo las indicaciones de Jakob Johann von Uexküll, uno de los máximos zoólogos del siglo XX, una garrapata suspendida de su matorral en un bonito día de verano, inmersa en la luz del sol y rodeada por todas partes de los colores y los perfumes de las flores de campo, del zumbido de las abejas y otros insectos, del canto de los pájaros. Pero, llegados aquí, el idilio ya ha terminado, porque de todo esto la garrapata no percibe absolutamente nada.\n\nUexküll indica que este animal está privado de ojos y solo encuentra su lugar de acecho gracias a la sensibilidad de su piel a la luz. Este bandido es completamente ciego y sordo, y percibe solamente que su presa se acerca por el olfato. El olor del ácido butírico, que emana de los folículos sebáceos de todos los mamíferos, actúa sobre él como una señal que lo empuja a abandonar su sitio y a dejarse caer a ciegas en dirección de la presa. Si la buena suerte lo hace caer sobre algo que emana calor (cosa que percibe gracias a un órgano sensible a una determinada temperatura), eso significa que ha alcanzado su objetivo, el animal de sangre caliente, y entonces ya no necesita más que de su sentido del tacto para encontrar un sitio lo más falto de pelos posible y hundirse hasta la cabeza en el tejido cutáneo del animal. Ahora sí puede sorber lentamente un borbotón de sangre caliente.\n\nSería lícito esperar, llegados a este punto, que la garrapata ame el gusto de la sangre, o que posea al menos un sentido para percibir su sabor. Pero no es así. Uexküll nos informa que los experimentos realizados en laboratorio con membranas artificiales llenas de líquidos de diversos tipos enseñan que la garrapata está absolutamente desprovista del sentido del gusto: ella absorbe ávidamente cualquier líquido que tenga la temperatura justa, es decir, los treinta y siete grados correspondientes a la temperatura de la sangre de los mamíferos. Como quiera que sea, el banquete de sangre de la garrapata también es su festín fúnebre, porque no le queda ahora nada más que hacer, excepto dejarse caer al suelo, desovar y morir.\n\nEl ejemplo de la garrapata muestra con claridad la estructura general del ambiente propio de todos los animales (Umwelt), que no coincide con la de los humanos. En este caso particular, la Umwelt se reduce a tres portadores de significado: 1) el olor del ácido butírico contenido en el sudor de todos los mamíferos; 2) la temperatura de treinta y siete grados que corresponde a la de la sangre de estos animales; 3) la tipología de la piel propia de los mamíferos, generalmente provista de pelos e irrigada por vasos sanguíneos. Pero ella está inmediatamente unida a estos tres elementos en una relación tan intensa y apasionada como quizá nunca nos es dado encontrar en las relaciones que ligan al hombre con su mundo, en apariencia mucho más rico. La garrapata es esta relación y no vive más que en ella y por ella.\n\nAgamben, G. (2006). Lo abierto. El hombre y el animal. Buenos Aires: Adriana Hidalgo editora, 88-90.\n\n[Adaptado].",
+    "questions": [
+      {
+        "statement": "Sobre la base del ejemplo de la garrapata, se postula medularmente en el texto que",
+        "alternatives": [
+          "A) es viable definir la existencia de una realidad única para los animales.",
+          "B) los seres vivos hallan en sus sentidos la clave cardinal de sus hábitos.",
+          "C) cada animal posee una relación específica y singular con su entorno.",
+          "D) los animales fijan su entorno a partir de tres portadores de significado."
+        ],
+        "correct": 2,
+        "rationale": "En la parte final del texto, se sostiene que los animales definen su ambiente propio según sus portadores de significado. Por ende, cada uno de ellos posee una relación específica y singular con su ambiente, producto de los portadores que rijan su percepción."
+      },
+      {
+        "statement": "El término BORBOTÓN connota",
+        "alternatives": [
+          "A) continuidad.",
+          "B) plétora.",
+          "C) violencia.",
+          "D) causalidad."
+        ],
+        "correct": 1,
+        "rationale": "Se trata de un término que se asocia con una buena cantidad."
+      },
+      {
+        "statement": "A partir del ejemplo de la garrapata, se infiere plausiblemente que",
+        "alternatives": [
+          "A) el nexo entre el animal y su entorno exige un estudio para cada caso específico.",
+          "B) la noción de Umwelt aplica únicamente para la intelección de pequeños insectos.",
+          "C) el gusto de esta alimaña por la sangre de los mamíferos tiende a incrementarse.",
+          "D) la emanación de ácido butírico se erige como un portador de sentido ecuménico."
+        ],
+        "correct": 0,
+        "rationale": "En la última parte, se sostiene que el ambiente animal se define por la cantidad y los tipos de marcadores de significado, que varían en cada caso. Por ello, el estudio de la relación entre el animal y su entorno tendría que partir por reconocer esta singularidad."
+      },
+      {
+        "statement": "No se condice con el texto sostener que, para Uexküll, es necesario asumir la existencia de una realidad invariable para todos los seres vivos, ya que",
+        "alternatives": [
+          "A) su teoría tiene como meta esclarecer únicamente la intelección de los mamíferos.",
+          "B) la temperatura de la sangre se mantiene estable en todas las especies existentes.",
+          "C) sus distintos tipos de portadores de significado definen el ambiente que perciben.",
+          "D) el banquete de sangre de la garrapata también es el presagio del final de su vida."
+        ],
+        "correct": 2,
+        "rationale": "La teoría expuesta en el texto sostiene que el «ambiente» de cada animal está definido por sus específicos portadores de significado. Por ende, para Uexküll, resulta insostenible postular «una realidad invariable para todos los seres vivos»."
+      },
+      {
+        "statement": "Si la garrapata poseyera un cuarto portador de significado que le permitiera desplazarse hacia direcciones específicas,",
+        "alternatives": [
+          "A) la temperatura de la sangre animal ya no determinaría su nutrición.",
+          "B) su estructura corporal adquiriría un contorno más claro y resistente.",
+          "C) alcanzar a su presa ya no supondría poner en riesgo su integridad.",
+          "D) la estructura de su ambiente propio sería aneja a la de los pájaros."
+        ],
+        "correct": 2,
+        "rationale": "En el texto, se indica que la garrapata se deja «caer a ciegas en dirección de la presa», lo cual deja entrever que cabe la posibilidad de que yerre en su intento y, por ende, acabe con su existencia."
+      },
+      {
+        "statement": "Respecto a la descripción de la garrapata ofrecida en el texto, es compatible afirmar que",
+        "alternatives": [
+          "A) es capaz de conectarse de modo estético, aunque mínimamente, con su entorno.",
+          "B) la sordera que lo distingue es producida por su hipersensibilidad al ácido butírico.",
+          "C) su sensibilidad olfativa adquiere una dimensión sutil para identificar tejido capilar.",
+          "D) puede establecerse una relación determinante entre su tiempo de vida y su dieta."
+        ],
+        "correct": 3,
+        "rationale": "Se indica, en el texto, que «el banquete de sangre de la garrapata también es su festín fúnebre». Esta expresión sugiere, al consumir sangre, el tiempo de vida de la garrapata se reduce drásticamente."
+      }
+    ]
+  },
+  {
+    "type": "sentence_elimination",
+    "statement": "Respecto a la descripción de la garrapata ofrecida en el texto, es compatible afirmar que",
+    "alternatives": [
+      "A) es capaz de conectarse de modo estético, aunque mínimamente, con su entorno.",
+      "B) la sordera que lo distingue es producida por su hipersensibilidad al ácido butírico.",
+      "C) su sensibilidad olfativa adquiere una dimensión sutil para identificar tejido capilar.",
+      "D) puede establecerse una relación determinante entre su tiempo de vida y su dieta."
+    ],
+    "correct": 3,
+    "rationale": "Se indica, en el texto, que «el banquete de sangre de la garrapata también es su festín fúnebre». Esta expresión sugiere, al consumir sangre, el tiempo de vida de la garrapata se reduce drásticamente."
+  },
+  {
+    "type": "sentence_elimination",
+    "statement": "Respecto a la práctica científica de Uexküll, se infiere que",
+    "alternatives": [
+      "A) aprovechó la evidencia empírica además de la observación de la naturaleza.",
+      "B) se decantó por el trabajo realizado en laboratorios para examinar garrapatas.",
+      "C) puso en duda la capacidad de percepción de los animales de tamaño menor.",
+      "D) se orientó hacia el estudio sesudo de animales faltos de vertebras y espinas."
+    ],
+    "correct": 0,
+    "rationale": "La descripción de la garrapata realizada por Uexküll parte de una observación minuciosa de sus características. Asimismo, se indica en el texto que el estudio considera en su análisis «los experimentos realizados en laboratorio»"
+  },
+  {
+    "type": "sentence_elimination",
+    "statement": "Si alguien sostuviera, con fundamentos sólidos, que la noción de «portador de significado» carece de pertinencia científica,",
+    "alternatives": [
+      "A) sería factible refrendar la consistencia del concepto de Umwelt en la época actual.",
+      "B) la tesis de la existencia de un ambiente propio de los animales sería insostenible.",
+      "C) los trabajos en laboratorio dejarían de ser oportunos para la investigación animal.",
+      "D) Uexküll se vería obligado a reconocer su derrota ante la zoología contemporánea."
+    ],
+    "correct": 1,
+    "rationale": "Según informa el texto, son los portadores de significado los que definen el ambiente propio de los animales. Sin la posibilidad de definir la primera, la tesis de Uexküll sería cuestionable."
+  },
+  {
+    "type": "reading_comprehension",
+    "statement": "Mike May perdió la vista a los tres años y medio. Una explosión química le dejó las córneas llenas de cicatrices, por lo que sus ojos no tenían acceso a los fotones. Pese a su ceguera, se convirtió en un próspero hombre de negocios y también en el mejor esquiador de velocidad ciego del mundo, capaz de surcar las laderas gracias a unos marcadores de sonido. Tras cuarenta años de ceguera, Mike oyó hablar de un tratamiento pionero con células madre que podía reparar el deterioro físico de los ojos. Decidió someterse a la operación; después de todo, la ceguera no era más que el resultado de sus córneas dañadas, y la solución era sencilla.\n\nPero ocurrió algo inesperado. Unas cámaras de televisión grabaron el momento en que le quitaron los vendajes. Mike describe lo que experimentó cuando el médico le retiró la gasa: «Mis ojos se ven sometidos a un estallido de luz y a un bombardeo de imágenes. De repente se enciende esa avalancha de información visual. Es abrumador». Las nuevas córneas de Mike recibían y enfocaban la luz de manera perfecta, pero su cerebro era incapaz de interpretar la información que recibía. Con aquellas nuevas cámaras en marcha, Mike miró a sus hijos y les sonrió. Pero por dentro estaba petrificado, porque era incapaz de explicar qué aspecto tenían ni de distinguirlos. «Era totalmente incapaz de reconocer una cara», recuerda.\n\nEn términos quirúrgicos, el trasplante había sido un éxito rotundo. Pero desde el punto de vista de Mike, lo que experimentaba no se podía denominar visión. Tal como lo resumió: «Mi cerebro exclamaba “Dios mío, qué es esto”».\n\nCon la ayuda de los médicos y de su familia, salió de la sala de reconocimiento y recorrió el pasillo, mientras dirigía su mirada a la alfombra, los cuadros de la pared y las puertas. Todo aquello no tenía sentido para él. Cuando lo sentaron en el coche para volver a casa, Mike recorrió con la mirada los coches, los edificios, la gente que pasaba zumbando, intentando comprender sin éxito lo que veía. En la autovía, se arredró cuando tuvo la impresión de que iban a chocar contra un gran rectángulo que tenían delante.\n\nI\nResultó ser un cartel indicador, y simplemente pasaron por debajo. No conseguía comprender qué eran los objetos ni su profundidad. De hecho, después de la operación, Mike descubrió que le era más fácil esquiar cuando estaba ciego. Como le costaba tanto percibir la profundidad, apenas distinguía a las personas de los árboles, las sombras o los agujeros. Simplemente, le parecían cosas oscuras que se recortaban contra la nieve blanca.\n\nLa lección que obtenemos de la experiencia de Mike es que el sistema visual no es como una cámara. Ver no es simplemente quitar la tapa de la lente. Para ver, hace falta algo más que unos ojos que funcionen. En el caso de Mike, cuarenta años de ceguera significaban que el territorio de su sistema visual (loque denominamos la corteza visual) había sido ocupado en gran parte por los sentidos que le quedaban, como el oído y el tacto. Aquello influyó en la capacidad de su cerebro a la hora de entrelazar todas las señales que necesitaba para poder ver. La neurociencia ha establecido que la visión surge de la coordinación de miles de millones de neuronas que funcionan al unísono en una sinfonía compleja y particular.\n\nEagleman, D. (2017). El cerebro. Barcelona: Editorial Anagrama; pp. 55-58.",
+    "questions": [
+      {
+        "statement": "El sentido contextual de PIONERO tiene que ver con la noción de",
+        "alternatives": [
+          "A) origen.",
+          "B) corroboración.",
+          "C) tradición.",
+          "D) exploración."
+        ],
+        "correct": 3,
+        "rationale": "Un trabajo pionero tiene que ver con la idea de explorar, iniciar una búsqueda de algo más sólido."
+      },
+      {
+        "statement": "Se relata el caso de Mike May con el fin primordial de establecer que",
+        "alternatives": [
+          "A) los ojos suelen tener un pobre desempeño experiencial.",
+          "B) la destreza visual no depende tan solo del sistema visual.",
+          "C) la unión familiar necesita de lazos sentimentales fuertes.",
+          "D) cuando las córneas están dañadas, la visión es imposible."
+        ],
+        "correct": 1,
+        "rationale": "Gracias al caso de Mike May, de la restauración de las córneas, se logra determinar que la destreza visual se sustenta en una larga experiencia, y no solo se apoya en el sistema visual."
+      }
+    ]
+  },
+  {
+    "type": "reading_comprehension",
+    "statement": "I. Debido a su extrema incapacidad visual, a Mike May le fue muy difícil formar una familia. \nII. Luego de la exitosa operación, Mike May experimentó un deterioro en la práctica de esquí. \nIII. Con las nuevas córneas, el sistema visual de Mike May logró tener acceso a los fotones.",
+    "questions": [
+      {
+        "statement": "¿Cuál o cuáles de los siguientes enunciados son incompatibles con el desarrollo textual?",
+        "alternatives": [
+          "A) I, II y III",
+          "B) I y III",
+          "C) Solo I",
+          "D) Solo II"
+        ],
+        "correct": 2,
+        "rationale": "En realidad, Mike May sí logró formar una verdadera familia, y tuvo un gran éxito a pesar de sus problemas con la visión."
+      },
+      {
+        "statement": "¿Cuál es la mejor síntesis del texto?",
+        "alternatives": [
+          "A) En términos quirúrgicos, Mike May logró un éxito rotundo en la operación de sus córneas, pero, desde su enfoque, lo que experimentaba no se podía denominar visión.",
+          "B) Las nuevas córneas de Mike recibían y enfocaban la luz de manera casi perfecta, pero su cerebro era incapaz de interpretar el caudal de información que recibía.",
+          "C) La moderna neurociencia ha establecido que la visión surge de la coordinación de miles de millones de neuronas, las mismas que funcionan al unísono en una sinfonía.",
+          "D) Luego de una exitosa operación en las córneas basada en células madre, Mike May recuperó su visión, pero tenía serios problemas en el reconocimiento visual."
+        ],
+        "correct": 3,
+        "rationale": "Para tener una buena síntesis hay que partir de la idea principal, pero hay que agregar información medular insoslayable. Por ello, se debe señalar la recuperación de la visión y poner de relieve los problemas que experimentó Mike."
+      },
+      {
+        "statement": "Se infiere del texto que, al perder la vista a los 42 meses de nacido, Mike May",
+        "alternatives": [
+          "A) experimentó dificultades en el ámbito empresarial.",
+          "B) sabía que algún día recuperaría la visión íntegra.",
+          "C) deploró la imposibilidad de acceder a la lectura.",
+          "D) desarrolló superlativamente su capacidad auditiva."
+        ],
+        "correct": 3,
+        "rationale": "Al hablar de su extraordinaria capacidad en el esquí, se infiere que Mike desarrolló superlativamente sus capacidades auditivas, lo que le permitía hacer proezas que causaron mucha admiración."
+      },
+      {
+        "statement": "Si la visión humana dependiera solo del buen funcionamiento de las córneas,",
+        "alternatives": [
+          "A) Mike May no habría quedado ciego luego de la funesta explosión química en su niñez.",
+          "B) gracias a la exitosa operación en las córneas, Mike May habría recuperado la destreza visual.",
+          "C) de todos modos, habría sido imposible procesar la avalancha de informaciones visuales.",
+          "D) el deterioro visual humano empezaría indefectiblemente a la edad de los 40 años."
+        ],
+        "correct": 1,
+        "rationale": "La vista humana no depende solamente de las condiciones físicas del sistema visual, se requiere de un aprendizaje experiencial. Por ello, los problemas de Mike. Si todo dependiera solo de lo físico, con nuevas córneas hubiera bastado para la buena visión, lo que no fue el caso."
+      }
+    ]
+  },
+  {
+    "type": "reading_comprehension",
+    "statement": "Desde hace más de un siglo, se intuye el potencial de azuzar al sistema inmune contra los tumores, pero hasta la última década no se habían logrado éxitos importantes en la tarea. La situación ha cambiado. Ayer se publicó en la revista Science Translational Medicine un avance que puede abrir una nueva brecha en los sistemas defensivos del cáncer. En algunos casos, las inmunoterapias requieren una activación generalizada del sistema inmune, con los consiguientes efectos secundarios, o hacen necesario extraer células inmunitarias para modificarlas en un laboratorio y volverlas a inyectar al paciente, con lo que puede suponer en complejidad y coste. En un trabajo liderado por Ronald Levy, de la Universidad de Stanford (EEUU), un equipo de investigadores probó en ratones un nuevo enfoque.\n\nEl método consiste en introducir dentro del tumor que se quiere eliminar una pequeña cantidad (la millonésima parte de un gramo) de dos agentes que activan el sistema inmune y lo dirigen contra las masas cancerosas. Según los autores, como estos dos agentes, un trocito de ADN y un anticuerpo, se inyectan directamente en los tumores, solo activan los linfocitos que ya se habían infiltrado en ellos. El tratamiento curó de cáncer a 87 de 90 ratones a los que se había provocado tumores linfáticos en dos lugares distintos del cuerpo y no solo lo hizo en el tumor en el que habían recibido la inyección. Una vez que habían quedado programados por los agentes para destruir ese tipo de tumor, los linfocitos acabaron también con tumores de las mismas características localizados en otros órganos. Los tres ratones que no obtuvieron beneficio con un primer tratamiento, lo consiguieron con el segundo y los investigadores lograron beneficios similares con tumores de mama, colon y melanomas.\n\nI\nIdit Sagiv-Barfi, la primera autora del artículo, comprobó también el funcionamiento específico de la programación de las células del sistema inmune trasplantando tres tumores a un ratón, dos linfomas en dos lugares diferentes y un cáncer de colon en otro sitio. El tratamiento para uno de los linfomas hacía que el segundo desapareciese también, pero mantenía intacto el cáncer de colon, demostrando así la precisión del método.\n\nMediavilla, D. (02/02/2018). «Una vacuna elimina tumores y sus metástasis ocultas en ratones». El País.\n\nRecuperado de https://elpais.com/elpais/2018/02/01/ciencia/1517500344_578167.html?id_externo.",
+    "questions": [
+      {
+        "statement": "Medularmente, el texto informa sobre",
+        "alternatives": [
+          "A) un tratamiento para aniquilar el cáncer que ha sido testeado en seres humanos.",
+          "B) el proceso de elaboración de un mecanismo de modificación celular antitumoral.",
+          "C) un nuevo método de programación celular del sistema inmune contra el cáncer.",
+          "D) la producción de una técnica para combatir contra el linfoma en ciertos ratones."
+        ],
+        "correct": 2,
+        "rationale": "El texto presenta información sobre un nuevo método para combatir el cáncer que en programar las células del sistema inmune para que ataquen directamente al tumor de manera específica."
+      },
+      {
+        "statement": "El término AZUZAR implica",
+        "alternatives": [
+          "A) replantear.",
+          "B) conducir.",
+          "C) constreñir.",
+          "D) aleccionar."
+        ],
+        "correct": 1,
+        "rationale": "El término «azuzar» se emplea para indicar que uno de los procedimientos para combatir el cáncer consiste en «conducir» el ataque del sistema inmunitario contra un tumor específico."
+      }
+    ]
+  },
+  {
+    "type": "reading_comprehension",
+    "statement": "El término «azuzar» se emplea para indicar que uno de los procedimientos para\ncombatir el cáncer consiste en «conducir» el ataque del sistema inmunitario contra\nun tumor específico.\n\nLa primera autora del artículo, Idit Sagiv-Barfi, sostiene que la técnica de\nprogramación celular posee un funcionamiento específico, ya que, en las pruebas\nrealizadas, fue capaz de identificar tumores semejantes.\n\nEl equipo de Levy propone introducir en el tumor un trozo de ADN y un anticuerpo\n«que activan el sistema inmune y lo dirigen contra las masas cancerosas». Así,\npreparar la dosis e inocularla son los pasos indispensables de su tratamiento.\n\nSe menciona al inicio que «azuzar al sistema inmune contra los tumores» todavía no\nha mostrado resultados exitosos, hasta que apareció el nuevo enfoque de Levy. Si\neste también se mostrara fallido, esta estrategia resultaría improductiva.",
+    "questions": [
+      {
+        "statement": "El término AZUZAR implica",
+        "alternatives": [
+          "A) replantear.",
+          "C) constreñir.",
+          "B) conducir.",
+          "D) aleccionar."
+        ],
+        "correct": 2,
+        "rationale": "El término «azuzar» se emplea para indicar que uno de los procedimientos para\ncombatir el cáncer consiste en «conducir» el ataque del sistema inmunitario contra\nun tumor específico."
+      },
+      {
+        "statement": "Respecto a su funcionamiento es inconsistente afirmar que el método expuesto en el\ntexto es genérico, porque",
+        "alternatives": [
+          "A) los linfocitos fueron capaces de acabar con tumores de distintas características.",
+          "B) introduce dentro del tumor una pequeña cantidad de dos agentes autoinmunes.",
+          "C) fue capaz de curar a casi 90 ratones que padecían de varios tumores linfáticos.",
+          "D) ataca exclusivamente a tumores del mismo tipo según lo comprobó Sagiv-Barfi."
+        ],
+        "correct": 3,
+        "rationale": "La primera autora del artículo, Idit Sagiv-Barfi, sostiene que la técnica de\nprogramación celular posee un funcionamiento específico, ya que, en las pruebas\nrealizadas, fue capaz de identificar tumores semejantes."
+      },
+      {
+        "statement": "Se infiere que el método creado por Ronald Levy, básicamente,",
+        "alternatives": [
+          "A) consta de dos pasos: la preparación de la dosis y la inoculación intratumoral.",
+          "B) requiere la extracción de células inmunitarias para su modificación molecular.",
+          "C) curó de cáncer a 87 ratones con tumores linfáticos en dos lugares diferentes.",
+          "D) solo alcanza una eficacia absoluta a partir de la aplicación de la última dosis."
+        ],
+        "correct": 0,
+        "rationale": "El equipo de Levy propone introducir en el tumor un trozo de ADN y un anticuerpo\n«que activan el sistema inmune y lo dirigen contra las masas cancerosas». Así,\npreparar la dosis e inocularla son los pasos indispensables de su tratamiento."
+      },
+      {
+        "statement": "Si el nuevo enfoque propuesto por el equipo liderado por Levy solo hubiera\nfuncionado como un placebo,",
+        "alternatives": [
+          "A) su metodología se impondría como la más efectiva en los centros de salud.",
+          "B) el grado de eliminación tumoral dependería de la alimentación del paciente.",
+          "C) estimular el sistema inmune contra el cáncer todavía sería una idea estéril.",
+          "D) este procedimiento demandaría una activación general del sistema inmune."
+        ],
+        "correct": 2,
+        "rationale": "Se menciona al inicio que «azuzar al sistema inmune contra los tumores» todavía no\nha mostrado resultados exitosos, hasta que apareció el nuevo enfoque de Levy. Si\neste también se mostrara fallido, esta estrategia resultaría improductiva."
+      }
+    ]
+  },
+  {
+    "type": "reading_comprehension",
+    "statement": "Ante el alud de violencia de género multicausal, el clamor social parece unirse entorno a\nla exigencia de una misma respuesta: proceso penal y cárcel para los perpetradores. Pero\nquienes impulsan el uso del derecho penal como remedio poco se detienen a reflexionar\nen cómo funciona en la realidad ese instrumento jurídico y social. Hoy México tiene un\nsistema judicial y penal burdamente selectivo que sirve principalmente para procesar y\nencarcelar a personas con perfiles muy específicos: hombres y mujeres jóvenes, pobres,\ncon escasa educación, provenientes de lugares marginados y, me atrevo a decir, sin\nestadística en las manos, de tez oscura. Las mujeres encarceladas, además, suelen ser\nmadres y, por lo menos en el sistema federal, sancionadas con muchos años de prisión\npor delitos no violentos de drogas. No es un sistema que castigue a culpables, sino uno\nque sanciona principalmente a pobres y a incómodos sociales, a los jóvenes que hoy\ntampoco encuentran cabida en el proyecto nacional.\n\nEl sistema penal es, además, elitista en la elección de sus causas, una herramienta\nque deja enormes márgenes de arbitrariedad en las manos de los funcionarios públicos\nque la usan, las más de las veces, para su propio beneficio. Para las mujeres, como para\notros grupos vulnerables, es lento, torpe e ineficaz. Entre más pobre la mujer, más lento e\nineficiente es el sistema. Cuando una mujer quiere denunciar un delito de violencia en su\ncontra suele ser rechazada o se minimiza la importancia de su causa. Quizá por ello o por\ntemor a represalias, la enorme mayoría de mujeres violentadas optan por no usarlo. La\nEncuesta Nacional sobre la Dinámica de las Relaciones en los Hogares (ENDIREH,\n\nI\n2011), por ejemplo, señala que del total de mujeres casadas o unidas que fueron\nviolentadas por su pareja solo 9% pidió ayuda o denunció el hecho.\n\nPérez, C. (01 de junio de 2016). «La cadena de Jabba: La falacia punitiva». Nexos. Recuperado de\n\nhttps://www.nexos.com.mx/?p=28488.",
+    "questions": [
+      {
+        "statement": "Marque la alternativa que consigne la mejor síntesis del texto.",
+        "alternatives": [
+          "A) La justifica en México no es impartida apropiadamente, debido a que la\ninstitución que vela por su cumplimiento sanciona, sobre todo, a pobres y a\nincómodos sociales y, a veces, es elitista en la elección de sus causas.",
+          "B) El sistema judicial mexicano sanciona según un criterio selectivo y, para elegir\nsus causas, sigue una pauta elitista, lo que impide que pueda ser considerado\nun instrumento para combatir la violencia de género.",
+          "C) Los crímenes de violencia de género no son castigados debidamente, a raíz de\nque el sistema de justicia mexicano es lento, torpe e ineficaz para atender con\nceleridad las denuncias de las mujeres agredidas.",
+          "D) La violencia de género multicausal no ha llegado a ser escuchada en los recintos\ndel sistema de justicia en México, debido a que predominan en ellos una\nevidente selectividad de las víctimas que inician los procesos."
+        ],
+        "correct": 1,
+        "rationale": "El texto expone por qué razones (su selectividad de los sancionados y su elitismo en\nla elección de las causas) la apertura de procesos judiciales no constituye una\nalternativa viable para combatir la violencia de género multicausal en México."
+      },
+      {
+        "statement": "El término INCÓMODO connota",
+        "alternatives": [
+          "A) segregación.",
+          "C) ingenuidad.",
+          "B) malestar.",
+          "D) indolencia."
+        ],
+        "correct": 0,
+        "rationale": "Los «incómodos» sociales son aquellas personas que difícilmente pueden integrarse\na la sociedad mexicana. Por ello, puede decirse que se encuentran marginados o\nsegregados."
+      }
+    ]
+  },
+  {
+    "type": "sentence_elimination",
+    "statement": "2. El término INCÓMODO connota",
+    "alternatives": [
+      "A) segregación.",
+      "C) ingenuidad.",
+      "B) malestar.",
+      "D) indolencia."
+    ],
+    "correct": 0,
+    "rationale": "Los «incómodos» sociales son aquellas personas que difícilmente pueden integrarse a la sociedad mexicana. Por ello, puede decirse que se encuentran marginados o segregados."
+  },
+  {
+    "type": "sentence_elimination",
+    "statement": "3. Del carácter selectivo del sistema de justicia mexicano se desprende que",
+    "alternatives": [
+      "A) depende de la acción del poder ejecutivo o de otras instancias gubernamentales.",
+      "B) pune los delitos perpetrados por personas con un perfil étnico y social particular.",
+      "C) ideológicamente sus funcionarios todavía son presas de una serie de prejuicios.",
+      "D) influye en la vida mexicana al castigar crímenes vinculados a la agresión sexual."
+    ],
+    "correct": 2,
+    "rationale": "En tanto que un sistema de justicia funciona sobre la base un número de funcionarios, la selectividad que se le atribuye puede deberse a los prejuicios que predominan al relacionarse con ciertos sectores sociales, los más pobres, los más «oscuros» o los «incómodos sociales»."
+  },
+  {
+    "type": "sentence_elimination",
+    "statement": "4. Respecto al funcionamiento del sistema judicial mexicano es incompatible sostener que",
+    "alternatives": [
+      "A) de modo indirecto afecta el pleno ejercicio de la maternidad de algunas mujeres.",
+      "B) genera suspicacia entre las mujeres que han sufrido agresiones en sus hogares.",
+      "C) resulta diáfano para los mexicanos que quieren disminuir la violencia de género.",
+      "D) criterios como el género ola ubicación social determinan la forma en que opera."
+    ],
+    "correct": 2,
+    "rationale": "Quienes exigen que el derecho penal sea una herramienta para combatir la violencia de género no han reflexionado «en cómo funciona en la realidad». Entonces, no se puede afirmar que su funcionamiento sea transparente para estas personas."
+  },
+  {
+    "type": "sentence_elimination",
+    "statement": "5. Si el sistema penal mexicano actuara de forma eficaz para castigar los delitos sin",
+    "alternatives": [
+      "A) el número de denuncias por violencia doméstica se incrementaría.",
+      "B) impartir justicia en México todavía resultaría una actividad ineficaz.",
+      "C) los criterios raciales aún serían cruciales en los procesos penales.",
+      "D) las mujeres violentadas desconfiarían aún más de las autoridades."
+    ],
+    "correct": 0,
+    "rationale": "Debido al carácter elitista en la elección de sus causas, las mujeres agredidas rara vez optan por emplear el sistema penal. Por ello, solo 9% de las mujeres que sufren violencia en el hogar han pedido ayuda ola han denunciado ante las autoridades."
+  },
+  {
+    "type": "sentence_elimination",
+    "statement": "6. De los datos que brinda la infografía, se colige que las mujeres víctimas de agresión sexual en México",
+    "alternatives": [
+      "A) solo obtuvieron justicia cuando las agresiones fueron perpetradas en el hogar.",
+      "B) únicamente fueron a denunciar asesoradas por un apoderado legal cualificado.",
+      "C) han aumentado exponencialmente a partir del 2010 a raíz de distintas causas.",
+      "D) difícilmente pueden confiar en un sistema que castiga al 1% de los agresores."
+    ],
+    "correct": 3,
+    "rationale": "Solo 10 de cada 1000 agresores son condenados; es decir, solo el 1% recibe algún tipo de sanción. En consecuencia, el recelo de las mujeres puede encontrar justificación en esta cifra."
+  },
+  {
+    "type": "sentence_elimination",
+    "statement": "7. Es compatible sostener que tanto la infografía como el texto coinciden en señalar",
+    "alternatives": [
+      "A) supone que delitos como el feminicidio son más frecuentes en la urbe.",
+      "B) ha propiciado una toma de acciones por parte de algunas autoridades.",
+      "C) ha revelado que la violencia de género ha aumentado en las ciudades.",
+      "D) dista de coincidir definitivamente con la cifra real agresiones efectivas."
+    ],
+    "correct": 3,
+    "rationale": "En ambos casos, se incide en que la suspicacia de las víctimas, debido al funcionamiento del sistema judicial mexicano, ha provocado que la mayoría desista de acudir a las autoridades. Entonces, el número de denuncias no llega a coincidir con la cantidad de agresiones reales."
+  },
+  {
+    "type": "reading_comprehension",
+    "statement": "Una presentación de PowerPoint bloquea la lección convirtiéndola en un curso que ignora cualquier entrada que no sea la propia idea que el profesor ha concebido el día anterior.\nCercena la posibilidad de improvisación y desviación, así como la oportunidad de adaptarse a la participación del estudiante sin desviarse de su ruta. Esto es, por lo general, lo que causa que este tipo de presentaciones sean tan dolorosamente aburridas.\nAunque el público advierte de inmediato por dónde va el presentador, este tiene que transitar por todos los puntos, mientras el público sueña con que la siguiente diapositiva pueda ser más interesante.\n\n y experimentar, no dar\n\n Sin embargo, para ser interesante y relevante en una lección, los profesores tienen que hacer preguntas\n resultados.\n Desafortunadamente, PowerPoint está diseñado para proporcionar exactamente eso. Por ello, este software no ha fortalecido a la academia. El problema básico es que un profesor no está destinado a vender píldoras de conocimiento a los estudiantes, sino que debería incitar que se plantearan problemas. Tal proceso de aprendizaje es lento y arduo, y no puede ser resumido con esmero. Sin la tentación del PowerPoint, los profesores solo se pueden apoyar en los estudiantes, lo cual es más prometedor.\n\n soluciones\n\n y\n\n Meier, B. (29 de abril de 2015). «El PowerPoint, desterrado del aula». Clionauta. Recuperado de\n\n http://clionauta.hypotheses.org/15588. [Adaptado].\n\n I\n\n Desde ya hace un tiempo existe una corriente popular en contra del uso del PowerPoint en el aula. Creo que es mucho más fácil criticar a un programa de ordenador que aprender a usarlo adecuadamente. Así que cualquiera de los docentes que acusa a PowerPoint de un mal resultado debería preguntarse si conoce el programa lo suficientemente bien, si es capaz de aprovechar su potencial pedagógico de modo cabal.\n PowerPoint ofrece posibilidades predeterminadas a través de su asistente y de las plantillas. Empero, cada profesor puede tomar la decisión de desestimarlas y personalizar al 100% su presentación si de esa forma consigue optimizar la comprensión de sus estudiantes.\n\n El programa en ningún momento obliga a emplear viñetas ni a llenar de texto las diapositivas. Solo sugiere que se usen ciertos elementos. Es el docente quien debe optar por uno u otro, según el objetivo que persiga su sesión de clase. Cada uno de los elementos de la diapositiva debe ser utilizado para contribuir a transmitir un mensaje claro de forma óptima y eficaz. Bien empleado, PowerPoint puede convertirse en un instrumento esencial para el aprendizaje de los alumnos. Se trata de usar creativamente la tecnología como estrategia dentro del aula.\n\n Prat, R. (04 de julio de 2013). «El pueblo contra PowerPoint. Turno de la defensa». Presentable.es. Recuperado de http://www.presentable.es/software/el-pueblo-contra-powerpoint-turno-de-la-defensa/. [Adaptado].",
+    "questions": [
+      {
+        "statement": "En ambos textos se discute entorno",
+        "alternatives": [
+          "A) al uso del programa PowerPoint en entornos virtuales.",
+          "B) al potencial pedagógico de PowerPoint dentro de las aulas.",
+          "C) al valor heurístico de PowerPoint en la enseñanza superior.",
+          "D) a la habilidad interactiva que refuerza el uso de PowerPoint."
+        ],
+        "correct": 1,
+        "rationale": "La polémica entre ambos textos gira entorno a si el empleo de PowerPoint en el aula favorece o no el aprendizaje de los estudiantes."
+      },
+      {
+        "statement": "En el texto A, el antónimo contextual del término CERCENAR es",
+        "alternatives": [
+          "A) acicatear.",
+          "B) reinventar.",
+          "C) soslayar.",
+          "D) estropear."
+        ],
+        "correct": 0,
+        "rationale": "«Cercenar» alude a que utilizar PowerPoint impide u obstaculiza la «improvisación y desviación». Por otro lado, «acicatear» significa «incitar» o «estimular», por lo que puede funcionar como antónimo contextual del término en cuestión."
+      },
+      {
+        "statement": "Resulta inconsistente con la defensa del programa de presentaciones PowerPoint que emprende el texto B afirmar que",
+        "alternatives": [
+          "A) sugiere que la mayoría de críticos no se han tomado el tiempo de dominarlo.",
+          "B) indica que las opciones predeterminadas del programa conducen al fracaso.",
+          "C) estima que la personalización de la presentación obedece a fines didácticos.",
+          "D) advierte que su empleo exitoso depende de la competencia de sus usuarios."
+        ],
+        "correct": 1,
+        "rationale": "Según la argumentación del texto B, las posibilidades predeterminadas no son obligatorias, sino que, por el contrario, su uso queda a criterio del docente. Por ello, no pueden conducir, necesariamente, al fracaso."
+      },
+      {
+        "statement": "De la argumentación del texto A se desprende que PowerPoint carecería de",
+        "alternatives": [
+          "A) relevancia para el aprendizaje por su carácter pragmático.",
+          "B) coherente.",
+          "C) rígido.",
+          "D) versátil."
+        ],
+        "correct": 2,
+        "rationale": "El autor del texto A sostiene que el programa PowerPoint «está diseñado» para proporcionar respuestas y resultados. Por ello, no propicia el aprendizaje de los estudiantes."
+      },
+      {
+        "statement": "Si, en una sesión de clases, un docente empleara una presentación de PowerPoint que únicamente incluyera preguntas para que el estudiante pueda reflexionar en torno a ellas,",
+        "alternatives": [
+          "A) afianzaría que el diseño de clases tiene que limitarse al saber.",
+          "B) defendería la fuerte posición que esgrime el autor del texto A.",
+          "C) negaría toda posibilidad de proponer estrategias idóneas.",
+          "D) se objetaría la argumentación central del autor del texto A."
+        ],
+        "correct": 3,
+        "rationale": "El autor de texto A afirma que, al usar diapositivas, el docente «tiene que transitar por todos los puntos». En otras palabras, la secuencia de exposición es también una manera de restringir la creatividad y el desarrollo de procesos cognitivos."
+      }
+    ]
+  },
+  {
+    "type": "reading_comprehension",
+    "statement": "El autor de texto A afirma que, al usar diapositivas, el docente «tiene que transitar por todos los puntos». En otras palabras, la secuencia de exposición es también una manera de restringir la creatividad y el desarrollo de procesos cognitivos.",
+    "questions": [
+      {
+        "statement": "Si, en una sesión de clases, un docente empleara una presentación de PowerPoint que únicamente incluyera preguntas para que el estudiante pueda reflexionar en torno a ellas,",
+        "alternatives": [
+          "A) afianzaría que el diseño de clases tiene que limitarse al saber.",
+          "B) defendería la fuerte posición que esgrime el autor del texto A.",
+          "C) negaría toda posibilidad de proponer estrategias idóneas.",
+          "D) se objetaría la argumentación central del autor del texto A."
+        ],
+        "correct": 3,
+        "rationale": "El autor de texto A afirma que, al usar diapositivas, el docente «tiene que transitar por todos los puntos». En otras palabras, la secuencia de exposición es también una manera de restringir la creatividad y el desarrollo de procesos cognitivos."
+      },
+      {
+        "statement": "Fundamentalmente, el autor del texto A recusaría una sesión de clases donde",
+        "alternatives": [
+          "A) predomine un enfoque expositivo y se desestime forjar las destrezas cognitivas.",
+          "B) las presentaciones de PowerPoint ocupen un espacio reducido durante el dictado.",
+          "C) surjan críticas a partir del diálogo respetuoso entre el maestro y sus discípulos.",
+          "D) el PowerPoint sea empleado como un primer estímulo para propiciar la cognición."
+        ],
+        "correct": 0,
+        "rationale": "El autor del texto A rechaza el uso de PowerPoint en el aula por considerarlo una herramienta que únicamente sirve para exponer información. Asimismo, apuesta por una enseñanza que proponga problemas para el desarrollo de las competencias del estudiante."
+      }
+    ]
+  }
+]

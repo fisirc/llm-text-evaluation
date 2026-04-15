@@ -1,0 +1,538 @@
+[
+  {
+    "type": "reading_comprehension",
+    "statement": "Estos rasgos se proyectaron en los actos desarrollados por el jefe del Estado y del gobierno: el marcado presidencialismo y la subordinación de los parlamentarios al mandatario, quien a la vez lideraba el partido mayoritario, permitieron a los sucesivos presidentes concentrar autoritariamente las decisiones gubernamentales para hacer realidad su voluntad y distribuir prebendas con la colaboración de sus seguidores inmediatos para mantener y extender sus redes de clientela. Así, el poder político se ha concentrado en los \"jefes\" y en su entorno de \"envarados\" radicados en la capital. Por esto, no es casual que las reiteradas críticas formuladas contra el centralismo limeño hayan ido paralelas a proyectos destinados a restringir las atribuciones del presidente. La adhesión personal al jefe -patrón y la identificación con los principios que éste postulaba como fuente de legitimidad de las identidades partidarias, desembocaron en la polarización política y en enfrentamientos destinados, literalmente, a capturar el Estado. Las consecuencias perversas de estos procesos desgastaron y desprestigiaron a los distintos actores; hechos que propiciaron el desarrollo del terrorismo y otorgaron preeminencia política a las Fuerzas Armadas. Así, a contracorriente de la formación de un sistema de partidos fundados en reglas y procedimientos consensuales, destinados a distribuir el poder y los recursos sociales que legitimaran y fortalecieran el Estado, la democracia se vio deslucida por las prácticas patrimoniales y clientelistas que exacerbaron los privilegios y las desigualdades, y condicionaron la emergencia de conjugaron con los institucionales para bloquear el desarrollo de la democracia y la justicia social. El impacto externo se sumó para definir el curso de los acontecimientos. Como sugiere Sartori en la cita con la que se inicia el último capítulo, el \"nuevo orden internacional\" contribuyó al virtual colapso del régimen político. La sociedad se encontró políticamente desarticulada, bajo condiciones de intensa movilización social y cultural, y atenazada por el terrorismo. Este proceso condicionó la irrupción de los outsiders bajo la imagen de independientes y, tras ellos, de las Fuerzas Armadas. El presidente Fujimori, típico representante de esa categoría, ajeno y contrario a la clase y a la actividad política en tanto acto de reconocimiento y de compromiso entre los diferentes intereses sociales, ha asumido tecnocrática y autoritariamente la conducción gubernamental con el beneplácito de la ciudadanía, que se encuentra harta de frustraciones derivadas del juego patrimonial. Cotler, J. (1994). Política y sociedad en el Perú. Lima: IEP.",
+    "questions": [
+      {
+        "statement": "1. El texto aborda centralmente el tema de",
+        "alternatives": [
+          "A) Las FF.AA y su rol en la política nacional como reguladores de la convivencia y descentralizadores del poder político.",
+          "B) El aprovechamiento político de un sector de partidos para capturar el Estado y concretar sus clientelajes políticos.",
+          "C) la necesidad de un outsider como Fujimori para garantizar la continuidad del sistema de clientelaje entorno al jefe -patrón.",
+          "D) la centralidad y clientelismo en entorno a los jefes -patrón y el surgimiento de los outsiders, como una consecuencia de ello.",
+          "E) La adhesión personal al jefe -patrón y la identificación con los principios que éste postulaba como fuente de legitimidad de las identidades."
+        ],
+        "correct": 3,
+        "rationale": null
+      },
+      {
+        "statement": "2. En el texto, el término DESLUCIDA tiene el sentido contextual de",
+        "alternatives": [
+          "A) debilit ada",
+          "B) fortalecida",
+          "C) opacada",
+          "D) desencajada",
+          "E) condicionada"
+        ],
+        "correct": 0,
+        "rationale": null
+      },
+      {
+        "statement": "4. No se condice con lo afirmado por el texto, sostener que",
+        "alternatives": [
+          "A) los outsiders fueron entendidos, al inicio, como continuadores del modelo.",
+          "B) Los jefes -patrón no fueron capaces de solucionar los problemas nacionales.",
+          "C) se asociaba el esquema centralista del jefe -patrón al presidencialismo.",
+          "D) Las FF.AA., consiguen mayor poder y protagonismo ante el fracaso político.",
+          "E) La democracia y las leyes eran débiles frente al clientelismo y los envarados."
+        ],
+        "correct": 0,
+        "rationale": null
+      },
+      {
+        "statement": "5. Si la concepción del Estado clientelista y la democracia sometida, fueran modos válidos de entender la dinámica social, entonces",
+        "alternatives": [
+          "A) se buscaría debilitar la figura del presidente y los ministros, pues de ese modo la democracia se somete.",
+          "B) necesariamente tendríamos que cambiar el modelo presidencialista, pues no favorece el clientelismo político.",
+          "C) las leyes, en especial la constitución colisionaría con dicho Estado, por lo que ese tipo de Estado sería imposible.",
+          "D) no habría forma de resistir una dinámica social basada en el clientelismo y los jefes -patrón.",
+          "E) los outsiders serían percibidos como una amenaza, pero no necesariamente las FF.AA."
+        ],
+        "correct": 1,
+        "rationale": null
+      }
+    ]
+  },
+  {
+    "type": "sentence_elimination",
+    "statement": "5. I) La Luna es el satélite de La T ierra. II ) Se trata de un satélite de tamaño grande en relación a otros satélites de los diferentes planetas del Sistema Solar. III ) Los planetas, por su mayor fuerza de gravedad, atraen a los satélites y los retienen girando a su alrededor. IV ) La Luna gira sobre sí misma y rota alrededor de la Tierra. V) Además, junto con este, gira entorno al Sol.",
+    "alternatives": [
+      "A) III",
+      "B) I",
+      "C) IV",
+      "D) V",
+      "E) II"
+    ],
+    "correct": 0,
+    "rationale": "Se elimina la III por impertinencia."
+  },
+  {
+    "type": "sentence_elimination",
+    "statement": "6. I) Las gallinas son animales que gozan de varias particularidades. II) Tienen alas, sin embargo casi no pueden volar; apenas revolotean. III) Las gallinas son ovíparos, lo cual quiere decir que son animales que se reproducen mediante huevos. IV) Poseen una cresta pequeña o rudimentaria, cola sin cobijas prolongadas. V) A diferencia del gallo, tienen tarsos sin espolones.",
+    "alternatives": [
+      "A) V",
+      "B) III",
+      "C) IV",
+      "D) II",
+      "E) I"
+    ],
+    "correct": 4,
+    "rationale": "Se elimina la I por redundancia."
+  },
+  {
+    "type": "sentence_elimination",
+    "statement": "7. I) El cielo estrellado fue objeto de estudios entre los antiguos chinos, hindúes, egipcios y griegos. II) La imperfección de la técnica y la falta de observaciones exactas parecía levantar murallas infranqueables entre los investigadores del cosmos. III) Galileo con la invención del telescopio puso al mundo a observar con más facilidad el universo. IV) Desde los tiempos remotos el inquieto intelecto humano viene proponiéndose no sólo alcanzar la incógnita del micromundo, sino también la del universo. V) Pero sin disponer de aparatos ópticos más sofisticados, la vista del hombre es incapaz de penetrar en las profundidades de los i nfinitos espacios cósmicos.",
+    "alternatives": [
+      "A) I",
+      "B) III",
+      "C) IV",
+      "D) II",
+      "E) V"
+    ],
+    "correct": 2,
+    "rationale": "Por impertinencia. El tema gira entorno a la búsqueda del hombre por conocer el cosmos y la IV se refiere al microcosmos también."
+  },
+  {
+    "type": "sentence_elimination",
+    "statement": "8. I) Italia es la península central de las tres que existen en el sur de Europa, orientados hacia África y Asía. II) Italia, base del mundo occidental, es uno de los países que más atractivos turísticos ofrece al mundo. III) Se le ha descrito con una imagen muy gráfica y bastante acertada, como una bota de montar que propina un puntapié a Sicilia. IV) Consta en la actualidad de diecinueve regiones, dos de las cuales son islas: Sicilia y Cerdeña. V) La península italiana se halla rodeada por tres mares, el Tirreno al oeste, el Jónico al sur y el Adriático a l este.",
+    "alternatives": [
+      "A) V",
+      "B) I",
+      "C) III",
+      "D) I",
+      "E) II"
+    ],
+    "correct": 4,
+    "rationale": "Se elimina por impertinencia. El tema se refiere a la geografía de Italia y la II a su atractivo turístico."
+  },
+  {
+    "type": "synonyms_and_antonyms",
+    "statement": "El cohipónimo de SOYA es",
+    "alternatives": [
+      "A) cebada.",
+      "B) avena.",
+      "C) trigo.",
+      "D) man í.",
+      "E) centeno."
+    ],
+    "correct": 3,
+    "rationale": "La soya es una leguminosa al igual que el maní."
+  },
+  {
+    "type": "synonyms_and_antonyms",
+    "statement": "¿Qué término no guarda relación con las demás?",
+    "alternatives": [
+      "A) distinguir",
+      "B) refutar",
+      "C) disentir",
+      "D) confutar",
+      "E) objetar"
+    ],
+    "correct": 0,
+    "rationale": "Bregar significa luchar, reñir, forcejear con otra u otras y las demás son sinónimos de oponerse o contradecir una idea."
+  },
+  {
+    "type": "reading_comprehension",
+    "statement": "SEMANA 17 B Como el desabastecimiento y la carestía estaban haciendo estragos en Venezuela y aumentando el descontento popular, el presidente Nicolás Maduro, que no sabrá mucho de economía pero es hombre de pelo en pecho y bravuconerías, decidió resolver el problema en un dos por tres. Explicó a su pueblo que la alta inflación que padece el país (57%, la más alta de América Latina) es producto de una conjura maquinada por los Estados Unidos, los empresarios y comerciantes acaparadores y los partidos de oposición para destruir la revolución bolivariana o “el socialismo del siglo XXI”. Y, de un plumazo, 70%, a la vez que mandaba soldados y cuerpos de choque a ocupar los establecimientos comerciales y enviaba a la cárcel a buen número de “conspiradores”, es decir, los dueños de tiendas y almacenes. La campaña fue lanzada por el presidente Maduro con la consigna de: “¡Vacíen los anaqueles!”. La orden fue entendida por buen número de despistados como una carta blanca para el saqueo y, sobre todo en Valencia, pero también en Caracas y otras ciudades, se produjeron asaltos y pillajes en medio de una soberbia confusión. Era patético escuchar a las sufridas amas de casa venezolanas, explicando a los reporteros de la televisión oficial lo felices que estaban con esas espectaculares rebajas que les permitirían, en adelante, renovar sus neveras y cocinas y asegurar dos comidas diarias para la familia. Al mismo tiempo que derrotaba la inflación de un puñetazo en la mesa, es decir, subastando y confiscando cadenas de productos alimenticios y electrodomésticos, el presidente Maduro, mediante la aprobación de la Ley Habilitante, se aseguraba los poderes absolutos que durante un año le permitirán gobernar sin leyes. Para conseguir este atributo, la Asamblea Nacional Venezolana procedió a retirarle la inmunidad a una diputada de la oposición, María Mercedes Aranguren, y a reemplazarla por su suplente, el diputado Carlos Flores, quien, de la noche a la mañana (y mediante generosas prebendas) se volvió chavista y votó a favor de la ley de marras. Esa es la explicación de la subida desmedida de los precios y del desabastecimiento generalizado. Las valientes rebajas impuestas manu militari por Maduro sólo servirán para acelerar el desabastecimiento generalizado los anaqueles se quedarán vacíos, en efecto, y el mercado negro, que crecerá de manera elefantiásica, estará sólo al alcance de los privilegiados, es decir, los favorecidos por el régimen o por la vertiginosa corrupción generada por la política intervencionista en la economía. En otras palabras, la política del socialismo chavista habrá contribuido a agravar las diferencias económicas y sociales que se proponía abolir.",
+    "questions": [
+      {
+        "statement": "La palabra CARESTÍA puede ser reemplazada por",
+        "alternatives": [
+          "A) Abundancia",
+          "B) Acopio",
+          "C) Demasía",
+          "D) Escasez",
+          "E) Inflación"
+        ],
+        "correct": 3,
+        "rationale": "Como el desabastecimiento y la carestía estaban haciendo estragos en Venezuela y aumentando el descontento popular. Por ende carestía se puede reemplazar por escasez."
+      },
+      {
+        "statement": "El tema central del texto es el siguiente",
+        "alternatives": [
+          "A) Saqueo y confiscación de productos avalados por el gobierno Chavista.",
+          "B) La inflación galopante de Venezuela es la mayor de la historia.",
+          "C) El desabastecimiento generalizado por la ineptitud empresarial.",
+          "D) El intervencionismo norteamericano en la economía venezolana.",
+          "E) Aprobación de leyes para que Maduro gobierne dictatorialmente."
+        ],
+        "correct": 0,
+        "rationale": "Se estaba evidencian do una inflación muy alta en Venezuela y ante ello Maduro toma una decisión populista, sin la mínima reflexión, como saquear y obligar a abaratar los precios de las mercaderías."
+      },
+      {
+        "statement": "Señale la idea incompatible con el texto",
+        "alternatives": [
+          "A) Maduro alega que la crisis que se vive es producto de la intromisión de norteamericana.",
+          "B) El régimen chavista sometió a los dueños de los comercios que no acataban sus demandas.",
+          "C) Al ser un entendido en economía Nicolás Maduro pudo enfrentar la crisis venezolana.",
+          "D) La medida económica aprobada por el régimen servirá para acrecentar diferencias.",
+          "E) El gobierno de Maduro tuvo poderes absolutos aún a expensas de sus opositores."
+        ],
+        "correct": 2,
+        "rationale": "El presidente Nicolás Maduro, que no sabrá mucho de economía pero es hombre de pelo en pecho y bravuconerías, decidió resolver el problema en un dos por tres."
+      },
+      {
+        "statement": "Se infiere del texto que la Juventud venezolana",
+        "alternatives": [
+          "A) antepone la democracia a su propia supervivencia.",
+          "B) convoca a una gran marcha contra la inseguridad.",
+          "C) genera conciencia para frenar al régimen chavista.",
+          "D) prefiere una economía neoliberal a la socialista.",
+          "E) concerta con el gobierno de Nicolás Maduro."
+        ],
+        "correct": 0,
+        "rationale": "Dirigentes estudiantiles y líderes de oposición que nunca antes hicieron política y ahora la hacen, jugándose los trabajos, la tranquilidad, la libertad y hasta la vida, impelidos por la conciencia de que, sino hay un sobresalto nacional democrático que lo despierte y movilice, su país se va a la ruina."
+      }
+    ]
+  },
+  {
+    "type": "verbal_series",
+    "statement": "1. Ovación, aplauso, aclamación,",
+    "alternatives": [
+      "A) bulla",
+      "B) reclamo",
+      "C) estrépito",
+      "D) vítor",
+      "E) batahola"
+    ],
+    "correct": 3,
+    "rationale": "Los términos están incluidos en el campo semántico de la aclamación."
+  },
+  {
+    "type": "verbal_series",
+    "statement": "2. Archipiélago, follaje, pandilla,",
+    "alternatives": [
+      "A) parvada",
+      "B) aprisco",
+      "C) nebular",
+      "D) polimorfo",
+      "E) confluencia"
+    ],
+    "correct": 0,
+    "rationale": "Parvada es el conjunto de aves."
+  },
+  {
+    "type": "verbal_series",
+    "statement": "3. Rígido, tenso, duro,",
+    "alternatives": [
+      "A) yermo",
+      "B) austero",
+      "C) yerto",
+      "D) inane",
+      "E) ignoto"
+    ],
+    "correct": 2,
+    "rationale": "Serie verbal sinonímica."
+  },
+  {
+    "type": "verbal_series",
+    "statement": "4. Inexpugnable, sólido; fatuo, modesto; arcano, esotérico; palmario,",
+    "alternatives": [
+      "A) oculto",
+      "B) inconstante",
+      "C) fructífero",
+      "D) ubicuo",
+      "E) afable"
+    ],
+    "correct": 0,
+    "rationale": "La serie verbal es mixta, combina sinónimos y antónimos. El antónimo de palmario es oculto."
+  },
+  {
+    "type": "verbal_series",
+    "statement": "5. Lozano, vigoroso; inquina, simpatía; facundo, verboso;",
+    "alternatives": [
+      "A) pugnaz, pacífico",
+      "B) flemático, enfermizo",
+      "C) renuente, remiso",
+      "D) alborozado, animado",
+      "E) templario, caballeroso"
+    ],
+    "correct": 0,
+    "rationale": "La serie propone el siguiente orden: sinónimos, antónimos, sinónimos y antónimos. Pugnaz es antónimo de pacífico."
+  },
+  {
+    "type": "verbal_series",
+    "statement": "6. Forman parte de la serie verbal, excepto",
+    "alternatives": [
+      "A) carnaval",
+      "B) feria",
+      "C) kermés",
+      "D) sarao",
+      "E) banquete"
+    ],
+    "correct": 4,
+    "rationale": "Solo banquete hace referencia a la reunión entorno a los alimentos como elemento principal."
+  },
+  {
+    "type": "verbal_series",
+    "statement": "7. Cuento, novela, fábula,",
+    "alternatives": [
+      "A) ensayo",
+      "B) historia",
+      "C) madrigal",
+      "D) epopeya",
+      "E) ficción"
+    ],
+    "correct": 3,
+    "rationale": "La serie hace referencia a especies narrativas."
+  },
+  {
+    "type": "sentence_elimination",
+    "statement": "I) Los mamíferos son una clase de vertebrados de \"sangre caliente\", con pelo y glándulas mamarias. II) La mayoría de mamíferos son vivíparos. III ) Se conocen unas 5 483 especies actuales, de las cuales 5 son monotremas, 2 27 2 son marsupiales y el resto, 5 209, son placentarios. IV) Todos los mamíferos descienden de un antepasado común. V) La ciencia que estudia los mamíferos se denomina teriología, mastozoología o mamiferología.",
+    "alternatives": [
+      "A) II",
+      "B) V",
+      "C) IV",
+      "D) I",
+      "E) III"
+    ],
+    "correct": 1,
+    "rationale": "Se elimina la oración V por impertinencia ."
+  },
+  {
+    "type": "sentence_elimination",
+    "statement": "I) La higiene bucal consiste principalmente en el uso del cepillo de dientes, ya que éste remueve en parte la acumulación de placa bacteriana. II) El uso de enjuagues es de gran valor higiénico, por su protección química ayudan en la labor de remineralización del esmalte. III) Se considera que el hilo dental aporta el 40% de la higiene, es decir casi la mitad, junto con el cepillado. IV) Existen diferentes tipos de hilo dental, el hilo sin cera se considera el hilo dental más limpio para la higiene. V) Los dentistas utilizan el láser cuando el sarro se descubre muy profundamente debajo de la línea de la encía durante una limpieza general de dientes.",
+    "alternatives": [
+      "A) III",
+      "B) V",
+      "C) IV",
+      "D) II",
+      "E) I"
+    ],
+    "correct": 2,
+    "rationale": "Se elimina la oración IV por impertinencia."
+  },
+  {
+    "type": "sentence_elimination",
+    "statement": "2. I) La higiene bucal consiste principalmente en el uso del cepillo de dientes, ya que éste remueve en parte la acumulación de placa bacteriana. II) El uso de enjuagues es de gran valor higiénico, por su protección química ayudan en la labor de remineralización del esmalte. III) Se considera que el hilo dental aporta el 40% de la higiene, es decir casi la mitad, junto con el cepillado. IV) Existen diferentes tipos de hilo dental, el hilo sin cera se considera el hilo dental más limpio para la higiene. V) Los dentistas utilizan el láser cuando el sarro se descubre muy profundamente debajo de la línea de la encía durante una limpieza general de dientes. ¿Qué oración se elimina por impertinencia?",
+    "alternatives": [
+      "A) III",
+      "B) V",
+      "C) IV",
+      "D) II",
+      "E) I"
+    ],
+    "correct": 2,
+    "rationale": "Se elimina la oración IV por impertinencia."
+  },
+  {
+    "type": "sentence_elimination",
+    "statement": "3. I) Con la supuesta ayuda de una virgen, los técnicos romanos localizaron una fuente de agua pura a sólo 22 km de la ciudad. II) Esta Aqua Virgo corría por el acueducto más corto de Roma directamente hasta los Baños de Agripa y fue usada durante más de cuatrocientos años. III) Los romanos medievales sacaban agua de pozos contaminados y del río Tíber, que también se usaba como cloaca. IV) En 1453, el papa Nicolás V terminó de reparar el acueducto Aqua Virgo y construyó una simple pila. V) La costumbre romana de construir una bella fuente al final de los acueductos que traían agua a la ciudad fue resucitada en el siglo XV, con el Renacimiento. ¿Qué oración se elimina por impertinencia?",
+    "alternatives": [
+      "A) I",
+      "B) II",
+      "C) III",
+      "D) IV",
+      "E) V"
+    ],
+    "correct": 2,
+    "rationale": "Se elimina la oración III por inatingencia."
+  },
+  {
+    "type": "sentence_elimination",
+    "statement": "4. I) No se sabe dónde escribió Boccaccio el centenar de historias del Decamerón entre 1348 y 1351. II) Hasta la primera edición en 1492 se leyó en copias manuscritas que se multiplicaron y diseminaron. III) Gracias a esos cuentos licenciosos, irreverentes y geniales, dejó de ser un intelectual de biblioteca y se convirtió en un escritor inmensamente popular. IV) La multiplicación de los manuscritos y de las ediciones posteriores a la de 1492, debió de ser la razón por las que desistió de intentar quemarlas cuando se arrepintió de haberlas escrito. V) En todo caso, era tarde para dar marcha atrás; siete siglos más tarde, se siguen leyendo con el impagable placer que deparan las obras maestras absolutas. ¿Qué oración?",
+    "alternatives": [
+      "A) V",
+      "B) II",
+      "C) IV",
+      "D) I",
+      "E) III"
+    ],
+    "correct": 1,
+    "rationale": "Se elimina la oración II por redundancia. Está contenida en IV."
+  },
+  {
+    "type": "sentence_elimination",
+    "statement": "5. I) La serie de la televisión colombiana “Escobar, el patrón del mal” ha tenido mucho éxito en su país de origen y no cabe duda de que lo tendrá en todos los lugares donde se exhiba. II) Está muy bien hecha, escrita y dirigida, y Ángel Parra, el actor que encarna al famoso narcotraficante Pablo Emilio Escobar Gaviria ,lo hace con enorme talento. III) Sin embargo, a diferencia de lo que ocurre con otras grandes series televisivas, ésta se sigue con incomodidad, porque no es ficción. IV) Es la descripción más o menos fidedigna de una pesadilla que padeció Colombia durante los años que vivió bajo el imperio del narcotráfico. V) La exitosa serie colombiana “Escobar, el patrón del mal” describe la realidad de Colombia en los años del narcotráfico. ¿Qué oración?",
+    "alternatives": [
+      "A) I",
+      "B) II",
+      "C) III",
+      "D) IV",
+      "E) V"
+    ],
+    "correct": 0,
+    "rationale": "Se elimina la oración V por redundancia."
+  },
+  {
+    "type": "sentence_elimination",
+    "statement": "6. I) Paul Gauguin asumió su vocación de pintor a una edad tardía, los treinta y cinco años, y casi sin haber recibido una formación técnica. II) Su paso por la Academia Colarossi y las clases que le dio su amigo y maestro Camille Pissarro fueron breves y superficiales. III) Pero nada de eso le impidió llegar a ser el gran renovador de la pintura de su tiempo y dejar una marca indeleble en las vanguardias artísticas europeas. IV) Así lo muestra, de manera inequívoca, la espléndida exposición “Gaug uin y el viaje a lo exótico” que presenta el Museo Thyssen -Bornemisza, de Madrid. V) Cuando lo dejó todo, para dedicarse a pintar, Paul Gauguin era un próspero burgués; vivía en un barrio elegante, sin privarse de nada, con su bella esposa danesa y sus cinco hijos. ¿Qué oración?",
+    "alternatives": [
+      "A) I",
+      "B) III",
+      "C) V",
+      "D) IV",
+      "E) II"
+    ],
+    "correct": 3,
+    "rationale": "La oración IV se elimina por impertinencia ."
+  },
+  {
+    "type": "sentence_elimination",
+    "statement": "7. I) La raíz de todas las historias es la experiencia de quien las inventa, lo vivido es la fuente que irriga las ficciones. II) Una novela no es siempre una biografía disimulada de su autor; sin embargo, en toda ficción es posible rastrear un punto de partida ligado a una suma de vivencias de quien la fraguó. III) Me atrevo a sostener que no hay excepciones a esta regla y que, por lo tanto, la invención q uímicamente pura no existe en el dominio literario. IV) Todas las ficciones son arquitecturas levantadas por la fantasía y la artesanía sobre ciertos hechos, personas, circunstancias, que marcaron la memoria del escritor. V) A veces resulta casi imposible reconocer el material autobiográfico que fue su rudimento, y que es, en cierta forma, el secreto nexo de toda ficción con su anverso y antípoda: la realidad real. ¿Qué oración?",
+    "alternatives": [
+      "A) II",
+      "B) I",
+      "C) IV",
+      "D) V",
+      "E) III"
+    ],
+    "correct": 1,
+    "rationale": "La oración I se elimina por redundancia."
+  },
+  {
+    "type": "sentence_elimination",
+    "statement": "8. I) De todos los padres celebrados o convocados en el Día del Padre ningunos tan dramáticos como los que ya no están. II) Desde las famosas coplas de Jorge Manrique, la evocación del padre es un tópico poético de la transitoriedad de la vida. III) Más allá de las necesidades comerciales, el padre muerto produce un dolor mucho más profundo que el padre vivo. IV) La poesía es vehículo de esta forma del dolor. V) César Vallejo da cuenta de su padre lejano y dormido, a quien ya no verá: una figuración poética de su muerte. ¿Qué oración?",
+    "alternatives": [
+      "A) I",
+      "B) IV",
+      "C) V",
+      "D) II",
+      "E) III"
+    ],
+    "correct": 1,
+    "rationale": "La oración IV se elimina por redundancia. Se deriva de las oraciones II, III y V."
+  },
+  {
+    "type": "reading_comprehension",
+    "statement": "Virtualmente todos los que escriben acerca de las revoluciones sociales reconocen que estas comienzan con crisis políticas manifiestas, como el embrollo financiero de la monarquía francesa y la Convocatoria a los Estados Generales en 1787 -1789. De igual modo, es evidente para todos que las revoluciones proceden a partir de luchas en que partidos, y facciones políticas, organizados tienen una función destacada. Y se reconoce que culminan en la consolidación de nuevas organizaciones de Estado, cuyo poder puede emplearse no sólo para reforzar las transformaciones socioeconómicas que ya habían ocurrido, sino también para promover nuevos cambios. Nadie niega la realidad de estos aspectos políticos de las revoluciones sociales; sin embargo, la mayoría de los teóricos de la revolución suele considerar las crisis políticas que lanzan las revoluciones o bien como “gatillos” incidentales, o como poco más que indicadores epifenoménicos de contradicciones más fundamentales o de tensiones localizadas en la estructura social del antiguo régimen. De manera similar, los grupos políticos que intervienen e n las luchas sociorrevolucionarias son considerados como representantes de fuerzas sociales. Y la estructura y las actividades de las nuevas organizaciones de Estado que brotan de las revoluciones sociales son tratadas como expresiones del interés de cualesquier fuerzas socio económicas o socioculturales que surjan victoriosas en los conflictos revolucionarios. Una suposición que siempre se encuentra, aunque sea implícitamente, detrás de tal razonamiento, es que las estructuras políticas y las luchas de a lguna manera pueden reducirse (almenos “en última instancia”) a fuerzas y conflictos socioeconómicos. El Estado es considerado exclusivamente una arena, en la cual se entablan los conflictos por los intereses sociales y económicos básicos. Lo que le da ca rácter especial al Estado como arena política es, sencillamente, que los actores que operan allí recurren a medios distintivos para desencadenar los conflictos sociales y económicos, medios tales como coacción o lemas que apelan al bien común. Esta manera general de pensar acerca del Estado es, en realidad, común a las variedades liberal y marxista de la teoría social. Entre estas dos extensas tradiciones de la teoría social, la diferencia decisiva de opinión es sobre qué medios encarna claramente la arena política: una autoridad legítima fundamentalmente basada en el consenso, o una dominación fundamentalmente coactiva. Y esta diferencia corre paralela a las distintas opiniones acerca de las bases del orden social que mantiene cada tradición teórica.",
+    "questions": [
+      {
+        "statement": "El texto aborda centralmente el tema de",
+        "alternatives": [
+          "A) Las revoluciones sociopolíticas y el rol dinamizador del Estado, desde la visión liberal.",
+          "B) El Estado como una estructura legalista carente de fuerza sociopolítica, o socioeconómica.",
+          "C) Las crisis políticas y las revoluciones sociales, la actuación del Estado como regulador.",
+          "D) El Estado como una arena en la que se desarrollan las pugnas socioeconómicas.",
+          "E) La crisis política y económica del antiguo régimen y su re emplazo paulatino por el Estado."
+        ],
+        "correct": 3,
+        "rationale": "Se expone la percepción que se tiene del Estado como una arena o escenario para"
+      },
+      {
+        "statement": "En el texto, el término INCIDENTALES tiene el sentido contextual de",
+        "alternatives": [
+          "A) accesorios",
+          "B) casuales",
+          "C) azarosos",
+          "D) accidentados",
+          "E) condicionados"
+        ],
+        "correct": 0,
+        "rationale": "ACCESORIOS, es decir, secundarios ."
+      },
+      {
+        "statement": "Se colige que los Estados",
+        "alternatives": [
+          "A) Son autónomos y se fortalecen en la medida que logran resistir los embates revolucionarios.",
+          "B) Son subestimados tanto por liberales como por marxistas, reduciéndolos a simples es cenarios.",
+          "C) Son caóticos y, por lo general, se muestran indiferentes frente a las exigencias sociales.",
+          "D) No existen como realidad tangible, son solo constructos imaginarios para ordenar el discurso legal.",
+          "E) Fueron y son ajenos a las demandas sociales, por eso se ven envueltos en revoluciones."
+        ],
+        "correct": 1,
+        "rationale": "Tanto para marxistas como para liberales el Estado es asumido solo una arena o escenario."
+      },
+      {
+        "statement": "No se condice con lo afirmado por el texto, sostener que",
+        "alternatives": [
+          "A) consenso y coacción son dos conceptos clave s para entender el Estado.",
+          "B) los teóricos asocian revoluciones sociales con crisis políticas manifiestas.",
+          "C) se suele reducir, implícitamente, los conflictos a causas económicas.",
+          "D) para la autora los conflictos sociales terminan por involucrar a los partidos.",
+          "E) las revoluciones son ajenas a los partidos, su origen es solo popular."
+        ],
+        "correct": 4,
+        "rationale": "Las revoluciones sociales nacen en la diferencia y en ella tienen un rol importante los partidos y las facciones."
+      },
+      {
+        "statement": "Si, en un momento dado, no surgiesen crisis políticas manifiestas, entonces",
+        "alternatives": [
+          "A) tampoco surgirían revoluciones sociales.",
+          "B) se entendería el porqué de los conflictos económicos."
+        ],
+        "correct": 0,
+        "rationale": ""
+      }
+    ]
+  },
+  {
+    "type": "reading_comprehension",
+    "statement": "La hostilidad y confrontación violenta entre las dos principales ramas del islam, la suní –que representa el 80 por ciento de los musulmanes – y la chií –poco más del 10 por ciento – se remontan a los primeros años que sucedieron a la muerte de Mahoma, y en cierto modo pueden atribuirse a un error de cálculo, quizá el mayor y más grave cometido\n\nMahoma murió en el año 632 sin nombrar sucesor ni dejar indicado cómo elegirlo.\nDespués de poner los cimientos para crear un imperio político que iría en pocos años desde Asia hasta Europa, y sobre todo fundar una religión que sigue conmoviendo a generaciones de musulmanes en todo el mundo, por la belleza en árabe del Corán, Mahoma no fue capaz de prever en el lecho de muerte las consecuencias de no fijar su sucesión al frente de la umma ,la nueva comunidad musulmana.\nTodos los musulmanes se sienten unidos por su fe en el Corán, que consideran palabra directamente revelada por Dios a Mahoma, y por las cinco obligaciones religiosas del islam. Pero la disputa por la sucesión abrió desde finales del siglo VII una brecha tan fuerte que, con el paso de los siglos, las guerras –a veces de exterminio – y las disputas teológicas entorno a la interpretación del Corán generaron de hecho dos religiones que a veces parecen incapaces de convivir juntas.\nDespués de un breve periodo que los musulmanes consideran dorado, con cuatro califas comunes, la ruptura se hizo patente en el 661. Un grupo de musulmanes cerró filas entorno a Alí, primo y yerno de Mahoma, y exigió que la sucesión siguiera recayendo en este y en toda la línea de parentesco del profeta. El resto se alineó con el gobernador de Siria, Muawiya, miembro de la familia de los Omeya.\nLa mítica batalla de Kerbala (Irak) en la que murió el imán Husein, hijo de Alí y nieto de Mahoma, en el año 680, marcó el principio del cisma entre los chiíes –partidarios de la línea de parentesco – y los vencedores suníes. A partir de aquella batalla, los chiíes han construido su peculiar mística basada en el culto al martirio y al sacrificio, a la espera de que el duodécimo imán (desaparecido misteriosamente) regrese como redentor al final de los tiempos.",
+    "questions": [
+      {
+        "statement": "La expresión EL PRINCIPIO DEL CISMA connota el",
+        "alternatives": [
+          "A) inicio del fin de los tiempos.",
+          "B) comienzo de la división.",
+          "C) punto más álgido.",
+          "D) inicio de la guerra santa.",
+          "E) fin del linaje mahometano."
+        ],
+        "correct": 1,
+        "rationale": "Esta expresión implica una división irreconciliable entre ambas ramas del islam ."
+      },
+      {
+        "statement": "¿Cuál es el tema central del texto?",
+        "alternatives": [
+          "A) La división entre musulmanes por causa del error de Mahoma al no dejar un sucesor.",
+          "B) Las ramificaciones bélicas que se sucedieron luego del asesinato del imán Husein, hijo de Alí.",
+          "C) La violencia fratricida entre musulmanes chiíes y suníes después de la batalla de Kerbala.",
+          "D) La promesa de un mesías que resolverá las diferencias teológicas entre chiíes y sunitas.",
+          "E) El Corán como un factor un ificador de los musulmanes debido a ser considerado como palabra de Alá."
+        ],
+        "correct": 0,
+        "rationale": "El texto señala que el principal error de Mahoma es no haber nombrado un sucesor de su legado ni dejar indicado cómo elegirlo."
+      },
+      {
+        "statement": "Se condice con el texto afirmar que la falta de previsión de Mahoma respecto de su sucesión",
+        "alternatives": [
+          "A) causó la necesidad de un reencuentro entre las dos principales ramas del islam.",
+          "B) es el origen de la disputa entre las dos comunidades musulmanas. ",
+          "C) es una consecuencia de la ausencia de una autoridad central dentro del islam.",
+          "D) generó la convivencia de la época dorada entre los chiíes y los sunitas.",
+          "E) determinó el asesinato de un descendiente directo del profeta Mahoma."
+        ],
+        "correct": 1,
+        "rationale": "De acuerdo al texto, el odio y la división entre estas dos corrientes de la religión islámica tienen su origen en quién debía suceder a Mahoma ."
+      },
+      {
+        "statement": "Si las actuales fronteras de Iraq no hubieran sido delineadas de forma artificial como resultado de una repartición colonial, aglutinando a comunidades radicalmente divididas,",
+        "alternatives": [
+          "A) dichas comunidades habrían logrado encontrar puntos de acuerdo y firmado la paz.",
+          "B) los musulmanes de facciones encontradas podrían cohabitar bajo un régimen laico.",
+          "C) tanto los musulmanes chiitas como los sunitas optarían por vivir separados . ",
+          "D) los sentimientos nacionalistas serían exacerbados para permitir la convivencia.",
+          "E) dichos límites hubieran sido trazados por las autoridades no religiosas como el califa."
+        ],
+        "correct": 2,
+        "rationale": "El texto sostiene que estas dos ramas del islam parecen incapaces de convivir juntas. Si no hubieran sido forzadas a ser un solo país, optarían por estar separadas."
+      },
+      {
+        "statement": "Se infiere del texto que",
+        "alternatives": [
+          "A) el heredero de Mahoma, el imán Husein, hijo de Alí, fue asesinado por los Omeya para hacerse del poder.",
+          "B) hubo un sector de los musulmanes que son considerados disidente desde la llegada de Mahoma a la Tierra.",
+          "C) chiíes y sunitas siguen las mismas tradiciones religiosas y se basan en los cinco pilares del islam pero discrepan respecto a la lectura del Corán.",
+          "D) en todo país musulmán, la figura del imán posee la máxima autoridad en materia religiosa.",
+          "E) la mayoría de los chiíes consideran el aniversario de la batalla de Kerbala como un día de luto sagrado."
+        ],
+        "correct": 4,
+        "rationale": "El imán Husein, nieto del profeta Mahoma, era seguido por los chiíes y fue asesinado en Kerbala. Los musulmanes chiíes conmemoran la batalla de Kerbala cada año en el mes islámico de Muharram."
+      }
+    ]
+  },
+  {
+    "type": "sentence_elimination",
+    "statement": "Seis personas se ubican alrededor de una fogata. ¿De cuántas formas se podrán sentar, si dos de ellos no pueden estar juntos?",
+    "alternatives": [
+      "A) 96",
+      "B) 104",
+      "C) 60",
+      "D) 72",
+      "E) 84"
+    ],
+    "correct": 3,
+    "rationale": "Solución: A =formas en que dos no pueden estar juntos A = 5! – 2.4!= 72 Clave: D"
+  }
+]

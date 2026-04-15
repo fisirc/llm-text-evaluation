@@ -1,0 +1,459 @@
+[
+  {
+    "type": "reading_comprehension",
+    "statement": "El texto filosófico aborda problemas de relevancia ecuménica, como el sentido de la existencia, la naturaleza de la realidad, el valor de la libertad, el fundamento de la ciencia, etc. Tradicionalmente, incide en temas ontológicos, axiológicos, gnoseológicos, éticos, epistemológicos, y en las construcciones de grandes pensadores (Platón, Kant, Nietzsche, entre otras figuras notables). El texto filosófico se erige con la intención deliberada de reflexionar y de comprometernos en una investigación profunda y radical. Las características esenciales del texto filosófico son la densidad conceptual, la pulcritud de sus distinciones y el talante crítico. Debido a la radicalidad del filosofar, el pensador puede propender al aislamiento, a la soledad, con el fin de que afloren sus meditaciones más hondas: ¿Qué es un filósofo? Es un hombre que constantemente vive, ve, oye, sospecha, espera, sueña cosas extraordinarias; alguien al que sus propios pensamientos le golpean como desde fuera, como desde arriba y desde abajo, constituyendo su especie peculiar de acontecimientos y rayos; acaso él mismo sea una tormenta que camina grávida de nuevos rayos; un hombre fatal, rodeado siempre de truenos y gruñidos y aullidos y acontecimientos inquietantes. [Friedrich Nietzsche]",
+    "questions": [
+      {
+        "statement": "En la definición nietzscheana, se pone de relieve",
+        "alternatives": [
+          "A) la racionalidad filosófica y sus niveles",
+          "B) el método de índole hermenéutica.",
+          "C) la torbellino del pensamiento filosófico.",
+          "D) el retoricismo ideológico en la filosofía.",
+          "E) el sosiego de las actitudes filosóficas."
+        ],
+        "correct": 2,
+        "rationale": "Al aludir a la fatalidad y los acontecimientos inquietantes, Nietzsche pone de relieve la fuerte intensidad del pensamiento filosófico."
+      },
+      {
+        "statement": "Al decir que el filósofo «sueña cosas extraordinarias» se quiere dar a entender que el filósofo proyecta __________sobre el mundo.",
+        "alternatives": [
+          "A) paradojas",
+          "B) aporías",
+          "C) falacias",
+          "D) visiones",
+          "E) sofismas"
+        ],
+        "correct": 3,
+        "rationale": "De esa manera, Nietzsche a las visiones propias de los filósofos."
+      }
+    ]
+  },
+  {
+    "type": "reading_comprehension",
+    "statement": "La expresión \"muerte de Dios\" había sido utilizada con anterioridad a Nietzsche por el maestro Eckhart, Lutero, Hegel, Heine y, sobre todo, por el poeta Jean Paul Richter. Pero fue Nietzsche quien hizo de la metáfora \"muerte de Dios\" uno de los ejes entorno a los que gira su filosofía. Dos pasajes de su obra destacan sobre ese fondo temático constante. En el prólogo de Así habló Zaratustra, Nietzsche describe a Zaratustra llegando a los bosques donde encuentra a un anciano eremita que había abandonado su santa choza para buscar raíces en el bosque. ¿Y qué hace el santo en el bosque?, preguntó Zaratustra. El santo respondió:\"",
+    "questions": [
+      {
+        "statement": "Medularmente, el texto aborda",
+        "alternatives": [
+          "A) la demostración de Nietzsche sobre la inexistencia de Dios.",
+          "B) el tema central de Así habló Zaratustra y La gaya ciencia.",
+          "C) la “muerte de Dios” como una metáfora esencial de Occidente.",
+          "D) una dilucidación de la expresión Dios ha muerto en Nietszche.",
+          "E) un análisis profundo del concepto de nihilismo en Nietzsche."
+        ],
+        "correct": 2,
+        "rationale": "El texto se centra en explicación del sentido metafórico en que Nietzsche utiliza la expresión Dios ha muerto."
+      },
+      {
+        "statement": "El sentido de la palabra INCONDUCENTE es",
+        "alternatives": [
+          "A) irracional.",
+          "D) perniciosa.",
+          "B) frenética.",
+          "E) proterva.",
+          "C) inútil."
+        ],
+        "correct": 4,
+        "rationale": "Una búsqueda inconducente es una búsqueda inútil."
+      },
+      {
+        "statement": "Se deduce que el nihilismo entraña, sobre todo, una crisis",
+        "alternatives": [
+          "A) gnoseológica.",
+          "D) metafórica.",
+          "B) metodológica.",
+          "E) axiológica.",
+          "C) estética."
+        ],
+        "correct": 4,
+        "rationale": "El nihilismo abandona la creencia en Dios y de ese modo se derruye todo un sistema de valores."
+      },
+      {
+        "statement": "¿Cuál de los siguientes enunciados es incompatible con la doctrina de Nietzsche?",
+        "alternatives": [
+          "A) El tema de la “muerte de Dios” es uno de los ejes de la obra de Nietzsche.",
+          "B) El loco de La gaya ciencia estaba buscando a Dios en el mercado público.",
+          "C) La muerte de Dios expresa simbólicamente una condición de la humanidad.",
+          "D) El nihilismo será superado con la transmutación de todos los valores.",
+          "E) Para Nietzsche, la muerte de Dios deja incólumes los valores tradicionales."
+        ],
+        "correct": 4,
+        "rationale": "El autor al explicar el sentido metafórico de la expresión Dios ha muerto, pone énfasis en que “al dejar de creer en Dios los hombres han asestado un golpe de muerte a un sistema de valores”."
+      }
+    ]
+  },
+  {
+    "type": "sentence_elimination",
+    "statement": "¿Cuál de los siguientes enunciados es incompatible con la doctrina de Nietzsche?",
+    "alternatives": [
+      "A) El tema de la “muerte de Dios” es uno de los ejes de la obra de Nietzsche.",
+      "B) El loco de La gaya ciencia estaba buscando a Dios en el mercado público.",
+      "C) La muerte de Dios expresa simbólicamente una condición de la humanidad.",
+      "D) El nihilismo será superado con la transmutación de todos los valores.",
+      "E) Para Nietzsche, la muerte de Dios deja incólumes los valores tradicionales."
+    ],
+    "correct": 4,
+    "rationale": "El autor al explicar el sentido metafórico de la expresión Dios ha muerto, pone énfasis en que “al dejar de creer en Dios los hombres han asestado un golpe de muerte a un sistema de valores”."
+  },
+  {
+    "type": "reading_comprehension",
+    "statement": "El mito del marco puede enunciarse brevemente en los siguientes términos. Es imposible toda discusión racional o fructífera, a menos que los participantes compartan un marco común de supuestos básicos o que, como mínimo, se hayan puesto de acuerdo sobre dicho marco en vistas de la discusión. Este es el mito que me dispongo a rebatir. Tal como lo he enunciado, el mito tiene el aspecto de un juicio sobrio, de una advertencia sensible a la que deberíamos prestar atención a la hora de mantener una discusión racional. Incluso, hay gente que piensa que lo que describo como mito es un principio lógico, o se basa en un principio lógico. Por el contrario, no solo pienso que se trata de un enunciado falso, sino también de un enunciado perverso que, si fueran muchos los que creyeran en él, socavaría la unidad de la humanidad y, por tanto, incrementaría enormemente la probabilidad de la violencia y de guerra. Esta es la razón principal por la que quiero combatirlo de manera frontal. Como he indicado, entiendo por “marco” un conjunto de supuestos básicos o principios fundamentales; esto es, un marco intelectual. Es importante distinguir ese marco de ciertas actitudes que en verdad pueden ser precondiciones de una discusión, como el deseo de lograr la verdad o de acercarse a ella, la voluntad de compartir problemas o de emprender los objetivos y afrontar en conjunto los problemas de otra persona. De entrada, diré que el mito contiene un núcleo de verdad. Aunque considero muy peligroso decir que es imposible toda discusión fructífera a menos que los participantes compartan un marco común, estoy completamente dispuesto a admitir que una discusión entre participantes que no comparten un marco común puede ser difícil. También será difícil una discusión si los marcos tienen poco en común. En verdad, si los participantes están de acuerdo en todo, la discusión puede resultar más cómoda, fácil y racional, aunque tal vez soporífera para un verdadero polemista. ¿Y en cuanto a la utilidad? En la formulación del mito que he presentado, lo que se declara imposible es una discusión fructífera. Contra esto defenderé la tesis directamente opuesta: que no es probable que sea fructífera una discusión entre personas que comparten muchos puntos de vista, aun cuando pueda ser agradable; mientras que una discusión entre marcos muy diferentes puede ser extremadamente fructífera, aun cuando a veces puede ser extremadamente difícil y, tal vez, en absoluto tan agradable (si bien podemos aprender a disfrutar de ella). A mi juicio, se puede decir que una discusión es tanto más fructífera cuanto más aprendan en ella sus participantes. Y esto quiere decir que cuanto más interesantes y difíciles sean las cuestiones a las que se enfrenten, tanto más novedosas serán las respuestas que se verán inducidos a pensar, tanto más sacudidos se sentirán en sus opiniones y tanto más podrán considerar las cosas de diferente manera después de la discusión; en resumen, tanto más se ensancharán sus horizontes intelectuales. En este sentido, la utilidad dependerá siempre de la distancia originaria entre las opiniones de los participantes en la discusión. Cuanto más grande sea esa distancia, más fructífera puede ser la discusión, siempre suponiendo, claro está, que tal discusión no es en absoluto imposible como afirma el mito del marco.",
+    "questions": [
+      {
+        "statement": "En el texto, el término SOPORÍFERA se puede reemplazar por",
+        "alternatives": [
+          "A) enervante.",
+          "D) perniciosa.",
+          "B) tediosa.",
+          "E) apacible.",
+          "C) paradójica."
+        ],
+        "correct": 1,
+        "rationale": "Si estamos de acuerdo en todo, se puede suscitar una conversación aburrida o tediosa."
+      },
+      {
+        "statement": "¿Cuál es la idea principal que defiende el autor?",
+        "alternatives": [
+          "A) El marco común es la base de toda discusión provechosa en la ciencia.",
+          "B) El mito del marco común puede contener, en el fondo, algo de verdad.",
+          "C) La búsqueda de la verdad solamente es posible en un marco común.",
+          "D) La discusión es más proficua cuando hay divergencia de posiciones.",
+          "E) La discusión entre marcos distintos suele ser difícil y conlleva inquina."
+        ],
+        "correct": 3,
+        "rationale": "El autor defiende que cuanta más diferencia de opinión, la discusión será más proficua."
+      },
+      {
+        "statement": "¿Cuál es el enunciado incompatible con la opinión del autor?",
+        "alternatives": [
+          "A) El mito del marco coadyuva a la violencia y la guerra.",
+          "B) El diálogo es fructífero cuando los marcos son diferentes.",
+          "C) La discusión basada en un marco común es muy proficua.",
+          "D) Conversar sobre la base de un marco común es gratificante.",
+          "E) El mito del marco común intenta definir una discusión racional."
+        ],
+        "correct": 2,
+        "rationale": "Según el autor, es todo lo contrario: es inútil."
+      }
+    ]
+  },
+  {
+    "type": "reading_comprehension",
+    "statement": "Lo que Ludwig Wittgenstein necesitaba en 1913 era soledad. Encontró un lugar ideal:\nun pueblo llamado Skjolden, junto al fiordo Sogne, al norte de Bergen. Allí se alojó en casa\ndel administrador de correos local, Hans Klingenberg. «Como apenas me encuentro con\nalgún alma en este lugar», le escribió a Bertrand Russell, «mi progreso con el noruego es\nextraordinariamente lento». Ninguna de las dos frases es del todo cierta. De hecho, hizo\namistad con algunas personas del pueblo. Aparte de los Klingenberg, conoció a Halvard\nDraegni, el propietario de una fábrica de cajas de embalar, Anna Rebni, granjera, y Arne\nBolstad, por entonces un muchacho de trece años. Y sus progresos con el noruego eran\ntan rápidos que, al cabo de un año, era capaz de intercambiar correspondencia con sus\namigos en ese idioma. Hay que admitir que el lenguaje de las cartas no era en exceso\ncomplicado ni sofisticado. Pero ello se debía menos a las limitaciones de su noruego que\na la naturaleza de su amistad. De hecho, se trataba de ese tipo de cartas sencillas, directas\ny breves que a él tanto le gustaban: «Querido Ludwig, ¿cómo estás? Pensamos en ti con\nfrecuencia» sería un ejemplo típico.\n\nPor tanto, no estaba del todo separado del contacto humano. Pero se encontraba –\ny quizá eso es lo más importante– lejos de la sociedad, libre del tipo de obligaciones y\nexpectativas impuestas por la vida burguesa, ya fuera la de Cambridge ola de Viena. El\nhorror que sentía hacia la vida burguesa se basaba en parte en la naturaleza superficial\nque imponía a las relaciones entre las personas, pero también en parte en el hecho de que\n\nsu propia naturaleza le imponía un conflicto casi insoportable cuando se enfrentaba a ella:\nel conflicto entre la necesidad de resistirse y la necesidad de adaptarse.\n\nEn Skjolden estaba libre de tales conflictos; podía ser él mismo sin la tensión que le\ncausaba el importunar u ofender a los demás. Era una tremenda liberación. Se podía\ndedicarse enteramente a sí mismo o, mejor dicho, a lo que él creía que era la misma cosa: a\nsu lógica. Eso, y la belleza del paisaje –ideal para los paseos largos y solitarios que\nprecisaba tanto para relajarse como para meditar– produjo en él una especie de euforia.\nJuntos creaban las perfectas condiciones para pensar. Fue quizá la única vez en su vida\nen que no tuvo dudas acerca de que se encontraba en el lugar adecuado, haciendo lo más\nadecuado; y el año que pasó en Skjolden fue quizá el más productivo de su vida. Años más\ntarde solía recordarlo como una época en que había tenido unos pensamientos que eran\nenteramente suyos, en la que había «dado a luz nuevos movimientos en el pensamiento».\n«¡Entonces mi mente estaba en llamas!», solía decir.",
+    "questions": [
+      {
+        "statement": "¿Cuál es la mejor síntesis del texto?",
+        "alternatives": [
+          "A) En las misivas que Wittgenstein le envió a Russell en 1913, se solazaba describiendo los hermosos paisajes, inolvidables para él, de Skjolden",
+          "D) En el pueblo noruego de Skjolden, Wittgenstein desataba toda su furia emocional, lo que le permitía reconciliarse con el mundo de la burguesía",
+          "C) Skjolden, al norte de Bergen, le recordaba constantemente a Wittgenstein la vida apacible que solía llevar en su ciudad natal, Viena (Austri",
+          "D) En 1913, Wittgenstein llegó al pueblito Skjolden, un lugar maravilloso e ideal porque era el mejor entorno para dedicarse por completo a su lógica",
+          "E) La permanencia de Wittgenstein en Skjolden, junto al fiordo Sogne, le permitió estar totalmente alejado del contacto humano que tenía en Cambridge."
+        ],
+        "correct": 3,
+        "rationale": "Cuando Wittgenstein llegó a Skjolden, llegó al lugar ideal: la belleza del paisaje y su soledad eran las perfectas condiciones para poder dedicarse al puro pensamiento."
+      },
+      {
+        "statement": "En el texto, el adjetivo SOFISTICADO significa",
+        "alternatives": [
+          "A) esencial.",
+          "D) laberíntico.",
+          "B) correcto.",
+          "E) sutil.",
+          "C) tenue."
+        ],
+        "correct": 3,
+        "rationale": "Solución: Aplicado a estilo de lenguaje, el adjetivo SOFISTICADO significa ‘sutil’."
+      },
+      {
+        "statement": "Resulta incompatible con el pensamiento de Wittgenstein sostener que la filosofía es una actividad",
+        "alternatives": [
+          "A) lógica.",
+          "D) profunda.",
+          "B) reflexiva.",
+          "E) intensa.",
+          "C) gregaria."
+        ],
+        "correct": 4,
+        "rationale": "Para Wittgenstein, la filosofía implicaba soledad. Por ende, no es compatible decir que la considerase un saber gregario."
+      },
+      {
+        "statement": "Para Wittgenstein, vivir en una ciudad como New York podría haber resultado",
+        "alternatives": [
+          "A) atenuante.",
+          "D) estimulante",
+          "B) proficuo.",
+          "E) agobiante.",
+          "C) lúdico."
+        ],
+        "correct": 4,
+        "rationale": "Wittgenstein sentía horror ante la vida burguesa."
+      }
+    ]
+  },
+  {
+    "type": "reading_comprehension",
+    "statement": "4. Para Wittgenstein, vivir en una ciudad como New York podría haber resultado 5. Cuando Wittgenstein expresa «¡Entonces mi mente estaba en llamas!» quiere decir 6. Sobre la base del contenido del texto, podemos inferir que Wittgenstein estudiaba 7. Si lo que Wittgenstein le escribió a Russell hubiese sido plenamente cierto, 8. Si a Wittgenstein le hubiese gustado la vida burguesa",
+    "questions": [
+      {
+        "statement": "Para Wittgenstein, vivir en una ciudad como New York podría haber resultado",
+        "alternatives": [
+          "A) atenuante.",
+          "D) estimulante",
+          "B) proficuo.",
+          "E) agobiante.",
+          "C) lúdico."
+        ],
+        "correct": 4,
+        "rationale": "Wittgenstein sentía horror ante la vida burguesa."
+      },
+      {
+        "statement": "Cuando Wittgenstein expresa «¡Entonces mi mente estaba en llamas!» quiere decir",
+        "alternatives": [
+          "A) estaba llena de tensiones y contradicciones.",
+          "B) sufría de intermitentes y agudas cefalalgias.",
+          "C) fraguaba una ebullición de pensamientos.",
+          "D) estaba poseída por un frenesí emocional.",
+          "E) se amoldaba al frío imperante en Skjolden."
+        ],
+        "correct": 2,
+        "rationale": "La mente en llamas es una metáfora para designar la ebullición de pensamientos nuevos."
+      },
+      {
+        "statement": "Sobre la base del contenido del texto, podemos inferir que Wittgenstein estudiaba",
+        "alternatives": [
+          "A) la estructura formal de la proposición.",
+          "B) la naturaleza atemporal de la divinidad.",
+          "C) la historia de toda la filosofía occidental.",
+          "D) la esencia de la justicia en la sociedad.",
+          "E) la fundamentación de la ciencia histórica."
+        ],
+        "correct": 0,
+        "rationale": "Dado que el texto se refiere a la lógica como un tema esencial de Wittgenstein, cabe deducir que él estudiaba las proposiciones."
+      },
+      {
+        "statement": "Si lo que Wittgenstein le escribió a Russell hubiese sido plenamente cierto,",
+        "alternatives": [
+          "A) no habría sido verdad que necesitaba estar sin compañía.",
+          "B) habría hecho muchos amigos en el pueblo de Skjolden.",
+          "C) no habría podido redactar correspondencia en noruego.",
+          "D) habría mostrado una gran antipatía hacia Cambridge.",
+          "E) el paisaje de Skjolden no habría sido tan maravilloso."
+        ],
+        "correct": 2,
+        "rationale": "Le cuenta a Russell que su progreso en el aprendizaje del noruego es extraordinariamente lento. Si eso fuera verdad, no habría podido escribir cartas en noruego."
+      },
+      {
+        "statement": "Si a Wittgenstein le hubiese gustado la vida burguesa,",
+        "alternatives": [
+          "A) habría vivido en una tensión esencial.",
+          "B) se habría sentido a gusto en Londres.",
+          "C) le habrían gustado los paseos largos.",
+          "D) habría estado en contra de la sociedad.",
+          "E) no habría resistido la vida en Austria."
+        ],
+        "correct": 1,
+        "rationale": "Dado que Londres estaba regido por la vida burguesa como Cambridge, se habría sentido a gusto en la ciudad inglesa."
+      }
+    ]
+  },
+  {
+    "type": "reading_comprehension",
+    "statement": "SEMANA 16 B\n«El 12 de octubre es una fecha importante porque representa el 'encuentro de dos mundos'», señalan algunos. Pero no fue tanto un «encuentro» como la destrucción de un mundo por otro. El historiador estadounidense H. F. Dobyns ha estimado que el 95 %de la población indígena del continente había desaparecido 130 años después de la conquista, no solo por las guerras y las enfermedades, sino, sobre todo, por los trabajos forzados en las haciendas y en las minas. La escala de destrucción que supuso la conquista de América no se compara con las masacres cometidas por otros pueblos. Celebrar eso quinientos años después como un orgullo nacional es como conmemorar la barbarie.\n\nVista con perspectiva histórica, la conquista de América dio paso a la colonización de\nun continente, al establecimiento de un régimen opresivo en el que se redujo a la esclavitud\no a la servidumbre a la población nativa, al desarrollo masivo del comercio trasatlántico de\\sesclavos africanos, que produjo millones de muertos, y, en general, a la consolidación de\nestructuras de poder profundamente desiguales. La riqueza expoliada no sirvió para\nofrecerle a los pueblos colonizados la posibilidad de mejorar su situación. Por todo ello, el 12 de octubre es un día sin nada que celebrar.\n\nGuzmán, V. (17 de diciembre de 2017). «Argumentos contra la celebración del 12 de octubre». Recuperado de http://www.rebelion.org/noticia.php?id=204366\n\nLa obra de España en América constituye una práctica imperial civilizatoria. A finales\ndel XIX, el historiador norteamericano Carlos F. Lummis, comparando la acción de España\ncon la de otros imperios, sostiene que «España había logrado arraigar y estaba civilizando\naquellos países. Había construido en el Nuevo Mundo centenares de ciudades con todas\\ las ventajas de la civilización que entonces se conocían». En esta línea, Richard Kagan indica que España constituía un «imperio de ciudades». Será esta tupida red, organizada administrativamente a través del derecho indiano, la mole imperial que dejará España en América, una mole que será la base sobre la que se asienten las naciones que, en el XIX, nacerán emancipadas del tutelaje imperial. Precisamente, es la Legislación Indiana, implantada por los españoles, la que está en la base del derecho público de los países hispanoamericanos. España realizó esto, no exterminando a la población indígena, sino contando —incluso mezclándose y conviviendo— con ella, reconociendo a sus miembros como propietarios legítimos de sus tierras, y ejerciendo su tutela para sacarlos del «estado de naturaleza» y ponerlos en «estado de derecho». Es esto, en definitiva, lo que se conmemora el 12 de octubre, por lo que esta es una fecha con mucho que celebrar.\n\nInsúa, P. (14 de octubre de 2017). «Contra el odio \"manufacturado\": 12 de octubre, mucho que celebrar». SOFT. Signs of the time. Recuperado de https://es.sott.net/article/62834-Contra-el-odio-manufacturado-12-de-Octubre-mucho-que-celebrar. [Adaptado].",
+    "questions": [
+      {
+        "statement": "Ambos textos se enfrascan en una disputa que tiene como eje",
+        "alternatives": [
+          "A) el 12 de octubre como hito para la historia latinoamericana.",
+          "B) la importancia del 12 de octubre para el pueblo americano.",
+          "C) la naturaleza de la destrucción española del nuevo mundo.",
+          "D) la conmemoración del descubrimiento español de América.",
+          "E) si hay o no fundamento para celebrar el 12 de octubre."
+        ],
+        "correct": 4,
+        "rationale": "Solución:\nAmbos autores discuten sobre la posibilidad de justificar la celebración del 12 de\noctubre. Para el texto A, no existen razones que justifiquen dicha celebración, caso\ncontrario de B, que considera que se conservan argumentos para festejar.\n\nRpta.: E"
+      },
+      {
+        "statement": "En el texto 1 A, el término BARBARIE connota",
+        "alternatives": [
+          "A) difamación.",
+          "D) ausencia.",
+          "B) salvajismo.",
+          "E) ocultamiento.",
+          "C) ignorancia."
+        ],
+        "correct": 2,
+        "rationale": "Solución:\nEn su contexto, se alude al exterminio de la población indígena tras la llegada de los\nespañoles. Al considerar las cifras (95% de la población fue exterminada), es evidente\nque es un acto de salvajismo.\n\nRpta.: B"
+      },
+      {
+        "statement": "Del texto se desprende que el primer argumento del texto 1 A incide en el aspecto ___________como evidencia del cruento accionar de los españoles.",
+        "alternatives": [
+          "A) arqueológico",
+          "D) sanitario",
+          "B) humanista",
+          "E) bélico",
+          "C) demográfico"
+        ],
+        "correct": 4,
+        "rationale": "Solución:\nEl primer argumento del texto 3A incide en la demografía para evidenciar la conducta sanguinaria de los conquistadores, quienes casi aniquilaron a toda la población indígena."
+      },
+      {
+        "statement": "En relación con el rol civilizador de España en el nuevo mundo, que defiende el autor del texto 1 B, no es congruente afirmar que",
+        "alternatives": [
+          "A) el proceso de independencia implicó una ruptura radical con el pasado colonial.",
+          "B) supone que civilizar y urbanizar tenían un significado similar para los españoles.",
+          "C) brindó insumos para la formación de las nuevas naciones tras la emancipación.",
+          "D) las ciudades y las leyes coloniales sirvieron para proyectos de carácter diverso.",
+          "E) implicó, de parte de la corona española, el anhelo de incorporar a los indígenas."
+        ],
+        "correct": 0,
+        "rationale": "Solución:\nEl texto 1 B sostiene que, sin la urbanización, el aparato administrativo y la Legislación Indiana, la formación de las nuevas naciones hubiera carecido de una base sólida. Así, tras la independencia, aún existe un nexo con la herencia colonial."
+      },
+      {
+        "statement": "Si, en la lógica del texto 1 A, la extracción de la riqueza del territorio americano hubiera\ncontribuido a mejorar la calidad de vida durante la Colonia,",
+        "alternatives": [
+          "A) el propósito civilizador del imperio español quedaría demostrado de forma tajante.",
+          "B) urbanizar América sería prueba de que los colonos apreciaron la cultura indígena.",
+          "C) la legislación creada para impartir justicia en la colonia habría carecido de validez.",
+          "D) aún podría imputárseles a los conquistadores el exterminio de la población nativa.",
+          "E) la colonización habría sido una empresa inviable para los españoles que llegaron."
+        ],
+        "correct": 3,
+        "rationale": "Solución:\nEl texto 1 A defiende su posición a partir de dos ideas: la llegada de los españoles\nsupuso el casi total exterminio de las poblaciones nativas y, tras su arribo, se impuso\nun régimen colonial que solo empeoró la situación de los pueblos sometidos. Así, la\npremisa de la pregunta no anula la primera idea.\n\nRpta.: D"
+      }
+    ]
+  },
+  {
+    "type": "reading_comprehension",
+    "statement": "Se requieren 1500 litros de agua para generar un kilo de granos y poco más de diez veces esa cantidad para producir un kilo de carne, señaló hoy la FAO durante el Día Mundial del Agua. El lema durante el año 2012 fue «Agua y seguridad alimentaria», y demuestra la importancia clave que tiene el agua en la producción alimentaria. Para producir suficientes alimentos que satisfagan las necesidades diarias de una persona se requieren alrededor de 3000 litros de agua. Hoy en día hay más de 7 mil millones de personas que alimentar en el planeta y se considera que esta cifra llegará a 9 mil millones en 2050.\n\n«Si queremos alimentar a una población creciente, es fundamental producir más alimentos utilizando menos agua, reducir el desperdicio y las pérdidas y avanzar hacia una alimentación más sostenible», señaló Alan Bojanic, Representante Regional de la FAO para América Latina y el Caribe.\n\nLa agricultura utiliza hoy el 70 %de toda el agua que se extrae de acuíferos, ríos y lagos, comparado con un 20 %por parte de la industria y un 10 %es utilizado para usos domésticos. «El agua dulce es un recurso renovable; sin embargo, es finito, mientras que la población mundial crece año a año, lo que significa que va a ser cada vez más difícil satisfaceser las necesidades de todos sino mejoramos la eficiencia de su uso», explicó Bojanic. América Latina es una región rica en recursos hídricos: recibe casi el 30 %de la precipitación mundial, y posee una cantidad de agua por habitante muy por encima del promedio mundial: 28 000 metros cúbicos por habitante al año. No obstante, la distribución del agua en la región es muy desigual y su disponibilidad está sujeta a numerosas presiones, de manera que es apremiante reflexionar acerca de lo necesaria que es el agua y lo significativo de su gasto para producir alimentos.\n\nFAO (2012). «Día Mundial del Agua: se requieren 15.000 litros de agua para generar un kilo de carne, señala la FAO». Recuperado de <http://www.fao.org/americas/noticias/ver/es/c/229495/>.",
+    "questions": [
+      {
+        "statement": "Determine el tema central del texto.",
+        "alternatives": [
+          "A) La relación entre cantidad de agua y producción de alimentos",
+          "B) El despilfarro del agua en la producción de la carne de vaca",
+          "C) La cantidad de agua requerida para la generación de carne",
+          "D) La producción alimentaria mundial de acuerdo con la FAO",
+          "E) El agua y su importancia en la producción agrícola mundial"
+        ],
+        "correct": 0,
+        "rationale": "En el texto se establece un vínculo, en clave reflexiva, entre la cantidad de agua y la producción de alimentos."
+      },
+      {
+        "statement": "En el texto, el vocablo CONSIDERAR implica",
+        "alternatives": [
+          "A) disquisición.",
+          "D) previsión.",
+          "B) causalidad.",
+          "E) determinación.",
+          "C) coacción."
+        ],
+        "correct": 1,
+        "rationale": "El término se usa para hacer referencia al futuro. Implica, por lo tanto, previsión."
+      },
+      {
+        "statement": "Sobre los requerimientos actuales para cubrir las necesidades alimentarias de la población mundial, es incompatible afirmar que",
+        "alternatives": [
+          "A) el crecimiento en el mundo estará asociado a la necesidad de contar con un uso moderado y sostenible del agua.",
+          "B) la agricultura usa menos agua en comparación con las aplicaciones domésticas para las que pueda usarse.",
+          "C) existe una diferencia exponencial entre los requerimientos de la producción de carne y los de los vegetales.",
+          "D) todas las regiones ostentan un igual volumen del recurso hídrico para usarlo en su consumo.",
+          "E) el gasto de agua en actividades de producción de alimentos asciende a 3000 litros por persona."
+        ],
+        "correct": 1,
+        "rationale": "En el texto se señala que América Latina es la que evidencia un mayor volumen de agua, aunque la distribución en la región es desigual."
+      },
+      {
+        "statement": "Si la producción ganadera se sustentara en mecanismos que eludan el uso de agua,",
+        "alternatives": [
+          "A) las voces de alarma acerca de su escasez estarían orientadas por grupos de poder.",
+          "B) el agua debería reciclarse de forma menos apresurada por la abundancia del recurso.",
+          "C) sería una alternativa idónea para adaptarnos a la potencial escasez de este recurso finito.",
+          "D) debería prohibirse de forma férrea el activismo vegano debido a su sesgo antiecológico.",
+          "E) los cultivos en zonas productivas dejarían de ser sostenibles debido a la carencia de suelos."
+        ],
+        "correct": 2,
+        "rationale": "El agua es un recurso finito; por consiguiente, sería idóneo que la producción alimentaria minimice el excesivo gasto actual. Justamente la producción de carne es la que exige un gasto mayor del recurso. De soslayar el consumo de agua, sería la opción más idónea."
+      }
+    ]
+  },
+  {
+    "type": "reading_comprehension",
+    "statement": "SEMANA 16 C\n\nEn 1844 se publicó un pequeño y excéntrico libro titulado Vestigios de la Historia Natural de la Creación. Entre otras cosas, su autor –que en aquel entonces mantuvo el anonimato– proponía un mecanismo que explicaba la evolución. El escritor tenía motivos fundados para ocultar su nombre, pues Vestigios fue enérgicamente condenado por los científicos y el clero.\n\nEl libro fue escrito por Robert Chambers, editor y científico aficionado. En un capítulo titulado «Orígenes de las tribus animadas», Chambers afirmaba que la Tierra no fue creada específicamente por Dios, sino formada por unas leyes que expresaban la voluntad del Creador. Luego se refería a los seres vivos: «El que Dios creara a los seres vivos es algo que doy por supuesto. Pero en cuanto a los pormenores de esta idea tan aceptada, es preciso replantearse ciertos aspectos».\n\nEste replanteamiento condujo a una teoría donde la evolución era propiciada por factores ambientales. Al igual que el francés Lamarck, Chambers opinaba que la evolución era progresiva y seguía un plan prefijado. En cuanto a los animales, Chambers sostenía que el resultado final de ese plan era el hombre. Asimismo, creía en la generación espontánea: la idea de que la vida podía brotar de la materia inanimada.\n\nEn el ambiente liberal de Francia, las opiniones de Lamarck sobre la evolución fueron acogidas con escepticismo e indiferencia. Pero Gran Bretaña reservaba una respuesta más hostil a todo aquel que osara abrazar por escrito la tesis de la evolución. Adam Sedgwick, profesor de geología en Cambridge, escribió una dura crítica de 85 páginas. Declaraba, por ejemplo, que «las gloriosas doncellas y matronas» del país deberían ser protegidas de tales ideas. Miembros del clero se mostraron escandalizados, en especial por la insinuación de que los humanos provenían de los animales.\n\nPese a las críticas, Vestigios fue un éxito editorial y se publicaron muchas ediciones. Sin embargo, sirvió de advertencia. Para un coetáneo de Chambers –Charles Darwin– los peligros de defender la evolución eran más que evidentes.\n",
+    "questions": [
+      {
+        "statement": "En el texto, el sentido preciso del término INSINUACIÓN es",
+        "alternatives": [
+          "A) prognosis.",
+          "D) crítica.",
+          "B) adivinación.",
+          "E) suposición.",
+          "C) malicia."
+        ],
+        "correct": 3,
+        "rationale": "Insinuar un vínculo filogenético entre animales y hombres responde a una conjetura o a una suposición."
+      },
+      {
+        "statement": "Respecto de la teoría de Chambers, tanto el clero como los científicos adoptaron una posición",
+        "alternatives": [
+          "A) ambivalente.",
+          "D) antagónica.",
+          "B) ecléctica.",
+          "E) conciliadora.",
+          "C) obsecuente."
+        ],
+        "correct": 1,
+        "rationale": "Ambos grupos expresaron una enérgica condena."
+      },
+      {
+        "statement": "¿Cuál es la idea central del texto?",
+        "alternatives": [
+          "A) Pese a las objeciones en contra de su contenido, Vestigios fue un rotundo éxito editorial porque se publicaron muchas ediciones.",
+          "B) En 1844 Robert Chambers propuso un mecanismo que explicaba la evolución, pero su teoría fue objeto de duras críticas en Gran Bretaña.",
+          "C) Mientras que la teoría de Lamarck fue recibida con escepticismo, la teoría de Chambers fue objeto de una respuesta más hostil.",
+          "D) Debido a lo que ocurrió con Vestigios, Darwin pudo comprender con claridad los riesgos de defender la doctrina evolucionista.",
+          "E) Estuvo bien que Robert Chambers mantuviera el anonimato porque las críticas contra Vestigios revelaban una actitud peligrosa."
+        ],
+        "correct": 1,
+        "rationale": "El texto gira entorno a Vestigios y la condenación de la que fue víctima."
+      },
+      {
+        "statement": "Se infiere que Chambers, al igual que Lamarck, propugnaba una visión",
+        "alternatives": [
+          "A) religiosa.",
+          "D) genetista.",
+          "B) teleológica.",
+          "E) aleatoria.",
+          "C) atea."
+        ],
+        "correct": 2,
+        "rationale": "Se infiere una visión teleológica a partir de que ambos explicaban la evolución en términos de un plan prefijado con un resultado final."
+      },
+      {
+        "statement": "Cabe colegir del texto que, según Chambers",
+        "alternatives": [
+          "A) las moscas pueden originarse a partir de la materia inanimada.",
+          "B) la voluntad del Creador es muy limitada en su obra creativa.",
+          "C) la Tierra surgió en virtud de un acto único de creación especial.",
+          "D) la voluntad divina excluye absolutamente las leyes naturales.",
+          "E) todos los seres vivientes han sido creados simultáneamente."
+        ],
+        "correct": 0,
+        "rationale": "Dado que Chambers era partidario de la generación espontánea, se infiere que creía que las moscas pueden surgir de la carne pútrida."
+      },
+      {
+        "statement": "¿Cuál de las siguientes aserciones es incompatible con el texto?",
+        "alternatives": [
+          "A) En el libro de Chambers, hay compatibilidad entre creación y evolución.",
+          "B) En Gran Bretaña había una propensión más moralizante que en Francia.",
+          "C) En la teoría de Chambers, la evolución se explica por grandes saltos.",
+          "D) Es probable que se desconfiara de la solvencia científica de Chambers.",
+          "E) La obra de Robert Chambers fue un opúsculo atractivo y sorprendente."
+        ],
+        "correct": 2,
+        "rationale": "Incompatible, puesto que Chambers sostenía el ritmo progresivo de la evolución."
+      }
+    ]
+  }
+]

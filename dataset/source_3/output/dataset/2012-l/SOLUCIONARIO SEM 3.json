@@ -1,0 +1,659 @@
+[
+  {
+    "type": "reading_comprehension",
+    "statement": "Aseveran ciertos teólogos que si la atención del Señor se desviara un solo segundo de mi derecha mano que escribe, esta recaería en la nada, como si la fulminara un fuego sin luz. Nadie puede ser, digo yo, nadie puede probar una copa de agua o partir un trozo de pan, sin justificación. Para cada hombre, esa justificación es distinta; yo esperaba la guerra inexorable que probaría nuestra fe. Me bastaba saber que yo sería un soldado de sus batallas. Alguna vez temí que nos defraudaran la cobardía de Inglaterra y de Rusia. El oscurecer, hubo disturbios en Tilsit que los diarios no registraron; en la calle detrás de la sinagoga, dos balas me atravesaron la pierna. Días después, entraban en Bohemia nuestros ejércitos; cuando las sirenas lo proclamaron, yo estaba en el sedentario hospital, tratando de perderme y de olvidarme en los libros de Schopenhauer. Símbolo de mi vano destino, dormía en el reborde de la ventana un gato enorme y fofo.\nEn el primer volumen de Parerga und Paralipomena releí que todos los hechos que pueden ocurrirle a un hombre, desde el instante de su nacimiento hasta el de su muerte, han sido prefijados por él. Así, toda negligencia es deliberada, todo casual encuentro una cita, toda humillación una penitencia, todo fracaso una misteriosa victoria, toda muerte un suicidio. No hay consuelo más hábil que el pensamiento de que hemos elegido nuestras desdichas; esa teleología individual nos revela un orden secreto y prodigiosamente nos confunde con la divinidad. ¿Qué ignorado propósito (cavilé) me hizo buscar ese atardecer, esas balas y esa mutilación? No el temor de la guerra, yo lo sabía; algo más profundo. Al fin creí entender. Morir por una religión es más simple que vivirla con plenitud; batallar en Éfeso contra las fieras es menos duro (miles de mártires oscuros lo hicieron) que ser Pablo, siervo de Jesucristo; un acto es menos que todas las horas de un hombre. La batalla y la gloria son facilidades; más ardua que la empresa de Napoleón fue la de Raskolnikov. El siete de febrero de 1941 fui nombrado subdirector del campo de concentración de Tarnowitz.\nEl ejercicio de ese cargo no me fue grato; pero no pequé nunca de negligencia. El cobarde se prueba entre las espadas; el misericordioso, el piadoso, busca el examen de las cárceles y del dolor ajeno. El nazismo, intrínsecamente, es un hecho moral, un despojarse del viejo hombre, que está viciado, para vestir el nuevo. En la batalla esa mutación es común, entre el clamor de los capitanes y el vocerío; no así en un torpe calabozo, donde nos tienta con antiguas ternuras la insidiosa piedad. No en vano escribo esa palabra; la piedad por el hombre superiores el último pecado de Zarathustra. Casi lo cometí (lo confieso) cuando nos remitieron de Breslau al insigne poeta David Jerusalem. Era este un hombre de cincuenta años. Pobre de bienes de este mundo, perseguido, negado, vituperado, había consagrado su genio a cantar la felicidad. Hombre de memorables ojos, de piel cetrina, de barba casi negra, David Jerusalem era el prototipo del judío sefardí. Fui severo con él; no permití que me ablandaran ni la compasión ni su gloria. Yo había comprendido hace muchos años que no hay cosa en el mundo que no sea germen de un Infierno posible; un rostro, una palabra, una brújula, un aviso de cigarrillos, podrían enloquecer a una persona, si esta no lograra olvidarlos. ¿No estaría loco un hombre que continuamente se figurara el mapa de Hungría? Determiné aplicar ese principio al régimen disciplinario de nuestra casa y... a fines de 1942, Jerusalem perdió la razón; el primero de marzo de 1943 logró darse muerte. Ignoro si Jerusalem comprendió que si yo lo destruí, fue para destruir mi piedad. Yo agonicé con él, yo morí con él, yo de algún modo me he perdido con él; por eso, fui implacable.",
+    "questions": [
+      {
+        "statement": "Medularmente , el narrador busca propugnar",
+        "alternatives": [
+          "A) la disparidad entre la piedad y el valor.",
+          "B) el nazismo como inveterada adhesión.",
+          "C) su predilección por la filosofía alemana.",
+          "D) el nuevo sentido moral del nazismo.",
+          "E) justificar la impiedad de las cárceles."
+        ],
+        "correct": 3,
+        "rationale": "El texto gira entorno la transformación sufrida por el narrador: « Ignoro si Jerusalem comprendió que si yo lo destruí, fue para destruir mi piedad. …yo de algún modo me he perdido con él; por eso, fui implacable.»"
+      },
+      {
+        "statement": "Es inc ompatible al pensamiento del narrador afirmar que",
+        "alternatives": [
+          "A) asumía el nazismo como una mutación provechosa.",
+          "B) todos los actos humanos carecen de justificación.",
+          "C) la misericordia en sus múltiples formas es abominable.",
+          "D) la valentía no está signada por el ejercicio de las armas.",
+          "E) el sacrificio más grande es vivir plenamente una religión."
+        ],
+        "correct": 1,
+        "rationale": "Nadie puede ser, digo yo, nadie puede probar una copa de agua o partir un trozo de pan, sin justificación…; por ello, el autor se deduce que consideraría que nuestros actos están totalmente justificados."
+      },
+      {
+        "statement": "Se desprende del texto que Jerusalem",
+        "alternatives": [
+          "A) terminó suicidándose luego de recobrar la cordura.",
+          "B) tuvo una tarea más ardua que la de Napoleón.",
+          "C) era un renombrado escritor e insigne potentado.",
+          "D) desplegaba una literatura de temática luctuosa.",
+          "E) fue visto por el narrador como un alma gemela."
+        ],
+        "correct": 4,
+        "rationale": "Dice el narrador que agonizó y murió con Jerusalem."
+      },
+      {
+        "statement": "Del texto se desprende que el narrador",
+        "alternatives": [
+          "A) había sufrido la mutilación de una extremidad inferior.",
+          "B) guarda inquina por los pensamientos de Zarathustra.",
+          "C) asumió el liderazgo general del Partido Nazi alemán.",
+          "D) cree que Raskolnikov es un héroe militar muy famoso.",
+          "E) recusa con vehemencia la filosofía de Schopenhauer."
+        ],
+        "correct": 0,
+        "rationale": "El autor hace referencia a un atentado efectuado el primero de marzo de 1939 en el que recibió unas balas en la pierna. Luego, se pregunta: ¿Qué me hizo buscar ese atardecer, esas balas y esa mutilación?"
+      },
+      {
+        "statement": "Si el primer volumen de Parerga und Paralipomena estableciera que los actos del hombre son ajenos a su voluntad, el narrador",
+        "alternatives": [
+          "A) pensaría que el destino depende de los seres humanos.",
+          "B) concordaría con todo lo aseverado por diversos teólogos.",
+          "C) no hallaría sosiego de ser el culpable de sus desdichas.",
+          "D) asumiría que participó activamente en todos los combates.",
+          "E) se regocijaría porque prefijaría cada uno de sus actos."
+        ],
+        "correct": 2,
+        "rationale": "El narrador encuentra sosiego porque en el primer volumen de Parerga und Paralipomena se sostiene que cada uno ha prefijado sus actos."
+      },
+      {
+        "statement": "En el texto, SEVERO significa",
+        "alternatives": [
+          "A) exacto.",
+          "B) disciplinado.",
+          "C) intolerante.",
+          "D) implacable.",
+          "E) tortuoso."
+        ],
+        "correct": 3,
+        "rationale": "El narrador dice que fue severo con el insigne poeta, esto es, fue riguroso e implacable."
+      }
+    ]
+  },
+  {
+    "type": "reading_comprehension",
+    "statement": "Sistemáticamente los judíos en Alemania fueron despedidos u obligados a dimitir de sus cargos. Gran parte de ellos emigraron a Alemania y Lise Meitner se arrepintió de no haberlo hecho justo en ese momento. Ese año logró escapar a Holanda sana y salva, pero con tan solo 10 marcos en el monedero (a causa de la restricción alemana). Fuera de Alemania permaneció en contacto con Otto Hahn por medio de cartas que se remitían casi a diario, además de reunirse en secreto con otros científicos como la visita que realizó a Niels Bohr en Copenhague durante 1938. Después se trasladó a Suecia y en Estocolmo logró unirse al personal de investigación atómica del Instituto de Manne Siegbahnla de la Universidad de Estocolmo en donde retomó las relaciones con su sobrino, Otto Frisch. Dirigió con él las investigaciones sobre las trasmutaciones de elementos y especialmente sobre la fisión del uranio. Las condiciones de trabajo en el centro distaban una vez más de ser las adecuadas para que pudiera desarrollar sus investigaciones: disponía de un laboratorio pero carecía de colaboradores, equipo y apoyo técnico. De nuevo tenía que apañárselas sola. Antes de que nuestra científica huyera de Alemania, ella, Hahn y Strassman se habían sentido intrigados por lo que se consideraba un nuevo elemento radiactivo obtenido mediante la irradiación de uranio con neutrones en el laboratorio de Irene Joliot-Curie y Pavel Savitch, que habían seguido investigando sobre los experimentos del italiano Fermi. Este elemento, según publicaron ambos científicos, se comportaba como un isótopo radiactivo del lantano; pero con un peso equivalente a la mitad del que tiene el uranio, lo que les llevó a considerar que los átomos del uranio se habían separado. Hahn trató de reproducir los ensayos de sus colegas en Berlín irradiando con neutrones una muestra de uranio, apreciando huellas de radioactividad que procedían de elementos similares al radio, pero que veían reducida su actividad en muy poco tiempo. Disolvieron entonces en ácido el uranio añadiendo sal de bario. El resultado del experimento fue la escisión del átomo de uranio, siendo una de sus partes un isótopo radioactivo del bario. Escribió a Meitner comunicándole que el desenlace no acababa de convencerle y pidiéndole alguna aportación para aclarar el resultado. Ella tenía la inteligencia y la intuición necesarias para dar con la solución y después de mucho pensar llegó a la conclusión de que los dos núcleos formados por la división de un núcleo de uranio serían más ligeros juntos que el núcleo original en una proporción estimada de una quinta parte de la masa de un protón. Para ello empleó la ecuación Einstein (E=mc2) y se dio cuenta de que la fórmula explicaba perfectamente el origen de la enorme liberación de energía atómica por la conversión de la masa en energía. Advirtió que la escisión de un solo gramo de uranio podría liberar una energía equivalente a dos toneladas y media de carbón. Igualmente, llamó la atención sobre la existencia de una reacción en cadena y su enorme potencial explosivo. Meitner y su sobrino Fritsch escribieron entonces a la revista Nature realizando una explicación teórica de los experimentos desarrollados por Hahn y Strassman en desde la publicación de la revista del día 11 de febrero de 1939, quedaría incorporada a la cultura universal. Lo cierto que la prueba de la fisión requirió los hallazgos químicos de Hahn como la perspicacia física de Meitner. Sin embargo, en 1944 Otto Hahn fue el único galardonado con el Premio Nobel de Química por el descubrimiento. El mismo científico defendió la legitimidad de la concesión en exclusiva del premio argumentando que sus hallazgos se habían basado en los experimentos realizados tras la huida de Lise en 1938. Strassmann discrepó seriamente con Hahn y defendió que ella había liderado el grupo incluso después de su partida, manteniendo el contacto por correspondencia.",
+    "questions": [
+      {
+        "statement": "La palabra SISTEMÁTICAMENTE implica",
+        "alternatives": [
+          "A) concurrencia.",
+          "B) concomitancia.",
+          "C) regularidad.",
+          "D) ausencia.",
+          "E) unión."
+        ],
+        "correct": 2,
+        "rationale": "Solución C: «Sistemáticamente los judíos en Alemania fueron despedidos…», es decir, la emigración fue un proceso regular."
+      }
+    ]
+  },
+  {
+    "type": "reading_comprehension",
+    "statement": "Sistemáticamente los judíos en Alemania fueron despedidos u obligados a dimitir\nde sus cargos. Gran parte de ellos emigraron a Al emania y Lise Meitner se arrepintió de\nno haberlo hecho justo en ese momento. Ese año logró escapar a Holanda sana y salva,\npero con tan solo 10 marcos en el monedero (a causa de la restricción alemana).\nFuera de Alemania permaneció en contacto con Otto H ahn por medio de cartas que\nse remitían casi a diario, además de reunirse en secreto con otros científicos como la\nvisita que realizó a Niels Bohr en Copenhague durante 1938. Después se trasladó a\nSuecia y en Estocolmo logró unirse al personal de investigación atómica del Instituto de\nManne Siegbahnla de la Universidad de Estocolmo en donde retomó las relaciones con su\nsobrino, Otto Frisch. Dirigió con él las investigaciones sobre las trasmutaciones de\nelementos y especialmente sobre la fisión del uranio. Las condiciones de trabajo en el\ncentro distaban una vez más de ser las adecuadas para que pudiera desarrollar sus\ninvestigaciones: disponía de un laboratorio pero carecía de colaboradores, equipo y apoyo\ntécnico. De nuevo tenía que apañárselas sola.\nAntes de que nuestra científica huyera de Alemania, ella, Hahn y Strassman se\nhabían sentido intrigados por lo que se consideraba un nuevo elemento radiactivo\nobtenido mediante la irradiación de uranio con neutrones en el laboratorio de Irene Joliot -\nCurie y Pavel Savitch, que habían seguido investigando sobre los experimentos del\nitaliano Fermi. Este elemento, según publicaron ambos científicos, se comportaba como\nun isótopo radiactivo del lantano; pero con un peso equivalente a la mitad del que tiene el\nuranio, lo que les llevó a considerar que los átomos del uranio se habían separado.\nHahn trató de reproducir los ensayos de sus colegas en Berlín irradiando con\nneutrones una muestra de uranio, apreciando huellas de radioactividad que procedían de\nelementos similares al radio, pero que veían reducida su actividad en muy poco tiempo.\nDisolvieron entonces en ácido el uranio añadiendo sal de bario. El resultado del\nexperimento fue la escisión del átomo de uranio, siendo una de sus partes un isótopo\nradioactivo del bario. Escribió a Meitner comunicándole que el desenlace no acababa de\nconvencerle y pidiéndole alguna aportación para aclarar el resultado.\nElla tenía la inteligencia y la intuición necesarias para dar con la solución y\ndespués de mucho pensar llegó a la conclusión de que los dos núcleos formados por la\ndivisión de un núcleo de uranio serían más ligeros juntos que el núcleo original en una\nproporción estimada de una quinta parte de la masa de un protón. Para ello empleó la\necuación Einstein (E=mc2) y se dio cuenta de que la fórmula explicaba perfectamente el\norigen de la enorme liberación de energía atómica por la conversión de la masa en\nenergía. Advirtió que la escisión de un solo gramo de uranio podría liberar una energía\nequivalente a dos toneladas y media de carbón. Igualmente, llamó la atención sobre la\nexistencia de una reacción en cadena y su enorme potencial explosivo.\nMeitner y su sobrino Fritsch escribieron entonces a la revista Nature realizando\nuna explicación teórica de los experimentos desarrollados por Hahn y Strassmann en\ndesde la publicación de la revista del día 11 de febrero de 1939, quedaría incorporada a\nla cultura universal. Lo cierto que la prueba de la fisión requirió los hallazgos químicos de\nHahn como la perspicacia física de Meitner. Sin embargo, en 1944 Otto Hahn fue el único\ngalardonado con el Premio Nobel de Química por el descubrimiento. El mismo científico\ndefendió la legitimidad de la concesión en exclusiva del premio argumentando que sus\nhallazgos se habían basado en los experimentos realizados tras la huida de Lise en 1938.\nStrassmann discrepó seriamente con Hahn y defendió que ella había liderado el grupo\ne incluso después de su partida, manteniendo el contacto por correspondencia.\n[Óscar Menéndez Bajo la estirpe de Hypatia .]",
+    "questions": [
+      {
+        "statement": "1. La palabra SISTEMÁTICAMENTE implica",
+        "alternatives": [
+          "A) concurrencia.",
+          "B) concomitancia.",
+          "C) regularidad.",
+          "D) ausencia.",
+          "E) unión."
+        ],
+        "correct": 2,
+        "rationale": "«Sistemáticamente los judíos en Alemania fueron despedidos…», es decir, la emigración fue un proceso regular."
+      },
+      {
+        "statement": "2. Entre los hallazgos químicos de Hahn y la perspicacia física de Meitner existe una relación de",
+        "alternatives": [
+          "A) identidad.",
+          "B) hibridez.",
+          "C) antítesis.",
+          "D) analogía.",
+          "E) confluencia."
+        ],
+        "correct": 4,
+        "rationale": "Tanto los hallazgos químicos como la perspicacia física confluyen en la resolución del experimento."
+      },
+      {
+        "statement": "3. Principalmente el autor busca destacar",
+        "alternatives": [
+          "A) las tropelías e iniquidades sufridas por los científicos en Alemania Nazi.",
+          "B) la crítica pública a los científicos hecha por investigadora Lise Meitner.",
+          "C) la participación de Lise Meitner en la prueba de la fisión de Otto Hahn.",
+          "D) la fisión del uranio como experimento de naturaleza interdi sciplinaria.",
+          "E) el galardón injustamente otorgado al eminente científico Otto Hahn."
+        ],
+        "correct": 2,
+        "rationale": "Meitner con su sagacidad aportó por correspondencia significativamente a la prueba de la fisión."
+      },
+      {
+        "statement": "4. Se desprende del texto que Lise Meitner",
+        "alternatives": [
+          "A) recusaba los resultados de los experimentos de Joliot -Curie y Savitch.",
+          "B) consideraba que la fórmula de Einstein era prescindible en la ciencia.",
+          "C) estaba segura de que el Premio Nobel debía ser otorgado a Strassmann.",
+          "D) salió de Alemania con suficiente dinero para hacer sus indagaciones.",
+          "E) contribuyó indirectamente en el desarrollo de la bomba atómica."
+        ],
+        "correct": 4,
+        "rationale": "Al hacer sus investigaciones a Meitner le «llamó la atención sobre la existencia de una reacción en cadena y su enorme potencial explosivo.» Esta s son características básicas de la bomba atómica."
+      },
+      {
+        "statement": "5. Se infiere que Meitner emigró con diez marcos en el monedero debido a que",
+        "alternatives": [
+          "A) atravesaba una grave crisis financiera debido a la ascensión al poder del régimen nazi.",
+          "B) era el máximo importe que se le permitía llevar a los judíos que viajaban al extranjero.",
+          "C) había contribuido en la ayuda de un grupo de científicos que había escapado.",
+          "D) invirtió su dinero en múltiples proyectos basados en la investigación atómica.",
+          "E) sus propiedades fueron embargadas por disposición del nuevo régimen nazi."
+        ],
+        "correct": 1,
+        "rationale": "Cuando Meitner logra escapar de Alemania se menciona que solo pudo llevar diez marcos debido a que era una restricción de Alemania."
+      },
+      {
+        "statement": "6. Se desprende que el jurado del Nobel no tuvo e n cuenta la contribución de Meitner debido a que",
+        "alternatives": [
+          "A) Hahn no mencionó el aporte de ella en sus trabajos.",
+          "B) no podían reconocían la participación femenina.",
+          "C) tuvo una fuerte discrepancia con Strassmann",
+          "D) Lise tuvo una participación epistolar nimia .",
+          "E) era conocida solo como una física teórica."
+        ],
+        "correct": 0,
+        "rationale": "Hahn argúo que, luego de su salida de Alemania, ya no tuvo contacto con Meitner."
+      },
+      {
+        "statement": "7. Si Meitner no hubiera aplicado la fórmula de Einstein,",
+        "alternatives": [
+          "A) no habría advertido el enorme potencial de energía del uranio.",
+          "B) no habría percibido intuitivamente la fisión del átomo del uranio.",
+          "C) no se habría percatado de la irregularidad que poseía el uranio.",
+          "D) habría asumido que la radiación del uranio era de naturaleza heteróclita.",
+          "E) habría explicado con claridad el origen de la liberación de energía."
+        ],
+        "correct": 0,
+        "rationale": "En el texto se menciona que Meitner «… advirtió que la escisión de un solo gramο de uranio podría liberar una energía equivalente a dos toneladas y media de carbón »."
+      }
+    ]
+  },
+  {
+    "type": "reading_comprehension",
+    "statement": "SEMANA 4 B COMPRENSIÓN DE LECTURA\nEl barbero Iván Yakovlevitch vivía en la avenida Vosnesensko, en un barrio de\nPetersburgo. En la fachada de la casa, se habían borrado las letras de su apellido y solo\nquedaba en la placa la figura desteñida de un parroquiano con las mejillas enjabonadas y\nal pie de un letrero: “Se hacen sangrías”. Aquel 25 de marzo, que no terminaría sin que\nsucediesen sucesos extraordinarios, el barbero Iván Yakovlevitch se había despertado\nbastante temprano, y entreabrió los ojos en una atmósfera impregnada del delicioso\naroma de pan caliente. Incorporándose sobre la cama, observó que su mujer, Prascovia\n",
+    "questions": [
+      {
+        "statement": "1. ¿Cuál es el tema central del texto?",
+        "alternatives": [
+          "A) El inopinado descubrimiento de una nariz .",
+          "B) La práctica negligente de un viejo barbero.",
+          "C) La pequeña nariz del colegiado Kovalev",
+          "D) Las complicaciones de un barbero ruso.",
+          "E) El extraño homicidio en una barbería."
+        ],
+        "correct": 0,
+        "rationale": "El texto gira alrededor del sorpresivo descubrimiento de una nariz dentro de un pan a las primeras horas de la mañana por parte de Iván Yakovlevitch."
+      },
+      {
+        "statement": "2. El sentido contextual del término MUERTO es",
+        "alternatives": [
+          "A) exánime.",
+          "B) petrificado.",
+          "C) desfallecido.",
+          "D) compungido.",
+          "E) inerte."
+        ],
+        "correct": 1,
+        "rationale": "Se puede colegir que Iván Yakovlevitch quedó petrificado de la impresión al distinguir la nariz de Kovalev."
+      },
+      {
+        "statement": "3. Se infiere del texto que ,como barbero, Iván Yakovlevitch",
+        "alternatives": [
+          "A) tenía una fama en toda Rusia.",
+          "B) había amasado una fortuna.",
+          "C) trabajaba con practicantes.",
+          "D) carecía de clientes conocidos.",
+          "E) actuaba con cierta negligencia."
+        ],
+        "correct": 4,
+        "rationale": "A partir del descubrimiento de la nariz y de las expresiones de su esposa, se puede inferir cierta negligencia en el barbero."
+      },
+      {
+        "statement": "4. Se desprende del texto que Prascovia Osipovna",
+        "alternatives": [
+          "A) era una mujer aficionada a los crímenes.",
+          "B) era muy condescendiente con su esposo.",
+          "C) salía a comprar cebollas muy temprano.",
+          "D) ayudaba a Iván Yakovlevitch en la barbería.",
+          "E) tenía reacciones con un ánimo exaltado."
+        ],
+        "correct": 4,
+        "rationale": "Reacciona con violencia e increpa duramente a su esposo."
+      },
+      {
+        "statement": "5. Resulta incompatible con el texto afirmar que",
+        "alternatives": [
+          "A) Iván Yakovlevitch pidió pan con café la mañana del 25 de marzo.",
+          "B) el olor a pan recién horneado envolvía a Yakovlevitch cuando despertó.",
+          "C) Prascovia Osipovna tenía predilección por el café recién preparado.",
+          "D) Kovalev era un asesor colegiado , asiduo cliente de Iván Yakovlevitch.",
+          "E) Prascovia increpó a su marido cuando advirtió la presencia de la nariz."
+        ],
+        "correct": 0,
+        "rationale": "Iván Yakovlevitch, el barbero, luego de despertar, pidió que no le sirvieran café porque solamente comería pan con cebolla."
+      },
+      {
+        "statement": "6. Es compatible con el texto afirmar que",
+        "alternatives": [
+          "A) el barbero cobra mucho dinero a todos sus clientes.",
+          "B) Iván Yakovl evitch habló procazmente con su esposa.",
+          "C) Prascovia Osipovna decidió encubrir a su marido.",
+          "D) Iván Yakovlevitch usa ba herramientas muy filudas.",
+          "E) el barbero y su mujer solían dormir hasta mediodía."
+        ],
+        "correct": 3,
+        "rationale": "Para hacer el corte de una nariz, debe utilizar navajas con mucho filo."
+      },
+      {
+        "statement": "7. Si el barbero Iván Yakovlevitch hubiese sido una persona sobria, meticulosa y afable,",
+        "alternatives": [
+          "A) Prascovia Osipovna habría tenido otra reacción cuando vio la nariz.",
+          "B) no se habría inmutado al verla nariz de Kovalev en el desayuno.",
+          "C) Prascovia Osipovna no se habría sorprendido tanto ante el acontecimiento.",
+          "D) el asesor colegiado Kovalev nunca habría sufrido un terrible accidente.",
+          "E) habría decidido no tomar desayuno por la mañana del 25 de marzo."
+        ],
+        "correct": 0,
+        "rationale": "Cuando Prascovia Osipo vna reparó en que su esposo había descubierto una nariz, inmediatamente lo acusó de borracho irresponsable y lo amenazó con denunciarlo sobre la base del daño que el barbero ocasionaba a sus clientes durante el afeitado."
+      }
+    ]
+  },
+  {
+    "type": "reading_comprehension",
+    "statement": "A lo largo de un extenso proceso, los árabes habían ido recibiendo los fundamentos de la cultura, la filosofía y la ciencia griega y los supieron incorporar al legado cultural, filosófico y científico que transmitieron a Occidente. A través del helenismo y posteriormente del cristianismo de habla griega de las iglesias orientales, especialmente\nfilosofía griega, los árabes se inician en la filosofía y en la ciencia, que desarrollaron en muchos de sus ámbito s y llevaron consigo a los países conquistados en su rápida\nexpansión hasta la Península Ibérica. En contacto con ellos, los cristianos latinos inician el\nproceso de redescubrimiento y asimilación de los autores griegos con los comentarios de\nlos tratadistas árabes y se ponen las bases de la recuperación cultural y científica del\nOccidente latino, que llevó hasta el desarrollo científico del Renacimiento y de la Edad\nModerna europea.\nLa recepción del legado griego en el mundo árabe se había producido en dos\nmomentos sucesivos y había tenido lugar en dos ambientes y culturas distintas: los\ncristianos griegos orientales hasta el siglo VI -VII y las traducciones impulsadas por los\nCalifas musulmanes para hacer frente a las necesidades culturales y administrativas del\ncalifato de los abasíes.\nCon carácter previo al mundo musulmán, se desarrolla una labor de traducción de\ntextos griegos a la lengua siríaca en los ambientes cristianos de Oriente por las\nnecesidades sentidas por estos en el seno de la liturgia y los estudios propios de la vida\ncristiana y especialmente en el ámbito de la filosofía. A principios del siglo V d. C. se nos\ncuenta en la Peregrinatio Aetheriae que en los oficios litúrgicos celebrados en griego en\nJerusalén se intercalaba la traducción al siríaco para que los fieles los comprendiesen.\nPor la misma razón debieron traducirse textos patrísticos y sobre todo el Nuevo\nTestamento. De Aristóteles se sabe que partes del Organon ,junto con la Isagoge de\nPorfirio, fueron traducidas al siríac o y fragmentos de los Meteoros de Teofrasto solo se\nhan conservado en esta lengua. La gramática de Dionisio Tracio fue vertida al siríaco y el\ntratado de agricultura, Geoponicá, de Casiano Baso, traducido al árabe desde el siríaco,\npude estar en la base de los tratados agrícolas árabes.",
+    "questions": [
+      {
+        "statement": "1. ¿Cuál es el tema central del texto?",
+        "alternatives": [
+          "A) La influencia griega en la filosofía y ciencia arábiga",
+          "B) La traducción siríaca de los filósofos helenísticos",
+          "C) El descubrimiento y asimilación de los autores griegos",
+          "D) La traducción de textos griegos al latín y al árabe",
+          "E) La lengua siríaca como lengua científica del siglo V d. C."
+        ],
+        "correct": 0,
+        "rationale": "El texto tiene por tema central e l modo como los árabes se iniciaron en filosofía y en ciencia, y esto se dio por influencia de los griegos a través de las traducciones siríacas."
+      },
+      {
+        "statement": "2. ¿Cuál es la idea principal del texto?",
+        "alternatives": [
+          "A) Los árabes tradujeron a la lengua siríaca los textos más descollantes del mundo helénico.",
+          "B) La lengua siríaca fue el canal de comunicación entre los árabes y los cristianos de Oriente.",
+          "C) Los árabes transmitieron a Occidente una ciencia y una filosofía influenciada por los griegos.",
+          "D) Los cristianos de oriente tradujeron obras griegas para legárselos a los árabes de Occidente.",
+          "E) Los occidentales aprendieron ciencia y filosofía a partir de los tratados de los científicos árabes."
+        ],
+        "correct": 2,
+        "rationale": "El primer párrafo menciona que los árabes se iniciaron en ciencia y filosofía griega a partir de las traducciones siríacas de los textos helénicos. El producto de esta asimilación fue el legado que los árabes dejaron a Occidente durante y luego de su rápida expansión."
+      },
+      {
+        "statement": "3. En el texto, el término SENO tiene el sentido de",
+        "alternatives": [
+          "A) concavidad.",
+          "B) abrigo.",
+          "C) parapeto.",
+          "D) ámbito.",
+          "E) convenio."
+        ],
+        "correct": 3,
+        "rationale": "La traducción de textos griegos a la lengua siríaca se dio porque se dio esa necesidad en el SENO (o ámbito) de la liturgia."
+      },
+      {
+        "statement": "4. No se condice con el texto afirmar que",
+        "alternatives": [
+          "A) los cristianos latinos soslayaron a los autores griegos.",
+          "B) los tratadistas árabes comentaron las obras griegas.",
+          "C) los califas impulsaron la traducción de textos griegos.",
+          "D) se celebraron liturgias en griego en Jerusalén.",
+          "E) Teofrasto fue un descollante intelectual griego."
+        ],
+        "correct": 0,
+        "rationale": "Los cristianos latinos, junto a los árabes, redescubrieron y asimilaron a los autores griegos."
+      }
+    ]
+  },
+  {
+    "type": "incomplete_sentences",
+    "statement": "Si el barbero Iván Yakovlevitch hubiese sido una persona sobria, meticulosa y afable,",
+    "alternatives": [
+      "A) Prascovia Osipovna habría tenido otra reacción cuando vio la nariz.",
+      "B) no se habría inmutado al verla nariz de Kovalev en el desayuno.",
+      "C) Prascovia Osipovna no se habría sorprendido tanto ante el acontecimiento.",
+      "D) el asesor colegiado Kovalev nunca habría sufrido un terrible accidente.",
+      "E) habría decidido no tomar desayuno por la mañana del 25 de marzo."
+    ],
+    "correct": 0,
+    "rationale": "SOL. Cuando Prascovia Osipo vna reparó en que su esposo había descubierto una nariz, inmediatamente lo acusó de borracho irresponsable y lo amenazó con denunciarlo sobre la base del daño que el barbero ocasionaba a sus clientes durante el afeitado."
+  },
+  {
+    "type": "reading_comprehension",
+    "statement": "A lo largo de un extenso proceso, los árabes habían ido recibiendo los fundamentos de la cultura, la filosofía y la ciencia griega y los supieron incorporar al legado cultural, filosófico y científico que transmitieron a Occidente. A través del helenismo y posteriormente del cristianismo de habla griega de las iglesias orientales, especialmente filosofía griega, los árabes se inician en la filosofía y en la ciencia, que desarrollaron en muchos de sus ámbitos y llevaron consigo a los países conquistados en su rápida expansión hasta la Península Ibérica. En contacto con ellos, los cristianos latinos inician el proceso de redescubrimiento y asimilación de los autores griegos con los comentarios de los tratadistas árabes y se ponen las bases de la recuperación cultural y científica del Occidente latino, que llevó hasta el desarrollo científico del Renacimiento y de la Edad Moderna europea. La recepción del legado griego en el mundo árabe se había producido en dos momentos sucesivos y había tenido lugar en dos ambientes y culturas distintas: los cristianos griegos orientales hasta el siglo VI -VII y las traducciones impulsadas por los Califas musulmanes para hacer frente a las necesidades culturales y administrativas del califato de los abasíes. Con carácter previo al mundo musulmán, se desarrolla una labor de traducción de textos griegos a la lengua siríaca en los ambientes cristianos de Oriente por las necesidades sentidas por estos en el seno de la liturgia y los estudios propios de la vida cristiana y especialmente en el ámbito de la filosofía. A principios del siglo V d. C. se nos cuenta en la Peregrinatio Aetheriae que en los oficios litúrgicos celebrados en griego en Jerusalén se intercalaba la traducción al siríaco para que los fieles los comprendiesen. Por la misma razón debieron traducirse textos patrísticos y sobre todo el Nuevo Testamento. De Aristóteles se sabe que partes del Organon ,junto con la Isagoge de Porfirio, fueron traducidas al siríaco y fragmentos de los Meteoros de Teofrasto solo se han conservado en esta lengua. La gramática de Dionisio Tracio fue vertida al siríaco y el tratado de agricultura, Geoponicá, de Casiano Baso, traducido al árabe desde el siríaco, puede estar en la base de los tratamientos agrícolas árabes.",
+    "questions": [
+      {
+        "statement": "1. ¿Cuál es el tema central del texto?",
+        "alternatives": [
+          "A) La influencia griega en la filosofía y ciencia arábiga",
+          "B) La traducción siríaca de los filósofos helenísticos",
+          "C) El descubrimiento y asimilación de los autores griegos",
+          "D) La traducción de textos griegos al latín y al árabe",
+          "E) La lengua siríaca como lengua científica del siglo V d. C."
+        ],
+        "correct": 0,
+        "rationale": "SOL. El texto tiene por tema central e l modo como los árabes se iniciaron en filosofía y en ciencia, y esto se dio por influencia de los griegos a través de las traducciones siríacas."
+      },
+      {
+        "statement": "2. ¿Cuál es la idea principal del texto?",
+        "alternatives": [
+          "A) Los árabes tradujeron a la lengua siríaca los textos más descollantes del mundo helénico.",
+          "B) La lengua siríaca fue el canal de comunicación entre los árabes y los cristianos de oriente.",
+          "C) Los árabes transmitieron a Occidente una ciencia y una filosofía influenciada por los griegos.",
+          "D) Los cristianos de oriente tradujeron obras griegas para legárselos a los árabes de Occidente.",
+          "E) Los occidentales aprendieron ciencia y filosofía a partir de los tratados de los científicos árabes."
+        ],
+        "correct": 2,
+        "rationale": "SOL. El primer párrafo menciona que los árabes se iniciaron en ciencia y filosofía griega a partir de las traducciones siríacas de los textos helénicos. El producto de esta asimilación fue el legado que los árabes dejaron a Occidente durante y luego de su rápida expansión."
+      },
+      {
+        "statement": "3. En el texto, el término SENO tiene el sentido de",
+        "alternatives": [
+          "A) concavidad",
+          "B) abrigo",
+          "C) parapeto",
+          "D) ámbito.",
+          "E) convenio."
+        ],
+        "correct": 3,
+        "rationale": "SOL. La traducción de textos griegos a la lengua siríaca se dio porque se dio esa necesidad en el SENO (o ámbito) de la liturgia."
+      },
+      {
+        "statement": "4. No se condice con el texto afirmar que",
+        "alternatives": [
+          "A) los cristianos latinos soslayaron a los autores griegos.",
+          "B) los tratadistas árabes comentaron las obras griegas.",
+          "C) los califas impulsaron la traducción de textos griegos.",
+          "D) se celebraron liturgias en griego en Jerusalén.",
+          "E) Teofrasto fue un descollante intelectual griego."
+        ],
+        "correct": 0,
+        "rationale": "SOL. Los cristianos latinos, junto a los árabes, redescubrieron y asimilaron a los autores griegos."
+      },
+      {
+        "statement": "5. Si los cristianos de O riente hubiesen tenido una actitud intolerante frente a lo exógeno,",
+        "alternatives": [
+          "A) habrían visto agudas compatibilidades con los árabes.",
+          "B) no se habría traducido el Nuevo Testamento al siríaco.",
+          "C) habrían declarado la guerra a los musulmanes occidentales.",
+          "D) su cultura habría evolucionado con un ritmo muy acelerado .",
+          "E) habrían logrado derrotar culturalmente a los pueblos occidentales."
+        ],
+        "correct": 1,
+        "rationale": "SOL. Los cristianos de O riente tuvieron la necesidad de traducir textos griegos al siríaco. Producto de esta actitud fue la traducción del Nuevo Testamento griego al siríaco para oficiar las liturgias."
+      }
+    ]
+  },
+  {
+    "type": "verbal_series",
+    "statement": "Afrenta, ignominia, humillación,",
+    "alternatives": [
+      "A) desdén",
+      "B) vilipendio",
+      "C) mofa",
+      "D) estigma",
+      "E) injuria"
+    ],
+    "correct": 1,
+    "rationale": "Solución B: Serie s inonímica."
+  },
+  {
+    "type": "verbal_series",
+    "statement": "¿Qué palabra no forma parte del campo semántico?",
+    "alternatives": [
+      "A) Olisquear",
+      "B) Husmear",
+      "C) Fisgar",
+      "D) Fisgonear",
+      "E) Barruntar"
+    ],
+    "correct": 4,
+    "rationale": "Solución E: El campo semántico de la acción de olfatear."
+  },
+  {
+    "type": "verbal_series",
+    "statement": "Afligido, atribulado, acongojado,",
+    "alternatives": [
+      "A) turbado",
+      "B) indultado",
+      "C) abúlico",
+      "D) compungido",
+      "E) alelado"
+    ],
+    "correct": 3,
+    "rationale": "Solución D: El campo semántico de una honda pesadumbre, angustia"
+  },
+  {
+    "type": "verbal_series",
+    "statement": "Abyecto, magnífico; crispado, sosegado; ininteligible, paladino;",
+    "alternatives": [
+      "A) excéntrico, estrafalario",
+      "B) chapucero, meticuloso",
+      "C) congruente, inconsistente",
+      "D) despótico, tiránico",
+      "E) procaz, obsceno"
+    ],
+    "correct": 1,
+    "rationale": "Solución B: Serie conformada por antónimos."
+  },
+  {
+    "type": "verbal_series",
+    "statement": "Benigno, protervo; auténtico, espurio ; diligente,",
+    "alternatives": [
+      "A) taimado",
+      "B) basto",
+      "C) truculento",
+      "D) gandul",
+      "E) desdeñoso"
+    ],
+    "correct": 3,
+    "rationale": "Solución D: Serie conformado por antónimos, se completa con gandul."
+  },
+  {
+    "type": "verbal_series",
+    "statement": "Elija el vocablo que no corresponde al campo semántico.",
+    "alternatives": [
+      "A) Casta",
+      "B) Linaje",
+      "C) Plétora",
+      "D) Alcurnia",
+      "E) Prosapia"
+    ],
+    "correct": 2,
+    "rationale": "Solución C: El campo semántico es la ascendencia familiar."
+  },
+  {
+    "type": "verbal_series",
+    "statement": "Inope, mísero , paupérrimo ,",
+    "alternatives": [
+      "A) humilde",
+      "B) enclenque",
+      "C) indigente ",
+      "D) sumiso",
+      "E) modesto"
+    ],
+    "correct": 2,
+    "rationale": "Solución C: El campo semántico de la escasez de los medios necesarios para vivir."
+  },
+  {
+    "type": "verbal_series",
+    "statement": "Medroso, pusilánime, amilanado,",
+    "alternatives": [
+      "A) inerme",
+      "B) receloso",
+      "C) huidizo",
+      "D) suspicaz",
+      "E) acoquinado"
+    ],
+    "correct": 4,
+    "rationale": "Solución E: Campo semántico de la ausencia de valor."
+  },
+  {
+    "type": "reading_comprehension",
+    "statement": "En décadas pasadas habría sido suicida para una marca peruana que la compren por ese mero motivo. ¿Qué ocurrió en los últimos años para que hoy veamos dentífricos, gaseos as y cadenas de comida rápida alardeando de su peruanidad y ganando mercados por eso mismo? Me atrevo a arriesgarme con dos razones enlazadas en el tiempo. La primera tiene que ver con el regreso del péndulo de una inevitable cualidad humana: que el deseo se sustenta en la carencia. Mientras menos se tiene algo, más se lo va a añorar. Carencia de productos importados era lo que vivíamos a inicios de 1990. De aquella época recuerdo a adolescentes cosiendo etiquetas importadas a sus prendas nacionales y a señoras de clase media suspirando por un jabón Febo. Cuando finalmente nuestra economía se liberalizó, los peruanos nos atosigamos de productos importados como hambrientos a quienes pronto les sirvieron un buffet añorado. Es la ley de la física y de las emociones que todo lo que sube tiene que bajar. Era inevitable, y saludable, que luego de años de vitrinas repletas de productos importados, la novedad pasara y se alcanzara un grado objetivo de valoración de dichas marcas en comparación con las nacionales. Fue en ese escenario que un segundo factor apareció para inclinar la balanza. Es curioso observar cómo Alberto Fujimori, cuya política promovió el ingreso de productos importados en 1990, ayudó sin querer a revalorizar los productos peruanos diez años después. Situémonos en el año 2000, y recordemos cuál era el temperamento de los peruanos cuando descubrimos pruebas de la corrupción del gobierno en los videos grabados en el SIN. Recuerde qué sintió usted cuando nos convertimos en un país de la peor pacotilla, cuando nuestro presidente renunció por fax desde Japón. No hay duda de que el fin de la era Fujimori y toda la convulsión moral que lo acompañó a través de los medios de comunicación dejó a nuestra población profundamente avergonzada del país que le tocó compartir. No había ninguna razón poderosa para enorgullecerse de algo. De nuestro fútbol y vóley exitosos solo quedaban vestigios en viejas videocintas. Quizá la comida era el único bastión contemporáneo. El peruano tenía que encontrar algo de qué asirse para sentir orgullo. Pienso que ese “algo” fue aprovechado por las marcas nacionales que olfatearon esa necesidad. Marcas peruanas asociadas a la comida, como Inca -Kola o Bembos, afinaron su estrategia. Bebidas como el pisco encontraron un momento oportuno. Y la ola creció trayéndonos la leve esperanza de que aún hay cosas que podemos lograr como nación.\nFuente: Adaptado de “Meidinperú” en Traducciones Peruanas de Gustavo Rodríguez",
+    "questions": [
+      {
+        "statement": "En el texto, el término OL FATEAR tiene el sentido preciso de",
+        "alternatives": [
+          "A) avizorar .",
+          "B) otear .",
+          "C) percibir .",
+          "*D) adivinar.",
+          "E) crear."
+        ],
+        "correct": 2,
+        "rationale": "Solución: De acuerdo con el contexto, el término más preciso es “percibir”."
+      },
+      {
+        "statement": "El tema central que se desarrolla en el texto es",
+        "alternatives": [
+          "A) las razones de la revalorización de los productos peruanos. ",
+          "B) el inicio, el desarrollo y el derrumbe del gobierno de Alberto Fujimori.",
+          "C) el ineluctable fracaso de diversos deportes, como el fútbol peruano .",
+          "D) la profunda crisis de las marcas peruanas durante los ochenta.",
+          "E) el surgimiento de las marcas peruanas relacionadas a la comida."
+        ],
+        "correct": 0,
+        "rationale": "Solución: Efectivamente, en el texto se desarrollan las dos razones por las cuales se generó la revalorización de las marcas peruanas."
+      },
+      {
+        "statement": "Resulta incompatible con lo desarrollado en el texto sostener que",
+        "alternatives": [
+          "A) el Pisco fue revalorizado por los consumidores nacionales.",
+          "B) hace 30 años, la población no podía comprar productos importados.",
+          "C) el liberalismo implicó la apertura de mercados nacionales.",
+          "D) Fujimori quería revalorizar todos los productos nacionales . ",
+          "E) en el 2000, los peruanos fuimos testigos de la corrupción estatal."
+        ],
+        "correct": 3,
+        "rationale": "Solución: La política económica de Fujimori, sin quererlo, finalmente implicó la revalorización de los productos nacionales."
+      },
+      {
+        "statement": "Se colige que el autor del texto",
+        "alternatives": [
+          "A) nació en década del noventa, durante el gobierno de Fujimori.",
+          "B) consumió ávidamente productos importa dos en los noventa . ",
+          "C) se ganó la vida pegando etiquetas importadas en los polos.",
+          "D) trabajó como colaborador durante el gobierno de Fujimori.",
+          "E) considera que el fútbol es lo mejor que tenemos los peruanos."
+        ],
+        "correct": 1,
+        "rationale": "Solución: Según el estilo empleado por el autor, é l también se atosigó de los productos importados."
+      },
+      {
+        "statement": "Si el gobierno de Fujimori no hubiese promovido el ingreso de los productos importados, probablemente",
+        "alternatives": [
+          "A) no habría habido corrupción durante su gobierno.",
+          "B) los productos peruanos no se habrían revalorizado tanto . ",
+          "C) los peruanos se habrían sentido orgullosos del vóley.",
+          "D) la empresa que produce jabón Febo habría quebrado.",
+          "E) no habría renunciado por fax desde Japón."
+        ],
+        "correct": 1,
+        "rationale": "Solución: Uno de los factores que contribuyeron a la revalorización de las marcas peruanas fue el ingreso de productos importados, por ello, sin este factores probable que no haya habido revalorización de los productos nacional es."
+      }
+    ]
+  },
+  {
+    "type": "sentence_elimination",
+    "statement": "1. I. Se ha encontrado una copia de la Mona Lisa que podría haber sido pintada en el estudio de Leonardo da Vinci a la vez que la “original” (ahora en el Louvre). II. Los conservadores del Prado hallaron un cuadro oculto bajo una capa de un oscuro barniz, según ha hecho público la revista The Art Newspaper . III. Todo apunta a que se trata de una réplica de la Mona Lisa pintada por uno de los pupilos favoritos de Leonardo, probablemente Andrea Salai o Francesco Melzi. IV. El discípulo de Leonardo habría ejecutado la réplica a medida que el maestro toscano iba pintando el original en su estudio de Florencia. V. Su tamaño es similar a la original: mientras el cuadro del Louvre mide 77 cm x 53 cm, la réplica del Prado m ide 76 cm x 57 cm.",
+    "alternatives": [
+      "A) I",
+      "B) II",
+      "C) III",
+      "D) IV",
+      "E) V"
+    ],
+    "correct": 0,
+    "rationale": "Se elimina la oración I por criterio de REDUNDANCIA."
+  },
+  {
+    "type": "sentence_elimination",
+    "statement": "2. I. Un tratamiento contra el cáncer de pulmón ha sido ensayado con buenos resultados en personas afectadas por un subtipo de esta enfermedad llamado \"de células no pequeñas\". II. Los resultados se publican en la revista Journal of Immune Based Therapies and Vaccines y muestran un aumento en la respuesta inmunológica de los pacientes. III . La vacuna se basa en el suministro de un tipo de proteínas llamadas \"factores de crecimiento epiteliales\" (EGF). IV. Estas sustancias son fabricadas de forma natural por el organismo, pero en algunos tipos de cáncer se produce una sobreexpresión de sus receptores, lo que contribuye al desarrollo de tumores. V. El objetivo de la vacuna es producir anticuerpos contra las propias EGF y así bloquear la interacción entre estas y sus receptores.",
+    "alternatives": [
+      "A) I",
+      "B) II",
+      "C) III",
+      "D) IV",
+      "E) V"
+    ],
+    "correct": 3,
+    "rationale": "Solución: Se elimina la oración IV por criterio de IMPERTINENCIA."
+  },
+  {
+    "type": "sentence_elimination",
+    "statement": "3. I. Las ruinas de la \"Guarida del Lobo\", situadas en Polonia, son conocidas por ser el lugar donde ocurrió un intento de asesinato contra el líder de los nazis. II. Asimismo, fue uno de los cuarteles militares de Hitler durante la Segunda Guerra Mundial. III. Hitler es considerado como uno de los mayores genocidas de la historia y su campaña en contra de los judíos como un acto de ignominia moral. IV. Actualmente las ruinas están abiertas al público, pero no atraen a muchos visitantes porque se accede solamente por peligrosos caminos de tierra. V. Los propietarios están buscando un arrendatario que las convierta en un museo \"abierto durante todo el año\".",
+    "alternatives": [
+      "A) I",
+      "B) II",
+      "C) III",
+      "D) IV",
+      "E) V"
+    ],
+    "correct": 2,
+    "rationale": "Solución: Se elimina la oración I por criterio de impertinencia."
+  },
+  {
+    "type": "sentence_elimination",
+    "statement": "4. I. En culturas que permiten la poligamia, la competición intrasexual aumenta el número de crímenes, la violencia, la pobreza y las desigualdades de género. II. El antropólogo Joseph Henrich y sus colegas aseguran que los matrimonios monógamos son beneficiosos porque reducen los problemas sociales. III. “La escasez de mujeres casaderas en las culturas polígamas incrementa la competencia entre los hombres”, afirma el antropólogo Joseph Henrich. IV. El aumento de la competencia en estas circunstancias hace que los hombres sean más propensos a tener comportamientos criminales, para obtener más recursos y mujeres. V. Eso explicaría por qué en la s sociedades polígamas se dan niveles significativamente más altos de violaciones, secuestros, robos y fraudes que en los grupos monógomos.",
+    "alternatives": [
+      "A) I",
+      "B) II",
+      "C) III",
+      "D) IV",
+      "E) V"
+    ],
+    "correct": 1,
+    "rationale": "Solución: Se elimina la oración II por criterio de IMPERTINENCIA."
+  },
+  {
+    "type": "sentence_elimination",
+    "statement": "5. I. La Commiphora myrrha es un árbol que de forma natural crece al noreste de África, en Arabia y Turquía. II. De sabor muy amargo, la mirra fue un bien muy preciado en la antigüedad, ya que se empleaba para elaborar perfumes y ungüentos. III. Esta sustancia también tiene numerosas propiedades medicinales y se usaba para tratar la ronquera, la disentería y como antiparasitaria. IV. Además, Dioscórides también menciona en su tratado \"De Materia Médica\" las propiedades abortivas de la mirra. V. De forma frecuente esta resina era utilizada también como ungüento para embalsamar a los muertos.",
+    "alternatives": [
+      "A) I",
+      "B) II",
+      "C) III",
+      "D) IV",
+      "E) V"
+    ],
+    "correct": 0,
+    "rationale": "Solución: Se elimina la oración I por criterio de IMPERTINENCIA."
+  },
+  {
+    "type": "sentence_elimination",
+    "statement": "6. I. Joseph Merrick, apodado el “hombre elefante”, nació en Leicester (Reino Unido) en 1862. II. En 1971, Ashley Montague estudió el caso de Merrick y sugirió que era víctima de neurofibromatosis genética. III. Más adelante, otros estudios señalaron como causante de los males de \"el hombre elefante \" al síndrome de Proteus. IV. Dicho mal fue llamado así en honor a la deidad griega del océano Proteus, \"el polimorfo\". V. En 2003, un estudio del ADN de Merrick confirmó que sufría tanto síndrome de Proteus como neurofibromatosis.",
+    "alternatives": [
+      "A) I",
+      "B) II",
+      "C) III",
+      "D) IV",
+      "E) V"
+    ],
+    "correct": 3,
+    "rationale": "Solución: Se elimina la oración IV por criterio de IMPERTINENCIA."
+  }
+]

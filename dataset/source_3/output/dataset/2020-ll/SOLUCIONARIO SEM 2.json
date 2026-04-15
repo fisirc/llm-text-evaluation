@@ -1,0 +1,219 @@
+[
+  {
+    "type": "reading_comprehension",
+    "statement": "El umbral de la pobreza es el límite, vale decir, el punto en el que se considera a una persona en un estado precario.",
+    "questions": [
+      {
+        "statement": "El sentido contextual del término UMBRAL es",
+        "alternatives": [
+          "A) estructura.",
+          "B) pilar.",
+          "C) ancla.",
+          "D) límite."
+        ],
+        "correct": 3,
+        "rationale": "El umbral de la pobreza es el límite, vale decir, el punto en el que se considera a una persona en un estado precario."
+      },
+      {
+        "statement": "¿Cuál de los siguientes enunciados es compatible con la información del gráfico?",
+        "alternatives": [
+          "A) La magnitud de la brecha entre el número de mujeres y hombres sin ingresos propios es idéntica a nivel de las regiones.",
+          "B) En el área rural el porcentaje de mujeres carentes de ingresos propios es tres veces más que el de los hombres.",
+          "C) La brecha entre hombres y mujeres en cuanto a la posesión de ingresos propios es mayor en el área rural de la selva.",
+          "D) La magnitud de la brecha entre hombres y mujeres sin ingresos propios en la costa se debe al nivel de alfabetización."
+        ],
+        "correct": 2,
+        "rationale": "El gráfico presenta los índices más altos de mujeres sin ingresos propios en el área rural, por un lado, y, por otro, en la Selva. Es lógico correlacionar ambos datos."
+      },
+      {
+        "statement": "Del gráfico se desprende que la carencia de ingresos propios por parte de las mujeres guarda íntima relación con un factor de índole",
+        "alternatives": [
+          "A) moral.",
+          "B) religiosa.",
+          "C) genética.",
+          "D) educativa."
+        ],
+        "correct": 3,
+        "rationale": "En el gráfico se observa que los mayores índices de mujeres sin ingreso propio se presentan en el área rural, especialmente en la Sierra y Selva, lugares donde la educación es muy precaria."
+      },
+      {
+        "statement": "¿Cuál de los siguientes programas podría reducir la brecha descrita en la lectura?",
+        "alternatives": [
+          "A) Una ley sobre la meritocracia laboral",
+          "B) Un programa de alfabetización integral",
+          "C) Un subsidio a las madres sin recursos",
+          "D) Una ley sobre el trabajo infantil y juvenil"
+        ],
+        "correct": 2,
+        "rationale": "El subsidio sería una medida efectiva para dotar de recursos a muchas mujeres, por lo que implicaría una reducción de la brecha descrita en la lectura."
+      }
+    ]
+  },
+  {
+    "type": "reading_comprehension",
+    "statement": "Los antioxidantes que contiene el vino pueden ayudar a prevenir enfermedades cardiovasculares porque aumentan los niveles de colesterol «bueno» y provocan un efecto protector de las arterias. Según la Asociación Americana del Corazón, numerosos estudios científicos han abordado durante las últimas décadas el consumo moderado de alcohol y su asociación con el menor número de muertes por enfermedades del corazón en ciertos núcleos de población. La mayoría de las investigaciones sugiere que los beneficios pueden deberse al consumo de vino, especialmente el tinto, una bebida rica en flavonoides (que proporcionan un efecto vasodilatador, beneficioso para las arterias), taninos y polifenoles (presentes en las semillas y la piel de la uva), que funcionan como antioxidantes contra las moléculas conocidas como radicales libres. En general, dejando a un lado los casos concretos en los que debe ser evitado (embarazadas, niños y adolescentes, pacientes con diabetes, cardiopatías graves o con algunas arritmias y las personas que toman algunos medicamentos), se puede decir que un vasito de vino al día puede ser cardiosaludable. Sin olvidar que esto no es suficiente para mantenernos sanos, ya que también debemos seguir una dieta equilibrada y hacer ejercicio físico de forma regular. Fundación Española del Corazón. En https://fundaciondelcorazon.com/corazon-facil/blog-impulso-vital/2265-vino-bueno-corazon.html (Texto editado) Los bebedores esporádicos también están expuestos a serios riesgos para la salud. La ingesta de una sola copa de vino al día (sobre 250 mililitros) u otra bebida con poca graduación alcohólica, como la cerveza, triplica las posibilidades de contraer cáncer de faringe, esófago, mama y boca, según un informe publicado en la revista Annals of Oncology que fue elaborado a partir del análisis de los datos aportados por más de 200 investigaciones oncológicas. Lo más sorprendente es que las investigaciones no encontraron una relación directa entre el consumo moderado de alcohol y otros tipos de cáncer tradicionalmente asociados a este hábito, como el de hígado, colon o laringe. La explicación de los investigadores sobre este hecho es que el alcohol incrementa más el riesgo de cáncer en aquellos tejidos con los que entra en contacto directo, como el esófago, la faringe y la boca. Por tanto, resulta contraproducente aconsejar la ingesta diaria de una copita de vino bajo pretexto de mejorar la salud o cuestiones rejuvenecedoras. Se calcula que cada año se producen 34 mil muertes de cáncer contraído por consumir alcohol, según los datos manejados por los investigadores. Concretamente, la mayor proporción (24 mil) es de cáncer de esófago. Gil, I. (2012). <Beber una sola copa de vino al día triplica el riesgo de contraer cáncer>.El Confidencial. Extraído de <https://www.elconfidencial.com/alma-corazon-vida/2012-08-30/beber-una-sola-copa-de-vino-al-dia-triplica-el-riesgo-de-contraer-cancer_502806/>(Texto editado)",
+    "questions": [
+      {
+        "statement": "La controversia que emerge entre ambos textos gira entorno a la siguiente pregunta:",
+        "alternatives": [
+          "A) ¿Es favorable para la salud beber vino moderadamente?",
+          "B) ¿La cantidad de vino ingerido repercute en la longevidad?",
+          "C) ¿El consumo de vino incide en el padecimiento de cáncer?",
+          "D) ¿El vino es una bebida dotada de propiedades antioxidantes?"
+        ],
+        "correct": 0,
+        "rationale": "Los textos A y B sostienen posturas antagónicas motivadas por la cuestión ¿es propicio para salud beber vino moderadamente? Para A es beneficioso, mientras que para B es perjudicial."
+      },
+      {
+        "statement": "En el texto 2 A, el término CONCRETO se entiende como",
+        "alternatives": [
+          "A) histórico.",
+          "B) actual.",
+          "C) específico.",
+          "D) sutil."
+        ],
+        "correct": 2,
+        "rationale": "En el texto, se habla de casos concretos como de casos específicos en el sentido de que no se recomendaría el consumo de vino."
+      }
+    ]
+  },
+  {
+    "type": "reading_comprehension",
+    "statement": "Antoine-Laurent de Lavoisier (1743-1794) es conocido en la historia de la ciencia\ncomo el gran gestor de una revolución sin precedentes en el campo de la química. Como\nacota I. Bernard Cohen en Revolution in Science, el rasgo central de esta revolución\nquímica fue la demolición de la vieja teoría del flogisto y su reemplazo por un nuevo\nesquema conceptual basado en el rol del oxígeno, es decir, la teoría de la oxidación. Por\nello, la obra de Lavoisier es un ejemplo paradigmático de la revolución en la ciencia.\n\nLavoisier estableció una armónica simbiosis entre teoría y medición, al llevar a cabo\nlos primeros experimentos químicos realmente cuantitativos con el fin de evaluar las\ndoctrinas químicas vigentes en la época. Fue plenamente consciente de la necesidad de\nhacer un viraje radical en el dominio de la química y, por ello, se suele decir que fue un\ncientífico en busca de una revolución: quería repetir uno por uno todos los experimentos\nllevados a cabo antes de él para corroborarlos o para demostrar la comisión de algún\nerror. Brindó las primeras pruebas rigurosas y fehacientes para establecer la ley de la\nconservación de la materia. Algunos de los experimentos más importantes de Lavoisier\nexaminaron la naturaleza de la combustión, así como el papel del oxígeno en la\nrespiración de los animales y las plantas. En su monumental Tratado elemental de\nQuímica (1789), Lavoisier definió operativamente el concepto de elemento como una\nsustancia simple que no se puede dividir mediante ningún método de análisis químico\n\nI\n\nconocido, y elaboró una teoría de la formación de compuestos a partir de los elementos.\nDe esta manera, perfiló mejor una intuición de Robert Boyle avanzada en El químico\nescéptico.\n\nSe puede aquilatar la naturaleza revolucionaria del trabajo de Lavoisier si\nconsideramos que los viejos teóricos del flogisto, como Joseph Priestley, sostenían\nel carácter compuesto de los metales, a la luz de la siguiente fórmula: cal + flogisto = metal.\nLavoisier propuso correctamente que los metales eran elementos y que el oxígeno (noel\ninexistente flogisto) es el agente crucial en los procesos de combustión, calcinación y\nrespiración.\n\nQuien hizo una gran revolución en la ciencia fue, más bien, conservador en la esfera\nde la política. Es más, dado que fue comisario del tesoro de la monarquía francesa,\ncuando triunfó la Revolución, fue arrestado y juzgado sumariamente por el Tribunal, y fue\ncondenado a morir guillotinado el 8 de mayo de 1794. Como dijo flébilmente Lagrange,\n«bastó un segundo para cercenar esa noble testa y pasarán cientos de años antes de que\nnazca otra igual».",
+    "questions": [
+      {
+        "statement": "¿Cuál es la mejor síntesis del texto?",
+        "alternatives": [
+          "A) Se puede calibrar el ingente peso de la revolución científica de Lavoisier si\nconsideramos que los teóricos del flogisto sostenían que los metales eran\nsustancias compuestas y Lavoisier determinó correctamente que eran elementos\nquímicos.",
+          "B) Aunque conservador en la esfera política, Lavoisier es una figura paradigmática\nde la revolución científica porque refutó la teoría del flogisto y apuntaló una nueva\nvisión basada en la oxidación, para lo cual recurrió a la combinación de teoría y\nmedición.",
+          "C) La gesta científica de Lavoisier consistió en llevar a cabo una verdadera\nsimbiosis entre teoría y medición, con la cual pudo enterrar definitivamente una\nmanera de hacer ciencia que consistía en apelar a la intuición y a la imaginación\nsin ningún basamento.",
+          "D) Lavoisier ocupa un puesto de privilegio en la historia de la ciencia porque en su\nTratado elemental de Química (1789) logró una verdadera definición operativa de\nelemento, con lo cual superó las limitaciones de un químico antiguo como Robert\nBoyle."
+        ],
+        "correct": 1,
+        "rationale": "Se explica centralmente el carácter revolucionario de Lavoisier y se hace un comentario marginal sobre su carácter conservador en la arena política."
+      }
+    ]
+  },
+  {
+    "type": "reading_comprehension",
+    "statement": "El psicoanálisis viola la ontología y la metodología de toda ciencia genuina.\nCiertamente, sostiene que el alma («mente», según la traducción estándar al inglés de las\nobras de Freud) es inmaterial y puede actuar sobre el cuerpo, como se muestra en los\nefectos psicosomáticos. Sin embargo, el psicoanálisis no supone ningún mecanismo\nmediante el cual una entidad inmaterial pueda alterar el estado de otra entidad material;\nsimplemente afirma que se da el caso. Además, esa afirmación es dogmática, puesto que\nlos psicoanalistas, a diferencia de los psicólogos, no realizan ninguna prueba empírica.\nConcretamente, ningún psicoanalista ha montado jamás un laboratorio. El propio Freud\n\nI\n\ndiferenció enfáticamente el psicoanálisis tanto de la psicología experimental como de la\nneurociencia.\n\nPara conmemorar el primer centenario de la publicación de La interpretación de los\nsueños, de Freud, el International Journal of Psychoanalysis publicó un informe realizado\npor seis analistas de Nueva York (Vaughan et al., 2000), que supuestamente informaron\nde la primera prueba experimental del psicoanálisis en un siglo de existencia. En realidad,\nno se trató de ningún experimento, puesto que no se contó con ningún grupo de control.\nPor tanto, esos autores no tenían derecho a concluir que las mejoras observadas se\ndebieron al tratamiento; pudieron haber ocurrido simplemente de forma espontánea. Así\npues, los psicoanalistas no emplean para nada el método científico, puesto que no saben\nde qué se trata. Al fin y al cabo, no tienen formación científica; en el mejor de los casos,\nson médicos generalistas.\n\nEl psicoanalista francés Jacques Lacan —un héroe del posmodernismo— admite\nesta idea y sostiene que el psicoanálisis, lejos de ser una ciencia, es simplemente una\npráctica retórica: l’art du bavardage. Al final, dado que los psicoanalistas sostienen que\nsus conclusiones son tanto reales como efectivas sin haberlas sometido al ensayo\nexperimental o a pruebas clínicas rigurosas, difícilmente puede afirmarse que procedan\ncon la honradez intelectual por la que, se supone, deben regirse los científicos (aunque\nocasionalmente cometan deslices). En suma, el psicoanálisis no está cualificado para\nconsiderarse una ciencia. Contrariamente a la creencia general, no es siquiera una\nciencia fallida, puesto que prescinde del método científico e ignora los contraejemplos. Se\ntrata simplemente de charlatanería psicológica.\n\nMario Bunge (2010) Las pseudociencias ¡vaya timo! Pamplona: Editorial Laetoli.",
+    "questions": [
+      {
+        "statement": "1. ¿Cuál es la idea principal del texto?",
+        "alternatives": [
+          "A) El psicoanálisis es charlatanería psicológica porque carece del rigor científico metodológico.",
+          "B) El psicoanálisis no puede ser considerado una ciencia porque, según Lacan, es solo vacua retórica.",
+          "C) El psicoanálisis es una pseudociencia porque tiene un desarrollo teórico muy reciente y precario.",
+          "D) El psicoanálisis no puede ser una ciencia genuina porque combate fuertemente a todos los dogmas."
+        ],
+        "correct": 0,
+        "rationale": "Bunge señala principalmente que el psicoanálisis no puede ser considerado como una ciencia porque desconoce el rigor del método científico."
+      },
+      {
+        "statement": "2. Podemos inferir que Bunge usa el término TIMO en el sentido de",
+        "alternatives": [
+          "A) aporía.",
+          "B) paradoja.",
+          "C) dogma.",
+          "D) embaucamiento."
+        ],
+        "correct": 3,
+        "rationale": "Toda pseudociencia es un engaño basado en la sofistería. Se trata de un modo de embaucamiento."
+      },
+      {
+        "statement": "3. Es compatible con el texto decir que",
+        "alternatives": [
+          "A) el dogma se relaciona con la prueba empírica científica.",
+          "B) Lacan le brinda pleno estatuto científico al psicoanálisis.",
+          "C) en psicología se puede soslayar todos los experimentos.",
+          "D) el psicoanálisis arremete contra el rigor del racionalismo."
+        ],
+        "correct": 3,
+        "rationale": "El psicoanálisis es retoricismo difuso, por lo que arremete contra el rigor de la racionalidad científica."
+      },
+      {
+        "statement": "4. Se infiere que para los psicoanalistas la mente humana",
+        "alternatives": [
+          "A) carece de un fundamento biológico.",
+          "B) es material porque actúa sobre el cuerpo.",
+          "C) se reduce al nivel del cuerpo humano.",
+          "D) se entiende solo como algo consciente."
+        ],
+        "correct": 0,
+        "rationale": "Según los psicoanalistas, la mente humana es inmaterial. De ello, se sobreentiende que no tiene base en la biología."
+      },
+      {
+        "statement": "5. Si los psicoanalistas llevaran a cabo experimentos controlados para evaluar sus hipótesis,",
+        "alternatives": [
+          "A) el psicoanálisis seguiría siendo una pseudociencia.",
+          "B) Bunge tendría razones para seguir denostándolos.",
+          "C) adquiriría el rigor sistemático del método científico.",
+          "D) apoyaría la línea de pensamiento de Jacques Lacan."
+        ],
+        "correct": 2,
+        "rationale": "Si los psicoanalistas siguieran el camino de la experimentación, su quehacer se podría observar como una empresa científica."
+      }
+    ]
+  },
+  {
+    "type": "reading_comprehension",
+    "statement": "He aquí el razonamiento de Enesidemo sobre la verdad reducido a su más simple expresión. Toda cosa es sensible o inteligible; por lo tanto, la verdad, si existe, será sensible o inteligible. Pero no es ni lo uno ni lo otro ni ambos a la vez. Por consiguiente, la verdad no existe. Este razonamiento parece irreprochable; pero es un sofisma. ¿Dónde está la falla?\n\nEl escéptico transforma ilegítimamente relaciones en identidades, relaciones en cosas en sí. Razona como si la verdad, lo sensible, lo inteligible fueran seres, realidades; por lo menos, los considera como propiedades positivas que poseerían los objetos que se llaman verdaderos o sensibles. Hay que confesar que el lenguaje vulgar y aun el de los filósofos está en connivencia con él. ¿No hablamos a cada instante de la existencia de la verdad? Los estoicos llegaban hasta hacer de la verdad un cuerpo.\n\nI\n\nBasta, sin embargo, un poco de reflexión para comprender que la verdad es una relación. Una cosa no encierra en sí misma la propiedad de ser verdadera; la posee solo si está en presencia de un espíritu. La verdad supone dos términos: una cosa que es y un pensamiento en el cual se representa. ¿Qué hay de sorprendente si, después de haber considerado como cosa en sí lo que no puede considerarse sino como una relación, se llegue a probar que esta cosa no existe?\n\nEs muy cierto que la verdad no existe, si por ello se entiende una realidad independientemente de todo pensamiento. Y puede decirse otro tanto de lo sensible y de lo inteligible, que son también solo relaciones. El escéptico entiende en un sentido absoluto identidades que solo se conceden como parciales y relativas.\n\n[Brochard, V. (2005). Los escépticos griegos. Buenos Aires: Editorial Losada]",
+    "questions": [
+      {
+        "statement": "De acuerdo con el sentido contextual, el término CONNIVENCIA implica",
+        "alternatives": [
+          "A) refutación.",
+          "B) confabulación.",
+          "C) acuerdo.",
+          "D) contubernio."
+        ],
+        "correct": 2,
+        "rationale": "Aunque puede implicar complicidad o complot, incluso contubernio, en la lectura solo implica una coincidencia o un acuerdo."
+      },
+      {
+        "statement": "¿Cuál es el tema central del texto?",
+        "alternatives": [
+          "A) El carácter sofístico de todo escepticismo",
+          "B) La falaz negación escéptica de la verdad",
+          "C) Análisis lógicos de la concepción de verdad",
+          "D) El razonamiento lógico sobre las creencias"
+        ],
+        "correct": 1,
+        "rationale": "Se presenta la argumentación escéptica de Enesidemo, y se determina de manera lógica que es un sofisma."
+      },
+      {
+        "statement": "Determine cuál de los siguientes enunciados guarda incompatibilidad con el desarrollo argumentativo del texto.",
+        "alternatives": [
+          "A) El carácter endeble de la argumentación de Enesidemo implica reformar el lenguaje ordinario.",
+          "B) El error del razonamiento de Enesidemo estriba en considerar que la verdad es como una cosa en sí.",
+          "C) La verdad tiene que entenderse como una relación entre un objeto y el contenido de un pensamiento.",
+          "D) La falacia de los escépticos radica en su conceptualización de la verdad en términos absolutos."
+        ],
+        "correct": 0,
+        "rationale": "Se trata de una formulación incompatible, por cuanto el error escéptico se funda en el uso corriente del lenguaje: en efecto, hablamos de la existencia de la verdad."
+      },
+      {
+        "statement": "Se infiere que el error escéptico se origina en pensar en la verdad como algo",
+        "alternatives": [
+          "A) histórico.",
+          "B) relativo.",
+          "C) lógico.",
+          "D) intrínseco."
+        ],
+        "correct": 3,
+        "rationale": "La verdad es una relación, una correspondencia. Así, pues, el escéptico yerra al pensar en la verdad como una propiedad intrínseca, o de las cosas o de los pensamientos."
+      },
+      {
+        "statement": "Si un filósofo sostuviera que la verdad es algo por descubrir en el mundo,",
+        "alternatives": [
+          "A) sería presa fácil de la refutación escéptica.",
+          "B) tendría que construir un lenguaje matemático.",
+          "C) demostraría que la verdad es representación.",
+          "D) coincidiría plenamente con los escépticos."
+        ],
+        "correct": 0,
+        "rationale": "Al sostener que la verdad es una cosa que se puede descubrir, se aceptaría la tesis de la verdad como algo inherente. En ese sentido, la refutación escéptica sería irreprochable."
+      }
+    ]
+  }
+]

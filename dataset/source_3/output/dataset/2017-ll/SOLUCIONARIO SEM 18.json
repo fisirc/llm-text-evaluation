@@ -1,0 +1,488 @@
+[
+  {
+    "type": "reading_comprehension",
+    "statement": "La Infografía, del inglés informational graphics ,es una eficaz herramienta didáctica\nde comunicación que combina textos con imágenes sintéticas, explicativas y fáciles de\nentender. De esta forma, la información numérica, del tiempo, estadística y muchas otras\nserán más efectivas siendo ilustradas que mediante el puro uso de texto. Además, sirven\nde elementos diferentes que permiten otorgar mayor variedad y agilidad a la diagramación\ny pueden ser adecuadamente combinadas con textos y fotografías para maximizar la\ncomprensión de lo que es está informando.\nAsí como el texto continuo, la infografía desarrolla un tema, una idea principal y\nexpresa una i ntencionalidad.",
+    "questions": [
+      {
+        "statement": "Se deduce que la infografía, principalmente,",
+        "alternatives": [
+          "A) resalta la escasa incidencia del cáncer en el Perú.",
+          "B) informa sobre los tipos de cáncer más mortales.",
+          "C) tranquiliza al decir: el cáncer no significa la muerte.",
+          "D) promueve la detección del cáncer a tiempo.",
+          "E) hace campaña a favor de la cura del cáncer."
+        ],
+        "correct": 3,
+        "rationale": "El mensaje es que si detecta a tiempo el 95% de casos tiene cura."
+      },
+      {
+        "statement": "Respecto de la posibilidad de evitar la mortalidad del cáncer, el mensaje de la infografía despierta en el lector",
+        "alternatives": [
+          "A) alegría.",
+          "B) quietud.",
+          "C) esperanza.",
+          "D) confianza.",
+          "E) seguridad."
+        ],
+        "correct": 1,
+        "rationale": "Despierta esperanza de evitar la mortalidad que causaría este mal."
+      },
+      {
+        "statement": "En el texto de la infografía la palabra SIGNIFICA se puede reemplazar por",
+        "alternatives": [
+          "A) produce.",
+          "B) causa.",
+          "C) implica.",
+          "D) descarta.",
+          "E) estimula."
+        ],
+        "correct": 2,
+        "rationale": "En el texto esta palabra tiene el sentido de que conlleva o implica"
+      },
+      {
+        "statement": "Es incongruente con el contenido de la infografía afirmar que",
+        "alternatives": [
+          "A) la mortalidad del cáncer se incrementa con descuido en su detección.",
+          "B) el cáncer de temprana detección se puede combatir con inyectables.",
+          "C) induce al lector a realizarse a exámenes de detección de cáncer.",
+          "D) incluye la imagen de la calavera para generar terror en el lector.",
+          "E) está dirigido a toda la población, sin distinción de sexo ni edad."
+        ],
+        "correct": 3,
+        "rationale": "Si bien la calavera simboliza la muerte; sin embargo, en el texto se dice que esta se puede evitar."
+      }
+    ],
+    "rationale": null
+  },
+  {
+    "type": "reading_comprehension",
+    "statement": "El gráfico 1 permite observar la evolución de los salarios de los docentes tanto de colegios públicos como privados, así como los de otros profesionales. Puede notarse una recuperación de los salarios de los docentes del sector público a partir del 2003. S in embargo, puesta esta estadística en perspectiva , Mizala y Ñopo (2016) señalan, con datos regionales del 2007, que la brecha salarial entre los docentes y los demás profesionales en el Peru es una de las más altas de la región. Solo en Nicaragua estas brechas son más grandes. El reto de mejorar los salarios de los docentes es todavía enorme.\n\nnuevos soles del 2009)",
+    "questions": [
+      {
+        "statement": "Se deduce que Mizala y Ñopo, en el estudio que emprend ieron en el año 2016,",
+        "alternatives": [
+          "A) recurrieron al método comparativo.",
+          "B) arribaron a conclusiones inesperadas.",
+          "C) aplicaron el método de la entrevista.",
+          "D) viajaron a diversos países de la región.",
+          "E) enfocaron su indagación en el año 2016."
+        ],
+        "correct": 0,
+        "rationale": "Mediante este método obtuvieron la diferencia de los montos salariales de docentes y otros profesionales en distintos años."
+      },
+      {
+        "statement": "A diferencia de los docentes de la región, los docentes peruanos",
+        "alternatives": [
+          "A) en sus luchas reivindicativas, reciben el apoyo solidario de padres de familia y alumnos.",
+          "B) conocen de cerca las carencias educativas de su centro educativo y las de sus alumnos.",
+          "C) mínimamente aspirarían a homologar sus sueldos con los de los médicos y abogados.",
+          "D) perciben remuneraciones que no han variado sustancialmente desde el año 2003.",
+          "E) realizan diferentes trabajos adicionales para compensar su deteriorada remuneración."
+        ],
+        "correct": 3,
+        "rationale": "Dada la brecha salarial, los docentes aspirarían a percibir sueldos similares a la de otros profesionales."
+      }
+    ]
+  },
+  {
+    "type": "reading_comprehension",
+    "statement": "Los vacíos siempre se llenan: it happened after the decline of the Spanish empire, in which the sun did not set, and later with the decline of the British empire to make way for the imperial march of the United States, which turned the 20th century into the American century. La consolidación del emperador Xi Jinping, tras el Congreso del Partido Comunista en Pekín, es una poderosa señal del giro del orden internacional. Cambio propiciado por el vacío originado por la llegada de Donald Trump a la Casa Blanca decretando un repliegue de la todavía primera superpotencia, y una política errática sin brújula internacional que desconcierta a los aliados tradicionales de Washington.",
+    "questions": [
+      {
+        "statement": "1. De la cita en inglés se deduce que la hegemonía imperial de una potencia es",
+        "alternatives": [
+          "A) global.",
+          "B) permanente.",
+          "C) intermitente.",
+          "D) transitoria.",
+          "E) azaroso."
+        ],
+        "correct": 3,
+        "rationale": "De la cita en inglés ( ocurrió tras la decadencia del imperio español, en el que no se ponía el sol, y más tarde con el ocaso del imperio británico para dar paso a la marcha imperial de Estados Unidos, que convirtió el siglo XX en la centuria americana .),se deduce que los imperios español e inglés fueron transitorios, y ahora hay señales de que el imperio norteamericano será reemplazado por el chino."
+      },
+      {
+        "statement": "2. En el texto, la palabra decline asume el significado de",
+        "alternatives": [
+          "A) disminución.",
+          "B) decadencia.",
+          "C) inferioridad.",
+          "D) subordinación.",
+          "E) derrota."
+        ],
+        "correct": 1,
+        "rationale": "decadencia"
+      }
+    ]
+  },
+  {
+    "type": "sentence_elimination",
+    "statement": "4. En el texto, la palabra PERSPECTIVA connota",
+    "alternatives": [
+      "A) analogía.",
+      "B) tendencia.",
+      "C) comparación.",
+      "D) brecha.",
+      "E) región."
+    ],
+    "correct": 2,
+    "rationale": "Connota comparación de los sueldos de los docentes del sector público del Perú con los de la región."
+  },
+  {
+    "type": "reading_comprehension",
+    "statement": "La llegada de Donald Trump a la Casa Blanca propicia el cambio de la hegemonía en el mundo en favor de China. Así, la marcha imperial de los Estados Unidos llega a su fin.",
+    "questions": [
+      {
+        "statement": "It is inferred that the arriva l of Donald Trump to the White House",
+        "alternatives": [
+          "A) affects the imperial march of China.",
+          "B) it eliminates the hegemony of the English Empire.",
+          "C) puts an end to the imperial march of the united states.",
+          "D) favors the traditional allies of the United States",
+          "E) generates the rejection of a majority of the American population"
+        ],
+        "correct": 2,
+        "rationale": null
+      },
+      {
+        "statement": "Si Donald Trump, en sus relaciones internacionales, estableciera una política coherente, y no errática,",
+        "alternatives": [
+          "A) China tendría dificultades para imponer su hegemonía global.",
+          "B) la hegemonía imperial de los Estados Unidos se mantendría intacta.",
+          "C) los aliados tradicionales de los Estados Unidos se fortalecerían.",
+          "D) obtendría respaldo de sus aliados y de la población norteamericana.",
+          "E) impediría que el emperador chino Xi Jinping se consolide en el poder."
+        ],
+        "correct": 0,
+        "rationale": null
+      }
+    ]
+  },
+  {
+    "type": "verbal_series",
+    "statement": "Eminente, insigne; díscolo, sumiso; sosegado, calmo;",
+    "alternatives": [
+      "A) robusto, hercúleo",
+      "B) sapiente, docto",
+      "C) silente, ufano.",
+      "D) banal, superficial.",
+      "E) fortuito, planificado."
+    ],
+    "correct": 4,
+    "rationale": "Se trata de una serie mixta: sinónimo, antónimo, sinónimo, antónimo…"
+  },
+  {
+    "type": "verbal_series",
+    "statement": "Indique cuál es el hiperónimo de rosa, clavel, margarita:",
+    "alternatives": [
+      "A) Arreglo",
+      "B) Nombre",
+      "C) Floral",
+      "D) Flor",
+      "E) Ramillete"
+    ],
+    "correct": 3,
+    "rationale": "El hiperónimo es Flor."
+  },
+  {
+    "type": "verbal_series",
+    "statement": "Sensatez, prudencia, discreción,",
+    "alternatives": [
+      "A) probidad",
+      "B) equidad",
+      "C) sindéresis",
+      "D) sapiencia",
+      "E) sosiego"
+    ],
+    "correct": 2,
+    "rationale": "Se trata de una serie sinonímica."
+  },
+  {
+    "type": "verbal_series",
+    "statement": "Manija, puerta; moto, vehículo; timón, carro;",
+    "alternatives": [
+      "A) pulgar, dedo",
+      "B) casa, vecindario",
+      "C) crin, lomo",
+      "D) vitamina, A",
+      "E) árbol, bosque"
+    ],
+    "correct": 0,
+    "rationale": "La relación establecida entre los pares es de hipónimo -hiperónimo (Especie -género)."
+  },
+  {
+    "type": "analogies",
+    "statement": "4. Manija, puerta; moto, vehículo; timón, carro;",
+    "alternatives": [
+      "A) pulgar, dedo",
+      "B) casa, vecindario",
+      "C) crin, lomo",
+      "D) vitamina, A",
+      "E) árbol, bosque"
+    ],
+    "correct": 0,
+    "rationale": "La relación establecida entre los pares es de hipónimo -hiperónimo (Especie -género)."
+  },
+  {
+    "type": "reading_comprehension",
+    "statement": "La Independencia de Hispanoamérica y del Perú fueron consecuencias derivadas de cambios profundos que alteraron el equilibrio de fuerzas establecidas entre las potencias europeas y que condujeron a la hegemonía absoluta e indiscutida de Inglaterra. Sin la comprensión de la naturaleza de aquella mutación, y del impacto que tuvo sobre la economía y la sociedad hispanoamericana, no es posible entender el mecanismo de cambio de estas últimas. Aquí reside el error más grave de interpretación de la historiografía tradicional peruana, que excesivamente preocupada en buscar una causalidad esencialmente interna, acorde con su posición ideológica, rechaza todo nexo orgánico entre el mundo internacional y la situación peruana. Este impacto externo, en el caso de la Independencia, no se reduce de ninguna manera, como piensa la historiografía tradicional, a las “influencias” de Independencia americana y de la Revolución francesa, o a la difusión en América de la ideas del Siglo de las Luces. Estas no tuvieron la importancia que se les asignó, puesto que solo afectaron a minorías muy reducidas, y porque, en general, la situación hispanoamericana fue impermeable a este tipo de impacto . Es mucho más importante examinar los cambios que afectaron a la sociedad española desde el establecimiento de la dinastía borbónica, cambios que se intensificaron con el ascenso de Carlos III al poder de la metrópoli, hasta llegar a una crisis generalizada con Fernando VII. Estos cambios que modificaron la misma estructura interna de la me trópoli, así como la relación con sus colonias ultramarinas, fueron resultado de la acción de las fuerzas internas de la sociedad española y el trastorno producido por los múltiples conflictos en que España se vio envuelta dentro de Europa. Los años de la emancipación, 1818 -1824, corresponden cronológicamente a años de crisis y de revoluciones en España. La Independencia de Hispanoamérica y del Perú se gestó, pues, en ambos lados del Atlántico. Heraclio Bonilla, Metáfora y realidad de la Independencia en el Perú , p. 44",
+    "questions": [
+      {
+        "statement": "Con respecto de la Independencia Hispanoamérica y del Perú, el autor tiene la intención principal de",
+        "alternatives": [
+          "A) cuestionar a la historiografía tradicional que, sujeta a su posición ideológica, distorsiona la realidad de los hechos de este proceso.",
+          "B) plantear la tesis de que este proceso fue, sobre todo, consecuencia de la crisis que afectó a España durante los reinados de Carlos III hasta el de Fernando VII.",
+          "C) relievar el papel de Carlos III, rey de España, en los cambios que condujeron a una profunda crisis de su reino en las primeras décadas del siglo XIX.",
+          "D) correlacionar cronológicamente los años de crisis y revoluciones en España (1818 -1824) y el papel de Inglaterra con este proceso.",
+          "E) examinar los cambios que afectaron a la sociedad española desde el ascenso de los borbones con Carlos III hasta el reinado de Fernando VII."
+        ],
+        "correct": 1,
+        "rationale": "El autor plantea que para interpretar adecuadamente esta Independencia, es mucho más importante examinar los cambios que afectaron a la sociedad española desde el reinado de Carlos III hasta el de Fernando VII."
+      },
+      {
+        "statement": "Se infiere que, para el autor, en la consecución de la Independencia de Hispanoamérica y del Perú,",
+        "alternatives": [
+          "A) los hechos de la Independencia de los Estados Unidos y de la revolución francesa fueron desconocidos por los revolucionarios de Hispanoamérica.",
+          "B) Inglaterra apoyó decididamente a los revolucionarios hispanoamericanos difundiendo las ideas del Siglo de las Luces.",
+          "C) la inexperiencia política de Carlos III y Fernando VII fue un factor decisivo que impidió afrontar con éxito esta aspiración de Hispanoamérica.",
+          "D) los revolucionarios de España e Hispanoamérica lucharon coordinadamente por la liquidación de la monarquía de Fernando VII.",
+          "E) la ideología revolucionaria de ese entonces fue irrelevante frente al afán hegemónico de Inglaterra y las contradicciones de la sociedad española."
+        ],
+        "correct": 4,
+        "rationale": "Según el autor, esta ideología afectó a minorías muy reducidas de hispanoamericanos; en consecuencia, su papel fue irrelevante frente al afán hegemónico de Inglaterra y las contradicciones de la sociedad española."
+      },
+      {
+        "statement": "En el texto, la palabra IMPACTO se puede reemplazar por",
+        "alternatives": [
+          "A) influencia.",
+          "B) injerencia.",
+          "C) infiltración.",
+          "D) invasión.",
+          "E) agresión."
+        ],
+        "correct": 0,
+        "rationale": "El término se refiere a la influencia de ideas."
+      },
+      {
+        "statement": "Es incompatible afirmar que durante los años de la emancipación, 1818 -1824,",
+        "alternatives": [
+          "A) la monarquía española hizo frente a enemigos internos y externos.",
+          "B) en Hispanoamérica, la Independencia ya era un hecho inminente.",
+          "C) el imperio español perdió la hegemonía que ostentaba en Europa.",
+          "D) Inglaterra también pugnó por retener su dominio absoluto en Europa.",
+          "E) tanto en Europa como en América se produjeron hechos trascendentales."
+        ],
+        "correct": 3,
+        "rationale": "Inglaterra pugnó no por retener, sino por constituirse en una nueva potencia europea a costa de España."
+      },
+      {
+        "statement": "Si el autor asumiera la historiografía tradicional para interpretar la Independencia de Hispanoamérica y del Perú,",
+        "alternatives": [
+          "A) soslayaría el examen de la situación de la monarquía española durante este periodo.",
+          "B) consideraría a Inglaterra como una potencia con una influencia decisiva en este proceso.",
+          "C) examinaría con interés los hechos que ocurrieron en España en los años 1818 - 1824.",
+          "D) acopiaría información de la política de los borbones desde Carlos III hasta Fernando VII.",
+          "E) descartaría la importancia de las ideas revolucionarias como las del Siglo de las Luces."
+        ],
+        "correct": 0,
+        "rationale": "El historiógrafo tradicional “rechaza (soslaya) todo nexo orgánico entre el mundo internacional y la situación peruana.”"
+      }
+    ]
+  },
+  {
+    "type": "reading_comprehension",
+    "statement": "Los defensores de la efectividad de la escucha de Mozart como un factor importante en el mejor desempeño en el razonamiento espacial han publicado los resultados de sus estudios de imágenes funcionales. Estos últimos demuestran la activación de zonas de la corteza frontal y occipital y del cerebelo con el estímulo musical de Mozart. Estas áreas están implicadas en el procesamiento espaciotemporal. El número de investigaciones ha permitido la realización de revisiones por meta -análisis en los cuales no ha sido posible hacer comparaciones de los resultados, dado que no se tuvo en cuenta el estado de ánimo de los sujetos y las cualidades propias de la música que se escuchó. Es el caso del estudio realizado por Thompson y Schellenberg, quienes, mediante el empleo de música de Mozart y de Albinoni y del silencio, encontraron que los efectos producidos en los sujetos de investigación podían deberse a los estados de ánimo generados por cada una de las piezas musicales, que fueron calificadas por los oyentes como a legre la primera y lenta y triste la segunda. El análisis de las diferentes pruebas utilizadas para comparar el efecto Mozart con otras situaciones (sentarse en silencio, oír historias, oír música de relajación), demuestran que la posible explicación proviene del hecho de que la música desencadena un mayor estado de alerta y una mejor actitud afectiva en el individuo. Para el profesor Jhon Hughes de la universidad de Illinois, el beneficio de la música de Mozart se debe al efecto de la periodicidad a largo plazo (aunque también se observa en la música de Johann Sebastián y su hijo Johann Christian Bach). Además, al analizar la periodicidad es la clave del efecto de la música.",
+    "questions": [
+      {
+        "statement": "Medularmente, el autor sostiene que los estudios de los partidarios de la escucha de Mozart",
+        "alternatives": [
+          "A) concluyeron en que esta práctica redunda en el mejoramiento del razonamiento espacial.",
+          "B) son inconsistentes, pues soslayaron variables que habrían distorsionado sus conclusiones.",
+          "C) se complementan con investigaciones sobre la actitud de quienes son sometidos a esta escucha.",
+          "D) hallaron que la escucha de la música de Johann Bach y su hijo produce los mismos efectos.",
+          "E) demuestran, sin duda, que los efectos de esta escucha mejoran con la periodicidad a largo plazo."
+        ],
+        "correct": 1,
+        "rationale": "El autor sostiene que estos estudios no se tuvieron en cuenta el estado de ánimo de los sujetos y las cualidades propias de la música que se escuchó, los cuales habrían distorsionado las conclusiones."
+      },
+      {
+        "statement": "A partir de los estudios de Thompson y Schellenberg y Jhon Hughes, se infiere que la activación de zonas de la corteza frontal y occipital y del cerebelo",
+        "alternatives": [
+          "A) se desencadena cuando se escucha la música de Mozart olas de Bach padre o hijo.",
+          "B) genera estado de satisfacción que se intensifica con la escucha de la música de Mozart.",
+          "C) repercute, a su vez, en la elevación de la sensibilidad musical del escucha de Mozart.",
+          "D) se descubrió al correlacionar la escucha de Mozart con el razonamiento espacial.",
+          "E) sería efecto de las cualidades de la música, su periodicidad o el estado de ánimo el escucha."
+        ],
+        "correct": 4,
+        "rationale": "Según el autor, la activación de zonas de la corteza frontal y occipital y del cerebelo se produciría por el estado de ánimo del escucha (Thompson y Schellenberg) o por el efecto de periodicidad (Jhon Hughes)."
+      }
+    ]
+  },
+  {
+    "type": "reading_comprehension",
+    "statement": "SEMANA 18C\n\n¿Por qué suele afirmarse que el Banco Mundial tiene un sesgo economicista en su enfoque de la educación? No es porque realice el necesario análisis de los aspectos económicos del sistema educativo, ni porque enfatice la urgente necesidad de investigar los requerimientos de recursos humanos que plantea el nuevo modo de desarrollo.\nEs, en primer lugar, porque una serie de cuestiones, propias del ámbito de la cultura y la política, han sido planteadas y respondidas usando la misma teoría y metodología con que se intenta dar cuenta de una economía de mercado. Para encuadrar la realidad sistema de mercado, entre escuela y empresa, entre padre de familia y demandante de servicios, entre relaciones pedagógicas y relaciones de insumo -producto, entre aprendizaje y producto, haciendo abstracción de aspectos esenciales propios de la realidad educativa.\nEn segundo lugar, este procedimiento, que incluso podría ser aceptable como un ejercicio analítico parcial, como metáfora para generar nuevas hipótesis y proyectar visiones que interactúen con las de los sociólogos, los antropólogos, los psicólogos o los pedagogos, se vuelve reduccionismo cuando el análisis económico es considerado concluyente y de él se extraen no sólo conclusiones sobre la problemática de conjunto del sistema educativo y su relación con el Estado y la sociedad, sino que se hacen propuestas de intervención específicas en los procesos de enseñanza -aprendizaje, todo esto sin intentar buscar la congruencia con otros enfoques también parciales.\nComo consecuencia, no debe extrañar que su propuesta básica para el sistema educativo consis ta en (hasta donde sea posible) dejar librada la actividad educativa al mercado y a la competencia, de modo que sea la interacción de demandantes y ofertantes de servicios educativos la que defina cuánta educación, con qué contenidos y pedagogías, estructurada de qué maneras, en qué ramas y a qué precios debe ofrecerse. Pero esa propuesta no hace más que reencontrar lo que ya fue introducido por la misma teoría como principio filosófico irrefutable ,no puesto a prueba, de que los mecanismos de mercado son i ntrínsecamente superiores a cualquier otra forma de coordinar la actividad humana.",
+    "questions": [
+      {
+        "statement": "1. El tema central que el autor expone es",
+        "alternatives": [
+          "A) una visión alternativa al sesgo economicista del Banco Mundial",
+          "B) crítica a la visión economicista de la educación del Banco Mundial.",
+          "C) refutación de la idea de la superioridad de los mecanismos del mercado.",
+          "D) los teoremas generales del Banco Mundial aplicados a la educación.",
+          "E) el contraste entre la realidad educativa y la economía de mercado."
+        ],
+        "correct": 1,
+        "rationale": "Critica la visión educativa del BM porque identifica la educación con el sistema de mercado y reduce la cultura y la educación, incluso sus problemas específicos, a las conclusiones extraídas mediante los teoremas de la economía de mercado."
+      },
+      {
+        "statement": "2. Para el autor, la expresión principio filosófico irrefutable encierra",
+        "alternatives": [
+          "A) un axioma.",
+          "B) una ambigüedad.",
+          "C) una contradicción.",
+          "D) un teorema.",
+          "E) una hipótesis."
+        ],
+        "correct": 4,
+        "rationale": "El autor dice este principio no ha sido puesto a prueba; en consecuencia, decir que es irrefutable sin haber sido probado es una hipótesis."
+      }
+    ]
+  },
+  {
+    "type": "verbal_series",
+    "statement": "I. Enfoque aplicable al análisis y la solución de cualquier problema educativo.\nII. Considera que la educación no es un servicio, sino un derecho humano universal.\nIII. Promueve el talento y la educación sin discriminación de sexo, economía, etc.\nIV. Relieva el papel del gerente como garantía de la eficacia del proceso educativo.\n",
+    "alternatives": [
+      "A) VFVF",
+      "B) VVFF",
+      "C) VFFV",
+      "D) FVFV",
+      "E) FFVV"
+    ],
+    "correct": 2,
+    "rationale": null
+  },
+  {
+    "type": "sentence_elimination",
+    "statement": "Es incompatible afirmar que la visión de la educación del autor",
+    "alternatives": [
+      "A) soslaya absolutamente el análisis económico.",
+      "B) cuestiona la identificación de aprendizaje y producto.",
+      "C) concibe la educación como un singular espacio cultural.",
+      "D) rechaza taxativamente la injerencia de la oferta y la demanda.",
+      "E) propone la solidaridad y no la competencia como motor de la educación."
+    ],
+    "correct": 0,
+    "rationale": "El autor dice que hay aspectos económicos de la educación que requieren dicho análisis."
+  },
+  {
+    "type": "sentence_elimination",
+    "statement": "La identificación de padre de familia con el demandante del servicio educativo solo es posible si,",
+    "alternatives": [
+      "A) responde a un acuerdo del conjunto de padres de familia.",
+      "B) el centro educativo está sujeto al modelo económico del BM.",
+      "C) su hijo se constituye, en contrapartida, en el ofertante educativo.",
+      "D) dicho servicio es deficiente y requiere una drástica reorganización.",
+      "E) el Banco Mundial se responsabiliza de la oferta de dicho servicio."
+    ],
+    "correct": 1,
+    "rationale": "Bajo este modelo el ofertante sería el centro educativo."
+  },
+  {
+    "type": "reading_comprehension",
+    "statement": "La imposición del tributo indígena estuvo ligado históricamente a la propiedad de la tierra. Esta ecuación la disolvió la independencia a través de un proceso bastante errático. La ideología que animaba la independencia, en efecto, era opuesta al mantenimiento de las instituciones que trabasen la irrestricta circulación de bienes y personas en el mercado. Pero la premisa que mantuvo durante el periodo colonial el acceso a la tierra por parte de la población indígena era la comunidad de indígenas, centros poblados que nacieron como consecuencia de la concentración que estableciera el virrey Toledo de la población sobreviviente a la hecatombe de la conquista. Estas “reducciones” de indios, en la política toledana, debían en adelante servir como reservas permanentes de mano de obra para las principales unidades productivas, mientras que su reproducción estaba precisamente asegurada por la dotación de tierras. La legislación agraria de la colonia tuvo, por ello, especial cuidado en evitar que las familias indígenas perdiesen el control de estas parcelas como consecuencia de la expansión de los latifundios aledaños. El decreto de Bolívar del 8 de abril de 1824 amenazaba la existencia misma de la comunidad, al declarar la propiedad de los indios sobre sus tierras, con el consiguiente derecho de alienar las tierras a terceros. El propósito implícito en esta decisión era la de crear una clase de prósperos pequeños propietarios independientes, dotados de la capacidad de desarrollar un mercado nacional. Sin embargo, los resultados fueron diferentes. Muy pronto las autoridades percibieron las amenazas que se cernían sobre la población indígena como resultado de esta decisión, razón por la cual postergaron su aplicación por un periodo de 50 años. Cualquiera que hayan sido las vicisitudes de ambas disposiciones, el hecho concreto es que se estableció de manera irreversible una brecha en el dique de contención entre hacienda y comunidad, preparándose el camino para la expansión de los grandes latifundios cuando nuevas fuerzas dinamizaran el conjunto de la economía rural. Heraclio Bonilla, Metáfora y realidad de la Independencia en el Perú",
+    "questions": [
+      {
+        "statement": "1. En el texto, la expresión DIQUE DE CONTENCIÓN alude a",
+        "alternatives": [
+          "A) el decreto de Bolívar para desarrollar el mercado nacional.",
+          "B) el derecho de los indígenas de hacer producir sus tierras.",
+          "C) el derecho comunal indígena de preservar sus tierras.",
+          "D) la preservación de la ingente mano de obra indígena.",
+          "E) la dinamización de la economía agraria rural indígena."
+        ],
+        "correct": 2,
+        "rationale": "Esta expresión alude al derecho de posesión de la tierra por parte de la comunidad indígena. Derecho que impedía al indígena alienar (vender, transferir a un tercero) su parcela."
+      },
+      {
+        "statement": "3. Con respecto al decreto que disponía el derecho de los indígenas de alienar sus tierras a terceros, es incompatible afirmar que",
+        "alternatives": [
+          "A) fue percibida por las autoridades como un peligro para la comunidad indígena.",
+          "B) tenía como finalidad explícita preparar el camino para la expansión latifundista.",
+          "C) a la larga, fue aprovechada por los latifundistas para extender sus propiedades",
+          "D) fue concebido por su autor como una ley en favor de la economía nacional.",
+          "E) fue coherente con la ideología que animó a quienes dirigieron la Independencia."
+        ],
+        "correct": 1,
+        "rationale": "Este decreto tenía como propósito implícito crear una clase de prósperos pequeños propietarios independientes, dotados de la capacidad de desarrollar un mercado nacional."
+      }
+    ]
+  },
+  {
+    "type": "sentence_elimination",
+    "statement": "3. Con respecto al decreto que disponía el derecho de los indígenas de alienar sus tierras a terceros, es incompatible afirmar que",
+    "alternatives": [
+      "A) fue percibida por las autoridades como un peligro para la comunidad indígena.",
+      "B) tenía como finalidad explícita preparar el camino para la expansión latifundista.",
+      "C) a la larga, fue aprovechada por los latifundistas para extender sus propiedades",
+      "D) fue concebido por su autor como una ley en favor de la economía nacional.",
+      "E) fue coherente con la ideología que animó a quienes dirigieron la Independencia."
+    ],
+    "correct": 1,
+    "rationale": "Este decreto tenía como propósito implícito crear una clase de prósperos pequeños propietarios independientes, dotados de la capacidad de desarrollar un mercado nacional."
+  },
+  {
+    "type": "reading_comprehension",
+    "statement": "El nacimiento de la bioética se explica por factores históricos, científicos y sociales. Desde mediados del siglo pasado los espectaculares avances de las ciencias médicas abrieron a la investigación científica campos inéditos y aportaron indudables mejora s a la salud de los pueblos, al tiempo que planteaban inesperados desafíos a la ética y la moral. Cada nueva conquista de la biología y las ciencias médicas se ha enfrentado a cuestionamientos fundados en concepciones religiosas o éticas, como ocurre con la investigación con embriones humanos, tema sumamente sensible por tratarse de los orígenes de la vida, en el que entran en juego concepciones morales e intereses científicos e incluso financieros. No se trata de hallazgos puntuales o aislados. Estamos en presencia de una auténtica revolución biológica. En pocas décadas ha sido posible definir las bases químicas de la herencia, el código genético común a todos los seres vivos, y establecer los fundamentos de la biología molecular y de una nueva genética . Se sentaron así los cimientos de la ingeniería genética; es decir, de una tecnociencia que permite la manipulación y el intercambio de genes en y entre las especies. El ser humano posee, pues, la capacidad de manipular y transformar el material genético con propósitos prácticos e intervenir incluso en su naturaleza biológica como especie, sin duda el aspecto más inquietante desde una perspectiva bioética. Resulta evidente, entonces, que estos progresos tienen repercusiones en la concepción misma de lo humano y plantean problemas trascendentales de índole ética, social y legal, en los que la bioética está llamada a intervenir para establecer un justo y difícil equilibrio entre el progreso de la investigación médica y el respeto de la vida humana.",
+    "questions": [
+      {
+        "statement": "1. En el texto, el vocablo INQUIETANTE tiene el sentido específico de",
+        "alternatives": [
+          "A) emocionante.",
+          "B) ignorado.",
+          "C) cuestionable.",
+          "D) trascendental.",
+          "E) debatido."
+        ],
+        "correct": 4,
+        "rationale": "En el texto se argumenta acerca de la necesidad de la intervención de la bioética para establecer un justo y difícil equilibrio entre el progreso de la investigación médica y el respeto de la vida humana."
+      },
+      {
+        "statement": "3. Con respecto a la ingeniería genética es incompatible aseverar que",
+        "alternatives": [
+          "A) constituye el logro más sofisticado de la actual revolución biológica.",
+          "B) en su desarrollo, es inevitable que cuestione el papel de la bioética.",
+          "C) es objeto de cuestionamientos fundados en concepciones religiosas.",
+          "D) tiene conocimiento del código gen ético común a todos los seres vivos.",
+          "E) en su accionar puede poner en peligro la vida de la especie humana."
+        ],
+        "correct": 1,
+        "rationale": null
+      },
+      {
+        "statement": "4. Del texto se deduce que la investigación con embriones humanos",
+        "alternatives": [
+          "A) tiene muchas limitaciones por la intervención de la bioética.",
+          "B) está sujeta, incluso, a presiones ajenas al ámbito científico.",
+          "C) descubre el interés por conocer aún más del código genético.",
+          "D) evidencia las concepciones religiosas de los que la cuestionan.",
+          "E) sólo es posible cuando se atienden los intereses involucrados."
+        ],
+        "correct": 1,
+        "rationale": "Porque en este tipo de investigación entran en intereses morales, científicos e, incluso, financieros."
+      }
+    ]
+  },
+  {
+    "type": "verbal_series",
+    "statement": "1. En una encuesta se preguntó a 1 000 adultos acerca del gasto en educación universitaria y la necesidad de alguna forma de ayuda financiera. Los encuestados fueron clasificados de acuerdo con si en la actualidad tenían un hijo en la universidad o si pe nsaban que la carga del préstamo para la mayor parte de los estudiantes universitarios es demasiado alta, correcta o muy baja. Las proporciones de respuesta en cada categoría se muestran en la tabla adjunta\n\nDemasiado alta correcta Muy baja\nHijo en la universidad 0,35 0,08 0,01\nNingún hijo en la universidad 0,25 0,20 0,11\n\nSe elige al azar un encuestado de este grupo, ¿cuál es la probabilidad de que el encuestado tenga un hijo en la universidad o piense que la carga del préstamo es demasiado alta?",
+    "alternatives": [
+      "A) 0,56",
+      "B) 0,58",
+      "C) 0,62",
+      "D) 0,54",
+      "E) 0,69"
+    ],
+    "correct": 4,
+    "rationale": "Solución :\n\nH: el encuestado tiene un hijo en la Universidad.\nA: el encuestado piensa que la carga del préstamo\nes demasiado alta.\nP(HUA)= 0,44 + 0,25\nP(HUA)= 0,69"
+  }
+]

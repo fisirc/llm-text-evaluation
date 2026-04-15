@@ -1,0 +1,657 @@
+[
+  {
+    "type": "reading_comprehension",
+    "statement": "El \"nuevo\" método científico baconiano surgió como un intento de corregir las deficiencias de la teoría aristotélica clásica, pero en realidad solo aportó dos cosas nuevas: un procedimiento para hacer inducciones graduales y progresivas, y un método de exclusión.\n\nRespecto a las inducciones, Bacon postuló que primero debería recopilarse una \"serie de historias naturales y experimentales\" y hasta no contar con información empírica amplia no dar el siguiente paso, que sería empezar a eliminar algunas posibilidades. Bacon puso como ejemplo la determinación de la causa del calor, para lo que debe hacerse una lista de todas las cosas que sean calientes y otra lista de las que no lo son, así como una lista más de las cosas que muestran distintos grados de calor. En la primera de estas listas (\"Tabla de esencia y presencia\") se encuentran el Sol, el verano y el fuego, entre muchas otras; en la segunda lista (\"Tabla de desviaciones o de ausencia de proximidad\") están la Luna, las estrellas, las cenizas mezcladas con agua, y el invierno, también entre otras; y en la tercera (\"Tabla de grados o de comparación del calor\") tenemos a los planetas, el estiércol, las variaciones de temperatura ambiental, fuegos de distinta intensidad, etc. Con estas tablas ya es posible excluir algunos factores como causa del calor, y Bacon señala que la \"luminosidad y el brillo\" pueden eliminarse, en vista de que la Luna, aunque posee ambas características, es fría. De esta manera se puede llegar a la primera conclusión sobre la causa del calor, que para Bacon no es otra cosa que el movimiento. El siguiente paso es buscar en otros fenómenos naturales si esa correlación, entre calor y movimiento, se confirma; si es así, puede procederse a establecer una segunda correlación, y repitiendo el proceso cada vez a niveles más altos de generalidad se obtiene mayor confianza en el conocimiento sobre la esencia del calor. Se ha dicho que Bacon pensaba que con este método la generación del conocimiento científico era algo automático.",
+    "questions": [
+      {
+        "statement": "El tema central del texto se refiere a",
+        "alternatives": [
+          "A) aportes del nuevo método baconiano para la generación del conocimiento científico.",
+          "B) la corrección, por Bacon, de los errores del método aristotélico de conocimiento científico.",
+          "C) el proceso de inducciones graduales en la generación del conocimiento científico.",
+          "D) la determinación de la causa del calor mediante el método de inducciones y exclusiones.",
+          "E) el movimiento, y no la luminosidad, causa del calor, establecida por el método de las inducciones"
+        ],
+        "correct": 0,
+        "rationale": "Aun cuando intentó de corregir las deficiencias de la teoría aristotélica clásica, en realidad solo aportó dos cosas nuevas: un procedimiento para hacer inducciones graduales y progresivas, y un método de exclusión."
+      },
+      {
+        "statement": "En el texto, el vocablo ELIMINACIÓN alude a",
+        "alternatives": [
+          "A) cercenamiento.",
+          "B) mengua.",
+          "C) conjetura.",
+          "D) exclusión.",
+          "E) delimitación."
+        ],
+        "correct": 3,
+        "rationale": "Se refiere a la exclusión de la \"luminosidad y el brillo\" como causa del calor."
+      },
+      {
+        "statement": "Se deduce que, para Bacon, cuanto mayor es el nivel de generalidad del conocimiento,",
+        "alternatives": [
+          "A) el margen de exclusión es insignificante.",
+          "B) la inducción es el proceso más relevante.",
+          "C) este asume el carácter de hipótesis científica.",
+          "D) concluye el proceso del conocimiento científico.",
+          "E) requiere un mayor proceso de exclusión."
+        ],
+        "correct": 0,
+        "rationale": "Según el autor, cada vez que se confirma una correlación se obtiene un nivel más alto de generalidad, que implica mayor confianza en el conocimiento de la esencia de un fenómeno; por tanto , el margen de exclusión es insignificante."
+      },
+      {
+        "statement": "Es incompatible con el método baconiano aseverar que la inducción",
+        "alternatives": [
+          "A) implica recopilación de historias naturales y experimentales.",
+          "B) es un proceso de generalización gradual y progresiva.",
+          "C) requiere, previamente, del gradual proceso de exclusión.",
+          "D) en su más alto nivel, conduce a un conocimiento más fiable.",
+          "E) y la exclusión son procesos complementarios del conocimiento ."
+        ],
+        "correct": 2,
+        "rationale": "Según Bacon, primero debería recopilarse una \"serie de historias naturales y experimentales\" y hasta no contar con información empírica amplia no dar el siguiente paso, que sería empezar a eliminar algunas posibilidades."
+      },
+      {
+        "statement": "Si en el ejemplo presentado no se confirmara en otros fenómenos naturales la correlación entre calor y movimiento,",
+        "alternatives": [
+          "A) el método baconiano prescindiría de la inducción.",
+          "B) aun así,  se podría conocer la esencia del calor.",
+          "C) la luz y la luminosidad serían las causas del calor",
+          "D) se comprobaría la fragilidad del método baconiano.",
+          "E) se cuestionaría a este como generador del calor."
+        ],
+        "correct": 4,
+        "rationale": "La confirmación de la correlación acerca al conocimiento de la esencia del fenómeno. En caso contrario, en el caso del ejemplo, se cuestionaría al movimiento como generador del calor"
+      }
+    ]
+  },
+  {
+    "type": "reading_comprehension",
+    "statement": "Nadie puede negar hoy que en Estados Unidos existe una gran brecha que separa a los muy ricos -ese grupo al que a veces se denomina el uno por ciento - de los demás. Sus vidas son diferentes: tienen distintas preocupaciones, distintas angustias, distintos estilos de vida.\nA los ciudadanos corrientes les preocupa cómo van a pagar la universidad de sus hijos, qué pasará si algún miembro de la familia cae gravemente enfermo, cómo saldrán adelante cuando se jubilen. En los peores momentos de la Gran Recesión, hubo decenas de millones de personas que no sabían si iban a poder conservar su casa. Varios millones no pudieron.\nLos que pertenecen al uno por ciento -y, mucho más, los que pertenecen al 0,1 por ciento superior de ese uno por ciento - hablan de otras cosas: qué tipo de avión se van a comprar, cuál es la mejor manera de proteger su dinero de los impuestos (¿qué ocurrirá si Estados Unidos obliga a Suiza a terminar con el secreto bancario? ¿Las Islas Caimán serán las siguientes? ¿Es Andorra segura?). En las playas de Southampton, Long Island, se quejan del ruido que hacen sus vecinos cuando llegan en helicóptero desde Nueva York. También les preocupa qué pasaría si se cayeran de su pedestal, porque la caída sería muy grande y, en ocasiones, se produce.\nHace poco estuve en una cena organizada por una persona inteligente y preocupada que pertenece al uno por ciento. Consciente de la gran brecha que existe, nuestro anfitrión había reunido a destacados multimillonarios, intelectuales y otros a quienes preocupaban las desigualdades. Durante las primeras conversaciones, oí sin querer a un multimillonario - cuyo punto de partida para triunfar había consistido en heredar una fortuna - comentar con otro el problema de la gente vaga que trataba de salir adelante aprovechándose de los demás. De ahí pasaron sin interrumpirse a hablar de paraísos fiscales, sin que parecieran darse cuenta de la ironía. En varias ocasiones, a lo largo de la velada, se evocó a María Antonieta y la guillotina, cuando los plutócratas reunidos se recordaban mutuamente los peligros de dejar que las desigualdades aumentaran hasta el exceso. «Recordad la guillotina» se convirtió en el lema de la noche. Al emplearlo, estaban reconociendo uno de los mensajes fundamentales de esta conversación: el grado de desigualdad que existe en Estados Unidos no es inevitable, no es consecuencia de leyes inexorables de la economía. Es una cuestión de políticas y estrategias. Aquellos hombres tan poderosos parecían estar diciéndonos que podían hacer algo para remediar las desigualdades.\n\nJoseph E. Stiglitz , La gran brecha",
+    "questions": [
+      {
+        "statement": "La palabra PEDESTAL alude a",
+        "alternatives": [
+          "A)  ubicación privilegiada.",
+          "B)  reconocimiento social.",
+          "C)  poder económico.",
+          "D)  liderazgo político.",
+          "E)   poder absoluto."
+        ],
+        "correct": 2,
+        "rationale": "Este término alude enorme riqueza de los plutócratas."
+      },
+      {
+        "statement": "A partir de la evocación a María Antonieta, se deduce que",
+        "alternatives": [
+          "A) esta y la guillotina constituyen símbolos del poder político para todos los plutócratas",
+          "B) evidencia la indiferencia de la plutocracia norteamericana frente las angustias  de la población.",
+          "C) la plutocracia norteamericana matiza sus diálogos con hechos de importancia histórica.",
+          "D) la gran brecha social constituye un latente y grave peligro para la plutocracia norteamericana.",
+          "E) la plutocracia norteamericana a ñora en sus reuniones sociales el estilo de vida y los gustos de esta."
+        ],
+        "correct": 3,
+        "rationale": "María Antonieta y la guillotina significan para los plutócratas peligro de perder su poder económico y todo lo ello implica."
+      },
+      {
+        "statement": "Es incompatible con las ideas del autor aseverar que la disminución de la gran brecha social en los Estados Unidos",
+        "alternatives": [
+          "A) será fruto de una trascendental decisión democrática.",
+          "B) responderá a la toma de conciencia de la plutocracia.",
+          "C) está en manos del 0,1 por ciento de plutocracia.",
+          "D) es una necesidad para la seguridad de la plutocracia.",
+          "E) recordará menos a María Antonieta y a la guillotina."
+        ],
+        "correct": 0,
+        "rationale": "El autor desliza la esperanza de que los plutócratas puedan hacer algo para remediar las desigualdades.  Entonces, este remedio no sería consecuencia de una decisión democrática, que implica al 99% de la población"
+      },
+      {
+        "statement": "Si en los Estados Unidos se eliminara la gran brecha social,",
+        "alternatives": [
+          "A) la población no padecería de preocupación alguna.",
+          "B) ni en las clases de historia se evocaría a la guillotina.",
+          "C) el 0,1 % de los plutócratas tendría una vida sosegada.",
+          "D) se impondría un mismo estilo de vida a la población.",
+          "E) desaparecería el peligro de una convulsión social."
+        ],
+        "correct": 4,
+        "rationale": "Esta conclusión, según el autor, hasta los plutócratas lo vislumbran."
+      },
+      {
+        "statement": "En última instancia, el autor propugna",
+        "alternatives": [
+          "A) generar miedo en la plutocracia norteamericana mediante la evocación de la guillotina y de María Antonieta.",
+          "B) la eliminación absoluta de la gran brecha social que hoy divide a los norteamericanos.",
+          "C) que la plutocracia tome la decisión de remediar la extrema desigualdad social en los Estados Unidos.",
+          "D) que el 0,1 % de plutócratas reconozca su responsabilidad de la gran brecha social en los Estados Unidos.",
+          "E) que la población norteamericana en general goce de los mismos privilegios de la plutocracia."
+        ],
+        "correct": 2,
+        "rationale": "Según el autor, los plutócratas, aquellos hombres tan poderosos, parecían estar diciendo que podían hacer algo para remediar las desigualdades"
+      }
+    ]
+  },
+  {
+    "type": "reading_comprehension",
+    "statement": "Ciclo Ordinario 2016 -I\n\nNuevamente, los alumnos de 15 y 16 años de  Shanghái , y no del resto de\nChina,  vuelven a liderar el informe de educación PISA , que ha evaluado a medio millón de\nestudiantes de 65 países. Obteniendo las notas más altas en matemáticas, lectura y\nciencias, sus conocimientos equivalen a como si hubieran estudiado dos o tres años más\nque la media escolar en las 34 naciones que componen la Organización para la Cooperación y el Desarrollo Económico (OCDE ), las más avanzadas del planeta. Cuando\nse comparan con otros Estados más pobres como Perú, cuyos alumnos ocupan el último\nlugar en matemáticas, los de Shanghái están seis cursos por delante.\nA la vista de estos resultados, los medios y expertos de todo el mundo vuelven a\nrendirse ante la inteligencia de los adolescentes no solo de Shanghái, sino también\nde Singapur, Japón,  Corea del Sur , Hong Kong, Taiwán y Macao , que encabezan los\nprimeros puestos de todas las clasificaciones.\n¿Pero  cuál es el  secreto  para que la educación en Asia sea tan brillante? ¿Es que\nlos orientales son más listos que los demás? Según explicó a la CNN Andreas Schleicher,\nconsejero especial de Educación de la OCDE y responsable del programa PISA, «se trata\nde una cuestión de trabajo duro más que de inteligencia ». A su juicio, «en China y Shanghái\ntienen nueve de cada diez estudiantes diciéndose \"Depende de mí, si hago el esfuerzo, mis\nprofesores me van a ayudar a tener éxito\", mientras que en Japón más del 80 por ciento se\nniega a aparcar  los problemas y el 68 por ciento rechaza renunciar fácilmente cuando\nencuentra una dificultad».\nAparte de sus motivaciones, lo cierto es que  los alumnos chinos de las grandes\nciudades se pasan el día entero estudiando  y no descansan ni durante los fines de semana,\ncuando sus padres los llevan a clases privadas de piano, ballet, pintura o inglés. Por lo\ngeneral, los escolares chinos tienen al menos nueve asignaturas y 34 horas de clases por\nsemana, que se suman a los deberes y a las lecciones particulares de refuerzo que reciben\nal volver a casa por la tarde, que les suelen ocupar hasta por la noche.\nEn una sociedad tan competitiva como la china, los esfuerzos no los hacen so lo los\nalumnos, sino también los padres, que se mudan cerca de los mejores colegios públicos\npara asegurarse de que sus hijos pasen el «gao kao », el examen que, al igual que la\nSelectividad en España, determina las notas de acceso a la Universidad. Para aprobarlo,  los\nestudiantes deben memorizar durante tres años seis libros por asignatura . Como\ncomplemento, las familias invierten auténticas fortunas en cursos de idiomas y actividades\nextraescolares. El problema es que los alumnos chinos están tan ocupados estudiando que\nno tienen tiempo para descubrir lo que realmente les gusta, por lo que llegan a la\nUniversidad sin una motivación clara.",
+    "questions": [
+      {
+        "statement": "En el texto, el término APARCAR connota",
+        "alternatives": [
+          "A) examinar.",
+          "B) analizar.",
+          "C) afrontar.",
+          "D) resolver.",
+          "E) postergar."
+        ],
+        "correct": 4,
+        "rationale": "Debido a que están muy ocupados, los estudiantes chinos no tienen tiempo para descubrir lo que realmente les gusta, por lo que llegan a la universidad sin una motivación clara"
+      },
+      {
+        "statement": "Del texto se deduce que el éxito en la evaluación PISA",
+        "alternatives": [
+          "A) sorprende a los medios y expertos en educación de todo el mundo.",
+          "B) es fruto, principalmente, de un trabajo sostenido a nivel de Estado.",
+          "C) genera espíritu de superioridad en los estudiantes de estos países.",
+          "D) se sustenta en la automotivación y el esfuerzo de sus estudiantes.",
+          "E) evidencia predisposición para las matemáticas de sus estudiantes."
+        ],
+        "correct": 3,
+        "rationale": "El éxito se atribuye a la automotivación y el esfuerzo de sus estudiantes."
+      },
+      {
+        "statement": "No es congruente con el texto afirmar que la evaluación PISA",
+        "alternatives": [
+          "A) fue más exigente con los estudiantes de los países asiáticos mencionados.",
+          "B) está  dirigida a estudiantes de 15 a 16 años sin distinción de nacionalidad.",
+          "C) está traducida escrupulosamente a lenguas de diversas naciones.",
+          "D) confirma, de manera consecutiva, el liderazgo de los estudiantes asiáticos.",
+          "E) es afrontada con mejor predisposición psicológica por los estudiantes asiáticos"
+        ],
+        "correct": 0,
+        "rationale": "La prueba es única, de lo contrario no se podría comparar a estudiantes de 65 países."
+      },
+      {
+        "statement": "Si estudiantes chinos estuvieran menos agobiados por el intenso régimen de estudio,",
+        "alternatives": [
+          "A) el « gao kao », examen de acceso a la universidad, sería menos exigente.",
+          "B)  los padres se ahorrarían gastos en cursos complementarios para sus hijos.",
+          "C)  la memorización dejaría de ser importante para acceder a la universidad.",
+          "D)  los padres de familia no se mudarían a las cercanías de los mejores colegios.",
+          "E) en la universidad, estudiarían mejor motivados la carrera de su vocación."
+        ],
+        "correct": 4,
+        "rationale": "Debido a que están muy ocupados, los estudiantes chinos no tienen tiempo para descubrir lo que realmente les gusta, por lo que llegan a la universidad sin una motivación clara"
+      },
+      {
+        "statement": "En el texto se desarrolla, fundamentalmente, el siguiente tema:",
+        "alternatives": [
+          "A) La importancia del acompañamiento y gasto de los padres durante la educación de sus hijos.",
+          "B) La competitividad de la sociedad y la prueba PISA, factores decisivos del éxito de la educación china.",
+          "C) Factores que determinan el éxito de la educación en determinados países asiáticos.",
+          "D) La rigurosidad del « gao Kao », examen de selección para el ingreso a la universidad en China.",
+          "E) La prueba PISA y el éxito o fracaso educativo en Europa, Asia y países pobres como el Perú,"
+        ],
+        "correct": 2,
+        "rationale": "En el texto se destaca la competitividad, la automotivación, el esfuerzo y el acompañamiento de los padres como factores que explican el éxito de la educación en algunos países asiáticos."
+      }
+    ]
+  },
+  {
+    "type": "verbal_series",
+    "statement": "1. I) Entre  la producción  poética de Allan Poe destacan una docena de poemas por su impecable construcción literaria y por sus ritmos y temas obsesivos. II) 'Los crímenes de la calle Morgue' (1841), 'El misterio de Marie Rogêt' (1842 -1843) y 'La carta robada' (1844) son obras de Allan Poe consideradas como los predecesores de la moderna novela de misterio o policiaca. III) En el poema 'El cuervo' (1845), por ejemplo, Poe se siente abrumado por la melancolía y los augurios de la muerte. IV) El dominio extraordinario de Poe del ritmo y el sonido es, particularmente, evidente en 'Las campanas' (1849), los versos evocan el repique de los instrumentos metálicos. V) 'Lenore' (1831) y 'Annabel Lee' (1849) son elegías donde Poe alude a la muerte de una hermosa joven.",
+    "alternatives": [
+      "A) I",
+      "B) II",
+      "C) III",
+      "D) IV",
+      "E) V"
+    ],
+    "correct": 1,
+    "rationale": "El tema es la poética de Edgar A. Poe. Por tanto, se elimina la oración II, que trata sobre su narrativa."
+  },
+  {
+    "type": "verbal_series",
+    "statement": "2. I) Francesco Petrarca fue un poeta y humanista italiano, considerado el primero y uno de los más importantes poetas líricos modernos. II) Petrarca perfecciona el soneto lo que influyó en numerosos poetas posteriores, desde los españoles Garcilaso de la Vega y Quevedo hasta los ingleses  William Shakespeare y Edmund Spenser. III) Francesco Petrarca fue reconocido como \"primer gran humanista\" por su amplio conocimiento de los autores de la antigüedad y su restauración del latín clásico. IV) El Viernes Santo de 1327, vio por primera vez a Laura, la mujer idealizada por el poeta, cuyo nombre inmortalizó a través de sus poemas líricos, y que le inspiró una gran pasión. V) Petrarca creía en la continuidad entre la cultura clásica y las doctrinas cristianas, por ello, impulsó el humanismo europeo, una síntesis, en definitiva, de ambos ideales, el pagano y el cristiano.",
+    "alternatives": [
+      "A) IV",
+      "B) II",
+      "C)  III",
+      "D) I",
+      "E) V"
+    ],
+    "correct": 3,
+    "rationale": "El tema gira en torno a los aportes del poeta y humanista Francesco Petrarca."
+  },
+  {
+    "type": "sentence_elimination",
+    "statement": "I) Francesco Petrarca fue un poeta y humanista italiano, considerado el primero y uno de los más importantes poetas líricos modernos. II) Petrarca perfecciona el soneto lo que influyó en numerosos poetas posteriores, desde los españoles Garcilaso de la Vega y Quevedo hasta los ingleses  William Shakespeare y Edmund Spenser. III) Francesco Petrarca fue reconocido como \"primer gran humanista\" por su amplio conocimiento de los autores de la antigüedad y su restauración del latín clásico. IV) El Viernes Santo de 1327, vio por primera vez a Laura, la mujer idealizada por el poeta, cuyo nombre inmortalizó a través de sus poemas líricos, y que le inspiró una gran pasión. V) Petrarca creía en la continuidad entre la cultura clásica y las doctrinas cristianas, por ello, impulsó el humanismo europeo, una síntesis, en definitiva, de ambos ideales, el pagano y el cristiano.",
+    "alternatives": [
+      "A) IV",
+      "B) II",
+      "C) III",
+      "D) I",
+      "E) V"
+    ],
+    "correct": 0,
+    "rationale": "El tema gira en torno a los aportes del poeta y humanista Francesco Petrarca. Se elimina la oración IV por impertinencia, pues aborda un aspecto amoroso."
+  },
+  {
+    "type": "sentence_elimination",
+    "statement": "I) Los gestos son, sin dudas, uno de los recursos más presentes en el lenguaje  corporal ya que implican el movimiento de alguna parte de nuestro cuerpo. II) Los gestos   Ciclo Ordinario 2016 -I misión de demostrar la aprobación o el rechazo a ellos. III) Para enfatizar el contenido del mensaje hablado durante la comunicación lingüística se emplean los gestos. IV) A través de los gestos es posible demostrar disconformidad, atención al interlocutor, reproche, entre otros. V) Los gestos se emplean tanto en la comunicación corporal como en la lingüística.",
+    "alternatives": [
+      "A) V",
+      "B) I",
+      "C) III",
+      "D) II",
+      "E) IV"
+    ],
+    "correct": 0,
+    "rationale": "El tema gira en torno a los gestos. Se elimina la oración V por redundancia, pues ya se halla implícito en las demás."
+  },
+  {
+    "type": "sentence_elimination",
+    "statement": "I. La ciudad de Alejandría fue, sin lugar a dudas, el centro económico y cultural más importante del mundo al apagarse los resplandores de la antigua Atenas . II. Apoyada en el favor munificente de los sucesores de Alejandro y en su prosperidad comercial, floreció en Alejandría una sociedad refinada y culta.  III. En Alejandría se crearon las primeras grandes instituciones culturales de Occidente, que heredaron la gloria que de una manera más modesta habían alcanzado en Atenas la Academia y el Liceo. IV. Alejandría fue un foco de atracción para los judíos, y fue allí donde tuvo lugar principalmente la confrontación entre  la cultura y la religión semíticas y la religión grecorromana. V. En Alejandría vivió el judío Filón, cuya vasta obra literaria pretende reinterpretar las Escrituras y la religión de los judíos de tal suerte que incorporen los mejores logros de la civilización helenística.",
+    "alternatives": [
+      "A) I",
+      "B) II",
+      "C) III",
+      "D) IV",
+      "E) V"
+    ],
+    "correct": 4,
+    "rationale": "El texto gira en torno a la ciudad de Alejandría.  Se elimina la oración V, pues trata del judío Filón. Criterio impertinencia"
+  },
+  {
+    "type": "sentence_elimination",
+    "statement": "I) La  capa  exterior  de los mamíferos es la piel, un órgano elástico y flexible que se renueva continuamente. II) La piel cumple diversas funciones: protege ante daños de tipo mecánico, evita la invasión de gérmenes y regula la pérdida de calor y humedad del cuerpo. III) En muchos mamíferos, el color de la piel se confunde con el entorno donde habita el animal, de manera que le ofrece camuflaje y protección frente a los depredadores. IV) La piel también funciona como un órgano sensorial y excretor, pues contiene diferentes tipos de glándulas especial izadas, como las glándulas mamarias. V) la piel es un recurso constitutivo de los mamíferos que les brinda una protección de enfermedades como de ataques.",
+    "alternatives": [
+      "A) I",
+      "B) II",
+      "C) III",
+      "D) IV",
+      "E) V"
+    ],
+    "correct": 4,
+    "rationale": "El tema es la piel de los mamíferos. Se elimina la oración V por redundancia. Se halla incluida en las oraciones II y III."
+  },
+  {
+    "type": "verbal_series",
+    "statement": "1. Aversión, odio, animadversión,",
+    "alternatives": [
+      "A) repugnancia",
+      "B) desdén",
+      "C) insania",
+      "D) negligencia",
+      "E) tozudez"
+    ],
+    "correct": 0,
+    "rationale": "Serie de palabras asociadas al rechazo o repugnancia. Debe completarse la serie con el término REPUGNANCIA."
+  },
+  {
+    "type": "verbal_series",
+    "statement": "2. Ecuánime, sereno; ingente, pequeño; estocástico, azaroso;",
+    "alternatives": [
+      "A) ingenuo, bribón",
+      "B) ilustre, renombrado",
+      "C) garboso, valiente",
+      "D) crucial, decisivo",
+      "E) melifluo, dulce"
+    ],
+    "correct": 0,
+    "rationale": "Serie de analogía mixta: sinónimos, antónimos, sinónimos; debe completarse con par de antónimos INGENUO, BRIBÓN."
+  },
+  {
+    "type": "verbal_series",
+    "statement": "2. Ecuánime, sereno; ingente, pequeño; estocástico, azaroso; Debe completarse la serie con el término REPUGNANCIA.",
+    "alternatives": [
+      "A) ingenuo, bribón",
+      "B) ilustre, renombrado",
+      "C) garboso, valiente",
+      "D) crucial, decisivo",
+      "E) melifluo, dulce"
+    ],
+    "correct": 0,
+    "rationale": null
+  },
+  {
+    "type": "verbal_series",
+    "statement": "3.     Ecuménico, universal, general,",
+    "alternatives": [
+      "A) mundial",
+      "B) ideal",
+      "C) gravitante",
+      "D) sempiterno",
+      "E) sensacional"
+    ],
+    "correct": 0,
+    "rationale": "Serie de palabras asociadas a la universalidad. Debe completarse la serie con el término MUNDIAL."
+  },
+  {
+    "type": "synonyms_and_antonyms",
+    "statement": "4. Señale la triada que contiene solo sinónimos",
+    "alternatives": [
+      "A) Misericordia, indulgencia, sevicia",
+      "B) Frugalidad, concupiscencia, sobriedad",
+      "C) Estulticia, estoicidad, melindres",
+      "D) Rezago, temeridad, pigricia",
+      "E) Tirria, animadversión, encono"
+    ],
+    "correct": 4,
+    "rationale": "La triada de sinónimos es TIRRIA, ANIMADVERSIÓN, ENCONO"
+  },
+  {
+    "type": "synonyms_and_antonyms",
+    "statement": "5. Señale la triada que contiene solo  sinónimos",
+    "alternatives": [
+      "A) Reminiscencia, nostalgia, prospectiva",
+      "B) Poltronería, pigricia, facundia",
+      "C) Indigencia, insania, inopia",
+      "D) Fastuosidad, vanidad, presunción",
+      "E) Trivialidad, futilidad, inanidad    Ciclo Ordinario 2016 -I"
+    ],
+    "correct": 4,
+    "rationale": "La triada de sinónimos es TRIVIALIDAD, FUTILIDAD, INANIDAD ."
+  },
+  {
+    "type": "reading_comprehension",
+    "statement": "SEMANA 7 B TEXTO N° 1 En su Ensayo sobre el principio de la población , Malthus sostiene que la presión que ejerce la cantidad de habitantes del planeta es una \"ley natural\", lo cual hace que la pobreza sea natural e inevitable. Las “pruebas positivas” de enfermedad y desnutrición se presentan como las vías principales a través de las cuales se puede (y se debe) aliviar la presión que sufre el planeta a causa del exceso de habitantes humanos. Las clases dirigentes y el sistema político quedan libres de responsabilidades respecto de la pobreza porque, según Malthus, la causa de la indigencia es la fertilidad y no el desempleo, la falta de tierras o el alto precio de los alimentos. Pero sucede que no es posible influir sobre el factor de la fertilidad, indica Malthus.. Cualquier esfuerzo social y político que se haga para reducir desigualdades o mitigar el sufrimiento sería contraproducente porque provocaría un incremento de la población, lo cual implicaría a su vez un aumento de la presión que pesa sobre los recursos de producción, explica Malthus. Por lo tanto, un sistema de propiedad común, capaz de mantener a poblaciones aún mayores, resultaba una afrenta  al orden \"natural\" de las cosas. El único sistema admisible -si se siguen las tesis malthusianas - es el capitalismo. Una de las preocupaciones centrales de Malthus y de los  capitalistas, industriales y aristócratas británicos, era la legislación para los pobres. Creada en el siglo XVI, establecía que cada municipio ayudara a sus pobres con el dinero recaudado de los impuestos, pero no por caridad sino como manera de ejercer un control social sobre el gran número de indigentes desplazados por el cercamiento de las tierras comunales y obligados a buscar otros medios de vida. Sin embargo, a fines del siglo XVIII, las leyes que protegían a esta gente constituían una amenaza para los ricos, que no solo sentían disminuir sus ingresos sino que también veían en esas normas el principal obstáculo para la creación de una reserva de trabajo libre y móvil, como la que requería el capitalismo industrial. La teoría de Malthus constituyó, entonces, un argumento clave: la seguridad que brindaba la ayuda mencionada estimulaba a los pobres a reproducirse. Por lo tanto, la causa de la pobreza era la fertilidad. Lo que ocultó el pensamiento malthusiano fue que la  mayoría de los pobres, cuyo número iba en aumento, no habían nacido en esa condición sino que habían llegado a ella. El crecimiento del proletariado y el creciente costo de la ayuda a los indigentes no se debió al incremento de la población per se, sino a  la intensa comercialización de la agricultura, el cercamiento de las tierras comunales y las leyes que obligaban a mantener alto el precio de los cereales. El malthusianismo, según el cual los pobres no son iguales a los más privilegiados porque carecen de las virtudes morales de la prudencia, capacidad de previsión, autodisciplina y racionalidad que caracterizan a la clase media, encontró un aliado intelectual en la eugenesia, un siglo más tarde.",
+    "questions": [
+      {
+        "statement": "En el texto el vocablo, AFRENTA tiene el sentid o de",
+        "alternatives": [
+          "A) corrosivo.",
+          "B) ininteligible.",
+          "C) inconcebible.",
+          "D) inviable.",
+          "E) contraproducente."
+        ],
+        "correct": 4,
+        "rationale": "Es decir, opuesto al orden “natural” de las cosas."
+      },
+      {
+        "statement": "El autor tiene la intención principal de",
+        "alternatives": [
+          "A) criticar al malthusianismo por su papel encubridor de las verdaderas causas de la pobreza.",
+          "B) censurar a Malthus por decir que la pobreza es causada por el alto precio de los cereales.",
+          "C) recusar al maltusianismo por oponerse al crecimiento del proletariado y las clases indigentes.",
+          "D) cuestionar al malthusianismo por segregar a los más pobres a causa de su falta de prudencia.",
+          "E) refutar la tesis de Malthus de que el capital industrial requiere una reserva de trabajo libre."
+        ],
+        "correct": 0,
+        "rationale": "El autor critica al maltusianismo por sostener que la causa de la pobreza es la presión poblacional y no el desempleo, la falta de tierras o el alto precio de los alimentos, con lo cual las clases dirigentes y el sistema político quedan libres de responsabilidades respecto de la pobreza."
+      }
+    ]
+  },
+  {
+    "type": "sentence_elimination",
+    "statement": "El autor tiene la intención principal de",
+    "alternatives": [
+      "A) criticar al malthusianismo por su papel encubridor de las verdaderas causas de la pobreza.",
+      "B) censurar a Malthus por decir que la pobreza es causada por el alto precio de los cereales.",
+      "C) recusar al maltusianismo por oponerse al crecimiento del proletariado y las clases indigentes.",
+      "D) cuestionar al malthusianismo por segregar a los más pobres a causa de su falta de prudencia.",
+      "E) refutar la tesis de Malthus de que el capital industrial requiere una reserva de trabajo libre."
+    ],
+    "correct": 0,
+    "rationale": "El autor critica al maltusianismo por sostener que la causa de la pobreza es la presión poblacional y no el desempleo, la falta de tierras o el alto precio de los alimentos, con lo cual las clases dirigentes y el sistema político quedan libres de responsabilidades respecto de la pobreza."
+  },
+  {
+    "type": "sentence_elimination",
+    "statement": "Para Malthus, un Estado que pretenda asegurar la alimentación de su población",
+    "alternatives": [
+      "A) favorecerá al capitalismo industrial.",
+      "B) mermará la reserva de trabajo libre.",
+      "C) provocará, a la larga, mayor pobreza.",
+      "D) eliminará, sin duda,  la presión poblacional.",
+      "E) podrá aliviar la desnutrición infantil."
+    ],
+    "correct": 2,
+    "rationale": "Según Malthus, la causa de la pobreza es el exceso de habitantes en el planeta; en consecuencia, si se les alimenta, se multiplicarán, y se generará mayor pobreza"
+  },
+  {
+    "type": "sentence_elimination",
+    "statement": "Es incompatible con los postulados del malthusianismo aseverar que",
+    "alternatives": [
+      "A) la desnutrición y las enfermedades son positivas para la convivencia humana.",
+      "B) las políticas de asistencia social son contrarias a los intereses del capitalismo.",
+      "C) por carecer de virtudes morales, la pobreza de las clases indigentes es inevitable.",
+      "D) es posible eliminar la pobreza mediante políticas que promuevan la igualdad social.",
+      "E) la desocupación y el alto costo de vida alivian el exceso de la población en el planeta."
+    ],
+    "correct": 3,
+    "rationale": "Para el maltusianismo, la pobreza es un estado natural."
+  },
+  {
+    "type": "sentence_elimination",
+    "statement": "Si el autor sostuviera que los pobres se encuentran en esta condición debido a que no quieren trabajar y que solo esperan el asistencialismo,",
+    "alternatives": [
+      "A) sería un apologista del maltusianismo.",
+      "B) sería partidario del aumento poblacional.",
+      "C) sería un promotor de la irresponsabilidad.",
+      "D) responsabilizaría al Estado de esta situación.",
+      "E) sería escéptico con respecto al progreso social."
+    ],
+    "correct": 0,
+    "rationale": "Al culpar a los propios pobres de su situación, sería un apologista del maltusianismo"
+  },
+  {
+    "type": "reading_comprehension",
+    "statement": "Para Vigotsky, la educación no se reduce a la adquisición de un conjunto de informaciones,\nsino que constituye una de las fuentes del desarrollo, y la educación misma se define como\nel desarrollo artificial del niño. La esencia de la educación consistiría, por consiguiente, en\ngarantizar el desarrollo proporcionando al niño instrumentos, técnicas interiores  y\noperaciones intelectuales. Vigotsky habla incluso en repetidas ocasiones de la adquisición\n(del aprendizaje) de diferentes tipos de actividad. Tomando como ejemplo las taxonomías\nbotánicas, podría decirse que para el psicólogo soviético lo fundamental no reside en\nconocer las categorías taxonómicas sino en dominar el procedimiento de clasificación\ndefinición y aplicación de los criterios de  clasificación, clasificación de los casos extremos\no ambiguos, producción de nuevos elementos de una clase y, ante todo, aprendizaje de la\nejecución de operaciones lógicas que vinculan entre sí a las diferentes clases, etc.).\n\nTodo ello significa que Vigotsky atribuía la mayor importancia a los contenidos de los\nprogramas educativos, pero haciendo hincapié en los aspectos estructurales e\ninstrumentales de dichos contenidos .En este sentido, es preciso decir que Vigotsky no fue\nbastante lejos en el desarrollo de estas fructíferas ideas. Desde este punto de vista, cabría\nconsiderar al propio establecimiento escolar como un mensaje, es decir un factor\nfundamental de la educación. Porque la institución escolar, aun haciendo abstracción  de\nlos contenidos que en ella se enseñan, implica cierta estructuración del tiempo y del espacio\ny se basa en un sistema de relaciones sociales (entre alumnos y docentes, entre los\nalumnos entre sí, entre el establecimiento de enseñanza y el medio ambiente, etc.). Los\nefectos de la escolarización se deben, en gran parte, a estos aspectos del “medio escolar”.",
+    "questions": [
+      {
+        "statement": "En el texto, el vocablo ABSTRACCIÓN alude a la acción de",
+        "alternatives": [
+          "A) cogitar",
+          "B) invalidar",
+          "C) velar",
+          "D) soslayar",
+          "E) censurar."
+        ],
+        "correct": 3,
+        "rationale": "Alude a la  acción de soslayar, poner en segundo orden o a un lado los contenidos que se enseñan en el establecimiento escolar."
+      },
+      {
+        "statement": "El tema central que se desarrolla en el texto es",
+        "alternatives": [
+          "A) las relaciones sociales que establece se en la escuela .",
+          "B) la importancia de la educación en el desarrollo del niño .",
+          "C) la escuela y la enseñanza de la taxonomía botánica .",
+          "D) la importancia de la enseñanza de los contenidos .",
+          "E) la esencia del desarrollo artificial del niño soviético ."
+        ],
+        "correct": 1,
+        "rationale": "En el texto, se desarrolla la idea de Vigotsky  con respecto a la educación. Este\nsostiene que la educación  cumple una importante función en el desarrollo artificial del\nniño proporcionándole instrumentos, técnicas interiores y operaciones intelectuales.\nAsí mismo, como medio escolar, estructura nueva s relaciones sociales entre quienes\nintervienen en la educación."
+      },
+      {
+        "statement": "Del texto se colige que el desarrollo artificial del niño implica, fundamentalmente,",
+        "alternatives": [
+          "A) organizar adecuadamente el tiempo y el espacio de la institución escolar.",
+          "B) la estrecha relación del establecimiento escolar con el medio ambiente.",
+          "C) el aprendizaje de contenidos actualizados  y de las  taxonomías botánicas.",
+          "D) la enseñanza de operaciones mentales y relaciones sociales con el entorno.",
+          "E) enseñar con rigurosidad las categorías de las diversas disciplinas científicas"
+        ],
+        "correct": 3,
+        "rationale": "Este es el objetivo principal de la educación concebida por Vigotsky."
+      }
+    ]
+  },
+  {
+    "type": "reading_comprehension",
+    "statement": "En el texto, se desarrolla la idea de Vigotsky con respecto a la educación. Este\nsostiene que la educación  cumple una importante función en el desarrollo artificial del\nniño proporcionándole instrumentos, técnicas interiores y operaciones intelectuales.\nAsí mismo, como medio escolar, estructura nueva s relaciones sociales entre quienes\nintervienen en la educación.\n",
+    "questions": [
+      {
+        "statement": "Del texto se colige que el desarrollo artificial del niño implica, fundamentalmente,",
+        "alternatives": [
+          "A) organizar adecuadamente el tiempo y el espacio de la institución escolar.",
+          "B) la estrecha relación del establecimiento escolar con el medio ambiente.",
+          "C) el aprendizaje de contenidos actualizados  y de las  taxonomías botánicas.",
+          "D) la enseñanza de operaciones mentales y relaciones sociales con el entorno.",
+          "E) enseñar con rigurosidad las categorías de las diversas disciplinas científicas"
+        ],
+        "correct": 3,
+        "rationale": "Este es el objetivo principal de la educación concebida por Vigotsky."
+      },
+      {
+        "statement": "Es incompatible con respecto a la educación aseverar que debe",
+        "alternatives": [
+          "A) fijar en los alumnos, sobre todo, conocimientos del objeto de estudio.",
+          "B) incidir la enseñanza de los aspectos operacionales de los contenidos.",
+          "C) planificar con minuciosidad el uso del tiempo y del espacio escolar.",
+          "D) establecer nuevas relaciones sociales dentro y fuera de la escuela.",
+          "E) enseñar los contenidos incidiendo, principalmente, en las actividades."
+        ],
+        "correct": 0,
+        "rationale": "Vigotsky  atribuía la mayor importancia a los contenidos de los programas educativos, pero haciendo hincapié en los aspectos estructurales e instrumentales de dichos contenidos"
+      },
+      {
+        "statement": "Si la esencia de la educación tuviera como objetivo  solo  la enseñanza de categorías,",
+        "alternatives": [
+          "A) desarrollaría  las facultades mentales del niño.",
+          "B) esta se alcanzaría mediante las actividades.",
+          "C) se soslayaría el desarrollo artificial del niño.",
+          "D) sería muy aburrida para maestros y niños.",
+          "E) exigiría menor esfuerzo mental de los niños."
+        ],
+        "correct": 2,
+        "rationale": "Es decir, se dejaría de  proporcionar procedimientos, instrumentos, técnicas interiores y operaciones intelectuales."
+      }
+    ]
+  },
+  {
+    "type": "reading_comprehension",
+    "statement": "El ser humano, cuando nace, no habla ninguna lengua. La lengua que llega a hablar más\ntarde es la que usan las personas que lo rodean, ya sea que se trate de la lengua de sus\nantepasados biológicos o no y, si no lo es, no afecta en lo más mínimo el grado de habilidad\ncon que llega a hablarla ni el tiempo que requiera para aprenderla. Si, como ocurre\nocasionalmente, una criatura se cría en absoluto aislamiento o entre animales, no aprende\nninguna lengua. En cambio, si   se cría en sociedad y es biológicamente normal , excepto\nalguna deficiencia marginal, como la sordera o la ceguera, es de advertir que tales\nimpedimentos frecuentemente se superan de tal forma que tales hábitos lingüísticos de una\npersona sorda, por ejemplo, llegan a ser prácticamente idénticos a las personas con\nquienes vive. Finalmente, conviene recordar que se ha intentado varias veces enseñar a\nhablar a individuos de alguna otra especie, pero todos esos esfuerzos han fracasado.\n\nDe lo anterior se desprenden inmediatamente tres conclusiones: 1) los genes humanos no\nson específicos de las particularidades de ninguna lengua, sino permisivos de cualquiera\ny de todas; 2) los genes humanos –y únicamente los humanos - son una condición\nnecesaria, pero no suficiente, para la adquisición de una lengua, y 3) el papel de la genética\nno se limita a ser pasivamente  a si estos sonidos están asociados con el intercambio\ncomunicativo de la sociedad, impulso que solo puede frustrar el aislamiento más completo.\n\nA ello se  limita el papel de  lo genético en el lenguaje. En la continuidad de hábitos\nlingüísticos de generación en generación interviene además, principalmente, el otro\nmecanismo mencionado, la tradición. Todo comportamiento tradicional es aprendido , pero\nno todo  comportamiento aprendido es tradicional. Para que lo sea debe haber, además,\nenseñanza  por parte de otros individuos de la misma especie, impartida mediante un\ncomportamiento que no esté determinado exclusiva o principalmente por vía genética, sino\nque ha ya sido aprendido  a su vez de maestros anteriores. Así, por ejemplo, si hay realmente\nalgún elemento de aprendizaje en el picotear cada vez más preciso del pichón gaviota, no\nhay, empero, trasmisión tradicional, dado que el complementario comportamiento\ncondicionante de la gaviota adulta es en sí  mismo enteramente instintivo.",
+    "questions": [
+      {
+        "statement": "El tema central que el autor desarrolla es",
+        "alternatives": [
+          "A) la importancia  del entorno social en el aprendizaje de una lengua.",
+          "B) la necesidad de superar la sordera  para el aprendizaje de una lengua.",
+          "C) el papel de la genética y de la tradición en la adquisición de una lengua.",
+          "D) el papel crucial de los adultos en la enseñanza de la lengua a los niños.",
+          "E)  el aislamiento social y la limitación para la adquisición de las lenguas."
+        ],
+        "correct": 2,
+        "rationale": "Según el autor, en la adquisición de hábitos lingüísticos intervienen el factor genético, condición necesaria pero no suficiente, y la tradición."
+      },
+      {
+        "statement": "En el texto, en vocablo ESPECÍFICO connota",
+        "alternatives": [
+          "A) singularidad.",
+          "B) exclusividad.",
+          "C) característica.",
+          "D) homogeneidad.",
+          "E) precisión."
+        ],
+        "correct": 1,
+        "rationale": "Los genes humanos no son específicos de las particularidades de ninguna lengua; es decir, no son exclusivos de dichas particularidades."
+      }
+    ]
+  },
+  {
+    "type": "reading_comprehension",
+    "statement": "Los genes humanos no son específicos de las particularidades de ninguna lengua; es decir, no son exclusivos de dichas particularidades.",
+    "questions": [
+      {
+        "statement": "Con respecto a las personas con alguna deficiencia marginal como la sordera o la ceguera, se puede afirmar que",
+        "alternatives": [
+          "A) incluso si superaran su deficiencia, tendrían limitaciones para la adquisición de una determinada lengua.",
+          "B) para adquirir una lengua, deben desplegar mayor esfuerzo que una persona sin dichas deficiencias.",
+          "C) superando su deficiencia, podrían adquirir una lengua incluso en condiciones de aislamiento social.",
+          "D) si se crían en sociedad , tendrían mayor ventaja en la adquisición de una lengua que una persona aislada.",
+          "E) requieren, sobre todo, un entorno social adecuado para aprender la lengua de su s padres biológicos."
+        ],
+        "correct": 3,
+        "rationale": null
+      },
+      {
+        "statement": "Es incompatible aseverar que el aprendizaje de una lengua",
+        "alternatives": [
+          "A) está limitada a individuos de la especie humana.",
+          "B) es posible incluso para los sordos  gregarios.",
+          "C) solo es posible alcanzar en un entorno social.",
+          "D) es más eficaz si proviene solo de los padres.",
+          "E) implica la conservación de una tradición cultural."
+        ],
+        "correct": 3,
+        "rationale": null
+      },
+      {
+        "statement": "De la primera conclusión a la que arriba el autor, se desprende que no hay",
+        "alternatives": [
+          "A) lengua alguna que se no pueda aprender.",
+          "B) límite alguno en la enseñanza de una lengua.",
+          "C) condicionamiento para aprender una lengua.",
+          "D) especie que no pueda aprender una lengua.",
+          "E) individuo especializado para enseñar la lengua."
+        ],
+        "correct": 0,
+        "rationale": null
+      },
+      {
+        "statement": "Si se demostrara que la segunda conclusión señalada en el texto fuera falsa,",
+        "alternatives": [
+          "A) los genes humanos serían particulares a una determinada lengua.",
+          "B) las deficiencias marginales no serían óbice para aprender una lengua.",
+          "C) el ser humano solo aprendería la lengua de sus padres biológicos.",
+          "D) en la adquisición de la lengua, los genes humanos serían insuficientes.",
+          "E) el entorno social sería determinante para la adquisición de una lengua."
+        ],
+        "correct": 4,
+        "rationale": null
+      },
+      {
+        "statement": "Se deduce que quienes pretendieron enseñar una lengua a individuos de una especie no humana habrían",
+        "alternatives": [
+          "A) confiado en el factor pedagógico.",
+          "B) soslayado el condicionante genético.",
+          "C) procedido en un ambiente aislado.",
+          "D) desconocido el poder de la tradición.",
+          "E) sido pioneros en estos experimentos."
+        ],
+        "correct": 1,
+        "rationale": null
+      }
+    ]
+  },
+  {
+    "type": "verbal_series",
+    "statement": "1.  Execrable, ominoso; aplomado, destemplado ; esperpento, estrafalario ;",
+    "alternatives": [
+      "A) ampuloso, sencillo",
+      "B) efusivo, impulsivo",
+      "C) engolado, fatuo",
+      "D) fulminante, súbito",
+      "E) expedito, desembarazado"
+    ],
+    "correct": 0,
+    "rationale": "La serie verbal es de sinónimos, antónimos , sinónimos."
+  },
+  {
+    "type": "synonyms_and_antonyms",
+    "statement": "4. ¿Cuál es el término que no corresponde al campo semántico?",
+    "alternatives": [
+      "A) achispado",
+      "B) beodo",
+      "C) mamado",
+      "D) ebrio",
+      "E) sediento"
+    ],
+    "correct": 4,
+    "rationale": "El campo semántico es sobre la persona borracha, ebria."
+  },
+  {
+    "type": "synonyms_and_antonyms",
+    "statement": "5. ¿Qué palabra no guarda relación con la serie verbal?",
+    "alternatives": [
+      "A) mameluco",
+      "B) memo",
+      "C) insulso",
+      "D) alelado",
+      "E) necio"
+    ],
+    "correct": 2,
+    "rationale": "El campo semántico es de   hombre necio y bobo.  El término insulso no guarda relación."
+  }
+]

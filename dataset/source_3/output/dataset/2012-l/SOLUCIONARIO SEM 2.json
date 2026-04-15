@@ -1,0 +1,692 @@
+[
+  {
+    "type": "sentence_elimination",
+    "statement": "7. Si el pensamiento dependiera esencialmente del lenguaje, entonces",
+    "alternatives": [
+      "A) el lenguaje sería una herramienta meramente formal.",
+      "B) los afásicos solo podrían pensar de manera abstracta.",
+      "C) solo pocos afásicos podrían reconocer rostros humanos.",
+      "D) la comprensión musical sería imposible en los afásicos.",
+      "E) una afasia grave implica ría un fuerte deterioro mental."
+    ],
+    "correct": 4,
+    "rationale": "Dada la hipótesis de la pregunta, la pérdida del lenguaje (esto es, la afasia) significaría la pérdida del pensamiento."
+  },
+  {
+    "type": "sentence_elimination",
+    "statement": "1. I. A veces, los electrones logran desprenderse de los átomos en los que se hallan y se desplazan libremente. II) Estos electrones libres, \"separados de sus átomos\", saltan de átomo en átomo. III) El libre movimiento de electrones en ciertas materias produce lo que conocemos como electricidad. IV) U na corriente eléctrica es un flujo de electrones a lo largo de un alambre de cobre o algún otro conductor. V) Si tiene una fuerza considerable, una descarga eléctrica puede llegar a producir la muerte.",
+    "alternatives": [
+      "A) I",
+      "B) V",
+      "C) III",
+      "D) II",
+      "E) IV"
+    ],
+    "correct": 1,
+    "rationale": "La V se elimina por redundancia."
+  },
+  {
+    "type": "sentence_elimination",
+    "statement": "2. I. Una componente de la vida de Pascal fue el sufrimiento, sobre todo, el sufrimiento físico. II . Dejando de lado extrañas enfermedades infantiles, ya a los 18 años sufre dolores de cabeza, que a los 24 se hacen insoportables. III. Además tiene problemas del estómago: solo puede tomar líquidos calientes y gota a gota. IV. Sufre de parálisis parcial de las piernas y a los 35 pasa por un surmenage del que siempre resentiría los efectos. V. Fue consciente también del sufrimiento de su pueblo, que pasó por espantosos guerras políticas y religiosas.",
+    "alternatives": [
+      "A) IV",
+      "B) II",
+      "C) III",
+      "D) IV",
+      "E) I"
+    ],
+    "correct": 0,
+    "rationale": "Se elimina la IV por impertinencia."
+  },
+  {
+    "type": "sentence_elimination",
+    "statement": "3. I. En su filosofía Schopenhauer toma la vía kantiana: conocemos solo fenómenos, no la realidad en sí. II. Solo que Schopenhauer no renuncia a esta realidad en sí y atraviesa el muro que Kant cons iderara infranqueable o alza el velo de Maia. III. La Diosa Maia, hija de Brahma, es objeto de culto tanto entre los hindúes como los budistas como la “Madre de la creación”. IV. Ese velo es la ilusión; y la verdad desconocida halla una metáfora en el cuerpo desnudo de la diosa. V. Levantado el velo de Maia, Schopenhauer llega a la verdad o realidad profunda de este mundo.",
+    "alternatives": [
+      "A) II",
+      "B) IV",
+      "C) I",
+      "D) V",
+      "E) III"
+    ],
+    "correct": 4,
+    "rationale": "Se elimina la III por impertinencia."
+  },
+  {
+    "type": "sentence_elimination",
+    "statement": "4. I. El bullying se refiere a todas las formas de actitudes agresivas, intencionadas y repetidas, que ocurren sin motivación evidente, adoptadas por uno o más estudiantes contra otro u otros. II. La persona que ejerce el bullying lo hace para imponer su poder sobre el otro, a través de constantes amenazas, insultos, agresiones o vejaciones. III. La víctima sufre callada en la mayoría de los casos, y siente dolor, angustia y miedo. IV. El estudiian te convierte en víctima de bullying cuando está expuesto a las agresiones de otros. V. El bullying se expresa a través de varias formas simultáneas como el modo físico, verbal, psicológico y social.",
+    "alternatives": [
+      "A) I",
+      "B) V",
+      "C) II",
+      "D) III",
+      "E) IV"
+    ],
+    "correct": 4,
+    "rationale": "Se elimina la IV por redundancia ."
+  },
+  {
+    "type": "verbal_series",
+    "statement": "5. SERIES VERBALES\n\nLos ítems de series verbales miden la capacidad semántica del estudiante. Esta aptitud se concreta en el establecimiento de asociaciones léxicas gobernadas por ciertas leyes de pensamiento. Dado el desarrollo lexical del hablante, estará en condiciones de determinar diferentes y creativos engarces semánticos entre palabras. Por ejemplo, la palabra ‘guerra’ se asocia naturalmente con ‘acorazado’, y no con ‘yate’ o ‘crucero’.\n\n1. Luctuoso, deplorable, triste,",
+    "alternatives": [
+      "A) macilento.",
+      "B) pérfido.",
+      "C) aciago.",
+      "D) sucinto.",
+      "E) prolijo."
+    ],
+    "correct": 2,
+    "rationale": "Serie basada en la sinonimia."
+  },
+  {
+    "type": "verbal_series",
+    "statement": "1. Luctuoso, deplorable, triste,",
+    "alternatives": [
+      "A) macilento.",
+      "B) pérfido.",
+      "C) aciago.",
+      "D) sucinto.",
+      "E) prolijo."
+    ],
+    "correct": 2,
+    "rationale": "Serie basada en la sinonimia."
+  },
+  {
+    "type": "verbal_series",
+    "statement": "2. Belicoso, pugnaz; felón, pérfido; tímido, timorato;",
+    "alternatives": [
+      "A) diligente, negligente",
+      "B) perspicuo, diáfano",
+      "C) prístino, reciente",
+      "D) temerario, receloso",
+      "E) bisoño, experto"
+    ],
+    "correct": 1,
+    "rationale": "Serie de pares sinonímicos."
+  },
+  {
+    "type": "verbal_series",
+    "statement": "3. Acróbata, equilibrio; científico, objetividad; artista, creatividad;",
+    "alternatives": [
+      "A) abogado, impericia",
+      "B) filósofo, dogmatismo",
+      "C) monje, sensibilidad",
+      "D) chofer, temeridad",
+      "E) orador, elocuencia"
+    ],
+    "correct": 4,
+    "rationale": "Serie verbal que presenta la relación agente -característica definitoria."
+  },
+  {
+    "type": "verbal_series",
+    "statement": "4. Marque la serie verbal formada exclusivamente por sinónimos.",
+    "alternatives": [
+      "A) Cáustico, mordaz, solemne",
+      "B) Sumiso, obsecuente, ob cecado",
+      "C) Inexperto, neófito, novel",
+      "D) Veleidoso, voluble, inmutable",
+      "E) Truhan, rústico, chabacano"
+    ],
+    "correct": 2,
+    "rationale": "Son sinónimos que corresponden al campo semántico de la inexperiencia."
+  },
+  {
+    "type": "reading_comprehension",
+    "statement": "Es evidente para cualquiera que haga un inventario de los objetos del conocimiento humano, que estos son o bien ideas realmente impresas en los sentidos o bien tal como son percibidos atendiendo a las pasiones y operaciones de la mente o, finalmente, ideas formadas con la ayuda de la memoria y de la imaginación —bien sea mezclando, dividiendo o simplemente representando aquellos objetos originalmente percibidos de las maneras antes mencionadas —. Por la vista tengo las ideas de luz y colores, con sus varios grados y variaciones. Por el tacto percibo duro y suave, caliente y frío, movimiento y resistencia, y todos estos en mayor o menor medida, tanto en relación a la cantidad como al grado. El olfato me proporciona olores; el paladar sabores; y el oído transmite sonidos a la mente en toda su variedad de tono y composición. Y como se observa que varios de estos se acompañan mutuamente, llega a marcárselos con un nombre, y así a ser considerados como una cosa. Así, pues, habiendo observado, por ejemplo, que un cierto color, sabor, olor, figura y consistencia van juntos, se los considera como una cosa distinta, significada por la palabra manzana; otras colecciones de ideas constituyen una piedra, un árbol, un libro, y otras cosas sensibles por el estilo —que en la medida en la que sean agradables o desagradables excitan las pasiones de amor, odio, alegría, pena y así sucesivamente —. Ahora bien, aparte de toda esa incesante variedad de ideas u objetos de conocimiento, hay igualmente algo que las conoce o percibe, y que realiza diversas operaciones, tales como tener una intención en relación a ellas, imaginarlas, recordarlas. Este ser activo que percibe es lo que llamo mente, espíritu, alma o «yo mismo». Por estas palabras no indico ninguna de mis ideas, sino una cosa enteramente distinta de ellas, en la cual existen o, lo que es lo mismo, por la cual son percibidas —pues la existencia de una idea consiste en su ser percibida —. Todo el mundo aceptará que ni nuestros pensamientos, ni nuestras pasiones, ni las ideas formadas por la imaginación, existen fuera de la mente. Y no parece menos evidente que las varias sensaciones o ideas impresas en los sentidos, no importa cómo estén mezcladas o combinadas las unas con las otras (osea, cualesquiera objetos ellas constituyan), no pueden existir sino en una mente que las percibe. Pienso que cualquiera que observe lo que significa el término existe cuando se lo aplica a las cosas sensibles, podrá obtener un conocimiento intuitivo de esto. Digo que la mesa sobre la cual escribo existe, o sea, la veo y la siento; y si yo estuviese fuera de mi estudio (también) tendría que decir que existe —con lo cual quiero decir que si estuviera en mi estudio podría percibirla, o que algún otro espíritu la percibe —. Hubo un olor, o sea, fue olido; hubo un sonido, o sea, fue oído; un color o figura, y fue percibida por la vista o el tacto. Esto es todo lo que puedo entender por estas y otras expresiones semejantes. Pues hablar de la existencia parece perfectamente ininteligible. Su ser consiste en ser percibido y no es posible que tuvieran alguna existencia fuera de las mentes o cosas pensantes que las perciben. Que las casas, las montañas, los ríos y, en una palabra, todos los objetos sensibles, tienen existencia natural o real distinta de su ser percibidos por el entendimiento, es, en verdad, una opinión que extrañamente impera entre los hombres. Pero no importa con qué seguridad y consenso sea sostenido este principio en el mundo, quien lo cuestione de corazón podrá, sino me equivoco, percibir que contiene una contradicción manifiesta. Pues, ¿qué son los objetos mencionados anteriormente, sino las cosas que percibimos a través de los sentidos? Y ¿qué percibimos, aparte de nuestras propias ideas o sensaciones? Y ¿no es simplemente repugnante que cualquiera de estas, o cualquier combinación de ellas, pueda existir sin ser percibida? Si examinamos exhaustivamente este postulado descubriremos, quizás, que el mismo depende en el fondo de la doctrina de las ideas abstractas. Pues ¿puede haber una interpretación más violenta y un mayor tipo de abstracción que distinguir la existencia de los objetos sensibles de su ser percibidos, de modo que se considere que ellos existen también cuando no son percibidos? La luz y los colores, el calor y el frío, la extensión y las figuras —en una palabra, las cosas que vemos y sentimos — ¿qué son, sino tantas sensaciones, nociones, ideas o impresiones en los sentidos? Y ¿es posible separar, aun en el pensamiento, cualquiera de estos de la percepción? Para mí, esto sería tan fácil como separar una cosa de sí misma. En efecto, podría dividir en mis pensamientos, o concebir separadamente, aquellas cosas que a través de mis sentidos quizás jamás he perceptido divididas. Así, pues, imagino el tronco de un hombre sin las extremidades, o concibo el olor de una rosa sin pensar en la rosa misma. Hasta aquí, no lo negaré, puedo abstraer —si es que es posible llamar abstracción a aquello que no va más allá de la concepción separada de los objetos que pueden realmente existir por separado o ser percibidos de veras separadamente —. Pero mi poder de concebir o de imaginar no se extiende más allá de la posibilidad de la existencia real o de la percepción real. Por lo tanto, tal como me es imposible ver o sentir cosa alguna sin una sensación real de esa cosa, es imposible para mí concebir en mis pensamientos cosa u objeto sensible alguno separadamente de la sensación o percepción del mismo. Hay algunas verdades que son tan cerca nas y patentes para la mente que un hombre solo tiene que abrir sus ojos para verlas. Así pienso que es esta, tan importante: que la totalidad del coro celestial y de los objetos terrenales, en una palabra, todos los cuerpos que componen la imponente armazón del mundo, carecen de subsistencia sin una mente; que su seres ser percibidos o conocidos; que, en consecuencia, en tanto que no sean percibidos realmente por mí, o no existan en mi mente ni en la de ningún otro espíritu creado, deben o bien no tener a bsolutamente ninguna existencia, o bien subsistir en la mente de algún Espíritu Eterno —de modo que sería perfectamente ininteligible, y comprendería todo el absurdo de la abstracción, el atribuir a cualquiera de estas partes individuales una existencia independiente de un espíritu —. Para convencerse de ello, el lector solo tiene que reflexionar e intentar separar en sus propios pensamientos el ser de una cosa sensible de su ser percibida.",
+    "questions": [
+      {
+        "statement": "1. En el último párrafo, el término PATENTE significa",
+        "alternatives": [
+          "A) superficial.",
+          "B) superflua.",
+          "C) obvia.",
+          "D) somera.",
+          "E) concisa."
+        ],
+        "correct": 2,
+        "rationale": "Hablar de verdades patentes es hablar de verdades obvias."
+      },
+      {
+        "statement": "2. Para Berkeley, un objeto como una p era es",
+        "alternatives": [
+          "A) algo imposible de conocer.",
+          "B) una colección de ideas.",
+          "C) una sustancia infinita.",
+          "D) un todo indiscernible.",
+          "E) una quimera de la mente."
+        ],
+        "correct": 1,
+        "rationale": "Todo objeto se entiende como un haz de ideas o sensaciones."
+      }
+    ]
+  },
+  {
+    "type": "reading_comprehension",
+    "statement": "Hablar de verdades patentes es hablar de verdades obvias.",
+    "questions": [
+      {
+        "statement": "2. Para Berkeley, un objeto como una p era es",
+        "alternatives": [
+          "A) algo imposible de conocer.",
+          "B) una colección de ideas.",
+          "C) una sustancia infinita.",
+          "D) un todo indiscernible.",
+          "E) una quimera de la mente."
+        ],
+        "correct": 1,
+        "rationale": "Todo objeto se entiende como un haz de ideas o sensaciones."
+      },
+      {
+        "statement": "3. Según Berkeley, una cosa existe en tanto",
+        "alternatives": [
+          "A) es material.",
+          "B) es percibida.",
+          "C) se diluye.",
+          "D) desaparece.",
+          "E) tiene forma."
+        ],
+        "correct": 1,
+        "rationale": "En eso consiste la existencia: en ser percibida por un espíritu."
+      },
+      {
+        "statement": "4. ¿Cuál es el tema central del texto?",
+        "alternatives": [
+          "A) El poder de la comprensión de la mente.",
+          "B) Los sentidos y el conocimiento humano.",
+          "C) La naturaleza abstracta de la percepción.",
+          "D) Las dos verdades en el sistema natural.",
+          "E) Las relaciones entre los sentidos humanos."
+        ],
+        "correct": 1,
+        "rationale": "Berkeley gira entorno a la clave de su doctrina empirista: los sentidos y el conocimiento humano."
+      },
+      {
+        "statement": "5. ¿Cuál es la idea principal del texto?",
+        "alternatives": [
+          "A) Sin una mente, los espíritus se tornan inasibles.",
+          "B) El conocimiento del mundo va más allá de lo dado.",
+          "C) La existencia consiste en ser percibido o percibir.",
+          "D) El espíritu encierra en su ser la esencia del saber.",
+          "E) La luz y colores se perciben por el sentido de la vista."
+        ],
+        "correct": 2,
+        "rationale": "La idea medular de Berkeley consiste en afirmar que la existencia de una cosa está garantizada por el acto de percepción."
+      },
+      {
+        "statement": "6. Respecto de la doctrina de las ideas abstractas, Berkeley adopta una posición",
+        "alternatives": [
+          "A) ambivalente.",
+          "B) afirmativa.",
+          "C) neutral.",
+          "D) favorable.",
+          "E) polémica."
+        ],
+        "correct": 4,
+        "rationale": "Berkeley tiene una actitud bastante crítica con la doctrina de las ideas abstractas."
+      },
+      {
+        "statement": "7. Se deduce que Berkeley es un crítico de la siguiente tesis filosófica:",
+        "alternatives": [
+          "A) Las ideas ficticias pueden subsistir en la mente humana.",
+          "B) Los objetos existen independientemente de las mentes.",
+          "C) La imaginación puede hacer una mezcla de sensaciones.",
+          "D) Al conocer, el espíritu lleva a cabo una serie de operaciones.",
+          "E) Los conocimientos provienen de la fuente de la experiencia."
+        ],
+        "correct": 1,
+        "rationale": "No hay ninguna base, según Berkeley, para sostener la existencia libre del acto de percepción."
+      }
+    ]
+  },
+  {
+    "type": "reading_comprehension",
+    "statement": "Berkeley tiene una actitud bastante crítica con la doctrina de las ideas abstractas.",
+    "questions": [
+      {
+        "statement": "Se deduce que Berkeley es un crítico de la siguiente tesis filosófica:",
+        "alternatives": [
+          "A) Las ideas ficticias pueden subsistir en la mente humana.",
+          "B) Los objetos existen independientemente de las mentes.",
+          "C) La imaginación puede hacer una mezcla de sensaciones.",
+          "D) Al conocer, el espíritu lleva a cabo una serie de operaciones.",
+          "E) Los conocimientos provienen de la fuente de la experiencia."
+        ],
+        "correct": 1,
+        "rationale": "No hay ninguna base, según Berkeley, para sostener la existencia libre del acto de percepción."
+      },
+      {
+        "statement": "Se deduce que el sentido del tacto nos brinda la idea",
+        "alternatives": [
+          "A) de lo áspero.",
+          "B) de lo amargo.",
+          "C) de lo fluido.",
+          "D) de lo evidente.",
+          "E) de lo ruidoso."
+        ],
+        "correct": 0,
+        "rationale": "El tacto nos brinda información sobre la dureza ola a spereza de un objeto."
+      },
+      {
+        "statement": "Al sostener que la existencia de una cosa estriba en su ser percibida, se pone de relieve",
+        "alternatives": [
+          "A) la naturaleza abstracta de toda la percepción.",
+          "B) la realidad independiente de todas las cosas.",
+          "C) el carácter metafísico del conocimiento humano.",
+          "D) el rol de la mente en la elaboración de la memoria.",
+          "E) el valor de la subjetividad en el conocimiento."
+        ],
+        "correct": 4,
+        "rationale": "La posición de Berkeley es claramente subjetivista: no hay conocimiento sin sujeto cognoscente."
+      },
+      {
+        "statement": "Cuando veo la mesa sobre la que escribo, concluyo que la mesa existe. Si salgo de la habitación,",
+        "alternatives": [
+          "A) puedo sostener que la mesa existe porque tiene un color.",
+          "B) la idea de la mesa se convierte en un objeto iluso e inestable.",
+          "C) la mesa ya no existe porque he dejado mi labor de escritura.",
+          "D) la mesa sigue existiendo en la medida en que es perceptible.",
+          "E) debo concluir que la mesa tiene una existencia absoluta."
+        ],
+        "correct": 3,
+        "rationale": "La existencia se garantiza por la virtualidad de la percepción."
+      }
+    ]
+  },
+  {
+    "type": "verbal_series",
+    "statement": "1. Refrendar, confirmar, comprobar,",
+    "alternatives": [
+      "A) corroborar",
+      "B) identificar",
+      "C) describir",
+      "D) experimentar",
+      "E) analizar"
+    ],
+    "correct": 0,
+    "rationale": "Serie basada en la sinonimia."
+  },
+  {
+    "type": "verbal_series",
+    "statement": "2. Introvertido, retraído, reservado,",
+    "alternatives": [
+      "A) pusilánime",
+      "B) ensimismado",
+      "C) apático",
+      "D) indolente",
+      "E) impertérrito"
+    ],
+    "correct": 1,
+    "rationale": "Serie basada en la sinonimia."
+  },
+  {
+    "type": "verbal_series",
+    "statement": "Introvertido, retraído, reservado,",
+    "alternatives": [
+      "A) pusilánime",
+      "B) ensimismado",
+      "C) apático",
+      "D) indolente",
+      "E) impertérrito"
+    ],
+    "correct": 1,
+    "rationale": null
+  },
+  {
+    "type": "verbal_series",
+    "statement": "Elija la palabra que no corresponde a la serie verbal.",
+    "alternatives": [
+      "A) imputar",
+      "B) incriminar",
+      "C) imbuir",
+      "D) acusar",
+      "E) achacar"
+    ],
+    "correct": 2,
+    "rationale": "Se ha construido el campo semántico de la acusación y, en consecuencia, sale el término ‘imbuir’."
+  },
+  {
+    "type": "verbal_series",
+    "statement": "Rústico, basto, zafio,",
+    "alternatives": [
+      "A) chabacano",
+      "B) estólido",
+      "C) inverecundo",
+      "D) anticuado",
+      "E) imberbe"
+    ],
+    "correct": 0,
+    "rationale": "Serie constituida por sinónimos."
+  },
+  {
+    "type": "verbal_series",
+    "statement": "Arcano, misterioso, oculto,",
+    "alternatives": [
+      "A) esotérico",
+      "B) taxativo",
+      "C) incólume",
+      "D) exotérico",
+      "E) ininteligible"
+    ],
+    "correct": 0,
+    "rationale": "Serie constituida por sinónimos."
+  },
+  {
+    "type": "verbal_series",
+    "statement": "Ladino, tunante, astuto,",
+    "alternatives": [
+      "A) déspota",
+      "B) sagaz",
+      "C) omnisciente",
+      "D) lerdo",
+      "E) puntill oso"
+    ],
+    "correct": 1,
+    "rationale": "Serie constituida por sinónimos."
+  },
+  {
+    "type": "verbal_series",
+    "statement": "Protervo, cruel; novato, baquiano; escuálido, cenceño;",
+    "alternatives": [
+      "A) dadivoso, generoso",
+      "B) liliputiense, pigmeo",
+      "C) infausto, infatuado",
+      "D) austero, manirroto",
+      "E) impío, locuaz"
+    ],
+    "correct": 3,
+    "rationale": "Sinónimo -antónimos -sinónimos; sigue par de antónimos."
+  },
+  {
+    "type": "verbal_series",
+    "statement": "7. Protervo, cruel; novato, baquiano; escuálido, cenceño;",
+    "alternatives": [
+      "A) dadivoso, generoso",
+      "B) liliputiense, pigmeo",
+      "C) infausto, infatuado",
+      "D) austero, manirroto",
+      "E) impío, locuaz"
+    ],
+    "correct": 3,
+    "rationale": "Sinónimo -antónimos -sinónimos; sigue par de antónimos."
+  },
+  {
+    "type": "verbal_series",
+    "statement": "8. Hueso, húmero; copa, árbol; tubérculo, papa;",
+    "alternatives": [
+      "A) dintel, puerta",
+      "B) oveja, rebaño",
+      "C) mueble, sillón",
+      "D) trueno, rayo",
+      "E) regla, tijera"
+    ],
+    "correct": 0,
+    "rationale": "Hiperónimo, hipónimo; parte -todo; hiperónimo, hipónimo; sigue parte -todo."
+  },
+  {
+    "type": "verbal_series",
+    "statement": "9. Perito, avezado, experto,",
+    "alternatives": [
+      "A) bisoño",
+      "B) arcaico",
+      "C) provecto",
+      "D) baquiano",
+      "E) amateur"
+    ],
+    "correct": 3,
+    "rationale": "Serie constituida por sinónimos."
+  },
+  {
+    "type": "verbal_series",
+    "statement": "10. Fruta, toronja; orquídea, flor; diente, molar;",
+    "alternatives": [
+      "A) hoja, follaje",
+      "B) cúpula, catedral",
+      "C) pingüino, ave",
+      "D) célula, neurona",
+      "E) argón, oxígeno"
+    ],
+    "correct": 2,
+    "rationale": "Hiperónimo -hipónimo, hipónimo -hiperónimo, hiperónimo -hipónimo; sigue hipónimo -hiperónimo."
+  },
+  {
+    "type": "reading_comprehension",
+    "statement": "Todo el mundo adm itirá de buen grado que hay una diferencia considerable entre las percepciones de la mente cuando un hombre siente el dolor por un excesivo calor o el placer que produce una moderada calidez, y cuando posteriormente trae a su memoria esta sensación ola an ticipa gracias a su imaginación. Estas facultades pueden remedar o copiar las percepciones de los sentidos, pero nunca podrán alcanzar completamente la fuerza y vivacidad de la experiencia original. A lo sumo podemos decir de estas facultades, siempre y cuando operen con el mayor vigor, que representan su objeto de\n\nque la mente esté perturbada por enfermedad o locura, nunca pueden llegar a un grado tal de vivacidad como para volver estas percepciones indiscernibles de las sensaciones. Por espléndidos que sean todos los colores de la poesía, nunca podrán pintar los objetos naturales de tal manera que la descripción sea tomada por un paisaje real. El más vívido del pensamientos es inferior, incluso, a la sensación más apagada. Podemos observar que una distinción parecida se aplica a todas las percepciones de la mente. Un hombre en estado colérico actúa de forma muy diferente de aquel que solo piensa esa emoción. Si se me d ice que alguien está enamorado, puedo fácilmente comprender lo que se me quiere decir y hacerme una imagen justa de la situación, pero nunca puedo confundir esta imagen con los desórdenes y agitaciones auténticos de la pasión. Cuando reflexionamos sobre nuestras experiencias y afectos pasados, nuestro pensamiento es un fiel espejo, y reproduce los objetos verazmente; pero los colores que emplea son débiles y apagados en comparación con aquellos que investían nuestra percepción original. No se requiere un especial discernimiento ni una mente especialmente metafísica para poder señalar la distinción entre ellos. Así pues, podemos dividir todas las percepciones de la mente en dos clases o especies, que pueden ser distinguidas por sus diferentes grados de fuerza y vivacidad. Las menos potentes y vivaces comúnmente son llamadas pensamientos o ideas; la otra especie carece de un nombre en nuestro idioma y en la mayoría de los demás, supongo que porque solo con propósitos filosóficos es necesario situarla bajo un término o denominación general. Tomémonos, por lo tanto, cierta libertad y llamémoslas impresiones, empleando esta palabra en un sentido de algún modo diferente del usual. Con el término impresión, pues, quiero referirme a todas nuestras percepciones más intensas; cuando oímos o vemos, o sentimos, o amamos, u odiamos, o deseamos o queremos. Y las impresiones se distinguen de las ideas, que son las percepciones menos intensas de las que somos conscientes, cuando reflexionamos sobre las sensaciones o mecanismos más arriba mencionados. Nada puede parecer a primera vista más ilimitado que el pensamiento del hombre, que no solo escapa a todo poder y autoridad humanos, sino que ni siquiera se restringe a los límites de la naturaleza y la realidad. Formar monstruos y unir formas y apariencias incongruentes no supone para la imaginación más problemas que concebir los objetos más naturales y familiares. Y mientras que el cuerpo está confinado a un planeta, sobre el cual se arrastra con dolor y dificultad, el pensamiento puede transportarnos en un instante a las regiones más distantes del universo; o incluso más allá del universo, al caos ilimitado, donde se supone que la naturaleza cae en total confusión. Lo que nunca se ha sentido u oído, puede, sin embargo, ser con cebido; no hay nada más allá del poder del pensamiento, salvo lo que implica contradicción absoluta. Pero, aunque nuestro pensamiento parece poseer esta ilimitada libertad, encontraremos, tras un examen más aproximado, que está realmente confinado en estrechos límites, y que todo este poder creativo de la mente equivale solamente a la facultad de componer, transponer, aumentar o disminuir los materiales proporcionados por los sentidos ola experiencia. Cuando pensamos en una montaña de oro, nos limitamos a unir dos ideas compatibles, oro y montaña, que previamente conocíamos. Podemos imaginar un caballo virtuoso, ya que a partir de nuestros propios estados internos podemos concebir la virtud y podemos unir a esta la forma y figura de un caballo, que es un animal familiar para nosotros. En resumen, todos los materiales del pensamiento se derivan de nuestra experiencia interna o externa, la mezcla y composición de estas pertenece solo a la mente y a la voluntad. O, para expresarme en lenguaje filosófico, todas nuestras ideas o percepciones más débiles son copias de nuestras impresiones o percepciones más intensas. Para probar esto, espero que sean suficientes los dos argumentos siguientes.\n\nsublimes que sean, encontramos siempre que se resuelven en ideas tan simples como las copiadas de una experiencia o estado interno precedente. Incluso aquellas ideas que, a primera vista, parecen más alejadas de este origen, resultan, tras un estudio más aproximado, derivarse de él. La idea de Dios, refiriéndonos a un ser infinitamente inteligente, sabio y bueno, surge de la reflexión sobre las operaciones de nuestra propia mente, y de aumentar sin límites aquellas cualidades de bondad y sabiduría . Podríamos proseguir esta investigación tan lejos como quisiéramos, siempre encontraríamos que cada idea que examinamos es copia de una impresión similar. Aquellos que quisieran afirmar que esta posición no es universalmente válida ni carente de excepción ,tienen un solo y sencillo método de refutarla: producir aquella idea que, en su opinión, no se deriva de esta fuente. Entonces nos correspondería a nosotros, si queremos mantener nuestra doctrina, presentar la impresión o percepción intensa que le corresponde. En segundo lugar, si ocurre, a causa de algún defecto en sus órganos, que un hombre no es susceptible de ninguna clase de sensación, encontramos siempre que es igualmente incapaz de las correspondientes ideas. Un ciego no puede hacerse idea de los colores ni un sordo de los sonidos. Devuélvase a cada uno de ellos el sentido que le falta, al abrir este nuevo canal para sus sensaciones, se abre también un nuevo cauce para sus ideas. El caso es el mismo si el objeto apropiado para excitar la sensación nunca ha sido aplicado al órgano. Un negro o un lapón no tienen noción alguna del sabor del vino. Y, aunque hay pocos o ningún ejemplo de una deficiencia en la mente por la cual una persona nunca ha sentido o es completamente incapaz de un modo de una pasión o modo de sentir correspondiente a su especie, aún así encontramos que la misma observación puede ser realizada en un grado menor. Un hombre apacible no puede hacerse idea del deseo inveterado de venganza o crueldad, tampoco puede un corazón egoísta con cebir las excelencias de la amistad y la generosidad. Es fácilmente admitido que muchos otros seres pueden poseer muchas facultades que nosotros no llegamos a imaginar, porque las ideas de estas nunca han accedido a nosotros de la única manera en que una idea puede tener acceso a la mente, a saber, por la experiencia interna y la sensación. David Hume Investigación sobre el entendimiento humano (fragmento)",
+    "questions": [
+      {
+        "statement": "1. En el texto, el término VIVACIDAD adquiere el sentido de",
+        "alternatives": [
+          "A) intensidad.",
+          "B) identidad.",
+          "C) matiz .",
+          "D) vitalidad.",
+          "E) energía."
+        ],
+        "correct": 0,
+        "rationale": "La palabra ‘vivacidad’ se refiere a la fuerza o intensidad."
+      },
+      {
+        "statement": "2. En el texto, un color débil se entiende como un color",
+        "alternatives": [
+          "A) infinito.",
+          "B) conciso.",
+          "C) tenue.",
+          "D) turbio.",
+          "E) sereno."
+        ],
+        "correct": 2,
+        "rationale": "Se trata de un color apagado o tenue."
+      }
+    ]
+  },
+  {
+    "type": "reading_comprehension",
+    "statement": "La palabra ‘vivacidad’ se refiere a la fuerza o intensidad.",
+    "questions": [
+      {
+        "statement": "En el texto, un color débil se entiende como un color",
+        "alternatives": [
+          "A) infinito.",
+          "B) conciso.",
+          "C) tenue.",
+          "D) turbio.",
+          "E) sereno."
+        ],
+        "correct": 2,
+        "rationale": "Se trata de un color apagado o tenue."
+      },
+      {
+        "statement": "Las impresiones son ideas",
+        "alternatives": [
+          "A) borrosas.",
+          "B) contradictorias.",
+          "C) generales.",
+          "D) nítidas.",
+          "E) indirectas."
+        ],
+        "correct": 3,
+        "rationale": "Las impresiones destacan por su nitidez perceptual."
+      },
+      {
+        "statement": "¿Cuál es el tema central del texto ?",
+        "alternatives": [
+          "A) La función de los órganos de los sentidos.",
+          "B) Estructura de los pensamientos humanos.",
+          "C) Análisis de las percepciones de la mente.",
+          "D) Las facultades misteriosas de la mente.",
+          "E) La sensación como experiencia interna."
+        ],
+        "correct": 2,
+        "rationale": "Se analiza y re cuenta las percepciones como operaciones mentales."
+      },
+      {
+        "statement": "¿Cuál es la idea principal del texto?",
+        "alternatives": [
+          "A) El pensamiento humano posee una libertad que no sufre de restricciones.",
+          "B) Entre las percepciones de la mente, las impresiones son las más intensas .",
+          "C) La mente humana solo puede conocer mediante las ideas abstractas.",
+          "D) La experiencia humana es un modelo para todas las ideas filosóficas.",
+          "E) La facultad de la mente puede copiar idénticamente a nuestros sentidos."
+        ],
+        "correct": 1,
+        "rationale": "Como fruto del análisis, se establece que las impresiones son las más vivaces."
+      },
+      {
+        "statement": "Se infiere que algo esencialmente contradictorio es",
+        "alternatives": [
+          "A) posible.",
+          "B) abstracto.",
+          "C) impensable.",
+          "D) imaginable.",
+          "E) indecible."
+        ],
+        "correct": 2,
+        "rationale": "Algo contradictorio en esencia no podría ser representado en el pensamiento."
+      },
+      {
+        "statement": "Si tenemos la idea de un caballo y hombre y pensamos en un centauro, procedemos",
+        "alternatives": [
+          "A) abstracción.",
+          "B) impresión.",
+          "C) percepción.",
+          "D) imaginación.",
+          "E) alucinación."
+        ],
+        "correct": 3,
+        "rationale": "La imaginación puede un ir dos ideas para concebir una mixtión."
+      }
+    ]
+  },
+  {
+    "type": "sentence_elimination",
+    "statement": "7. Si tenemos la idea de un caballo y hombre y pensamos en un centauro, procedemos con",
+    "alternatives": [
+      "A) abstracción.",
+      "B) impresión.",
+      "C) percepción.",
+      "D) imaginación.",
+      "E) alucinación."
+    ],
+    "correct": 3,
+    "rationale": "La imaginación puede un ir dos ideas para concebir una mixtión."
+  },
+  {
+    "type": "sentence_elimination",
+    "statement": "8. Si alguien pensara en lo que sucede en la estrella más lejana del universo, ello probaría que el pensamiento es",
+    "alternatives": [
+      "A) limitado.",
+      "B) trascendente.",
+      "C) perceptivo.",
+      "D) fantasioso.",
+      "E) caótico."
+    ],
+    "correct": 1,
+    "rationale": "Así se probaría que el pensamiento trasciende los límites de la experiencia."
+  },
+  {
+    "type": "sentence_elimination",
+    "statement": "9. Se infiere que podemos concebir la idea de Dios porque la mente humana puede operar con",
+    "alternatives": [
+      "A) ironías.",
+      "B) contradicciones.",
+      "C) leyes.",
+      "D) hipérboles.",
+      "E) antítesis."
+    ],
+    "correct": 3,
+    "rationale": "La idea de Dios en nuestras mentes resulta de multiplicar nuestra bondad, nuestra sabiduría, nuestra inteligencia."
+  },
+  {
+    "type": "sentence_elimination",
+    "statement": "10. Si un invidente de nacimiento pudiera generar una idea de un color,",
+    "alternatives": [
+      "A) el análisis de Hume estaría refrendado.",
+      "B) el intelecto humano sería del todo perfecto.",
+      "C) el caos no podría existir en el orbe natural.",
+      "D) los sordos serían capaces de escuchar bien.",
+      "E) la posición de Hume quedaría invalidada."
+    ],
+    "correct": 4,
+    "rationale": "El caso del invidente sería un contraejemplo de la posición de Hume."
+  },
+  {
+    "type": "reading_comprehension",
+    "statement": "John Wheeler nació en 1911 en Jacksonville (Florida). En 1933 se doctoró en la Universidad John Hopkins con un trabajo sobre el esparcimiento de la luz por los átomos de helio. En 1938, trabajó con el físico da nés Niels Bohr para desarrollar la teoría de la fisión nuclear. Posteriormente, Wheeler trabajó durante un tiempo con su estudiante de doctorado Richard Feynman y se dedicaron al proyecto de la electrodinámica; pero poco tiempo después de que los EE. UU. entraran en la Segunda Guerra Mundial ambos participaron en el proyecto Manhattan. A comienzos de la década del cincuenta, inspirado por el trabajo de Robert Oppenheimer sobre el colapso gravitatorio de una estrella masiva, Wheeler dirigió su atención a la teoría de la relatividad de Einstein. En aquella época, la mayoría de los físicos estaban inmersos en el estudio de la física nuclear, y la relatividad general no era considerada relevante para el mundo físico. Sin embargo, en solitario, Wheeler transformó el campo mediante su investigación y su enseñanza en Princeton del primer curso de relatividad general. Mucho después, en 1969, creó el término “agujero negro” para el estado colapsado de la materia, cuya finalidad real pocos habían creído. Inspirado por el trabajo de Werner Israel, conjeturó que los agujeros negros no tienen pelos, lo que significa que el estado colapsado de cualquier estrella masiva no rotante podría ser descrito por la fórmula del astrónomo alemán Karl Schwarzschild. Fuente: El universo en una cáscara de nuez (Hawking, Stephen; 2003:121)",
+    "questions": [
+      {
+        "statement": "En síntesis, el texto refiere",
+        "alternatives": [
+          "A) los descubrimientos de John Wheeler.",
+          "B) la vida y obra de John Wheeler.",
+          "C) la creación de los agujeros negros.",
+          "D) las teorías físicas de John Wheeler.",
+          "E) la teoría de la relatividad general."
+        ],
+        "correct": 1,
+        "rationale": "Efectivamente, en el texto se desarrolla la vida y obra del físico americano John Wheeler."
+      },
+      {
+        "statement": "En el texto, el término CREAR puede ser reemplazado por",
+        "alternatives": [
+          "A) idear.",
+          "B) expresar.",
+          "C) maquinar.",
+          "D) acuñar.",
+          "E) descubrir."
+        ],
+        "correct": 3,
+        "rationale": "De acuerdo con el contexto discursivo, el término más preciso es “acuñar”."
+      }
+    ]
+  },
+  {
+    "type": "sentence_elimination",
+    "statement": "En el texto, el término CREAR puede ser reemplazado por",
+    "alternatives": [
+      "A) idear.",
+      "B) expresar.",
+      "C) maquinar.",
+      "D) acuñar.",
+      "E) descubrir."
+    ],
+    "correct": 3,
+    "rationale": "De acuerdo con el contexto discursivo, el término más preciso es “acuñar”."
+  },
+  {
+    "type": "sentence_elimination",
+    "statement": "Resulta incompatible con lo desarrollado en el texto sostener que",
+    "alternatives": [
+      "A) la teoría de la relatividad general tuvo, desde sus inicios, una amplia difusión.",
+      "B) durante su vida, John Wheeler realizó investigaciones junto a otras personalidades.",
+      "C) John Wheeler creyó que los agujeros negros son el estado colapsado de la materia.",
+      "D) Wheeler dilucidó la naturaleza del esparcimiento de la luz de los átomos de helio.",
+      "E) Princeton fue el primer lugar donde se impartió un curso de relatividad general."
+    ],
+    "correct": 0,
+    "rationale": "John Wheeler fue el primero en estudiar la teoría de la relatividad, ya que la mayoría de sus colegas estaba analizando la f ísica nuclear, por ello, la teoría de Einstein no fue muy difundida en sus inicios."
+  },
+  {
+    "type": "sentence_elimination",
+    "statement": "Respecto de John Wheeler, se puede inferir que",
+    "alternatives": [
+      "A) a diferencia de los demás, estudió la teoría de la relatividad.",
+      "B) logró su doctorado antes de cumplir lo s veinticinco años.",
+      "C) enseñó un curso sobre relatividad general en Princeton.",
+      "D) desde joven se inclinó por el estudio de la relatividad.",
+      "E) realizó todas sus investigaciones sin ningún apoyo."
+    ],
+    "correct": 1,
+    "rationale": "John Wheeler nació en 1911 y se doctoró en 1 933, en consecuencia, logró ese grado académico antes de los 25 años."
+  },
+  {
+    "type": "sentence_elimination",
+    "statement": "Si John Wheeler hubiese ignorado totalmente el trabajo de Oppenheimer,",
+    "alternatives": [
+      "A) nadie habría enseñado física en Princeton.",
+      "B) la teoría de la relatividad habría sido abandonada.",
+      "C) se habría doctorado en ciencias astronómicas.",
+      "D) Schwarzschild no habría propuesto su fórmula.",
+      "E) no habría estudiado la física del agujero negro."
+    ],
+    "correct": 4,
+    "rationale": "La inspiración de Oppenheimer fue fundamental para estudiar los efectos del colapso gravitatorio, lo que lo condujo a la idea de los agujeros negros."
+  }
+]

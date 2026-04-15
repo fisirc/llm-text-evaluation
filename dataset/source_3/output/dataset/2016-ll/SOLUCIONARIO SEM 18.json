@@ -1,0 +1,869 @@
+[
+  {
+    "type": "reading_comprehension",
+    "statement": "Observando la infografía podemos decir que al autor le interesa explicar En síntesis al autor de la infografía le interesa resaltar cómo la obesidad y el sobrepeso dan origen a una  serie de enfermedades que conducen a la muerte.",
+    "questions": [
+      {
+        "statement": "Observando la infografía podemos decir que al autor le interesa explicar",
+        "alternatives": [
+          "A) en qué nivel ha descendido la actividad física en los últimos años.",
+          "B) cómo el sobrepeso y la obesidad se han convertido en factores de riesgo.",
+          "C) por qué los alimentos hipercalóricos forman parte importante de la dieta.",
+          "D) cómo las cardiopatías han incrementado debido a la obesidad.",
+          "E) de qué manera la obesidad influye en el desarrollo de la diabetes."
+        ],
+        "correct": 1,
+        "rationale": "En síntesis al autor de la infografía le interesa resaltar cómo la obesidad y el sobrepeso dan origen a una  serie de enfermedades que conducen a la muerte."
+      },
+      {
+        "statement": "En el texto, el término POBRES connota",
+        "alternatives": [
+          "A) penuria.",
+          "B) escasez .",
+          "C) miseria.",
+          "D) insuficiencia.",
+          "E) inopia."
+        ],
+        "correct": 3,
+        "rationale": "El término alude a lo insuficiente que resulta la ingesta de vitaminas, minerales y fibra."
+      },
+      {
+        "statement": "años de 2.8 millones a 2. 6 millones, se podría entender que",
+        "alternatives": [
+          "A) la obesidad definitivamente dejó de ser un factor de riesgo.",
+          "B) se superó con creces el riesgo de contraer algún tipo de cáncer.",
+          "C) la ingesta de alimentos hipercalóricos ha reducido notablemente.",
+          "D) las personas tomaron consciencia de que deben practicar deportes.",
+          "E) la obesidad sigue siendo un factor de riesgo epidemiológico importante."
+        ],
+        "correct": 4,
+        "rationale": "La reducción no es significativa si tomamos en cuenta el lapso de tiempo planteado, de modo que la obesidad seguiría siendo un factor de riesgo a tomar en cuenta."
+      },
+      {
+        "statement": "Es posible colegir del texto que el incremento del sedentarismo tiene que ver con",
+        "alternatives": [
+          "A) el incremento del consumo de alimentos hipercalóricos.",
+          "B) lo dinámico de las actividades que se realizan en el campo.",
+          "C) el cansancio que actualmente agobia a las personas.",
+          "D) los cambios que ha impulsad o la modernidad.",
+          "E) las dietas pobres en vitaminas, minerales y fibra."
+        ],
+        "correct": 3,
+        "rationale": "La infografía muestra la imagen de una laptop y unos edificios. Además se señala como causas: modo de trabajo, urbanización y desplazamiento."
+      },
+      {
+        "statement": "Resulta incompatible con la información que muestra la infografía afirmar que",
+        "alternatives": [
+          "A) parte de la población no puede seguir una dieta adecuada.",
+          "B) se debería mantener el equilibrio entre calorías ingeridas y gastadas.",
+          "C) la obesidad origina el 23 % de las cardiopatías reumáticas.",
+          "D) la diabetes está relacionada con el sobrepeso y la obesidad.",
+          "E) la obesidad es el quinto factor de riesgo de muerte en el mundo."
+        ],
+        "correct": 2,
+        "rationale": "Lo que muestra la infografía es el 23 5 de las cardiopatías isquémicas, no reumáticas."
+      }
+    ]
+  },
+  {
+    "type": "reading_comprehension",
+    "statement": "Una sociedad democrática y libre necesita ciudadanos responsables y críticos, conscientes de la necesidad de someter continuamente a examen el mundo en que vivimos para tratar de acercarlo —empresa siempre quimérica — a aquél en que quisiéramos vivir; pero,  gracias a su sequedad en alcanzar aquel sueño inalcanzable — casar la realidad con los deseos — ha nacido y avanzado la civilización, y llevado al ser humano a derrotar a muchos —no a todos, por supuesto — demonios que lo avasallan. Y no existe mejor fermento  de insatisfacción frente a lo existente que la literatura. Para formar ciudadanos críticos e independientes, difíciles de manipular, en permanente movilización espiritual y con una imaginación siempre en ascuas , nada como las buenas lecturas. Ahora bien, llamar sediciosa a la literatura porque las bellas ficciones desarrollan en los lectores una conciencia alerta respecto de las imperfecciones del mundo real, no significa, claro está, como creen las iglesias y los gobiernos que establecen censuras para atenuar o anular su carga subversiva, que los textos literarios provoquen immediatas conmociones sociales o aceleren las revoluciones. Entramos aquí en un terreno resbaladizo, subjetivo, en el que conviene moverse con prudencia. Los efectos socio -políticos de  un poema, de un drama o de una novela son inverificables porque ellos no se  dan casi nunca de manera colectiva, sino individual, lo que quiere decir que varían enormemente de una a otra persona. Por ello es difícil, para no decir imposible, establecer pautas precisas. De otro lado, muchas veces estos efectos, cuando resultan evidentes en el ámbito colectivo, pueden tener poco que ver con la calidad estética del texto que los produce. Por ejemplo, una mediocre novela, La cabaña del tío Tom , de Harriet Elizabeth Beecher Stowe, parece haber desempeñado un papel importantísimo en la toma de conciencia social en Estados Unidos sobre los horrores de la esclavitud. Pero que estos efectos sean difíciles de intensificar, no implica que no existan. Sino que ellos se dan, de manera indirecta y múltiple, a través de las conductas y acciones de los ciudadanos cuya personalidad los libros contribuyeron a modelar.",
+    "questions": [
+      {
+        "statement": "1. El texto aborda principalmente",
+        "alternatives": [
+          "A) el rol que desempeña la literatura en la formación de la conciencia crítica del lector.",
+          "B) los efectos socio -políticos ocasionados por la lectura de libros de poesía y narrativa.",
+          "C) la influencia de La cabaña del tío Tom  en la toma de conciencia sobre la esclavitud.",
+          "D) la importancia social y también política que ha adquirido la literatura en el mundo moderno.",
+          "E) la intolerancia que la iglesia siempre ha mostrado frente a las manifestaciones literarias."
+        ],
+        "correct": 0,
+        "rationale": "El texto se centra en el papel que desempeña la literatura en la formación de ciudadanos críticos e independientes."
+      },
+      {
+        "statement": "2. La expresión SIEMPRE EN ASCUAS alude a una imaginación",
+        "alternatives": [
+          "A) insatisfecha.",
+          "B) perturbada.",
+          "C) desequilibrada.",
+          "D) inquieta.",
+          "E) conmocionada."
+        ],
+        "correct": 3,
+        "rationale": "SIEMPRE EN ASCUAS alude a un espíritu inquieto e inconforme."
+      },
+      {
+        "statement": "3. Es incompatible con lo sostenido en el texto afirmar sobre La cabaña del tío Tom  que",
+        "alternatives": [
+          "A) según el juicio del autor se  trata de una novela mediocre.",
+          "B) desempeñó un rol importante en la toma de conciencia contra la esclavitud.",
+          "C) si hubiera tenido una alta calidad estética, hubiera acelerado una revolución.",
+          "D) sus repercusiones sobre el público lector norteamericano fueron amplias.",
+          "E) los efectos que tuvo sobre los lectores no dependieron de su calidad estética."
+        ],
+        "correct": 2,
+        "rationale": "En el texto se sostiene que la calidad estética no tiene que ver con los efectos sociales que puede provocar una obra literaria"
+      },
+      {
+        "statement": "4. De lo dicho en el texto se puede inferir que los gobiernos tiránicos y las iglesias preferirían",
+        "alternatives": [
+          "A) favorecer la aparición de una conciencia crítica e independiente",
+          "B) que la gente tuviera una actitud pacífica, conformista y sumisa.",
+          "C) apoyarían el éxito de la novela La cabaña del tío Tom.",
+          "D) están a favor de una buena literatura que forme ciudadanos críticos.",
+          "E) están en contra las revueltas sociales y las revoluciones."
+        ],
+        "correct": 1,
+        "rationale": "En el texto se sostiene que las iglesias y gobiernos establecen censuras para atenuar o anular la “carga subversiva” de las obras literarias."
+      },
+      {
+        "statement": "5. Si la obra de  Harriet Elizabeth Beecher Stowe no hubiera ten ido tanta repercusión social",
+        "alternatives": [
+          "A) el número de lectores norteamericanos sería más amplio.",
+          "B) se le recordaría por su evidente calidad estética.",
+          "C) gozaría de mayor fama de la que tiene actualmente.",
+          "D) los horrores de la esclavitud no hubieran llegado a conocerse.",
+          "E) sería, probablemente, una obra poco conocida."
+        ],
+        "correct": 4,
+        "rationale": "Desde el punto de vista del autor es una novela mediocre lo que permite entender que su repercusión social fue lo que le dio fama."
+      }
+    ]
+  },
+  {
+    "type": "reading_comprehension",
+    "statement": "Bajo el reinado de Altan Khan, emperador del Imperio mongol, el budismo tibetano o\nlamaísta, se convirtió en la religión oficial, con Tíbet como su capital espiritual. Hasta la\nfecha es la religión oficial del Estado de Bután, en el que tiene gran incidencia política. Así\nmismo, minorías budistas lamaístas abundan entre los pueblos de etnia tibetana de\nSikkim y Nepal, y entre los pueblos mongoles del sur de Rusia. De hecho, el budismo es\nuna de las cuatro grandes religiones de Rusia y casi todos los budistas rusos son\nlamaístas.\nAunque en India (particularmente el área de los Himalayas indios) y Nepal existían\ncomunidades llamaístas desde hace muchos siglos, la llegada de miles de refugiados\ntibetanos que escapaban de la invasión china se multiplicó. Sin embargo, tras la invasión\nde China a Tíbet en 1950, el budismo tibetano ha afrontado una dura crisis, ya que se\nprohibió la práctica de esta religión. Ello trajo como consecuencia la destrucción de\nmonasterios, el encarcelamiento de monjes y una serie de violaciones a los derechos\nhumanos del pueblo tibetano. Pero, por otro lado, el budismo lamaísta se ha extendido a\ntravés de Occidente en parte gracias al activismo político generado a raíz de la invasión.",
+    "questions": [
+      {
+        "statement": "El texto se centra principalmente en la",
+        "alternatives": [
+          "A) historia de los refugiados tibetanos.",
+          "B) invasión China a la región del Tïbet.",
+          "C) influencia política del budismo lamaísta.",
+          "D) importancia de la religión budista.",
+          "E) expansión y alcance del budismo tibetano."
+        ],
+        "correct": 4,
+        "rationale": "El texto explica cuáles son los territorios por donde se ha extendido el budismo y la injerencia que ha tenido en algunos países."
+      },
+      {
+        "statement": "La expresión SE MULTIPLICÓ connota",
+        "alternatives": [
+          "A) abundancia.",
+          "B)  amplitud.",
+          "C)  extensión.",
+          "D) incremento.",
+          "E)  dilatación."
+        ],
+        "correct": 3,
+        "rationale": "Se entiende que se incrementaron los fieles."
+      },
+      {
+        "statement": "El término EXTENDIDO connota",
+        "alternatives": [
+          "A) difusión",
+          "B) prohibición",
+          "C) dilación",
+          "D) plétora",
+          "E) limitación"
+        ],
+        "correct": 0,
+        "rationale": "“Se ha extendido” se refiere a la difusión que ha tenido en occidente."
+      },
+      {
+        "statement": "Es incompatible con lo sostenido en el texto  afirmar que",
+        "alternatives": [
+          "A) durante su reinado Altan Khan instituyó el budismo como religión oficial.",
+          "B) la prohibición de la religión  budista se produjo antes de 1950",
+          "C) se considera que la capital espiritual del budismo es el Tíbet.",
+          "D) la religión budista tiene injerencia política en algunos países.",
+          "E) la invasión china hizo que el budismo fuera conocido en occidente."
+        ],
+        "correct": 2,
+        "rationale": "La prohibición se produjo después de la invasión de 1950."
+      },
+      {
+        "statement": "Se puede inferir del texto que tras la invasión, en China se",
+        "alternatives": [
+          "A) impulsó un importante desarrollo económico.",
+          "B) impuso un gobierno dogmático y autoritario.",
+          "C) permitió la preservación de los monumentos culturales.",
+          "D) desarrollaron políticas sociales de inclusión.",
+          "E) impulsaron programas de desarrollo educativo."
+        ],
+        "correct": 1,
+        "rationale": "Se prohibió la religión budista y se iniciaron persecuciones."
+      },
+      {
+        "statement": "Si  los invasores chinos no hubieran prohibido la práctica del budismo en el Tíbet, probablemente",
+        "alternatives": [
+          "A) los monjes tibetanos hubieran sido expulsados de la región.",
+          "B) el número de fieles de esta religión hubiera disminuido.",
+          "C) el Tíbet hubiera dejado de ser la capital espiritual del budismo.",
+          "D) esta religión no hubiera sido tan conocida en occidente",
+          "E) la religión budista prácticamente hubiera desaparecido."
+        ],
+        "correct": 4,
+        "rationale": "Después de la prohibición, gracias al activismo político se difundió el budismo en occidente."
+      }
+    ]
+  },
+  {
+    "type": "incomplete_sentences",
+    "statement": "6. Si  los invasores chinos no hubieran prohibido la práctica del budismo en el Tíbet, probablemente",
+    "alternatives": [
+      "A) los monjes tibetanos hubieran sido expulsados de la región.",
+      "B) el número de fieles de esta religión hubiera disminuido.",
+      "C) el Tíbet hubiera dejado de ser la capital espiritual del budismo.",
+      "D) esta religión no hubiera sido tan conocida en occidente",
+      "E) la religión budista prácticamente hubiera desaparecido."
+    ],
+    "correct": 4,
+    "rationale": "Después de la prohibición, gracias al activismo político se difundió el budismo en occidente."
+  },
+  {
+    "type": "verbal_series",
+    "statement": "El futuro estudiante universitario tiene que ser capaz de develar las diferentes relaciones semánticas que una ristra de palabras castellanas puede esconder. Para este fin, ha de basarse en la competencia léxica que ha podido desarrollar durante su experiencia lectora y su vida diaria. Las relaciones semánticas desarrolladas en el transcurso del ciclo son: – sinonimia, – antonimia, – hiperonimia, – meronimia, – variadas analogías.",
+    "alternatives": [
+      "A) Bizarría, animosidad.",
+      "B) robustez, flacura.",
+      "C) ensimismado, vigoroso.",
+      "D) fragor silencio.",
+      "E) pormenor, detalle."
+    ],
+    "correct": 4,
+    "rationale": "Se trata de una serie mixta: antónimo, sinónimo, antónimo…"
+  },
+  {
+    "type": "verbal_series",
+    "statement": "Indique usted que palabra no corresponde al campo semántico propuesto",
+    "alternatives": [
+      "A) Bascosidad",
+      "B) Inmundicia",
+      "C) Bahorrina",
+      "D) Asquerosidad",
+      "E) Descombro"
+    ],
+    "correct": 4,
+    "rationale": "El campo semántico es el de la inmundicia. Descombro significa limpieza."
+  },
+  {
+    "type": "verbal_series",
+    "statement": "Indique cuál es el hiperónimo de trigo, avena, maíz…",
+    "alternatives": [
+      "A) comida",
+      "B) sorgo",
+      "C) proteína",
+      "D) cereal",
+      "E) cebada"
+    ],
+    "correct": 3,
+    "rationale": "El hiperónimo es “cereal”."
+  },
+  {
+    "type": "verbal_series",
+    "statement": "Sensatez, prudencia, discreción,",
+    "alternatives": [
+      "A) parsimonia",
+      "B) equidad",
+      "C) sindéresis",
+      "D) disonancia",
+      "E) sosiego"
+    ],
+    "correct": 2,
+    "rationale": "Se trata de una serie sinonímica."
+  },
+  {
+    "type": "verbal_series",
+    "statement": "Perilla, puerta; pantalla, laptop; timón, carro",
+    "alternatives": [
+      "A) Chip, teléfono",
+      "B) Casa, ladrillo",
+      "C) Camión, auto",
+      "D) Piel, células",
+      "E) Taza,  plato"
+    ],
+    "correct": 0,
+    "rationale": "La relación establecida entre los pares es de parte - todo."
+  },
+  {
+    "type": "analogies",
+    "statement": "5. Perilla, puerta; pantalla, laptop; timón, carro",
+    "alternatives": [
+      "A) Chip, teléfono",
+      "B) Casa, ladrillo",
+      "C) Camión, auto",
+      "D) Piel, células",
+      "E) Taza,  plato"
+    ],
+    "correct": 0,
+    "rationale": "La relación establecida entre los pares es de parte - todo."
+  },
+  {
+    "type": "reading_comprehension",
+    "statement": "La excesiva importación de vehículos usados (700,000 unidades con 20 años de antigüedad) y el uso de combustibles sucios  (63%) provoca la muerte de aproximadamente 13,500 personas por año en el Perú. Sabemos que diariamente mueren 37 personas, 7 de ellas menores de 5 años, víctimas de infecciones respiratorias agudas causadas por efecto de la contaminación ambiental. Estas enfermedades respiratorias aumentaron de 415,000 en 1991 a 3´5 millones en el 2003. La Asociación Médica del Perú ve con preocupación, el cumplimiento de las normas que promueven el uso de combustibles menos contaminantes (eliminación del plomo de las gasolinas, la reducción de azufre del diesel y la disminución de los hidrocarburos aromáticos), por el ofrecimiento que hiciera el Presidente de la República, de rebajar el precio de los combustibles más sucios , ante la ola de paros y protestas. Los médicos rechazamos más enfermedades y muertes por estas causas (alergias, asma, problemas cardiovasculares y/o cáncer) que tranquilamente podrían prevenirse con una firme decisión política de cambiar nuestra matriz energética, estimulando el uso del gas natural comprimido, el gas licuado de petróleo (GLP) o los biocombustibles, gracias a una política tributaria racional.",
+    "questions": [
+      {
+        "statement": "1. ¿Cuál es el mejor resumen del texto?",
+        "alternatives": [
+          "A) El uso de los combustibles sucios se ha convertido en una preocupación para los médicos tanto por la indiferencia del gobierno como por el porcentaje de enfermedades y muertes que, debido a la contaminación, provoca.",
+          "B) La Asociación Médica del Perú está velando por el cumplimiento de las normas que promueven el uso de combustibles menos contaminantes.",
+          "C)  La importación de vehículos usados se ha convertido en un peligro porque es la causa de una serie de enfermedades respiratorias que aumentan cada vez más debido a la contaminación ambiental.",
+          "D) Frente a la contaminación ambiental generada por el uso de combustibles sucios en nuestro país los médicos proponen que el gobierno debería adoptar medidas preventivas.",
+          "E) El porcentaje de enfermedades y muertes que ha ocasionado el uso de combustibles sucios es tan alta en nuestro país que ha generado un fuerte rechazo por parte de los médicos."
+        ],
+        "correct": 0,
+        "rationale": "En el texto se señala el porcentaje de enfermedades y muertes que provoca la contaminación ambiental generada por el uso de combustibles sucios y la indiferencia del gobierno frente a ello, lo que ha causado una gran preocupación entre los médicos."
+      },
+      {
+        "statement": "2.  La palabra SUCIOS alude en el texto a",
+        "alternatives": [
+          "A) la falta de limpieza de los vehículos.",
+          "B) actitudes deshonestas de los médicos",
+          "C) políticas indecentes del gobierno.",
+          "D) un alto nivel de contaminación.",
+          "E) la disminución de los hidrocarburos."
+        ],
+        "correct": 3,
+        "rationale": "SUCIOS alude a los altos niveles de contaminación de los combustibles que contienen plomo y azufre."
+      },
+      {
+        "statement": "3.  Es incompatible con lo sostenido en el texto señalar que",
+        "alternatives": [
+          "A)  la contaminación ambiental es también causa de enfermedades cardiovasculares.",
+          "B)  el índice de muertes por contaminación ambiental es preocupante en nuestro país.",
+          "C)  los niños son también víctimas de enfermedades por la contaminación ambiental.",
+          "D)  las enfermedades respiratorias han incrementado vertiginosamente desde 1991 al 2003.",
+          "E)  la ola de paros y protestas se ha generado por el abuso del gas natural comprimido."
+        ],
+        "correct": 4,
+        "rationale": "Las protestas han sido generadas según parece por el alto costo de los combustibles sucios."
+      },
+      {
+        "statement": "4. Es posible inferir del texto que el ofrecimiento del Presidente de la República",
+        "alternatives": [
+          "A)  evidencia la preocupación por el alto índice de enfermedades y muertes debido a la contaminación ambiental.",
+          "B)  ha logrado frenar con éxito, la  excesiva importación de vehículos usados, causantes de la contaminación.",
+          "C)  muestra el poco interés en la implementación de políticas necesarias para poner fin al uso de combustibles sucios.",
+          "D)  ha provocado que los médicos apoyen la ola de paros y protestas que se han generado debido a los efectos que la contaminación causa.",
+          "E)  ha respondido al deseo de implementar el uso del gas comprimido que disminuirá las enfermedades respiratorias."
+        ],
+        "correct": 2,
+        "rationale": "Cuando el autor dice que enfermedades  muertes podrían prevenirse con una firme decisión política de cambiar nuestra matriz energética, se entiende que hasta el momento el gobierno no ha tomado esa decisión."
+      },
+      {
+        "statement": "5.  Si se lograra cambiar la matriz energética de nuestro país, probablemente",
+        "alternatives": [
+          "A) la población tendría razón en continuar con las protestas.",
+          "B) el índice de víctimas de enfermedades respiratorias agudas disminuiría.",
+          "C) la mortalidad infantil podría aumentar de manera exponencial.",
+          "D) sería imposible la eliminación del plomo y el azufre de las gasolinas.",
+          "E) los biocombustibles y el gas licuado de petróleo serían los menos utilizados."
+        ],
+        "correct": 1,
+        "rationale": "Lo que proponen los médicos es un cambio en la matriz energética justamente para evitar el uso de combustibles sucios que son los que generan enfermedades respiratorias."
+      }
+    ]
+  },
+  {
+    "type": "reading_comprehension",
+    "statement": "En cuanto al aspecto político, resulta imposible no mencionar las ideologías cuando se habla de un escritor importante de América Latina. Mario Vargas Llosa se decantó por la derecha y desencantó a casi todos sus lectores cuando se presentó a las elecciones presidenciales de Perú y puso de manifiesto una ideología cercana al neoliberalismo que hasta ese momento no había mostrado abiertamente. Sin embargo, la pregunta es: ¿Influye la ideología del escritor en la calidad de su obra? Indudablemente, ideología y literatura caminan de la mano  y suelen ser los escritores más comprometidos socialmente los que han producido mejores obras, desde Cervantes hasta Saramago. No obstantes, no existe una línea fronteriza nítida entre escritores superficiales, antisociales y los comprometidos. Nadie puede decir que el poeta mexicano Octavio Paz rehuyó el compromiso o que Vargas Llosa no ha retratado de manera valiente los crímenes de las dictaduras latinoamericanas, por el solo hecho de tener ideologías de derecha.",
+    "questions": [
+      {
+        "statement": "1. Al autor del texto le interesa esclarecer fundamentalmente que",
+        "alternatives": [
+          "A) Cervantes y Saramago son escritores que en todas sus obras han mostrado un claro compromiso social.",
+          "B) La participación política de Vargas Llosa significo su descredito como escritor",
+          "C) los límites entre las ideologías de derecha y las ideologías comprometidas socialmente no siempre son tan claros y definidos.",
+          "D) Como la ideología neoliberal determina la obra de escritores importantes de América Latina.",
+          "E) El compromiso que caracterizó la vid a y obra del poeta mexicano Octavio Paz."
+        ],
+        "correct": 2,
+        "rationale": "Algunos escritores no obstante su ideología conservadora han dado muestras de preocupación social."
+      },
+      {
+        "statement": "2. La expresión CAMINAN DE LA MANO alude a la existencia de un(a)",
+        "alternatives": [
+          "A) sentimiento ambiguo",
+          "B) ideal conservador",
+          "C) esperanza conjunta",
+          "D) vinculo temporal",
+          "E) relación estrecha"
+        ],
+        "correct": 4,
+        "rationale": "Se refiere a que hay un vínculo, una relación estrecha entre ideología y literatura."
+      },
+      {
+        "statement": "3. En la expresión RETRATAR DE MANERA VALIENTE, está implícita la idea de",
+        "alternatives": [
+          "A) denuncia.",
+          "B) fortaleza.",
+          "C) castigo.",
+          "D) esfuerzo.",
+          "E) atrevimiento."
+        ],
+        "correct": 0,
+        "rationale": "Alude a que Vargas Llosa tuvo el valor, no obstante su ideología, de denunciar las dictaduras."
+      },
+      {
+        "statement": "4. Es incompatible con lo afirmado en el texto sostener que",
+        "alternatives": [
+          "A) El aspecto político es importante en los escritores de América Latina.",
+          "B) A los lectores de Vargas Llosa no les importó su desempeño político",
+          "C) Octavio Paz puede ser considerado un escritor comprometido.",
+          "D) Vargas Llosa está en total desacuerdo con las dictaduras.",
+          "E) Es común la relación escritor comprometido – alta calidad literaria."
+        ],
+        "correct": 1,
+        "rationale": "Dice el texto que sus lectores se desencantaron de su participación política."
+      },
+      {
+        "statement": "5. Es posible inferir que desde el punto de vista del autor",
+        "alternatives": [
+          "A) las posiciones políticas conservadoras no tienen nada que ver con el compromiso.",
+          "B) las obras de los escritores socialmente comprometidos se caracterizan por su baja calidad literaria.",
+          "C) Cervantes y Saramago son un claro ejemplo de escritores que dejaron atrás el compromiso  ideológico.",
+          "D) la ideología neoliberal de Vargas Llosa es anterior a su participación en las elecciones",
+          "E) el compromiso ideológico no tiene nada que ver con la labor  del escritor latinoamericano."
+        ],
+        "correct": 3,
+        "rationale": "Cuando dice que hasta el momento de las elecciones no mostró abiertamente su posición neoliberal, se entiende que ya la tenía pero que no la mostraba abiertamente."
+      }
+    ]
+  },
+  {
+    "type": "reading_comprehension",
+    "statement": "Tanto los críticos de la obra de Frida Kahlo como sus biógrafos coinciden en señalar que cualquier intento de separar su vida personal de su obra resulta casi imposible al analizar la temática, la simbología y hasta la técnica de la artista. Se trata de un  trabajo de sesgo muy personal y autobiográfico: Frida es sujeto y objeto de su pintura. Difícil de clasificar unívocamente en una escuela, su obra se caracteriza por una síntesis de elementos expresionistas y surrealistas con una temática popular. La denominación de \"surrealista\" se la dio André Breton quien definió así su obra en 1938. A fines de ese año Frida logró montar  su primera exposición individual en la galería Levi de Nueva York y Bretón escribió el prólogo del catálogo donde reitera su apreciación de la obra de Kahlo como exponente del surrealismo. En 1939, Frida viaja a París para mostrar sus cuadros junto al fotógrafo Manuel Álvarez Bravo en la Galerie  Pierre Colle. Durante este viaje logró impresionar a Picasso y a Kandinsky. Más tarde Picas so escribió una carta a Diego Rivera con grandes elogios para Frida, destacando sus habilidades como retratista: \"Ni tú, ni Derain, ni yo somos capaces de pintar un rostro  como los que pinta Frida Kahlo de Rivera\".",
+    "questions": [
+      {
+        "statement": "1. El texto trata fundamentalmente acerca de",
+        "alternatives": [
+          "A) la opinión favorable de André Bretón sobre la obra de Frida Kahlo.",
+          "B) las exposiciones organizadas por Frida Kahlo en la ciudad de París.",
+          "C) el carácter autobiográfico e inclasificable de la obra de Frida Kahlo.",
+          "D) los elogios de Picasso sobre la  obra retratista  de Frida Kahlo.",
+          "E) la fama y reconocimiento alcanzados por la mexicana Frida Kahlo."
+        ],
+        "correct": 2,
+        "rationale": "El texto señala como característica saltante de la obra de Kahlo su carácter autobiográfico y su sincretismo debido al cual es difícil clasificarla."
+      },
+      {
+        "statement": "2. El término MONTAR tiene el sentido de",
+        "alternatives": [
+          "A) organizar.",
+          "B) sujetar",
+          "C) iniciar",
+          "D) recapitular",
+          "E) ofrecer"
+        ],
+        "correct": 0,
+        "rationale": "El término alude a que pudo organizar su primera exposición."
+      },
+      {
+        "statement": "3. La expresión PINTAR UN ROSTRO alude a",
+        "alternatives": [
+          "A) la elaboración de un bosquejo.",
+          "B) un cambio de expresión.",
+          "C) ponerse maquillaje.",
+          "D) una modificación de los gestos.",
+          "E) la realización de un retrato."
+        ],
+        "correct": 4,
+        "rationale": "La expresión alude a la elaboración de un retrato."
+      },
+      {
+        "statement": "4. Es incompatible con lo  afirmado en el texto sostener que",
+        "alternatives": [
+          "A) los elementos populares tienen gran importancia en la obra de Kahlo.",
+          "B) Picasso y Kandinsky valoraron el carácter surrealista de la obra de Kahlo.",
+          "C) Bretón puso de relieve el carácter surrealista de la pintura de Kahlo.",
+          "D) la primera exposición de Frida Kahlo se realizó en la ciudad de Nueva York.",
+          "E) elementos populares y expresionistas se funden en la obra de Kahlo."
+        ],
+        "correct": 1,
+        "rationale": "El texto señala que Picasso valoró sus habilidades como retratista."
+      }
+    ]
+  },
+  {
+    "type": "sentence_elimination",
+    "statement": "4. Es incompatible con lo  afirmado en el texto sostener que",
+    "alternatives": [
+      "A) los elementos populares tienen gran importancia en la obra de Kahlo.",
+      "B) Picasso y Kandinsky valoraron el carácter surrealista de la obra de Kahlo.",
+      "C) Bretón puso de relieve el carácter surrealista de la pintura de Kahlo.",
+      "D) la primera exposición de Frida Kahlo se realizó en la ciudad de Nueva York.",
+      "E) elementos populares y expresionistas se funden en la obra de Kahlo."
+    ],
+    "correct": 1,
+    "rationale": "El texto señala que Picasso valoró sus habilidades como retratista."
+  },
+  {
+    "type": "sentence_elimination",
+    "statement": "5. Se puede  inferir del texto que en la obra de Frida Kahlo",
+    "alternatives": [
+      "A) se hace evidente el sufrimiento de la artista.",
+      "B) encontramos solo dos ejes temáticos.",
+      "C) se hace evidente la influencia de Diego Rivera.",
+      "D) hay componentes que revelan el inconsciente.",
+      "E) abunda una variedad de colores sombríos."
+    ],
+    "correct": 3,
+    "rationale": "Debido a la insistencia de Bretón de considerarla surrealista."
+  },
+  {
+    "type": "sentence_elimination",
+    "statement": "6. Si la obra de Kahlo pudiera adscribirse a una escuela pictórica",
+    "alternatives": [
+      "A) hubiera recibido mayores elogios por parte de los críticos.",
+      "B) se entendería el porqué de la inclusión de los elementos populares.",
+      "C) significaría que su carácter sincrético no es un rasgo relevante.",
+      "D) se reforzaría la idea de que fue una buena retratista.",
+      "E) hubiera podido realizar una mayor cantidad de exposiciones."
+    ],
+    "correct": 2,
+    "rationale": "La obra de Kahlo se caracteriza por ser inclasificable debido a su sincretismo."
+  },
+  {
+    "type": "reading_comprehension",
+    "statement": "Un estudio realizado en Estados Unidos que se llevó a cabo sobre una población de 14.355 chicos y chicas de 9 a 14 años y que fue publicado en \"Pediatrics\", mostró una relación estrecha entre el consumo de comida rápida y el sobrepeso. La costumbre de frecuentar restaurantes de comida rápida supone que los adolescentes siguen dietas insanas: toman menos frutas y verduras, consumen más bebidas azucaradas y su comida es menos variada. Cuando se toca el tema, muchos padres pensamos que nuestros hijos todavía son muy jóvenes para tener problemas de corazón y que “ya tendrán tiempo, más adelante, de preocuparse por esas cuestiones”. Por supuesto que esto es un tremendo  error, ya que, en primer lugar, serán adultos con una obesidad establecida contra la que tendrán que luchar arduamente. Pero, además, habrán adquirido unas costumbres alimenticias ocasionar, en quien la sufre,  problemas médicos desde muy temprana edad. Adicionalmente, a esa edad se es muy vulnerable a ciertos aspectos psicológicos como la autoestima derivada de la propia apariencia, aspecto determinante en la psicología de los adolescentes y que por ello se debe tener muy en cuenta. Una vez asumida la importancia del problema, la cuestión es cómo conseguir que nuestros hijos cambien sus costumbres alimenticias. Los autores del estudio, entre los que se encuentra la doctora Elsie Taveras, de la Escuela Pública de Salud de Harvard, resaltan la importancia de la educación nutricional, tanto de los hijos como de los padres.",
+    "questions": [
+      {
+        "statement": "La idea central que el texto plantea tiene que ver con",
+        "alternatives": [
+          "A) investigaciones realizadas en la Universidad de Harvard sobre las consecuencias del sobrepeso en los adolescentes.",
+          "B) los efectos psicológicos que trae como consecuencia el aumento de peso en adolescentes de 9 a 14 años.",
+          "C) las dietas insanas de los adolescentes y la costumbre de frecuentar restaurantes de comida rápida.",
+          "D)  el desconocimiento de los padres sobre las consecuencias negativas que una mala alimentación puede tener para sus hijos.",
+          "E) los problemas cardiovasculares de aquellos que suelen frecuentar restaurantes de comida rápida."
+        ],
+        "correct": 3,
+        "rationale": "En última instancia el autor señala que si los padres tuvieran una mayor conciencia sobre lo perjudicial que pueden ser los malos hábitos alimenticios les evitaría problemas de salud a sus hijos."
+      },
+      {
+        "statement": "El sinónimo contextual del término SUFRE es",
+        "alternatives": [
+          "A) padece.",
+          "B) siente.",
+          "C) lamenta.",
+          "D) expresa.",
+          "E) evoca."
+        ],
+        "correct": 0,
+        "rationale": "SUFRIR la obesidad es padecerla."
+      },
+      {
+        "statement": "El término TREMENDO connota",
+        "alternatives": [
+          "A) satisfacción",
+          "B) inmensidad",
+          "C) gravedad",
+          "D) seriedad",
+          "E) complacencia"
+        ],
+        "correct": 2,
+        "rationale": "TREMENDO alude a la gravedad del problema"
+      }
+    ]
+  },
+  {
+    "type": "synonyms_and_antonyms",
+    "statement": "El término TREMENDO connota",
+    "alternatives": [
+      "A) satisfacción",
+      "B) inmensidad",
+      "C) gravedad",
+      "D) seriedad",
+      "E) complacencia"
+    ],
+    "correct": 2,
+    "rationale": "TREMENDO alude a la gravedad del problema"
+  },
+  {
+    "type": "sentence_elimination",
+    "statement": "Es incompatible con el texto sostener que",
+    "alternatives": [
+      "A) para la doctora Taveras es muy importante la educación nutricional.",
+      "B) los hábitos alimenticios tienen poca incidencia en la buena salud",
+      "C) la baja autoestima de los jóvenes está relacionada con la obesidad.",
+      "D) los jóvenes con buenos hábitos alimenticios gozarán de buena salud.",
+      "E) la comida rápida contribuye enormemente a l incremento de peso."
+    ],
+    "correct": 1,
+    "rationale": "Del texto se desprende que para que los jóvenes tengan y mantengan una buena salud es recomendable inculcarles buenos hábitos alimenticios."
+  },
+  {
+    "type": "sentence_elimination",
+    "statement": "Es posible inferir que el autor del texto",
+    "alternatives": [
+      "A) es un especialista reconocido en psicología de jóvenes y adolescentes.",
+      "B) tiene algunas objeciones a la investigación realizada por la doctora Taveras.",
+      "C) puede ser un padre interesado en la buena alimentación de sus hijos.",
+      "D) cree que los jóvenes no deben preocuparse por sus hábitos alimenticios.",
+      "E) ha tenido serios problemas vinculados con mala alimentación y obesidad."
+    ],
+    "correct": 2,
+    "rationale": "Puesto que continuamente se refiere a “ nuestros hijos …”"
+  },
+  {
+    "type": "sentence_elimination",
+    "statement": "Si los padres asumieran la importancia del problema de la mala alimentación de  sus hijos",
+    "alternatives": [
+      "A) también ellos podrían llevar una vida saludable evitando la obesidad.",
+      "B) estos reducirían sus visitas a los restaurantes de comida rápida.",
+      "C) les evitarían para siempre todo tipo de problemas y alteraciones psicológicos.",
+      "D) la vida de estos se perfilaría como una vida más sana física y mentalmente.",
+      "E) se estarían asegurando que también sus nietos llevaran una vida saludable."
+    ],
+    "correct": 3,
+    "rationale": "Si los padres fueran conscientes del problema inculcarían buenos hábitos alimenticios a sus hijos y esto a la larga sería beneficioso para ellos."
+  },
+  {
+    "type": "reading_comprehension",
+    "statement": "Existe una relación económica y de trabajo en la unidad doméstica que puede\npresentarse de manera diferente en distintos grupos étnicos. En general, la economía\ndoméstica es controlada por la mujer; ella asume responsabilidades y decisiones. Sin\nembargo, entre el hombre y la mujer la complementariedad en el trabajo está íntimamente\nvinculada al rol asumido por cada género. Esta complementariedad se expresa en aimara\ncon el vocablo chachawarmi (marido -mujer); y, en quechua, con qariwarmi; ambos\ntérminos simbolizan las relaciones fundamentales de la pareja y el medio en el que\nfunciona. En teoría, tanto la mujer como el marido asumen tareas compartidas y participan\npor igual en la creación del patrimonio familiar.\n La mujer toma parte activa en las faenas del campo y son múltiples las ocupaciones\nque ella asume. Naturalmente estas obligaciones varían según los lugares; sin embargo,\nlo que sí constituye un hábito panandino es la relación de la mujer con las semillas y los\ntubérculos. Mario Tapia y Ana de la Torre encontraron que el 60% de las tareas familiares\nen el campo estaba en manos de las campesinas incluyendo la siembra, cultivo, selección\ny conservación de las semillas, además del cuidado de los animales. En las tierras\ncomunales del sur del país los productos cosechados están a cargo de las mujeres. Ellas\nseparan las semillas que servirán para la alimentación familiar y para la futura siembra.\nLas mujeres mayores se encargan de enseñar a las jóvenes cómo se seleccionan las\nsemillas y el procedimiento para su mejor conservación. Si queda algún excedente, lo\nvenderán o trocarán. En el norte del país, también se considera como tarea femenina la\nselección de las semillas y su conservación.\n\nPor otro lado, las asambleas comunales son, generalmente, reuniones de hombres y\nraramente se encuentra allí a una mujer. Cuando termina una faena en el campo, la mujer\nes la responsable de cocinar; y la abundancia de comida y la variedad de platos expresan\nla situación económica de la familia y el vínculo de la pareja ante los otros miembros de la\ncomunidad. La comida, en el ámbito andino, desempeña siempre una manifestación\nsocial de importancia vinculada a la acción de invitar y de compartir los alimentos,\nasegurando así, las relaciones estables en el medio sociocultural, sobre todo, en los que\nse apoya y crece la familia.\n Los roles de la pareja se definen de la siguiente forma: el hombre produce y la mujer\nadministra. Con esta asignación de tareas y de responsabilidades, por género, quedan\ndefinidos los espacios de los miembros de la unidad doméstica. La familia nuclear está\nexplícitamente representada como una unidad de producción, fuerza de trabajo y de un\nincuestionable valor dentro de la sociedad.\n No obstante, no son raros los casos de familias incompletas en los que la mujer\nqueda sola. En ese caso, ella asume la situación y sigue luchando a la cabeza de su\nfamilia, al haber estado acostumbrada a dirigir la economía del hogar. Si solo fuera una\ncampesina, pedirá ayuda a un hermano para cumplir con las faenas del campo; pero si su\nsituación lo permitiese, buscará a un trabajador asalariado. En cambio, si la familia\nincompleta quedase en manos del hombre, él recurrirá a la familia extendida para suplir la\nfalta de la esposa. La familia extendida comprende a los hermanos casados de ambos\ncónyuges y a sus hijos; a los padres y a otros parientes. Las relaciones entre los\nmiembros de una familia extensa se basan en la reciprocidad y en el cumplimiento de l a\ndevolución del servicio solicitado.\n En la actualidad la pareja andina está cambiando y ha dejado de lado muchas de\nsus tradiciones. Grande es el éxodo hacia la ciudad y el abandono del campo. Las\naspiraciones de la pareja se ven reflejadas en la elección entre la chacra y los pueblos\njóvenes. Sin embargo, a pesar de este deseo de vivir otras situaciones  y de conocer\nnuevos horizontes, persisten los ideales de su cultura, de sus valores y modos de pensar.\nEstos sentimientos brotan espontáneamente como una manifestación de un inconsciente\netnico que aflora en la persona como reminiscencias de un lejano y olvidado pasado,\nremembranzas de antiguas gestas  míticas.",
+    "questions": [
+      {
+        "statement": "En síntesis, el texto versa principalmente sobre",
+        "alternatives": [
+          "A) los cambios por los que ha atravesado la pareja andina a lo largo del tiempo.",
+          "B) el rol que desempeñan hombres y mujeres en la economía doméstica andina.",
+          "C) la participación de la mujer andina en las faenas de la siembra y la cosecha.",
+          "D) los modos de relación laboral que se establecen entre las familias del Ande.",
+          "E) la conservación  comercialización de las semillas que cosechan los campesinos."
+        ],
+        "correct": 1,
+        "rationale": "El texto se centra principalmente en los roles que desempeña la pareja en la economía doméstica."
+      },
+      {
+        "statement": "La expresión VIVIR OTRAS SITUACIONES alude a",
+        "alternatives": [
+          "A) conocer diversos lugares.",
+          "B) iniciar una nueva labor.",
+          "C) adquirir nuevas experiencias.",
+          "D) el logro de ideales.",
+          "E) la aceptación de normas."
+        ],
+        "correct": 2,
+        "rationale": "La expresión a lude a la adquisición de nuevas y variadas experiencias."
+      },
+      {
+        "statement": " El sentido contextual de GESTA es",
+        "alternatives": [
+          "A) evocación.",
+          "B) historia.",
+          "C) memoria.",
+          "D) origen.",
+          "E) hazaña"
+        ],
+        "correct": 4,
+        "rationale": "Se refiere a las hazañas realizadas por los personajes míticos."
+      }
+    ]
+  },
+  {
+    "type": "sentence_elimination",
+    "statement": "La expresión VIVIR OTRAS SITUACIONES alude a",
+    "alternatives": [
+      "A) conocer diversos lugares.",
+      "B) iniciar una nueva labor.",
+      "C) adquirir nuevas experiencias.",
+      "D) el logro de ideales.",
+      "E) la aceptación de normas."
+    ],
+    "correct": 4,
+    "rationale": "La expresión a lude a la adquisición de nuevas y variadas experiencias."
+  },
+  {
+    "type": "sentence_elimination",
+    "statement": "El sentido contextual de GESTA es",
+    "alternatives": [
+      "A) evocación.",
+      "B) historia.",
+      "C) memoria.",
+      "D) origen.",
+      "E) hazaña"
+    ],
+    "correct": 4,
+    "rationale": "Se refiere a las hazañas realizadas por los personajes míticos."
+  },
+  {
+    "type": "sentence_elimination",
+    "statement": "Es incompatible con el texto aseverar que en el caso de las familias incompletas",
+    "alternatives": [
+      "A) la mujer se convierte en la cabeza de la familia.",
+      "B) el hombre puede pedir  ayuda a la familia extendida.",
+      "C) si tiene dinero la mujer puede contratar un trabajador.",
+      "D) es un familiar el que dirige la economía familiar.",
+      "E) la mujer puede buscar la ayuda de sus hermanos."
+    ],
+    "correct": 3,
+    "rationale": "El texto señala que la mujer asume el rol de conductora de la familia y el hombre busca apoyo en la familia extendida"
+  },
+  {
+    "type": "sentence_elimination",
+    "statement": "Resulta incompatible con el texto aseverar que las semillas seleccionadas sirven",
+    "alternatives": [
+      "A) para ayudar en la alimentación familiar.",
+      "B) solamente para su conservación y consumo.",
+      "C) para el trueque en el caso de que sea excedente.",
+      "D) también para una futura siembra.",
+      "E) en algunos casos, para su comercialización."
+    ],
+    "correct": 1,
+    "rationale": "Las semillas también se comercializan y sirven para el truque."
+  },
+  {
+    "type": "sentence_elimination",
+    "statement": "Es posible inferir del texto que la comida, entendida como una manifestación social de importancia, tiene su sustento principalmente en",
+    "alternatives": [
+      "A) la lealtad.",
+      "B) el honor.",
+      "C) la reciprocidad.",
+      "D) la sinceridad.",
+      "E) el orgullo."
+    ],
+    "correct": 2,
+    "rationale": "Se menciona la importancia de invitar y compartir los alimentos, lo que asegura las relaciones estables en el medio sociocultural, en el que se apoya y crece la familia."
+  },
+  {
+    "type": "sentence_elimination",
+    "statement": "Se puede inferir del texto que el concepto de familia en el ande implica",
+    "alternatives": [
+      "A) la sujeción total a criterios patriarcales e inflexibles.",
+      "B) la aceptación de las visiones que la modernidad ha impuesto.",
+      "C) el fortalecimiento de la fidelidad y confianza familiar.",
+      "D) la transgresión de las costumbres tradicionales.",
+      "E) la participación activa de todos los miembros que la constituyen."
+    ],
+    "correct": 4,
+    "rationale": "El texto remarca no solo la participación del hombre y la mujer como núcleo familiar sino también la participación de otros miembros de la familia cuando falta alguno de los dos."
+  },
+  {
+    "type": "sentence_elimination",
+    "statement": "Si en la actualidad no se produjera el éxodo del campo a la ciudad, probablemente",
+    "alternatives": [
+      "A) La pareja andina conservaría más intensamente sus tradiciones.",
+      "B) los arquetipos andinos hubieran desaparecido prontamente.",
+      "C) la familia extendida andina solo comprendería  a los padres.",
+      "D) se dejarían de realizar las ferias agrícolas.",
+      "E) se reducirían las faenas de la siembra y la cosecha."
+    ],
+    "correct": 0,
+    "rationale": "En el texto se afirma que el éxodo ha hecho que quienes migran olviden muchas de sus tradiciones culturales."
+  },
+  {
+    "type": "reading_comprehension",
+    "statement": "El texto remarca no solo la participación del hombre y la mujer como núcleo familiar\nsino también la participación de otros miembros de la familia cuando falta alguno de\nlos dos.",
+    "questions": [
+      {
+        "statement": "Si en la actualidad no se produjera el éxodo del campo a la ciudad, probablemente",
+        "alternatives": [
+          "A) La pareja andina conservaría más intensamente sus tradiciones.",
+          "B) los arquetipos andinos hubieran desaparecido prontamente.",
+          "C) la familia extendida andina solo comprendería  a los padres.",
+          "D) se dejarían de realizar las ferias agrícolas.",
+          "E) se reducirían las faenas de la siembra y la cosecha."
+        ],
+        "correct": 0,
+        "rationale": "En el texto se afirma que el éxodo ha hecho que quienes migran olviden muchas de\nsus tradiciones culturales."
+      },
+      {
+        "statement": "Si una mujer campesina quedara sola, sin dinero y no tuviera hermanos,\nprobablemente",
+        "alternatives": [
+          "A) decidiría, como única salida, emigrar a la ciudad.",
+          "B) tendría que recurrir a otros miembros de su familia extendida.",
+          "C) contrataría a varios trabajadores para que la ayuden.",
+          "D) pondría en venta sus posesiones para conseguir dinero.",
+          "E) abandonaría sus tierras para dedicarse a otra labor."
+        ],
+        "correct": 1,
+        "rationale": "En el texto se afirma que las relaciones entre los miembros de una familia extensa\nse basan en la reciprocidad y en el cumplimiento de la devolución del servicio\nsolicitado."
+      }
+    ]
+  },
+  {
+    "type": "reading_comprehension",
+    "statement": "La relación entre Europa y la literatura peruana –e hispanoamericana - data desde la madrugada  misma en que ésta empieza a desarrollarse. Y, ciertamente, ese desarrollo\nha implicado cambios importantes en el modo como se ha mirado a Europa, sobre todo\ncando se pasa del siglo XIX al XX. Estuardo Núñez nos recuerda que en el siglo XIX: “La actitud de los escritores, en general, es la de mirar a los europeos […] de lejos,\ncomo a los monumentos o a las instituciones, como objetos y no como sujetos […] Pero,\nmás adelante, en los decenios siguientes del XX, la actitud cambia. El hispanoamericano\nno se siente en Europa el advenedizo y el acomplejado […] El latinoamericano se acerca\nal europeo con una actitud psicológica distinta, dueño de un mensaje original y un tanto\nmás seguro de sí mismo y a veces hasta con insolente desenfado”.\n En el caso de la poesía peruana, César Vallejo será un ejemplo claro de ese\ndesenfado, si se considera la mirada desencantada que arroja sobre Europa –\nespecialmente sobre París, ciudad a la que llama Modópolis, por la obsesión de la moda\nque invadía todos los aspectos de la vida parisina de los años 20 -. Vallejo considera que\nla cultura europea atraviesa una crisis espiritual y moral, que la hace devenir en una\ncultura decadente: “Ya no hay campos ni mares en Europa; ya no hay templos ni hogares.",
+    "questions": [
+      {
+        "statement": "1. El texto se centra fundamentalmente en",
+        "alternatives": [
+          "A)  el punto de vista de César Vallejo sobre la Europa de los años 20.",
+          "B)  la decadencia espiritual y moral de Europa a lo largo del siglo XX.",
+          "C)  la visión que los escritores latinoamericanos han tenido de Europa",
+          "D)  la influencia que la literatura europea ha tenido en la literatura peruana.",
+          "E)  los aspectos de la vida parisina en la primera mitad del siglo XX."
+        ],
+        "correct": 2,
+        "rationale": "El texto gira en torno a cómo ha evolucionado la visión que los escritores\nlatinoamericanos han tenido de Europa."
+      },
+      {
+        "statement": "2. La palabra MADRUGADA alude a",
+        "alternatives": [
+          "A) un desarrollo original",
+          "B) una visión desencantada",
+          "C) un mensaje claro",
+          "D) un momento inicial",
+          "E) el progreso malentendido."
+        ],
+        "correct": 3,
+        "rationale": "Alude al momento en que, desde su punto de vista, se inicia la literatura peruana."
+      },
+      {
+        "statement": "3. Es incompatible con el texto sostener que los latinoamericanos del siglo XX",
+        "alternatives": [
+          "A) se muestran inseguros y tímidos frente al europeo.",
+          "B) tienen  una nueva actitud psicológica frente a Europa.",
+          "C) muestran mayor seguridad en su trato con los europeos.",
+          "D) se muestran muy desenvueltos cuando van a Europa.",
+          "E) tienen una visión cuestionadora del continente europeo."
+        ],
+        "correct": 0,
+        "rationale": "Los latinoamericanos del siglo XX se muestran más desenfadados y seguros frente\na lo europeo."
+      },
+      {
+        "statement": "4.  Se infiere que para el autor del texto, la literatura peruana",
+        "alternatives": [
+          "A) no ha recibido influencia europea importante.",
+          "B) se inicia con la llegada de los españoles",
+          "C) no ha logrado plasmar una visión clara de Europa.",
+          "D) tiene como referente más importante a París.",
+          "E) se dejó seducir por el París de los años 20."
+        ],
+        "correct": 1,
+        "rationale": "Porque la expresión “desde la madrugada misma” alude a los orígenes."
+      }
+    ]
+  },
+  {
+    "type": "reading_comprehension",
+    "statement": "Los latinoamericanos del siglo XX se muestran más desenfadados y seguros frente a lo europeo.",
+    "questions": [
+      {
+        "statement": "Se infiere que para el autor del texto, la literatura peruana",
+        "alternatives": [
+          "A) no ha recibido influencia europea importante.",
+          "B) se inicia con la llegada de los españoles",
+          "C) no ha logrado plasmar una visión clara de Europa.",
+          "D) tiene como referente más importante a París.",
+          "E) se dejó seducir por el París de los años 20."
+        ],
+        "correct": 1,
+        "rationale": "Porque la expresión “desde la madrugada misma” alude a los orígenes."
+      },
+      {
+        "statement": "Si Vallejo no hubiera percibido la decadencia europea, probablemente",
+        "alternatives": [
+          "A) hubiera mostrado gran interés por su cultura.",
+          "B) no hubiera podido escribir su obra poética.",
+          "C) hubiera sido un detractor del progreso.",
+          "D) su actitud hacia ella hubiera sido menos osada.",
+          "E) nunca se hubiera dirigido a este continente."
+        ],
+        "correct": 3,
+        "rationale": "Si no hubiera percibido la decadencia de Europa su actitud no hubiera sido crítica."
+      }
+    ]
+  }
+]

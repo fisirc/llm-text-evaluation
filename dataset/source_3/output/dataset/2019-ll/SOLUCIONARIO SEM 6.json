@@ -1,0 +1,392 @@
+[
+  {
+    "type": "reading_comprehension",
+    "statement": "La teoría de la mímica mülleriana lleva el nombre del naturalista alemán Fritz Müller, quien propuso el concepto por primera vez en 1878, algo menos de dos décadas después de que Charles Darwin publicara El origen de las especies en 1859. La teoría de Müller propuso que las especies se imitan entre sí para beneficio mutuo. Por ejemplo, predice que dos poblaciones de mariposas igualmente tóxicas o de mal sabor se parecerán entre sí, porque ambas se beneficiarán al 'compartir' la pérdida de algunos individuos mediante el aprendizaje por parte de los depredadores de lo mal que saben o de su toxicidad. Esto proporciona protección a través de la cooperación y el mutualismo. Dicha teoría discrepa con la teoría de la mímica batesiana, denominada así en homenaje de Henry Walter Bates, quien fue el primero que la esbozó. Esta segunda teoría, por su parte, propone que las especies inofensivas imitan a las dañinas para protegerse. Rodríguez, H. (14 de agosto de 2019). «Una IA valida el modelo matemático más antiguo de la biología evolutiva». National Geographic.",
+    "questions": [
+      {
+        "statement": "1. Se infiere de la mímica mülleriana",
+        "alternatives": [
+          "A) que las especies inteligentes tienden a ser más agresivas.",
+          "B) la refutación del modelo evolutivo creado por Darwin.",
+          "C) propuesto por la teoría de Henry W. Bates.",
+          "D) coloca la supervivencia de la especie sobre la existencia individual."
+        ],
+        "correct": 3,
+        "rationale": "La teoría de Müller contempla que la similitud entre «dos poblaciones de mariposas igualmente tóxicas o de mal sabor» surge del hecho de que ambas «se beneficiarán al 'compartir' la pérdida de algunos individuos»."
+      },
+      {
+        "statement": "2. Se deduce que una discrepancia fundamental entre las teorías de Müller y Bates",
+        "alternatives": [
+          "A) se relaciona con las capacidades que reconocen en especies diferentes.",
+          "B) parte del número de especies que se benefician de la práctica mimética.",
+          "C) radica en el modo en que procesaron los conceptos que formuló Darwin.",
+          "D) nace del hecho de que existen menos especies peligrosas en el planeta."
+        ],
+        "correct": 1,
+        "rationale": "En la teoría de Müller, ambas especies se benefician (la imitada y la imitadora), mientras que, en el planteamiento de Bates, únicamente una (la imitadora)."
+      }
+    ]
+  },
+  {
+    "type": "reading_comprehension",
+    "statement": "En las profundidades del mar, ciertas especies de tiburones transforman la luz azul del océano en un color verde brillante que solo otros tiburones pueden ver. Al respecto, un grupo de investigadores ha identificado al que es el responsable de esa tonalidad: una familia previamente desconocida de metabolitos (nombre que se le da a cualquier molécula utilizada o producida durante el metabolismo). Se sabe que este tipo de metabolitos es fluorescente y que, en otros vertebrados, desempeña un papel para el sistema nervioso central y el sistema inmunitario. No obstante, el mecanismo que opera en los tiburones es diferente a los de otros animales del océano superior, como las medusas y los corales, que comúnmente usan proteínas fluorescentes verdes para transformar la luz azul en otros colores. «Es un sistema completamente distinto: ellos pueden verse entre sin que otros animales puedan hacerlo. Tienen una visión completamente diferente del mundo en el que se encuentran debido a estas propiedades biofluorescentes que exhibe su piel, y que sus ojos pueden detectar», añade Crawford, autor principal de la investigación. Rodríguez, H. (08 de agosto de 2019). «¡Estos tiburones brillan en la oscuridad!». National Geographic.",
+    "questions": [
+      {
+        "statement": "1. Se desprende de la lectura que la existencia de tiburones que adoptan un color verde brillante supone que",
+        "alternatives": [
+          "A) poseen un parentesco evolutivo con otros animales del océano superior.",
+          "B) la biofluorescencia mejora las capacidades reproductivas de su especie.",
+          "C) ciertas especies usan proteínas fluorescentes verdes para variar su piel.",
+          "D) su sentido de la vista ha alcanzado un nivel de especificación admirable."
+        ],
+        "correct": 3,
+        "rationale": "La coloración brillosa que emiten los tiburones descritos en el texto solo puede ser captada por otros tiburones. Así, es posible deducir que su sentido de la vista posee un alto grado de especificidad."
+      },
+      {
+        "statement": "2. Se infiere que la investigación de Crawford y su equipo",
+        "alternatives": [
+          "A) ha sido el producto de, por lo menos, una década de observaciones minuciosas.",
+          "B) resuelve un enigma al brindar una explicación causal de una observación previa.",
+          "C) aporta al conocimiento de las diferencias entre los animales mamíferos marinos.",
+          "D) ha ofrecido una exposición sostenida de las propiedades de la visión del tiburón."
+        ],
+        "correct": 1,
+        "rationale": "El texto sugiere que la existencia de los tiburones que cambian de color era conocida desde antes. No obstante, recién se conoce la causa de este fenómeno gracias a la investigación de Crawford y compañía."
+      }
+    ]
+  },
+  {
+    "type": "reading_comprehension",
+    "statement": "La historia del gólem ha fascinado a escritores y cineastas de nuestra época, en parte, a causa de sus semejanzas con otros relatos que han cautivado la imaginación popular, como el del monstruo del doctor Frankenstein. Sin embargo, en el caso del gólem uno no se halla ante una pura creación novelesca. El motivo está muy arraigado en la tradición religiosa judía; de hecho, se inspira directamente en la Biblia. En efecto, en el Génesis se narra cómo Dios creó a Adán a partir de la tierra —el nombre Adan procede de la misma raíz hebrea que la palabra adamá, «tierra»— insuflándole el aliento divino que no solo le dio la vida, sino también un alma. A partir de este pasaje del Génesis, algunos estudiosos judíos especularon sobre la posibilidad de una réplica humana del proceso de creación divina, moldeando una figura de barro, el gólem, a la que se daba vida mediante una serie de rituales mágicos. Algunos rabinos interpretaban el gólem en un sentido místico y pensaban que no era más que una metáfora sobre el despertar espiritual del ser humano tras su contacto trascendente con Dios. Otros, en cambio, llegaron a pensar que una persona piadosa que poseyera conocimientos especiales podía crear un ser humano artificial a partir de materia inorgánica. Así, se discutió la posibilidad de que, durante sus primeras horas de vida, Adán hubiera sido un gólem, o que el profeta Jeremías hubiera creado uno por sus propios medios.\n\nLópez, J. (13de agosto de 2019). «El gólem: un hombre de barro para salvar a los judíos». National Geographic España.",
+    "questions": [
+      {
+        "statement": "1. De la segunda interpretación de que algunos rabinos formularon sobre el gólem se desprende que",
+        "alternatives": [
+          "A) impugna que la historia de la humanidad proceda en esta criatura.",
+          "B) se encuentra más próxima al relato del monstruo de Frankenstein.",
+          "C) reniega de la tradición religiosa para fundar un nuevo simbolismo.",
+          "D) sugiere que el profeta Jeremías experimentó a Dios en su interior."
+        ],
+        "correct": 1,
+        "rationale": "La segunda interpretación del gólem postula que «una persona piadosa que poseyera conocimientos especiales podía crear un ser humano artificial a partir de materia inorgánica». En otras palabras, partía de la creencia de que era posible que un ser humano creara otro ser vivo (como Dios)."
+      },
+      {
+        "statement": "2. Se infiere que la primera interpretación de los rabinos sobre el gólem se vincula con",
+        "alternatives": [
+          "A) la doctrina.",
+          "C) los dogmas.",
+          "B) la iluminación.",
+          "D) la metafísica."
+        ],
+        "correct": 2,
+        "rationale": "El término «iluminación», en su acepción religiosa, significa «esclarecimiento interior místico experimental o racional». Esta definición coincide con la concepción del gólem entendido como una metáfora del despertar espiritual."
+      }
+    ]
+  },
+  {
+    "type": "reading_comprehension",
+    "statement": "Facebook y Whatsapp son los aplicativos que centralizan la atención de los usuarios. Ambos sirven, principalmente, para comunicarse con otras personas («chatear») en tiempo real. Se infiere que ha accedido a una red social y digita el emoticono de ‘me encanta’. Si se considera que solo 11% de los usuarios de redes sociales son fans de algunas marcas y 23% estima que estas han influido en sus compras, se aprecia que todavía la publicidad en las redes sociales no es determinante para el consumo.",
+    "questions": [
+      {
+        "statement": "Según la infografía, respecto a la creación de cuentas en redes sociales, es válido inferir que",
+        "alternatives": [
+          "A) el desarrollo tecnológico dentro país es un fenómeno netamente de las ciudades.",
+          "B) Facebook es el aplicativo que mayor atención congrega entre los usuarios (98%).",
+          "C) la utilización de correo electrónico ha repuntado en los últimos años en la nación.",
+          "D) los usuarios privilegian las aplicaciones que propician la comunicación inmediata."
+        ],
+        "correct": 3,
+        "rationale": "Facebook y Whatsapp son los aplicativos que centralizan la atención de los usuarios. Ambos sirven, principalmente, para comunicarse con otras personas («chatear») en tiempo real."
+      },
+      {
+        "statement": "Respecto de la imagen central de la infografía, se puede deducir que el joven",
+        "alternatives": [
+          "A) se encuentra desarrollando una actividad tediosa e inane.",
+          "B) prefiere acceder a internet mediante el empleo de smartphone.",
+          "C) solo accede a internet con el fin de buscar relaciones amorosas.",
+          "D) está leyendo mensajes por los que siente una clara simpatía."
+        ],
+        "correct": 1,
+        "rationale": "Se infiere que ha accedido a una red social y digita el emoticono de ‘me encanta’."
+      },
+      {
+        "statement": "De los datos de la parte inferior de la infografía se colige que",
+        "alternatives": [
+          "A) la publicidad a través de las redes sociales aún carece de un impacto decisivo.",
+          "B) las marcas prefieren apostar por las redes sociales que menos interés concitan.",
+          "C) los influencers determinan la postura vital de las nuevas generaciones del país.",
+          "D) ser fan de una marca es una de las principales ambiciones de los adolescentes."
+        ],
+        "correct": 0,
+        "rationale": "Si se considera que solo 11% de los usuarios de redes sociales son fans de algunas marcas y 23% estima que estas han influido en sus compras, se aprecia que todavía la publicidad en las redes sociales no es determinante para el consumo."
+      }
+    ]
+  },
+  {
+    "type": "reading_comprehension",
+    "statement": "En Japón, desde mediados del siglo XVII una nueva clase urbana empieza a surgir en Edo, Osaka y Kioto. Son los mercaderes, los chonines u hombres del común, que, sino destruyen la supremacía feudal de los militares, sí modifican profundamente la atmósfera de las grandes ciudades. Esta clase se convierte en patrona de las artes y la vida social. Un nuevo estilo de vida, más libre y espontáneo, menos formal y aristocrático, llega a imponerse. Por oposición a la cultura tradicional japonesa —siempre de corte y cerrado círculo, aristocrático o religioso— la nueva sociedad es abierta. Se vive en la calle y se multiplican los teatros, los restaurantes, las casas de placer, los baños públicos atendidos por muchachas, los espectáculos de luchadores. Una burguesía próspera y refinada protege y fomenta los placeres del cuerpo y del espíritu. El barrio alegre de Edo no solo es un lugar de libertinaje elegante en donde reinan las cortesanas y los actores, sino que, a diferencia de lo que pasa en nuestras abyectas ciudades modernas, también es un centro de creación artística. Genroku —tal es el nombre del período— se distingue por una vitalidad y un desenfado ausentes en el arte de épocas anteriores.\n\nI\n\nEste mundo brillante y popular, compuesto por nuevos ricos y mujeres hermosas, por grandes actores y juglares, se llama Ukiyo, es decir, el Mundo que Flota y que pasa como las nubes de un día de verano. El grabado en madera —Ukiyoe: imágenes del mundo fugitivo— se inicia en esta época. Arte gemelo del Ukiyoe, nace la novela picresca y pornográfica: Ukiyo-Soshi. Las obras licenciosas —llamadas con elíptico ingenio: Libros de Primavera— se vuelven tan populares como la literatura libertina de fines del siglo XVIII europeo. El teatro Kabuki, que combina el drama con el ballet, alcanza su mediodía y el gran poeta Chikamatzu escribe para el teatro de muñecos obras que maravaron a sus contemporáneos y que todavía hieren la imaginación de hombres como Yeats y Claudel. La poesía japonesa, gracias sobre todo a Matsúo Basho, alcanza una libertad y una frescura ignoradas hasta entonces.\n\nPaz, O. (1970). «La poesía de Matsúo Basho». Basho, M. Sendas de Oku. Barcelona: Barral, 35-36.",
+    "questions": [
+      {
+        "statement": "Fundamentalmente, el texto aborda como tema",
+        "alternatives": [
+          "A) las transformaciones sociales sucedidas a mediados del siglo XVII japonés.",
+          "B) los cambios provocados por el declive del orden feudal en el antiguo Japón.",
+          "C) el esplendor alcanzado por la cultura japonesa durante el periodo Genroku.",
+          "D) los principales méritos del refinamiento social de la vida mundana en Japón."
+        ],
+        "correct": 2,
+        "rationale": "El periodo Genroku, según el texto, se caracterizó por su esplendor cultural, producido por la aparición de una nueva clase social, los comerciantes, que se convirtió en «patrona de las artes y la vida social»."
+      },
+      {
+        "statement": "El término HERIR connota",
+        "alternatives": [
+          "A) influencia.",
+          "B) antigüedad.",
+          "C) indolencia.",
+          "D) amplitud."
+        ],
+        "correct": 0,
+        "rationale": "El término «herir» se emplea para aludir el alto nivel artístico que exhibían las obras de Chikamatzu, que han logrado trascender en el tiempo."
+      },
+      {
+        "statement": "Respecto a la clase social de los mercaderes es inconsistente sostener que",
+        "alternatives": [
+          "A) su participación provocó la emergencia de un nuevo tipo de sociedad (abiert",
+          "B) se atribuyó un papel crucial en el desarrollo social, artístico y cultural de Japón",
+          "C) puede ser descrita como una burguesía próspera y refinada que cuida del arte",
+          "D) usurpó el poder que detentaban los sectores militares con el paso de los años."
+        ],
+        "correct": 3,
+        "rationale": "En el texto, se afirma que la clase social de los chonines no destruyó «la supremacía feudal de los militares», sino, principalmente, transformó la vida cultural y social japonesa desde mediados del siglo XVII."
+      },
+      {
+        "statement": "De la manera como se conocía la vida mundana, Ukiyo, en el periodo descrito en el texto, se puede deducir que",
+        "alternatives": [
+          "A) indica una clara orientación hacia el análisis social entre los artistas japoneses.",
+          "B) expresa un nítido desprecio por las costumbres de la vida castrense en Japón.",
+          "C) se vincula con la inobjetable supremacía de los militares en la época Genroku.",
+          "D) revela una conciencia capaz de reconocer su carácter marcadamente efímero."
+        ],
+        "correct": 3,
+        "rationale": "Ukiyo se entiende, según el texto, como «el Mundo que Flota y que pasa como las nubes de un día de verano». En otras palabras, existe una comprensión del carácter efímero de una vida dedicada al placer."
+      },
+      {
+        "statement": "Si la influencia de los chonines no hubiera trascendido la esfera de lo netamente económico,",
+        "alternatives": [
+          "A) conjugar la vida libertina y la creación de obras de arte habría sido plausible.",
+          "B) la cultura tradicional cortesana habría extendido su predominant en el tiempo.",
+          "C) el grabado en madera habría logrado un grado de excelencia incuestionable.",
+          "D) habría prevalecido un nuevo estilo de vida más libre y espontáneo en Japón."
+        ],
+        "correct": 1,
+        "rationale": "Bajo el influjo de la clase comercial, surge una nueva cultura urbana más libre que, según el texto, se opone a la cultura tradicional japonesa, «siempre de corte»."
+      }
+    ]
+  },
+  {
+    "type": "reading_comprehension",
+    "statement": "SECCIÓN 6 B\n\nLos defensores de lo políticamente correcto han abrazado una estrategia de lucha que\npersigue la reforma moral del mundo. Pareciera que, en principio, su objetivo apunta a\ndesaparecer el comportamiento irreverente del espacio público. Lo que se niegan a\nreconocer es que, sin irreverencia, no solo no hay pensamiento crítico posible, sino que\ntampoco puede haber relaciones humanas auténticas. Experimentar al otro en su\nautenticidad implica el riesgo de resultar ofendido por él. La irreverencia es el costo de\nvivir en una sociedad libre. Por otro lado, la excesiva preocupación por las sensibilidades\ndel otro tiene un lugar central en la manera en que la acción política es formulada. El\nactivismo políticamente correcto pretende corregir los problemas del mundo haciendo\nciertas concesiones lingüísticas a los grupos sociales oprimidos: está mal decir negros y\nno gente de color; está mal decir discapacitados y no gente con capacidades diferentes;\nestá mal decir viejos y no adulto mayor. Están convencidos de que tales grupos están\nprofundamente enfrentados con los modos en que la sociedad los define, y que se les\nhace un favor enorme al tratarlos con una delicadeza lingüística que en realidad no afecta\nlas causas de su opresión.\n\nGamarra, J. (2 de julio de 2019). «El embrujo de lo políticamente correcto». Aldea Política. Recuperado de\n\nhttps://revistaaldeapolitica.home.blog/2019/07/02/el-embrujo-de-lo-politicamente-correcto/.\n\nI\n\nLa crítica a la corrección política puede hacernos perder la perspectiva. Por ejemplo, uno\npuede acabar pensando, como un adolescente o un anciano, que la violación del tabú\ntiene un valor en sí. Es deprimente ser presa de la convención. Convertirse en un\nprisionero de la transgresión, en cambio, es levemente trágico. Si bien los excesos de la\ncorrección política pueden ser ridículos, la incorrección política puede ser, además de\nridícula, peligrosa. Así, cuando algunos políticos u opinadores discurren en contra de lo\npolíticamente correcto para sostener que dicen las cosas claras, «como son», no se tarda\nen apreciar lo que eso significa. Tras la «liberación» de las cadenas de lo políticamente\nla correcto enseguida aparecen\ncaracterización homófoba, el tópico machista. Esa apertura significa que se puede hablar\nmal de los demás porque, en el fondo, son un poco menos que nosotros. Por ende, la\ncorrección política señala lo que una sociedad considera aceptable en una conversación\ncivilizada. La premisa de esta charla es el respeto a los individuos y a las minorías, la\nconvicción de la dignidad personal. Naturalmente, esa idea puede ser una ficción, pero es\nuna por la que merece la pena luchar.\n\nla expresión desinhibida del prejuicio\n\nracista,\n\nGascón, D. (12 de mayo de 2016). «En defensa de la corrección política». Letras Libres. Recuperado de\n\nhttps://www.letraslibres.com/mexico-espana/en-defensa-la-correccion-politica.\n\n",
+    "questions": [
+      {
+        "statement": "1. En esencia, ambos textos defienden posiciones antagónicas sobre",
+        "alternatives": [
+          "A) la actualidad del lenguaje utilizado para provocar cambios políticos.",
+          "B) la pertinencia de considerar el empleo de lo políticamente correcto.",
+          "C) el valor del lenguaje políticamente correcto para la sociedad actual.",
+          "D) la opción de evaluar el lenguaje usado desde la corrección política."
+        ],
+        "correct": 2,
+        "rationale": "El texto A arguye que la corrección política no provoca un impacto real ni mejora la\nsituación de los sujetos que nombra «delicadamente». Por otro lado, el texto B\ndefiende que su uso es, implícitamente, una defensa de la dignidad humana. Puede\nafirmarse que ambos textos discurren sobre la valía de esta modalidad lingüística."
+      },
+      {
+        "statement": "2. En el texto A, el término DELICADEZA connota",
+        "alternatives": [
+          "A) correspondencia.",
+          "C) intrascendencia.",
+          "B) indolencia.",
+          "D) creatividad."
+        ],
+        "correct": 1,
+        "rationale": "Se indica en el texto A que los defensores del lenguaje políticamente correcto creen\nque siendo «delicados» lingüísticamente para referirse a las personas mejoran su\nsituación cuando, en realidad, no modifican las reales «causas de su opresión»."
+      },
+      {
+        "statement": "3. El argumento central del texto A desestima la corrección política, ya que",
+        "alternatives": [
+          "A) únicamente explota el potencial lingüístico de las reivindicaciones culturales.",
+          "B) carece de una eficacia real para mejorar la calidad de vida de los oprimidos.",
+          "C) parte de una evaluación equívoca de la importancia social de la irreverencia.",
+          "D) ha desaprovechado la revaloración de los sectores marginales de la nación."
+        ],
+        "correct": 1,
+        "rationale": "El texto A concibe la corrección política como una actividad intrascendente que solo\nse queda en la superficie del problema cediendo a la «preocupación por la sensibilidad del otro» olas «delicadezas» del lenguaje."
+      },
+      {
+        "statement": "4. De la argumentación propuesta en el texto B, se infiere que la corrección política",
+        "alternatives": [
+          "A) puede entrañar prejuicios contra algunos individuos o minorías definidas.",
+          "B) apuesta por convertir la transgresión de la norma como una pauta social.",
+          "C) favorece la sinceridad del hablante sin importar qué creencias propugne.",
+          "D) resulta crucial para obtener consensos con la mayor participación social."
+        ],
+        "correct": 3,
+        "rationale": "El diálogo respetuoso es el primer paso para alcanzar una comunicación sin\nbarreras entre la sociedad y las minorías que la conforman. Así, el ejercicio del\nmismo puede orientar los pareceres de distintos sectores hacia una opinión común."
+      },
+      {
+        "statement": "5. Si se demostrara que toda reivindicación social comienza nombrando a los sujetos involucrados de manera respetuosa,",
+        "alternatives": [
+          "A) el activismo políticamente correcto podría alcanzar un mayor protagonismo.",
+          "B) luchar contra el Estado de manera frontal supondría una práctica cotidiana.",
+          "C) ya no se brindarían concesiones lingüísticas a los sectores marginalizados.",
+          "D) se dejaría de respaldar proyectos políticos sin aprobación de la ciudadanía."
+        ],
+        "correct": 0,
+        "rationale": "El autor del texto A sostiene que el activismo políticamente correcto busca mejorar la\nsituación de los sectores oprimidos «haciendo ciertas concesiones lingüísticas»,\naunque no remueve ni liquida sus causas reales."
+      }
+    ]
+  },
+  {
+    "type": "reading_comprehension",
+    "statement": "El movimiento antivacunas cobró impulso hace poco más de una década, a raíz de la publicación de un estudio (con doce niños) que mostraba una asociación entre la vacuna del sarampión y el autismo, actualmente desacreditado por distorsión de datos. Sin embargo, los antivacunas persisten con una serie de argumentos que carecen por completo de evidencia científica.\n\nSostienen, por ejemplo, que las vacunas son responsables del número creciente de alergias, asma y enfermedades autoinmunes. Ningún estudio a gran escala ha mostrado que las vacunas aumentan el riesgo de enfermedades autoinmunes o alergias. Sí se ha\n\nI\n\nllamada\nreportado una asociación entre casos de una enfermedad autoinmune trombocitopenia idiopática y la vacunación contra MMR. Sin embargo, varios estudios coinciden en que la frecuencia de dicha enfermedad en niños vacunados (1 en 30.000) es mucho menor que en niños que padecen la rubeola (1 en 3.000) o el sarampión (uno en 6.000).\n\nlas últimas décadas, sobre\n\nEs verdad que la prevalencia de asma, alergias y enfermedades autoinmunes ha aumentado considerablemente en todo en países desarrollados. Pero hay evidencia de que este fenómeno se debe al ambiente «higiénico» en el que ahora vivimos, donde estamos expuestos a menos bacterias y parásitos, particularmente durante la infancia temprana, y a que estamos modificando nuestra flora intestinal —cuya diversidad es vital para mantener un sistema inmune funcional y «bien portado»— por un uso excesivo de antibióticos y una dieta rica en grasas y pobre en fibra. Los antivacunas también afirman que la protección naturales mejor que la inducida por la vacuna. Es cierto que, para algunos patógenos, la inmunidad natural puede ser de mayor duración que la generada por la vacuna. Sin embargo, el riesgo por adquirir una infección de manera «natural» no tiene comparación con el riesgo asociado a cualquier vacuna recomendada. Por ejemplo, el sarampión causa la muerte de dos de cada 1000 individuos infectados en países desarrollados (en países de bajos recursos, esta cifra puede ser hasta veinte veces mayor), mientras que la vacuna combinada de sarampión, paperas y rubeola (MMR) causa una reacción alérgica grave en uno de cada millón de individuos vacunados. Los beneficios superan ampliamente los riesgos.\n\nSarukhan, A. (2016). «Cómo desmontar científicamente los 4 principales argumentos antivacunas». IS Global. Instituto de salud global. Barcelona.",
+    "questions": [
+      {
+        "statement": "1. El objetivo principal que persigue la autora del texto es",
+        "alternatives": [
+          "A) evaluar rigurosamente la solidez de la argumentación de los antivacunas.",
+          "B) desbaratar la idea de que la protección naturales mejor a la de la vacuna.",
+          "C) evidenciar la carencia de fundamento científico de las ideas antivacunas.",
+          "D) indicar que no existe ningún nexo entre las vacunas y los tipos de alergia."
+        ],
+        "correct": 2,
+        "rationale": "Al final del primer párrafo, la autora señala que «los antivacunas persisten con una serie de argumentos que carecen por completo de evidencia científica». A continuación, se encarga de mostrar la falta de asidero científico de dichas ideas."
+      },
+      {
+        "statement": "2. El término ASOCIACIÓN connota",
+        "alternatives": [
+          "A) vinculación.",
+          "C) génesis.",
+          "B) variación.",
+          "D) distancia."
+        ],
+        "correct": 2,
+        "rationale": "El estudio que propició la aparición del movimiento antivacunas relacionó la vacuna del sarampión y el autismo. Esto quiere decir que estableció que la aplicación de dicha vacuna podía provocar daño psicológico. Así, la palabra «asociación» sugiere «génesis»."
+      },
+      {
+        "statement": "3. Es incorrecto sostener que el aumento de la prevalencia del asma, de las alergias y de las enfermedades autoinmunes es producto de la aplicación de vacunas, porque",
+        "alternatives": [
+          "A) la inmunidad natural puede ser de una duración mayor para ciertas bacterias.",
+          "B) reducir la flora intestinal repercute positivamente en el sistema inmunológico.",
+          "C) la posición de la autora es contraria a la utilización de vacunas en la infancia.",
+          "D) existen factores de mayor relevancia vinculados a la forma de vida moderna."
+        ],
+        "correct": 3,
+        "rationale": "Se indica que la limpieza de los entornos, el uso exagerado de los antibióticos y la alimentación de las personas son los factores que explican mejor el incremento de males como el asma, las alergias y las enfermedades autoinmunes."
+      },
+      {
+        "statement": "4. Respecto de la alusión al sarampión en la última parte del texto, es válido inferir que",
+        "alternatives": [
+          "A) puede cobrar la vida del 4% de infectados aproximadamente en países pobres.",
+          "B) la salud personal determina siempre la situación económica de la propia nación.",
+          "C) el nivel económico es un rasgo írrito para comprender los problemas sanitarios.",
+          "D) el riesgo de contagiarse de este mal es mayor en países de economía precaria."
+        ],
+        "correct": 0,
+        "rationale": "El sarampión le cuesta la vida a dos de cada 1000 infectados en países desarrollados. Asimismo, «en países de bajos recursos, esta cifra puede ser hasta veinte veces mayor». Es decir, mueren alrededor de 42 personas, lo que equivale, aproximadamente, a un 4% de los contagiados por la enfermedad."
+      },
+      {
+        "statement": "5. Si se hubiera demostrado que el estudio que favoreció la aparición del movimiento antivacunas no tergiversó sus datos,",
+        "alternatives": [
+          "A) las ideas de esta agrupación habrían logrado divulgarse con mayor celeridad.",
+          "B) la prevalencia de las enfermedades autoinmunes aumentaría en corto tiempo.",
+          "C) se refrendaría que las vacunas son un factor clave en la aparición de alergias.",
+          "D) aún podría ser objetado por el carácter exiguo de la población con que contó."
+        ],
+        "correct": 3,
+        "rationale": "El estudio en cuestión extrajo sus conclusiones de una muestra de solo doce niños. Aunque el texto solo lo sugiere, esa cifra es otro signo de la precariedad científica de esa investigación."
+      }
+    ]
+  },
+  {
+    "type": "reading_comprehension",
+    "statement": "Las partículas fundamentales pueden ser de dos tipos: fermiones y bosones. Los\nfermiones son los que constituyen la materia, es decir, los electrones y sus primos\npesados, muones y taus, y los quarks. Eso quiere decir que los fermiones son los\nconstituyentes básicos de, por ejemplo, tú que estás leyendo esto, las estrellas, la silla en\nla que te sientas, este periódico, las nubes, la cerveza o esta mosca tan pesada. Por otro\ndalo, los bosones no son constituyentes de nada, pero son los que hacen que el resto de\n\nI\n\nlas partículas interaccionen, son los que hacen que «pasen cosas». Por ejemplo, para que\nexistan interacciones electromagnéticas, como los fenómenos eléctricos, se necesita una\nde estas partículas, el fotón.\n\nEl bosón de Higgs, conocido popularmente como «la partícula de Dios», es tan\nimportante dentro del modelo estándar porque él es el que ayuda a que todas las\npartículas tengan masa. La masa es aquella característica de la materia que medimos con\nlos kilos. Las partículas elementales son tan diminutas que su masa es muy cercana a\ncero, aunque nunca alcanzan ese límite. Sin el Higgs la teoría no funcionaba. En el\nmodelo estándar se había predicho, y uno de los que hizo fue un físico llamado Peter\nHiggs en 1964, un mecanismo mediante el que las partículas elementales habrían\nobtenido su masa. A eso se le llamó «mecanismo de Higgs» y a la partícula que lo\nprovocaría, bosón de Higgs. La explicación era muy elegante, pero con el paso de los\naños apareció un problema: el bosón de Higgs no aparecía. Se realizaban experimentos\npara buscarlo, pero la partícula seguía sin detectarse. El desánimo había empezado a\ncundir cuando ocurrió: el 4 de julio de 2012, una institución europea que investiga la\nfísica de partículas, el CERN, anunciaba, por fin, que lo había conseguido. En sus instalaciones\ndel LHC (Gran Colisionador de Hadrones por sus siglas en inglés) se había observado\nuna nueva partícula fundamental: el bosón de Higgs. Así que, por el momento, el modelo\nencaja.\n\nTórtola, M. (24 de julio de 2018). «¿Qué es la ‘partícula de Dios’?». El País. Recuperado de\n\nhttps://elpais.com/elpais/2018/07/20/ciencia/1532077822_153937.html.",
+    "questions": [
+      {
+        "statement": "Fundamentalmente, el texto aborda el tema de",
+        "alternatives": [
+          "A) la fusión entre el modelo estándar y ‘la partícula de Dios’ (el bosón de Higgs).",
+          "B) las partículas elementales como explicación del origen del universo auténtico.",
+          "C) la diferencia esencial entre los fermiones, los bosones y la ‘partícula de Dios’.",
+          "D) la importancia del descubrimiento del bosón de Higgs para la física moderna."
+        ],
+        "correct": 3,
+        "rationale": "Se sostiene en el texto que la ‘partícula de Dios’ es fundamental para mantener la coherencia del modelo estándar la física actual. Por ello, su descubrimiento es crucial para esta disciplina científica."
+      },
+      {
+        "statement": "El término BÁSICO implica que los fermiones son",
+        "alternatives": [
+          "A) imperceptibles.",
+          "C) indispensables.",
+          "B) susceptibles.",
+          "D) potenciales."
+        ],
+        "correct": 2,
+        "rationale": "Al indicar que los fermiones son los constituyentes «básicos» de todo lo existente, el término en cuestión implica que estas partículas resultan «indispensables» para la conformación del universo."
+      },
+      {
+        "statement": "De la afirmación final del texto, se colige que la ciencia se caracteriza por ser",
+        "alternatives": [
+          "A) dinámica.",
+          "B) objetiva.",
+          "C) verificable.",
+          "D) especulativa."
+        ],
+        "correct": 0,
+        "rationale": "Se afirma al final del texto que, «por el momento, el modelo encaja». Con este enunciado se alude al carácter dinámico de la ciencia, que se encuentra siempre buscando nuevas explicaciones y revaluando con rigor sus resultados."
+      },
+      {
+        "statement": "Respecto del bosón de Higgs, según la infografía, no es congruente afirmar que",
+        "alternatives": [
+          "A) en la década de 1950 todavía carecía de una formulación teórica válida.",
+          "B) posee la capacidad de repotenciar la velocidad de las demás partículas.",
+          "C) el ejemplo de la fiesta expone con nitidez su acción sobre las partículas.",
+          "D) afecta la velocidad de las partículas al provocar la aparición de la masa."
+        ],
+        "correct": 1,
+        "rationale": "En el proceso de vincular varias partículas para coadyuvar la génesis de la masa, se reduce la velocidad de las mismas. En consecuencia, es falso que la repotencie."
+      },
+      {
+        "statement": "A partir de la información que brindan el texto y la infografía, se desprende que la expresión ‘partícula de Dios’ para referirse al bosón de Higgs se debe a que",
+        "alternatives": [
+          "A) contribuiría a la producción de una nueva mecánica cuántica de enorme influjo.",
+          "B) permitiría pensar la existencia de mundos paralelos y, así, de un multiuniverso.",
+          "C) respaldaría una nueva teoría física que, por ello, restituirá el rol de la gravedad.",
+          "D) explicaría la «creación» de la materia y, por ende, la forma del universo actual."
+        ],
+        "correct": 3,
+        "rationale": "Sin el bosón de Higgs no habría materia y, de esa manera, el universo no podría tener la forma que posee actualmente. Por ello, la alusión a ‘Dios’ se puede relacionar con la capacidad de esta partícula para «crear» materia."
+      },
+      {
+        "statement": "Si, en el origen del cosmos, solo hubieran surgido fermiones a raíz de la elevada temperatura de ese primer instante,",
+        "alternatives": [
+          "A) el calor se habría expandido por el universo sin constituir densidad ni masa.",
+          "B) surgirían partículas capaces de generar interacción entre distintas materias.",
+          "C) la equivalencia entre masa y energía sería inviable por la energía molecular.",
+          "D) las partículas se moverían en el espacio sin la posibilidad de adquirir masa."
+        ],
+        "correct": 3,
+        "rationale": "El bosón de Higgs «ayuda a que todas las partículas tengan masa». Por ende, sino existieran los bosones, incluido el de Higgs, no cabría la posibilidad de que las partículas adquieran masa."
+      }
+    ]
+  },
+  {
+    "type": "sentence_elimination",
+    "statement": "6. Si, en el origen del cosmos, solo hubieran surgido fermiones a raíz de la elevada temperatura de ese primer instante,",
+    "alternatives": [
+      "A) el calor se habría expandido por el universo sin constituir densidad ni masa.",
+      "B) surgirían partículas capaces de generar interacción entre distintas materias.",
+      "C) la equivalencia entre masa y energía sería inviable por la energía molecular.",
+      "D) las partículas se moverían en el espacio sin la posibilidad de adquirir masa."
+    ],
+    "correct": 3,
+    "rationale": "El bosón de Higgs «ayuda a que todas las partículas tengan masa». Por ende, sino existieran los bosones, incluido el de Higgs, no cabría la posibilidad de que las partículas adquieran masa."
+  }
+]

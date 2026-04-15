@@ -1,0 +1,510 @@
+[
+  {
+    "type": "reading_comprehension",
+    "statement": "ACTIVIDADES\n\nLea de forma detenida los siguientes textos y responda cada una de las preguntas\nde extrapolación propuestas. Además, al final de la interrogante, debe indicar a qué tipo\nde extrapolación pertenece.\n\nEl Retrato de Lisa Gherardini, esposa de Francesco\ndel Giocondo cuelga —custodiado bajo fuertes medidas\nde seguridad— en la sala 6 de la primera planta del ala\nDenon del parisino Museo del Louvre. Más conocido\ncomo Mona Lisa o La Gioconda, el óleo sobre tabla, de\n77 por 53 centímetros de mano de Leonardo da Vinci,\ndurante los siglos XVII y XVIII, vio cómo su fama fue\nlanguideciendo, al punto de que, en el XIX, no era\nprobablemente el cuadro más popular del Museo del\nLouvre. No colgaba en un sitio especial como en la\nactualidad, sino junto a otras obras de escuela europea.\nLos medios de reproducción mecánica no conseguían\ncaptar la pintura en todo su esplendor.\n\nAun así, era una obra conocida en el círculo de\nartistas e intelectuales, y muchos pintores seguían\nhomenajeándola en sus composiciones, como Mujer con\nuna perla de Corot (1868). El terreno estaba abonado\npara la «Lisamanía» que se desató a mediados de siglo\nentre los literatos del Romanticismo, que contribuyeron a\n\nLa Gioconda de Leonardo Da Vinci (1503-\n1519)\n\n«la\n\nbella\n\ncrear la imagen de la protagonista de la Mona Lisa\ncomo una femme fatale, de atracción casi mágica,\nsonríe\nimpasible,\nmisteriosamente», según Téophile Gautier. Hasta el\npunto de que, cuando la obra fue robada del Louvre en\n1911, los investigadores creyeron que el ladrón era un\nenajenado que\nla\nrepresentada.\n\nse había enamorado de\n\nesfinge\n\nCon todo, lo que disparó la fama de La Gioconda\nfue justamente ese robo, resuelto con el retorno triunfal\nde la obra al Louvre en 1914. La Mona Lisa se convirtió\nentonces en un auténtico\nreferente popular,\nreproducido hasta la saciedad, cuya fama aún perdura,\nincluso entre los artistas. No sólo los maestros antiguos\nhan imitado y homenajeado el cuadro, también los\ncontemporáneos —Léger, Duchamp, Warhol, Dalí,\nBotero o Banksy— han querido confrontarse con esta\nimagen clave de la cultura occidental.\n\nPascual, J. (19 de junio de 2018). «Mona Lisa, los enigmas de la\nobra\nhttps://www.nationalgeographic.com.es/historia/grandes-reportajes/mona-lisa-enigmas-obra-maestra-\nleonardo-da-vinci_12799/1\n\nGeographic.\n\nLeonardo\n\nNational\n\nmaestra\n\nVinci».\n\nda\n\nRecuperado\n\nMujer con una perla de Camille Corot (1868)\n\n1. Si La Gioconda hubiera sido una obra desconocida entre los intelectuales y artistas\nde finales del siglo XVIII y comienzos del siglo XIX,\n\nA) habría seguido fascinando a los pintores durante el periodo del Romanticismo.\nB) después de haber sido robada, la obra no habría podido ser recuperada jamás.\nC) su revaloración por parte de los escritores románticos habría sido implausible.\nD) Corot habría preferido rendir homenaje a pintores posteriores al Renacimiento.\nE) sería un efecto de la irregular reproducción de la técnica pictórica de Leonardo.\n\nTipo de extrapolación: Cognitiva\n\nSolución:\n\nEl hecho de que la Mona Lisa haya sido conocida entre los artistas de ese periodo, finales del XVIII e inicios del XIX, fue el sedimento para su revaloración durante el Romanticismo. Su desconocimiento, por otra parte, habría vuelto implausible dicha reivindicación.\n\nRpta.: C\n\n2. Si el latrocinio de la Mona Lisa se hubiera producido a comienzos del siglo XXI,\n\nA) su rehabilitación en el Louvre habría demandado un tiempo sumamente menor.\nB) los maestros de la pintura de hoy habrían desistido de homenajear a Leonardo.\nC) rescatar esta obra maestra sería una tarea impensable para los investigadores.\nD) la teoría del robo producto de la fascinación amorosa por la obra sería inviable.\nE) el movimiento romántico requeriría una reconceptualización de sus postulados.\n\nTipo de extrapolación: Referencial\n\nSolución:\n\nLa hipótesis de los investigadores en 1911 se basaba en la hegemonía de las ideas\nrománticas en el medio cultural. En la actualidad, tras su amplio reconocimiento, la\nmotivación principal de un ladrón tendría que ser de índole pecuniaria.\n\nRpta.: D",
+    "questions": [
+      {
+        "statement": "1. Si La Gioconda hubiera sido una obra desconocida entre los intelectuales y artistas de finales del siglo XVIII y comienzos del siglo XIX,",
+        "alternatives": [
+          "A) habría seguido fascinando a los pintores durante el periodo del Romanticismo.",
+          "B) después de haber sido robada, la obra no habría podido ser recuperada jamás.",
+          "C) su revaloración por parte de los escritores románticos habría sido implausible.",
+          "D) Corot habría preferido rendir homenaje a pintores posteriores al Renacimiento.",
+          "E) sería un efecto de la irregular reproducción de la técnica pictórica de Leonardo."
+        ],
+        "correct": 2,
+        "rationale": "El hecho de que la Mona Lisa haya sido conocida entre los artistas de ese periodo, finales del XVIII e inicios del XIX, fue el sedimento para su revaloración durante el Romanticismo. Su desconocimiento, por otra parte, habría vuelto implausible dicha reivindicación."
+      },
+      {
+        "statement": "2. Si el latrocinio de la Mona Lisa se hubiera producido a comienzos del siglo XXI,",
+        "alternatives": [
+          "A) su rehabilitación en el Louvre habría demandado un tiempo sumamente menor.",
+          "B) los maestros de la pintura de hoy habrían desistido de homenajear a Leonardo.",
+          "C) rescatar esta obra maestra sería una tarea impensable para los investigadores.",
+          "D) la teoría del robo producto de la fascinación amorosa por la obra sería inviable.",
+          "E) el movimiento romántico requeriría una reconceptualización de sus postulados."
+        ],
+        "correct": 3,
+        "rationale": "La hipótesis de los investigadores en 1911 se basaba en la hegemonía de las ideas románticas en el medio cultural. En la actualidad, tras su amplio reconocimiento, la motivación principal de un ladrón tendría que ser de índole pecuniaria."
+      }
+    ]
+  },
+  {
+    "type": "reading_comprehension",
+    "statement": "La hipótesis de los investigadores en 1911 se basaba en la hegemonía de las ideas románticas en el medio cultural. En la actualidad, tras su amplio reconocimiento, la motivación principal de un ladrón tendría que ser de índole pecuniaria.",
+    "questions": [
+      {
+        "statement": "Si el latrocinio de la Mona Lisa se hubiera producido a comienzos del siglo XXI,",
+        "alternatives": [
+          "A) su rehabilitación en el Louvre habría demandado un tiempo sumamente menor.",
+          "B) los maestros de la pintura de hoy habrían desistido de homenajear a Leonardo.",
+          "C) rescatar esta obra maestra sería una tarea impensable para los investigadores.",
+          "D) la teoría del robo producto de la fascinación amorosa por la obra sería inviable.",
+          "E) el movimiento romántico requeriría una reconceptualización de sus postulados."
+        ],
+        "correct": 3,
+        "rationale": "La hipótesis de los investigadores en 1911 se basaba en la hegemonía de las ideas románticas en el medio cultural. En la actualidad, tras su amplio reconocimiento, la motivación principal de un ladrón tendría que ser de índole pecuniaria."
+      },
+      {
+        "statement": "Si Corot hubiera sido un pintor forjado durante el periodo más intenso del Romanticismo,",
+        "alternatives": [
+          "A) la mayor parte de su creación pictórica se habría concentrado en homenajear a artistas prestigiosos del Renacimiento.",
+          "B) habría decidido recuperar los rasgos renacentistas en su homenaje pictórico de la obra maestra de Leonardo Da Vinci.",
+          "C) la «Lisamanía» desatada a mediados de siglo XIX entre los artistas románticos habría destacado los ideales clásicos.",
+          "D) una obra como Mujer con una perla habría tenido que incidir en el aspecto seductor de la pintura homenajeada.",
+          "E) se habría propuesto reivindicar a Leonardo a través del empleo de la técnica del sfumato en sus principales pinturas."
+        ],
+        "correct": 3,
+        "rationale": "Corot forma parte de los artistas previos a la «Lisamanía» romántica, es decir, se ubica antes de que se instaure el paradigma de la Mona Lisa como femme fatal. Siendo parte del Romanticismo, su homenaje no habría podido soslayar la fascinación que produce en el espectador la obra de Leonardo."
+      },
+      {
+        "statement": "Si el Romanticismo solo hubiera reivindicado la escultura de Leonardo Da Vinci,",
+        "alternatives": [
+          "A) su pintura habría logrado un alto valor en el mercado artístico contemporáneo.",
+          "B) en la actualidad, ninguna persona conocería la Mona Lisa creada por el pintor.",
+          "C) el Renacimiento habría sido justipreciado solamente en su modalidad artística.",
+          "D) las medidas de seguridad parar resguardar La Gioconda serían menores hoy.",
+          "E) la faceta científica de este intelectual habría sido valorada de modo apropiado."
+        ],
+        "correct": 3,
+        "rationale": "El texto inicia destacando la ubicación que le corresponde a La Gioconda en el Louvre. Asimismo, indica que en el siglo XIX era un cuadro más en la obra de Da Vinci. Sin la reivindicación romántica, esta pintura no habría adquirido el prestigio que tiene hoy."
+      }
+    ]
+  },
+  {
+    "type": "reading_comprehension",
+    "statement": "¿Cómo responde una planta a la poda de alguno de sus tallos o cuando un insecto depreda alguna de sus hojas? Un equipo de científicos liderado por el botánico Simon Gilroy, de la Universidad de Wisconsin-Madison, se propuso desvelar este misterio estudiando las pistas químicas que dejaban estos organismos cuando activaban sus mecanismos de defensa.\n\nLa clave, según el experto, es «pensar como una planta». Y es que, a pesar de las obvias diferencias que existen entre plantas y animales, en determinadas circunstancias ambos reinos se comportan de una manera similar. Por ejemplo, unos y otros son eucariotas, esto es, pluricelulares. Para sobrevivir, ambos actúan de una forma análoga: cuando se enfrentan a alguna amenaza, envían mensajes a través de su organismo. Uno de esos canales de comunicación son los niveles de iones de calcio, portadores de señales eléctricas. Para realizar el experimento, publicado recientemente en la revista Nature, los investigadores tallaron algunas hojas y dejaron que las orugas se alimentaran de un ejemplar de Arabidopsis thaliana, una especie crucífera nativa de Europa, Asia y el norte de África. Después, añadieron glutamato, un importante neurotransmisor que, en el caso de los animales, ayuda a las neuronas a comunicarse. Para seguir la senda de los iones de calcio, usaron una proteína verde fluorescente (GFP por sus siglas en inglés) que iluminaba las distintas partes del organismo que se iban activando con la respuesta química.\n\nPara su sorpresa, la planta parecía ser capaz de ‘sentir’ el daño, pues, cada vez que era atacada, respondía produciendo ácido jasmónico, una hormona vegetal relacionada con el estrés biótico que, al parecer, comunica a estos organismos que debe activar sus defensas. Los científicos pudieron visualizar la respuesta de la planta gracias al brillo de la proteína fluorescente que seguía el rastro de la respuesta de la planta.\n\nNational Geographic. (2011). «Así reaccionan las plantas cuando se sienten atacadas». Recuperado de\n\nhttps://www.nationalgeographic.com.es/ciencia/actualidad/asi-reaccionan-plantas-a-ataques- externos_13228",
+    "questions": [
+      {
+        "statement": "Si los niveles de iones de calcio fueran incapaces de transmitir señales eléctricas,",
+        "alternatives": [
+          "A) combinar el calcio presente en la estructura orgánica de las plantas con algunos nuevos neurotransmisores.",
+          "B) considerar otros posibles canales de comunicación para rastrear la respuesta química de las plantas.",
+          "C) apelar a la composición molecular de la proteína verde fluorescente aplicada como canal comunicativo.",
+          "D) desestimar la importancia de conseguir ejemplares de la Arabidopsis thaliana para sus experimentos.",
+          "E) reevaluar detenidamente el papel que cumplían las orugas en la demostración de sus asertos principales."
+        ],
+        "correct": 1,
+        "rationale": "Dentro de la explicación propuesta por el texto, se indica que los niveles de iones de calcio constituyen uno de los canales de comunicación de las plantas. Al no contar con aquellos, Gilroy se vería obligado a evaluar otros para seguir con su indagación."
+      },
+      {
+        "statement": "Si sus células, durante toda su evolución, únicamente hubieran alcanzado el estado procariota, podría afirmarse que las plantas",
+        "alternatives": [
+          "A) constituirían un enigma para los científicos interesados en la conducta zoológica.",
+          "B) reaccionarían ante una amenaza con mecanismos distintos a los de los animales.",
+          "C) habrían desarrollado habilidades inéditas para enfrentar las amenazas del medio.",
+          "D) al ser devoradas por algunos insectos, emitirían sustancias químicamente tóxicas.",
+          "E) hallarían en el comportamiento animal un modelo de explicativo de sus funciones."
+        ],
+        "correct": 1,
+        "rationale": "Se indica en el texto que, tanto animales como plantas, poseen células eucariotas. Por ello, cuando enfrentan algún peligro, «actúan de una forma análoga». El hecho de que las plantas estuvieran constituidas por células procariotas implicaría mecanismos de defensa distintos a los que caracterizan a los animales."
+      },
+      {
+        "statement": "Si se ubicaran los hallazgos de la investigación de Gilroy en el ámbito de la lucha por el cuidado del medio ambiente, se podría afirmar que esta",
+        "alternatives": [
+          "A) significa un triunfo para aquellos que abogan por un desarrollo tecnológico que coexista con el bienestar de la fauna y la flora.",
+          "B) forma parte de una serie de medidas para implementar una explotación razonable de los bosques de países como Brasil y Perú.",
+          "C) supone un obstáculo para la actual legislación medioambiental propuesta por el gobierno norteamericano y la Unión Europea.",
+          "D) requiere ser revisada desde la perspectiva del derecho ambiental impulsado en los últimos años en la mayor parte del globo."
+        ],
+        "correct": 1,
+        "rationale": "El texto inicia destacando la ubicación que le corresponde a La Gioconda en el Louvre. Asimismo, indica que en el siglo XIX era un cuadro más en la obra de Da Vinci. Sin la reivindicación romántica, esta pintura no habría adquirido el prestigio que tiene hoy."
+      }
+    ]
+  },
+  {
+    "type": "reading_comprehension",
+    "statement": "La revolución musical que supuso la era digital debe llevarnos a reflexionar sobre el\nrol de los DJ como músicos de la época actual. En principio, estos nuevos artistas deben\nser considerados de esta manera porque componer música electrónica es una actividad\nsimilar a «escribir», en vivo, música de cámara. Un DJ no piensa en función de un\ninstrumento, sino que es como si tuviera una orquesta a su disposición y él debe\nconseguir que cada uno de «sus músicos» toque adecuadamente, aprovechando todo su\npotencial, de forma afinada y en armonía con el resto. Además, no repite los mismos\n\ninstrumentos; por el contrario, los inventa: debe otorgarle forma a cada uno de los sonidos\npara que de ellos deriven otros más. El problema es que, además de director, él es toda la\norquesta. Lograr que esas combinaciones, creadas en el momento, suenen armoniosamente resulta complejo. Así, un músico electrónico tiene que programar sus\nmaquinas y tocar en vivo las percusiones, bajos, melodías y efectos al mismo tiempo, es\ndecir, contar su historia con todos sus elementos en tiempo real.\n\n(05 de marzo de 2015). «¿Los DJ son músicos?». CQ. Recuperado de\n\nNava, A.\nhttps://www.gq.com.mx/actualidad/musica/articulos/diferencias-entre-dj-productor-musical-de-electronica-y-musico/4654.",
+    "questions": [
+      {
+        "statement": "Si se aplicara el argumento esgrimido en el texto C1 para defender el carácter artístico de las creaciones de los DJ al ámbito de la gastronomía,",
+        "alternatives": [
+          "A) el uso de softwares para la preparación de algunas recetas sería una obligación.",
+          "B) la formación de nuevos cocineros pasaría por el empleo de simuladores digitales.",
+          "C) la revolución tecnológica intervendría directamente en la producción de sabores.",
+          "D) la excelencia de un chef se mediría por su aptitud para crear recetas en público.",
+          "E) alcanzar el grado de cocinero maestro requeriría un manejo de apps telefónicas."
+        ],
+        "correct": 3,
+        "rationale": "La mayor dificultad en la práctica de los DJ, según el texto C1, es la creación en vivo que caracteriza su trabajo. Ellos crean frente a todos los asistentes a sus conciertos. En tal sentido, la excelencia en otros ámbitos pasaría también por la creación en público."
+      },
+      {
+        "statement": "Si se demostrara tajantemente que basta pulsar un botón para que la consola del DJ elabore las armonías y combinaciones musicales durante toda una jornada,",
+        "alternatives": [
+          "A) apretar botones con sonidos grabados sostenidamente por un lapso de tiempo constituiría un acto creativo.",
+          "B) el arte popular encontraría en los softwares de avanzada un importante aliado para crear nuevas formas.",
+          "C) comparar la producción de música electrónica con la escritura de música de cámara sería implausible.",
+          "D) el número de plagios en la música electrónica no constituiría un argumento en contra de su masificación.",
+          "E) habría que aceptar que la música en la actualidad se halla dominada por composiciones electrónicas."
+        ],
+        "correct": 2,
+        "rationale": "Según el texto C1, «componer música electrónica es una actividad similar a “escribir”, en vivo, música de cámara». Al demostrar que la máquina trabaja de forma autónoma, no cabría afirmar la existencia de un proceso creativo en la labor del DJ."
+      },
+      {
+        "statement": "Si los cambios propiciados por la tecnología digital no hubieran afectado el ámbito de las artes,",
+        "alternatives": [
+          "A) prácticas estéticas como las que distinguen a los DJ difícilmente habrían surgido.",
+          "B) se podría afirmar que los samplers y los secuenciadores han eliminado al músico.",
+          "C) las combinaciones creadas por los DJ no podrían acoplarse de modo armonioso.",
+          "D) la polémica sobre la naturaleza estética de la producción de los DJ se impondría.",
+          "E) se incrementaría la proporción de plagios en la música de composición analógica."
+        ],
+        "correct": 0,
+        "rationale": "En el texto C1, inicia aclarando que es debido a la revolución musical gestada en la era digital que se debe plantear el debate sobre el carácter artístico de la praxis de los DJ. Dicha actividad sería impensable si las artes no hubieran, también, sido afectadas por los adelantos tecnológicos de la época digital."
+      },
+      {
+        "statement": "Si se aplicara la descripción del proceso creativo del músico electrónico, presentada en el texto C1, al mundo del cine,",
+        "alternatives": [
+          "A) habría que consentir que este último también propicia la creación pública.",
+          "B) la producción de un film y la creación de una partitura serían semejantes.",
+          "C) los movimientos y gestos de los actores serían equivalentes a la melodía.",
+          "D) la improvisación sería el único recurso expresivo para todos los cineastas.",
+          "E) se podría comparar el quehacer del DJ con el del director de una película."
+        ],
+        "correct": 2,
+        "rationale": "El texto C1 considera que el DJ tiene, en simultáneo, el control de los diferentes niveles y recursos para componer música. En tal sentido, en el mundo del cine, su actividad podría equipararse a la del director, que también centraliza la creación de una película."
+      }
+    ]
+  },
+  {
+    "type": "reading_comprehension",
+    "statement": "En la actualidad, la electrónica se ha adueñado del pop, donde el instrumentista ha dejado de ser necesario y se ha visto sustituido por su homólogo digital. Las bases han desplazado al batería como los samplers y los secuenciadores han eliminado al músico. Sí, digo músico, porque tocar botones con sonidos grabados de los DJ no es crear música, principalmente, debido a que la mayoría de la música electrónica —salvo algunos movimientos independientes y experimentales— hace acopio de creaciones ajenas. Remixes de temas ya compuestos, samples de otros temas introducidos en sus creaciones, etc., por no hablar de la cantidad de plagios que existen en la música electrónica. Si es totalmente lógico: cuando no necesitas ser músico para crear música, no tienes por qué saber componer. ¿Democratización o vulgarización? Además, mientras un músico demuestra su talento en directo, sobre las tablas de un escenario, con la música electrónica, el término «directo» se desvirtúa: son famosos los casos de Justice o Disclosure acusados de pregrabar sus conciertos Es el culmen de la vagancia y el despropósito, simular que pinchas.\n\nRoa, J. (2 de enero 2014). «Si haces electrónica, no te llames músico». Habla tu música. Recuperado de http://hablatumusica.com/opinion/electronica-no-llames-musico/",
+    "questions": [
+      {
+        "statement": "Si se aplicara el argumento esgrimido en el texto C1 para defender el carácter artístico de las creaciones de los DJ al ámbito de la gastronomía,",
+        "alternatives": [
+          "A) el uso de softwares para la preparación de algunas recetas sería una obligación.",
+          "B) la formación de nuevos cocineros pasaría por el empleo de simuladores digitales.",
+          "C) la revolución tecnológica intervendría directamente en la producción de sabores.",
+          "D) la excelencia de un chef se mediría por su aptitud para crear recetas en público.",
+          "E) alcanzar el grado de cocinero maestro requeriría un manejo de apps telefónicas."
+        ],
+        "correct": 3,
+        "rationale": "La mayor dificultad en la práctica de los DJ, según el texto C1, es la creación en vivo que caracteriza su trabajo. Ellos crean frente a todos los asistentes a sus conciertos. En tal sentido, la excelencia en otros ámbitos pasaría también por la creación en público."
+      },
+      {
+        "statement": "Si se demostrara tajantemente que basta pulsar un botón para que la consola del DJ elabore las armonías y combinaciones musicales durante toda una jornada,",
+        "alternatives": [
+          "A) apretar botones con sonidos grabados sostenidamente por un lapso de tiempo constituiría un acto creativo.",
+          "B) el arte popular encontraría en los softwares de avanzada un importante aliado para crear nuevas formas.",
+          "C) comparar la producción de música electrónica con la escritura de música de cámara sería implausible.",
+          "D) el número de plagios en la música electrónica no constituiría un argumento en contra de su masificación.",
+          "E) habría que aceptar que la música en la actualidad se halla dominada por composiciones electrónicas."
+        ],
+        "correct": 2,
+        "rationale": "Según el texto C1, «componer música electrónica es una actividad similar a “escribir”, en vivo, música de cámara». Al demostrar que la máquina trabaja de forma autónoma, no cabría afirmar la existencia de un proceso creativo en la labor del DJ."
+      },
+      {
+        "statement": "Si los cambios propiciados por la tecnología digital no hubieran afectado el ámbito de las artes,",
+        "alternatives": [
+          "A) prácticas estéticas como las que distinguen a los DJ difícilmente habrían surgido.",
+          "B) se podría afirmar que los samplers y los secuenciadores han eliminado al músico.",
+          "C) las combinaciones creadas por los DJ no podrían acoplarse de modo armonioso.",
+          "D) la polémica sobre la naturaleza estética de la producción de los DJ se impondría.",
+          "E) se incrementaría la proporción de plagios en la música de composición analógica."
+        ],
+        "correct": 0,
+        "rationale": "En el texto C1, inicia aclarando que es debido a la revolución musical gestada en la era digital que se debe plantear el debate sobre el carácter artístico de la praxis de los DJ. Dicha actividad sería impensable si las artes no hubieran, también, sido afectadas por los adelantos tecnológicos de la época digital."
+      },
+      {
+        "statement": "Si se aplicara la descripción del proceso creativo del músico electrónico, presentada en el texto C1, al mundo del cine,",
+        "alternatives": [
+          "A) habría que consentir que este último también propicia la creación pública.",
+          "B) la producción de un film y la creación de una partitura serían semejantes.",
+          "C) los movimientos y gestos de los actores serían equivalentes a la melodía.",
+          "D) la improvisación sería el único recurso expresivo para todos los cineastas.",
+          "E) se podría comparar el quehacer del DJ con el del director de una película."
+        ],
+        "correct": 2,
+        "rationale": "El texto C1 considera que el DJ tiene, en simultáneo, el control de los diferentes niveles y recursos para componer música. En tal sentido, en el mundo del cine, su actividad podría equipararse a la del director, que también centraliza la creación de una película."
+      }
+    ]
+  },
+  {
+    "type": "verbal_series",
+    "statement": "Si se aplicara la descripción del proceso creativo del músico electrónico, presentada en el texto C1, al mundo del cine,",
+    "alternatives": [
+      "A) habría que consentir que este último también propicia la creación pública.",
+      "B) la producción de un film y la creación de una partitura serían semejantes.",
+      "C) los movimientos y gestos de los actores serían equivalentes a la melodía.",
+      "D) la improvisación sería el único recurso expresivo para todos los cineastas.",
+      "E) se podría comparar el quehacer del DJ con el del director de una película."
+    ],
+    "correct": 2,
+    "rationale": "El texto C1 considera que el DJ tiene, en simultáneo, el control de los diferentes niveles y recursos para componer música. En tal sentido, en el mundo del cine, su actividad podría equipararse a la del director, que también centraliza la creación de una película."
+  },
+  {
+    "type": "reading_comprehension",
+    "statement": "La sociedad posmoderna considera a sus miembros primordialmente en calidad de consumidores, no de productores. Esa diferencia es esencial.\n\nLa vida organizada entorno del rol del productor tiende a estar regulada normativamente. Hay un piso de lo que uno necesita para seguir con vida y ser capaz de hacer lo que exige el rol de productor, pero también un techo de lo que se puede soñar, desear o procurar contando con la aprobación social de las propias ambiciones, es decir, sin temor de ser rechazado, reprendido o castigado. Todo lo que se encuentra por encima de ese límite es un lujo, y desear el lujo es pecado. La principal preocupación, entonces, es la de conformidad: establecerse de manera segura entre la línea del piso y la del techo —«estar en el nivel de Pedro y de Juan»—.\n\nPor el contrario, la vida organizada entorno del consumo debe arreglárselas sin normas: está guiada por la seducción, por la aparición de deseos cada vez mayores y por los volátiles anhelos, y no por reglas normativas. No hay ningún Pedro ni Juan que nos ofrezcan alguna referencia para tener una vida exitosa; la sociedad de consumidores se presta a la comparación universal… y el límite es el cielo. La idea de «lujo» no tiene demasiado sentido, ya que el punto es convertir el lujo de hoy en la necesidad de mañana, y reducir al mínimo la distancia entre «hoy» y «mañana» —«lo quiero ya»—.\nComo no hay normas para convertir algunos deseos en necesidades y quitar legitimidad a otros deseos, convirtiéndolos en «falsas necesidades», no hay referencias para medir el estándar de «conformidad». La principal preocupación, entonces, es la de adecuación:\n\n«estar siempre listo», tener la capacidad de aprovechar la oportunidad cuando se presenta, desarrollar nuevos deseos hechos a medida de las nuevas e inesperadas atracciones, «estar más enterado» que antes, no permitir que las necesidades establecidas provoquen nuevas sensaciones redundantes o reducir la capacidad de absolverlas y experimentarlas.\n\nBauman, Z. (2010). Modernidad líquida. México: Fondo de Cultura Económica, 82-83.\n\n1. Medularmente, el texto sostiene que es posible diferenciar la sociedad moderna de\nla posmoderna por la manera como",
+    "questions": [
+      {
+        "statement": "Medularmente, el texto sostiene que es posible diferenciar la sociedad moderna de la posmoderna por la manera como",
+        "alternatives": [
+          "A) se han visto obligadas a asimilar en su estructura interna la noción de «lujo».",
+          "B) definen la posición de los individuos en el sistema de producción capitalista.",
+          "C) sus integrantes pasan de ser consumidores a productores de bienes reales.",
+          "D) han permutado sus valores de conformidad y adecuación intermitentemente.",
+          "E) el capitalismo ha transformado radicalmente la vida de la primera ante todo."
+        ],
+        "correct": 1,
+        "rationale": "Según el texto, una diferencia esencial entre la sociedad moderna y posmoderna radica en que la primera considera a sus integrantes como productores, mientras la segunda, como consumidores. En ambos casos, se trata de una ubicación en la cadena de producción capitalista."
+      },
+      {
+        "statement": "En el texto, el término TECHO implica",
+        "alternatives": [
+          "A) resquemor.",
+          "B) punición.",
+          "C) albedrío.",
+          "D) oscilación.",
+          "E) aspiración."
+        ],
+        "correct": 4,
+        "rationale": "El término TECHO, en el texto, supone lo máximo que puede esperar una persona en la sociedad moderna. Por ende, es una palabra que implica la noción de «aspiración»."
+      },
+      {
+        "statement": "De la caracterización de la sociedad posmoderna que propone Bauman, se infiere de forma válida que esta",
+        "alternatives": [
+          "A) coloca en una posición marginal nociones como descanso o vida contemplativa.",
+          "B) al estar articulada alrededor del consumo, no posee límites definidos claramente.",
+          "C) advierte la importancia del ocio en el desarrollo personal de los seres humanos.",
+          "D) pretende, principalmente, transformar el lujo de hoy en la necesidad de mañana.",
+          "E) culmina por menospreciar el trabajo de las personas dedicadas a la producción."
+        ],
+        "correct": 0,
+        "rationale": "La vida social organizada a partir del consumo no tiene metas claras, por lo que se caracteriza por su extrema dinámica y aceleración. Por ende, en una sociedad articulada por estos valores, el descanso ola vida contemplativa adquieren un carácter marginal."
+      },
+      {
+        "statement": "Respecto a la sociedad moderna, tal como es concebida por Bauman, no es congruente afirmar que",
+        "alternatives": [
+          "A) restringe las aspiraciones individuales a partir de una posible sanción social.",
+          "B) permite una regulación normativa al estar organizar entorno a la producción.",
+          "C) considera que los individuos deben preocuparse por obtener la conformidad.",
+          "D) prioriza la adquisición inmediata de los productos que las personas anhelan.",
+          "E) plantea funciones básicas y metas definidas por la aprobación de los demás."
+        ],
+        "correct": 3,
+        "rationale": "Priorizar la adquisición inmediata de bienes y servicios significa colocar al consumo como centro alrededor del cual pivota la vida social, lo cual es el rasgo distintivo de la sociedad posmoderna."
+      }
+    ]
+  },
+  {
+    "type": "sentence_elimination",
+    "statement": "Respecto a la sociedad moderna, tal como es concebida por Bauman, no es congruente afirmar que",
+    "alternatives": [
+      "A) restringe las aspiraciones individuales a partir de una posible sanción social.",
+      "B) permite una regulación normativa al estar organizar entorno a la producción.",
+      "C) considera que los individuos deben preocuparse por obtener la conformidad.",
+      "D) prioriza la adquisición inmediata de los productos que las personas anhelan.",
+      "E) plantea funciones básicas y metas definidas por la aprobación de los demás."
+    ],
+    "correct": 3,
+    "rationale": "Priorizar la adquisición inmediata de bienes y servicios significa colocar al consumo como centro alrededor del cual pivota la vida social, lo cual es el rasgo distintivo de la sociedad posmoderna."
+  },
+  {
+    "type": "sentence_elimination",
+    "statement": "Si Bauman aceptara que la sociedad posmoderna únicamente se diferencia de la moderna por una cuestión cronológica,",
+    "alternatives": [
+      "A) la desaprobación de los otros integrantes de la comunidad carecería de relevancia para todos.",
+      "D) aspirar al lujo sería una práctica muy común entre los individuos dedicados a la producción de bienes.",
+      "B) las personas se mostrarían preocupadas porque sus metas no les granjeen el rechazo de los demás.",
+      "E) no habría forma ni criterio para distinguir las auténticas exigencias de las otras «falsas necesidades».",
+      "C) los ciudadanos se esforzarían por alcanzar el valor de la adecuación, el estar siempre listo para todo."
+    ],
+    "correct": 4,
+    "rationale": "El hecho de que Bauman admitiera que ambos tipos de sociedad solo se diferencian por su cronología significa que la forma de organización social moderna todavía es hegemónica. Por ello, la desaprobación social seguiría siendo la frontera de lo deseable."
+  },
+  {
+    "type": "reading_comprehension",
+    "statement": "Uno de los aspectos que más atención demandó al gobierno de Bolívar fue la situación de los indígenas. Estos componían aproximadamente el 60% de la población y, sin su concurso, la república sería una quimera. Dictó medidas liberales tendientes a poner a los indígenas en el camino de la ciudadanía, como la abolición de la propiedad corporativa sobre sus tierras y de los títulos de nobleza o cacicazgo. La primera disposición hubo de ser modificada poco después, porque se temió que sirviera solo para convalidar muchos despojos de tierras de las comunidades indígenas. Solo podrían ejercer derechos de propiedad sobre sus tierras los indígenas alfabetos; como no se organizó la división individual de los territorios comunales, ni los comuneros se mostraron interesados en que así se hiciera, finalmente esta medida careció de efecto práctico.\n\nRomper con la herencia colonial en los asuntos indígenas se mostró tarea difícil a lo largo de la república: si se pretendía igualar a esta población en materia de derechos y deberes con los restantes pobladores blancos y mestizos, resultaban engañados y engullidos, por su menor conocimiento de las reglas del mundo moderno; si se les «protegía» y apartaba de estos, no se hacía otra cosa que perpetuar su aislamiento y postración y, en definitiva, volver a la práctica del régimen español. La situación legal de las tierras indígenas permaneció en el limbo. Formalmente se proclamó que en todo aquello que no fuera contrario a las leyes de la república, regían las antiguas Leyes de Indias. Como la república poco se interesaba por la situación de las comunidades, ni estas reclamaban una transformación, ellas quedaron atadas a ese orden jurídico fundado por Francisco de Toledo, allá en el siglo XVI, que luego alcanzaría el estatuto de «costumbres ancestrales».\n\nContreras, C., y Cueto, M. (2013). «Bolívar frente a la cuestión indígena». Historia del Perú contemporáneo. Lima: IEP. (Texto editado)",
+    "questions": [
+      {
+        "statement": "1. Medularmente, el texto desarrolla el tema de",
+        "alternatives": [
+          "A) Bolívar y la situación legal de los indígenas.",
+          "B) Bolívar y la solución del problema del indio.",
+          "C) las medidas liberales de Bolívar en el Perú.",
+          "D) Bolívar y la cuestión de los indios en América.",
+          "E) Bolívar frente a la problemática indígena."
+        ],
+        "correct": 4,
+        "rationale": "El texto, en efecto, sostiene que uno de los aspectos que más atención demandó al gobierno de Bolívar fue la situación de los indígenas."
+      },
+      {
+        "statement": "2. En el texto, la palabra CONCURSO se puede reemplazar por",
+        "alternatives": [
+          "A) premio.",
+          "D) censo.",
+          "B) recompensa.",
+          "E) consenso.",
+          "C) participación."
+        ],
+        "correct": 4,
+        "rationale": "El vocablo hace referencia al concurso o participación de la población indígena en la joven república."
+      },
+      {
+        "statement": "3. Es incompatible sostener, sobre las medidas liberales de Bolívar vinculadas a la cuestión indígena, que",
+        "alternatives": [
+          "A) fueron cambiando de acuerdo con las contingencias.",
+          "B) permanecieron inmutables a lo largo de la república.",
+          "C) tuvieron como objetivo hacer del indio un ciudadano.",
+          "D) estuvieron lejos de ser una tarea fácil por la tradición.",
+          "E) negaron la posesión de la tierra a indios analfabetos."
+        ],
+        "correct": 1,
+        "rationale": "El Libertador dictó medidas liberales frente a la cuestión indígena, como la abolición de la propiedad corporativa y los títulos de nobleza o cacicazgo; sin embargo, estas medidas tuvieron que ser modificadas, ya que se temió que sirvieran para convalidar el despojo de tierras de las comunidades indígenas."
+      },
+      {
+        "statement": "4. Frente a la posibilidad de otorgar derechos a la población indígena, se puede colegir que",
+        "alternatives": [
+          "A) existió el riesgo de hacerlos vulnerables a timos que agraven su situación.",
+          "B) resultó dificultosa a lo largo de la república debido a su herencia colonialista.",
+          "C) estos componían aproximadamente el 60% de la población general del Perú.",
+          "D) solo podrían ejercer derechos de propiedad de tierras los indígenas alfabetos.",
+          "E) la situación jurídica de las tierras indígenas resultó un tema indeterminado."
+        ],
+        "correct": 0,
+        "rationale": "Las medidas liberales de Bolívar en relación a la clase indígena se enfrentaban a la dificultad de que, si se pretendía igualar a esta población en materia de derechos y deberes con los restantes pobladores blancos y mestizos, estos podrían resultar timados por su menor conocimiento de las reglas del mundo moderno."
+      }
+    ]
+  },
+  {
+    "type": "sentence_elimination",
+    "statement": "Frente a la posibilidad de otorgar derechos a la población indígena, se puede colegir que",
+    "alternatives": [
+      "A) existió el riesgo de hacerlos vulnerables a timos que agraven su situación.",
+      "B) resultó dificultosa a lo largo de la república debido a su herencia colonialista.",
+      "C) estos componían aproximadamente el 60% de la población general del Perú.",
+      "D) solo podrían ejercer derechos de propiedad de tierras los indígenas alfabetos.",
+      "E) la situación jurídica de las tierras indígenas resultó un tema indeterminado."
+    ],
+    "correct": 0,
+    "rationale": "Las medidas liberales de Bolívar en relación a la clase indígena se enfrentaban a la dificultad de que, si se pretendía igualar a esta población en materia de derechos y deberes con los restantes pobladores blancos y mestizos, estos podrían resultar timados por su menor conocimiento de las reglas del mundo moderno."
+  },
+  {
+    "type": "sentence_elimination",
+    "statement": "Si la ruptura con la herencia colonial respecto a los asuntos indígenas hubiera sido factible, posiblemente",
+    "alternatives": [
+      "A) en la actualidad seríamos una gran nación sin divisiones de tipo étnico-social.",
+      "B) Bolívar se habría preocupado genuinamente por la situación de sus terrenos.",
+      "C) la participación indígena habría jugado un papel decisivo en la joven república.",
+      "D) la situación legal de los terrenos indígenas se habría soslayado idóneamente.",
+      "E) el temor de ser despojados de sus territorios comunales habría sido inexistente."
+    ],
+    "correct": 2,
+    "rationale": "Para Bolívar, la situación de los indígenas, que componían aproximadamente el 60% de la población, era una cuestión fundamental, pues sin su participación la república sería una quimera. Sin embargo, las relaciones de poder existentes entre criollos e indígenas fue un lastre que impidió su participación activa a inicios de la joven república."
+  },
+  {
+    "type": "reading_comprehension",
+    "statement": "2. En el texto B, el término CULTO connota",
+    "questions": [
+      {
+        "statement": "En el texto B, el término CULTO connota",
+        "alternatives": [
+          "A) oficialidad.",
+          "D) importancia.",
+          "B) originalidad.",
+          "E) subjetividad.",
+          "C) realidad."
+        ],
+        "correct": 0,
+        "rationale": "En el texto el término CULTO connota OFICIALIDAD, dado que se hace un contraste entre arte popular y el arte no popular; es decir, el arte oficial."
+      },
+      {
+        "statement": "3. Según el texto 1A, es compatible sostener que el arte no puede reducirse a una mercancía de consumo, porque",
+        "alternatives": [
+          "A) maniata y enmudece la labor de ciertos artistas artesanos.",
+          "B) forma parte fundamental del proceso de luchas populares.",
+          "C) es una expresión que no logra superar su inspiración colonial.",
+          "D) condiciona la independencia de los trabajadores artísticos.",
+          "E) su originalidad escapa a los límites impuestos por el mercado."
+        ],
+        "correct": 3,
+        "rationale": "Según el texto «el arte no puede reducirse a una mercancía de consumo, que maniata y enmudece a los trabajadores plásticos, vulnerándolos en su integridad de hombres libres»."
+      },
+      {
+        "statement": "4. Se puede colegir del texto 1B que, para la ASCAP, el arte popular",
+        "alternatives": [
+          "A) no es libre porque se encuentra motivado por atavismos coloniales.",
+          "D) importancia.",
+          "B) no se puede equiparar al «arte culto» por su reduccionismo artesanal.",
+          "E) subjetividad.",
+          "C) realidad."
+        ],
+        "correct": 0,
+        "rationale": "Para los miembros del ASCAP, es indiscutible el encanto de los retablos como expresión artesanal. Sin embargo, estos no logran superar el peso de la tradición colonial, de manera que no constituyen un arte independiente."
+      }
+    ]
+  },
+  {
+    "type": "reading_comprehension",
+    "statement": "Sebastián es un niño alegre y feliz, solo que un poco inquieto; al menos eso era lo que pensaban sus padres, hasta que fue al colegio. Las continuas llamadas de atención de la profesora, sus bajas calificaciones y su dificultad para seguir las instrucciones en el aula eran señales de un problema que se encuentra envuelto en la más encendida terapeutas del comportamiento denominan a este polémica. Los psicólogos y cuadro trastorno por déficit de atención e hiperactividad (TDAH). Refiere a un trastorno neurobiológico crónico que afecta a menores de entre 4 y 17 años, y se caracteriza por la dificultad de estos en mantener la atención voluntaria a diferentes actividades que lo requieren, como las clases del colegio. Aunque en nuestro país no existen estadísticas oficiales, se estima que entre el 3% y el 7% de la población escolar sufre algún grado de TDAH. Las investigaciones revelan que es cuatro veces más frecuente en niños que en niñas (se desconocen las causas) y que sus primeros síntomas aparecen antes de los 4 años. Sin embargo, la patología recién se vuelve evidente cuando el pequeño comienza a ir a la escuela, donde se tiene que seguir una serie de normas. La doctora Myriam Velarde, del Instituto Nacional de Ciencias Neurológicas (INCN), recalca la importancia de un diagnóstico clínico precoz y un abordaje interdisciplinario. No solo se necesita la intervención de un neurólogo, sino también la de un psiquiatra y la de un psicólogo para evaluar sus niveles de lenguaje, aprendizaje, psicomotricidad, sensorio-motricidad y conductas sociales. Además, es indispensable la colaboración del profesor para identificar las reacciones del menor ante ciertos estímulos. Arturo Ruiz Paredes, psicólogo clínico del Instituto Médico del Lenguaje y Aprendiza (IMLA), advierte que este trastorno no tiene cura, pero que con un buen tratamiento personalizado, aplicado desde muy temprana edad, el paciente puede evitar limitaciones en su rendimiento escolar, en su percepción de sí mismo y desarrollo social. «Antes se pensaba que los pequeños con TDAH no eran muy inteligentes. Hoy se ha comprobado que muchas veces tienen el coeficiente intelectual más alto que otros niños de su edad y pueden convertirse en profesionales brillantes, solo es cuestión de motivarlos», afirma el experto.\n\nSilva, R.\n<https://elcomercio.pe/lima/hijo-sufre-deficit-atencion-308864> (Texto editado)\n\n(2014). «¿Tu hijo sufre déficit de atención?». El Comercio. Recuperado de\n\nImagen extraída de <https://elrincondeyanka.blogspot.com/2014/07/tda-tdah-trastorno-por-deficit-de.html>.",
+    "questions": [
+      {
+        "statement": "El tema central del texto es",
+        "alternatives": [
+          "A) el TDAH y sus consecuencias en niños y adolescentes del país.",
+          "B) los menores de edad afectados por el TDAH en nuestro país.",
+          "C) las posibles soluciones al problema del TDAH en los escolares.",
+          "D) las investigaciones sobre los escolares con algún grado de TDAH.",
+          "E) la mayor incidencia del denominado TDAH en niños que en niñas."
+        ],
+        "correct": 1,
+        "rationale": "El texto se refiere básicamente a un trastorno neurobiológico crónico que afecta a menores de entre 4 y 17 años."
+      },
+      {
+        "statement": "En el texto, la palabra PRECOZ se puede reemplazar por",
+        "alternatives": [
+          "A) rápido.",
+          "B) raudo.",
+          "C) temprano.",
+          "D) laxo.",
+          "E) instantáneo."
+        ],
+        "correct": 2,
+        "rationale": "El vocablo hace referencia a la detección temprana del trastorno en los menores de edad para un tratamiento efectivo."
+      },
+      {
+        "statement": "Es incompatible, acerca de las afirmaciones de la Dra. Myriam Velarde sobre el TDAH, sostener que",
+        "alternatives": [
+          "A) la importancia de un diagnóstico clínico precoz y sobre todo interdisciplinario es de importancia capital.",
+          "B) su abordaje requiere de la participación exclusiva de neurólogos, psiquiatras y psicólogos.",
+          "C) es vital evaluar los niveles de lenguaje, aprendizaje, psicomotricidad, y conductas sociales.",
+          "D) si bien el trastorno no tiene cura, el paciente puede evitar limitaciones en su rendimiento escolar.",
+          "E) son evaluados también aspectos relacionados con la psicomotricidad y la sensorio-motricidad."
+        ],
+        "correct": 1,
+        "rationale": "La especialista menciona la importancia de incluir a los pedagogos para identificar la reacción de los alumnos frente a ciertos estímulos, de modo que decir que la intervención de neurólogos, psiquiatras y psicólogos sea exclusiva en el abordaje de este trastorno es incompatible."
+      }
+    ]
+  },
+  {
+    "type": "reading_comprehension",
+    "statement": "De la imagen podemos colegir que el aula en la que interactúa un niño con TDAH puede ser considerada un contexto diverso, porque",
+    "questions": [
+      {
+        "statement": "De la imagen podemos colegir que el aula en la que interactúa un niño con TDAH puede ser considerada un contexto diverso, porque",
+        "alternatives": [
+          "A) las actitudes de sus compañeros, sus reacciones y el propio potencial cognitivo del niño son divergentes y ameritan una atención diferenciada.",
+          "B) posiblemente el profesor posee métodos de enseñanza poco persuasivos para involucrar a este en actividades que son de su interés.",
+          "C) los compañeros de clase no se han percatado de la presencia de la mosca que perturba a su compañera, quien es más inteligente.",
+          "D) dada su estatura, posiblemente la alumna haya repetido de grado escolar por las conductas que sus padres no han sabido regular.",
+          "E) el profesor carece de la firmeza necesaria para atender este tipo de trastornos y encaminar al niño en una clase personalizada."
+        ],
+        "correct": 0,
+        "rationale": "El signo de interrogación sobre los compañeros de clase y la expresión de sus rostros implica reacciones divergentes, objetivos diferentes y, en rigor, esta heterogeneidad debería ser atendida de forma diferenciada."
+      },
+      {
+        "statement": "Si se llegara a proporcionar a los niños que padecen de este trastorno las herramientas adecuadas para vencer sus dificultades, posiblemente",
+        "alternatives": [
+          "A) muchos alcanzarían un desempeño óptimo en la escuela e incluso en el nivel de educación superior universitaria.",
+          "B) todos no solo superarían sus\nrendimiento a cualquier niño.\n\nlimitaciones, sino\ntambién\nigualarían en",
+          "C) muchos no solo romperían sus limitaciones, sino que podrían eventualmente superar en rendimiento a otros niños.",
+          "D) podrían mejorar no solo sus limitaciones más serias, sino la percepción de sí mismos y su desempeño social.",
+          "E) muchos no solo superarían sus limitaciones, sino que lograrían ser más inteligentes que cualquier niño."
+        ],
+        "correct": 2,
+        "rationale": "Según el texto, con un tratamiento adecuado el paciente no solo puede llegar a mejorar su rendimiento escolar, sino que, además, con las herramientas adecuadas, lograría explotar su potencial, aventajando en rendimiento a otros niños."
+      }
+    ]
+  }
+]

@@ -1,0 +1,682 @@
+[
+  {
+    "type": "sentence_elimination",
+    "statement": "I) Un estudio realizado en Gran Bretaña reveló que los simul acros de vuelo disminuyen los vértigos. II) El experimento se realizó inicialmente para entrenar a astronautas y pilotos. III) Al menos un tercio de las personas experimentan episodios de mareo y vértigo en algún momento de sus vidas. IV) Los pacientes recibieron psicoterapia y fueron expuestos a las sesiones con simuladores de vuelo. V) Para el estudio se usó un disco y silla giratoria y ejercicios en base a videos.",
+    "alternatives": [
+      "A) II",
+      "B) IV",
+      "C) III",
+      "D) I",
+      "E) V"
+    ],
+    "correct": 2,
+    "rationale": "Por inatingencia. Esta oración nos proporciona información genérica mientras que las demás tratan un tema mejor delimitado."
+  },
+  {
+    "type": "sentence_elimination",
+    "statement": "I) Fiat y Microsoft firmaron una alianza estratégica que beneficiará las telecomunicaciones. II) Fiat Auto es la principal marca europea en el mercado automotriz. III) El trato consiste en el diseño de un sistema telemático flexible y de manejo fácil para los conductores. IV) Este sistema permitirá a los automovilistas mantenerse en contacto con el exterior. V) L os futuros autos tendrían implementados un teléfono móvil o un sistema de manos libres de activación por voz.",
+    "alternatives": [
+      "A) III",
+      "B) I",
+      "C) V",
+      "D) IV",
+      "E) II"
+    ],
+    "correct": 4,
+    "rationale": "Por inatingencia. La oración nos informa sobre una compañía específica y no continúa con el eje temático de la siguiente."
+  },
+  {
+    "type": "sentence_elimination",
+    "statement": "I) Los combustibles usados en el Perú son los más tóxicos del mundo. II) La razón principal de la contaminación es la mala fabricación de combustibles. III) Una de las soluciones es reducir el azufre en el diesel de 5 mil a 350 partes por millón. IV) Esta innovación podría reducir el humo negro de los vehículos en más del 75%. V) En el Perú, la fabricación de combustibles es de baja calidad.",
+    "alternatives": [
+      "A) V",
+      "B) III",
+      "C) IV",
+      "D) I",
+      "E) II"
+    ],
+    "correct": 0,
+    "rationale": "Por red undancia. La oración se torna superflua ya que se deduce."
+  },
+  {
+    "type": "sentence_elimination",
+    "statement": "I) Alfonso Capone (1899 -1947), fue un gángst er estadounidense de origen italiano de la época de la prohibición de la venta de alcohol. II) Era también llamado Scarface (Caracortada) por una cicatriz que tenía en su mejilla. III) Nació en Nápoles, y creció entre las bandas de Brooklyn (Nueva York). IV) En la década de 1920 se hizo cargo de la organización que tenía en Chicago el gángster Johnny Torrio, dedicada al tráfico de bebidas alcohólicas, al juego ilegal y a la prostitución. V) En el taquillero film The Untouchables , el personaje de Capone fue representado por el gran actor Robert de Niro.",
+    "alternatives": [
+      "A) I",
+      "B) II",
+      "C) III",
+      "D) IV",
+      "E) V"
+    ],
+    "correct": 4,
+    "rationale": "Por inatingencia. Esta oración nos proporciona información particular mientras que las demás tratan un tema mejor delimitado."
+  },
+  {
+    "type": "sentence_elimination",
+    "statement": "I) El ábaco fue utilizado tanto por las civilizaciones precolombinas y mediterráneas como en el Lejano Oriente. II) El ábaco es una herramienta antigua que aún hoy es utilizada. III) En la antigua Roma, era un tablero de cera cubierta con arena, una tabla rayada o un tablero o tabla con su rcos. IV) A finales de la edad media los mongoles introdujeron el ábaco en Rusia, que provenía de los chinos y los tártaros, y que todavía hoy se utiliza en el pequeño comercio. V) En China y Japón, también hoy muy a menudo lo utilizan los hombres de negocios y contables.",
+    "alternatives": [
+      "A) III",
+      "B) II",
+      "C) IV",
+      "D) I",
+      "E) V"
+    ],
+    "correct": 1,
+    "rationale": "Por redundancia. La oración es tá incluida en otras oraciones."
+  },
+  {
+    "type": "sentence_elimination",
+    "statement": "I) Muchas de nuestras manifestaciones culturales tienen en mayor o menor grado las huellas de la antigua Roma. II) De ella vienen nuestras leyes, constitución, y códigos, lo que hoy llamamos derecho. III) Nuestro idioma mismo se formó en un 65% con el aporte del latín, lengua romana. IV) A pesar de ello el castellano, en la actualidad, es una de las lenguas de mayor habla en el mundo. V) Nuestra fe tiene su origen en el cristianismo romanizado.",
+    "alternatives": [
+      "A) III",
+      "B) II",
+      "C) V",
+      "D) I",
+      "E) IV"
+    ],
+    "correct": 4,
+    "rationale": "Por Inatingencia. Esta oración no discurre con el tema delimitado."
+  },
+  {
+    "type": "sentence_elimination",
+    "statement": "I) Casi en toda la América de habla española se usa la palabra huachimán . II) Se aplica al guardián o vigilante, sobre todo al encargado de cuidar los materiales de construcción. III) El huachimán desarrolla su labor sacrificada, más aun considerando que es durante la noche. IV) Muchos creen que se trata de una palabra quechua. V) La verdad es que procede del inglés, watchman, sereno, guardián o vigilante.",
+    "alternatives": [
+      "A) I",
+      "B) III",
+      "C) IV",
+      "D) II",
+      "E) V"
+    ],
+    "correct": 1,
+    "rationale": "Por inatingencia. Esta oración nos proporciona información particular mientras que las demás tratan un tema mejor delimitado."
+  },
+  {
+    "type": "sentence_elimination",
+    "statement": "I) Epicuro fundó alrededor del año 300 una escuela filosófica en Atenas. II) Se dice que los epicúreos se reunían para el debate en un jardín. III) Esto motivó a que se les atribuyan la denominación de “los filósofos del jardín”. IV) Se cree que el ambiente de reunión estimulaba en gran parte el matiz filosófico sensual. V) Excepcionalmente, los epicúreos usaban otros ambientes, ya que el jardín era el adecuado por excelencia.",
+    "alternatives": [
+      "A) I",
+      "B) II",
+      "C) III",
+      "D) IV",
+      "E) V"
+    ],
+    "correct": 0,
+    "rationale": "El conjunto or acional apunta al jardín como ambiente de reunión de los epicúreos, menos la I que se refiere a la fundación de la escuela filosófica en Atenas por Epicuro."
+  },
+  {
+    "type": "verbal_series",
+    "statement": "Epílogo, introito; a varicia, prodigalidad;",
+    "alternatives": [
+      "A) pasado, historia",
+      "B) origen, e closión",
+      "C) truismo, originalidad",
+      "D) fuente, manantial",
+      "E) cambio, viraje"
+    ],
+    "correct": 2,
+    "rationale": "Serie verbal de antonimia."
+  },
+  {
+    "type": "verbal_series",
+    "statement": "Centuria , década, lustro, año, mes,",
+    "alternatives": [
+      "A) quinquenio.",
+      "B) bienio.",
+      "C) semana.",
+      "D) lapso.",
+      "E) anuario."
+    ],
+    "correct": 2,
+    "rationale": "Serie verbal de intensidad."
+  },
+  {
+    "type": "verbal_series",
+    "statement": "¿Cuál es el término que no pertenece a la serie verbal?",
+    "alternatives": [
+      "A) Voluble",
+      "B) Inconstante",
+      "C) Tornadizo",
+      "D) Veleidoso",
+      "E) Voluptuoso"
+    ],
+    "correct": 4,
+    "rationale": "La serie verbal que corresponde al campo semántico de oscilación."
+  },
+  {
+    "type": "verbal_series",
+    "statement": "Panegírico – vilipendio, bendición – anatema, loa – diatriba,",
+    "alternatives": [
+      "A) traición – opresión",
+      "B) delación – imputación",
+      "C) aversión – repulsión",
+      "D) encomio – vituperio",
+      "E) apostasía – abjuración"
+    ],
+    "correct": 3,
+    "rationale": "Serie verbal de antonimia."
+  },
+  {
+    "type": "verbal_series",
+    "statement": "¿Cuál es el término que no pertenece a la serie verbal?",
+    "alternatives": [
+      "A) Oniromancia",
+      "B) Cartomancia",
+      "C) Quiromancia",
+      "D) Nigromancia",
+      "E) Trashumancia"
+    ],
+    "correct": 4,
+    "rationale": "Serie verbal que corresponde al arte de la adivinación."
+  },
+  {
+    "type": "verbal_series",
+    "statement": "Elija la opción que mantiene una relación análoga con el par Alpaca: moneda:",
+    "alternatives": [
+      "A) Maracuyá: papaya",
+      "B) Manzana: sidra",
+      "C) Rayo: tornado.",
+      "D) Charango: guitarra.",
+      "E) Galeno: guitarra."
+    ],
+    "correct": 1,
+    "rationale": "La relación análoga es de materia prima – producto."
+  },
+  {
+    "type": "verbal_series",
+    "statement": "Elija la palabra que no es sinónima de las demás.",
+    "alternatives": [
+      "A) cercenar.",
+      "B) amputar.",
+      "C) escindir.",
+      "D) sesgar.",
+      "E) obliterar."
+    ],
+    "correct": 4,
+    "rationale": "Obliterar es obtruir y no guarda relación con el campo semántico de cortar."
+  },
+  {
+    "type": "verbal_series",
+    "statement": "Fútil, esencial; inane, trascendental; fruslero,",
+    "alternatives": [
+      "A) anodino.",
+      "B) gravitante.",
+      "C) arcano.",
+      "D) imperfecto.",
+      "E) subrepticio."
+    ],
+    "correct": 1,
+    "rationale": "Se ha construido una serie de pares de antónimos. Debe seguir un antónimo: gravitante."
+  },
+  {
+    "type": "reading_comprehension",
+    "statement": "“…podemos dividir todas las percepciones de la mente en dos clases o especies, que se distinguen por sus distintos grados de fuerza o vivacidad. Las menos fue rtes o intensas comúnmente son llamadas pensamientos o ideas ;la otra especie carece de un nombre propio en nuestro idioma, como en la mayoría de los demás, según creo, porque solamente con fines filosóficos era necesario encuadrarlos bajo un término o denominación general. Concedámonos, pues, a nosotros mismos un poco de libertad, y llamémoslas impresiones , empleando este término en una acepción un poco distinta de la usual. Con el término impresión ,pues, quiero denotar nuestras percepciones más intensas: cuando oímos, o vemos, o sentimos, o amamos, u odiamos, o deseamos, o queremos. Y las impresiones se distinguen de las ideas que son percepciones menos intensas de las que tenemos conciencia, cuando reflexionamos sobre las sensaciones o movimientos arriba mencionados. Nada puede parecer, a primera vista, más ilimitado que el pensamiento del hombre que no sólo escapa a todo poder y autoridad humanos, sino que ni siquiera está encerrado dentro de los límites de la naturaleza y de la realidad. Formar monstruos y unir formas y apariencias incongruentes, no requiere de la imaginación más esfuerzo que el concebir objetos más naturales y familiares. Y mientras que el cuerpo está confinado a un planeta a lo largo del cual se arrastra con dolor y dificultad, el pensamiento, en un instante, puede transportarnos a las regiones más distantes del universo (…) Lo que nunca se vio o se ha oído contar, puede, sin embargo, concebirse. Nada está más allá del poder del pensamiento, salvo lo que implica contradicción absoluta . Pero, aunque nuestro pensamiento aparenta poseer esta libertad ilimitada, encontraremos en un examen más detenido que, en realidad, está reducido a límites muy estrechos, y que todo este poder creativo de la mente no viene a ser más que la facultad de mezclar, trasponer, aumentar, o disminuir los materiales suministrados por los sentidos y la experiencia (…) todas nuestras ideas, o percepciones más endebles, son copias de nuestras impresiones o percepciones más intensas”.",
+    "questions": [
+      {
+        "statement": "1. El tema central del texto es :",
+        "alternatives": [
+          "A) El carácter ilimitado de la imaginación humana.",
+          "B) La distinción entre las percepciones de la mente.",
+          "C) El origen empírico de las ideas.",
+          "D) La libertad del pensamiento.",
+          "E) El poder creativo de la mente humana."
+        ],
+        "correct": 2,
+        "rationale": "El autor explica que todas las ideas o pensamientos provienen de las impresiones."
+      },
+      {
+        "statement": "2. Del texto se infiere que el autor:",
+        "alternatives": [
+          "A) Es un metafísico dogmático recalcitrante .",
+          "B) Rechaza el carácter innato de nuestras ideas.",
+          "C) Es partidario de la teoría de la reminiscencia.",
+          "D) Es relativista debido a su posición sobre las ideas .",
+          "E) Niega el carácter derivado de nuestras ideas."
+        ],
+        "correct": 1,
+        "rationale": "En la medida que todas las ideas derivan de las impresiones, no hay ideas innatas, es decir, contenidos mentales con los que hemos nacido."
+      },
+      {
+        "statement": "3. El texto es incompatible con la siguiente afirmación:",
+        "alternatives": [
+          "A) La mente es inicialmente un “papel en blanco”.",
+          "B) Las ideas son percepciones débiles.",
+          "C) El pensamiento carece de límites.",
+          "D) La imaginación es la facultad de mezclar ideas.",
+          "E) Las percepciones más vivaces se llaman impresiones."
+        ],
+        "correct": 2,
+        "rationale": "Según el autor el límite de nuestro pensamiento son las impresiones."
+      },
+      {
+        "statement": "4. En el texto formar monstruos significa elaborar ideas de",
+        "alternatives": [
+          "A) personas de naturaleza perversas.",
+          "B) acontecimientos o acciones abominables.",
+          "C) objetos naturales que espantan por su aspecto .",
+          "D) hechos contrarios al orden regular de la naturaleza.",
+          "E) objetos impresionantes por su tamaño."
+        ],
+        "correct": 3,
+        "rationale": "Formar monstruos significa en este contexto formar ideas fantásticas que no corresponden con el orden natural y familiar de la naturaleza."
+      },
+      {
+        "statement": "5. En base al texto, si una persona fuera ciega de nacimiento, entonces",
+        "alternatives": [
+          "A) podría tener la idea de color en base a la imaginación.",
+          "B) carecería de la idea de color.",
+          "C) obtendría la idea de color por reflexión.",
+          "D) podría tener la impresión indirecta del color.",
+          "E) conocería los colores por medio de otro sentido."
+        ],
+        "correct": 1,
+        "rationale": "A falta de una impresión, también faltará la idea."
+      }
+    ]
+  },
+  {
+    "type": "reading_comprehension",
+    "statement": "Mi tarea es preparar a la humanidad un instante de supremo autoconocimiento, un gran mediodía en el que mire hacia atrás y hacia delante, en el que se sustraiga al dominio del azar y de los sacerdotes y plantee por vez primera, en su totalidad ,la cuestión del ¿por qué?, del ¿para qué? Esta tarea es una consecuencia necesaria para quien ha comprendido que la humanidad no marcha por sí misma por el camino recto, que no es gobernada en absoluto por un Dios, que, antes bien, el instinto de la negación, de la corrupción, el instinto de décadence ha sido el que ha reinado con su seducción, ocultánd ose precisamente bajo el manto de los más santos concepts de valor de la humanidad. El signo decisivo en que se revela que el sacerdote (incluidos los sacerdotes enmascarados ,los filósofos) se ha enseñoreado de todo, y no sólo de una determinada comunidad religiosa, el signo en que se revela que la moral de la décadence, la voluntad de final, se considera como moral en sí ,es el valor incondicional que en todas partes se concede a lo no -egoísta y la enemistad que en todas partes se dispensa a lo egoísta. A quien esté en desacuerdo conmigo en este punto lo considero infectado . Pero todo el mundo está en desacuerdo conmigo […]. El fisiólogo exige la disección de la parte C iclo 2014 -I degenera da, niega toda solidaridad con lo degenerado, está completamente lejos de sentir compasión por ello. Pero el sacerdote quiere precisamente la degeneración del todo, de la humanidad: por ello conserva lo degenerado; a ese precio domina él a la humanidad. ¿Qué sentido tienen aquellos conceptos -mentiras, los conceptos auxiliares de la moral, «alma», «espíritu», «voluntad libre», «D ios», sino el de arruinar fisiológicamente a la humanidad? […] Pérdida del centro de gravedad, la resistencia contra los instintos naturales, en una palabra, el «desinterés» –a esto se ha llamado hasta ahora moral.",
+    "questions": [
+      {
+        "statement": "1. El texto aborda centralmente el tema siguiente:",
+        "alternatives": [
+          "A) El problema de la existencia de sacerdotes y falsos sacerdotes (filósofos) y su vínculo con décadence",
+          "B) La pugna entre el autor y la Iglesia en la necesidad de defender los valores morales de la sociedad",
+          "C) El problema de la procedencia de los valores morales, su vínculo con la décadence del hombre.",
+          "D) La comparación moral, basada en el ¿por qué? O ¿para qué? Y la denuncia de existe manipulación.",
+          "E) Las normas morales y su imperiosa necesidad, basada en la autoridad de un texto sagrado y común."
+        ],
+        "correct": 2,
+        "rationale": "El tema central expone en principio la procedencia de los valores, identificándolo con el origen de la decadence humana."
+      },
+      {
+        "statement": "2. En el texto, el término DISECCIÓN tiene el sentido contextual de",
+        "alternatives": [
+          "A) amputación",
+          "B) laceración",
+          "C) cuidado",
+          "D) cura",
+          "E) observación"
+        ],
+        "correct": 0,
+        "rationale": "“El fisiólogo exige la disección de la parte degenerada” ;es decir, el corte ola amputación."
+      },
+      {
+        "statement": "3. Se colige que para el autor los filósofos",
+        "alternatives": [
+          "A) nos colocan en una situación de desesperación al enseñar el ateísmo.",
+          "B) son los únicos capacitados para liberarnos de nuestros prejuicios morales.",
+          "C) son vistos con optimismo, siempre que se alejen de la influencia clerical.",
+          "D) pueden también ser responsables de la decadencia moral del hombre.",
+          "E) deben instruirse en el manejo de la moral religiosa, para no ser engañados."
+        ],
+        "correct": 3,
+        "rationale": "El texto afirma: “El signo decisivo en que se revela que el sacerdote (incluidos los sacerdotes enmascarados ,los filósofos) se ha enseñoreado de todo” Se asume que hay filósofos tan responsables como los sacerdotes de nuestra decadencia moral."
+      },
+      {
+        "statement": "4. No se condice con lo afirmado por el texto, sostener que",
+        "alternatives": [
+          "A) el problema de la décadence moral involucra a sacerdotes y filósofos, exclusivamente.",
+          "B) conceptos como el de “Dios”, “alma”, “espíritu” son nocivos para la humanidad.",
+          "C) la resistencia contra los instintos naturales, es a lo que se ha llamado hasta ahora moral.",
+          "D) la humanidad ha estado, hasta ahora, gobernada por los fracasados, y embusteros.",
+          "E) el autor mantiene un tenue optimismo en relación a que el hombre tome conciencia."
+        ],
+        "correct": 0,
+        "rationale": "Para el autor, “todos están en desacuerdo con él”; es decir, todos están infectados de tal décadence . Por ende, se asume que involucra a todos y no principalmente a sacerdotes y filósofos."
+      },
+      {
+        "statement": "5. Si la concepción de Nietzsche, el autor, en relación a la moral y la decadence ,fuera propuesta en la sociedad actual,",
+        "alternatives": [
+          "A) habría que entregarle la cuestión a sacerdotes y filósofos para que la examinen y nos den su opinión.",
+          "B) se pondría en tela de juicio al responsable de la transmisión de los valores morales, como por ejemplo el sistema educativo.",
+          "C) tendríamos que rechazarla, pues atenta contra nuestros valores morales, que son los únicos verdaderos.",
+          "D) se buscaría un punto intermedio entre lo que propone y lo que queremos conservar del actual modelo moral.",
+          "E) la iglesia se haría responsable de implementar los cambios sugeridos por el autor, basados en la Biblia."
+        ],
+        "correct": 1,
+        "rationale": "Es la educación la que transmite lo s marcos axiológicos, por ende, si se propusiera el análisis de Nietzsche, tendríamos que cuestionar nuestro sistema educativo."
+      }
+    ]
+  },
+  {
+    "type": "sentence_elimination",
+    "statement": "I) El perfume: historia de un asesino es la primera novela del escritor alemán Patrick Süskind, publicada en 1985 bajo el título original Das Parfüm, die Geschichte eines Mörders . II) Inmediatamente se convirtió en un best -seller, traducido a más de cuarenta lenguas en todo el mundo. III) Perfume: The Story of a Murderer fue llevada al cine en el año 2006, cuyo protagonista principal fue el actor británico Ben Whishaw. IV) La novela El perfume está dividido en cuatro partes y cincuenta y un capítulos. V) Esta obra transporta al lector a un mundo con el que no está familiarizado, \"el evanescente reino de los olores\", a través de su protagonista, Jean -Baptiste Grenouille.",
+    "alternatives": [
+      "A) I",
+      "B) IV",
+      "C) V",
+      "D) I",
+      "E) III"
+    ],
+    "correct": 4,
+    "rationale": "Se elimina la oración III por inatingencia, ya que el tema centrales la novela El Perfume y no su incursión en el cine."
+  },
+  {
+    "type": "sentence_elimination",
+    "statement": "I) La Cuda es una mujer fantasma que tiene una pata de gallina, con su canto hipnotiza a los hombres, los lleva a su cueva y los mata. II) Cierto día un señor mayor empezó a contarme historias sobre la Cuda y sobre su veracidad. III) “Sí, existe. Ella es una mujer con cabeza largo y blanco que cubre su faz y uno nunca puede verle la cara”. IV) “Vive sola, tiene una pata de gallina y la otra humana, por eso anda cojeando”. V) “Cuando encuentra al hombre de su agrado lo hipnotiza con su canto, lo enamora al transformarse en la chica de la cual el hombre está enamorado y, una vez en su lecho, lo mata para quedarse con su alma”.",
+    "alternatives": [
+      "A) III",
+      "B) I",
+      "C) IV",
+      "D) II",
+      "E) V"
+    ],
+    "correct": 1,
+    "rationale": "Se elimina la oración I por redundancia, ya que esta se desarrolla en la oración IV y V."
+  },
+  {
+    "type": "sentence_elimination",
+    "statement": "I) En México, la leyenda de La Llorona se ha puesto en relación con el personaje de La Malinche. II) Según una tradición, tras ser repudiada por el aventurero español en favor de una mujer española, La Malinche decidió vengarse matando a los supuestos hijos de su amante. III) Según otra, fue condenada a penar eternamente en castigo por haber traicionado a su pueblo y haberse puesto al servicio de los conquistadores. IV) Esta última versión es la más difundida entre los sectores de la actual población mexicana. V) En Argentina, según Félix Coluccio, la historia de La Llorona está en relación con un tipo de leyenda sin duda emparentada con ella, la de la Viuda gimiente.",
+    "alternatives": [
+      "A) II",
+      "B) V",
+      "C) IV",
+      "D) III",
+      "E) I"
+    ],
+    "correct": 1,
+    "rationale": "Se elimina la oración V por inatingencia, ya que el tema centrales La leyenda de la Llorona en México, no en Argentina."
+  },
+  {
+    "type": "sentence_elimination",
+    "statement": "I) El diablo es un concepto vasto que abarca todas las cosas negativas de la vida diaria, e incluso a veces se le confunde con el duende, la sirena, etc. II) Es portador de desgracias y responsable de los acontecimientos negativos: asusta a la gente bruscamente y seduce tanto a los varones como a las mujeres. III) Arrastra a la gente a los torcidos senderos del adulterio y el robo; saquea sepulturas, para que los cadáveres se conviertan en sus v asallos, etc. IV) En el norte del Perú, al diablo se lo relaciona con las desgracias y establece pacto con curanderos. V) El diablo realiza pactos con algunos brujos y curanderos, estableciendo una relación especial que les permite a ellos tener algún poder.",
+    "alternatives": [
+      "A) V",
+      "B) II",
+      "C) IV",
+      "D) III",
+      "E) I"
+    ],
+    "correct": 2,
+    "rationale": "Se elimina la oración IV por redundancia, ya que esta se desarrolla en la oración I, II, III y V."
+  },
+  {
+    "type": "sentence_elimination",
+    "statement": "I) El premio Óscar es un premio concedido por la Academia de las Artes y las Ciencias Cinematográficas (en inglés: AMPAS; Academy of Motion Picture Arts and Sciences). II) Este premio se entrega en reconocimiento a la excelencia de los profesionales en la industria cinematográfica, incluyendo directores, actores y escritores y es ampliamente considerado el máximo honor en el cine. III) Este año, el actor Brad Pitt, productor y actor de la película 12 años de esclavitud recibió la preciada estatuilla de oro. IV) El Óscar es llamado oficialmente «Premio de la Academia al Mérito», y es el principal de los nueve premios que otorga dicha organización. V) El premio Óscar es también conocido como «premio de la Academia» o en inglés: Academy Award.",
+    "alternatives": [
+      "A) III",
+      "B) IV",
+      "C) I",
+      "D) V",
+      "E) II"
+    ],
+    "correct": 0,
+    "rationale": "Se elimina la oración III por inatingencia, ya que el tema centrales el Premio Óscar y no quién recibió dicha estatuilla."
+  },
+  {
+    "type": "verbal_series",
+    "statement": "Intransigente, fanático, inflexible,",
+    "alternatives": [
+      "A) Intolerante",
+      "B) profuso",
+      "C) categórico",
+      "D) sof ocado",
+      "E) obsecuente"
+    ],
+    "correct": 0,
+    "rationale": "Intolerante es sinónimo de pétreo, implacable e inexorable."
+  },
+  {
+    "type": "verbal_series",
+    "statement": "Pipiolo, incipiente; estólido, agudo; confinado, desterrado;",
+    "alternatives": [
+      "A) Inveterado, prístino",
+      "B) Camorrista, pendenciero",
+      "C) Garboso, magnánimo",
+      "D) Condenado , condonado",
+      "E) Puntilloso, meticuloso"
+    ],
+    "correct": 3,
+    "rationale": ""
+  },
+  {
+    "type": "verbal_series",
+    "statement": "Elija la alternativa que no corresponda a la serie verbal:",
+    "alternatives": [
+      "A) barrita",
+      "B) parpa",
+      "C) gorjea",
+      "D) rozna",
+      "E) trisca"
+    ],
+    "correct": 4,
+    "rationale": "La serie verbal corresponde al campo semántico de los sonidos o nomatopéyicos de los animales."
+  },
+  {
+    "type": "verbal_series",
+    "statement": "Elija la alternativa que no corresponde a la serie verbal:",
+    "alternatives": [
+      "A) birmano",
+      "B) bangladesí",
+      "C) beninés",
+      "D) caraqueño",
+      "E) butanés"
+    ],
+    "correct": 3,
+    "rationale": "La serie verbal corresponde al campo semántico de los gentilicios de los países, no de ciudades."
+  },
+  {
+    "type": "verbal_series",
+    "statement": "Qué alternativa no corresponde a la serie verbal:",
+    "alternatives": [
+      "A) Lisonjear",
+      "B) Vejar",
+      "C) zaherir",
+      "D) vituperar",
+      "E) vilipendiar"
+    ],
+    "correct": 0,
+    "rationale": "La serie verbal corresponde al campo semántico del maltrato."
+  },
+  {
+    "type": "reading_comprehension",
+    "statement": "Todas estas universas e infinitas gentes de todo género creó Dios las más simples, sin maldades ni dobleces, muy obedientes y fieles a sus señores naturales y a los cristianos a quienes sirven; más humildes, más pacientes, más pacíficas y quietas, sin rencillas ni bullicios, no rijosos, no querelloso s, sin rencores, sin odios, sin desear venganzas, que hay en el mundo. Son asimismo las gentes más delicadas, flacas y tiernas en complexión y las que menos pueden sufrir trabajos y que más fácilmente mueren de cualquier enfermedad; que ni hijos de príncipes y señores entre nosotros, criados en regalos y delicada vida, no son más delicados que ellos, aunque sean de los que entre ellos son de linaje de labradores. Son también gente muy pobre y que menos poseen ni quieren poseer bienes temporales; y por esto no soberbias, ni ambiciosas, ni codicias.” Sobre si los indios comían carne humana y cometían otra serie de crímenes: Las Casas replicó que “todo castigo suponía tener derecho para imponerlo a la persona que ha cometido el crimen; pero, los príncipes españoles, no tenían ningún derecho sobre los indios, por lo tanto no podían imponerles castigos (los indios al ser paganos quedaban fuera del ámbito de autoridad [jurisdicción] cristiana. […] Además, para el Obispo de Chiapas los indios eran personas inocentes que en potencia pertenecían a la Iglesia, por lo que quedaban bajo el ámbito de su protección, de tal modo, que la Iglesia, de la mano del Papa, debía velar por su cuidado y salvación, lo cual, nunca se alcanzaría si eran asesinados por los españoles. Frente a si era legal o no legal plantear una guerra contra estos pueblos para defender a las inocentes victimas de sus prácticas salvajes (otros indios). Las Casas argumentaba que el remedio de la guerra causaría males mayores, ya que no traería en ningún caso la paz, y además no obedecía a ningún principio ni legal ni penal cuando era todo un pueblo el que delinquía. Lo que era necesario era un cambio de religión en el cual estos crímenes salvajes no tuvieran cabida. Este cambio de religión no podía imponerse por la fuerza, sino que debía caracterizarse por ser una tarea evangelizadora que desde el respeto a los pueblos que allí habitaban, consiguiera la cristianización de las Indias. “La naturaleza nos enseña que es muy justo que ofrezcamos a Dios, de quien por tantos motivos nos reconocemos deudores, las cosas más preciosas y excelentes. Ahora bien, según la verdad y juicio humanos, ninguna cosa hay más preciosa como la vida”.",
+    "questions": [
+      {
+        "statement": "El texto aborda centralmente el tema de",
+        "alternatives": [
+          "A) la relación entre españoles e indios en el contexto de la conquista, sus implicancias y justificaciones, desde la mirada de Bartolomé de las Casas.",
+          "B) el esfuerzo de los indígenas por ser aceptados por los españoles, como seres humanos plenos, desde la propuesta de Bartolomé de las Casas.",
+          "C) la pugna que se dio entre Bartolomé de las Casas y los defensores de la esclavitud del indio, en el contexto de la conquista y emancipación.",
+          "D) las normas, el sistema político y las costumbres de los indios para autogobernarse y relacionarse con los españoles a través de Bartolomé de las Casas.",
+          "E) las cualidades, los atributos y las aptitudes de los españoles en contraposición con la paciencia, delicadeza y pacifismo de los indígenas del antiguo Perú."
+        ],
+        "correct": 0,
+        "rationale": "El tema central expone las justificaciones de Bartolomé de las Casas, entorno a la relación entre españoles e indios."
+      },
+      {
+        "statement": "En la expresión DELICADA VIDA, “DELICADA” tiene el sentido contextual de",
+        "alternatives": [
+          "A) vanidosa .",
+          "B) frágil .",
+          "C) perezosa .",
+          "D) muelle .",
+          "E) quebradiza."
+        ],
+        "correct": 3,
+        "rationale": "Muelle es la vida de los “ hijos de príncipes y señores”, es decir una vida placentera, exenta de duros trabajos ."
+      },
+      {
+        "statement": "Se colige que para Bartolomé de las Casas los indios",
+        "alternatives": [
+          "A) gozaban de una libertad natural, no exenta de excesos, pero eran libres al fin y al cabo.",
+          "B) estaban dominados por sus pasiones más salvajes, por ello los príncipes debían evangel izarlos.",
+          "C) no necesitaban de la religión, pues eran felices al natural; sin embargo, podían ser creyentes .",
+          "D) debía disponerse contra ellos todo poder natural y religioso a fin de acabar con sus crímenes.",
+          "E) debían instruirse en la fe y las artes a fin de conocer a Dios y a los príncipes como sus amos ."
+        ],
+        "correct": 0,
+        "rationale": "El texto afirma: “todo castigo suponía tener derecho para imponerlo a la persona que ha cometido el crimen; pero, los príncipes españoles, no tenían ningún derecho sobre los indios”. Por ende, eran libres."
+      },
+      {
+        "statement": "No se condice con lo afirmado por el texto sostener que",
+        "alternatives": [
+          "A) Los indios eran vistos como pobres pues no ambicionaban posesiones .",
+          "B) La religión era ante todo, para Bartolomé, evangelización, no fuerza.",
+          "C) los indios tenían sentimientos nobles e inocentes, incapaces de crueldades .",
+          "D) Bartolomé expone su postura como respuesta a argumentos esclavizadores .",
+          "E) El texto pone en evidencia que Bartolomé era defensor de los indígenas."
+        ],
+        "correct": 2,
+        "rationale": "Bartolomé no niega que los indios cometieran crímenes o abusos contra otros indios, por ello afirma que “la guerra no traerá paz”"
+      },
+      {
+        "statement": "Si la concepción de Bartolomé, en relación a los indios, fuera propuesta en la sociedad actual, para analizar el caso de los presos por graves delitos.",
+        "alternatives": [
+          "A) se apelaría a la religión como una vía para conseguir su transformación real.",
+          "B) sería imposible no simpatizar con la causa y situación de tales criminales.",
+          "C) se evitaría hacerles pagar sus crímenes, pues estos estarían justificados .",
+          "D)se distorsionaría la propuesta de B artolomé pues los presos no son salvajes .",
+          "E) la iglesia se haría responsable de tales crímenes tanto como de los criminales ."
+        ],
+        "correct": 0,
+        "rationale": "Al margen de los castigos o crímenes, Bartolomé expone un cambio real en las personas a través de la religión."
+      }
+    ]
+  },
+  {
+    "type": "reading_comprehension",
+    "statement": "Al margen de los castigos o crímenes, Bartolomé expone un cambio real en las personas a través de la religión. Se cuenta con al menos cinco teorías diferentes acerca del origen geográfico del manuscrito. En primer lugar, el libro podría haber sido escrito en la Abadía de Iona y trasladado urgentemente a Kells, lo que explicaría que nunca hubiera sido terminado. Por el contrario, su redacción podría haberse iniciado en Iona antes de ser continuada en Kells, donde habría sido interrumpida por alguna razón desconocida. Otros investigadores aventuran que el manuscrito bien podría haber sido totalmente escrito en e l scriptorium de Kells. Una cuarta hipótesis sitúa la creación original de la obra en el norte de Inglaterra, posiblemente en Lindisfarne, antes de su traslado a Iona y luego a Kells. El Libro de Kells, finalmente, podría haber sido la realización de un monasterio indeterminado en Escocia. Por otra parte, más allá de determinar la hipótesis correcta, está firmemente establecido que el Libro de Kells fue realizado por monjes pertenecientes a una de las comunidades de san Colomba, que mantenía estrechas relaciones, sino más, con la Abadía de Iona. Fuera cual fuera el lugar en que fue redactado, los historiadores están totalmente seguros de la presencia del Libro de Kells en la abadía del mismo nombre como mínimo a principios del XI. Un pasaje de los Anales de Ulster, sobre el año 1006, informa en efecto que «el gran Evangelio de Colomba, principal reliquia del mundo occidental, fue sustraído subrepticiamente en plena noche de una sacristía de la gran iglesia de piedra de Cenannas en Kells debido a su precioso estuche». El manuscrito fue encontrado meses más tarde «bajo un montón de tierra», aligerado de su cobertura decorada con oro y piedras preciosas. Si se asume, que el manuscrito en cuestión es el Libro de Kells, se trata entonces de la primera fecha en la que se puede ubicar con certeza la obra en Kells. El arranque violento de la cobertura explicaría, además, la pérdida de algunas hojas del principio y el final de la obra. En el siglo XII, se copiaron ciertos documentos referentes a tierras propiedad de la abadía de Kells sobre algunas hojas en blanco del Libro de Kells, lo que proporciona una nueva confirmación de la presencia de la obra en este establecimiento monástico. Debido a la escasez de papel en la Edad Media, la copia de documentos en obras tan importantes como el Libro de Kells era una práctica habitual.",
+    "questions": [
+      {
+        "statement": "Se infiere que el nombre “El Libro de Kells” se debe",
+        "alternatives": [
+          "A) a que fue encontrado en un lugar llamado Kells.",
+          "B) a que fue escrito en la Abadía de Iona.",
+          "C) al origen geológico del manuscrito.",
+          "D) a que nunca habría sido terminado.",
+          "E) a alguna razón todavía desconocida."
+        ],
+        "correct": 0,
+        "rationale": "El manuscrito fue encontrado meses más tarde «bajo un montón de tierra», en Kells"
+      },
+      {
+        "statement": "La expresión “aligerado” alude a",
+        "alternatives": [
+          "A) la rapidez",
+          "B) una hipótesis",
+          "C) hurto",
+          "D) las piedras preciosas",
+          "E)la carátula decorada"
+        ],
+        "correct": 2,
+        "rationale": "Es una figura de lenguaje, una broma, un eufemismo"
+      },
+      {
+        "statement": "El libro referido corresponde al periodo llamado",
+        "alternatives": [
+          "A) Época medieval",
+          "B) Renacimiento",
+          "C) Precolombino",
+          "D) Barroco",
+          "E) Posmodernidad"
+        ],
+        "correct": 0,
+        "rationale": "Los historiadores están totalmente seguros de la presencia del Libro de Kells en la abadía del mismo nombre como mínimo a principios del XI."
+      },
+      {
+        "statement": "Si el manuscrito no hubiera sido sustraído subrepticiamente ,",
+        "alternatives": [
+          "A) no habría sido cubierto por la tierra .",
+          "B) aún estaría en la sacristía .",
+          "C) hoy valdría su peso en oro .",
+          "D) hoy valdría solo por las joyas .",
+          "E) podría estar completo."
+        ],
+        "correct": 4,
+        "rationale": "El arranque violento de la cobertura explicaría, la pérdida de algunas hojas del principio y el final de la obra."
+      },
+      {
+        "statement": "Es incompatible afirmar que el libro de Kells",
+        "alternatives": [
+          "A) dio origen a cinco teorías diferentes sobre su origen.",
+          "B) tiene un contenido exclusivamente religioso.",
+          "C) parece seren realidad el gran Evangelio de Colomba.",
+          "D) fue robado subrepticiamente en plena noche.",
+          "E) podría ser la principal reliquia del mundo occidental."
+        ],
+        "correct": 1,
+        "rationale": "En el siglo XII, se copiaron ciertos documentos referentes a tierras propiedad de la abadía de Kells sobre algunas hojas en blanco del Libro de Kells, debido a la escasez de papel en la Edad Media."
+      }
+    ]
+  },
+  {
+    "type": "sentence_elimination",
+    "statement": "I) Apache es un gran tiburón blanco capturado en México en el 2009 por un equipo de pescadores y científicos. II) Apache mide 5,5 metros de largo y fue encontrado en la Isla de Guadalupe, en México, en el otoño de 2009. III) Apache supera el récord de 5,1 metros que estableció el equipo con la captura de un tiburón blanco hembra llamado Kimel. IV) Al nuevo ganador se le llamó Apache, por el perro de Brett McBride, capitán del barco del programa del Canal National Geographic Shark Men. V) El trabajo de estos científicos y pescadores que capturan y liberan tiburones blancos es para obtener información sobre estos misteriosos animales.",
+    "alternatives": [
+      "A) III",
+      "B) IV",
+      "C) II",
+      "D) V",
+      "E) I"
+    ],
+    "correct": 4,
+    "rationale": "Se elimina la oración I por redundancia, ya que esta se desarrolla en las demás"
+  },
+  {
+    "type": "sentence_elimination",
+    "statement": "ELIMINACIÓN DE ORACIONES\n\n1. I) Apache es un gran tiburón blanco capturado en México en el 2009 por un equipo de pescadores y científicos. II) Apache mide 5,5 metros de largo y fue encontrado en la Isla de Guadalupe, en México, en el otoño de 2009. III) Apache supera el récord de 5,1 metros que estableció el equipo con la captura de un tiburón blanco hembra llamado Kimel. IV) Al nuevo ganador se le llamó Apache, por el perro de Brett McBride, capitán del barco del programa del Canal National Geographic Shark Men. V) El trabajo de estos científicos y pescadores que capturan y liberan tiburones blancos es para obtener infor mación sobre estos misteriosos animales.\n\n¿Se elimina la oración I por redundancia, ya que esta se desarrolla en las demás oraciones?",
+    "alternatives": [
+      "A) III",
+      "B) IV",
+      "C) II",
+      "D) V",
+      "E) I"
+    ],
+    "correct": 4,
+    "rationale": "Se elimina la oración I por redundancia, ya que esta se desarrolla en las demás oraciones."
+  },
+  {
+    "type": "sentence_elimination",
+    "statement": "ELIMINACIÓN DE ORACIONES\n\n2. I) El perro Uggie, estrella de „El artista (ganadora del Óscar 2012 a mejor película) lanzó su autobiografía llamada “Mi historia”. II) El perro de raza Jack Russell ahora tiene su vida en un libro gracias a la escritora británica Wendy Holden. III) Cuando surgió la idea del libro autobiográfico de Uggie la escritora se puso en contacto vía Facebook con su dueño Von Muller. IV) Uggie canalizó sus pensamientos a través de su dueño Von Muller. V) Este mes Pudsey, ganador canino del programa Britains Got Talent, también publicó su propia historia.\n\n¿Se elimina la oración V por inatingencia, ya que el tema centrales el libro de la estrella canina Uggie y no de Pudsey?",
+    "alternatives": [
+      "A) II",
+      "B) I",
+      "C) III",
+      "D) V",
+      "E) IV"
+    ],
+    "correct": 3,
+    "rationale": "Se elimina la oración V por inatingencia, ya que el tema centrales el libro de la estrella canina Uggie y no de Pudsey."
+  },
+  {
+    "type": "verbal_series",
+    "statement": "SERIES VERBALES\n\n1. Bergante, granuja, bellaco,…",
+    "alternatives": [
+      "A) incau to",
+      "B) truhan",
+      "C) inconcuso",
+      "D) megalómano",
+      "E) letífico"
+    ],
+    "correct": 1,
+    "rationale": "Truhan es sinónimo de bergante, granuja, bellaco."
+  },
+  {
+    "type": "verbal_series",
+    "statement": "SERIES VERBALES\n\n2. Cendal, tul, gasa ,…",
+    "alternatives": [
+      "A) rapaz",
+      "B) gasóleo",
+      "C) muselina",
+      "D) juanete",
+      "E) reticente"
+    ],
+    "correct": 2,
+    "rationale": "Muselina es sinónimo de cendal, tul y gasa."
+  },
+  {
+    "type": "verbal_series",
+    "statement": "SERIES VERBALES\n\n3. Impávido, impertérrito, impasible ,…",
+    "alternatives": [
+      "A) flemático",
+      "B) ecuánime",
+      "C) colagogo",
+      "D) colanilla",
+      "E) subyugado"
+    ],
+    "correct": 0,
+    "rationale": "Impávido, impertérrito, impasible son sinónimos de flemático."
+  }
+]

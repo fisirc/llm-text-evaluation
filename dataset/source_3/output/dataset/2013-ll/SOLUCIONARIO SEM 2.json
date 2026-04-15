@@ -1,0 +1,783 @@
+[
+  {
+    "type": "reading_comprehension",
+    "statement": "Se considera que la alternativa más lógica ante el déficit de cereales es utilizar las maravillosas posibilidades que tiene el medio tropical con su provisión media constante de energía radiante por cultivos de ciclo largo que, como la yuca, los ñames, el taro, el ocumo y la caña de azúcar olas musáceas (plátanos y bananos), son las plantas de más elevado rendimiento energético por hectárea y por año a nivel mundial. Estas plantas, por la tradición de su cultivo, por la dependencia relativamente baja de insumos importados, por su adaptabilidad al ecosistema tropical, por la facilidad de su manejo –especialmente reflejado en el amplio periodo de cosecha – y por poder utilizar en su procesamiento técnicas desde muy sencillas hasta muy complicadas, aparecen como una de las mejores soluciones para suplir aquel déficit.",
+    "questions": [
+      {
+        "statement": "1. ¿Cuál es el tema central del texto?",
+        "alternatives": [
+          "A) La escasa tecnología que se requiere para los cultivos tropicales",
+          "B) El fértil medio tropical caracterizado por tener cultivos de ciclo largo",
+          "C) El problema de alimentación generado por el déficit de cereales",
+          "D) Los cultivos tr opicales como sucedáneos eficientes de los cereales",
+          "E) El alto rendimiento energético por hectárea de los cultivos tropicales"
+        ],
+        "correct": 3,
+        "rationale": "SOL. El texto señala un problema y la solución para el mismo. El tema central incide en la solución formulada."
+      }
+    ]
+  },
+  {
+    "type": "reading_comprehension",
+    "statement": "La feminismo político es un movimiento político muy respetable que comenzó a principios del siglo XX y terminó ganando el voto y mejores condiciones de trabajo para la mujer. Y otra cosa es el feminismo académico, que consiste, por ejemplo, en atacar a todos los escritores que usan un pronombre o un artículo determinado que no gusta. Las filósofas feministas ignoran que la razón no tiene sexo, y solo logran segregarse, reuniéndose en sociedades y congresos especiales. Además, no estudian el grave problema social y político del puesto de la mujer en la sociedad, sino nimiedades. Una menstruación de los puercoespines.",
+    "questions": [
+      {
+        "statement": "1. La idea principal del texto afirma que",
+        "alternatives": [
+          "A) las filósofas feministas tratan temas apremiantes.",
+          "B) la mujer se encuentra en condiciones desventajosas.",
+          "C) el feminismo político ganó derechos para las mujeres.",
+          "D) Aristóteles abordó temas considerados irrelevantes.",
+          "E) el feminismo académico es una postura inconducente."
+        ],
+        "correct": 4,
+        "rationale": "SOL. En el texto se afirma que el feminismo académico es improductivo por tratar temas irrelevantes."
+      }
+    ]
+  },
+  {
+    "type": "reading_comprehension",
+    "statement": "Casi todos los filósofos han estado al servicio de algún príncipe y, sobre todo a partir de la Edad Moderna, los filósofos universitarios han sido empleados del Estado y, cuando se han propasado, su soberano se lo ha hecho saber. Por ejemplo, hay una carta muy famosa que Federico Guillermo II le manda a Kant, en la que le dice que no se atreva a repetir unas ideas que corrompen a la juventud alemana porque de lo contrario se expondría a consecuencias muy desagradables. Kant replica con una carta servil prometiendo no hablar más de religión. No se dice a menudo, pero Kant fue el primer filósofo alemán ateo. En la Crítica de la razón pura dice que Dios es una mera idea. No dice una idea pura. Una mera idea. Era ateo. En ningún momento acude a Dios para explicar nada. En todo caso, Kant fue antidemocrático, y su primer principio ético fue obedecer. Lo mismo que Confucio, la ética de Kant es de obediencia ciega al orden establecido. En el caso de Confucio porque su principal objetivo era la armonía y terminar con las interminables guerras civiles en China, así que en su caso se puede justificar.",
+    "questions": [
+      {
+        "statement": "1. El sinónimo contextual de la palabra CIE GA es",
+        "alternatives": [
+          "A) insensible.",
+          "B) limitada.",
+          "C) ofuscada.",
+          "D) absoluta.",
+          "E) intransigente."
+        ],
+        "correct": 3,
+        "rationale": "SOL. Se presenta a Kant y a Confucio como personas con una obediencia irrestricta al orden establecido."
+      }
+    ]
+  },
+  {
+    "type": "reading_comprehension",
+    "statement": "Al terminar la exposición de Francisco Romero, pidió la palabra un profesor de geografía que había sido jefe de celadores en el Colegio Nacional de Buenos Aires. (Los chicos lo llamábamos «Patoruzú» por su gran estatura y por la enormidad de sus zapatos.) En su tono fúnebre acostumbrado, declaró que la definición de «ciencia» que acababa de dar Romero no se ajustaba a la ciencia que él y el propio Romero conocían, a saber, la geografía. Cuando terminó Patoruzú, todos dirigimos nuestras miradas hacia Romero, esperando su respuesta. Pero él se quedó mudo y empezó a enrojecer hasta ponerse de color púrpura. Algunos temimos que le diera una apoplejía. Al cabo de un par de minutos tan embarazosos como silenciosos, la presidenta de la reunión declaró que el profesor Romero apreciaba la amistad por sobre todo, y que la reunión era una sociedad de amigos, en la que no cabía la disensión.",
+    "questions": [
+      {
+        "statement": "1. Con respecto a Francisco Romero, es incompatible afirmar que",
+        "alternatives": [
+          "A) recibió el apoyo de la organizadora del evento.",
+          "B) empleó un discurso epistemológico en la reunión.",
+          "C) disertó sobre la naturaleza del concepto de ciencia.",
+          "D) se caracterizaba por ser un destacado polemista.",
+          "E) conocía al menos los rudimentos de la geografía."
+        ],
+        "correct": 3,
+        "rationale": "SOL. Francisco Romero evitó responder ante la intervención del profesor de geografía."
+      }
+    ]
+  },
+  {
+    "type": "reading_comprehension",
+    "statement": "Hace unos años, los psicólogos Peter J. Rentfrow y Samuel D. Gosling, de la Universidad de Texas idearon el \"Test Corto de las Preferencias Musicales\" (STOMP, por sus siglas inglesas) y sometieron a varios centenares de jóvenes a sus preguntas. Los resultados, publicados en la revista Journal of Personality and Social Psychology , muestran que si usted es amante del blues o del jazz probablemente será una persona lista, imaginativa, tolerante y liberal, además de abierta a nuevas experiencias. Los consumidores de heavy metal coinciden en ser especialmente curiosos y habituales «cabecillas» sociales. Extroversión, locuacidad, energía y una elevada autoestima son los rasgos que predominan entre los fans del hip-hop y el funky . Y quienes escuchan las canciones de la popular Madonna, ola banda sonora de Bailando con Lobos ,suelen ser sujetos conservadores, felices, agradable s y, con frecuencia, emocionalmente inestables.",
+    "questions": [
+      {
+        "statement": "1. Se infiere que las preferencias musicales",
+        "alternatives": [
+          "A) de nuestro tiempo son más refinadas que antaño.",
+          "B) pueden dar una pista de los rasgos de personalidad.",
+          "C) están fuertemente influidas por el nivel educativo .",
+          "D) terminan fanatizando a la mayoría de las personas.",
+          "E) permiten determinar el sexo de los individuos."
+        ],
+        "correct": 1,
+        "rationale": "SOL. Según el tipo de música que se escuche podemos ser tolerantes, curiosos, locuaces o inestables."
+      }
+    ]
+  },
+  {
+    "type": "reading_comprehension",
+    "statement": "La hipersexualidad es un trastorno caracterizado por un deseo sexual desenfrenado que se estimula con mucha facilidad, generalmente a través de la vista. Es más común referirse a él como «adicción al sexo», aunque esta terminología no es correcta, ya que la comunidad científica atribuye este mal a un comportamiento desech ar del todo esta expresión popular. Investigadores de la Universidad de California - Los Ángeles (UCLA) han determinado que el cerebro de quienes padecen hipersexualidad no actúa de la misma manera que el de los adictos a las drogas. Para obtener esta conclusión, los científicos mostraron imágenes estándar e imágenes de sexo explícito a una muestra de hombres y mujeres hipersexuales y analizaron sus respuestas cerebrales, en especial la respuesta P300. Esta se desencadena 300 milisegundos después de ver una imagen y se incrementa cuando observamos algo que nos provoca un desmedido interés. Así, los drogodependientes experimentan una respuesta P300 más alta al ver una sustancia. Pero en el caso de la hipersexualidad, la respuesta cerebral no aumentó en general ante las imágenes sexuales sino que dependió exclusivamente del deseo sexual de cada participante.",
+    "questions": [
+      {
+        "statement": "1. Si la respuesta P300 de los individuos expuestos a imágenes sexuales hubiera aumentado indiscriminadamente,",
+        "alternatives": [
+          "A) la hipersexualidad todavía sería considerada una conducta compulsiva.",
+          "B) la drogodependencia por fin dejaría de ser un problema tan acuciante.",
+          "C) los investigadores ya no emplearían el análisis de la respuesta P300.",
+          "D) la hipersexualidad sería catalogada correctamente como una adicción.",
+          "E) la respuesta cerebral P300 tomaría más tiempo para desencadenarse."
+        ],
+        "correct": 3,
+        "rationale": "SOL. La respuesta fisiológica sería igual a la que experimentaron los drogodependientes. Consecuentemente, la hipersexualidad funcionaría como una adicción."
+      }
+    ]
+  },
+  {
+    "type": "reading_comprehension",
+    "statement": "La oveja Dolly fue el primer y el más célebre de los mamíferos clonados de la historia. II) La oveja Dolly, de raza Finn Dorset , nació el 5 de julio de 1996 en el Instituto Roslin de Edimburgo (Escocia). III) La existencia de la oveja Dolly se mantuvo en reserva y solo se divulgó el 23 de febrero de 1997. IV) Canon sacó un anuncio con dos ovejas idénticas : «¡Vaya acontecimiento! Nosotros llevamos años haciendo copias perfectas ». V) Para llegar a Dolly se necesitaron 277 intentos, con 277 óvulos, de los que nació una sola oveja.",
+    "questions": [
+      {
+        "statement": "1. Con respecto a Francisco Romero, es incompatible afirmar que",
+        "alternatives": [
+          "A) recibió el apoyo de la organizadora del evento.",
+          "B) empleó un discurso epistemológico en la reunión.",
+          "C) disertó sobre la naturaleza del concepto de ciencia.",
+          "D) se caracterizaba por ser un destacado polemista.",
+          "E) conocía al menos los rudimentos de la geografía."
+        ],
+        "correct": 3,
+        "rationale": "SOL. Francisco Romero evitó responder ante la intervención del profesor de geografía."
+      }
+    ]
+  },
+  {
+    "type": "sentence_elimination",
+    "statement": "Si la respuesta P300 de los individuos expuestos a imágenes sexuales hubiera aumentado indiscriminadamente,",
+    "alternatives": [
+      "A) la hipersexualidad todavía sería considerada una conducta compulsiva.",
+      "B) la drogodependencia por fin dejaría de ser un problema tan acuciante.",
+      "C) los investigadores ya no emplearían el análisis de la respuesta P300.",
+      "D) la hipersexualidad sería catalogada correctamente como una adicción.",
+      "E) la respuesta cerebral P300 tomaría más tiempo para desencadenarse."
+    ],
+    "correct": 3,
+    "rationale": "SOL. La respuesta fisiológica sería igual a la que experimentaron los drogodependientes. Consecuentemente, la hipersexualidad funcionaría como una adicción."
+  },
+  {
+    "type": "sentence_elimination",
+    "statement": "1. I) La lengua tiene diecisiete músculos para coordinar sus movimientos con suma agilidad cuando respiramos, tragamos saliva y hablamos simultáneamente. II) Gracias a que la lengua es flexible y no está fija en la garganta, somos capaces de emitir más sonidos que ningún otro animal. III) La lengua de los seres humanos tiene entre 96 y 400 papilas por centímetro cuadrado. IV) En un solo día, la lengua humana se contrae, se expande, se aplana y se mueve en todas las direcciones dentro de la boca varios miles de veces. V) Aproximadamente el 60% de la población mundial es capaz de enrollar la lengua en forma de U gracias a un gen que comparten.",
+    "alternatives": [
+      "A) I",
+      "B) II",
+      "C) III",
+      "D) IV",
+      "E) V"
+    ],
+    "correct": 4,
+    "rationale": "SOL. Se elimina V por inatingencia. El tema alude a las características gen erales de la lengua. V recoge una característica específica del 60% de la población."
+  },
+  {
+    "type": "sentence_elimination",
+    "statement": "2. I) Mantener relaciones sexuales todos los días, durante una semana, mejora la calidad del esperma e incrementa las posibilidades de embarazo . II) Un estudio llevado a cabo en el centro de fertilización in vitro de Sydney evaluó a 614 varones con problemas de fertilidad. III) Según el estudio, ocho de cada diez hombres evaluados mostraron una reducción del 12% en el daño al ADN de su esperma tras una semana de actividad sexual. IV) Los espermatozoides también se volvieron más activos transcurridos los siete días de actividad sexual, experimentando un pequeño aumento en la motilidad. V) El estudio sugiere que cuanto más tiempo pasa el esperma almacenado en los testículos, hay más probabilidades de que acumule daño en el ADN , atacado por radicales libres.",
+    "alternatives": [
+      "A) I",
+      "B) II",
+      "C) III",
+      "D) IV",
+      "E) V"
+    ],
+    "correct": 0,
+    "rationale": "SOL. Se elimina I por redundancia. El enunciado I está implicado en los demás."
+  },
+  {
+    "type": "sentence_elimination",
+    "statement": "3. I) La oveja Dolly fue el primer y el más célebre de los mamíferos clonados de la historia. II) La oveja Dolly, de raza Finn Dorset , nació el 5 de julio de 1996 en el Instituto Roslin de Edimburgo (Escocia). III) La existencia de la oveja Dolly se mantuvo en reserva y solo se divulgó el 23 de febrero de 1997. IV) Canon sacó un anuncio con dos ovejas idénticas : «¡Vaya acontecimiento! Nosotros llevamos años haciendo copias perfectas ». V) Para llegar a Dolly se necesitaron 277 intentos, con 277 óvulos, de los que nació una sola oveja.",
+    "alternatives": [
+      "A) I",
+      "B) II",
+      "C) III",
+      "D) IV",
+      "E) V"
+    ],
+    "correct": 3,
+    "rationale": "SOL. IV resulta inatingente."
+  },
+  {
+    "type": "sentence_elimination",
+    "statement": "4. I) Steve Jobs nació en 1955 y, como sus padres eran estudiantes y no estaban casados, fue dado en adopción una semana después de nacer. II) El primer trabajo de Steve Jobs fue en Atari, una de las primeras compañías de videojuegos . III) En 1975 fundó, junto a Steve Wozniak, Apple Computer Inc., que nació en la habitación de Jobs. IV) Steve Jobs dejó Apple en 1985 pero pronto se convirtió en director ejecutivo de otra gran compañía, Pixar. V) En 2007, ya de vuelta en Apple, revolucionó el mercado con su teléfono iPhone , y en 2010 dejó al mundo boquiabierto con la tableta iPad.",
+    "alternatives": [
+      "A) I",
+      "B) II",
+      "C) III",
+      "D) IV",
+      "E) V"
+    ],
+    "correct": 0,
+    "rationale": "SOL. I resulta inatingente."
+  },
+  {
+    "type": "sentence_elimination",
+    "statement": "5. I) En octubre de 1944, lo s norteamericanos que luchaban contra los japoneses descubrieron que sus enemigos empleaban un arma nueva. II) Las aeronaves niponas se desentendían de bombardear los buques americanos y se limitaban a dirigirse contra ellos repletos de explosivos. III) Lo s pilotos japoneses se estrellaban voluntariamente y eso no había sido previsto por los estrategas estadounidenses. IV) El fanatismo que conduce a un acto considerado glorioso era un modo de combatir que no entraba en los cálculos militares americanos. V) Los kamikazes consiguieron hundir el doble de buques que los que se habían perdido hasta entonces.",
+    "alternatives": [
+      "A) I",
+      "B) II",
+      "C) III",
+      "D) IV",
+      "E) V"
+    ],
+    "correct": 2,
+    "rationale": "SOL. III redunda con II y IV."
+  },
+  {
+    "type": "verbal_series",
+    "statement": "1. Reflexionar, cavilar, pensar,",
+    "alternatives": [
+      "A) aterir",
+      "B) incidir",
+      "C) dirimir",
+      "D) cogitar",
+      "E) recular"
+    ],
+    "correct": 3,
+    "rationale": "SOL. Serie verbal sinonímica."
+  },
+  {
+    "type": "verbal_series",
+    "statement": "2. Terminar, finiquitar, ultimar,",
+    "alternatives": [
+      "A) zaherir",
+      "B) implicar",
+      "C) resarcir",
+      "D) elidir",
+      "E) rematar"
+    ],
+    "correct": 4,
+    "rationale": "SOL. Serie verbal sinonímica."
+  },
+  {
+    "type": "verbal_series",
+    "statement": "3. Averiguar, indagar, inquirir,",
+    "alternatives": [
+      "A) imputar",
+      "B) escrutar",
+      "C) redimir",
+      "D) execrar",
+      "E) impeler"
+    ],
+    "correct": 1,
+    "rationale": "SOL. Serie verbal sinonímica."
+  },
+  {
+    "type": "verbal_series",
+    "statement": "4. ¿Cuál de los siguientes términos no forma parte de la serie verbal?",
+    "alternatives": [
+      "A) lívido",
+      "B) violáceo",
+      "C) bermejo",
+      "D) carmesí",
+      "E) estentóreo"
+    ],
+    "correct": 4,
+    "rationale": "SOL. Serie verbal asociada al campo semántico del color."
+  },
+  {
+    "type": "verbal_series",
+    "statement": "5. ¿Cuál de los siguientes términos no forma parte de la serie verbal?",
+    "alternatives": [
+      "A) acerbo",
+      "B) melifluo",
+      "C) ácido",
+      "D) pírrico",
+      "E) salado"
+    ],
+    "correct": 3,
+    "rationale": "SOL. Serie verbal asociada al campo semántico del sabor."
+  },
+  {
+    "type": "reading_comprehension",
+    "statement": "¿Qué hace que una canción sea más pegadiza que otra ? ¿Qué provoca que cantemos repetidamente ciertas estrofas de una canción? Psicólogos y expertos en música de varias universidades británicas y estadounidenses han descifrado el enigma y dado con las claves de las canciones más pegadizas de la historia.\nSegún concluye el estudio, dirigido por el musicólogo Ali sun Pawley y el psicólogo Daniel Mullensiefen, la canción más pegadiza y, por lo tanto, la más susceptible de ser cantada por la gente a la vez que suena es We Are The Champions de Queen ,un clásico de 1977 que ha desbancado a otro «himno»: Y.M.C.A. ,de los Village People. En la lista de las diez canciones más pegadizas se sitúa en tercera posición Fat Lip de Sum 41, seguida de The Final Countdown de Europe, Monster de The Automatic, Ruby de The Kaiser Chiefs, I'm Always Here de Jimi Jamison, Brown Eyed Girl de Van Morrison, Teenage Dirtbag de Wheatus; y, finalmente, Livin' on a Prayer de Bon Jovi.\nEl análisis de los expertos revela que hay cuatro elementos clave que hacen de una canción la más pegadiza y la más «tarareable». En primer lugar, el aire que tome el interprete para cantar los versos de la canción, de tal manera que cuanto más largo es el tiempo que sostiene las palabras, más fácil es que nosotros cantemos con él. En segundo lugar, cuanto mayor es el número de sonidos y matices que se introducen en el coro, más pegadiza será la canción. En tercer lugar, las canciones con voces agudas y grandes esfuerzos vocales indicarían mayores dosis de energía. Por último, el sexo del vocalista de grito de guerra subconsciente ,por lo que podría despertar una parte tribal de nuestro ser humano primitivo que se dirige hacia una batalla.",
+    "questions": [
+      {
+        "statement": "¿Cuál es el tema central del texto?",
+        "alternatives": [
+          "A) El arrollador éxito de We Are The Champions de Queen",
+          "B) La enorme importancia de cantar una canción pegadiza",
+          "C) La dilucidación del carácter pegadizo de una canción",
+          "D) El espíritu tribal de los hombres ve rtido en una canción",
+          "E) La lista de las diez canciones más pegadizas de la historia"
+        ],
+        "correct": 2,
+        "rationale": "SOL. El texto señala cuatro razones por las que una canción se torna pegadiza y tarareable."
+      },
+      {
+        "statement": "El sentido contextual de la palabra ACOMPAÑAR es",
+        "alternatives": [
+          "A) gritar",
+          "B) proferir",
+          "C) cantar",
+          "D) articular",
+          "E) gesticular"
+        ],
+        "correct": 2,
+        "rationale": "SOL. En el último párrafo del texto, acompañar una canción pegadiza debe interpretarse como cantarla."
+      },
+      {
+        "statement": "Con respecto a las canciones más pegadizas de la historia es incompatible señalar que",
+        "alternatives": [
+          "A) la canción de Queen desplazó a Y.M.C.A.",
+          "B) permanecen como un asunto inescrutable.",
+          "C) todas ellas tienen como referente el inglés.",
+          "D) tienen un coro diverso en sonidos y matices.",
+          "E) pueden ser concebidas como gritos bélicos."
+        ],
+        "correct": 1,
+        "rationale": "SOL. El texto logra elaborar una explicación múltiple acerca de las causas por las que estas canciones son tan pegadizas."
+      },
+      {
+        "statement": "Se puede inferir que una canción será más pegadiza",
+        "alternatives": [
+          "A) en caso de que el cantante utilice un lenguaje procaz.",
+          "B) si es interpretada por una mujer que tiene la voz grave.",
+          "C) mientras más tiempo dure la interpretación de la misma.",
+          "D) si es que es cantada por un individuo de sexo masculino.",
+          "E) en el caso de representar una amplia variedad de ideales."
+        ],
+        "correct": 3,
+        "rationale": "SOL. Las canciones cantadas por varones son más pegadizas ya que la guerra y su liturgia están asociadas fundamentalmente a los varones."
+      },
+      {
+        "statement": "Si no se pudiera despertar la parte tribal, asociada con la guerra, de nuestro ser humano primitivo,",
+        "alternatives": [
+          "A) todas las canciones pegadizas tratarían sobre decepciones amorosas.",
+          "B) las voces graves serían preferibles a las voces agudas en una canción.",
+          "C) los seres humanos viviríamos en un contexto de beligerancia perpetua.",
+          "D) la variedad de sonidos de una canción pegadiza se reduciría notablemente."
+        ],
+        "correct": 3,
+        "rationale": "SOL. Es esa parte tribal, vinculada con la guerra y con lo masculino, lo que hace que las canciones cantadas por varones sean tan pegadizas."
+      }
+    ]
+  },
+  {
+    "type": "reading_comprehension",
+    "statement": "Los Chinos poseían una ciudad completamente inexpugnable que los mongoles no podían vencer. Entonces el Gran Khan les dijo a los chinos: «Denme todos los pájaros de su ciudad y yo los dejaré en paz». Los chinos hicieron esto felices, y entregaron las aves en grandes jaulas. Cuando el Khan los tuvo en su poder, les prendió fuego, y estos volaron hacia los nidos y tejados de la ciudad, incendiándola, y los desesperados habitantes corrieron fuera de ella, cayendo en medio de las espadas mongolas. En una batalla crucial, contra sus enemigos Targutai y Yamuga, Temujin viendo que sus fuerzas eran muy inferiores hizo que cada soldado hiciera un muñeco del porte de una persona y lo pusiera en su caballo de reserva (cuando un caballo se cansaba, se usaba otro que se llevaba al lado, siendo este ejército uno de los más rápidos de la historia). El ejército del Khan se vio dos veces más numeroso, atemorizando a sus adversarios, lo que fue crucial para el de senlace de la batalla. Genghis Khan dividió su ejército en decenas (arban), centenas (yaghun), millares (mingghan) y miríadas (tumen). Estos eran dirigidos por sus respectivos jefes, pero los cinco generales más importantes del ejército mongol fueron los denominados Lobos de Temujin: Bogorchu, su anda (hermano jurado), Yebe, conocido como la Flecha, Kubilai, Yelme y Subotei. Eran guerreros tan espectaculares, que los enemigos decían que «se alimentaban de rocío y carne humana y que eran tan feroces que el Khan tenía que atarlos; pero cuando se los liberaba para marchar a la guerra, cabalgaban al viento delante de los arqueros, con la boca abierta, babeantes de alegría» lo cual, claro está, era algo exagerado. Cuando sus conquistas los llevaron a Hungría, al no poder comparar la caballería ligera mongola con la caballería pesada húngara, simulaban una retirada, y cuando los caballos húngaros se agotaban bajo el peso de la armadura, el ejército de Genghis Khan contraatacaba, lanzándose detrás de ellos, disparándoles flechas y matándolos por la espalda. El Gran Khan implantó un código de leyes muy severas inspirados en las creencias y costumbres turcomongolas. Solo sus generales tenían alguna inmunidad contra estas leyes, porque se les permitía cometer cierto número de errores, mientras que para el resto del pueblo no había escapatoria.",
+    "questions": [
+      {
+        "statement": "1. El término ESPECTACULARES es sinónimo de",
+        "alternatives": [
+          "A) recelosos.",
+          "B) suntuosos.",
+          "C) temibles.",
+          "D) ufanos.",
+          "E) exultantes."
+        ],
+        "correct": 2,
+        "rationale": "CLAVE C. Los Lobos de Temujin generaban temor. Esto se advierte en las historias exageradas que se formaban entorno a ellos."
+      },
+      {
+        "statement": "2. El tema central del texto es",
+        "alternatives": [
+          "A) las conquistas militares del Gran Khan.",
+          "B) la perspicacia militar de Genghis Khan.",
+          "C) las batallas cruciales para el Gran Khan.",
+          "D) el grandioso ejército del Imperio mongol.",
+          "E) la cruenta expansión del Imperio Mongol."
+        ],
+        "correct": 1,
+        "rationale": "CLAVE B. El texto se orienta a ejemplificar el genio militar de Genghis Khan."
+      },
+      {
+        "statement": "3. Es incompatible aseverar que Genghis Khan",
+        "alternatives": [
+          "A) no tuvo reparos en masacrar a miles de personas.",
+          "B) construyó su imperio solo a base de fuerza bruta.",
+          "C) llegó a implantar leyes rigurosas y tradicionales.",
+          "D) era un experto en el uso de la guerra psicológica.",
+          "E) usó el sistema decimal para organizar a sus tropas."
+        ],
+        "correct": 1,
+        "rationale": "CLAVE B. Las conquistas del Khan fueron exitosas, fundamentalmente, por ser estrategias ingeniosas."
+      },
+      {
+        "statement": "4. Se infiere del texto que Bogorchu",
+        "alternatives": [
+          "A) estaba vinculado consanguíneamente con Genghis Khan.",
+          "B) era el guerrero más intrépido del poderoso Genghis Khan.",
+          "C) logró convertirse en anda de Temujin mediante un ritual.",
+          "D) ostentaba un poco más de poder que el mismísimo Khan.",
+          "E) estaba libre de cualquier sanción estipulada por las leyes."
+        ],
+        "correct": 2,
+        "rationale": "CLAVE C. Bogorchu es descrito como uno de los Lobos de Temujin y se sugiere que logró convertirse en anda mediante un ritual."
+      }
+    ]
+  },
+  {
+    "type": "reading_comprehension",
+    "statement": "Los Chinos poseían una ciudad completamente inexpugnable que los mongoles no podían vencer. Entonces el Gran Khan les dijo a los chinos: «Denme todos los pájaros de su ciudad y yo los dejaré en paz». Los chinos hicieron esto felices, y entregaron las aves en grandes jaulas. Cuando el Khan los tuvo en su poder, les prendió fuego, y estos volaron hacia los nidos y tejados de la ciudad, incendiándola, y los desesperados habitantes corrieron fuera de ella, cayendo en medio de las espadas mongolas. En una batalla crucial, contra sus enemigos Targutai y Yamuga, Temujin viendo que sus fuerzas eran muy inferiores hizo que cada soldado hiciera un muñeco del porte de una persona y lo pusiera en su caballo de reserva (cuando un caballo se cansaba, se usaba otro que se llevaba al lado, siendo este ejército uno de los más rápidos de la historia). El ejército del Khan se vio dos veces más numeroso, atemorizando a sus adversarios, lo que fue crucial para el de senlace de la batalla. Genghis Khan dividió su ejército en decenas (arban), centenas (yaghun), millares (mingghan) y miríadas (tumen). Estos eran dirigidos por sus respectivos jefes, pero los cinco generales más importantes del ejército mongol fueron los denominados Lobos de Temujin: Bogorchu, su anda (hermano jurado), Yebe, conocido como la Flecha, Kubilai, Yelme y Subotei. Eran guerreros tan espectaculares, que los enemigos decían que «se alimentaban de rocío y carne humana y que eran tan feroces que el Khan tenía que atarlos; pero cuando se los liberaba para marchar a la guerra, cabalgaban al viento delante de los arqueros, con la boca abierta, babeantes de alegría» lo cual, claro está, era algo exagerado. Cuando sus conquistas los llevaron a Hungría, al no poder comparar la caballería ligera mongola con la caballería pesada húngara, simulaban una retirada, y cuando los caballos húngaros se agotaban bajo el peso de la armadura, el ejército de Genghis Khan contraatacaba, lanzándose detrás de ellos, disparándoles flechas y matándolos por la espalda. El Gran Khan implantó un código de leyes muy severas inspirados en las creencias y costumbres turcomongolas. Solo sus generales tenían alguna inmunidad contra estas leyes, porque se les permitía cometer cierto número de errores, mientras que para el resto del pueblo no había escapatoria.",
+    "questions": [
+      {
+        "statement": "1. El término ESPECTACULARES es sinónimo de",
+        "alternatives": [
+          "A) recelosos.",
+          "B) suntuosos.",
+          "C) temibles.",
+          "D) ufanos.",
+          "E) exultantes."
+        ],
+        "correct": 2,
+        "rationale": "CLAVE C. Los Lobos de Temujin generaban temor. Esto se advierte en las historias exageradas que se formaban entorno a ellos."
+      },
+      {
+        "statement": "2. El tema central del texto es",
+        "alternatives": [
+          "A) las conquistas militares del Gran Khan.",
+          "B) la perspicacia militar de Genghis Khan.",
+          "C) las batallas cruciales para el Gran Khan.",
+          "D) el grandioso ejército del Imperio mongol.",
+          "E) la cruenta expansión del Imperio Mongol."
+        ],
+        "correct": 1,
+        "rationale": "CLAVE B. El texto se orienta a ejemplifi car el genio militar de Genghis Khan."
+      },
+      {
+        "statement": "3. Es incompatible aseverar que Genghis Khan",
+        "alternatives": [
+          "A) no tuvo reparos en masacrar a miles de personas.",
+          "B) construyó su imperio solo a base de fuerza bruta.",
+          "C) llegó a implantar leyes rigurosas y tradicionales.",
+          "D) era un experto en el uso de la guerra psicológica.",
+          "E) usó el sistema decimal para organizar a sus tropas."
+        ],
+        "correct": 1,
+        "rationale": "CLAVE B. Las conquistas del Khan fueron exitosas, fundamentalmente, por ser estrategias ingeniosas."
+      },
+      {
+        "statement": "4. Se infiere del texto que Bogorchu",
+        "alternatives": [
+          "A) estaba vinculado consanguíneamente con Genghis Khan.",
+          "B) era el guerrero más intrépido del poderoso Genghis Khan.",
+          "C) logró convertirse en anda de Temujin mediante un ritual.",
+          "D) ostentaba un poco más de poder que el mismísimo Khan.",
+          "E) estaba libre de cualquier sanción estipulada por las leyes."
+        ],
+        "correct": 2,
+        "rationale": "CLAVE C. Bogorchu era hermano jurado de Genghis Khan."
+      },
+      {
+        "statement": "5. Si los chinos no le hubieran dado las aves a Genghis Khan, probablemente",
+        "alternatives": [
+          "A) los Lobos de Temujin los habrían perseguido .",
+          "B) los mongoles habrían quemado toda la ciudad.",
+          "C) este los habría ejecutado de modo inexorable.",
+          "D) la ciudad china habría permanecido imbatible.",
+          "E) los habría asediado con la caballería pesada."
+        ],
+        "correct": 3,
+        "rationale": "CLAVE D. Los Chinos poseían una ciudad completamente inexpugnable que los mongoles no podían vencer."
+      }
+    ]
+  },
+  {
+    "type": "reading_comprehension",
+    "statement": "En 2002 el fiscal echó por tierra la coartada de Stuart Campbell en el asesinato de su sobrina Danielle Jones, en Essex (Inglaterra). Los peritos demostraron que él fue el asesino y no la víctima, como había hecho creer. La clave del crimen estaba e n unos mensajes que el tío envió desde el teléfono móvil de Danielle. Los análisis del texto revelaron sin lugar a dudas que el estilo era propio del sospechoso, quién jamás imaginó que un centenar de caracteres pudieran meterle entre rejas. Probablemente Campbell también ignoraba que la estructura y el contenido de las frases que usamos de forma cotidiana en las conversaciones son casi únicos. O que la puntuación y la gramática de un mensaje anónimo pueden ser suficientes para averiguar la edad, el sexo y la ubicación geográfica de su autor. Pero lo cierto es que los lingüistas forenses manejan a diario estas diferencias en el uso de las palabras, que a lo largo de la última década han permitido identificar inequívocamente a terroristas y criminales de todo tipo. Es un hecho que existe un modo distintivo en el que cada individuo codifica y descodifica el lenguaje y se expresa con sus propias «marcas» lingüísticas. Y que no hay",
+    "questions": [
+      {
+        "statement": "1. La idea principal sostiene que",
+        "alternatives": [
+          "A) el análisis científico de un texto tiene mayor contundencia que el ADN.",
+          "B) la lingüística forense ha permitido extraer las conclusiones más insólitas.",
+          "C) el caso clave Unabomber reveló la importancia de la lingüística forense.",
+          "D) el manejo del lenguaje es una herramienta para la identificación criminal.",
+          "E) los lingüistas forenses gozan de reconocimiento por su labor denodada."
+        ],
+        "correct": 3,
+        "rationale": "CLAVE D. El lingüista Don Foster, que ha colaborado con Fitzgerald en varios casos, asegura que los seres humanos son prisioneros de su propio lenguaje."
+      },
+      {
+        "statement": "2. La expresión ECHAR POR TIERRA significa",
+        "alternatives": [
+          "A) apartar de modo violento.",
+          "B) ocultar con gran diligencia.",
+          "C) refutar con contundencia.",
+          "D) cuestionar una ideología.",
+          "E) argumentar enfáticamente."
+        ],
+        "correct": 2,
+        "rationale": "CLAVE C. El fiscal impugnó la coartada de Stuart Campbell en el asesinato de su sobrina Danielle Jones."
+      },
+      {
+        "statement": "3. Es incompatible aseverar que los lingüistas forenses",
+        "alternatives": [
+          "A) podrían reconocer una carta falsa de suicidio.",
+          "B) son capaces de elaborar un perfil lingüístico.",
+          "C) no suelen menospreciar ningún detalle del texto.",
+          "D) hacen uso de algunas técnicas grafológicas.",
+          "E) podrían determinar si un texto fue adulterado."
+        ],
+        "correct": 3,
+        "rationale": "CLAVE D. La grafología es una pseudociencia. La lingüística forense tiene rigurosidad científica y posee valor legal."
+      },
+      {
+        "statement": "4. Se infiere del texto que Stuart Campbell",
+        "alternatives": [
+          "A) fue escrupuloso al imitar la forma de escribir de Jones.",
+          "B) torturó a su sobrina Danielle Jones antes de asesinarla.",
+          "C) utilizó el celular de su sobrina para despistar a la policía.",
+          "D) asesinó a Jones al verse cercado por los investigadores.",
+          "E) se deshizo del teléfono móvil para que no lo incriminen."
+        ],
+        "correct": 2,
+        "rationale": "CLAVE C. Los peritos demostraron que él fue el asesino y no la víctima, como había hecho creer. La clave del crimen estaba en unos mensajes que el tío envió desde el teléfono móvil de Danielle."
+      },
+      {
+        "statement": "5. Si el manuscrito que envió Unabomber, junto a la amenaza de volar un avión, hubiera sido conciso,",
+        "alternatives": [
+          "A) el desarrollo de la lingüística forense no habría despegado.",
+          "B) nunca se habría podido resolver aquel emblemático caso.",
+          "C) el análisis científico de ese texto no habría tenido validez.",
+          "D) Foster no habría podido realizar inferencias tan precisas.",
+          "E) no habrían advertido su posición respecto de la tecnología."
+        ],
+        "correct": 3,
+        "rationale": "CLAVE D . El manuscrito de más de 100 páginas le permitió a Foster sacar conclusiones tan insólitas."
+      }
+    ]
+  },
+  {
+    "type": "verbal_series",
+    "statement": "1. Aciago, fausto; prosaico, adocenado; exótico, nativo;",
+    "alternatives": [
+      "A) remol ón, diligente",
+      "B) adusto, afable",
+      "C) proteico, voluble",
+      "D) neutral, parcial",
+      "E) lacónico, locuaz"
+    ],
+    "correct": 2,
+    "rationale": "CLAVE C. La serie verbal presenta el siguiente orden: antónimos, sinónimos, antónimos; por consiguiente, se debe completar con un par de sinónimos."
+  },
+  {
+    "type": "verbal_series",
+    "statement": "2. Intrép ido, atrevido, osado,",
+    "alternatives": [
+      "A) medroso",
+      "B) arriscado",
+      "C) efusivo",
+      "D) exultante",
+      "E) tenaz"
+    ],
+    "correct": 1,
+    "rationale": "CLAVE B. Se trata de una serie verbal sinonímica."
+  },
+  {
+    "type": "verbal_series",
+    "statement": "3. Elija el término que debe excluirse por alejarse del campo semántico.",
+    "alternatives": [
+      "A) Ceñudo",
+      "B) Huraño",
+      "C) Intratable",
+      "D) Hosco",
+      "E) Enajenado"
+    ],
+    "correct": 4,
+    "rationale": "CLAVE E. El campo semántico hace referencia a un trato áspero."
+  },
+  {
+    "type": "verbal_series",
+    "statement": "4. Reacio, renuente; cicatero, desprendido; temoso, porfiado;",
+    "alternatives": [
+      "A) poltrón, holgazán.",
+      "B) apático, abúlico.",
+      "C) prolijo, cuidadoso.",
+      "D) díscolo, sumiso.",
+      "E) próvido, diligente."
+    ],
+    "correct": 3,
+    "rationale": "CLAVE D. La serie verbal presenta el siguiente orden: sinónimos, antónimos, sinónimos; por lo tanto, se debe completar con un par de antónimos."
+  },
+  {
+    "type": "verbal_series",
+    "statement": "5. Perverso, siniestro, protervo,",
+    "alternatives": [
+      "A) grotesco",
+      "B) avezado",
+      "C) avieso",
+      "D) anómalo",
+      "E) cáustico"
+    ],
+    "correct": 2,
+    "rationale": "CLAVE C. Se trata de una serie verbal sinonímica."
+  },
+  {
+    "type": "reading_comprehension",
+    "statement": "Para investigar bien, el médico debe empezar por llenar múltiples lagunas en sus conocimientos de biología general, y debe aprender el oficio de investigador al lado de un maestro. Por este motivo muchas universidades otorgan diplomas distintos a quienes estudian medicina que a los que hacen investiga ción biomédica, así como distinguen la licenciatura del doctorado en matemática, ingeniería, o jurisprudencia. La medicina no es una ciencia básica como la biología. Tampoco es un arte, como la poesía ola pintura. Más bien, es una técnica a la par de la i ngeniería y de la administración de empresas. No se propone encontrar leyes básicas, sino utilizar el conocimiento de las mismas para tratar casos patológicos. Ya no es una técnica artesanal equivalente a la del zapatero remendón, sino una técnica científica, o sea, fundada sobre resultados de la investigación biológica. En cambio, el ejercicio de la medicina es un servicio equiparable al que prestan los abogados. El servicio médico será competente tan solo si quien lo presta tiene buenos conocimientos de biología humana y de terapia.",
+    "questions": [
+      {
+        "statement": "1. El texto gira entorno a",
+        "alternatives": [
+          "A) la importancia de promover la investigación biomédica.",
+          "B) los mecanismos para realizar investigación científica.",
+          "C) los errores frecuentes en los trabajos de investigación.",
+          "D) la concepción de la medicina como técnica científica.",
+          "E) la evidente asimetría entre técnica y ciencia básica."
+        ],
+        "correct": 3,
+        "rationale": "CLAVE D. El autor concluye que la medicina es una técnica científica."
+      }
+    ]
+  },
+  {
+    "type": "verbal_series",
+    "statement": "La serie verbal presenta el siguiente orden: antónimos, sinónimos, antónimos; por consiguiente, se debe completar con un par de sinónimos. 2. Intrép ido, atrevido, osado,",
+    "alternatives": [
+      "A) medroso",
+      "B) arriscado",
+      "C) efusivo",
+      "D) exultante",
+      "E) tenaz"
+    ],
+    "correct": 1,
+    "rationale": null
+  },
+  {
+    "type": "verbal_series",
+    "statement": "La serie verbal presenta el siguiente orden: antónimos, sinónimos, antónimos; por consiguiente, se debe completar con un par de sinónimos. 3. Elija el término que debe excluirse por alejarse del campo semántico.",
+    "alternatives": [
+      "A) Ceñudo",
+      "B) Huraño",
+      "C) Intratable",
+      "D) Hosco",
+      "E) Enajenado"
+    ],
+    "correct": 4,
+    "rationale": null
+  },
+  {
+    "type": "verbal_series",
+    "statement": "4. Reacio, renuente; cicatero, desprendido; temoso, porfiado;",
+    "alternatives": [
+      "A) poltrón, holgazán.",
+      "B) apático, abúlico.",
+      "C) prolijo, cuidadoso.",
+      "D) díscolo, sumiso.",
+      "E) próvido, diligente."
+    ],
+    "correct": 3,
+    "rationale": null
+  },
+  {
+    "type": "verbal_series",
+    "statement": "5. Perverso, siniestro, protervo,",
+    "alternatives": [
+      "A) grotesco",
+      "B) avezado",
+      "C) avieso",
+      "D) anómalo",
+      "E) cáustico"
+    ],
+    "correct": 2,
+    "rationale": null
+  },
+  {
+    "type": "reading_comprehension",
+    "statement": "Para la opinión pública, la medicina pasa por modelo de ciencia. Por este motivo,\nlos gobernantes incultos suelen encargar la gestión de la investigación científica de sus\npaíses a médicos. Ignoran que la enorme mayoría de los médicos, aunque aprenden\nalgunos resultados de la investigación científica, no aprenden a hacer ciencia: no se\nforman como investigadores sino como profesionales de la salud. Si un médico corriente\nemprende un trabajo de investigación, es raro que lo haga bien. Por ejemplo, el gobierno\ndel presidente Lyndon Johnson invirtió una millonada en investigación del cáncer. Pero,\nen lugar de distribuir los fondos entre biólogos celulares y molecula res, los asignó a\nmédicos, en particular cirujanos. El enorme gasto se hizo en vano, porque los cirujanos\nsolo ven el estado final del proceso de proliferación celular: saben cortar pero no prevenir.\nAños después, unos biólogos moleculares descubrieron onc ogenes que gatillan el\nproceso de proliferación cancerosa. Y actualmente se investiga la posibilidad de utilizar\nlos genes que causan la apoptosis, o muerte celular, para detener la división de células\ncancerosas. El investigador biomédico investiga los me canismos que dan como resultado\nlos procesos que trata el médico.\nUn tercer ejemplo reciente es un estudio masivo sobre la eficacia de la extirpación\nde nódulos cancerosos en mama. En 1994, al cabo de muchos años de practicarse esta\na traumática operación, se descubrió que algunos de los médicos que habían participado en\ndicho estudio no habían utilizado grupos de control, a la parque otros habían falseado los\ndatos. Hoy día la mastectomía se practica con muchísima menor frecuencia.\nOtro tanto ocurre con el cáncer de próstata (que, dicho sea de paso, aqueja a tanta\ngente como el de mama). En efecto, recientemente se reveló que en este caso la cirugía\nrara vez da resultados favorables y que, por añadidura, tiene graves efectos secundarios,\ntales como la incontinencia urinaria y la impotencia. Por este motivo se la práctica cada\nvez menos. Es preferible tratarlo con drogas o incluso con quimioterapia, a extirparlo\nquirúrgicamente.\nUn ejemplo igualmente reciente es la investigación sobre la relación entre úlcera\ngástrica y estrés. Durante décadas se creyó que el estrés era la principal causa de úlcera\ngástrica. Es así que, hace décadas, le previne a un decano ambicioso que, si seguía\nponiendo tanto afán en su gestión, terminaría con una úlcera duodenal. El hombre me\nrespondió sonriente: «Yo soy de los que dan úlcera, no de quienes la reciben.»\nPues bien, hace unos años un investigador encontró que dichas úlceras no son de\nlos repli egues de la pared del estómago y del duodeno. Sin embargo, todavía hoy se\nvende bien un libro de Robert Sapolsky titulado Por qué las gacelas no tienen úlceras\npese a ser acosadas por leones .\nSe habría ahorrado mucho dolor y dinero si los médicos hubieran estudiado el ABC\ndel método científico (para emplear grupos de control por ejemplo) que vienen practicando\ncon éxito los investigadores biomédicos desde los tiempos de Claude Bernard a mediados\ndel siglo XIX.\nPara investigar bien, el médico debe empezar por llenar múltiples lagunas en sus\nconocimientos de biología general, y debe aprender el oficio de investigador al lado de un\nmaestro. Por este motivo muchas universidades otorgan diplomas distintos a quienes\nestudian medicina que a los que hacen investiga ción biomédica, así como distinguen la\nlicenciatura del doctorado en matemática, ingeniería, o jurisprudencia.\nLa medicina no es una ciencia básica como la biología. Tampoco es un arte, como\nla poesía ola pintura. Más bien, es una técnica a la par de la i ngeniería y de la\nadministración de empresas. No se propone encontrar leyes básicas, sino utilizar el\nconocimiento de las mismas para tratar casos patológicos. Ya no es una técnica artesanal\nequivalente a la del zapatero remendón, sino una técnica científica, o sea, fundada sobre\nresultados de la investigación biológica. En cambio, el ejercicio de la medicina es un\nservicio equiparable al que prestan los abogados. El servicio médico será competente tan\nsolo si quien lo presta tiene buenos conocimientos de b iología humana y de terapia.",
+    "questions": [
+      {
+        "statement": "1. El texto gira entorno a",
+        "alternatives": [
+          "A) la importancia de promover la investigación biomédica.",
+          "B) los mecanismos para realizar investigación científica.",
+          "C) los errores frecuentes en los trabajos de investigación.",
+          "D) la concepción de la medicina como técnica científica.",
+          "E) la evidente asimetría entre técnica y ciencia básica."
+        ],
+        "correct": 3,
+        "rationale": "El autor concluye que la medicina es una técnica científica."
+      },
+      {
+        "statement": "2. Elija el mejor resumen del texto.",
+        "alternatives": [
+          "A) En contra de lo que se asume habitualmente, la medicina no es un modelo de\nciencia; sino que constituye una técnica científica que se deriva de los resultados\nde la investigación biológica.",
+          "B) Para la mayor parte de personas, la medicina es concebida como modelo de\nciencia. Esta idea, lamentablemente, genera graves errores en los diversos\ntrabajos de investigación.",
+          "C) La investigación biomédica es sumamente importante, debido a que revela los\nmecanismos que dan como resultado los procesos que, posteriormente, serán\ntratados por los médicos.",
+          "D) Los errores cometidos en los estudios sobre el cáncer ocurrieron debido a que\nlos médicos a cargo ignoraban la importancia de usar grupos de control junto\ncon grupos experimentales.",
+          "E) La eficacia de la mastectomía y el origen psicosomático de las úlceras son\nejemplos de investigaciones, que al no utilizar adecuadamente el método\ncientífico, incurrieron en graves errores."
+        ],
+        "correct": 0,
+        "rationale": "El resumen contiene la real naturaleza de la medicina contrastada con la concepción errónea."
+      },
+      {
+        "statement": "3. El vocablo LAGUNA connota fundamentalmente",
+        "alternatives": [
+          "A) evasión.",
+          "B) estupor.",
+          "C) profundidad.",
+          "D) disensión.",
+          "E) carencia."
+        ],
+        "correct": 4,
+        "rationale": "El autor recomienda a los médicos llenar los vacíos en los conocimientos de biología general."
+      },
+      {
+        "statement": "4. El término GATILLAR es sinónimo de",
+        "alternatives": [
+          "A) proliferar.",
+          "B) obturar.",
+          "C) desencadenar.",
+          "D) incrementar.",
+          "E) allanar."
+        ],
+        "correct": 2,
+        "rationale": "Los oncogenes provocan el proceso de proliferación cancerosa."
+      },
+      {
+        "statement": "5. Se infiere del texto que la venta masiva del libro de Sapolsky revela que",
+        "alternatives": [
+          "A) el autor es considerado como toda una autoridad en cuanto al uso del método\ncientífico.",
+          "B) la creencia en el origen psicosomático de las úlceras gástricas continúa\nerróneamente arraigada.",
+          "C) su autor realizó un estudio en el que usó grupos de control junto\ncon grupos\nexperimentales.",
+          "D) el gran público tiene una postura sumamente crítica respecto de lo que se\npublica periódicamente.",
+          "E) los libros catalogados como best sellers se caracterizan por ajustarse a la\nmetodología científica."
+        ],
+        "correct": 1,
+        "rationale": "No obstante que un investigador descartó el origen psicosomático de las úlceras gástricas, la gente continúa comprando Por qué las gacelas no tienen úlceras pese a ser acosadas por leones ."
+      },
+      {
+        "statement": "6. Se infiere que Lyndon Johnson",
+        "alternatives": [
+          "A) distribuyó los fondos de investigación de la mejor manera.",
+          "B) es un ejemplo de gobernante inculto en cuanto a ciencia.",
+          "C) buscaba brindarle el mayor presupuesto al sector salud.",
+          "D) asumía que la medicina era solo una técnica científica.",
+          "E) destacaba la importancia de la investigación biomédica."
+        ],
+        "correct": 1,
+        "rationale": "Los gobernantes incultos suelen encargar la investigación de sus países a médicos."
+      },
+      {
+        "statement": "7. Se infiere que los grupos de control",
+        "alternatives": [
+          "A) son más empleados en el ámbito de la biología.",
+          "B) carecen de relevancia para la investigación científica.",
+          "C) obstruyen el desarrollo de la investigación en medicina.",
+          "D) son cruciales cuando se trata de evaluar una terapia.",
+          "E) requieren una inversión millonaria para su empleo."
+        ],
+        "correct": 3,
+        "rationale": "Los grupos de control permiten confrontar los resultados de la puesta en"
+      },
+      {
+        "statement": "8. Es incompatible aseverar que la prostatectomía",
+        "alternatives": [
+          "A) puede causar incontinencia urinaria.",
+          "B) a menudo brinda resultados favorables.",
+          "C) es hoy practicada con menor frecuencia.",
+          "D) acarrea graves efectos secundarios.",
+          "E) constituye una operación traumática."
+        ],
+        "correct": 1,
+        "rationale": "Otro tanto ocurre con el cáncer de próstata. En efecto, recientemente se reveló\nque en este caso la cirugía rara vez da resultados favorables."
+      },
+      {
+        "statement": "9. Con respecto a la formulación de la hipótesis bacteriana para explicar la formación\nde úlceras, es co mpatible afirmar que",
+        "alternatives": [
+          "A) elude, desde todo punto de vista, el contacto con la experiencia.",
+          "B) corrobora la relación causal entre el estrés y la úlcera duodenal.",
+          "C) pone en evidencia la perfectibilidad del conocimiento científico.",
+          "D) es muchísimo menos plausible que la hipótesis psicosomática.",
+          "E) dio origen a la hipótesis psicosomática de la úlcera duodenal."
+        ],
+        "correct": 2,
+        "rationale": "La perfectibilidad del conocimiento científico consiste en el surgimiento de\nhipótesis nuevas que se acercan más a la verdad."
+      },
+      {
+        "statement": "10. Si en el estudio masivo sobre la eficacia de extirpación de nódulos cancerosos en mama no se hubieran detectado irregularidades cometidas por los médicos,",
+        "alternatives": [
+          "A) el cáncer de próstata tendría una incidencia mucho menor.",
+          "B) la mastectomía seguiría siendo practicada con regularidad.",
+          "C) la quimioterapia no habría podido emerger como tratamiento.",
+          "D) la extirpación quirúrgica ya no sería considerada traumática.",
+          "E) la quimioterapia sería considerada como la medida más eficaz."
+        ],
+        "correct": 1,
+        "rationale": "Se descubrió que algunos de los médicos que habían participado en dicho\nestudio no habían utilizado grupos de control, a la parque otros habían falseado los\ndatos. Hoy en día, la mastectomía se practica con menor frecuencia."
+      }
+    ]
+  }
+]

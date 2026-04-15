@@ -1,0 +1,806 @@
+[
+  {
+    "type": "reading_comprehension",
+    "statement": "Generalmente el diagnóstico de una enfermedad terminal suele llegar luego de que una persona ha venido lidiando con una enfermedad crónica, después de haber asumido una serie de renuncias como la inevitable pérdida de la salud, de la estética, de alguna parte del cuerpo o alguna capacidad. Por ello el diagnóstico de una enfermedad terminal lleva al paciente al mayor de los duelos y lo contacta con angustias muy profundas. Para la familia, esta situación anuncia una despedida que, como cualquier otra, está teñida de dolor y de nostalgia. No obstante, la forma en que se dé este último acompañamiento dependerá del rol que ocupa la persona en la familia, cómo ha sido la dinámica familiar antes y durante la enfermedad y cómo se trasmiten las despedidas. Al tener cada miembro de la familia angustias y problemas personales que necesitan de apoyo, lo ideales que la familia como grupo pueda encontrar espacios para compartir y dejar otros para que cada cual pueda resolver aspectos que le son propios. En el acompañamiento, tanto para el paciente como para la familia, es esencial que se permitan cerrar las situaciones inconclusas y se den los espacios para las reconciliaciones. También es importante estar con el paciente durante su enfermedad, ofreciendo compañía y las atenciones cotidianas para su cuidado físico. Este espacio, además de aliviar al paciente, ofrecerá a los familiares la posibilidad de hablar con mayor naturalidad de la situación por la que atraviesa el paciente. En estos casos de crisis familiar, los psicólogos recomiendan que cada miembro, o toda la familia como grupo, puedan alimentarse de otras fuentes de energía (amigos), compartiendo su experiencia con otras personas fuera del círculo familiar. Señalan, también, que la negación, la sobreexposición de la enfermedad, el rencor, la depresión profunda y el aislamiento son actitudes que no ayudan a sobrellevar la situación, por lo que deben evitarse. El acompañamiento psicológico en enfermos terminales es necesario porque ayuda al paciente a entender y enfrentar su enfermedad. No obstante, también, debe trabajarse con la familia para prepararla ante la inminente pérdida del ser querido y que pueda realizar el duelo. Este trabajo se realiza con técnicas de intervención que permiten la unidad familiar que, a su vez, permitirá la adecuada despedida. Y es que en estos casos, la comunicación no fluye porque hay emociones (miedo, tristeza, ira, negación) que no pueden ser expresadas adecuadamente debido a lo difícil de la situación. Entonces el psicólogo es el que promueve los espacios para que el paciente y su familia puedan liberar sus emociones. (Adaptado por Jorge Valenzuela de El Comercio ).",
+    "questions": [
+      {
+        "statement": "Determine el tema central del texto.",
+        "alternatives": [
+          "A) Importancia de los amigos en pacientes terminales.",
+          "B) El tratamiento psicológico de la familia con enfermos.",
+          "C) Acompañamiento familiar de pacientes terminales.",
+          "D) Los psicólogos clínicos y los pacientes terminales.",
+          "E) Las angustias de la familia con pacientes terminales."
+        ],
+        "correct": 2,
+        "rationale": "Solución: El texto se centra en la forma cómo cada miembro de la familia debe prepararse para acompañar a un familiar con una enfermedad terminal."
+      },
+      {
+        "statement": "Es incompatible, con respecto a los casos de crisis familiar, sostener que",
+        "alternatives": [
+          "A) el diagnóstico de una enfermedad terminal lleva al paciente al duelo.",
+          "B) los familiares de un enfermo terminal deben hallar espacios para compartir.",
+          "C) la despedida de un enfermo terminal depende de cómo es la relación con él.",
+          "D) los desahuciados lo son después de padecer una larga enfermedad crónica.",
+          "E) los vínculos amicales no son recomendables para sobrellevar la angustia."
+        ],
+        "correct": 4,
+        "rationale": "Solución: En el texto se sostiene que en casos de casos de crisis familiar, los psicólogos recomiendan que cada miembro, o toda la familia como grupo, puedan alimentarse de otras fuentes de energía (amigos) para sobrellevar su angustia. Clave: E"
+      },
+      {
+        "statement": "El vocablo LIBERAR tiene el sentido contextual de",
+        "alternatives": [
+          "A) manifestar.",
+          "B) promover.",
+          "C) incitar.",
+          "D) empujar.",
+          "E) gritar."
+        ],
+        "correct": 0,
+        "rationale": "Solución: En el texto se dice que “ el psicólogo es el que promueve los espacios para que el paciente y su familia puedan liberar sus emociones ”, es decir, manifestar sus emociones. Clave: A"
+      },
+      {
+        "statement": "Puede deducirse del texto, que en el acompañamiento del paciente terminal",
+        "alternatives": [
+          "A) este debe entender los problemas familiares.",
+          "B) debe tratar de curarse de su enfermedad.",
+          "C) deben dejarse atrás los odios y rencores.",
+          "D) debe ejercitarse una escasa comunicación.",
+          "E) los familiares no deberían estar presentes."
+        ],
+        "correct": 2,
+        "rationale": "Solución: En el acompañamiento, tanto para el paciente como para la familia, es esencial que se permitan cerrar las situaciones inconclusas y se den los espacios para las reconciliaciones. Clave: C"
+      }
+    ]
+  },
+  {
+    "type": "synonyms_and_antonyms",
+    "statement": "1. GENERÓ",
+    "alternatives": [
+      "A) construyó",
+      "B) edificó",
+      "C) creó",
+      "D) afirmó",
+      "E) procesó"
+    ],
+    "correct": 2,
+    "rationale": null
+  },
+  {
+    "type": "synonyms_and_antonyms",
+    "statement": "2. DEMANDAS",
+    "alternatives": [
+      "A) obligaciones",
+      "B) normas",
+      "C) peticiones",
+      "D) mandamientos",
+      "E) juicios"
+    ],
+    "correct": 2,
+    "rationale": null
+  },
+  {
+    "type": "synonyms_and_antonyms",
+    "statement": "3. ACCESO",
+    "alternatives": [
+      "A) ingreso",
+      "B) renuncia",
+      "C) rechazo",
+      "D) postulación",
+      "E) llegada"
+    ],
+    "correct": 0,
+    "rationale": null
+  },
+  {
+    "type": "synonyms_and_antonyms",
+    "statement": "4. CONSOLIDAR",
+    "alternatives": [
+      "A) convertir",
+      "B) sustentar",
+      "C) juntar",
+      "D) atesorar",
+      "E) integrar"
+    ],
+    "correct": 2,
+    "rationale": null
+  },
+  {
+    "type": "synonyms_and_antonyms",
+    "statement": "5. PROCESA",
+    "alternatives": [
+      "A) evoca",
+      "B) forma",
+      "C) juzga",
+      "D) somete",
+      "E) elabora"
+    ],
+    "correct": 4,
+    "rationale": null
+  },
+  {
+    "type": "synonyms_and_antonyms",
+    "statement": "6. CONFIGURAN",
+    "alternatives": [
+      "A) disponer",
+      "B) idean",
+      "C) proyectan",
+      "D) construyen",
+      "E) arman"
+    ],
+    "correct": 3,
+    "rationale": null
+  },
+  {
+    "type": "sentence_elimination",
+    "statement": "Puede deducirse del texto, que en el acompañamiento del paciente terminal",
+    "alternatives": [
+      "A) este debe entender los problemas familiares.",
+      "B) debe tratar de curarse de su enfermedad.",
+      "C) deben dejarse atrás los odios y rencores.",
+      "D) debe ejercitarse una escasa comunicación.",
+      "E) los familiares no deberían estar presentes."
+    ],
+    "correct": 2,
+    "rationale": "En el acompañamiento, tanto para el paciente como para la familia, es esencial que se permitan cerrar las situaciones inconclusas y se den los espacios para las reconciliaciones."
+  },
+  {
+    "type": "sentence_elimination",
+    "statement": "Si no se diera un adecuado acompañamiento psicológico al paciente terminal, muy probablemente",
+    "alternatives": [
+      "A) éste podría salir adelante de la enfermedad que padece.",
+      "B) éste no podría comprender su enfermedad y ser valiente.",
+      "C) los psicólogos considerarían que su profesión es inútil.",
+      "D) la ciencia médica daría por terminadas sus sugerencias.",
+      "E) las amistades no deberían visitar al paciente terminal."
+    ],
+    "correct": 1,
+    "rationale": "En el texto se dice que el acompañamiento psicológico en enfermos terminales es necesario porque ayuda al paciente a entender y enfrentar su enfermedad."
+  },
+  {
+    "type": "reading_comprehension",
+    "statement": "Lo más llamativo de Abril rojo –la divertida novela de suspenso por la cual el peruano Santiago Roncagliolo recibiera el premio Alfaguara 2006 – es que, de algún modo misterioso, se las arregla para sobrevivir, al menos parcialmente, a sus muchos defectos. Porque es posible decir que no hay virtud en este libro que no esté emparejada con algún vicio formal o de concepción.\n\nEl libro es difícil de abandonar, debido, sobre todo, a la facilidad del autor para entretejer los hilos de la trama principal, calcular los golpes de efecto, construir espirales climáticas de intriga que son en todos los casos un acierto. Pero esa atención minuciosa a las aceleraciones argumentales no evita que las subtramas se vuelvan débiles y artificiales, ni le permiten a la narración la serenidad de apaciguarse, dosificarse, abrir distensiones que conviertan la lectura en un ejercicio rítmico en lugar de una caída libre.\n\nLa historia centrales esta: un fiscal ayacuchano, criado en Lima, regresa a su tierra natal arrastrando los traumas de una vida ardua, solo para darse de cara con una borrasca de crímenes feroces que pueden ser la obra de un asesino en serie o un rebrote de Sendero Luminoso. La inmediata investigación que conduce lo involucra con senderistas de espíritu refinado y sacerdotes homicidas (un reparto antojadizo, pero funcional) y con la dupla descabellada de un coronel cuyo jefe inmediato es un comandante (un rasgo de originalidad involuntaria). En ese trayecto, el fiscal sufrirá una gran mutación psíquica y una incluso mayor demolición moral.\nAllí es donde empiezan los problemas: Chacaltana carga con tanta responsabilidad en la historia que su omnipresencia desdibuja y convierte en fantoches a los demás personajes, reducidos a ser requisitos del argumento, paredes contra las cuales el protagonista juega el frontón verbal de los diálogos. Pero la diversidad de la responsabilidad del actor principal no solamente minimiza la densidad de los otros: también lo hacen colapsar en gran parte a él mismo aplastado por su incongruente pluralidad: Chacaltana es, a la vez, un limeño poderoso y un ayacuchano despreciado. Es un abogado reglamentario y un malhechor alevoso. Un psicótico que ha construido una imagen fetichizada de su madre, cuyo altar ha levantado en casa, pero no le cuesta nada desprenderse del fetiche y alejarse del altar cada vez que debe emprender un viaje. Incluso su lenguaje es víctima de esa dislocación inverosímil: Chacaltana es un improbable hablante de español que se expresa nítidamente en la norma culta cuando habla, pero cae en todas las muletillas de la oralidad cotidiana popular cuando escribe: habla como estudiante de derecho y escribe como un obrero de construcción civil. (De “ Abril rojo de Santiago Roncagliolo” de Gustavo Faverón Patriau)",
+    "questions": [
+      {
+        "statement": "1. El texto, fundamentalmente, presenta",
+        "alternatives": [
+          "A) la crisis moral de un fiscal que adora edípicamente a su madre.",
+          "B) la investigación policial de unos crímenes horrendos.",
+          "C) los atroces crímenes de Sendero Luminoso en los ochenta.",
+          "D) la historia de un juez que protagoniza una pieza teatral.",
+          "E) una crítica literaria a la novela Abril rojo de Roncagliolo."
+        ],
+        "correct": 4,
+        "rationale": "En texto constituye una crítica literaria a la novela Abril rojo en tanto destaca sus valores como sus defectos estéticos."
+      },
+      {
+        "statement": "2. Es incompatible, con respecto a lo sostenido por el crítico literario, decir que",
+        "alternatives": [
+          "A) el autor de la novela es hábil para construir la trama.",
+          "B) el personaje principal de la novela es contradictorio.",
+          "C) este no le reconoce ningún valor a la novela Abril rojo .",
+          "D) las tramas secundarias de la novela son débiles y artificiales.",
+          "E) el protagonista oscurece a los demás personajes de la novela."
+        ],
+        "correct": 2,
+        "rationale": "El crítico literario reconoce que a cada virtud de la novela le acompaña un defecto."
+      },
+      {
+        "statement": "3. El vocablo BORRASCA connota",
+        "alternatives": [
+          "A) tormenta.",
+          "B) complejidad.",
+          "C) exceso.",
+          "D) crueldad.",
+          "E) desorden."
+        ],
+        "correct": 2,
+        "rationale": "Borrasca, en este caso, tiene el sentido de orgía, exceso, extralimitación, desmesura."
+      },
+      {
+        "statement": "4. Puede deducirse, del análisis llevado a cabo por el crítico literario, que",
+        "alternatives": [
+          "A) para este, la novela no contiene ningún valor que destacar.",
+          "B) frente a los desaciertos de la novela, destaca sus valores formales.",
+          "C) Roncagliolo es un autor que carece de destreza para construir tramas.",
+          "D) la narrativa peruana joven carece de destacados representantes.",
+          "E) es irrelevante construir buenas tramas si se tiene buenos personajes."
+        ],
+        "correct": 1,
+        "rationale": "En el texto el crítico sostiene que “el libro es difícil de abandonar, debido, sobre todo, a la facilidad del autor para entretejer los hilos de la trama principal, calcular los golpes de efecto, construir espirales climáticas de intriga que son en todos los casos un acierto ”."
+      }
+    ]
+  },
+  {
+    "type": "reading_comprehension",
+    "statement": "La premura con que Alan García realizó la inauguración de diversas obras al final de su gestión es reveladora de una forma de administrar el gobierno de nuestro país. Ciertamente, lo que esa premura parece expresar es la convicción de que las responsabilidades y los méritos políticos comienzan y acaban en un quinquenio de gobierno y en la persona que lo preside. Lo que inicia un gobierno, según esa creencia, debe ser culminado por él mismo, y esa culminación apresurada o sustituida por una inauguración prematura se convierte también en una forma de apropiación. A esto nos referimos con el carácter patrimonialista de una gestión. La idea patrimonialista de la gestión pública aparece, pues, de una forma inesperada y agazapada en esa dinámica; no hay convicciones profundas sobre la continuidad de la acción del Estado y, por consiguiente, tampoco las hay sobre cierto proyecto histórico para la democracia peruana ni, por extensión, para nuestra idea de nación. El gobernante que deja el cargo bien podría decir, al que ingresa, que hay obras en trance de concluirse y que le toca a él, al mandatario entrante, llevarlas a buen puerto en la medida en que es él quien ahora encabeza el Estado. Ello indicaría una diferente noción de lo público, de la responsabilidad compartida, de la durabilidad de los esfuerzos de gobierno y del papel que un presidente tiene ante sus conciudadanos: el de un servidor, no el de una figura superior o providencial. Enfrentamos, ahora, con un nuevo presidente, la posibilidad de alterar favorablemente algo de ese viejo legado patrimonialista. Pero, ¿qué elementos podrían dar a entender que estamos ante una nueva concepción del ejercicio del gobierno? Entre los variados elementos que podrían apuntar en esa dirección, uno particularmente importante es la recuperación de un sentido de proyecto. Ya hace muchos años que en el Perú dejamos de discutir seriamente sobre las grandes direcciones que podría adoptar nuestra sociedad. La debacle del estatismo fue tan impactante que, al buscar ponerle remedio mediante la liberación de las fuerzas del mercado, abandonamos también toda idea de planificación. El nuevo tiempo político que se inicia en el Perú podría disolverse y agotarse en un simple cambio de periodo si es que seguimos pensando que todo lo que el Perú necesita es crecer en las grandes cifras y que la profusión de obras es, en sí misma, garantía de relevancia histórica. Pero también podría representar, sin necesarias estridencias, un giro favorable en la manera en que entendemos la función pública y la responsabilidad de gobernar. (De “Por un nuevo sentido de gobierno” de Salomón Lerner Febres)",
+    "questions": [
+      {
+        "statement": "El texto apunta centralmente a hacer una crítica",
+        "alternatives": [
+          "A) a los nuevos gobiernos cuyos proyectos permiten avizorar el futuro.",
+          "B) a las políticas de crecimiento que apuntan al logro de grandes cifras.",
+          "C) a las gestiones presidenciales caracterizadas por ser patrimonialistas.",
+          "D) a la función pública en tanto modelo de administración del poder.",
+          "E) al orden democrático que permite las diferencias entre clases sociales."
+        ],
+        "correct": 2,
+        "rationale": null
+      },
+      {
+        "statement": "Es incompatible, con respecto al estatismo en el Perú, referido en el texto, sostener que",
+        "alternatives": [
+          "A) estuvo exento de responsabilidad en la pérdida de la idea de proyecto.",
+          "B) generó, como reacción, políticas orientadas a liberar al mercado.",
+          "C) produjo un cambio en las políticas económicas en el Perú.",
+          "D) sufrió una caída importante que tuvo consecuencias en la economía.",
+          "E) después de su caída generó políticas liberales en la economía."
+        ],
+        "correct": 0,
+        "rationale": null
+      },
+      {
+        "statement": "La expresión EN TRANCE tiene el sentido contextual de",
+        "alternatives": [
+          "A) circunstancia",
+          "B) coyuntura",
+          "C) momento",
+          "D) crisis",
+          "E) proceso."
+        ],
+        "correct": 4,
+        "rationale": null
+      },
+      {
+        "statement": "Puede deducirse que la idea patrimonialista en la gestión gubernamental",
+        "alternatives": [
+          "A) es una de las ideas fuerza en la administración del gobierno que inicia su gestión.",
+          "B) atenta contra la consolidación, a largo plazo, de nuestro país como nación integrada.",
+          "C) posibilita el desarrollo económico sostenido en los países subdesarrollados.",
+          "D) es un mecanismo que le dará al nuevo gobierno las herramientas para gobernar.",
+          "E) asegura las posibilidades de cualquier tipo de planificación a largo plazo."
+        ],
+        "correct": 1,
+        "rationale": null
+      }
+    ]
+  },
+  {
+    "type": "sentence_elimination",
+    "statement": "Puede deducirse que la idea patrimonialista en la gestión gubernamental",
+    "alternatives": [
+      "A) es una de las ideas fuerza en la administración del gobierno que inicia su gestión.",
+      "B) atenta contra la consolidación, a largo plazo, de nuestro país como nación integrada.",
+      "C) posibilita el desarrollo económico sostenido en los países subdesarrollados.",
+      "D) es un mecanismo que le dará al nuevo gobierno las herramientas para gobernar.",
+      "E) asegura las posibilidades de cualquier tipo de planificación a largo plazo."
+    ],
+    "correct": 1,
+    "rationale": "Al abolir cualquier idea de proyecto nacional y al ser inmediatista, la gestión patrimonialista atenta contra la posibilidad de ser una nación integrada."
+  },
+  {
+    "type": "sentence_elimination",
+    "statement": "Si el nuevo gobierno abandonase la idea de la gestión patrimonialista",
+    "alternatives": [
+      "A) estaría consolidando la posibilidad de iniciar una nueva gestión gubernamental, diferenciada de la anterior.",
+      "B) podría aprovechar las posibilidades del orden democrático a partir de una nueva concepción de lo que es gobernar.",
+      "C) generaría una nueva política de asistencia social caracterizada principalmente por el populismo.",
+      "D) podría asegurar altos índices de desarrollo económico a lo largo de los años de la gestión de gobierno.",
+      "E) recaería en la idea de que es mejor inaugurar obras antes de la conclusión del gobierno de turno."
+    ],
+    "correct": 1,
+    "rationale": "La gestión patrimonialista se centra en la figura del gobernante y lo aleja de la figura del servidor para convertirlo en una figura superior o providencial y por lo tanto antidemocrática."
+  },
+  {
+    "type": "reading_comprehension",
+    "statement": "Toda la potencia laboral y, por ende, la riqueza de un país depende de la población apta para realizar un trabajo rentado. Tan trascendente es esta premisa que son muchos los historiadores que explican la decadencia de algunas civilizaciones por la disminución de población económicamente activa sufrida en un momento de su desarrollo. Así, se habla de “parálisis nacional” cuando el volumen de esta población se estaciona o decrece. Ahora bien, sin restar importancia al volumen de la población que posee un territorio, hay que cuidar en no caer en una relación mecánica entre el número de pobladores y el progreso de las naciones, pues, así como hay países de gran población y que son inmensamente atrasados, existen otros no tan poblados y, sin embargo, muy avanzados. Por ello, de lo que se trata, en realidad, es de conservar o multiplicar la población económicamente activa de un país, es decir, aquella población que, finalmente, está en capacidad de producir bienes o de aumentar la riqueza de una nación.\n\nEn efecto, si bien la población significa en términos económicos riqueza, no siempre una mayor población supone un aumento del nivel de vida, del bienestar de los habitantes o el progreso de la nación. Analicemos el caso de India. Este país cuenta con una población calculada de 800 millones de habitantes y de todos es sabido que anualmente mueren por hambre cantidades pavorosas de personas. ¿La razón? Un aumento de la población que no es económicamente activa significa que los escasos bienes disponibles (que no pueden multiplicarse sensiblemente por falta de recursos humanos eficientes) tienen que repartirse entre más personas, lo que baja más aún el ingreso per capita y lo que, finalmente, por el incremento de la pobreza ocasiona la muerte de muchos enfermos, mujeres, ancianos y niños abandonados. En este caso, es evidente que existe una sobrepoblación económicamente improductiva que contribuye a que una situación de escasez y crisis tienda a agravarse notablemente.",
+    "questions": [
+      {
+        "statement": "La tesis central defendida por el autor puede formalizarse del siguiente modo:",
+        "alternatives": [
+          "A) Mientras más población tenga un país, más posibilidades tiene de salir de la pobreza.",
+          "B) Solo los altos niveles de población económicamente activa pueden asegurar y mantener la riqueza de un país.",
+          "C) La población económicamente activa de un país garantiza la eliminación de las enfermedades de un país.",
+          "D) El aumento del nivel de vida de las personas y el progreso de una nación dependen del número de pobladores de un país.",
+          "E) Las situaciones de escasez y pobreza solo pueden controlarse si se controla la sobrepoblación de indigentes de un país."
+        ],
+        "correct": 1,
+        "rationale": "En el texto se postula que mientras se multiplique la población económicamente activa, un país tendrá más posibilidades de mantener y generar riqueza para todos."
+      },
+      {
+        "statement": "En el texto, el término PREMISA se puede reemplazarse por",
+        "alternatives": [
+          "A) principio.",
+          "B) mandamiento.",
+          "C) conclusión.",
+          "D) condición.",
+          "E) refrán."
+        ],
+        "correct": 3,
+        "rationale": "Premisa se entiende, en el texto, como condición sin la cual no es posible lograr la riqueza de un país."
+      },
+      {
+        "statement": "Si nos referimos al progreso de una nación, es incompatible con el texto sostener que",
+        "alternatives": [
+          "A) los países con gran población no necesariamente progresan.",
+          "B) el progreso está relacionado con la población económicamente activa.",
+          "C) cuando se da la “parálisis nacional” no hay progreso económico.",
+          "D) el progreso depende del número de pobladores que esta nación tenga.",
+          "E) no hay progreso cuando decae la población económicamente activa."
+        ],
+        "correct": 3,
+        "rationale": "El progreso no depende del número de pobladores, sino del número de la población económicamente activa."
+      },
+      {
+        "statement": "Puede inferirse que la “parálisis nacional” referida en el texto",
+        "alternatives": [
+          "A) no se da si el nivel de la población económicamente activa tiende a subir.",
+          "B) tiene lugar cuando la población económicamente activa se estaciona o decrece.",
+          "C) está desvinculada de la población económicamente activa y del ingreso per cápita.",
+          "D) se da exclusivamente en los países en los que existe altos índices de población.",
+          "E) es un fenómeno que solo afecta a los países con enfermos, mujeres y ancianos."
+        ],
+        "correct": 1,
+        "rationale": "Sólo se habla de “parálisis nacional” cuando la población económicamente activa se estanca o disminuye."
+      }
+    ]
+  },
+  {
+    "type": "reading_comprehension",
+    "statement": "Al igual que la mayoría de las palabras que han desempeñado un papel importante en la historia de la humanidad, los términos “libertad humana” y “liberación” conllevan\nmúltiples significados. Sin embargo, parece haber un significado que es nuclear, central,\nmínimo, común a las diversas acepciones de la palabra libertad , y que significa “ausencia\nde restricciones”. Más específicamente, ausencia de coacción por parte de congéneres\nespecíficos o sin especificar.\nHay, desde luego, sentidos e n los que la palabra “libertad” no se utiliza de esa\nforma, en los que resulta natural, por ejemplo, hablar del libre movimiento de las\nextremidades humanas, o del libre juego de la imaginación o de liberarse del dolor, o de\nliberarse de los obstáculos de la vida terrenal. Pero cuando hablamos de libertad política ,\nesos sentidos parecen casi metafóricos y, a menudo, el intento de hacernos entrar en el\njuego solo ensombrece el asunto.\nLas pugnas de individuos, grupos o comunidades por obtener libertad por lo general\nse conciben como intentos de individuos particulares por destruir o neutralizar el poder\nque, poseído o utilizado por algún otro individuo o grupos de personas, o los limita para\nllevar a cabo sus propios deseos. Y el partido de la libertad, al contrario de quienes\ndesean mantener algún tipo particular de autoridad –la de un monarca, la Iglesia, la\naristocracia hereditaria, un dictador, a veces disfrazados de agencias impersonales (“el\nEstado”, “la ley”, “la nación”), pero de hecho siempre c onformadas por individuos, vivos o\nmuertos – está compuesto por personas que se oponen a toda forma de restricción\nexistente o en ciernes. Ellos mismos pueden estar a favor de alguna otra forma específica\nde autoridad –digamos la de un cuerpo democrático, o una federación de unidades\nconstituida de diversas formas –, pero no se los describe como amigos de la libertad en\nvirtud de su apoyo a la forma de autoridad que favorecen.\nAunque se han atribuido muchos significados a las palabras “libertad”, “libertario”,\n“liberal”, siempre tendrán una mayor o menor connotación de resistencia a lo que\ninterfiere por parte de alguien –una persona o personas, y no cosas o circunstancias – en\ncondiciones más o menos específicas. Este parece ser el sentido básico de la palabra\n“libertad” usada como término político, y el sentido en que la esgrimen todos sus grandes\npaladines en el pensamiento y en la acción, en nombre tanto de naciones como de\nindividuos, desde Moisés y Leónidas, hasta nuestros días.",
+    "questions": [
+      {
+        "statement": "Determine el tema central del texto.",
+        "alternatives": [
+          "A) Los defensores de la libertad política.",
+          "B) El individuo frente a la coacción de su libertad.",
+          "C) El significado político de la palabra libertad.",
+          "D) Los partidos políticos y la libertad humana.",
+          "E) La lucha de los grupos sociales por su libertad."
+        ],
+        "correct": 2,
+        "rationale": "Entre los variados significados de la palabra libertad, el autor se centra en la dimensión política de la misma."
+      },
+      {
+        "statement": "Es incompatible, con respecto al concepto de libertad política, sostener que",
+        "alternatives": [
+          "A) significa ausencia de coacción por parte de congéneres.",
+          "B) puede constituir una amenaza para los que ostentan autoridad.",
+          "C) se opone a cualquier forma de restricción que esté en ciernes.",
+          "D) connota resistencia a lo que impide el desarrollo personal.",
+          "E) solo ha generado reflexiones en contextos contemporáneos."
+        ],
+        "correct": 4,
+        "rationale": "Las reflexiones sobre la libertad política vienen, según Berlin, desde Moisés y Leonidas."
+      },
+      {
+        "statement": "El vocablo ENSOMBRECE connota en el texto",
+        "alternatives": [
+          "A) asombro.",
+          "B) paradoja.",
+          "C) complejidad.",
+          "D) contradicción.",
+          "E) perplejidad."
+        ],
+        "correct": 2,
+        "rationale": "Ensombrecer el asunto supone echar sombras sobre él, es decir, oscurecerlo conceptualmente, complejizarlo."
+      },
+      {
+        "statement": "Puede deducirse, con respecto a los que integran el partido de la libertad, que",
+        "alternatives": [
+          "A) están a favor de toda forma de restricción existente o en ciernes.",
+          "B) luchan por la libertad de aquellos que gozan de beneficios.",
+          "C) no reconocen ningún tipo de autoridad, ni terrena ni celestial.",
+          "D) se oponen, por principio, al poder de un rey o de un Papa.",
+          "E) defienden el principio de la autoridad particular o personal."
+        ],
+        "correct": 3,
+        "rationale": "En el texto se sostiene que “el partido de la libertad, al contrario de quienes desean mantener algún tipo particular de autoridad –la de un monarca, la iglesia, la aristocracia hereditaria, un dictador, a veces disfrazados de agencias impersonales (“el estado”, “la ley”, “la nación”), pero de hecho siempre conformadas por individuos, vivos o muertos -está compuesto por personas que se oponen a toda forma de restricción existente o en ciernes."
+      }
+    ]
+  },
+  {
+    "type": "sentence_elimination",
+    "statement": "Puede deducirse, con respecto a los que integran el partido de la libertad, que",
+    "alternatives": [
+      "A) están a favor de toda forma de restricción existente o en ciernes.",
+      "B) luchan por la libertad de aquellos que gozan de beneficios.",
+      "C) no reconocen ningún tipo de autoridad, ni terrena ni celestial.",
+      "D) se oponen, por principio, al poder de un rey o de un Papa.",
+      "E) defienden el principio de la autoridad particular o personal."
+    ],
+    "correct": 3,
+    "rationale": "En el texto se sostiene que “el partido de la libertad, al contrario de quienes desean mantener algún tipo particular de autoridad –la de un monarca, la iglesia, la aristocracia hereditaria, un dictador, a veces disfrazados de agencias impersonales (“el estado”, “la ley”, “la nación”), pero de hecho siempre conformadas por individuos, vivos o muertos -está compuesto por personas que se oponen a toda forma de restricción existente o en ciernes."
+  },
+  {
+    "type": "sentence_elimination",
+    "statement": "Si la dimensión política de la libertad no contemplara la resistencia a cualquier forma de interferencia en su ejercicio, entonces",
+    "alternatives": [
+      "A) se podría ejercer, sin restricciones, la esclavitud sobre los seres humanos.",
+      "B) los reyes y los Papas no podrían ejercer su poder sobre sus subalternos.",
+      "C) los dictadores renunciarían a sus prerrogativas como mandatarios.",
+      "D) los partidarios de la libertad abandonarían la lucha contra la autoridad.",
+      "E) la libertad sería considerada como uno de los más importantes derechos."
+    ],
+    "correct": 0,
+    "rationale": "La dimensión política de la libertad asegura que no se ejerza coacción frente a ningún ser humano. Si desapareciese esa prerrogativa, los explotadores tendrían en camapo libre para esclavizar a los seres humanos."
+  },
+  {
+    "type": "verbal_series",
+    "statement": "1. Marca la alternativa conformada por tres sinónimos.",
+    "alternatives": [
+      "A) arcano, secreto, latente.",
+      "B) debatir, disputar, reñir.",
+      "C) lazo, vínculo, desenlace",
+      "D) azuzar, incitar, infringir",
+      "E) discreto, oportuno, sutil."
+    ],
+    "correct": 0,
+    "rationale": "Sinónimos que encierran la idea de lo oculto."
+  },
+  {
+    "type": "verbal_series",
+    "statement": "2. Insertar, incluir, introducir,",
+    "alternatives": [
+      "A) adherir.",
+      "B) sustituir.",
+      "C) implantar.",
+      "D) completar.",
+      "E) llenar."
+    ],
+    "correct": 2,
+    "rationale": "La serie son tres sinónimos que se utilizan para describir la acción de incluir, incorporar."
+  },
+  {
+    "type": "verbal_series",
+    "statement": "3. ¿Cuál de los siguientes términos no guarda relación con la serie verbal?",
+    "alternatives": [
+      "A) papel",
+      "B) tinta",
+      "C) cartón",
+      "D) cola",
+      "E) guillotina"
+    ],
+    "correct": 4,
+    "rationale": "Se excluye guillotina. Los demás términos refieren elementos o elementos que se utilizan para hacer un libro."
+  },
+  {
+    "type": "verbal_series",
+    "statement": "4. Extrañar, desterrar, exiliar,",
+    "alternatives": [
+      "A) sumir.",
+      "B) recordar.",
+      "C) deportar.",
+      "D) prescribir.",
+      "E) añorar."
+    ],
+    "correct": 2,
+    "rationale": "La serie se completa con un sinónimo de destierro, proscripción."
+  },
+  {
+    "type": "verbal_series",
+    "statement": "4. Extrañar, desterrar, exiliar,",
+    "alternatives": [
+      "A) sumir.",
+      "B) recordar.",
+      "C) deportar.",
+      "D) prescribir.",
+      "E) añorar."
+    ],
+    "correct": 2,
+    "rationale": "La serie se completa con un sinónimo de destierro, proscripción."
+  },
+  {
+    "type": "verbal_series",
+    "statement": "5. Encomiar, elogiar; prescindir, incluir; declarar, exponer;",
+    "alternatives": [
+      "A) rebajar, ganar.",
+      "B) recobrar, liquidar.",
+      "C) requerir, carecer.",
+      "D) aclimatar, adaptar.",
+      "E) macular, purificar."
+    ],
+    "correct": 4,
+    "rationale": "La serie se completa con un par de antónimos."
+  },
+  {
+    "type": "verbal_series",
+    "statement": "6. Traición, prodición, felonía,",
+    "alternatives": [
+      "A) falsía.",
+      "B) renuncia.",
+      "C) impudicia.",
+      "D) doblez.",
+      "E) deslealtad."
+    ],
+    "correct": 4,
+    "rationale": "La serie se completa con deslealtad, es decir, traición."
+  },
+  {
+    "type": "reading_comprehension",
+    "statement": "En los cuentos de La venganza del cóndor de Ventura García Calderón, publicados en 1924, estamos frente a situaciones que demandan de los personajes, sean blancos, indios o nativos de la amazonía, una gran dosis de aplomo y valor. Estas situaciones son el fondo de una convivencia que los va convirtiendo en individuos experimentados, pero despojados de todo amor. En este sentido, el libro destaca, dentro del segmento social dominante de los blancos, la conformación de una reprobable fiereza en atroces e inhumanos hacendados en sus relaciones con los indios y nativos de la selva, y entre ellos mismos. Es cierto que la perspectiva en la narración de los acontecimientos es la del hombre blanco (que va desde el bachiller universitario hasta el abusivo hacendado) y que esa perspectiva niega o subordina la del indio, pero este hecho contribuye a que el abuso y la injusticia que encierran los relatos nos inspiren una mayor indignación, un mayor rechazo frente a lo inmoral. Con el propósito de analizar la perspectiva con la que observa el llamado “hombre blanco” al indio o al nativo de la selva, resulta rentable el análisis de la configuración que este hace del sujeto exótico en algunos de los cuentos de La venganza del cóndor ,sobre todo en aquellos que presentan a indios en situaciones conflictivas y desventajosas. Esta aproximación apunta a la descripción de la forma en que se accede a la otredad o se vive la alteridad, esa experiencia que nos permite percibir nuestras diferencias frente a los otros. Esta mirada (mencionemos los aportes de Tzvetan Todorov en este campo) permite abandonar las posturas altamente politizadas y tendenciosas, sin renunciar al análisis de lo político, inevitablemente ligado a las figuras de la otredad. El sujeto exótico, en el libro mencionado, se construye sobre la base de cuatro características. La primera apunta a mostrar lo extraño que es este sujeto para quien lo percibe como diferente a sí mismo. Este elemento establece una primera y radical oposición frente a lo propio. Lo extraño, entonces, se traduce en el hecho de que una persona o cosa sea ajena a la naturaleza o condición del conjunto al que pertenece. El indio de Ventura García Calderón, sin ser despojado de su condición de hombre, es visto por sus narradores como alguien cuyos modos y costumbres no se comparten y cuyas prácticas culturales alejan al observador del sujeto observado. Por ello en los cuentos con personajes indígenas el narrador construye e l espacio de un “nosotros”, es decir el del hombre blanco, frente al espacio de un “ellos”, es decir, de los indios. Por ello, también, la referencia del narrador a la etnia indígena como “siervos de una raza inerme”, “raza vencida” o “bárbara”. La función que cumple esta diferenciación es establecer esa distancia política con quienes es imposible experimentar lo propio. La segunda característica se centra en el carácter desconocido de este sujeto. Este elemento incide en la forma en que es percibido. En este sentido el sujeto exótico carece de reconocimiento a los ojos de quien lo observa porque es percibido desde su ignorancia. Este hecho revela, en primer término, que la ignorancia del narrador se genera o manifiesta en el contacto con el otro; en segundo lugar, muestra que el sujeto exótico es ante todo construido y que en ese proceso no puede dejar de ser recreado o ficcionalizado con los elementos del mundo de quien lo observa. De allí que sea absurdo reclamar al escritor exótico (como lo hace la crítica literaria sociologista encabezada por Cornejo y Escajadillo) ese pacto de fidelidad al mundo que configura desde su situación de no saber. La tercera característica destaca el carácter peligroso del sujeto exótico. Para quien lo percibe este sujeto entraña riesgo y siempre supone la posibilidad de ocasionar daño a los demás. Por ello este sujeto es percibido como una marginal o un violento en tanto se le imagina siempre fuera de los contornos de lo que se corresponde con el orden y la ley. En el caso del indio de los cuentos de Ventura, este es visto como alguien cuya secular explotación lo ha convertido en un pozo de odio capaz de conducirlo por los caminos de la venganza y la traición. El indio, en este sentido, inspira temor en el observador, una clase de miedo que convierte al hombre blanco en alguien cuya prudencia puede salvarle la vida o cuya imprudencia puede causarle la muerte. En el cuento “Coca”, por ejemplo, se consuma la muerte de un criollo adinerado a manos de un indio debido a su prepotencia o temeridad. ¿El motivo? Haber osado desconocer los mensajes de muerte de un apu. La cuarta y última característica presenta al sujeto exótico como alguien que produce una misteriosa atracción en quien lo percibe. En efecto, quien percibe a este sujeto siente la necesidad de explicarlo o comprenderlo en tanto le es ajeno. Esta circunstancia, normalmente suspende el entendimiento, hace confusa la razón y produce estupor o sorpresa en quien lo percibe. En La venganza del cóndor el narrador siempre tiene que detener su curiosidad frente a la imposibilidad de penetrar los secretos de una cultura milenaria que de algún modo es la de su país, pero que no conoce. Tanto los gestos, por ejemplo las miradas, como el lenguaje de los indios se tienen como indescifrables, imposibles de comprender o como impenetrables. No se comprenden, tampoco, las relaciones que el indio establece con los elementos de la naturaleza al punto que se tienen por supersticiones o, en el peor de los casos, como aberraciones. Y mucho menos se comprende el saber de los indios, ese conocimiento que les ha permitido sobrevivir en situaciones adversas a lo largo de los siglos. (De “La experiencia narrativa de Ventura García Calderón” de Jorge Valenzuela Garcés)",
+    "questions": [
+      {
+        "statement": "Determine el tema central del texto.",
+        "alternatives": [
+          "A) Lo desconocido en la narrativa indigenista contemporánea.",
+          "B) El indigenismo narrativo de Ventura García Calderón.",
+          "C) Características del sujeto exótico en La venganza del cóndor .",
+          "D) La obra narrativa y ensayística de Ventura García Calderón.",
+          "E) El indio en la narrativa peruana contemporánea."
+        ],
+        "correct": 2,
+        "rationale": "El texto se centra en la explicación de las características del sujeto exótico en La venganza del cóndor ,a saber: el ser peligroso, extraño, desconocido y misterioso."
+      },
+      {
+        "statement": "Es incompatible, con respecto a la representación del indio en Ventura García Calderón, sostener que",
+        "alternatives": [
+          "A) reviste elementos de lo extraño y misterioso en su construcción como personaje.",
+          "B) es un personaje desconocido por los narradores que lo representan exóticamente.",
+          "C) opera con las estrategias de la representación exotista de comienzo de siglo.",
+          "D) se caracteriza por presentarlo en situaciones conflictivas que no lo favorecen.",
+          "E) quien narra en los cuentos puede proporcionar una imagen fidedigna del mismo."
+        ],
+        "correct": 4,
+        "rationale": "Dado que se trata de un sujeto desconocido para el narrador implementado por el autor, es imposible que pueda construir una imagen fiel del indio."
+      },
+      {
+        "statement": "La palabra RENTABLE tiene el sentido contextual de",
+        "alternatives": [
+          "A) alquilable.",
+          "B) productivo.",
+          "C) admisible.",
+          "D) posible.",
+          "E) complejo."
+        ],
+        "correct": 1,
+        "rationale": "Rentable tiene el sentido de productivo, es decir, que puede ser aprovechable en algún sentido y con la idea de generar algunas conclusiones."
+      }
+    ]
+  },
+  {
+    "type": "synonyms_and_antonyms",
+    "statement": "3. La palabra RENTABLE tiene el sentido contextual de",
+    "alternatives": [
+      "A) alquilable.",
+      "B) productivo.",
+      "C) admisible.",
+      "D) posible.",
+      "E) complejo."
+    ],
+    "correct": 1,
+    "rationale": "Rentable tiene el sentido de productivo, es decir, que puede ser aprovechable en algún sentido y con la idea de generar algunas conclusiones."
+  },
+  {
+    "type": "synonyms_and_antonyms",
+    "statement": "4. El vocablo R ECREADO puede ser reemplazado en el texto por",
+    "alternatives": [
+      "A) proyectado.",
+      "B) soñado.",
+      "C) evocado.",
+      "D) perpetuado.",
+      "E) inventado."
+    ],
+    "correct": 4,
+    "rationale": "Recrear supone inventar, construir un personaje."
+  },
+  {
+    "type": "synonyms_and_antonyms",
+    "statement": "5. Es incompatible, con respecto a los personajes blancos e indígenas de La venganza del cóndor ,sostener que",
+    "alternatives": [
+      "A) viven situaciones conflictivas en las que el hombre blanco resulta ser el dominante.",
+      "B) padecen situaciones que demandan de ellos una gran dosis de valentía y aplomo.",
+      "C) en la narrativa de García Calderón se produce una fusión de sus espacios culturales.",
+      "D) experimentan un gran desencuentro debido al mutuo desconocimiento entre ellos.",
+      "E) se convierten en sujetos de una gran experiencia, pero carentes de afecto."
+    ],
+    "correct": 2,
+    "rationale": "En el texto se dice que el narrador construye el espacio de un “nosotros”, es decir el del hombre blanco, frente al espacio de un “ellos”, es decir, de los indios."
+  },
+  {
+    "type": "synonyms_and_antonyms",
+    "statement": "6. Puede deducirse, con respecto a la crítica literaria sociologista referida en el texto, que",
+    "alternatives": [
+      "A) estableció principios acertados en su interpretación de la narrativa modernista de comienzos de siglo XX.",
+      "B) incurrió en un error de interpretación cuando trabajó la narrativa de García Calderón.",
+      "C) partió, para su interpretación, de principios estéticos relacionados con el arte por el arte.",
+      "D) cumplió con reivindicar la obra de García Calderón a partir de una valorización de su obra.",
+      "E) proporcionó una lectura de la obra de García Calderón, libre de intencionalidad política."
+    ],
+    "correct": 1,
+    "rationale": "Incurrió en un error al demandar a un escritor exotista como García Calderón ese pacto de fidelidad al mundo indígena que configura desde narradores caracterizados por su situación de no saber."
+  },
+  {
+    "type": "synonyms_and_antonyms",
+    "statement": "7. En el texto, el término ESTUPOR puede se reemplazada por",
+    "alternatives": [
+      "A) recelo.",
+      "B) terror.",
+      "C) asombro.",
+      "D) respeto.",
+      "E) hilaridad."
+    ],
+    "correct": 2,
+    "rationale": "Estupor es asombro o pasmo."
+  },
+  {
+    "type": "synonyms_and_antonyms",
+    "statement": "8. No se condice con lo sostenido en el texto postular que",
+    "alternatives": [
+      "A) el indio inspira temor, en quien lo percibe, debido a que es visto como un personaje peligroso.",
+      "B) el narrador implementado de los cuentos de La venganza del cóndor pertenece al universo indígena.",
+      "C) existe una barrera que no permite que el narrador penetre en el universo indígena.",
+      "D) en los cuentos de García Calderón no se comprenden las relaciones del indio con la naturaleza.",
+      "E) quien cuenta las historias de La venganza del cóndor siente una misteriosa atracción por el indígena."
+    ],
+    "correct": 1,
+    "rationale": "En el texto se sostiene que quien percibe al indio, o sea el narrador, siente la necesidad de explicarlo o comprenderlo en tanto le es ajeno."
+  },
+  {
+    "type": "reading_comprehension",
+    "statement": "La señal más clara de que la lectura ha dejado de ser pasiva y que se participa dialécticamente en el aprendizaje, es que ella deje cierta huella tangible de su proceso. La superstición del libro inmaculado, propia del bibliómano esteticista, es inadmisible en el trabajador intelectual. Cuando el libro es propio, porque se ha hecho el esfuerzo de comprarlo para tenerlo siempre a la mano, conviene ir destacando los párrafos fundamentales de la exposición mediante diversas señales: el subrayado, la llave marginal y otras de uso común. Gracias al empleo de esos signos, de variada significación para cada lector, es posible poner de relieve el sistema expositivo de la obra y sus puntos discutibles. Es muy útil también realizar una minuciosa coordinación de las páginas en que aparezcan ciertos asuntos que interesen especialmente o, todavía mejor, elaborar una especie de índice de temas al principio o al final del libro, en la página en blanco llamada de guarda. Nada impide tampoco que, en algún caso, al margen de la página, al final de un capítulo o al término de un libro se puedan escribir algunas apostillas comentando la lectura. De esa manera, se habrá realizado un verdadero resumen, y hasta un comentario crítico, del libro leído, atendiendo a su estructura y contenido fundamental, de un lado, y a nuestros intereses personales, de otro. Asimismo, con estos procedimientos, en algún caso, se habrá llegado a elaborar una especie de acertada antología de los párrafos o páginas más importantes del libro.",
+    "questions": [
+      {
+        "statement": "El tema medular del texto es",
+        "alternatives": [
+          "A) la apología esteticista de un buen libro de texto.",
+          "B) la huella de la lectura en el proceso de aprendizaje.",
+          "C) la lectura como proceso pasivo de aprendizaje.",
+          "D) la importancia del subrayado en un libro propio.",
+          "E) la lectura crítica y el proceso del aprendizaje pasivo."
+        ],
+        "correct": 1,
+        "rationale": "El texto se centra en la importancia que tiene, en el proceso de la lectura, las marcas que demuestren haber realizado un trabajo de análisis."
+      },
+      {
+        "statement": "Para poner de relieve los párrafos fundamentales, el autor está de acuerdo con el empleo del",
+        "alternatives": [
+          "A) corchete.",
+          "B) aprendizaje.",
+          "C) subrayado.",
+          "D) razonamiento.",
+          "E) paréntesis."
+        ],
+        "correct": 2,
+        "rationale": "“Cuando el libro es propio, porque se ha hecho el esfuerzo de comprarlo para tenerlo siempre a la mano, conviene ir destacando los párrafos fundamentales de la exposición mediante diversas señales: el subrayado, la llave marginal y otras de uso común”."
+      },
+      {
+        "statement": "El autor destaca dos procedimientos cognoscitivos, a saber:",
+        "alternatives": [
+          "A) el subrayado y la llave marginal.",
+          "B) la estructura y contenido fundamental.",
+          "C) el resumen y el comentario crítico.",
+          "D) el sistema y los puntos discutibles.",
+          "E) las apostillas y la página de guarda."
+        ],
+        "correct": 2,
+        "rationale": "En el último párrafo se hace referencia al resumen, a través de apostillas, y al comentario crítico, procedimientos que ejercitan nuestras habilidades cognitivas como la síntesis."
+      }
+    ]
+  },
+  {
+    "type": "reading_comprehension",
+    "statement": "El mal de Alzheimer es una enfermedad degenerativa del cerebro, descrita por primera vez en 1907, por el médico alemán Alois Alzheimer. Se caracteriza por ser adquirida, progresiva e irreversible. El mal de Alzheimer afecta a las células (neuronas) del cerebro produciendo el deterioro de las funciones intelectuales. Su síntoma más evidente es la pérdida de la memoria y la capacidad para aprender cosas nuevas. En efecto, las personas que padecen este mal pierden sobre todo la memoria, que afecta, profundamente, su vida cotidiana y su desenvolvimiento en el trabajo. En este caso es posible que las personas afectadas olviden cosas más a menudo que las personas normales y que no puedan volver a recordarlas después. O que pierdan ciertos conocimientos establecidos en su memoria con los cuales contaban para desempeñarse en la vida cotidiana. En esta dirección, se deterioran la orientación, el razonamiento, el cálculo, el juicio, el lenguaje, la capacidad de planificar y ejecutar actos y la capacidad de reconocer objetos y personas. La dificultad para realizar tareas conocidas es otro de los síntomas asociados a la pérdida de la memoria. Por ejemplo, personas con este mal podrían preparar una comida y no solamente olvidarse de servirla, sino de que ellos mismos la prepararon o perderse en su propio vecindario, no saber donde están, cómo llegaron al lugar en el que se encuentran, ni cómo regresar a casa. Otro aspecto de esta enfermedad está asociado al lenguaje. La persona con Alzheimer puede olvidar palabras simples o substituirlas en forma inapropiada haciendo que su oración sea incomprensible. El denominado “juicio pobre o disminuido” se manifiesta en las personas con Alzheimer. Por ejemplo, una persona con este mal podría obrar sin tener en cuenta que tiene un niño a su cargo, vestirse inadecuadamente o ponerse varias camisas o blusas al mismo tiempo sin darse cuenta de estos hechos. La dificultad en el pensamiento abstracto se manifiesta en estos pacientes en el hecho de que pueden dejar de relacionarse con el significado de los números y de lo que se debe hacer con ellos para conseguir un resultado. Como consecuencia de ello, no pueden ser responsables del manejo de dinero. La disociación de los elementos del entorno con el espacio se manifiesta cuando los afectados ponen cosas en lugares inapropiados, por ejemplo, una plancha en el refrigerador, una cacerola recién lavada en el baño o un reloj de pulsera en la azucarera. A este mal se asocian, también, cambios en la personalidad (forma de ser habitual); trastornos emocionales (depresión, ansiedad, ideas falsas y alucinaciones) y alteraciones del comportamiento, es decir, puede presentar cambios rápidos de humor (desde calma pasando por la tristeza hasta la ira), sin ninguna razón aparente. Por ello, toda depresión que se presenta por primera vez en edad avanzada urge evaluarla. Con el tiempo, el portador del mal de Alzheimer tiene dificultades para desenvolverse adecuadamente en el área personal, laboral, social y familiar. Finalmente, la persona con Alzheimer puede sufrir lo que los especialistas denominan “pérdida de iniciativa”, es decir, pueden convertirse en personas muy pasivas, apáticas y requerir señales o sugerencias para involucrarse y participar en acciones colectivas.",
+    "questions": [
+      {
+        "statement": "Determine el tema central del texto.",
+        "alternatives": [
+          "A) El descubrimiento del llamado mal de Alzheimer.",
+          "B) Las costumbres de los enfermos del mal de Alzheimer.",
+          "C) Definición y sintomatología del mal de Alzheimer.",
+          "D) Los sentimientos de los pacientes con mal de Alzheimer.",
+          "E) La medicación contra el degenerativo mal del Alzheimer."
+        ],
+        "correct": 2,
+        "rationale": "El texto define la enfermedad y luego pasa a describir los síntomas de la misma."
+      },
+      {
+        "statement": "No poder comprobar si la cuenta de un restaurante es correcta, demostraría en un paciente con Alzheimer que",
+        "alternatives": [
+          "A) ha llegado a su fase terminal y es inoperable.",
+          "B) debe tomarse un tiempo para resolver el problema.",
+          "C) sufre del llamado juicio pobre o disminuido.",
+          "D) disocia todos los elementos de su entorno.",
+          "E) ya no puede razonar de manera abstracta."
+        ],
+        "correct": 4,
+        "rationale": "En el texto se dice que “la dificultad en el pensamiento abstracto se manifiesta en estos pacientes en el hecho de que pueden dejar de relacionarse con el significado de los números y de lo que se debe hacer con ellos para conseguir un resultado. Como consecuencia de ello, no pueden ser responsables del manejo del dinero”."
+      },
+      {
+        "statement": "El vocablo DISOCIACIÓN puede ser reemplazado en el texto, por",
+        "alternatives": [
+          "A) separación.",
+          "B) permuta.",
+          "C) rechazo.",
+          "D) riña.",
+          "E) enajenación."
+        ],
+        "correct": 0,
+        "rationale": "Disociar es separar las cosas que se funcionan juntas en un marco lógico."
+      }
+    ]
+  },
+  {
+    "type": "synonyms_and_antonyms",
+    "statement": "El vocablo DISOCIACIÓN puede ser reemplazado en el texto, por",
+    "alternatives": [
+      "A) separación.",
+      "B) permuta.",
+      "C) rechazo.",
+      "D) riña.",
+      "E) enajenación."
+    ],
+    "correct": 0,
+    "rationale": null
+  },
+  {
+    "type": "synonyms_and_antonyms",
+    "statement": "En el texto, la palabra ESTABLECIDOS connota",
+    "alternatives": [
+      "A) presencia.",
+      "B) conocimiento.",
+      "C) estabilidad.",
+      "D) arraigo.",
+      "E) equilibrio."
+    ],
+    "correct": 3,
+    "rationale": null
+  },
+  {
+    "type": "reading_comprehension",
+    "statement": "Finalmente, la persona con Alzheimer puede sufrir lo que los especialistas denominan “pérdida de iniciativa”, es decir pueden convertirse en personas muy pasivas, apáticas y requerir señales o sugerencias para involucrarse y participar en acciones colectivas.",
+    "questions": [
+      {
+        "statement": "Puede deducirse, a partir de los efectos de la enfermedad, que un paciente con Alzheimer puede",
+        "alternatives": [
+          "A) realizar labores matemáticas sin problemas.",
+          "B) regresar a su domicilio sin ayuda de alguien.",
+          "C) convertirse en una persona muy solitaria.",
+          "D) mantener un comportamiento psíquico regular.",
+          "E) guardar las cosas en sus lugares correspondientes."
+        ],
+        "correct": 2,
+        "rationale": "Finalmente, la persona con Alzheimer pude sufrir lo que los especialistas denominan “pérdida de iniciativa”, es decir pueden convertirse en personas muy pasivas, apáticas y requerir señales o sugerencias para involucrarse y participar en acciones colectivas."
+      }
+    ]
+  },
+  {
+    "type": "sentence_elimination",
+    "statement": "3. I) La función conativa del lenguaje, según Jakobson, está orientada hacia el destinatario. II) La función conativa encuentra su expresión más pura en el imperativo y en el vocativo. III) La función conativa puede observarse en el siguiente ejemplo, que trasmite un mensaje: \"Compre usted en el hipermercado Vivanda\". IV) La función conativa del lenguaje busca comunicar algo a los demás. V) La función conativa del lenguaje tiene el objetivo de llamar la atención del oyente y de incitarlo a la acción.",
+    "alternatives": [
+      "A) III",
+      "B) II",
+      "C) V",
+      "D)I",
+      "E) IV"
+    ],
+    "correct": 4,
+    "rationale": "Es redundante. Está incluida en el III enunciado."
+  },
+  {
+    "type": "sentence_elimination",
+    "statement": "4. I) La pirámide de Kéops fue construida hace aproximadamente cinco mil años. II) En las construcciones antiguas, como las pirámides, los bloques de piedra eran transportados por el río y elevados por rampas hasta una plataforma. III) Los bloques de piedra utilizados en la construcción de la pirámide de Kéops pesan dos toneladas y media cada uno. IV) La pirámide de Kéops, cercana a El Cairo, tiene 137.18 metros de altura. V) La base de la pirámide de Kéops es cuadrada y tiene 233 metros de lado.",
+    "alternatives": [
+      "A) V",
+      "B) I",
+      "C) III",
+      "D) IV",
+      "E) II"
+    ],
+    "correct": 4,
+    "rationale": "Se elimina la II por impertinencia. El tema es las características de la Pirámide de Kéops."
+  },
+  {
+    "type": "sentence_elimination",
+    "statement": "5. I) Los virus son moléculas que se reproducen únicamente dentro de células huéspedes y que mueren una vez finalizado el proceso de invasión. II) Los virus son la forma de vida más elemental: están constituidos por una cadena de ADN o ARN, protegida por una cápsula proteica. III) Los virus son invisibles al microscopio pues tienen un tamaño menor a los 0,2 micras, es decir, alrededor de las dos millonésimas partes de un milímetro. IV) Los virus están constituidos por una sola y compleja molécula que, para reproducirse, necesita de otro ser vivo. V) Los virus son causantes de cientos de enfermedades que atacan a las plantas, animales y al hombre.",
+    "alternatives": [
+      "A) IV",
+      "B) III",
+      "C) I",
+      "D) V",
+      "E) II"
+    ],
+    "correct": 0,
+    "rationale": "Se elimina la IV por que está incluida en la I oración."
+  }
+]

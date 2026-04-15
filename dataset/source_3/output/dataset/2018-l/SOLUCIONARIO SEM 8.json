@@ -1,0 +1,599 @@
+[
+  {
+    "type": "reading_comprehension",
+    "statement": "Ya sea por la frecuencia o por la falta de control (ambas están relacionadas), lo cierto es que en los últimos años han surgido una serie de términos que ponen nombre a las nuevas patologías relacionadas con un uso abusivo del smartphone. En España se conoce como «nomofobia», una abreviatura de la palabra inglesa «no-mobile-phone phobia», es decir, el pánico a no llevar encima a tu amado aparato inteligente. Pero, ¿se debe considerar la nomofobia como una adicción grave, igual que las vinculadas a las drogas o al sexo? Para el doctor Marco Galván, es evidente que «la nomofobia, aunque contenga la palabra fobia, es una adicción al teléfono móvil. La persona tiene dependencia de su teléfono y siente un fuerte malestar en caso de olvidárselo, quedarse sin batería o sin cobertura». Aunque el 37, 5 %de las personas encuestadas no había escuchado nunca el término «nomofobia», cerca del 60 %reconoce haberse sentido angustiado por no haber podido contestar una llamada o un mensaje. la nomofobia pueden presentar ansiedad, Las consecuencias de esta dependencia, sin embargo, no carecen de interés. Las víctimas de taquicardias, nerviosismo, sudoración, irritabilidad, angustia, pensamientos obsesivos, dolores de cabeza y de estómago. Además, como en cualquier otra adicción, los pacientes más avanzados sufren el llamado «síndrome de abstinencia». Así lo explica Luis Bononato, director de Proyecto Hombre en la provincia de Cádiz: «En un principio se conectan para temas de estudio, curiosidades, videos, contactar, por ejemplo, con amigos y disfrutar, encontrando satisfacción en el uso. Posteriormente, la conexión se realiza para evitar el malestar que le supone no poder conectarse». En los casos más extremos, principalmente en adolescentes, la víctima miente para poder conectarse más tiempo. Si se encuentra realizando otra actividad, no puede dejar de pensar en volver a coger su teléfono móvil. Además, como con las drogas, desarrolla una especie de tolerancia: «Cada vez está más tiempo conectado y cada vez es menor el intervalo entre conexión y conexión. Prácticamente está todo el día con el móvil», explica Bononato. De hecho, en algunas ocasiones la obsesión llega a ser tal que algunos expertos ya hablan del «síntoma de la vibración fantasma», otro de los efectos vinculados a la adicción a los teléfonos móviles, que provoca la sensación de que se ha recibido alguna notificación, cuando en realidad no ha ocurrido nada. SÁNCHEZ RUBIO, María. (26 de diciembre de 2016). Nomofobia: la adicción del siglo XXI. Recuperado el 25 de septiembre de 2017 de https://mariasanchezrubio.wordpress.com/2016/12/26/nomofobia-adiccion-sigloxxi/",
+    "questions": [
+      {
+        "statement": "Medularmente, el texto presenta",
+        "alternatives": [
+          "A) la síntesis de los principales rasgos de la obsesión por los celulares.",
+          "D) un análisis de los factores relacionados a la adicción al smartphone.",
+          "B) un breve recuento de la sintomatología característica de la adicción.",
+          "E) una caracterización de la nomofobia, su definición y consecuencias.",
+          "C) el esbozo de una propuesta para diagnosticar la adicción al teléfono."
+        ],
+        "correct": 3,
+        "rationale": "El texto discurre sobre la definición y las principales consecuencias de la adicción a los teléfonos inteligentes (smartphone)."
+      },
+      {
+        "statement": "En el texto, el término DISFRUTAR supone",
+        "alternatives": [
+          "A) culminación.",
+          "D) hesitación.",
+          "B) incidente.",
+          "E) celeridad.",
+          "C) propósito."
+        ],
+        "correct": 2,
+        "rationale": "El término DISFRUTAR se inscribe dentro del marco del uso con finalidad específica del smartphone. Es decir, en un plano en el que aún no existe la adicción y, por tanto, se emplea el artefacto con un «propósito» definido."
+      },
+      {
+        "statement": "Del origen inglés del término «nomofobia» se desprende que",
+        "alternatives": [
+          "A) la castellanización de la frase inglesa mantiene nítidamente su sentido original.",
+          "B) es probable que en España se ignore la pertinencia del inglés para las ciencias.",
+          "C) existe una evidente preferencia por castellanizar palabras de origen extranjero.",
+          "D) entre los españoles es muy común utilizar la fórmula «no-mobile-phone phobia».",
+          "E) la expresión original y su derivado español describen patologías casi opuestas."
+        ],
+        "correct": 4,
+        "rationale": "La expresión original «no-mobile-phone phobia» se refiere al miedo a no tener el móvil a disposición, mientras que «nomofobia» alude a la adicción que genera, es decir, al llevarlo excesivamente. Así, uno habla de no tenerlo y el otro, de tenerlo en demasía."
+      },
+      {
+        "statement": "En relación a los datos presentados en la infografía es incongruente sostener que",
+        "alternatives": [
+          "A) la tendencia a la sociabilización es un rasgo soslayado al definir al nomofóbico.",
+          "B) las redes se constituyen, para el adicto al celular, como un espacio de amparo.",
+          "C) parece ser que el género y la edad son factores relevantes para definir el perfil.",
+          "D) un porcentaje considerable de los nomofóbicos posee un coeficiente estimable.",
+          "E) las personas que viven pendientes del celular tienen problemas de autoestima."
+        ],
+        "correct": 0,
+        "rationale": "En la sección de «Expediente académico» se indica que la extroversión es un rasgo poco común entre los nomofóbicos. En tal sentido, es un rasgo considerado al momento de definir al adicto al smartphone. Es falso, por ende, que se soslaye."
+      },
+      {
+        "statement": "Si se demostrara tajantemente que los adolescentes, en ningún caso, generan dependencia hacia los teléfonos móviles, afirmar que",
+        "alternatives": [
+          "A) el rechazo a usar estos equipos en el trabajo es beneficioso estaría justificado.",
+          "B) su uso habitual causa impaciencia o prácticas deshonestas sería implausible.",
+          "C) la jerga empleada en las redes sociales no sirve para comunicar sería verdad.",
+          "D) en Inglaterra los mayores son más dados a la adicción constituiría una falacia.",
+          "E) en ciertos países los niños no se adecúan a la tecnología carecería de validez."
+        ],
+        "correct": 1,
+        "rationale": "En el texto se señala que, en los casos extremos de adicción, los adolescentes mienten y sienten ansiedad por tomar entre sus manos los celulares. En caso de que el uso de los teléfonos no generara ningún tipo de dependencia, estos efectos serían inviables."
+      }
+    ]
+  },
+  {
+    "type": "synonyms_and_antonyms",
+    "statement": "Instalar",
+    "alternatives": [
+      "A) Armar",
+      "B) Moldear",
+      "C) Diseñar",
+      "D) Ubicar",
+      "E) Arribar"
+    ],
+    "correct": 3,
+    "rationale": null
+  },
+  {
+    "type": "synonyms_and_antonyms",
+    "statement": "Valor",
+    "alternatives": [
+      "A) Prestigio",
+      "B) Función",
+      "C) Valimiento",
+      "D) Unción",
+      "E) Vórtice"
+    ],
+    "correct": 1,
+    "rationale": null
+  },
+  {
+    "type": "synonyms_and_antonyms",
+    "statement": "Sesgar",
+    "alternatives": [
+      "A) Cortar",
+      "B) Alterar",
+      "C) Parcializar",
+      "D) Reunir",
+      "E) Mancillar"
+    ],
+    "correct": 2,
+    "rationale": null
+  },
+  {
+    "type": "synonyms_and_antonyms",
+    "statement": "Primacía",
+    "alternatives": [
+      "A) Intensidad",
+      "B) Alteridad",
+      "C) Compromiso",
+      "D) Absolución",
+      "E) Hegemonía"
+    ],
+    "correct": 4,
+    "rationale": null
+  },
+  {
+    "type": "synonyms_and_antonyms",
+    "statement": "Provocativo",
+    "alternatives": [
+      "A) Transgresor",
+      "B) Acogedor",
+      "C) Divertido",
+      "D) Atractivo",
+      "E) Desmedido"
+    ],
+    "correct": 0,
+    "rationale": null
+  },
+  {
+    "type": "synonyms_and_antonyms",
+    "statement": "Extraer",
+    "alternatives": [
+      "A) Sacar",
+      "B) Articular",
+      "C) Derivar",
+      "D) Manipular",
+      "E) Tramar"
+    ],
+    "correct": 2,
+    "rationale": null
+  },
+  {
+    "type": "synonyms_and_antonyms",
+    "statement": "Inmoral",
+    "alternatives": [
+      "A) Verecundo",
+      "B) Oscilante",
+      "C) Perverso",
+      "D) Maligno",
+      "E) Incómodo"
+    ],
+    "correct": 4,
+    "rationale": null
+  },
+  {
+    "type": "synonyms_and_antonyms",
+    "statement": "Adalid",
+    "alternatives": [
+      "A) Portavoz",
+      "B) Trabajador",
+      "C) Negociador",
+      "D) Participante",
+      "E) Protector"
+    ],
+    "correct": 0,
+    "rationale": null
+  },
+  {
+    "type": "synonyms_and_antonyms",
+    "statement": "Disrupción",
+    "alternatives": [
+      "A) Erupción",
+      "B) Fusión",
+      "C) Desmontaje",
+      "D) Escisión",
+      "E) Alteración"
+    ],
+    "correct": 3,
+    "rationale": null
+  },
+  {
+    "type": "synonyms_and_antonyms",
+    "statement": "Convicción",
+    "alternatives": [
+      "A) Sensación",
+      "B) Lealtad",
+      "C) Vaticinio",
+      "D) Persuación",
+      "E) Certeza"
+    ],
+    "correct": 4,
+    "rationale": null
+  },
+  {
+    "type": "synonyms_and_antonyms",
+    "statement": "Repliegue",
+    "alternatives": [
+      "A) Duplicidad",
+      "B) Contención",
+      "C) Combate",
+      "D) Retroceso",
+      "E) Pretensión"
+    ],
+    "correct": 3,
+    "rationale": null
+  },
+  {
+    "type": "synonyms_and_antonyms",
+    "statement": "Condena",
+    "alternatives": [
+      "A) Censura",
+      "B) Repulsión",
+      "C) Indiferencia",
+      "D) Valoración",
+      "E) Indolencia"
+    ],
+    "correct": 0,
+    "rationale": null
+  },
+  {
+    "type": "synonyms_and_antonyms",
+    "statement": "Voluntad",
+    "alternatives": [
+      "A) Valentía",
+      "B) Esfuerzo",
+      "C) Coraje",
+      "D) Fuerza",
+      "E) Deseo"
+    ],
+    "correct": 4,
+    "rationale": null
+  },
+  {
+    "type": "synonyms_and_antonyms",
+    "statement": "Sacudir",
+    "alternatives": [
+      "A) Doblegar",
+      "B) Liberar",
+      "C) Remover",
+      "D) Delirar",
+      "E) Estremecer"
+    ],
+    "correct": 1,
+    "rationale": null
+  },
+  {
+    "type": "synonyms_and_antonyms",
+    "statement": "Sopor",
+    "alternatives": [
+      "A) Somnolencia",
+      "B) Cansancio",
+      "C) Modorra",
+      "D) Parálisis",
+      "E) Serendipia"
+    ],
+    "correct": 3,
+    "rationale": null
+  },
+  {
+    "type": "reading_comprehension",
+    "statement": "El texto nos dice que el populismo es una forma de gobernar que ha procurado incorporar a los sectores excluidos de la política, logrando con esto convertirse en una «fuerza elemental en la democratización de América Latina»; en tal sentido, si el populismo se hubiera practicado en ese periodo de nuestra historia republicana, caracterizado por la exclusión de, entre otros, los indígenas; entonces, es probable que estos hayan tenido la oportunidad de participar en la política. La popularidad del presidente Pedro Pablo Kuczynski mantiene su tendencia a la baja y acumula una caída total de 30 puntos en los últimos seis meses. Ahora, su nivel de aprobación se ubica en 35%, seis puntos porcentuales menos que el mes anterior. Su desaprobación llega al 57%, lejos de aquel 14% que tenía en agosto. La última encuesta de Pulso Perú, elaborada por Datum Internacional para los diarios Perú21 y Gestión, muestra que en el nivel socioeconómico E es donde se registra la mayor desaprobación (61%). Asimismo, el premier Fernando Zavala también sufre una considerable caída (12 puntos porcentuales) y registra solo un 27% de respaldo. En este contexto, el 81% de los encuestados cree que debe haber cambios en el gabinete. Por otro lado, Datum evaluó también la lucha contra la corrupción, estableciendo que solo el 33% considera que el presidente Kuczynski está liderando esta batalla, frente a un 60% que sostiene lo contrario, y quizás ello explica también su caída en la aprobación. Texto adaptado de la nota de prensa «Popularidad de PPK sigue en caída libre, revela Datum», publicado en el diario Perú21. Edición del 3 de marzo de 2017. https://peru21.pe/politica/popularidad-ppk-sigue-caida-libre-revela-datum-67773.",
+    "questions": [
+      {
+        "statement": "La intención del autor del texto es",
+        "alternatives": [
+          "A) explicar las causas del descenso en la aprobación del presidente Kuczynski.",
+          "D) relacionar las variables que explican la falta de aprobación del presidente PPK.",
+          "C) difundir el constante descenso de aprobación del presidente de la República.",
+          "B) comparar el descenso de aprobación experimentado por PPK con el de Zavala.",
+          "E) argumentar con base a las estadísticas la legitimidad de la vacancia presidencial."
+        ],
+        "correct": 2,
+        "rationale": "Dada la información expuesta en el texto, se puede plantear que la intención del autor no es otra que difundir, basado en una encuesta, la constante desaprobación de PPK."
+      },
+      {
+        "statement": "En el texto, el término TENDENCIA connota",
+        "alternatives": [
+          "A) intencionalidad.",
+          "D) maquinación.",
+          "B) perversidad.",
+          "E) sostenibilidad",
+          "C) manipulación."
+        ],
+        "correct": 4,
+        "rationale": "Con dicho término se trasmite la idea que la desaprobación de PPK es algo que se viene dando desde fechas anteriores, es decir, es constante o sostenible."
+      },
+      {
+        "statement": "De la mención que se hace en el texto sobre el nivel socioeconómico E, es compatible señalar que",
+        "alternatives": [
+          "A) también desaprueba la gestión desempeñada por el premier Fernando Zavala.",
+          "B) quienes desaprueban la gestión del presidente PPK superan el 50% de su total.",
+          "C) fue segregado por las empresas consultoras debido a sus exiguos ingresos.",
+          "D) constituye la mayor cantidad poblacional encuestados por Datum Internacional.",
+          "E) fue el sector donde se registró más fluctuación respecto a los otros sectores."
+        ],
+        "correct": 1,
+        "rationale": "En el texto se menciona claramente que en el sector socioeconómico E, el porcentaje de desaprobación a la gestión del presidente PPK es mayoritaria con 61%."
+      },
+      {
+        "statement": "Respecto a la población encuestada que se muestra en el gráfico, podemos deducir que",
+        "alternatives": [
+          "A) el porcentaje de varones que desaprueba la gestión de PPK es indiscernible respecto al que se alcanza en zonas rurales.",
+          "B) las personas del nivel socioeconómico C que aprueban la gestión de PPK es igual al grupo de hombres que también la aprueban.",
+          "C) en los niveles socioeconómicos A/B el presidente Pedro Pablo Kuczynski alcanza un 52% de aprobación de su mandato presidencial.",
+          "D) las personas mayores de 40 años en su mayoría se sienten insatisfechas con la labor que viene realizando el presidente Kuczynski.",
+          "E) el porcentaje de desaprobación es equitativo en comparación a las demás, la desaprobación registrada en la región norte del país."
+        ],
+        "correct": 3,
+        "rationale": "En el gráfico se puede apreciar que en la sección de «edades» quienes desaprueban mayoritariamente la labor desempeñada por PPK son las personas entre 35/44 años (59%) y 45/54 años (61%); de lo que se puede desprender que en este grupo de personas, los mayores de 40 años son la población que más desaprueba la labor de PPK."
+      },
+      {
+        "statement": "Si el premier Fernando Zavala contara con más del 50% de aprobación, es posible que",
+        "alternatives": [
+          "A) sea el resultado de una esmerada labor que, a su vez, beneficie a su gabinete.",
+          "B) sea el sucesor de Pedro Pablo Kuczynski cuando este sea defenestrado.",
+          "C) se anime a postular como candidato presidencial en las próximas elecciones.",
+          "D) la bancada de Fuerza Popular de Keiko Fujimori abdique de interpelarlo.",
+          "E) merezca reconocimientos públicos por tan plausible gestión como primer ministro."
+        ],
+        "correct": 0,
+        "rationale": "El segundo párrafo señala que Zavala cuenta con «solo un 27% de respaldo». Asimismo, se dice que, en este contexto, «el 81% de los encuestados cree que debe haber cambios en el gabinete», es decir, se establece una relación entre la baja aprobación del premier y la suerte que puede tener su gabinete; en ese sentido, si Zavala contara con más del 50% de aprobación, es posible que su gabinete corra con mejor suerte."
+      }
+    ]
+  },
+  {
+    "type": "reading_comprehension",
+    "statement": "El ascenso de la burguesía, la política liberal, la industrialización, el auge económico y la conformación de los estados nacionales llevan a un exagerado crecimiento urbano y a la aparición de necesidades que reclaman la aparición de nuevos «equipamientos civiles»:\nescuelas, bibliotecas, hospitales, cárceles, oficinas de correos y de administración, pero\nsobre todo de nuevas funciones comerciales y culturales dedicadas al tiempo libre, al\nencuentro y al intercambio, tales como cafés, teatros, parques, grandes almacenes y\npasajes comerciales. El espacio público, la continuidad vial, va a ser el aglutinante de todo\nesto, siendo también en sí mismo un nuevo equipamiento colectivo que se difunde en el\nterritorio urbano, que da una nueva imagen a la ciudad, basada en la estetización del\nespacio público, en el decoro y el ornato, en el orden y la funcionalidad que satisfacen las\nnecesidades prácticas de una sociedad con nuevas formas de socialización.\n\nParís va a ser el modelo de este gran cambio y la nueva calle, el bulevar, su expresión\nmás concreta. Visto a escala urbana, este inédito tipo arquitectónico constituye un sistema;\nes decir, es esencialmente una red de comunicación que se extiende a toda la ciudad y une\nentre sí nuevos puntos estratégicos, por ejemplo las nuevas estaciones del tren, y estos\ncon las demás áreas o lugares importantes existentes. Este sistema se relaciona con otros\n—los parques y el amoblamiento—, que juntos conforman el espacio público de la ciudad.\nPor otro parte, el bulevar se caracteriza por sus amplias aceras arborizadas, el\nalumbrado público y el amoblamiento urbano que conforman un nuevo espacio, que, en\nopinión de Marshall Berman: «It is accessible to everyone and democratic, and opens the\nwhole of the city, for the first time in its history, to all its inhabitants». Es, además, un espacio\npensado para reunir una gran cantidad de personas y animado, al nivel de la calle, por la\npresencia de comercios y tiendas de todo tipo, restaurantes y cafés en todas las esquinas.\n\nEl bulevar se va a convertir muy pronto en el escenario de la nueva vida en la ciudad,\nen un interior urbano en donde muchos comportamientos privados se exteriorizan, salen a\nla calle, puesto que es posible estar solos en medio del gentío, del goce de lo social, del\nver y ser vistos, del desfile en donde lo efímero, la moda y la apariencia imperan en la esfera\npública, en donde la nueva sociedad burguesa disfruta contemplándose a sí misma.\n\nGAMBOA SAMPER, Pablo. (2003). El sentido urbano del espacio público. Bitácora. 7 (1), 14.",
+    "questions": [
+      {
+        "statement": "Esencialmente, el texto diserta sobre",
+        "alternatives": [
+          "A) los cambios radicales del diseño urbanístico en París de mediados del siglo XIX.",
+          "B) las relaciones entre la hegemonía burguesa y la renovación del espacio urbano.",
+          "C) el papel y la importancia del bulevar en la configuración de la ciudad tradicional.",
+          "D) la creación del espacio urbano moderno como un lugar accesible y democrático.",
+          "E) el aporte del bulevar en la transformación del espacio público en la modernidad."
+        ],
+        "correct": 4,
+        "rationale": "El texto desarrolla el tema del espacio público en la primera etapa de la modernidad. En su indagación, el texto incide en la importancia del bulevar para dilucidar las modificaciones que sufrió el espacio público en ese momento histórico."
+      },
+      {
+        "statement": "De la aparición del bulevar en la arquitectura de la época moderna es válido inferir que",
+        "alternatives": [
+          "A) no guarda relación con el crecimiento urbano de finales del XIX en Europa.",
+          "B) una redistribución distinta del tiempo exige un rediseño del espacio urbano.",
+          "C) obstaculizó la expresión de comportamientos privados en el ámbito público.",
+          "D) surgió solamente para satisfacer las necesidades primarias de la sociedad.",
+          "E) ocultaba un trasfondo eminentemente clasista en la Francia decimonónica."
+        ],
+        "correct": 1,
+        "rationale": "Al inicio del texto se menciona que la infraestructura de la ciudad se ve modificada por «nuevas funciones comerciales y culturales dedicadas al tiempo libre». Así, una redistribución del tiempo libre implica una reconfiguración del espacio de la ciudad."
+      },
+      {
+        "statement": "De la cita de Marshall Berman es congruente afirmar que la concepción tras la transformación del espacio urbano",
+        "alternatives": [
+          "A) se concentró en quebrar los vasos comunicantes posibles entre las personas.",
+          "B) sirvió para establecer fuerzas omnímodas similares a las dictaduras políticas.",
+          "C) halló en el bulevar la manifestación de ciertos ideales del liberalismo político.",
+          "D) requirió que los intelectuales discrepen del diseño urbanístico decimonónico.",
+          "E) consideró que el bulevar era un símbolo de la imaginación europea en el XIX."
+        ],
+        "correct": 2,
+        "rationale": "Berman señala que el nuevo espacio público, gestado en gran parte por el bulevar, «es accesible a todo el mundo y democrático, y abre la totalidad de la ciudad, por primera vez en su historia, a todos sus habitantes». Entonces, el bulevar materializa el ideal de una democracia plena y una libertad de desplazamiento absolutamente inédita."
+      },
+      {
+        "statement": "Si fuera imposible concebir el bulevar como un sistema de conexiones,",
+        "alternatives": [
+          "A) cabría considerar que los parques son el eje de articulación en las ciudades.",
+          "B) tendría que propugnarse la relación polémica entre liberalismo y urbanística.",
+          "C) confutar el rol de la industria como un factor urbanístico podría ser objetable.",
+          "D) plantear que su construcción satisface funciones comerciales sería inviable.",
+          "E) el carácter burgués del espacio público contemporáneo resultaría irrefutable."
+        ],
+        "correct": 3,
+        "rationale": "El bulevar se constituye en una red de comunicación que, entre otras cosas, busca satisfacer «nuevas funciones comerciales y culturales dedicadas al tiempo libre». Por ello, sino funcionara como un sistema de conexiones, no podría cubrir esta función."
+      }
+    ]
+  },
+  {
+    "type": "reading_comprehension",
+    "statement": "El año pasado se publicaron dos estudios importantes sobre la domesticación del perro: el primero, publicado en Nature Communicatios, sugería que la domesticación del perro ocurrió en Europa entre 20 000 y 40 000 años, el segundo, publicado en Journal of Anthropological Archaeology, describía unas escenas de arte rupestre con representaciones de perros atados con correas, localizadas en el noroeste de Arabia Saudí con más de 8000 años de antigüedad. Ambos estudios ofrecen indicios sobre la domesticación del perro hace más de 8000 años, pero ¿con qué fin?, es decir, cabe preguntarse si la relación entre el ser humano y el perro fue puramente utilitaria. En efecto, el perro era útil para la caza, la protección, el transporte, el pastoreo o el control de plagas, pero ¿podremos llegar a saber si hubo vínculos afectivos?, acaso, en la etapa prístina de la humanidad, ¿el perro era ya el mejor amigo del hombre? Una tumba descubierta casualmente en 1914, en vísperas de la Primera Guerra Mundial, por un grupo de trabajadores en Oberkassel, un suburbio de Bonn, en el oeste de Alemania, contenía los esqueletos de un hombre mayor y de una mujer más joven, además de los restos incompletos de dos perros que han sido fechados recientemente en unos 14 000 años de antigüedad, esto es, a finales del Paleolítico. Durante un tiempo se ha creído que los restos caninos de la tumba de Bonn-Oberkassel solo correspondían a un perro, pero «una revisión reciente ha revelado el diente de otro perro más viejo y más pequeño, por lo que no solo se trata de la sepultura de un perro doméstico más antigua que se conoce, sino la única con restos de dos perros», señalan Luc Janssens (doctorando de la Universidad de Leiden) y sus colegas en un estudio publicado la semana pasada en Journal of Archaeological Science, en donde sugieren que «al menos algunos humanos del Pleistoceno Superior, consideraron a los perros no solo materialísticamente, sino que pudieron crear vínculos emocionales y afectivos con sus perros, como lo refleja la supervivencia de uno de ellos, muy posiblemente gracias al cuidado humano». Al respecto, cabe preguntarse ¿cómo lo saben? Los perros de la tumba de Bonn-Oberkassel no solo fueron domesticados como lo demuestra el hecho de que fueron enterrados junto con sus más que probables dueños, sino que además recibieron el cuidado de ellos. El perro más joven de la tumba tenía unas 27 o 28 semanas de edad cuando murió. Sus dientes indican que sufrió una infección grave del virus del moquillo (distemper) que contrajo siendo un cachorro, a los tres o cuatro meses de edad. Sin los cuidados adecuados un perro con un caso grave de moquillo muere en menos de tres semanas, explica Janssens, quien destaca que el perro de la tumba de Bonn-Oberkassel estaba claramente enfermo, pero pudo sobrevivir ocho semanas más gracias al cuidado de sus dueños. «It meant keeping it warm and clean, providing food and water, even though the dog no longer had a practical use as a work animal». Esto, sumado al hecho de que fue enterrado con unas personas que presumimos fueron sus dueños, sugiere que hubo un relación única de afecto entre humanos y perros hace 14 000 años, sostuvo el especialista. FUENTE: Texto editado del artículo de Alec Forssmann «Vínculos afectivos entre humanos y perros hace 14 000 años», publicado en National Geographic España. Publicado el 9 de febrero de 2018. http://www.nationalgeographic.com.es/ciencia/actualidad/vinculos-afectivos-entre-humanos-perros-hace-14000-anos_12375/1.",
+    "questions": [
+      {
+        "statement": "La idea principal que se desarrolla en texto es",
+        "alternatives": [
+          "A) la domesticación de perros al final del Paleolítico trajo como consecuencia vínculos\nafectivos entre estos y el Homo sapiens.",
+          "B) el hallazgo de los esqueletos de dos perros fechados a fines del Paleolítico permiten\nprecisar la fecha de domesticación de canes.",
+          "C) los recientes descubrimientos arqueológicos al norte de Alemania contribuyen al\nconocimiento exacto de la prehistoria de la humanidad.",
+          "D) el descubrimiento de los restos de dos perros en un entierro, sugiere pensar en\nsupuestos vínculos afectivos entre el hombre y el perro.",
+          "E) las excavaciones arqueológicas llevadas a cabo en Alemania por Luc Janssens\npermitieron el descubrimiento de los restos de dos perros."
+        ],
+        "correct": 3,
+        "rationale": "El texto plantea como tema el descubrimiento de los restos de dos perros enterrados con sus supuestos amos, desarrollando la idea que dicho hallazgo y los estudios realizados, hacen presumir que entre el hombre y los perros, al final del Paleolítico, pudieron existir vínculos afectivos."
+      },
+      {
+        "statement": "En el texto, la expresión AMIGO DEL HOMBRE implica el uso de UNA",
+        "alternatives": [
+          "A) metáfora.",
+          "B) tautología.",
+          "C) analogía.",
+          "D) anfibología.",
+          "E) ironía."
+        ],
+        "correct": 0,
+        "rationale": "En el texto, dicha expresión aparece en un contexto en el que se sugiere, debido a las evidencias que registran la estrecha relación entre el hombre y el perro, que este pudo haber sido, desde muy antiguo, un animal muy cercano o íntimo a él; en tal sentido, implica el uso de un sentido figurado de dicha expresión."
+      },
+      {
+        "statement": "Respecto a cómo los humanos del Pleistoceno Superior (PS), sugerida por Luc Janssens y su equipo, se relacionaron con sus perros, es incompatible afirmar que",
+        "alternatives": [
+          "A) dicha relación con estos animales se basó también en principios utilitarios.",
+          "B) algunos hombres primigenios prodigaron esmerados cuidados a sus canes.",
+          "C) las emociones que sintieron por sus canes fue una práctica generalizada.",
+          "D) permite barruntar posibles lazos de afecto entre el hombre y sus perros.",
+          "E) los humanos modernos incluyeron a los perros en sus rituales culturales."
+        ],
+        "correct": 2,
+        "rationale": "Al final del segundo párrafo aparece dicha cita en la que Janssens plantea como posibilidad el hecho que «al menos algunos humanos del Pleistoceno Superior» desarrollaron por sus perros afecto y emociones; en tal sentido, afirmar que esto fue una práctica generalizada es totalmente incongruente con la idea que se desarrolla en el texto."
+      },
+      {
+        "statement": "De la cita en inglés de Janssens sobre los cuidados que los posibles dueños le prodigaron al cachorro enfermo con el virus del moquillo, podemos colegir que dichos cuidados",
+        "alternatives": [
+          "A) consistían en mantenerlo caliente y limpio además de proveerle alimentos y agua.",
+          "B) eran similares a los que les otorgaban a otros animales con los cuales habitaban.",
+          "C) eran parte de un tratamiento mediante el cual se suministraba placebos al perro.",
+          "D) obedecían a un interés crematístico por parte de estos respecto al pequeño can.",
+          "E) soslayaron todo rédito que el cachorro podría generarles a los supuestos dueños."
+        ],
+        "correct": 4,
+        "rationale": "Dicha cita puede interpretarse como: «suponía mantenerlo caliente y limpio, proveerle comida y agua, a pesar de que el perro ya no tenía un uso práctico como animal de trabajo»; de tal modo que es válido deducir que sus posibles dueños sintieron cariño por el animal sin importar el que ya no obtengan ningún beneficio de él."
+      },
+      {
+        "statement": "Si el Homo sapiens hubiera sido incapaz de sentir afecto por el perro, es probable que",
+        "alternatives": [
+          "A) hubiera preferido domesticar al smilodon.",
+          "B) este solo haya sido valorado por su utilidad.",
+          "C) los cánidos actuales no pudieran ladrar.",
+          "D) este hubiera formado parte de su dieta.",
+          "E) aquel jamás hubiera podido evolucionar."
+        ],
+        "correct": 1,
+        "rationale": "El texto nos dice que el perro fue un animal valioso para el hombre en tanto le era útil, adicionalmente a eso, los científicos sugieren que el hombre desarrolló por el perro sentimientos de afecto, lo que llevó a que se preocuparan por ellos, los cuidaran y hasta los enterraran juntos; en tal sentido, si el hombre no hubiera llegado a sentir afecto por los perros, estos solo hubieran representado un valor utilitario para el hombre."
+      }
+    ]
+  },
+  {
+    "type": "reading_comprehension",
+    "statement": "En forma unánime, al enfocar la Guerra del Pacífico, los historiadores peruanos y bolivianos se refieren, en términos generales, a una política territorial agresiva por parte de Chile, cuyo designio final será la conquista por las armas. Ocurre, de esa manera, el error frecuente entre los estudiosos del pasado que colocan el resultado final como un propósito inicial, claro y preciso, que tenía que imponerse inexorablemente. Se desconoce, de tal modo, que en los fenómenos históricos se suceden situaciones diversas, que la tendencia del comienzo se altera, que aparecen factores impensados y que los elementos en juego varían en un cuadro temporal muy complejo.\n\nLa gran equivocación en el tema está en creer que los círculos oficiales y económicos de Chile tenían conciencia de que tarde o temprano sería conveniente la expansión armada y que en forma subrepticia se avanzó en ese sentido. En consecuencia, creemos que por parte de Chile no hubo tales planes y que los hechos fueron determinando una preponderancia general que, al suscitar una resistencia comprensible en Bolivia y el Perú, arrastró al conflicto. Por otro lado, alcanzar una gran influencia en el Pacífico fue una meta natural en los países ribereños.\n\nFUENTE: Texto editado del sexto capítulo intitulado «Expansión económica de Chile» del libro Chile y Perú.\nLa historia que nos une y nos separa 1535-1883, del historiador chileno Sergio Villalobos, publicado por Editorial Universitaria en 2002.\n\n¿Por qué guerreros civilizadores? Civilización es un concepto que sirve,\nobviamente, como hilo conductor. Para el Estado que se debatía entre viejos y nuevos paradigmas, una guerra civilizadora requería de una maquinaría capaz de cumplir sus\ndesignios en una frontera llena de oportunidades. En ese sentido, se puede vera la Guerra\ndel Pacífico como una disputa por recursos que prometía la consolidación de un Estado en\njaque. Es decir, leer la guerra declarada el 14 de febrero de 1879 de esta manera nos revela\nel proceso por el cual un grupo de políticos como los presidentes Aníbal Pinto (1876-1881)\ny Domingo Santa María (1881-1886) lograron ensamblar, con mucho tesón, en nombre del\nEstado, esa maquinaria de guerra que sostuvo a los miles de expedicionarios que llevaron\n«a la patria en sus brazos» hacia los territorios boyantes en salitre que tenían que conquistar\nimpostergablemente, dado que la única esperanza de poder subsistir era proyectarse\nhacia el norte. Ese era el objetivo nacional, tal como se lo recordó el expresidente Pinto a\nSanta María, quien lo sucedió: «nuestro objetivo es apoderarnos de Tarapacá», y la forma\nen que pudieron conseguirlo fue con su maquinaria bélica.\n\nDe tal modo que Chile se encontraba preparado para la guerra gracias a que contaba\ncon una fórmula política resuelta, un núcleo administrativo eficaz y un puñado de\noperadores sólidamente entrenados; en pocas palabras, Chile era un Estado guerrero.\n\nFUENTE: Texto editado del primer capítulo intitulado «Chile viejo y Chile nuevo» del libro Guerreros\ncivilizadores. Política, sociedad y cultura en Chile durante la Guerra del Pacífico, de la historiadora\nperuana Carmen Mc Evoy, publicado por Centro de Estudios Bicentenario en 2011.\n\n",
+    "questions": [
+      {
+        "statement": "El tema central que discuten los autores es la",
+        "alternatives": [
+          "A) política expansionista de Chile como detonador de la Guerra del Pacífico.",
+          "B) causa de la Guerra del Pacífico que enfrentó a Chile contra el Perú.",
+          "C) ambición chilena por los territorios de salitre en el desierto de Tarapacá.",
+          "D) burocracia castrense del Estado chileno en las postrimerías del siglo XIX.",
+          "E) clase política chilena y la construcción de un Estado belicista en expansión."
+        ],
+        "correct": 0,
+        "rationale": "Ambos autores exponen sus puntos de vista sobre si la Guerra del Pacífico fue motivada por la política expansionista de Chile hacia el norte. Para Villalobos, no fue así; para Mc Evoy, en efecto, sí la tuvo."
+      },
+      {
+        "statement": "El sinónimo contextual de PROYECTAR es",
+        "alternatives": [
+          "A) delinear.",
+          "D) expandir.",
+          "B) esbozar.",
+          "E) peregrinar.",
+          "C) acicatear."
+        ],
+        "correct": 3,
+        "rationale": "Dicho término nos trasmite la idea que para Chile fue necesario conquistar los terrenos ubicados al norte de él porque era la única oportunidad que tenía para subsistir; en tal sentido, su sinónimo, en ese contexto, es extenderse, expandirse."
+      },
+      {
+        "statement": "Es incompatible decir respecto a lo expuesto por Sergio Villalobos que Chile tenía un claro afán expansionista para usufructuar los yacimientos de salitre pertenecientes a Bolivia y Perú porque",
+        "alternatives": [
+          "A) así sean encargado de difundirlo los historiadores peruanos y bolivianos.",
+          "B) formaba parte de un proyecto político, es decir, era un objetivo nacional.",
+          "C) Chile contó con toda una maquinaria de guerra logística muy eficiente.",
+          "D) de acuerdo al historiador chileno, Chile carecía de una política agresiva.",
+          "E) fue espoleado por Gran Bretaña, quien maquinó la guerra por interés."
+        ],
+        "correct": 3,
+        "rationale": "En el texto A, Sergio Villalobos sostiene que los historiadores peruanos y bolivianos están equivocados toda vez planteen que Chile tuvo una política agresiva; en tal sentido, señalar que este historiador chileno sostiene lo contrario, es ya una incompatibilidad."
+      },
+      {
+        "statement": "De lo expuesto por Carmen Mc Evoy, se desprende que GUERREROS CIVILIZADORES hace alusión a",
+        "alternatives": [
+          "A) una actitud gregaria por parte de los soldados chilenos de traer orden y ley.",
+          "B) al semblante furibundo de los presidentes chilenos A. Pinto y D. Santa María.",
+          "C) entender la guerra como un medio útil que permita realizar los objetivos trazados.",
+          "D) una reacción furibunda del presidente Pinto a las medidas tomadas por Bolivia.",
+          "E) una estrategia de cómo los países buscan justificar sus excesos sutilmente."
+        ],
+        "correct": 2,
+        "rationale": "Carmen Mc Evoy, en el texto B, nos dice que la guerra para Chile era una necesidad imperiosa dada la situación precaria que vivía; en ese sentido, tuvo una oportunidad y tenía que aprovecharla al cien por cien, es decir, la guerra le fue necesaria para hacer realidad sus proyectos de crecer como país, como nación."
+      },
+      {
+        "statement": "Si en la actualidad Chile tuviera la misma política expansionista hacia el norte que tuvo en el siglo XIX y que Carmen Mc Evoy señala en el texto B, es posible que",
+        "alternatives": [
+          "A) firmemos nuevamente otro tratado de defensa con Bolivia.",
+          "B) persuadamos a Argentina para que se adhiera a la alianza.",
+          "C) los chilenos bombardeen el puerto del Callao con el Huáscar.",
+          "D) nos arrebaten el salitre y guano que yacen en el sur del país.",
+          "E) pretenda el gas que poseemos para obtener pingües ganancias."
+        ],
+        "correct": 4,
+        "rationale": "Para Carmen Mc Evoy, la guerra con Chile tiene razones geopolíticas, es decir, la expansión de territorio y la apropiación y explotación de recursos; en ese sentido, si Chile desplegara una política expansionista como antaño, según la historiadora, es posible que se haya interesado por algún recurso, como el gas, para obtener ganancias de su explotación."
+      }
+    ]
+  },
+  {
+    "type": "reading_comprehension",
+    "statement": "Para Carmen Mc Evoy, la guerra con Chile tiene razones geopolíticas, es decir, la expansión de territorio y la apropiación y explotación de recursos; en ese sentido, si Chile desplegara una política expansionista como antaño, según la historiadora, es posible que se haya interesado por algún recurso, como el gas, para obtener ganancias de su explotación.\n\nSe dice que cuando una especie se extingue, impacta tanto en los depredadores como en los depredados, incluso en la geografía del ecosistema. Este fenómeno se puede explicar con el concepto de cascada trófica generalizada (CTG), que se define como «la serie de efectos indirectos y amplificados que ejercen los animales que se encuentran en la cima de la cadena alimenticia sobre los organismos situados en los niveles inferiores». Una situación pasible de ser caracterizada con este concepto es la que se evidenció cuando en el parque natural de Yellowstone, en EE.UU., se reintrodujo una manada de lobos después de casi 70 años de su desaparición en la zona. La llegada de estos animales transformó radicalmente este ecosistema.\n\nAntes de la llegada de los lobos, existía un gran número de ciervos y alces que, pese a los esfuerzos humanos por controlarlos, crecía desmedidamente, lo que provocó una drástica reducción de la vegetación e impidió el pastoreo, ambos factores esenciales para la coexistencia con otras especies. En 1995, se reintrodujo a los lobos en el parque y, paulatinamente, la región comenzó a exhibir algunos cambios.\n\nAl disminuir gran parte de las manadas de ciervos, alces y coyotes, la vegetación comenzó a regenerarse y los arbustos dieron más frutos mientras se expandían por los alrededores. Las antiguas partes desnudas de los valles se convirtieron en bosques de álamos y sauces, que dieron alojo a pájaros cantores y aves migratorias, a castores y otras especies. Y, dado que los lobos redujeron también el número de coyotes, aumentó la cantidad de conejos y ratones, y estos, a su vez, el de águilas, comadrejas, zorros y mofetas. Notable fue también la situación de los osos, «whose population, fed with the carrion left by the wolves, increased from 139 copies in 1975 to 600 in 2007». Según fuentes oficiales, «this strengthened the theory that wolves saved the extinction of this species».\n\nEste caso brindó una importante lección: la relación entre los depredadores y el equilibrio de un ecosistema es más complicada e interdependiente de lo que se creía, pues, incluso, con la reincorporación de los lobos, los ríos consolidaron su curso reduciendo su erosión, restableciendo su suelo y recuperando la vegetación en la ladera de los valles. Se podría decir que bastaba un depredador para que el ecosistema de una gigantesca área verde recuperara su fortaleza, vitalidad y vida.\nECOOSFERA. (17 de julio de 2017). Así fue el cambio de los lobos en el parque nacional de Yellowstone. Recuperado el 19 de febrero de 2018 de http://ecoosfera.com/2017/07/asi-fue-el-cambio-de-los-lobos-en-el-parque-nacional-de-yellowstone/",
+    "questions": [
+      {
+        "statement": "Medularmente, el texto sostiene que",
+        "alternatives": [
+          "A) la situación de los lobos en Yellowstone es aneja a la noción de cascada trófica.",
+          "B) el retorno de las manadas sirvió para transformar la vida vegetal del Yellowstone.",
+          "C) la noción de CTG permite aclarar el vínculo entre el depredador y su ecosistema.",
+          "D) existe un vínculo evidente entre vegetación silvestre y depredación en el parque.",
+          "E) los lobos son esenciales para la creación de ecosistemas radicalmente genuinos."
+        ],
+        "correct": 2,
+        "rationale": null
+      },
+      {
+        "statement": "El antónimo contextual del término DESNUDO es",
+        "alternatives": [
+          "A) fructuoso.",
+          "D) voluptuoso.",
+          "B) ubérrimo.",
+          "E) frondoso.",
+          "C) exuberante."
+        ],
+        "correct": 4,
+        "rationale": null
+      },
+      {
+        "statement": "Respecto a la transformación del parque natural de Yellowstone desde la llegada de los lobos es válido inferir que",
+        "alternatives": [
+          "A) las cadenas alimenticias son claves para entender cómo funciona un ecosistema.",
+          "B) solo se produjo cuando se gestó la confrontación de los depredadores de la zona.",
+          "C) sirvió para impugnar la definición más llamativa de cascada trófica generalizada.",
+          "D) solo fue factible por la intervención de otros animales como los osos y los ciervos.",
+          "E) implicó la refutación del papel de los depredadores dentro de su entorno habitado."
+        ],
+        "correct": 0,
+        "rationale": null
+      },
+      {
+        "statement": "Según el texto, es falso sostener que existen animales salvajes que deberían ser eliminados para cuidar la supervivencia de su entorno, debido a que tal aserto",
+        "alternatives": [
+          "A) soslaya el hecho de que los lobos son responsables de la extinción de los osos.",
+          "B) considera que los depredadores son vitales para el equilibrio de un ecosistema.",
+          "C) implica aprovechar con acierto el concepto de cascada trófica generalizada.",
+          "D) ignora que cada ser vivo cumple una función específica y crucial en su habitad.",
+          "E) estima en exceso la relevancia de los lobos grises en el parque de Yellowstone."
+        ],
+        "correct": 3,
+        "rationale": null
+      },
+      {
+        "statement": "Si se demostrara taxativamente que, bajo ninguna circunstancia, los herbívoros deforestan las zonas que habitan,",
+        "alternatives": [
+          "A) varios animales como las comadrejas carecerían de un lugar donde ampararse.",
+          "B) el impacto geográfico del arribo de los lobos habría sido menor en Yellowstone.",
+          "C) la vegetación habría constituido un riesgo para las aves que viven en el parque.",
+          "D) el número de plantas habría aumentado antes de que los lobos se reproduzcan.",
+          "E) la multiplicación de los alces podría haber sido controlada por los responsables."
+        ],
+        "correct": 1,
+        "rationale": null
+      }
+    ]
+  },
+  {
+    "type": "reading_comprehension",
+    "statement": "La deforestación provocada por los herbívoros tenía consecuencias sobre la geografía del parque (erosión y desestabilización del terreno). La llegada de los lobos supone controlar la acción de los herbívoros y, por ende, modificar el terreno. Esto es impensable si se comprueba que los herbívoros no deforestan las zonas que ocupan.",
+    "questions": [
+      {
+        "statement": "A partir de las citas en inglés, es válido sostener que, antes de la llegada de los lobos al Yellowstone, los osos",
+        "alternatives": [
+          "A) incrementaron su población ligeramente desde 1970 en ciertas zonas del parque.",
+          "B) eran los principales cazadores del área central donde habitan los alces y ciervos.",
+          "C) poseían un instinto salvaje que los llevó a eliminar a gran parte de los herbívoros.",
+          "D) se encontraban aquejados por la falta de alimentos y bajo amenaza de extinción.",
+          "E) gustaban alimentarse de los residuos de las cacerías de las manadas de coyotes."
+        ],
+        "correct": 3,
+        "rationale": "Las citas en inglés refieren a la importancia de los lobos para la supervivencia de los osos. La llegada de los primeros supuso: una ración de alimento seguro (carroña) y, en consecuencia, el incremento de la población de osos."
+      }
+    ]
+  }
+]

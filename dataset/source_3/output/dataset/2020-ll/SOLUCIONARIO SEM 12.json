@@ -1,0 +1,426 @@
+[
+  {
+    "type": "reading_comprehension",
+    "statement": "LAS FALACIAS EN LA ARGUMENTACIÓN\n\nEn un tratado ya clásico, Irving Copi señala que las falacias son argumentos\nincorrectos, pero psicológicamente persuasivos. Si quien desarrolla la falacia lo hace con\nla idea de engañar como un sicofante, el argumento recibe el nombre de sofisma.\nObviamente, hay quien puede incurrir inadvertidamente en el error y así tenemos el\nparalogismo. El vigor de persuasión reside en que la falacia de modo aparente desarrolla\nuna buena argumentación, pero la solidez, en rigor, es como un castillo de naipes. Para\ndescubrir una falacia se requiere, pues, un análisis muy cuidadoso. Mentes muy agudas\nhan incurrido en falacias.\n\nTEXTO DE EJEMPLO\n\nLas mujeres siempre deben tener libertad para elegir sobre su cuerpo. Por\nesta razón, las leyes y las normas que amedrantan a las mujeres para que\ncontinúen con un embarazo no deseado deben derrocarse. Pero ese no es el\núnico argumento que puede respaldar a que se practique el aborto, pues\nsabemos que hasta la actualidad ningún psicólogo (ni sociólogo) ha demostrado\nque el aborto sea contraproducente para las mujeres y la sociedad. Así, esta\npráctica penalizada debería llevarnos a la reflexión para abrir un nuevo debate en\nel que se entienda que privar a las mujeres de sus derechos significa vivir en una\nsociedad opresora y retrograda.\n\nDe otro lado, también deberíamos saber que la sororidad, esto es, el apoyo\nentre mujeres, en un contexto machista y sexista, es muy importante para que no\nrecorten nuestros derechos como lo quieren seguir haciendo con el aborto. Solo\nde esta forma lograremos alcanzar un derecho tan nuestro que siempre fue\nnegado por personas ignorantes y estólidas de nuestra sociedad.\n\nCualquier sociedad que tenga un gramo de conocimiento sobre derechos\nhumanos está obligada a defender la vida de cualquier individuo en cualquier\ncircunstancia; por lo tanto, aquellas sociedades no podrían apoyar el aborto bajo\nningún argumento. Además, no lo deberíamos respaldar dado que, sabemos que\nel aborto no es apoyado por el papa Francisco porque genera estragos\npsicológicos nocivos para las mujeres. De esta forma, una verdad respaldada en\nla mayoría de las personas de la sociedad queda corroborada: el aborto es\naberrante y nunca debería ser permitido porque la sociedad entiende y sabe que\nno es un derecho.\n\nI\n\nAsimismo, deberíamos comprender que desde tiempos antiguos ninguna\nsociedad ha practicado ni aceptado el aborto, entonces ¿por qué aceptar dicha\npráctica en la actualidad? El razonamiento es sencillo, nuestros abuelos y padres\nsiempre han defendido la vida porque es un derecho fundamental de todos los\nseres humanos. En ese sentido, siempre se ha sabido que el aborto es\nmonstruoso.",
+    "questions": [
+      {
+        "statement": "La polémica entre el texto A y el texto B se fundamenta en",
+        "alternatives": [
+          "A) los derechos maternales de las mujeres en la actualidad.",
+          "B) un examen agudo del aborto entre feministas y católicos.",
+          "C) la legalización del aborto en el contexto peruano actual.",
+          "D) el análisis del aborto como un derecho o una aberración."
+        ],
+        "correct": 3,
+        "rationale": "En el texto A, se señala que el aborto es un derecho recortado a las mujeres. Por el contrario, en el texto B, se entiende que el aborto es un acto aberrante."
+      },
+      {
+        "statement": "En el texto, el vocablo DERROCAR alude a",
+        "alternatives": [
+          "A) exacerbar.",
+          "B) derogar.",
+          "C) promulgar.",
+          "D) ratificar."
+        ],
+        "correct": 1,
+        "rationale": "DERROCAR hace alusión a eliminar una normativa, esto es, DEROGAR."
+      },
+      {
+        "statement": "A partir del texto A, se entiende que la normativa que impide el aborto",
+        "alternatives": [
+          "A) viola los derechos educativos de la mujer.",
+          "B) incurre en la falacia agumentum ex populo.",
+          "C) se basa en un sólido dispositivo jurídico.",
+          "D) apela a la falacia argumentum ad baculum."
+        ],
+        "correct": 3,
+        "rationale": "Para el texto A, la normativa que impide el aborto amedranta a las mujeres para que continúen con su embarazo. De esta forma, se entiende que se incurre en un argumento ad baculum."
+      },
+      {
+        "statement": "Cuando en el texto B se apela el Papa para defender una hipótesis psicológica,",
+        "alternatives": [
+          "A) el autor apela a la falacia del hombre de paja.",
+          "B) se incurre en un argumentum ad verecundiam.",
+          "C) sin duda, se apela a un argumentum ex populo.",
+          "D) se corrobora que la conjetura es muy sólida."
+        ],
+        "correct": 1,
+        "rationale": "El papa es especialista en temas religiosos, mas no en temas del campo de la psicología."
+      },
+      {
+        "statement": "Se entiende que, para el texto A, el aborto no es contraproducente porque no se ha demostrado que sí lo sea. Así, incurre en una falacia del tipo",
+        "alternatives": [
+          "A) argumentum ad hominem.",
+          "C) argumentum ad ignorantiam.",
+          "B) argumentum ad baculum.",
+          "D) arguemntum ad antiquitatem."
+        ],
+        "correct": 2,
+        "rationale": "El texto A entiende que el aborto no es contraproducente, dado que no hay pruebas que demuestren lo contrario. De esta forma, incurre en un argumento ad ignorantiam."
+      },
+      {
+        "statement": "Para el texto B, el aborto no debe ser permitido porque la sociedad completa lo reprueba. De esta forma su argumento",
+        "alternatives": [
+          "A) puede ser confirmado por los sociólogos.",
+          "B) apela a la falacia argumentum ad ignorantiam.",
+          "C) queda corroborado por la racionalidad lógica.",
+          "D) incurre en la falacia argumentum ex populo."
+        ],
+        "correct": 3,
+        "rationale": "Al intentar defender una idea a partir del razonamiento popular, se incurre en una falacia del tipo argumento ex populo."
+      }
+    ]
+  },
+  {
+    "type": "sentence_elimination",
+    "statement": "Para el texto B, el aborto no debe ser permitido porque la sociedad completa lo reprueba. De esta forma su argumento",
+    "alternatives": [
+      "A) puede ser confirmado por los sociólogos.",
+      "B) apela a la falacia argumentum ad ignorantiam.",
+      "C) queda corroborado por la racionalidad lógica.",
+      "D) incurre en la falacia argumentum ex populo."
+    ],
+    "correct": 3,
+    "rationale": "Al intentar defender una idea a partir del razonamiento popular, se incurre en una falacia del tipo argumento ex populo."
+  },
+  {
+    "type": "sentence_elimination",
+    "statement": "Si aceptamos que el aborto es incorrecto solo por el hecho que nuestros padres y abuelos así lo creían, estaríamos avalando",
+    "alternatives": [
+      "A) la lealtad familiar que tenemos con los nuestros.",
+      "B) una conjetura desarrollada por nuestros deudos.",
+      "C) un sofisma en el que incurre el autor del texto B.",
+      "D) una falacia del tipo argumento ad antiquitatem."
+    ],
+    "correct": 3,
+    "rationale": "Se apelaría a la tradición por error."
+  },
+  {
+    "type": "reading_comprehension",
+    "statement": "Los casos se vuelven a repetir un día tras otro: niños con las manos quemadas o atadas para corregirlos por haber cogido dinero ajeno, otros golpeados para que obedezcan o para que aprendan a respetar. Aunque ya han transcurrido dos años desde que se implementó la Ley N° 30403, que prohíbe el castigo físico y humillante contra los niños y adolescentes, el Estado peruano hasta ahora no ha cumplido con reglamentar la señalada norma. En consecuencia, el uso de la violencia en la crianza y en la educación de los menores va en aumento.\n\nLas cifras demuestran que la problemática es muy grave, pues mientras en 2016 se atendieron 7,867 casos de violencia física y 9,279 casos de violencia psicológica contra niños y adolescentes, en 2017 la cantidad aumentó a 9,121 casos de violencia física y 12,498 casos de violencia psicológica, esto es, un incremento de 25%. De esta forma, cada día se presentan unos 60 casos de violencia contra niños y adolescentes.\n\nGermán Guajardo, director de la Fundación Ayuda a Niños y Adolescentes en Riesgo (ANAR), señaló que, según las denuncias reportadas a través de llamadas telefónicas, el 51.9% de las víctimas sufre violencia desde hace más de un año; y en el 34.9% de los casos, el maltrato se da todos los días. Además, en casi el 50% de los casos son los propios padres los que ejercen violencia contra sus hijos. La Encuesta Nacional de Hogares 2015 arroja cifras más reveladoras: el 39% de madres y el 31% de padres usa golpes para educar, el 20% cree que esa práctica es necesaria y un 44% de niños y adolescentes considera que sus padres tienen derecho a pegarles.\n\nMatilde Cobeña, adjunta para la Niñez y Adolescencia de la Defensoría del Pueblo, indicó que la aprobación de leyes no es suficiente para enfrentar la violencia contra los menores, sino aplicarlas en la realidad y crear mecanismos adecuados para contrarrestar dicho problema.\n\nSausa, M. (06 de enero de 2018). «Maltrato infantil en Perú crece: En 2017, hubo 21,600 casos de violencia» En Peru21. Recuperado de <https://peru21.pe/peru/maltrato-infantil-peru-crece-2017-hubo-21-600-casos-violencia-390914>",
+    "questions": [
+      {
+        "statement": "En el texto, el vocablo CORREGIR connota",
+        "alternatives": [
+          "A) aplicación directa.",
+          "C) constitución lícita.",
+          "B) punición irracional.",
+          "D) un acto de dilución."
+        ],
+        "correct": 0,
+        "rationale": "A partir del contexto, se entiende que es un castigo bárbaro."
+      },
+      {
+        "statement": "¿Cuál es el tema central del texto?",
+        "alternatives": [
+          "A) El problema de la violencia física contra los menores de edad.",
+          "B) La violencia psicológica sufrida diariamente por los menores.",
+          "C) Los castigos justos y ejemplares dados por los padres a sus hijos.",
+          "D) La violencia física y psicológica contra los menores de edad"
+        ],
+        "correct": 3,
+        "rationale": "El texto expone sobre la violencia física y psicológica que viven diariamente los menores de edad."
+      },
+      {
+        "statement": "En relación al gráfico se puede afirmar que",
+        "alternatives": [
+          "A) en atenciones, según el tipo de violencia, la el de tipo económica tiene 1%.",
+          "B) el 16 %cree que el castigo físico también se puede aplicar a los bebés.",
+          "C) en atenciones, según grupo de edad, el grupo de 12 a 18 años tiene 42 %.",
+          "D) el 28.6 %cree que el castigo físico es bueno en la crianza de los menores."
+        ],
+        "correct": 3,
+        "rationale": "Según el gráfico, el 28.6% de las personas cree que el castigo físico tiene efectos positivos en la crianza de los niños y adolescentes."
+      }
+    ]
+  },
+  {
+    "type": "sentence_elimination",
+    "statement": "3. En relación al gráfico se puede afirmar que",
+    "alternatives": [
+      "A) en atenciones, según el tipo de violencia, la el de tipo económica tiene 1%.",
+      "B) el 16 %cree que el castigo físico también se puede aplicar a los bebés.",
+      "C) en atenciones, según grupo de edad, el grupo de 12 a 18 años tiene 42 %.",
+      "D) el 28.6 %cree que el castigo físico es bueno en la crianza de los menores."
+    ],
+    "correct": 3,
+    "rationale": null
+  },
+  {
+    "type": "sentence_elimination",
+    "statement": "4. Resulta incompatible con el texto sostener que",
+    "alternatives": [
+      "A) en Perú, a diario se presentan 60 casos de violencia contra niños y adolescentes.",
+      "B) las percepciones sobre la violencia no son importantes para entender el problema.",
+      "C) la violencia física y psicológica aumento en el año 2017 en contraste con el 2016.",
+      "D) el caso de la Ley N° 30403 puede mostrar una mala gestión del Estado peruano."
+    ],
+    "correct": 1,
+    "rationale": null
+  },
+  {
+    "type": "sentence_elimination",
+    "statement": "5. Si el estado peruano hubiera implementado la Ley N°30403 de forma eficiente",
+    "alternatives": [
+      "A) la violencia física y psicológica contra los jóvenes habría aumentado.",
+      "B) la violencia educativa sería el único problema que enfrenten los niños.",
+      "C) la violencia física y psicológica contra los niños habría disminuido.",
+      "D) sin duda, el estado peruano sería considerado el mejor de Sudamérica."
+    ],
+    "correct": 2,
+    "rationale": null
+  },
+  {
+    "type": "reading_comprehension",
+    "statement": "Una investigación científica arranca con la percepción de que el acervo de conocimiento disponible es insuficiente para manejar determinados problemas. No empieza con un borrón y cuenta nueva, porque la investigación se ocupa de problemas, y no es posible formular una pregunta —por no hablar ya de darle respuesta— fuera de algún cuerpo de conocimiento: solo quienes ven pueden darse cuenta de que falta algo.\n\nParte del conocimiento previo de que arranca toda investigación es conocimiento ordinario, esto es, conocimiento no especializado, y parte de él es conocimiento científico, o sea, se ha obtenido mediante el método de la ciencia y puede volver a someterse a prueba, enriquecerse y, llegado el caso, superarse mediante el mismo método. A medida que progresa, la investigación corrige o hasta rechaza porciones del acervo del conocimiento ordinario. Así se enriquece este último con los resultados de la ciencia: parte del sentido común de hoy día es resultado de la investigación científica de ayer. La ciencia, en resolución, crece a partir del conocimiento común y le rebasa con su crecimiento: de hecho, la investigación científica empieza en el lugar mismo en que la experiencia y el conocimiento ordinario dejan de resolver problemas o hasta de plantearlos.\n\nLa ciencia no es una mera prolongación ni un simple afinamiento del conocimiento ordinario, en el sentido en que el microscopio, por ejemplo, amplía el ámbito de la visión. La ciencia es un conocimiento de naturaleza especial: trata primariamente, aunque no exclusivamente, de acaecimientos inobservables e insospechados por el lego no educado; tales son, por ejemplo, la evolución de las estrellas y la duplicación de los cromosomas: la ciencia inventa y arriesga conjeturas que van más allá del conocimiento común, tales como las leyes de la mecánica cuántica olas de los reflejos condicionados; y somete esos supuestos a contrastación con la experiencia con ayuda de técnicas especiales, como la espectroscopia o el control del jugo gástrico, técnicas que, a su vez, requieren teorías especiales.\n\nConsiguientemente, el sentido común no puede ser juez autorizado de la ciencia, y el intento de estimar las ideas y los procedimientos científicos a la luz del conocimiento común u ordinario exclusivamente es descabellado: la ciencia elabora sus propios cánones de validez y, en muchos temas, se encuentra muy lejos del conocimiento común, el cual va convirtiéndose progresivamente en ciencia fósil. Bunge, M. (2000). La investigación científica. Barcelona: Ariel.",
+    "questions": [
+      {
+        "statement": "El eje medular del texto gira entorno",
+        "alternatives": [
+          "A) al desarrollo del conocimiento común u ordinario en las ciencias.",
+          "B) a la investigación científica como un conocimiento no especializado.",
+          "C) a dos tipos de conocimientos que originan la investigación científica.",
+          "D) al conocimiento científico como un conocimiento muy especializado."
+        ],
+        "correct": 2,
+        "rationale": null
+      },
+      {
+        "statement": "El verbo ARRANCAR se puede reemplazar con",
+        "alternatives": [
+          "A) empezar.",
+          "B) encender.",
+          "C) vituperar.",
+          "D) manejar."
+        ],
+        "correct": 0,
+        "rationale": null
+      },
+      {
+        "statement": "En relación con el conocimiento ordinario, es posible inferir que",
+        "alternatives": [
+          "A) sería muy similar al conocimiento denominado científico.",
+          "B) no es parte del mismo cuerpo de la explicación científica.",
+          "C) no forma parte del arranque de la investigación científica.",
+          "D) se va convirtiendo progresivamente en una ciencia fósil."
+        ],
+        "correct": 1,
+        "rationale": null
+      },
+      {
+        "statement": "Señale si los siguientes enunciados son compatibles (C) o incompatibles (I) en relación con el conocimiento científico I. No es necesario corroborarlo, pues ya es científico. II. Según el autor, solo actúa en la explicación científica. III. Es un conocimiento especializado diferente al común. IV. Es pasible de refutación a partir del método científico.",
+        "alternatives": [
+          "A) ICII",
+          "B) CICI",
+          "C) IICC",
+          "D) CCIC"
+        ],
+        "correct": 2,
+        "rationale": "I. El conocimiento científico puede volver a corroborarse. II. Según Bunge, es parte del inicio de la investigación. III. Es un conocimiento especializado diferente al común. IV. El conocimiento científico puede “superarse”."
+      },
+      {
+        "statement": "Si el conocimiento científico no transcendiera al conocimiento ordinario",
+        "alternatives": [
+          "A) sin duda, el conocimiento ordinario sería más elaborado.",
+          "B) el conocimiento común también sería muy especializado.",
+          "C) no podría formular hipótesis o leyes muy especializadas.",
+          "D) la investigación científica sería más sólida y sistemática."
+        ],
+        "correct": 2,
+        "rationale": "El conocimiento científico puede formular hipótesis y leyes muy especializadas gracias a que transciende la mirada superficial u ordinaria. De lo contrario, no lo podría hacer."
+      }
+    ]
+  },
+  {
+    "type": "reading_comprehension",
+    "statement": "SEMANA 12 B\n\nEn el Perú, según cifras de la Dirección de Epidemiología del Ministerio de Salud, la mortalidad materna pasó en 20 años, de 769 defunciones en el año 1997 a 325 en el 2016, lo que representa un descenso de 42%. Esto resulta un hecho muy importante, al consignar el menor número de muertes maternas en los últimos 20 años.\n\nEste avance es muy significativo en lo que corresponde a la mejora de la salud de las mujeres durante el embarazo, parto y puerperio, que además implica que el Perú está trabajando con un enfoque de derechos humanos fundamentales, que promueve la defensa de los derechos reproductivos de las mujeres y sus parejas.\n\nPara lograr esto se ha mejorado el manejo de las complicaciones del embarazo y el parto, con un adecuado diagnóstico, estabilización y referencia oportuna a un establecimiento de mayor capacidad resolutiva. Otra estrategia importante ha sido el incremento del parto institucional como una estrategia para disminuir la morbilidad y mortalidad es este periodo del embarazo, que es donde se presente la primera causa de muerte materna, que es la hemorragia post parto. También es importante el hecho que el país dispone en la actualidad una política de apoyo al acceso a todos los métodos anticonceptivos. Desde el 2013 el Ministerio de Salud ha puesto a disposición de las mujeres todos los métodos anticonceptivos modernos, que incluyen los condones femeninos, el inyectable mensual y el implante subdérmico.\nGuevara, E. (2016). «Estado actual de la mortalidad materna en el Perú». En Perú Investig Matern Perinat (texto editado pp.7-8).",
+    "questions": [
+      {
+        "statement": "¿Cuál es la idea principal del texto?",
+        "alternatives": [
+          "A) En Perú, el trabajo realizado por el Minedu permitió reducir la mortalidad materna.",
+          "B) En el Perú, se ha logrado reducir la mortalidad en los últimos 20 años desde 1997.",
+          "C) Perú y su lucha imposible por disminuir la mortalidad materna desde el año 1997.",
+          "D) Perú ha logrado disminuir la mortalidad materna gracias a diferentes estrategias."
+        ],
+        "correct": 3,
+        "rationale": "En esencia, el texto señala que Perú ha logrado disminuir la mortalidad materna por las diferentes estrategias realizadas."
+      },
+      {
+        "statement": "En el texto, el sinónimo contextual del término CONSIGNAR es",
+        "alternatives": [
+          "A) confutar.",
+          "B) hiperbolizar.",
+          "C) conjeturar.",
+          "D) registrar."
+        ],
+        "correct": 3,
+        "rationale": "A partir del contexto, se entiende que CONSIGNAR refiere a un menor REGISTRO de muertes maternas en los últimos 20 años."
+      },
+      {
+        "statement": "A partir de la visualización del gráfico, se puede afirmar que las muertes maternas",
+        "alternatives": [
+          "A) las ocasionó el fantasma de la muerte.",
+          "B) son originadas directamente por cáncer.",
+          "C) cuantitativamente son muy irregulares.",
+          "D) afectan a un grupo homogéneo etario."
+        ],
+        "correct": 2,
+        "rationale": "En el gráfico, podemos observar que la cantidad de muertes maternas presenta vaivenes entre los años 2013 y 2017."
+      }
+    ]
+  },
+  {
+    "type": "sentence_elimination",
+    "statement": "A partir de la visualización del gráfico, se puede afirmar que las muertes maternas",
+    "alternatives": [
+      "A) las ocasionó el fantasma de la muerte.",
+      "B) son originadas directamente por cáncer.",
+      "C) cuantitativamente son muy irregulares.",
+      "D) afectan a un grupo homogéneo etario."
+    ],
+    "correct": 2,
+    "rationale": "En el gráfico, podemos observar que la cantidad de muertes maternas presenta vaivenes entre los años 2013 y 2017."
+  },
+  {
+    "type": "sentence_elimination",
+    "statement": "A partir del texto y la imagen, se puede inferir que",
+    "alternatives": [
+      "A) las consecuencias respecto a la mortalidad materna son promisorias.",
+      "B) la estrategia acerca de los métodos anticonceptivos ha sido exitosa.",
+      "C) hay causas directas e indirectas en la nominada mortalidad materna.",
+      "D) las estrategias para disminuir la mortalidad materna son perfectibles."
+    ],
+    "correct": 3,
+    "rationale": "El engarce entre texto e imagen nos permite concluir que las estrategias son perfectibles, pues en el año 2017 se ve un incremento en el número de muertes maternas."
+  },
+  {
+    "type": "sentence_elimination",
+    "statement": "Si, en Perú, las mujeres no tuvieran a disposición los implantes subdérmicos las muertes maternas en el Perú disminuirían con otras estrategias más",
+    "alternatives": [
+      "A) las muertes maternas en el Perú seguirían aumentando de forma constante y fluida.",
+      "B) concretas.",
+      "C) los métodos anticonceptivos seguirían siendo una táctica contra la muerte materna.",
+      "D) los métodos anticonceptivos, en el Perú, serían rechazados por todas las mujeres."
+    ],
+    "correct": 2,
+    "rationale": "Si los implantes subdérmicos no estuvieran al alcance, se seguiría apelando a los condones femeninos y a los inyectables mensuales como estrategia."
+  },
+  {
+    "type": "reading_comprehension",
+    "statement": "La lingüística cognitiva nació al azar, sin plantear un problema y sin fijar un plan. La lingüística cognitiva funciona meramente con la referencia a palabras mágicas, tales como, por un lado, la cognición, la mente humana, la facultad del lenguaje, el aprendizaje del lenguaje; por otro lado, en referencia a conceptos no justificados, como las ciencias cognitivas, la psicología, la antropología, la filosofía, la inteligencia artificial. Asimismo, establece oposiciones sin haberlas fundamentado, como el objetivismo frente al experiencialismo; método a priori frente a método empírico o evidencia empírica (método a posteriori); y, de otro lado, refiriendo adjetivos tales como nuevo, tradicional, central, crucial. Ninguno de estos términos o conceptos implica planteamiento de problema alguno. Solo hay soluciones a problemas que se dan por dados o planteados en virtud de sus propios postulados y en referencia a conceptos que, se dice, pertenecen a otras ciencias, sin decimos si están fundados ni cómo tienen valor en lo que estudiamos. Martínez, J. (2014). La lingüística cognitiva: análisis y revisión. Madrid: Biblioteca nueva.",
+    "questions": [
+      {
+        "statement": "De modo controversial, la crítica del autor se fundamenta en",
+        "alternatives": [
+          "A) el uso de conceptos de otras ciencias que no se pueden emplearse en la lingüística.",
+          "B) el nacimiento al azar de la lingüística cognitiva y los planes que presenta hasta hoy.",
+          "C) la falta de sustento y el uso indiscriminado de conceptos en la lingüística cognitiva.",
+          "D) las palabras y los adjetivos que se han desarrollado en el campo de la lingüística."
+        ],
+        "correct": 2,
+        "rationale": "El autor del texto critica la lingüística cognitiva por no presentar un fundamento sólido y por emplear diferentes conceptos sin explicar sus usos."
+      },
+      {
+        "statement": "La expresión NACIÓ AL AZAR se entiende como un",
+        "alternatives": [
+          "A) óbice lingüístico.",
+          "C) juego de azar.",
+          "B) inicio endeble.",
+          "D) contexto proficuo."
+        ],
+        "correct": 1,
+        "rationale": "Al no plantear un problema ni fijar un plan, la expresión NACIÓ AL AZAR se entiende como un INICIO ENDEBLE."
+      },
+      {
+        "statement": "Respecto de la crítica presentada resulta compatible sostener que",
+        "alternatives": [
+          "A) todos los conceptos empleados en la lingüística tienen una base sólida.",
+          "B) la lingüística cognitiva emplea conceptos de la psicología y la filosofía.",
+          "C) los conceptos no siempre se deben fundamentar en el campo científico.",
+          "D) los conceptos empleados en la lingüística cognitiva son muy conocidos."
+        ],
+        "correct": 1,
+        "rationale": "Al referenciar a la psicología y la filosofía, se entiende una influencia. Sin embargo, esto se confirma cuando se señala que emplea conceptos como objetivismo, experiencialismo, método a priori, etc."
+      }
+    ]
+  },
+  {
+    "type": "reading_comprehension",
+    "statement": "En 1969 participé en un coloquio sobre la filosofía de Popper, realizado en la Universidad de Boston. Mi ponencia versó sobre la contrastabilidad (testability) de las teorías científicas. Afirmé que la refutabilidad de una hipótesis no es necesaria ni suficiente para considerarla científica, puesto que hay teorías muy generales que son confirmables, pero no refutables por datos empíricos. También afirmé que los investigadores científicos piden, y a menudo consiguen, críticas constructivas.\n\nPopper reaccionó con vehemencia. Repitió su conocida tesis de que la refutabilidad es el sello de la cientificidad. Obviamente, no había oído hablar de las teorías hipergenerales a que yo me refería, tales como las teorías de la información y de los autómatas.\n\nPopper también afirmó que, cuando uno critica, siempre lo hace con el fin de aniquilar al adversario, nunca para ayudarlo. Supongo que esta creencia suya se debe a que así suele ocurrir en la comunidad filosófica, que realiza el ideal de los economistas, de la competencia feroz entre egoístas perfectos. Esta no es la norma en la comunidad científica, donde se coopera tanto como se compite.\n\nLa filosofía de la ciencia de Popper es fácil de entender si se la concibe como un positivismo invertido. Allí donde los positivistas hablan de verificación, Popper habla de «falsación». Reemplaza la inducción por la deducción, la cautela por la audacia, la certidumbre por la falibilidad, y la predilección por lo plausible (que Popper llama «probable») por la preferencia por lo implausible.\n\nBunge, M. (2003). Cápsulas. Barcelona: Gedisa.",
+    "questions": [
+      {
+        "statement": "El texto gira entorno a",
+        "alternatives": [
+          "A) al análisis de la filosofía realista de Karl Popper.",
+          "B) a la refutación de la tesis inductivista de K. Popper.",
+          "C) al concepto de contrastación del filósofo Popper.",
+          "D) un debate epistemológico entre Popper y Bunge."
+        ],
+        "correct": 3,
+        "rationale": "El texto presenta un encuentro polémico entre Karl Popper y Mario Bunge sobre filosofía de la ciencia."
+      },
+      {
+        "statement": "En el texto, el vocablo ANIQUILAR implica",
+        "alternatives": [
+          "A) análisis pormenorizado.",
+          "C) discusión acalorada.",
+          "B) confutación concluyente.",
+          "D) asociación imprevisible."
+        ],
+        "correct": 1,
+        "rationale": "Cuando se habla de ANIQUILAR se hacer referencia a un debate ganado con autoridad, esto es, una refutación."
+      },
+      {
+        "statement": "Se colige que para Bunge la crítica",
+        "alternatives": [
+          "A) solamente puede ser destructiva en el debate científico.",
+          "B) puede ser un factor fundamental en el campo científico.",
+          "C) equivale a la falsación científica en la teoría de la ciencia.",
+          "D) se puede entender exclusivamente en un sentido empírico."
+        ],
+        "correct": 1,
+        "rationale": "Mientras que para Popper solo existen críticas destructivas, para Bunge existen críticas constructivas que pueden representar una cooperación en la comunidad científica."
+      }
+    ]
+  },
+  {
+    "type": "reading_comprehension",
+    "statement": "Mientras que para Popper solo existen críticas destructivas, para Bunge existen críticas constructivas que pueden representar una cooperación en la comunidad científica. Se fundamenta en el texto el criterio deductivista propugnado por Karl Popper. En el caso de teorías hipergenerales, el concepto de confirmación es el más pertinente y carece de aplicación el criterio de la refutación.",
+    "questions": [
+      {
+        "statement": "Se colige que para Bunge la crítica",
+        "alternatives": [
+          "A) solamente puede ser destructiva en el debate científico.",
+          "B) puede ser un factor fundamental en el campo científico.",
+          "C) equivale a la falsación científica en la teoría de la ciencia.",
+          "D) se puede entender exclusivamente en un sentido empírico."
+        ],
+        "correct": 1,
+        "rationale": "Mientras que para Popper solo existen críticas destructivas, para Bunge existen críticas constructivas que pueden representar una cooperación en la comunidad científica."
+      },
+      {
+        "statement": "Respecto de la teoría de la ciencia de Popper, es incompatible señalar que",
+        "alternatives": [
+          "A) defiende la tesis de la falsación.",
+          "C) sobrevalora el poder de la crítica.",
+          "B) apela a la tesis de la refutabilidad.",
+          "D) se fundamenta en la inducción."
+        ],
+        "correct": 3,
+        "rationale": "Se fundamenta en el texto el criterio deductivista propugnado por Karl Popper."
+      },
+      {
+        "statement": "Si Popper hubiese analizado de manera cabal el sentido de las teorías científicas hipergenerales,",
+        "alternatives": [
+          "A) habría objetado el concepto de confirmación científica.",
+          "B) su concepto de refutabilidad habría sido muy atenuado.",
+          "C) habría estado en pleno desacuerdo con Mario Bunge.",
+          "D) la reacción vehemente contra Bunge habría sido intensa."
+        ],
+        "correct": 3,
+        "rationale": "En el caso de teorías hipergenerales, el concepto de confirmación es el más pertinente y carece de aplicación el criterio de la refutación."
+      }
+    ]
+  }
+]

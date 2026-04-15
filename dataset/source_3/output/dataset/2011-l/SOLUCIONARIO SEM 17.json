@@ -1,0 +1,653 @@
+[
+  {
+    "type": "verbal_series",
+    "statement": "Notable, ilustre, insigne,",
+    "alternatives": [
+      "A) avaro",
+      "B) conspicuo",
+      "C) receloso",
+      "D) felón",
+      "E) reticente"
+    ],
+    "correct": 1,
+    "rationale": "Conspicuo es ilustre, visible, sobresaliente."
+  },
+  {
+    "type": "verbal_series",
+    "statement": "Aplacar, moderar, suavizar",
+    "alternatives": [
+      "A) empeorar",
+      "B) acendrar",
+      "C) mitigar",
+      "D) mermar",
+      "E) zanjar"
+    ],
+    "correct": 2,
+    "rationale": "Mitigar es suavizar, moderar, aplacar o disminuir algo riguroso o áspero."
+  },
+  {
+    "type": "verbal_series",
+    "statement": "Sublev ar, incitar, alterar,",
+    "alternatives": [
+      "A) sojuzgar",
+      "B) soliviantar",
+      "C) remover",
+      "D) sobreseer",
+      "E) recular"
+    ],
+    "correct": 1,
+    "rationale": "Soliviantar es inquietar o alterar a alguien, incitarlo a la rebeldía."
+  },
+  {
+    "type": "verbal_series",
+    "statement": "4. Tergiversar es dar una interpretación forzada o errónea, trastocar.",
+    "alternatives": [
+      "A) acuciar",
+      "B) transformar",
+      "C) acendrar",
+      "D) pugnar",
+      "E) tergiversa r"
+    ],
+    "correct": 4,
+    "rationale": null
+  },
+  {
+    "type": "verbal_series",
+    "statement": "Afligido, dolido; fuerte, endeble ; sublevado, amotinado;",
+    "alternatives": [
+      "A) melindroso, ridículo",
+      "B) abs traído, ensimismado",
+      "C) cicatero, truhan",
+      "D) adepto ,enemigo . ",
+      "E) nigromante, adivino."
+    ],
+    "correct": 4,
+    "rationale": null
+  },
+  {
+    "type": "verbal_series",
+    "statement": "Notable, ilustre, insigne,",
+    "alternatives": [
+      "A) avaro",
+      "B) conspicuo",
+      "C) receloso",
+      "D) felón",
+      "E) reticente"
+    ],
+    "correct": 1,
+    "rationale": null
+  },
+  {
+    "type": "verbal_series",
+    "statement": "Aplacar, moderar, suavizar",
+    "alternatives": [
+      "A) empeorar",
+      "B) acendrar",
+      "C) mitigar",
+      "D) mermar",
+      "E) zanjar"
+    ],
+    "correct": 2,
+    "rationale": null
+  },
+  {
+    "type": "verbal_series",
+    "statement": "Sublev ar, incitar, alterar,",
+    "alternatives": [
+      "A) sojuzgar",
+      "B) soliviantar",
+      "C) remover",
+      "D) sobreseer",
+      "E) recular"
+    ],
+    "correct": 1,
+    "rationale": null
+  },
+  {
+    "type": "verbal_series",
+    "statement": "A) acuciar B) transformar C) acendrar D) pugnar E) tergiversar r",
+    "alternatives": [
+      "A) acuciar",
+      "B) transformar",
+      "C) acendrar",
+      "D) pugnar",
+      "E) tergiversar r"
+    ],
+    "correct": 4,
+    "rationale": null
+  },
+  {
+    "type": "verbal_series",
+    "statement": "5. Afligido, dolido; fuerte, endeble ; sublevado, amotinado;",
+    "alternatives": [
+      "A) m elindroso, ridículo",
+      "B) abs traído, ensimismado",
+      "C) cicatero, truhan",
+      "D) adepto ,enemigo . ",
+      "E) nigromante, adivino."
+    ],
+    "correct": 3,
+    "rationale": null
+  },
+  {
+    "type": "verbal_series",
+    "statement": "6. ¿Qué vocablo no corresponde a la serie verbal?",
+    "alternatives": [
+      "A) Domo.",
+      "B) Terraza.",
+      "C) Torre.",
+      "D) Zócalo.",
+      "E) Mirador."
+    ],
+    "correct": 3,
+    "rationale": null
+  },
+  {
+    "type": "verbal_series",
+    "statement": "7. ¿Qué vocablo no corresponde a la serie verbal?",
+    "alternatives": [
+      "A) Antropología.",
+      "B) Sociología.",
+      "C) Biología . ",
+      "D) Historia .",
+      "E) Arqueología ."
+    ],
+    "correct": 2,
+    "rationale": null
+  },
+  {
+    "type": "verbal_series",
+    "statement": "8. Remate, conclusión, término,",
+    "alternatives": [
+      "A) Proemio.",
+      "B) síntesis.",
+      "C) exploración.",
+      "D) entreacto.",
+      "E) colofón."
+    ],
+    "correct": 4,
+    "rationale": null
+  },
+  {
+    "type": "verbal_series",
+    "statement": "9. Fatal, deplorable, lamentable,",
+    "alternatives": [
+      "A) falaz .",
+      "B) infame .",
+      "C) fatidíco.",
+      "D) protervo.",
+      "E) indigente."
+    ],
+    "correct": 2,
+    "rationale": null
+  },
+  {
+    "type": "verbal_series",
+    "statement": "10. Dulzura, suavidad, blandura,",
+    "alternatives": [
+      "A) rugosidad.",
+      "B) melosidad.",
+      "C) turbulencia.",
+      "D) donosura.",
+      "E) albura."
+    ],
+    "correct": 1,
+    "rationale": null
+  },
+  {
+    "type": "reading_comprehension",
+    "statement": "¿Quién nos ha dado el sentimiento de lo justo y de lo injusto? Dios que nos ha dado un cerebro y un corazón. Pero ¿cuándo nos enseña nuestra razón que hay vicio y virtud? Cuando nos enseña que dos y dos son cuatro. No hay ningún conocimiento innato, por la razón de que no hay árbol que tenga hojas y frutos cuando sale de la tierra. Nada es lo que se llama innato; es decir nacido en todo su desarrollo: mas lo repetimos, Dios nos hace nacer con órganos, que a medida que crecen, nos hacen sentir todo lo que nuestra especie debe conocer para la conservación de esta especie. ¿Cómo se obra este misterio continuo? Decídmelo amarillos habitantes de las islas de la Sonda, negros africanos, canadienses sin barbas, y vosotros Platón, Cicerón y Epicteto. Todos vosotros sentís, igualmente ,que el dar lo superfluo de vuestro pan, de vuestro arroz, o de vuestro manioc al pobre que os lo pide con humildad, es mejor que matarlo, o sacarle los ojos. En toda la Tierra es evidente que un beneficio es más honrado que un ultraje, y que la dulzura es preferible a la cólera. Luego no se trata más que de servirnos de nuestra razón para distinguir las graduaciones de lo honesto y de lo deshonesto. El bien y el mal acostumbran a estar inmediatos; y nuestras pasiones los confunden. ¿Quién nos ilustrará? Nosotros mismos cuando estamos tranquilos. Cualquiera que ha escrito sobre nuestros deberes, ha escrito bien en todos los países del mundo; por que no ha escrito, sino con su razón. Todos han dicho una misma cosa: Sócrates y Epicuro, Confucio y Cicerón, Marco Antonino y Amurates II han tenido la misma moral. Repitamos continuamente a todos los hombres: la morales una, ella viene de Dios; los dogmas son diferentes, estos vienen de nosotros. Jesús no enseñó ningún dogma metafísico, ni escribió cuadernos de teología, ni dijo: Yo soy consustancial; yo tengo dos voluntades y dos naturalezas con una sola persona. Jesús dejó a los franciscanos y dominicos el cuidado de argumentar sobre si su madre fue concebida en pecado original; jamás dijo que el matrimonio es la señal visible de una cosa invisible, ni dijo una sola palabra de la gracia concomitante; ni instituyó los frailes, ni los inquisidores; ni ordenó nada de lo que vemos en el día. Dios había dado el conocimiento de lo justo y de lo injusto en todos los tiempos que precedieron al cristianismo. Dios no ha variado, ni puede variar: el fondo de nuestra alma, y nuestros principios de razón y de moral serán eternamente los mismos. ¿De qué sirven a la virtud las distinciones teológicas, los dogmas fundados en estas distinciones, y las persecuciones fundadas en estos dogmas? Horrorizada la naturaleza, y llena de indignación contra todas estas bárbaras invenciones, dice a todos los hombres: Sed justos, y dejad de ser sofistas perseguidores. En el Sadder que es el compendio de las leyes de Zoroastro, se lee esta máxima: \"En la duda de si una acción que se te propone, es justa o injusta, abstente \". ¿Quién ha dado jamás una regla más admirable? ¿Qué legislador ha hablado mejor? Ciertamente que no el sistema de las opiniones probables, inventado por unas gentes que se llamaban la sociedad de Jesús.",
+    "questions": [
+      {
+        "statement": "1. ¿A) Dios nos ha dado la razón para poder distinguir entre lo bueno y lo malo.",
+        "alternatives": [
+          "A) Dios nos ha dado la razón para poder distinguir entre lo bueno y lo malo.",
+          "B) lo justo y lo injusto ha sido instituido por Dios y ello no cambia nunca.",
+          "C) la morales una y viene de Dios ;los diferentes dogmas ,de los hombres .",
+          "D) la moral nunca ha sido la misma en todas partes y en todas las épocas.",
+          "E) al dudar si una acción es buena o mala debemos abstenernos de actuar."
+        ],
+        "correct": 0,
+        "rationale": null
+      },
+      {
+        "statement": "2. En el texto el termino SUPERFLUO tiene el sentido de",
+        "alternatives": [
+          "A) sobrante.",
+          "B) excesivo.",
+          "C) ahorrado.",
+          "D) innecesario.",
+          "E) inútil."
+        ],
+        "correct": 0,
+        "rationale": null
+      },
+      {
+        "statement": "3. Marque la alternativa incompatible con el texto.",
+        "alternatives": [
+          "A) Hacer el bien a alguien es más honrado que ultrajarlo.",
+          "B) La razón nos permite distinguir lo bueno de lo malo.",
+          "C) Reconocemos lo bueno y lo malo de manera innata.",
+          "D) Los dogmas pueden llevarnos a perseguir a los demás.",
+          "E) Si nos sabemos que una acción es justa ,mejor es no actuar."
+        ],
+        "correct": 2,
+        "rationale": null
+      },
+      {
+        "statement": "4. Con respecto a los principios morales, se colige del texto que estos tienen un carácter",
+        "alternatives": [
+          "A) innato.",
+          "B) universal.",
+          "C) relativo.",
+          "D) consuetudina rio.",
+          "E) taxativo."
+        ],
+        "correct": 1,
+        "rationale": null
+      },
+      {
+        "statement": "5. Con respecto al conocimiento, se colige del texto que el autor aboga por el",
+        "alternatives": [
+          "A) escepticismo.",
+          "B) innatismo.",
+          "C) relativismo.",
+          "D) empirismo.",
+          "E) dogmatismo."
+        ],
+        "correct": 3,
+        "rationale": null
+      },
+      {
+        "statement": "6. El autor critica a los dogmas porque generan",
+        "alternatives": [
+          "A) creencias.",
+          "B) dudas.",
+          "C) tropelías.",
+          "D) axiomas.",
+          "E) cuestiones."
+        ],
+        "correct": 2,
+        "rationale": null
+      },
+      {
+        "statement": "7. A la pregunta de la moral, se responde: La morales una, ella viene de Dios; por eso los principios morales son los mismos en todas partes.",
+        "alternatives": [
+          "A) la razón .",
+          "B) la costumbre .",
+          "C) Dios .",
+          "D) la experiencia .",
+          "E) el dogma ."
+        ],
+        "correct": 2,
+        "rationale": null
+      },
+      {
+        "statement": "8. Si una persona se encontrase en estado de desasosiego, entonces",
+        "alternatives": [
+          "A) se aferraría a un dogma platónico.",
+          "B) iniciaría la persecución de sus semejantes.",
+          "C) se guiaría por las opiniones probables.",
+          "D) de todas formas actuaría moralmente bien.",
+          "E) no podría meditar sobre asuntos morales."
+        ],
+        "correct": 4,
+        "rationale": null
+      }
+    ]
+  },
+  {
+    "type": "reading_comprehension",
+    "statement": "Astrónomos españoles, junto con colegas franceses y de otros países, han descubierto en Saturno una tormenta gigantesca ,que han bautizado como la Gran Mancha Blanca ,que so lo se produce en el planeta cada 29 años y medio terrestres, que es lo que equivale a uno saturnino. La tormenta, que aún puede verse, fue detectada el pasado 5 de diciembre por telescopios de astrónomos aficionados de Japón, que fueron los primeros en dar la alarma. Inmediatamente, los científicos comprobaron que también había sido registrada por el satélite espacial 'Cassini' ,que orbita el planeta desde el año 2004, y también por el telescopio almeriense en Calar Alto. En este vecino del Sistema Solar no son raras las tormentas, pero sí las que alcanzan estas dimensiones. Empezó siendo un pequeño punto blanco en el hemisferio norte y acabó alcanzando los 10.000 kilómetros en una semana . A los 15 días su diá mens era similar al de la Tierra y tenía una cola de nubes que alcanzaba los 300.000 kilómetros. El rápido aumento del brillo se acompañó con una actividad eléctrica muy abundante, que quedó registrada por 'Cassini'. Por sus características, los investigadores concluyen que se trató de una tormenta causada por la condensación de amoníaco y vapor de agua que durante dos meses se movió como un chorro de propulsión y aún hoy es visible ,aunque con menos intensidad. El primer firma nte del hallazgo en la revista Nature es el catedrático español de Física Agustín Sánchez Lavega, de la Universidad del País Vasco, junto con colegas de la Universidad Europea Miguel de Cervantes de Valladolid, Oxford y varios observatorios. La 'Gran Mancha Blanca' es el quinto fenómeno de este tipo que ha podido observarse desde 1903, cuando las lentes de los telescopios comenzaron a hacerlos visibles, pero en esta ocasión se ha producido nueve años antes de lo que se esperaba, por razones desconocidas. Los astrónomos aún no saben cómo se disparan estas enormes tormentas a 250 kilómetros de profundidad de la atmósfera de Saturno, dado que la luz del Sol, que está a 1.500 millones de kilómetros (10 veces más lejos que la Tierra) llega ya muy tenue . En el",
+    "questions": [
+      {
+        "statement": "1. ¿Cuál es el tema central del texto?",
+        "alternatives": [
+          "A) La gigantesca 'mancha blanca' de Saturno.",
+          "B) Las características más relevantes de Saturno.",
+          "C) La importancia de las atmósferas planetarias.",
+          "D) La actividad eléctrica registrada por 'Cassini'.",
+          "E) Los gases calientes en forma de nubes."
+        ],
+        "correct": 0,
+        "rationale": null
+      },
+      {
+        "statement": "2. Con respecto a la Gran Mancha Blanca es incompatible aseverar que",
+        "alternatives": [
+          "A) ostenta una actividad eléctrica bastante considerable.",
+          "B) sorprendió pues se esperaba hasta dentro de nueve años .",
+          "C) se ha venido produciendo regularmente cada año saturnino .",
+          "D) desde su inicio al canzó una dimensión descomunal.",
+          "E) es una tormenta originada por el calor interno del planeta."
+        ],
+        "correct": 3,
+        "rationale": null
+      },
+      {
+        "statement": "3. Es posible deducir que la Gran Mancha Blanca",
+        "alternatives": [
+          "A) desparecerá la próxima década.",
+          "B) es imperceptible y del etérea.",
+          "C) se originó en las nubes de agua .",
+          "D) circunda por toda la galaxia.",
+          "E) afecta profundamente a la Tierra."
+        ],
+        "correct": 2,
+        "rationale": null
+      },
+      {
+        "statement": "4. El sentido de la palabra TENUE es",
+        "alternatives": [
+          "A) vaga.",
+          "B) débil.",
+          "C) tensa.",
+          "D) incierta.",
+          "E) concisa."
+        ],
+        "correct": 1,
+        "rationale": null
+      }
+    ]
+  },
+  {
+    "type": "sentence_elimination",
+    "statement": "1. I) André Agassi es un tenista estadounidense que nació en 1970, fue profesional desde 1987 y se retiró de la competición en 2006 tras obtener ocho títulos de Gran Slam. II) Agassi ganó el Open de su país en dos oportunidades : en 1994 y en 1996 . III) En 1992 ganó su primer torneo de Gran Slam en la catedral del tenis, Wimbledon. IV) Tras una excelente campaña culminada con las victorias en el Open de EE.UU. en 1994 y en el Open de Australia en 1995, ostentó este año durante varios meses el número uno de la lista de la Asociación de Tenistas Profesionales (ATP). V) En 1996 ganó la medalla de oro en los Ju egos Olímpicos de Atlanta, ganó de nuevo el Open de EE.UU. y volvió a ocupar el primer puesto de la ATP.",
+    "alternatives": [
+      "A) I",
+      "B) II",
+      "C)III",
+      "D)IV",
+      "E) V"
+    ],
+    "correct": 1,
+    "rationale": null
+  },
+  {
+    "type": "reading_comprehension",
+    "statement": "Astrónomos españoles, junto con colegas franceses y de otros países, han descubierto en Saturno una tormenta gigantesca ,que han bautizado como la Gran Mancha Blanca ,que so lo se produce en el planeta cada 29 años y medio terrestres, que es lo que equivale a uno saturnino. La tormenta, que aún puede verse, fue detectada el pasado 5 de diciembre por telescopios de astrónomo s aficionados de Japón, que fueron los primeros en dar la alarma. Inmediatamente, los científicos comprobaron que también había sido registrada por el satélite espacial 'Cassini' ,que orbita el planeta desde el año 2004, y también por el telescopio almeriense en Calar Alto. En este vecino del Sistema Solar no son raras las tormentas, pero sí las que alcanzan estas dimensiones. Empezó siendo un pequeño punto blanco en el hemisferio norte y acabó alcanzando los 10.000 kilómetros en una semana . A los 15 días su diámetro era similar al de la Tierra y tenía una cola de nubes que alcanzaba los 300.000 kilómetros. El rápido aumento del brillo se acompañó con una actividad eléctrica muy abundante, que quedó registrada por 'Cassini'. Por sus características, los investigadores concluyen que se trató de una tormenta causada por la condensación de amoníaco y vapor de agua que durante dos meses se movió como un chorro de propulsión y aún hoy es visible ,aunque con menos intensidad. El primer firma nte del hallazgo en la revista Nature es el catedrático español de Física Agustín Sánchez Lavega, de la Universidad del País Vasco, junto con colegas de la Universidad Europea Miguel de Cervantes de Valladolid, Oxford y varios observatorios. La 'Gran Mancha Blanca' es el quinto fenómeno de este tipo que ha podido observarse desde 1903, cuando las lentes de los telescopios comenzaron a hacerlos visibles, pero en esta ocasión se ha producido nueve años antes de lo que se esperaba, por razones desconocidas. Los astrónomos aún no saben cómo se disparan estas enormes tormentas a 250 kilómetros de profundidad de la atmósfera de Saturno, dado que la luz del Sol, que está a 1.500 millones de kilómetros (10 veces más lejos que la Tierra) llega ya muy tenue . En el nube s de vapor agua, donde no llega la luz.\"Ha habido una irrupción de la columna de gases calientes que asciende en un chorro y forma las nubes blancas, pero sin modificar los vientos que soplan en los paralelos del planeta. Eso quiere decir que son vientos profundos originados por el calor interno de Saturno que llegan a las nubes\", señalan los autores. Para los astrónomos, la atmósfera de otros planetas es como un laboratorio natural en el que se puede contrastar lo que ocurre en la nuestra, conocer mejor fenómenos como la gota fría olas tormentas violentas en los trópicos, y por ello este hallazgo es muy interesante.",
+    "questions": [
+      {
+        "statement": "¿Cuál es el tema central del texto?",
+        "alternatives": [
+          "A) La gigantesca 'mancha blanca' de Saturno.",
+          "B) Las características más relevantes de Saturno.",
+          "C) La importancia de las atmósferas planetarias.",
+          "D) La actividad eléctrica registrada por 'Cassini'.",
+          "E) Los gases calientes en forma de nubes blancas."
+        ],
+        "correct": 0,
+        "rationale": "Solución: Astrónomos españoles, junto con colegas franceses y de otros países, han descubierto en Saturno una tormenta gigantesca, que han bautizado como la Gran Mancha Blanca ."
+      },
+      {
+        "statement": "Con respecto a la Gran Mancha Blanca es incompatible aseverar que",
+        "alternatives": [
+          "A) ostenta una actividad eléctrica bastante considerable.",
+          "B) sorprendió pues se esperaba hasta dentro de nueve años .",
+          "C) se ha venido produciendo regularmente cada año saturnino .",
+          "D) desde su inicio al canzó una dimensión descomunal.",
+          "E) es una tormenta originada por el calor interno del planeta."
+        ],
+        "correct": 3,
+        "rationale": "Solución: Al inicio, tenía un tamaño pequeño."
+      },
+      {
+        "statement": "Es posible deducir que la Gran Mancha Blanca",
+        "alternatives": [
+          "A) desparecerá la próxima década.",
+          "B) es imperceptible y d eletérea.",
+          "C) se originó en las nubes de agua .",
+          "D) circunda por toda la galaxia.",
+          "E) afecta profundamente a la Tierra."
+        ],
+        "correct": 2,
+        "rationale": "Solución: Por sus características, los investigadores concluyen que se trató de una tormenta causada por la condensación de amoníaco y vapor de agua que durante dos meses se movió como un chorro de propulsión."
+      },
+      {
+        "statement": "El sentido de la palabra TENUE es",
+        "alternatives": [
+          "A) vaga.",
+          "B) débil.",
+          "C) tensa.",
+          "D) incierta.",
+          "E) concisa."
+        ],
+        "correct": 1,
+        "rationale": "Solución: La luz solar llega muy tenue, esto es, llega muy débil."
+      },
+      {
+        "statement": "es un caso de",
+        "alternatives": [
+          "A) predicción.",
+          "B) prognosis.",
+          "C) extrapolación.",
+          "D) refutación.",
+          "E) deducción."
+        ],
+        "correct": 2,
+        "rationale": "Solución: El contraste es posible por la extrapolación científica."
+      }
+    ]
+  },
+  {
+    "type": "reading_comprehension",
+    "statement": "La nueva filosofía de la ciencia recomienda analizar los corpora científicos como constelaciones antes que como teorías aisladas. Así, Thomas Kuhn habla de «paradigmas» o «matrices disciplinarias», Imre Lakatos de «programas de investigación» y Larry Laudan de «tradiciones de investigación» . Por ello, la estructura de una disciplina en su seno niveles diversos y jerarquizados. Dado este marco, nos interesa elaborar las nociones de tradición y de programa de investigación científica. En términos de Laudan ,la tradición «es un conjunto de supuestos generales acerca de las entidades y procesos de un ámbito de estudio, y acerca de los métodos apropiados que deben ser utilizados para investigar los problemas y construir las teorías de ese dominio». En términos de La katos, un programa de investigación contiene una estructura compleja: un núcleo fuerte de hipótesis centrales y un cinturón protector de hipótesis auxiliares más un conjunto de principios heu rísticos que guían la investigación . Sobre la base de la complementación de las ideas de Lakatos y Laudan, podemos establecer que una tradición es científica cuando está ligada a un programa de investigación, en sus grandes líneas, progresivo. Es un aporte significativo de la llamada nueva filosofía de la ciencia orientar las indagaciones epistemológicas hacia las tradiciones, dejando de lado el enfoque centrado en una hipótesis aislada o en un mero conjunto de hipótesis.",
+    "questions": [
+      {
+        "statement": "La intención fundamental del autor es",
+        "alternatives": [
+          "A) establecer los criterios por los cuales una tradición es científica.",
+          "B) hacer una apología general de la nueva filosofía de la ciencia.",
+          "C) dilucidar la noción de tradición científica, según la idea de Laudan.",
+          "D) explicar la esencia del programa de investigación de Lakatos.",
+          "E) efectuar la sinonimia entre tradición y programa de investigación."
+        ],
+        "correct": 0,
+        "rationale": "Solución: El autor hace una complementación entre las ideas de Lakatos y Laudan con la intención de definir el concepto de tradición científica."
+      },
+      {
+        "statement": "En el texto, el verbo ELABORAR implica un acto de",
+        "alternatives": [
+          "A) observación.",
+          "B) conjetura.",
+          "C) representación.",
+          "D) inducción.",
+          "E) definición."
+        ],
+        "correct": 4,
+        "rationale": "Solución: Dado que el verbo se aplica a las nociones de tradición y de programa, queda implicada una acción de definición."
+      },
+      {
+        "statement": "Resulta incompatible con el texto decir que",
+        "alternatives": [
+          "A) el positivismo lógico se restringe al análisis proposicional.",
+          "B) el enfoque de Imre Lakatos gira entorno a los programas.",
+          "C) las ideas kuhnianas se refieren a la historia de la ciencia.",
+          "D) la nueva filosofía de la ciencia desarrolla un criterio holístico.",
+          "E) al enfoque de Laudan prescinde de los problemas científicos."
+        ],
+        "correct": 4,
+        "rationale": "Solución: Laudan define la tradición en términos de los problemas, métodos, teorías y varios supuestos jerarquizados."
+      },
+      {
+        "statement": "Se infiere del texto que, según Lakatos, un programa de investigación",
+        "alternatives": [
+          "A) tiene una estructura jerárquica.",
+          "B) carece de hipótesis subsidiarias.",
+          "C) se reduce a una ley fundamental.",
+          "D) se analiza sólo lógicamente."
+        ],
+        "correct": 0,
+        "rationale": "Solución: La jerarquía es fundamental en la visión de Lakatos."
+      },
+      {
+        "statement": "Si un epistemólogo sostuviese que una teoría científica se puede reducir a una sola proposición,",
+        "alternatives": [
+          "A) se adscribiría a la nueva filosofía de la ciencia.",
+          "B) sería un epígono de l positivismo.",
+          "C) aplicaría la noción compleja de tradición.",
+          "D) revelaría la esencia de un paradigma.",
+          "E) se apoyaría en el análisis de Laudan."
+        ],
+        "correct": 1,
+        "rationale": "Solución: La posición del epistemólogo entraría en el marco del positivismo lógico."
+      }
+    ]
+  },
+  {
+    "type": "reading_comprehension",
+    "statement": "intelecto humano, es decir, de nuestro concepto natural de mecanismo.\nPero es establecido por otra parte que la ciencia no es el conocimiento de los\nefectos reales y de las causas reales de los fenómenos, sino el de sus causas y\nsus efectos concebidos como posibles; esta distinción es fundamental. Sea, por ejemplo, una figura geométrica: no es de la incumbencia de la ciencia buscar la\nmanera en que, e n el caso particular, ha sido construida, sino la manera en que\nciertamente habría podido serlo. Del mismo modo, dada una causa determinada\nconcebida por nuestro espíritu, no es tampoco de la incumbencia de la ciencia\ntrabajar por descubrir el efecto que esa causa ha producido al obrar en cierto\nmomento, sino tratar de prever todos los efectos que es susceptible de producir. Y\nfundándose en esta distinción es como Hobbes rechaza la historia del cuerpo de la\nciencia. El conocimiento de la historia no es sino un conocimiento de hecho; los\ndocumentos de la historia no son sino materiales de ciencia.\nUn ejemplo tomado en el dominio de nuestras investigaciones modernas en biología\ncontribuirá a hacer comprender bien esa diferencia que Hobbes quiere señalar tan\nclaramente desde el punto de vista histórico y desde el punto de vista científico integral.\nSupongamos que un investigador se encuentra, por algún medio difícil de imaginar, en\nsituación de seguir, a partir de los caballos actuales, todas las generaciones a nteriores de\ncaballos, y eso, tan lejos en el tiempo que pueda ver desarrollarse ante sus ojos, en el\norden inverso al de su sucesión, los cambios morfológicos sufridos por el animal que ha\nllegado a ser finalmente el caballo actual. Conocerá así la historia del caballo de la misma\nmanera que nosotros conocemos la de los acontecimientos que han agitado un Estado,\nsea porque hayamos visto esos sucesos, sea porque nos hayan sido contados, sea\nciencia, aunque constituya su fundamento.\nSi observamos que el conocimiento de las causas y de los efectos reales no podría,\nporque no es sino un conoci mimiento de hechos, rebasar los límites de lo particular y de lo\ncontingente, se comprende de plano que al definir la ciencia como el conocimiento de las\ncausas y de los efectos concebidos como posibles, se establece por eso mismo el\ndeterminismo y la necesidad. Hobbes formula así el principio de la ciencia en términos\ncuja energía no ha sido jamás superada, fundando así nuestra noción moderna de leyes\ninvariables y universales que es la base del conocimiento científico.",
+    "questions": [
+      {
+        "statement": "La idea principal del texto afirma que",
+        "alternatives": [
+          "A) solo se puede imaginar el mundo como si tuviese causas.",
+          "B) el entendimiento humano opera mediante causas subyacentes.",
+          "C) la ciencia es el conocimiento de los efectos y causas posibles.",
+          "D) la historia no pertenece al cuerpo de las ciencias empíricas.",
+          "E) Hobbes fundó la noción moderna de la ciencia de la lógica."
+        ],
+        "correct": 2,
+        "rationale": "La idea principal es que la ciencia es el conocimiento de las causas y efectos concebidos como posibles, no de las causas reales y efectos reales."
+      },
+      {
+        "statement": "La expresión EN LA NOTA JUSTA connota la idea de",
+        "alternatives": [
+          "A) armonía.",
+          "B) dogmatismo.",
+          "C) incertidumbre.",
+          "D) verdad.",
+          "E) he sitación."
+        ],
+        "correct": 3,
+        "rationale": "En la nota justa se entiende como que está en lo cierto, o es acertada su opinión."
+      },
+      {
+        "statement": "Se puede inferir que el enfoque de Hobbes se basa en",
+        "alternatives": [
+          "A) imaginar un mundo sin causas.",
+          "B) el concepto mecanismo necesario.",
+          "C) una psicología del intelecto.",
+          "D) el determinismo metafísico.",
+          "E) la noción moderna de leyes invariables."
+        ],
+        "correct": 1,
+        "rationale": "Concebimos el mundo como si tuviera causas; la ciencia surge del concepto natural de mecanismo."
+      },
+      {
+        "statement": "Marque la alternativa incompatible con el texto.",
+        "alternatives": [
+          "A) Hobbes fundó la noción moderna de ley científica invariable.",
+          "B) La ciencia implica el determinismo y la necesidad en el mundo.",
+          "C) Las causas y efectos concebidos como posibles son contingentes.",
+          "D) El conocimiento de la historia es un conocimiento particular .",
+          "E) Para nosotros todo ocurre como si en el mundo hubiera causas."
+        ],
+        "correct": 2,
+        "rationale": "El texto sostiene que las causas y efectos concebidos como posibles generan determinismo y necesidad; afirmar que son contingentes contradice."
+      },
+      {
+        "statement": "Con respecto a la historia de la ciencia se colige que esta",
+        "alternatives": [
+          "A) es de carácter particular y contingente.",
+          "B) se basa exclusivamente en causas posibles.",
+          "C) se rige por el de terminismo y la necesidad.",
+          "D) se rige por leyes invariables y necesarias.",
+          "E) puede dar un tipo de explicación necesaria."
+        ],
+        "correct": 0,
+        "rationale": "El conocimiento de la historia no es sino un conocimiento de hecho, y los conocimientos de hechos no rebasan los límites de lo particular y lo contingente."
+      },
+      {
+        "statement": "Si la ciencia fuera el conocimiento de las causas y de los efectos observados, entonces se recusaría la noción de",
+        "alternatives": [
+          "A) contingencia.",
+          "B) probabilidad.",
+          "C) inducción.",
+          "D) necesidad.",
+          "E) historia."
+        ],
+        "correct": 3,
+        "rationale": "Porque al definir la ciencia como el conocimiento de las causas y de los efectos concebidos como posibles se establece por eso mismo el determinismo y la necesidad."
+      },
+      {
+        "statement": "En el texto, Hobbes es analizado como",
+        "alternatives": [
+          "A) filósofo del poder.",
+          "B) teórico del conocimiento.",
+          "C) exégeta de textos.",
+          "D) científico natural.",
+          "E) pensador metafísico."
+        ],
+        "correct": 1,
+        "rationale": "El texto aborda la gnoseología y la epistemología de Hobbes."
+      },
+      {
+        "statement": "Resulta crucial incidir en la noción de causa posible porque así se garantiza su",
+        "alternatives": [
+          "A) subjetividad.",
+          "B) falibilidad.",
+          "C) universalidad.",
+          "D) indeterminación.",
+          "E) aleatoriedad."
+        ],
+        "correct": 2,
+        "rationale": "La idea de causas posibles permite llegar al universo de causas universal."
+      }
+    ]
+  },
+  {
+    "type": "reading_comprehension",
+    "statement": "La revista Ecopsychology ,especializada en el análisis de la relación entre el medioambiente y la bienestar y la salud mentales, ha dedicado recientemente un número especial (de libre acceso en Internet) a la reflexión sobre la relación entre las mujeres y la naturaleza.\nPartiendo de la idea de que las mujeres experimentan su entorno natural e interactúan con este de manera distinta a los hombres, este número analiza la forma en que estas diferencias afectan al autoconcepto de las mujeres, a su imagen corporal, y a la\nUniversidad de St. Thomas, y Lisa Lynch, de la Antioch University. El trabajo presenta una colección de artículos que comprenden observaciones y teorías sobre cómo el sexo femenino, la maternidad, la naturaleza humana y la influencia de las normas sociales basadas en el género influyen en la autopercepción de las mujeres, y en su comportamiento hacia el medioambiente.\nEn uno de los artículos, Scott explica cómo las normas culturales que fomentan la visión de las mujeres como objetos sexuales propicia que las mujeres se preocupen por su aspecto y sean ,generalmente, críticas con sus cuerpos. En última instancia, afirma Scott, este sentimiento de las mujeres hacia sí mismas, provocado por los ideales de belleza, tiene un impacto negativo en la actitud de las mujeres hacia el medioambiente, y en su capacidad de conectar con este.\nScott escribe: la conexión con la naturaleza (CN) hace referencia a la medida en que la percepción del yo individual incluye la conciencia de uno mismo o de una misma como parte del mundo natural. La CN está relacionada positivamente con un comportamiento y una actitud a favor del medioambiente.\nEsta idea viene respaldada por dos estudios y un experimento en los que se constató que el sentimiento de ser un objeto sexual y la interiorización del ideal femenino de belleza degradan la conexión de las mujeres con la naturaleza: la perturbación de la relación con su propio cuerpo conlleva una desconexión con el mundo natural y, como resultado, un comportamiento menos ecológico, explica la psicóloga.\nEn el sentido contrario, en otro artículo, escrito por la psicóloga Kari Hennigan, del Institute of Transpersonal Psychology, se sugiere que las mujeres que pasan tiempo en entornos naturales e interactúan con estos son más propicias a tener una mejor imagen de su cuerpo, y a distanciars e de las definiciones sociales de belleza.\nPor otro lado, en otro de los artículos de este número especial de Ecopsychology ,la psicóloga Susan Logsdon -Conradsen y la antropóloga Sarah Allred, del Berry College de Estados Unidos, describen el concepto de activismo medioambiental materno, basado en la suposición de que el instinto maternal se extiende al deseo de proteger y preservar el medioambiente, para mantenerlo para la descendencia.\nSegún escriben las autoras, el artículo presenta un marco para la comprensión de una causa del activismo medioambiental poco analizada: la maternidad. El activismo materno emergería de la identificación de la mujer con su rol de madre y de las responsabilidades que la mujer asigna a este papel social. La maternidad es considerada así por las investigadoras como un estímulo particular enfocado hacia el cuidado y preservación de la naturaleza, que propicia el activismo medioambiental.\nLa revista contiene también un trabajo de psicólogos y sociólogos de la Colorado State University y de la Pennsylvania State University -Abington, en el cual indica n que las investigaciones sobre las diferencias entre sexos relacionadas con los valores y actitudes hacia el medioambiente, a menudo ,han constatado que las mujeres presentan valores y actitudes más pro medioambientales, y que realizan actividades más implicadas con la naturaleza que los hombres. Estos investigadores analizaron el papel de la motivación por placer sensorial (MSP), una disposición individual con la que se mide la necesidad humana de buscar y disfrutar experiencias relacionadas con la naturaleza a través de los sentidos, como posible causa de estas diferencias.\nEn este sentido, una comparación realizada en grupos de estudiantes universitarios (200 mujeres y 190 hombres), reveló que las mujeres puntuaban más alto en MSP en actividades en la naturaleza (paseos, visitas a entornos naturales, etc.) Por esta razón, explican los científicos, estarían más motivadas para implicarse con la naturaleza en conjunto.\nuna serie de artículos",
+    "questions": [
+      {
+        "statement": "2. Se sigue del texto que una mujer que carezca del instinto de maternidad",
+        "alternatives": [
+          "A) está impedida de tener conciencia para proteger y preservar el medioambiente.",
+          "B) deberá adoptar hijos para tener una mejor relación con los demás seres humanos.",
+          "C) carecerá de toda conciencia moral para un tenue activismo medioambiental.",
+          "D) tendrá que adquirir culturalmente la conciencia para un activismo medioambiental.",
+          "E) manifestará una actitud negativa opuesta al ideal de belleza impuesto por el mercado."
+        ],
+        "correct": 3,
+        "rationale": "De la conclusión a la que arriba una de las investigaciones expuestas en éste número, donde se afirma que la maternidad es un estímulo particular que propicia el activismo medioambiental, se colige que al faltar éste estímulo, faltará también aquello que propicia, por lo que deberá adquirirlo culturalmente."
+      },
+      {
+        "statement": "3. Resulta incompatible con el desarrollo textual decir que",
+        "alternatives": [
+          "A) las mujeres que se sienten objetos sexuales tienen una desconexión con el mundo natural.",
+          "B) la maternidad es como un estímulo particular que propicia el activismo medioambiental.",
+          "C) los hombres tienen más motivación por placer sensorial en acciones en la do lu ma mi ju vi sá",
+          "D) en el número especial de la revista Ecopsychology han colaborado psicólogos y científicos sociales.",
+          "E) la conexión con la naturaleza guarda una relación positiva con la conciencia de cuidar el medioambiente."
+        ],
+        "correct": 2,
+        "rationale": "En el estudio referido al final del texto, el resultado fue el contrario, ya que las mujeres fueron las que puntuaron más alto en este aspecto."
+      },
+      {
+        "statement": "4. En el texto, el sentido de IMPLICADA es",
+        "alternatives": [
+          "A) acusada.",
+          "B) rehecha.",
+          "C) compro metida.",
+          "D) sólida.",
+          "E) implícita."
+        ],
+        "correct": 2,
+        "rationale": "El término se usa para designar el compromiso con el medioambiente."
+      },
+      {
+        "statement": "5. Si una mujer pensara que su función en la vida es ser un símbolo sexual, muy probablemente",
+        "alternatives": [
+          "A) se dedicaría solamente a cuidar una gran prole.",
+          "B) lucharía por las causas ecologistas más puras.",
+          "C) tendría una conciencia ecológica muy elevada.",
+          "D) apostaría por una vida plegada a la naturaleza.",
+          "E) tendría nulo compromiso con el medioambiente."
+        ],
+        "correct": 4,
+        "rationale": "Las mujeres que se dedican a cultivar el criterio tradicional de belleza tienden a desconectarse del mundo natural."
+      }
+    ]
+  }
+]
