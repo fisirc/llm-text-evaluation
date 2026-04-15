@@ -252,6 +252,63 @@ const processSource3 = async (): Promise<InterimOutput[]> => {
               }
               
               // Handle source 3 weird options split
+              if (options.length > 5) {
+                 // Try to stitch them back together if they look like broken sentences
+                 let backup = cleanOptions(q.alternatives);
+                 if (backup.length === options.length) {
+                     if (backup.length === 8 || backup.length === 10 || backup.length === 6 || backup.length === 7 || backup.length === 9 || backup.length === 12) {
+                         let stitched = [];
+                         let current = "";
+                         for (let i = 0; i < backup.length; i++) {
+                             // Check if the next item starts with lowercase and we don't end with a punctuation
+                             if (i + 1 < backup.length && backup[i+1] && backup[i+1].match(/^[a-z]/) && backup[i] && !backup[i].match(/[.?!]$/)) {
+                                 current = (backup[i] + ' ' + backup[i+1]).trim();
+                                 i++; // Skip the next one
+                             } else if (i + 1 < backup.length && backup[i+1] && (backup[i+1].startsWith('de ') || backup[i+1].startsWith('con ') || backup[i+1].startsWith('del ') || backup[i+1].startsWith('y '))) {
+                                 current = (backup[i] + ' ' + backup[i+1]).trim();
+                                 i++;
+                             } else if (backup[i]?.match(/^[ivxIVX]+(?:\s*-\s*[ivxIVX]+)*$/) && i + 1 < backup.length && backup[i+1]?.trim() === "") {
+                                 // Handle case: "iv - iii - ii - i - v", ""
+                                 current = backup[i].trim();
+                                 i++;
+                             } else {
+                                 current = backup[i]?.trim() || "";
+                             }
+
+                             // If it's a blank string due to a weird split, just continue accumulating
+                             if (current === "" && i + 1 < backup.length) {
+                                 current = backup[i+1].trim();
+                                 i++;
+                             }
+
+                             if (current) stitched.push(current);
+                         }
+                         if (stitched.length === 5 || stitched.length === 4 || stitched.length === 3) {
+                             options = stitched;
+                         } else {
+                             // Let's filter out known junk evaluation letters from the options array that shouldn't be there
+                             const filtered = stitched.filter(o => !o.match(/^[CIVF]+$/i));
+                             if (filtered.length === 5 || filtered.length === 4 || filtered.length === 3) {
+                                 options = filtered;
+                             } else if (backup.length === 6 || backup.length === 8 || backup.length === 10 || backup.length === 12) {
+                                 // Fallback to strict pairing
+                                 stitched = [];
+                                 for (let j = 0; j < backup.length; j += 2) {
+                                     if (j + 1 < backup.length) {
+                                         stitched.push((backup[j] + ' ' + backup[j+1]).trim());
+                                     } else {
+                                         stitched.push(backup[j].trim());
+                                     }
+                                 }
+                                 if (stitched.length === 5 || stitched.length === 4 || stitched.length === 3) {
+                                     options = stitched;
+                                 }
+                             }
+                         }
+                     }
+                 }
+              }
+
               if (options.length > 0 && typeof options[0] === 'string') {
                   if (options.some(o => o.trim() === 'y el este (Asi' || o.trim() === 'y el este (Asi)') || options.length > 5 || options.some(o => o.trim() === 'muerte de estas.' || o.trim() === 'con menores recursos.' || o.trim() === 'C' || o.trim() === 'I' || o.includes('muerte de estas.'))) {
                       // It was bad split, let's revert to original node options
@@ -278,8 +335,13 @@ const processSource3 = async (): Promise<InterimOutput[]> => {
                   }
               }
 
+              let mappedTask = node.type;
+              if (mappedTask === 'writing_plan') {
+                  mappedTask = 'sentence_ordering';
+              }
+
               results.push({
-                task: node.type,
+                task: mappedTask,
                 question: questionText,
                 options: options,
                 answer: q.correct,
@@ -307,6 +369,63 @@ const processSource3 = async (): Promise<InterimOutput[]> => {
                  const splitOpts = options[0].split(/\s*[a-eA-E]\)\s*/).filter(o => o.trim() !== '');
                  if (splitOpts.length === 5) {
                      options = splitOpts.map(o => o.replace(/\s+/g, ' ').trim());
+                 }
+              }
+
+              if (options.length > 5) {
+                 // Try to stitch them back together if they look like broken sentences
+                 let backup = cleanOptions(node.alternatives);
+                 if (backup.length === options.length) {
+                     if (backup.length === 8 || backup.length === 10 || backup.length === 6 || backup.length === 7 || backup.length === 9 || backup.length === 12) {
+                         let stitched = [];
+                         let current = "";
+                         for (let i = 0; i < backup.length; i++) {
+                             // Check if the next item starts with lowercase and we don't end with a punctuation
+                             if (i + 1 < backup.length && backup[i+1] && backup[i+1].match(/^[a-z]/) && backup[i] && !backup[i].match(/[.?!]$/)) {
+                                 current = (backup[i] + ' ' + backup[i+1]).trim();
+                                 i++; // Skip the next one
+                             } else if (i + 1 < backup.length && backup[i+1] && (backup[i+1].startsWith('de ') || backup[i+1].startsWith('con ') || backup[i+1].startsWith('del '))) {
+                                 current = (backup[i] + ' ' + backup[i+1]).trim();
+                                 i++;
+                             } else if (backup[i]?.match(/^[ivxIVX]+(?:\s*-\s*[ivxIVX]+)*$/) && i + 1 < backup.length && backup[i+1]?.trim() === "") {
+                                 // Handle case: "iv - iii - ii - i - v", ""
+                                 current = backup[i].trim();
+                                 i++;
+                             } else {
+                                 current = backup[i]?.trim() || "";
+                             }
+                             
+                             // If it's a blank string due to a weird split, just continue accumulating
+                             if (current === "" && i + 1 < backup.length) {
+                                 current = backup[i+1].trim();
+                                 i++;
+                             }
+
+                             if (current) stitched.push(current);
+                         }
+                         if (stitched.length === 5 || stitched.length === 4 || stitched.length === 3) {
+                             options = stitched;
+                         } else {
+                             // Let's filter out known junk evaluation letters from the options array that shouldn't be there
+                             const filtered = stitched.filter(o => !o.match(/^[CIVF]+$/i));
+                             if (filtered.length === 5 || filtered.length === 4 || filtered.length === 3) {
+                                 options = filtered;
+                             } else if (backup.length === 6 || backup.length === 8 || backup.length === 10 || backup.length === 12) {
+                                 // Fallback to strict pairing
+                                 stitched = [];
+                                 for (let j = 0; j < backup.length; j += 2) {
+                                     if (j + 1 < backup.length) {
+                                         stitched.push((backup[j] + ' ' + backup[j+1]).trim());
+                                     } else {
+                                         stitched.push(backup[j].trim());
+                                     }
+                                 }
+                                 if (stitched.length === 5 || stitched.length === 4 || stitched.length === 3) {
+                                     options = stitched;
+                                 }
+                             }
+                         }
+                     }
                  }
               }
 
@@ -339,8 +458,13 @@ const processSource3 = async (): Promise<InterimOutput[]> => {
                   }
               }
 
+              let mappedTask = node.type;
+              if (mappedTask === 'writing_plan') {
+                  mappedTask = 'sentence_ordering';
+              }
+
               results.push({
-                task: node.type,
+                task: mappedTask,
                 question: questionText,
                 options: options,
                 answer: node.correct ?? 0,
@@ -385,6 +509,16 @@ const run = async () => {
       item.answer >= item.options.length 
     ) {
       rejected.push({ id: idx, reason: "Answer index out of bounds", ...item });
+      return;
+    }
+
+    if (item.options.length === 1) {
+      rejected.push({ id: idx, reason: "Ill-formed options (length 1)", ...item });
+      return;
+    }
+
+    if (item.options.length >= 6) {
+      rejected.push({ id: idx, reason: "Ill-formed options (length >= 6)", ...item });
       return;
     }
 
