@@ -37,6 +37,7 @@ data Alternative = Alternative {
 } deriving (Generic, Show, Eq)
 
 data Question = Question {
+    task :: String,
     questionContent :: T.Text,
     alternatives :: NEL.NonEmpty Alternative,
     explanation :: T.Text,
@@ -50,14 +51,14 @@ instance ToJSON Question
 instance FromJSON Question
     -- No need to provide a parseJSON implementation.
 
-sourcesUrl :: [String]
+sourcesUrl :: [(String, String)]
 sourcesUrl = [
-    "https://matematicasn.blogspot.com/2020/04/Test-de-coherencia-textual-resuelto-con-claves-y-respuestas-pre-universidad-pdf.html",
-    "https://matematicasn.blogspot.com/2019/04/oraciones-eliminadas-examen-resuelto-rv.html",
-    "https://matematicasn.blogspot.com/2020/03/Test-de-eliminacion-de-oraciones-resuelto-con-claves-y-respuestas-pre-universidad-pdf.html",
-    "https://matematicasn.blogspot.com/2019/04/plan-de-redaccion-examen-resuelto-de-rv.html",
-    "https://matematicasn.blogspot.com/2019/08/plan-de-redaccion-preguntas-resueltas-de-examen-de-admision-a-la-universidad-pdf.html",
-    "https://matematicasn.blogspot.com/2020/04/Test-de-cohesion-textual-resuelto-con-claves-y-respuestas-pre-universidad-pdf.html"]
+    ("sentence_ordering", "https://matematicasn.blogspot.com/2020/04/Test-de-coherencia-textual-resuelto-con-claves-y-respuestas-pre-universidad-pdf.html"),
+    ("sentence_elimination", "https://matematicasn.blogspot.com/2019/04/oraciones-eliminadas-examen-resuelto-rv.html"),
+    ("sentence_elimination", "https://matematicasn.blogspot.com/2020/03/Test-de-eliminacion-de-oraciones-resuelto-con-claves-y-respuestas-pre-universidad-pdf.html"),
+    ("sentence_ordering", "https://matematicasn.blogspot.com/2019/04/plan-de-redaccion-examen-resuelto-de-rv.html"),
+    ("sentence_ordering", "https://matematicasn.blogspot.com/2019/08/plan-de-redaccion-preguntas-resueltas-de-examen-de-admision-a-la-universidad-pdf.html"),
+    ("sentence_ordering", "https://matematicasn.blogspot.com/2020/04/Test-de-cohesion-textual-resuelto-con-claves-y-respuestas-pre-universidad-pdf.html")]
 
 -- Returning an IO allow us to perform side effects on transitions
 type FSM s e = s -> e -> IO s
@@ -81,50 +82,50 @@ data ParsingQuestionState =
 lowerStr :: [Char] -> [Char]
 lowerStr = Prelude.map Char.toLower
 
-type AppState = ([Question], ParsingQuestionState)
+type AppState = (String, [Question], ParsingQuestionState)
 
 -- Each tag may mutate our state
 process :: FSM AppState (Tag String)
 
-process (questions, Failed s) _ = do return (questions, Failed s)
-process (questions, Finished s) _ = do return (questions, Finished s)
+process (taskType, questions, Failed s) _ = do return (taskType, questions, Failed s)
+process (taskType, questions, Finished s) _ = do return (taskType, questions, Finished s)
 
-process (questions, WaitingStart) next =
+process (taskType, questions, WaitingStart) next =
     case next of
         TagText txt | Just _ <- Data.List.stripPrefix "PREGUNTA " txt ->
-            return (questions, ParsingContent (cleanTxt ""))
+            return (taskType, questions, ParsingContent (cleanTxt ""))
         _ ->
-            return (questions, WaitingStart) -- not there yet
+            return (taskType, questions, WaitingStart) -- not there yet
 
-process (questions, ParsingContent content) next = do
+process (taskType, questions, ParsingContent content) next = do
     case next of
         TagText txt
             -- move to alternatives
             | Just rest <- "a)" `Data.List.stripPrefix` (trimString . lowerStr $ txt) ->
-                return (questions, ParsingAlternatives (trim (T.unpack content)) [Alternative { code = 'A', content = trim rest }])
+                return (taskType, questions, ParsingAlternatives (trim (T.unpack content)) [Alternative { code = 'A', content = trim rest }])
             | Just rest <- "a." `Data.List.stripPrefix` (trimString . lowerStr $ txt) ->
-                return (questions, ParsingAlternatives (trim (T.unpack content)) [Alternative { code = 'A', content = trim rest }])
+                return (taskType, questions, ParsingAlternatives (trim (T.unpack content)) [Alternative { code = 'A', content = trim rest }])
             -- continue parsing content
             | otherwise ->
-                return (questions, ParsingContent (content <> cleanTxt txt))
-        _ -> return (questions, ParsingContent content) -- not there yet
+                return (taskType, questions, ParsingContent (content <> cleanTxt txt))
+        _ -> return (taskType, questions, ParsingContent content) -- not there yet
 
-process (questions, ParsingAlternatives content alternatives) next =
+process (taskType, questions, ParsingAlternatives content alternatives) next =
     case next of
         TagText txt
             -- move to explanation
             | "resoluci" `Data.List.isInfixOf` lowerStr txt ->
-                return (questions, ParsingExplanation content (NEL.fromList alternatives) (cleanTxt ""))
+                return (taskType, questions, ParsingExplanation content (NEL.fromList alternatives) (cleanTxt ""))
             -- continue parsing alternatives
             | otherwise -> do
                 let (code, alternative) = splitAt 3 txt
                 if trim code /= T.pack "" then
-                    return (questions, ParsingAlternatives content (alternatives ++ [Alternative { code = Char.toUpper . head $ trimString code, content = trim alternative }]))
+                    return (taskType, questions, ParsingAlternatives content (alternatives ++ [Alternative { code = Char.toUpper . head $ trimString code, content = trim alternative }]))
                 else
-                    return (questions, ParsingAlternatives content alternatives)
-        _ -> return (questions, ParsingAlternatives content alternatives) -- not there yet
+                    return (taskType, questions, ParsingAlternatives content alternatives)
+        _ -> return (taskType, questions, ParsingAlternatives content alternatives) -- not there yet
 
-process (questions, ParsingExplanation content alternatives explanation) next =
+process (taskType, questions, ParsingExplanation content alternatives explanation) next =
     case next of
         TagText txt
             -- parse the correct answer
@@ -132,23 +133,23 @@ process (questions, ParsingExplanation content alternatives explanation) next =
                 let codeRegex = head (txt =~ "Rpta\\. ?: \"([A-E])\"?|Clave ([A-E])" :: [[String]])
                 let code = (!!0) . last $ filter (not . null) codeRegex
 
-                let q = Question { questionContent = content, alternatives = alternatives, explanation = trim (T.unpack explanation), answer = code }
-                return (questions ++ [q], WaitingStart) -- reset again
+                let q = Question { task = taskType, questionContent = content, alternatives = alternatives, explanation = trim (T.unpack explanation), answer = code }
+                return (taskType, questions ++ [q], WaitingStart) -- reset again
             -- continue parsing alternatives
             | otherwise ->
-                return (questions, ParsingExplanation content alternatives (explanation <> cleanTxt txt))
-        _ -> return (questions, ParsingExplanation content alternatives explanation)
+                return (taskType, questions, ParsingExplanation content alternatives (explanation <> cleanTxt txt))
+        _ -> return (taskType, questions, ParsingExplanation content alternatives explanation)
 
 -- Parse all the questions for a single source
-parseQuestionsForSource :: String -> IO [Question]
-parseQuestionsForSource filename = do
+parseQuestionsForSource :: (String, String) -> IO [Question]
+parseQuestionsForSource (taskType, filename) = do
     response <- get filename
 
     let bodyRaw = response ^. responseBody
     let body = TL.unpack (TLE.decodeUtf8 bodyRaw)
     let htmlTags = parseTags body
 
-    (questions, _) <- runFsm process ([], WaitingStart) htmlTags
+    (_, questions, _) <- runFsm process (taskType, [], WaitingStart) htmlTags
 
     return questions
 
