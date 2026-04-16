@@ -10,7 +10,7 @@ type FinalOutput = {
   rationale: string | null;
 };
 
-type InterimOutput = Omit<FinalOutput, 'id'>;
+type InterimOutput = Omit<FinalOutput, 'id'> & { source: string };
 
 // Source 1 types
 type S1Exercise = {
@@ -63,7 +63,7 @@ const cleanOptions = (options: string[] | undefined): string[] => {
 const processSource1 = async (): Promise<InterimOutput[]> => {
   const content = await readFile(join(__dirname, '../source_1/output.json'), 'utf8');
   const data: S1Exercise[] = JSON.parse(content);
-  
+
   return data.map((item) => {
     let options = cleanOptions(item.alternatives);
     // Handle case where options are lumped into a single string separated by spaces/tabs
@@ -75,13 +75,13 @@ const processSource1 = async (): Promise<InterimOutput[]> => {
          if (splitOpts.length !== 5 && splitOpts.length !== 4) {
              splitOpts = opt.split(/\s*[a-eA-E][\.\)]\s*/).filter(o => o.trim() !== '');
          }
-         
+
          // Final fallback for lumped strings
          if (splitOpts.length === 1 && splitOpts[0].length > 10) {
               const regex = /\s*[a-eA-E][\.\)]\s*|\s+[a-eA-E]\s+/g;
               splitOpts = opt.split(regex).filter(o => o.trim());
          }
-         
+
          // Final final fallback if there's weird tabs and spaces inside options like: IV         c) II         d) V          e) III
          if (splitOpts.some(o => o.match(/[a-eA-E]\)/))) {
               let deepSplit: string[] = [];
@@ -105,13 +105,13 @@ const processSource1 = async (): Promise<InterimOutput[]> => {
                  newOptions.push(opt.trim());
              }
          }
-         
+
          // Final fallback for lumped strings
          if (splitOpts.length === 1 && splitOpts[0].length > 10) {
               const regex = /\s*[a-eA-E][\.\)]\s*|\s+[a-eA-E]\s+/g;
               splitOpts = opt.split(regex).filter(o => o.trim());
          }
-         
+
          // Final final fallback if there's weird tabs and spaces inside options like: IV         c) II         d) V          e) III
          if (splitOpts.some(o => o.match(/[a-eA-E]\)/))) {
               let deepSplit: string[] = [];
@@ -192,15 +192,16 @@ const processSource1 = async (): Promise<InterimOutput[]> => {
 const processSource2 = async (): Promise<InterimOutput[]> => {
   const content = await readFile(join(__dirname, '../source_2/output.json'), 'utf8');
   const data: S2Question[] = JSON.parse(content);
-  
+
   return data.map((item) => {
     // Answer is typically A, B, C, D, E. Map to 0-4
     const ansCode = item.answer.trim().toUpperCase().charCodeAt(0) - 'A'.charCodeAt(0);
     return {
+      source: 'source_2',
       task: item.task,
       question: item.questionContent,
       // Source 2 already parsed them into objects with code and content
-      options: item.alternatives.map(a => a.content),
+      options: item.alternatives.map(a => a.content.replace(/^[^a-zA-Z0-9]+/, '').trim()),
       answer: ansCode,
       rationale: item.explanation?.trim() || null,
     };
@@ -250,7 +251,7 @@ const processSource3 = async (): Promise<InterimOutput[]> => {
                      options = splitOpts.map(o => o.replace(/\s+/g, ' ').trim());
                  }
               }
-              
+
               // Handle source 3 weird options split
               if (options.length > 5) {
                  // Try to stitch them back together if they look like broken sentences
@@ -340,7 +341,8 @@ const processSource3 = async (): Promise<InterimOutput[]> => {
                   mappedTask = 'sentence_ordering';
               }
 
-              results.push({
+               results.push({
+                source: 'source_3',
                 task: mappedTask,
                 question: questionText,
                 options: options,
@@ -394,7 +396,7 @@ const processSource3 = async (): Promise<InterimOutput[]> => {
                              } else {
                                  current = backup[i]?.trim() || "";
                              }
-                             
+
                              // If it's a blank string due to a weird split, just continue accumulating
                              if (current === "" && i + 1 < backup.length) {
                                  current = backup[i+1].trim();
@@ -463,7 +465,8 @@ const processSource3 = async (): Promise<InterimOutput[]> => {
                   mappedTask = 'sentence_ordering';
               }
 
-              results.push({
+               results.push({
+                source: 'source_3',
                 task: mappedTask,
                 question: questionText,
                 options: options,
@@ -497,16 +500,18 @@ const run = async () => {
   console.log(`Source 3: ${s3.length} records`);
 
   const allInterim = [...s1, ...s2, ...s3];
-  
+
   const all: FinalOutput[] = [];
   const rejected: any[] = [];
-  
+
   allInterim.forEach((item, idx) => {
     // Validate answer index
+    item.options = item.options.filter(o => o.trim());
+
     if (
       !Number.isInteger(item.answer) ||
-      item.answer < 0 || 
-      item.answer >= item.options.length 
+      item.answer < 0 ||
+      item.answer >= item.options.length
     ) {
       rejected.push({ id: idx, reason: "Answer index out of bounds", ...item });
       return;
@@ -522,9 +527,18 @@ const run = async () => {
       return;
     }
 
+    // Special validation for sentence_ordering from source 2
+    if (item.source === 'source_2' && item.task === 'sentence_ordering') {
+        item.options = item.options.map(o => o.toUpperCase());
+    }
+
     all.push({
       id: all.length,
-      ...item
+      task: item.task,
+      question: item.question,
+      options: item.options,
+      answer: item.answer,
+      rationale: item.rationale
     });
   });
 
