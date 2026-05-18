@@ -105,11 +105,16 @@ class OpenRouter(BaseProvider):
             if self.enforce_json:
                 kwargs["response_format"] = response_format
             else:
+                schema_text = "\n\nExpected response schema:\n" + json.dumps(response_format['json_schema']['schema'], ensure_ascii=False)
+                appended = False
                 for msg in messages:
                     if msg["role"] == "system":
                         if "Expected response schema:" not in msg["content"]:
-                            msg["content"] += "\n\nExpected response schema:\n" + json.dumps(response_format['json_schema']['schema'], ensure_ascii=False)
+                            msg["content"] += schema_text
+                        appended = True
                         break
+                if not appended:
+                    messages.insert(0, {"role": "system", "content": "Respond with valid JSON.\n" + schema_text})
 
         if self.logprobs:
             kwargs["logprobs"] = True
