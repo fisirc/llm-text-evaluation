@@ -13,7 +13,9 @@ import logging
 
 from openai import AsyncOpenAI
 
+from ..types import ChoiceLogprobs
 from .base import BaseProvider
+from .ollama import _extract_choice_logprobs
 
 logger = logging.getLogger("llm_verbal_framework")
 
@@ -36,6 +38,8 @@ class OpenRouter(BaseProvider):
         retry_times: Max retries per sample on API error (default 1).
         max_errors: Max total API errors before aborting the model (default 3).
         label: Optional tag for this configuration variant (e.g. "temp=0.7").
+        logprobs: Whether to request token logprobs (default False).
+        top_logprobs: Top logprobs per token (only when logprobs=True).
     """
 
     def __init__(
@@ -51,6 +55,8 @@ class OpenRouter(BaseProvider):
         retry_times: int = 1,
         max_errors: int = 3,
         label: str | None = None,
+        logprobs: bool = False,
+        top_logprobs: int | None = None,
     ) -> None:
         self.model = model
         self.label = label
@@ -60,6 +66,8 @@ class OpenRouter(BaseProvider):
         self.enforce_json = enforce_json
         self.retry_times = retry_times
         self.max_errors = max_errors
+        self.logprobs = logprobs
+        self.top_logprobs = top_logprobs
 
         extra_headers: dict[str, str] = {}
         if site_url:
@@ -83,7 +91,7 @@ class OpenRouter(BaseProvider):
         self,
         messages: list[dict[str, str]],
         response_format: dict | None = None,
-    ) -> tuple[str, int, int]:
+    ) -> tuple[str, int, int, ChoiceLogprobs | None]:
         kwargs: dict = {
             "model": self.model,
             "messages": messages,
@@ -103,6 +111,10 @@ class OpenRouter(BaseProvider):
                             msg["content"] += "\n\nExpected response schema:\n" + json.dumps(response_format['json_schema']['schema'], ensure_ascii=False)
                         break
 
+        if self.logprobs:
+            kwargs["logprobs"] = True
+            if self.top_logprobs is not None:
+                kwargs["top_logprobs"] = self.top_logprobs
         if logger.isEnabledFor(logging.DEBUG):
             logger.debug(
                 "Final OpenRouter request messages:\n%s",
@@ -116,4 +128,11 @@ class OpenRouter(BaseProvider):
         prompt_tokens = usage.prompt_tokens if usage else 0
         completion_tokens = usage.completion_tokens if usage else 0
 
-        return content, prompt_tokens, completion_tokens
+        logprobs = None
+        if self.logprobs:
+            try:
+                logprobs = _extract_choice_logprobs(response.choices[0].logprobs)
+            except Exception:
+                logprobs = None
+
+        return content, prompt_tokens, completion_tokens, logprobs

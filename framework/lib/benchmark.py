@@ -23,7 +23,7 @@ from .perturb import generate_perturbed_dataset
 from .prompt import build_messages, parse_batch_response, parse_single_response
 from .providers.base import BaseProvider
 from .report import BenchmarkResult, DatasetResult, ModelResult
-from .types import EvaluatedSample
+from .types import EvaluatedSample, ChoiceLogprobs
 
 logger = logging.getLogger("llm_verbal_framework")
 
@@ -413,12 +413,20 @@ class Benchmark:
             for attempt in range(retry_state.retry_times + 1):
                 start_time = time.perf_counter()
                 try:
-                    raw_response, prompt_tokens, completion_tokens = await provider.complete(
+                    raw_response, prompt_tokens, completion_tokens, choice_logprobs = await provider.complete(
                         messages, response_format
                     )
                     logger.debug(
                         "    Batch %d: Raw response:\n%s", batch_id, raw_response,
                     )
+                    # Filter logprobs to only valid answer indices
+                    if choice_logprobs and samples:
+                        num_choices = len(samples[0].options)
+                        filtered = {k: v for k, v in choice_logprobs.choice_logprobs.items() if 0 <= k < num_choices}
+                        if filtered:
+                            choice_logprobs = ChoiceLogprobs(choice_logprobs=filtered)
+                        else:
+                            choice_logprobs = None
                     if logger.isEnabledFor(logging.DEBUG):
                         logger.debug(
                             "    Batch %d: Final messages (after provider processing):\n%s",
@@ -487,6 +495,7 @@ class Benchmark:
                             latency_ms=elapsed_ms,
                             batch_id=batch_id,
                             timestamp=timestamp,
+                            logprobs=choice_logprobs,
                         )
                     )
                 else:
@@ -505,6 +514,7 @@ class Benchmark:
                                 latency_ms=per_sample_ms,
                                 batch_id=batch_id,
                                 timestamp=timestamp,
+                                logprobs=choice_logprobs,
                             )
                         )
 
