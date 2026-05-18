@@ -103,6 +103,7 @@ class BenchmarkResult:
     baseline_file: str = ""
     started_at: str = ""
     finished_at: str = ""
+    base_dir: str | None = None
 
     def __iter__(self):
         return iter(self.models)
@@ -131,10 +132,16 @@ class BenchmarkResult:
         - .json → structured JSON with all stats
         - .md or .txt → human-readable scientific summary
 
+        If ``base_dir`` is set on the BenchmarkResult and ``path`` is not
+        absolute, the path is resolved relative to ``base_dir``.
+
         Args:
             path: Output file path.
         """
         path = Path(path)
+        if self.base_dir and not path.is_absolute():
+            path = Path(self.base_dir) / path
+
         # Compute robustness lazily before saving
         self._compute_all_robustness()
 
@@ -144,7 +151,6 @@ class BenchmarkResult:
         elif suffix in (".md", ".txt"):
             self._save_report(str(path))
         else:
-            # Default to JSON
             self._save_json(str(path))
 
     def _save_json(self, path: str) -> None:
