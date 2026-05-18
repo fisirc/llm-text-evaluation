@@ -11,8 +11,7 @@ from __future__ import annotations
 import json
 import re
 
-from .types import CrossLingualLanguage, Sample, TaskType
-
+from .types import CrossLingualLanguage, Sample
 
 # ── System prompt ──────────────────────────────────────────────────────────────
 
@@ -109,9 +108,14 @@ def build_single_prompt(sample: Sample) -> str:
         Formatted user message string.
     """
     return (
-        f"Question (id: {sample.id}, type: {sample.task.value}):\n"
-        f"{sample.question}\n\n"
-        f"Options:\n{_format_options(sample.options)}"
+        f"<question id={sample.id} type={sample.task.value}>\n"
+        f"<content>"
+        f"{sample.question}"
+        f"</content>"
+        f"<options n={len(sample.options)}>\n"
+        f"{_format_options(sample.options)}"
+        f"</options>\n"
+        f"</question>\n"
     )
 
 
@@ -124,14 +128,10 @@ def build_batch_prompt(samples: list[Sample]) -> str:
     Returns:
         Formatted user message string with all questions.
     """
-    parts: list[str] = ["Answer each of the following questions:\n"]
+    parts: list[str] = ["<instructions>Answer each of the following questions</instructions>\n"]
 
     for i, sample in enumerate(samples, 1):
-        parts.append(
-            f"---\nQuestion {i} (id: {sample.id}, type: {sample.task.value}):\n"
-            f"{sample.question}\n\n"
-            f"Options:\n{_format_options(sample.options)}\n"
-        )
+        parts.append(build_single_prompt(sample))
 
     return "\n".join(parts)
 
@@ -229,20 +229,68 @@ def parse_batch_response(
 
 # ── Cross-lingual translation ──────────────────────────────────────────────────
 
-TRANSLATION_SYSTEM = """\
-You are a professional translator. Your task is to translate verbal reasoning \
-multiple-choice questions into {language_name}. You MUST translate EVERY word \
-of the text.
+TRANSLATION_SYSTEM_PROMPT = """\
+Translate the user's question & options into {language_name}.\nTags:\n\
+- The "question" tag contains the full question. Do not stop until you find the closing tag: </question>. It has a length property, and your translated question should roughly have the same length.\n\
+- The "options" tag contains a list of human readable posible answers to the question. Parse them until closing tag: </options>.\n\
+Produce ONLY the requested JSON. No extra text. Translate every word."""
 
-CRITICAL RULES:
-- Translate ALL text completely. Do NOT skip any sentence, paragraph, or \
-labelled item (I, II, III, etc.). EVERYTHING must be translated.
-- Translate ALL answer options completely. Every word in every option.
-- Preserve the exact meaning, nuance, and difficulty level.
-- Preserve all formatting: line breaks, roman numerals, option numbering.
-- The correct answer index must be preserved.
-- The number of options and their order must be preserved.
-- Your response must be valid JSON matching the required schema."""
+_LANGUAGE_NAMES: dict[CrossLingualLanguage, str] = {
+    CrossLingualLanguage.FRENCH: "French",
+    CrossLingualLanguage.CHINESE: "Chinese",
+}
+
+TRANSLATION_SINGLE_SCHEMA = {
+    "type": "json_schema",
+    "json_schema": {
+        "name": "translation_single",
+        "strict": True,
+        "schema": {
+            "type": "object",
+            "properties": {
+                "question": {
+                    "type": "string",
+                    "description": "Translated question text",
+                },
+            },
+            "required": ["question"],
+            "additionalProperties": False,
+        },
+    },
+}
+
+TRANSLATION_BATCH_SCHEMA = {
+    "type": "json_schema",
+    "json_schema": {
+        "name": "translation_batch",
+        "strict": True,
+        "schema": {
+            "type": "object",
+            "properties": {
+                "translations": {
+                    "type": "array",
+                    "items": {
+                        "type": "object",
+                        "properties": {
+                            "id": {
+                                "type": "integer",
+                                "description": "Sample ID from the question",
+                            },
+                            "question": {
+                                "type": "string",
+                                "description": "Translated question text",
+                            },
+                        },
+                        "required": ["id", "question"],
+                        "additionalProperties": False,
+                    },
+                },
+            },
+            "required": ["translations"],
+            "additionalProperties": False,
+        },
+    },
+}
 
 TRANSLATION_SINGLE_SCHEMA = {
     "type": "json_schema",
@@ -306,51 +354,43 @@ TRANSLATION_BATCH_SCHEMA = {
     },
 }
 
-_LANGUAGE_NAMES: dict[CrossLingualLanguage, str] = {
-    CrossLingualLanguage.FRENCH: "French",
-    CrossLingualLanguage.CHINESE: "Chinese",
-}
-
 
 def build_translation_messages(
     samples: list[Sample],
     language: CrossLingualLanguage,
 ) -> tuple[list[dict[str, str]], dict]:
     lang_name = _LANGUAGE_NAMES.get(language, language.value.capitalize())
-
     if len(samples) == 1:
         response_format = TRANSLATION_SINGLE_SCHEMA
         user_msg = _format_translation_user(samples, lang_name)
     else:
         response_format = TRANSLATION_BATCH_SCHEMA
         user_msg = _format_translation_batch_user(samples, lang_name)
-
-    system_msg = TRANSLATION_SYSTEM.format(language_name=lang_name)
-
+    system_msg = TRANSLATION_SYSTEM_PROMPT.format(language_name=lang_name)
     return (
         [{"role": "system", "content": system_msg}, {"role": "user", "content": user_msg}],
         response_format,
     )
 
-
 def _format_translation_user(samples: list[Sample], lang_name: str) -> str:
+    q = samples[0].question
     return (
-        f"Translate the following question and its answer options "
-        f"into {lang_name}:\n\n"
-        f"Question (id: {samples[0].id}):\n{samples[0].question}\n\n"
-        f"Options:\n{_format_options(samples[0].options)}"
+        f"<question length={len(q)}>\n"
+        f"{q}\n"
+        f"</question>\n"
+        f"<options n={len(samples[0].options)}>\n"
+        f"{_format_options(samples[0].options)}\n"
+        f"</options>"
     )
 
 
 def _format_translation_batch_user(samples: list[Sample], lang_name: str) -> str:
-    parts: list[str] = [
-        f"Translate each of the following questions and their answer options "
-        f"into {lang_name}:\n"
-    ]
+    parts: list[str] = []
     for i, s in enumerate(samples, 1):
         parts.append(
-            f"---\nQuestion {i} (id: {s.id}):\n{s.question}\n\n"
-            f"Options:\n{_format_options(s.options)}\n"
+            f"<sample id={s.id}>\n"
+            f"{_format_translation_user([s], lang_name)}\n"
+            f"</sample>"
         )
     return "\n".join(parts)
 
@@ -358,44 +398,41 @@ def _format_translation_batch_user(samples: list[Sample], lang_name: str) -> str
 def parse_translation_response(
     raw: str,
     expected_ids: list[int],
-) -> dict[int, dict[str, object]]:
-    results: dict[int, dict[str, object]] = {}
+) -> dict[int, str]:
+    """Return ``{sample_id: translated_question}``.  Options are NOT translated —
+    they are preserved from the baseline."""
+    results: dict[int, str] = {}
     expected_set = set(expected_ids)
 
+    raw_fixed = raw.replace('```json', '').replace('```', '').strip()
+
     try:
-        data = json.loads(raw.strip())
+        data = json.loads(raw_fixed)
+        if 'type' in data:
+            data = data['properties']
     except (json.JSONDecodeError, TypeError):
         return results
 
     if isinstance(data, dict):
         if "translations" in data:
             for item in data["translations"]:
-                _ingest_translation_item(item, expected_set, results)
-        elif "id" in data and "question" in data and "options" in data:
-            _ingest_translation_item(data, expected_set, results)
-        elif "question" in data and "options" in data and len(expected_ids) == 1:
-            _ingest_translation_item(
-                {"id": expected_ids[0], **data}, expected_set, results
-            )
+                _ingest(item, expected_set, results)
+        elif "id" in data and "question" in data:
+            _ingest(data, expected_set, results)
+        elif "question" in data and len(expected_ids) == 1:
+            _ingest({"id": expected_ids[0], "question": data["question"]}, expected_set, results)
 
     return results
 
 
-def _ingest_translation_item(
+def _ingest(
     item: object,
     expected_ids: set[int],
-    results: dict[int, dict[str, object]],
+    results: dict[int, str],
 ) -> None:
     if not isinstance(item, dict):
         return
     sid = item.get("id")
     question = item.get("question")
-    options = item.get("options")
-    if (
-        isinstance(sid, int)
-        and sid in expected_ids
-        and isinstance(question, str)
-        and isinstance(options, list)
-        and all(isinstance(o, str) for o in options)
-    ):
-        results[sid] = {"question": question, "options": options}
+    if isinstance(sid, int) and sid in expected_ids and isinstance(question, str):
+        results[sid] = question

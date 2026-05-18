@@ -27,7 +27,7 @@ def _analysis_path(
 ) -> Path:
     return (
         Path(partial_dir) / "analysis"
-        / f"{dataset_filename}.{model_slug}_{label}.json"
+        / f"{model_slug}_{label}.{dataset_filename}.json"
     )
 
 

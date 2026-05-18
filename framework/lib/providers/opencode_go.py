@@ -51,7 +51,7 @@ class OpencodeGo(BaseProvider):
         api_key: str,
         batch: int = 1,
         temperature: float = 0.0,
-        max_tokens: int | None = None,
+        max_tokens: int | None = 16384,
         enforce_json: bool = True,
         retry_times: int = 1,
         max_errors: int = 3,
@@ -116,8 +116,15 @@ class OpencodeGo(BaseProvider):
             else:
                 for msg in messages:
                     if msg["role"] == "system":
-                        msg["content"] += "\n\nExpected response schema:\n" + json.dumps(response_format, ensure_ascii=False)
+                        if "Expected response schema:" not in msg["content"]:
+                            msg["content"] += "\n\nExpected response schema:\n" + json.dumps(response_format['json_schema']['schema'], ensure_ascii=False)
                         break
+
+        if logger.isEnabledFor(logging.DEBUG):
+            logger.debug(
+                "Final OpenAI request messages:\n%s",
+                json.dumps(messages, ensure_ascii=False, indent=2),
+            )
 
         response = await self._client.chat.completions.create(**kwargs)
 
@@ -133,6 +140,26 @@ class OpencodeGo(BaseProvider):
         messages: list[dict[str, str]],
         response_format: dict | None,
     ) -> tuple[str, int, int]:
+        # Anthropic's native output_config structured output is only available on
+        # Claude models (Opus 4.5+, Sonnet 4.5+, Haiku 4.5+). MiniMax models
+        # (m2.5, m2.7) served through OpenCode Go are NOT Claude models, so we
+        # can't use native json_schema enforcement here — prompt injection is our
+        # only option.
+        if response_format:
+            schema_instruction = (
+                "\n\nIMPORTANT: You must respond with valid JSON following this types schema:\n"
+                + json.dumps(response_format['json_schema']['schema'], ensure_ascii=False)
+            )
+            appended = False
+            for msg in messages:
+                if msg["role"] == "system":
+                    if "IMPORTANT: You must respond with valid JSON" not in msg["content"]:
+                        msg["content"] += schema_instruction
+                    appended = True
+                    break
+            if not appended:
+                messages.insert(0, {"role": "system", "content": "Respond with valid JSON.\n" + schema_instruction})
+
         system = None
         api_messages: list[dict] = []
 
@@ -143,16 +170,6 @@ class OpencodeGo(BaseProvider):
                 system = content
             else:
                 api_messages.append({"role": role, "content": content})
-
-        if response_format and self.enforce_json:
-            schema_instruction = (
-                "\n\nIMPORTANT: You must respond with valid JSON matching this schema:\n"
-                + json.dumps(response_format, ensure_ascii=False)
-            )
-            if system:
-                system += schema_instruction
-            else:
-                system = "Respond with valid JSON.\n" + schema_instruction
 
         kwargs: dict = {
             "model": self.model,
@@ -165,6 +182,12 @@ class OpencodeGo(BaseProvider):
 
         if self.max_tokens is not None:
             kwargs["max_tokens"] = self.max_tokens
+
+        if logger.isEnabledFor(logging.DEBUG):
+            logger.debug(
+                "Final Anthropic request: system=%s, messages=%s",
+                system, json.dumps(api_messages, ensure_ascii=False, indent=2),
+            )
 
         response = await self._client.messages.create(**kwargs)
 

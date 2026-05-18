@@ -12,10 +12,13 @@ Auth: Not required locally. For remote servers behind a reverse proxy,
 from __future__ import annotations
 
 import json
+import logging
 
 from openai import AsyncOpenAI
 
 from .base import BaseProvider
+
+logger = logging.getLogger("llm_verbal_framework")
 
 
 class Ollama(BaseProvider):
@@ -94,8 +97,15 @@ class Ollama(BaseProvider):
             else:
                 for msg in messages:
                     if msg["role"] == "system":
-                        msg["content"] += "\n\nExpected response schema:\n" + json.dumps(response_format, ensure_ascii=False)
+                        if "Expected response schema:" not in msg["content"]:
+                            msg["content"] += "\n\nExpected response schema:\n" + json.dumps(response_format['json_schema']['schema'], ensure_ascii=False)
                         break
+
+        if logger.isEnabledFor(logging.DEBUG):
+            logger.debug(
+                "Final Ollama request messages:\n%s",
+                json.dumps(messages, ensure_ascii=False, indent=2),
+            )
 
         response = await self._client.chat.completions.create(**kwargs)
 

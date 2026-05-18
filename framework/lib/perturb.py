@@ -16,7 +16,8 @@ from pathlib import Path
 
 from .attacks import AttackType
 from .dataset import Dataset, load_dataset, validate_alignment
-from .types import Sample
+from .errors import log_error
+from .types import Sample, TaskType
 
 logger = logging.getLogger("llm_verbal_framework")
 
@@ -25,19 +26,21 @@ async def generate_perturbed_dataset(
     baseline: Dataset,
     attack: AttackType,
     partial_dir: str | Path,
+    session_id: str,
 ) -> Dataset:
     """Produce a perturbed dataset from a baseline.
 
     If ``attack.load_from`` is set the dataset is loaded directly and validated
     for structural alignment (same IDs, answers, option counts).  Otherwise the
     attack's ``perturb()`` is called asynchronously with progress persisted to
-    ``{partial_dir}/perturbations/{attack_name}/{label}.json`` so that
-    interrupted perturbations can resume.
+    ``{partial_dir}/perturbations/{attack_name}/{baseline}.{label}.json`` so
+    that interrupted perturbations can resume.
 
     Args:
         baseline: The baseline (unperturbed) dataset.
         attack: The attack/perturbation instance.
         partial_dir: Root directory for partial result files.
+        session_id: Benchmark session identifier for error logging.
 
     Returns:
         A validated Dataset tagged with the attack metadata.
@@ -60,7 +63,7 @@ async def generate_perturbed_dataset(
     label = attack.label or "default"
     perturb_path = (
         Path(partial_dir) / "perturbations" / attack.attack_name
-        / f"{baseline.filename}.{label}.json"
+        / f"{label}.json"
     )
 
     existing = _load_perturbation_partial(perturb_path)
@@ -77,11 +80,27 @@ async def generate_perturbed_dataset(
             "Perturbation '%s/%s': %d cached, %d remaining",
             attack.attack_name, label, len(existing), len(remaining),
         )
-        new_samples = await attack.perturb(remaining)
+        try:
+            new_samples = await attack.perturb(remaining)
+        except Exception as exc:
+            log_error(
+                partial_dir,
+                session_id,
+                phase="perturbation",
+                error_type="translation_failed",
+                provider=getattr(getattr(attack, "model", None), "provider_name", ""),
+                model=getattr(getattr(attack, "model", None), "display_name", ""),
+                dataset=baseline.filename,
+                attack_type=attack.attack_name,
+                attack_label=attack.label or "",
+                sample_ids=[s.id for s in remaining],
+                exception=exc,
+            )
+            raise
         existing.extend(new_samples)
         _save_perturbation_partial(perturb_path, attack, existing, len(baseline))
 
-    source = f"{baseline.filename}.{attack.attack_name}.json"
+    source = f"{baseline.filename}.{attack.attack_name}.{label}.json"
     ds = Dataset(samples=existing, source_file=source, attack=attack)
     validate_alignment(baseline, ds)
     logger.info("Perturbed dataset prepared and validated: %d samples", len(ds))

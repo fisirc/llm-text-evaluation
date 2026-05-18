@@ -17,6 +17,7 @@ from pathlib import Path
 
 from .attacks import AttackType
 from .dataset import Dataset, load_dataset
+from .errors import log_error
 from .partial import load_partial_results, save_partial_results
 from .perturb import generate_perturbed_dataset
 from .prompt import build_messages, parse_batch_response, parse_single_response
@@ -25,6 +26,10 @@ from .report import BenchmarkResult, DatasetResult, ModelResult
 from .types import EvaluatedSample
 
 logger = logging.getLogger("llm_verbal_framework")
+
+# Reduce verbosity of HTTP-level libraries
+logging.getLogger("httpcore").setLevel(logging.INFO)
+logging.getLogger("anthropic").setLevel(logging.INFO)
 
 
 @dataclass
@@ -190,7 +195,7 @@ class Benchmark:
                 "Processing attack: %s (%s)", attack.attack_name, attack.label
             )
             ds = await generate_perturbed_dataset(
-                self._baseline, attack, self._partial_dir
+                self._baseline, attack, self._partial_dir, started_at
             )
             self._attacked.append(ds)
             logger.info("  Prepared: %d samples", len(ds))
@@ -241,6 +246,17 @@ class Benchmark:
                             "  %s: ABORTING model — %d errors",
                             dataset.filename,
                             retry_state.total_errors,
+                        )
+                        log_error(
+                            self._partial_dir,
+                            started_at,
+                            phase="evaluation",
+                            error_type="model_aborted",
+                            provider=provider.provider_name,
+                            model=provider.display_name,
+                            dataset=dataset.filename,
+                            total_errors=retry_state.total_errors,
+                            max_errors=retry_state.max_errors,
                         )
                         break
                 else:
@@ -333,7 +349,8 @@ class Benchmark:
             logger.info("    Batch %d: Evaluating samples %s", batch_id, sample_ids)
 
             batch_results = await self._evaluate_batch(
-                provider, batch_samples, batch_id, semaphore, retry_state, dataset.filename
+                provider, batch_samples, batch_id, semaphore, retry_state,
+                dataset.filename, started_at,
             )
             if batch_results is None:
                 # All retries exhausted — no results to add or persist.
@@ -375,6 +392,7 @@ class Benchmark:
         semaphore: asyncio.Semaphore,
         retry_state: _RetryState,
         dataset_filename: str,
+        started_at: str,
     ) -> list[EvaluatedSample] | None:
         """Evaluate a batch of samples with retry logic.
 
@@ -385,10 +403,6 @@ class Benchmark:
             messages, response_format = build_messages(samples)
 
             if logger.isEnabledFor(logging.DEBUG):
-                logger.debug(
-                    "    Batch %d: Request messages:\n%s",
-                    batch_id, json.dumps(messages, ensure_ascii=False, indent=4),
-                )
                 logger.debug(
                     "    Batch %d: Response format:\n%s",
                     batch_id, json.dumps(response_format, ensure_ascii=False, indent=4),
@@ -405,15 +419,46 @@ class Benchmark:
                     logger.debug(
                         "    Batch %d: Raw response:\n%s", batch_id, raw_response,
                     )
+                    if logger.isEnabledFor(logging.DEBUG):
+                        logger.debug(
+                            "    Batch %d: Final messages (after provider processing):\n%s",
+                            batch_id, json.dumps(messages, ensure_ascii=False, indent=4),
+                        )
                 except Exception as e:
                     logger.error(
                         "    Batch %d attempt %d/%d failed: %s: %s",
                         batch_id, attempt + 1, retry_state.retry_times + 1,
                         type(e).__name__, e,
                     )
+                    log_error(
+                        self._partial_dir,
+                        started_at,
+                        phase="evaluation",
+                        error_type="api_error",
+                        provider=provider.provider_name,
+                        model=provider.display_name,
+                        dataset=dataset_filename,
+                        batch_id=batch_id,
+                        sample_ids=sample_ids,
+                        attempt=attempt + 1,
+                        max_attempts=retry_state.retry_times + 1,
+                        exception=e,
+                    )
                     if attempt == retry_state.retry_times:
                         # All retries exhausted
                         retry_state.record_failure(dataset_filename, sample_ids)
+                        log_error(
+                            self._partial_dir,
+                            started_at,
+                            phase="evaluation",
+                            error_type="batch_exhausted",
+                            provider=provider.provider_name,
+                            model=provider.display_name,
+                            dataset=dataset_filename,
+                            batch_id=batch_id,
+                            sample_ids=sample_ids,
+                            max_attempts=retry_state.retry_times + 1,
+                        )
                         logger.warning(
                             "    Batch %d: all %d attempts failed — skipping %d samples",
                             batch_id, retry_state.retry_times + 1, len(samples),

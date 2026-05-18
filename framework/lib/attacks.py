@@ -114,11 +114,10 @@ class CrossLingual(AttackType):
                 "environment variable or pass an explicit 'model'."
             )
         return OpencodeGo(
-            model="minimax-m2.5",
+            model="minimax-m2.7",
             api_key=api_key,
-            batch=10,
+            batch=3,
             temperature=0.0,
-            max_tokens=4096*2,
             enforce_json=True,
             retry_times=1,
             max_errors=1,
@@ -162,51 +161,78 @@ class CrossLingual(AttackType):
                     json.dumps(messages, ensure_ascii=False, indent=2),
                 )
 
-            start = time.perf_counter()
-            try:
-                raw_response, _, _ = await provider.complete(
-                    messages, response_format
-                )
-            except Exception as exc:
-                logger.error(
-                    "Translation batch %d failed: %s: %s",
-                    batch_idx, type(exc).__name__, exc,
-                )
-                raise
-
-            elapsed = time.perf_counter() - start
-            logger.info(
-                "Translation batch %d completed in %.1fs", batch_idx, elapsed,
-            )
-
-            if logger.isEnabledFor(logging.DEBUG):
-                logger.debug(
-                    "Translation batch %d raw response:\n%s",
-                    batch_idx, raw_response,
-                )
-
-            parsed = parse_translation_response(raw_response, sample_ids)
-
-            for s in batch_samples:
-                entry = parsed.get(s.id)
-                if entry is None:
-                    logger.warning(
-                        "Sample %d missing from translation response — "
-                        "using original text", s.id,
+            batch_translated: list[Sample] | None = None
+            for attempt in range(provider.retry_times + 1):
+                start = time.perf_counter()
+                try:
+                    raw_response, _, _ = await provider.complete(
+                        messages, response_format
                     )
-                    translated.append(s)
+                except Exception as exc:
+                    logger.error(
+                        "Translation batch %d attempt %d/%d failed: %s: %s",
+                        batch_idx, attempt + 1, provider.retry_times + 1,
+                        type(exc).__name__, exc,
+                    )
+                    if attempt == provider.retry_times:
+                        raise
                     continue
 
-                translated.append(
-                    Sample(
-                        id=s.id,
-                        task=s.task,
-                        question=entry["question"],
-                        options=tuple(entry["options"]),
-                        answer=s.answer,
-                        rationale=s.rationale,
-                    )
+                elapsed = time.perf_counter() - start
+                logger.info(
+                    "Translation batch %d completed in %.1fs (attempt %d)",
+                    batch_idx, elapsed, attempt + 1,
                 )
+
+                if logger.isEnabledFor(logging.DEBUG):
+                    logger.debug(
+                        "Translation batch %d raw response:\n%s",
+                        batch_idx, raw_response,
+                    )
+
+                parsed = parse_translation_response(raw_response, sample_ids)
+
+                # Validate every translated sample
+                batch_translated = []
+                failed: list[str] = []
+                for s in batch_samples:
+                    print(parsed, s)
+                    new_q = parsed.get(s.id)
+                    if new_q is None:
+                        failed.append(f"sample {s.id}: missing from response")
+                        continue
+                    if len(new_q) < len(s.question) * 0.25:
+                        failed.append(
+                            f"sample {s.id}: truncated ({len(s.question)}→{len(new_q)} chars)"
+                        )
+                        continue
+                    batch_translated.append(
+                        Sample(
+                            id=s.id,
+                            task=s.task,
+                            question=new_q,
+                            options=s.options,
+                            answer=s.answer,
+                            rationale=s.rationale,
+                        )
+                    )
+
+                if not failed:
+                    break
+
+                logger.warning(
+                    "Translation batch %d attempt %d/%d: %d validation errors — %s",
+                    batch_idx, attempt + 1, provider.retry_times + 1,
+                    len(failed), "; ".join(failed),
+                )
+                if attempt == provider.retry_times:
+                    raise RuntimeError(
+                        f"Translation batch {batch_idx} failed after "
+                        f"{provider.retry_times + 1} attempts: "
+                        f"{'; '.join(failed)}"
+                    )
+
+            translated.extend(batch_translated)
 
         return translated
 
