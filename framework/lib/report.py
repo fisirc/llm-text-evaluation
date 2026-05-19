@@ -12,6 +12,16 @@ from .metrics import DatasetMetrics, RobustnessMetrics, compute_accuracy, comput
 from .types import EvaluatedSample
 
 
+def _per_task_stats(results: list[EvaluatedSample]) -> dict[str, tuple[int, int]]:
+    """Return ``{task_value: (correct, total)}`` for a list of results."""
+    stats: dict[str, tuple[int, int]] = {}
+    for r in results:
+        task = r.task.value
+        c, t = stats.get(task, (0, 0))
+        stats[task] = (c + (1 if r.correct else 0), t + 1)
+    return stats
+
+
 @dataclass
 class DatasetResult:
     """Evaluation results for a single (model, dataset) pair.
@@ -253,14 +263,24 @@ class BenchmarkResult:
 
             lines.append("")
 
-            # Per-task accuracy for baseline
-            if baseline_ds:
-                lines.append("### Per-Task Accuracy (Baseline)")
+            # Per-task accuracy for each dataset
+            for ds in model_result.evaluated_datasets:
+                m = ds.metrics
+                if not m.accuracy_by_task:
+                    continue
+                attack_str = (
+                    f"{ds.attack.attack_name} ({ds.attack.label})"
+                    if ds.attack
+                    else "baseline"
+                )
+                lines.append(f"### Per-Task Accuracy — {attack_str}")
                 lines.append("")
-                lines.append("| Task | Accuracy |")
-                lines.append("|------|----------|")
-                for task, acc in sorted(baseline_ds.metrics.accuracy_by_task.items()):
-                    lines.append(f"| {task} | {acc:.2%} |")
+                lines.append("| Task | Correct | Total | Accuracy |")
+                lines.append("|------|---------|-------|----------|")
+                task_stats = _per_task_stats(ds.results)
+                for task, (correct, total) in sorted(task_stats.items()):
+                    acc = correct / total if total > 0 else 0.0
+                    lines.append(f"| {task} | {correct} | {total} | {acc:.2%} |")
                 lines.append("")
 
             # Robustness table

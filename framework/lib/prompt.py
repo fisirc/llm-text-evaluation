@@ -232,7 +232,7 @@ def parse_batch_response(
 TRANSLATION_SYSTEM_PROMPT = """\
 Translate the user's question & options into {language_name}.\nTags:\n\
 - The "question" tag contains the full question. Do not stop until you find the closing tag: </question>. It has a length property, and your translated question should roughly have the same length.\n\
-- The "options" tag contains a list of human readable possible answers to the question. Parse them until closing tag: </options>.\n\
+- The "options" tag contains a list of human readable possible answers to the question. Translate them them until closing tag: </options>.\n\
 \n\
 OUTPUT FORMAT — return ONLY a JSON object with a single key:\n\
   "translations": an array of objects, each with:\n\

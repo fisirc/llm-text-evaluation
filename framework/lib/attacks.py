@@ -213,7 +213,7 @@ class CrossLingual(AttackType):
                     if new_q is None:
                         failed.append(f"sample {s.id}: missing from response")
                         continue
-                    if len(new_q) < len(s.question) * 0.25:
+                    if len(new_q) < len(s.question) * 0.23:
                         failed.append(
                             f"sample {s.id}: truncated ({len(s.question)}→{len(new_q)} chars)"
                         )

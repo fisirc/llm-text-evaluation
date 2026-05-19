@@ -28,6 +28,7 @@ class DatasetMetrics:
     failed: int
     accuracy: float
     accuracy_by_task: dict[str, float]
+    per_task_counts: dict[str, dict[str, int]]
     avg_latency_ms: float
     total_time_s: float
 
@@ -40,6 +41,7 @@ class DatasetMetrics:
             "accuracy_by_task": {
                 k: round(v, 4) for k, v in self.accuracy_by_task.items()
             },
+            "per_task_counts": self.per_task_counts,
             "avg_latency_ms": round(self.avg_latency_ms, 2),
             "total_time_s": round(self.total_time_s, 2),
         }
@@ -97,6 +99,7 @@ def compute_accuracy(results: list[EvaluatedSample]) -> DatasetMetrics:
             failed=0,
             accuracy=0.0,
             accuracy_by_task={},
+            per_task_counts={},
             avg_latency_ms=0.0,
             total_time_s=0.0,
         )
@@ -118,6 +121,11 @@ def compute_accuracy(results: list[EvaluatedSample]) -> DatasetMetrics:
         for task in task_total
     }
 
+    per_task_counts = {
+        task: {"correct": task_correct.get(task, 0), "total": task_total[task]}
+        for task in task_total
+    }
+
     # Timing
     latencies = [r.latency_ms for r in results if r.latency_ms > 0]
     avg_latency = sum(latencies) / len(latencies) if latencies else 0.0
@@ -129,6 +137,7 @@ def compute_accuracy(results: list[EvaluatedSample]) -> DatasetMetrics:
         failed=failed,
         accuracy=correct / total if total > 0 else 0.0,
         accuracy_by_task=accuracy_by_task,
+        per_task_counts=per_task_counts,
         avg_latency_ms=avg_latency,
         total_time_s=total_time,
     )

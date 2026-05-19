@@ -212,12 +212,11 @@ class Benchmark:
             logger.info("  Prepared: %d samples", len(ds))
 
         all_datasets = [self._baseline] + self._attacked
+        semaphore = asyncio.Semaphore(self._concurrency)
 
-        model_results: list[ModelResult] = []
-        all_finished = True
-
-        for idx, provider in enumerate(self._models):
-            label = self._model_labels[idx]
+        async def _evaluate_one_model(
+            provider: BaseProvider, label: str,
+        ) -> tuple[ModelResult, bool]:
             logger.info(
                 "Evaluating model: %s (%s) [label=%s]",
                 provider.display_name, provider.provider_name, label,
@@ -230,21 +229,22 @@ class Benchmark:
                 retry_times=provider.retry_times,
                 max_errors=provider.max_errors,
             )
+            finished = True
 
             for dataset in all_datasets:
                 if retry_state.aborted:
-                    all_finished = False
+                    finished = False
                     break
 
                 ds_result = await self._evaluate_dataset(
-                    provider, dataset, label, started_at, retry_state
+                    provider, dataset, label, started_at, retry_state, semaphore,
                 )
                 model_result.evaluated_datasets.append(ds_result)
 
                 expected = len(dataset)
                 completed = len(ds_result.results)
                 if retry_state.aborted or completed < expected:
-                    all_finished = False
+                    finished = False
                     logger.warning(
                         "  %s: %d/%d completed (incomplete)",
                         dataset.filename,
@@ -271,15 +271,30 @@ class Benchmark:
                         )
                         break
                 else:
+                    m = ds_result.metrics
                     logger.info(
                         "  %s: %d/%d completed (%.1f%% accuracy)",
                         dataset.filename,
                         completed,
                         expected,
-                        ds_result.metrics.accuracy * 100,
+                        m.accuracy * 100,
                     )
+                    if m.accuracy_by_task:
+                        per_task = " ".join(
+                            f"{task}={acc:.0%}" for task, acc in sorted(m.accuracy_by_task.items())
+                        )
+                        logger.info("    per-task: %s", per_task)
 
-            model_results.append(model_result)
+            return model_result, finished
+
+        tasks = [
+            _evaluate_one_model(provider, self._model_labels[idx])
+            for idx, provider in enumerate(self._models)
+        ]
+        pairs = await asyncio.gather(*tasks)
+
+        model_results = [p[0] for p in pairs]
+        all_finished = all(p[1] for p in pairs)
 
         finished_at = datetime.now(timezone.utc).isoformat()
 
@@ -396,6 +411,7 @@ class Benchmark:
         model_label: str,
         started_at: str,
         retry_state: _RetryState,
+        semaphore: asyncio.Semaphore,
     ) -> DatasetResult:
         """Evaluate a single (model, dataset) combination.
 
@@ -443,7 +459,6 @@ class Benchmark:
         for i in range(0, len(remaining), provider.batch_size):
             batches.append(remaining[i : i + provider.batch_size])
 
-        semaphore = asyncio.Semaphore(self._concurrency)
         batch_counter = len(completed_ids) // max(provider.batch_size, 1)
 
         for batch_idx, batch_samples in enumerate(batches):
