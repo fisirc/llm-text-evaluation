@@ -114,7 +114,7 @@ class Benchmark:
         self._attacks = attacks or []
         self._models = models or []
 
-        # ── Validate attack labels are unique ──
+        # -- Validate attack labels are unique --
         seen_labels: dict[str, str] = {}
         for a in self._attacks:
             if a.label is None:
@@ -130,7 +130,7 @@ class Benchmark:
                 )
             seen_labels[a.label] = a.attack_name
 
-        # ── Validate model labels ──
+        # -- Validate model labels --
         self._model_labels: list[str] = []
         slug_counts = Counter(m.model_slug for m in self._models)
         seen_slug_labels: dict[str, set[str]] = {}
@@ -154,7 +154,7 @@ class Benchmark:
             else:
                 self._model_labels.append(m.label or "base")
 
-        # ── Directory setup ──
+        # -- Directory setup --
         if base_dir is not None:
             base_dir = Path(base_dir)
             base_dir.mkdir(parents=True, exist_ok=True)
@@ -164,7 +164,7 @@ class Benchmark:
             self._partial_dir = Path(partial_results_dir)
             self._base_dir = None
 
-        # ── Load baseline ──
+        # -- Load baseline --
         logger.info("Loading baseline dataset: %s", baseline)
         self._baseline = load_dataset(baseline, attack=None)
         logger.info(
@@ -199,7 +199,7 @@ class Benchmark:
         """Async implementation of the benchmark pipeline."""
         started_at = datetime.now(timezone.utc).isoformat()
 
-        # ── Generate perturbed datasets asynchronously ──
+        # -- Generate perturbed datasets asynchronously --
         self._attacked: list[Dataset] = []
         for attack in self._attacks:
             logger.info(
@@ -321,7 +321,7 @@ class Benchmark:
 
         analysis_dir = self._partial_dir / "analysis"
 
-        # ── Build dataset_filename → attack mapping ────────────────────────
+        # -- Build dataset_filename → attack mapping ------------------------
         dataset_attack_map: dict[str, AttackType | None] = {}
         dataset_attack_map[self._baseline.filename] = None
         for attack in self._attacks:
@@ -331,7 +331,7 @@ class Benchmark:
                 filename = f"{attack.attack_name}.{attack.label or 'default'}.json"
             dataset_attack_map[filename] = attack
 
-        # ── Load partials grouped by (model_name, provider) ─────────────────
+        # -- Load partials grouped by (model_name, provider) -------------
         model_map: dict[tuple[str, str], dict[str, list[EvaluatedSample]]] = {}
         earliest_started = started_at
 
@@ -375,7 +375,7 @@ class Benchmark:
                     except (KeyError, ValueError):
                         continue
 
-        # ── Build ModelResult objects ───────────────────────────────────────
+        # -- Build ModelResult objects -----------------------------------
         model_results: list[ModelResult] = []
         for (model_name, provider), datasets in model_map.items():
             model_result = ModelResult(model_name=model_name, provider=provider)

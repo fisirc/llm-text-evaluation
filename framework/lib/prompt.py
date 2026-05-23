@@ -13,7 +13,7 @@ import re
 
 from .types import CrossLingualLanguage, Sample
 
-# ── System prompt ──────────────────────────────────────────────────────────────
+# -- System promp
 
 SYSTEM_PROMPT = """\
 You are an expert evaluator for verbal reasoning tasks in Spanish.
@@ -35,7 +35,7 @@ RULES:
 - Provide ONLY the answer index, no explanations."""
 
 
-# ── JSON schemas ───────────────────────────────────────────────────────────────
+# -- JSON schemas
 
 SINGLE_ANSWER_SCHEMA = {
     "type": "json_schema",
@@ -90,7 +90,7 @@ BATCH_ANSWER_SCHEMA = {
 }
 
 
-# ── Prompt building ────────────────────────────────────────────────────────────
+# -- Prompt building
 
 
 def _format_options(options: tuple[str, ...]) -> str:
@@ -162,7 +162,7 @@ def build_messages(
     return messages, response_format
 
 
-# ── Response parsing ───────────────────────────────────────────────────────────
+# -- Response parsin
 
 
 def parse_single_response(raw: str) -> int | None:
@@ -227,7 +227,7 @@ def parse_batch_response(
     return results
 
 
-# ── Cross-lingual translation ──────────────────────────────────────────────────
+# -- Cross-lingual translation
 
 TRANSLATION_SYSTEM_PROMPT = """\
 Translate the user's question & options into {language_name}.\nTags:\n\

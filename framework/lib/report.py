@@ -6,9 +6,16 @@ import json
 from dataclasses import dataclass, field
 from datetime import datetime
 from pathlib import Path
+from typing import Any
 
 from .attacks import AttackType
-from .metrics import DatasetMetrics, RobustnessMetrics, compute_accuracy, compute_robustness
+from .metrics import (
+    DatasetMetrics,
+    RobustnessMetrics,
+    compute_accuracy,
+    compute_robustness,
+    compute_robustness_per_task,
+)
 from .types import EvaluatedSample
 
 
@@ -29,6 +36,12 @@ class DatasetResult:
     results: list[EvaluatedSample]
     _metrics: DatasetMetrics | None = field(default=None, repr=False)
     _robustness: RobustnessMetrics | None = field(default=None, repr=False)
+    _per_task_robustness: dict[str, RobustnessMetrics] | None = field(
+        default=None, repr=False
+    )
+    _pairwise_robustness: dict[str, RobustnessMetrics] | None = field(
+        default=None, repr=False
+    )
 
     @property
     def metrics(self) -> DatasetMetrics:
@@ -52,6 +65,13 @@ class DatasetResult:
             d["robustness"] = self._robustness.to_dict()
         return d
 
+    @property
+    def attack_label(self) -> str:
+        """Short label used as a JSON key for this dataset (e.g. ``"french_base"``)."""
+        if self.attack is None:
+            return "baseline"
+        return self.attack.label or "default"
+
     def compute_robustness_against(
         self, baseline: DatasetResult
     ) -> None:
@@ -61,6 +81,9 @@ class DatasetResult:
             baseline: The baseline DatasetResult to compare against.
         """
         self._robustness = compute_robustness(baseline.results, self.results)
+        self._per_task_robustness = compute_robustness_per_task(
+            baseline.results, self.results
+        )
 
 
 @dataclass
@@ -109,49 +132,78 @@ class BenchmarkResult:
         return iter(self.models)
 
     def _compute_all_robustness(self) -> None:
-        """Compute robustness metrics for all attacked datasets."""
+        """Compute robustness metrics for all attacked datasets.
+
+        Also computes per-task robustness and pairwise attack-vs-attack
+        robustness (e.g. French↔Chinese).
+        """
         for model_result in self.models:
-            # Find baseline
             baseline = None
+            attacked: list[DatasetResult] = []
+
             for ds in model_result.evaluated_datasets:
                 if ds.attack is None:
                     baseline = ds
-                    break
+                else:
+                    attacked.append(ds)
 
             if baseline is None:
                 continue
 
-            for ds in model_result.evaluated_datasets:
-                if ds.attack is not None and ds._robustness is None:
+            # -- baseline-vs-attack (existing) --
+            for ds in attacked:
+                if ds._robustness is None:
                     ds.compute_robustness_against(baseline)
 
-    def save(self, path: str | Path) -> None:
+            # -- pairwise attack-vs-attack --
+            for i, ds_a in enumerate(attacked):
+                if ds_a._pairwise_robustness is None:
+                    ds_a._pairwise_robustness = {}
+                for j, ds_b in enumerate(attacked):
+                    if i == j:
+                        continue
+                    if ds_b.dataset_file not in ds_a._pairwise_robustness:
+                        ds_a._pairwise_robustness[ds_b.dataset_file] = (
+                            compute_robustness(ds_b.results, ds_a.results)
+                        )
+
+    def save(self, path: str | Path, per_sample: bool = False) -> None:
         """Export benchmark results to file.
 
         File format is determined by extension:
         - .json → structured JSON with all stats
         - .md or .txt → human-readable scientific summary
 
+        If ``per_sample=True``, JSON exports include per-sample predictions
+        for all (model, dataset) pairs, enabling interactive sankey, upset,
+        beeswarm, and sunburst visualizations in downstream consumers.
+
         If ``base_dir`` is set on the BenchmarkResult and ``path`` is not
         absolute, the path is resolved relative to ``base_dir``.
 
         Args:
             path: Output file path.
+            per_sample: Include per-sample outcomes in JSON output.
         """
         path = Path(path)
         if self.base_dir and not path.is_absolute():
             path = Path(self.base_dir) / path
 
-        # Compute robustness lazily before saving
         self._compute_all_robustness()
 
         suffix = path.suffix
         if suffix == ".json":
-            self._save_json(str(path))
+            if per_sample:
+                self._save_json_with_samples(str(path))
+            else:
+                self._save_json(str(path))
         elif suffix in (".md", ".txt"):
             self._save_report(str(path))
         else:
-            self._save_json(str(path))
+            if per_sample:
+                self._save_json_with_samples(str(path))
+            else:
+                self._save_json(str(path))
 
     def _save_json(self, path: str) -> None:
         """Export as structured JSON."""
@@ -165,7 +217,77 @@ class BenchmarkResult:
             if total_samples > 0:
                 break
 
-        output = {
+        output: dict[str, Any] = {
+            "benchmark_info": {
+                "started_at": self.started_at,
+                "finished_at": self.finished_at,
+                "is_finished": self.is_finished,
+                "baseline_dataset": self.baseline_file,
+                "total_samples": total_samples,
+            },
+            "models": [],
+        }
+
+        for model_result in self.models:
+            model_data: dict[str, Any] = {
+                "model": model_result.model_name,
+                "provider": model_result.provider,
+                "datasets": [],
+            }
+
+            for ds in model_result.evaluated_datasets:
+                ds_data: dict[str, Any] = {
+                    "file": ds.dataset_file,
+                    "attack": (
+                        {"type": ds.attack.attack_name, "label": ds.attack.label}
+                        if ds.attack
+                        else None
+                    ),
+                    "metrics": ds.metrics.to_dict(),
+                    "robustness": (
+                        ds._robustness.to_dict() if ds._robustness else None
+                    ),
+                }
+                if ds._per_task_robustness:
+                    ds_data["robustness_per_task"] = {
+                        task: rm.to_dict()
+                        for task, rm in ds._per_task_robustness.items()
+                    }
+                if ds._pairwise_robustness:
+                    ds_data["pairwise_robustness"] = {
+                        other: rm.to_dict()
+                        for other, rm in ds._pairwise_robustness.items()
+                    }
+                model_data["datasets"].append(ds_data)
+
+            output["models"].append(model_data)
+
+        with open(path, "w", encoding="utf-8") as f:
+            json.dump(output, f, ensure_ascii=False, indent=2)
+
+    def _save_json_with_samples(self, path: str) -> None:
+        """Export as JSON including per-sample predictions.
+
+        Produces a file with two top-level sections:
+        ``aggregates`` — the same compact summary as ``_save_json``.
+        ``per_sample`` — a dict keyed by ``sample_id`` containing the
+        task, expected answer, and per-model/per-attack outcomes
+        (predicted index, correctness, and latency).
+
+        This format enables downstream interactive visualizations
+        (sankey, upset, beeswarm, sunburst) directly from the JSON.
+        """
+        total_samples = 0
+        for model_result in self.models:
+            for ds in model_result.evaluated_datasets:
+                if ds.attack is None:
+                    total_samples = len(ds.results)
+                    break
+            if total_samples > 0:
+                break
+
+        # -- Build the aggregates section (same as _save_json) --
+        aggregates: dict[str, Any] = {
             "benchmark_info": {
                 "started_at": self.started_at,
                 "finished_at": self.finished_at,
@@ -182,7 +304,6 @@ class BenchmarkResult:
                 "provider": model_result.provider,
                 "datasets": [],
             }
-
             for ds in model_result.evaluated_datasets:
                 ds_data: dict = {
                     "file": ds.dataset_file,
@@ -196,9 +317,48 @@ class BenchmarkResult:
                         ds._robustness.to_dict() if ds._robustness else None
                     ),
                 }
+                if ds._per_task_robustness:
+                    ds_data["robustness_per_task"] = {
+                        task: rm.to_dict()
+                        for task, rm in ds._per_task_robustness.items()
+                    }
+                if ds._pairwise_robustness:
+                    ds_data["pairwise_robustness"] = {
+                        other: rm.to_dict()
+                        for other, rm in ds._pairwise_robustness.items()
+                    }
                 model_data["datasets"].append(ds_data)
+            aggregates["models"].append(model_data)
 
-            output["models"].append(model_data)
+        # -- Build per_sample section --
+        per_sample: dict[str, Any] = {}
+
+        for model_result in self.models:
+            for ds in model_result.evaluated_datasets:
+                label = ds.attack_label
+                for r in ds.results:
+                    sid = str(r.sample_id)
+                    if sid not in per_sample:
+                        per_sample[sid] = {
+                            "sample_id": r.sample_id,
+                            "task": r.task.value,
+                            "expected": r.expected,
+                        }
+                    sample_entry = per_sample[sid]
+                    sample_entry.setdefault("models", {})
+                    sample_entry["models"].setdefault(
+                        model_result.model_name, {}
+                    )[label] = {
+                        "predicted": r.predicted,
+                        "correct": r.correct,
+                        "latency_ms": round(r.latency_ms, 2),
+                    }
+
+        output = {
+            "benchmark_info": aggregates.pop("benchmark_info"),
+            "aggregates": aggregates,
+            "per_sample": per_sample,
+        }
 
         with open(path, "w", encoding="utf-8") as f:
             json.dump(output, f, ensure_ascii=False, indent=2)

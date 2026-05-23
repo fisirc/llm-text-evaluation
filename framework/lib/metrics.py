@@ -139,6 +139,43 @@ def compute_accuracy(results: list[EvaluatedSample]) -> DatasetMetrics:
     )
 
 
+def compute_robustness_per_task(
+    baseline_results: list[EvaluatedSample],
+    attacked_results: list[EvaluatedSample],
+) -> dict[str, RobustnessMetrics]:
+    """Compute robustness metrics broken down by task type.
+
+    Groups samples by their ``task`` field and runs ``compute_robustness``
+    on each subset independently.
+
+    Args:
+        baseline_results: Results from the baseline dataset.
+        attacked_results: Results from the attacked dataset.
+
+    Returns:
+        Dict mapping task value (e.g. ``"analogies"``) → RobustnessMetrics.
+        Tasks with fewer than 1 common sample are omitted.
+    """
+    baseline_map = {r.sample_id: r for r in baseline_results}
+    attacked_map = {r.sample_id: r for r in attacked_results}
+    common_ids = set(baseline_map) & set(attacked_map)
+
+    if not common_ids:
+        return {}
+
+    task_samples: dict[str, list[int]] = defaultdict(list)
+    for sid in common_ids:
+        task_samples[baseline_map[sid].task.value].append(sid)
+
+    result: dict[str, RobustnessMetrics] = {}
+    for task, ids in task_samples.items():
+        bl = [baseline_map[sid] for sid in ids]
+        at = [attacked_map[sid] for sid in ids]
+        result[task] = compute_robustness(bl, at)
+
+    return result
+
+
 def _spearman_rho(
     x: list[float],
     y: list[float],
