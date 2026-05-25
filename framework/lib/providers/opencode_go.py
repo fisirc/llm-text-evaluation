@@ -82,14 +82,14 @@ class OpencodeGo(BaseProvider):
                 base_url="https://opencode.ai/zen/go",
                 api_key=api_key,
                 max_retries=0,
-                timeout=120.0,
+                timeout=300.0,
             )
         else:
             self._client = AsyncOpenAI(
                 base_url="https://opencode.ai/zen/go/v1",
                 api_key=api_key,
                 max_retries=0,
-                timeout=120.0,
+                timeout=300.0,
             )
 
     @property

@@ -227,12 +227,14 @@ def parse_batch_response(
     return results
 
 
-# -- Cross-lingual translation
+# -- Cross-lingual translation -------------------------------------------------
 
 TRANSLATION_SYSTEM_PROMPT = """\
 Translate the user's question & options into {language_name}.\nTags:\n\
 - The "question" tag contains the full question. Do not stop until you find the closing tag: </question>. It has a length property, and your translated question should roughly have the same length.\n\
-- The "options" tag contains a list of human readable possible answers to the question. Translate them them until closing tag: </options>.\n\
+- The "options" tag contains a list of human readable possible answers to the question. Translate them until closing tag: </options>.\n\
+\n\
+You MUST translate BOTH the question AND every option. Do NOT leave any option in the original language.\n\
 \n\
 OUTPUT FORMAT — return ONLY a JSON object with a single key:\n\
   "translations": an array of objects, each with:\n\
@@ -242,61 +244,256 @@ OUTPUT FORMAT — return ONLY a JSON object with a single key:\n\
 \n\
 Do NOT wrap the JSON in markdown code blocks. No extra text. Translate every word."""
 
-_LANGUAGE_NAMES: dict[CrossLingualLanguage, str] = {
-    CrossLingualLanguage.FRENCH: "French",
-    CrossLingualLanguage.CHINESE: "Chinese",
+_TRANSLATION_EXAMPLES: dict[CrossLingualLanguage, str] = {
+    CrossLingualLanguage.FRENCH: """\
+EXEMPLE 1 — Entrée :
+<question length=40>
+Indique el sinónimo de "valiente".
+</question>
+<options n=4>
+0) cobarde
+1) audaz
+2) tímido
+3) perezoso
+</options>
+
+EXEMPLE 1 — Sortie :
+{"translations": [{"id": 0, "question": "Indiquez le synonyme de \\"courageux\\".", "options": ["lâche", "audacieux", "timide", "paresseux"]}]}
+
+EXEMPLE 2 — Entrée (options en chiffres romains — ne PAS traduire les options) :
+<question length=120>
+Ordene las oraciones. I) La Revolución Francesa cambió Europa. II) Los filósofos alemanes quedaron fascinados. III) Hegel reflexionó sobre este evento.
+</question>
+<options n=3>
+0) I - II - III
+1) III - II - I
+2) II - I - III
+</options>
+
+EXEMPLE 2 — Sortie :
+{"translations": [{"id": 1, "question": "Ordonnez les phrases. I) La Révolution française a changé l'Europe. II) Les philosophes allemands ont été fascinés. III) Hegel a réfléchi à cet événement.", "options": ["I - II - III", "III - II - I", "II - I - III"]}]}""",
+    CrossLingualLanguage.CHINESE: """\
+示例1 — 输入：
+<question length=40>
+Indique el sinónimo de "valiente".
+</question>
+<options n=4>
+0) cobarde
+1) audaz
+2) tímido
+3) perezoso
+</options>
+
+示例1 — 输出：
+{"translations": [{"id": 0, "question": "指出\\"勇敢\\"的近义词。", "options": ["胆小的", "大胆的", "害羞的", "懒惰的"]}]}
+
+示例2 — 输入（选项为罗马数字——不要翻译选项）：
+<question length=120>
+Ordene las oraciones. I) La Revolución Francesa cambió Europa. II) Los filósofos alemanes quedaron fascinados. III) Hegel reflexionó sobre este evento.
+</question>
+<options n=3>
+0) I - II - III
+1) III - II - I
+2) II - I - III
+</options>
+
+示例2 — 输出：
+{"translations": [{"id": 1, "question": "排列句子顺序。I) 法国大革命改变了欧洲。II) 德国哲学家为之着迷。III) 黑格尔对这一事件进行了反思。", "options": ["I - II - III", "III - II - I", "II - I - III"]}]}""",
+    CrossLingualLanguage.ARABIC: """\
+مثال 1 — الإدخال:
+<question length=40>
+Indique el sinónimo de "valiente".
+</question>
+<options n=4>
+0) cobarde
+1) audaz
+2) tímido
+3) perezoso
+</options>
+
+مثال 1 — الإخراج:
+{"translations": [{"id": 0, "question": "حدد مرادف \\"شجاع\\".", "options": ["جبان", "جريء", "خجول", "كسول"]}]}
+
+مثال 2 — الإدخال (خيارات بأرقام رومانية — لا تترجم الخيارات):
+<question length=120>
+Ordene las oraciones. I) La Revolución Francesa cambió Europa. II) Los filósofos alemanes quedaron fascinados. III) Hegel reflexionó sobre este evento.
+</question>
+<options n=3>
+0) I - II - III
+1) III - II - I
+2) II - I - III
+</options>
+
+مثال 2 — الإخراج:
+{"translations": [{"id": 1, "question": "رتّب الجمل. I) غيرت الثورة الفرنسية أوروبا. II) انبهر الفلاسفة الألمان. III) تأمل هيغل في هذا الحدث.", "options": ["I - II - III", "III - II - I", "II - I - III"]}]}""",
+    CrossLingualLanguage.JAPANESE: """\
+例1 — 入力：
+<question length=40>
+Indique el sinónimo de "valiente".
+</question>
+<options n=4>
+0) cobarde
+1) audaz
+2) tímido
+3) perezoso
+</options>
+
+例1 — 出力：
+{"translations": [{"id": 0, "question": "\\"勇敢\\"の同義語を示しなさい。", "options": ["臆病な", "大胆な", "内気な", "怠惰な"]}]}
+
+例2 — 入力（ローマ数字のオプション — オプションは翻訳しないでください）：
+<question length=120>
+Ordene las oraciones. I) La Revolución Francesa cambió Europa. II) Los filósofos alemanes quedaron fascinados. III) Hegel reflexionó sobre este evento.
+</question>
+<options n=3>
+0) I - II - III
+1) III - II - I
+2) II - I - III
+</options>
+
+例2 — 出力：
+{"translations": [{"id": 1, "question": "文を並べ替えなさい。I) フランス革命はヨーロッパを変えた。II) ドイツの哲学者たちは魅了された。III) ヘーゲルはこの出来事について考察した。", "options": ["I - II - III", "III - II - I", "II - I - III"]}]}""",
+    CrossLingualLanguage.SWAHILI: """\
+Mfano 1 — Pembejeo:
+<question length=40>
+Indique el sinónimo de "valiente".
+</question>
+<options n=4>
+0) cobarde
+1) audaz
+2) tímido
+3) perezoso
+</options>
+
+Mfano 1 — Matokeo:
+{"translations": [{"id": 0, "question": "Onyesha kihusishi cha \\"jasiri\\".", "options": ["mwoga", "shupavu", "aibu", "vivu"]}]}
+
+Mfano 2 — Pembejeo (chaguzi za namba za Kiroma — USITAFSIRI chaguzi):
+<question length=120>
+Ordene las oraciones. I) La Revolución Francesa cambió Europa. II) Los filósofos alemanes quedaron fascinados. III) Hegel reflexionó sobre este evento.
+</question>
+<options n=3>
+0) I - II - III
+1) III - II - I
+2) II - I - III
+</options>
+
+Mfano 2 — Matokeo:
+{"translations": [{"id": 1, "question": "Panga sentensi. I) Mapinduzi ya Ufaransa yalibadilisha Ulaya. II) Wanafalsafa wa Kijerumani walishangaa. III) Hegel alifikiria kuhusu tukio hili.", "options": ["I - II - III", "III - II - I", "II - I - III"]}]}""",
+    CrossLingualLanguage.RUSSIAN: """\
+Пример 1 — Ввод:
+<question length=40>
+Indique el sinónimo de "valiente".
+</question>
+<options n=4>
+0) cobarde
+1) audaz
+2) tímido
+3) perezoso
+</options>
+
+Пример 1 — Вывод:
+{"translations": [{"id": 0, "question": "Укажите синоним слова \\"храбрый\\".", "options": ["трусливый", "смелый", "застенчивый", "ленивый"]}]}
+
+Пример 2 — Ввод (варианты с римскими цифрами — НЕ переводите варианты):
+<question length=120>
+Ordene las oraciones. I) La Revolución Francesa cambió Europa. II) Los filósofos alemanes quedaron fascinados. III) Hegel reflexionó sobre este evento.
+</question>
+<options n=3>
+0) I - II - III
+1) III - II - I
+2) II - I - III
+</options>
+
+Пример 2 — Вывод:
+{"translations": [{"id": 1, "question": "Расставьте предложения по порядку. I) Французская революция изменила Европу. II) Немецкие философы были очарованы. III) Гегель размышлял об этом событии.", "options": ["I - II - III", "III - II - I", "II - I - III"]}]}""",
 }
 
-TRANSLATION_SINGLE_SCHEMA = {
-    "type": "json_schema",
-    "json_schema": {
-        "name": "translation_single",
-        "strict": True,
-        "schema": {
-            "type": "object",
-            "properties": {
-                "question": {
-                    "type": "string",
-                    "description": "Translated question text",
-                },
-            },
-            "required": ["question"],
-            "additionalProperties": False,
-        },
-    },
-}
-
-TRANSLATION_BATCH_SCHEMA = {
-    "type": "json_schema",
-    "json_schema": {
-        "name": "translation_batch",
-        "strict": True,
-        "schema": {
-            "type": "object",
-            "properties": {
-                "translations": {
-                    "type": "array",
-                    "items": {
-                        "type": "object",
-                        "properties": {
-                            "id": {
-                                "type": "integer",
-                                "description": "Sample ID from the question",
-                            },
-                            "question": {
-                                "type": "string",
-                                "description": "Translated question text",
-                            },
-                        },
-                        "required": ["id", "question"],
-                        "additionalProperties": False,
-                    },
-                },
-            },
-            "required": ["translations"],
-            "additionalProperties": False,
-        },
-    },
+_TRANSLATION_SYSTEM_PROMPTS: dict[CrossLingualLanguage, str] = {
+    CrossLingualLanguage.FRENCH: """\
+Traduisez la question et les options de l'utilisateur en français.\nBalises :\n\
+- La balise « question » contient la question complète. Ne vous arrêtez pas avant d'avoir trouvé la balise de fermeture : </question>. Elle possède une propriété de longueur, et votre question traduite devrait avoir approximativement la même longueur.\n\
+- La balise « options » contient une liste de réponses possibles lisibles. Traduisez-les jusqu'à la balise de fermeture : </options>.\n\
+\n\
+Vous DEVEZ traduire ET la question ET chaque option. Ne laissez AUCUNE option dans la langue d'origine.\n\
+\n\
+FORMAT DE SORTIE — retournez UNIQUEMENT un objet JSON avec une seule clé :\n\
+  "translations" : un tableau d'objets, chacun contenant :\n\
+    "id" :       l'identifiant de l'échantillon (entier)\n\
+    "question" : texte de la question traduite (chaîne)\n\
+    "options" :  options de réponse traduites dans l'ordre d'origine (tableau de chaînes)\n\
+\n\
+Ne PAS envelopper le JSON dans des blocs de code markdown. Pas de texte supplémentaire. Traduisez chaque mot.""",
+    CrossLingualLanguage.CHINESE: """\
+将用户的问题和选项翻译成中文。\n标签：\n\
+- "question"标签包含完整的问题。在找到闭合标签</question>之前不要停止。它有一个length属性，翻译后的问题长度应大致相同。\n\
+- "options"标签包含一组可读的可能答案。翻译它们直到闭合标签</options>。\n\
+\n\
+您必须翻译问题和每个选项。不要将任何选项保留在原始语言中。\n\
+\n\
+输出格式 — 仅返回一个包含单个键的JSON对象：\n\
+  "translations"：一个对象数组，每个对象包含：\n\
+    "id"：      样本ID（整数）\n\
+    "question"：翻译后的问题文本（字符串）\n\
+    "options"： 按原始顺序翻译的答案选项（字符串数组）\n\
+\n\
+不要将JSON包裹在markdown代码块中。不要添加额外文本。翻译每个词。""",
+    CrossLingualLanguage.ARABIC: """\
+ترجم سؤال المستخدم وخياراته إلى العربية.\nالعلامات:\n\
+- تحتوي علامة "question" على السؤال الكامل. لا تتوقف حتى تجد علامة الإغلاق: </question>. يحتوي على خاصية الطول، ويجب أن يكون طول سؤالك المترجم تقريبًا نفس الطول.\n\
+- تحتوي علامة "options" على قائمة بالإجابات الممكنة المقروءة. ترجمها حتى علامة الإغلاق: </options>.\n\
+\n\
+يجب عليك ترجمة السؤال وكل خيار. لا تترك أي خيار باللغة الأصلية.\n\
+\n\
+تنسيق الإخراج — أعد فقط كائن JSON بمفتاح واحد:\n\
+  "translations": مصفوفة من الكائنات، كل منها يحتوي على:\n\
+    "id":       معرف العينة (عدد صحيح)\n\
+    "question": نص السؤال المترجم (سلسلة)\n\
+    "options":  خيارات الإجابة المترجمة بالترتيب الأصلي (مصفوفة سلاسل)\n\
+\n\
+لا تقم بلف JSON في كتل كود markdown. لا نص إضافي. ترجم كل كلمة.""",
+    CrossLingualLanguage.JAPANESE: """\
+ユーザーの質問とオプションを日本語に翻訳してください。\nタグ：\n\
+- "question"タグには完全な質問が含まれています。終了タグ</question>が見つかるまで停止しないでください。lengthプロパティがあり、翻訳された質問の長さはほぼ同じである必要があります。\n\
+- "options"タグには、読み取り可能な回答のリストが含まれています。終了タグ</options>まで翻訳してください。\n\
+\n\
+質問と各オプションの両方を翻訳する必要があります。元の言語のままにしないでください。\n\
+\n\
+出力形式 — 単一のキーを持つJSONオブジェクトのみを返してください：\n\
+  "translations"：オブジェクトの配列、各オブジェクトには：\n\
+    "id"：       サンプルID（整数）\n\
+    "question"： 翻訳された質問テキスト（文字列）\n\
+    "options"：  元の順序で翻訳された回答オプション（文字列の配列）\n\
+\n\
+JSONをマークダウンコードブロックで囲まないでください。余分なテキストは不要。すべての単語を翻訳してください。""",
+    CrossLingualLanguage.SWAHILI: """\
+Tafsiri swali na chaguzi za mtumiaji kwa Kiswahili.\nLebo:\n\
+- Lebo ya "question" ina swali kamili. Usisimame hadi upate lebo ya kufunga: </question>. Ina sifa ya urefu, na swali lako lililotafsiriwa linafaa kuwa na urefu takriban sawa.\n\
+- Lebo ya "options" ina orodha ya majibu yanayowezekana yanayosomeka. Tafsiri hadi lebo ya kufunga: </options>.\n\
+\n\
+Lazima utafsiri swali na kila chaguo. Usiache chaguo lolote kwa lugha ya asili.\n\
+\n\
+Muundo wa Matokeo — rudisha TU kitu cha JSON chenye ufunguo mmoja:\n\
+  "translations": safu ya vitu, kila kimoja kikiwa na:\n\
+    "id":       kitambulisho cha sampuli (nambari kamili)\n\
+    "question": maandishi ya swali lililotafsiriwa (mfuatano)\n\
+    "options":  chaguzi za majibu zilizotafsiriwa kwa mpangilio wa awali (safu ya mifuatano)\n\
+\n\
+Usizunguke JSON katika vitalu vya msimbo wa markdown. Hakuna maandishi ya ziada. Tafsiri kila neno.""",
+    CrossLingualLanguage.RUSSIAN: """\
+Переведите вопрос и параметры пользователя на русский.\nТеги:\n\
+- Тег "question" содержит полный вопрос. Не останавливайтесь, пока не найдёте закрывающий тег: </question>. Он имеет свойство длины, и ваш переведённый вопрос должен быть примерно такой же длины.\n\
+- Тег "options" содержит список читаемых возможных ответов. Переведите их до закрывающего тега: </options>.\n\
+\n\
+Вы ОБЯЗАНЫ перевести и вопрос, и каждый вариант ответа. Не оставляйте ни один вариант на исходном языке.\n\
+\n\
+ФОРМАТ ВЫВОДА — верните ТОЛЬКО объект JSON с одним ключом:\n\
+  "translations": массив объектов, каждый из которых содержит:\n\
+    "id":       идентификатор примера (целое число)\n\
+    "question": текст переведённого вопроса (строка)\n\
+    "options":  переведённые варианты ответов в исходном порядке (массив строк)\n\
+\n\
+НЕ оборачивайте JSON в блоки кода markdown. Без лишнего текста. Переведите каждое слово.""",
 }
 
 TRANSLATION_SINGLE_SCHEMA = {
@@ -366,20 +563,25 @@ def build_translation_messages(
     samples: list[Sample],
     language: CrossLingualLanguage,
 ) -> tuple[list[dict[str, str]], dict]:
-    lang_name = _LANGUAGE_NAMES.get(language, language.value.capitalize())
     if len(samples) == 1:
         response_format = TRANSLATION_SINGLE_SCHEMA
-        user_msg = _format_translation_user(samples, lang_name)
+        user_msg = _format_translation_user(samples)
     else:
         response_format = TRANSLATION_BATCH_SCHEMA
-        user_msg = _format_translation_batch_user(samples, lang_name)
-    system_msg = TRANSLATION_SYSTEM_PROMPT.format(language_name=lang_name)
+        user_msg = _format_translation_batch_user(samples)
+    system_msg = _TRANSLATION_SYSTEM_PROMPTS.get(
+        language,
+        TRANSLATION_SYSTEM_PROMPT.format(language_name=language.value.capitalize()),
+    )
+    examples = _TRANSLATION_EXAMPLES.get(language, "")
+    if examples:
+        system_msg = system_msg + "\n\n" + examples
     return (
         [{"role": "system", "content": system_msg}, {"role": "user", "content": user_msg}],
         response_format,
     )
 
-def _format_translation_user(samples: list[Sample], lang_name: str) -> str:
+def _format_translation_user(samples: list[Sample]) -> str:
     q = samples[0].question
     return (
         f"<question length={len(q)}>\n"
@@ -391,12 +593,12 @@ def _format_translation_user(samples: list[Sample], lang_name: str) -> str:
     )
 
 
-def _format_translation_batch_user(samples: list[Sample], lang_name: str) -> str:
+def _format_translation_batch_user(samples: list[Sample]) -> str:
     parts: list[str] = []
     for i, s in enumerate(samples, 1):
         parts.append(
             f"<sample id={s.id}>\n"
-            f"{_format_translation_user([s], lang_name)}\n"
+            f"{_format_translation_user([s])}\n"
             f"</sample>"
         )
     return "\n".join(parts)
@@ -436,10 +638,9 @@ def _repair_translation_json(raw: str) -> str:
 def parse_translation_response(
     raw: str,
     expected_ids: list[int],
-) -> dict[int, str]:
-    """Return ``{sample_id: translated_question}``.  Options are NOT translated —
-    they are preserved from the baseline."""
-    results: dict[int, str] = {}
+) -> dict[int, tuple[str, tuple[str, ...] | None]]:
+    """Return ``{sample_id: (translated_question, translated_options_or_None)}``."""
+    results: dict[int, tuple[str, tuple[str, ...] | None]] = {}
     expected_set = set(expected_ids)
 
     raw_fixed = (
@@ -469,7 +670,7 @@ def _parse_dict_response(
     data: dict,
     expected_ids: list[int],
     expected_set: set[int],
-    results: dict[int, str],
+    results: dict[int, tuple[str, tuple[str, ...] | None]],
 ) -> None:
     if "translations" in data:
         for item in data["translations"]:
@@ -478,7 +679,7 @@ def _parse_dict_response(
         _ingest(data, expected_set, results)
     elif "question" in data and len(expected_ids) == 1:
         _ingest(
-            {"id": expected_ids[0], "question": data["question"]},
+            {"id": expected_ids[0], "question": data["question"], **({"options": data["options"]} if "options" in data else {})},
             expected_set,
             results,
         )
@@ -488,7 +689,7 @@ def _parse_list_response(
     data: list,
     expected_ids: list[int],
     expected_set: set[int],
-    results: dict[int, str],
+    results: dict[int, tuple[str, tuple[str, ...] | None]],
 ) -> None:
     for idx, item in enumerate(data):
         if not isinstance(item, dict):
@@ -496,23 +697,28 @@ def _parse_list_response(
         question = item.get("question")
         if not isinstance(question, str):
             continue
+        options = item.get("options")
+        opts_tuple = tuple(options) if isinstance(options, list) and all(isinstance(o, str) for o in options) else None
         sid = item.get("id")
+        entry = (question, opts_tuple)
         if isinstance(sid, int) and sid in expected_set:
-            results[sid] = question
+            results[sid] = entry
         elif idx < len(expected_ids):
             sid = expected_ids[idx]
             if sid not in results:
-                results[sid] = question
+                results[sid] = entry
 
 
 def _ingest(
     item: object,
     expected_ids: set[int],
-    results: dict[int, str],
+    results: dict[int, tuple[str, tuple[str, ...] | None]],
 ) -> None:
     if not isinstance(item, dict):
         return
     sid = item.get("id")
     question = item.get("question")
     if isinstance(sid, int) and sid in expected_ids and isinstance(question, str):
-        results[sid] = question
+        options = item.get("options")
+        opts_tuple = tuple(options) if isinstance(options, list) and all(isinstance(o, str) for o in options) else None
+        results[sid] = (question, opts_tuple)

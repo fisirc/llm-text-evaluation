@@ -208,12 +208,24 @@ class CrossLingual(AttackType):
                 # Validate every translated sample
                 batch_translated = []
                 failed: list[str] = []
+                min_ratio = 0.23
+                if self.language in (
+                    CrossLingualLanguage.CHINESE,
+                    CrossLingualLanguage.JAPANESE,
+                ):
+                    min_ratio = 0.08
+                elif self.language in (
+                    CrossLingualLanguage.ARABIC,
+                    CrossLingualLanguage.RUSSIAN,
+                ):
+                    min_ratio = 0.15
                 for s in batch_samples:
-                    new_q = parsed.get(s.id)
-                    if new_q is None:
+                    entry = parsed.get(s.id)
+                    if entry is None:
                         failed.append(f"sample {s.id}: missing from response")
                         continue
-                    if len(new_q) < len(s.question) * 0.23:
+                    new_q, new_opts = entry
+                    if len(new_q) < len(s.question) * min_ratio:
                         failed.append(
                             f"sample {s.id}: truncated ({len(s.question)}→{len(new_q)} chars)"
                         )
@@ -223,7 +235,7 @@ class CrossLingual(AttackType):
                             id=s.id,
                             task=s.task,
                             question=new_q,
-                            options=s.options,
+                            options=new_opts if new_opts is not None else s.options,
                             answer=s.answer,
                             rationale=s.rationale,
                         )

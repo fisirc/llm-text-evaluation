@@ -23,6 +23,10 @@ class CrossLingualLanguage(StrEnum):
 
     FRENCH = "french"
     CHINESE = "chinese"
+    ARABIC = "arabic"
+    JAPANESE = "japanese"
+    SWAHILI = "swahili"
+    RUSSIAN = "russian"
 
 
 @dataclass(frozen=True)
