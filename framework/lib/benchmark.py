@@ -173,21 +173,29 @@ class Benchmark:
             len({s.task for s in self._baseline.samples}),
         )
 
-    def run(self) -> BenchmarkResult:
+    def run(self, attacks_only: bool = False) -> BenchmarkResult:
         """Run the full evaluation pipeline.
 
         Executes all (model, dataset) combinations with concurrency control
         and partial result persistence.
 
+        When ``attacks_only=True`` the baseline dataset is skipped; only
+        perturbed (attacked) datasets are evaluated.  This is useful when
+        the baseline was already evaluated in a prior run and only the
+        attack results need refreshing.
+
         On KeyboardInterrupt the method reconstructs a partial
         ``BenchmarkResult`` from any analysis and perturbation files already
         on disk so the caller can still produce a report.
+
+        Args:
+            attacks_only: If True, skip baseline evaluation.
 
         Returns:
             BenchmarkResult with all evaluation data.
         """
         try:
-            return asyncio.run(self._run_async())
+            return asyncio.run(self._run_async(attacks_only=attacks_only))
         except KeyboardInterrupt:
             logger.warning(
                 "Benchmark interrupted by user — building partial result "
@@ -195,7 +203,7 @@ class Benchmark:
             )
             return self._build_interrupted_result()
 
-    async def _run_async(self) -> BenchmarkResult:
+    async def _run_async(self, attacks_only: bool = False) -> BenchmarkResult:
         """Async implementation of the benchmark pipeline."""
         started_at = datetime.now(timezone.utc).isoformat()
 
@@ -210,6 +218,22 @@ class Benchmark:
             )
             self._attacked.append(ds)
             logger.info("  Prepared: %d samples", len(ds))
+
+        if attacks_only:
+            logger.info(
+                "attacks_only — %d perturbed dataset(s) generated, skipping evaluation",
+                len(self._attacked),
+            )
+            finished_at = datetime.now(timezone.utc).isoformat()
+            result = BenchmarkResult(
+                models=[],
+                is_finished=False,
+                baseline_file=self._baseline.filename,
+                started_at=started_at,
+                finished_at=finished_at,
+                base_dir=self._base_dir,
+            )
+            return result
 
         all_datasets = [self._baseline] + self._attacked
         semaphore = asyncio.Semaphore(self._concurrency)
