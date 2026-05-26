@@ -7,6 +7,7 @@ on-the-fly by implementing ``perturb()``.
 
 from __future__ import annotations
 
+import asyncio
 import json
 import logging
 import os
@@ -127,7 +128,7 @@ class CrossLingual(AttackType):
                 "environment variable or pass an explicit 'model'."
             )
         return OpencodeGo(
-            model="qwen3.6-plus",
+            model="glm-5.1",
             api_key=api_key,
             batch=5,
             temperature=0.0,
