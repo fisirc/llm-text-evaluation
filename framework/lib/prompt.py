@@ -16,7 +16,7 @@ from .types import CrossLingualLanguage, Sample
 # -- System promp
 
 SYSTEM_PROMPT = """Answer the question with numbered options (0-based index).
-Your response must be valid JSON matching the required schema.
+Your response must be valid JSON matching the required schema and no indentation.
 Provide ONLY the answer index, no explanations."""
 
 
@@ -113,7 +113,7 @@ def build_batch_prompt(samples: list[Sample]) -> str:
     Returns:
         Formatted user message string with all questions.
     """
-    parts: list[str] = ["<instructions>Answer each of the following questions</instructions>\n"]
+    parts: list[str] = []
 
     for i, sample in enumerate(samples, 1):
         parts.append(build_single_prompt(sample))
