@@ -110,10 +110,12 @@ class OpencodeGo(BaseProvider):
         messages: list[dict[str, str]],
         response_format: dict | None,
     ) -> tuple[str, int, int, ChoiceLogprobs | None]:
+        messages = [dict(m) for m in messages]
         kwargs: dict = {
             "model": self.model,
             "messages": messages,
             "temperature": self.temperature,
+            "extra_body": {"reasoning": {"enabled": False}}
         }
 
         if self.max_tokens is not None:
@@ -160,6 +162,7 @@ class OpencodeGo(BaseProvider):
         messages: list[dict[str, str]],
         response_format: dict | None,
     ) -> tuple[str, int, int, ChoiceLogprobs | None]:
+        messages = [dict(m) for m in messages]
         # Anthropic's native output_config structured output is only available on
         # Claude models (Opus 4.5+, Sonnet 4.5+, Haiku 4.5+). MiniMax models
         # (m2.5, m2.7) served through OpenCode Go are NOT Claude models, so we

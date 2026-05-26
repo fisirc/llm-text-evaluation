@@ -92,6 +92,7 @@ class OpenRouter(BaseProvider):
         messages: list[dict[str, str]],
         response_format: dict | None = None,
     ) -> tuple[str, int, int, ChoiceLogprobs | None]:
+        messages = [dict(m) for m in messages]
         kwargs: dict = {
             "model": self.model,
             "messages": messages,
