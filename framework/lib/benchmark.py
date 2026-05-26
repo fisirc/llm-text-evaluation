@@ -173,7 +173,11 @@ class Benchmark:
             len({s.task for s in self._baseline.samples}),
         )
 
-    def run(self, attacks_only: bool = False) -> BenchmarkResult:
+    def run(
+        self,
+        attacks_only: bool = False,
+        analyze_while_attacking: bool = True,
+    ) -> BenchmarkResult:
         """Run the full evaluation pipeline.
 
         Executes all (model, dataset) combinations with concurrency control
@@ -184,18 +188,33 @@ class Benchmark:
         the baseline was already evaluated in a prior run and only the
         attack results need refreshing.
 
+        When ``analyze_while_attacking=True`` (the default), model evaluation
+        starts as soon as datasets become available: the baseline is evaluated
+        immediately, and each perturbed dataset is queued for evaluation the
+        moment its perturbation thread finishes.  This overlaps LLM calls for
+        perturbation and evaluation, improving throughput.  When ``False``,
+        all perturbations complete before evaluation begins (legacy behavior).
+
         On KeyboardInterrupt the method reconstructs a partial
         ``BenchmarkResult`` from any analysis and perturbation files already
         on disk so the caller can still produce a report.
 
         Args:
             attacks_only: If True, skip baseline evaluation.
+            analyze_while_attacking: If True, start evaluation as soon as
+                each perturbed dataset is ready instead of waiting for all
+                perturbations to complete first.
 
         Returns:
             BenchmarkResult with all evaluation data.
         """
         try:
-            return asyncio.run(self._run_async(attacks_only=attacks_only))
+            return asyncio.run(
+                self._run_async(
+                    attacks_only=attacks_only,
+                    analyze_while_attacking=analyze_while_attacking,
+                )
+            )
         except KeyboardInterrupt:
             logger.warning(
                 "Benchmark interrupted by user — building partial result "
@@ -203,17 +222,32 @@ class Benchmark:
             )
             return self._build_interrupted_result()
 
-    async def _run_async(self, attacks_only: bool = False) -> BenchmarkResult:
+    async def _run_async(
+        self,
+        attacks_only: bool = False,
+        analyze_while_attacking: bool = True,
+    ) -> BenchmarkResult:
         """Async implementation of the benchmark pipeline."""
         started_at = datetime.now(timezone.utc).isoformat()
 
-        # -- Generate perturbed datasets asynchronously --
+        # -- Set up attack API semaphore --
         self._attacked: list[Dataset] = []
         api_semaphore = asyncio.Semaphore(3)
         for attack in self._attacks:
             if hasattr(attack, "api_semaphore"):
                 object.__setattr__(attack, "api_semaphore", api_semaphore)
 
+        use_interleaved = (
+            analyze_while_attacking
+            and not attacks_only
+            and bool(self._attacks)
+            and bool(self._models)
+        )
+
+        if use_interleaved:
+            return await self._run_interleaved(started_at, api_semaphore)
+
+        # -- Sequential mode: perturb all, then evaluate all --
         async def _perturb_one(attack: AttackType) -> Dataset:
             logger.info(
                 "Processing attack: %s (%s)", attack.attack_name, attack.label
@@ -337,6 +371,193 @@ class Benchmark:
 
         finished_at = datetime.now(timezone.utc).isoformat()
 
+        result = BenchmarkResult(
+            models=model_results,
+            is_finished=all_finished,
+            baseline_file=self._baseline.filename,
+            started_at=started_at,
+            finished_at=finished_at,
+            base_dir=self._base_dir,
+        )
+        result._compute_all_robustness()
+        return result
+
+    async def _run_interleaved(
+        self,
+        started_at: str,
+        api_semaphore: asyncio.Semaphore,
+    ) -> BenchmarkResult:
+        """Run perturbation and evaluation concurrently.
+
+        Starts evaluating the baseline immediately, then streams each
+        perturbed dataset to model evaluation as soon as it is ready,
+        rather than waiting for all perturbations to complete first.
+        """
+        # -- Events signalling when each attack's perturbation is done --
+        attack_events: dict[str, asyncio.Event] = {}
+        attack_results: dict[str, Dataset] = {}
+        attack_errors: dict[str, BaseException] = {}
+
+        for attack in self._attacks:
+            attack_events[attack.label] = asyncio.Event()
+
+        async def _perturb_and_signal(attack: AttackType) -> None:
+            logger.info(
+                "Processing attack: %s (%s)", attack.attack_name, attack.label
+            )
+            try:
+                ds = await generate_perturbed_dataset(
+                    self._baseline, attack, self._partial_dir, started_at,
+                )
+                logger.info("  Prepared: %d samples", len(ds))
+                attack_results[attack.label] = ds
+            except Exception as exc:
+                attack_errors[attack.label] = exc
+                logger.error(
+                    "  Attack %s failed: %s: %s",
+                    attack.label, type(exc).__name__, exc,
+                )
+            finally:
+                attack_events[attack.label].set()
+
+        perturb_tasks = [
+            asyncio.create_task(_perturb_and_signal(a)) for a in self._attacks
+        ]
+
+        # -- Evaluate models concurrently, streaming datasets as they arrive --
+        semaphore = asyncio.Semaphore(self._concurrency)
+
+        async def _evaluate_model_streaming(
+            provider: BaseProvider, label: str,
+        ) -> tuple[ModelResult, bool]:
+            logger.info(
+                "Evaluating model: %s (%s) [label=%s]",
+                provider.display_name, provider.provider_name, label,
+            )
+            model_result = ModelResult(
+                model_name=provider.display_name,
+                provider=provider.provider_name,
+            )
+            retry_state = _RetryState(
+                retry_times=provider.retry_times,
+                max_errors=provider.max_errors,
+            )
+            finished = True
+
+            # Evaluate baseline (always available immediately)
+            ds_result = await self._evaluate_dataset(
+                provider, self._baseline, label, started_at, retry_state, semaphore,
+            )
+            model_result.evaluated_datasets.append(ds_result)
+
+            expected = len(self._baseline)
+            completed = len(ds_result.results)
+            if retry_state.aborted or completed < expected:
+                finished = False
+                logger.warning(
+                    "  %s: %d/%d completed (incomplete)",
+                    self._baseline.filename, completed, expected,
+                )
+                if retry_state.aborted:
+                    logger.warning(
+                        "  %s: ABORTING model — %d errors",
+                        self._baseline.filename, retry_state.total_errors,
+                    )
+                    log_error(
+                        self._partial_dir, started_at,
+                        phase="evaluation", error_type="model_aborted",
+                        provider=provider.provider_name,
+                        model=provider.display_name,
+                        dataset=self._baseline.filename,
+                        total_errors=retry_state.total_errors,
+                        max_errors=retry_state.max_errors,
+                    )
+
+            # Evaluate each attack dataset as soon as it is ready
+            for attack in self._attacks:
+                if retry_state.aborted:
+                    finished = False
+                    break
+
+                await attack_events[attack.label].wait()
+
+                if attack.label in attack_errors:
+                    raise attack_errors[attack.label]
+
+                ds = attack_results[attack.label]
+                ds_result = await self._evaluate_dataset(
+                    provider, ds, label, started_at, retry_state, semaphore,
+                )
+                model_result.evaluated_datasets.append(ds_result)
+
+                expected = len(ds)
+                completed = len(ds_result.results)
+                if retry_state.aborted or completed < expected:
+                    finished = False
+                    logger.warning(
+                        "  %s: %d/%d completed (incomplete)",
+                        ds.filename, completed, expected,
+                    )
+                    if retry_state.aborted:
+                        logger.warning(
+                            "  %s: ABORTING model — %d errors",
+                            ds.filename, retry_state.total_errors,
+                        )
+                        log_error(
+                            self._partial_dir, started_at,
+                            phase="evaluation", error_type="model_aborted",
+                            provider=provider.provider_name,
+                            model=provider.display_name,
+                            dataset=ds.filename,
+                            total_errors=retry_state.total_errors,
+                            max_errors=retry_state.max_errors,
+                        )
+                        break
+                else:
+                    m = ds_result.metrics
+                    logger.info(
+                        "  %s: %d/%d completed (%.1f%% accuracy)",
+                        ds.filename, completed, expected, m.accuracy * 100,
+                    )
+                    if m.tasks:
+                        per_task = " ".join(
+                            f"{task}={info['accuracy']:.0%}"
+                            for task, info in sorted(m.tasks.items())
+                        )
+                        logger.info("    per-task: %s", per_task)
+
+            return model_result, finished
+
+        eval_tasks = [
+            asyncio.create_task(
+                _evaluate_model_streaming(provider, self._model_labels[idx])
+            )
+            for idx, provider in enumerate(self._models)
+        ]
+
+        try:
+            pairs = await asyncio.gather(*eval_tasks)
+        except Exception:
+            for task in perturb_tasks:
+                if not task.done():
+                    task.cancel()
+            await asyncio.gather(*perturb_tasks, return_exceptions=True)
+            raise
+        finally:
+            for task in perturb_tasks:
+                if not task.done():
+                    task.cancel()
+            await asyncio.gather(*perturb_tasks, return_exceptions=True)
+
+        self._attacked = [
+            attack_results[a.label] for a in self._attacks
+            if a.label in attack_results
+        ]
+
+        model_results = [p[0] for p in pairs]
+        all_finished = all(p[1] for p in pairs)
+
+        finished_at = datetime.now(timezone.utc).isoformat()
         result = BenchmarkResult(
             models=model_results,
             is_finished=all_finished,
