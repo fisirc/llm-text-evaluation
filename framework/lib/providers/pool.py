@@ -2,9 +2,9 @@
 
 from __future__ import annotations
 
+import asyncio
 import itertools
 import logging
-import threading
 from typing import TYPE_CHECKING
 
 from .base import BaseProvider
@@ -19,9 +19,15 @@ class ProviderPool(BaseProvider):
     """Pool of providers that serve the same model.
 
     Distributes ``complete()`` calls across inner providers using
-    round-robin.  If a provider fails, the call is retried on the
+    round-robin.  Each inner provider has its own concurrency
+    semaphore so fast local providers are not bottlenecked by slow
+    remote ones.  If a provider fails, the call is retried on the
     next provider in the pool (failover).  All providers must use
     the same ``batch_size`` to avoid sample misalignment.
+
+    The pool's ``concurrency`` is the sum of all inner providers'
+    concurrencies (providers with ``concurrency=None`` contribute 0,
+    meaning unbounded internally).
 
     Args:
         providers: Two or more :class:`BaseProvider` instances.
@@ -60,6 +66,11 @@ class ProviderPool(BaseProvider):
         self.logprobs = providers[0].logprobs
         self.top_logprobs = providers[0].top_logprobs
 
+        concurrency_sum = sum(
+            p.concurrency for p in providers if p.concurrency is not None
+        )
+        self.concurrency = concurrency_sum if concurrency_sum > 0 else None
+
     @property
     def provider_name(self) -> str:
         return "+".join(p.provider_name for p in self._providers)
@@ -71,9 +82,13 @@ class ProviderPool(BaseProvider):
             return f"{base} ({self.label})"
         return base
 
-    def _pick_provider(self) -> BaseProvider:
-        idx = next(self._rr_counter) % len(self._providers)
-        return self._providers[idx]
+    def get_semaphore(self) -> asyncio.Semaphore:
+        """Return a semaphore covering the combined pool capacity."""
+        if not hasattr(self, "_semaphore"):
+            limit = self.concurrency if self.concurrency is not None else 0
+            from .base import _UnboundedSemaphore
+            self._semaphore = asyncio.Semaphore(limit) if limit > 0 else _UnboundedSemaphore()
+        return self._semaphore
 
     async def complete(
         self,
@@ -82,10 +97,9 @@ class ProviderPool(BaseProvider):
     ) -> tuple[str, int, int, ChoiceLogprobs | None]:
         """Route the call to one provider, failover on error.
 
-        Tries each provider exactly once.  The first provider is
-        chosen by round-robin; on failure, the remaining providers
-        are tried in order.  If all providers fail, the last
-        exception is raised.
+        The chosen provider's own concurrency semaphore is acquired
+        before the API call, so each provider respects its individual
+        rate limit independently.
         """
         start_idx = next(self._rr_counter) % len(self._providers)
         last_exc: Exception | None = None
@@ -94,7 +108,8 @@ class ProviderPool(BaseProvider):
             idx = (start_idx + offset) % len(self._providers)
             provider = self._providers[idx]
             try:
-                result = await provider.complete(messages, response_format)
+                async with provider.get_semaphore():
+                    result = await provider.complete(messages, response_format)
                 if offset > 0:
                     logger.info(
                         "Pool failover: %s succeeded on provider %s (attempt %d)",
