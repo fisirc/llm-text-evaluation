@@ -76,6 +76,7 @@ class Ollama(BaseProvider):
         label: str | None = None,
         logprobs: bool = False,
         top_logprobs: int | None = None,
+        concurrency: int | None = None,
     ) -> None:
         self.model = model
         self.label = label
@@ -87,6 +88,7 @@ class Ollama(BaseProvider):
         self.max_errors = max_errors
         self.logprobs = logprobs
         self.top_logprobs = top_logprobs
+        self.concurrency = concurrency
 
         base = url if url.startswith("http") else f"http://{url}"
         base = base.rstrip("/")

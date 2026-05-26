@@ -106,7 +106,6 @@ class CrossLingual(AttackType):
 
     language: "CrossLingualLanguage | None" = field(default=None)
     model: "BaseProvider | None" = field(default=None, repr=False, compare=False, hash=False)
-    perturb_concurrency: int = field(default=3)
 
     def __post_init__(self) -> None:
         if self.language is None:
@@ -143,14 +142,11 @@ class CrossLingual(AttackType):
     async def perturb(
         self,
         samples: list[Sample],
-        api_semaphore: "asyncio.Semaphore | None" = None,
     ) -> list[Sample]:
         """Translate samples to the target language using an LLM.
 
         Args:
             samples: Baseline samples to translate.
-            api_semaphore: Optional shared semaphore limiting concurrent API
-                calls across all attacks.
 
         Returns:
             New list of Samples with translated ``question`` and ``options``
@@ -187,12 +183,7 @@ class CrossLingual(AttackType):
             for attempt in range(provider.retry_times + 1):
                 start = time.perf_counter()
                 try:
-                    if api_semaphore is not None:
-                        async with api_semaphore:
-                            raw_response, _, _, _ = await provider.complete(
-                                messages, response_format
-                            )
-                    else:
+                    async with provider.get_semaphore():
                         raw_response, _, _, _ = await provider.complete(
                             messages, response_format
                         )

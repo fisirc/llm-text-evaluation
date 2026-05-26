@@ -2,6 +2,7 @@
 
 from __future__ import annotations
 
+import asyncio
 from abc import ABC, abstractmethod
 
 from ..types import ChoiceLogprobs
@@ -45,6 +46,7 @@ class BaseProvider(ABC):
     max_errors: int
     logprobs: bool
     top_logprobs: int | None
+    concurrency: int | None
 
     @property
     def display_name(self) -> str:
@@ -86,9 +88,30 @@ class BaseProvider(ABC):
         """URL-safe model identifier for file naming."""
         return self.model.replace("/", "_").replace(":", "_").replace(".", "-")
 
+    def get_semaphore(self) -> asyncio.Semaphore:
+        """Return a semaphore limiting concurrent API calls for this provider.
+
+        If ``concurrency`` is set, returns a Semaphore with that capacity.
+        Otherwise returns an unbounded semaphore (no limit).
+        """
+        if not hasattr(self, "_semaphore"):
+            limit = self.concurrency if self.concurrency is not None else 0
+            self._semaphore = asyncio.Semaphore(limit) if limit > 0 else _UnboundedSemaphore()
+        return self._semaphore
+
     def __repr__(self) -> str:
         return (
             f"{type(self).__name__}(model={self.model!r}, batch={self.batch_size}, "
             f"temperature={self.temperature})"
             + (f", label={self.label!r}" if self.label else "")
         )
+
+
+class _UnboundedSemaphore:
+    """Semaphore that never blocks — used when concurrency is not set."""
+
+    async def __aenter__(self):
+        return self
+
+    async def __aexit__(self, *args):
+        pass

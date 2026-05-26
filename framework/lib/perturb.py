@@ -28,7 +28,6 @@ async def generate_perturbed_dataset(
     attack: AttackType,
     partial_dir: str | Path,
     session_id: str,
-    api_semaphore: "asyncio.Semaphore | None" = None,
 ) -> Dataset:
     """Produce a perturbed dataset from a baseline.
 
@@ -94,8 +93,6 @@ async def generate_perturbed_dataset(
         batch_size = attack.perturb_batch_size
         total_remaining = len(remaining)
         total_batches = (total_remaining + batch_size - 1) // batch_size
-        max_concurrency = getattr(attack, "perturb_concurrency", 1)
-        semaphore = asyncio.Semaphore(max_concurrency)
         lock = asyncio.Lock()
         batches = [
             remaining[i: i + batch_size]
@@ -103,33 +100,32 @@ async def generate_perturbed_dataset(
         ]
 
         async def _process_batch(batch_num: int, batch: list[Sample]) -> None:
-            async with semaphore:
-                logger.info(
-                    "Perturbation batch %d/%d: %d samples %s",
-                    batch_num, total_batches, len(batch),
-                    [s.id for s in batch],
+            logger.info(
+                "Perturbation batch %d/%d: %d samples %s",
+                batch_num, total_batches, len(batch),
+                [s.id for s in batch],
+            )
+            try:
+                new_batch = await attack.perturb(batch)
+            except Exception as exc:
+                log_error(
+                    partial_dir,
+                    session_id,
+                    phase="perturbation",
+                    error_type="perturbation_batch_failed",
+                    provider=getattr(getattr(attack, "model", None), "provider_name", ""),
+                    model=getattr(getattr(attack, "model", None), "display_name", ""),
+                    dataset=baseline.filename,
+                    attack_type=attack.attack_name,
+                    attack_label=attack.label or "",
+                    batch_num=batch_num,
+                    sample_ids=[s.id for s in batch],
+                    exception=exc,
                 )
-                try:
-                    new_batch = await attack.perturb(batch, api_semaphore=api_semaphore)
-                except Exception as exc:
-                    log_error(
-                        partial_dir,
-                        session_id,
-                        phase="perturbation",
-                        error_type="perturbation_batch_failed",
-                        provider=getattr(getattr(attack, "model", None), "provider_name", ""),
-                        model=getattr(getattr(attack, "model", None), "display_name", ""),
-                        dataset=baseline.filename,
-                        attack_type=attack.attack_name,
-                        attack_label=attack.label or "",
-                        batch_num=batch_num,
-                        sample_ids=[s.id for s in batch],
-                        exception=exc,
-                    )
-                    raise
-                async with lock:
-                    existing.extend(new_batch)
-                    _save_perturbation_partial(perturb_path, attack, existing, len(baseline), perturb_started_at=perturb_started_at)
+                raise
+            async with lock:
+                existing.extend(new_batch)
+                _save_perturbation_partial(perturb_path, attack, existing, len(baseline), perturb_started_at=perturb_started_at)
                 logger.info(
                     "Perturbation batch %d/%d: saved (%d/%d total)",
                     batch_num, total_batches, len(existing), len(baseline),

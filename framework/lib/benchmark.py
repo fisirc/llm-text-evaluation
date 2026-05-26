@@ -92,8 +92,8 @@ class Benchmark:
             must be unique across all attack types.
         models: List of provider instances to evaluate.  If the same model
             appears multiple times (same slug), each instance must provide a
-            distinct ``label``.
-        concurrency: Maximum number of parallel LLM requests.
+            distinct ``label``.  Concurrency is controlled per-provider via
+            the ``concurrency`` attribute on each provider instance.
         partial_results_dir: Directory to store/load partial results.
             Relative to ``base_dir`` when set.
         base_dir: Optional base directory. When set, all output paths
@@ -106,7 +106,7 @@ class Benchmark:
         baseline: str | Path,
         attacks: list[AttackType] | None = None,
         models: list[BaseProvider] | None = None,
-        concurrency: int = 4,
+        concurrency: int = 0,
         partial_results_dir: str | Path = "partial",
         base_dir: str | Path | None = None,
     ) -> None:
@@ -230,9 +230,8 @@ class Benchmark:
         """Async implementation of the benchmark pipeline."""
         started_at = datetime.now(timezone.utc).isoformat()
 
-        # -- Set up attack API semaphore --
+        # -- Generate perturbed datasets asynchronously --
         self._attacked: list[Dataset] = []
-        api_semaphore = asyncio.Semaphore(3)
 
         use_interleaved = (
             analyze_while_attacking
@@ -242,7 +241,7 @@ class Benchmark:
         )
 
         if use_interleaved:
-            return await self._run_interleaved(started_at, api_semaphore)
+            return await self._run_interleaved(started_at)
 
         # -- Sequential mode: perturb all, then evaluate all --
         async def _perturb_one(attack: AttackType) -> Dataset:
@@ -251,7 +250,6 @@ class Benchmark:
             )
             ds = await generate_perturbed_dataset(
                 self._baseline, attack, self._partial_dir, started_at,
-                api_semaphore=api_semaphore,
             )
             logger.info("  Prepared: %d samples", len(ds))
             return ds
@@ -283,7 +281,6 @@ class Benchmark:
             return result
 
         all_datasets = [self._baseline] + self._attacked
-        semaphore = asyncio.Semaphore(self._concurrency)
 
         async def _evaluate_one_model(
             provider: BaseProvider, label: str,
@@ -301,6 +298,8 @@ class Benchmark:
                 max_errors=provider.max_errors,
             )
             finished = True
+
+            semaphore = provider.get_semaphore()
 
             for dataset in all_datasets:
                 if retry_state.aborted:
@@ -383,7 +382,6 @@ class Benchmark:
     async def _run_interleaved(
         self,
         started_at: str,
-        api_semaphore: asyncio.Semaphore,
     ) -> BenchmarkResult:
         """Run perturbation and evaluation concurrently.
 
@@ -406,7 +404,6 @@ class Benchmark:
             try:
                 ds = await generate_perturbed_dataset(
                     self._baseline, attack, self._partial_dir, started_at,
-                    api_semaphore=api_semaphore,
                 )
                 logger.info("  Prepared: %d samples", len(ds))
                 attack_results[attack.label] = ds
@@ -424,7 +421,6 @@ class Benchmark:
         ]
 
         # -- Evaluate models concurrently, streaming datasets as they arrive --
-        semaphore = asyncio.Semaphore(self._concurrency)
 
         async def _evaluate_model_streaming(
             provider: BaseProvider, label: str,
@@ -433,6 +429,7 @@ class Benchmark:
                 "Evaluating model: %s (%s) [label=%s]",
                 provider.display_name, provider.provider_name, label,
             )
+            semaphore = provider.get_semaphore()
             model_result = ModelResult(
                 model_name=provider.display_name,
                 provider=provider.provider_name,
@@ -472,58 +469,78 @@ class Benchmark:
                         max_errors=retry_state.max_errors,
                     )
 
-            # Evaluate each attack dataset as soon as it is ready
-            for attack in self._attacks:
+            # Evaluate each attack dataset as soon as ANY perturbation finishes
+            pending_labels = [a.label for a in self._attacks]
+            while pending_labels:
                 if retry_state.aborted:
                     finished = False
                     break
 
-                await attack_events[attack.label].wait()
-
-                if attack.label in attack_errors:
-                    raise attack_errors[attack.label]
-
-                ds = attack_results[attack.label]
-                ds_result = await self._evaluate_dataset(
-                    provider, ds, label, started_at, retry_state, semaphore,
+                # Wait for the first attack that finishes
+                done, _ = await asyncio.wait(
+                    [asyncio.ensure_future(attack_events[lbl].wait()) for lbl in pending_labels],
+                    return_when=asyncio.FIRST_COMPLETED,
                 )
-                model_result.evaluated_datasets.append(ds_result)
+                # Resolve which labels are now ready
+                ready_labels: list[str] = []
+                still_pending: list[str] = []
+                for lbl in pending_labels:
+                    if attack_events[lbl].is_set():
+                        ready_labels.append(lbl)
+                    else:
+                        still_pending.append(lbl)
+                pending_labels = still_pending
 
-                expected = len(ds)
-                completed = len(ds_result.results)
-                if retry_state.aborted or completed < expected:
-                    finished = False
-                    logger.warning(
-                        "  %s: %d/%d completed (incomplete)",
-                        ds.filename, completed, expected,
-                    )
+                # Process ready attacks in original list order for determinism
+                for lbl in ready_labels:
                     if retry_state.aborted:
-                        logger.warning(
-                            "  %s: ABORTING model — %d errors",
-                            ds.filename, retry_state.total_errors,
-                        )
-                        log_error(
-                            self._partial_dir, started_at,
-                            phase="evaluation", error_type="model_aborted",
-                            provider=provider.provider_name,
-                            model=provider.display_name,
-                            dataset=ds.filename,
-                            total_errors=retry_state.total_errors,
-                            max_errors=retry_state.max_errors,
-                        )
+                        finished = False
                         break
-                else:
-                    m = ds_result.metrics
-                    logger.info(
-                        "  %s: %d/%d completed (%.1f%% accuracy)",
-                        ds.filename, completed, expected, m.accuracy * 100,
+
+                    if lbl in attack_errors:
+                        raise attack_errors[lbl]
+
+                    ds = attack_results[lbl]
+                    ds_result = await self._evaluate_dataset(
+                        provider, ds, label, started_at, retry_state, semaphore,
                     )
-                    if m.tasks:
-                        per_task = " ".join(
-                            f"{task}={info['accuracy']:.0%}"
-                            for task, info in sorted(m.tasks.items())
+                    model_result.evaluated_datasets.append(ds_result)
+
+                    expected = len(ds)
+                    completed = len(ds_result.results)
+                    if retry_state.aborted or completed < expected:
+                        finished = False
+                        logger.warning(
+                            "  %s: %d/%d completed (incomplete)",
+                            ds.filename, completed, expected,
                         )
-                        logger.info("    per-task: %s", per_task)
+                        if retry_state.aborted:
+                            logger.warning(
+                                "  %s: ABORTING model — %d errors",
+                                ds.filename, retry_state.total_errors,
+                            )
+                            log_error(
+                                self._partial_dir, started_at,
+                                phase="evaluation", error_type="model_aborted",
+                                provider=provider.provider_name,
+                                model=provider.display_name,
+                                dataset=ds.filename,
+                                total_errors=retry_state.total_errors,
+                                max_errors=retry_state.max_errors,
+                            )
+                            break
+                    else:
+                        m = ds_result.metrics
+                        logger.info(
+                            "  %s: %d/%d completed (%.1f%% accuracy)",
+                            ds.filename, completed, expected, m.accuracy * 100,
+                        )
+                        if m.tasks:
+                            per_task = " ".join(
+                                f"{task}={info['accuracy']:.0%}"
+                                for task, info in sorted(m.tasks.items())
+                            )
+                            logger.info("    per-task: %s", per_task)
 
             return model_result, finished
 

@@ -57,6 +57,7 @@ class OpenRouter(BaseProvider):
         label: str | None = None,
         logprobs: bool = False,
         top_logprobs: int | None = None,
+        concurrency: int | None = None,
     ) -> None:
         self.model = model
         self.label = label
@@ -68,6 +69,7 @@ class OpenRouter(BaseProvider):
         self.max_errors = max_errors
         self.logprobs = logprobs
         self.top_logprobs = top_logprobs
+        self.concurrency = concurrency
 
         extra_headers: dict[str, str] = {}
         if site_url:
