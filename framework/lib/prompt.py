@@ -15,24 +15,9 @@ from .types import CrossLingualLanguage, Sample
 
 # -- System promp
 
-SYSTEM_PROMPT = """\
-You are an expert evaluator for verbal reasoning tasks in Spanish.
-You will receive questions with numbered answer options (0-based index).
-Analyze each question carefully and select the BEST answer.
-
-TASK-SPECIFIC GUIDELINES:
-- Reading comprehension: Focus on what the text explicitly states or strongly implies.
-- Sentence ordering: Find the logical sequence that creates a coherent, well-structured text.
-- Sentence elimination: Identify the sentence that does NOT belong thematically or logically.
-- Verbal series: Identify the pattern connecting the words (synonyms, antonyms, categories, relationships).
-- Analogies: Match the underlying relationship between the given pair of concepts.
-- Synonyms and antonyms: Select the word with the closest or most opposite meaning in context.
-- Incomplete sentences: Choose the option that best completes the sentence's meaning and grammar.
-
-RULES:
-- Consider the context, question, and ALL options before deciding.
-- Your response must be valid JSON matching the required schema.
-- Provide ONLY the answer index, no explanations."""
+SYSTEM_PROMPT = """Answer the question with numbered options (0-based index).
+Your response must be valid JSON matching the required schema.
+Provide ONLY the answer index, no explanations."""
 
 
 # -- JSON schemas
@@ -214,6 +199,9 @@ def parse_batch_response(
     # Try JSON parse
     try:
         data = json.loads(raw.strip())
+        if isinstance(data, list) and len(data) > 0 and isinstance(data[0], int):
+            for idx, ans in enumerate(data):
+                results[expected_ids[idx]] = ans
         if isinstance(data, dict) and "answers" in data:
             for item in data["answers"]:
                 if isinstance(item, dict) and "id" in item and "answer" in item:
