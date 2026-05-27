@@ -11,7 +11,7 @@ type FinalOutput = {
 };
 
 const run = async () => {
-  const dataPath = join(__dirname, 'dataset.json');
+  const dataPath = join(__dirname, 'processed_dataset.json');
   const rejectedPath = join(__dirname, 'dataset_rejected.json');
 
   const content = await readFile(dataPath, 'utf8');
