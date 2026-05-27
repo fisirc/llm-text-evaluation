@@ -16,7 +16,7 @@ import tempfile
 from datetime import datetime, timezone
 from pathlib import Path
 
-from .types import EvaluatedSample, TaskType
+from .types import ChoiceLogprobs, EvaluatedSample, TaskType
 
 
 def _analysis_path(
@@ -61,6 +61,15 @@ def load_partial_results(
     results: list[EvaluatedSample] = []
     for item in data.get("results", []):
         try:
+            lp = None
+            lp_data = item.get("logprobs")
+            if isinstance(lp_data, dict) and "choice_logprobs" in lp_data:
+                lp = ChoiceLogprobs(
+                    choice_logprobs={
+                        int(k): float(v)
+                        for k, v in lp_data["choice_logprobs"].items()
+                    }
+                )
             results.append(
                 EvaluatedSample(
                     sample_id=item["sample_id"],
@@ -72,6 +81,7 @@ def load_partial_results(
                     latency_ms=item["latency_ms"],
                     batch_id=item["batch_id"],
                     timestamp=item.get("timestamp", ""),
+                    logprobs=lp,
                 )
             )
         except (KeyError, ValueError):
@@ -126,6 +136,11 @@ def save_partial_results(
                 "latency_ms": round(r.latency_ms, 2),
                 "batch_id": r.batch_id,
                 "timestamp": r.timestamp,
+                "logprobs": (
+                    {"choice_logprobs": {str(k): v for k, v in r.logprobs.choice_logprobs.items()}}
+                    if r.logprobs and r.logprobs.choice_logprobs
+                    else None
+                ),
             }
             for r in results
         ],

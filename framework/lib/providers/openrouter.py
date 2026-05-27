@@ -8,7 +8,6 @@ Structured output: json_schema (model-dependent).
 
 from __future__ import annotations
 
-import json
 import logging
 
 from openai import AsyncOpenAI
@@ -108,16 +107,7 @@ class OpenRouter(BaseProvider):
             if self.enforce_json:
                 kwargs["response_format"] = response_format
             else:
-                schema_text = "\n\nExpected response schema:\n" + json.dumps(response_format['json_schema']['schema'], ensure_ascii=False)
-                appended = False
-                for msg in messages:
-                    if msg["role"] == "system":
-                        if "Expected response schema:" not in msg["content"]:
-                            msg["content"] += schema_text
-                        appended = True
-                        break
-                if not appended:
-                    messages.insert(0, {"role": "system", "content": "Respond with valid JSON.\n" + schema_text})
+                self._inject_schema(messages, response_format)
 
         if self.logprobs:
             kwargs["logprobs"] = True
@@ -133,9 +123,25 @@ class OpenRouter(BaseProvider):
 
         logprobs = None
         if self.logprobs:
+            raw_lp = getattr(response.choices[0], "logprobs", None)
+            if not raw_lp:
+                raise RuntimeError(
+                    f"Provider '{self.provider_name}' did not return logprobs "
+                    f"for model '{self.model}'. The model or API endpoint may "
+                    f"not support logprobs."
+                )
             try:
-                logprobs = _extract_choice_logprobs(response.choices[0].logprobs)
-            except Exception:
-                logprobs = None
+                logprobs = _extract_choice_logprobs(raw_lp)
+            except Exception as exc:
+                raise RuntimeError(
+                    f"Logprob extraction failed for model '{self.model}': "
+                    f"{type(exc).__name__}: {exc}"
+                ) from exc
+            if logprobs is None:
+                raise RuntimeError(
+                    f"Logprob extraction failed for model '{self.model}'. "
+                    f"The API returned logprobs data but extraction could not "
+                    f"find answer tokens."
+                )
 
         return content, prompt_tokens, completion_tokens, logprobs

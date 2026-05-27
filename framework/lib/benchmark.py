@@ -9,6 +9,7 @@ from __future__ import annotations
 import asyncio
 import json
 import logging
+import random
 import time
 from collections import Counter
 from dataclasses import dataclass, field
@@ -99,6 +100,11 @@ class Benchmark:
         base_dir: Optional base directory. When set, all output paths
             (partial results and result.save) are resolved relative to it.
             The directory is created if it does not exist.
+        logprobs_sample_limit: When set, only re-evaluate this many samples
+            that lack logprobs per (model, dataset) combination.  Samples
+            that already have logprobs are always kept.  Useful when you
+            have existing results without logprobs and want to compute
+            rank_consistency from a subset instead of re-running everything.
     """
 
     def __init__(
@@ -109,8 +115,10 @@ class Benchmark:
         concurrency: int = 0,
         partial_results_dir: str | Path = "partial",
         base_dir: str | Path | None = None,
+        logprobs_sample_limit: int | None = None,
     ) -> None:
         self._concurrency = concurrency
+        self._logprobs_sample_limit = logprobs_sample_limit
         self._attacks = attacks or []
         self._models = models or []
 
@@ -635,6 +643,15 @@ class Benchmark:
 
                 for item in data.get("results", []):
                     try:
+                        lp = None
+                        lp_data = item.get("logprobs")
+                        if isinstance(lp_data, dict) and "choice_logprobs" in lp_data:
+                            lp = ChoiceLogprobs(
+                                choice_logprobs={
+                                    int(k): float(v)
+                                    for k, v in lp_data["choice_logprobs"].items()
+                                }
+                            )
                         model_map[key][dataset_file].append(
                             EvaluatedSample(
                                 sample_id=item["sample_id"],
@@ -646,6 +663,7 @@ class Benchmark:
                                 latency_ms=item.get("latency_ms", 0),
                                 batch_id=item.get("batch_id", 0),
                                 timestamp=item.get("timestamp", ""),
+                                logprobs=lp,
                             )
                         )
                     except (KeyError, ValueError):
@@ -703,7 +721,27 @@ class Benchmark:
             model_label,
         )
         sessionless = [r for r in existing if not r.raw_response.startswith("ERROR:")]
-        completed_ids = {r.sample_id for r in sessionless}
+        needs_logprobs = getattr(provider, "logprobs", False)
+        if needs_logprobs:
+            completed_ids = {
+                r.sample_id for r in sessionless
+                if r.logprobs is not None and r.logprobs.choice_logprobs
+            }
+            if self._logprobs_sample_limit is not None:
+                lacking = [
+                    r.sample_id for r in sessionless
+                    if r.logprobs is None or not r.logprobs.choice_logprobs
+                ]
+                random.seed(42)
+                allowed = set(random.sample(
+                    lacking, min(self._logprobs_sample_limit, len(lacking))
+                ))
+                completed_ids.update(
+                    r.sample_id for r in sessionless
+                    if r.sample_id not in allowed
+                )
+        else:
+            completed_ids = {r.sample_id for r in sessionless}
         all_results = list(sessionless)
 
         # Determine remaining samples — skip those already completed and
@@ -750,6 +788,10 @@ class Benchmark:
             )
             if batch_results is not None:
                 async with lock:
+                    new_ids = {r.sample_id for r in batch_results}
+                    all_results[:] = [
+                        r for r in all_results if r.sample_id not in new_ids
+                    ]
                     all_results.extend(batch_results)
                     correct = sum(1 for r in batch_results if r.correct)
                     logger.info(
@@ -909,5 +951,35 @@ class Benchmark:
                                 logprobs=choice_logprobs,
                             )
                         )
+
+                null_count = sum(1 for r in results if r.predicted is None)
+                if null_count > 0 and attempt < retry_state.retry_times:
+                    logger.warning(
+                        "    Batch %d attempt %d/%d: %d/%d predictions null — retrying",
+                        batch_id, attempt + 1, retry_state.retry_times + 1,
+                        null_count, len(samples),
+                    )
+                    log_error(
+                        self._partial_dir,
+                        started_at,
+                        phase="evaluation",
+                        error_type="parse_failure",
+                        provider=provider.provider_name,
+                        model=provider.display_name,
+                        dataset=dataset_filename,
+                        batch_id=batch_id,
+                        sample_ids=[r.sample_id for r in results if r.predicted is None],
+                        attempt=attempt + 1,
+                        max_attempts=retry_state.retry_times + 1,
+                    )
+                    continue
+
+                if null_count == len(samples) and attempt == retry_state.retry_times:
+                    logger.warning(
+                        "    Batch %d: all %d predictions null after %d attempts — skipping",
+                        batch_id, len(samples), retry_state.retry_times + 1,
+                    )
+                    retry_state.record_failure(dataset_filename, sample_ids)
+                    return None
 
                 return results

@@ -60,6 +60,8 @@ class RobustnessMetrics:
             the *same* wrong answer under attack.
         rank_consistency: Spearman rank correlation between answer-rank vectors
             (when logprobs are available).  None otherwise.
+        logprobs_n: Number of samples used for rank_consistency (may be less
+            than total when only a subset has logprobs).
     """
 
     accuracy_drop: float
@@ -68,6 +70,7 @@ class RobustnessMetrics:
     positive_transfer: float
     negative_transfer: float
     rank_consistency: float | None = None
+    logprobs_n: int | None = None
 
     def to_dict(self) -> dict:
         d: dict = {
@@ -79,6 +82,8 @@ class RobustnessMetrics:
         }
         if self.rank_consistency is not None:
             d["rank_consistency"] = round(self.rank_consistency, 4)
+        if self.logprobs_n is not None:
+            d["logprobs_n"] = self.logprobs_n
         return d
 
 
@@ -225,9 +230,11 @@ def _build_rank_vector(
     """Build an answer-rank vector from per-sample logprobs.
 
     For each sample, ranks answer choices by their logprob (highest first).
+    Samples without logprobs are skipped; the rank vector covers only the
+    subset that has them.
 
-    Returns None if any sample lacks logprobs (mixed availability would
-    distort Spearman).
+    Returns None if fewer than 3 samples have logprobs (too few for
+    meaningful Spearman).
     """
     ranks: list[float] = []
 
@@ -235,7 +242,7 @@ def _build_rank_vector(
         r = results[sid]
         probs = r.logprobs
         if not (probs and probs.choice_logprobs):
-            return None
+            continue
         sorted_indices = sorted(probs.choice_logprobs, key=lambda k: probs.choice_logprobs[k], reverse=True)
         rank_map = {idx: rank + 1 for rank, idx in enumerate(sorted_indices)}
         if r.predicted is not None:
@@ -243,7 +250,7 @@ def _build_rank_vector(
         else:
             ranks.append(float(len(sorted_indices) + 1))
 
-    return ranks
+    return ranks if len(ranks) >= 3 else None
 
 
 def compute_robustness(
@@ -336,11 +343,11 @@ def compute_robustness(
     sorted_ids = sorted(common_ids)
     baseline_ranks = _build_rank_vector(baseline_map, sorted_ids)
     attacked_ranks = _build_rank_vector(attacked_map, sorted_ids)
-    rank_consistency = (
-        _spearman_rho(baseline_ranks, attacked_ranks)
-        if baseline_ranks and attacked_ranks
-        else None
-    )
+    rank_consistency = None
+    logprobs_n = None
+    if baseline_ranks and attacked_ranks:
+        rank_consistency = _spearman_rho(baseline_ranks, attacked_ranks)
+        logprobs_n = min(len(baseline_ranks), len(attacked_ranks))
 
     return RobustnessMetrics(
         accuracy_drop=accuracy_drop,
@@ -349,4 +356,5 @@ def compute_robustness(
         positive_transfer=positive_transfer,
         negative_transfer=negative_transfer,
         rank_consistency=rank_consistency,
+        logprobs_n=logprobs_n,
     )
