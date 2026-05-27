@@ -43,8 +43,8 @@ class ProviderPool(BaseProvider):
         name: str,
         label: str | None = None,
     ) -> None:
-        if len(providers) < 2:
-            raise ValueError("ProviderPool requires at least 2 providers")
+        # if len(providers) < 2:
+        #     raise ValueError("ProviderPool requires at least 2 providers")
         batches = {p.batch_size for p in providers}
         if len(batches) > 1:
             raise ValueError(

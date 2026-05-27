@@ -297,6 +297,16 @@ class Benchmark:
                 "Evaluating model: %s (%s) [label=%s]",
                 provider.display_name, provider.provider_name, label,
             )
+
+            ordered = sorted(
+                all_datasets,
+                key=lambda ds: self._dataset_priority(ds, provider, label),
+            )
+            logger.info(
+                "  Dataset order: %s",
+                [f"{ds.filename} (tier={self._dataset_priority(ds, provider, label)[0]})" for ds in ordered],
+            )
+
             model_result = ModelResult(
                 model_name=provider.display_name,
                 provider=provider.provider_name,
@@ -309,11 +319,16 @@ class Benchmark:
 
             semaphore = provider.get_semaphore()
 
-            for dataset in all_datasets:
+            for dataset in ordered:
                 if retry_state.aborted:
                     finished = False
                     break
 
+                attack_info = f"attack={dataset.attack.attack_name}/{dataset.attack.label}" if dataset.attack else "baseline"
+                logger.info(
+                    "  [%s] Evaluating %s (%s): %d samples",
+                    provider.display_name, dataset.filename, attack_info, len(dataset),
+                )
                 ds_result = await self._evaluate_dataset(
                     provider, dataset, label, started_at, retry_state, semaphore,
                 )
@@ -448,107 +463,99 @@ class Benchmark:
             )
             finished = True
 
-            # Evaluate baseline (always available immediately)
-            ds_result = await self._evaluate_dataset(
-                provider, self._baseline, label, started_at, retry_state, semaphore,
-            )
-            model_result.evaluated_datasets.append(ds_result)
+            # Build a unified queue: baseline is always ready, attacks become ready
+            # when their perturbation finishes.  We pick the highest-priority ready
+            # dataset each iteration.
+            baseline_done = False
+            attack_done: set[str] = set()
+            all_attack_labels = [a.label for a in self._attacks]
 
-            expected = len(self._baseline)
-            completed = len(ds_result.results)
-            if retry_state.aborted or completed < expected:
-                finished = False
-                logger.warning(
-                    "  %s: %d/%d completed (incomplete)",
-                    self._baseline.filename, completed, expected,
-                )
-                if retry_state.aborted:
-                    logger.warning(
-                        "  %s: ABORTING model — %d errors",
-                        self._baseline.filename, retry_state.total_errors,
-                    )
-                    log_error(
-                        self._partial_dir, started_at,
-                        phase="evaluation", error_type="model_aborted",
-                        provider=provider.provider_name,
-                        model=provider.display_name,
-                        dataset=self._baseline.filename,
-                        total_errors=retry_state.total_errors,
-                        max_errors=retry_state.max_errors,
-                    )
-
-            # Evaluate each attack dataset as soon as ANY perturbation finishes
-            pending_labels = [a.label for a in self._attacks]
-            while pending_labels:
+            while not baseline_done or len(attack_done) < len(all_attack_labels):
                 if retry_state.aborted:
                     finished = False
                     break
 
-                # Wait for the first attack that finishes
-                done, _ = await asyncio.wait(
-                    [asyncio.ensure_future(attack_events[lbl].wait()) for lbl in pending_labels],
-                    return_when=asyncio.FIRST_COMPLETED,
+                # Collect all datasets that are ready to evaluate
+                candidates: list[Dataset] = []
+                if not baseline_done:
+                    candidates.append(self._baseline)
+                for attack in self._attacks:
+                    if attack.label not in attack_done and attack_events[attack.label].is_set():
+                        candidates.append(attack_results[attack.label])
+
+                if not candidates:
+                    # No datasets ready yet — wait for the next attack perturbation
+                    pending_labels = [
+                        lbl for lbl in all_attack_labels if lbl not in attack_done
+                    ]
+                    if pending_labels:
+                        await asyncio.wait(
+                            [asyncio.ensure_future(attack_events[lbl].wait()) for lbl in pending_labels],
+                            return_when=asyncio.FIRST_COMPLETED,
+                        )
+                    continue
+
+                # Pick the highest-priority ready dataset
+                candidates.sort(key=lambda ds: self._dataset_priority(ds, provider, label))
+                dataset = candidates[0]
+                is_baseline = dataset.attack is None
+
+                attack_info = f"attack={dataset.attack.attack_name}/{dataset.attack.label}" if dataset.attack else "baseline"
+                logger.info(
+                    "  [%s] Evaluating %s (%s): %d samples",
+                    provider.display_name, dataset.filename, attack_info, len(dataset),
                 )
-                # Resolve which labels are now ready
-                ready_labels: list[str] = []
-                still_pending: list[str] = []
-                for lbl in pending_labels:
-                    if attack_events[lbl].is_set():
-                        ready_labels.append(lbl)
-                    else:
-                        still_pending.append(lbl)
-                pending_labels = still_pending
 
-                # Process ready attacks in original list order for determinism
-                for lbl in ready_labels:
-                    if retry_state.aborted:
-                        finished = False
-                        break
+                if is_baseline:
+                    pass
+                elif dataset.attack is not None and dataset.attack.label in attack_errors:
+                    raise attack_errors[dataset.attack.label]
 
-                    if lbl in attack_errors:
-                        raise attack_errors[lbl]
+                ds_result = await self._evaluate_dataset(
+                    provider, dataset, label, started_at, retry_state, semaphore,
+                )
+                model_result.evaluated_datasets.append(ds_result)
 
-                    ds = attack_results[lbl]
-                    ds_result = await self._evaluate_dataset(
-                        provider, ds, label, started_at, retry_state, semaphore,
+                if is_baseline:
+                    baseline_done = True
+                elif dataset.attack is not None:
+                    attack_done.add(dataset.attack.label)
+
+                expected = len(dataset)
+                completed = len(ds_result.results)
+                if retry_state.aborted or completed < expected:
+                    finished = False
+                    logger.warning(
+                        "  %s: %d/%d completed (incomplete)",
+                        dataset.filename, completed, expected,
                     )
-                    model_result.evaluated_datasets.append(ds_result)
-
-                    expected = len(ds)
-                    completed = len(ds_result.results)
-                    if retry_state.aborted or completed < expected:
-                        finished = False
+                    if retry_state.aborted:
                         logger.warning(
-                            "  %s: %d/%d completed (incomplete)",
-                            ds.filename, completed, expected,
+                            "  %s: ABORTING model — %d errors",
+                            dataset.filename, retry_state.total_errors,
                         )
-                        if retry_state.aborted:
-                            logger.warning(
-                                "  %s: ABORTING model — %d errors",
-                                ds.filename, retry_state.total_errors,
-                            )
-                            log_error(
-                                self._partial_dir, started_at,
-                                phase="evaluation", error_type="model_aborted",
-                                provider=provider.provider_name,
-                                model=provider.display_name,
-                                dataset=ds.filename,
-                                total_errors=retry_state.total_errors,
-                                max_errors=retry_state.max_errors,
-                            )
-                            break
-                    else:
-                        m = ds_result.metrics
-                        logger.info(
-                            "  %s: %d/%d completed (%.1f%% accuracy)",
-                            ds.filename, completed, expected, m.accuracy * 100,
+                        log_error(
+                            self._partial_dir, started_at,
+                            phase="evaluation", error_type="model_aborted",
+                            provider=provider.provider_name,
+                            model=provider.display_name,
+                            dataset=dataset.filename,
+                            total_errors=retry_state.total_errors,
+                            max_errors=retry_state.max_errors,
                         )
-                        if m.tasks:
-                            per_task = " ".join(
-                                f"{task}={info['accuracy']:.0%}"
-                                for task, info in sorted(m.tasks.items())
-                            )
-                            logger.info("    per-task: %s", per_task)
+                        break
+                else:
+                    m = ds_result.metrics
+                    logger.info(
+                        "  %s: %d/%d completed (%.1f%% accuracy)",
+                        dataset.filename, completed, expected, m.accuracy * 100,
+                    )
+                    if m.tasks:
+                        per_task = " ".join(
+                            f"{task}={info['accuracy']:.0%}"
+                            for task, info in sorted(m.tasks.items())
+                        )
+                        logger.info("    per-task: %s", per_task)
 
             return model_result, finished
 
@@ -698,6 +705,66 @@ class Benchmark:
         result._compute_all_robustness()
         return result
 
+    def _logprobs_needed(self, provider: BaseProvider) -> int | None:
+        """Return the minimum logprobs count required per (model, dataset).
+
+        Returns ``None`` when logprobs are not requested.
+        """
+        if not getattr(provider, "logprobs", False):
+            return None
+        return self._logprobs_sample_limit or 20
+
+    def _count_logprobs(self, results: list) -> int:
+        """Count results that already have valid logprobs."""
+        return sum(
+            1 for r in results
+            if r.logprobs is not None and r.logprobs.choice_logprobs
+        )
+
+    def _dataset_priority(
+        self, dataset: Dataset, provider: BaseProvider, model_label: str,
+    ) -> tuple[int, float]:
+        """Sort key for dataset evaluation order.
+
+        Returns ``(tier, completion_ratio)`` where:
+        - tier 0 = attacked dataset with 0 predictions (highest priority)
+        - tier 1 = attacked dataset with predictions but needs more work
+        - tier 2 = attacked dataset fully completed (including logprobs)
+        - tier 3 = baseline (lowest priority)
+
+        "Needs more work" means either incomplete predictions, or
+        logprobs are required but the collected count is below the minimum.
+        Within the same tier, lower completion ratio sorts first.
+        """
+        is_baseline = dataset.attack is None
+        existing = load_partial_results(
+            self._partial_dir, dataset.filename,
+            provider.model_slug, model_label,
+        )
+        sessionless = [r for r in existing if not r.raw_response.startswith("ERROR:")]
+        completed = len(sessionless)
+        total = len(dataset)
+        ratio = completed / total if total > 0 else 1.0
+
+        if is_baseline:
+            tier = 3
+        elif completed == 0:
+            tier = 0
+        elif ratio < 1.0:
+            tier = 1
+        else:
+            lp_needed = self._logprobs_needed(provider)
+            if lp_needed is not None:
+                lp_count = self._count_logprobs(sessionless)
+                if lp_count < lp_needed:
+                    tier = 1
+                else:
+                    tier = 2
+            else:
+                tier = 2
+
+        return (tier, ratio)
+
     async def _evaluate_dataset(
         self,
         provider: BaseProvider,
@@ -723,19 +790,27 @@ class Benchmark:
         sessionless = [r for r in existing if not r.raw_response.startswith("ERROR:")]
         needs_logprobs = getattr(provider, "logprobs", False)
         if needs_logprobs:
+            lp_needed = self._logprobs_needed(provider)
+            lp_count = self._count_logprobs(sessionless)
             completed_ids = {
                 r.sample_id for r in sessionless
                 if r.logprobs is not None and r.logprobs.choice_logprobs
             }
-            if self._logprobs_sample_limit is not None:
+            if lp_count >= lp_needed:
+                logger.info(
+                    "  %s: logprobs minimum met (%d >= %d), treating all as completed",
+                    dataset.filename, lp_count, lp_needed,
+                )
+                completed_ids = {r.sample_id for r in sessionless}
+            elif self._logprobs_sample_limit is not None:
                 lacking = [
                     r.sample_id for r in sessionless
                     if r.logprobs is None or not r.logprobs.choice_logprobs
                 ]
+                remaining_budget = max(0, lp_needed - lp_count)
+                n_to_pick = min(remaining_budget, len(lacking))
                 random.seed(42)
-                allowed = set(random.sample(
-                    lacking, min(self._logprobs_sample_limit, len(lacking))
-                ))
+                allowed = set(random.sample(lacking, n_to_pick))
                 completed_ids.update(
                     r.sample_id for r in sessionless
                     if r.sample_id not in allowed

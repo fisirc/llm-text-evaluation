@@ -341,13 +341,22 @@ def compute_robustness(
 
     # --- Rank consistency (Spearman via logprobs) ---
     sorted_ids = sorted(common_ids)
-    baseline_ranks = _build_rank_vector(baseline_map, sorted_ids)
-    attacked_ranks = _build_rank_vector(attacked_map, sorted_ids)
+    logprobs_ids = sorted(
+        sid
+        for sid in sorted_ids
+        if baseline_map[sid].logprobs
+        and baseline_map[sid].logprobs.choice_logprobs
+        and attacked_map[sid].logprobs
+        and attacked_map[sid].logprobs.choice_logprobs
+    )
     rank_consistency = None
     logprobs_n = None
-    if baseline_ranks and attacked_ranks:
-        rank_consistency = _spearman_rho(baseline_ranks, attacked_ranks)
-        logprobs_n = min(len(baseline_ranks), len(attacked_ranks))
+    if len(logprobs_ids) >= 3:
+        baseline_ranks = _build_rank_vector(baseline_map, logprobs_ids)
+        attacked_ranks = _build_rank_vector(attacked_map, logprobs_ids)
+        if baseline_ranks and attacked_ranks:
+            rank_consistency = _spearman_rho(baseline_ranks, attacked_ranks)
+            logprobs_n = min(len(baseline_ranks), len(attacked_ranks))
 
     return RobustnessMetrics(
         accuracy_drop=accuracy_drop,

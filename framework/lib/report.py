@@ -355,12 +355,16 @@ class BenchmarkResult:
                         }
                     sample_entry = per_sample[sid]
                     sample_entry.setdefault("models", {})
+                    lp = None
+                    if r.logprobs and r.logprobs.choice_logprobs:
+                        lp = {str(k): v for k, v in r.logprobs.choice_logprobs.items()}
                     sample_entry["models"].setdefault(
                         model_result.model_name, {}
                     )[label] = {
                         "predicted": r.predicted,
                         "correct": r.correct,
                         "latency_ms": round(r.latency_ms, 2),
+                        "logprobs": lp,
                     }
 
         output = {
