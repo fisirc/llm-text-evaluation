@@ -11,7 +11,6 @@ Auth: Not required locally. For remote servers behind a reverse proxy,
 
 from __future__ import annotations
 
-import json
 import logging
 
 from openai import AsyncOpenAI
@@ -25,12 +24,55 @@ logger = logging.getLogger("llm_verbal_framework")
 def _extract_choice_logprobs(logprobs_data) -> ChoiceLogprobs | None:
     """Extract per-answer-choice logprobs from OpenAI-style logprobs response.
 
-    Scans the token logprobs for digit tokens and maps answer_index → logprob.
+    For single-answer responses (``{"answer": N}``), locates the digit token
+    after the ``"answer":`` key and reads its ``top_logprobs`` to get the
+    model's confidence for every answer index.
+
+    For batch responses, the same logic is applied to each ``"answer"`` key
+    but only the FIRST one found is returned (batch-level logprobs are not
+    yet fully supported — callers that need per-sample logprobs should use
+    batch_size=1).
+
+    Falls back to scanning all digit tokens when ``top_logprobs`` is
+    unavailable (older API versions).
     """
     content = getattr(logprobs_data, "content", None)
     if not content:
         return None
-    result: dict[int, float] = {}
+
+    # --- Strategy 1: find the "answer": <digit> token via top_logprobs ---
+    answer_idx = None
+    for i, token_lp in enumerate(content):
+        token = getattr(token_lp, "token", "").strip()
+        if token == '":' or token == '": ':
+            # Previous non-whitespace token should be "answer"
+            for j in range(max(0, i - 1), -1, -1):
+                prev = getattr(content[j], "token", "").strip().strip('"')
+                if prev in ("answer", "answer "):
+                    # Next digit token is the answer value
+                    for k in range(i + 1, min(i + 4, len(content))):
+                        maybe_digit = getattr(content[k], "token", "").strip()
+                        if maybe_digit.isdigit():
+                            answer_idx = k
+                            break
+                    break
+            if answer_idx is not None:
+                break
+
+    if answer_idx is not None:
+        token_lp = content[answer_idx]
+        top = getattr(token_lp, "top_logprobs", None)
+        if top:
+            result: dict[int, float] = {}
+            for alt in top:
+                t = getattr(alt, "token", "").strip()
+                if t.isdigit():
+                    result[int(t)] = getattr(alt, "logprob", 0.0)
+            if result:
+                return ChoiceLogprobs(choice_logprobs=result)
+
+    # --- Strategy 2: fallback — scan all digit tokens ---
+    result = {}
     for token_lp in content:
         token = getattr(token_lp, "token", "").strip()
         if token.isdigit():
@@ -123,16 +165,7 @@ class Ollama(BaseProvider):
             if self.enforce_json:
                 kwargs["response_format"] = response_format
             else:
-                schema_text = "\n\nExpected response schema:\n" + json.dumps(response_format['json_schema']['schema'], ensure_ascii=False)
-                appended = False
-                for msg in messages:
-                    if msg["role"] == "system":
-                        if "Expected response schema:" not in msg["content"]:
-                            msg["content"] += schema_text
-                        appended = True
-                        break
-                if not appended:
-                    messages.insert(0, {"role": "system", "content": "Respond with valid JSON.\n" + schema_text})
+                self._inject_schema(messages, response_format)
 
         if self.logprobs:
             kwargs["logprobs"] = True
@@ -148,9 +181,25 @@ class Ollama(BaseProvider):
 
         logprobs = None
         if self.logprobs:
+            raw_lp = getattr(response.choices[0], "logprobs", None)
+            if not raw_lp:
+                raise RuntimeError(
+                    f"Provider '{self.provider_name}' did not return logprobs "
+                    f"for model '{self.model}'. The model or API endpoint may "
+                    f"not support logprobs."
+                )
             try:
-                logprobs = _extract_choice_logprobs(response.choices[0].logprobs)
-            except Exception:
-                logprobs = None
+                logprobs = _extract_choice_logprobs(raw_lp)
+            except Exception as exc:
+                logger.warning(
+                    "Logprob extraction failed for model '%s': %s: %s",
+                    self.model, type(exc).__name__, exc,
+                )
+            if logprobs is None:
+                raise RuntimeError(
+                    f"Logprob extraction failed for model '{self.model}'. "
+                    f"The API returned logprobs data but extraction could not "
+                    f"find answer tokens. Raw logprobs had {len(getattr(raw_lp, 'content', []) or [])} tokens."
+                )
 
         return content, prompt_tokens, completion_tokens, logprobs

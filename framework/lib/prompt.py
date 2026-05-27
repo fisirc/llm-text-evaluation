@@ -74,6 +74,16 @@ BATCH_ANSWER_SCHEMA = {
     },
 }
 
+_SINGLE_SCHEMA_EXAMPLE = (
+    '\n\nRespond with JSON like this example:\n'
+    '{"answer": 2}'
+)
+
+_BATCH_SCHEMA_EXAMPLE = (
+    '\n\nRespond with JSON like this example:\n'
+    '{"answers": [{"id": 321, "answer": 0}, {"id": 23, "answer": 3}]}'
+)
+
 
 # -- Prompt building
 
@@ -147,13 +157,48 @@ def build_messages(
     return messages, response_format
 
 
+def schema_prompt_text(response_format: dict | None) -> str | None:
+    """Return a human-readable example for the given response format.
+
+    Used by providers that cannot enforce the schema natively (``enforce_json=False``)
+    and must inject the format into the prompt.  Returns a concise example instead
+    of the raw JSON-Schema definition, which is hard for models to interpret.
+
+    Args:
+        response_format: The ``SINGLE_ANSWER_SCHEMA`` or ``BATCH_ANSWER_SCHEMA``
+            dict, or ``None``.
+
+    Returns:
+        Example text to append, or ``None`` if *response_format* is ``None``.
+    """
+    if response_format is None:
+        return None
+    name = response_format.get("json_schema", {}).get("name", "")
+    if name == "batch_answers":
+        return _BATCH_SCHEMA_EXAMPLE
+    return _SINGLE_SCHEMA_EXAMPLE
+
+
 # -- Response parsin
+
+
+def _strip_markdown(raw: str) -> str:
+    """Remove ```json ... ``` wrapping if present."""
+    stripped = raw.strip()
+    if stripped.startswith("```"):
+        first_newline = stripped.find("\n")
+        if first_newline != -1:
+            stripped = stripped[first_newline + 1:]
+        if stripped.endswith("```"):
+            stripped = stripped[:-3]
+    return stripped.strip()
 
 
 def parse_single_response(raw: str) -> int | None:
     """Parse a single-answer JSON response.
 
-    Tries JSON parsing first, then falls back to regex extraction.
+    Tries JSON parsing first (with markdown-wrapper stripping),
+    then falls back to regex extraction of ``"answer": <N>``.
 
     Args:
         raw: Raw model response text.
@@ -161,9 +206,10 @@ def parse_single_response(raw: str) -> int | None:
     Returns:
         The predicted answer index, or None if parsing fails.
     """
-    # Try JSON parse
+    cleaned = _strip_markdown(raw)
+
     try:
-        data = json.loads(raw.strip())
+        data = json.loads(cleaned)
         if isinstance(data, dict) and "answer" in data:
             answer = data["answer"]
             if isinstance(answer, int):
@@ -171,7 +217,10 @@ def parse_single_response(raw: str) -> int | None:
     except (json.JSONDecodeError, TypeError):
         pass
 
-    # Fallback: extract first integer from response
+    matches = re.findall(r'"answer"\s*:\s*(\d+)', raw)
+    if len(matches) == 1:
+        return int(matches[0])
+
     match = re.search(r"\b(\d+)\b", raw)
     if match:
         return int(match.group(1))
@@ -185,7 +234,11 @@ def parse_batch_response(
 ) -> dict[int, int | None]:
     """Parse a batch-answer JSON response.
 
-    Returns a mapping from sample ID to predicted answer index.
+    Strategy order:
+      1. ``{"answers": [{"id": 1, "answer": 0}, ...]}`` — match by id
+      2. ``{"answers": [{"answer": 0}, ...]}`` — positional fallback
+      3. ``[0, 1, 2, ...]`` — plain integer array, positional
+      4. Regex fallback: extract ``"answer": <N>`` per entry
 
     Args:
         raw: Raw model response text.
@@ -195,22 +248,45 @@ def parse_batch_response(
         Dict mapping sample_id → predicted_answer (None if missing/failed).
     """
     results: dict[int, int | None] = {sid: None for sid in expected_ids}
+    cleaned = _strip_markdown(raw)
 
-    # Try JSON parse
     try:
-        data = json.loads(raw.strip())
-        if isinstance(data, list) and len(data) > 0 and isinstance(data[0], int):
-            for idx, ans in enumerate(data):
-                results[expected_ids[idx]] = ans
+        data = json.loads(cleaned)
+
         if isinstance(data, dict) and "answers" in data:
-            for item in data["answers"]:
-                if isinstance(item, dict) and "id" in item and "answer" in item:
-                    sid = item["id"]
-                    answer = item["answer"]
-                    if sid in results and isinstance(answer, int):
-                        results[sid] = answer
+            answers_list = data["answers"]
+            if isinstance(answers_list, list):
+                matched = 0
+                for item in answers_list:
+                    if isinstance(item, dict) and "id" in item and "answer" in item:
+                        sid = item["id"]
+                        answer = item["answer"]
+                        if sid in results and isinstance(answer, int):
+                            results[sid] = answer
+                            matched += 1
+
+                if matched == 0 and len(answers_list) == len(expected_ids):
+                    for idx, item in enumerate(answers_list):
+                        if isinstance(item, dict) and "answer" in item:
+                            answer = item["answer"]
+                            if isinstance(answer, int):
+                                results[expected_ids[idx]] = answer
+
+        if isinstance(data, list) and len(data) > 0:
+            all_ints = all(isinstance(x, int) for x in data)
+            if all_ints:
+                for idx, ans in enumerate(data):
+                    if idx < len(expected_ids):
+                        results[expected_ids[idx]] = ans
+
     except (json.JSONDecodeError, TypeError):
         pass
+
+    if all(v is None for v in results.values()):
+        matches = re.findall(r'"answer"\s*:\s*(\d+)', raw)
+        if len(matches) == len(expected_ids):
+            for idx, m in enumerate(matches):
+                results[expected_ids[idx]] = int(m)
 
     return results
 

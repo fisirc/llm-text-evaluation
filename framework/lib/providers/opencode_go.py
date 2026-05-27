@@ -10,7 +10,6 @@ Auth: Bearer token via API key.
 
 from __future__ import annotations
 
-import json
 import logging
 
 from anthropic import AsyncAnthropic
@@ -127,16 +126,7 @@ class OpencodeGo(BaseProvider):
             if self.enforce_json:
                 kwargs["response_format"] = response_format
             else:
-                schema_text = "\n\nExpected response schema:\n" + json.dumps(response_format['json_schema']['schema'], ensure_ascii=False)
-                appended = False
-                for msg in messages:
-                    if msg["role"] == "system":
-                        if "Expected response schema:" not in msg["content"]:
-                            msg["content"] += schema_text
-                        appended = True
-                        break
-                if not appended:
-                    messages.insert(0, {"role": "system", "content": "Respond with valid JSON.\n" + schema_text})
+                self._inject_schema(messages, response_format)
 
         if self.logprobs:
             kwargs["logprobs"] = True
@@ -152,10 +142,26 @@ class OpencodeGo(BaseProvider):
 
         logprobs = None
         if self.logprobs:
+            raw_lp = getattr(response.choices[0], "logprobs", None)
+            if not raw_lp:
+                raise RuntimeError(
+                    f"Provider '{self.provider_name}' did not return logprobs "
+                    f"for model '{self.model}'. The model or API endpoint may "
+                    f"not support logprobs."
+                )
             try:
-                logprobs = _extract_choice_logprobs(response.choices[0].logprobs)
-            except Exception:
-                logprobs = None
+                logprobs = _extract_choice_logprobs(raw_lp)
+            except Exception as exc:
+                raise RuntimeError(
+                    f"Logprob extraction failed for model '{self.model}': "
+                    f"{type(exc).__name__}: {exc}"
+                ) from exc
+            if logprobs is None:
+                raise RuntimeError(
+                    f"Logprob extraction failed for model '{self.model}'. "
+                    f"The API returned logprobs data but extraction could not "
+                    f"find answer tokens."
+                )
 
         return content, prompt_tokens, completion_tokens, logprobs
 
@@ -164,6 +170,12 @@ class OpencodeGo(BaseProvider):
         messages: list[dict[str, str]],
         response_format: dict | None,
     ) -> tuple[str, int, int, ChoiceLogprobs | None]:
+        if self.logprobs:
+            raise RuntimeError(
+                f"Provider '{self.provider_name}' (Anthropic API) does not "
+                f"support logprobs for model '{self.model}'. Remove "
+                f"logprobs=True or use an OpenAI-compatible endpoint."
+            )
         messages = [dict(m) for m in messages]
         # Anthropic's native output_config structured output is only available on
         # Claude models (Opus 4.5+, Sonnet 4.5+, Haiku 4.5+). MiniMax models
@@ -171,19 +183,7 @@ class OpencodeGo(BaseProvider):
         # can't use native json_schema enforcement here — prompt injection is our
         # only option.
         if response_format:
-            schema_instruction = (
-                "\n\nIMPORTANT: You must respond with valid JSON following this types schema:\n"
-                + json.dumps(response_format['json_schema']['schema'], ensure_ascii=False)
-            )
-            appended = False
-            for msg in messages:
-                if msg["role"] == "system":
-                    if "IMPORTANT: You must respond with valid JSON" not in msg["content"]:
-                        msg["content"] += schema_instruction
-                    appended = True
-                    break
-            if not appended:
-                messages.insert(0, {"role": "system", "content": "Respond with valid JSON.\n" + schema_instruction})
+            self._inject_schema(messages, response_format)
 
         system = None
         api_messages: list[dict] = []

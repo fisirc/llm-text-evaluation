@@ -5,6 +5,7 @@ from __future__ import annotations
 import asyncio
 from abc import ABC, abstractmethod
 
+from ..prompt import schema_prompt_text
 from ..types import ChoiceLogprobs
 
 
@@ -98,6 +99,34 @@ class BaseProvider(ABC):
             limit = self.concurrency if self.concurrency is not None else 0
             self._semaphore = asyncio.Semaphore(limit) if limit > 0 else _UnboundedSemaphore()
         return self._semaphore
+
+    @staticmethod
+    def _inject_schema(
+        messages: list[dict[str, str]],
+        response_format: dict | None,
+        *,
+        marker: str = "Respond with JSON like this",
+    ) -> None:
+        """Inject schema example into *messages* in-place when needed.
+
+        When the provider does not enforce JSON natively (``enforce_json=False``)
+        the response format must be communicated via the prompt.  This method
+        appends a concise example (not the raw JSON-Schema) to the system
+        message, or inserts a new system message if none exists.
+
+        Does nothing when *response_format* is ``None`` or the *marker*
+        is already present in a system message.
+        """
+        schema_text = schema_prompt_text(response_format)
+        if schema_text is None:
+            return
+
+        for msg in messages:
+            if msg["role"] == "system" and marker not in msg["content"]:
+                msg["content"] += schema_text
+                return
+
+        messages.insert(0, {"role": "system", "content": schema_text.strip()})
 
     def __repr__(self) -> str:
         return (
