@@ -626,16 +626,32 @@ class Benchmark:
         model_map: dict[tuple[str, str], dict[str, list[EvaluatedSample]]] = {}
         earliest_started = started_at
 
+        # Collect valid prefixes to ignore old removed models
+        valid_prefixes = {}
+        for idx, m in enumerate(self._models):
+            label = self._model_labels[idx]
+            prefix = f"{m.model_slug}_{label}" if label else m.model_slug
+            valid_prefixes[prefix] = m
+
         if analysis_dir.exists():
             for fpath in sorted(analysis_dir.glob("*.json")):
+                matched_provider = None
+                for prefix, m in valid_prefixes.items():
+                    if fpath.name.startswith(prefix + "."):
+                        matched_provider = m
+                        break
+                
+                if matched_provider is None:
+                    continue
+
                 try:
                     with open(fpath, "r", encoding="utf-8") as f:
                         data = json.load(f)
                 except (json.JSONDecodeError, OSError):
                     continue
 
-                model_name = data.get("model") or ""
-                provider = data.get("provider") or ""
+                model_name = matched_provider.display_name
+                provider = matched_provider.provider_name
                 dataset_file = data.get("dataset_file") or ""
                 file_started = data.get("started_at") or ""
 
@@ -843,6 +859,32 @@ class Benchmark:
             len(completed_ids),
         )
 
+        # Shuffle remaining samples in a task-balanced round-robin order
+        # so batches get a mix of task types instead of sequential blocks.
+        by_task: dict[str, list] = {}
+        for s in remaining:
+            by_task.setdefault(s.task, []).append(s)
+        for task_samples in by_task.values():
+            random.shuffle(task_samples)
+        task_iters = {t: iter(samples) for t, samples in by_task.items()}
+        balanced: list = []
+        task_keys = list(by_task.keys())
+        random.shuffle(task_keys)
+        while task_iters:
+            exhausted = []
+            for t in task_keys:
+                if t not in task_iters:
+                    continue
+                s = next(task_iters[t], None)
+                if s is not None:
+                    balanced.append(s)
+                else:
+                    exhausted.append(t)
+            for t in exhausted:
+                del task_iters[t]
+                task_keys.remove(t)
+        remaining = balanced
+
         # Group into batches
         batches: list[list] = []
         for i in range(0, len(remaining), provider.batch_size):
@@ -855,7 +897,7 @@ class Benchmark:
         async def _eval_batch(batch_idx: int, batch_samples: list) -> list[EvaluatedSample] | None:
             batch_id = batch_counter + batch_idx
             sample_ids = [s.id for s in batch_samples]
-            logger.info("    Batch %d: Evaluating samples %s", batch_id, sample_ids)
+            # logger.info("    Batch %d: Evaluating samples %s", batch_id, sample_ids)
 
             batch_results = await self._evaluate_batch(
                 provider, batch_samples, batch_id, semaphore, retry_state,
@@ -926,9 +968,6 @@ class Benchmark:
                     raw_response, prompt_tokens, completion_tokens, choice_logprobs = await provider.complete(
                         messages, response_format
                     )
-                    logger.debug(
-                        "    Batch %d: Raw response:\n%s", batch_id, raw_response,
-                    )
                     # Filter logprobs to only valid answer indices
                     if choice_logprobs and samples:
                         num_choices = len(samples[0].options)
@@ -938,8 +977,24 @@ class Benchmark:
                         else:
                             choice_logprobs = None
                     logger.debug(
-                        "    Batch %d: Final messages (after provider processing):\n%s",
-                        batch_id, json.dumps(messages, ensure_ascii=False, indent=4),
+                        "\n%s\n"
+                        "  Model:    %s\n"
+                        "  Dataset:  %s\n"
+                        "  Batch:    %d  |  Samples: %s  |  Attempt: %d/%d\n"
+                        "%s\n"
+                        "  >>> RAW RESPONSE:\n%s\n"
+                        "%s\n"
+                        "  >>> MESSAGES SENT (after provider processing):\n%s\n"
+                        "%s",
+                        "=" * 72,
+                        provider.display_name,
+                        dataset_filename,
+                        batch_id, sample_ids, attempt + 1, retry_state.retry_times + 1,
+                        "-" * 72,
+                        raw_response,
+                        "-" * 72,
+                        json.dumps(messages, ensure_ascii=False, indent=2),
+                        "=" * 72,
                     )
                 except Exception as e:
                     logger.error(

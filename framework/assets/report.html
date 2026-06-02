@@ -1,0 +1,91 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>LLM Reasoning Evaluation Report</title>
+<style>/*__CSS__*/</style>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/Chart.js/4.5.0/chart.umd.min.js"></script>
+</head>
+<body>
+<h1>LLM Reasoning Evaluation Report</h1>
+<div class="info-bar" id="info-bar"></div>
+<nav class="tabs" id="nav-tabs">
+  <button class="tab-btn active" data-tab="overview">Overview</button>
+  <button class="tab-btn" data-tab="robustness">Robustness</button>
+  <button class="tab-btn" data-tab="pairs">Language Pairs</button>
+  <button class="tab-btn" data-tab="confidence">Confidence</button>
+  <button class="tab-btn" data-tab="patterns">Sample Patterns</button>
+  <button class="tab-btn" data-tab="comparison">Model Comparison</button>
+</nav>
+<section class="tab-panel active" id="panel-overview">
+  <div class="stat-row" id="overview-stats"></div>
+  <div class="card"><div class="card-title">Accuracy by Model &amp; Language</div><div class="chart-container"><canvas id="chart-accuracy"></canvas></div></div>
+  <div class="section-title">Summary Table</div>
+  <div style="overflow-x:auto" id="summary-table-wrap"></div>
+</section>
+<section class="tab-panel" id="panel-robustness">
+  <div class="controls">
+    <label>Attack</label><select id="rob-attack-sel"></select>
+    <label>Metric</label>
+    <div class="btn-group" id="rob-metric-btns"></div>
+  </div>
+  <div class="card"><div class="card-title">Robustness Heatmap</div><div style="overflow-x:auto" id="rob-heatmap-wrap"></div></div>
+  <div class="chart-row">
+    <div class="card"><div class="card-title">Per-Task Radar</div><div class="chart-container"><canvas id="chart-radar"></canvas></div></div>
+    <div class="card"><div class="card-title">Metric Comparison</div><div class="chart-container"><canvas id="chart-robustness-bar"></canvas></div></div>
+  </div>
+</section>
+<section class="tab-panel" id="panel-pairs">
+  <div class="controls">
+    <label>Model</label><select id="pairs-model-sel"></select>
+  </div>
+  <div class="section-title">Pairwise Consistency Matrix (Spearman &rho;)</div>
+  <div style="overflow-x:auto" id="consistency-matrix-wrap"></div>
+  <div class="section-title">Positive Transfer Matrix (directed)</div>
+  <div style="overflow-x:auto" id="pos-transfer-matrix-wrap"></div>
+  <div class="section-title">Negative Transfer Matrix (directed)</div>
+  <div style="overflow-x:auto" id="neg-transfer-matrix-wrap"></div>
+  <div class="chart-row">
+    <div class="card"><div class="card-title">Average Pairwise Consistency</div><div class="chart-container"><canvas id="chart-avg-consistency"></canvas></div></div>
+    <div class="card"><div class="card-title">Average Transfer Rates</div><div class="chart-container"><canvas id="chart-avg-transfer"></canvas></div></div>
+  </div>
+</section>
+<section class="tab-panel" id="panel-confidence">
+  <div class="controls">
+    <label>Model</label><select id="conf-model-sel"></select>
+    <label>Language</label><select id="conf-attack-sel"></select>
+  </div>
+  <div class="chart-row">
+    <div class="card"><div class="card-title">Confidence Distribution (max logprob)</div><div class="chart-container"><canvas id="chart-confidence"></canvas></div></div>
+    <div class="card"><div class="card-title">Choice Entropy Distribution</div><div class="chart-container"><canvas id="chart-entropy"></canvas></div></div>
+  </div>
+  <div class="chart-row">
+    <div class="card"><div class="card-title">Top-k Accuracy</div><div class="chart-container"><canvas id="chart-topk"></canvas></div></div>
+    <div class="card"><div class="card-title">Calibration Curve</div><div class="chart-container"><canvas id="chart-calibration"></canvas></div></div>
+  </div>
+</section>
+<section class="tab-panel" id="panel-patterns">
+  <div class="section-title">Flip Hardness Distribution</div>
+  <div class="card"><div class="chart-container"><canvas id="chart-flip-hardness"></canvas></div></div>
+  <div class="section-title">Task Vulnerability by Language</div>
+  <div class="card"><div class="chart-container"><canvas id="chart-task-vuln"></canvas></div></div>
+  <div class="section-title">Sample Explorer</div>
+  <div class="controls"><label>Task</label><select id="patterns-task-sel"></select><label>Min flips</label><select id="patterns-minflips-sel"></select></div>
+  <div style="overflow-x:auto;max-height:400px;overflow-y:auto" id="patterns-table-wrap"></div>
+</section>
+<section class="tab-panel" id="panel-comparison">
+  <div class="controls">
+    <label>Model A</label><select id="cmp-model-a-sel"></select>
+    <label>Model B</label><select id="cmp-model-b-sel"></select>
+  </div>
+  <div class="stat-row" id="cmp-stats"></div>
+  <div class="chart-row">
+    <div class="card"><div class="card-title">Task Accuracy Comparison</div><div class="chart-container"><canvas id="chart-scatter"></canvas></div></div>
+    <div class="card"><div class="card-title">Agreement</div><div class="chart-container"><canvas id="chart-agreement"></canvas></div></div>
+  </div>
+</section>
+<script>/*__DATA__*/</script>
+<script>/*__JS__*/</script>
+</body>
+</html>

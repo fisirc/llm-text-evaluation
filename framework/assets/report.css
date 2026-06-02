@@ -1,0 +1,43 @@
+*{box-sizing:border-box;margin:0;padding:0}
+:root{--bg:#0d0d0d;--surface:#151515;--surface2:#1a1a1a;--surface3:#202020;--border:#2a2a2a;--text:#e0e0e0;--text-dim:#888;--text-bright:#fff;--accent:#4fc3f7;--green:#00c870;--red:#f05555;--yellow:#f0a030;--orange:#ff9800;--purple:#a78bfa;--pink:#ec4899}
+body{background:var(--bg);color:var(--text);font-family:system-ui,-apple-system,'Segoe UI',sans-serif;font-size:14px;line-height:1.6}
+h1{font-size:22px;font-weight:600;color:var(--text-bright);padding:24px 32px 4px}
+.info-bar{display:flex;flex-wrap:wrap;gap:16px 24px;padding:4px 32px 20px;font-size:13px;color:var(--text-dim)}
+.info-bar strong{color:var(--text-dim)}
+.status-ok{color:var(--green);font-weight:600}
+.status-partial{color:var(--yellow);font-weight:600}
+.tabs{display:flex;gap:0;border-bottom:1px solid var(--border);padding:0 28px;background:var(--surface)}
+.tab-btn{background:transparent;color:var(--text-dim);border:none;border-bottom:2px solid transparent;padding:10px 18px;font-size:13px;font-weight:500;cursor:pointer;transition:all .15s}
+.tab-btn:hover{color:var(--text)}
+.tab-btn.active{color:var(--accent);border-bottom-color:var(--accent)}
+.tab-panel{display:none;padding:24px 32px 48px}
+.tab-panel.active{display:block}
+.section-title{font-size:11px;font-weight:600;color:var(--text-dim);text-transform:uppercase;letter-spacing:.1em;margin:28px 0 12px}
+.card{background:var(--surface);border:1px solid var(--border);border-radius:8px;padding:20px;margin-bottom:20px}
+.card-title{font-size:13px;font-weight:600;color:var(--text-bright);margin-bottom:12px}
+.controls{display:flex;flex-wrap:wrap;gap:8px;align-items:center;margin-bottom:16px}
+.controls label{font-size:11px;color:var(--text-dim);text-transform:uppercase;letter-spacing:.06em;margin-right:4px}
+select{background:var(--surface2);color:var(--text);border:1px solid var(--border);border-radius:6px;padding:6px 28px 6px 10px;font-size:13px;cursor:pointer;outline:none;appearance:none;background-image:url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='10' height='6'%3E%3Cpath d='M0 0l5 6 5-6z' fill='%23888'/%3E%3C/svg%3E");background-repeat:no-repeat;background-position:right 8px center}
+select:hover{border-color:#444}
+.btn-group{display:flex;gap:4px;flex-wrap:wrap}
+.metric-btn{background:transparent;color:var(--text-dim);border:1px solid var(--border);border-radius:6px;padding:5px 13px;font-size:12px;cursor:pointer;transition:all .15s;white-space:nowrap}
+.metric-btn:hover{color:var(--text);border-color:#444}
+.metric-btn.active{background:var(--accent);color:#000;border-color:var(--accent);font-weight:600}
+table.data-table{border-collapse:collapse;width:100%;font-size:13px}
+table.data-table th{background:var(--surface2);color:var(--text-dim);font-weight:500;text-align:left;padding:8px 12px;font-size:11px;text-transform:uppercase;letter-spacing:.06em;border-bottom:1px solid var(--border);white-space:nowrap;cursor:default}
+table.data-table td{padding:7px 12px;border-bottom:1px solid #1a1a1a;color:var(--text);white-space:nowrap}
+table.data-table tbody tr:hover td{background:var(--surface2)}
+table.data-table .model-name{color:var(--text-bright);font-weight:500}
+table.data-table .cell-na{color:#333}
+table.data-table .cell-error{color:var(--red);font-weight:600}
+table.matrix-table{border-collapse:collapse;font-size:13px}
+table.matrix-table th{background:var(--surface2);color:var(--text-dim);font-weight:500;padding:8px 14px;font-size:11px;text-transform:uppercase;letter-spacing:.06em;border:1px solid var(--border)}
+table.matrix-table td{text-align:center;padding:10px 14px;border:1px solid var(--border);font-weight:500}
+.chart-container{position:relative;width:100%;height:500px;margin-bottom:12px}
+.chart-row{display:flex;gap:20px;flex-wrap:wrap}
+.chart-row .card{flex:1 1 400px;min-width:300px;margin-bottom:0}
+.stat-card{background:var(--surface);border:1px solid var(--border);border-radius:8px;padding:14px 16px;text-align:center}
+.stat-card .stat-value{font-size:24px;font-weight:700;color:var(--text-bright)}
+.stat-card .stat-label{font-size:11px;color:var(--text-dim);text-transform:uppercase;letter-spacing:.06em;margin-top:2px}
+.stat-row{display:grid;grid-template-columns:repeat(auto-fill,minmax(140px,1fr));gap:12px;margin-bottom:20px}
+.empty-msg{color:var(--text-dim);font-style:italic;padding:20px;text-align:center}

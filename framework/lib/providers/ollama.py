@@ -116,12 +116,14 @@ class Ollama(BaseProvider):
         retry_times: int = 1,
         max_errors: int = 3,
         label: str | None = None,
+        alias: str | None = None,
         logprobs: bool = False,
         top_logprobs: int | None = None,
         concurrency: int | None = None,
     ) -> None:
         self.model = model
         self.label = label
+        self.alias = alias
         self.batch_size = batch
         self.temperature = temperature
         self.max_tokens = max_tokens
@@ -196,10 +198,10 @@ class Ollama(BaseProvider):
                     self.model, type(exc).__name__, exc,
                 )
             if logprobs is None:
-                raise RuntimeError(
-                    f"Logprob extraction failed for model '{self.model}'. "
-                    f"The API returned logprobs data but extraction could not "
-                    f"find answer tokens. Raw logprobs had {len(getattr(raw_lp, 'content', []) or [])} tokens."
+                logger.warning(
+                    "Logprob extraction returned None for model '%s'. "
+                    "Raw logprobs had %d tokens — continuing without logprobs.",
+                    self.model, len(getattr(raw_lp, 'content', []) or []),
                 )
 
         return content, prompt_tokens, completion_tokens, logprobs

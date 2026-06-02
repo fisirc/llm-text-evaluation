@@ -25,16 +25,14 @@ class ProviderPool(BaseProvider):
     next provider in the pool (failover).  All providers must use
     the same ``batch_size`` to avoid sample misalignment.
 
-    The pool's ``concurrency`` is the sum of all inner providers'
     concurrencies (providers with ``concurrency=None`` contribute 0,
     meaning unbounded internally).
 
     Args:
         providers: Two or more :class:`BaseProvider` instances.
-        name: Canonical model name used for display, file naming,
-            and report generation.  Overrides each inner provider's
-            ``model`` attribute so the pool appears as a single model.
+        name: Canonical model name used for display, file naming.
         label: Optional label (same semantics as :class:`BaseProvider`).
+        alias: Optional alias for the model name in reports.
     """
 
     def __init__(
@@ -42,6 +40,7 @@ class ProviderPool(BaseProvider):
         providers: list[BaseProvider],
         name: str,
         label: str | None = None,
+        alias: str | None = None,
     ) -> None:
         # if len(providers) < 2:
         #     raise ValueError("ProviderPool requires at least 2 providers")
@@ -57,6 +56,7 @@ class ProviderPool(BaseProvider):
 
         self.model = name
         self.label = label
+        self.alias = alias
         self.batch_size = providers[0].batch_size
         self.temperature = providers[0].temperature
         self.max_tokens = providers[0].max_tokens
@@ -74,13 +74,6 @@ class ProviderPool(BaseProvider):
     @property
     def provider_name(self) -> str:
         return "+".join(p.provider_name for p in self._providers)
-
-    @property
-    def display_name(self) -> str:
-        base = f"{self.model} (pool:{len(self._providers)})"
-        if self.label:
-            return f"{base} ({self.label})"
-        return base
 
     def get_semaphore(self) -> asyncio.Semaphore:
         """Return a semaphore covering the combined pool capacity."""

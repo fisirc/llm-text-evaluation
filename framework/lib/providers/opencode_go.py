@@ -60,12 +60,14 @@ class OpencodeGo(BaseProvider):
         retry_times: int = 1,
         max_errors: int = 3,
         label: str | None = None,
+        alias: str | None = None,
         logprobs: bool = False,
         top_logprobs: int | None = None,
         concurrency: int | None = None,
     ) -> None:
         self.model = model
         self.label = label
+        self.alias = alias
         self.batch_size = batch
         self.temperature = temperature
         self.max_tokens = max_tokens
@@ -152,15 +154,15 @@ class OpencodeGo(BaseProvider):
             try:
                 logprobs = _extract_choice_logprobs(raw_lp)
             except Exception as exc:
-                raise RuntimeError(
-                    f"Logprob extraction failed for model '{self.model}': "
-                    f"{type(exc).__name__}: {exc}"
-                ) from exc
+                logger.warning(
+                    "Logprob extraction failed for model '%s': %s: %s",
+                    self.model, type(exc).__name__, exc,
+                )
             if logprobs is None:
-                raise RuntimeError(
-                    f"Logprob extraction failed for model '{self.model}'. "
-                    f"The API returned logprobs data but extraction could not "
-                    f"find answer tokens."
+                logger.warning(
+                    "Logprob extraction returned None for model '%s'. "
+                    "Continuing without logprobs.",
+                    self.model,
                 )
 
         return content, prompt_tokens, completion_tokens, logprobs

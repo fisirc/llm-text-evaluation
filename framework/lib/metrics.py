@@ -351,7 +351,7 @@ def compute_robustness(
     )
     rank_consistency = None
     logprobs_n = None
-    if len(logprobs_ids) >= 3:
+    if len(logprobs_ids) >= 30:
         baseline_ranks = _build_rank_vector(baseline_map, logprobs_ids)
         attacked_ranks = _build_rank_vector(attacked_map, logprobs_ids)
         if baseline_ranks and attacked_ranks:

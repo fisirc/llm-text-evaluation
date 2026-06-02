@@ -128,7 +128,12 @@ def build_batch_prompt(samples: list[Sample]) -> str:
     for i, sample in enumerate(samples, 1):
         parts.append(build_single_prompt(sample))
 
-    return "\n".join(parts)
+    ids = [s.id for s in samples]
+    header = (
+        f"Answer exactly {len(samples)} questions. "
+        f"Return exactly {len(samples)} answers using these IDs: {ids}.\n\n"
+    )
+    return header + "\n".join(parts)
 
 
 def build_messages(
@@ -265,8 +270,13 @@ def parse_batch_response(
                             results[sid] = answer
                             matched += 1
 
-                if matched == 0 and len(answers_list) == len(expected_ids):
+                if matched == 0 and len(answers_list) >= len(expected_ids):
+                    # Positional fallback: none of the returned IDs match
+                    # expected sample IDs, so the LLM hallucinated them.
+                    # Map the first N answers positionally instead.
                     for idx, item in enumerate(answers_list):
+                        if idx >= len(expected_ids):
+                            break
                         if isinstance(item, dict) and "answer" in item:
                             answer = item["answer"]
                             if isinstance(answer, int):

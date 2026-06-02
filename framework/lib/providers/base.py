@@ -38,6 +38,7 @@ class BaseProvider(ABC):
     """
 
     model: str
+    alias: str | None
     label: str | None
     batch_size: int
     temperature: float
@@ -51,10 +52,11 @@ class BaseProvider(ABC):
 
     @property
     def display_name(self) -> str:
-        """Name shown in reports — model plus optional label."""
+        """Name shown in reports — alias (if set) or model, plus optional label."""
+        base = getattr(self, "alias", None) or self.model
         if self.label:
-            return f"{self.model} ({self.label})"
-        return self.model
+            return f"{base} ({self.label})"
+        return base
 
     @abstractmethod
     async def complete(
