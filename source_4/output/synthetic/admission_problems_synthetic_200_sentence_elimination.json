@@ -1,0 +1,2408 @@
+[
+  {
+    "task": "sentence_elimination",
+    "question": "(I) La música clásica europea ha influido en numerosas culturas alrededor del mundo. \n(II) Compositores como Beethoven y Mozart son estudiados en conservatorios de Asia y América. \n(III) El violín es un instrumento clave en orquestas sinfónicas. \n(IV) La globalización ha facilitado el acceso a partituras y grabaciones de alta calidad. \n(V) Muchos jóvenes en África aprenden a tocar piezas clásicas en instrumentos tradicionales adaptados.",
+    "options": [
+      "I",
+      "II",
+      "III",
+      "IV",
+      "V"
+    ],
+    "answer": 2
+  },
+  {
+    "task": "sentence_elimination",
+    "question": "(I) El cambio climático está alterando los patrones migratorios de las aves. \n(II) Las aves migratorias dependen de condiciones climáticas predecibles para sus viajes. \n(III) Algunas especies han adelantado su migración en respuesta al aumento de temperaturas. \n(IV) La observación de aves es una actividad popular entre los ecoturistas. \n(V) Los científicos utilizan tecnología satelital para rastrear estas migraciones.",
+    "options": [
+      "I",
+      "II",
+      "III",
+      "IV",
+      "V"
+    ],
+    "answer": 3
+  },
+  {
+    "task": "sentence_elimination",
+    "question": "(I) La inteligencia artificial se utiliza cada vez más en diagnósticos médicos. \n(II) Sistemas de IA pueden analizar imágenes radiológicas con gran precisión. \n(III) Los médicos requieren años de formación para especializarse en radiología. \n(IV) Algunos algoritmos ya superan a los humanos en la detección de tumores. \n(V) La ética en el uso de IA en medicina es un tema de debate constante.",
+    "options": [
+      "I",
+      "III",
+      "II",
+      "IV",
+      "V"
+    ],
+    "answer": 1
+  },
+  {
+    "task": "sentence_elimination",
+    "question": "(I) El café es una de las bebidas más consumidas en el mundo. \n(II) Brasil es el mayor productor mundial de granos de café. \n(III) La cafeína tiene efectos estimulantes en el sistema nervioso. \n(IV) Los baristas profesionales compiten en campeonatos internacionales. \n(V) El cultivo del café requiere condiciones climáticas específicas.",
+    "options": [
+      "I",
+      "II",
+      "III",
+      "IV",
+      "V"
+    ],
+    "answer": 3
+  },
+  {
+    "task": "sentence_elimination",
+    "question": "(I) La literatura fantástica ha ganado popularidad en las últimas décadas. \n(II) Autores como J.R.R. Tolkien y George R.R. Martin han creado universos complejos. \n(III) Las adaptaciones cinematográficas han contribuido a este fenómeno. \n(IV) El género fantástico tiene raíces en mitos y leyendas antiguas. \n(V) Muchos lectores prefieren el realismo mágico sobre la fantasía épica.",
+    "options": [
+      "I",
+      "V",
+      "II",
+      "III",
+      "IV"
+    ],
+    "answer": 1
+  },
+  {
+    "task": "sentence_elimination",
+    "question": "(I) Los videojuegos son una forma de arte interactiva. \n(II) Algunos títulos han sido reconocidos por su narrativa y diseño visual. \n(III) La industria de los videojuegos genera más ingresos que el cine y la música juntos. \n(IV) Los deportes electrónicos han ganado gran popularidad en los últimos años. \n(V) Muchos juegos incluyen bandas sonoras compuestas por músicos profesionales.",
+    "options": [
+      "I",
+      "III",
+      "IV",
+      "II",
+      "V"
+    ],
+    "answer": 1
+  },
+  {
+    "task": "sentence_elimination",
+    "question": "(I) La fotografía digital ha revolucionado la forma en que capturamos imágenes. \n(II) Las cámaras modernas permiten ajustar parámetros con gran precisión. \n(III) Muchos fotógrafos profesionales aún prefieren el formato analógico. \n(IV) Las redes sociales han popularizado el intercambio de fotografías. \n(V) La edición digital ha simplificado el proceso de retoque de imágenes.",
+    "options": [
+      "I",
+      "II",
+      "III",
+      "IV",
+      "V"
+    ],
+    "answer": 2
+  },
+  {
+    "task": "sentence_elimination",
+    "question": "(I) El yoga es una práctica milenaria originaria de la India. \n(II) Sus beneficios para la salud física y mental están ampliamente documentados. \n(III) Muchas celebridades han adoptado el yoga como parte de su rutina diaria. \n(IV) Existen diferentes estilos de yoga, como Hatha, Vinyasa y Ashtanga. \n(V) La meditación es un componente esencial de esta disciplina.",
+    "options": [
+      "I",
+      "II",
+      "III",
+      "IV",
+      "V"
+    ],
+    "answer": 2
+  },
+  {
+    "task": "sentence_elimination",
+    "question": "(I) La arquitectura gótica se caracteriza por sus arcos apuntados y vidrieras. \n(II) Catedrales como Notre-Dame son ejemplos emblemáticos de este estilo. \n(III) La construcción de estas edificaciones requería técnicas avanzadas para su época. \n(IV) El estilo gótico evolucionó a partir del románico durante la Edad Media. \n(V) Muchos arquitectos modernos se inspiran en el diseño de rascacielos.",
+    "options": [
+      "I",
+      "II",
+      "V",
+      "III",
+      "IV"
+    ],
+    "answer": 2
+  },
+  {
+    "task": "sentence_elimination",
+    "question": "(I) La pizza es uno de los platos más populares en el mundo. \n(II) Su origen se remonta a la antigua Roma, donde se preparaban panes planos. \n(III) La versión moderna de la pizza nació en Nápoles, Italia. \n(IV) Existen numerosas variantes, como la pizza margarita o la cuatro quesos. \n(V) Muchos restaurantes ofrecen servicio de entrega a domicilio.",
+    "options": [
+      "I",
+      "II",
+      "III",
+      "IV",
+      "V"
+    ],
+    "answer": 4
+  },
+  {
+    "task": "sentence_elimination",
+    "question": "(I) El teatro es una forma de arte que combina actuación, escenografía y texto. \n(II) Obras clásicas como las de Shakespeare siguen siendo representadas hoy. \n(III) El teatro contemporáneo explora nuevas formas de narrativa y participación del público. \n(IV) Muchos actores de teatro también trabajan en producciones cinematográficas. \n(V) Las entradas para obras populares suelen agotarse rápidamente.",
+    "options": [
+      "I",
+      "II",
+      "IV",
+      "V",
+      "III"
+    ],
+    "answer": 3
+  },
+  {
+    "task": "sentence_elimination",
+    "question": "(I) La robótica ha avanzado significativamente en las últimas décadas. \n(II) Robots industriales son utilizados en fábricas para tareas repetitivas. \n(III) Los robots quirúrgicos permiten realizar operaciones con mayor precisión. \n(IV) Muchos niños reciben robots como juguetes educativos. \n(V) La inteligencia artificial está mejorando la autonomía de los robots.",
+    "options": [
+      "I",
+      "II",
+      "III",
+      "IV",
+      "V"
+    ],
+    "answer": 3
+  },
+  {
+    "task": "sentence_elimination",
+    "question": "(I) El ajedrez es un juego de estrategia con miles de años de historia. \n(II) Se cree que su origen se remonta a la India del siglo VI. \n(III) Grandes maestros como Garry Kasparov han popularizado el juego. \n(IV) El ajedrez es considerado un deporte mental por el Comité Olímpico Internacional. \n(V) Muchos colegios incluyen el ajedrez en sus programas educativos para desarrollar el pensamiento lógico.",
+    "options": [
+      "I",
+      "II",
+      "III",
+      "IV",
+      "V"
+    ],
+    "answer": 3
+  },
+  {
+    "task": "sentence_elimination",
+    "question": "(I) La danza contemporánea rompe con las reglas del ballet clásico. \n(II) Coreógrafos como Pina Bausch han influido en este estilo. \n(III) La danza clásica requiere años de entrenamiento en técnicas específicas. \n(IV) Muchos bailarines contemporáneos incorporan elementos de otras disciplinas artísticas. \n(V) Festivales de danza atraen a miles de espectadores cada año.",
+    "options": [
+      "I",
+      "III",
+      "II",
+      "IV",
+      "V"
+    ],
+    "answer": 1
+  },
+  {
+    "task": "sentence_elimination",
+    "question": "(I) El cine de terror ha evolucionado desde sus inicios en el siglo XIX. \n(II) Películas como 'Nosferatu' sentaron las bases del género. \n(III) El maquillaje y los efectos especiales son clave en este tipo de cine. \n(IV) Muchos directores de terror trabajan con presupuestos limitados. \n(V) El género ha dado lugar a franquicias con múltiples secuelas.",
+    "options": [
+      "I",
+      "II",
+      "IV",
+      "V",
+      "III"
+    ],
+    "answer": 2
+  },
+  {
+    "task": "sentence_elimination",
+    "question": "(I) La moda sostenible busca reducir el impacto ambiental de la industria textil. \n(II) Marcas como Patagonia promueven el uso de materiales reciclados. \n(III) El fast fashion ha sido criticado por su contribución a la contaminación. \n(IV) Muchos consumidores prefieren prendas de diseñadores locales. \n(V) La Semana de la Moda de París es uno de los eventos más importantes del sector.",
+    "options": [
+      "I",
+      "II",
+      "III",
+      "IV",
+      "V"
+    ],
+    "answer": 4
+  },
+  {
+    "task": "sentence_elimination",
+    "question": "(I) La paleontología estudia los restos fósiles de seres vivos. \n(II) Los dinosaurios son uno de los temas más populares en esta disciplina. \n(III) El ADN de especies extintas puede extraerse de fósiles bien conservados. \n(IV) Muchos niños coleccionan réplicas de huesos de dinosaurio. \n(V) La tecnología de escaneo 3D ha revolucionado el estudio de fósiles.",
+    "options": [
+      "I",
+      "II",
+      "III",
+      "IV",
+      "V"
+    ],
+    "answer": 3
+  },
+  {
+    "task": "sentence_elimination",
+    "question": "(I) La cocina molecular aplica principios científicos a la gastronomía. \n(II) Técnicas como la esferificación crean presentaciones innovadoras. \n(III) Chefs como Ferran Adrià han popularizado este estilo culinario. \n(IV) Muchos restaurantes ofrecen menús degustación con múltiples platos. \n(V) La gastronomía molecular requiere equipos especializados.",
+    "options": [
+      "I",
+      "IV",
+      "II",
+      "III",
+      "V"
+    ],
+    "answer": 1
+  },
+  {
+    "task": "sentence_elimination",
+    "question": "(I) La arqueología subacuática explora sitios sumergidos. \n(II) El descubrimiento de naufragios ha revelado tesoros históricos. \n(III) Tecnologías como el sonar son clave en estas investigaciones. \n(IV) Muchos arqueólogos trabajan en colaboración con buzos profesionales. \n(V) El turismo submarino permite visitar algunos de estos sitios.",
+    "options": [
+      "I",
+      "II",
+      "III",
+      "IV",
+      "V"
+    ],
+    "answer": 4
+  },
+  {
+    "task": "sentence_elimination",
+    "question": "(I) La astronomía amateur ha contribuido a importantes descubrimientos. \n(II) Aficionados han identificado cometas y asteroides desde sus observatorios caseros. \n(III) Muchos telescopios modernos son accesibles para el público general. \n(IV) La contaminación lumínica dificulta la observación del cielo nocturno. \n(V) Algunos astrónomos profesionales comenzaron como aficionados.",
+    "options": [
+      "I",
+      "II",
+      "IV",
+      "III",
+      "V"
+    ],
+    "answer": 2
+  },
+  {
+    "task": "sentence_elimination",
+    "question": "(I) La psicología cognitiva estudia procesos mentales como la memoria y el aprendizaje. \n(II) Técnicas de neuroimagen permiten observar la actividad cerebral. \n(III) Muchos psicólogos clínicos utilizan terapias basadas en la evidencia. \n(IV) La memoria humana puede ser mejorada mediante técnicas de estudio. \n(V) El estrés crónico afecta negativamente la capacidad de concentración.",
+    "options": [
+      "I",
+      "II",
+      "III",
+      "IV",
+      "V"
+    ],
+    "answer": 2
+  },
+  {
+    "task": "sentence_elimination",
+    "question": "(I) La ingeniería genética ha revolucionado la medicina moderna. \n(II) Técnicas como CRISPR permiten editar genes con precisión. \n(III) Muchos cultivos transgénicos son resistentes a plagas y herbicidas. \n(IV) La terapia génica ofrece esperanza para enfermedades hereditarias. \n(V) El costo de la atención médica ha aumentado en las últimas décadas.",
+    "options": [
+      "I",
+      "II",
+      "III",
+      "IV",
+      "V"
+    ],
+    "answer": 4
+  },
+  {
+    "task": "sentence_elimination",
+    "question": "(I) El surf es un deporte acuático con raíces en la cultura polinesia. \n(II) Hawái es considerado el lugar de nacimiento del surf moderno. \n(III) Las tablas de surf han evolucionado en diseño y materiales. \n(IV) Muchos surfistas viajan por el mundo en busca de olas perfectas. \n(V) La natación es una habilidad esencial para practicar este deporte.",
+    "options": [
+      "I",
+      "II",
+      "III",
+      "IV",
+      "V"
+    ],
+    "answer": 4
+  },
+  {
+    "task": "sentence_elimination",
+    "question": "(I) La cerámica es una de las formas de arte más antiguas. \n(II) Civilizaciones como la griega y la china produjeron piezas exquisitas. \n(III) Técnicas como el torno y el esmaltado son fundamentales en este oficio. \n(IV) Muchos museos exhiben colecciones de cerámica histórica. \n(V) La pintura al óleo requiere pinceles de diferentes grosores.",
+    "options": [
+      "I",
+      "II",
+      "III",
+      "V",
+      "IV"
+    ],
+    "answer": 3
+  },
+  {
+    "task": "sentence_elimination",
+    "question": "(I) La energía solar es una fuente renovable y limpia. \n(II) Paneles fotovoltaicos convierten la luz solar en electricidad. \n(III) Muchos países ofrecen incentivos para la instalación de paneles solares. \n(IV) La energía eólica también es una alternativa sostenible. \n(V) El almacenamiento de energía es un desafío para las energías renovables.",
+    "options": [
+      "I",
+      "II",
+      "III",
+      "IV",
+      "V"
+    ],
+    "answer": 3
+  },
+  {
+    "task": "sentence_elimination",
+    "question": "(I) La lingüística estudia la estructura y evolución de los idiomas. \n(II) El lenguaje humano es una característica única de nuestra especie. \n(III) Muchos idiomas están en peligro de desaparecer debido a la globalización. \n(IV) La traducción automática ha mejorado gracias a la inteligencia artificial. \n(V) El aprendizaje de idiomas extranjeros es una habilidad valiosa en el mundo laboral.",
+    "options": [
+      "I",
+      "II",
+      "III",
+      "IV",
+      "V"
+    ],
+    "answer": 3
+  },
+  {
+    "task": "sentence_elimination",
+    "question": "(I) La medicina tradicional china tiene miles de años de historia. \n(II) Técnicas como la acupuntura son utilizadas para tratar diversas dolencias. \n(III) Muchos hospitales occidentales incorporan prácticas de medicina alternativa. \n(IV) La fitoterapia china utiliza hierbas para restaurar el equilibrio del cuerpo. \n(V) El yoga es una disciplina originaria de la India que combina posturas y respiración.",
+    "options": [
+      "I",
+      "II",
+      "III",
+      "IV",
+      "V"
+    ],
+    "answer": 4
+  },
+  {
+    "task": "sentence_elimination",
+    "question": "(I) La exploración espacial ha capturado la imaginación humana por décadas. \n(II) La NASA y otras agencias han enviado misiones a Marte y más allá. \n(III) Tecnologías desarrolladas para el espacio han tenido aplicaciones en la Tierra. \n(IV) Muchos niños sueñan con convertirse en astronautas. \n(V) El turismo espacial podría convertirse en una realidad en los próximos años.",
+    "options": [
+      "I",
+      "II",
+      "IV",
+      "III",
+      "V"
+    ],
+    "answer": 2
+  },
+  {
+    "task": "sentence_elimination",
+    "question": "(I) La música electrónica ha ganado popularidad en las últimas décadas. \n(II) Géneros como el house y el techno tienen sus raíces en la música disco. \n(III) Festivales como Tomorrowland atraen a miles de fanáticos cada año. \n(IV) Muchos DJs producen su propia música utilizando software especializado. \n(V) El rock clásico sigue siendo popular entre generaciones mayores.",
+    "options": [
+      "I",
+      "II",
+      "III",
+      "IV",
+      "V"
+    ],
+    "answer": 4
+  },
+  {
+    "task": "sentence_elimination",
+    "question": "(I) La agricultura ecológica evita el uso de pesticidas y fertilizantes químicos. \n(II) Productos orgánicos suelen tener un precio más elevado en el mercado. \n(III) Muchos consumidores prefieren alimentos cultivados de manera sostenible. \n(IV) La ganadería industrial ha sido criticada por su impacto ambiental. \n(V) Los huertos urbanos promueven la producción local de alimentos.",
+    "options": [
+      "I",
+      "II",
+      "III",
+      "IV",
+      "V"
+    ],
+    "answer": 3
+  },
+  {
+    "task": "sentence_elimination",
+    "question": "(I) La impresión 3D está revolucionando la manufactura. \n(II) Esta tecnología permite crear objetos con gran precisión. \n(III) Muchos diseñadores utilizan impresoras 3D para prototipos. \n(IV) La medicina ha adoptado la impresión 3D para crear prótesis personalizadas. \n(V) El costo de las impresoras 3D ha disminuido en los últimos años.",
+    "options": [
+      "I",
+      "II",
+      "III",
+      "IV",
+      "V"
+    ],
+    "answer": 4
+  },
+  {
+    "task": "sentence_elimination",
+    "question": "(I) El cambio climático está afectando los ecosistemas marinos. \n(II) El aumento de la temperatura del agua está causando blanqueamiento de corales. \n(III) La acidificación de los océanos perjudica a especies con conchas y esqueletos calcáreos. \n(IV) Muchos países han implementado áreas marinas protegidas. \n(V) La pesca sostenible es clave para la conservación de especies.",
+    "options": [
+      "I",
+      "II",
+      "III",
+      "IV",
+      "V"
+    ],
+    "answer": 3
+  },
+  {
+    "task": "sentence_elimination",
+    "question": "(I) La literatura latinoamericana ha producido autores de renombre mundial. \n(II) Gabriel García Márquez es conocido por su obra 'Cien años de soledad'. \n(III) La poesía de Pablo Neruda ha sido traducida a numerosos idiomas. \n(IV) Muchos escritores latinoamericanos han ganado el Premio Nobel de Literatura. \n(V) El realismo mágico es un género característico de la región.",
+    "options": [
+      "I",
+      "II",
+      "III",
+      "IV",
+      "V"
+    ],
+    "answer": 3
+  },
+  {
+    "task": "sentence_elimination",
+    "question": "(I) El senderismo es una actividad que combina ejercicio y contacto con la naturaleza. \n(II) Muchos parques nacionales ofrecen rutas marcadas para senderistas. \n(III) El equipo básico incluye calzado adecuado y una mochila con provisiones. \n(IV) La escalada en roca requiere técnicas y equipos especializados. \n(V) El senderismo puede practicarse en solitario o en grupo.",
+    "options": [
+      "I",
+      "II",
+      "IV",
+      "III",
+      "V"
+    ],
+    "answer": 2
+  },
+  {
+    "task": "sentence_elimination",
+    "question": "(I) La inteligencia emocional es clave para las relaciones interpersonales. \n(II) Habilidades como la empatía y la autoconciencia son parte de esta inteligencia. \n(III) Muchos empleadores valoran la inteligencia emocional en sus trabajadores. \n(IV) La educación emocional está siendo incorporada en algunos sistemas educativos. \n(V) El cociente intelectual sigue siendo un predictor importante del éxito académico.",
+    "options": [
+      "I",
+      "II",
+      "III",
+      "IV",
+      "V"
+    ],
+    "answer": 4
+  },
+  {
+    "task": "sentence_elimination",
+    "question": "(I) La nanotecnología trabaja con materiales a escala molecular. \n(II) Aplicaciones en medicina incluyen la entrega dirigida de fármacos. \n(III) La nanotecnología también se utiliza en la fabricación de materiales más resistentes. \n(IV) Muchos científicos están explorando el uso de nanotubos de carbono. \n(V) La física cuántica estudia fenómenos a escalas subatómicas.",
+    "options": [
+      "I",
+      "II",
+      "III",
+      "IV",
+      "V"
+    ],
+    "answer": 4
+  },
+  {
+    "task": "sentence_elimination",
+    "question": "(I) La fotografía callejera captura momentos espontáneos de la vida urbana. \n(II) Fotógrafos como Henri Cartier-Bresson son referentes de este género. \n(III) La composición y el encuadre son elementos clave en esta disciplina. \n(IV) Muchos fotógrafos utilizan cámaras digitales para mayor flexibilidad. \n(V) El retrato fotográfico se centra en capturar la esencia de una persona.",
+    "options": [
+      "I",
+      "II",
+      "III",
+      "IV",
+      "V"
+    ],
+    "answer": 4
+  },
+  {
+    "task": "sentence_elimination",
+    "question": "(I) La economía circular busca minimizar el desperdicio de recursos. \n(II) Este modelo promueve la reutilización y el reciclaje de materiales. \n(III) Muchas empresas están adoptando prácticas de economía circular. \n(IV) El consumo responsable es clave para la sostenibilidad. \n(V) La obsolescencia programada es una práctica criticada por ambientalistas.",
+    "options": [
+      "I",
+      "II",
+      "III",
+      "IV",
+      "V"
+    ],
+    "answer": 3
+  },
+  {
+    "task": "sentence_elimination",
+    "question": "(I) La danza folclórica refleja la cultura y tradiciones de un pueblo. \n(II) Cada región tiene sus propios estilos y vestimentas características. \n(III) El flamenco es una danza emblemática de Andalucía, España. \n(IV) Muchos festivales folclóricos atraen a turistas de todo el mundo. \n(V) El ballet clásico se originó en la corte italiana del Renacimiento.",
+    "options": [
+      "I",
+      "II",
+      "III",
+      "IV",
+      "V"
+    ],
+    "answer": 4
+  },
+  {
+    "task": "sentence_elimination",
+    "question": "(I) La contaminación del aire es un problema global. \n(II) Fuentes como vehículos e industrias emiten gases contaminantes. \n(III) Ciudades como Pekín y Delhi tienen altos niveles de polución. \n(IV) La calidad del aire afecta directamente la salud respiratoria. \n(V) Muchos países están implementando energías renovables para combatir este problema.",
+    "options": [
+      "I",
+      "II",
+      "III",
+      "IV",
+      "V"
+    ],
+    "answer": 4
+  },
+  {
+    "task": "sentence_elimination",
+    "question": "(I) La realidad virtual está transformando la industria del entretenimiento. \n(II) Videojuegos y películas utilizan esta tecnología para crear experiencias inmersivas. \n(III) La realidad aumentada superpone información digital en el mundo real. \n(IV) Muchos museos ofrecen visitas virtuales a sus colecciones. \n(V) El desarrollo de hardware ha sido clave para el avance de la realidad virtual.",
+    "options": [
+      "I",
+      "II",
+      "III",
+      "IV",
+      "V"
+    ],
+    "answer": 2
+  },
+  {
+    "task": "sentence_elimination",
+    "question": "(I) La filosofía oriental ofrece perspectivas únicas sobre la vida. \n(II) El taoísmo promueve la armonía con la naturaleza. \n(III) El confucianismo enfatiza la importancia de las relaciones sociales. \n(IV) Muchos filósofos occidentales han sido influenciados por estas tradiciones. \n(V) La ética aristotélica se centra en la búsqueda de la felicidad.",
+    "options": [
+      "I",
+      "II",
+      "III",
+      "IV",
+      "V"
+    ],
+    "answer": 4
+  },
+  {
+    "task": "sentence_elimination",
+    "question": "(I) La biodiversidad es crucial para el equilibrio de los ecosistemas. \n(II) La pérdida de especies afecta la cadena alimentaria. \n(III) Muchos medicamentos provienen de compuestos encontrados en la naturaleza. \n(IV) La deforestación es una de las principales causas de pérdida de biodiversidad. \n(V) El ecoturismo promueve la conservación de áreas naturales.",
+    "options": [
+      "I",
+      "II",
+      "III",
+      "IV",
+      "V"
+    ],
+    "answer": 4
+  },
+  {
+    "task": "sentence_elimination",
+    "question": "(I) La gastronomía peruana es reconocida mundialmente. \n(II) Platos como el ceviche y el lomo saltado son emblemáticos. \n(III) La fusión de sabores indígenas y españoles ha creado una cocina única. \n(IV) Muchos chefs peruanos han ganado premios internacionales. \n(V) La cocina italiana es famosa por sus pastas y pizzas.",
+    "options": [
+      "I",
+      "II",
+      "III",
+      "IV",
+      "V"
+    ],
+    "answer": 4
+  },
+  {
+    "task": "sentence_elimination",
+    "question": "(I) La arqueología bíblica busca evidencias que respalden relatos históricos. \n(II) Excavaciones en Jerusalén han revelado estructuras antiguas. \n(III) Muchos hallazgos han generado debates entre académicos. \n(IV) La historia del Antiguo Egipto es fascinante para muchos investigadores. \n(V) Técnicas modernas permiten analizar artefactos sin dañarlos.",
+    "options": [
+      "I",
+      "II",
+      "III",
+      "IV",
+      "V"
+    ],
+    "answer": 3
+  },
+  {
+    "task": "sentence_elimination",
+    "question": "(I) La psicología del color explora cómo los colores afectan las emociones. \n(II) El rojo suele asociarse con la energía y la pasión. \n(III) El azul transmite calma y serenidad. \n(IV) Muchos diseñadores utilizan la teoría del color en sus proyectos. \n(V) La decoración de interiores considera la psicología del color.",
+    "options": [
+      "I",
+      "II",
+      "III",
+      "IV",
+      "V"
+    ],
+    "answer": 3
+  },
+  {
+    "task": "sentence_elimination",
+    "question": "(I) La agricultura de precisión utiliza tecnología para optimizar cultivos. \n(II) Sensores y drones permiten monitorear el estado de las plantas. \n(III) La siembra tradicional sigue siendo la más común en muchas regiones. \n(IV) El riego por goteo es una técnica eficiente para conservar agua. \n(V) La ganadería extensiva requiere grandes extensiones de tierra.",
+    "options": [
+      "I",
+      "II",
+      "III",
+      "IV",
+      "V"
+    ],
+    "answer": 4
+  },
+  {
+    "task": "sentence_elimination",
+    "question": "(I) La literatura de ciencia ficción explora posibles futuros tecnológicos. \n(II) Autores como Isaac Asimov y Arthur C. Clarke han influido en el género. \n(III) La robótica y la inteligencia artificial son temas recurrentes. \n(IV) Muchos escritores de ciencia ficción han predicho avances tecnológicos. \n(V) La novela histórica recrea eventos del pasado con gran detalle.",
+    "options": [
+      "I",
+      "II",
+      "III",
+      "IV",
+      "V"
+    ],
+    "answer": 4
+  },
+  {
+    "task": "sentence_elimination",
+    "question": "(I) El mindfulness es una práctica de atención plena. \n(II) Técnicas de meditación ayudan a reducir el estrés. \n(III) Muchos estudios respaldan los beneficios del mindfulness. \n(IV) La respiración consciente es una técnica básica de esta práctica. \n(V) El yoga incluye posturas físicas además de técnicas de respiración.",
+    "options": [
+      "I",
+      "II",
+      "III",
+      "IV",
+      "V"
+    ],
+    "answer": 4
+  },
+  {
+    "task": "sentence_elimination",
+    "question": "(I) La energía hidroeléctrica aprovecha el flujo del agua para generar electricidad. \n(II) Presas como la de las Tres Gargantas en China son ejemplos de esta tecnología. \n(III) La energía solar es otra fuente renovable en crecimiento. \n(IV) La construcción de presas puede tener impactos ambientales. \n(V) Muchos países dependen de la energía hidroeléctrica para su suministro eléctrico.",
+    "options": [
+      "I",
+      "II",
+      "III",
+      "IV",
+      "V"
+    ],
+    "answer": 2
+  },
+  {
+    "task": "sentence_elimination",
+    "question": "(I) La paleontología estudia los fósiles de seres vivos antiguos. \n(II) El descubrimiento de dinosaurios ha fascinado al público. \n(III) Técnicas como la tomografía permiten analizar fósiles sin dañarlos. \n(IV) La evolución de las especies es un tema central en biología. \n(V) Muchos museos exhiben réplicas de esqueletos de dinosaurios.",
+    "options": [
+      "I",
+      "II",
+      "IV",
+      "III",
+      "V"
+    ],
+    "answer": 2
+  },
+  {
+    "task": "sentence_elimination",
+    "question": "(I) La moda rápida ha sido criticada por su impacto ambiental. \n(II) Marcas como Zara y H&M producen grandes volúmenes de ropa. \n(III) La industria textil es una de las más contaminantes del mundo. \n(IV) Muchos diseñadores promueven la moda sostenible. \n(V) El lujo y la exclusividad son valores en la moda de alta costura.",
+    "options": [
+      "I",
+      "II",
+      "III",
+      "IV",
+      "V"
+    ],
+    "answer": 4
+  },
+  {
+    "task": "sentence_elimination",
+    "question": "(I) La inteligencia artificial está transformando diversas industrias. \n(II) Algoritmos de aprendizaje automático pueden analizar grandes volúmenes de datos. \n(III) La IA se utiliza en diagnósticos médicos y en vehículos autónomos. \n(IV) Muchos temen que la IA reemplace empleos humanos. \n(V) La programación de computadoras requiere conocimientos avanzados de matemáticas.",
+    "options": [
+      "I",
+      "II",
+      "III",
+      "IV",
+      "V"
+    ],
+    "answer": 4
+  },
+  {
+    "task": "sentence_elimination",
+    "question": "(I) La música clásica ha influido en numerosos géneros modernos. \n(II) Compositores como Bach y Beethoven crearon obras maestras atemporales. \n(III) La música electrónica utiliza sintetizadores y beats programados. \n(IV) Muchos músicos clásicos estudian durante años en conservatorios. \n(V) El jazz es un género que surgió en Estados Unidos a principios del siglo XX.",
+    "options": [
+      "I",
+      "II",
+      "III",
+      "IV",
+      "V"
+    ],
+    "answer": 2
+  },
+  {
+    "task": "sentence_elimination",
+    "question": "(I) La conservación de bosques es clave para combatir el cambio climático. \n(II) Los bosques actúan como sumideros de carbono. \n(III) La deforestación contribuye al aumento de gases de efecto invernadero. \n(IV) Muchos países han implementado programas de reforestación. \n(V) La agricultura intensiva es una de las principales causas de deforestación.",
+    "options": [
+      "I",
+      "II",
+      "III",
+      "IV",
+      "V"
+    ],
+    "answer": 4
+  },
+  {
+    "task": "sentence_elimination",
+    "question": "(I) La ingeniería civil diseña y construye infraestructuras. \n(II) Puentes, carreteras y edificios son proyectos típicos de esta disciplina. \n(III) La ingeniería mecánica se enfoca en el diseño de máquinas. \n(IV) Materiales como el concreto y el acero son fundamentales en construcción. \n(V) Muchos ingenieros trabajan en proyectos de energía renovable.",
+    "options": [
+      "I",
+      "II",
+      "III",
+      "IV",
+      "V"
+    ],
+    "answer": 2
+  },
+  {
+    "task": "sentence_elimination",
+    "question": "(I) La poesía es una forma de expresión artística a través del lenguaje. \n(II) Poetas como Neruda y Borges han dejado un legado duradero. \n(III) La métrica y la rima son elementos clave en la poesía tradicional. \n(IV) Muchos poemas exploran temas como el amor y la naturaleza. \n(V) La prosa es otra forma literaria que no sigue estructuras poéticas.",
+    "options": [
+      "I",
+      "II",
+      "III",
+      "IV",
+      "V"
+    ],
+    "answer": 4
+  },
+  {
+    "task": "sentence_elimination",
+    "question": "(I) La astronomía estudia los cuerpos celestes y el universo. \n(II) Telescopios como el Hubble han revolucionado nuestra comprensión del cosmos. \n(III) La astrofísica aplica principios de la física al estudio de los astros. \n(IV) Muchos astrónomos son también aficionados a la fotografía nocturna. \n(V) La exploración de Marte es uno de los objetivos de la NASA.",
+    "options": [
+      "I",
+      "II",
+      "IV",
+      "III",
+      "V"
+    ],
+    "answer": 2
+  },
+  {
+    "task": "sentence_elimination",
+    "question": "(I) La globalización ha facilitado el intercambio cultural. \n(II) La tecnología ha acortado distancias entre países. \n(III) El inglés se ha convertido en una lengua franca en muchos ámbitos. \n(IV) Muchos idiomas están en peligro de desaparecer. \n(V) La gastronomía fusiona sabores de diferentes culturas.",
+    "options": [
+      "I",
+      "II",
+      "IV",
+      "III",
+      "V"
+    ],
+    "answer": 2
+  },
+  {
+    "task": "sentence_elimination",
+    "question": "(I) El turismo sostenible busca minimizar el impacto ambiental. \n(II) Destinos como Costa Rica promueven el ecoturismo. \n(III) Muchos viajeros prefieren opciones de alojamiento ecológicas. \n(IV) El turismo masivo puede dañar ecosistemas frágiles. \n(V) La planificación urbana es clave para el desarrollo de ciudades.",
+    "options": [
+      "I",
+      "II",
+      "III",
+      "IV",
+      "V"
+    ],
+    "answer": 4
+  },
+  {
+    "task": "sentence_elimination",
+    "question": "(I) La literatura gótica surgió en el siglo XVIII. \n(II) Obras como 'Frankenstein' exploran temas de terror y ciencia. \n(III) El romanticismo enfatizaba la emoción y la naturaleza. \n(IV) Muchos autores góticos utilizaban escenarios oscuros y misteriosos. \n(V) La novela policíaca se centra en la resolución de crímenes.",
+    "options": [
+      "I",
+      "II",
+      "III",
+      "IV",
+      "V"
+    ],
+    "answer": 4
+  },
+  {
+    "task": "sentence_elimination",
+    "question": "(I) La neurociencia estudia el sistema nervioso y el cerebro. \n(II) Técnicas como la resonancia magnética permiten observar la actividad cerebral. \n(III) La psicología cognitiva explora procesos mentales como la memoria. \n(IV) Muchos trastornos neurológicos aún no tienen cura. \n(V) La inteligencia artificial intenta replicar funciones cerebrales.",
+    "options": [
+      "I",
+      "II",
+      "III",
+      "IV",
+      "V"
+    ],
+    "answer": 4
+  },
+  {
+    "task": "sentence_elimination",
+    "question": "(I) La arquitectura sostenible busca reducir el impacto ambiental. \n(II) Edificios como el One Central Park en Sídney incorporan vegetación. \n(III) El uso de materiales reciclados es una práctica común en este enfoque. \n(IV) Muchos arquitectos buscan certificaciones de sostenibilidad. \n(V) La restauración de edificios históricos preserva el patrimonio cultural.",
+    "options": [
+      "I",
+      "II",
+      "III",
+      "IV",
+      "V"
+    ],
+    "answer": 4
+  },
+  {
+    "task": "sentence_elimination",
+    "question": "(I) La medicina preventiva busca evitar enfermedades antes de que ocurran. \n(II) Vacunas y chequeos regulares son parte de esta práctica. \n(III) La obesidad es un factor de riesgo para numerosas enfermedades. \n(IV) Muchos sistemas de salud promueven estilos de vida saludables. \n(V) La telemedicina ha facilitado el acceso a consultas médicas.",
+    "options": [
+      "I",
+      "II",
+      "III",
+      "IV",
+      "V"
+    ],
+    "answer": 4
+  },
+  {
+    "task": "sentence_elimination",
+    "question": "(I) La robótica educativa introduce a los estudiantes en la programación. \n(II) Robots como LEGO Mindstorms son utilizados en escuelas. \n(III) La robótica industrial automatiza procesos de manufactura. \n(IV) Muchos niños aprenden conceptos de ingeniería a través de estos kits. \n(V) La inteligencia artificial está avanzando en la creación de robots autónomos.",
+    "options": [
+      "I",
+      "II",
+      "III",
+      "IV",
+      "V"
+    ],
+    "answer": 2
+  },
+  {
+    "task": "sentence_elimination",
+    "question": "(I) La música folclórica refleja la identidad cultural de un pueblo. \n(II) Instrumentos como la quena y el charango son típicos de los Andes. \n(III) El rock and roll surgió en Estados Unidos en la década de 1950. \n(IV) Muchos festivales folclóricos celebran tradiciones locales. \n(V) La música es un lenguaje universal que trasciende fronteras.",
+    "options": [
+      "I",
+      "II",
+      "III",
+      "IV",
+      "V"
+    ],
+    "answer": 2
+  },
+  {
+    "task": "sentence_elimination",
+    "question": "(I) La energía geotérmica aprovecha el calor del interior de la Tierra. \n(II) Países como Islandia utilizan esta energía para calefacción y electricidad. \n(III) La energía solar es otra fuente renovable en expansión. \n(IV) La perforación de pozos geotérmicos requiere tecnología especializada. \n(V) El cambio climático ha aumentado el interés en energías limpias.",
+    "options": [
+      "I",
+      "II",
+      "III",
+      "IV",
+      "V"
+    ],
+    "answer": 2
+  },
+  {
+    "task": "sentence_elimination",
+    "question": "(I) La fotografía documental captura eventos históricos y sociales. \n(II) Fotógrafos como Dorothea Lange documentaron la Gran Depresión. \n(III) La composición es un elemento clave en la fotografía artística. \n(IV) Muchos fotógrafos trabajan como freelancers para medios de comunicación. \n(V) El periodismo gráfico informa a través de imágenes impactantes.",
+    "options": [
+      "I",
+      "II",
+      "III",
+      "IV",
+      "V"
+    ],
+    "answer": 2
+  },
+  {
+    "task": "sentence_elimination",
+    "question": "(I) La economía colaborativa permite el intercambio de bienes y servicios. \n(II) Plataformas como Airbnb y Uber son ejemplos de este modelo. \n(III) La regulación de estas plataformas es un tema de debate. \n(IV) Muchos consumidores valoran la conveniencia de estos servicios. \n(V) La inflación afecta el poder adquisitivo de las personas.",
+    "options": [
+      "I",
+      "II",
+      "III",
+      "IV",
+      "V"
+    ],
+    "answer": 4
+  },
+  {
+    "task": "sentence_elimination",
+    "question": "(I) La biotecnología aplica principios biológicos en tecnología. \n(II) La ingeniería genética permite modificar organismos vivos. \n(III) La clonación ha generado debates éticos en la comunidad científica. \n(IV) Muchos medicamentos son producidos mediante biotecnología. \n(V) La informática estudia el procesamiento de datos y algoritmos.",
+    "options": [
+      "I",
+      "II",
+      "III",
+      "IV",
+      "V"
+    ],
+    "answer": 4
+  },
+  {
+    "task": "sentence_elimination",
+    "question": "(I) La historia del arte estudia las obras y movimientos artísticos. \n(II) El Renacimiento fue un período de gran florecimiento cultural. \n(III) Artistas como Leonardo da Vinci son íconos de esta época. \n(IV) Muchos museos exhiben obras maestras del Renacimiento. \n(V) La fotografía ha cambiado la forma en que capturamos imágenes.",
+    "options": [
+      "I",
+      "II",
+      "III",
+      "IV",
+      "V"
+    ],
+    "answer": 4
+  },
+  {
+    "task": "sentence_elimination",
+    "question": "(I) La ética en la inteligencia artificial es un tema de creciente importancia. \n(II) Muchos temen que la IA pueda tomar decisiones sesgadas. \n(III) La transparencia en los algoritmos es clave para evitar discriminación. \n(IV) La IA se utiliza en sectores como la salud y las finanzas. \n(V) El desarrollo de hardware ha avanzado significativamente en los últimos años.",
+    "options": [
+      "I",
+      "II",
+      "III",
+      "IV",
+      "V"
+    ],
+    "answer": 4
+  },
+  {
+    "task": "sentence_elimination",
+    "question": "(I) La agricultura urbana promueve el cultivo de alimentos en ciudades. \n(II) Huertos comunitarios son comunes en muchas urbes. \n(III) La agricultura tradicional depende de grandes extensiones de tierra. \n(IV) El uso de hidroponía permite cultivar sin suelo. \n(V) La escasez de agua es un desafío para la agricultura global.",
+    "options": [
+      "I",
+      "II",
+      "III",
+      "IV",
+      "V"
+    ],
+    "answer": 2
+  },
+  {
+    "task": "sentence_elimination",
+    "question": "(I) La literatura infantil fomenta el hábito de la lectura en los niños. \n(II) Cuentos como 'El Principito' tienen mensajes universales. \n(III) Muchos autores de literatura infantil son también ilustradores. \n(IV) La poesía infantil utiliza rimas y juegos de palabras. \n(V) El cine de animación ha adaptado numerosas obras literarias.",
+    "options": [
+      "I",
+      "II",
+      "III",
+      "IV",
+      "V"
+    ],
+    "answer": 4
+  },
+  {
+    "task": "sentence_elimination",
+    "question": "(I) La conservación de especies en peligro es clave para la biodiversidad. \n(II) Programas de cría en cautiverio han salvado a algunas especies. \n(III) La caza furtiva es una amenaza para animales como los rinocerontes. \n(IV) La pérdida de hábitat es una causa principal de extinción. \n(V) El turismo ecológico puede financiar proyectos de conservación.",
+    "options": [
+      "I",
+      "II",
+      "III",
+      "IV",
+      "V"
+    ],
+    "answer": 4
+  },
+  {
+    "task": "sentence_elimination",
+    "question": "(I) La nanotecnología tiene aplicaciones en medicina y electrónica. \n(II) Nanopartículas pueden utilizarse para entregar fármacos directamente a células. \n(III) La nanotecnología también se aplica en la fabricación de materiales más resistentes. \n(IV) La física cuántica estudia partículas a escalas subatómicas. \n(V) Muchos productos cosméticos incluyen nanopartículas en sus fórmulas.",
+    "options": [
+      "I",
+      "II",
+      "III",
+      "IV",
+      "V"
+    ],
+    "answer": 3
+  },
+  {
+    "task": "sentence_elimination",
+    "question": "(I) La educación a distancia ha crecido gracias a la tecnología. \n(II) Plataformas como Coursera ofrecen cursos en línea de universidades. \n(III) La educación presencial sigue siendo la más común en muchos países. \n(IV) Muchos estudiantes valoran la flexibilidad del aprendizaje en línea. \n(V) La brecha digital limita el acceso a la educación en algunas regiones.",
+    "options": [
+      "I",
+      "II",
+      "III",
+      "IV",
+      "V"
+    ],
+    "answer": 2
+  },
+  {
+    "task": "sentence_elimination",
+    "question": "(I) La antropología estudia las culturas y sociedades humanas. \n(II) Subdisciplinas como la antropología biológica exploran la evolución humana. \n(III) La arqueología investiga restos materiales de culturas pasadas. \n(IV) Muchos antropólogos trabajan en proyectos de desarrollo comunitario. \n(V) La sociología se centra en el estudio de las estructuras sociales.",
+    "options": [
+      "I",
+      "II",
+      "III",
+      "IV",
+      "V"
+    ],
+    "answer": 4
+  },
+  {
+    "task": "sentence_elimination",
+    "question": "(I) La moda ética promueve condiciones laborales justas en la industria textil. \n(II) Marcas como Patagonia son conocidas por sus prácticas sostenibles. \n(III) La moda rápida ha sido criticada por su impacto ambiental. \n(IV) Muchos diseñadores utilizan materiales reciclados en sus colecciones. \n(V) El lujo y la exclusividad son valores en la moda de alta costura.",
+    "options": [
+      "I",
+      "II",
+      "III",
+      "IV",
+      "V"
+    ],
+    "answer": 4
+  },
+  {
+    "task": "sentence_elimination",
+    "question": "(I) La energía nuclear genera electricidad a través de la fisión. \n(II) Países como Francia dependen en gran medida de esta energía. \n(III) La energía solar es una fuente renovable en crecimiento. \n(IV) Los desechos radiactivos son un desafío para esta industria. \n(V) Muchos países están explorando alternativas más seguras.",
+    "options": [
+      "I",
+      "II",
+      "III",
+      "IV",
+      "V"
+    ],
+    "answer": 2
+  },
+  {
+    "task": "sentence_elimination",
+    "question": "(I) La psicología del desarrollo estudia cómo cambian las personas a lo largo de su vida. \n(II) Teorías como la de Piaget explican el desarrollo cognitivo en niños. \n(III) La psicología clínica se enfoca en el tratamiento de trastornos mentales. \n(IV) El apego en la infancia influye en las relaciones adultas. \n(V) Muchos psicólogos trabajan en escuelas y hospitales.",
+    "options": [
+      "I",
+      "II",
+      "III",
+      "IV",
+      "V"
+    ],
+    "answer": 2
+  },
+  {
+    "task": "sentence_elimination",
+    "question": "(I) La restauración de ecosistemas busca devolverles su estado natural. \n(II) Proyectos de reforestación han tenido éxito en algunas regiones. \n(III) La contaminación de ríos afecta a numerosas especies acuáticas. \n(IV) La conservación de humedales es clave para la biodiversidad. \n(V) Muchos voluntarios participan en actividades de restauración ambiental.",
+    "options": [
+      "I",
+      "II",
+      "III",
+      "IV",
+      "V"
+    ],
+    "answer": 2
+  },
+  {
+    "task": "sentence_elimination",
+    "question": "(I) La música jazz surgió en comunidades afroamericanas de Estados Unidos. \n(II) El saxofón es un instrumento icónico en este género. \n(III) El rock and roll tiene sus raíces en el blues y el country. \n(IV) Muchos músicos de jazz son reconocidos por su improvisación. \n(V) Festivales como el de Montreux atraen a fanáticos del jazz.",
+    "options": [
+      "I",
+      "II",
+      "III",
+      "IV",
+      "V"
+    ],
+    "answer": 2
+  },
+  {
+    "task": "sentence_elimination",
+    "question": "(I) La arquitectura moderna valora la funcionalidad y la simplicidad. \n(II) Arquitectos como Le Corbusier influyeron en este movimiento. \n(III) El estilo internacional se caracteriza por líneas limpias y formas geométricas. \n(IV) Muchos edificios modernos utilizan vidrio y acero en su construcción. \n(V) La arquitectura barroca se caracteriza por su ornamentación detallada.",
+    "options": [
+      "I",
+      "II",
+      "III",
+      "IV",
+      "V"
+    ],
+    "answer": 4
+  },
+  {
+    "task": "sentence_elimination",
+    "question": "(I) La ética empresarial promueve prácticas responsables en las organizaciones. \n(II) La responsabilidad social corporativa es clave para la sostenibilidad. \n(III) Muchos consumidores prefieren marcas con valores éticos. \n(IV) La rentabilidad sigue siendo el objetivo principal de las empresas. \n(V) La transparencia en las operaciones es valorada por los stakeholders.",
+    "options": [
+      "I",
+      "II",
+      "III",
+      "IV",
+      "V"
+    ],
+    "answer": 3
+  },
+  {
+    "task": "sentence_elimination",
+    "question": "(I) La inteligencia artificial está transformando el mercado laboral. \n(II) Muchos empleos rutinarios podrían ser automatizados. \n(III) La IA también crea nuevas oportunidades en sectores como la salud. \n(IV) La capacitación en habilidades digitales es clave para el futuro. \n(V) El salario mínimo varía significativamente entre países.",
+    "options": [
+      "I",
+      "II",
+      "III",
+      "IV",
+      "V"
+    ],
+    "answer": 4
+  },
+  {
+    "task": "sentence_elimination",
+    "question": "(I) La literatura postcolonial explora las consecuencias del colonialismo. \n(II) Autores como Salman Rushdie y Chinua Achebe son referentes. \n(III) La narrativa postcolonial aborda temas de identidad y resistencia. \n(IV) Muchos escritores utilizan el realismo mágico en sus obras. \n(V) La poesía lírica expresa emociones personales a través del lenguaje.",
+    "options": [
+      "I",
+      "II",
+      "III",
+      "IV",
+      "V"
+    ],
+    "answer": 4
+  },
+  {
+    "task": "sentence_elimination",
+    "question": "(I) La energía eólica aprovecha la fuerza del viento para generar electricidad. \n(II) Países como Dinamarca lideran en la producción de energía eólica. \n(III) La energía solar es otra fuente renovable en crecimiento. \n(IV) Aerogeneradores son instalados en tierra y en el mar. \n(V) El cambio climático ha aumentado el interés en energías limpias.",
+    "options": [
+      "I",
+      "II",
+      "III",
+      "IV",
+      "V"
+    ],
+    "answer": 2
+  },
+  {
+    "task": "sentence_elimination",
+    "question": "(I) La arqueología subacuática explora sitios sumergidos. \n(II) El descubrimiento de naufragios ha revelado tesoros históricos. \n(III) Tecnologías como el sonar son clave en estas investigaciones. \n(IV) La arqueología terrestre estudia restos en tierra firme. \n(V) Muchos arqueólogos trabajan en colaboración con buzos profesionales.",
+    "options": [
+      "I",
+      "II",
+      "III",
+      "IV",
+      "V"
+    ],
+    "answer": 3
+  },
+  {
+    "task": "sentence_elimination",
+    "question": "(I) La psicología positiva estudia el bienestar y la felicidad. \n(II) Técnicas como la gratitud pueden mejorar la calidad de vida. \n(III) La psicología clínica se enfoca en el tratamiento de trastornos mentales. \n(IV) Muchos psicólogos recomiendan la práctica de mindfulness. \n(V) La resiliencia es la capacidad de superar adversidades.",
+    "options": [
+      "I",
+      "II",
+      "III",
+      "IV",
+      "V"
+    ],
+    "answer": 2
+  },
+  {
+    "task": "sentence_elimination",
+    "question": "(I) La moda minimalista valora la simplicidad y la funcionalidad. \n(II) Diseñadores como Coco Chanel promovieron el 'menos es más'. \n(III) La moda rápida ha sido criticada por su impacto ambiental. \n(IV) Muchos consumidores prefieren prendas atemporales y versátiles. \n(V) El lujo y la exclusividad son valores en la moda de alta costura.",
+    "options": [
+      "I",
+      "II",
+      "III",
+      "IV",
+      "V"
+    ],
+    "answer": 2
+  },
+  {
+    "task": "sentence_elimination",
+    "question": "(I) La astronomía amateur ha contribuido a importantes descubrimientos. \n(II) Aficionados han identificado cometas y asteroides desde sus observatorios. \n(III) Muchos telescopios modernos son accesibles para el público general. \n(IV) La astronomía profesional requiere equipos avanzados y financiamiento. \n(V) La contaminación lumínica dificulta la observación del cielo nocturno.",
+    "options": [
+      "I",
+      "II",
+      "III",
+      "IV",
+      "V"
+    ],
+    "answer": 3
+  },
+  {
+    "task": "sentence_elimination",
+    "question": "(I) La gastronomía molecular aplica principios científicos a la cocina. \n(II) Técnicas como la esferificación crean presentaciones innovadoras. \n(III) Chefs como Ferran Adrià han popularizado este estilo culinario. \n(IV) Muchos restaurantes ofrecen menús degustación con múltiples platos. \n(V) La gastronomía molecular requiere equipos especializados.",
+    "options": [
+      "I",
+      "IV",
+      "II",
+      "III",
+      "V"
+    ],
+    "answer": 1
+  },
+  {
+    "task": "sentence_elimination",
+    "question": "(I) La inteligencia artificial está siendo utilizada en diagnósticos médicos. \n(II) Sistemas de IA pueden analizar imágenes radiológicas con gran precisión. \n(III) Los médicos requieren años de formación para especializarse en radiología. \n(IV) Algunos algoritmos ya superan a los humanos en la detección de tumores. \n(V) La ética en el uso de IA en medicina es un tema de debate constante.",
+    "options": [
+      "I",
+      "III",
+      "II",
+      "IV",
+      "V"
+    ],
+    "answer": 1
+  },
+  {
+    "task": "sentence_elimination",
+    "question": "(I) La fotografía callejera captura momentos espontáneos de la vida urbana. \n(II) Fotógrafos como Henri Cartier-Bresson son referentes de este género. \n(III) La composición y el encuadre son elementos clave en esta disciplina. \n(IV) Muchos fotógrafos utilizan cámaras digitales para mayor flexibilidad. \n(V) El retrato fotográfico se centra en capturar la esencia de una persona.",
+    "options": [
+      "I",
+      "II",
+      "III",
+      "IV",
+      "V"
+    ],
+    "answer": 4
+  },
+  {
+    "task": "sentence_elimination",
+    "question": "(I) La biodiversidad es crucial para el equilibrio de los ecosistemas. \n(II) La pérdida de especies afecta la cadena alimentaria. \n(III) Muchos medicamentos provienen de compuestos encontrados en la naturaleza. \n(IV) La deforestación es una de las principales causas de pérdida de biodiversidad. \n(V) El ecoturismo promueve la conservación de áreas naturales.",
+    "options": [
+      "I",
+      "II",
+      "III",
+      "IV",
+      "V"
+    ],
+    "answer": 4
+  },
+  {
+    "task": "sentence_elimination",
+    "question": "(I) La música clásica ha influido en numerosos géneros modernos. \n(II) Compositores como Bach y Beethoven crearon obras maestras atemporales. \n(III) La música electrónica utiliza sintetizadores y beats programados. \n(IV) Muchos músicos clásicos estudian durante años en conservatorios. \n(V) El jazz es un género que surgió en Estados Unidos a principios del siglo XX.",
+    "options": [
+      "I",
+      "II",
+      "III",
+      "IV",
+      "V"
+    ],
+    "answer": 2
+  },
+  {
+    "task": "sentence_elimination",
+    "question": "(I) La literatura latinoamericana ha producido autores de renombre mundial. \n(II) Gabriel García Márquez es conocido por su obra 'Cien años de soledad'. \n(III) La poesía de Pablo Neruda ha sido traducida a numerosos idiomas. \n(IV) Muchos escritores latinoamericanos han ganado el Premio Nobel de Literatura. \n(V) El realismo mágico es un género característico de la región.",
+    "options": [
+      "I",
+      "II",
+      "III",
+      "IV",
+      "V"
+    ],
+    "answer": 3
+  },
+  {
+    "task": "sentence_elimination",
+    "question": "(I) La robótica educativa introduce a los estudiantes en la programación. \n(II) Robots como LEGO Mindstorms son utilizados en escuelas. \n(III) La robótica industrial automatiza procesos de manufactura. \n(IV) Muchos niños aprenden conceptos de ingeniería a través de estos kits. \n(V) La inteligencia artificial está avanzando en la creación de robots autónomos.",
+    "options": [
+      "I",
+      "II",
+      "III",
+      "IV",
+      "V"
+    ],
+    "answer": 2
+  },
+  {
+    "task": "sentence_elimination",
+    "question": "(I) La gastronomía peruana es reconocida mundialmente. \n(II) Platos como el ceviche y el lomo saltado son emblemáticos. \n(III) La fusión de sabores indígenas y españoles ha creado una cocina única. \n(IV) Muchos chefs peruanos han ganado premios internacionales. \n(V) La cocina italiana es famosa por sus pastas y pizzas.",
+    "options": [
+      "I",
+      "II",
+      "III",
+      "IV",
+      "V"
+    ],
+    "answer": 4
+  },
+  {
+    "task": "sentence_elimination",
+    "question": "(I) El teatro es una forma de arte que combina actuación, escenografía y texto. \n(II) Obras clásicas como las de Shakespeare siguen siendo representadas hoy. \n(III) El teatro contemporáneo explora nuevas formas de narrativa y participación del público. \n(IV) Muchos actores de teatro también trabajan en producciones cinematográficas. \n(V) Las entradas para obras populares suelen agotarse rápidamente.",
+    "options": [
+      "I",
+      "II",
+      "IV",
+      "V",
+      "III"
+    ],
+    "answer": 2
+  },
+  {
+    "task": "sentence_elimination",
+    "question": "(I) La arqueología bíblica busca evidencias que respalden relatos históricos. \n(II) Excavaciones en Jerusalén han revelado estructuras antiguas. \n(III) Muchos hallazgos han generado debates entre académicos. \n(IV) La historia del Antiguo Egipto es fascinante para muchos investigadores. \n(V) Técnicas modernas permiten analizar artefactos sin dañarlos.",
+    "options": [
+      "I",
+      "II",
+      "III",
+      "IV",
+      "V"
+    ],
+    "answer": 3
+  },
+  {
+    "task": "sentence_elimination",
+    "question": "(I) La filosofía oriental ofrece perspectivas únicas sobre la vida. \n(II) El taoísmo promueve la armonía con la naturaleza. \n(III) El confucianismo enfatiza la importancia de las relaciones sociales. \n(IV) Muchos filósofos occidentales han sido influenciados por estas tradiciones. \n(V) La ética aristotélica se centra en la búsqueda de la felicidad.",
+    "options": [
+      "I",
+      "II",
+      "III",
+      "IV",
+      "V"
+    ],
+    "answer": 4
+  },
+  {
+    "task": "sentence_elimination",
+    "question": "(I) La exploración espacial ha capturado la imaginación humana por décadas. \n(II) La NASA y otras agencias han enviado misiones a Marte y más allá. \n(III) Tecnologías desarrolladas para el espacio han tenido aplicaciones en la Tierra. \n(IV) Muchos niños sueñan con convertirse en astronautas. \n(V) El turismo espacial podría convertirse en una realidad en los próximos años.",
+    "options": [
+      "I",
+      "II",
+      "IV",
+      "III",
+      "V"
+    ],
+    "answer": 2
+  },
+  {
+    "task": "sentence_elimination",
+    "question": "(I) La moda sostenible busca reducir el impacto ambiental de la industria textil. \n(II) Marcas como Patagonia promueven el uso de materiales reciclados. \n(III) El fast fashion ha sido criticado por su contribución a la contaminación. \n(IV) Muchos consumidores prefieren prendas de diseñadores locales. \n(V) La Semana de la Moda de París es uno de los eventos más importantes del sector.",
+    "options": [
+      "I",
+      "II",
+      "III",
+      "IV",
+      "V"
+    ],
+    "answer": 4
+  },
+  {
+    "task": "sentence_elimination",
+    "question": "(I) La energía geotérmica aprovecha el calor del interior de la Tierra. \n(II) Países como Islandia utilizan esta energía para calefacción y electricidad. \n(III) La energía solar es otra fuente renovable en expansión. \n(IV) La perforación de pozos geotérmicos requiere tecnología especializada. \n(V) El cambio climático ha aumentado el interés en energías limpias.",
+    "options": [
+      "I",
+      "II",
+      "III",
+      "IV",
+      "V"
+    ],
+    "answer": 2
+  },
+  {
+    "task": "sentence_elimination",
+    "question": "(I) La inteligencia emocional es clave para las relaciones interpersonales. \n(II) Habilidades como la empatía y la autoconciencia son parte de esta inteligencia. \n(III) Muchos empleadores valoran la inteligencia emocional en sus trabajadores. \n(IV) La educación emocional está siendo incorporada en algunos sistemas educativos. \n(V) El cociente intelectual sigue siendo un predictor importante del éxito académico.",
+    "options": [
+      "I",
+      "II",
+      "III",
+      "IV",
+      "V"
+    ],
+    "answer": 4
+  },
+  {
+    "task": "sentence_elimination",
+    "question": "(I) La conservación de bosques es clave para combatir el cambio climático. \n(II) Los bosques actúan como sumideros de carbono. \n(III) La deforestación contribuye al aumento de gases de efecto invernadero. \n(IV) Muchos países han implementado programas de reforestación. \n(V) La agricultura intensiva es una de las principales causas de deforestación.",
+    "options": [
+      "I",
+      "II",
+      "III",
+      "IV",
+      "V"
+    ],
+    "answer": 4
+  },
+  {
+    "task": "sentence_elimination",
+    "question": "(I) La medicina tradicional china tiene miles de años de historia. \n(II) Técnicas como la acupuntura son utilizadas para tratar diversas dolencias. \n(III) Muchos hospitales occidentales incorporan prácticas de medicina alternativa. \n(IV) La fitoterapia china utiliza hierbas para restaurar el equilibrio del cuerpo. \n(V) El yoga es una disciplina originaria de la India que combina posturas y respiración.",
+    "options": [
+      "I",
+      "II",
+      "III",
+      "IV",
+      "V"
+    ],
+    "answer": 4
+  },
+  {
+    "task": "sentence_elimination",
+    "question": "(I) La música jazz surgió en comunidades afroamericanas de Estados Unidos. \n(II) El saxofón es un instrumento icónico en este género. \n(III) El rock and roll tiene sus raíces en el blues y el country. \n(IV) Muchos músicos de jazz son reconocidos por su improvisación. \n(V) Festivales como el de Montreux atraen a fanáticos del jazz.",
+    "options": [
+      "I",
+      "II",
+      "III",
+      "IV",
+      "V"
+    ],
+    "answer": 2
+  },
+  {
+    "task": "sentence_elimination",
+    "question": "(I) La arquitectura moderna valora la funcionalidad y la simplicidad. \n(II) Arquitectos como Le Corbusier influyeron en este movimiento. \n(III) El estilo internacional se caracteriza por líneas limpias y formas geométricas. \n(IV) Muchos edificios modernos utilizan vidrio y acero en su construcción. \n(V) La arquitectura barroca se caracteriza por su ornamentación detallada.",
+    "options": [
+      "I",
+      "II",
+      "III",
+      "IV",
+      "V"
+    ],
+    "answer": 4
+  },
+  {
+    "task": "sentence_elimination",
+    "question": "(I) La ética empresarial promueve prácticas responsables en las organizaciones. \n(II) La responsabilidad social corporativa es clave para la sostenibilidad. \n(III) Muchos consumidores prefieren marcas con valores éticos. \n(IV) La rentabilidad sigue siendo el objetivo principal de las empresas. \n(V) La transparencia en las operaciones es valorada por los stakeholders.",
+    "options": [
+      "I",
+      "II",
+      "III",
+      "IV",
+      "V"
+    ],
+    "answer": 3
+  },
+  {
+    "task": "sentence_elimination",
+    "question": "(I) La energía nuclear genera electricidad a través de la fisión. \n(II) Países como Francia dependen en gran medida de esta energía. \n(III) La energía solar es una fuente renovable en crecimiento. \n(IV) Los desechos radiactivos son un desafío para esta industria. \n(V) Muchos países están explorando alternativas más seguras.",
+    "options": [
+      "I",
+      "II",
+      "III",
+      "IV",
+      "V"
+    ],
+    "answer": 2
+  },
+  {
+    "task": "sentence_elimination",
+    "question": "(I) La psicología del desarrollo estudia cómo cambian las personas a lo largo de su vida. \n(II) Teorías como la de Piaget explican el desarrollo cognitivo en niños. \n(III) La psicología clínica se enfoca en el tratamiento de trastornos mentales. \n(IV) El apego en la infancia influye en las relaciones adultas. \n(V) Muchos psicólogos trabajan en escuelas y hospitales.",
+    "options": [
+      "I",
+      "II",
+      "III",
+      "IV",
+      "V"
+    ],
+    "answer": 2
+  },
+  {
+    "task": "sentence_elimination",
+    "question": "(I) La restauración de ecosistemas busca devolverles su estado natural. \n(II) Proyectos de reforestación han tenido éxito en algunas regiones. \n(III) La contaminación de ríos afecta a numerosas especies acuáticas. \n(IV) La conservación de humedales es clave para la biodiversidad. \n(V) Muchos voluntarios participan en actividades de restauración ambiental.",
+    "options": [
+      "I",
+      "II",
+      "III",
+      "IV",
+      "V"
+    ],
+    "answer": 2
+  },
+  {
+    "task": "sentence_elimination",
+    "question": "(I) La nanotecnología tiene aplicaciones en medicina y electrónica. \n(II) Nanopartículas pueden utilizarse para entregar fármacos directamente a células. \n(III) La nanotecnología también se aplica en la fabricación de materiales más resistentes. \n(IV) La física cuántica estudia partículas a escalas subatómicas. \n(V) Muchos productos cosméticos incluyen nanopartículas en sus fórmulas.",
+    "options": [
+      "I",
+      "II",
+      "III",
+      "IV",
+      "V"
+    ],
+    "answer": 3
+  },
+  {
+    "task": "sentence_elimination",
+    "question": "(I) La educación a distancia ha crecido gracias a la tecnología. \n(II) Plataformas como Coursera ofrecen cursos en línea de universidades. \n(III) La educación presencial sigue siendo la más común en muchos países. \n(IV) Muchos estudiantes valoran la flexibilidad del aprendizaje en línea. \n(V) La brecha digital limita el acceso a la educación en algunas regiones.",
+    "options": [
+      "I",
+      "II",
+      "III",
+      "IV",
+      "V"
+    ],
+    "answer": 2
+  },
+  {
+    "task": "sentence_elimination",
+    "question": "(I) La antropología estudia las culturas y sociedades humanas. \n(II) Subdisciplinas como la antropología biológica exploran la evolución humana. \n(III) La arqueología investiga restos materiales de culturas pasadas. \n(IV) Muchos antropólogos trabajan en proyectos de desarrollo comunitario. \n(V) La sociología se centra en el estudio de las estructuras sociales.",
+    "options": [
+      "I",
+      "II",
+      "III",
+      "IV",
+      "V"
+    ],
+    "answer": 4
+  },
+  {
+    "task": "sentence_elimination",
+    "question": "(I) La moda ética promueve condiciones laborales justas en la industria textil. \n(II) Marcas como Patagonia son conocidas por sus prácticas sostenibles. \n(III) La moda rápida ha sido criticada por su impacto ambiental. \n(IV) Muchos diseñadores utilizan materiales reciclados en sus colecciones. \n(V) El lujo y la exclusividad son valores en la moda de alta costura.",
+    "options": [
+      "I",
+      "II",
+      "III",
+      "IV",
+      "V"
+    ],
+    "answer": 4
+  },
+  {
+    "task": "sentence_elimination",
+    "question": "(I) La literatura gótica surgió en el siglo XVIII. \n(II) Obras como 'Frankenstein' exploran temas de terror y ciencia. \n(III) El romanticismo enfatizaba la emoción y la naturaleza. \n(IV) Muchos autores góticos utilizaban escenarios oscuros y misteriosos. \n(V) La novela policíaca se centra en la resolución de crímenes.",
+    "options": [
+      "I",
+      "II",
+      "III",
+      "IV",
+      "V"
+    ],
+    "answer": 4
+  },
+  {
+    "task": "sentence_elimination",
+    "question": "(I) La neurociencia estudia el sistema nervioso y el cerebro. \n(II) Técnicas como la resonancia magnética permiten observar la actividad cerebral. \n(III) La psicología cognitiva explora procesos mentales como la memoria. \n(IV) Muchos trastornos neurológicos aún no tienen cura. \n(V) La inteligencia artificial intenta replicar funciones cerebrales.",
+    "options": [
+      "I",
+      "II",
+      "III",
+      "IV",
+      "V"
+    ],
+    "answer": 4
+  },
+  {
+    "task": "sentence_elimination",
+    "question": "(I) La arquitectura sostenible busca reducir el impacto ambiental. \n(II) Edificios como el One Central Park en Sídney incorporan vegetación. \n(III) El uso de materiales reciclados es una práctica común en este enfoque. \n(IV) Muchos arquitectos buscan certificaciones de sostenibilidad. \n(V) La restauración de edificios históricos preserva el patrimonio cultural.",
+    "options": [
+      "I",
+      "II",
+      "III",
+      "IV",
+      "V"
+    ],
+    "answer": 4
+  },
+  {
+    "task": "sentence_elimination",
+    "question": "(I) La medicina preventiva busca evitar enfermedades antes de que ocurran. \n(II) Vacunas y chequeos regulares son parte de esta práctica. \n(III) La obesidad es un factor de riesgo para numerosas enfermedades. \n(IV) Muchos sistemas de salud promueven estilos de vida saludables. \n(V) La telemedicina ha facilitado el acceso a consultas médicas.",
+    "options": [
+      "I",
+      "II",
+      "III",
+      "IV",
+      "V"
+    ],
+    "answer": 4
+  },
+  {
+    "task": "sentence_elimination",
+    "question": "(I) La ética en la inteligencia artificial es un tema de creciente importancia. \n(II) Muchos temen que la IA pueda tomar decisiones sesgadas. \n(III) La transparencia en los algoritmos es clave para evitar discriminación. \n(IV) La IA se utiliza en sectores como la salud y las finanzas. \n(V) El desarrollo de hardware ha avanzado significativamente en los últimos años.",
+    "options": [
+      "I",
+      "II",
+      "III",
+      "IV",
+      "V"
+    ],
+    "answer": 4
+  },
+  {
+    "task": "sentence_elimination",
+    "question": "(I) La agricultura urbana promueve el cultivo de alimentos en ciudades. \n(II) Huertos comunitarios son comunes en muchas urbes. \n(III) La agricultura tradicional depende de grandes extensiones de tierra. \n(IV) El uso de hidroponía permite cultivar sin suelo. \n(V) La escasez de agua es un desafío para la agricultura global.",
+    "options": [
+      "I",
+      "II",
+      "III",
+      "IV",
+      "V"
+    ],
+    "answer": 2
+  },
+  {
+    "task": "sentence_elimination",
+    "question": "(I) La literatura infantil fomenta el hábito de la lectura en los niños. \n(II) Cuentos como 'El Principito' tienen mensajes universales. \n(III) Muchos autores de literatura infantil son también ilustradores. \n(IV) La poesía infantil utiliza rimas y juegos de palabras. \n(V) El cine de animación ha adaptado numerosas obras literarias.",
+    "options": [
+      "I",
+      "II",
+      "III",
+      "IV",
+      "V"
+    ],
+    "answer": 4
+  },
+  {
+    "task": "sentence_elimination",
+    "question": "(I) La conservación de especies en peligro es clave para la biodiversidad. \n(II) Programas de cría en cautiverio han salvado a algunas especies. \n(III) La caza furtiva es una amenaza para animales como los rinocerontes. \n(IV) La pérdida de hábitat es una causa principal de extinción. \n(V) El turismo ecológico puede financiar proyectos de conservación.",
+    "options": [
+      "I",
+      "II",
+      "III",
+      "IV",
+      "V"
+    ],
+    "answer": 4
+  },
+  {
+    "task": "sentence_elimination",
+    "question": "(I) La impresión 3D está revolucionando la manufactura. \n(II) Esta tecnología permite crear objetos con gran precisión. \n(III) Muchos diseñadores utilizan impresoras 3D para prototipos. \n(IV) La medicina ha adoptado la impresión 3D para crear prótesis personalizadas. \n(V) El costo de las impresoras 3D ha disminuido en los últimos años.",
+    "options": [
+      "I",
+      "II",
+      "III",
+      "IV",
+      "V"
+    ],
+    "answer": 4
+  },
+  {
+    "task": "sentence_elimination",
+    "question": "(I) El cambio climático está afectando los ecosistemas marinos. \n(II) El aumento de la temperatura del agua está causando blanqueamiento de corales. \n(III) La acidificación de los océanos perjudica a especies con conchas y esqueletos calcáreos. \n(IV) Muchos países han implementado áreas marinas protegidas. \n(V) La pesca sostenible es clave para la conservación de especies.",
+    "options": [
+      "I",
+      "II",
+      "III",
+      "IV",
+      "V"
+    ],
+    "answer": 3
+  },
+  {
+    "task": "sentence_elimination",
+    "question": "(I) La economía circular busca minimizar el desperdicio de recursos. \n(II) Este modelo promueve la reutilización y el reciclaje de materiales. \n(III) Muchas empresas están adoptando prácticas de economía circular. \n(IV) El consumo responsable es clave para la sostenibilidad. \n(V) La obsolescencia programada es una práctica criticada por ambientalistas.",
+    "options": [
+      "I",
+      "II",
+      "III",
+      "IV",
+      "V"
+    ],
+    "answer": 3
+  },
+  {
+    "task": "sentence_elimination",
+    "question": "(I) La danza folclórica refleja la cultura y tradiciones de un pueblo. \n(II) Cada región tiene sus propios estilos y vestimentas características. \n(III) El flamenco es una danza emblemática de Andalucía, España. \n(IV) Muchos festivales folclóricos atraen a turistas de todo el mundo. \n(V) El ballet clásico se originó en la corte italiana del Renacimiento.",
+    "options": [
+      "I",
+      "II",
+      "III",
+      "IV",
+      "V"
+    ],
+    "answer": 4
+  },
+  {
+    "task": "sentence_elimination",
+    "question": "(I) La contaminación del aire es un problema global. \n(II) Fuentes como vehículos e industrias emiten gases contaminantes. \n(III) Ciudades como Pekín y Delhi tienen altos niveles de polución. \n(IV) La calidad del aire afecta directamente la salud respiratoria. \n(V) Muchos países están implementando energías renovables para combatir este problema.",
+    "options": [
+      "I",
+      "II",
+      "III",
+      "IV",
+      "V"
+    ],
+    "answer": 4
+  },
+  {
+    "task": "sentence_elimination",
+    "question": "(I) La realidad virtual está transformando la industria del entretenimiento. \n(II) Videojuegos y películas utilizan esta tecnología para crear experiencias inmersivas. \n(III) La realidad aumentada superpone información digital en el mundo real. \n(IV) Muchos museos ofrecen visitas virtuales a sus colecciones. \n(V) El desarrollo de hardware ha sido clave para el avance de la realidad virtual.",
+    "options": [
+      "I",
+      "II",
+      "III",
+      "IV",
+      "V"
+    ],
+    "answer": 2
+  },
+  {
+    "task": "sentence_elimination",
+    "question": "(I) La fotografía documental captura eventos históricos y sociales. \n(II) Fotógrafos como Dorothea Lange documentaron la Gran Depresión. \n(III) La composición es un elemento clave en la fotografía artística. \n(IV) Muchos fotógrafos trabajan como freelancers para medios de comunicación. \n(V) El periodismo gráfico informa a través de imágenes impactantes.",
+    "options": [
+      "I",
+      "II",
+      "III",
+      "IV",
+      "V"
+    ],
+    "answer": 2
+  },
+  {
+    "task": "sentence_elimination",
+    "question": "(I) La economía colaborativa permite el intercambio de bienes y servicios. \n(II) Plataformas como Airbnb y Uber son ejemplos de este modelo. \n(III) La regulación de estas plataformas es un tema de debate. \n(IV) Muchos consumidores valoran la conveniencia de estos servicios. \n(V) La inflación afecta el poder adquisitivo de las personas.",
+    "options": [
+      "I",
+      "II",
+      "III",
+      "IV",
+      "V"
+    ],
+    "answer": 4
+  },
+  {
+    "task": "sentence_elimination",
+    "question": "(I) La biotecnología aplica principios biológicos en tecnología. \n(II) La ingeniería genética permite modificar organismos vivos. \n(III) La clonación ha generado debates éticos en la comunidad científica. \n(IV) Muchos medicamentos son producidos mediante biotecnología. \n(V) La informática estudia el procesamiento de datos y algoritmos.",
+    "options": [
+      "I",
+      "II",
+      "III",
+      "IV",
+      "V"
+    ],
+    "answer": 4
+  },
+  {
+    "task": "sentence_elimination",
+    "question": "(I) La historia del arte estudia las obras y movimientos artísticos. \n(II) El Renacimiento fue un período de gran florecimiento cultural. \n(III) Artistas como Leonardo da Vinci son íconos de esta época. \n(IV) Muchos museos exhiben obras maestras del Renacimiento. \n(V) La fotografía ha cambiado la forma en que capturamos imágenes.",
+    "options": [
+      "I",
+      "II",
+      "III",
+      "IV",
+      "V"
+    ],
+    "answer": 4
+  },
+  {
+    "task": "sentence_elimination",
+    "question": "(I) La agricultura de precisión utiliza tecnología para optimizar cultivos. \n(II) Sensores y drones permiten monitorear el estado de las plantas. \n(III) La siembra tradicional sigue siendo la más común en muchas regiones. \n(IV) El riego por goteo es una técnica eficiente para conservar agua. \n(V) La ganadería extensiva requiere grandes extensiones de tierra.",
+    "options": [
+      "I",
+      "II",
+      "III",
+      "IV",
+      "V"
+    ],
+    "answer": 4
+  },
+  {
+    "task": "sentence_elimination",
+    "question": "(I) La literatura de ciencia ficción explora posibles futuros tecnológicos. \n(II) Autores como Isaac Asimov y Arthur C. Clarke han influido en el género. \n(III) La robótica y la inteligencia artificial son temas recurrentes. \n(IV) Muchos escritores de ciencia ficción han predicho avances tecnológicos. \n(V) La novela histórica recrea eventos del pasado con gran detalle.",
+    "options": [
+      "I",
+      "II",
+      "III",
+      "IV",
+      "V"
+    ],
+    "answer": 4
+  },
+  {
+    "task": "sentence_elimination",
+    "question": "(I) El mindfulness es una práctica de atención plena. \n(II) Técnicas de meditación ayudan a reducir el estrés. \n(III) Muchos estudios respaldan los beneficios del mindfulness. \n(IV) La respiración consciente es una técnica básica de esta práctica. \n(V) El yoga incluye posturas físicas además de técnicas de respiración.",
+    "options": [
+      "I",
+      "II",
+      "III",
+      "IV",
+      "V"
+    ],
+    "answer": 4
+  },
+  {
+    "task": "sentence_elimination",
+    "question": "(I) La energía hidroeléctrica aprovecha el flujo del agua para generar electricidad. \n(II) Presas como la de las Tres Gargantas en China son ejemplos de esta tecnología. \n(III) La energía solar es otra fuente renovable en crecimiento. \n(IV) La construcción de presas puede tener impactos ambientales. \n(V) Muchos países dependen de la energía hidroeléctrica para su suministro eléctrico.",
+    "options": [
+      "I",
+      "II",
+      "III",
+      "IV",
+      "V"
+    ],
+    "answer": 2
+  },
+  {
+    "task": "sentence_elimination",
+    "question": "(I) La paleontología estudia los fósiles de seres vivos antiguos. \n(II) El descubrimiento de dinosaurios ha fascinado al público. \n(III) Técnicas como la tomografía permiten analizar fósiles sin dañarlos. \n(IV) La evolución de las especies es un tema central en biología. \n(V) Muchos museos exhiben réplicas de esqueletos de dinosaurios.",
+    "options": [
+      "I",
+      "II",
+      "IV",
+      "III",
+      "V"
+    ],
+    "answer": 2
+  },
+  {
+    "task": "sentence_elimination",
+    "question": "(I) La moda rápida ha sido criticada por su impacto ambiental. \n(II) Marcas como Zara y H&M producen grandes volúmenes de ropa. \n(III) La industria textil es una de las más contaminantes del mundo. \n(IV) Muchos diseñadores promueven la moda sostenible. \n(V) El lujo y la exclusividad son valores en la moda de alta costura.",
+    "options": [
+      "I",
+      "II",
+      "III",
+      "IV",
+      "V"
+    ],
+    "answer": 4
+  },
+  {
+    "task": "sentence_elimination",
+    "question": "(I) La inteligencia artificial está transformando el mercado laboral. \n(II) Muchos empleos rutinarios podrían ser automatizados. \n(III) La IA también crea nuevas oportunidades en sectores como la salud. \n(IV) La capacitación en habilidades digitales es clave para el futuro. \n(V) El salario mínimo varía significativamente entre países.",
+    "options": [
+      "I",
+      "II",
+      "III",
+      "IV",
+      "V"
+    ],
+    "answer": 4
+  },
+  {
+    "task": "sentence_elimination",
+    "question": "(I) La literatura postcolonial explora las consecuencias del colonialismo. \n(II) Autores como Salman Rushdie y Chinua Achebe son referentes. \n(III) La narrativa postcolonial aborda temas de identidad y resistencia. \n(IV) Muchos escritores utilizan el realismo mágico en sus obras. \n(V) La poesía lírica expresa emociones personales a través del lenguaje.",
+    "options": [
+      "I",
+      "II",
+      "III",
+      "IV",
+      "V"
+    ],
+    "answer": 4
+  },
+  {
+    "task": "sentence_elimination",
+    "question": "(I) La energía eólica aprovecha la fuerza del viento para generar electricidad. \n(II) Países como Dinamarca lideran en la producción de energía eólica. \n(III) La energía solar es otra fuente renovable en crecimiento. \n(IV) Aerogeneradores son instalados en tierra y en el mar. \n(V) El cambio climático ha aumentado el interés en energías limpias.",
+    "options": [
+      "I",
+      "II",
+      "III",
+      "IV",
+      "V"
+    ],
+    "answer": 2
+  },
+  {
+    "task": "sentence_elimination",
+    "question": "(I) La psicología positiva estudia el bienestar y la felicidad. \n(II) Técnicas como la gratitud pueden mejorar la calidad de vida. \n(III) La psicología clínica se enfoca en el tratamiento de trastornos mentales. \n(IV) Muchos psicólogos recomiendan la práctica de mindfulness. \n(V) La resiliencia es la capacidad de superar adversidades.",
+    "options": [
+      "I",
+      "II",
+      "III",
+      "IV",
+      "V"
+    ],
+    "answer": 2
+  },
+  {
+    "task": "sentence_elimination",
+    "question": "(I) La moda minimalista valora la simplicidad y la funcionalidad. \n(II) Diseñadores como Coco Chanel promovieron el 'menos es más'. \n(III) La moda rápida ha sido criticada por su impacto ambiental. \n(IV) Muchos consumidores prefieren prendas atemporales y versátiles. \n(V) El lujo y la exclusividad son valores en la moda de alta costura.",
+    "options": [
+      "I",
+      "II",
+      "III",
+      "IV",
+      "V"
+    ],
+    "answer": 2
+  },
+  {
+    "task": "sentence_elimination",
+    "question": "(I) La astronomía amateur ha contribuido a importantes descubrimientos. \n(II) Aficionados han identificado cometas y asteroides desde sus observatorios. \n(III) Muchos telescopios modernos son accesibles para el público general. \n(IV) La astronomía profesional requiere equipos avanzados y financiamiento. \n(V) La contaminación lumínica dificulta la observación del cielo nocturno.",
+    "options": [
+      "I",
+      "II",
+      "III",
+      "IV",
+      "V"
+    ],
+    "answer": 3
+  }
+  ,
+  {
+    "task": "sentence_elimination",
+    "question": "(I) El arte abstracto rompe con la representación figurativa. \n(II) Artistas como Kandinsky exploraron la expresión a través de formas y colores. \n(III) El impresionismo buscaba capturar la luz y el movimiento. \n(IV) Muchas galerías exhiben obras abstractas contemporáneas. \n(V) La interpretación del arte abstracto es subjetiva.",
+    "options": [
+      "I",
+      "II",
+      "III",
+      "IV",
+      "V"
+    ],
+    "answer": 2
+  },
+  {
+    "task": "sentence_elimination",
+    "question": "(I) El cine mudo fue la primera etapa del cine. \n(II) Películas como 'El acorazado Potemkin' son clásicos de esta era. \n(III) El sonido se introdujo en el cine a finales de los años 1920. \n(IV) Muchos directores de cine mudo también trabajaron en teatro. \n(V) La animación digital ha revolucionado la industria cinematográfica.",
+    "options": [
+      "I",
+      "II",
+      "III",
+      "IV",
+      "V"
+    ],
+    "answer": 4
+  },
+  {
+    "task": "sentence_elimination",
+    "question": "(I) La permacultura diseña sistemas agrícolas sostenibles. \n(II) Técnicas como la rotación de cultivos son clave en este enfoque. \n(III) La agricultura industrial depende de pesticidas y fertilizantes químicos. \n(IV) La permacultura promueve la biodiversidad y el uso eficiente de recursos. \n(V) Muchos huertos urbanos aplican principios de permacultura.",
+    "options": [
+      "I",
+      "II",
+      "III",
+      "IV",
+      "V"
+    ],
+    "answer": 2
+  },
+  {
+    "task": "sentence_elimination",
+    "question": "(I) La inteligencia artificial está siendo utilizada en el arte. \n(II) Algoritmos pueden generar pinturas y composiciones musicales. \n(III) Muchos artistas utilizan IA como herramienta creativa. \n(IV) El arte generado por IA plantea preguntas sobre la autoría. \n(V) La fotografía analógica requiere procesos químicos para revelar imágenes.",
+    "options": [
+      "I",
+      "II",
+      "III",
+      "IV",
+      "V"
+    ],
+    "answer": 4
+  },
+  {
+    "task": "sentence_elimination",
+    "question": "(I) La genética estudia la herencia y la variación en los organismos. \n(II) El ADN contiene la información genética de los seres vivos. \n(III) La ingeniería genética permite modificar genes con precisión. \n(IV) La clonación ha generado debates éticos en la comunidad científica. \n(V) La paleontología estudia fósiles de organismos extintos.",
+    "options": [
+      "I",
+      "II",
+      "III",
+      "IV",
+      "V"
+    ],
+    "answer": 4
+  },
+  {
+    "task": "sentence_elimination",
+    "question": "(I) La arquitectura brutalista se caracteriza por el uso de hormigón visto. \n(II) Edificios como el Centro Barbican en Londres son ejemplos de este estilo. \n(III) Muchos críticos consideran el brutalismo como frío y poco acogedor. \n(IV) El estilo gótico se caracteriza por arcos apuntados y vidrieras. \n(V) La arquitectura brutalista fue popular en la década de 1960.",
+    "options": [
+      "I",
+      "II",
+      "III",
+      "IV",
+      "V"
+    ],
+    "answer": 3
+  },
+  {
+    "task": "sentence_elimination",
+    "question": "(I) La psicología del consumidor estudia el comportamiento de compra. \n(II) Técnicas de marketing utilizan principios psicológicos para influir en decisiones. \n(III) La publicidad explota emociones y sesgos cognitivos. \n(IV) Muchos consumidores prefieren marcas con valores éticos. \n(V) La economía conductual analiza cómo los factores psicológicos afectan las decisiones económicas.",
+    "options": [
+      "I",
+      "II",
+      "III",
+      "IV",
+      "V"
+    ],
+    "answer": 4
+  },
+  {
+    "task": "sentence_elimination",
+    "question": "(I) La música indie surgió como alternativa a la industria musical tradicional. \n(II) Bandas como Arctic Monkeys ganaron popularidad a través de internet. \n(III) El rock clásico sigue siendo popular en muchas generaciones. \n(IV) Muchos artistas indie producen su música de manera independiente. \n(V) Festivales como Coachella atraen a miles de fanáticos cada año.",
+    "options": [
+      "I",
+      "II",
+      "III",
+      "IV",
+      "V"
+    ],
+    "answer": 2
+  },
+  {
+    "task": "sentence_elimination",
+    "question": "(I) La inteligencia artificial está siendo utilizada en la traducción automática. \n(II) Plataformas como Google Translate utilizan algoritmos de aprendizaje profundo. \n(III) La traducción humana sigue siendo más precisa en contextos complejos. \n(IV) Muchos traductores profesionales utilizan herramientas de asistencia. \n(V) El aprendizaje de idiomas extranjeros es una habilidad valiosa en el mundo laboral.",
+    "options": [
+      "I",
+      "II",
+      "III",
+      "IV",
+      "V"
+    ],
+    "answer": 4
+  },
+  {
+    "task": "sentence_elimination",
+    "question": "(I) La economía del comportamiento estudia cómo los sesgos afectan las decisiones. \n(II) Conceptos como el 'efecto de encuadre' influyen en las elecciones. \n(III) La economía tradicional asume que los individuos actúan racionalmente. \n(IV) Muchos gobiernos utilizan estos principios para diseñar políticas públicas. \n(V) La inflación es un fenómeno económico que afecta el poder adquisitivo.",
+    "options": [
+      "I",
+      "II",
+      "III",
+      "IV",
+      "V"
+    ],
+    "answer": 4
+  },
+  {
+    "task": "sentence_elimination",
+    "question": "(I) La conservación de agua es clave en regiones áridas. \n(II) Técnicas como la recolección de agua de lluvia son efectivas. \n(III) La escasez de agua afecta a millones de personas en el mundo. \n(IV) Muchas comunidades implementan sistemas de riego eficientes. \n(V) La energía hidroeléctrica aprovecha el flujo del agua para generar electricidad.",
+    "options": [
+      "I",
+      "II",
+      "III",
+      "IV",
+      "V"
+    ],
+    "answer": 4
+  },
+  {
+    "task": "sentence_elimination",
+    "question": "(I) La literatura de terror explora el miedo y lo sobrenatural. \n(II) Autores como Edgar Allan Poe y H.P. Lovecraft son referentes del género. \n(III) El suspenso y el misterio son elementos clave en estas obras. \n(IV) Muchos escritores utilizan escenarios oscuros y atmósferas opresivas. \n(V) La novela romántica se centra en relaciones amorosas y conflictos emocionales.",
+    "options": [
+      "I",
+      "II",
+      "III",
+      "IV",
+      "V"
+    ],
+    "answer": 4
+  },
+  {
+    "task": "sentence_elimination",
+    "question": "(I) La inteligencia artificial está siendo utilizada en la detección de fraudes. \n(II) Sistemas de IA pueden analizar patrones de transacciones sospechosas. \n(III) La banca en línea ha facilitado el acceso a servicios financieros. \n(IV) Muchos bancos utilizan IA para mejorar la seguridad de sus clientes. \n(V) La ciberseguridad es un campo en crecimiento debido a las amenazas digitales.",
+    "options": [
+      "I",
+      "II",
+      "III",
+      "IV",
+      "V"
+    ],
+    "answer": 2
+  },
+  {
+    "task": "sentence_elimination",
+    "question": "(I) La restauración de arte busca preservar obras para futuras generaciones. \n(II) Técnicas como la limpieza y consolidación son clave en este proceso. \n(III) Muchos restauradores trabajan en museos y galerías. \n(IV) La pintura al óleo requiere técnicas específicas para su conservación. \n(V) El arte contemporáneo a menudo utiliza materiales no tradicionales.",
+    "options": [
+      "I",
+      "II",
+      "III",
+      "IV",
+      "V"
+    ],
+    "answer": 4
+  },
+  {
+    "task": "sentence_elimination",
+    "question": "(I) La energía mareomotriz aprovecha el movimiento de las mareas. \n(II) Países como Francia y Canadá utilizan esta energía en algunas regiones. \n(III) La energía solar es otra fuente renovable en crecimiento. \n(IV) La construcción de plantas mareomotrices puede afectar ecosistemas costeros. \n(V) El cambio climático ha aumentado el interés en energías limpias.",
+    "options": [
+      "I",
+      "II",
+      "III",
+      "IV",
+      "V"
+    ],
+    "answer": 2
+  },
+  {
+    "task": "sentence_elimination",
+    "question": "(I) La psicología del deporte estudia el rendimiento de los atletas. \n(II) Técnicas como la visualización mejoran el desempeño. \n(III) Muchos equipos deportivos contratan psicólogos para trabajar con sus jugadores. \n(IV) La nutrición es clave para el rendimiento deportivo. \n(V) La motivación y la concentración son factores psicológicos importantes.",
+    "options": [
+      "I",
+      "II",
+      "III",
+      "IV",
+      "V"
+    ],
+    "answer": 3
+  },
+  {
+    "task": "sentence_elimination",
+    "question": "(I) La moda vintage ha ganado popularidad en los últimos años. \n(II) Muchas personas buscan prendas únicas en tiendas de segunda mano. \n(III) La moda rápida ha sido criticada por su impacto ambiental. \n(IV) Diseñadores como Vivienne Westwood promueven la moda sostenible. \n(V) El lujo y la exclusividad son valores en la moda de alta costura.",
+    "options": [
+      "I",
+      "II",
+      "III",
+      "IV",
+      "V"
+    ],
+    "answer": 4
+  },
+  {
+    "task": "sentence_elimination",
+    "question": "(I) La realidad aumentada superpone información digital en el mundo real. \n(II) Aplicaciones como Pokémon GO popularizaron esta tecnología. \n(III) La realidad virtual crea entornos completamente digitales. \n(IV) Muchos videojuegos utilizan realidad aumentada para experiencias interactivas. \n(V) El desarrollo de hardware ha sido clave para el avance de estas tecnologías.",
+    "options": [
+      "I",
+      "II",
+      "III",
+      "IV",
+      "V"
+    ],
+    "answer": 2
+  },
+  {
+    "task": "sentence_elimination",
+    "question": "(I) La literatura de viajes inspira a explorar nuevos destinos. \n(II) Autores como Bruce Chatwin han escrito obras memorables en este género. \n(III) Muchos viajeros documentan sus experiencias en blogs y redes sociales. \n(IV) La poesía lírica expresa emociones personales a través del lenguaje. \n(V) Guías de viaje como Lonely Planet son populares entre turistas.",
+    "options": [
+      "I",
+      "II",
+      "III",
+      "IV",
+      "V"
+    ],
+    "answer": 3
+  },
+  {
+    "task": "sentence_elimination",
+    "question": "(I) La inteligencia artificial está siendo utilizada en la agricultura. \n(II) Drones y sensores monitorean el estado de los cultivos. \n(III) La agricultura de precisión optimiza el uso de recursos. \n(IV) Muchos agricultores utilizan tractores y maquinaria moderna. \n(V) La robótica puede automatizar tareas como la cosecha.",
+    "options": [
+      "I",
+      "II",
+      "III",
+      "IV",
+      "V"
+    ],
+    "answer": 3
+  },
+  {
+    "task": "sentence_elimination",
+    "question": "(I) La conservación de suelos es clave para la agricultura sostenible. \n(II) Técnicas como la rotación de cultivos previenen la erosión. \n(III) La degradación del suelo afecta la productividad agrícola. \n(IV) Muchos agricultores implementan prácticas de conservación. \n(V) La energía renovable reduce la dependencia de combustibles fósiles.",
+    "options": [
+      "I",
+      "II",
+      "III",
+      "IV",
+      "V"
+    ],
+    "answer": 4
+  }
+  ,
+  {
+    "task": "sentence_elimination",
+    "question": "(I) La literatura fantástica ha ganado popularidad en las últimas décadas. \n(II) Autores como J.R.R. Tolkien y George R.R. Martin han creado universos complejos. \n(III) Las adaptaciones cinematográficas han contribuido a este fenómeno. \n(IV) El género fantástico tiene raíces en mitos y leyendas antiguas. \n(V) Muchos lectores prefieren el realismo mágico sobre la fantasía épica.",
+    "options": [
+      "I",
+      "V",
+      "II",
+      "III",
+      "IV"
+    ],
+    "answer": 1
+  },
+  {
+    "task": "sentence_elimination",
+    "question": "(I) El arte renacentista se caracterizó por el realismo y la perspectiva. \n(II) Artistas como Miguel Ángel y Rafael crearon obras maestras en este período. \n(III) El impresionismo buscaba capturar la luz y el movimiento. \n(IV) Muchos museos exhiben pinturas renacentistas en sus colecciones. \n(V) La técnica del sfumato fue desarrollada por Leonardo da Vinci.",
+    "options": [
+      "I",
+      "II",
+      "III",
+      "IV",
+      "V"
+    ],
+    "answer": 2
+  },
+  {
+    "task": "sentence_elimination",
+    "question": "(I) La robótica quirúrgica permite operaciones con mayor precisión. \n(II) Sistemas como Da Vinci son utilizados en hospitales de todo el mundo. \n(III) La cirugía tradicional sigue siendo la opción más común en muchos procedimientos. \n(IV) La inteligencia artificial está siendo integrada en estos sistemas. \n(V) La medicina preventiva busca evitar enfermedades antes de que ocurran.",
+    "options": [
+      "I",
+      "II",
+      "III",
+      "IV",
+      "V"
+    ],
+    "answer": 4
+  },
+  {
+    "task": "sentence_elimination",
+    "question": "(I) La gastronomía molecular aplica principios científicos a la cocina. \n(II) Técnicas como la esferificación crean texturas innovadoras. \n(III) Chefs como Heston Blumenthal son pioneros en este campo. \n(IV) La cocina tradicional se basa en recetas transmitidas por generaciones. \n(V) Muchos restaurantes ofrecen menús degustación con múltiples platos.",
+    "options": [
+      "I",
+      "IV",
+      "II",
+      "III",
+      "V"
+    ],
+    "answer": 1
+  },
+  {
+    "task": "sentence_elimination",
+    "question": "(I) La inteligencia artificial está siendo utilizada en vehículos autónomos. \n(II) Sistemas de IA permiten a los coches tomar decisiones en tiempo real. \n(III) La seguridad vial es una preocupación clave en este campo. \n(IV) Muchos fabricantes de automóviles están invirtiendo en esta tecnología. \n(V) El transporte público mejora la movilidad en las ciudades.",
+    "options": [
+      "I",
+      "II",
+      "III",
+      "IV",
+      "V"
+    ],
+    "answer": 4
+  },
+  {
+    "task": "sentence_elimination",
+    "question": "(I) La literatura de misterio atrae a lectores con intrigas y suspense. \n(II) Autores como Agatha Christie son referentes del género. \n(III) El detective es un personaje central en muchas de estas historias. \n(IV) La novela romántica se centra en relaciones amorosas y conflictos emocionales. \n(V) Muchas obras de misterio incluyen giros inesperados en la trama.",
+    "options": [
+      "I",
+      "II",
+      "III",
+      "IV",
+      "V"
+    ],
+    "answer": 3
+  },
+  {
+    "task": "sentence_elimination",
+    "question": "(I) La arquitectura ecológica utiliza materiales sostenibles. \n(II) Edificios como el Bosco Verticale en Milán incorporan vegetación. \n(III) La eficiencia energética es un objetivo clave en este enfoque. \n(IV) Muchos arquitectos buscan certificaciones de sostenibilidad. \n(V) La arquitectura clásica se caracteriza por columnas y frontones.",
+    "options": [
+      "I",
+      "II",
+      "III",
+      "IV",
+      "V"
+    ],
+    "answer": 4
+  },
+  {
+    "task": "sentence_elimination",
+    "question": "(I) La psicología cognitiva estudia procesos mentales como la memoria. \n(II) Técnicas como la repetición espaciada mejoran el aprendizaje. \n(III) La psicología clínica se enfoca en el tratamiento de trastornos mentales. \n(IV) Muchos estudiantes utilizan técnicas de estudio basadas en la ciencia cognitiva. \n(V) La neurociencia explora la relación entre el cerebro y el comportamiento.",
+    "options": [
+      "I",
+      "II",
+      "III",
+      "IV",
+      "V"
+    ],
+    "answer": 2
+  },
+  {
+    "task": "sentence_elimination",
+    "question": "(I) La moda circular promueve la reutilización y el reciclaje de prendas. \n(II) Marcas como Stella McCartney son pioneras en este enfoque. \n(III) La moda rápida ha sido criticada por su impacto ambiental. \n(IV) Muchos consumidores prefieren prendas de segunda mano. \n(V) El lujo y la exclusividad son valores en la moda de alta costura.",
+    "options": [
+      "I",
+      "II",
+      "III",
+      "IV",
+      "V"
+    ],
+    "answer": 4
+  },
+  {
+    "task": "sentence_elimination",
+    "question": "(I) La astronomía amateur ha contribuido a descubrimientos importantes. \n(II) Aficionados han identificado supernovas y asteroides. \n(III) Muchos telescopios son accesibles para el público general. \n(IV) La astronomía profesional requiere equipos avanzados. \n(V) La astrología predice el futuro basado en la posición de los astros.",
+    "options": [
+      "I",
+      "II",
+      "III",
+      "IV",
+      "V"
+    ],
+    "answer": 4
+  }
+  ,
+  {
+    "task": "sentence_elimination",
+    "question": "(I) La música electrónica ha ganado popularidad en festivales masivos. \n(II) Géneros como el techno y el house tienen sus raíces en la música disco. \n(III) Muchos DJs producen su música utilizando software especializado. \n(IV) El rock clásico sigue siendo popular entre generaciones mayores. \n(V) Festivales como Tomorrowland atraen a miles de fanáticos cada año.",
+    "options": [
+      "I",
+      "II",
+      "III",
+      "IV",
+      "V"
+    ],
+    "answer": 3
+  },
+  {
+    "task": "sentence_elimination",
+    "question": "(I) La inteligencia artificial está siendo utilizada en la creación de arte. \n(II) Algoritmos pueden generar pinturas y composiciones musicales. \n(III) Muchos museos exhiben obras creadas con IA. \n(IV) El arte generado por IA plantea preguntas sobre la creatividad. \n(V) La fotografía tradicional requiere el uso de cámaras analógicas.",
+    "options": [
+      "I",
+      "II",
+      "III",
+      "IV",
+      "V"
+    ],
+    "answer": 4
+  },
+  {
+    "task": "sentence_elimination",
+    "question": "(I) La genética está revolucionando la medicina personalizada. \n(II) Pruebas genéticas permiten identificar predisposiciones a enfermedades. \n(III) La ingeniería genética puede corregir mutaciones causantes de enfermedades. \n(IV) La paleontología estudia fósiles de organismos extintos. \n(V) Muchos tratamientos médicos son desarrollados a partir de investigaciones genéticas.",
+    "options": [
+      "I",
+      "II",
+      "III",
+      "IV",
+      "V"
+    ],
+    "answer": 3
+  },
+  {
+    "task": "sentence_elimination",
+    "question": "(I) La arquitectura posmoderna rechaza los principios del modernismo. \n(II) Edificios como el Museo Guggenheim en Bilbao son ejemplos de este estilo. \n(III) Muchos arquitectos posmodernos utilizan formas lúdicas y colores vibrantes. \n(IV) El estilo gótico se caracteriza por arcos apuntados y vidrieras. \n(V) La arquitectura posmoderna busca integrarse con el entorno urbano.",
+    "options": [
+      "I",
+      "II",
+      "III",
+      "IV",
+      "V"
+    ],
+    "answer": 3
+  },
+  {
+    "task": "sentence_elimination",
+    "question": "(I) La psicología del aprendizaje estudia cómo adquirimos conocimientos. \n(II) Teorías como el condicionamiento operante explican el comportamiento. \n(III) La motivación es un factor clave en el proceso de aprendizaje. \n(IV) Muchos educadores utilizan técnicas basadas en estas teorías. \n(V) La inteligencia emocional es clave para las relaciones interpersonales.",
+    "options": [
+      "I",
+      "II",
+      "III",
+      "IV",
+      "V"
+    ],
+    "answer": 4
+  },
+  {
+    "task": "sentence_elimination",
+    "question": "(I) La música clásica ha influido en numerosos géneros modernos. \n(II) Compositores como Mozart y Beethoven crearon obras maestras atemporales. \n(III) El rock and roll surgió en Estados Unidos en la década de 1950. \n(IV) Muchos músicos clásicos estudian durante años en conservatorios. \n(V) El jazz es un género que combina improvisación y ritmo.",
+    "options": [
+      "I",
+      "II",
+      "III",
+      "IV",
+      "V"
+    ],
+    "answer": 2
+  },
+  {
+    "task": "sentence_elimination",
+    "question": "(I) La inteligencia artificial está siendo utilizada en la detección de enfermedades. \n(II) Sistemas de IA pueden analizar imágenes médicas con gran precisión. \n(III) La telemedicina ha facilitado el acceso a consultas médicas. \n(IV) Muchos hospitales utilizan IA para mejorar diagnósticos. \n(V) La ética en el uso de IA en medicina es un tema de debate constante.",
+    "options": [
+      "I",
+      "II",
+      "III",
+      "IV",
+      "V"
+    ],
+    "answer": 2
+  },
+  {
+    "task": "sentence_elimination",
+    "question": "(I) La conservación de océanos es clave para la biodiversidad marina. \n(II) Áreas marinas protegidas ayudan a preservar ecosistemas frágiles. \n(III) La contaminación por plásticos es una amenaza para la vida marina. \n(IV) Muchos países han implementado políticas para reducir el uso de plásticos. \n(V) La energía eólica aprovecha la fuerza del viento para generar electricidad.",
+    "options": [
+      "I",
+      "II",
+      "III",
+      "IV",
+      "V"
+    ],
+    "answer": 4
+  },
+  {
+    "task": "sentence_elimination",
+    "question": "(I) La literatura de no ficción explora hechos reales y temas contemporáneos. \n(II) Autores como Yuval Noah Harari han escrito obras populares en este género. \n(III) La novela histórica recrea eventos del pasado con gran detalle. \n(IV) Muchos lectores buscan libros que combinen información y narrativa. \n(V) Ensayos como 'Sapiens' abordan la evolución de la humanidad.",
+    "options": [
+      "I",
+      "II",
+      "III",
+      "IV",
+      "V"
+    ],
+    "answer": 2
+  },
+  {
+    "task": "sentence_elimination",
+    "question": "(I) La inteligencia artificial está transformando la industria financiera. \n(II) Algoritmos de IA pueden detectar patrones en grandes volúmenes de datos. \n(III) La banca en línea ha facilitado el acceso a servicios financieros. \n(IV) Muchos bancos utilizan IA para personalizar ofertas a sus clientes. \n(V) La ciberseguridad es clave para proteger transacciones digitales.",
+    "options": [
+      "I",
+      "II",
+      "III",
+      "IV",
+      "V"
+    ],
+    "answer": 2
+  },
+  {
+    "task": "sentence_elimination",
+    "question": "(I) La restauración de arte preserva obras para futuras generaciones. \n(II) Técnicas como la limpieza y consolidación son clave en este proceso. \n(III) Muchos restauradores trabajan en colaboración con científicos. \n(IV) La pintura al óleo requiere técnicas específicas para su conservación. \n(V) El arte contemporáneo a menudo utiliza materiales innovadores.",
+    "options": [
+      "I",
+      "II",
+      "III",
+      "IV",
+      "V"
+    ],
+    "answer": 4
+  },
+  {
+    "task": "sentence_elimination",
+    "question": "(I) La energía undimotriz aprovecha el movimiento de las olas. \n(II) Países como Portugal han experimentado con esta tecnología. \n(III) La energía solar es otra fuente renovable en crecimiento. \n(IV) La construcción de plantas undimotrices puede afectar ecosistemas marinos. \n(V) El cambio climático ha aumentado el interés en energías limpias.",
+    "options": [
+      "I",
+      "II",
+      "III",
+      "IV",
+      "V"
+    ],
+    "answer": 2
+  }
+  ,
+  {
+    "task": "sentence_elimination",
+    "question": "(I) La psicología social estudia cómo las personas se influyen mutuamente. \n(II) Conceptos como la conformidad y la obediencia son clave en este campo. \n(III) Experimentos como el de Milgram han revelado aspectos oscuros de la psicología humana. \n(IV) La psicología clínica se enfoca en el tratamiento de trastornos mentales. \n(V) Muchos sociólogos estudian el comportamiento de grupos y sociedades.",
+    "options": [
+      "I",
+      "II",
+      "III",
+      "IV",
+      "V"
+    ],
+    "answer": 3
+  },
+  {
+    "task": "sentence_elimination",
+    "question": "(I) La moda upcycling transforma prendas viejas en nuevas. \n(II) Diseñadores como Marine Serre utilizan esta técnica en sus colecciones. \n(III) La moda rápida ha sido criticada por su impacto ambiental. \n(IV) Muchos consumidores buscan alternativas sostenibles. \n(V) El lujo y la exclusividad son valores en la moda de alta costura.",
+    "options": [
+      "I",
+      "II",
+      "III",
+      "IV",
+      "V"
+    ],
+    "answer": 4
+  },
+  {
+    "task": "sentence_elimination",
+    "question": "(I) La astronomía observacional estudia el universo a través de telescopios. \n(II) Telescopios como el Hubble han revolucionado nuestra comprensión del cosmos. \n(III) La astrofísica aplica principios de la física al estudio de los astros. \n(IV) Muchos astrónomos son también aficionados a la fotografía nocturna. \n(V) La astrología interpreta la influencia de los astros en la personalidad.",
+    "options": [
+      "I",
+      "II",
+      "III",
+      "IV",
+      "V"
+    ],
+    "answer": 4
+  }
+  ,
+  {
+    "task": "sentence_elimination",
+    "question": "(I) La música clásica ha influido en la música cinematográfica. \n(II) Compositores como John Williams han creado bandas sonoras icónicas. \n(III) El rock clásico sigue siendo popular en muchas generaciones. \n(IV) Muchas películas utilizan música clásica en sus escenas clave. \n(V) Festivales de música clásica atraen a miles de espectadores.",
+    "options": [
+      "I",
+      "II",
+      "III",
+      "IV",
+      "V"
+    ],
+    "answer": 2
+  },
+  {
+    "task": "sentence_elimination",
+    "question": "(I) La inteligencia artificial está siendo utilizada en la traducción de idiomas. \n(II) Plataformas como DeepL utilizan redes neuronales para mejorar la precisión. \n(III) La traducción humana sigue siendo más precisa en contextos complejos. \n(IV) Muchos traductores utilizan herramientas de asistencia. \n(V) El aprendizaje de idiomas mejora las oportunidades laborales.",
+    "options": [
+      "I",
+      "II",
+      "III",
+      "IV",
+      "V"
+    ],
+    "answer": 4
+  }
+  ,
+  {
+    "task": "sentence_elimination",
+    "question": "(I) La economía del comportamiento estudia cómo los sesgos afectan las decisiones. \n(II) Conceptos como el 'sesgo de confirmación' influyen en nuestras elecciones. \n(III) La economía tradicional asume que los individuos actúan racionalmente. \n(IV) Muchos gobiernos utilizan estos principios para diseñar políticas públicas. \n(V) La inflación reduce el poder adquisitivo de la moneda.",
+    "options": [
+      "I",
+      "II",
+      "III",
+      "IV",
+      "V"
+    ],
+    "answer": 4
+  },
+  {
+    "task": "sentence_elimination",
+    "question": "(I) La conservación de agua es clave en regiones con escasez. \n(II) Técnicas como la reutilización de aguas grises son efectivas. \n(III) La escasez de agua afecta a millones de personas en el mundo. \n(IV) Muchas ciudades implementan restricciones en el uso de agua. \n(V) La energía hidroeléctrica aprovecha el flujo del agua para generar electricidad.",
+    "options": [
+      "I",
+      "II",
+      "III",
+      "IV",
+      "V"
+    ],
+    "answer": 4
+  },
+  {
+    "task": "sentence_elimination",
+    "question": "(I) La literatura de ciencia ficción explora futuros posibles. \n(II) Autores como Philip K. Dick han escrito obras influyentes. \n(III) La robótica y la inteligencia artificial son temas recurrentes. \n(IV) La novela histórica recrea eventos del pasado con gran detalle. \n(V) Muchas obras de ciencia ficción predicen avances tecnológicos.",
+    "options": [
+      "I",
+      "II",
+      "III",
+      "IV",
+      "V"
+    ],
+    "answer": 3
+  }
+  ]
