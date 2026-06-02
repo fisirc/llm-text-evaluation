@@ -304,7 +304,7 @@ class Benchmark:
             )
             logger.info(
                 "  Dataset order: %s",
-                [f"{ds.filename} (tier={self._dataset_priority(ds, provider, label)[0]})" for ds in ordered],
+                [f"{ds.filename} (tier={self._dataset_priority(ds, provider, label)[0]}, imb={-self._dataset_priority(ds, provider, label)[1]:.2f})" for ds in ordered],
             )
 
             model_result = ModelResult(
@@ -737,12 +737,53 @@ class Benchmark:
             if r.logprobs is not None and r.logprobs.choice_logprobs
         )
 
+    def _compute_task_imbalance(
+        self, results: list[EvaluatedSample], dataset: Dataset
+    ) -> float:
+        """Task imbalance score: 0 = perfectly balanced, 1 = completely unbalanced.
+
+        Computes max deviation in per-task completion ratio.  A dataset
+        where every task has the same coverage gets 0.0; one where at
+        least one task has 0%% coverage while another has >0%% gets
+        close to 1.0.
+        """
+        if not results:
+            return 1.0  # unstarted = maximum imbalance
+
+        # Total samples per task in the full dataset
+        task_totals: dict[str, int] = {}
+        for s in dataset.samples:
+            task_totals[s.task.value] = task_totals.get(s.task.value, 0) + 1
+
+        # Completed samples per task
+        completed_per_task: dict[str, int] = {}
+        for r in results:
+            task = r.task.value
+            completed_per_task[task] = completed_per_task.get(task, 0) + 1
+
+        # Per-task completion ratios
+        ratios: list[float] = []
+        for task, total in task_totals.items():
+            completed = completed_per_task.get(task, 0)
+            ratios.append(completed / total if total > 0 else 0.0)
+
+        if not ratios:
+            return 0.0
+
+        max_ratio = max(ratios)
+        if max_ratio == 0:
+            return 1.0  # nothing completed yet
+
+        min_ratio = min(ratios)
+        # 0 = all tasks equally covered, 1 = at least one task at 0 while another > 0
+        return 1.0 - (min_ratio / max_ratio)
+
     def _dataset_priority(
         self, dataset: Dataset, provider: BaseProvider, model_label: str,
-    ) -> tuple[int, float]:
+    ) -> tuple[int, float, float]:
         """Sort key for dataset evaluation order.
 
-        Returns ``(tier, completion_ratio)`` where:
+        Returns ``(tier, -imbalance, completion_ratio)`` where:
         - tier 0 = attacked dataset with 0 predictions (highest priority)
         - tier 1 = attacked dataset with predictions but needs more work
         - tier 2 = attacked dataset fully completed (including logprobs)
@@ -750,7 +791,8 @@ class Benchmark:
 
         "Needs more work" means either incomplete predictions, or
         logprobs are required but the collected count is below the minimum.
-        Within the same tier, lower completion ratio sorts first.
+        Within the same tier, more imbalanced task coverage sorts first,
+        then lower completion ratio sorts first.
         """
         is_baseline = dataset.attack is None
         existing = load_partial_results(
@@ -779,7 +821,8 @@ class Benchmark:
             else:
                 tier = 2
 
-        return (tier, ratio)
+        imbalance = self._compute_task_imbalance(sessionless, dataset)
+        return (tier, -imbalance, ratio)
 
     async def _evaluate_dataset(
         self,

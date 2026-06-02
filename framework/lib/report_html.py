@@ -13,6 +13,7 @@ from typing import TYPE_CHECKING
 
 if TYPE_CHECKING:
     from .report import BenchmarkResult
+    from .types import EvaluatedSample
 
 ASSETS_DIR = Path(__file__).resolve().parent.parent / "assets"
 
@@ -84,6 +85,72 @@ def build_html(result: "BenchmarkResult") -> str:
 # Data builder
 # ---------------------------------------------------------------------------
 
+def _load_per_sample_from_partials(result: "BenchmarkResult") -> dict[str, dict]:
+    """Scan partial analysis files and build per_sample data.
+
+    When the BenchmarkResult was reconstructed from partial files (e.g. after
+    an interrupted run), ``ds.results`` may be empty.  This function reads
+    the saved analysis JSONs directly to recover per-sample predictions and
+    logprobs so that the interactive report can still show Confidence,
+    Patterns, and Comparison tabs.
+    """
+    per_sample: dict[str, dict] = {}
+
+    if not result.base_dir:
+        return per_sample
+
+    analysis_dir = Path(result.base_dir) / "partial" / "analysis"
+    if not analysis_dir.exists():
+        return per_sample
+
+    for fpath in sorted(analysis_dir.glob("*.json")):
+        try:
+            with open(fpath, "r", encoding="utf-8") as f:
+                data = json.load(f)
+        except (json.JSONDecodeError, OSError):
+            continue
+
+        model_name = data.get("model") or ""
+        dataset_file = data.get("dataset_file") or ""
+
+        # Determine attack label from dataset_file
+        attack_label = "baseline"
+        for mr in result.models:
+            for ds in mr.evaluated_datasets:
+                if ds.dataset_file == dataset_file:
+                    attack_label = ds.attack_label
+                    break
+            if attack_label != "baseline":
+                break
+
+        for item in data.get("results", []):
+            try:
+                sid = str(item["sample_id"])
+                if sid not in per_sample:
+                    per_sample[sid] = {
+                        "sample_id": item["sample_id"],
+                        "task": item["task"],
+                        "expected": item["expected"],
+                        "models": {},
+                    }
+                sample = per_sample[sid]
+                lp = None
+                lp_data = item.get("logprobs")
+                if isinstance(lp_data, dict) and "choice_logprobs" in lp_data:
+                    lp = {str(k): float(v) for k, v in lp_data["choice_logprobs"].items()}
+
+                sample["models"].setdefault(model_name, {})[attack_label] = {
+                    "predicted": item.get("predicted"),
+                    "correct": item.get("correct"),
+                    "latency_ms": round(item.get("latency_ms", 0), 2),
+                    "logprobs": lp,
+                }
+            except (KeyError, ValueError, TypeError):
+                continue
+
+    return per_sample
+
+
 def _build_data(result: "BenchmarkResult") -> dict:
     """Build the full data structure for JS consumption."""
     models: list[str] = []
@@ -105,11 +172,13 @@ def _build_data(result: "BenchmarkResult") -> dict:
 
     # -- Build aggregates --------------------------------------------------
     aggregates: dict[str, dict] = {}
+    file_map: dict[str, str] = {}  # filename -> attack_label
 
     for mr in result.models:
         aggregates[mr.model_name] = {}
         for ds in mr.evaluated_datasets:
             lbl = ds.attack_label
+            file_map[ds.dataset_file] = lbl
             entry: dict = {
                 "file": ds.dataset_file,
                 "metrics": ds.metrics.to_dict(),
@@ -128,6 +197,7 @@ def _build_data(result: "BenchmarkResult") -> dict:
     # -- Build per_sample --------------------------------------------------
     per_sample: dict[str, dict] = {}
 
+    # First try from BenchmarkResult.results (in-memory)
     for mr in result.models:
         for ds in mr.evaluated_datasets:
             lbl = ds.attack_label
@@ -151,6 +221,10 @@ def _build_data(result: "BenchmarkResult") -> dict:
                         else None
                     ),
                 }
+
+    # If per_sample is empty, load from partial files on disk
+    if not per_sample:
+        per_sample = _load_per_sample_from_partials(result)
 
     # -- Build attack labels (merge defaults with runtime labels) ----------
     attack_labels = dict(ATTACK_LABELS)
@@ -178,6 +252,7 @@ def _build_data(result: "BenchmarkResult") -> dict:
         "task_labels": TASK_LABELS,
         "attack_labels": attack_labels,
         "metric_labels": METRIC_LABELS,
+        "file_map": file_map,
         "aggregates": aggregates,
         "per_sample": per_sample,
     }

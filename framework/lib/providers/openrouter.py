@@ -83,7 +83,7 @@ class OpenRouter(BaseProvider):
             api_key=api_key,
             default_headers=extra_headers if extra_headers else None,
             max_retries=0,
-            timeout=120.0,
+            timeout=512,
         )
 
     @property

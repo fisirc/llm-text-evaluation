@@ -83,6 +83,13 @@ function getAttackFromLabel(label) {
   return label;
 }
 
+function shortName(m) {
+  // Use last meaningful segment of model slug
+  const parts = m.split(/[/:]/);
+  const last = parts[parts.length - 1] || m;
+  return last.length > 25 ? last.slice(0, 22) + '...' : last;
+}
+
 function destroyChart(id) {
   if (charts[id]) { charts[id].destroy(); delete charts[id]; }
 }
@@ -152,7 +159,40 @@ function setupTabs() {
 function renderOverview() {
   renderOverviewStats();
   renderAccuracyChart();
+  renderTaskVulnSummary();
   renderSummaryTable();
+}
+
+function renderTaskVulnSummary() {
+  // For each task, compute average accuracy_drop across all models and all attacks
+  const taskDrops = TASKS.map(t => {
+    let sum = 0, count = 0;
+    MODELS.forEach(m => {
+      const bl = getAttackData(m, 'baseline');
+      if (!bl?.metrics?.tasks?.[t]) return;
+      const blAcc = bl.metrics.tasks[t].accuracy;
+      ATTACKS.forEach(a => {
+        const d = getAttackData(m, a);
+        if (d?.metrics?.tasks?.[t]) {
+          sum += (blAcc - d.metrics.tasks[t].accuracy);
+          count++;
+        }
+      });
+    });
+    return count > 0 ? sum / count : null;
+  });
+
+  makeChart('chart-task-vuln-summary', 'bar',
+    TASKS.map(t => TASK_LABELS[t] || t),
+    [{
+      label: 'Avg. Accuracy Drop',
+      data: taskDrops,
+      backgroundColor: taskDrops.map(v => v != null && v > 0 ? '#f0555599' : '#00c87099'),
+      borderColor: taskDrops.map(v => v != null && v > 0 ? '#f05555' : '#00c870'),
+      borderWidth: 1
+    }],
+    { yScale: { ticks: { callback: v => (v * 100).toFixed(0) + '%' } } }
+  );
 }
 
 function renderOverviewStats() {
@@ -191,7 +231,7 @@ function renderAccuracyChart() {
       return d?.metrics?.accuracy ?? null;
     });
     return {
-      label: m.length > 30 ? m.slice(0,27)+'...' : m,
+      label: shortName(m),
       data,
       backgroundColor: COLORS[i % COLORS.length] + '99',
       borderColor: COLORS[i % COLORS.length],
@@ -377,7 +417,7 @@ function renderRadarChart() {
       const bl = getAttackData(m, 'baseline');
       const data = TASKS.map(t => bl?.metrics?.tasks?.[t]?.accuracy ?? null);
       return {
-        label: m.length > 25 ? m.slice(0,22)+'...' : m,
+        label: shortName(m),
         data,
         borderColor: COLORS[i % COLORS.length],
         backgroundColor: COLORS[i % COLORS.length] + '22',
@@ -407,7 +447,7 @@ function renderRadarChart() {
       return v != null ? Math.max(0, v) : null;
     });
     return {
-      label: m.length > 25 ? m.slice(0,22)+'...' : m,
+      label: shortName(m),
       data,
       borderColor: COLORS[i % COLORS.length],
       backgroundColor: COLORS[i % COLORS.length] + '22',
@@ -435,7 +475,7 @@ function renderRobustnessBarChart() {
   if (attack === 'baseline') {
     // Show baseline accuracy per model
     const datasets = MODELS.map((m, i) => ({
-      label: m.length > 25 ? m.slice(0,22)+'...' : m,
+      label: shortName(m),
       data: [getAttackData(m, 'baseline')?.metrics?.accuracy ?? null],
       backgroundColor: COLORS[i % COLORS.length] + '99',
       borderColor: COLORS[i % COLORS.length],
@@ -453,7 +493,7 @@ function renderRobustnessBarChart() {
   const metrics = ['accuracy_drop','flip_rate','consistency','positive_transfer','negative_transfer'];
 
   const datasets = MODELS.map((m, i) => ({
-    label: m.length > 25 ? m.slice(0,22)+'...' : m,
+    label: shortName(m),
     data: metrics.map(metric => getAttackData(m, attack)?.robustness?.[metric] ?? null),
     backgroundColor: COLORS[i % COLORS.length] + '99',
     borderColor: COLORS[i % COLORS.length],
@@ -495,7 +535,8 @@ function renderLanguagePairsContent() {
     return;
   }
 
-  // Get pairwise values
+  // Get pairwise values using file_map for exact lookup
+  const fileMap = DATA.file_map || {};
   function getPW(metric) {
     const matrix = Array.from({length: n}, () => Array(n).fill(null));
     for (let i = 0; i < n; i++) {
@@ -503,15 +544,10 @@ function renderLanguagePairsContent() {
         if (i === j) { matrix[i][j] = 1; continue; }
         const d = getAttackData(model, ATTACKS[i]);
         if (!d?.pairwise_robustness) continue;
-        // Find the right key - try matching by label
-        const targetFile = ATTACKS[j];
-        // The pairwise_robustness keys are like "cross_lingual.french_base.json"
-        // We need to find the matching entry
-        for (const key in d.pairwise_robustness) {
-          if (key.includes(targetFile.replace('_base','')) || key === targetFile || key.replace('.json','') === targetFile) {
-            matrix[i][j] = d.pairwise_robustness[key][metric] ?? null;
-            break;
-          }
+        // Exact lookup via file_map: find the filename that maps to ATTACKS[j]
+        const targetFile = Object.keys(fileMap).find(f => fileMap[f] === ATTACKS[j]);
+        if (targetFile && d.pairwise_robustness[targetFile] != null) {
+          matrix[i][j] = d.pairwise_robustness[targetFile][metric] ?? null;
         }
       }
     }
@@ -561,7 +597,7 @@ function renderLanguagePairsContent() {
   });
 
   makeChart('chart-avg-consistency', 'bar',
-    MODELS.map(m => m.length > 25 ? m.slice(0,22)+'...' : m),
+    MODELS.map(m => shortName(m)),
     [{
       label: 'Average Consistency',
       data: avgCons,
@@ -587,7 +623,7 @@ function renderLanguagePairsContent() {
   });
 
   makeChart('chart-avg-transfer', 'bar',
-    MODELS.map(m => m.length > 25 ? m.slice(0,22)+'...' : m),
+    MODELS.map(m => shortName(m)),
     [
       { label: 'Pos. Transfer', data: avgPos, backgroundColor: '#00c87099', borderColor: '#00c870', borderWidth: 1 },
       { label: 'Neg. Transfer', data: avgNeg, backgroundColor: '#f0555599', borderColor: '#f05555', borderWidth: 1 }
