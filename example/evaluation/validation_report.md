@@ -1,7 +1,7 @@
 # LLM Verbal Reasoning Evaluation: Results Report
 
 **Benchmark started:** 2026-05-26T08:20:22.480011+00:00
-**Benchmark finished:** 2026-06-02T05:42:56.608718+00:00
+**Benchmark finished:** 2026-06-02T17:53:18.148103+00:00
 **Baseline dataset:** processed_dataset.json
 **Status:** Partial
 
@@ -404,66 +404,72 @@
 
 | Dataset | Attack | Total | Correct | Failed | Accuracy | Avg Latency (ms) |
 |---------|--------|-------|---------|--------|----------|------------------|
-| cross_lingual.arabic_base.json | cross_lingual (arabic_base) | 152 | 95 | 0 | 62.50% | 27964.7 |
-| cross_lingual.chinese_base.json | cross_lingual (chinese_base) | 200 | 158 | 0 | 79.00% | 43962.4 |
-| cross_lingual.french_base.json | cross_lingual (french_base) | 136 | 108 | 0 | 79.41% | 48105.1 |
-| cross_lingual.japanese_base.json | cross_lingual (japanese_base) | 146 | 111 | 0 | 76.03% | 14156.8 |
-| cross_lingual.russian_base.json | cross_lingual (russian_base) | 162 | 130 | 0 | 80.25% | 12902.7 |
+| cross_lingual.arabic_base.json | cross_lingual (arabic_base) | 308 | 212 | 0 | 68.83% | 52752.9 |
+| cross_lingual.chinese_base.json | cross_lingual (chinese_base) | 476 | 362 | 0 | 76.05% | 88130.7 |
+| cross_lingual.french_base.json | cross_lingual (french_base) | 340 | 275 | 0 | 80.88% | 52408.1 |
+| cross_lingual.japanese_base.json | cross_lingual (japanese_base) | 332 | 250 | 0 | 75.30% | 56105.0 |
+| cross_lingual.russian_base.json | cross_lingual (russian_base) | 360 | 288 | 0 | 80.00% | 68267.6 |
 | processed_dataset.json | — | 886 | 658 | 1 | 74.27% | 75258.8 |
 
 ### Per-Task Accuracy — cross_lingual (arabic_base)
 
 | Task | Correct | Total | Accuracy |
 |------|---------|-------|----------|
-| analogies | 6 | 15 | 40.00% |
+| analogies | 22 | 41 | 53.66% |
 | incomplete_sentences | 7 | 13 | 53.85% |
-| reading_comprehension | 10 | 15 | 66.67% |
-| sentence_elimination | 4 | 15 | 26.67% |
-| sentence_ordering | 47 | 63 | 74.60% |
-| synonyms_and_antonyms | 9 | 15 | 60.00% |
-| verbal_series | 12 | 16 | 75.00% |
+| reading_comprehension | 31 | 41 | 75.61% |
+| sentence_elimination | 22 | 41 | 53.66% |
+| sentence_ordering | 69 | 89 | 77.53% |
+| synonyms_and_antonyms | 29 | 41 | 70.73% |
+| verbal_series | 32 | 42 | 76.19% |
 
 ### Per-Task Accuracy — cross_lingual (chinese_base)
 
 | Task | Correct | Total | Accuracy |
 |------|---------|-------|----------|
-| sentence_ordering | 158 | 200 | 79.00% |
+| analogies | 32 | 44 | 72.73% |
+| incomplete_sentences | 9 | 12 | 75.00% |
+| reading_comprehension | 37 | 44 | 84.09% |
+| sentence_elimination | 27 | 43 | 62.79% |
+| sentence_ordering | 195 | 245 | 79.59% |
+| synonyms_and_antonyms | 30 | 44 | 68.18% |
+| verbal_series | 32 | 44 | 72.73% |
 
 ### Per-Task Accuracy — cross_lingual (french_base)
 
 | Task | Correct | Total | Accuracy |
 |------|---------|-------|----------|
-| analogies | 4 | 5 | 80.00% |
-| incomplete_sentences | 5 | 5 | 100.00% |
-| reading_comprehension | 5 | 5 | 100.00% |
-| sentence_elimination | 4 | 5 | 80.00% |
-| sentence_ordering | 86 | 109 | 78.90% |
-| synonyms_and_antonyms | 2 | 3 | 66.67% |
-| verbal_series | 2 | 4 | 50.00% |
+| analogies | 32 | 37 | 86.49% |
+| incomplete_sentences | 12 | 13 | 92.31% |
+| reading_comprehension | 35 | 38 | 92.11% |
+| sentence_elimination | 25 | 38 | 65.79% |
+| sentence_ordering | 114 | 142 | 80.28% |
+| synonyms_and_antonyms | 27 | 35 | 77.14% |
+| verbal_series | 30 | 37 | 81.08% |
 
 ### Per-Task Accuracy — cross_lingual (japanese_base)
 
 | Task | Correct | Total | Accuracy |
 |------|---------|-------|----------|
-| analogies | 8 | 13 | 61.54% |
-| incomplete_sentences | 8 | 12 | 66.67% |
-| reading_comprehension | 12 | 12 | 100.00% |
-| sentence_elimination | 5 | 14 | 35.71% |
-| sentence_ordering | 59 | 69 | 85.51% |
-| synonyms_and_antonyms | 8 | 13 | 61.54% |
-| verbal_series | 11 | 13 | 84.62% |
+| analogies | 34 | 44 | 77.27% |
+| incomplete_sentences | 9 | 13 | 69.23% |
+| reading_comprehension | 38 | 43 | 88.37% |
+| sentence_elimination | 25 | 45 | 55.56% |
+| sentence_ordering | 82 | 100 | 82.00% |
+| synonyms_and_antonyms | 29 | 44 | 65.91% |
+| verbal_series | 33 | 43 | 76.74% |
 
 ### Per-Task Accuracy — cross_lingual (russian_base)
 
 | Task | Correct | Total | Accuracy |
 |------|---------|-------|----------|
-| analogies | 6 | 7 | 85.71% |
-| incomplete_sentences | 5 | 5 | 100.00% |
-| reading_comprehension | 5 | 6 | 83.33% |
-| sentence_elimination | 4 | 5 | 80.00% |
-| sentence_ordering | 100 | 126 | 79.37% |
-| synonyms_and_antonyms | 4 | 7 | 57.14% |
-| verbal_series | 6 | 6 | 100.00% |
+| analogies | 29 | 38 | 76.32% |
+| incomplete_sentences | 12 | 12 | 100.00% |
+| reading_comprehension | 31 | 36 | 86.11% |
+| sentence_elimination | 24 | 36 | 66.67% |
+| sentence_ordering | 129 | 159 | 81.13% |
+| synonyms_and_antonyms | 31 | 40 | 77.50% |
+| verbal_series | 32 | 39 | 82.05% |
 
 ### Per-Task Accuracy — baseline
 
@@ -477,11 +483,11 @@
 
 | Attack | Acc. Drop (Δ) | Flip Rate | Consistency | Pos. Transfer | Neg. Transfer | Rank Cons. |
 |--------|---------------|-----------|-------------|--------------|--------------|------------|
-| cross_lingual (arabic_base) | +13.92% | 19.05% | 77.22% | 80.95% | 62.50% | -0.090 |
-| cross_lingual (chinese_base) | +8.50% | 14.86% | 81.50% | 85.14% | 56.00% | 0.027 |
-| cross_lingual (french_base) | +8.77% | 15.00% | 78.95% | 85.00% | 35.71% | 0.160 |
-| cross_lingual (japanese_base) | +9.30% | 13.33% | 81.40% | 86.67% | 45.45% | 0.413 |
-| cross_lingual (russian_base) | +9.09% | 14.53% | 80.30% | 85.47% | 40.00% | 0.260 |
+| cross_lingual (arabic_base) | +8.70% | 15.32% | 78.99% | 84.68% | 55.56% | 0.060 |
+| cross_lingual (chinese_base) | +6.48% | 13.93% | 80.89% | 86.07% | 55.10% | 0.180 |
+| cross_lingual (french_base) | +5.43% | 11.11% | 82.61% | 88.89% | 51.61% | 0.182 |
+| cross_lingual (japanese_base) | +4.58% | 13.11% | 78.43% | 86.89% | 45.16% | 0.339 |
+| cross_lingual (russian_base) | +9.00% | 13.71% | 81.50% | 86.29% | 48.00% | 0.343 |
 
 ---
 
