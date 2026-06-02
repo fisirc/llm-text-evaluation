@@ -1,0 +1,2563 @@
+{
+  "model": "qwen3.5-27b",
+  "provider": "ollama+opencode-go",
+  "dataset_file": "cross_lingual.french_base.json",
+  "started_at": "2026-06-02T04:30:30.323677+00:00",
+  "last_updated": "2026-06-02T04:36:47.263508+00:00",
+  "total_samples": 2215,
+  "completed_samples": 136,
+  "results": [
+    {
+      "sample_id": 6,
+      "task": "sentence_ordering",
+      "expected": 2,
+      "predicted": 2,
+      "correct": true,
+      "raw_response": "{\n\"answers\": [\n{\"answer\": 2, \"id\": 6},\n{\"answer\": 2, \"id\": 7},\n{\"answer\": 2, \"id\": 8},\n{\"answer\": 3, \"id\": 9},\n{\"answer\": 2, \"id\": 10},\n{\"answer\": 1, \"id\": 11}\n]\n}",
+      "latency_ms": 45016.63,
+      "batch_id": 1,
+      "timestamp": "2026-05-27T06:33:16.168284+00:00",
+      "logprobs": {
+        "choice_logprobs": {
+          "2": -0.025772226974368095,
+          "0": -6.0228424072265625,
+          "1": -6.919652938842773,
+          "3": -7.033664703369141
+        }
+      }
+    },
+    {
+      "sample_id": 7,
+      "task": "sentence_ordering",
+      "expected": 2,
+      "predicted": 2,
+      "correct": true,
+      "raw_response": "{\n\"answers\": [\n{\"answer\": 2, \"id\": 6},\n{\"answer\": 2, \"id\": 7},\n{\"answer\": 2, \"id\": 8},\n{\"answer\": 3, \"id\": 9},\n{\"answer\": 2, \"id\": 10},\n{\"answer\": 1, \"id\": 11}\n]\n}",
+      "latency_ms": 45016.63,
+      "batch_id": 1,
+      "timestamp": "2026-05-27T06:33:16.168284+00:00",
+      "logprobs": {
+        "choice_logprobs": {
+          "2": -0.025772226974368095,
+          "0": -6.0228424072265625,
+          "1": -6.919652938842773,
+          "3": -7.033664703369141
+        }
+      }
+    },
+    {
+      "sample_id": 8,
+      "task": "sentence_ordering",
+      "expected": 2,
+      "predicted": 2,
+      "correct": true,
+      "raw_response": "{\n\"answers\": [\n{\"answer\": 2, \"id\": 6},\n{\"answer\": 2, \"id\": 7},\n{\"answer\": 2, \"id\": 8},\n{\"answer\": 3, \"id\": 9},\n{\"answer\": 2, \"id\": 10},\n{\"answer\": 1, \"id\": 11}\n]\n}",
+      "latency_ms": 45016.63,
+      "batch_id": 1,
+      "timestamp": "2026-05-27T06:33:16.168284+00:00",
+      "logprobs": {
+        "choice_logprobs": {
+          "2": -0.025772226974368095,
+          "0": -6.0228424072265625,
+          "1": -6.919652938842773,
+          "3": -7.033664703369141
+        }
+      }
+    },
+    {
+      "sample_id": 9,
+      "task": "sentence_ordering",
+      "expected": 3,
+      "predicted": 3,
+      "correct": true,
+      "raw_response": "{\n\"answers\": [\n{\"answer\": 2, \"id\": 6},\n{\"answer\": 2, \"id\": 7},\n{\"answer\": 2, \"id\": 8},\n{\"answer\": 3, \"id\": 9},\n{\"answer\": 2, \"id\": 10},\n{\"answer\": 1, \"id\": 11}\n]\n}",
+      "latency_ms": 45016.63,
+      "batch_id": 1,
+      "timestamp": "2026-05-27T06:33:16.168284+00:00",
+      "logprobs": {
+        "choice_logprobs": {
+          "2": -0.025772226974368095,
+          "0": -6.0228424072265625,
+          "1": -6.919652938842773,
+          "3": -7.033664703369141
+        }
+      }
+    },
+    {
+      "sample_id": 10,
+      "task": "sentence_ordering",
+      "expected": 2,
+      "predicted": 2,
+      "correct": true,
+      "raw_response": "{\n\"answers\": [\n{\"answer\": 2, \"id\": 6},\n{\"answer\": 2, \"id\": 7},\n{\"answer\": 2, \"id\": 8},\n{\"answer\": 3, \"id\": 9},\n{\"answer\": 2, \"id\": 10},\n{\"answer\": 1, \"id\": 11}\n]\n}",
+      "latency_ms": 45016.63,
+      "batch_id": 1,
+      "timestamp": "2026-05-27T06:33:16.168284+00:00",
+      "logprobs": {
+        "choice_logprobs": {
+          "2": -0.025772226974368095,
+          "0": -6.0228424072265625,
+          "1": -6.919652938842773,
+          "3": -7.033664703369141
+        }
+      }
+    },
+    {
+      "sample_id": 11,
+      "task": "sentence_ordering",
+      "expected": 1,
+      "predicted": 1,
+      "correct": true,
+      "raw_response": "{\n\"answers\": [\n{\"answer\": 2, \"id\": 6},\n{\"answer\": 2, \"id\": 7},\n{\"answer\": 2, \"id\": 8},\n{\"answer\": 3, \"id\": 9},\n{\"answer\": 2, \"id\": 10},\n{\"answer\": 1, \"id\": 11}\n]\n}",
+      "latency_ms": 45016.63,
+      "batch_id": 1,
+      "timestamp": "2026-05-27T06:33:16.168284+00:00",
+      "logprobs": {
+        "choice_logprobs": {
+          "2": -0.025772226974368095,
+          "0": -6.0228424072265625,
+          "1": -6.919652938842773,
+          "3": -7.033664703369141
+        }
+      }
+    },
+    {
+      "sample_id": 0,
+      "task": "sentence_ordering",
+      "expected": 3,
+      "predicted": 3,
+      "correct": true,
+      "raw_response": "{\"answers\":[{\n\"answer\":3,\"id\":0},\n{\"answer\":2,\"id\":1},\n{\"answer\":1,\"id\":2},\n{\"answer\":0,\"id\":3},\n{\"answer\":0,\"id\":4},\n{\"answer\":3,\"id\":5}]}\n",
+      "latency_ms": 53623.89,
+      "batch_id": 0,
+      "timestamp": "2026-05-27T06:34:07.449828+00:00",
+      "logprobs": {
+        "choice_logprobs": {
+          "3": -1.1683423519134521
+        }
+      }
+    },
+    {
+      "sample_id": 1,
+      "task": "sentence_ordering",
+      "expected": 2,
+      "predicted": 2,
+      "correct": true,
+      "raw_response": "{\"answers\":[{\n\"answer\":3,\"id\":0},\n{\"answer\":2,\"id\":1},\n{\"answer\":1,\"id\":2},\n{\"answer\":0,\"id\":3},\n{\"answer\":0,\"id\":4},\n{\"answer\":3,\"id\":5}]}\n",
+      "latency_ms": 53623.89,
+      "batch_id": 0,
+      "timestamp": "2026-05-27T06:34:07.449828+00:00",
+      "logprobs": {
+        "choice_logprobs": {
+          "3": -1.1683423519134521
+        }
+      }
+    },
+    {
+      "sample_id": 2,
+      "task": "sentence_ordering",
+      "expected": 1,
+      "predicted": 1,
+      "correct": true,
+      "raw_response": "{\"answers\":[{\n\"answer\":3,\"id\":0},\n{\"answer\":2,\"id\":1},\n{\"answer\":1,\"id\":2},\n{\"answer\":0,\"id\":3},\n{\"answer\":0,\"id\":4},\n{\"answer\":3,\"id\":5}]}\n",
+      "latency_ms": 53623.89,
+      "batch_id": 0,
+      "timestamp": "2026-05-27T06:34:07.449828+00:00",
+      "logprobs": {
+        "choice_logprobs": {
+          "3": -1.1683423519134521
+        }
+      }
+    },
+    {
+      "sample_id": 3,
+      "task": "sentence_ordering",
+      "expected": 0,
+      "predicted": 0,
+      "correct": true,
+      "raw_response": "{\"answers\":[{\n\"answer\":3,\"id\":0},\n{\"answer\":2,\"id\":1},\n{\"answer\":1,\"id\":2},\n{\"answer\":0,\"id\":3},\n{\"answer\":0,\"id\":4},\n{\"answer\":3,\"id\":5}]}\n",
+      "latency_ms": 53623.89,
+      "batch_id": 0,
+      "timestamp": "2026-05-27T06:34:07.449828+00:00",
+      "logprobs": {
+        "choice_logprobs": {
+          "3": -1.1683423519134521
+        }
+      }
+    },
+    {
+      "sample_id": 4,
+      "task": "sentence_ordering",
+      "expected": 0,
+      "predicted": 0,
+      "correct": true,
+      "raw_response": "{\"answers\":[{\n\"answer\":3,\"id\":0},\n{\"answer\":2,\"id\":1},\n{\"answer\":1,\"id\":2},\n{\"answer\":0,\"id\":3},\n{\"answer\":0,\"id\":4},\n{\"answer\":3,\"id\":5}]}\n",
+      "latency_ms": 53623.89,
+      "batch_id": 0,
+      "timestamp": "2026-05-27T06:34:07.449828+00:00",
+      "logprobs": {
+        "choice_logprobs": {
+          "3": -1.1683423519134521
+        }
+      }
+    },
+    {
+      "sample_id": 5,
+      "task": "sentence_ordering",
+      "expected": 3,
+      "predicted": 3,
+      "correct": true,
+      "raw_response": "{\"answers\":[{\n\"answer\":3,\"id\":0},\n{\"answer\":2,\"id\":1},\n{\"answer\":1,\"id\":2},\n{\"answer\":0,\"id\":3},\n{\"answer\":0,\"id\":4},\n{\"answer\":3,\"id\":5}]}\n",
+      "latency_ms": 53623.89,
+      "batch_id": 0,
+      "timestamp": "2026-05-27T06:34:07.449828+00:00",
+      "logprobs": {
+        "choice_logprobs": {
+          "3": -1.1683423519134521
+        }
+      }
+    },
+    {
+      "sample_id": 12,
+      "task": "sentence_ordering",
+      "expected": 2,
+      "predicted": 0,
+      "correct": false,
+      "raw_response": "{\"answers\":[{\"answer\":0,\"id\":12},{\"answer\":3,\"id\":13},{\"answer\":0,\"id\":14},{\"answer\":2,\"id\":15},{\"answer\":3,\"id\":16},{\"answer\":3,\"id\":17}]}\n",
+      "latency_ms": 16208.0,
+      "batch_id": 2,
+      "timestamp": "2026-05-27T06:34:53.417255+00:00",
+      "logprobs": {
+        "choice_logprobs": {
+          "0": -0.012883630581200123,
+          "1": -5.193751811981201,
+          "2": -6.009990215301514,
+          "3": -6.969832897186279
+        }
+      }
+    },
+    {
+      "sample_id": 13,
+      "task": "sentence_ordering",
+      "expected": 3,
+      "predicted": 3,
+      "correct": true,
+      "raw_response": "{\"answers\":[{\"answer\":0,\"id\":12},{\"answer\":3,\"id\":13},{\"answer\":0,\"id\":14},{\"answer\":2,\"id\":15},{\"answer\":3,\"id\":16},{\"answer\":3,\"id\":17}]}\n",
+      "latency_ms": 16208.0,
+      "batch_id": 2,
+      "timestamp": "2026-05-27T06:34:53.417255+00:00",
+      "logprobs": {
+        "choice_logprobs": {
+          "0": -0.012883630581200123,
+          "1": -5.193751811981201,
+          "2": -6.009990215301514,
+          "3": -6.969832897186279
+        }
+      }
+    },
+    {
+      "sample_id": 14,
+      "task": "sentence_ordering",
+      "expected": 0,
+      "predicted": 0,
+      "correct": true,
+      "raw_response": "{\"answers\":[{\"answer\":0,\"id\":12},{\"answer\":3,\"id\":13},{\"answer\":0,\"id\":14},{\"answer\":2,\"id\":15},{\"answer\":3,\"id\":16},{\"answer\":3,\"id\":17}]}\n",
+      "latency_ms": 16208.0,
+      "batch_id": 2,
+      "timestamp": "2026-05-27T06:34:53.417255+00:00",
+      "logprobs": {
+        "choice_logprobs": {
+          "0": -0.012883630581200123,
+          "1": -5.193751811981201,
+          "2": -6.009990215301514,
+          "3": -6.969832897186279
+        }
+      }
+    },
+    {
+      "sample_id": 15,
+      "task": "sentence_ordering",
+      "expected": 3,
+      "predicted": 2,
+      "correct": false,
+      "raw_response": "{\"answers\":[{\"answer\":0,\"id\":12},{\"answer\":3,\"id\":13},{\"answer\":0,\"id\":14},{\"answer\":2,\"id\":15},{\"answer\":3,\"id\":16},{\"answer\":3,\"id\":17}]}\n",
+      "latency_ms": 16208.0,
+      "batch_id": 2,
+      "timestamp": "2026-05-27T06:34:53.417255+00:00",
+      "logprobs": {
+        "choice_logprobs": {
+          "0": -0.012883630581200123,
+          "1": -5.193751811981201,
+          "2": -6.009990215301514,
+          "3": -6.969832897186279
+        }
+      }
+    },
+    {
+      "sample_id": 16,
+      "task": "sentence_ordering",
+      "expected": 3,
+      "predicted": 3,
+      "correct": true,
+      "raw_response": "{\"answers\":[{\"answer\":0,\"id\":12},{\"answer\":3,\"id\":13},{\"answer\":0,\"id\":14},{\"answer\":2,\"id\":15},{\"answer\":3,\"id\":16},{\"answer\":3,\"id\":17}]}\n",
+      "latency_ms": 16208.0,
+      "batch_id": 2,
+      "timestamp": "2026-05-27T06:34:53.417255+00:00",
+      "logprobs": {
+        "choice_logprobs": {
+          "0": -0.012883630581200123,
+          "1": -5.193751811981201,
+          "2": -6.009990215301514,
+          "3": -6.969832897186279
+        }
+      }
+    },
+    {
+      "sample_id": 17,
+      "task": "sentence_ordering",
+      "expected": 3,
+      "predicted": 3,
+      "correct": true,
+      "raw_response": "{\"answers\":[{\"answer\":0,\"id\":12},{\"answer\":3,\"id\":13},{\"answer\":0,\"id\":14},{\"answer\":2,\"id\":15},{\"answer\":3,\"id\":16},{\"answer\":3,\"id\":17}]}\n",
+      "latency_ms": 16208.0,
+      "batch_id": 2,
+      "timestamp": "2026-05-27T06:34:53.417255+00:00",
+      "logprobs": {
+        "choice_logprobs": {
+          "0": -0.012883630581200123,
+          "1": -5.193751811981201,
+          "2": -6.009990215301514,
+          "3": -6.969832897186279
+        }
+      }
+    },
+    {
+      "sample_id": 18,
+      "task": "sentence_ordering",
+      "expected": 2,
+      "predicted": 2,
+      "correct": true,
+      "raw_response": "{\n  \"answers\": [\n    {\"answer\": 2, \"id\": 18},\n    {\"answer\": 0, \"id\": 19},\n    {\"answer\": 0, \"id\": 20},\n    {\"answer\": 0, \"id\": 21},\n    {\"answer\": 2, \"id\": 22},\n    {\"answer\": 1, \"id\": 23}\n  ]\n}",
+      "latency_ms": 47083.06,
+      "batch_id": 3,
+      "timestamp": "2026-05-27T06:38:49.950023+00:00",
+      "logprobs": {
+        "choice_logprobs": {
+          "2": -0.0215640589594841,
+          "1": -4.517314434051514,
+          "0": -4.72438383102417,
+          "3": -6.889678478240967,
+          "4": -8.136472702026367
+        }
+      }
+    },
+    {
+      "sample_id": 19,
+      "task": "sentence_ordering",
+      "expected": 0,
+      "predicted": 0,
+      "correct": true,
+      "raw_response": "{\n  \"answers\": [\n    {\"answer\": 2, \"id\": 18},\n    {\"answer\": 0, \"id\": 19},\n    {\"answer\": 0, \"id\": 20},\n    {\"answer\": 0, \"id\": 21},\n    {\"answer\": 2, \"id\": 22},\n    {\"answer\": 1, \"id\": 23}\n  ]\n}",
+      "latency_ms": 47083.06,
+      "batch_id": 3,
+      "timestamp": "2026-05-27T06:38:49.950023+00:00",
+      "logprobs": {
+        "choice_logprobs": {
+          "2": -0.0215640589594841,
+          "1": -4.517314434051514,
+          "0": -4.72438383102417,
+          "3": -6.889678478240967,
+          "4": -8.136472702026367
+        }
+      }
+    },
+    {
+      "sample_id": 20,
+      "task": "sentence_ordering",
+      "expected": 3,
+      "predicted": 0,
+      "correct": false,
+      "raw_response": "{\n  \"answers\": [\n    {\"answer\": 2, \"id\": 18},\n    {\"answer\": 0, \"id\": 19},\n    {\"answer\": 0, \"id\": 20},\n    {\"answer\": 0, \"id\": 21},\n    {\"answer\": 2, \"id\": 22},\n    {\"answer\": 1, \"id\": 23}\n  ]\n}",
+      "latency_ms": 47083.06,
+      "batch_id": 3,
+      "timestamp": "2026-05-27T06:38:49.950023+00:00",
+      "logprobs": {
+        "choice_logprobs": {
+          "2": -0.0215640589594841,
+          "1": -4.517314434051514,
+          "0": -4.72438383102417,
+          "3": -6.889678478240967,
+          "4": -8.136472702026367
+        }
+      }
+    },
+    {
+      "sample_id": 21,
+      "task": "sentence_ordering",
+      "expected": 0,
+      "predicted": 0,
+      "correct": true,
+      "raw_response": "{\n  \"answers\": [\n    {\"answer\": 2, \"id\": 18},\n    {\"answer\": 0, \"id\": 19},\n    {\"answer\": 0, \"id\": 20},\n    {\"answer\": 0, \"id\": 21},\n    {\"answer\": 2, \"id\": 22},\n    {\"answer\": 1, \"id\": 23}\n  ]\n}",
+      "latency_ms": 47083.06,
+      "batch_id": 3,
+      "timestamp": "2026-05-27T06:38:49.950023+00:00",
+      "logprobs": {
+        "choice_logprobs": {
+          "2": -0.0215640589594841,
+          "1": -4.517314434051514,
+          "0": -4.72438383102417,
+          "3": -6.889678478240967,
+          "4": -8.136472702026367
+        }
+      }
+    },
+    {
+      "sample_id": 22,
+      "task": "sentence_ordering",
+      "expected": 2,
+      "predicted": 2,
+      "correct": true,
+      "raw_response": "{\n  \"answers\": [\n    {\"answer\": 2, \"id\": 18},\n    {\"answer\": 0, \"id\": 19},\n    {\"answer\": 0, \"id\": 20},\n    {\"answer\": 0, \"id\": 21},\n    {\"answer\": 2, \"id\": 22},\n    {\"answer\": 1, \"id\": 23}\n  ]\n}",
+      "latency_ms": 47083.06,
+      "batch_id": 3,
+      "timestamp": "2026-05-27T06:38:49.950023+00:00",
+      "logprobs": {
+        "choice_logprobs": {
+          "2": -0.0215640589594841,
+          "1": -4.517314434051514,
+          "0": -4.72438383102417,
+          "3": -6.889678478240967,
+          "4": -8.136472702026367
+        }
+      }
+    },
+    {
+      "sample_id": 23,
+      "task": "sentence_ordering",
+      "expected": 1,
+      "predicted": 1,
+      "correct": true,
+      "raw_response": "{\n  \"answers\": [\n    {\"answer\": 2, \"id\": 18},\n    {\"answer\": 0, \"id\": 19},\n    {\"answer\": 0, \"id\": 20},\n    {\"answer\": 0, \"id\": 21},\n    {\"answer\": 2, \"id\": 22},\n    {\"answer\": 1, \"id\": 23}\n  ]\n}",
+      "latency_ms": 47083.06,
+      "batch_id": 3,
+      "timestamp": "2026-05-27T06:38:49.950023+00:00",
+      "logprobs": {
+        "choice_logprobs": {
+          "2": -0.0215640589594841,
+          "1": -4.517314434051514,
+          "0": -4.72438383102417,
+          "3": -6.889678478240967,
+          "4": -8.136472702026367
+        }
+      }
+    },
+    {
+      "sample_id": 24,
+      "task": "sentence_ordering",
+      "expected": 3,
+      "predicted": 3,
+      "correct": true,
+      "raw_response": "{\"answers\":[{\"answer\":3,\"id\":24},{\"answer\":0,\"id\":25},{\"answer\":0,\"id\":36},{\"answer\":1,\"id\":37},{\"answer\":2,\"id\":38},{\"answer\":2,\"id\":39},{\"answer\":4,\"id\":40},{\"answer\":1,\"id\":31}]}\n",
+      "latency_ms": 61259.25,
+      "batch_id": 3,
+      "timestamp": "2026-05-27T09:33:42.108735+00:00",
+      "logprobs": {
+        "choice_logprobs": {
+          "3": -0.01928592659533024,
+          "0": -4.97405481338501,
+          "2": -5.251993656158447,
+          "4": -6.636011600494385
+        }
+      }
+    },
+    {
+      "sample_id": 25,
+      "task": "sentence_ordering",
+      "expected": 0,
+      "predicted": 0,
+      "correct": true,
+      "raw_response": "{\"answers\":[{\"answer\":3,\"id\":24},{\"answer\":0,\"id\":25},{\"answer\":0,\"id\":36},{\"answer\":1,\"id\":37},{\"answer\":2,\"id\":38},{\"answer\":2,\"id\":39},{\"answer\":4,\"id\":40},{\"answer\":1,\"id\":31}]}\n",
+      "latency_ms": 61259.25,
+      "batch_id": 3,
+      "timestamp": "2026-05-27T09:33:42.108735+00:00",
+      "logprobs": {
+        "choice_logprobs": {
+          "3": -0.01928592659533024,
+          "0": -4.97405481338501,
+          "2": -5.251993656158447,
+          "4": -6.636011600494385
+        }
+      }
+    },
+    {
+      "sample_id": 36,
+      "task": "sentence_ordering",
+      "expected": 2,
+      "predicted": 0,
+      "correct": false,
+      "raw_response": "{\"answers\":[{\"answer\":3,\"id\":24},{\"answer\":0,\"id\":25},{\"answer\":0,\"id\":36},{\"answer\":1,\"id\":37},{\"answer\":2,\"id\":38},{\"answer\":2,\"id\":39},{\"answer\":4,\"id\":40},{\"answer\":1,\"id\":31}]}\n",
+      "latency_ms": 61259.25,
+      "batch_id": 3,
+      "timestamp": "2026-05-27T09:33:42.108735+00:00",
+      "logprobs": {
+        "choice_logprobs": {
+          "3": -0.01928592659533024,
+          "0": -4.97405481338501,
+          "2": -5.251993656158447,
+          "4": -6.636011600494385
+        }
+      }
+    },
+    {
+      "sample_id": 37,
+      "task": "sentence_ordering",
+      "expected": 1,
+      "predicted": 1,
+      "correct": true,
+      "raw_response": "{\"answers\":[{\"answer\":3,\"id\":24},{\"answer\":0,\"id\":25},{\"answer\":0,\"id\":36},{\"answer\":1,\"id\":37},{\"answer\":2,\"id\":38},{\"answer\":2,\"id\":39},{\"answer\":4,\"id\":40},{\"answer\":1,\"id\":31}]}\n",
+      "latency_ms": 61259.25,
+      "batch_id": 3,
+      "timestamp": "2026-05-27T09:33:42.108735+00:00",
+      "logprobs": {
+        "choice_logprobs": {
+          "3": -0.01928592659533024,
+          "0": -4.97405481338501,
+          "2": -5.251993656158447,
+          "4": -6.636011600494385
+        }
+      }
+    },
+    {
+      "sample_id": 38,
+      "task": "sentence_ordering",
+      "expected": 2,
+      "predicted": 2,
+      "correct": true,
+      "raw_response": "{\"answers\":[{\"answer\":3,\"id\":24},{\"answer\":0,\"id\":25},{\"answer\":0,\"id\":36},{\"answer\":1,\"id\":37},{\"answer\":2,\"id\":38},{\"answer\":2,\"id\":39},{\"answer\":4,\"id\":40},{\"answer\":1,\"id\":31}]}\n",
+      "latency_ms": 61259.25,
+      "batch_id": 3,
+      "timestamp": "2026-05-27T09:33:42.108735+00:00",
+      "logprobs": {
+        "choice_logprobs": {
+          "3": -0.01928592659533024,
+          "0": -4.97405481338501,
+          "2": -5.251993656158447,
+          "4": -6.636011600494385
+        }
+      }
+    },
+    {
+      "sample_id": 39,
+      "task": "sentence_ordering",
+      "expected": 2,
+      "predicted": 2,
+      "correct": true,
+      "raw_response": "{\"answers\":[{\"answer\":3,\"id\":24},{\"answer\":0,\"id\":25},{\"answer\":0,\"id\":36},{\"answer\":1,\"id\":37},{\"answer\":2,\"id\":38},{\"answer\":2,\"id\":39},{\"answer\":4,\"id\":40},{\"answer\":1,\"id\":31}]}\n",
+      "latency_ms": 61259.25,
+      "batch_id": 3,
+      "timestamp": "2026-05-27T09:33:42.108735+00:00",
+      "logprobs": {
+        "choice_logprobs": {
+          "3": -0.01928592659533024,
+          "0": -4.97405481338501,
+          "2": -5.251993656158447,
+          "4": -6.636011600494385
+        }
+      }
+    },
+    {
+      "sample_id": 40,
+      "task": "sentence_ordering",
+      "expected": 4,
+      "predicted": 4,
+      "correct": true,
+      "raw_response": "{\"answers\":[{\"answer\":3,\"id\":24},{\"answer\":0,\"id\":25},{\"answer\":0,\"id\":36},{\"answer\":1,\"id\":37},{\"answer\":2,\"id\":38},{\"answer\":2,\"id\":39},{\"answer\":4,\"id\":40},{\"answer\":1,\"id\":31}]}\n",
+      "latency_ms": 61259.25,
+      "batch_id": 3,
+      "timestamp": "2026-05-27T09:33:42.108735+00:00",
+      "logprobs": {
+        "choice_logprobs": {
+          "3": -0.01928592659533024,
+          "0": -4.97405481338501,
+          "2": -5.251993656158447,
+          "4": -6.636011600494385
+        }
+      }
+    },
+    {
+      "sample_id": 31,
+      "task": "sentence_ordering",
+      "expected": 1,
+      "predicted": 1,
+      "correct": true,
+      "raw_response": "{\"answers\":[{\"answer\":3,\"id\":24},{\"answer\":0,\"id\":25},{\"answer\":0,\"id\":36},{\"answer\":1,\"id\":37},{\"answer\":2,\"id\":38},{\"answer\":2,\"id\":39},{\"answer\":4,\"id\":40},{\"answer\":1,\"id\":31}]}\n",
+      "latency_ms": 61259.25,
+      "batch_id": 3,
+      "timestamp": "2026-05-27T09:33:42.108735+00:00",
+      "logprobs": {
+        "choice_logprobs": {
+          "3": -0.01928592659533024,
+          "0": -4.97405481338501,
+          "2": -5.251993656158447,
+          "4": -6.636011600494385
+        }
+      }
+    },
+    {
+      "sample_id": 32,
+      "task": "sentence_ordering",
+      "expected": 0,
+      "predicted": 3,
+      "correct": false,
+      "raw_response": "{\"answers\":[{\"answer\":3,\"id\":32},{\"answer\":0,\"id\":33},{\"answer\":4,\"id\":34},{\"answer\":1,\"id\":35},{\"answer\":4,\"id\":41},{\"answer\":2,\"id\":42},{\"answer\":0,\"id\":43},{\"answer\":3,\"id\":44}]}\n",
+      "latency_ms": 20539.92,
+      "batch_id": 4,
+      "timestamp": "2026-05-27T09:36:26.430611+00:00",
+      "logprobs": {
+        "choice_logprobs": {
+          "3": -0.22536343336105347,
+          "2": -2.560347318649292,
+          "0": -2.7395713329315186,
+          "1": -3.3194186687469482
+        }
+      }
+    },
+    {
+      "sample_id": 33,
+      "task": "sentence_ordering",
+      "expected": 0,
+      "predicted": 0,
+      "correct": true,
+      "raw_response": "{\"answers\":[{\"answer\":3,\"id\":32},{\"answer\":0,\"id\":33},{\"answer\":4,\"id\":34},{\"answer\":1,\"id\":35},{\"answer\":4,\"id\":41},{\"answer\":2,\"id\":42},{\"answer\":0,\"id\":43},{\"answer\":3,\"id\":44}]}\n",
+      "latency_ms": 20539.92,
+      "batch_id": 4,
+      "timestamp": "2026-05-27T09:36:26.430611+00:00",
+      "logprobs": {
+        "choice_logprobs": {
+          "3": -0.22536343336105347,
+          "2": -2.560347318649292,
+          "0": -2.7395713329315186,
+          "1": -3.3194186687469482
+        }
+      }
+    },
+    {
+      "sample_id": 34,
+      "task": "sentence_ordering",
+      "expected": 3,
+      "predicted": 4,
+      "correct": false,
+      "raw_response": "{\"answers\":[{\"answer\":3,\"id\":32},{\"answer\":0,\"id\":33},{\"answer\":4,\"id\":34},{\"answer\":1,\"id\":35},{\"answer\":4,\"id\":41},{\"answer\":2,\"id\":42},{\"answer\":0,\"id\":43},{\"answer\":3,\"id\":44}]}\n",
+      "latency_ms": 20539.92,
+      "batch_id": 4,
+      "timestamp": "2026-05-27T09:36:26.430611+00:00",
+      "logprobs": {
+        "choice_logprobs": {
+          "3": -0.22536343336105347,
+          "2": -2.560347318649292,
+          "0": -2.7395713329315186,
+          "1": -3.3194186687469482
+        }
+      }
+    },
+    {
+      "sample_id": 35,
+      "task": "sentence_ordering",
+      "expected": 4,
+      "predicted": 1,
+      "correct": false,
+      "raw_response": "{\"answers\":[{\"answer\":3,\"id\":32},{\"answer\":0,\"id\":33},{\"answer\":4,\"id\":34},{\"answer\":1,\"id\":35},{\"answer\":4,\"id\":41},{\"answer\":2,\"id\":42},{\"answer\":0,\"id\":43},{\"answer\":3,\"id\":44}]}\n",
+      "latency_ms": 20539.92,
+      "batch_id": 4,
+      "timestamp": "2026-05-27T09:36:26.430611+00:00",
+      "logprobs": {
+        "choice_logprobs": {
+          "3": -0.22536343336105347,
+          "2": -2.560347318649292,
+          "0": -2.7395713329315186,
+          "1": -3.3194186687469482
+        }
+      }
+    },
+    {
+      "sample_id": 41,
+      "task": "sentence_ordering",
+      "expected": 4,
+      "predicted": 4,
+      "correct": true,
+      "raw_response": "{\"answers\":[{\"answer\":3,\"id\":32},{\"answer\":0,\"id\":33},{\"answer\":4,\"id\":34},{\"answer\":1,\"id\":35},{\"answer\":4,\"id\":41},{\"answer\":2,\"id\":42},{\"answer\":0,\"id\":43},{\"answer\":3,\"id\":44}]}\n",
+      "latency_ms": 20539.92,
+      "batch_id": 4,
+      "timestamp": "2026-05-27T09:36:26.430611+00:00",
+      "logprobs": {
+        "choice_logprobs": {
+          "3": -0.22536343336105347,
+          "2": -2.560347318649292,
+          "0": -2.7395713329315186,
+          "1": -3.3194186687469482
+        }
+      }
+    },
+    {
+      "sample_id": 42,
+      "task": "sentence_ordering",
+      "expected": 2,
+      "predicted": 2,
+      "correct": true,
+      "raw_response": "{\"answers\":[{\"answer\":3,\"id\":32},{\"answer\":0,\"id\":33},{\"answer\":4,\"id\":34},{\"answer\":1,\"id\":35},{\"answer\":4,\"id\":41},{\"answer\":2,\"id\":42},{\"answer\":0,\"id\":43},{\"answer\":3,\"id\":44}]}\n",
+      "latency_ms": 20539.92,
+      "batch_id": 4,
+      "timestamp": "2026-05-27T09:36:26.430611+00:00",
+      "logprobs": {
+        "choice_logprobs": {
+          "3": -0.22536343336105347,
+          "2": -2.560347318649292,
+          "0": -2.7395713329315186,
+          "1": -3.3194186687469482
+        }
+      }
+    },
+    {
+      "sample_id": 43,
+      "task": "sentence_ordering",
+      "expected": 0,
+      "predicted": 0,
+      "correct": true,
+      "raw_response": "{\"answers\":[{\"answer\":3,\"id\":32},{\"answer\":0,\"id\":33},{\"answer\":4,\"id\":34},{\"answer\":1,\"id\":35},{\"answer\":4,\"id\":41},{\"answer\":2,\"id\":42},{\"answer\":0,\"id\":43},{\"answer\":3,\"id\":44}]}\n",
+      "latency_ms": 20539.92,
+      "batch_id": 4,
+      "timestamp": "2026-05-27T09:36:26.430611+00:00",
+      "logprobs": {
+        "choice_logprobs": {
+          "3": -0.22536343336105347,
+          "2": -2.560347318649292,
+          "0": -2.7395713329315186,
+          "1": -3.3194186687469482
+        }
+      }
+    },
+    {
+      "sample_id": 44,
+      "task": "sentence_ordering",
+      "expected": 3,
+      "predicted": 3,
+      "correct": true,
+      "raw_response": "{\"answers\":[{\"answer\":3,\"id\":32},{\"answer\":0,\"id\":33},{\"answer\":4,\"id\":34},{\"answer\":1,\"id\":35},{\"answer\":4,\"id\":41},{\"answer\":2,\"id\":42},{\"answer\":0,\"id\":43},{\"answer\":3,\"id\":44}]}\n",
+      "latency_ms": 20539.92,
+      "batch_id": 4,
+      "timestamp": "2026-05-27T09:36:26.430611+00:00",
+      "logprobs": {
+        "choice_logprobs": {
+          "3": -0.22536343336105347,
+          "2": -2.560347318649292,
+          "0": -2.7395713329315186,
+          "1": -3.3194186687469482
+        }
+      }
+    },
+    {
+      "sample_id": 45,
+      "task": "sentence_ordering",
+      "expected": 2,
+      "predicted": 0,
+      "correct": false,
+      "raw_response": "{\"answers\":[{\"answer\":0,\"id\":45},{\"answer\":0,\"id\":46},{\"answer\":3,\"id\":47},{\"answer\":4,\"id\":48},{\"answer\":1,\"id\":49},{\"answer\":3,\"id\":50},{\"answer\":0,\"id\":51},{\"answer\":1,\"id\":52}]}\n",
+      "latency_ms": 56758.38,
+      "batch_id": 5,
+      "timestamp": "2026-05-27T09:44:00.499599+00:00",
+      "logprobs": {
+        "choice_logprobs": {
+          "0": -0.010482704266905785,
+          "1": -6.572742462158203,
+          "2": -6.8812103271484375
+        }
+      }
+    },
+    {
+      "sample_id": 46,
+      "task": "sentence_ordering",
+      "expected": 4,
+      "predicted": 0,
+      "correct": false,
+      "raw_response": "{\"answers\":[{\"answer\":0,\"id\":45},{\"answer\":0,\"id\":46},{\"answer\":3,\"id\":47},{\"answer\":4,\"id\":48},{\"answer\":1,\"id\":49},{\"answer\":3,\"id\":50},{\"answer\":0,\"id\":51},{\"answer\":1,\"id\":52}]}\n",
+      "latency_ms": 56758.38,
+      "batch_id": 5,
+      "timestamp": "2026-05-27T09:44:00.499599+00:00",
+      "logprobs": {
+        "choice_logprobs": {
+          "0": -0.010482704266905785,
+          "1": -6.572742462158203,
+          "2": -6.8812103271484375
+        }
+      }
+    },
+    {
+      "sample_id": 47,
+      "task": "sentence_ordering",
+      "expected": 3,
+      "predicted": 3,
+      "correct": true,
+      "raw_response": "{\"answers\":[{\"answer\":0,\"id\":45},{\"answer\":0,\"id\":46},{\"answer\":3,\"id\":47},{\"answer\":4,\"id\":48},{\"answer\":1,\"id\":49},{\"answer\":3,\"id\":50},{\"answer\":0,\"id\":51},{\"answer\":1,\"id\":52}]}\n",
+      "latency_ms": 56758.38,
+      "batch_id": 5,
+      "timestamp": "2026-05-27T09:44:00.499599+00:00",
+      "logprobs": {
+        "choice_logprobs": {
+          "0": -0.010482704266905785,
+          "1": -6.572742462158203,
+          "2": -6.8812103271484375
+        }
+      }
+    },
+    {
+      "sample_id": 48,
+      "task": "sentence_ordering",
+      "expected": 4,
+      "predicted": 4,
+      "correct": true,
+      "raw_response": "{\"answers\":[{\"answer\":0,\"id\":45},{\"answer\":0,\"id\":46},{\"answer\":3,\"id\":47},{\"answer\":4,\"id\":48},{\"answer\":1,\"id\":49},{\"answer\":3,\"id\":50},{\"answer\":0,\"id\":51},{\"answer\":1,\"id\":52}]}\n",
+      "latency_ms": 56758.38,
+      "batch_id": 5,
+      "timestamp": "2026-05-27T09:44:00.499599+00:00",
+      "logprobs": {
+        "choice_logprobs": {
+          "0": -0.010482704266905785,
+          "1": -6.572742462158203,
+          "2": -6.8812103271484375
+        }
+      }
+    },
+    {
+      "sample_id": 49,
+      "task": "sentence_ordering",
+      "expected": 1,
+      "predicted": 1,
+      "correct": true,
+      "raw_response": "{\"answers\":[{\"answer\":0,\"id\":45},{\"answer\":0,\"id\":46},{\"answer\":3,\"id\":47},{\"answer\":4,\"id\":48},{\"answer\":1,\"id\":49},{\"answer\":3,\"id\":50},{\"answer\":0,\"id\":51},{\"answer\":1,\"id\":52}]}\n",
+      "latency_ms": 56758.38,
+      "batch_id": 5,
+      "timestamp": "2026-05-27T09:44:00.499599+00:00",
+      "logprobs": {
+        "choice_logprobs": {
+          "0": -0.010482704266905785,
+          "1": -6.572742462158203,
+          "2": -6.8812103271484375
+        }
+      }
+    },
+    {
+      "sample_id": 50,
+      "task": "sentence_ordering",
+      "expected": 3,
+      "predicted": 3,
+      "correct": true,
+      "raw_response": "{\"answers\":[{\"answer\":0,\"id\":45},{\"answer\":0,\"id\":46},{\"answer\":3,\"id\":47},{\"answer\":4,\"id\":48},{\"answer\":1,\"id\":49},{\"answer\":3,\"id\":50},{\"answer\":0,\"id\":51},{\"answer\":1,\"id\":52}]}\n",
+      "latency_ms": 56758.38,
+      "batch_id": 5,
+      "timestamp": "2026-05-27T09:44:00.499599+00:00",
+      "logprobs": {
+        "choice_logprobs": {
+          "0": -0.010482704266905785,
+          "1": -6.572742462158203,
+          "2": -6.8812103271484375
+        }
+      }
+    },
+    {
+      "sample_id": 51,
+      "task": "sentence_ordering",
+      "expected": 0,
+      "predicted": 0,
+      "correct": true,
+      "raw_response": "{\"answers\":[{\"answer\":0,\"id\":45},{\"answer\":0,\"id\":46},{\"answer\":3,\"id\":47},{\"answer\":4,\"id\":48},{\"answer\":1,\"id\":49},{\"answer\":3,\"id\":50},{\"answer\":0,\"id\":51},{\"answer\":1,\"id\":52}]}\n",
+      "latency_ms": 56758.38,
+      "batch_id": 5,
+      "timestamp": "2026-05-27T09:44:00.499599+00:00",
+      "logprobs": {
+        "choice_logprobs": {
+          "0": -0.010482704266905785,
+          "1": -6.572742462158203,
+          "2": -6.8812103271484375
+        }
+      }
+    },
+    {
+      "sample_id": 52,
+      "task": "sentence_ordering",
+      "expected": 1,
+      "predicted": 1,
+      "correct": true,
+      "raw_response": "{\"answers\":[{\"answer\":0,\"id\":45},{\"answer\":0,\"id\":46},{\"answer\":3,\"id\":47},{\"answer\":4,\"id\":48},{\"answer\":1,\"id\":49},{\"answer\":3,\"id\":50},{\"answer\":0,\"id\":51},{\"answer\":1,\"id\":52}]}\n",
+      "latency_ms": 56758.38,
+      "batch_id": 5,
+      "timestamp": "2026-05-27T09:44:00.499599+00:00",
+      "logprobs": {
+        "choice_logprobs": {
+          "0": -0.010482704266905785,
+          "1": -6.572742462158203,
+          "2": -6.8812103271484375
+        }
+      }
+    },
+    {
+      "sample_id": 53,
+      "task": "sentence_ordering",
+      "expected": 0,
+      "predicted": 0,
+      "correct": true,
+      "raw_response": "{\"answers\":[{\"answer\":0,\"id\":53},{\"answer\":3,\"id\":54},{\"answer\":2,\"id\":55},{\"answer\":3,\"id\":26},{\"answer\":0,\"id\":27},{\"answer\":3,\"id\":28},{\"answer\":0,\"id\":29},{\"answer\":1,\"id\":30}]}\n",
+      "latency_ms": 73332.18,
+      "batch_id": 6,
+      "timestamp": "2026-05-27T09:53:47.159860+00:00",
+      "logprobs": {
+        "choice_logprobs": {
+          "0": -0.009069077670574188,
+          "1": -7.3434672355651855
+        }
+      }
+    },
+    {
+      "sample_id": 54,
+      "task": "sentence_ordering",
+      "expected": 3,
+      "predicted": 3,
+      "correct": true,
+      "raw_response": "{\"answers\":[{\"answer\":0,\"id\":53},{\"answer\":3,\"id\":54},{\"answer\":2,\"id\":55},{\"answer\":3,\"id\":26},{\"answer\":0,\"id\":27},{\"answer\":3,\"id\":28},{\"answer\":0,\"id\":29},{\"answer\":1,\"id\":30}]}\n",
+      "latency_ms": 73332.18,
+      "batch_id": 6,
+      "timestamp": "2026-05-27T09:53:47.159860+00:00",
+      "logprobs": {
+        "choice_logprobs": {
+          "0": -0.009069077670574188,
+          "1": -7.3434672355651855
+        }
+      }
+    },
+    {
+      "sample_id": 55,
+      "task": "sentence_ordering",
+      "expected": 2,
+      "predicted": 2,
+      "correct": true,
+      "raw_response": "{\"answers\":[{\"answer\":0,\"id\":53},{\"answer\":3,\"id\":54},{\"answer\":2,\"id\":55},{\"answer\":3,\"id\":26},{\"answer\":0,\"id\":27},{\"answer\":3,\"id\":28},{\"answer\":0,\"id\":29},{\"answer\":1,\"id\":30}]}\n",
+      "latency_ms": 73332.18,
+      "batch_id": 6,
+      "timestamp": "2026-05-27T09:53:47.159860+00:00",
+      "logprobs": {
+        "choice_logprobs": {
+          "0": -0.009069077670574188,
+          "1": -7.3434672355651855
+        }
+      }
+    },
+    {
+      "sample_id": 26,
+      "task": "sentence_ordering",
+      "expected": 3,
+      "predicted": 3,
+      "correct": true,
+      "raw_response": "{\"answers\":[{\"answer\":0,\"id\":53},{\"answer\":3,\"id\":54},{\"answer\":2,\"id\":55},{\"answer\":3,\"id\":26},{\"answer\":0,\"id\":27},{\"answer\":3,\"id\":28},{\"answer\":0,\"id\":29},{\"answer\":1,\"id\":30}]}\n",
+      "latency_ms": 73332.18,
+      "batch_id": 6,
+      "timestamp": "2026-05-27T09:53:47.159860+00:00",
+      "logprobs": {
+        "choice_logprobs": {
+          "0": -0.009069077670574188,
+          "1": -7.3434672355651855
+        }
+      }
+    },
+    {
+      "sample_id": 27,
+      "task": "sentence_ordering",
+      "expected": 2,
+      "predicted": 0,
+      "correct": false,
+      "raw_response": "{\"answers\":[{\"answer\":0,\"id\":53},{\"answer\":3,\"id\":54},{\"answer\":2,\"id\":55},{\"answer\":3,\"id\":26},{\"answer\":0,\"id\":27},{\"answer\":3,\"id\":28},{\"answer\":0,\"id\":29},{\"answer\":1,\"id\":30}]}\n",
+      "latency_ms": 73332.18,
+      "batch_id": 6,
+      "timestamp": "2026-05-27T09:53:47.159860+00:00",
+      "logprobs": {
+        "choice_logprobs": {
+          "0": -0.009069077670574188,
+          "1": -7.3434672355651855
+        }
+      }
+    },
+    {
+      "sample_id": 28,
+      "task": "sentence_ordering",
+      "expected": 3,
+      "predicted": 3,
+      "correct": true,
+      "raw_response": "{\"answers\":[{\"answer\":0,\"id\":53},{\"answer\":3,\"id\":54},{\"answer\":2,\"id\":55},{\"answer\":3,\"id\":26},{\"answer\":0,\"id\":27},{\"answer\":3,\"id\":28},{\"answer\":0,\"id\":29},{\"answer\":1,\"id\":30}]}\n",
+      "latency_ms": 73332.18,
+      "batch_id": 6,
+      "timestamp": "2026-05-27T09:53:47.159860+00:00",
+      "logprobs": {
+        "choice_logprobs": {
+          "0": -0.009069077670574188,
+          "1": -7.3434672355651855
+        }
+      }
+    },
+    {
+      "sample_id": 29,
+      "task": "sentence_ordering",
+      "expected": 0,
+      "predicted": 0,
+      "correct": true,
+      "raw_response": "{\"answers\":[{\"answer\":0,\"id\":53},{\"answer\":3,\"id\":54},{\"answer\":2,\"id\":55},{\"answer\":3,\"id\":26},{\"answer\":0,\"id\":27},{\"answer\":3,\"id\":28},{\"answer\":0,\"id\":29},{\"answer\":1,\"id\":30}]}\n",
+      "latency_ms": 73332.18,
+      "batch_id": 6,
+      "timestamp": "2026-05-27T09:53:47.159860+00:00",
+      "logprobs": {
+        "choice_logprobs": {
+          "0": -0.009069077670574188,
+          "1": -7.3434672355651855
+        }
+      }
+    },
+    {
+      "sample_id": 30,
+      "task": "sentence_ordering",
+      "expected": 4,
+      "predicted": 1,
+      "correct": false,
+      "raw_response": "{\"answers\":[{\"answer\":0,\"id\":53},{\"answer\":3,\"id\":54},{\"answer\":2,\"id\":55},{\"answer\":3,\"id\":26},{\"answer\":0,\"id\":27},{\"answer\":3,\"id\":28},{\"answer\":0,\"id\":29},{\"answer\":1,\"id\":30}]}\n",
+      "latency_ms": 73332.18,
+      "batch_id": 6,
+      "timestamp": "2026-05-27T09:53:47.159860+00:00",
+      "logprobs": {
+        "choice_logprobs": {
+          "0": -0.009069077670574188,
+          "1": -7.3434672355651855
+        }
+      }
+    },
+    {
+      "sample_id": 56,
+      "task": "sentence_ordering",
+      "expected": 2,
+      "predicted": 2,
+      "correct": true,
+      "raw_response": "{\"answers\":[{\"answer\":2,\"id\":56},{\"answer\":1,\"id\":57},{\"answer\":1,\"id\":58},{\"answer\":3,\"id\":59},{\"answer\":4,\"id\":60},{\"answer\":1,\"id\":66},{\"answer\":3,\"id\":67},{\"answer\":0,\"id\":68}]}\n",
+      "latency_ms": 84514.84,
+      "batch_id": 7,
+      "timestamp": "2026-05-27T10:05:03.280904+00:00",
+      "logprobs": {
+        "choice_logprobs": {
+          "2": -0.01443091407418251,
+          "0": -4.869905471801758,
+          "1": -6.260017395019531,
+          "3": -6.480289459228516
+        }
+      }
+    },
+    {
+      "sample_id": 57,
+      "task": "sentence_ordering",
+      "expected": 1,
+      "predicted": 1,
+      "correct": true,
+      "raw_response": "{\"answers\":[{\"answer\":2,\"id\":56},{\"answer\":1,\"id\":57},{\"answer\":1,\"id\":58},{\"answer\":3,\"id\":59},{\"answer\":4,\"id\":60},{\"answer\":1,\"id\":66},{\"answer\":3,\"id\":67},{\"answer\":0,\"id\":68}]}\n",
+      "latency_ms": 84514.84,
+      "batch_id": 7,
+      "timestamp": "2026-05-27T10:05:03.280904+00:00",
+      "logprobs": {
+        "choice_logprobs": {
+          "2": -0.01443091407418251,
+          "0": -4.869905471801758,
+          "1": -6.260017395019531,
+          "3": -6.480289459228516
+        }
+      }
+    },
+    {
+      "sample_id": 58,
+      "task": "sentence_ordering",
+      "expected": 1,
+      "predicted": 1,
+      "correct": true,
+      "raw_response": "{\"answers\":[{\"answer\":2,\"id\":56},{\"answer\":1,\"id\":57},{\"answer\":1,\"id\":58},{\"answer\":3,\"id\":59},{\"answer\":4,\"id\":60},{\"answer\":1,\"id\":66},{\"answer\":3,\"id\":67},{\"answer\":0,\"id\":68}]}\n",
+      "latency_ms": 84514.84,
+      "batch_id": 7,
+      "timestamp": "2026-05-27T10:05:03.280904+00:00",
+      "logprobs": {
+        "choice_logprobs": {
+          "2": -0.01443091407418251,
+          "0": -4.869905471801758,
+          "1": -6.260017395019531,
+          "3": -6.480289459228516
+        }
+      }
+    },
+    {
+      "sample_id": 59,
+      "task": "sentence_ordering",
+      "expected": 3,
+      "predicted": 3,
+      "correct": true,
+      "raw_response": "{\"answers\":[{\"answer\":2,\"id\":56},{\"answer\":1,\"id\":57},{\"answer\":1,\"id\":58},{\"answer\":3,\"id\":59},{\"answer\":4,\"id\":60},{\"answer\":1,\"id\":66},{\"answer\":3,\"id\":67},{\"answer\":0,\"id\":68}]}\n",
+      "latency_ms": 84514.84,
+      "batch_id": 7,
+      "timestamp": "2026-05-27T10:05:03.280904+00:00",
+      "logprobs": {
+        "choice_logprobs": {
+          "2": -0.01443091407418251,
+          "0": -4.869905471801758,
+          "1": -6.260017395019531,
+          "3": -6.480289459228516
+        }
+      }
+    },
+    {
+      "sample_id": 60,
+      "task": "sentence_ordering",
+      "expected": 4,
+      "predicted": 4,
+      "correct": true,
+      "raw_response": "{\"answers\":[{\"answer\":2,\"id\":56},{\"answer\":1,\"id\":57},{\"answer\":1,\"id\":58},{\"answer\":3,\"id\":59},{\"answer\":4,\"id\":60},{\"answer\":1,\"id\":66},{\"answer\":3,\"id\":67},{\"answer\":0,\"id\":68}]}\n",
+      "latency_ms": 84514.84,
+      "batch_id": 7,
+      "timestamp": "2026-05-27T10:05:03.280904+00:00",
+      "logprobs": {
+        "choice_logprobs": {
+          "2": -0.01443091407418251,
+          "0": -4.869905471801758,
+          "1": -6.260017395019531,
+          "3": -6.480289459228516
+        }
+      }
+    },
+    {
+      "sample_id": 66,
+      "task": "sentence_ordering",
+      "expected": 1,
+      "predicted": 1,
+      "correct": true,
+      "raw_response": "{\"answers\":[{\"answer\":2,\"id\":56},{\"answer\":1,\"id\":57},{\"answer\":1,\"id\":58},{\"answer\":3,\"id\":59},{\"answer\":4,\"id\":60},{\"answer\":1,\"id\":66},{\"answer\":3,\"id\":67},{\"answer\":0,\"id\":68}]}\n",
+      "latency_ms": 84514.84,
+      "batch_id": 7,
+      "timestamp": "2026-05-27T10:05:03.280904+00:00",
+      "logprobs": {
+        "choice_logprobs": {
+          "2": -0.01443091407418251,
+          "0": -4.869905471801758,
+          "1": -6.260017395019531,
+          "3": -6.480289459228516
+        }
+      }
+    },
+    {
+      "sample_id": 67,
+      "task": "sentence_ordering",
+      "expected": 3,
+      "predicted": 3,
+      "correct": true,
+      "raw_response": "{\"answers\":[{\"answer\":2,\"id\":56},{\"answer\":1,\"id\":57},{\"answer\":1,\"id\":58},{\"answer\":3,\"id\":59},{\"answer\":4,\"id\":60},{\"answer\":1,\"id\":66},{\"answer\":3,\"id\":67},{\"answer\":0,\"id\":68}]}\n",
+      "latency_ms": 84514.84,
+      "batch_id": 7,
+      "timestamp": "2026-05-27T10:05:03.280904+00:00",
+      "logprobs": {
+        "choice_logprobs": {
+          "2": -0.01443091407418251,
+          "0": -4.869905471801758,
+          "1": -6.260017395019531,
+          "3": -6.480289459228516
+        }
+      }
+    },
+    {
+      "sample_id": 68,
+      "task": "sentence_ordering",
+      "expected": 0,
+      "predicted": 0,
+      "correct": true,
+      "raw_response": "{\"answers\":[{\"answer\":2,\"id\":56},{\"answer\":1,\"id\":57},{\"answer\":1,\"id\":58},{\"answer\":3,\"id\":59},{\"answer\":4,\"id\":60},{\"answer\":1,\"id\":66},{\"answer\":3,\"id\":67},{\"answer\":0,\"id\":68}]}\n",
+      "latency_ms": 84514.84,
+      "batch_id": 7,
+      "timestamp": "2026-05-27T10:05:03.280904+00:00",
+      "logprobs": {
+        "choice_logprobs": {
+          "2": -0.01443091407418251,
+          "0": -4.869905471801758,
+          "1": -6.260017395019531,
+          "3": -6.480289459228516
+        }
+      }
+    },
+    {
+      "sample_id": 69,
+      "task": "sentence_ordering",
+      "expected": 3,
+      "predicted": 1,
+      "correct": false,
+      "raw_response": "{\"answers\":[{\"answer\":1,\"id\":69},{\"answer\":2,\"id\":70},{\"answer\":3,\"id\":71},{\"answer\":4,\"id\":72},{\"answer\":2,\"id\":73},{\"answer\":2,\"id\":74},{\"answer\":1,\"id\":75},{\"answer\":1,\"id\":81}]}\n",
+      "latency_ms": 38788.02,
+      "batch_id": 8,
+      "timestamp": "2026-05-27T10:10:13.587633+00:00",
+      "logprobs": {
+        "choice_logprobs": {
+          "1": -0.1645205318927765,
+          "0": -2.2594377994537354,
+          "2": -4.145631790161133,
+          "4": -4.519893646240234,
+          "3": -4.618232727050781
+        }
+      }
+    },
+    {
+      "sample_id": 70,
+      "task": "sentence_ordering",
+      "expected": 3,
+      "predicted": 2,
+      "correct": false,
+      "raw_response": "{\"answers\":[{\"answer\":1,\"id\":69},{\"answer\":2,\"id\":70},{\"answer\":3,\"id\":71},{\"answer\":4,\"id\":72},{\"answer\":2,\"id\":73},{\"answer\":2,\"id\":74},{\"answer\":1,\"id\":75},{\"answer\":1,\"id\":81}]}\n",
+      "latency_ms": 38788.02,
+      "batch_id": 8,
+      "timestamp": "2026-05-27T10:10:13.587633+00:00",
+      "logprobs": {
+        "choice_logprobs": {
+          "1": -0.1645205318927765,
+          "0": -2.2594377994537354,
+          "2": -4.145631790161133,
+          "4": -4.519893646240234,
+          "3": -4.618232727050781
+        }
+      }
+    },
+    {
+      "sample_id": 71,
+      "task": "sentence_ordering",
+      "expected": 3,
+      "predicted": 3,
+      "correct": true,
+      "raw_response": "{\"answers\":[{\"answer\":1,\"id\":69},{\"answer\":2,\"id\":70},{\"answer\":3,\"id\":71},{\"answer\":4,\"id\":72},{\"answer\":2,\"id\":73},{\"answer\":2,\"id\":74},{\"answer\":1,\"id\":75},{\"answer\":1,\"id\":81}]}\n",
+      "latency_ms": 38788.02,
+      "batch_id": 8,
+      "timestamp": "2026-05-27T10:10:13.587633+00:00",
+      "logprobs": {
+        "choice_logprobs": {
+          "1": -0.1645205318927765,
+          "0": -2.2594377994537354,
+          "2": -4.145631790161133,
+          "4": -4.519893646240234,
+          "3": -4.618232727050781
+        }
+      }
+    },
+    {
+      "sample_id": 72,
+      "task": "sentence_ordering",
+      "expected": 4,
+      "predicted": 4,
+      "correct": true,
+      "raw_response": "{\"answers\":[{\"answer\":1,\"id\":69},{\"answer\":2,\"id\":70},{\"answer\":3,\"id\":71},{\"answer\":4,\"id\":72},{\"answer\":2,\"id\":73},{\"answer\":2,\"id\":74},{\"answer\":1,\"id\":75},{\"answer\":1,\"id\":81}]}\n",
+      "latency_ms": 38788.02,
+      "batch_id": 8,
+      "timestamp": "2026-05-27T10:10:13.587633+00:00",
+      "logprobs": {
+        "choice_logprobs": {
+          "1": -0.1645205318927765,
+          "0": -2.2594377994537354,
+          "2": -4.145631790161133,
+          "4": -4.519893646240234,
+          "3": -4.618232727050781
+        }
+      }
+    },
+    {
+      "sample_id": 73,
+      "task": "sentence_ordering",
+      "expected": 2,
+      "predicted": 2,
+      "correct": true,
+      "raw_response": "{\"answers\":[{\"answer\":1,\"id\":69},{\"answer\":2,\"id\":70},{\"answer\":3,\"id\":71},{\"answer\":4,\"id\":72},{\"answer\":2,\"id\":73},{\"answer\":2,\"id\":74},{\"answer\":1,\"id\":75},{\"answer\":1,\"id\":81}]}\n",
+      "latency_ms": 38788.02,
+      "batch_id": 8,
+      "timestamp": "2026-05-27T10:10:13.587633+00:00",
+      "logprobs": {
+        "choice_logprobs": {
+          "1": -0.1645205318927765,
+          "0": -2.2594377994537354,
+          "2": -4.145631790161133,
+          "4": -4.519893646240234,
+          "3": -4.618232727050781
+        }
+      }
+    },
+    {
+      "sample_id": 74,
+      "task": "sentence_ordering",
+      "expected": 2,
+      "predicted": 2,
+      "correct": true,
+      "raw_response": "{\"answers\":[{\"answer\":1,\"id\":69},{\"answer\":2,\"id\":70},{\"answer\":3,\"id\":71},{\"answer\":4,\"id\":72},{\"answer\":2,\"id\":73},{\"answer\":2,\"id\":74},{\"answer\":1,\"id\":75},{\"answer\":1,\"id\":81}]}\n",
+      "latency_ms": 38788.02,
+      "batch_id": 8,
+      "timestamp": "2026-05-27T10:10:13.587633+00:00",
+      "logprobs": {
+        "choice_logprobs": {
+          "1": -0.1645205318927765,
+          "0": -2.2594377994537354,
+          "2": -4.145631790161133,
+          "4": -4.519893646240234,
+          "3": -4.618232727050781
+        }
+      }
+    },
+    {
+      "sample_id": 75,
+      "task": "sentence_ordering",
+      "expected": 2,
+      "predicted": 1,
+      "correct": false,
+      "raw_response": "{\"answers\":[{\"answer\":1,\"id\":69},{\"answer\":2,\"id\":70},{\"answer\":3,\"id\":71},{\"answer\":4,\"id\":72},{\"answer\":2,\"id\":73},{\"answer\":2,\"id\":74},{\"answer\":1,\"id\":75},{\"answer\":1,\"id\":81}]}\n",
+      "latency_ms": 38788.02,
+      "batch_id": 8,
+      "timestamp": "2026-05-27T10:10:13.587633+00:00",
+      "logprobs": {
+        "choice_logprobs": {
+          "1": -0.1645205318927765,
+          "0": -2.2594377994537354,
+          "2": -4.145631790161133,
+          "4": -4.519893646240234,
+          "3": -4.618232727050781
+        }
+      }
+    },
+    {
+      "sample_id": 81,
+      "task": "sentence_ordering",
+      "expected": 1,
+      "predicted": 1,
+      "correct": true,
+      "raw_response": "{\"answers\":[{\"answer\":1,\"id\":69},{\"answer\":2,\"id\":70},{\"answer\":3,\"id\":71},{\"answer\":4,\"id\":72},{\"answer\":2,\"id\":73},{\"answer\":2,\"id\":74},{\"answer\":1,\"id\":75},{\"answer\":1,\"id\":81}]}\n",
+      "latency_ms": 38788.02,
+      "batch_id": 8,
+      "timestamp": "2026-05-27T10:10:13.587633+00:00",
+      "logprobs": {
+        "choice_logprobs": {
+          "1": -0.1645205318927765,
+          "0": -2.2594377994537354,
+          "2": -4.145631790161133,
+          "4": -4.519893646240234,
+          "3": -4.618232727050781
+        }
+      }
+    },
+    {
+      "sample_id": 82,
+      "task": "sentence_ordering",
+      "expected": 0,
+      "predicted": 0,
+      "correct": true,
+      "raw_response": "{\"answers\":[{\"answer\":0,\"id\":82},{\"answer\":4,\"id\":83},{\"answer\":4,\"id\":84},{\"answer\":2,\"id\":85},{\"answer\":4,\"id\":76},{\"answer\":3,\"id\":77},{\"answer\":4,\"id\":78},{\"answer\":0,\"id\":79}]}\n",
+      "latency_ms": 55280.17,
+      "batch_id": 9,
+      "timestamp": "2026-05-27T10:17:35.832409+00:00",
+      "logprobs": {
+        "choice_logprobs": {
+          "0": -0.005426080897450447,
+          "1": -6.459834575653076,
+          "2": -7.05206823348999
+        }
+      }
+    },
+    {
+      "sample_id": 83,
+      "task": "sentence_ordering",
+      "expected": 4,
+      "predicted": 4,
+      "correct": true,
+      "raw_response": "{\"answers\":[{\"answer\":0,\"id\":82},{\"answer\":4,\"id\":83},{\"answer\":4,\"id\":84},{\"answer\":2,\"id\":85},{\"answer\":4,\"id\":76},{\"answer\":3,\"id\":77},{\"answer\":4,\"id\":78},{\"answer\":0,\"id\":79}]}\n",
+      "latency_ms": 55280.17,
+      "batch_id": 9,
+      "timestamp": "2026-05-27T10:17:35.832409+00:00",
+      "logprobs": {
+        "choice_logprobs": {
+          "0": -0.005426080897450447,
+          "1": -6.459834575653076,
+          "2": -7.05206823348999
+        }
+      }
+    },
+    {
+      "sample_id": 84,
+      "task": "sentence_ordering",
+      "expected": 3,
+      "predicted": 4,
+      "correct": false,
+      "raw_response": "{\"answers\":[{\"answer\":0,\"id\":82},{\"answer\":4,\"id\":83},{\"answer\":4,\"id\":84},{\"answer\":2,\"id\":85},{\"answer\":4,\"id\":76},{\"answer\":3,\"id\":77},{\"answer\":4,\"id\":78},{\"answer\":0,\"id\":79}]}\n",
+      "latency_ms": 55280.17,
+      "batch_id": 9,
+      "timestamp": "2026-05-27T10:17:35.832409+00:00",
+      "logprobs": {
+        "choice_logprobs": {
+          "0": -0.005426080897450447,
+          "1": -6.459834575653076,
+          "2": -7.05206823348999
+        }
+      }
+    },
+    {
+      "sample_id": 85,
+      "task": "sentence_ordering",
+      "expected": 2,
+      "predicted": 2,
+      "correct": true,
+      "raw_response": "{\"answers\":[{\"answer\":0,\"id\":82},{\"answer\":4,\"id\":83},{\"answer\":4,\"id\":84},{\"answer\":2,\"id\":85},{\"answer\":4,\"id\":76},{\"answer\":3,\"id\":77},{\"answer\":4,\"id\":78},{\"answer\":0,\"id\":79}]}\n",
+      "latency_ms": 55280.17,
+      "batch_id": 9,
+      "timestamp": "2026-05-27T10:17:35.832409+00:00",
+      "logprobs": {
+        "choice_logprobs": {
+          "0": -0.005426080897450447,
+          "1": -6.459834575653076,
+          "2": -7.05206823348999
+        }
+      }
+    },
+    {
+      "sample_id": 76,
+      "task": "sentence_ordering",
+      "expected": 4,
+      "predicted": 4,
+      "correct": true,
+      "raw_response": "{\"answers\":[{\"answer\":0,\"id\":82},{\"answer\":4,\"id\":83},{\"answer\":4,\"id\":84},{\"answer\":2,\"id\":85},{\"answer\":4,\"id\":76},{\"answer\":3,\"id\":77},{\"answer\":4,\"id\":78},{\"answer\":0,\"id\":79}]}\n",
+      "latency_ms": 55280.17,
+      "batch_id": 9,
+      "timestamp": "2026-05-27T10:17:35.832409+00:00",
+      "logprobs": {
+        "choice_logprobs": {
+          "0": -0.005426080897450447,
+          "1": -6.459834575653076,
+          "2": -7.05206823348999
+        }
+      }
+    },
+    {
+      "sample_id": 77,
+      "task": "sentence_ordering",
+      "expected": 3,
+      "predicted": 3,
+      "correct": true,
+      "raw_response": "{\"answers\":[{\"answer\":0,\"id\":82},{\"answer\":4,\"id\":83},{\"answer\":4,\"id\":84},{\"answer\":2,\"id\":85},{\"answer\":4,\"id\":76},{\"answer\":3,\"id\":77},{\"answer\":4,\"id\":78},{\"answer\":0,\"id\":79}]}\n",
+      "latency_ms": 55280.17,
+      "batch_id": 9,
+      "timestamp": "2026-05-27T10:17:35.832409+00:00",
+      "logprobs": {
+        "choice_logprobs": {
+          "0": -0.005426080897450447,
+          "1": -6.459834575653076,
+          "2": -7.05206823348999
+        }
+      }
+    },
+    {
+      "sample_id": 78,
+      "task": "sentence_ordering",
+      "expected": 4,
+      "predicted": 4,
+      "correct": true,
+      "raw_response": "{\"answers\":[{\"answer\":0,\"id\":82},{\"answer\":4,\"id\":83},{\"answer\":4,\"id\":84},{\"answer\":2,\"id\":85},{\"answer\":4,\"id\":76},{\"answer\":3,\"id\":77},{\"answer\":4,\"id\":78},{\"answer\":0,\"id\":79}]}\n",
+      "latency_ms": 55280.17,
+      "batch_id": 9,
+      "timestamp": "2026-05-27T10:17:35.832409+00:00",
+      "logprobs": {
+        "choice_logprobs": {
+          "0": -0.005426080897450447,
+          "1": -6.459834575653076,
+          "2": -7.05206823348999
+        }
+      }
+    },
+    {
+      "sample_id": 79,
+      "task": "sentence_ordering",
+      "expected": 0,
+      "predicted": 0,
+      "correct": true,
+      "raw_response": "{\"answers\":[{\"answer\":0,\"id\":82},{\"answer\":4,\"id\":83},{\"answer\":4,\"id\":84},{\"answer\":2,\"id\":85},{\"answer\":4,\"id\":76},{\"answer\":3,\"id\":77},{\"answer\":4,\"id\":78},{\"answer\":0,\"id\":79}]}\n",
+      "latency_ms": 55280.17,
+      "batch_id": 9,
+      "timestamp": "2026-05-27T10:17:35.832409+00:00",
+      "logprobs": {
+        "choice_logprobs": {
+          "0": -0.005426080897450447,
+          "1": -6.459834575653076,
+          "2": -7.05206823348999
+        }
+      }
+    },
+    {
+      "sample_id": 80,
+      "task": "sentence_ordering",
+      "expected": 0,
+      "predicted": 0,
+      "correct": true,
+      "raw_response": "{\"answers\":[{\"answer\":0,\"id\":80},{\"answer\":0,\"id\":91},{\"answer\":2,\"id\":92},{\"answer\":0,\"id\":93},{\"answer\":0,\"id\":94},{\"answer\":1,\"id\":95},{\"answer\":1,\"id\":86},{\"answer\":2,\"id\":87}]}\n",
+      "latency_ms": 25936.17,
+      "batch_id": 10,
+      "timestamp": "2026-05-27T10:21:03.324538+00:00",
+      "logprobs": {
+        "choice_logprobs": {
+          "0": -0.006387863773852587,
+          "1": -6.721843719482422,
+          "2": -7.168182373046875
+        }
+      }
+    },
+    {
+      "sample_id": 91,
+      "task": "sentence_ordering",
+      "expected": 0,
+      "predicted": 0,
+      "correct": true,
+      "raw_response": "{\"answers\":[{\"answer\":0,\"id\":80},{\"answer\":0,\"id\":91},{\"answer\":2,\"id\":92},{\"answer\":0,\"id\":93},{\"answer\":0,\"id\":94},{\"answer\":1,\"id\":95},{\"answer\":1,\"id\":86},{\"answer\":2,\"id\":87}]}\n",
+      "latency_ms": 25936.17,
+      "batch_id": 10,
+      "timestamp": "2026-05-27T10:21:03.324538+00:00",
+      "logprobs": {
+        "choice_logprobs": {
+          "0": -0.006387863773852587,
+          "1": -6.721843719482422,
+          "2": -7.168182373046875
+        }
+      }
+    },
+    {
+      "sample_id": 92,
+      "task": "sentence_ordering",
+      "expected": 2,
+      "predicted": 2,
+      "correct": true,
+      "raw_response": "{\"answers\":[{\"answer\":0,\"id\":80},{\"answer\":0,\"id\":91},{\"answer\":2,\"id\":92},{\"answer\":0,\"id\":93},{\"answer\":0,\"id\":94},{\"answer\":1,\"id\":95},{\"answer\":1,\"id\":86},{\"answer\":2,\"id\":87}]}\n",
+      "latency_ms": 25936.17,
+      "batch_id": 10,
+      "timestamp": "2026-05-27T10:21:03.324538+00:00",
+      "logprobs": {
+        "choice_logprobs": {
+          "0": -0.006387863773852587,
+          "1": -6.721843719482422,
+          "2": -7.168182373046875
+        }
+      }
+    },
+    {
+      "sample_id": 93,
+      "task": "sentence_ordering",
+      "expected": 1,
+      "predicted": 0,
+      "correct": false,
+      "raw_response": "{\"answers\":[{\"answer\":0,\"id\":80},{\"answer\":0,\"id\":91},{\"answer\":2,\"id\":92},{\"answer\":0,\"id\":93},{\"answer\":0,\"id\":94},{\"answer\":1,\"id\":95},{\"answer\":1,\"id\":86},{\"answer\":2,\"id\":87}]}\n",
+      "latency_ms": 25936.17,
+      "batch_id": 10,
+      "timestamp": "2026-05-27T10:21:03.324538+00:00",
+      "logprobs": {
+        "choice_logprobs": {
+          "0": -0.006387863773852587,
+          "1": -6.721843719482422,
+          "2": -7.168182373046875
+        }
+      }
+    },
+    {
+      "sample_id": 94,
+      "task": "sentence_ordering",
+      "expected": 0,
+      "predicted": 0,
+      "correct": true,
+      "raw_response": "{\"answers\":[{\"answer\":0,\"id\":80},{\"answer\":0,\"id\":91},{\"answer\":2,\"id\":92},{\"answer\":0,\"id\":93},{\"answer\":0,\"id\":94},{\"answer\":1,\"id\":95},{\"answer\":1,\"id\":86},{\"answer\":2,\"id\":87}]}\n",
+      "latency_ms": 25936.17,
+      "batch_id": 10,
+      "timestamp": "2026-05-27T10:21:03.324538+00:00",
+      "logprobs": {
+        "choice_logprobs": {
+          "0": -0.006387863773852587,
+          "1": -6.721843719482422,
+          "2": -7.168182373046875
+        }
+      }
+    },
+    {
+      "sample_id": 95,
+      "task": "sentence_ordering",
+      "expected": 3,
+      "predicted": 1,
+      "correct": false,
+      "raw_response": "{\"answers\":[{\"answer\":0,\"id\":80},{\"answer\":0,\"id\":91},{\"answer\":2,\"id\":92},{\"answer\":0,\"id\":93},{\"answer\":0,\"id\":94},{\"answer\":1,\"id\":95},{\"answer\":1,\"id\":86},{\"answer\":2,\"id\":87}]}\n",
+      "latency_ms": 25936.17,
+      "batch_id": 10,
+      "timestamp": "2026-05-27T10:21:03.324538+00:00",
+      "logprobs": {
+        "choice_logprobs": {
+          "0": -0.006387863773852587,
+          "1": -6.721843719482422,
+          "2": -7.168182373046875
+        }
+      }
+    },
+    {
+      "sample_id": 86,
+      "task": "sentence_ordering",
+      "expected": 1,
+      "predicted": 1,
+      "correct": true,
+      "raw_response": "{\"answers\":[{\"answer\":0,\"id\":80},{\"answer\":0,\"id\":91},{\"answer\":2,\"id\":92},{\"answer\":0,\"id\":93},{\"answer\":0,\"id\":94},{\"answer\":1,\"id\":95},{\"answer\":1,\"id\":86},{\"answer\":2,\"id\":87}]}\n",
+      "latency_ms": 25936.17,
+      "batch_id": 10,
+      "timestamp": "2026-05-27T10:21:03.324538+00:00",
+      "logprobs": {
+        "choice_logprobs": {
+          "0": -0.006387863773852587,
+          "1": -6.721843719482422,
+          "2": -7.168182373046875
+        }
+      }
+    },
+    {
+      "sample_id": 87,
+      "task": "sentence_ordering",
+      "expected": 2,
+      "predicted": 2,
+      "correct": true,
+      "raw_response": "{\"answers\":[{\"answer\":0,\"id\":80},{\"answer\":0,\"id\":91},{\"answer\":2,\"id\":92},{\"answer\":0,\"id\":93},{\"answer\":0,\"id\":94},{\"answer\":1,\"id\":95},{\"answer\":1,\"id\":86},{\"answer\":2,\"id\":87}]}\n",
+      "latency_ms": 25936.17,
+      "batch_id": 10,
+      "timestamp": "2026-05-27T10:21:03.324538+00:00",
+      "logprobs": {
+        "choice_logprobs": {
+          "0": -0.006387863773852587,
+          "1": -6.721843719482422,
+          "2": -7.168182373046875
+        }
+      }
+    },
+    {
+      "sample_id": 88,
+      "task": "sentence_ordering",
+      "expected": 3,
+      "predicted": 0,
+      "correct": false,
+      "raw_response": "{\"answers\": [ {\"answer\": 0, \"id\": 88}, {\"answer\": 3, \"id\": 89}, {\"answer\": 2, \"id\": 90}, {\"answer\": 3, \"id\": 96}, {\"answer\": 1, \"id\": 97}, {\"answer\": 0, \"id\": 98}, {\"answer\": 0, \"id\": 99}, {\"answer\": 3, \"id\": 100} ]}",
+      "latency_ms": 43370.57,
+      "batch_id": 11,
+      "timestamp": "2026-05-27T10:26:50.291906+00:00",
+      "logprobs": {
+        "choice_logprobs": {
+          "0": -0.048886608332395554,
+          "1": -3.577807664871216,
+          "2": -4.299548625946045,
+          "3": -5.471374034881592,
+          "4": -6.355248928070068
+        }
+      }
+    },
+    {
+      "sample_id": 89,
+      "task": "sentence_ordering",
+      "expected": 3,
+      "predicted": 3,
+      "correct": true,
+      "raw_response": "{\"answers\": [ {\"answer\": 0, \"id\": 88}, {\"answer\": 3, \"id\": 89}, {\"answer\": 2, \"id\": 90}, {\"answer\": 3, \"id\": 96}, {\"answer\": 1, \"id\": 97}, {\"answer\": 0, \"id\": 98}, {\"answer\": 0, \"id\": 99}, {\"answer\": 3, \"id\": 100} ]}",
+      "latency_ms": 43370.57,
+      "batch_id": 11,
+      "timestamp": "2026-05-27T10:26:50.291906+00:00",
+      "logprobs": {
+        "choice_logprobs": {
+          "0": -0.048886608332395554,
+          "1": -3.577807664871216,
+          "2": -4.299548625946045,
+          "3": -5.471374034881592,
+          "4": -6.355248928070068
+        }
+      }
+    },
+    {
+      "sample_id": 90,
+      "task": "sentence_ordering",
+      "expected": 2,
+      "predicted": 2,
+      "correct": true,
+      "raw_response": "{\"answers\": [ {\"answer\": 0, \"id\": 88}, {\"answer\": 3, \"id\": 89}, {\"answer\": 2, \"id\": 90}, {\"answer\": 3, \"id\": 96}, {\"answer\": 1, \"id\": 97}, {\"answer\": 0, \"id\": 98}, {\"answer\": 0, \"id\": 99}, {\"answer\": 3, \"id\": 100} ]}",
+      "latency_ms": 43370.57,
+      "batch_id": 11,
+      "timestamp": "2026-05-27T10:26:50.291906+00:00",
+      "logprobs": {
+        "choice_logprobs": {
+          "0": -0.048886608332395554,
+          "1": -3.577807664871216,
+          "2": -4.299548625946045,
+          "3": -5.471374034881592,
+          "4": -6.355248928070068
+        }
+      }
+    },
+    {
+      "sample_id": 96,
+      "task": "sentence_ordering",
+      "expected": 3,
+      "predicted": 3,
+      "correct": true,
+      "raw_response": "{\"answers\": [ {\"answer\": 0, \"id\": 88}, {\"answer\": 3, \"id\": 89}, {\"answer\": 2, \"id\": 90}, {\"answer\": 3, \"id\": 96}, {\"answer\": 1, \"id\": 97}, {\"answer\": 0, \"id\": 98}, {\"answer\": 0, \"id\": 99}, {\"answer\": 3, \"id\": 100} ]}",
+      "latency_ms": 43370.57,
+      "batch_id": 11,
+      "timestamp": "2026-05-27T10:26:50.291906+00:00",
+      "logprobs": {
+        "choice_logprobs": {
+          "0": -0.048886608332395554,
+          "1": -3.577807664871216,
+          "2": -4.299548625946045,
+          "3": -5.471374034881592,
+          "4": -6.355248928070068
+        }
+      }
+    },
+    {
+      "sample_id": 97,
+      "task": "sentence_ordering",
+      "expected": 2,
+      "predicted": 1,
+      "correct": false,
+      "raw_response": "{\"answers\": [ {\"answer\": 0, \"id\": 88}, {\"answer\": 3, \"id\": 89}, {\"answer\": 2, \"id\": 90}, {\"answer\": 3, \"id\": 96}, {\"answer\": 1, \"id\": 97}, {\"answer\": 0, \"id\": 98}, {\"answer\": 0, \"id\": 99}, {\"answer\": 3, \"id\": 100} ]}",
+      "latency_ms": 43370.57,
+      "batch_id": 11,
+      "timestamp": "2026-05-27T10:26:50.291906+00:00",
+      "logprobs": {
+        "choice_logprobs": {
+          "0": -0.048886608332395554,
+          "1": -3.577807664871216,
+          "2": -4.299548625946045,
+          "3": -5.471374034881592,
+          "4": -6.355248928070068
+        }
+      }
+    },
+    {
+      "sample_id": 98,
+      "task": "sentence_ordering",
+      "expected": 0,
+      "predicted": 0,
+      "correct": true,
+      "raw_response": "{\"answers\": [ {\"answer\": 0, \"id\": 88}, {\"answer\": 3, \"id\": 89}, {\"answer\": 2, \"id\": 90}, {\"answer\": 3, \"id\": 96}, {\"answer\": 1, \"id\": 97}, {\"answer\": 0, \"id\": 98}, {\"answer\": 0, \"id\": 99}, {\"answer\": 3, \"id\": 100} ]}",
+      "latency_ms": 43370.57,
+      "batch_id": 11,
+      "timestamp": "2026-05-27T10:26:50.291906+00:00",
+      "logprobs": {
+        "choice_logprobs": {
+          "0": -0.048886608332395554,
+          "1": -3.577807664871216,
+          "2": -4.299548625946045,
+          "3": -5.471374034881592,
+          "4": -6.355248928070068
+        }
+      }
+    },
+    {
+      "sample_id": 99,
+      "task": "sentence_ordering",
+      "expected": 0,
+      "predicted": 0,
+      "correct": true,
+      "raw_response": "{\"answers\": [ {\"answer\": 0, \"id\": 88}, {\"answer\": 3, \"id\": 89}, {\"answer\": 2, \"id\": 90}, {\"answer\": 3, \"id\": 96}, {\"answer\": 1, \"id\": 97}, {\"answer\": 0, \"id\": 98}, {\"answer\": 0, \"id\": 99}, {\"answer\": 3, \"id\": 100} ]}",
+      "latency_ms": 43370.57,
+      "batch_id": 11,
+      "timestamp": "2026-05-27T10:26:50.291906+00:00",
+      "logprobs": {
+        "choice_logprobs": {
+          "0": -0.048886608332395554,
+          "1": -3.577807664871216,
+          "2": -4.299548625946045,
+          "3": -5.471374034881592,
+          "4": -6.355248928070068
+        }
+      }
+    },
+    {
+      "sample_id": 100,
+      "task": "sentence_ordering",
+      "expected": 3,
+      "predicted": 3,
+      "correct": true,
+      "raw_response": "{\"answers\": [ {\"answer\": 0, \"id\": 88}, {\"answer\": 3, \"id\": 89}, {\"answer\": 2, \"id\": 90}, {\"answer\": 3, \"id\": 96}, {\"answer\": 1, \"id\": 97}, {\"answer\": 0, \"id\": 98}, {\"answer\": 0, \"id\": 99}, {\"answer\": 3, \"id\": 100} ]}",
+      "latency_ms": 43370.57,
+      "batch_id": 11,
+      "timestamp": "2026-05-27T10:26:50.291906+00:00",
+      "logprobs": {
+        "choice_logprobs": {
+          "0": -0.048886608332395554,
+          "1": -3.577807664871216,
+          "2": -4.299548625946045,
+          "3": -5.471374034881592,
+          "4": -6.355248928070068
+        }
+      }
+    },
+    {
+      "sample_id": 101,
+      "task": "sentence_ordering",
+      "expected": 0,
+      "predicted": 4,
+      "correct": false,
+      "raw_response": "{\n\"answers\": [\n{\"answer\": 4, \"id\": 101},\n{\"answer\": 2, \"id\": 102},\n{\"answer\": 2, \"id\": 103},\n{\"answer\": 4, \"id\": 104},\n{\"answer\": 2, \"id\": 105},\n{\"answer\": 0, \"id\": 61},\n{\"answer\": 2, \"id\": 62},\n{\"answer\": 0, \"id\": 63}\n]\n}",
+      "latency_ms": 105005.63,
+      "batch_id": 12,
+      "timestamp": "2026-05-27T10:40:50.340970+00:00",
+      "logprobs": {
+        "choice_logprobs": {
+          "4": -0.028311969712376595,
+          "0": -3.9449169635772705,
+          "1": -5.5580153465271,
+          "3": -5.794158458709717,
+          "2": -6.724528789520264
+        }
+      }
+    },
+    {
+      "sample_id": 102,
+      "task": "sentence_ordering",
+      "expected": 1,
+      "predicted": 2,
+      "correct": false,
+      "raw_response": "{\n\"answers\": [\n{\"answer\": 4, \"id\": 101},\n{\"answer\": 2, \"id\": 102},\n{\"answer\": 2, \"id\": 103},\n{\"answer\": 4, \"id\": 104},\n{\"answer\": 2, \"id\": 105},\n{\"answer\": 0, \"id\": 61},\n{\"answer\": 2, \"id\": 62},\n{\"answer\": 0, \"id\": 63}\n]\n}",
+      "latency_ms": 105005.63,
+      "batch_id": 12,
+      "timestamp": "2026-05-27T10:40:50.340970+00:00",
+      "logprobs": {
+        "choice_logprobs": {
+          "4": -0.028311969712376595,
+          "0": -3.9449169635772705,
+          "1": -5.5580153465271,
+          "3": -5.794158458709717,
+          "2": -6.724528789520264
+        }
+      }
+    },
+    {
+      "sample_id": 103,
+      "task": "sentence_ordering",
+      "expected": 2,
+      "predicted": 2,
+      "correct": true,
+      "raw_response": "{\n\"answers\": [\n{\"answer\": 4, \"id\": 101},\n{\"answer\": 2, \"id\": 102},\n{\"answer\": 2, \"id\": 103},\n{\"answer\": 4, \"id\": 104},\n{\"answer\": 2, \"id\": 105},\n{\"answer\": 0, \"id\": 61},\n{\"answer\": 2, \"id\": 62},\n{\"answer\": 0, \"id\": 63}\n]\n}",
+      "latency_ms": 105005.63,
+      "batch_id": 12,
+      "timestamp": "2026-05-27T10:40:50.340970+00:00",
+      "logprobs": {
+        "choice_logprobs": {
+          "4": -0.028311969712376595,
+          "0": -3.9449169635772705,
+          "1": -5.5580153465271,
+          "3": -5.794158458709717,
+          "2": -6.724528789520264
+        }
+      }
+    },
+    {
+      "sample_id": 104,
+      "task": "sentence_ordering",
+      "expected": 2,
+      "predicted": 4,
+      "correct": false,
+      "raw_response": "{\n\"answers\": [\n{\"answer\": 4, \"id\": 101},\n{\"answer\": 2, \"id\": 102},\n{\"answer\": 2, \"id\": 103},\n{\"answer\": 4, \"id\": 104},\n{\"answer\": 2, \"id\": 105},\n{\"answer\": 0, \"id\": 61},\n{\"answer\": 2, \"id\": 62},\n{\"answer\": 0, \"id\": 63}\n]\n}",
+      "latency_ms": 105005.63,
+      "batch_id": 12,
+      "timestamp": "2026-05-27T10:40:50.340970+00:00",
+      "logprobs": {
+        "choice_logprobs": {
+          "4": -0.028311969712376595,
+          "0": -3.9449169635772705,
+          "1": -5.5580153465271,
+          "3": -5.794158458709717,
+          "2": -6.724528789520264
+        }
+      }
+    },
+    {
+      "sample_id": 105,
+      "task": "sentence_ordering",
+      "expected": 2,
+      "predicted": 2,
+      "correct": true,
+      "raw_response": "{\n\"answers\": [\n{\"answer\": 4, \"id\": 101},\n{\"answer\": 2, \"id\": 102},\n{\"answer\": 2, \"id\": 103},\n{\"answer\": 4, \"id\": 104},\n{\"answer\": 2, \"id\": 105},\n{\"answer\": 0, \"id\": 61},\n{\"answer\": 2, \"id\": 62},\n{\"answer\": 0, \"id\": 63}\n]\n}",
+      "latency_ms": 105005.63,
+      "batch_id": 12,
+      "timestamp": "2026-05-27T10:40:50.340970+00:00",
+      "logprobs": {
+        "choice_logprobs": {
+          "4": -0.028311969712376595,
+          "0": -3.9449169635772705,
+          "1": -5.5580153465271,
+          "3": -5.794158458709717,
+          "2": -6.724528789520264
+        }
+      }
+    },
+    {
+      "sample_id": 61,
+      "task": "sentence_ordering",
+      "expected": 0,
+      "predicted": 0,
+      "correct": true,
+      "raw_response": "{\n\"answers\": [\n{\"answer\": 4, \"id\": 101},\n{\"answer\": 2, \"id\": 102},\n{\"answer\": 2, \"id\": 103},\n{\"answer\": 4, \"id\": 104},\n{\"answer\": 2, \"id\": 105},\n{\"answer\": 0, \"id\": 61},\n{\"answer\": 2, \"id\": 62},\n{\"answer\": 0, \"id\": 63}\n]\n}",
+      "latency_ms": 105005.63,
+      "batch_id": 12,
+      "timestamp": "2026-05-27T10:40:50.340970+00:00",
+      "logprobs": {
+        "choice_logprobs": {
+          "4": -0.028311969712376595,
+          "0": -3.9449169635772705,
+          "1": -5.5580153465271,
+          "3": -5.794158458709717,
+          "2": -6.724528789520264
+        }
+      }
+    },
+    {
+      "sample_id": 62,
+      "task": "sentence_ordering",
+      "expected": 2,
+      "predicted": 2,
+      "correct": true,
+      "raw_response": "{\n\"answers\": [\n{\"answer\": 4, \"id\": 101},\n{\"answer\": 2, \"id\": 102},\n{\"answer\": 2, \"id\": 103},\n{\"answer\": 4, \"id\": 104},\n{\"answer\": 2, \"id\": 105},\n{\"answer\": 0, \"id\": 61},\n{\"answer\": 2, \"id\": 62},\n{\"answer\": 0, \"id\": 63}\n]\n}",
+      "latency_ms": 105005.63,
+      "batch_id": 12,
+      "timestamp": "2026-05-27T10:40:50.340970+00:00",
+      "logprobs": {
+        "choice_logprobs": {
+          "4": -0.028311969712376595,
+          "0": -3.9449169635772705,
+          "1": -5.5580153465271,
+          "3": -5.794158458709717,
+          "2": -6.724528789520264
+        }
+      }
+    },
+    {
+      "sample_id": 63,
+      "task": "sentence_ordering",
+      "expected": 2,
+      "predicted": 0,
+      "correct": false,
+      "raw_response": "{\n\"answers\": [\n{\"answer\": 4, \"id\": 101},\n{\"answer\": 2, \"id\": 102},\n{\"answer\": 2, \"id\": 103},\n{\"answer\": 4, \"id\": 104},\n{\"answer\": 2, \"id\": 105},\n{\"answer\": 0, \"id\": 61},\n{\"answer\": 2, \"id\": 62},\n{\"answer\": 0, \"id\": 63}\n]\n}",
+      "latency_ms": 105005.63,
+      "batch_id": 12,
+      "timestamp": "2026-05-27T10:40:50.340970+00:00",
+      "logprobs": {
+        "choice_logprobs": {
+          "4": -0.028311969712376595,
+          "0": -3.9449169635772705,
+          "1": -5.5580153465271,
+          "3": -5.794158458709717,
+          "2": -6.724528789520264
+        }
+      }
+    },
+    {
+      "sample_id": 3928,
+      "task": "analogies",
+      "expected": 3,
+      "predicted": 3,
+      "correct": true,
+      "raw_response": "{\"answers\": [{\"id\": 3928, \"answer\": 3}, {\"id\": 1017, \"answer\": 1}, {\"id\": 3997, \"answer\": 1}, {\"id\": 570, \"answer\": 0}, {\"id\": 10035, \"answer\": 4}, {\"id\": 11162, \"answer\": 4}, {\"id\": 4800, \"answer\": 3}, {\"id\": 4587, \"answer\": 4}]}",
+      "latency_ms": 66543.4,
+      "batch_id": 13,
+      "timestamp": "2026-05-28T22:13:29.406065+00:00",
+      "logprobs": {
+        "choice_logprobs": {
+          "3": -5.92487704125233e-05,
+          "4": -10.396490097045898,
+          "0": -11.231210708618164,
+          "1": -11.690450668334961,
+          "2": -11.98640251159668
+        }
+      }
+    },
+    {
+      "sample_id": 1017,
+      "task": "reading_comprehension",
+      "expected": 1,
+      "predicted": 1,
+      "correct": true,
+      "raw_response": "{\"answers\": [{\"id\": 3928, \"answer\": 3}, {\"id\": 1017, \"answer\": 1}, {\"id\": 3997, \"answer\": 1}, {\"id\": 570, \"answer\": 0}, {\"id\": 10035, \"answer\": 4}, {\"id\": 11162, \"answer\": 4}, {\"id\": 4800, \"answer\": 3}, {\"id\": 4587, \"answer\": 4}]}",
+      "latency_ms": 66543.4,
+      "batch_id": 13,
+      "timestamp": "2026-05-28T22:13:29.406065+00:00",
+      "logprobs": {
+        "choice_logprobs": {
+          "3": -5.92487704125233e-05,
+          "4": -10.396490097045898,
+          "0": -11.231210708618164,
+          "1": -11.690450668334961,
+          "2": -11.98640251159668
+        }
+      }
+    },
+    {
+      "sample_id": 3997,
+      "task": "sentence_elimination",
+      "expected": 1,
+      "predicted": 1,
+      "correct": true,
+      "raw_response": "{\"answers\": [{\"id\": 3928, \"answer\": 3}, {\"id\": 1017, \"answer\": 1}, {\"id\": 3997, \"answer\": 1}, {\"id\": 570, \"answer\": 0}, {\"id\": 10035, \"answer\": 4}, {\"id\": 11162, \"answer\": 4}, {\"id\": 4800, \"answer\": 3}, {\"id\": 4587, \"answer\": 4}]}",
+      "latency_ms": 66543.4,
+      "batch_id": 13,
+      "timestamp": "2026-05-28T22:13:29.406065+00:00",
+      "logprobs": {
+        "choice_logprobs": {
+          "3": -5.92487704125233e-05,
+          "4": -10.396490097045898,
+          "0": -11.231210708618164,
+          "1": -11.690450668334961,
+          "2": -11.98640251159668
+        }
+      }
+    },
+    {
+      "sample_id": 570,
+      "task": "sentence_ordering",
+      "expected": 0,
+      "predicted": 0,
+      "correct": true,
+      "raw_response": "{\"answers\": [{\"id\": 3928, \"answer\": 3}, {\"id\": 1017, \"answer\": 1}, {\"id\": 3997, \"answer\": 1}, {\"id\": 570, \"answer\": 0}, {\"id\": 10035, \"answer\": 4}, {\"id\": 11162, \"answer\": 4}, {\"id\": 4800, \"answer\": 3}, {\"id\": 4587, \"answer\": 4}]}",
+      "latency_ms": 66543.4,
+      "batch_id": 13,
+      "timestamp": "2026-05-28T22:13:29.406065+00:00",
+      "logprobs": {
+        "choice_logprobs": {
+          "3": -5.92487704125233e-05,
+          "4": -10.396490097045898,
+          "0": -11.231210708618164,
+          "1": -11.690450668334961,
+          "2": -11.98640251159668
+        }
+      }
+    },
+    {
+      "sample_id": 10035,
+      "task": "incomplete_sentences",
+      "expected": 4,
+      "predicted": 4,
+      "correct": true,
+      "raw_response": "{\"answers\": [{\"id\": 3928, \"answer\": 3}, {\"id\": 1017, \"answer\": 1}, {\"id\": 3997, \"answer\": 1}, {\"id\": 570, \"answer\": 0}, {\"id\": 10035, \"answer\": 4}, {\"id\": 11162, \"answer\": 4}, {\"id\": 4800, \"answer\": 3}, {\"id\": 4587, \"answer\": 4}]}",
+      "latency_ms": 66543.4,
+      "batch_id": 13,
+      "timestamp": "2026-05-28T22:13:29.406065+00:00",
+      "logprobs": {
+        "choice_logprobs": {
+          "3": -5.92487704125233e-05,
+          "4": -10.396490097045898,
+          "0": -11.231210708618164,
+          "1": -11.690450668334961,
+          "2": -11.98640251159668
+        }
+      }
+    },
+    {
+      "sample_id": 11162,
+      "task": "synonyms_and_antonyms",
+      "expected": 4,
+      "predicted": 4,
+      "correct": true,
+      "raw_response": "{\"answers\": [{\"id\": 3928, \"answer\": 3}, {\"id\": 1017, \"answer\": 1}, {\"id\": 3997, \"answer\": 1}, {\"id\": 570, \"answer\": 0}, {\"id\": 10035, \"answer\": 4}, {\"id\": 11162, \"answer\": 4}, {\"id\": 4800, \"answer\": 3}, {\"id\": 4587, \"answer\": 4}]}",
+      "latency_ms": 66543.4,
+      "batch_id": 13,
+      "timestamp": "2026-05-28T22:13:29.406065+00:00",
+      "logprobs": {
+        "choice_logprobs": {
+          "3": -5.92487704125233e-05,
+          "4": -10.396490097045898,
+          "0": -11.231210708618164,
+          "1": -11.690450668334961,
+          "2": -11.98640251159668
+        }
+      }
+    },
+    {
+      "sample_id": 4800,
+      "task": "verbal_series",
+      "expected": 0,
+      "predicted": 3,
+      "correct": false,
+      "raw_response": "{\"answers\": [{\"id\": 3928, \"answer\": 3}, {\"id\": 1017, \"answer\": 1}, {\"id\": 3997, \"answer\": 1}, {\"id\": 570, \"answer\": 0}, {\"id\": 10035, \"answer\": 4}, {\"id\": 11162, \"answer\": 4}, {\"id\": 4800, \"answer\": 3}, {\"id\": 4587, \"answer\": 4}]}",
+      "latency_ms": 66543.4,
+      "batch_id": 13,
+      "timestamp": "2026-05-28T22:13:29.406065+00:00",
+      "logprobs": {
+        "choice_logprobs": {
+          "3": -5.92487704125233e-05,
+          "4": -10.396490097045898,
+          "0": -11.231210708618164,
+          "1": -11.690450668334961,
+          "2": -11.98640251159668
+        }
+      }
+    },
+    {
+      "sample_id": 4587,
+      "task": "analogies",
+      "expected": 4,
+      "predicted": 4,
+      "correct": true,
+      "raw_response": "{\"answers\": [{\"id\": 3928, \"answer\": 3}, {\"id\": 1017, \"answer\": 1}, {\"id\": 3997, \"answer\": 1}, {\"id\": 570, \"answer\": 0}, {\"id\": 10035, \"answer\": 4}, {\"id\": 11162, \"answer\": 4}, {\"id\": 4800, \"answer\": 3}, {\"id\": 4587, \"answer\": 4}]}",
+      "latency_ms": 66543.4,
+      "batch_id": 13,
+      "timestamp": "2026-05-28T22:13:29.406065+00:00",
+      "logprobs": {
+        "choice_logprobs": {
+          "3": -5.92487704125233e-05,
+          "4": -10.396490097045898,
+          "0": -11.231210708618164,
+          "1": -11.690450668334961,
+          "2": -11.98640251159668
+        }
+      }
+    },
+    {
+      "sample_id": 515,
+      "task": "sentence_ordering",
+      "expected": 1,
+      "predicted": 1,
+      "correct": true,
+      "raw_response": "{\"answers\": [{\"id\": 515, \"answer\": 1}, {\"id\": 5715, \"answer\": 4}, {\"id\": 2404, \"answer\": 3}, {\"id\": 4500, \"answer\": 1}, {\"id\": 5367, \"answer\": 0}, {\"id\": 1010, \"answer\": 0}]}",
+      "latency_ms": 11312.67,
+      "batch_id": 22,
+      "timestamp": "2026-06-02T04:31:40.657269+00:00",
+      "logprobs": {
+        "choice_logprobs": {
+          "1": 0.0,
+          "0": -18.5,
+          "2": -19.9375,
+          "3": -20.9375
+        }
+      }
+    },
+    {
+      "sample_id": 5715,
+      "task": "synonyms_and_antonyms",
+      "expected": 4,
+      "predicted": 4,
+      "correct": true,
+      "raw_response": "{\"answers\": [{\"id\": 515, \"answer\": 1}, {\"id\": 5715, \"answer\": 4}, {\"id\": 2404, \"answer\": 3}, {\"id\": 4500, \"answer\": 1}, {\"id\": 5367, \"answer\": 0}, {\"id\": 1010, \"answer\": 0}]}",
+      "latency_ms": 11312.67,
+      "batch_id": 22,
+      "timestamp": "2026-06-02T04:31:40.657269+00:00",
+      "logprobs": {
+        "choice_logprobs": {
+          "1": 0.0,
+          "0": -18.5,
+          "2": -19.9375,
+          "3": -20.9375
+        }
+      }
+    },
+    {
+      "sample_id": 2404,
+      "task": "sentence_elimination",
+      "expected": 3,
+      "predicted": 3,
+      "correct": true,
+      "raw_response": "{\"answers\": [{\"id\": 515, \"answer\": 1}, {\"id\": 5715, \"answer\": 4}, {\"id\": 2404, \"answer\": 3}, {\"id\": 4500, \"answer\": 1}, {\"id\": 5367, \"answer\": 0}, {\"id\": 1010, \"answer\": 0}]}",
+      "latency_ms": 11312.67,
+      "batch_id": 22,
+      "timestamp": "2026-06-02T04:31:40.657269+00:00",
+      "logprobs": {
+        "choice_logprobs": {
+          "1": 0.0,
+          "0": -18.5,
+          "2": -19.9375,
+          "3": -20.9375
+        }
+      }
+    },
+    {
+      "sample_id": 4500,
+      "task": "verbal_series",
+      "expected": 1,
+      "predicted": 1,
+      "correct": true,
+      "raw_response": "{\"answers\": [{\"id\": 515, \"answer\": 1}, {\"id\": 5715, \"answer\": 4}, {\"id\": 2404, \"answer\": 3}, {\"id\": 4500, \"answer\": 1}, {\"id\": 5367, \"answer\": 0}, {\"id\": 1010, \"answer\": 0}]}",
+      "latency_ms": 11312.67,
+      "batch_id": 22,
+      "timestamp": "2026-06-02T04:31:40.657269+00:00",
+      "logprobs": {
+        "choice_logprobs": {
+          "1": 0.0,
+          "0": -18.5,
+          "2": -19.9375,
+          "3": -20.9375
+        }
+      }
+    },
+    {
+      "sample_id": 5367,
+      "task": "incomplete_sentences",
+      "expected": 0,
+      "predicted": 0,
+      "correct": true,
+      "raw_response": "{\"answers\": [{\"id\": 515, \"answer\": 1}, {\"id\": 5715, \"answer\": 4}, {\"id\": 2404, \"answer\": 3}, {\"id\": 4500, \"answer\": 1}, {\"id\": 5367, \"answer\": 0}, {\"id\": 1010, \"answer\": 0}]}",
+      "latency_ms": 11312.67,
+      "batch_id": 22,
+      "timestamp": "2026-06-02T04:31:40.657269+00:00",
+      "logprobs": {
+        "choice_logprobs": {
+          "1": 0.0,
+          "0": -18.5,
+          "2": -19.9375,
+          "3": -20.9375
+        }
+      }
+    },
+    {
+      "sample_id": 1010,
+      "task": "reading_comprehension",
+      "expected": 0,
+      "predicted": 0,
+      "correct": true,
+      "raw_response": "{\"answers\": [{\"id\": 515, \"answer\": 1}, {\"id\": 5715, \"answer\": 4}, {\"id\": 2404, \"answer\": 3}, {\"id\": 4500, \"answer\": 1}, {\"id\": 5367, \"answer\": 0}, {\"id\": 1010, \"answer\": 0}]}",
+      "latency_ms": 11312.67,
+      "batch_id": 22,
+      "timestamp": "2026-06-02T04:31:40.657269+00:00",
+      "logprobs": {
+        "choice_logprobs": {
+          "1": 0.0,
+          "0": -18.5,
+          "2": -19.9375,
+          "3": -20.9375
+        }
+      }
+    },
+    {
+      "sample_id": 10036,
+      "task": "incomplete_sentences",
+      "expected": 4,
+      "predicted": 4,
+      "correct": true,
+      "raw_response": "{\"answers\": [{\"id\": 10036, \"answer\": 4}, {\"id\": 1064, \"answer\": 1}, {\"id\": 9019, \"answer\": 4}, {\"id\": 516, \"answer\": 4}, {\"id\": 10885, \"answer\": 3}, {\"id\": 289, \"answer\": 4}]}",
+      "latency_ms": 26328.74,
+      "batch_id": 25,
+      "timestamp": "2026-06-02T04:34:18.637928+00:00",
+      "logprobs": {
+        "choice_logprobs": {
+          "4": 0.0,
+          "0": -17.25
+        }
+      }
+    },
+    {
+      "sample_id": 1064,
+      "task": "reading_comprehension",
+      "expected": 1,
+      "predicted": 1,
+      "correct": true,
+      "raw_response": "{\"answers\": [{\"id\": 10036, \"answer\": 4}, {\"id\": 1064, \"answer\": 1}, {\"id\": 9019, \"answer\": 4}, {\"id\": 516, \"answer\": 4}, {\"id\": 10885, \"answer\": 3}, {\"id\": 289, \"answer\": 4}]}",
+      "latency_ms": 26328.74,
+      "batch_id": 25,
+      "timestamp": "2026-06-02T04:34:18.637928+00:00",
+      "logprobs": {
+        "choice_logprobs": {
+          "4": 0.0,
+          "0": -17.25
+        }
+      }
+    },
+    {
+      "sample_id": 9019,
+      "task": "analogies",
+      "expected": 4,
+      "predicted": 4,
+      "correct": true,
+      "raw_response": "{\"answers\": [{\"id\": 10036, \"answer\": 4}, {\"id\": 1064, \"answer\": 1}, {\"id\": 9019, \"answer\": 4}, {\"id\": 516, \"answer\": 4}, {\"id\": 10885, \"answer\": 3}, {\"id\": 289, \"answer\": 4}]}",
+      "latency_ms": 26328.74,
+      "batch_id": 25,
+      "timestamp": "2026-06-02T04:34:18.637928+00:00",
+      "logprobs": {
+        "choice_logprobs": {
+          "4": 0.0,
+          "0": -17.25
+        }
+      }
+    },
+    {
+      "sample_id": 516,
+      "task": "sentence_ordering",
+      "expected": 4,
+      "predicted": 4,
+      "correct": true,
+      "raw_response": "{\"answers\": [{\"id\": 10036, \"answer\": 4}, {\"id\": 1064, \"answer\": 1}, {\"id\": 9019, \"answer\": 4}, {\"id\": 516, \"answer\": 4}, {\"id\": 10885, \"answer\": 3}, {\"id\": 289, \"answer\": 4}]}",
+      "latency_ms": 26328.74,
+      "batch_id": 25,
+      "timestamp": "2026-06-02T04:34:18.637928+00:00",
+      "logprobs": {
+        "choice_logprobs": {
+          "4": 0.0,
+          "0": -17.25
+        }
+      }
+    },
+    {
+      "sample_id": 10885,
+      "task": "synonyms_and_antonyms",
+      "expected": 0,
+      "predicted": 3,
+      "correct": false,
+      "raw_response": "{\"answers\": [{\"id\": 10036, \"answer\": 4}, {\"id\": 1064, \"answer\": 1}, {\"id\": 9019, \"answer\": 4}, {\"id\": 516, \"answer\": 4}, {\"id\": 10885, \"answer\": 3}, {\"id\": 289, \"answer\": 4}]}",
+      "latency_ms": 26328.74,
+      "batch_id": 25,
+      "timestamp": "2026-06-02T04:34:18.637928+00:00",
+      "logprobs": {
+        "choice_logprobs": {
+          "4": 0.0,
+          "0": -17.25
+        }
+      }
+    },
+    {
+      "sample_id": 289,
+      "task": "sentence_elimination",
+      "expected": 4,
+      "predicted": 4,
+      "correct": true,
+      "raw_response": "{\"answers\": [{\"id\": 10036, \"answer\": 4}, {\"id\": 1064, \"answer\": 1}, {\"id\": 9019, \"answer\": 4}, {\"id\": 516, \"answer\": 4}, {\"id\": 10885, \"answer\": 3}, {\"id\": 289, \"answer\": 4}]}",
+      "latency_ms": 26328.74,
+      "batch_id": 25,
+      "timestamp": "2026-06-02T04:34:18.637928+00:00",
+      "logprobs": {
+        "choice_logprobs": {
+          "4": 0.0,
+          "0": -17.25
+        }
+      }
+    },
+    {
+      "sample_id": 348,
+      "task": "sentence_elimination",
+      "expected": 0,
+      "predicted": 3,
+      "correct": false,
+      "raw_response": "{\"answers\": [{\"id\": 348, \"answer\": 3}, {\"id\": 4801, \"answer\": 1}, {\"id\": 10031, \"answer\": 1}, {\"id\": 976, \"answer\": 1}, {\"id\": 13272, \"answer\": 2}, {\"id\": 116, \"answer\": 1}]}",
+      "latency_ms": 28387.58,
+      "batch_id": 20,
+      "timestamp": "2026-06-02T04:35:29.022376+00:00",
+      "logprobs": {
+        "choice_logprobs": {
+          "3": 0.0,
+          "2": -18.625,
+          "0": -19.25,
+          "1": -20.0625
+        }
+      }
+    },
+    {
+      "sample_id": 4801,
+      "task": "verbal_series",
+      "expected": 1,
+      "predicted": 1,
+      "correct": true,
+      "raw_response": "{\"answers\": [{\"id\": 348, \"answer\": 3}, {\"id\": 4801, \"answer\": 1}, {\"id\": 10031, \"answer\": 1}, {\"id\": 976, \"answer\": 1}, {\"id\": 13272, \"answer\": 2}, {\"id\": 116, \"answer\": 1}]}",
+      "latency_ms": 28387.58,
+      "batch_id": 20,
+      "timestamp": "2026-06-02T04:35:29.022376+00:00",
+      "logprobs": {
+        "choice_logprobs": {
+          "3": 0.0,
+          "2": -18.625,
+          "0": -19.25,
+          "1": -20.0625
+        }
+      }
+    },
+    {
+      "sample_id": 10031,
+      "task": "incomplete_sentences",
+      "expected": 1,
+      "predicted": 1,
+      "correct": true,
+      "raw_response": "{\"answers\": [{\"id\": 348, \"answer\": 3}, {\"id\": 4801, \"answer\": 1}, {\"id\": 10031, \"answer\": 1}, {\"id\": 976, \"answer\": 1}, {\"id\": 13272, \"answer\": 2}, {\"id\": 116, \"answer\": 1}]}",
+      "latency_ms": 28387.58,
+      "batch_id": 20,
+      "timestamp": "2026-06-02T04:35:29.022376+00:00",
+      "logprobs": {
+        "choice_logprobs": {
+          "3": 0.0,
+          "2": -18.625,
+          "0": -19.25,
+          "1": -20.0625
+        }
+      }
+    },
+    {
+      "sample_id": 976,
+      "task": "reading_comprehension",
+      "expected": 1,
+      "predicted": 1,
+      "correct": true,
+      "raw_response": "{\"answers\": [{\"id\": 348, \"answer\": 3}, {\"id\": 4801, \"answer\": 1}, {\"id\": 10031, \"answer\": 1}, {\"id\": 976, \"answer\": 1}, {\"id\": 13272, \"answer\": 2}, {\"id\": 116, \"answer\": 1}]}",
+      "latency_ms": 28387.58,
+      "batch_id": 20,
+      "timestamp": "2026-06-02T04:35:29.022376+00:00",
+      "logprobs": {
+        "choice_logprobs": {
+          "3": 0.0,
+          "2": -18.625,
+          "0": -19.25,
+          "1": -20.0625
+        }
+      }
+    },
+    {
+      "sample_id": 13272,
+      "task": "analogies",
+      "expected": 2,
+      "predicted": 2,
+      "correct": true,
+      "raw_response": "{\"answers\": [{\"id\": 348, \"answer\": 3}, {\"id\": 4801, \"answer\": 1}, {\"id\": 10031, \"answer\": 1}, {\"id\": 976, \"answer\": 1}, {\"id\": 13272, \"answer\": 2}, {\"id\": 116, \"answer\": 1}]}",
+      "latency_ms": 28387.58,
+      "batch_id": 20,
+      "timestamp": "2026-06-02T04:35:29.022376+00:00",
+      "logprobs": {
+        "choice_logprobs": {
+          "3": 0.0,
+          "2": -18.625,
+          "0": -19.25,
+          "1": -20.0625
+        }
+      }
+    },
+    {
+      "sample_id": 116,
+      "task": "sentence_ordering",
+      "expected": 1,
+      "predicted": 1,
+      "correct": true,
+      "raw_response": "{\"answers\": [{\"id\": 348, \"answer\": 3}, {\"id\": 4801, \"answer\": 1}, {\"id\": 10031, \"answer\": 1}, {\"id\": 976, \"answer\": 1}, {\"id\": 13272, \"answer\": 2}, {\"id\": 116, \"answer\": 1}]}",
+      "latency_ms": 28387.58,
+      "batch_id": 20,
+      "timestamp": "2026-06-02T04:35:29.022376+00:00",
+      "logprobs": {
+        "choice_logprobs": {
+          "3": 0.0,
+          "2": -18.625,
+          "0": -19.25,
+          "1": -20.0625
+        }
+      }
+    },
+    {
+      "sample_id": 328,
+      "task": "sentence_elimination",
+      "expected": 2,
+      "predicted": 2,
+      "correct": true,
+      "raw_response": "{\"answers\": [{\"id\": 328, \"answer\": 2}, {\"id\": 3117, \"answer\": 3}, {\"id\": 5369, \"answer\": 0}, {\"id\": 768, \"answer\": 1}, {\"id\": 3931, \"answer\": 2}, {\"id\": 65, \"answer\": 1}]}",
+      "latency_ms": 20649.75,
+      "batch_id": 27,
+      "timestamp": "2026-06-02T04:36:47.263082+00:00",
+      "logprobs": {
+        "choice_logprobs": {
+          "2": 0.0,
+          "0": -18.8125,
+          "1": -19.875,
+          "3": -20.5625
+        }
+      }
+    },
+    {
+      "sample_id": 3117,
+      "task": "verbal_series",
+      "expected": 2,
+      "predicted": 3,
+      "correct": false,
+      "raw_response": "{\"answers\": [{\"id\": 328, \"answer\": 2}, {\"id\": 3117, \"answer\": 3}, {\"id\": 5369, \"answer\": 0}, {\"id\": 768, \"answer\": 1}, {\"id\": 3931, \"answer\": 2}, {\"id\": 65, \"answer\": 1}]}",
+      "latency_ms": 20649.75,
+      "batch_id": 27,
+      "timestamp": "2026-06-02T04:36:47.263082+00:00",
+      "logprobs": {
+        "choice_logprobs": {
+          "2": 0.0,
+          "0": -18.8125,
+          "1": -19.875,
+          "3": -20.5625
+        }
+      }
+    },
+    {
+      "sample_id": 5369,
+      "task": "incomplete_sentences",
+      "expected": 0,
+      "predicted": 0,
+      "correct": true,
+      "raw_response": "{\"answers\": [{\"id\": 328, \"answer\": 2}, {\"id\": 3117, \"answer\": 3}, {\"id\": 5369, \"answer\": 0}, {\"id\": 768, \"answer\": 1}, {\"id\": 3931, \"answer\": 2}, {\"id\": 65, \"answer\": 1}]}",
+      "latency_ms": 20649.75,
+      "batch_id": 27,
+      "timestamp": "2026-06-02T04:36:47.263082+00:00",
+      "logprobs": {
+        "choice_logprobs": {
+          "2": 0.0,
+          "0": -18.8125,
+          "1": -19.875,
+          "3": -20.5625
+        }
+      }
+    },
+    {
+      "sample_id": 768,
+      "task": "reading_comprehension",
+      "expected": 1,
+      "predicted": 1,
+      "correct": true,
+      "raw_response": "{\"answers\": [{\"id\": 328, \"answer\": 2}, {\"id\": 3117, \"answer\": 3}, {\"id\": 5369, \"answer\": 0}, {\"id\": 768, \"answer\": 1}, {\"id\": 3931, \"answer\": 2}, {\"id\": 65, \"answer\": 1}]}",
+      "latency_ms": 20649.75,
+      "batch_id": 27,
+      "timestamp": "2026-06-02T04:36:47.263082+00:00",
+      "logprobs": {
+        "choice_logprobs": {
+          "2": 0.0,
+          "0": -18.8125,
+          "1": -19.875,
+          "3": -20.5625
+        }
+      }
+    },
+    {
+      "sample_id": 3931,
+      "task": "analogies",
+      "expected": 4,
+      "predicted": 2,
+      "correct": false,
+      "raw_response": "{\"answers\": [{\"id\": 328, \"answer\": 2}, {\"id\": 3117, \"answer\": 3}, {\"id\": 5369, \"answer\": 0}, {\"id\": 768, \"answer\": 1}, {\"id\": 3931, \"answer\": 2}, {\"id\": 65, \"answer\": 1}]}",
+      "latency_ms": 20649.75,
+      "batch_id": 27,
+      "timestamp": "2026-06-02T04:36:47.263082+00:00",
+      "logprobs": {
+        "choice_logprobs": {
+          "2": 0.0,
+          "0": -18.8125,
+          "1": -19.875,
+          "3": -20.5625
+        }
+      }
+    },
+    {
+      "sample_id": 65,
+      "task": "sentence_ordering",
+      "expected": 1,
+      "predicted": 1,
+      "correct": true,
+      "raw_response": "{\"answers\": [{\"id\": 328, \"answer\": 2}, {\"id\": 3117, \"answer\": 3}, {\"id\": 5369, \"answer\": 0}, {\"id\": 768, \"answer\": 1}, {\"id\": 3931, \"answer\": 2}, {\"id\": 65, \"answer\": 1}]}",
+      "latency_ms": 20649.75,
+      "batch_id": 27,
+      "timestamp": "2026-06-02T04:36:47.263082+00:00",
+      "logprobs": {
+        "choice_logprobs": {
+          "2": 0.0,
+          "0": -18.8125,
+          "1": -19.875,
+          "3": -20.5625
+        }
+      }
+    }
+  ]
+}
