@@ -1,0 +1,16 @@
+{
+  "imports": {
+    "@mistralai/mistralai": "npm:@mistralai/mistralai@^2.2.1",
+    "@std/cli": "jsr:@std/cli@^1.0.29",
+    "@std/dotenv": "jsr:@std/dotenv@^0.225.6",
+    "@std/encoding": "jsr:@std/encoding@^1.0.10",
+    "@std/fs": "jsr:@std/fs@^1.0.23",
+    "@std/regexp": "jsr:@std/regexp@^1.0.2",
+    "@std/streams": "jsr:@std/streams@^1.1.0",
+    "zod": "npm:zod@^4.4.3",
+  },
+
+  "tasks": {
+    "start": "deno run --unstable-raw-imports --allow-read --allow-env --allow-net --allow-write ./index.ts",
+  },
+}

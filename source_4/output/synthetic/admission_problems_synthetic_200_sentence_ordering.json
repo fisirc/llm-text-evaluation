@@ -1,0 +1,2458 @@
+[
+    {
+        "task": "sentence_ordering",
+        "question": "La inteligencia artificial en la medicina\nI. Los avances en inteligencia artificial están revolucionando el campo de la medicina.\nII. Por ejemplo, los algoritmos pueden analizar imágenes médicas con mayor precisión que los humanos.\nIII. Esto permite detectar enfermedades como el cáncer en etapas más tempranas.\nIV. Además, la IA puede personalizar tratamientos basados en datos genéticos de los pacientes.\nV. Sin embargo, persisten desafíos éticos y de privacidad en su implementación.",
+        "options": [
+            "I - II - III - IV - V",
+            "I - III - II - V - IV",
+            "II - III - I - IV - V",
+            "I - IV - II - III - V",
+            "V - IV - III - II - I"
+        ],
+        "answer": 0
+    },
+    {
+        "task": "sentence_ordering",
+        "question": "El cambio climático y sus efectos\nI. El cambio climático es uno de los mayores desafíos del siglo XXI.\nII. Sus efectos incluyen el aumento de la temperatura global y fenómenos meteorológicos extremos.\nIII. Las emisiones de gases de efecto invernadero son la principal causa de este problema.\nIV. La deforestación también contribuye significativamente al calentamiento global.\nV. Para combatirlo, es esencial adoptar energías renovables y políticas sostenibles.",
+        "options": [
+            "I - II - III - IV - V",
+            "I - III - II - IV - V",
+            "III - II - I - IV - V",
+            "V - IV - III - II - I",
+            "I - IV - II - III - V"
+        ],
+        "answer": 0
+    },
+    {
+        "task": "sentence_ordering",
+        "question": "La historia de la imprenta\nI. La imprenta fue inventada por Johannes Gutenberg en el siglo XV.\nII. Antes de la imprenta, los libros se copiaban a mano, lo que los hacía costosos y escasos.\nIII. La Biblia de Gutenberg fue el primer libro impreso en masa.\nIV. Este invento facilitó la difusión del conocimiento y la cultura en Europa.\nV. La imprenta también jugó un papel clave en la Reforma Protestante.",
+        "options": [
+            "I - II - III - IV - V",
+            "II - I - III - IV - V",
+            "I - III - II - V - IV",
+            "III - IV - I - II - V",
+            "V - IV - III - II - I"
+        ],
+        "answer": 1
+    },
+    {
+        "task": "sentence_ordering",
+        "question": "La fotosíntesis en las plantas\nI. La fotosíntesis es el proceso mediante el cual las plantas producen su alimento.\nII. Este proceso ocurre en los cloroplastos, que contienen clorofila.\nIII. Durante la fotosíntesis, las plantas absorben dióxido de carbono y liberan oxígeno.\nIV. La energía solar es fundamental para que este proceso se lleve a cabo.\nV. Sin fotosíntesis, la vida en la Tierra sería imposible tal como la conocemos.",
+        "options": [
+            "I - II - III - IV - V",
+            "I - IV - II - III - V",
+            "II - III - IV - I - V",
+            "V - IV - III - II - I",
+            "I - III - II - IV - V"
+        ],
+        "answer": 0
+    },
+    {
+        "task": "sentence_ordering",
+        "question": "La Revolución Industrial\nI. La Revolución Industrial comenzó en Gran Bretaña a finales del siglo XVIII.\nII. Este período marcó el inicio de la producción en masa y el uso de maquinaria.\nIII. La invención de la máquina de vapor fue clave para este cambio.\nIV. La industrialización transformó la economía y la sociedad de la época.\nV. Sin embargo, también generó problemas como la explotación laboral y la contaminación.",
+        "options": [
+            "I - II - III - IV - V",
+            "I - III - II - IV - V",
+            "III - II - I - IV - V",
+            "V - IV - III - II - I",
+            "I - IV - III - II - V"
+        ],
+        "answer": 1
+    },
+    {
+        "task": "sentence_ordering",
+        "question": "El sistema solar\nI. El sistema solar está compuesto por el Sol y ocho planetas.\nII. Los planetas interiores, como Mercurio y Venus, son rocosos.\nIII. Los planetas exteriores, como Júpiter y Saturno, son gaseosos.\nIV. Además de los planetas, el sistema solar incluye asteroides y cometas.\nV. La Tierra es el único planeta conocido que alberga vida.",
+        "options": [
+            "I - II - III - IV - V",
+            "I - III - II - IV - V",
+            "V - IV - III - II - I",
+            "I - V - II - III - IV",
+            "I - IV - III - II - V"
+        ],
+        "answer": 0
+    },
+    {
+        "task": "sentence_ordering",
+        "question": "La teoría de la evolución\nI. La teoría de la evolución fue propuesta por Charles Darwin en el siglo XIX.\nII. Según esta teoría, las especies evolucionan mediante la selección natural.\nIII. Los individuos mejor adaptados a su entorno tienen más probabilidades de sobrevivir.\nIV. La evidencia fósil y genética respalda esta teoría.\nV. La evolución explica la diversidad de la vida en la Tierra.",
+        "options": [
+            "I - II - III - IV - V",
+            "I - III - II - IV - V",
+            "II - III - I - IV - V",
+            "V - IV - III - II - I",
+            "I - IV - III - II - V"
+        ],
+        "answer": 0
+    },
+    {
+        "task": "sentence_ordering",
+        "question": "El Renacimiento\nI. El Renacimiento fue un período de gran florecimiento cultural en Europa.\nII. Comenzó en Italia en el siglo XIV y se extendió por todo el continente.\nIII. Este movimiento destacó por su interés en el arte, la ciencia y la filosofía clásica.\nIV. Artistas como Leonardo da Vinci y Miguel Ángel fueron figuras clave.\nV. El Renacimiento sentó las bases del pensamiento moderno.",
+        "options": [
+            "I - II - III - IV - V",
+            "II - I - III - IV - V",
+            "I - III - II - IV - V",
+            "V - IV - III - II - I",
+            "I - IV - II - III - V"
+        ],
+        "answer": 0
+    },
+    {
+        "task": "sentence_ordering",
+        "question": "La globalización\nI. La globalización es el proceso de integración económica y cultural a nivel mundial.\nII. Este fenómeno ha sido impulsado por avances en tecnología y comunicación.\nIII. La globalización ha facilitado el comercio internacional y la movilidad humana.\nIV. Sin embargo, también ha generado desigualdades y pérdida de identidad cultural.\nV. Para algunos, la globalización es una oportunidad, mientras que para otros es una amenaza.",
+        "options": [
+            "I - II - III - IV - V",
+            "I - III - II - IV - V",
+            "II - III - I - IV - V",
+            "V - IV - III - II - I",
+            "I - IV - II - III - V"
+        ],
+        "answer": 0
+    },
+    {
+        "task": "sentence_ordering",
+        "question": "La Segunda Guerra Mundial\nI. La Segunda Guerra Mundial fue el conflicto más devastador del siglo XX.\nII. Comenzó en 1939 con la invasión de Polonia por parte de Alemania.\nIII. Las potencias del Eje, lideradas por Alemania, Italia y Japón, se enfrentaron a los Aliados.\nIV. El conflicto terminó en 1945 con la rendición de Alemania y Japón.\nV. La guerra dejó millones de muertos y transformó el orden geopolítico mundial.",
+        "options": [
+            "I - II - III - IV - V",
+            "II - I - III - IV - V",
+            "I - III - II - IV - V",
+            "V - IV - III - II - I",
+            "I - IV - III - II - V"
+        ],
+        "answer": 0
+    },
+    {
+        "task": "sentence_ordering",
+        "question": "La democracia\nI. La democracia es un sistema político en el que el poder emana del pueblo.\nII. Este sistema se basa en la participación ciudadana y la igualdad ante la ley.\nIII. La democracia moderna tiene sus raíces en la antigua Grecia.\nIV. Sin embargo, no todos los países practican una democracia plena.\nV. La corrupción y la desigualdad son algunos de los desafíos que enfrenta.",
+        "options": [
+            "I - II - III - IV - V",
+            "I - III - II - IV - V",
+            "III - II - I - IV - V",
+            "V - IV - III - II - I",
+            "I - IV - II - III - V"
+        ],
+        "answer": 1
+    },
+    {
+        "task": "sentence_ordering",
+        "question": "La energía renovable\nI. La energía renovable proviene de fuentes naturales como el sol y el viento.\nII. Este tipo de energía es inagotable y menos contaminante que los combustibles fósiles.\nIII. La energía solar y eólica son dos de las formas más utilizadas.\nIV. Los gobiernos están invirtiendo en energías renovables para combatir el cambio climático.\nV. Aunque su implementación es costosa, a largo plazo es más sostenible.",
+        "options": [
+            "I - II - III - IV - V",
+            "I - III - II - IV - V",
+            "II - III - I - IV - V",
+            "V - IV - III - II - I",
+            "I - IV - II - III - V"
+        ],
+        "answer": 0
+    },
+    {
+        "task": "sentence_ordering",
+        "question": "La literatura latinoamericana\nI. La literatura latinoamericana ha tenido un gran impacto a nivel mundial.\nII. Autores como Gabriel García Márquez y Pablo Neruda son reconocidos internacionalmente.\nIII. El realismo mágico es uno de los movimientos más característicos de esta región.\nIV. Obras como *Cien años de soledad* son consideradas clásicos de la literatura universal.\nV. La diversidad cultural de América Latina se refleja en su literatura.",
+        "options": [
+            "I - II - III - IV - V",
+            "I - III - II - IV - V",
+            "II - III - I - IV - V",
+            "V - IV - III - II - I",
+            "I - IV - III - II - V"
+        ],
+        "answer": 0
+    },
+    {
+        "task": "sentence_ordering",
+        "question": "El ADN y la genética\nI. El ADN es la molécula que contiene la información genética de los seres vivos.\nII. La genética estudia cómo se heredan los rasgos de padres a hijos.\nIII. Los avances en genética han permitido desarrollar terapias para enfermedades hereditarias.\nIV. El Proyecto Genoma Humano fue un hito en la investigación genética.\nV. Sin embargo, la manipulación genética también plantea dilemas éticos.",
+        "options": [
+            "I - II - III - IV - V",
+            "II - I - III - IV - V",
+            "I - III - II - IV - V",
+            "V - IV - III - II - I",
+            "I - IV - III - II - V"
+        ],
+        "answer": 0
+    },
+    {
+        "task": "sentence_ordering",
+        "question": "La Revolución Rusa\nI. La Revolución Rusa de 1917 fue un evento clave en la historia del siglo XX.\nII. Este movimiento derrocó al zar Nicolás II y estableció un gobierno comunista.\nIII. Los bolcheviques, liderados por Lenin, tomaron el poder en octubre de 1917.\nIV. La revolución llevó a la creación de la Unión Soviética en 1922.\nV. Este evento influyó en movimientos revolucionarios en todo el mundo.",
+        "options": [
+            "I - II - III - IV - V",
+            "II - I - III - IV - V",
+            "I - III - II - IV - V",
+            "V - IV - III - II - I",
+            "I - IV - III - II - V"
+        ],
+        "answer": 0
+    },
+    {
+        "task": "sentence_ordering",
+        "question": "El arte abstracto\nI. El arte abstracto rompe con la representación figurativa de la realidad.\nII. Este movimiento surgió a principios del siglo XX como una forma de expresión innovadora.\nIII. Artistas como Wassily Kandinsky y Piet Mondrian fueron pioneros en este estilo.\nIV. El arte abstracto busca transmitir emociones y conceptos a través de formas y colores.\nV. Aunque al principio fue criticado, hoy es ampliamente reconocido y valorado.",
+        "options": [
+            "I - II - III - IV - V",
+            "I - III - II - IV - V",
+            "II - III - I - IV - V",
+            "V - IV - III - II - I",
+            "I - IV - III - II - V"
+        ],
+        "answer": 0
+    },
+    {
+        "task": "sentence_ordering",
+        "question": "La contaminación ambiental\nI. La contaminación ambiental es uno de los mayores problemas del mundo actual.\nII. Las actividades humanas, como la industria y el transporte, son sus principales causas.\nIII. La contaminación del aire, el agua y el suelo afecta la salud de millones de personas.\nIV. Para combatirla, es necesario adoptar prácticas sostenibles y reducir las emisiones.\nV. La conciencia ambiental y las políticas públicas son clave para enfrentar este desafío.",
+        "options": [
+            "I - II - III - IV - V",
+            "I - III - II - IV - V",
+            "II - III - I - IV - V",
+            "V - IV - III - II - I",
+            "I - IV - II - III - V"
+        ],
+        "answer": 0
+    },
+    {
+        "task": "sentence_ordering",
+        "question": "La música clásica\nI. La música clásica es un género que surgió en Europa durante el siglo XVIII.\nII. Compositores como Mozart, Beethoven y Bach son figuras fundamentales de este período.\nIII. Este género se caracteriza por su complejidad y riqueza armónica.\nIV. La música clásica ha influido en otros géneros musicales a lo largo de la historia.\nV. Aunque su popularidad ha disminuido, sigue siendo apreciada por su valor artístico.",
+        "options": [
+            "I - II - III - IV - V",
+            "I - III - II - IV - V",
+            "II - III - I - IV - V",
+            "V - IV - III - II - I",
+            "I - IV - III - II - V"
+        ],
+        "answer": 0
+    },
+    {
+        "task": "sentence_ordering",
+        "question": "La inteligencia emocional\nI. La inteligencia emocional es la capacidad de reconocer y gestionar las emociones propias y ajenas.\nII. Este concepto fue popularizado por el psicólogo Daniel Goleman en los años 90.\nIII. La inteligencia emocional es clave para el éxito personal y profesional.\nIV. Incluye habilidades como la empatía, la autoconciencia y la regulación emocional.\nV. Desarrollar la inteligencia emocional puede mejorar las relaciones interpersonales.",
+        "options": [
+            "I - II - III - IV - V",
+            "II - I - III - IV - V",
+            "I - III - II - IV - V",
+            "V - IV - III - II - I",
+            "I - IV - II - III - V"
+        ],
+        "answer": 0
+    },
+    {
+        "task": "sentence_ordering",
+        "question": "La caída del Muro de Berlín\nI. El Muro de Berlín fue construido en 1961 para dividir la ciudad en dos.\nII. Este muro se convirtió en un símbolo de la Guerra Fría y la división ideológica.\nIII. En 1989, la caída del Muro de Berlín marcó el fin de la Guerra Fría.\nIV. Este evento fue el preludio de la reunificación de Alemania en 1990.\nV. La caída del muro representó un triunfo para la libertad y la democracia.",
+        "options": [
+            "I - II - III - IV - V",
+            "II - I - III - IV - V",
+            "I - III - II - IV - V",
+            "V - IV - III - II - I",
+            "I - IV - III - II - V"
+        ],
+        "answer": 0
+    },
+    {
+        "task": "sentence_ordering",
+        "question": "El feudalismo\nI. El feudalismo fue el sistema político y social dominante en Europa durante la Edad Media.\nII. En este sistema, los señores feudales gobernaban sobre los campesinos o siervos.\nIII. Los siervos trabajaban la tierra a cambio de protección y un lugar para vivir.\nIV. La Iglesia Católica también jugó un papel importante en la estructura feudal.\nV. El feudalismo comenzó a declinar con el surgimiento de las ciudades y el comercio.",
+        "options": [
+            "I - II - III - IV - V",
+            "I - III - II - IV - V",
+            "II - III - I - IV - V",
+            "V - IV - III - II - I",
+            "I - IV - III - II - V"
+        ],
+        "answer": 0
+    },
+    {
+        "task": "sentence_ordering",
+        "question": "La exploración espacial\nI. La exploración espacial ha sido uno de los mayores logros de la humanidad.\nII. El primer hombre en el espacio fue el cosmonauta Yuri Gagarin en 1961.\nIII. En 1969, el Apolo 11 llevó al primer hombre a la Luna.\nIV. Hoy, la exploración espacial incluye misiones a Marte y más allá.\nV. La tecnología desarrollada para el espacio ha tenido aplicaciones en la vida cotidiana.",
+        "options": [
+            "I - II - III - IV - V",
+            "II - I - III - IV - V",
+            "I - III - II - IV - V",
+            "V - IV - III - II - I",
+            "I - IV - III - II - V"
+        ],
+        "answer": 0
+    },
+    {
+        "task": "sentence_ordering",
+        "question": "La filosofía griega\nI. La filosofía griega sentó las bases del pensamiento occidental.\nII. Sócrates, Platón y Aristóteles son algunos de sus representantes más importantes.\nIII. Estos filósofos abordaron temas como la ética, la política y la metafísica.\nIV. La filosofía griega influyó en el desarrollo de la ciencia y la cultura.\nV. Sus ideas siguen siendo estudiadas y debatidas en la actualidad.",
+        "options": [
+            "I - II - III - IV - V",
+            "II - I - III - IV - V",
+            "I - III - II - IV - V",
+            "V - IV - III - II - I",
+            "I - IV - III - II - V"
+        ],
+        "answer": 0
+    },
+    {
+        "task": "sentence_ordering",
+        "question": "La biodiversidad\nI. La biodiversidad se refiere a la variedad de vida en la Tierra.\nII. Incluye desde microorganismos hasta plantas y animales.\nIII. La biodiversidad es esencial para el equilibrio de los ecosistemas.\nIV. La actividad humana ha causado una pérdida acelerada de biodiversidad.\nV. Proteger la biodiversidad es clave para la supervivencia humana.",
+        "options": [
+            "I - II - III - IV - V",
+            "I - III - II - IV - V",
+            "II - III - I - IV - V",
+            "V - IV - III - II - I",
+            "I - IV - II - III - V"
+        ],
+        "answer": 0
+    },
+    {
+        "task": "sentence_ordering",
+        "question": "La Ilustración\nI. La Ilustración fue un movimiento intelectual del siglo XVIII.\nII. Promovió ideas como la razón, la ciencia y la libertad.\nIII. Filósofos como Voltaire, Rousseau y Montesquieu fueron figuras clave.\nIV. La Ilustración influyó en la Revolución Francesa y la independencia de Estados Unidos.\nV. Sus ideas sentaron las bases del pensamiento moderno.",
+        "options": [
+            "I - II - III - IV - V",
+            "II - I - III - IV - V",
+            "I - III - II - IV - V",
+            "V - IV - III - II - I",
+            "I - IV - III - II - V"
+        ],
+        "answer": 0
+    },
+    {
+        "task": "sentence_ordering",
+        "question": "El cine\nI. El cine es una de las formas de arte más populares del siglo XX.\nII. Surgió a finales del siglo XIX con los hermanos Lumière.\nIII. El cine combina elementos visuales, sonoros y narrativos.\nIV. Ha evolucionado desde el cine mudo hasta las producciones digitales actuales.\nV. Además de entretener, el cine puede ser una herramienta para reflexionar sobre la sociedad.",
+        "options": [
+            "I - II - III - IV - V",
+            "II - I - III - IV - V",
+            "I - III - II - IV - V",
+            "V - IV - III - II - I",
+            "I - IV - III - II - V"
+        ],
+        "answer": 1
+    },
+    {
+        "task": "sentence_ordering",
+        "question": "La economía global\nI. La economía global está interconectada a través del comercio y las finanzas.\nII. Los avances tecnológicos han facilitado la integración de los mercados.\nIII. Sin embargo, las crisis económicas en un país pueden afectar a otros.\nIV. La globalización ha generado tanto oportunidades como desafíos.\nV. La cooperación internacional es clave para enfrentar los problemas económicos.",
+        "options": [
+            "I - II - III - IV - V",
+            "I - III - II - IV - V",
+            "II - III - I - IV - V",
+            "V - IV - III - II - I",
+            "I - IV - II - III - V"
+        ],
+        "answer": 0
+    },
+    {
+        "task": "sentence_ordering",
+        "question": "La medicina tradicional\nI. La medicina tradicional se basa en conocimientos ancestrales y prácticas culturales.\nII. Incluye el uso de hierbas, rituales y terapias alternativas.\nIII. En muchas culturas, la medicina tradicional coexiste con la medicina moderna.\nIV. Su efectividad ha sido reconocida por la Organización Mundial de la Salud.\nV. Sin embargo, su uso debe ser regulado para evitar riesgos.",
+        "options": [
+            "I - II - III - IV - V",
+            "I - III - II - IV - V",
+            "II - III - I - IV - V",
+            "V - IV - III - II - I",
+            "I - IV - II - III - V"
+        ],
+        "answer": 0
+    },
+    {
+        "task": "sentence_ordering",
+        "question": "La psicología\nI. La psicología es la ciencia que estudia la mente y el comportamiento humano.\nII. Surgió como disciplina independiente a finales del siglo XIX.\nIII. Sigmund Freud y Carl Jung son dos de sus figuras más influyentes.\nIV. La psicología abarca áreas como la clínica, la educativa y la organizacional.\nV. Su objetivo es mejorar el bienestar y la calidad de vida de las personas.",
+        "options": [
+            "I - II - III - IV - V",
+            "II - I - III - IV - V",
+            "I - III - II - IV - V",
+            "V - IV - III - II - I",
+            "I - IV - III - II - V"
+        ],
+        "answer": 0
+    },
+    {
+        "task": "sentence_ordering",
+        "question": "La arquitectura moderna\nI. La arquitectura moderna surgió a principios del siglo XX.\nII. Se caracteriza por el uso de materiales como el acero, el vidrio y el hormigón.\nIII. Arquitectos como Le Corbusier y Frank Lloyd Wright fueron pioneros en este estilo.\nIV. La arquitectura moderna busca combinar funcionalidad y estética.\nV. Este movimiento influyó en el diseño de ciudades y edificios en todo el mundo.",
+        "options": [
+            "I - II - III - IV - V",
+            "I - III - II - IV - V",
+            "II - III - I - IV - V",
+            "V - IV - III - II - I",
+            "I - IV - III - II - V"
+        ],
+        "answer": 0
+    },
+    {
+        "task": "sentence_ordering",
+        "question": "La ética en la inteligencia artificial\nI. La inteligencia artificial plantea importantes dilemas éticos.\nII. Uno de los principales desafíos es garantizar que la IA sea justa y no discriminatoria.\nIII. También es crucial proteger la privacidad de los datos utilizados por los algoritmos.\nIV. La transparencia en los procesos de toma de decisiones de la IA es otro tema clave.\nV. La regulación y la colaboración internacional son necesarias para abordar estos desafíos.",
+        "options": [
+            "I - II - III - IV - V",
+            "I - III - II - IV - V",
+            "II - III - I - IV - V",
+            "V - IV - III - II - I",
+            "I - IV - II - III - V"
+        ],
+        "answer": 0
+    },
+    {
+        "task": "sentence_ordering",
+        "question": "La literatura fantástica\nI. La literatura fantástica se caracteriza por la presencia de elementos sobrenaturales.\nII. Autores como J.R.R. Tolkien y C.S. Lewis son referentes de este género.\nIII. Este tipo de literatura permite explorar mundos imaginarios y reflexionar sobre la realidad.\nIV. La fantasía ha influido en otros medios como el cine y los videojuegos.\nV. Aunque a veces es considerada un género menor, tiene un gran impacto cultural.",
+        "options": [
+            "I - II - III - IV - V",
+            "II - I - III - IV - V",
+            "I - III - II - IV - V",
+            "V - IV - III - II - I",
+            "I - IV - III - II - V"
+        ],
+        "answer": 0
+    },
+    {
+        "task": "sentence_ordering",
+        "question": "La energía nuclear\nI. La energía nuclear se obtiene a través de la fisión o fusión de átomos.\nII. Es una fuente de energía potente, pero también controvertida.\nIII. Los accidentes nucleares, como el de Chernóbil, han generado desconfianza.\nIV. Sin embargo, la energía nuclear no emite gases de efecto invernadero.\nV. Su uso debe ser regulado para garantizar la seguridad y minimizar los riesgos.",
+        "options": [
+            "I - II - III - IV - V",
+            "I - III - II - IV - V",
+            "II - III - I - IV - V",
+            "V - IV - III - II - I",
+            "I - IV - III - II - V"
+        ],
+        "answer": 0
+    },
+    {
+        "task": "sentence_ordering",
+        "question": "El teatro griego\nI. El teatro griego surgió en la antigua Grecia como parte de festivales religiosos.\nII. Las obras de Esquilo, Sófocles y Eurípides son algunas de las más famosas.\nIII. El teatro griego abordaba temas como el destino, la moral y la política.\nIV. Las tragedias y comedias griegas siguen siendo representadas en la actualidad.\nV. Este arte influyó en el desarrollo del teatro occidental.",
+        "options": [
+            "I - II - III - IV - V",
+            "II - I - III - IV - V",
+            "I - III - II - IV - V",
+            "V - IV - III - II - I",
+            "I - IV - III - II - V"
+        ],
+        "answer": 0
+    },
+    {
+        "task": "sentence_ordering",
+        "question": "La robótica\nI. La robótica es la ciencia que estudia el diseño y la construcción de robots.\nII. Los robots se utilizan en industrias como la manufactura y la medicina.\nIII. La inteligencia artificial ha permitido el desarrollo de robots autónomos.\nIV. Aunque la robótica ofrece muchas ventajas, también plantea desafíos éticos.\nV. En el futuro, los robots podrían desempeñar un papel aún más importante en la sociedad.",
+        "options": [
+            "I - II - III - IV - V",
+            "I - III - II - IV - V",
+            "II - III - I - IV - V",
+            "V - IV - III - II - I",
+            "I - IV - II - III - V"
+        ],
+        "answer": 0
+    },
+    {
+        "task": "sentence_ordering",
+        "question": "La Revolución Mexicana\nI. La Revolución Mexicana fue un conflicto armado que comenzó en 1910.\nII. Este movimiento buscaba derrocar al dictador Porfirio Díaz.\nIII. Líderes como Emiliano Zapata y Pancho Villa jugaron un papel clave en la revolución.\nIV. La revolución llevó a la creación de la Constitución de 1917.\nV. Este evento transformó la estructura política y social de México.",
+        "options": [
+            "I - II - III - IV - V",
+            "II - I - III - IV - V",
+            "I - III - II - IV - V",
+            "V - IV - III - II - I",
+            "I - IV - III - II - V"
+        ],
+        "answer": 0
+    },
+    {
+        "task": "sentence_ordering",
+        "question": "El surrealismo\nI. El surrealismo fue un movimiento artístico y literario del siglo XX.\nII. Surgió como una reacción contra el racionalismo y la lógica.\nIII. Artistas como Salvador Dalí y René Magritte fueron figuras clave.\nIV. El surrealismo buscaba explorar el subconsciente y los sueños.\nV. Este movimiento influyó en el arte, la literatura y el cine.",
+        "options": [
+            "I - II - III - IV - V",
+            "II - I - III - IV - V",
+            "I - III - II - IV - V",
+            "V - IV - III - II - I",
+            "I - IV - III - II - V"
+        ],
+        "answer": 0
+    },
+    {
+        "task": "sentence_ordering",
+        "question": "La nanotecnología\nI. La nanotecnología es la ciencia que estudia materiales a escala nanométrica.\nII. Su aplicación abarca campos como la medicina, la electrónica y la energía.\nIII. Los nanomateriales tienen propiedades únicas debido a su tamaño.\nIV. Sin embargo, también plantean riesgos para la salud y el medio ambiente.\nV. La investigación en nanotecnología sigue avanzando rápidamente.",
+        "options": [
+            "I - II - III - IV - V",
+            "I - III - II - IV - V",
+            "II - III - I - IV - V",
+            "V - IV - III - II - I",
+            "I - IV - II - III - V"
+        ],
+        "answer": 0
+    },
+    {
+        "task": "sentence_ordering",
+        "question": "La poesía contemporánea\nI. La poesía contemporánea se caracteriza por su diversidad temática y formal.\nII. Poetas como Pablo Neruda y Octavio Paz han dejado un legado importante.\nIII. Este género literario permite explorar emociones y reflexiones profundas.\nIV. La poesía contemporánea puede ser experimental y romper con las formas tradicionales.\nV. Aunque no siempre es comercial, tiene un impacto cultural significativo.",
+        "options": [
+            "I - II - III - IV - V",
+            "II - I - III - IV - V",
+            "I - III - II - IV - V",
+            "V - IV - III - II - I",
+            "I - IV - III - II - V"
+        ],
+        "answer": 0
+    },
+    {
+        "task": "sentence_ordering",
+        "question": "La democracia participativa\nI. La democracia participativa busca involucrar a los ciudadanos en la toma de decisiones.\nII. A diferencia de la democracia representativa, promueve la participación directa.\nIII. Este modelo puede fortalecer la legitimidad de las instituciones públicas.\nIV. Sin embargo, también enfrenta desafíos como la apatía ciudadana.\nV. La educación y la transparencia son clave para su éxito.",
+        "options": [
+            "I - II - III - IV - V",
+            "I - III - II - IV - V",
+            "II - III - I - IV - V",
+            "V - IV - III - II - I",
+            "I - IV - II - III - V"
+        ],
+        "answer": 0
+    },
+    {
+        "task": "sentence_ordering",
+        "question": "La ética ambiental\nI. La ética ambiental reflexiona sobre la relación entre los seres humanos y la naturaleza.\nII. Promueve la idea de que la naturaleza tiene un valor intrínseco.\nIII. Filósofos como Aldo Leopold y Arne Naess han contribuido a este campo.\nIV. La ética ambiental cuestiona el antropocentrismo tradicional.\nV. Su objetivo es fomentar prácticas sostenibles y responsables.",
+        "options": [
+            "I - II - III - IV - V",
+            "II - I - III - IV - V",
+            "I - III - II - IV - V",
+            "V - IV - III - II - I",
+            "I - IV - III - II - V"
+        ],
+        "answer": 0
+    },
+    {
+        "task": "sentence_ordering",
+        "question": "El modernismo literario\nI. El modernismo literario fue un movimiento que surgió a finales del siglo XIX.\nII. Se caracterizó por su búsqueda de la belleza y el rechazo a las normas tradicionales.\nIII. Poetas como Rubén Darío y José Martí fueron figuras clave.\nIV. El modernismo influyó en la literatura en español y portugués.\nV. Este movimiento marcó el inicio de la literatura contemporánea en América Latina.",
+        "options": [
+            "I - II - III - IV - V",
+            "II - I - III - IV - V",
+            "I - III - II - IV - V",
+            "V - IV - III - II - I",
+            "I - IV - III - II - V"
+        ],
+        "answer": 0
+    },
+    {
+        "task": "sentence_ordering",
+        "question": "La economía circular\nI. La economía circular busca reducir el desperdicio y maximizar el uso de recursos.\nII. A diferencia de la economía lineal, promueve el reciclaje y la reutilización.\nIII. Este modelo puede contribuir a la sostenibilidad ambiental.\nIV. Las empresas y los gobiernos están adoptando prácticas de economía circular.\nV. Sin embargo, su implementación requiere cambios estructurales y culturales.",
+        "options": [
+            "I - II - III - IV - V",
+            "I - III - II - IV - V",
+            "II - III - I - IV - V",
+            "V - IV - III - II - I",
+            "I - IV - II - III - V"
+        ],
+        "answer": 0
+    },
+    {
+        "task": "sentence_ordering",
+        "question": "La sociología\nI. La sociología es la ciencia que estudia la sociedad y las relaciones humanas.\nII. Surgió en el siglo XIX como una disciplina independiente.\nIII. Sociólogos como Émile Durkheim y Max Weber sentaron sus bases.\nIV. La sociología abarca temas como la desigualdad, la cultura y las instituciones.\nV. Su objetivo es comprender y mejorar la vida en sociedad.",
+        "options": [
+            "I - II - III - IV - V",
+            "II - I - III - IV - V",
+            "I - III - II - IV - V",
+            "V - IV - III - II - I",
+            "I - IV - III - II - V"
+        ],
+        "answer": 0
+    },
+    {
+        "task": "sentence_ordering",
+        "question": "La moda sostenible\nI. La moda sostenible busca reducir el impacto ambiental de la industria textil.\nII. Promueve el uso de materiales ecológicos y prácticas éticas.\nIII. La moda rápida ha sido criticada por su contribución a la contaminación.\nIV. Diseñadores y marcas están adoptando modelos de moda sostenible.\nV. Sin embargo, este cambio requiere la participación de los consumidores.",
+        "options": [
+            "I - II - III - IV - V",
+            "I - III - II - IV - V",
+            "II - III - I - IV - V",
+            "V - IV - III - II - I",
+            "I - IV - II - III - V"
+        ],
+        "answer": 0
+    },
+    {
+        "task": "sentence_ordering",
+        "question": "La lingüística\nI. La lingüística es la ciencia que estudia el lenguaje humano.\nII. Se divide en áreas como la fonética, la sintaxis y la semántica.\nIII. Ferdinand de Saussure es considerado el padre de la lingüística moderna.\nIV. La lingüística aplicada se enfoca en resolver problemas prácticos relacionados con el lenguaje.\nV. Su estudio es fundamental para entender la comunicación humana.",
+        "options": [
+            "I - II - III - IV - V",
+            "II - I - III - IV - V",
+            "I - III - II - IV - V",
+            "V - IV - III - II - I",
+            "I - IV - III - II - V"
+        ],
+        "answer": 0
+    },
+    {
+        "task": "sentence_ordering",
+        "question": "La historia del dinero\nI. El dinero ha evolucionado desde el trueque hasta las criptomonedas.\nII. Las primeras monedas fueron acuñadas en el siglo VII a.C.\nIII. El papel moneda surgió en China durante la dinastía Tang.\nIV. En la actualidad, el dinero digital está ganando popularidad.\nV. La historia del dinero refleja los cambios en la economía y la tecnología.",
+        "options": [
+            "I - II - III - IV - V",
+            "II - I - III - IV - V",
+            "I - III - II - IV - V",
+            "V - IV - III - II - I",
+            "I - IV - III - II - V"
+        ],
+        "answer": 0
+    },
+    {
+        "task": "sentence_ordering",
+        "question": "La antropología\nI. La antropología es la ciencia que estudia al ser humano en todas sus dimensiones.\nII. Se divide en áreas como la antropología cultural, física y arqueológica.\nIII. Franz Boas y Claude Lévi-Strauss son figuras clave en esta disciplina.\nIV. La antropología busca entender la diversidad cultural y biológica.\nV. Su estudio es esencial para abordar problemas globales como la desigualdad.",
+        "options": [
+            "I - II - III - IV - V",
+            "II - I - III - IV - V",
+            "I - III - II - IV - V",
+            "V - IV - III - II - I",
+            "I - IV - III - II - V"
+        ],
+        "answer": 0
+    },
+    {
+        "task": "sentence_ordering",
+        "question": "La teoría del caos\nI. La teoría del caos estudia sistemas complejos y sensibles a las condiciones iniciales.\nII. Fue desarrollada por matemáticos y científicos en el siglo XX.\nIII. Un pequeño cambio en las condiciones iniciales puede generar resultados muy diferentes.\nIV. Esta teoría tiene aplicaciones en campos como la meteorología y la economía.\nV. La teoría del caos desafía la idea de que el universo es predecible.",
+        "options": [
+            "I - II - III - IV - V",
+            "I - III - II - IV - V",
+            "II - III - I - IV - V",
+            "V - IV - III - II - I",
+            "I - IV - III - II - V"
+        ],
+        "answer": 0
+    },
+    {
+        "task": "sentence_ordering",
+        "question": "El existencialismo\nI. El existencialismo es una corriente filosófica que enfatiza la libertad individual.\nII. Filósofos como Jean-Paul Sartre y Simone de Beauvoir fueron sus principales exponentes.\nIII. Esta corriente surgió en el siglo XIX y se desarrolló plenamente en el XX.\nIV. El existencialismo aborda temas como la angustia, la autenticidad y la responsabilidad.\nV. Su influencia se extiende a la literatura, el arte y la psicología.",
+        "options": [
+            "I - II - III - IV - V",
+            "III - I - II - IV - V",
+            "I - III - II - IV - V",
+            "V - IV - III - II - I",
+            "I - IV - III - II - V"
+        ],
+        "answer": 1
+    },
+    {
+        "task": "sentence_ordering",
+        "question": "La energía hidroeléctrica\nI. La energía hidroeléctrica se obtiene del aprovechamiento del agua en movimiento.\nII. Es una de las fuentes de energía renovable más utilizadas en el mundo.\nIII. Las represas hidroeléctricas pueden generar grandes cantidades de electricidad.\nIV. Sin embargo, también tienen impactos ambientales y sociales.\nV. La energía hidroeléctrica es clave para la transición hacia fuentes limpias.",
+        "options": [
+            "I - II - III - IV - V",
+            "I - III - II - IV - V",
+            "II - III - I - IV - V",
+            "V - IV - III - II - I",
+            "I - IV - II - III - V"
+        ],
+        "answer": 0
+    },
+    {
+        "task": "sentence_ordering",
+        "question": "El posmodernismo\nI. El posmodernismo es un movimiento cultural que surgió en el siglo XX.\nII. Cuestiona las narrativas universales y los metarrelatos.\nIII. Artistas y pensadores como Jean-François Lyotard y Andy Warhol son referentes.\nIV. El posmodernismo se caracteriza por la ironía, la fragmentación y la intertextualidad.\nV. Este movimiento ha influido en el arte, la literatura y la arquitectura.",
+        "options": [
+            "I - II - III - IV - V",
+            "II - I - III - IV - V",
+            "I - III - II - IV - V",
+            "V - IV - III - II - I",
+            "I - IV - III - II - V"
+        ],
+        "answer": 0
+    },
+    {
+        "task": "sentence_ordering",
+        "question": "La agricultura ecológica\nI. La agricultura ecológica busca producir alimentos de manera sostenible.\nII. Evita el uso de pesticidas y fertilizantes químicos.\nIII. Este modelo promueve la biodiversidad y la salud del suelo.\nIV. Aunque es más costosa, tiene beneficios ambientales y para la salud.\nV. La demanda de productos ecológicos ha aumentado en los últimos años.",
+        "options": [
+            "I - II - III - IV - V",
+            "I - III - II - IV - V",
+            "II - III - I - IV - V",
+            "V - IV - III - II - I",
+            "I - IV - II - III - V"
+        ],
+        "answer": 0
+    },
+    {
+        "task": "sentence_ordering",
+        "question": "La teoría de la relatividad\nI. La teoría de la relatividad fue desarrollada por Albert Einstein.\nII. Se divide en relatividad especial y relatividad general.\nIII. La relatividad especial aborda el espacio y el tiempo a velocidades cercanas a la luz.\nIV. La relatividad general explica la gravedad como una curvatura del espacio-tiempo.\nV. Esta teoría revolucionó la física y nuestra comprensión del universo.",
+        "options": [
+            "I - II - III - IV - V",
+            "II - I - III - IV - V",
+            "I - III - II - IV - V",
+            "V - IV - III - II - I",
+            "I - IV - III - II - V"
+        ],
+        "answer": 0
+    },
+    {
+        "task": "sentence_ordering",
+        "question": "La publicidad\nI. La publicidad es una herramienta clave en el marketing y los negocios.\nII. Su objetivo es persuadir al consumidor para que compre un producto o servicio.\nIII. La publicidad puede ser informativa, emocional o persuasiva.\nIV. Con el auge de internet, la publicidad digital ha ganado importancia.\nV. Sin embargo, también ha sido criticada por manipular a los consumidores.",
+        "options": [
+            "I - II - III - IV - V",
+            "I - III - II - IV - V",
+            "II - III - I - IV - V",
+            "V - IV - III - II - I",
+            "I - IV - II - III - V"
+        ],
+        "answer": 0
+    },
+    {
+        "task": "sentence_ordering",
+        "question": "La psicología cognitiva\nI. La psicología cognitiva estudia los procesos mentales como la memoria y el pensamiento.\nII. Surgió en los años 50 como una alternativa al conductismo.\nIII. Jean Piaget y Noam Chomsky son figuras importantes en este campo.\nIV. Esta disciplina ha influido en áreas como la educación y la inteligencia artificial.\nV. Su objetivo es entender cómo las personas perciben, piensan y aprenden.",
+        "options": [
+            "I - II - III - IV - V",
+            "II - I - III - IV - V",
+            "I - III - II - IV - V",
+            "V - IV - III - II - I",
+            "I - IV - III - II - V"
+        ],
+        "answer": 0
+    },
+    {
+        "task": "sentence_ordering",
+        "question": "El cubismo\nI. El cubismo fue un movimiento artístico que surgió a principios del siglo XX.\nII. Pablo Picasso y Georges Braque fueron sus principales exponentes.\nIII. Este estilo se caracteriza por la representación de objetos desde múltiples perspectivas.\nIV. El cubismo rompió con las técnicas tradicionales de la pintura.\nV. Su influencia se extendió a la escultura, la arquitectura y el diseño.",
+        "options": [
+            "I - II - III - IV - V",
+            "II - I - III - IV - V",
+            "I - III - II - IV - V",
+            "V - IV - III - II - I",
+            "I - IV - III - II - V"
+        ],
+        "answer": 0
+    },
+    {
+        "task": "sentence_ordering",
+        "question": "La genética mendeliana\nI. La genética mendeliana se basa en los descubrimientos de Gregor Mendel.\nII. Mendel estudió la herencia de rasgos en plantas de guisantes.\nIII. Sus experimentos demostraron que los rasgos se heredan de manera predecible.\nIV. Las leyes de Mendel sentaron las bases de la genética moderna.\nV. Hoy, sus principios se aplican en la agricultura y la medicina.",
+        "options": [
+            "I - II - III - IV - V",
+            "II - I - III - IV - V",
+            "I - III - II - IV - V",
+            "V - IV - III - II - I",
+            "I - IV - III - II - V"
+        ],
+        "answer": 0
+    },
+    {
+        "task": "sentence_ordering",
+        "question": "El jazz\nI. El jazz es un género musical que surgió en Estados Unidos a principios del siglo XX.\nII. Tiene sus raíces en la música africana, el blues y el ragtime.\nIII. Figuras como Louis Armstrong y Miles Davis son referentes del jazz.\nIV. Este género se caracteriza por la improvisación y el ritmo sincopado.\nV. El jazz ha influido en otros géneros musicales como el rock y el hip-hop.",
+        "options": [
+            "I - II - III - IV - V",
+            "II - I - III - IV - V",
+            "I - III - II - IV - V",
+            "V - IV - III - II - I",
+            "I - IV - III - II - V"
+        ],
+        "answer": 0
+    },
+    {
+        "task": "sentence_ordering",
+        "question": "La teoría del big bang\nI. La teoría del big bang explica el origen del universo.\nII. Según esta teoría, el universo comenzó como un punto infinitamente denso.\nIII. Hace aproximadamente 13.800 millones de años, este punto explotó y comenzó a expandirse.\nIV. Las observaciones astronómicas respaldan esta teoría.\nV. Sin embargo, aún quedan preguntas sin responder sobre el origen del universo.",
+        "options": [
+            "I - II - III - IV - V",
+            "II - I - III - IV - V",
+            "I - III - II - IV - V",
+            "V - IV - III - II - I",
+            "I - IV - III - II - V"
+        ],
+        "answer": 0
+    },
+    {
+        "task": "sentence_ordering",
+        "question": "El minimalismo\nI. El minimalismo es un movimiento artístico que surgió en los años 60.\nII. Se caracteriza por la simplicidad y el uso de formas geométricas.\nIII. Artistas como Donald Judd y Agnes Martin fueron pioneros en este estilo.\nIV. El minimalismo busca reducir las obras a sus elementos esenciales.\nV. Este movimiento ha influido en el arte, el diseño y la arquitectura.",
+        "options": [
+            "I - II - III - IV - V",
+            "II - I - III - IV - V",
+            "I - III - II - IV - V",
+            "V - IV - III - II - I",
+            "I - IV - III - II - V"
+        ],
+        "answer": 0
+    },
+    {
+        "task": "sentence_ordering",
+        "question": "La ecología\nI. La ecología es la ciencia que estudia las relaciones entre los seres vivos y su entorno.\nII. Surgió como disciplina independiente en el siglo XIX.\nIII. Ernst Haeckel acuñó el término ",
+        "options": [
+            "I - II - III - IV - V",
+            "II - I - III - IV - V",
+            "I - III - II - IV - V",
+            "V - IV - III - II - I",
+            "I - IV - III - II - V"
+        ],
+        "answer": 0
+    },
+    {
+        "task": "sentence_ordering",
+        "question": "La ecología (continuación)\nIII. Ernst Haeckel acuñó el término \"ecología\" en 1866.\nIV. La ecología estudia temas como los ecosistemas, la biodiversidad y el cambio climático.\nV. Su objetivo es entender y proteger el equilibrio natural del planeta.",
+        "options": [
+            "I - II - III - IV - V",
+            "II - I - III - IV - V",
+            "III - II - I - IV - V",
+            "I - III - II - IV - V",
+            "V - IV - III - II - I"
+        ],
+        "answer": 0
+    },
+    {
+        "task": "sentence_ordering",
+        "question": "La ética profesional\nI. La ética profesional se refiere a los principios morales que guían a los profesionales.\nII. Estos principios incluyen la honestidad, la responsabilidad y el respeto.\nIII. La ética profesional es clave para mantener la confianza en una profesión.\nIV. En campos como la medicina y el derecho, la ética es especialmente importante.\nV. Las violaciones a la ética profesional pueden tener consecuencias legales y sociales.",
+        "options": [
+            "I - II - III - IV - V",
+            "I - III - II - IV - V",
+            "II - III - I - IV - V",
+            "V - IV - III - II - I",
+            "I - IV - II - III - V"
+        ],
+        "answer": 0
+    },
+    {
+        "task": "sentence_ordering",
+        "question": "La teoría de juegos\nI. La teoría de juegos es una rama de las matemáticas que estudia decisiones estratégicas.\nII. Fue desarrollada por John von Neumann y Oskar Morgenstern en los años 40.\nIII. Se aplica en campos como la economía, la política y la biología.\nIV. La teoría de juegos analiza cómo los individuos toman decisiones en situaciones de interdependencia.\nV. Su objetivo es predecir los resultados de interacciones estratégicas.",
+        "options": [
+            "I - II - III - IV - V",
+            "II - I - III - IV - V",
+            "I - III - II - IV - V",
+            "V - IV - III - II - I",
+            "I - IV - III - II - V"
+        ],
+        "answer": 0
+    },
+    {
+        "task": "sentence_ordering",
+        "question": "La fotografía\nI. La fotografía es el arte de capturar imágenes mediante la luz.\nII. Fue inventada en el siglo XIX por Louis Daguerre y William Henry Fox Talbot.\nIII. La fotografía ha evolucionado desde las placas de daguerrotipo hasta las cámaras digitales.\nIV. Este medio ha sido utilizado tanto para el arte como para la documentación.\nV. La fotografía digital ha democratizado el acceso a este arte.",
+        "options": [
+            "I - II - III - IV - V",
+            "II - I - III - IV - V",
+            "I - III - II - IV - V",
+            "V - IV - III - II - I",
+            "I - IV - III - II - V"
+        ],
+        "answer": 0
+    },
+    {
+        "task": "sentence_ordering",
+        "question": "El capitalismo\nI. El capitalismo es un sistema económico basado en la propiedad privada.\nII. Surgió en Europa durante la Revolución Industrial.\nIII. Adam Smith es considerado el padre de la teoría capitalista.\nIV. Este sistema se caracteriza por la competencia y el libre mercado.\nV. Aunque ha generado riqueza, también ha sido criticado por la desigualdad que produce.",
+        "options": [
+            "I - II - III - IV - V",
+            "II - I - III - IV - V",
+            "I - III - II - IV - V",
+            "V - IV - III - II - I",
+            "I - IV - III - II - V"
+        ],
+        "answer": 0
+    },
+    {
+        "task": "sentence_ordering",
+        "question": "La física cuántica\nI. La física cuántica es la rama de la física que estudia lo muy pequeño.\nII. Surgió a principios del siglo XX con contribuciones de científicos como Max Planck.\nIII. Esta teoría explica fenómenos que la física clásica no puede.\nIV. La física cuántica ha llevado al desarrollo de tecnologías como los láseres y los ordenadores cuánticos.\nV. Sin embargo, sus principios desafían el sentido común.",
+        "options": [
+            "I - II - III - IV - V",
+            "II - I - III - IV - V",
+            "I - III - II - IV - V",
+            "V - IV - III - II - I",
+            "I - IV - III - II - V"
+        ],
+        "answer": 0
+    },
+    {
+        "task": "sentence_ordering",
+        "question": "La literatura infantil\nI. La literatura infantil está dirigida a niños y jóvenes.\nII. Su objetivo es fomentar el amor por la lectura desde una edad temprana.\nIII. Autores como Hans Christian Andersen y Roald Dahl son referentes.\nIV. Este género incluye cuentos, fábulas y novelas.\nV. La literatura infantil puede abordar temas complejos de manera accesible.",
+        "options": [
+            "I - II - III - IV - V",
+            "II - I - III - IV - V",
+            "I - III - II - IV - V",
+            "V - IV - III - II - I",
+            "I - IV - III - II - V"
+        ],
+        "answer": 0
+    },
+    {
+        "task": "sentence_ordering",
+        "question": "La neurociencia\nI. La neurociencia estudia el sistema nervioso y el cerebro.\nII. Es una disciplina interdisciplinaria que combina biología, psicología y medicina.\nIII. Los avances en neurociencia han permitido entender mejor enfermedades como el Alzheimer.\nIV. La neurociencia cognitiva se enfoca en procesos como la memoria y el aprendizaje.\nV. Su investigación tiene aplicaciones en la educación y la tecnología.",
+        "options": [
+            "I - II - III - IV - V",
+            "II - I - III - IV - V",
+            "I - III - II - IV - V",
+            "V - IV - III - II - I",
+            "I - IV - III - II - V"
+        ],
+        "answer": 0
+    },
+    {
+        "task": "sentence_ordering",
+        "question": "El deporte\nI. El deporte es una actividad física que puede ser recreativa o competitiva.\nII. Tiene beneficios para la salud física y mental.\nIII. El deporte también fomenta valores como el trabajo en equipo y la disciplina.\nIV. Los Juegos Olímpicos son el evento deportivo más importante a nivel mundial.\nV. Sin embargo, el deporte profesional también ha sido criticado por su comercialización.",
+        "options": [
+            "I - II - III - IV - V",
+            "I - III - II - IV - V",
+            "II - III - I - IV - V",
+            "V - IV - III - II - I",
+            "I - IV - II - III - V"
+        ],
+        "answer": 0
+    },
+    {
+        "task": "sentence_ordering",
+        "question": "La teoría de la justicia\nI. La teoría de la justicia de John Rawls busca establecer principios para una sociedad justa.\nII. Según Rawls, una sociedad justa debe garantizar libertades básicas y oportunidades equitativas.\nIII. Propone el «velo de ignorancia» como método para determinar principios justos.\nIV. Esta teoría ha influido en la filosofía política y el derecho.\nV. Sin embargo, también ha sido criticada por su enfoque abstracto.",
+        "options": [
+            "I - II - III - IV - V",
+            "II - I - III - IV - V",
+            "I - III - II - IV - V",
+            "V - IV - III - II - I",
+            "I - IV - III - II - V"
+        ],
+        "answer": 0
+    },
+    {
+        "task": "sentence_ordering",
+        "question": "La arqueología\nI. La arqueología es la ciencia que estudia las culturas humanas a través de restos materiales.\nII. Surgió en el siglo XIX como una disciplina científica.\nIII. Los arqueólogos excavan y analizan objetos para reconstruir el pasado.\nIV. La arqueología ha permitido descubrir civilizaciones antiguas como la egipcia y la maya.\nV. Esta disciplina es clave para entender la historia de la humanidad.",
+        "options": [
+            "I - II - III - IV - V",
+            "II - I - III - IV - V",
+            "I - III - II - IV - V",
+            "V - IV - III - II - I",
+            "I - IV - III - II - V"
+        ],
+        "answer": 0
+    },
+    {
+        "task": "sentence_ordering",
+        "question": "La inteligencia artificial y el arte\nI. La inteligencia artificial está transformando el mundo del arte.\nII. Los algoritmos pueden crear obras de arte, música y literatura.\nIII. Esto plantea preguntas sobre la creatividad y la autoría.\nIV. Algunos artistas usan IA como herramienta para explorar nuevas formas de expresión.\nV. Sin embargo, también hay preocupaciones sobre la originalidad y el valor del arte generado por IA.",
+        "options": [
+            "I - II - III - IV - V",
+            "I - III - II - IV - V",
+            "II - III - I - IV - V",
+            "V - IV - III - II - I",
+            "I - IV - II - III - V"
+        ],
+        "answer": 0
+    },
+    {
+        "task": "sentence_ordering",
+        "question": "La educación inclusiva\nI. La educación inclusiva busca garantizar el acceso a la educación para todos.\nII. Promueve la participación de estudiantes con discapacidades y necesidades especiales.\nIII. Este modelo educativo fomenta la diversidad y la equidad.\nIV. La educación inclusiva requiere adaptaciones en los métodos y materiales de enseñanza.\nV. Su implementación enfrenta desafíos como la falta de recursos y capacitación.",
+        "options": [
+            "I - II - III - IV - V",
+            "I - III - II - IV - V",
+            "II - III - I - IV - V",
+            "V - IV - III - II - I",
+            "I - IV - II - III - V"
+        ],
+        "answer": 0
+    },
+    {
+        "task": "sentence_ordering",
+        "question": "La geopolítica\nI. La geopolítica estudia la relación entre la geografía y la política internacional.\nII. Analiza cómo la ubicación y los recursos influyen en las relaciones entre países.\nIII. Esta disciplina surgió a finales del siglo XIX y principios del XX.\nIV. La geopolítica es clave para entender conflictos y alianzas globales.\nV. Su estudio ayuda a predecir tendencias en la política mundial.",
+        "options": [
+            "I - II - III - IV - V",
+            "II - I - III - IV - V",
+            "I - III - II - IV - V",
+            "V - IV - III - II - I",
+            "I - IV - III - II - V"
+        ],
+        "answer": 0
+    },
+    {
+        "task": "sentence_ordering",
+        "question": "El teatro del absurdo\nI. El teatro del absurdo surgió en Europa después de la Segunda Guerra Mundial.\nII. Este movimiento cuestiona la lógica y la racionalidad.\nIII. Dramaturgos como Samuel Beckett y Eugène Ionesco son sus principales exponentes.\nIV. Las obras del teatro del absurdo suelen carecer de una narrativa convencional.\nV. Su objetivo es reflejar la falta de sentido de la existencia humana.",
+        "options": [
+            "I - II - III - IV - V",
+            "II - I - III - IV - V",
+            "I - III - II - IV - V",
+            "V - IV - III - II - I",
+            "I - IV - III - II - V"
+        ],
+        "answer": 0
+    },
+    {
+        "task": "sentence_ordering",
+        "question": "La economía colaborativa\nI. La economía colaborativa se basa en el intercambio de bienes y servicios entre particulares.\nII. Plataformas como Uber y Airbnb son ejemplos de este modelo.\nIII. Este sistema promueve el uso eficiente de recursos y la reducción de costos.\nIV. Sin embargo, también ha generado controversias sobre la regulación y los derechos laborales.\nV. La economía colaborativa sigue creciendo y transformando industrias tradicionales.",
+        "options": [
+            "I - II - III - IV - V",
+            "I - III - II - IV - V",
+            "II - III - I - IV - V",
+            "V - IV - III - II - I",
+            "I - IV - II - III - V"
+        ],
+        "answer": 0
+    },
+    {
+        "task": "sentence_ordering",
+        "question": "La mitología griega\nI. La mitología griega es un conjunto de relatos sobre dioses y héroes.\nII. Estos mitos explicaban el origen del mundo y los fenómenos naturales.\nIII. Dioses como Zeus, Atenea y Apolo eran figuras centrales.\nIV. Los mitos griegos han influido en la literatura, el arte y la cultura occidental.\nV. Hoy, estos relatos siguen siendo estudiados y reinterpretados.",
+        "options": [
+            "I - II - III - IV - V",
+            "II - I - III - IV - V",
+            "I - III - II - IV - V",
+            "V - IV - III - II - I",
+            "I - IV - III - II - V"
+        ],
+        "answer": 0
+    },
+    {
+        "task": "sentence_ordering",
+        "question": "El feminismo\nI. El feminismo es un movimiento social que busca la igualdad de género.\nII. Surgió en el siglo XIX con la lucha por los derechos de las mujeres.\nIII. Las olas del feminismo han abordado temas como el sufragio, el trabajo y la violencia de género.\nIV. Hoy, el feminismo sigue siendo relevante en la lucha por la equidad.\nV. Sin embargo, también enfrenta críticas y resistencias.",
+        "options": [
+            "I - II - III - IV - V",
+            "II - I - III - IV - V",
+            "I - III - II - IV - V",
+            "V - IV - III - II - I",
+            "I - IV - III - II - V"
+        ],
+        "answer": 0
+    },
+    {
+        "task": "sentence_ordering",
+        "question": "La energía geotérmica\nI. La energía geotérmica aprovecha el calor del interior de la Tierra.\nII. Es una fuente de energía renovable y sostenible.\nIII. Se utiliza para generar electricidad y calefacción.\nIV. Países como Islandia y Nueva Zelanda son líderes en su uso.\nV. Aunque es limpia, su implementación tiene limitaciones geográficas.",
+        "options": [
+            "I - II - III - IV - V",
+            "I - III - II - IV - V",
+            "II - III - I - IV - V",
+            "V - IV - III - II - I",
+            "I - IV - II - III - V"
+        ],
+        "answer": 0
+    },
+    {
+        "task": "sentence_ordering",
+        "question": "La literatura gótica\nI. La literatura gótica surgió en el siglo XVIII como un subgénero del romanticismo.\nII. Se caracteriza por su atmósfera de misterio, terror y elementos sobrenaturales.\nIII. Obras como *Frankenstein* y *Drácula* son ejemplos clásicos.\nIV. Este género ha influido en el cine y la cultura popular.\nV. La literatura gótica explora temas como la muerte, lo macabro y lo desconocido.",
+        "options": [
+            "I - II - III - IV - V",
+            "II - I - III - IV - V",
+            "I - III - II - IV - V",
+            "V - IV - III - II - I",
+            "I - IV - III - II - V"
+        ],
+        "answer": 0
+    },
+    {
+        "task": "sentence_ordering",
+        "question": "La bioética\nI. La bioética es la disciplina que estudia los dilemas éticos en la medicina y la biología.\nII. Surgió en los años 70 como respuesta a los avances científicos.\nIII. Aborda temas como la eutanasia, los trasplantes y la manipulación genética.\nIV. La bioética busca equilibrar el progreso científico con el respeto a la vida.\nV. Su estudio es esencial para guiar decisiones en el ámbito de la salud.",
+        "options": [
+            "I - II - III - IV - V",
+            "II - I - III - IV - V",
+            "I - III - II - IV - V",
+            "V - IV - III - II - I",
+            "I - IV - III - II - V"
+        ],
+        "answer": 0
+    },
+    {
+        "task": "sentence_ordering",
+        "question": "La Revolución Francesa y sus consecuencias\nI. La Revolución Francesa (1789-1799) fue un evento clave en la historia mundial.\nII. Este movimiento derrocó a la monarquía y estableció una república en Francia.\nIII. La Declaración de los Derechos del Hombre y del Ciudadano fue uno de sus logros.\nIV. La revolución inspiró movimientos independentistas en América Latina y Europa.\nV. Sin embargo, también generó violencia y inestabilidad política en Francia.",
+        "options": [
+            "I - II - III - IV - V",
+            "II - I - III - IV - V",
+            "I - III - II - IV - V",
+            "V - IV - III - II - I",
+            "I - IV - III - II - V"
+        ],
+        "answer": 0
+    },
+    {
+        "task": "sentence_ordering",
+        "question": "El impresionismo\nI. El impresionismo fue un movimiento artístico que surgió en Francia en el siglo XIX.\nII. Se caracterizó por el uso de pinceladas sueltas y colores brillantes.\nIII. Artistas como Claude Monet y Edgar Degas fueron figuras clave.\nIV. Este movimiento buscaba capturar la luz y el movimiento en lugar de los detalles.\nV. El impresionismo influyó en otros movimientos artísticos como el postimpresionismo.",
+        "options": [
+            "I - II - III - IV - V",
+            "II - I - III - IV - V",
+            "I - III - II - IV - V",
+            "V - IV - III - II - I",
+            "I - IV - III - II - V"
+        ],
+        "answer": 0
+    },
+    {
+        "task": "sentence_ordering",
+        "question": "La globalización cultural\nI. La globalización cultural se refiere a la difusión de ideas y valores a nivel mundial.\nII. Este fenómeno ha sido impulsado por los medios de comunicación y la tecnología.\nIII. La globalización cultural ha generado tanto homogeneización como diversidad.\nIV. Algunos critican que este proceso amenaza las culturas locales.\nV. Sin embargo, también ha permitido el intercambio y la innovación cultural.",
+        "options": [
+            "I - II - III - IV - V",
+            "I - III - II - IV - V",
+            "II - III - I - IV - V",
+            "V - IV - III - II - I",
+            "I - IV - II - III - V"
+        ],
+        "answer": 0
+    },
+    {
+        "task": "sentence_ordering",
+        "question": "La teoría de la evolución cultural\nI. La teoría de la evolución cultural estudia cómo las sociedades cambian a lo largo del tiempo.\nII. Se basa en la idea de que las culturas evolucionan de formas simples a complejas.\nIII. Esta teoría ha sido influenciada por el darwinismo social.\nIV. Sin embargo, también ha sido criticada por su enfoque etnocéntrico.\nV. Hoy, la antropología cultural busca enfoques más equilibrados.",
+        "options": [
+            "I - II - III - IV - V",
+            "II - I - III - IV - V",
+            "I - III - II - IV - V",
+            "V - IV - III - II - I",
+            "I - IV - III - II - V"
+        ],
+        "answer": 0
+    },
+    {
+        "task": "sentence_ordering",
+        "question": "El realismo mágico\nI. El realismo mágico es un género literario que combina lo fantástico con lo cotidiano.\nII. Surgió en América Latina en el siglo XX.\nIII. Autores como Gabriel García Márquez y Isabel Allende son referentes.\nIV. Este género se caracteriza por la presencia de elementos sobrenaturales en un contexto realista.\nV. El realismo mágico ha tenido un gran impacto en la literatura mundial.",
+        "options": [
+            "I - II - III - IV - V",
+            "II - I - III - IV - V",
+            "I - III - II - IV - V",
+            "V - IV - III - II - I",
+            "I - IV - III - II - V"
+        ],
+        "answer": 0
+    },
+    {
+        "task": "sentence_ordering",
+        "question": "La ética animal\nI. La ética animal reflexiona sobre el trato que los seres humanos dan a los animales.\nII. Promueve el respeto y la consideración hacia los derechos de los animales.\nIII. Filósofos como Peter Singer han argumentado en favor del bienestar animal.\nIV. La ética animal cuestiona prácticas como la experimentación con animales y la industria cárnica.\nV. Su objetivo es fomentar una relación más justa entre humanos y animales.",
+        "options": [
+            "I - II - III - IV - V",
+            "II - I - III - IV - V",
+            "I - III - II - IV - V",
+            "V - IV - III - II - I",
+            "I - IV - III - II - V"
+        ],
+        "answer": 0
+    },
+    {
+        "task": "sentence_ordering",
+        "question": "La energía eólica\nI. La energía eólica se obtiene del viento mediante aerogeneradores.\nII. Es una de las fuentes de energía renovable más prometedoras.\nIII. Países como Dinamarca y Alemania son líderes en su uso.\nIV. La energía eólica no emite gases de efecto invernadero.\nV. Sin embargo, su implementación enfrenta desafíos como la intermitencia del viento.",
+        "options": [
+            "I - II - III - IV - V",
+            "I - III - II - IV - V",
+            "II - III - I - IV - V",
+            "V - IV - III - II - I",
+            "I - IV - II - III - V"
+        ],
+        "answer": 0
+    },
+    {
+        "task": "sentence_ordering",
+        "question": "La filosofía oriental\nI. La filosofía oriental abarca tradiciones como el taoísmo, el confucianismo y el budismo.\nII. Estas filosofías se centran en la armonía, el equilibrio y la espiritualidad.\nIII. El taoísmo, por ejemplo, promueve la conexión con la naturaleza.\nIV. El budismo enseña la importancia del desapego y la compasión.\nV. Estas filosofías han influido en la cultura y el pensamiento occidental.",
+        "options": [
+            "I - II - III - IV - V",
+            "II - I - III - IV - V",
+            "I - III - II - IV - V",
+            "V - IV - III - II - I",
+            "I - IV - III - II - V"
+        ],
+        "answer": 0
+    },
+    {
+        "task": "sentence_ordering",
+        "question": "La Revolución Científica\nI. La Revolución Científica ocurrió entre los siglos XVI y XVII.\nII. Este período marcó el inicio de la ciencia moderna.\nIII. Figuras como Galileo Galilei y Isaac Newton fueron clave.\nIV. La Revolución Científica promovió el método experimental y la observación.\nV. Sus descubrimientos sentaron las bases de la física y la astronomía modernas.",
+        "options": [
+            "I - II - III - IV - V",
+            "II - I - III - IV - V",
+            "I - III - II - IV - V",
+            "V - IV - III - II - I",
+            "I - IV - III - II - V"
+        ],
+        "answer": 0
+    },
+    {
+        "task": "sentence_ordering",
+        "question": "La inteligencia emocional en el trabajo\nI. La inteligencia emocional es clave para el éxito en el ámbito laboral.\nII. Incluye habilidades como la empatía, la comunicación y la gestión del estrés.\nIII. Los líderes con alta inteligencia emocional pueden motivar a sus equipos.\nIV. Esta habilidad es especialmente importante en entornos colaborativos.\nV. Desarrollar la inteligencia emocional puede mejorar la productividad y el bienestar.",
+        "options": [
+            "I - II - III - IV - V",
+            "I - III - II - IV - V",
+            "II - III - I - IV - V",
+            "V - IV - III - II - I",
+            "I - IV - II - III - V"
+        ],
+        "answer": 0
+    },
+    {
+        "task": "sentence_ordering",
+        "question": "El arte renacentista\nI. El arte renacentista surgió en Italia en el siglo XIV.\nII. Se caracterizó por el retorno a los ideales clásicos de la antigua Grecia y Roma.\nIII. Artistas como Leonardo da Vinci y Miguel Ángel fueron figuras clave.\nIV. Este movimiento destacó por su enfoque en la perspectiva y el realismo.\nV. El arte renacentista influyó en el desarrollo del arte occidental.",
+        "options": [
+            "I - II - III - IV - V",
+            "II - I - III - IV - V",
+            "I - III - II - IV - V",
+            "V - IV - III - II - I",
+            "I - IV - III - II - V"
+        ],
+        "answer": 0
+    },
+    {
+        "task": "sentence_ordering",
+        "question": "La teoría del aprendizaje\nI. La teoría del aprendizaje estudia cómo las personas adquieren conocimientos.\nII. Se divide en enfoques como el conductismo, el cognitivismo y el constructivismo.\nIII. El conductismo se centra en el comportamiento observable.\nIV. El cognitivismo analiza los procesos mentales involucrados en el aprendizaje.\nV. El constructivismo enfatiza el papel activo del aprendiz en la construcción del conocimiento.",
+        "options": [
+            "I - II - III - IV - V",
+            "II - I - III - IV - V",
+            "I - III - II - IV - V",
+            "V - IV - III - II - I",
+            "I - IV - III - II - V"
+        ],
+        "answer": 0
+    },
+    {
+        "task": "sentence_ordering",
+        "question": "La Revolución Verde\nI. La Revolución Verde fue un movimiento agrícola que comenzó en los años 60.\nII. Su objetivo era aumentar la producción de alimentos mediante tecnologías modernas.\nIII. Introdujo semillas de alto rendimiento, fertilizantes y pesticidas.\nIV. Aunque aumentó la producción, también generó problemas ambientales.\nV. Hoy, se busca un modelo agrícola más sostenible.",
+        "options": [
+            "I - II - III - IV - V",
+            "I - III - II - IV - V",
+            "II - III - I - IV - V",
+            "V - IV - III - II - I",
+            "I - IV - II - III - V"
+        ],
+        "answer": 0
+    },
+    {
+        "task": "sentence_ordering",
+        "question": "El expresionismo\nI. El expresionismo fue un movimiento artístico que surgió a principios del siglo XX.\nII. Se caracterizó por la distorsión de la realidad para expresar emociones.\nIII. Artistas como Edvard Munch y Egon Schiele fueron figuras clave.\nIV. Este movimiento influyó en el arte, el cine y el teatro.\nV. El expresionismo buscaba reflejar la angustia y la alienación modernas.",
+        "options": [
+            "I - II - III - IV - V",
+            "II - I - III - IV - V",
+            "I - III - II - IV - V",
+            "V - IV - III - II - I",
+            "I - IV - III - II - V"
+        ],
+        "answer": 0
+    },
+    {
+        "task": "sentence_ordering",
+        "question": "La economía del comportamiento\nI. La economía del comportamiento estudia cómo los factores psicológicos influyen en las decisiones económicas.\nII. Fue desarrollada por académicos como Daniel Kahneman y Richard Thaler.\nIII. Esta disciplina cuestiona la idea de que los individuos siempre actúan de manera racional.\nIV. La economía del comportamiento tiene aplicaciones en política pública y marketing.\nV. Su objetivo es entender mejor el comportamiento humano en contextos económicos.",
+        "options": [
+            "I - II - III - IV - V",
+            "II - I - III - IV - V",
+            "I - III - II - IV - V",
+            "V - IV - III - II - I",
+            "I - IV - III - II - V"
+        ],
+        "answer": 0
+    },
+    {
+        "task": "sentence_ordering",
+        "question": "La literatura de ciencia ficción\nI. La literatura de ciencia ficción explora temas como la tecnología y el futuro.\nII. Autores como Isaac Asimov y Arthur C. Clarke son referentes.\nIII. Este género permite reflexionar sobre los avances científicos y sus consecuencias.\nIV. La ciencia ficción ha influido en el cine y la cultura popular.\nV. Aunque a veces es considerada un género menor, tiene un gran impacto cultural.",
+        "options": [
+            "I - II - III - IV - V",
+            "II - I - III - IV - V",
+            "I - III - II - IV - V",
+            "V - IV - III - II - I",
+            "I - IV - III - II - V"
+        ],
+        "answer": 0
+    },
+    {
+        "task": "sentence_ordering",
+        "question": "La sostenibilidad\nI. La sostenibilidad busca equilibrar el desarrollo económico, social y ambiental.\nII. Este concepto surgió como respuesta a la crisis ambiental global.\nIII. La sostenibilidad promueve prácticas como el reciclaje y el uso de energías renovables.\nIV. Los Objetivos de Desarrollo Sostenible de la ONU son un marco para su implementación.\nV. Sin embargo, su aplicación enfrenta desafíos como la falta de recursos y voluntad política.",
+        "options": [
+            "I - II - III - IV - V",
+            "I - III - II - IV - V",
+            "II - III - I - IV - V",
+            "V - IV - III - II - I",
+            "I - IV - II - III - V"
+        ],
+        "answer": 0
+    },
+    {
+        "task": "sentence_ordering",
+        "question": "La historia del libro\nI. El libro ha evolucionado desde las tablillas de arcilla hasta los formatos digitales.\nII. La invención de la imprenta por Gutenberg revolucionó la producción de libros.\nIII. Los libros han sido clave para la difusión del conocimiento y la cultura.\nIV. Hoy, el libro electrónico está transformando la forma en que leemos.\nV. Sin embargo, el libro físico sigue siendo valorado por muchos.",
+        "options": [
+            "I - II - III - IV - V",
+            "II - I - III - IV - V",
+            "I - III - II - IV - V",
+            "V - IV - III - II - I",
+            "I - IV - III - II - V"
+        ],
+        "answer": 0
+    },
+    {
+        "task": "sentence_ordering",
+        "question": "La ética en la tecnología\nI. La ética en la tecnología reflexiona sobre el impacto social de los avances tecnológicos.\nII. Temas como la privacidad, la inteligencia artificial y la manipulación de datos son clave.\nIII. La ética tecnológica busca garantizar que la tecnología beneficie a la sociedad.\nIV. Empresas y gobiernos deben considerar estos principios en sus decisiones.\nV. La falta de ética en la tecnología puede tener consecuencias negativas.",
+        "options": [
+            "I - II - III - IV - V",
+            "I - III - II - IV - V",
+            "II - III - I - IV - V",
+            "V - IV - III - II - I",
+            "I - IV - II - III - V"
+        ],
+        "answer": 0
+    },
+    {
+        "task": "sentence_ordering",
+        "question": "La Revolución Digital\nI. La Revolución Digital ha transformado la forma en que vivimos y trabajamos.\nII. Este cambio ha sido impulsado por avances en tecnología y comunicación.\nIII. Internet y los dispositivos móviles son pilares de esta revolución.\nIV. La Revolución Digital ha facilitado el acceso a la información y los servicios.\nV. Sin embargo, también ha generado desafíos como la brecha digital y la privacidad.",
+        "options": [
+            "I - II - III - IV - V",
+            "I - III - II - IV - V",
+            "II - III - I - IV - V",
+            "V - IV - III - II - I",
+            "I - IV - II - III - V"
+        ],
+        "answer": 0
+    },
+    {
+        "task": "sentence_ordering",
+        "question": "El arte contemporáneo\nI. El arte contemporáneo abarca obras creadas desde mediados del siglo XX hasta hoy.\nII. Se caracteriza por su diversidad y su enfoque en conceptos más que en técnicas.\nIII. Artistas como Andy Warhol y Banksy son referentes.\nIV. Este arte cuestiona las normas tradicionales y busca provocar reflexión.\nV. El arte contemporáneo refleja los cambios sociales y tecnológicos de nuestra época.",
+        "options": [
+            "I - II - III - IV - V",
+            "II - I - III - IV - V",
+            "I - III - II - IV - V",
+            "V - IV - III - II - I",
+            "I - IV - III - II - V"
+        ],
+        "answer": 0
+    },
+    {
+        "task": "sentence_ordering",
+        "question": "La psicología positiva\nI. La psicología positiva estudia lo que hace que la vida valga la pena.\nII. Fue desarrollada por Martin Seligman en los años 90.\nIII. Se enfoca en temas como la felicidad, la gratitud y el bienestar.\nIV. La psicología positiva tiene aplicaciones en la educación y la terapia.\nV. Su objetivo es mejorar la calidad de vida de las personas.",
+        "options": [
+            "I - II - III - IV - V",
+            "II - I - III - IV - V",
+            "I - III - II - IV - V",
+            "V - IV - III - II - I",
+            "I - IV - III - II - V"
+        ],
+        "answer": 0
+    },
+    {
+        "task": "sentence_ordering",
+        "question": "La historia del cine\nI. El cine surgió a finales del siglo XIX con los hermanos Lumière.\nII. En sus inicios, el cine era mudo y en blanco y negro.\nIII. La invención del sonido y el color revolucionó la industria.\nIV. Hoy, el cine es una forma de arte y entretenimiento global.\nV. La tecnología digital ha transformado la producción y distribución de películas.",
+        "options": [
+            "I - II - III - IV - V",
+            "II - I - III - IV - V",
+            "I - III - II - IV - V",
+            "V - IV - III - II - I",
+            "I - IV - III - II - V"
+        ],
+        "answer": 0
+    }
+    ,
+    {
+        "task": "sentence_ordering",
+        "question": "La teoría del apego\nI. La teoría del apego fue desarrollada por John Bowlby en los años 50.\nII. Explica cómo los vínculos emocionales se forman en la infancia.\nIII. Según esta teoría, el apego seguro es clave para el desarrollo saludable.\nIV. Los estudios de Mary Ainsworth ampliaron esta teoría con el «experimento de la situación extraña».\nV. La teoría del apego tiene aplicaciones en la psicología y la crianza.",
+        "options": [
+            "I - II - III - IV - V",
+            "II - I - III - IV - V",
+            "I - III - II - IV - V",
+            "V - IV - III - II - I",
+            "I - IV - III - II - V"
+        ],
+        "answer": 0
+    },
+    {
+        "task": "sentence_ordering",
+        "question": "El desarrollo sostenible\nI. El desarrollo sostenible busca satisfacer las necesidades del presente sin comprometer el futuro.\nII. Este concepto fue popularizado por el Informe Brundtland en 1987.\nIII. Incluye aspectos económicos, sociales y ambientales.\nIV. Los Objetivos de Desarrollo Sostenible de la ONU son un marco para su implementación.\nV. Lograr el desarrollo sostenible requiere la colaboración de gobiernos, empresas y sociedad.",
+        "options": [
+            "I - II - III - IV - V",
+            "II - I - III - IV - V",
+            "I - III - II - IV - V",
+            "V - IV - III - II - I",
+            "I - IV - III - II - V"
+        ],
+        "answer": 0
+    },
+    {
+        "task": "sentence_ordering",
+        "question": "La historia de la escritura\nI. La escritura surgió hace más de 5.000 años en Mesopotamia.\nII. Las primeras formas de escritura fueron los jeroglíficos y la escritura cuneiforme.\nIII. La invención de la escritura permitió registrar la historia y el conocimiento.\nIV. Con el tiempo, la escritura evolucionó hacia sistemas más simples y accesibles.\nV. Hoy, la escritura digital está transformando la comunicación.",
+        "options": [
+            "I - II - III - IV - V",
+            "II - I - III - IV - V",
+            "I - III - II - IV - V",
+            "V - IV - III - II - I",
+            "I - IV - III - II - V"
+        ],
+        "answer": 0
+    },
+    {
+        "task": "sentence_ordering",
+        "question": "La ética en la investigación científica\nI. La ética en la investigación científica busca garantizar la integridad y el respeto.\nII. Incluye principios como la honestidad, la transparencia y el consentimiento informado.\nIII. La ética es especialmente importante en investigaciones con seres humanos y animales.\nIV. Violaciones a la ética científica pueden tener consecuencias graves.\nV. La comunidad científica debe promover prácticas éticas en la investigación.",
+        "options": [
+            "I - II - III - IV - V",
+            "I - III - II - IV - V",
+            "II - III - I - IV - V",
+            "V - IV - III - II - I",
+            "I - IV - II - III - V"
+        ],
+        "answer": 0
+    },
+    {
+        "task": "sentence_ordering",
+        "question": "La música electrónica\nI. La música electrónica surgió en el siglo XX con el desarrollo de sintetizadores.\nII. Se caracteriza por el uso de tecnología para crear sonidos.\nIII. Géneros como el house, el techno y el dubstep son populares.\nIV. La música electrónica ha influido en otros géneros y en la cultura popular.\nV. Hoy, es un fenómeno global con festivales y artistas reconocidos.",
+        "options": [
+            "I - II - III - IV - V",
+            "II - I - III - IV - V",
+            "I - III - II - IV - V",
+            "V - IV - III - II - I",
+            "I - IV - III - II - V"
+        ],
+        "answer": 0
+    },
+    {
+        "task": "sentence_ordering",
+        "question": "La teoría de la mente\nI. La teoría de la mente es la capacidad de atribuir estados mentales a otros.\nII. Es fundamental para la empatía y la comunicación.\nIII. Los niños desarrollan esta habilidad alrededor de los 4 años.\nIV. La teoría de la mente es clave para entender el autismo.\nV. Su estudio tiene aplicaciones en psicología y educación.",
+        "options": [
+            "I - II - III - IV - V",
+            "II - I - III - IV - V",
+            "I - III - II - IV - V",
+            "V - IV - III - II - I",
+            "I - IV - III - II - V"
+        ],
+        "answer": 0
+    },
+    {
+        "task": "sentence_ordering",
+        "question": "La historia de la moda\nI. La moda ha evolucionado desde prendas funcionales hasta expresiones artísticas.\nII. En el siglo XIX, la Revolución Industrial permitió la producción en masa de ropa.\nIII. Diseñadores como Coco Chanel y Christian Dior marcaron hitos en la moda.\nIV. Hoy, la moda es una industria global con gran impacto económico y cultural.\nV. La moda sostenible busca reducir su impacto ambiental.",
+        "options": [
+            "I - II - III - IV - V",
+            "II - I - III - IV - V",
+            "I - III - II - IV - V",
+            "V - IV - III - II - I",
+            "I - IV - III - II - V"
+        ],
+        "answer": 0
+    },
+    {
+        "task": "sentence_ordering",
+        "question": "La inteligencia artificial en la educación\nI. La inteligencia artificial está transformando la educación.\nII. Los sistemas de IA pueden personalizar el aprendizaje según las necesidades de cada estudiante.\nIII. Plataformas como los tutores virtuales y los chatbots educativos son ejemplos.\nIV. La IA también puede ayudar a los docentes en la evaluación y planificación.\nV. Sin embargo, su implementación plantea desafíos éticos y prácticos.",
+        "options": [
+            "I - II - III - IV - V",
+            "I - III - II - IV - V",
+            "II - III - I - IV - V",
+            "V - IV - III - II - I",
+            "I - IV - II - III - V"
+        ],
+        "answer": 0
+    },
+    {
+        "task": "sentence_ordering",
+        "question": "La historia de la medicina\nI. La medicina ha evolucionado desde prácticas ancestrales hasta la ciencia moderna.\nII. Los antiguos egipcios y griegos sentaron las bases de la medicina occidental.\nIII. La invención del microscopio y la teoría de los gérmenes revolucionaron la medicina.\nIV. Hoy, la medicina combina tecnología, investigación y atención humana.\nV. Los avances médicos han mejorado la esperanza y calidad de vida.",
+        "options": [
+            "I - II - III - IV - V",
+            "II - I - III - IV - V",
+            "I - III - II - IV - V",
+            "V - IV - III - II - I",
+            "I - IV - III - II - V"
+        ],
+        "answer": 0
+    },
+    {
+        "task": "sentence_ordering",
+        "question": "El surrealismo en el cine\nI. El surrealismo en el cine busca romper con la lógica narrativa tradicional.\nII. Directores como Luis Buñuel y David Lynch han explorado este estilo.\nIII. Las películas surrealistas suelen incluir imágenes oníricas y simbolismo.\nIV. Este género permite explorar el subconsciente y las emociones.\nV. El surrealismo ha influido en el cine de arte y en la cultura popular.",
+        "options": [
+            "I - II - III - IV - V",
+            "II - I - III - IV - V",
+            "I - III - II - IV - V",
+            "V - IV - III - II - I",
+            "I - IV - III - II - V"
+        ],
+        "answer": 0
+    },
+    {
+        "task": "sentence_ordering",
+        "question": "La historia de los videojuegos\nI. Los videojuegos surgieron en los años 50 como experimentos tecnológicos.\nII. En los 70, juegos como *Pong* y *Space Invaders* popularizaron la industria.\nIII. La llegada de las consolas domésticas en los 80 revolucionó los videojuegos.\nIV. Hoy, los videojuegos son una forma de entretenimiento masivo y un deporte competitivo.\nV. La tecnología ha permitido el desarrollo de gráficos realistas y experiencias inmersivas.",
+        "options": [
+            "I - II - III - IV - V",
+            "II - I - III - IV - V",
+            "I - III - II - IV - V",
+            "V - IV - III - II - I",
+            "I - IV - III - II - V"
+        ],
+        "answer": 0
+    },
+    {
+        "task": "sentence_ordering",
+        "question": "La ética en la inteligencia artificial\nI. La ética en la inteligencia artificial busca garantizar que la IA sea justa y beneficiosa.\nII. Temas como la privacidad, el sesgo algorítmico y la autonomía son clave.\nIII. La IA plantea desafíos éticos en campos como la medicina y la justicia.\nIV. Es necesario desarrollar marcos regulatorios para su uso responsable.\nV. La colaboración entre tecnólogos, éticos y legisladores es esencial.",
+        "options": [
+            "I - II - III - IV - V",
+            "I - III - II - IV - V",
+            "II - III - I - IV - V",
+            "V - IV - III - II - I",
+            "I - IV - II - III - V"
+        ],
+        "answer": 0
+    },
+    {
+        "task": "sentence_ordering",
+        "question": "La historia del feminismo\nI. El feminismo surgió como un movimiento por la igualdad de derechos en el siglo XIX.\nII. La primera ola del feminismo luchó por el sufragio femenino.\nIII. La segunda ola, en los años 60, abordó temas como el trabajo y la sexualidad.\nIV. La tercera ola, en los 90, se centró en la diversidad y la interseccionalidad.\nV. Hoy, el feminismo sigue luchando por la equidad en todos los ámbitos.",
+        "options": [
+            "I - II - III - IV - V",
+            "II - I - III - IV - V",
+            "I - III - II - IV - V",
+            "V - IV - III - II - I",
+            "I - IV - III - II - V"
+        ],
+        "answer": 0
+    },
+    {
+        "task": "sentence_ordering",
+        "question": "La economía del conocimiento\nI. La economía del conocimiento se basa en la producción y distribución de información.\nII. Sectores como la tecnología, la educación y la investigación son clave.\nIII. Este modelo económico valora el capital humano y la innovación.\nIV. La economía del conocimiento ha sido impulsada por la digitalización.\nV. Sin embargo, también genera desafíos como la desigualdad y la brecha digital.",
+        "options": [
+            "I - II - III - IV - V",
+            "I - III - II - IV - V",
+            "II - III - I - IV - V",
+            "V - IV - III - II - I",
+            "I - IV - II - III - V"
+        ],
+        "answer": 0
+    },
+    {
+        "task": "sentence_ordering",
+        "question": "La filosofía de la ciencia\nI. La filosofía de la ciencia estudia los fundamentos y métodos de la ciencia.\nII. Filósofos como Karl Popper y Thomas Kuhn han contribuido a este campo.\nIII. La filosofía de la ciencia analiza temas como la inducción, la falsabilidad y los paradigmas.\nIV. Su objetivo es entender cómo se construye el conocimiento científico.\nV. Esta disciplina es clave para reflexionar sobre el progreso científico.",
+        "options": [
+            "I - II - III - IV - V",
+            "II - I - III - IV - V",
+            "I - III - II - IV - V",
+            "V - IV - III - II - I",
+            "I - IV - III - II - V"
+        ],
+        "answer": 0
+    },
+    {
+        "task": "sentence_ordering",
+        "question": "La historia de la radio\nI. La radio fue inventada a finales del siglo XIX por Guglielmo Marconi.\nII. En sus inicios, se utilizó para la comunicación militar y marítima.\nIII. En los años 20, la radio se convirtió en un medio de entretenimiento masivo.\nIV. La radio ha evolucionado desde las transmisiones en vivo hasta los podcasts.\nV. Hoy, sigue siendo un medio importante para la información y la cultura.",
+        "options": [
+            "I - II - III - IV - V",
+            "II - I - III - IV - V",
+            "I - III - II - IV - V",
+            "V - IV - III - II - I",
+            "I - IV - III - II - V"
+        ],
+        "answer": 0
+    },
+    {
+        "task": "sentence_ordering",
+        "question": "La teoría de la relatividad cultural\nI. La teoría de la relatividad cultural sostiene que no hay culturas superiores o inferiores.\nII. Fue desarrollada por antropólogos como Franz Boas.\nIII. Esta teoría promueve el respeto y la comprensión entre culturas.\nIV. El relativismo cultural cuestiona el etnocentrismo.\nV. Sin embargo, también ha sido criticado por su enfoque extremo.",
+        "options": [
+            "I - II - III - IV - V",
+            "II - I - III - IV - V",
+            "I - III - II - IV - V",
+            "V - IV - III - II - I",
+            "I - IV - III - II - V"
+        ],
+        "answer": 0
+    },
+    {
+        "task": "sentence_ordering",
+        "question": "La historia del transporte\nI. El transporte ha evolucionado desde la tracción animal hasta los vehículos autónomos.\nII. La invención de la rueda en Mesopotamia fue un hito clave.\nIII. La Revolución Industrial introdujo el ferrocarril y el automóvil.\nIV. Hoy, el transporte es clave para la economía y la movilidad global.\nV. Sin embargo, también enfrenta desafíos como la contaminación y la congestión.",
+        "options": [
+            "I - II - III - IV - V",
+            "II - I - III - IV - V",
+            "I - III - II - IV - V",
+            "V - IV - III - II - I",
+            "I - IV - III - II - V"
+        ],
+        "answer": 0
+    },
+    {
+        "task": "sentence_ordering",
+        "question": "La ética en el periodismo\nI. La ética en el periodismo busca garantizar la veracidad y el respeto.\nII. Incluye principios como la objetividad, la transparencia y la responsabilidad.\nIII. El periodismo ético es clave para una sociedad informada y democrática.\nIV. Violaciones a la ética periodística pueden tener graves consecuencias.\nV. Los medios de comunicación deben promover prácticas éticas en su trabajo.",
+        "options": [
+            "I - II - III - IV - V",
+            "I - III - II - IV - V",
+            "II - III - I - IV - V",
+            "V - IV - III - II - I",
+            "I - IV - II - III - V"
+        ],
+        "answer": 0
+    }
+    ,
+    {
+        "task": "sentence_ordering",
+        "question": "La teoría del caos en la vida cotidiana\nI. La teoría del caos estudia sistemas complejos y sensibles a pequeñas variaciones.\nII. En la vida cotidiana, esta teoría explica por qué pequeños cambios pueden tener grandes efectos.\nIII. Por ejemplo, un retraso en el transporte puede alterar toda la agenda del día.\nIV. La teoría del caos también se aplica en economía, meteorología y biología.\nV. Aunque parece abstracta, su influencia en nuestra vida es tangible.",
+        "options": [
+            "I - II - III - IV - V",
+            "I - III - II - IV - V",
+            "II - III - I - IV - V",
+            "V - IV - III - II - I",
+            "I - IV - II - III - V"
+        ],
+        "answer": 0
+    },
+    {
+        "task": "sentence_ordering",
+        "question": "La historia de la televisión\nI. La televisión fue inventada en los años 20 por John Logie Baird.\nII. En sus inicios, era un medio en blanco y negro y con programación limitada.\nIII. En los años 50, la televisión se convirtió en un medio de entretenimiento masivo.\nIV. Hoy, la televisión compite con plataformas de streaming y contenido digital.\nV. Sin embargo, sigue siendo un medio influyente en la cultura y la política.",
+        "options": [
+            "I - II - III - IV - V",
+            "II - I - III - IV - V",
+            "I - III - II - IV - V",
+            "V - IV - III - II - I",
+            "I - IV - III - II - V"
+        ],
+        "answer": 0
+    },
+    {
+        "task": "sentence_ordering",
+        "question": "La psicología del consumidor\nI. La psicología del consumidor estudia cómo las personas toman decisiones de compra.\nII. Factores como las emociones, la percepción y la influencia social son clave.\nIII. Las empresas utilizan esta disciplina para diseñar estrategias de marketing.\nIV. La psicología del consumidor también analiza el comportamiento en entornos digitales.\nV. Su objetivo es entender y predecir las preferencias de los consumidores.",
+        "options": [
+            "I - II - III - IV - V",
+            "I - III - II - IV - V",
+            "II - III - I - IV - V",
+            "V - IV - III - II - I",
+            "I - IV - II - III - V"
+        ],
+        "answer": 0
+    },
+    {
+        "task": "sentence_ordering",
+        "question": "La historia del internet\nI. Internet surgió en los años 60 como un proyecto militar llamado ARPANET.\nII. En los 90, se convirtió en un medio de comunicación global.\nIII. La invención de la World Wide Web por Tim Berners-Lee fue un hito clave.\nIV. Hoy, internet es una herramienta esencial para la información, el trabajo y el entretenimiento.\nV. Sin embargo, también plantea desafíos como la privacidad y la desinformación.",
+        "options": [
+            "I - II - III - IV - V",
+            "II - I - III - IV - V",
+            "I - III - II - IV - V",
+            "V - IV - III - II - I",
+            "I - IV - III - II - V"
+        ],
+        "answer": 0
+    },
+    {
+        "task": "sentence_ordering",
+        "question": "La ética en los negocios\nI. La ética en los negocios busca garantizar prácticas justas y responsables.\nII. Incluye principios como la transparencia, la honestidad y el respeto al consumidor.\nIII. La responsabilidad social corporativa es un aspecto clave de la ética empresarial.\nIV. Las empresas éticas pueden ganar la confianza de sus clientes y empleados.\nV. Sin embargo, la falta de ética puede tener consecuencias legales y reputacionales.",
+        "options": [
+            "I - II - III - IV - V",
+            "I - III - II - IV - V",
+            "II - III - I - IV - V",
+            "V - IV - III - II - I",
+            "I - IV - II - III - V"
+        ],
+        "answer": 0
+    },
+    {
+        "task": "sentence_ordering",
+        "question": "La teoría de la motivación\nI. La teoría de la motivación estudia qué impulsa a las personas a actuar.\nII. Abraham Maslow propuso la pirámide de necesidades como modelo.\nIII. Según Maslow, las necesidades básicas deben satisfacerse antes que las superiores.\nIV. Otras teorías, como la de Herzberg, analizan factores higiénicos y motivacionales.\nV. La motivación es clave en ámbitos como la educación y el trabajo.",
+        "options": [
+            "I - II - III - IV - V",
+            "II - I - III - IV - V",
+            "I - III - II - IV - V",
+            "V - IV - III - II - I",
+            "I - IV - III - II - V"
+        ],
+        "answer": 0
+    },
+    {
+        "task": "sentence_ordering",
+        "question": "La historia del fútbol\nI. El fútbol moderno surgió en Inglaterra en el siglo XIX.\nII. Las primeras reglas fueron establecidas en 1863 por la Football Association.\nIII. En 1904, se fundó la FIFA para organizar el fútbol a nivel internacional.\nIV. Hoy, el fútbol es el deporte más popular del mundo.\nV. Los Mundiales de Fútbol son eventos globales que atraen a millones de espectadores.",
+        "options": [
+            "I - II - III - IV - V",
+            "II - I - III - IV - V",
+            "I - III - II - IV - V",
+            "V - IV - III - II - I",
+            "I - IV - III - II - V"
+        ],
+        "answer": 0
+    },
+    {
+        "task": "sentence_ordering",
+        "question": "La teoría de la comunicación\nI. La teoría de la comunicación estudia cómo se transmite la información.\nII. Modelos como el de Shannon y Weaver explican el proceso comunicativo.\nIII. La comunicación puede ser verbal, no verbal o mediada por tecnología.\nIV. Factores como el ruido y la retroalimentación influyen en la efectividad de la comunicación.\nV. Esta teoría tiene aplicaciones en campos como el marketing y la educación.",
+        "options": [
+            "I - II - III - IV - V",
+            "II - I - III - IV - V",
+            "I - III - II - IV - V",
+            "V - IV - III - II - I",
+            "I - IV - III - II - V"
+        ],
+        "answer": 0
+    },
+    {
+        "task": "sentence_ordering",
+        "question": "La historia de la pintura\nI. La pintura ha evolucionado desde las cuevas de Altamira hasta el arte digital.\nII. En el Renacimiento, artistas como Leonardo da Vinci revolucionaron las técnicas.\nIII. Movimientos como el impresionismo y el surrealismo marcaron hitos en la historia del arte.\nIV. Hoy, la pintura sigue siendo una forma de expresión artística y cultural.\nV. La tecnología ha permitido nuevas formas de crear y compartir arte.",
+        "options": [
+            "I - II - III - IV - V",
+            "II - I - III - IV - V",
+            "I - III - II - IV - V",
+            "V - IV - III - II - I",
+            "I - IV - III - II - V"
+        ],
+        "answer": 0
+    }
+    ,
+    {
+        "task": "sentence_ordering",
+        "question": "El urbanismo sostenible\nI. El urbanismo sostenible busca diseñar ciudades más habitables y respetuosas con el medio ambiente.\nII. Promueve el uso de transporte público, espacios verdes y energías renovables.\nIII. Ciudades como Copenhague y Ámsterdam son ejemplos de urbanismo sostenible.\nIV. Este modelo busca reducir la huella ecológica y mejorar la calidad de vida.\nV. Sin embargo, su implementación enfrenta desafíos como la resistencia al cambio.",
+        "options": [
+            "I - II - III - IV - V",
+            "I - III - II - IV - V",
+            "II - III - I - IV - V",
+            "V - IV - III - II - I",
+            "I - IV - II - III - V"
+        ],
+        "answer": 0
+    },
+    {
+        "task": "sentence_ordering",
+        "question": "La historia de la ciencia ficción\nI. La ciencia ficción surgió como género literario en el siglo XIX.\nII. Autores como Julio Verne y H.G. Wells sentaron sus bases.\nIII. Este género explora temas como la tecnología, el futuro y la exploración espacial.\nIV. La ciencia ficción ha influido en el cine, la televisión y la cultura popular.\nV. Hoy, es un género diverso que abarca desde la distopía hasta la utopía.",
+        "options": [
+            "I - II - III - IV - V",
+            "II - I - III - IV - V",
+            "I - III - II - IV - V",
+            "V - IV - III - II - I",
+            "I - IV - III - II - V"
+        ],
+        "answer": 0
+    },
+    {
+        "task": "sentence_ordering",
+        "question": "La ética en la publicidad\nI. La ética en la publicidad busca garantizar mensajes honestos y responsables.\nII. Incluye principios como la veracidad, la transparencia y el respeto al consumidor.\nIII. La publicidad engañosa puede tener consecuencias legales y reputacionales.\nIV. Las empresas deben considerar el impacto social de sus campañas publicitarias.\nV. La autorregulación y las leyes son clave para promover la ética en la publicidad.",
+        "options": [
+            "I - II - III - IV - V",
+            "I - III - II - IV - V",
+            "II - III - I - IV - V",
+            "V - IV - III - II - I",
+            "I - IV - II - III - V"
+        ],
+        "answer": 0
+    },
+    {
+        "task": "sentence_ordering",
+        "question": "La historia del rock\nI. El rock surgió en los años 50 como una fusión de blues, country y rhythm and blues.\nII. Artistas como Elvis Presley y Chuck Berry fueron pioneros.\nIII. En los 60, bandas como The Beatles y The Rolling Stones revolucionaron el género.\nIV. El rock ha evolucionado hacia subgéneros como el punk, el metal y el grunge.\nV. Hoy, el rock sigue siendo un género influyente en la música y la cultura.",
+        "options": [
+            "I - II - III - IV - V",
+            "II - I - III - IV - V",
+            "I - III - II - IV - V",
+            "V - IV - III - II - I",
+            "I - IV - III - II - V"
+        ],
+        "answer": 0
+    },
+    {
+        "task": "sentence_ordering",
+        "question": "La teoría de la justicia social\nI. La teoría de la justicia social busca promover la equidad y el bienestar.\nII. Filósofos como John Rawls y Amartya Sen han contribuido a este campo.\nIII. La justicia social aborda temas como la pobreza, la discriminación y los derechos humanos.\nIV. Su objetivo es crear sociedades más justas e inclusivas.\nV. Esta teoría tiene aplicaciones en políticas públicas y activismo social.",
+        "options": [
+            "I - II - III - IV - V",
+            "II - I - III - IV - V",
+            "I - III - II - IV - V",
+            "V - IV - III - II - I",
+            "I - IV - III - II - V"
+        ],
+        "answer": 0
+    }
+    ,
+    {
+        "task": "sentence_ordering",
+        "question": "La historia de la danza\nI. La danza es una de las formas de expresión artística más antiguas.\nII. En culturas como la egipcia y la griega, la danza tenía un carácter ritual.\nIII. En el Renacimiento, la danza se profesionalizó en Europa.\nIV. Hoy, la danza abarca géneros como el ballet, el contemporáneo y el hip-hop.\nV. La danza sigue siendo una forma de arte y comunicación universal.",
+        "options": [
+            "I - II - III - IV - V",
+            "II - I - III - IV - V",
+            "I - III - II - IV - V",
+            "V - IV - III - II - I",
+            "I - IV - III - II - V"
+        ],
+        "answer": 0
+    }
+    ,
+    {
+        "task": "sentence_ordering",
+        "question": "La ética en la tecnología médica\nI. La ética en la tecnología médica busca equilibrar el progreso científico con el respeto a la vida.\nII. Temas como la edición genética y la inteligencia artificial plantean dilemas éticos.\nIII. La bioética es clave para guiar estas decisiones.\nIV. Las tecnologías médicas deben ser accesibles y no discriminatorias.\nV. La colaboración entre científicos, éticos y legisladores es esencial.",
+        "options": [
+            "I - II - III - IV - V",
+            "I - III - II - IV - V",
+            "II - III - I - IV - V",
+            "V - IV - III - II - I",
+            "I - IV - II - III - V"
+        ],
+        "answer": 0
+    },
+    {
+        "task": "sentence_ordering",
+        "question": "La historia del cómic\nI. El cómic surgió como medio de entretenimiento en el siglo XIX.\nII. En sus inicios, era un formato popular en periódicos y revistas.\nIII. En el siglo XX, el cómic evolucionó hacia historias más complejas y artísticas.\nIV. Hoy, el cómic es un medio global con adaptaciones al cine y la televisión.\nV. Géneros como el superhéroe, el manga y la novela gráfica son populares.",
+        "options": [
+            "I - II - III - IV - V",
+            "II - I - III - IV - V",
+            "I - III - II - IV - V",
+            "V - IV - III - II - I",
+            "I - IV - III - II - V"
+        ],
+        "answer": 0
+    },
+    {
+        "task": "sentence_ordering",
+        "question": "La teoría de la complejidad\nI. La teoría de la complejidad estudia sistemas con múltiples componentes interconectados.\nII. Estos sistemas pueden ser impredecibles y sensibles a pequeñas variaciones.\nIII. Ejemplos incluyen el clima, los mercados financieros y las redes sociales.\nIV. La teoría de la complejidad tiene aplicaciones en ciencia, economía y sociología.\nV. Su objetivo es entender cómo emergen patrones en sistemas complejos.",
+        "options": [
+            "I - II - III - IV - V",
+            "I - III - II - IV - V",
+            "II - III - I - IV - V",
+            "V - IV - III - II - I",
+            "I - IV - II - III - V"
+        ],
+        "answer": 0
+    },
+    {
+        "task": "sentence_ordering",
+        "question": "La historia de la fotografía\nI. La fotografía fue inventada en el siglo XIX por Louis Daguerre y William Henry Fox Talbot.\nII. En sus inicios, era un proceso químico lento y complejo.\nIII. Con el tiempo, la fotografía se popularizó y se volvió más accesible.\nIV. Hoy, la fotografía digital ha revolucionado este arte.\nV. La fotografía es una herramienta clave para la comunicación y la memoria.",
+        "options": [
+            "I - II - III - IV - V",
+            "II - I - III - IV - V",
+            "I - III - II - IV - V",
+            "V - IV - III - II - I",
+            "I - IV - III - II - V"
+        ],
+        "answer": 0
+    }
+    ,
+    {
+        "task": "sentence_ordering",
+        "question": "La ética en la robótica\nI. La ética en la robótica busca garantizar que los robots sean seguros y beneficiosos.\nII. Temas como la autonomía, la privacidad y el empleo son clave.\nIII. La robótica plantea desafíos éticos en campos como la medicina y la industria.\nIV. Es necesario desarrollar marcos regulatorios para su uso responsable.\nV. La colaboración entre ingenieros, éticos y legisladores es esencial.",
+        "options": [
+            "I - II - III - IV - V",
+            "I - III - II - IV - V",
+            "II - III - I - IV - V",
+            "V - IV - III - II - I",
+            "I - IV - II - III - V"
+        ],
+        "answer": 0
+    }
+    ,
+    {
+        "task": "sentence_ordering",
+        "question": "La historia del teatro\nI. El teatro surgió en la antigua Grecia como parte de festivales religiosos.\nII. En la Edad Media, el teatro se centró en temas religiosos y morales.\nIII. En el Renacimiento, el teatro se profesionalizó con figuras como Shakespeare.\nIV. Hoy, el teatro es una forma de arte diversa y global.\nV. Géneros como la tragedia, la comedia y el teatro experimental son populares.",
+        "options": [
+            "I - II - III - IV - V",
+            "II - I - III - IV - V",
+            "I - III - II - IV - V",
+            "V - IV - III - II - I",
+            "I - IV - III - II - V"
+        ],
+        "answer": 0
+    }
+    ,
+    {
+        "task": "sentence_ordering",
+        "question": "La teoría de la disonancia cognitiva\nI. La teoría de la disonancia cognitiva fue propuesta por Leon Festinger en los años 50.\nII. Explica el malestar que sentimos cuando nuestras creencias y acciones entran en conflicto.\nIII. Para reducir esta disonancia, las personas modifican sus creencias o justifican sus acciones.\nIV. Esta teoría tiene aplicaciones en psicología, marketing y educación.\nV. Su estudio ayuda a entender el comportamiento humano.",
+        "options": [
+            "I - II - III - IV - V",
+            "II - I - III - IV - V",
+            "I - III - II - IV - V",
+            "V - IV - III - II - I",
+            "I - IV - III - II - V"
+        ],
+        "answer": 0
+    },
+    {
+        "task": "sentence_ordering",
+        "question": "La historia de la educación\nI. La educación ha evolucionado desde la enseñanza oral hasta los sistemas educativos modernos.\nII. En la antigua Grecia, la educación se centraba en la filosofía y el deporte.\nIII. En la Edad Media, la educación estaba dominada por la Iglesia.\nIV. La Revolución Industrial impulsó la educación pública y obligatoria.\nV. Hoy, la educación enfrenta desafíos como la digitalización y la equidad.",
+        "options": [
+            "I - II - III - IV - V",
+            "II - I - III - IV - V",
+            "I - III - II - IV - V",
+            "V - IV - III - II - I",
+            "I - IV - III - II - V"
+        ],
+        "answer": 0
+    }
+    ,
+    {
+        "task": "sentence_ordering",
+        "question": "La ética en la inteligencia artificial\nI. La ética en la inteligencia artificial busca garantizar que la IA sea justa y beneficiosa.\nII. Temas como la privacidad, el sesgo algorítmico y la autonomía son clave.\nIII. La IA plantea desafíos éticos en campos como la medicina y la justicia.\nIV. Es necesario desarrollar marcos regulatorios para su uso responsable.\nV. La colaboración entre tecnólogos, éticos y legisladores es esencial.",
+        "options": [
+            "I - II - III - IV - V",
+            "I - III - II - IV - V",
+            "II - III - I - IV - V",
+            "V - IV - III - II - I",
+            "I - IV - II - III - V"
+        ],
+        "answer": 0
+    }
+    ,
+    {
+        "task": "sentence_ordering",
+        "question": "La teoría de la evolución tecnológica\nI. La teoría de la evolución tecnológica estudia cómo la tecnología cambia con el tiempo.\nII. Se basa en la idea de que la tecnología evoluciona mediante innovaciones incrementales.\nIII. Ejemplos incluyen la evolución de los teléfonos móviles y los ordenadores.\nIV. Esta teoría tiene aplicaciones en la planificación y el desarrollo tecnológico.\nV. Su objetivo es entender y predecir los cambios tecnológicos.",
+        "options": [
+            "I - II - III - IV - V",
+            "II - I - III - IV - V",
+            "I - III - II - IV - V",
+            "V - IV - III - II - I",
+            "I - IV - III - II - V"
+        ],
+        "answer": 0
+    },
+    {
+        "task": "sentence_ordering",
+        "question": "La historia del diseño gráfico\nI. El diseño gráfico surgió como disciplina en el siglo XX.\nII. En sus inicios, se centraba en la impresión y la publicidad.\nIII. Con la llegada de la computación, el diseño gráfico se digitalizó.\nIV. Hoy, el diseño gráfico es clave en la comunicación visual y el marketing.\nV. Su evolución ha sido impulsada por avances tecnológicos y cambios culturales.",
+        "options": [
+            "I - II - III - IV - V",
+            "II - I - III - IV - V",
+            "I - III - II - IV - V",
+            "V - IV - III - II - I",
+            "I - IV - III - II - V"
+        ],
+        "answer": 0
+    }
+    ,
+    {
+        "task": "sentence_ordering",
+        "question": "La ética en la investigación científica\nI. La ética en la investigación científica busca garantizar la integridad y el respeto.\nII. Incluye principios como la honestidad, la transparencia y el consentimiento informado.\nIII. La ética es especialmente importante en investigaciones con seres humanos y animales.\nIV. Violaciones a la ética científica pueden tener consecuencias graves.\nV. La comunidad científica debe promover prácticas éticas en la investigación.",
+        "options": [
+            "I - II - III - IV - V",
+            "I - III - II - IV - V",
+            "II - III - I - IV - V",
+            "V - IV - III - II - I",
+            "I - IV - II - III - V"
+        ],
+        "answer": 0
+    }
+    ,
+    {
+        "task": "sentence_ordering",
+        "question": "La historia del ballet\nI. El ballet surgió en la corte italiana del Renacimiento.\nII. En el siglo XVII, se profesionalizó en Francia bajo el reinado de Luis XIV.\nIII. El ballet clásico se caracteriza por su técnica y narrativa.\nIV. Hoy, el ballet es un arte global con compañías como el Bolshoi y el Royal Ballet.\nV. Géneros como el ballet contemporáneo han ampliado sus posibilidades.",
+        "options": [
+            "I - II - III - IV - V",
+            "II - I - III - IV - V",
+            "I - III - II - IV - V",
+            "V - IV - III - II - I",
+            "I - IV - III - II - V"
+        ],
+        "answer": 0
+    },
+    {
+        "task": "sentence_ordering",
+        "question": "La teoría del aprendizaje significativo\nI. La teoría del aprendizaje significativo fue propuesta por David Ausubel.\nII. Explica cómo los estudiantes integran nuevos conocimientos a sus estructuras mentales.\nIII. El aprendizaje significativo ocurre cuando el nuevo conocimiento se relaciona con lo ya conocido.\nIV. Esta teoría tiene aplicaciones en la educación y la pedagogía.\nV. Su objetivo es mejorar la retención y comprensión del conocimiento.",
+        "options": [
+            "I - II - III - IV - V",
+            "II - I - III - IV - V",
+            "I - III - II - IV - V",
+            "V - IV - III - II - I",
+            "I - IV - III - II - V"
+        ],
+        "answer": 0
+    }
+    ,
+    {
+        "task": "sentence_ordering",
+        "question": "La historia de la gastronomía\nI. La gastronomía ha evolucionado desde la cocina primitiva hasta la alta cocina.\nII. En la antigüedad, la cocina se centraba en la supervivencia y el ritual.\nIII. En el Renacimiento, la gastronomía se convirtió en un arte refinado.\nIV. Hoy, la gastronomía es una industria global con chefs reconocidos.\nV. La fusión de culturas ha enriquecido la gastronomía moderna.",
+        "options": [
+            "I - II - III - IV - V",
+            "II - I - III - IV - V",
+            "I - III - II - IV - V",
+            "V - IV - III - II - I",
+            "I - IV - III - II - V"
+        ],
+        "answer": 0
+    }
+    ,
+    {
+        "task": "sentence_ordering",
+        "question": "La ética en el deporte\nI. La ética en el deporte busca garantizar la justicia y el respeto.\nII. Incluye principios como la honestidad, el juego limpio y la no discriminación.\nIII. El dopaje y la corrupción son ejemplos de violaciones a la ética deportiva.\nIV. Las federaciones deportivas deben promover prácticas éticas.\nV. La ética en el deporte es clave para su credibilidad y valor social.",
+        "options": [
+            "I - II - III - IV - V",
+            "I - III - II - IV - V",
+            "II - III - I - IV - V",
+            "V - IV - III - II - I",
+            "I - IV - II - III - V"
+        ],
+        "answer": 0
+    },
+    {
+        "task": "sentence_ordering",
+        "question": "La teoría del constructivismo\nI. El constructivismo es una teoría del aprendizaje que enfatiza el papel activo del aprendiz.\nII. Fue desarrollada por teóricos como Jean Piaget y Lev Vygotsky.\nIII. Según esta teoría, el conocimiento se construye a través de la experiencia y la interacción.\nIV. El constructivismo tiene aplicaciones en la educación y la pedagogía.\nV. Su objetivo es fomentar el aprendizaje significativo y la autonomía.",
+        "options": [
+            "I - II - III - IV - V",
+            "II - I - III - IV - V",
+            "I - III - II - IV - V",
+            "V - IV - III - II - I",
+            "I - IV - III - II - V"
+        ],
+        "answer": 0
+    }
+    ,
+    {
+        "task": "sentence_ordering",
+        "question": "La historia del jazz\nI. El jazz surgió en Nueva Orleans a principios del siglo XX.\nII. Tiene sus raíces en la música africana, el blues y el ragtime.\nIII. Figuras como Louis Armstrong y Miles Davis son referentes del jazz.\nIV. Este género se caracteriza por la improvisación y el ritmo sincopado.\nV. El jazz ha influido en otros géneros musicales y en la cultura popular.",
+        "options": [
+            "I - II - III - IV - V",
+            "II - I - III - IV - V",
+            "I - III - II - IV - V",
+            "V - IV - III - II - I",
+            "I - IV - III - II - V"
+        ],
+        "answer": 0
+    }
+    ,
+    {
+        "task": "sentence_ordering",
+        "question": "La ética en la política\nI. La ética en la política busca garantizar la honestidad y el servicio al bien común.\nII. Incluye principios como la transparencia, la rendición de cuentas y el respeto a los derechos humanos.\nIII. La corrupción y el abuso de poder son ejemplos de violaciones a la ética política.\nIV. Los líderes políticos deben promover prácticas éticas en su gestión.\nV. La ética en la política es clave para la democracia y la confianza ciudadana.",
+        "options": [
+            "I - II - III - IV - V",
+            "I - III - II - IV - V",
+            "II - III - I - IV - V",
+            "V - IV - III - II - I",
+            "I - IV - II - III - V"
+        ],
+        "answer": 0
+    },
+    {
+        "task": "sentence_ordering",
+        "question": "La teoría de la personalidad\nI. La teoría de la personalidad estudia los patrones de pensamiento, emoción y comportamiento.\nII. Sigmund Freud propuso una de las primeras teorías, basada en el inconsciente.\nIII. Otras teorías, como la de los Cinco Grandes, analizan rasgos de personalidad.\nIV. La personalidad influye en cómo las personas interactúan con su entorno.\nV. Su estudio tiene aplicaciones en psicología, educación y recursos humanos.",
+        "options": [
+            "I - II - III - IV - V",
+            "II - I - III - IV - V",
+            "I - III - II - IV - V",
+            "V - IV - III - II - I",
+            "I - IV - III - II - V"
+        ],
+        "answer": 0
+    }
+    ,
+    {
+        "task": "sentence_ordering",
+        "question": "La historia del arte urbano\nI. El arte urbano surgió como una forma de expresión en espacios públicos.\nII. En sus inicios, estaba asociado al graffiti y la cultura hip-hop.\nIII. Hoy, el arte urbano es reconocido como una forma de arte legítima.\nIV. Artistas como Banksy han llevado este arte a galerías y museos.\nV. El arte urbano refleja temas sociales y políticos.",
+        "options": [
+            "I - II - III - IV - V",
+            "II - I - III - IV - V",
+            "I - III - II - IV - V",
+            "V - IV - III - II - I",
+            "I - IV - III - II - V"
+        ],
+        "answer": 0
+    }
+    ,
+    {
+        "task": "sentence_ordering",
+        "question": "La ética en la educación\nI. La ética en la educación busca garantizar un entorno justo y respetuoso.\nII. Incluye principios como la equidad, la inclusión y el respeto a la diversidad.\nIII. Los docentes deben promover valores éticos en su práctica educativa.\nIV. La ética en la educación es clave para formar ciudadanos responsables.\nV. Sin embargo, enfrenta desafíos como la desigualdad y la falta de recursos.",
+        "options": [
+            "I - II - III - IV - V",
+            "I - III - II - IV - V",
+            "II - III - I - IV - V",
+            "V - IV - III - II - I",
+            "I - IV - II - III - V"
+        ],
+        "answer": 0
+    }
+    ,
+    {
+        "task": "sentence_ordering",
+        "question": "La teoría de la comunicación no verbal\nI. La teoría de la comunicación no verbal estudia cómo nos comunicamos sin palabras.\nII. Incluye gestos, expresiones faciales, postura y tono de voz.\nIII. La comunicación no verbal es clave para la empatía y la interacción social.\nIV. Esta teoría tiene aplicaciones en psicología, marketing y negociación.\nV. Su estudio ayuda a entender mejor las relaciones humanas.",
+        "options": [
+            "I - II - III - IV - V",
+            "II - I - III - IV - V",
+            "I - III - II - IV - V",
+            "V - IV - III - II - I",
+            "I - IV - III - II - V"
+        ],
+        "answer": 0
+    }
+    ,
+    {
+        "task": "sentence_ordering",
+        "question": "La historia de la animación\nI. La animación surgió a finales del siglo XIX con experimentos como el zoótropo.\nII. En los años 20, Walt Disney revolucionó la animación con *Steamboat Willie*.\nIII. La animación ha evolucionado desde el dibujo a mano hasta la animación digital.\nIV. Hoy, la animación es un medio global con películas y series reconocidas.\nV. Géneros como el anime y la animación 3D son populares.",
+        "options": [
+            "I - II - III - IV - V",
+            "II - I - III - IV - V",
+            "I - III - II - IV - V",
+            "V - IV - III - II - I",
+            "I - IV - III - II - V"
+        ],
+        "answer": 0
+    }
+    ,
+    {
+        "task": "sentence_ordering",
+        "question": "La ética en la ciencia\nI. La ética en la ciencia busca garantizar la integridad y el respeto en la investigación.\nII. Incluye principios como la honestidad, la transparencia y el consentimiento informado.\nIII. La ética es especialmente importante en investigaciones con seres humanos y animales.\nIV. Violaciones a la ética científica pueden tener consecuencias graves.\nV. La comunidad científica debe promover prácticas éticas en la investigación.",
+        "options": [
+            "I - II - III - IV - V",
+            "I - III - II - IV - V",
+            "II - III - I - IV - V",
+            "V - IV - III - II - I",
+            "I - IV - II - III - V"
+        ],
+        "answer": 0
+    }
+    ,
+    {
+        "task": "sentence_ordering",
+        "question": "La teoría de la innovación\nI. La teoría de la innovación estudia cómo surgen y se difunden las nuevas ideas.\nII. Fue desarrollada por economistas como Joseph Schumpeter.\nIII. La innovación puede ser incremental o disruptiva.\nIV. Esta teoría tiene aplicaciones en negocios, tecnología y políticas públicas.\nV. Su objetivo es fomentar el progreso y la competitividad.",
+        "options": [
+            "I - II - III - IV - V",
+            "II - I - III - IV - V",
+            "I - III - II - IV - V",
+            "V - IV - III - II - I",
+            "I - IV - III - II - V"
+        ],
+        "answer": 0
+    }
+    ,
+    {
+        "task": "sentence_ordering",
+        "question": "La historia del periodismo\nI. El periodismo surgió en el siglo XVII con la publicación de gacetas y periódicos.\nII. En el siglo XIX, el periodismo se profesionalizó con la aparición de agencias de noticias.\nIII. Hoy, el periodismo enfrenta desafíos como la desinformación y la digitalización.\nIV. Sin embargo, sigue siendo clave para la democracia y la libertad de expresión.\nV. El periodismo de investigación y el periodismo ciudadano son tendencias actuales.",
+        "options": [
+            "I - II - III - IV - V",
+            "II - I - III - IV - V",
+            "I - III - II - IV - V",
+            "V - IV - III - II - I",
+            "I - IV - III - II - V"
+        ],
+        "answer": 0
+    }
+    ,
+    {
+        "task": "sentence_ordering",
+        "question": "La ética en la ingeniería\nI. La ética en la ingeniería busca garantizar que los proyectos sean seguros y beneficiosos.\nII. Incluye principios como la responsabilidad, la transparencia y el respeto al medio ambiente.\nIII. Los ingenieros deben considerar el impacto social y ambiental de sus proyectos.\nIV. La ética en la ingeniería es clave para evitar desastres y promover el desarrollo sostenible.\nV. Las asociaciones profesionales promueven códigos de ética para los ingenieros.",
+        "options": [
+            "I - II - III - IV - V",
+            "I - III - II - IV - V",
+            "II - III - I - IV - V",
+            "V - IV - III - II - I",
+            "I - IV - II - III - V"
+        ],
+        "answer": 0
+    }
+    ,
+    {
+        "task": "sentence_ordering",
+        "question": "La teoría de la creatividad\nI. La teoría de la creatividad estudia cómo se generan ideas originales.\nII. Factores como la motivación, el entorno y las habilidades cognitivas son clave.\nIII. La creatividad puede ser individual o colectiva.\nIV. Esta teoría tiene aplicaciones en educación, arte y negocios.\nV. Su objetivo es fomentar la innovación y la resolución de problemas.",
+        "options": [
+            "I - II - III - IV - V",
+            "II - I - III - IV - V",
+            "I - III - II - IV - V",
+            "V - IV - III - II - I",
+            "I - IV - III - II - V"
+        ],
+        "answer": 0
+    }
+    ,
+    {
+        "task": "sentence_ordering",
+        "question": "La historia de la moda sostenible\nI. La moda sostenible surgió como respuesta a los impactos ambientales de la industria textil.\nII. Promueve el uso de materiales ecológicos y prácticas éticas.\nIII. Marcas como Patagonia y Stella McCartney son referentes.\nIV. La moda sostenible busca reducir la huella ecológica y mejorar las condiciones laborales.\nV. Sin embargo, su implementación enfrenta desafíos como los costos y la demanda.",
+        "options": [
+            "I - II - III - IV - V",
+            "I - III - II - IV - V",
+            "II - III - I - IV - V",
+            "V - IV - III - II - I",
+            "I - IV - II - III - V"
+        ],
+        "answer": 0
+    }
+    ,
+    {
+        "task": "sentence_ordering",
+        "question": "La ética en la psicología\nI. La ética en la psicología busca garantizar el bienestar y el respeto a los pacientes.\nII. Incluye principios como la confidencialidad, el consentimiento informado y la no maleficencia.\nIII. Los psicólogos deben seguir códigos éticos en su práctica profesional.\nIV. La ética es clave para mantener la confianza en la psicología.\nV. Violaciones a la ética pueden tener consecuencias legales y profesionales.",
+        "options": [
+            "I - II - III - IV - V",
+            "I - III - II - IV - V",
+            "II - III - I - IV - V",
+            "V - IV - III - II - I",
+            "I - IV - II - III - V"
+        ],
+        "answer": 0
+    }
+    ,
+    {
+        "task": "sentence_ordering",
+        "question": "La teoría de la comunicación de masas\nI. La teoría de la comunicación de masas estudia cómo los medios influyen en la sociedad.\nII. Modelos como el de Harold Lasswell explican el proceso de comunicación masiva.\nIII. Los medios de comunicación pueden moldear la opinión pública y la cultura.\nIV. Esta teoría tiene aplicaciones en el periodismo, el marketing y la política.\nV. Su objetivo es entender el impacto de los medios en la sociedad.",
+        "options": [
+            "I - II - III - IV - V",
+            "II - I - III - IV - V",
+            "I - III - II - IV - V",
+            "V - IV - III - II - I",
+            "I - IV - III - II - V"
+        ],
+        "answer": 0
+    }
+    ,
+    {
+        "task": "sentence_ordering",
+        "question": "La historia del cine de animación\nI. El cine de animación surgió a principios del siglo XX con cortometrajes experimentales.\nII. Walt Disney revolucionó el género con películas como *Blancanieves y los siete enanitos*.\nIII. La animación ha evolucionado desde el dibujo a mano hasta la animación digital.\nIV. Hoy, el cine de animación es un género global con películas y series reconocidas.\nV. Géneros como el anime y la animación 3D son populares.",
+        "options": [
+            "I - II - III - IV - V",
+            "II - I - III - IV - V",
+            "I - III - II - IV - V",
+            "V - IV - III - II - I",
+            "I - IV - III - II - V"
+        ],
+        "answer": 0
+    }
+    ,
+    {
+        "task": "sentence_ordering",
+        "question": "La ética en la medicina\nI. La ética en la medicina busca garantizar el bienestar y el respeto a los pacientes.\nII. Incluye principios como la autonomía, la beneficencia y la justicia.\nIII. Los médicos deben seguir códigos éticos en su práctica profesional.\nIV. La ética es clave para mantener la confianza en la medicina.\nV. Violaciones a la ética pueden tener consecuencias legales y profesionales.",
+        "options": [
+            "I - II - III - IV - V",
+            "I - III - II - IV - V",
+            "II - III - I - IV - V",
+            "V - IV - III - II - I",
+            "I - IV - II - III - V"
+        ],
+        "answer": 0
+    }
+    ,
+    {
+        "task": "sentence_ordering",
+        "question": "La teoría del liderazgo\nI. La teoría del liderazgo estudia los estilos y características de los líderes.\nII. Modelos como el liderazgo transformacional y el situacional son populares.\nIII. Un buen líder inspira, motiva y guía a su equipo.\nIV. Esta teoría tiene aplicaciones en negocios, política y educación.\nV. Su objetivo es mejorar la efectividad y el bienestar en las organizaciones.",
+        "options": [
+            "I - II - III - IV - V",
+            "II - I - III - IV - V",
+            "I - III - II - IV - V",
+            "V - IV - III - II - I",
+            "I - IV - III - II - V"
+        ],
+        "answer": 0
+    }
+    ,
+    {
+        "task": "sentence_ordering",
+        "question": "La historia del diseño industrial\nI. El diseño industrial surgió como disciplina en el siglo XX.\nII. En sus inicios, se centraba en la funcionalidad y la producción en masa.\nIII. Con el tiempo, el diseño industrial incorporó aspectos estéticos y sostenibles.\nIV. Hoy, el diseño industrial es clave en la creación de productos innovadores.\nV. Su evolución ha sido impulsada por avances tecnológicos y cambios culturales.",
+        "options": [
+            "I - II - III - IV - V",
+            "II - I - III - IV - V",
+            "I - III - II - IV - V",
+            "V - IV - III - II - I",
+            "I - IV - III - II - V"
+        ],
+        "answer": 0
+    }
+    ,
+    {
+        "task": "sentence_ordering",
+        "question": "La ética en la inteligencia artificial\nI. La ética en la inteligencia artificial busca garantizar que la IA sea justa y beneficiosa.\nII. Temas como la privacidad, el sesgo algorítmico y la autonomía son clave.\nIII. La IA plantea desafíos éticos en campos como la medicina y la justicia.\nIV. Es necesario desarrollar marcos regulatorios para su uso responsable.\nV. La colaboración entre tecnólogos, éticos y legisladores es esencial.",
+        "options": [
+            "I - II - III - IV - V",
+            "I - III - II - IV - V",
+            "II - III - I - IV - V",
+            "V - IV - III - II - I",
+            "I - IV - II - III - V"
+        ],
+        "answer": 0
+    }
+    ,
+    {
+        "task": "sentence_ordering",
+        "question": "La teoría de la percepción\nI. La teoría de la percepción estudia cómo interpretamos la información sensorial.\nII. Incluye procesos como la atención, la organización y la interpretación.\nIII. La percepción puede ser influenciada por factores como la cultura y la experiencia.\nIV. Esta teoría tiene aplicaciones en psicología, marketing y diseño.\nV. Su objetivo es entender cómo percibimos el mundo que nos rodea.",
+        "options": [
+            "I - II - III - IV - V",
+            "II - I - III - IV - V",
+            "I - III - II - IV - V",
+            "V - IV - III - II - I",
+            "I - IV - III - II - V"
+        ],
+        "answer": 0
+    }
+    ,
+    {
+        "task": "sentence_ordering",
+        "question": "La historia del cómic en América Latina\nI. El cómic en América Latina surgió como un medio de entretenimiento popular.\nII. En sus inicios, estaba influenciado por el cómic estadounidense y europeo.\nIII. Con el tiempo, el cómic latinoamericano desarrolló su propia identidad.\nIV. Autores como Quino y Mafalda se convirtieron en íconos culturales.\nV. Hoy, el cómic latinoamericano aborda temas sociales y políticos.",
+        "options": [
+            "I - II - III - IV - V",
+            "II - I - III - IV - V",
+            "I - III - II - IV - V",
+            "V - IV - III - II - I",
+            "I - IV - III - II - V"
+        ],
+        "answer": 0
+    }
+    ,
+    {
+        "task": "sentence_ordering",
+        "question": "La ética en la investigación con animales\nI. La ética en la investigación con animales busca garantizar su bienestar.\nII. Incluye principios como el reemplazo, la reducción y el refinamiento (las 3R).\nIII. Los investigadores deben seguir normas éticas en sus experimentos.\nIV. La ética es clave para evitar el sufrimiento innecesario de los animales.\nV. Violaciones a la ética pueden tener consecuencias legales y profesionales.",
+        "options": [
+            "I - II - III - IV - V",
+            "I - III - II - IV - V",
+            "II - III - I - IV - V",
+            "V - IV - III - II - I",
+            "I - IV - II - III - V"
+        ],
+        "answer": 0
+    }
+    ,
+    {
+        "task": "sentence_ordering",
+        "question": "La teoría de la identidad\nI. La teoría de la identidad estudia cómo las personas se definen a sí mismas.\nII. Incluye aspectos como la identidad personal, social y cultural.\nIII. La identidad puede ser influenciada por factores como la familia, la educación y la sociedad.\nIV. Esta teoría tiene aplicaciones en psicología, sociología y educación.\nV. Su objetivo es entender cómo se construye y evoluciona la identidad.",
+        "options": [
+            "I - II - III - IV - V",
+            "II - I - III - IV - V",
+            "I - III - II - IV - V",
+            "V - IV - III - II - I",
+            "I - IV - III - II - V"
+        ],
+        "answer": 0
+    }
+    ,
+    {
+        "task": "sentence_ordering",
+        "question": "La historia del arte abstracto\nI. El arte abstracto surgió a principios del siglo XX como una ruptura con la representación figurativa.\nII. Artistas como Wassily Kandinsky y Piet Mondrian fueron pioneros.\nIII. Este movimiento buscaba expresar emociones y conceptos a través de formas y colores.\nIV. El arte abstracto influyó en otros movimientos artísticos como el expresionismo y el minimalismo.\nV. Hoy, el arte abstracto sigue siendo una forma de expresión innovadora.",
+        "options": [
+            "I - II - III - IV - V",
+            "II - I - III - IV - V",
+            "I - III - II - IV - V",
+            "V - IV - III - II - I",
+            "I - IV - III - II - V"
+        ],
+        "answer": 0
+    }
+    ,
+    {
+        "task": "sentence_ordering",
+        "question": "La ética en la publicidad digital\nI. La ética en la publicidad digital busca garantizar mensajes honestos y responsables.\nII. Incluye principios como la transparencia, la privacidad y el respeto al consumidor.\nIII. La publicidad engañosa y la manipulación de datos son ejemplos de violaciones éticas.\nIV. Las empresas deben considerar el impacto social de sus campañas digitales.\nV. La autorregulación y las leyes son clave para promover la ética en la publicidad digital.",
+        "options": [
+            "I - II - III - IV - V",
+            "I - III - II - IV - V",
+            "II - III - I - IV - V",
+            "V - IV - III - II - I",
+            "I - IV - II - III - V"
+        ],
+        "answer": 0
+    }
+    ,
+    {
+        "task": "sentence_ordering",
+        "question": "La teoría de la memoria\nI. La teoría de la memoria estudia cómo almacenamos y recuperamos información.\nII. Modelos como el de Atkinson y Shiffrin explican el proceso de memoria.\nIII. La memoria puede ser a corto plazo o a largo plazo.\nIV. Factores como la atención y la emoción influyen en la memoria.\nV. Esta teoría tiene aplicaciones en psicología, educación y neurociencia.",
+        "options": [
+            "I - II - III - IV - V",
+            "II - I - III - IV - V",
+            "I - III - II - IV - V",
+            "V - IV - III - II - I",
+            "I - IV - III - II - V"
+        ],
+        "answer": 0
+    }
+    ,
+    {
+        "task": "sentence_ordering",
+        "question": "La historia del teatro musical\nI. El teatro musical surgió en el siglo XIX como una fusión de teatro y música.\nII. En sus inicios, estaba influenciado por la ópera y el vodevil.\nIII. En el siglo XX, el teatro musical se profesionalizó con obras como *West Side Story*.\nIV. Hoy, el teatro musical es un género global con producciones en Broadway y el West End.\nV. Géneros como el musical moderno y el jukebox musical son populares.",
+        "options": [
+            "I - II - III - IV - V",
+            "II - I - III - IV - V",
+            "I - III - II - IV - V",
+            "V - IV - III - II - I",
+            "I - IV - III - II - V"
+        ],
+        "answer": 0
+    }
+    ,
+    {
+        "task": "sentence_ordering",
+        "question": "La ética en la conservación del patrimonio cultural\nI. La ética en la conservación del patrimonio cultural busca proteger el legado histórico.\nII. Incluye principios como el respeto, la autenticidad y la sostenibilidad.\nIII. Los conservadores deben considerar el impacto de sus intervenciones.\nIV. La ética es clave para preservar el patrimonio para las futuras generaciones.\nV. Violaciones a la ética pueden tener consecuencias legales y culturales.",
+        "options": [
+            "I - II - III - IV - V",
+            "I - III - II - IV - V",
+            "II - III - I - IV - V",
+            "V - IV - III - II - I",
+            "I - IV - II - III - V"
+        ],
+        "answer": 0
+    }
+    ,
+    {
+        "task": "sentence_ordering",
+        "question": "La teoría de la motivación intrínseca y extrínseca\nI. La teoría de la motivación distingue entre motivación intrínseca y extrínseca.\nII. La motivación intrínseca surge del interés y la satisfacción personal.\nIII. La motivación extrínseca proviene de recompensas externas como el dinero o el reconocimiento.\nIV. Ambas formas de motivación influyen en el comportamiento y el desempeño.\nV. Esta teoría tiene aplicaciones en educación, trabajo y psicología.",
+        "options": [
+            "I - II - III - IV - V",
+            "II - I - III - IV - V",
+            "I - III - II - IV - V",
+            "V - IV - III - II - I",
+            "I - IV - III - II - V"
+        ],
+        "answer": 0
+    }
+    ,
+    {
+        "task": "sentence_ordering",
+        "question": "La historia de la arquitectura moderna\nI. La arquitectura moderna surgió a principios del siglo XX como una ruptura con los estilos tradicionales.\nII. Se caracterizó por el uso de materiales como el acero, el vidrio y el hormigón.\nIII. Arquitectos como Le Corbusier y Frank Lloyd Wright fueron figuras clave.\nIV. Este movimiento buscaba combinar funcionalidad y estética.\nV. La arquitectura moderna influyó en el diseño de ciudades y edificios en todo el mundo.",
+        "options": [
+            "I - II - III - IV - V",
+            "II - I - III - IV - V",
+            "I - III - II - IV - V",
+            "V - IV - III - II - I",
+            "I - IV - III - II - V"
+        ],
+        "answer": 0
+    }
+    ,
+    {
+        "task": "sentence_ordering",
+        "question": "La ética en la investigación con seres humanos\nI. La ética en la investigación con seres humanos busca garantizar su bienestar y respeto.\nII. Incluye principios como el consentimiento informado, la confidencialidad y la no maleficencia.\nIII. Los investigadores deben seguir normas éticas en sus estudios.\nIV. La ética es clave para proteger los derechos de los participantes.\nV. Violaciones a la ética pueden tener consecuencias legales y profesionales.",
+        "options": [
+            "I - II - III - IV - V",
+            "I - III - II - IV - V",
+            "II - III - I - IV - V",
+            "V - IV - III - II - I",
+            "I - IV - II - III - V"
+        ],
+        "answer": 0
+    }
+    ,
+    {
+        "task": "sentence_ordering",
+        "question": "La teoría del aprendizaje colaborativo\nI. La teoría del aprendizaje colaborativo enfatiza el trabajo en equipo para construir conocimiento.\nII. Fue desarrollada por teóricos como Lev Vygotsky.\nIII. Según esta teoría, el aprendizaje es un proceso social.\nIV. El aprendizaje colaborativo tiene aplicaciones en educación y formación profesional.\nV. Su objetivo es mejorar la comprensión y la retención del conocimiento.",
+        "options": [
+            "I - II - III - IV - V",
+            "II - I - III - IV - V",
+            "I - III - II - IV - V",
+            "V - IV - III - II - I",
+            "I - IV - III - II - V"
+        ],
+        "answer": 0
+    }
+    ,
+    {
+        "task": "sentence_ordering",
+        "question": "La historia del arte conceptual\nI. El arte conceptual surgió en los años 60 como una ruptura con el arte tradicional.\nII. Se caracteriza por la idea o concepto detrás de la obra, más que por su forma.\nIII. Artistas como Marcel Duchamp y Joseph Kosuth fueron pioneros.\nIV. Este movimiento cuestiona la definición de arte y su valor.\nV. Hoy, el arte conceptual sigue siendo una forma de expresión innovadora.",
+        "options": [
+            "I - II - III - IV - V",
+            "II - I - III - IV - V",
+            "I - III - II - IV - V",
+            "V - IV - III - II - I",
+            "I - IV - III - II - V"
+        ],
+        "answer": 0
+    }
+    ,
+    {
+        "task": "sentence_ordering",
+        "question": "La ética en la ingeniería genética\nI. La ética en la ingeniería genética busca garantizar que sus aplicaciones sean seguras y beneficiosas.\nII. Temas como la edición genética y los organismos modificados plantean dilemas éticos.\nIII. La bioética es clave para guiar estas decisiones.\nIV. Las tecnologías genéticas deben ser accesibles y no discriminatorias.\nV. La colaboración entre científicos, éticos y legisladores es esencial.",
+        "options": [
+            "I - II - III - IV - V",
+            "I - III - II - IV - V",
+            "II - III - I - IV - V",
+            "V - IV - III - II - I",
+            "I - IV - II - III - V"
+        ],
+        "answer": 0
+    }
+    ,
+    {
+        "task": "sentence_ordering",
+        "question": "La teoría de la resiliencia\nI. La teoría de la resiliencia estudia la capacidad de las personas para superar adversidades.\nII. Factores como el apoyo social, la autoestima y la adaptabilidad son clave.\nIII. La resiliencia puede ser desarrollada a través de estrategias como la terapia y la educación.\nIV. Esta teoría tiene aplicaciones en psicología, educación y trabajo social.\nV. Su objetivo es mejorar el bienestar y la calidad de vida.",
+        "options": [
+            "I - II - III - IV - V",
+            "II - I - III - IV - V",
+            "I - III - II - IV - V",
+            "V - IV - III - II - I",
+            "I - IV - III - II - V"
+        ],
+        "answer": 0
+    }
+    ,
+    {
+        "task": "sentence_ordering",
+        "question": "La historia del diseño de modas\nI. El diseño de modas surgió como disciplina en el siglo XIX.\nII. En sus inicios, estaba centrado en la alta costura y la exclusividad.\nIII. Con el tiempo, el diseño de modas se democratizó con la producción en masa.\nIV. Hoy, el diseño de modas es una industria global con impacto cultural y económico.\nV. La moda sostenible es una tendencia actual en este campo.",
+        "options": [
+            "I - II - III - IV - V",
+            "II - I - III - IV - V",
+            "I - III - II - IV - V",
+            "V - IV - III - II - I",
+            "I - IV - III - II - V"
+        ],
+        "answer": 0
+    }
+    ,
+    {
+        "task": "sentence_ordering",
+        "question": "La ética en la inteligencia artificial\nI. La ética en la inteligencia artificial busca garantizar que la IA sea justa y beneficiosa.\nII. Temas como la privacidad, el sesgo algorítmico y la autonomía son clave.\nIII. La IA plantea desafíos éticos en campos como la medicina y la justicia.\nIV. Es necesario desarrollar marcos regulatorios para su uso responsable.\nV. La colaboración entre tecnólogos, éticos y legisladores es esencial.",
+        "options": [
+            "I - II - III - IV - V",
+            "I - III - II - IV - V",
+            "II - III - I - IV - V",
+            "V - IV - III - II - I",
+            "I - IV - II - III - V"
+        ],
+        "answer": 0
+    }
+    ,
+    {
+        "task": "sentence_ordering",
+        "question": "La teoría de la comunicación intercultural\nI. La teoría de la comunicación intercultural estudia cómo interactúan personas de diferentes culturas.\nII. Incluye aspectos como el lenguaje, los valores y las normas sociales.\nIII. La comunicación intercultural es clave en un mundo globalizado.\nIV. Esta teoría tiene aplicaciones en negocios, educación y diplomacia.\nV. Su objetivo es fomentar la comprensión y el respeto entre culturas.",
+        "options": [
+            "I - II - III - IV - V",
+            "II - I - III - IV - V",
+            "I - III - II - IV - V",
+            "V - IV - III - II - I",
+            "I - IV - III - II - V"
+        ],
+        "answer": 0
+    }
+    ,
+    {
+        "task": "sentence_ordering",
+        "question": "La historia del cine de terror\nI. El cine de terror surgió a principios del siglo XX con películas mudas.\nII. En sus inicios, estaba influenciado por la literatura gótica y el folclore.\nIII. En los años 30, Universal Studios popularizó los monstruos clásicos como Drácula y Frankenstein.\nIV. Hoy, el cine de terror es un género global con subgéneros como el slasher y el terror psicológico.\nV. El cine de terror refleja los miedos y ansiedades de la sociedad.",
+        "options": [
+            "I - II - III - IV - V",
+            "II - I - III - IV - V",
+            "I - III - II - IV - V",
+            "V - IV - III - II - I",
+            "I - IV - III - II - V"
+        ],
+        "answer": 0
+    }
+    ,
+    {
+        "task": "sentence_ordering",
+        "question": "La ética en el periodismo digital\nI. La ética en el periodismo digital busca garantizar la veracidad y el respeto en un entorno digital.\nII. Incluye principios como la transparencia, la verificación de fuentes y el respeto a la privacidad.\nIII. La desinformación y las noticias falsas son desafíos clave.\nIV. Los periodistas digitales deben promover prácticas éticas en su trabajo.\nV. La ética en el periodismo digital es clave para la confianza en los medios.",
+        "options": [
+            "I - II - III - IV - V",
+            "I - III - II - IV - V",
+            "II - III - I - IV - V",
+            "V - IV - III - II - I",
+            "I - IV - II - III - V"
+        ],
+        "answer": 0
+    }
+    ,
+    {
+        "task": "sentence_ordering",
+        "question": "La teoría del desarrollo humano\nI. La teoría del desarrollo humano estudia cómo las personas cambian a lo largo de su vida.\nII. Fue desarrollada por psicólogos como Erik Erikson y Jean Piaget.\nIII. Esta teoría abarca etapas desde la infancia hasta la vejez.\nIV. El desarrollo humano incluye aspectos físicos, cognitivos y emocionales.\nV. Su estudio tiene aplicaciones en educación, psicología y políticas públicas.",
+        "options": [
+            "I - II - III - IV - V",
+            "II - I - III - IV - V",
+            "I - III - II - IV - V",
+            "V - IV - III - II - I",
+            "I - IV - III - II - V"
+        ],
+        "answer": 0
+    }
+    ,
+    {
+        "task": "sentence_ordering",
+        "question": "La historia de la música electrónica\nI. La música electrónica surgió en los años 50 con el desarrollo de sintetizadores.\nII. En los 70, géneros como el disco y el synthpop se popularizaron.\nIII. En los 80 y 90, la música electrónica se diversificó con el house, el techno y el trance.\nIV. Hoy, la música electrónica es un fenómeno global con festivales y DJs reconocidos.\nV. La tecnología ha permitido la producción y distribución de música electrónica a gran escala.",
+        "options": [
+            "I - II - III - IV - V",
+            "II - I - III - IV - V",
+            "I - III - II - IV - V",
+            "V - IV - III - II - I",
+            "I - IV - III - II - V"
+        ],
+        "answer": 0
+    }
+    ]

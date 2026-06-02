@@ -1,0 +1,4812 @@
+[
+    {
+        "task": "synonyms_and_antonyms",
+        "question": "¿Cuál es el sinónimo de 'éxito'?",
+        "options": [
+            "fracaso",
+            "triunfo",
+            "derrota",
+            "error",
+            "equivocación"
+        ],
+        "answer": 1
+    },
+    {
+        "task": "synonyms_and_antonyms",
+        "question": "¿Cuál es el antónimo de 'abundante'?",
+        "options": [
+            "escaso",
+            "generoso",
+            "copioso",
+            "suficiente",
+            "considerable"
+        ],
+        "answer": 0
+    },
+    {
+        "task": "synonyms_and_antonyms",
+        "question": "¿Cuál palabra es sinónimo de 'persistente'?",
+        "options": [
+            "intermitente",
+            "tenaz",
+            "casual",
+            "temporal",
+            "esporádico"
+        ],
+        "answer": 1
+    },
+    {
+        "task": "synonyms_and_antonyms",
+        "question": "¿Cuál palabra no es sinónimo de 'pródigo'?",
+        "options": [
+            "generoso",
+            "derrochador",
+            "tacaño",
+            "liberal",
+            "magnánimo"
+        ],
+        "answer": 2
+    },
+    {
+        "task": "synonyms_and_antonyms",
+        "question": "¿Cuál es el antónimo de 'honesto'?",
+        "options": [
+            "virtuoso",
+            "íntegro",
+            " dishonesto",
+            "leal",
+            "recto"
+        ],
+        "answer": 2
+    },
+    {
+        "task": "synonyms_and_antonyms",
+        "question": "¿Cuál es la palabra que no guarda relación con 'prisa'?",
+        "options": [
+            "urgencia",
+            "apuro",
+            "despacho",
+            "lentitud",
+            "celeridad"
+        ],
+        "answer": 3
+    },
+    {
+        "task": "synonyms_and_antonyms",
+        "question": "Selecciona el antónimo de 'artificial'?",
+        "options": [
+            "falso",
+            "natural",
+            "sintético",
+            "imitado",
+            "falseado"
+        ],
+        "answer": 1
+    },
+    {
+        "task": "synonyms_and_antonyms",
+        "question": "¿Cuál es el sinónimo de 'increíble'?",
+        "options": [
+            "verosímil",
+            "asombroso",
+            "ordinario",
+            "común",
+            "normal"
+        ],
+        "answer": 1
+    },
+    {
+        "task": "synonyms_and_antonyms",
+        "question": "¿Qué palabra no significa lo mismo que las demás?",
+        "options": [
+            "luminoso",
+            "radiante",
+            "oscuro",
+            "brillante",
+            "lúcido"
+        ],
+        "answer": 2
+    },
+    {
+        "task": "synonyms_and_antonyms",
+        "question": "¿Cuál es el antónimo de 'amable'?",
+        "options": [
+            "cortés",
+            "agradable",
+            "grosero",
+            "afable",
+            "atento"
+        ],
+        "answer": 2
+    },
+    {
+        "task": "synonyms_and_antonyms",
+        "question": "Elige el sinónimo de 'detestar'?",
+        "options": [
+            "adorar",
+            "abominar",
+            "amar",
+            "apreciar",
+            "valora"
+        ],
+        "answer": 1
+    },
+    {
+        "task": "synonyms_and_antonyms",
+        "question": "¿Cuál palabra no es sinónimo de 'trabajo'?",
+        "options": [
+            "labor",
+            "esfuerzo",
+            "ocio",
+            "actividad",
+            "tarea"
+        ],
+        "answer": 2
+    },
+    {
+        "task": "synonyms_and_antonyms",
+        "question": "¿Cuál es el antónimo de 'público'?",
+        "options": [
+            "colectivo",
+            "privado",
+            "común",
+            "general",
+            "universal"
+        ],
+        "answer": 1
+    },
+    {
+        "task": "synonyms_and_antonyms",
+        "question": "Indica el sinónimo de 'terco'?",
+        "options": [
+            "flexible",
+            "obstinado",
+            "docil",
+            "acomodaticio",
+            "sumiso"
+        ],
+        "answer": 1
+    },
+    {
+        "task": "synonyms_and_antonyms",
+        "question": "¿Cuál es la palabra que no significa lo mismo que 'libertad'?",
+        "options": [
+            "autonomía",
+            "dependencia",
+            "independencia",
+            "liberación",
+            "emancipación"
+        ],
+        "answer": 1
+    },
+    {
+        "task": "synonyms_and_antonyms",
+        "question": "¿Cuál es el antónimo de 'débil'?",
+        "options": [
+            "delgado",
+            "fuerte",
+            "débil",
+            "delicado",
+            "frágil"
+        ],
+        "answer": 1
+    },
+    {
+        "task": "synonyms_and_antonyms",
+        "question": "Elige el sinónimo de 'iniciativa'?",
+        "options": [
+            "pasividad",
+            "espontaneidad",
+            "pasividad",
+            "indiferencia",
+            "apático"
+        ],
+        "answer": 1
+    },
+    {
+        "task": "synonyms_and_antonyms",
+        "question": "¿Cuál palabra no es sinónimo de 'héroe'?",
+        "options": [
+            "valiente",
+            "cobarde",
+            "proeza",
+            "bravo",
+            "audaz"
+        ],
+        "answer": 1
+    },
+    {
+        "task": "synonyms_and_antonyms",
+        "question": "¿Cuál es el antónimo de 'creativo'?",
+        "options": [
+            "original",
+            "innovador",
+            "conservador",
+            "inventivo",
+            "imaginativo"
+        ],
+        "answer": 2
+    },
+    {
+        "task": "synonyms_and_antonyms",
+        "question": "Indica el sinónimo de 'sabio'?",
+        "options": [
+            "ignorante",
+            "erudito",
+            "necio",
+            "ignorante",
+            "iletrado"
+        ],
+        "answer": 1
+    },
+    {
+        "task": "synonyms_and_antonyms",
+        "question": "¿Cuál palabra no significa lo mismo que 'desorden'?",
+        "options": [
+            "caos",
+            "orden",
+            "confusión",
+            "desbarajuste",
+            "desorganización"
+        ],
+        "answer": 1
+    },
+    {
+        "task": "synonyms_and_antonyms",
+        "question": "¿Cuál es el antónimo de 'desconocido'?",
+        "options": [
+            "anónimo",
+            "famoso",
+            "ignoto",
+            "incógnito",
+            "secreto"
+        ],
+        "answer": 1
+    },
+    {
+        "task": "synonyms_and_antonyms",
+        "question": "Elige el sinónimo de 'cauteloso'?",
+        "options": [
+            "imprudente",
+            "precavido",
+            "irreflexivo",
+            "temerario",
+            "desconfiado"
+        ],
+        "answer": 1
+    },
+    {
+        "task": "synonyms_and_antonyms",
+        "question": "¿Cuál palabra no es sinónimo de 'enorme'?",
+        "options": [
+            "gigantesco",
+            "minúsculo",
+            "colosal",
+            "titánico",
+            "descomunal"
+        ],
+        "answer": 1
+    },
+    {
+        "task": "synonyms_and_antonyms",
+        "question": "¿Cuál es el antónimo de 'permitir'?",
+        "options": [
+            "consentir",
+            "autorizar",
+            "prohibir",
+            "acceder",
+            "aprobar"
+        ],
+        "answer": 2
+    },
+    {
+        "task": "synonyms_and_antonyms",
+        "question": "Indica el sinónimo de 'dudar'?",
+        "options": [
+            "asegurar",
+            "vacilar",
+            "confirmar",
+            "persistir",
+            "insistir"
+        ],
+        "answer": 1
+    },
+    {
+        "task": "synonyms_and_antonyms",
+        "question": "¿Cuál es la palabra que no significa lo mismo que 'alegría'?",
+        "options": [
+            "felicidad",
+            "tristeza",
+            "gozo",
+            "regocijo",
+            "euforia"
+        ],
+        "answer": 1
+    },
+    {
+        "task": "synonyms_and_antonyms",
+        "question": "¿Cuál es el antónimo de 'humilde'?",
+        "options": [
+            "modesto",
+            "sencillo",
+            "orgulloso",
+            "reservado",
+            "tímido"
+        ],
+        "answer": 2
+    },
+    {
+        "task": "synonyms_and_antonyms",
+        "question": "Elige el sinónimo de 'desconcertar'?",
+        "options": [
+            "confundir",
+            "clarificar",
+            "aumentar",
+            "simplificar",
+            "explicar"
+        ],
+        "answer": 0
+    },
+    {
+        "task": "synonyms_and_antonyms",
+        "question": "¿Cuál es el antónimo de 'iniciar'?",
+        "options": [
+            "comenzar",
+            "empezar",
+            "finalizar",
+            "inaugurar",
+            "iniciar"
+        ],
+        "answer": 2
+    },
+    {
+        "task": "synonyms_and_antonyms",
+        "question": "Elige el sinónimo de 'precoz'?",
+        "options": [
+            "tardío",
+            "maduro",
+            "tímido",
+            "juvenil",
+            "temprano"
+        ],
+        "answer": 4
+    },
+    {
+        "task": "synonyms_and_antonyms",
+        "question": "¿Cuál palabra no es sinónimo de 'incierto'?",
+        "options": [
+            "dudoso",
+            "seguro",
+            "inseguro",
+            "vacilante",
+            "indeterminado"
+        ],
+        "answer": 1
+    },
+    {
+        "task": "synonyms_and_antonyms",
+        "question": "¿Cuál es el antónimo de 'detener'?",
+        "options": [
+            "parar",
+            "frenar",
+            "continuar",
+            "suspender",
+            "interrumpir"
+        ],
+        "answer": 2
+    },
+    {
+        "task": "synonyms_and_antonyms",
+        "question": "Indica el sinónimo de 'infantil'?",
+        "options": [
+            "adulto",
+            "pueril",
+            "serio",
+            "juvenil",
+            "maduro"
+        ],
+        "answer": 1
+    },
+    {
+        "task": "synonyms_and_antonyms",
+        "question": "¿Cuál es la palabra que no significa lo mismo que 'desprecio'?",
+        "options": [
+            "desdén",
+            "rechazo",
+            "apreciación",
+            "aversion",
+            "desaire"
+        ],
+        "answer": 2
+    },
+    {
+        "task": "synonyms_and_antonyms",
+        "question": "¿Cuál es el antónimo de 'oscuro'?",
+        "options": [
+            "brillante",
+            "luminoso",
+            "sombrío",
+            "tenebroso",
+            "opaco"
+        ],
+        "answer": 1
+    },
+    {
+        "task": "synonyms_and_antonyms",
+        "question": "Elige el sinónimo de 'generoso'?",
+        "options": [
+            "avaro",
+            "magnánimo",
+            "egoísta",
+            "tacaño",
+            "egoísta"
+        ],
+        "answer": 1
+    },
+    {
+        "task": "synonyms_and_antonyms",
+        "question": "¿Cuál es el antónimo de 'desear'?",
+        "options": [
+            "anhelar",
+            "ansiar",
+            "rechazar",
+            "codiciar",
+            "preferir"
+        ],
+        "answer": 2
+    },
+    {
+        "task": "synonyms_and_antonyms",
+        "question": "Indica el sinónimo de 'insignificante'?",
+        "options": [
+            "importante",
+            "irrelevante",
+            "notable",
+            "relevante",
+            "destacado"
+        ],
+        "answer": 1
+    },
+    {
+        "task": "synonyms_and_antonyms",
+        "question": "¿Cuál palabra no significa lo mismo que 'confianza'?",
+        "options": [
+            "fianza",
+            "desconfianza",
+            "seguridad",
+            "credibilidad",
+            "fe"
+        ],
+        "answer": 1
+    },
+    {
+        "task": "synonyms_and_antonyms",
+        "question": "¿Cuál es el antónimo de 'pacífico'?",
+        "options": [
+            "tranquilo",
+            "sereno",
+            "belicoso",
+            "apacible",
+            "calmo"
+        ],
+        "answer": 2
+    },
+    {
+        "task": "synonyms_and_antonyms",
+        "question": "Elige el sinónimo de 'sutil'?",
+        "options": [
+            "grosero",
+            "delicado",
+            "rudo",
+            "brusco",
+            "torpe"
+        ],
+        "answer": 1
+    },
+    {
+        "task": "synonyms_and_antonyms",
+        "question": "¿Cuál es el antónimo de 'necio'?",
+        "options": [
+            "ignorante",
+            "sabio",
+            "simple",
+            "inculto",
+            "ignorante"
+        ],
+        "answer": 1
+    },
+    {
+        "task": "synonyms_and_antonyms",
+        "question": "Indica el sinónimo de 'escapar'?",
+        "options": [
+            "capturar",
+            "huir",
+            "reprimir",
+            "perseguir",
+            "retener"
+        ],
+        "answer": 1
+    },
+    {
+        "task": "synonyms_and_antonyms",
+        "question": "¿Cuál palabra no significa lo mismo que 'sostenible'?",
+        "options": [
+            "viable",
+            "insostenible",
+            "factible",
+            "realizable",
+            "posible"
+        ],
+        "answer": 1
+    },
+    {
+        "task": "synonyms_and_antonyms",
+        "question": "¿Cuál es el antónimo de 'inmenso'?",
+        "options": [
+            "enorme",
+            "colosal",
+            "minúsculo",
+            "descomunal",
+            "gigante"
+        ],
+        "answer": 2
+    },
+    {
+        "task": "synonyms_and_antonyms",
+        "question": "Elige el sinónimo de 'acabar'?",
+        "options": [
+            "empezar",
+            "terminar",
+            "comenzar",
+            "iniciar",
+            "prolongar"
+        ],
+        "answer": 1
+    },
+    {
+        "task": "synonyms_and_antonyms",
+        "question": "¿Cuál palabra no es sinónimo de 'honor'?",
+        "options": [
+            "honra",
+            "deshonra",
+            "gloria",
+            "prestigio",
+            "reputación"
+        ],
+        "answer": 1
+    },
+    {
+        "task": "synonyms_and_antonyms",
+        "question": "¿Cuál es el antónimo de 'complejo'?",
+        "options": [
+            "intrincado",
+            "simple",
+            "complicado",
+            "laberíntico",
+            "implicado"
+        ],
+        "answer": 1
+    },
+    {
+        "task": "synonyms_and_antonyms",
+        "question": "Indica el sinónimo de 'exhausto'?",
+        "options": [
+            "descansado",
+            "agotado",
+            "reposado",
+            "rejuvenecido",
+            "recargado"
+        ],
+        "answer": 1
+    },
+    {
+        "task": "synonyms_and_antonyms",
+        "question": "¿Cuál palabra no significa lo mismo que 'unánime'?",
+        "options": [
+            "consensuado",
+            "dividido",
+            "homogéneo",
+            "acordado",
+            "concordante"
+        ],
+        "answer": 1
+    },
+    {
+        "task": "synonyms_and_antonyms",
+        "question": "¿Cuál es el antónimo de 'superficial'?",
+        "options": [
+            "somero",
+            "profundizo",
+            "ligero",
+            "trivial",
+            "insignificante"
+        ],
+        "answer": 1
+    },
+    {
+        "task": "synonyms_and_antonyms",
+        "question": "Elige el sinónimo de 'atemperar'?",
+        "options": [
+            "enfurecer",
+            "moderar",
+            "exacerbar",
+            "provocar",
+            "estimular"
+        ],
+        "answer": 1
+    },
+    {
+        "task": "synonyms_and_antonyms",
+        "question": "¿Cuál palabra no es sinónimo de 'preocupación'?",
+        "options": [
+            "inquietud",
+            "despreocupación",
+            "premura",
+            "ansiedad",
+            "congoja"
+        ],
+        "answer": 1
+    },
+    {
+        "task": "synonyms_and_antonyms",
+        "question": "¿Cuál es el antónimo de 'absorber'?",
+        "options": [
+            "asimilar",
+            "excretar",
+            "aspirar",
+            "retener",
+            "absorver"
+        ],
+        "answer": 1
+    },
+    {
+        "task": "synonyms_and_antonyms",
+        "question": "Indica el sinónimo de 'esforzar'?",
+        "options": [
+            "esquivar",
+            "empeñarse",
+            "descuidar",
+            "relajar",
+            "ignorar"
+        ],
+        "answer": 1
+    },
+    {
+        "task": "synonyms_and_antonyms",
+        "question": "¿Cuál palabra no significa lo mismo que 'extremo'?",
+        "options": [
+            "moderado",
+            "radical",
+            "exagerado",
+            "excesivo",
+            "ultimo"
+        ],
+        "answer": 0
+    },
+    {
+        "task": "synonyms_and_antonyms",
+        "question": "¿Cuál es el antónimo de 'aprender'?",
+        "options": [
+            "enseñar",
+            "olvidar",
+            "estudiar",
+            "memorizar",
+            "aprender"
+        ],
+        "answer": 1
+    },
+    {
+        "task": "synonyms_and_antonyms",
+        "question": "Elige el sinónimo de 'audaz'?",
+        "options": [
+            "cobarde",
+            "valiente",
+            "miedoso",
+            "tímido",
+            "temerosos"
+        ],
+        "answer": 1
+    },
+    {
+        "task": "synonyms_and_antonyms",
+        "question": "¿Cuál palabra no es sinónimo de 'perplejo'?",
+        "options": [
+            "desconcertado",
+            "sereno",
+            "confundido",
+            "atónito",
+            "pasmado"
+        ],
+        "answer": 1
+    },
+    {
+        "task": "synonyms_and_antonyms",
+        "question": "¿Cuál es el antónimo de 'prohibido'?",
+        "options": [
+            "autorizado",
+            "permitido",
+            "vetado",
+            "imposible",
+            "restringido"
+        ],
+        "answer": 1
+    },
+    {
+        "task": "synonyms_and_antonyms",
+        "question": "Indica el sinónimo de 'escondido'?",
+        "options": [
+            "visible",
+            "oculto",
+            "aperturado",
+            "manifiesto",
+            "evidente"
+        ],
+        "answer": 1
+    },
+    {
+        "task": "synonyms_and_antonyms",
+        "question": "¿Cuál palabra no significa lo mismo que 'brillante'?",
+        "options": [
+            "resplandeciente",
+            "oscuro",
+            "fulgurante",
+            "claridad",
+            "luminoso"
+        ],
+        "answer": 1
+    },
+    {
+        "task": "synonyms_and_antonyms",
+        "question": "¿Cuál es el antónimo de 'denso'?",
+        "options": [
+            "compacto",
+            "diluyente",
+            "espeso",
+            "concentrado",
+            "grueso"
+        ],
+        "answer": 1
+    },
+    {
+        "task": "synonyms_and_antonyms",
+        "question": "Elige el sinónimo de 'desconocido'?",
+        "options": [
+            "familiar",
+            "ignorante",
+            "desconocido",
+            "anónimo",
+            "único"
+        ],
+        "answer": 2
+    },
+    {
+        "task": "synonyms_and_antonyms",
+        "question": "¿Cuál palabra no es sinónimo de 'agudo'?",
+        "options": [
+            "punzante",
+            "llano",
+            "cortante",
+            "afilado",
+            "vivo"
+        ],
+        "answer": 1
+    },
+    {
+        "task": "synonyms_and_antonyms",
+        "question": "¿Cuál es el antónimo de 'honesto'?",
+        "options": [
+            "honrad",
+            "íntegro",
+            "deshonesto",
+            "leal",
+            "incorruptible"
+        ],
+        "answer": 2
+    },
+    {
+        "task": "synonyms_and_antonyms",
+        "question": "Indica el sinónimo de 'fugaz'?",
+        "options": [
+            "estático",
+            "breve",
+            "duradero",
+            "permanente",
+            "constante"
+        ],
+        "answer": 1
+    },
+    {
+        "task": "synonyms_and_antonyms",
+        "question": "¿Cuál palabra no significa lo mismo que 'generoso'?",
+        "options": [
+            "avaro",
+            "magnánimo",
+            "tacaño",
+            "liberal",
+            "dispensador"
+        ],
+        "answer": 0
+    },
+    {
+        "task": "synonyms_and_antonyms",
+        "question": "¿Cuál es el antónimo de 'falso'?",
+        "options": [
+            "falso",
+            "verídico",
+            "mentiroso",
+            "engañoso",
+            "fingido"
+        ],
+        "answer": 1
+    },
+    {
+        "task": "synonyms_and_antonyms",
+        "question": "Elige el sinónimo de 'celoso'?",
+        "options": [
+            "indiferente",
+            "envidioso",
+            "desinteresado",
+            "indiferente",
+            "despreocupado"
+        ],
+        "answer": 1
+    },
+    {
+        "task": "synonyms_and_antonyms",
+        "question": "¿Cuál palabra no es sinónimo de 'enorme'?",
+        "options": [
+            "gigantesco",
+            "minúsculo",
+            "colosal",
+            "titánico",
+            "descomunal"
+        ],
+        "answer": 1
+    },
+    {
+        "task": "synonyms_and_antonyms",
+        "question": "¿Cuál es el antónimo de 'paciente'?",
+        "options": [
+            "sereno",
+            "impaciente",
+            "tranquilo",
+            "calmado",
+            "suave"
+        ],
+        "answer": 1
+    },
+    {
+        "task": "synonyms_and_antonyms",
+        "question": "Indica el sinónimo de 'cruel'?",
+        "options": [
+            "bondadoso",
+            "héroe",
+            "brutal",
+            "amable",
+            "gentil"
+        ],
+        "answer": 2
+    },
+    {
+        "task": "synonyms_and_antonyms",
+        "question": "¿Cuál palabra no significa lo mismo que 'fragilidad'?",
+        "options": [
+            "debilidad",
+            "robustez",
+            "flaqueza",
+            "debilidad",
+            "fragilidad"
+        ],
+        "answer": 1
+    },
+    {
+        "task": "synonyms_and_antonyms",
+        "question": "¿Cuál es el antónimo de 'aprobar'?",
+        "options": [
+            "aplazar",
+            "reprobar",
+            "aceptar",
+            "validar",
+            "ratificar"
+        ],
+        "answer": 1
+    },
+    {
+        "task": "synonyms_and_antonyms",
+        "question": "Elige el sinónimo de 'tímido'?",
+        "options": [
+            "audaz",
+            "apocado",
+            "valiente",
+            "atrevido",
+            "desenvuelto"
+        ],
+        "answer": 1
+    },
+    {
+        "task": "synonyms_and_antonyms",
+        "question": "¿Cuál palabra no es sinónimo de 'gloria'?",
+        "options": [
+            "honor",
+            "fama",
+            "deshonra",
+            "prestigio",
+            "renombre"
+        ],
+        "answer": 2
+    },
+    {
+        "task": "synonyms_and_antonyms",
+        "question": "¿Cuál es el antónimo de 'extraordinario'?",
+        "options": [
+            "ordinario",
+            "increíble",
+            "notable",
+            "remarcable",
+            "excepcional"
+        ],
+        "answer": 0
+    },
+    {
+        "task": "synonyms_and_antonyms",
+        "question": "Indica el sinónimo de 'frío'?",
+        "options": [
+            "caliente",
+            "helado",
+            "templado",
+            "tibio",
+            "cálido"
+        ],
+        "answer": 1
+    },
+    {
+        "task": "synonyms_and_antonyms",
+        "question": "¿Cuál palabra no significa lo mismo que 'amplio'?",
+        "options": [
+            "espacioso",
+            "angosto",
+            "extenso",
+            "vasta",
+            "ancho"
+        ],
+        "answer": 1
+    },
+    {
+        "task": "synonyms_and_antonyms",
+        "question": "¿Cuál es el antónimo de 'lento'?",
+        "options": [
+            "rapido",
+            "veloz",
+            "despacio",
+            "tardo",
+            "perezoso"
+        ],
+        "answer": 1
+    },
+    {
+        "task": "synonyms_and_antonyms",
+        "question": "Elige el sinónimo de 'veloz'?",
+        "options": [
+            "despacio",
+            "rápido",
+            "tardo",
+            "lento",
+            "lentitudo"
+        ],
+        "answer": 1
+    },
+    {
+        "task": "synonyms_and_antonyms",
+        "question": "¿Cuál palabra no es sinónimo de 'fuerte'?",
+        "options": [
+            "débil",
+            "robusto",
+            "firme",
+            "poderoso",
+            "resistente"
+        ],
+        "answer": 0
+    },
+    {
+        "task": "synonyms_and_antonyms",
+        "question": "¿Cuál es el antónimo de 'nuevo'?",
+        "options": [
+            "antiguo",
+            "moderno",
+            "reciente",
+            "actual",
+            "contemporáneo"
+        ],
+        "answer": 0
+    },
+    {
+        "task": "synonyms_and_antonyms",
+        "question": "Indica el sinónimo de 'lógico'?",
+        "options": [
+            "ilógico",
+            "razonable",
+            "incoherente",
+            "absurdo",
+            "incongruente"
+        ],
+        "answer": 1
+    },
+    {
+        "task": "synonyms_and_antonyms",
+        "question": "¿Cuál palabra no significa lo mismo que 'cauteloso'?",
+        "options": [
+            "precavido",
+            "imprudente",
+            "cuidadoso",
+            "prudent",
+            "cauteloso"
+        ],
+        "answer": 1
+    },
+    {
+        "task": "synonyms_and_antonyms",
+        "question": "¿Cuál es el antónimo de 'sincero'?",
+        "options": [
+            "honesto",
+            "genuino",
+            "falso",
+            "leal",
+            "auténtico"
+        ],
+        "answer": 2
+    },
+    {
+        "task": "synonyms_and_antonyms",
+        "question": "Elige el sinónimo de 'exhaustivo'?",
+        "options": [
+            "superficial",
+            "completo",
+            "parcial",
+            "incompleto",
+            "sumario"
+        ],
+        "answer": 1
+    },
+    {
+        "task": "synonyms_and_antonyms",
+        "question": "¿Cuál palabra no es sinónimo de 'tranquilo'?",
+        "options": [
+            "agitado",
+            "sereno",
+            "pacífico",
+            "calmado",
+            "plácido"
+        ],
+        "answer": 0
+    },
+    {
+        "task": "synonyms_and_antonyms",
+        "question": "¿Cuál es el antónimo de 'leal'?",
+        "options": [
+            "traicionero",
+            "fiel",
+            "honesto",
+            "honrado",
+            "leal"
+        ],
+        "answer": 0
+    },
+    {
+        "task": "synonyms_and_antonyms",
+        "question": "Indica el sinónimo de 'raro'?",
+        "options": [
+            "común",
+            "poco frecuente",
+            "habitual",
+            "normal",
+            "típico"
+        ],
+        "answer": 1
+    },
+    {
+        "task": "synonyms_and_antonyms",
+        "question": "¿Cuál palabra no significa lo mismo que 'riqueza'?",
+        "options": [
+            "pobreza",
+            "abundancia",
+            "opulencia",
+            "lujo",
+            "fortuna"
+        ],
+        "answer": 0
+    },
+    {
+        "task": "synonyms_and_antonyms",
+        "question": "¿Cuál es el antónimo de 'invisible'?",
+        "options": [
+            "transparente",
+            "visible",
+            "oculto",
+            "desaparecido",
+            "escondido"
+        ],
+        "answer": 1
+    },
+    {
+        "task": "synonyms_and_antonyms",
+        "question": "Elige el sinónimo de 'vulgar'?",
+        "options": [
+            "refinado",
+            "ordinario",
+            "elegante",
+            "distinguido",
+            "sofisticado"
+        ],
+        "answer": 1
+    },
+    {
+        "task": "synonyms_and_antonyms",
+        "question": "¿Cuál palabra no es sinónimo de 'cansado'?",
+        "options": [
+            "descansado",
+            "agotado",
+            "fatigado",
+            "exhausto",
+            "rendido"
+        ],
+        "answer": 0
+    },
+    {
+        "task": "synonyms_and_antonyms",
+        "question": "¿Cuál es el antónimo de 'justo'?",
+        "options": [
+            "injusto",
+            "equitativo",
+            "honesto",
+            "imparcial",
+            "correcto"
+        ],
+        "answer": 0
+    },
+    {
+        "task": "synonyms_and_antonyms",
+        "question": "Elige el sinónimo de 'valioso'?",
+        "options": [
+            "barato",
+            "precioso",
+            "sin valor",
+            "inútil",
+            "despreciable"
+        ],
+        "answer": 1
+    },
+    {
+        "task": "synonyms_and_antonyms",
+        "question": "¿Cuál palabra no significa lo mismo que 'económico'?",
+        "options": [
+            "caro",
+            "barato",
+            "asequible",
+            "accesible",
+            "económico"
+        ],
+        "answer": 0
+    },
+    {
+        "task": "synonyms_and_antonyms",
+        "question": "¿Cuál es el antónimo de 'largo'?",
+        "options": [
+            "corto",
+            "extenso",
+            "prolongado",
+            "dilatado",
+            "amplio"
+        ],
+        "answer": 0
+    },
+    {
+        "task": "synonyms_and_antonyms",
+        "question": "Indica el sinónimo de 'fidedigno'?",
+        "options": [
+            "desconfiable",
+            "confiable",
+            "incierto",
+            "inseguro",
+            "poco fiable"
+        ],
+        "answer": 1
+    },
+    {
+        "task": "synonyms_and_antonyms",
+        "question": "¿Cuál palabra no significa lo mismo que 'agradable'?",
+        "options": [
+            "desagradable",
+            "placentero",
+            "complaciente",
+            "atractivo",
+            "grato"
+        ],
+        "answer": 0
+    },
+    {
+        "task": "synonyms_and_antonyms",
+        "question": "¿Cuál es el antónimo de 'noble'?",
+        "options": [
+            "nobleza",
+            "plebeyo",
+            "generoso",
+            "heroico",
+            "magnánimo"
+        ],
+        "answer": 1
+    },
+    {
+        "task": "synonyms_and_antonyms",
+        "question": "Elige el sinónimo de 'confidente'?",
+        "options": [
+            "reservado",
+            "discreto",
+            "reservado",
+            "callado",
+            "silencioso"
+        ],
+        "answer": 0
+    },
+    {
+        "task": "synonyms_and_antonyms",
+        "question": "¿Cuál palabra no es sinónimo de 'elocuente'?",
+        "options": [
+            "articulado",
+            "tartamudo",
+            "persuasivo",
+            "expresivo",
+            "verbal"
+        ],
+        "answer": 1
+    },
+    {
+        "task": "synonyms_and_antonyms",
+        "question": "¿Cuál es el antónimo de 'permitir'?",
+        "options": [
+            "autorizar",
+            "consentir",
+            "prohibir",
+            "aprobar",
+            "aplazar"
+        ],
+        "answer": 2
+    },
+    {
+        "task": "synonyms_and_antonyms",
+        "question": "Indica el sinónimo de 'curioso'?",
+        "options": [
+            "desinteresado",
+            "indiferente",
+            "inquisitivo",
+            "apático",
+            "despreocupado"
+        ],
+        "answer": 2
+    },
+    {
+        "task": "synonyms_and_antonyms",
+        "question": "¿Qué palabra no significa lo mismo que 'apasionado'?",
+        "options": [
+            "indiferente",
+            "entusiasta",
+            "ardeiente",
+            "frenético",
+            "fogoso"
+        ],
+        "answer": 0
+    },
+    {
+        "task": "synonyms_and_antonyms",
+        "question": "¿Cuál es el antónimo de 'posible'?",
+        "options": [
+            "improbable",
+            "imposible",
+            "factible",
+            "realizable",
+            "viable"
+        ],
+        "answer": 1
+    }
+    ,
+    {
+        "task": "synonyms_and_antonyms",
+        "question": "Elige el sinónimo de 'inmenso'?",
+        "options": [
+            "minusculo",
+            "enorme",
+            "pequeño",
+            "compacto",
+            "breve"
+        ],
+        "answer": 1
+    },
+    {
+        "task": "synonyms_and_antonyms",
+        "question": "¿Cuál palabra no es sinónimo de 'astuto'?",
+        "options": [
+            "ingenuo",
+            "sagaz",
+            "perspicaz",
+            "avispado",
+            "despierto"
+        ],
+        "answer": 0
+    },
+    {
+        "task": "synonyms_and_antonyms",
+        "question": "¿Cuál es el antónimo de 'respetar'?",
+        "options": [
+            "despreciar",
+            "honrar",
+            "considerar",
+            "apreciar",
+            "valora"
+        ],
+        "answer": 0
+    },
+    {
+        "task": "synonyms_and_antonyms",
+        "question": "Indica el sinónimo de 'preciso'?",
+        "options": [
+            "aproximado",
+            "exacto",
+            "vago",
+            "confuso",
+            "incierto"
+        ],
+        "answer": 1
+    },
+    {
+        "task": "synonyms_and_antonyms",
+        "question": "¿Cuál palabra no significa lo mismo que 'libertad'?",
+        "options": [
+            "autonomía",
+            "esclavitud",
+            "independencia",
+            "indiagencia",
+            "emancipación"
+        ],
+        "answer": 1
+    },
+    {
+        "task": "synonyms_and_antonyms",
+        "question": "Elige el sinónimo de 'despreciativo'?",
+        "options": [
+            "considerativo",
+            "despectivo",
+            "apreciativo",
+            "respectivo",
+            "estimativo"
+        ],
+        "answer": 1
+    },
+    {
+        "task": "synonyms_and_antonyms",
+        "question": "¿Cuál es el antónimo de 'sutil'?",
+        "options": [
+            "delicado",
+            "grueso",
+            "fino",
+            "refinado",
+            "sutilizado"
+        ],
+        "answer": 1
+    },
+    {
+        "task": "synonyms_and_antonyms",
+        "question": "Indica el sinónimo de 'moderado'?",
+        "options": [
+            "extremo",
+            "mesurado",
+            "exagerado",
+            "radical",
+            "excesivo"
+        ],
+        "answer": 1
+    },
+    {
+        "task": "synonyms_and_antonyms",
+        "question": "¿Cuál palabra no significa lo mismo que 'honradez'?",
+        "options": [
+            "deshonestidad",
+            "veracidad",
+            "integridad",
+            "honestidad",
+            "rectitud"
+        ],
+        "answer": 0
+    },
+    {
+        "task": "synonyms_and_antonyms",
+        "question": "¿Cuál es el antónimo de 'agradable'?",
+        "options": [
+            "desagradable",
+            "placentero",
+            "atractivo",
+            "grato",
+            "ameno"
+        ],
+        "answer": 0
+    },
+    {
+        "task": "synonyms_and_antonyms",
+        "question": "Elige el sinónimo de 'influir'?",
+        "options": [
+            "indiferencia",
+            "afectar",
+            "ignorar",
+            "negligencia",
+            "despreocupado"
+        ],
+        "answer": 1
+    },
+    {
+        "task": "synonyms_and_antonyms",
+        "question": "¿Cuál palabra no es sinónimo de 'decidido'?",
+        "options": [
+            "indeciso",
+            "resuelto",
+            "determinado",
+            "firme",
+            "convicto"
+        ],
+        "answer": 0
+    },
+    {
+        "task": "synonyms_and_antonyms",
+        "question": "¿Cuál es el antónimo de 'permanente'?",
+        "options": [
+            "eterno",
+            "transitorio",
+            "duradero",
+            "constante",
+            "inmutable"
+        ],
+        "answer": 1
+    },
+    {
+        "task": "synonyms_and_antonyms",
+        "question": "Indica el sinónimo de 'indefenso'?",
+        "options": [
+            "protegido",
+            "desprotegido",
+            "armado",
+            "resguardado",
+            "seguro"
+        ],
+        "answer": 1
+    },
+    {
+        "task": "synonyms_and_antonyms",
+        "question": "¿Cuál palabra no significa lo mismo que 'amplio'?",
+        "options": [
+            "espacioso",
+            "estrecho",
+            "extenso",
+            "vasta",
+            "ancho"
+        ],
+        "answer": 1
+    },
+    {
+        "task": "synonyms_and_antonyms",
+        "question": "¿Cuál es el antónimo de 'limpio'?",
+        "options": [
+            "sucio",
+            "impoluto",
+            "pulcro",
+            "inmaculado",
+            "aseado"
+        ],
+        "answer": 0
+    },
+    {
+        "task": "synonyms_and_antonyms",
+        "question": "Elige el sinónimo de 'específico'?",
+        "options": [
+            "genérico",
+            "particular",
+            "común",
+            "genérico",
+            "universal"
+        ],
+        "answer": 1
+    },
+    {
+        "task": "synonyms_and_antonyms",
+        "question": "¿Cuál palabra no es sinónimo de 'sincero'?",
+        "options": [
+            "insincero",
+            "honesto",
+            "franco",
+            "leal",
+            "auténtico"
+        ],
+        "answer": 0
+    },
+    {
+        "task": "synonyms_and_antonyms",
+        "question": "Elige el sinónimo de 'despreocupado'?",
+        "options": [
+            "preocupado",
+            "indiferente",
+            "ansioso",
+            "inquieto",
+            "tenso"
+        ],
+        "answer": 1
+    },
+    {
+        "task": "synonyms_and_antonyms",
+        "question": "¿Cuál palabra no significa lo mismo que 'complejo'?",
+        "options": [
+            "simple",
+            "intrincado",
+            "complicado",
+            "laberíntico",
+            "enredado"
+        ],
+        "answer": 0
+    },
+    {
+        "task": "synonyms_and_antonyms",
+        "question": "¿Cuál es el antónimo de 'valeroso'?",
+        "options": [
+            "cobarde",
+            "audaz",
+            "valiente",
+            "bravo",
+            "audaz"
+        ],
+        "answer": 0
+    },
+    {
+        "task": "synonyms_and_antonyms",
+        "question": "Indica el sinónimo de 'puro'?",
+        "options": [
+            "impuro",
+            "sincero",
+            "inmundo",
+            "corrupto",
+            "puro"
+        ],
+        "answer": 1
+    },
+    {
+        "task": "synonyms_and_antonyms",
+        "question": "¿Cuál palabra no significa lo mismo que 'amable'?",
+        "options": [
+            "desagradable",
+            "cordial",
+            "afable",
+            "atento",
+            "agradable"
+        ],
+        "answer": 0
+    },
+    {
+        "task": "synonyms_and_antonyms",
+        "question": "¿Cuál es el antónimo de 'cálido'?",
+        "options": [
+            "frío",
+            "tibio",
+            "helado",
+            "templado",
+            "gélido"
+        ],
+        "answer": 0
+    },
+    {
+        "task": "synonyms_and_antonyms",
+        "question": "Elige el sinónimo de 'resistente'?",
+        "options": [
+            "frágil",
+            "firme",
+            "débil",
+            "quebradizo",
+            "friable"
+        ],
+        "answer": 1
+    },
+    {
+        "task": "synonyms_and_antonyms",
+        "question": "¿Cuál palabra no es sinónimo de 'justicia'?",
+        "options": [
+            "injusticia",
+            "equidad",
+            "imparcialidad",
+            "rectitud",
+            "honestidad"
+        ],
+        "answer": 0
+    },
+    {
+        "task": "synonyms_and_antonyms",
+        "question": "¿Cuál es el antónimo de 'luminoso'?",
+        "options": [
+            "oscuro",
+            "brillante",
+            "reluciente",
+            "resplandeciente",
+            "luminoso"
+        ],
+        "answer": 0
+    },
+    {
+        "task": "synonyms_and_antonyms",
+        "question": "Indica el sinónimo de 'activo'?",
+        "options": [
+            "pasivo",
+            "dinámico",
+            "inactivo",
+            "quieto",
+            "tardo"
+        ],
+        "answer": 1
+    },
+    {
+        "task": "synonyms_and_antonyms",
+        "question": "¿Cuál palabra no significa lo mismo que 'creativo'?",
+        "options": [
+            "inventivo",
+            "original",
+            "conservador",
+            "innovador",
+            "imaginativo"
+        ],
+        "answer": 2
+    },
+    {
+        "task": "synonyms_and_antonyms",
+        "question": "¿Cuál es el antónimo de 'delicado'?",
+        "options": [
+            "rudo",
+            "delicado",
+            "fino",
+            "suave",
+            "sutil"
+        ],
+        "answer": 0
+    },
+    {
+        "task": "synonyms_and_antonyms",
+        "question": "¿Cuál es el sinónimo de 'complicado'?",
+        "options": [
+            "simple",
+            "intrincado",
+            "común",
+            "ordinario",
+            "fácil"
+        ],
+        "answer": 1
+    },
+    {
+        "task": "synonyms_and_antonyms",
+        "question": "Elige el antónimo de 'infinito'?",
+        "options": [
+            "limitado",
+            "eterno",
+            "perpetuo",
+            "inagotable",
+            "eterno"
+        ],
+        "answer": 0
+    },
+    {
+        "task": "synonyms_and_antonyms",
+        "question": "¿Cuál palabra no significa lo mismo que 'fuerte'?",
+        "options": [
+            "débil",
+            "robusto",
+            "poderoso",
+            "firme",
+            "resistente"
+        ],
+        "answer": 0
+    },
+    {
+        "task": "synonyms_and_antonyms",
+        "question": "¿Cuál es el sinónimo de 'expresivo'?",
+        "options": [
+            "inexpresivo",
+            "elocuente",
+            "reservado",
+            "callado",
+            "silencioso"
+        ],
+        "answer": 1
+    },
+    {
+        "task": "synonyms_and_antonyms",
+        "question": "Indica el antónimo de 'antiguo'?",
+        "options": [
+            "moderno",
+            "viejo",
+            "anticuado",
+            "caduco",
+            "pasado"
+        ],
+        "answer": 0
+    },
+    {
+        "task": "synonyms_and_antonyms",
+        "question": "¿Cuál palabra no significa lo mismo que 'libertad'?",
+        "options": [
+            "dependencia",
+            "autonomía",
+            "independencia",
+            "emancipación",
+            "indiagencia"
+        ],
+        "answer": 0
+    },
+    {
+        "task": "synonyms_and_antonyms",
+        "question": "¿Cuál es el sinónimo de 'cauteloso'?",
+        "options": [
+            "imprudente",
+            "prudente",
+            "temerario",
+            "osado",
+            "atrevido"
+        ],
+        "answer": 1
+    },
+    {
+        "task": "synonyms_and_antonyms",
+        "question": "Elige el antónimo de 'generoso'?",
+        "options": [
+            "tacaño",
+            "magnánimo",
+            "pródigo",
+            "liberal",
+            "dispensador"
+        ],
+        "answer": 0
+    },
+    {
+        "task": "synonyms_and_antonyms",
+        "question": "¿Cuál palabra no es sinónimo de 'sutil'?",
+        "options": [
+            "grosero",
+            "fino",
+            "delicado",
+            "refinado",
+            "sutil"
+        ],
+        "answer": 0
+    },
+    {
+        "task": "synonyms_and_antonyms",
+        "question": "¿Cuál es el antónimo de 'desordenado'?",
+        "options": [
+            "ordenado",
+            "desorganizado",
+            "caótico",
+            "confuso",
+            "desbarajustado"
+        ],
+        "answer": 0
+    },
+    {
+        "task": "synonyms_and_antonyms",
+        "question": "Indica el sinónimo de 'intenso'?",
+        "options": [
+            "débil",
+            "fuerte",
+            "moderado",
+            "suave",
+            "leve"
+        ],
+        "answer": 1
+    },
+    {
+        "task": "synonyms_and_antonyms",
+        "question": "¿Cuál palabra no significa lo mismo que 'claro'?",
+        "options": [
+            "oscuro",
+            "diáfano",
+            "transparente",
+            "evidente",
+            "luminoso"
+        ],
+        "answer": 0
+    },
+    {
+        "task": "synonyms_and_antonyms",
+        "question": "Elige el antónimo de 'escondido'?",
+        "options": [
+            "maniesto",
+            "oculto",
+            "secreto",
+            "desaparecido",
+            "escondido"
+        ],
+        "answer": 0
+    },
+    {
+        "task": "synonyms_and_antonyms",
+        "question": "¿Cuál palabra no es sinónimo de 'honor'?",
+        "options": [
+            "honra",
+            "deshonra",
+            "gloria",
+            "prestigio",
+            "reputación"
+        ],
+        "answer": 1
+    },
+    {
+        "task": "synonyms_and_antonyms",
+        "question": "¿Cuál es el sinónimo de 'necio'?",
+        "options": [
+            "sabio",
+            "ignorante",
+            "erudito",
+            "culto",
+            "letrado"
+        ],
+        "answer": 1
+    },
+    {
+        "task": "synonyms_and_antonyms",
+        "question": "Elige el antónimo de 'diario'?",
+        "options": [
+            "mensual",
+            "cotidiano",
+            "ordinario",
+            "habitual",
+            "diario"
+        ],
+        "answer": 0
+    },
+    {
+        "task": "synonyms_and_antonyms",
+        "question": "¿Cuál palabra no significa lo mismo que 'desconfianza'?",
+        "options": [
+            "confianza",
+            "descreimiento",
+            "distrust",
+            "duda",
+            "recelo"
+        ],
+        "answer": 0
+    },
+    {
+        "task": "synonyms_and_antonyms",
+        "question": "Indica el sinónimo de 'constante'?",
+        "options": [
+            "variable",
+            "permanente",
+            "inconstante",
+            "intermitente",
+            "fluctuante"
+        ],
+        "answer": 1
+    },
+    {
+        "task": "synonyms_and_antonyms",
+        "question": "¿Cuál es el antónimo de 'rápido'?",
+        "options": [
+            "lento",
+            "veloz",
+            "velocidad",
+            "rápido",
+            "rápida"
+        ],
+        "answer": 0
+    },
+    {
+        "task": "synonyms_and_antonyms",
+        "question": "Elige el sinónimo de 'genuino'?",
+        "options": [
+            "falso",
+            "auténtico",
+            "artificial",
+            "imitado",
+            "fingido"
+        ],
+        "answer": 1
+    },
+    {
+        "task": "synonyms_and_antonyms",
+        "question": "¿Cuál palabra no es sinónimo de 'cortés'?",
+        "options": [
+            "grosero",
+            "educado",
+            "atento",
+            "amable",
+            "agradable"
+        ],
+        "answer": 0
+    },
+    {
+        "task": "synonyms_and_antonyms",
+        "question": "¿Cuál es el sinónimo de 'vacío'?",
+        "options": [
+            "lleno",
+            "hueco",
+            "vacío",
+            "ocupado",
+            "repleto"
+        ],
+        "answer": 1
+    },
+    {
+        "task": "synonyms_and_antonyms",
+        "question": "Elige el antónimo de 'fuerte'?",
+        "options": [
+            "débil",
+            "robusto",
+            "firme",
+            "resistente",
+            "poderoso"
+        ],
+        "answer": 0
+    },
+    {
+        "task": "synonyms_and_antonyms",
+        "question": "Indica el sinónimo de 'audaz'?",
+        "options": [
+            "cobarde",
+            "valiente",
+            "miedoso",
+            "tímido",
+            "temerosos"
+        ],
+        "answer": 1
+    },
+    {
+        "task": "synonyms_and_antonyms",
+        "question": "¿Cuál palabra no significa lo mismo que 'tímido'?",
+        "options": [
+            "audaz",
+            "apocado",
+            "valiente",
+            "atento",
+            "atrévidos"
+        ],
+        "answer": 1
+    },
+    {
+        "task": "synonyms_and_antonyms",
+        "question": "¿Cuál es el antónimo de 'fácil'?",
+        "options": [
+            "difícil",
+            "simple",
+            "complejo",
+            "intrincado",
+            "laborioso"
+        ],
+        "answer": 0
+    },
+    {
+        "task": "synonyms_and_antonyms",
+        "question": "Elige el sinónimo de 'cruel'?",
+        "options": [
+            "bondadoso",
+            "brutal",
+            "amable",
+            "afectuoso",
+            "cariñoso"
+        ],
+        "answer": 1
+    },
+    {
+        "task": "synonyms_and_antonyms",
+        "question": "¿Cuál palabra no significa lo mismo que 'inteligente'?",
+        "options": [
+            "brillante",
+            "ignorante",
+            "astuto",
+            "perspicaz",
+            "sagaz"
+        ],
+        "answer": 1
+    },
+    {
+        "task": "synonyms_and_antonyms",
+        "question": "¿Cuál es el sinónimo de 'desorden'?",
+        "options": [
+            "orden",
+            "caos",
+            "organizado",
+            "metódico",
+            "estructurado"
+        ],
+        "answer": 1
+    },
+    {
+        "task": "synonyms_and_antonyms",
+        "question": "Indica el antónimo de 'cierto'?",
+        "options": [
+            "incierto",
+            "seguro",
+            "evidente",
+            "probable",
+            "verdad"
+        ],
+        "answer": 0
+    },
+    {
+        "task": "synonyms_and_antonyms",
+        "question": "¿Cuál palabra no es sinónimo de 'esforzarse'?",
+        "options": [
+            "descuidar",
+            "empeñarse",
+            "esmerarse",
+            "afanarse",
+            "aplicarse"
+        ],
+        "answer": 0
+    },
+    {
+        "task": "synonyms_and_antonyms",
+        "question": "¿Cuál es el sinónimo de 'exhausto'?",
+        "options": [
+            "descansado",
+            "agotado",
+            "reposado",
+            "rejuvenecido",
+            "recargado"
+        ],
+        "answer": 1
+    },
+    {
+        "task": "synonyms_and_antonyms",
+        "question": "Elige el antónimo de 'transparente'?",
+        "options": [
+            "opaco",
+            "diáfano",
+            "translúcido",
+            "transparente",
+            "lucido"
+        ],
+        "answer": 0
+    },
+    {
+        "task": "synonyms_and_antonyms",
+        "question": "¿Cuál palabra no significa lo mismo que 'honrado'?",
+        "options": [
+            "honesto",
+            "íntegro",
+            "deshonesto",
+            "leal",
+            "recto"
+        ],
+        "answer": 2
+    },
+    {
+        "task": "synonyms_and_antonyms",
+        "question": "¿Cuál es el sinónimo de 'desprecio'?",
+        "options": [
+            "desdén",
+            "aprecio",
+            "estimación",
+            "respeto",
+            "consideración"
+        ],
+        "answer": 0
+    },
+    {
+        "task": "synonyms_and_antonyms",
+        "question": "Indica el antónimo de 'antiguo'?",
+        "options": [
+            "moderno",
+            "viejo",
+            "anticuado",
+            "primitivo",
+            "antiguo"
+        ],
+        "answer": 0
+    },
+    {
+        "task": "synonyms_and_antonyms",
+        "question": "Elige el sinónimo de 'efectivo'?",
+        "options": [
+            "ineficaz",
+            "operativo",
+            "ineficiente",
+            "poco prático",
+            "inválido"
+        ],
+        "answer": 1
+    },
+    {
+        "task": "synonyms_and_antonyms",
+        "question": "¿Cuál palabra no es sinónimo de 'energía'?",
+        "options": [
+            "fuerza",
+            "vitalidad",
+            "agotamiento",
+            "dinamismo",
+            "entusiasmo"
+        ],
+        "answer": 2
+    },
+    {
+        "task": "synonyms_and_antonyms",
+        "question": "¿Cuál es el sinónimo de 'desconocido'?",
+        "options": [
+            "familiar",
+            "ignoto",
+            "habitual",
+            "conocido",
+            "famoso"
+        ],
+        "answer": 1
+    },
+    {
+        "task": "synonyms_and_antonyms",
+        "question": "Indica el antónimo de 'permitir'?",
+        "options": [
+            "prohibir",
+            "autorizar",
+            "consentir",
+            "aprobar",
+            "acceder"
+        ],
+        "answer": 0
+    },
+    {
+        "task": "synonyms_and_antonyms",
+        "question": "¿Cuál palabra no significa lo mismo que 'sinceridad'?",
+        "options": [
+            "honestidad",
+            "veracidad",
+            "falsedad",
+            "franqueza",
+            "lealtad"
+        ],
+        "answer": 2
+    },
+    {
+        "task": "synonyms_and_antonyms",
+        "question": "¿Cuál es el sinónimo de 'fugaz'?",
+        "options": [
+            "duradero",
+            "breve",
+            "constante",
+            "permanente",
+            "eterno"
+        ],
+        "answer": 1
+    },
+    {
+        "task": "synonyms_and_antonyms",
+        "question": "Elige el antónimo de 'público'?",
+        "options": [
+            "privado",
+            "colectivo",
+            "social",
+            "común",
+            "general"
+        ],
+        "answer": 0
+    },
+    {
+        "task": "synonyms_and_antonyms",
+        "question": "¿Cuál palabra no es sinónimo de 'liberal'?",
+        "options": [
+            "generoso",
+            "tacaño",
+            "pródigo",
+            "magnánimo",
+            "dispensador"
+        ],
+        "answer": 1
+    },
+    {
+        "task": "synonyms_and_antonyms",
+        "question": "Indica el sinónimo de 'cuidadoso'?",
+        "options": [
+            "descuidado",
+            "atento",
+            "negligente",
+            "imprudente",
+            "temerario"
+        ],
+        "answer": 1
+    }
+    ,
+    {
+        "task": "synonyms_and_antonyms",
+        "question": "¿Cuál es el antónimo de 'fuerte'?",
+        "options": [
+            "débil",
+            "robusto",
+            "fuerte",
+            "resistente",
+            "poderoso"
+        ],
+        "answer": 0
+    },
+    {
+        "task": "synonyms_and_antonyms",
+        "question": "Elige el sinónimo de 'exacto'?",
+        "options": [
+            "aproximado",
+            "preciso",
+            "vago",
+            "confuso",
+            "incierto"
+        ],
+        "answer": 1
+    },
+    {
+        "task": "synonyms_and_antonyms",
+        "question": "¿Cuál palabra no significa lo mismo que 'inteligente'?",
+        "options": [
+            "astuto",
+            "ignorante",
+            "sagaz",
+            "perspicaz",
+            "brillante"
+        ],
+        "answer": 1
+    },
+    {
+        "task": "synonyms_and_antonyms",
+        "question": "¿Cuál es el sinónimo de 'desprecio'?",
+        "options": [
+            "aprecio",
+            "desdén",
+            "estimación",
+            "respeto",
+            "consideración"
+        ],
+        "answer": 1
+    },
+    {
+        "task": "synonyms_and_antonyms",
+        "question": "Indica el antónimo de 'superficial'?",
+        "options": [
+            "profundizo",
+            "somero",
+            "ligero",
+            "trivial",
+            "insignificante"
+        ],
+        "answer": 0
+    },
+    {
+        "task": "synonyms_and_antonyms",
+        "question": "¿Cuál palabra no es sinónimo de 'trabajo'?",
+        "options": [
+            "labor",
+            "esfuerzo",
+            "ocio",
+            "actividad",
+            "tarea"
+        ],
+        "answer": 2
+    },
+    {
+        "task": "synonyms_and_antonyms",
+        "question": "Elige el sinónimo de 'inundar'?",
+        "options": [
+            "secar",
+            "inundar",
+            "ahogar",
+            "drenar",
+            "desaguar"
+        ],
+        "answer": 1
+    },
+    {
+        "task": "synonyms_and_antonyms",
+        "question": "¿Cuál es el antónimo de 'necio'?",
+        "options": [
+            "sabio",
+            "ignorante",
+            "necio",
+            "erudito",
+            "letrado"
+        ],
+        "answer": 0
+    },
+    {
+        "task": "synonyms_and_antonyms",
+        "question": "Indica la palabra que no significa lo mismo que 'tristeza'?",
+        "options": [
+            "alegría",
+            "melancolía",
+            "pena",
+            "congoja",
+            "pesar"
+        ],
+        "answer": 0
+    },
+    {
+        "task": "synonyms_and_antonyms",
+        "question": "¿Cuál palabra no es sinónimo de 'cauteloso'?",
+        "options": [
+            "imprudente",
+            "precavido",
+            "cuidadoso",
+            "prudent",
+            "cuidadoso"
+        ],
+        "answer": 0
+    },
+    {
+        "task": "synonyms_and_antonyms",
+        "question": "¿Cuál es el sinónimo de 'fugitivo'?",
+        "options": [
+            "fijo",
+            "huido",
+            "sedentario",
+            "quieto",
+            "estacionario"
+        ],
+        "answer": 1
+    },
+    {
+        "task": "synonyms_and_antonyms",
+        "question": "Elige el antónimo de 'honesto'?",
+        "options": [
+            "dishonesto",
+            "honesto",
+            "íntegro",
+            "leal",
+            "recto"
+        ],
+        "answer": 0
+    },
+    {
+        "task": "synonyms_and_antonyms",
+        "question": "¿Cuál palabra no significa lo mismo que 'injusticia'?",
+        "options": [
+            "justicia",
+            "inequidad",
+            "desigualdad",
+            "parcialidad",
+            "prejuicio"
+        ],
+        "answer": 0
+    },
+    {
+        "task": "synonyms_and_antonyms",
+        "question": "Indica el sinónimo de 'especial'?",
+        "options": [
+            "común",
+            "particular",
+            "genérico",
+            "ordinario",
+            "habitual"
+        ],
+        "answer": 1
+    },
+    {
+        "task": "synonyms_and_antonyms",
+        "question": "Elige el antónimo de 'lento'?",
+        "options": [
+            "veloz",
+            "despacio",
+            "tardo",
+            "perezoso",
+            "lentitud"
+        ],
+        "answer": 0
+    },
+    {
+        "task": "synonyms_and_antonyms",
+        "question": "¿Cuál palabra no es sinónimo de 'célebre'?",
+        "options": [
+            "anónimo",
+            "famoso",
+            "conocido",
+            "renombrado",
+            "notorio"
+        ],
+        "answer": 0
+    },
+    {
+        "task": "synonyms_and_antonyms",
+        "question": "¿Cuál es el sinónimo de 'intrincado'?",
+        "options": [
+            "simple",
+            "enredado",
+            "complejo",
+            "laberíntico",
+            "complicado"
+        ],
+        "answer": 2
+    },
+    {
+        "task": "synonyms_and_antonyms",
+        "question": "Indica el antónimo de 'denso'?",
+        "options": [
+            "dilatado",
+            "compacto",
+            "espeso",
+            "ligero",
+            "concentrado"
+        ],
+        "answer": 3
+    },
+    {
+        "task": "synonyms_and_antonyms",
+        "question": "¿Cuál palabra no significa lo mismo que 'desinterés'?",
+        "options": [
+            "despreocupación",
+            "desapego",
+            "indiferencia",
+            "interés",
+            "apático"
+        ],
+        "answer": 3
+    },
+    {
+        "task": "synonyms_and_antonyms",
+        "question": "Elige el sinónimo de 'fugaz'?",
+        "options": [
+            "duradero",
+            "breve",
+            "constante",
+            "eterno",
+            "permanente"
+        ],
+        "answer": 1
+    },
+    {
+        "task": "synonyms_and_antonyms",
+        "question": "¿Cuál es el antónimo de 'amplio'?",
+        "options": [
+            "estrecho",
+            "extenso",
+            "espacioso",
+            "ancho",
+            "vasto"
+        ],
+        "answer": 0
+    },
+    {
+        "task": "synonyms_and_antonyms",
+        "question": "Indica el sinónimo de 'precoz'?",
+        "options": [
+            "tardío",
+            "maduro",
+            "temprano",
+            "juvenil",
+            "pueril"
+        ],
+        "answer": 2
+    },
+    {
+        "task": "synonyms_and_antonyms",
+        "question": "Elige el antónimo de 'cauteloso'?",
+        "options": [
+            "imprudente",
+            "precavido",
+            "cuidadoso",
+            "prudent",
+            "cauteloso"
+        ],
+        "answer": 0
+    },
+    {
+        "task": "synonyms_and_antonyms",
+        "question": "¿Cuál palabra no significa lo mismo que 'honestidad'?",
+        "options": [
+            "deshonestidad",
+            "honradez",
+            "veracidad",
+            "integridad",
+            "rectitud"
+        ],
+        "answer": 0
+    },
+    {
+        "task": "synonyms_and_antonyms",
+        "question": "¿Cuál es el sinónimo de 'esfuerzo'?",
+        "options": [
+            "descanso",
+            "trabajo",
+            "ocio",
+            "holganza",
+            "inactividad"
+        ],
+        "answer": 1
+    },
+    {
+        "task": "synonyms_and_antonyms",
+        "question": "Indica el antónimo de 'fácil'?",
+        "options": [
+            "difícil",
+            "simple",
+            "complejo",
+            "intrincado",
+            "laborioso"
+        ],
+        "answer": 0
+    },
+    {
+        "task": "synonyms_and_antonyms",
+        "question": "Elige la palabra que no es sinónimo de 'injusticia'?",
+        "options": [
+            "equidad",
+            "desigualdad",
+            "inequidad",
+            "prejuicio",
+            "parcialidad"
+        ],
+        "answer": 0
+    }
+    ,
+    {
+        "task": "synonyms_and_antonyms",
+        "question": "¿Cuál es el sinónimo de 'despiadado'?",
+        "options": [
+            "compasivo",
+            "compasivo",
+            "crudo",
+            "duro",
+            "brutal"
+        ],
+        "answer": 3
+    },
+    {
+        "task": "synonyms_and_antonyms",
+        "question": "Indica el antónimo de 'sincero'?",
+        "options": [
+            "insincero",
+            "honesto",
+            "genuino",
+            "leal",
+            "auténtico"
+        ],
+        "answer": 0
+    },
+    {
+        "task": "synonyms_and_antonyms",
+        "question": "Elige el sinónimo de 'raro'?",
+        "options": [
+            "común",
+            "poco frecuente",
+            "habitual",
+            "normal",
+            "típico"
+        ],
+        "answer": 1
+    },
+    {
+        "task": "synonyms_and_antonyms",
+        "question": "¿Cuál palabra no es sinónimo de 'libertad'?",
+        "options": [
+            "dependencia",
+            "autonomía",
+            "independencia",
+            "emancipación",
+            "indiagencia"
+        ],
+        "answer": 0
+    },
+    {
+        "task": "synonyms_and_antonyms",
+        "question": "Indica el antónimo de 'frío'?",
+        "options": [
+            "tibio",
+            "helado",
+            "frío",
+            "caliente",
+            "gélido"
+        ],
+        "answer": 3
+    },
+    {
+        "task": "synonyms_and_antonyms",
+        "question": "Elige el sinónimo de 'despreciativo'?",
+        "options": [
+            "despectivo",
+            "considerativo",
+            "apreciativo",
+            "respeto",
+            "estimativo"
+        ],
+        "answer": 0
+    },
+    {
+        "task": "synonyms_and_antonyms",
+        "question": "¿Cuál es el sinónimo de 'exacto'?",
+        "options": [
+            "aproximado",
+            "preciso",
+            "vago",
+            "confuso",
+            "incierto"
+        ],
+        "answer": 1
+    },
+    {
+        "task": "synonyms_and_antonyms",
+        "question": "Indica la palabra que no significa lo mismo que 'desesperación'?",
+        "options": [
+            "esperanza",
+            "angustia",
+            "desconsuelo",
+            "aflicción",
+            "pesadumbre"
+        ],
+        "answer": 0
+    },
+    {
+        "task": "synonyms_and_antonyms",
+        "question": "Elige el antónimo de 'público'?",
+        "options": [
+            "privado",
+            "colectivo",
+            "social",
+            "común",
+            "general"
+        ],
+        "answer": 0
+    },
+    {
+        "task": "synonyms_and_antonyms",
+        "question": "¿Cuál palabra no significa lo mismo que 'desinterés'?",
+        "options": [
+            "despreocupación",
+            "desapego",
+            "interés",
+            "apático",
+            "indiferencia"
+        ],
+        "answer": 2
+    },
+    {
+        "task": "synonyms_and_antonyms",
+        "question": "¿Cuál es el sinónimo de 'resistente'?",
+        "options": [
+            "frágil",
+            "firme",
+            "débil",
+            "quebradizo",
+            "friable"
+        ],
+        "answer": 1
+    },
+    {
+        "task": "synonyms_and_antonyms",
+        "question": "Elige el antónimo de 'necio'?",
+        "options": [
+            "sabio",
+            "ignorante",
+            "erudito",
+            "simple",
+            "letrado"
+        ],
+        "answer": 0
+    },
+    {
+        "task": "synonyms_and_antonyms",
+        "question": "Indica el sinónimo de 'noble'?",
+        "options": [
+            "plebeyo",
+            "generoso",
+            "magnánimo",
+            "heroico",
+            "valiente"
+        ],
+        "answer": 1
+    },
+    {
+        "task": "synonyms_and_antonyms",
+        "question": "¿Cuál es el antónimo de 'justo'?",
+        "options": [
+            "injusto",
+            "equitativo",
+            "honesto",
+            "imparcial",
+            "correcto"
+        ],
+        "answer": 0
+    },
+    {
+        "task": "synonyms_and_antonyms",
+        "question": "Elige la palabra que no es sinónimo de 'sutil'?",
+        "options": [
+            "delicado",
+            "grosero",
+            "fino",
+            "refinado",
+            "sutil"
+        ],
+        "answer": 1
+    },
+    {
+        "task": "synonyms_and_antonyms",
+        "question": "Indica el antónimo de 'público'?",
+        "options": [
+            "privado",
+            "colectivo",
+            "social",
+            "general",
+            "público"
+        ],
+        "answer": 0
+    },
+    {
+        "task": "synonyms_and_antonyms",
+        "question": "¿Cuál es el sinónimo de 'desinteresado'?",
+        "options": [
+            "egoísta",
+            "altruista",
+            "despreocupado",
+            "interesado",
+            "egoísta"
+        ],
+        "answer": 1
+    },
+    {
+        "task": "synonyms_and_antonyms",
+        "question": "Elige el antónimo de 'fácil'?",
+        "options": [
+            "difícil",
+            "simple",
+            "complejo",
+            "fácil",
+            "intrincado"
+        ],
+        "answer": 0
+    },
+    {
+        "task": "synonyms_and_antonyms",
+        "question": "¿Cuál palabra no significa lo mismo que 'honra'?",
+        "options": [
+            "honor",
+            "deshonra",
+            "gloria",
+            "prestigio",
+            "reputación"
+        ],
+        "answer": 1
+    },
+    {
+        "task": "synonyms_and_antonyms",
+        "question": "Indica el sinónimo de 'fugaz'?",
+        "options": [
+            "breve",
+            "duradero",
+            "constante",
+            "permanente",
+            "eterno"
+        ],
+        "answer": 0
+    },
+    {
+        "task": "synonyms_and_antonyms",
+        "question": "¿Cuál es el antónimo de 'transparente'?",
+        "options": [
+            "opaco",
+            "diáfano",
+            "translúcido",
+            "transparente",
+            "lucido"
+        ],
+        "answer": 0
+    },
+    {
+        "task": "synonyms_and_antonyms",
+        "question": "Elige el sinónimo de 'activo'?",
+        "options": [
+            "inactivo",
+            "dinámico",
+            "quieto",
+            "tardo",
+            "pasivo"
+        ],
+        "answer": 1
+    },
+    {
+        "task": "synonyms_and_antonyms",
+        "question": "¿Cuál palabra no significa lo mismo que 'creativo'?",
+        "options": [
+            "inventivo",
+            "conservador",
+            "original",
+            "innovador",
+            "imaginativo"
+        ],
+        "answer": 1
+    },
+    {
+        "task": "synonyms_and_antonyms",
+        "question": "Indica el sinónimo de 'constante'?",
+        "options": [
+            "inconstante",
+            "permanente",
+            "variable",
+            "intermitente",
+            "fluctuante"
+        ],
+        "answer": 1
+    },
+    {
+        "task": "synonyms_and_antonyms",
+        "question": "¿Cuál es el antónimo de 'denso'?",
+        "options": [
+            "ligero",
+            "compacto",
+            "espeso",
+            "concentrado",
+            "grueso"
+        ],
+        "answer": 0
+    },
+    {
+        "task": "synonyms_and_antonyms",
+        "question": "Elige el sinónimo de 'estricto'?",
+        "options": [
+            "laxo",
+            "riguroso",
+            "flexible",
+            "permisivo",
+            "tolerante"
+        ],
+        "answer": 1
+    },
+    {
+        "task": "synonyms_and_antonyms",
+        "question": "¿Cuál palabra no es sinónimo de 'libertad'?",
+        "options": [
+            "autonomía",
+            "dependencia",
+            "independencia",
+            "emancipación",
+            "indiagencia"
+        ],
+        "answer": 1
+    },
+    {
+        "task": "synonyms_and_antonyms",
+        "question": "Indica el antónimo de 'inmenso'?",
+        "options": [
+            "enorme",
+            "colosal",
+            "minúsculo",
+            "descomunal",
+            "gigante"
+        ],
+        "answer": 2
+    },
+    {
+        "task": "synonyms_and_antonyms",
+        "question": "Elige el sinónimo de 'desprecio'?",
+        "options": [
+            "aprecio",
+            "desdén",
+            "estimación",
+            "respeto",
+            "consideración"
+        ],
+        "answer": 1
+    },
+    {
+        "task": "synonyms_and_antonyms",
+        "question": "¿Cuál palabra no significa lo mismo que 'sinceridad'?",
+        "options": [
+            "honestidad",
+            "veracidad",
+            "falsedad",
+            "franqueza",
+            "lealtad"
+        ],
+        "answer": 2
+    },
+    {
+        "task": "synonyms_and_antonyms",
+        "question": "Indica el sinónimo de 'puro'?",
+        "options": [
+            "impuro",
+            "sincero",
+            "inmundo",
+            "corrupto",
+            "puro"
+        ],
+        "answer": 1
+    },
+    {
+        "task": "synonyms_and_antonyms",
+        "question": "¿Cuál es el antónimo de 'frío'?",
+        "options": [
+            "frío",
+            "cálido",
+            "helado",
+            "gélido",
+            "templado"
+        ],
+        "answer": 1
+    },
+    {
+        "task": "synonyms_and_antonyms",
+        "question": "Elige el sinónimo de 'indefenso'?",
+        "options": [
+            "protegido",
+            "desprotegido",
+            "armado",
+            "resguardado",
+            "seguro"
+        ],
+        "answer": 1
+    },
+    {
+        "task": "synonyms_and_antonyms",
+        "question": "¿Cuál palabra no es sinónimo de 'valeroso'?",
+        "options": [
+            "cobarde",
+            "audaz",
+            "valiente",
+            "bravo",
+            "audaz"
+        ],
+        "answer": 0
+    },
+    {
+        "task": "synonyms_and_antonyms",
+        "question": "Indica el sinónimo de 'despreocupado'?",
+        "options": [
+            "preocupado",
+            "indiferente",
+            "ansioso",
+            "inquieto",
+            "tenso"
+        ],
+        "answer": 1
+    },
+    {
+        "task": "synonyms_and_antonyms",
+        "question": "Elige la palabra que no significa lo mismo que 'deshonestidad'?",
+        "options": [
+            "honestidad",
+            "deshonestidad",
+            "falsedad",
+            "fraude",
+            "trampa"
+        ],
+        "answer": 0
+    },
+    {
+        "task": "synonyms_and_antonyms",
+        "question": "¿Cuál es el sinónimo de 'especial'?",
+        "options": [
+            "común",
+            "particular",
+            "genérico",
+            "ordinario",
+            "habitual"
+        ],
+        "answer": 1
+    },
+    {
+        "task": "synonyms_and_antonyms",
+        "question": "Elige el antónimo de 'despreciativo'?",
+        "options": [
+            "apreciativo",
+            "despectivo",
+            "estimativo",
+            "despreciativo",
+            "despectivo"
+        ],
+        "answer": 0
+    },
+    {
+        "task": "synonyms_and_antonyms",
+        "question": "Indica el sinónimo de 'cauteloso'?",
+        "options": [
+            "imprudente",
+            "precavido",
+            "cuidadoso",
+            "osado",
+            "atento"
+        ],
+        "answer": 1
+    },
+    {
+        "task": "synonyms_and_antonyms",
+        "question": "¿Cuál palabra no significa lo mismo que 'abundancia'?",
+        "options": [
+            "escasez",
+            "opulencia",
+            "riqueza",
+            "lujo",
+            "fortuna"
+        ],
+        "answer": 0
+    },
+    {
+        "task": "synonyms_and_antonyms",
+        "question": "Elige el antónimo de 'valeroso'?",
+        "options": [
+            "cobarde",
+            "audaz",
+            "valiente",
+            "bravo",
+            "atrévidos"
+        ],
+        "answer": 0
+    },
+    {
+        "task": "synonyms_and_antonyms",
+        "question": "Indica el sinónimo de 'generoso'?",
+        "options": [
+            "tacaño",
+            "magnánimo",
+            "avaro",
+            "pródigo",
+            "egoísta"
+        ],
+        "answer": 1
+    },
+    {
+        "task": "synonyms_and_antonyms",
+        "question": "¿Cuál es el antónimo de 'falso'?",
+        "options": [
+            "verídico",
+            "mentiroso",
+            "engañoso",
+            "fingido",
+            "falso"
+        ],
+        "answer": 0
+    },
+    {
+        "task": "synonyms_and_antonyms",
+        "question": "¿Cuál es el antónimo de 'nuevo'?",
+        "options": [
+            "antiguo",
+            "moderno",
+            "reciente",
+            "actual",
+            "contemporáneo"
+        ],
+        "answer": 0
+    },
+    {
+        "task": "synonyms_and_antonyms",
+        "question": "Indica el sinónimo de 'agudo'?",
+        "options": [
+            "llano",
+            "punzante",
+            "cortante",
+            "afilado",
+            "vivo"
+        ],
+        "answer": 1
+    },
+    {
+        "task": "synonyms_and_antonyms",
+        "question": "Elige el antónimo de 'superficial'?",
+        "options": [
+            "profundizo",
+            "somero",
+            "ligero",
+            "trivial",
+            "insignificante"
+        ],
+        "answer": 0
+    },
+    {
+        "task": "synonyms_and_antonyms",
+        "question": "¿Cuál palabra no es sinónimo de 'libertad'?",
+        "options": [
+            "autonomía",
+            "dependencia",
+            "independencia",
+            "emancipación",
+            "indiagencia"
+        ],
+        "answer": 1
+    }
+    ,
+    {
+        "task": "synonyms_and_antonyms",
+        "question": "¿Cuál es el antónimo de 'fácil'?",
+        "options": [
+            "difícil",
+            "simple",
+            "complejo",
+            "intrincado",
+            "laborioso"
+        ],
+        "answer": 0
+    },
+    {
+        "task": "synonyms_and_antonyms",
+        "question": "Indica el sinónimo de 'fugaz'?",
+        "options": [
+            "duradero",
+            "breve",
+            "constante",
+            "permanente",
+            "eterno"
+        ],
+        "answer": 1
+    },
+    {
+        "task": "synonyms_and_antonyms",
+        "question": "Elige la palabra que no significa lo mismo que 'cauteloso'?",
+        "options": [
+            "imprudente",
+            "precavido",
+            "cuidadoso",
+            "prudente",
+            "cauteloso"
+        ],
+        "answer": 0
+    },
+    {
+        "task": "synonyms_and_antonyms",
+        "question": "¿Cuál es el sinónimo de 'inteligente'?",
+        "options": [
+            "ignorante",
+            "astuto",
+            "brillante",
+            "perspicaz",
+            "sagaz"
+        ],
+        "answer": 1
+    },
+    {
+        "task": "synonyms_and_antonyms",
+        "question": "Indica el antónimo de 'honesto'?",
+        "options": [
+            "dishonesto",
+            "honesto",
+            "íntegro",
+            "leal",
+            "recto"
+        ],
+        "answer": 0
+    },
+    {
+        "task": "synonyms_and_antonyms",
+        "question": "Elige el sinónimo de 'permanente'?",
+        "options": [
+            "transitorio",
+            "duradero",
+            "constante",
+            "inmutable",
+            "eterno"
+        ],
+        "answer": 1
+    },
+    {
+        "task": "synonyms_and_antonyms",
+        "question": "¿Cuál palabra no significa lo mismo que 'honestidad'?",
+        "options": [
+            "deshonestidad",
+            "honradez",
+            "veracidad",
+            "integridad",
+            "rectitud"
+        ],
+        "answer": 0
+    },
+    {
+        "task": "synonyms_and_antonyms",
+        "question": "Indica el sinónimo de 'celoso'?",
+        "options": [
+            "envidioso",
+            "indiferente",
+            "desinteresado",
+            "apático",
+            "despreocupado"
+        ],
+        "answer": 0
+    },
+    {
+        "task": "synonyms_and_antonyms",
+        "question": "Elige el antónimo de 'despreciativo'?",
+        "options": [
+            "apreciativo",
+            "despectivo",
+            "estimativo",
+            "respeto",
+            "estimador"
+        ],
+        "answer": 0
+    },
+    {
+        "task": "synonyms_and_antonyms",
+        "question": "¿Cuál es el antónimo de 'luminoso'?",
+        "options": [
+            "oscuro",
+            "brillante",
+            "reluciente",
+            "resplandeciente",
+            "luminoso"
+        ],
+        "answer": 0
+    },
+    {
+        "task": "synonyms_and_antonyms",
+        "question": "Indica el sinónimo de 'desprecio'?",
+        "options": [
+            "aprecio",
+            "desdén",
+            "estimación",
+            "respeto",
+            "consideración"
+        ],
+        "answer": 1
+    },
+    {
+        "task": "synonyms_and_antonyms",
+        "question": "Elige el antónimo de 'débil'?",
+        "options": [
+            "fuerte",
+            "delgado",
+            "débil",
+            "delicado",
+            "frágil"
+        ],
+        "answer": 0
+    },
+    {
+        "task": "synonyms_and_antonyms",
+        "question": "¿Cuál palabra no es sinónimo de 'cauteloso'?",
+        "options": [
+            "imprudente",
+            "precavido",
+            "osado",
+            "prudent",
+            "cuidadoso"
+        ],
+        "answer": 0
+    },
+    {
+        "task": "synonyms_and_antonyms",
+        "question": "Indica el sinónimo de 'vigente'?",
+        "options": [
+            "caducado",
+            "válido",
+            "obsoleto",
+            "inexistente",
+            "nulo"
+        ],
+        "answer": 1
+    },
+    {
+        "task": "synonyms_and_antonyms",
+        "question": "Elige el antónimo de 'público'?",
+        "options": [
+            "privado",
+            "colectivo",
+            "social",
+            "general",
+            "público"
+        ],
+        "answer": 0
+    },
+    {
+        "task": "synonyms_and_antonyms",
+        "question": "¿Cuál es el sinónimo de 'fugaz'?",
+        "options": [
+            "breve",
+            "duradero",
+            "constante",
+            "permanente",
+            "eterno"
+        ],
+        "answer": 0
+    },
+    {
+        "task": "synonyms_and_antonyms",
+        "question": "Indica el antónimo de 'fácil'?",
+        "options": [
+            "difícil",
+            "simple",
+            "complejo",
+            "fácil",
+            "intrincado"
+        ],
+        "answer": 0
+    },
+    {
+        "task": "synonyms_and_antonyms",
+        "question": "Elige la palabra que no significa lo mismo que 'libertad'?",
+        "options": [
+            "dependencia",
+            "autonomía",
+            "independencia",
+            "emancipación",
+            "indiagencia"
+        ],
+        "answer": 0
+    },
+    {
+        "task": "synonyms_and_antonyms",
+        "question": "¿Cuál es el sinónimo de 'inmenso'?",
+        "options": [
+            "enorme",
+            "minúsculo",
+            "pequeño",
+            "compacto",
+            "breve"
+        ],
+        "answer": 0
+    },
+    {
+        "task": "synonyms_and_antonyms",
+        "question": "Indica el antónimo de 'honesto'?",
+        "options": [
+            "dishonesto",
+            "honesto",
+            "íntegro",
+            "leal",
+            "recto"
+        ],
+        "answer": 0
+    },
+    {
+        "task": "synonyms_and_antonyms",
+        "question": "Elige el sinónimo de 'desinteresado'?",
+        "options": [
+            "egoísta",
+            "altruista",
+            "despreocupado",
+            "interesado",
+            "ambicioso"
+        ],
+        "answer": 1
+    },
+    {
+        "task": "synonyms_and_antonyms",
+        "question": "¿Cuál palabra no significa lo mismo que 'deshonestidad'?",
+        "options": [
+            "honestidad",
+            "deshonestidad",
+            "falsedad",
+            "fraude",
+            "trampa"
+        ],
+        "answer": 0
+    },
+    {
+        "task": "synonyms_and_antonyms",
+        "question": "Indica el sinónimo de 'esfuerzo'?",
+        "options": [
+            "descanso",
+            "trabajo",
+            "ocio",
+            "holganza",
+            "inactividad"
+        ],
+        "answer": 1
+    },
+    {
+        "task": "synonyms_and_antonyms",
+        "question": "¿Cuál es el antónimo de 'denso'?",
+        "options": [
+            "ligero",
+            "compacto",
+            "espeso",
+            "concentrado",
+            "grueso"
+        ],
+        "answer": 0
+    },
+    {
+        "task": "synonyms_and_antonyms",
+        "question": "Elige el sinónimo de 'indefenso'?",
+        "options": [
+            "protegido",
+            "desprotegido",
+            "armado",
+            "resguardado",
+            "seguro"
+        ],
+        "answer": 1
+    },
+    {
+        "task": "synonyms_and_antonyms",
+        "question": "¿Cuál palabra no es sinónimo de 'honor'?",
+        "options": [
+            "honra",
+            "deshonra",
+            "gloria",
+            "prestigio",
+            "reputación"
+        ],
+        "answer": 1
+    },
+    {
+        "task": "synonyms_and_antonyms",
+        "question": "Indica el sinónimo de 'brillante'?",
+        "options": [
+            "oscuro",
+            "resplandeciente",
+            "tenebroso",
+            "sombrío",
+            "opaco"
+        ],
+        "answer": 1
+    },
+    {
+        "task": "synonyms_and_antonyms",
+        "question": "¿Cuál es el antónimo de 'necio'?",
+        "options": [
+            "sabio",
+            "ignorante",
+            "erudito",
+            "simple",
+            "iletrado"
+        ],
+        "answer": 0
+    },
+    {
+        "task": "synonyms_and_antonyms",
+        "question": "Elige la palabra que no significa lo mismo que 'sinceridad'?",
+        "options": [
+            "honestidad",
+            "veracidad",
+            "falsedad",
+            "franqueza",
+            "lealtad"
+        ],
+        "answer": 2
+    },
+    {
+        "task": "synonyms_and_antonyms",
+        "question": "Indica el sinónimo de 'despreciativo'?",
+        "options": [
+            "despectivo",
+            "considerativo",
+            "apreciativo",
+            "estimativo",
+            "respeto"
+        ],
+        "answer": 0
+    },
+    {
+        "task": "synonyms_and_antonyms",
+        "question": "Elige el antónimo de 'generoso'?",
+        "options": [
+            "tacaño",
+            "magnánimo",
+            "pródigo",
+            "liberal",
+            "dispensador"
+        ],
+        "answer": 0
+    },
+    {
+        "task": "synonyms_and_antonyms",
+        "question": "¿Cuál palabra no es sinónimo de 'libertad'?",
+        "options": [
+            "dependencia",
+            "autonomía",
+            "independencia",
+            "emancipación",
+            "indiagencia"
+        ],
+        "answer": 0
+    },
+    {
+        "task": "synonyms_and_antonyms",
+        "question": "Indica el sinónimo de 'rápido'?",
+        "options": [
+            "lento",
+            "veloz",
+            "despacio",
+            "tardo",
+            "lentitudo"
+        ],
+        "answer": 1
+    },
+    {
+        "task": "synonyms_and_antonyms",
+        "question": "Elige el antónimo de 'largo'?",
+        "options": [
+            "corto",
+            "extenso",
+            "prolongado",
+            "dilatado",
+            "amplio"
+        ],
+        "answer": 0
+    }
+    ,
+    {
+        "task": "synonyms_and_antonyms",
+        "question": "Indica el sinónimo de 'fugaz'?",
+        "options": [
+            "breve",
+            "duradero",
+            "constante",
+            "permanente",
+            "eterno"
+        ],
+        "answer": 0
+    },
+    {
+        "task": "synonyms_and_antonyms",
+        "question": "¿Cuál es el antónimo de 'luminoso'?",
+        "options": [
+            "oscuro",
+            "brillante",
+            "reluciente",
+            "resplandeciente",
+            "luminoso"
+        ],
+        "answer": 0
+    },
+    {
+        "task": "synonyms_and_antonyms",
+        "question": "¿Cuál palabra no significa lo mismo que 'deshonestidad'?",
+        "options": [
+            "honestidad",
+            "deshonestidad",
+            "falsedad",
+            "fraude",
+            "trampa"
+        ],
+        "answer": 0
+    },
+    {
+        "task": "synonyms_and_antonyms",
+        "question": "Indica el sinónimo de 'vigente'?",
+        "options": [
+            "caducado",
+            "válido",
+            "obsoleto",
+            "inexistente",
+            "nulo"
+        ],
+        "answer": 1
+    },
+    {
+        "task": "synonyms_and_antonyms",
+        "question": "¿Cuál es el antónimo de 'tacaño'?",
+        "options": [
+            "generoso",
+            "avaro",
+            "pródigo",
+            "tacaño",
+            "egoista"
+        ],
+        "answer": 0
+    },
+    {
+        "task": "synonyms_and_antonyms",
+        "question": "Elige el sinónimo de 'fuerte'?",
+        "options": [
+            "débil",
+            "robusto",
+            "fuerte",
+            "resistente",
+            "poderoso"
+        ],
+        "answer": 1
+    },
+    {
+        "task": "synonyms_and_antonyms",
+        "question": "¿Cuál palabra no es sinónimo de 'inteligente'?",
+        "options": [
+            "astuto",
+            "ignorante",
+            "brillante",
+            "perspicaz",
+            "sagaz"
+        ],
+        "answer": 1
+    },
+    {
+        "task": "synonyms_and_antonyms",
+        "question": "Indica el sinónimo de 'precoz'?",
+        "options": [
+            "tardío",
+            "temprano",
+            "maduro",
+            "adulto",
+            "juvenil"
+        ],
+        "answer": 1
+    },
+    {
+        "task": "synonyms_and_antonyms",
+        "question": "¿Cuál es el antónimo de 'transparente'?",
+        "options": [
+            "opaco",
+            "diáfano",
+            "translúcido",
+            "transparente",
+            "lucido"
+        ],
+        "answer": 0
+    },
+    {
+        "task": "synonyms_and_antonyms",
+        "question": "Elige el sinónimo de 'inmenso'?",
+        "options": [
+            "enorme",
+            "pequeño",
+            "minúsculo",
+            "compacto",
+            "breve"
+        ],
+        "answer": 0
+    },
+    {
+        "task": "synonyms_and_antonyms",
+        "question": "¿Cuál palabra no significa lo mismo que 'creativo'?",
+        "options": [
+            "inventivo",
+            "conservador",
+            "original",
+            "innovador",
+            "imaginativo"
+        ],
+        "answer": 1
+    },
+    {
+        "task": "synonyms_and_antonyms",
+        "question": "Indica el antónimo de 'denso'?",
+        "options": [
+            "ligero",
+            "compacto",
+            "espeso",
+            "concentrado",
+            "grueso"
+        ],
+        "answer": 0
+    },
+    {
+        "task": "synonyms_and_antonyms",
+        "question": "¿Cuál es el sinónimo de 'desinteresado'?",
+        "options": [
+            "egoísta",
+            "altruista",
+            "despreocupado",
+            "egoísta",
+            "interesado"
+        ],
+        "answer": 1
+    },
+    {
+        "task": "synonyms_and_antonyms",
+        "question": "Elige el antónimo de 'especial'?",
+        "options": [
+            "común",
+            "particular",
+            "genérico",
+            "ordinario",
+            "especial"
+        ],
+        "answer": 0
+    },
+    {
+        "task": "synonyms_and_antonyms",
+        "question": "Indica el sinónimo de 'generoso'?",
+        "options": [
+            "tacaño",
+            "magnánimo",
+            "avaro",
+            "pródigo",
+            "egoísta"
+        ],
+        "answer": 1
+    },
+    {
+        "task": "synonyms_and_antonyms",
+        "question": "¿Cuál palabra no significa lo mismo que 'libertad'?",
+        "options": [
+            "dependencia",
+            "autonomía",
+            "independencia",
+            "emancipación",
+            "indiagencia"
+        ],
+        "answer": 0
+    }
+    ,
+    {
+        "task": "synonyms_and_antonyms",
+        "question": "¿Cuál es el sinónimo de 'honesto'?",
+        "options": [
+            "dishonesto",
+            "íntegro",
+            "leal",
+            "recto",
+            "honesto"
+        ],
+        "answer": 1
+    },
+    {
+        "task": "synonyms_and_antonyms",
+        "question": "Indica el antónimo de 'fácil'?",
+        "options": [
+            "difícil",
+            "simple",
+            "complejo",
+            "intrincado",
+            "laborioso"
+        ],
+        "answer": 0
+    },
+    {
+        "task": "synonyms_and_antonyms",
+        "question": "Elige la palabra que no significa lo mismo que 'sinceridad'?",
+        "options": [
+            "honestidad",
+            "veracidad",
+            "falsedad",
+            "franqueza",
+            "lealtad"
+        ],
+        "answer": 2
+    },
+    {
+        "task": "synonyms_and_antonyms",
+        "question": "¿Cuál es el antónimo de 'abundante'?",
+        "options": [
+            "escaso",
+            "generoso",
+            "copioso",
+            "suficiente",
+            "considerable"
+        ],
+        "answer": 0
+    },
+    {
+        "task": "synonyms_and_antonyms",
+        "question": "Indica el sinónimo de 'fugaz'?",
+        "options": [
+            "duradero",
+            "breve",
+            "constante",
+            "permanente",
+            "eterno"
+        ],
+        "answer": 1
+    },
+    {
+        "task": "synonyms_and_antonyms",
+        "question": "Elige el antónimo de 'honesto'?",
+        "options": [
+            "dishonesto",
+            "honrado",
+            "leal",
+            "íntegro",
+            "recto"
+        ],
+        "answer": 0
+    },
+    {
+        "task": "synonyms_and_antonyms",
+        "question": "¿Cuál palabra no es sinónimo de 'libertad'?",
+        "options": [
+            "autonomía",
+            "dependencia",
+            "independencia",
+            "emancipación",
+            "indiagencia"
+        ],
+        "answer": 1
+    },
+    {
+        "task": "synonyms_and_antonyms",
+        "question": "Indica el sinónimo de 'inmenso'?",
+        "options": [
+            "enorme",
+            "pequeño",
+            "minúsculo",
+            "compacto",
+            "breve"
+        ],
+        "answer": 0
+    },
+    {
+        "task": "synonyms_and_antonyms",
+        "question": "Elige el antónimo de 'inteligente'?",
+        "options": [
+            "astuto",
+            "ignorante",
+            "brillante",
+            "perspicaz",
+            "sagaz"
+        ],
+        "answer": 1
+    },
+    {
+        "task": "synonyms_and_antonyms",
+        "question": "¿Cuál palabra no significa lo mismo que 'deshonestidad'?",
+        "options": [
+            "honestidad",
+            "deshonestidad",
+            "falsedad",
+            "fraude",
+            "trampa"
+        ],
+        "answer": 0
+    },
+    {
+        "task": "synonyms_and_antonyms",
+        "question": "Indica el sinónimo de 'despreciativo'?",
+        "options": [
+            "despectivo",
+            "considerativo",
+            "apreciativo",
+            "estimador",
+            "respeto"
+        ],
+        "answer": 0
+    },
+    {
+        "task": "synonyms_and_antonyms",
+        "question": "¿Cuál es el sinónimo de 'luminoso'?",
+        "options": [
+            "oscuro",
+            "brillante",
+            "tenebroso",
+            "reluciente",
+            "resplandeciente"
+        ],
+        "answer": 1
+    },
+    {
+        "task": "synonyms_and_antonyms",
+        "question": "Elige el antónimo de 'transparente'?",
+        "options": [
+            "opaco",
+            "transparente",
+            "translúcido",
+            "diáfano",
+            "lucido"
+        ],
+        "answer": 0
+    },
+    {
+        "task": "synonyms_and_antonyms",
+        "question": "Indica el sinónimo de 'fugaz'?",
+        "options": [
+            "breve",
+            "duradero",
+            "constante",
+            "permanente",
+            "eterno"
+        ],
+        "answer": 0
+    },
+    {
+        "task": "synonyms_and_antonyms",
+        "question": "¿Cuál es el antónimo de 'falso'?",
+        "options": [
+            "verídico",
+            "mentiroso",
+            "engañoso",
+            "fingido",
+            "falso"
+        ],
+        "answer": 0
+    },
+    {
+        "task": "synonyms_and_antonyms",
+        "question": "Elige la palabra que no significa lo mismo que 'libertad'?",
+        "options": [
+            "dependencia",
+            "autonomía",
+            "independencia",
+            "emancipación",
+            "indiagencia"
+        ],
+        "answer": 0
+    },
+    {
+        "task": "synonyms_and_antonyms",
+        "question": "Indica el sinónimo de 'generoso'?",
+        "options": [
+            "tacaño",
+            "magnánimo",
+            "avaro",
+            "pródigo",
+            "egoísta"
+        ],
+        "answer": 1
+    },
+    {
+        "task": "synonyms_and_antonyms",
+        "question": "¿Cuál es el antónimo de 'cálido'?",
+        "options": [
+            "frío",
+            "helado",
+            "tibio",
+            "caliente",
+            "gélido"
+        ],
+        "answer": 0
+    },
+    {
+        "task": "synonyms_and_antonyms",
+        "question": "Elige el sinónimo de 'fuerte'?",
+        "options": [
+            "débil",
+            "robusto",
+            "fuerte",
+            "resistente",
+            "poderoso"
+        ],
+        "answer": 1
+    },
+    {
+        "task": "synonyms_and_antonyms",
+        "question": "Indica el antónimo de 'despreciativo'?",
+        "options": [
+            "apreciativo",
+            "despectivo",
+            "estimativo",
+            "respeto",
+            "despectivo"
+        ],
+        "answer": 0
+    },
+    {
+        "task": "synonyms_and_antonyms",
+        "question": "¿Cuál palabra no significa lo mismo que 'trabajo'?",
+        "options": [
+            "labor",
+            "esfuerzo",
+            "ocio",
+            "actividad",
+            "tarea"
+        ],
+        "answer": 2
+    }
+    ,
+    {
+        "task": "synonyms_and_antonyms",
+        "question": "Elige el sinónimo de 'necio'?",
+        "options": [
+            "sabio",
+            "ignorante",
+            "erudito",
+            "letrado",
+            "culto"
+        ],
+        "answer": 1
+    },
+    {
+        "task": "synonyms_and_antonyms",
+        "question": "¿Cuál es el antónimo de 'fugaz'?",
+        "options": [
+            "breve",
+            "duradero",
+            "constante",
+            "permanente",
+            "eterno"
+        ],
+        "answer": 1
+    },
+    {
+        "task": "synonyms_and_antonyms",
+        "question": "Indica el sinónimo de 'honesto'?",
+        "options": [
+            "dishonesto",
+            "íntegro",
+            "leal",
+            "recto",
+            "honesto"
+        ],
+        "answer": 1
+    },
+    {
+        "task": "synonyms_and_antonyms",
+        "question": "Elige la palabra que no significa lo mismo que 'libertad'?",
+        "options": [
+            "dependencia",
+            "autonomía",
+            "independencia",
+            "emancipación",
+            "indiagencia"
+        ],
+        "answer": 0
+    },
+    {
+        "task": "synonyms_and_antonyms",
+        "question": "¿Cuál es el sinónimo de 'fuerte'?",
+        "options": [
+            "débil",
+            "robusto",
+            "delgado",
+            "fuerte",
+            "resistente"
+        ],
+        "answer": 1
+    },
+    {
+        "task": "synonyms_and_antonyms",
+        "question": "Indica el antónimo de 'transparente'?",
+        "options": [
+            "opaco",
+            "diáfano",
+            "translúcido",
+            "transparente",
+            "lucido"
+        ],
+        "answer": 0
+    },
+    {
+        "task": "synonyms_and_antonyms",
+        "question": "Elige el sinónimo de 'despreciativo'?",
+        "options": [
+            "despectivo",
+            "apreciativo",
+            "estimativo",
+            "respeto",
+            "despectivo"
+        ],
+        "answer": 0
+    },
+    {
+        "task": "synonyms_and_antonyms",
+        "question": "¿Cuál palabra no es sinónimo de 'sinceridad'?",
+        "options": [
+            "honestidad",
+            "veracidad",
+            "falsedad",
+            "franqueza",
+            "lealtad"
+        ],
+        "answer": 2
+    },
+    {
+        "task": "synonyms_and_antonyms",
+        "question": "Indica el sinónimo de 'largo'?",
+        "options": [
+            "corto",
+            "extenso",
+            "prolongado",
+            "dilatado",
+            "amplio"
+        ],
+        "answer": 1
+    },
+    {
+        "task": "synonyms_and_antonyms",
+        "question": "Elige el antónimo de 'breve'?",
+        "options": [
+            "corto",
+            "largo",
+            "poco duradero",
+            "transitorio",
+            "eterno"
+        ],
+        "answer": 1
+    },
+    {
+        "task": "synonyms_and_antonyms",
+        "question": "Indica el sinónimo de 'inteligente'?",
+        "options": [
+            "ignorante",
+            "astuto",
+            "brillante",
+            "perspicaz",
+            "sagaz"
+        ],
+        "answer": 1
+    },
+    {
+        "task": "synonyms_and_antonyms",
+        "question": "¿Cuál es el antónimo de 'deshonesto'?",
+        "options": [
+            "honesto",
+            "dishonesto",
+            "íntegro",
+            "leal",
+            "recto"
+        ],
+        "answer": 0
+    },
+    {
+        "task": "synonyms_and_antonyms",
+        "question": "Elige la palabra que no significa lo mismo que 'honor'?",
+        "options": [
+            "honra",
+            "deshonra",
+            "gloria",
+            "prestigio",
+            "reputación"
+        ],
+        "answer": 1
+    },
+    {
+        "task": "synonyms_and_antonyms",
+        "question": "Indica el sinónimo de 'desprecio'?",
+        "options": [
+            "aprecio",
+            "desdén",
+            "estimación",
+            "respeto",
+            "consideración"
+        ],
+        "answer": 1
+    },
+    {
+        "task": "synonyms_and_antonyms",
+        "question": "¿Cuál palabra no significa lo mismo que 'despreocupación'?",
+        "options": [
+            "preocupación",
+            "indiferencia",
+            "desapego",
+            "apático",
+            "desinterés"
+        ],
+        "answer": 0
+    },
+    {
+        "task": "synonyms_and_antonyms",
+        "question": "Elige el sinónimo de 'generoso'?",
+        "options": [
+            "tacaño",
+            "magnánimo",
+            "avaro",
+            "pródigo",
+            "egoísta"
+        ],
+        "answer": 1
+    },
+    {
+        "task": "synonyms_and_antonyms",
+        "question": "¿Cuál es el antónimo de 'fácil'?",
+        "options": [
+            "difícil",
+            "simple",
+            "complejo",
+            "intrincado",
+            "laborioso"
+        ],
+        "answer": 0
+    },
+    {
+        "task": "synonyms_and_antonyms",
+        "question": "Indica el sinónimo de 'inmenso'?",
+        "options": [
+            "enorme",
+            "pequeño",
+            "minúsculo",
+            "compacto",
+            "breve"
+        ],
+        "answer": 0
+    },
+    {
+        "task": "synonyms_and_antonyms",
+        "question": "Elige el antónimo de 'resistente'?",
+        "options": [
+            "frágil",
+            "firme",
+            "débil",
+            "quebradizo",
+            "friable"
+        ],
+        "answer": 0
+    },
+    {
+        "task": "synonyms_and_antonyms",
+        "question": "¿Cuál palabra no es sinónimo de 'libertad'?",
+        "options": [
+            "autonomía",
+            "dependencia",
+            "independencia",
+            "emancipación",
+            "indiagencia"
+        ],
+        "answer": 1
+    },
+    {
+        "task": "synonyms_and_antonyms",
+        "question": "Indica el sinónimo de 'fugaz'?",
+        "options": [
+            "breve",
+            "duradero",
+            "constante",
+            "permanente",
+            "eterno"
+        ],
+        "answer": 0
+    },
+    {
+        "task": "synonyms_and_antonyms",
+        "question": "Elige el antónimo de 'luminoso'?",
+        "options": [
+            "oscuro",
+            "brillante",
+            "reluciente",
+            "resplandeciente",
+            "luminoso"
+        ],
+        "answer": 0
+    },
+    {
+        "task": "synonyms_and_antonyms",
+        "question": "¿Cuál palabra no significa lo mismo que 'deshonestidad'?",
+        "options": [
+            "honestidad",
+            "deshonestidad",
+            "falsedad",
+            "fraude",
+            "trampa"
+        ],
+        "answer": 0
+    },
+    {
+        "task": "synonyms_and_antonyms",
+        "question": "Indica el sinónimo de 'cauteloso'?",
+        "options": [
+            "imprudente",
+            "precavido",
+            "osado",
+            "prudent",
+            "cuidadoso"
+        ],
+        "answer": 1
+    }
+    ,
+    {
+        "task": "synonyms_and_antonyms",
+        "question": "Elige el sinónimo de 'honesto'?",
+        "options": [
+            "dishonesto",
+            "íntegro",
+            "leal",
+            "recto",
+            "honesto"
+        ],
+        "answer": 1
+    },
+    {
+        "task": "synonyms_and_antonyms",
+        "question": "¿Cuál es el antónimo de 'tacaño'?",
+        "options": [
+            "generoso",
+            "egoísta",
+            "tacaño",
+            "avaro",
+            "pródigo"
+        ],
+        "answer": 4
+    },
+    {
+        "task": "synonyms_and_antonyms",
+        "question": "Indica el sinónimo de 'exacto'?",
+        "options": [
+            "aproximado",
+            "preciso",
+            "vago",
+            "confuso",
+            "incierto"
+        ],
+        "answer": 1
+    },
+    {
+        "task": "synonyms_and_antonyms",
+        "question": "¿Cuál palabra no es sinónimo de 'libertad'?",
+        "options": [
+            "dependencia",
+            "autonomía",
+            "independencia",
+            "emancipación",
+            "indiagencia"
+        ],
+        "answer": 0
+    },
+    {
+        "task": "synonyms_and_antonyms",
+        "question": "Elige el antónimo de 'inmenso'?",
+        "options": [
+            "enorme",
+            "gigantesco",
+            "minúsculo",
+            "descomunal",
+            "colosal"
+        ],
+        "answer": 2
+    },
+    {
+        "task": "synonyms_and_antonyms",
+        "question": "Indica el sinónimo de 'fino'?",
+        "options": [
+            "grosero",
+            "delicado",
+            "rudo",
+            "ordinario",
+            "ordinario"
+        ],
+        "answer": 1
+    },
+    {
+        "task": "synonyms_and_antonyms",
+        "question": "¿Cuál palabra no significa lo mismo que 'honor'?",
+        "options": [
+            "honra",
+            "deshonra",
+            "gloria",
+            "prestigio",
+            "reputación"
+        ],
+        "answer": 1
+    },
+    {
+        "task": "synonyms_and_antonyms",
+        "question": "Elige el sinónimo de 'fugaz'?",
+        "options": [
+            "breve",
+            "duradero",
+            "constante",
+            "permanente",
+            "eterno"
+        ],
+        "answer": 0
+    },
+    {
+        "task": "synonyms_and_antonyms",
+        "question": "¿Cuál es el antónimo de 'invisible'?",
+        "options": [
+            "transparente",
+            "opaco",
+            "oculto",
+            "visible",
+            "escondido"
+        ],
+        "answer": 3
+    },
+    {
+        "task": "synonyms_and_antonyms",
+        "question": "Indica el sinónimo de 'generoso'?",
+        "options": [
+            "tacaño",
+            "magnánimo",
+            "avaro",
+            "egoísta",
+            "pródigo"
+        ],
+        "answer": 1
+    },
+    {
+        "task": "synonyms_and_antonyms",
+        "question": "Elige el antónimo de 'necio'?",
+        "options": [
+            "sabio",
+            "ignorante",
+            "necio",
+            "erudito",
+            "letrado"
+        ],
+        "answer": 0
+    },
+    {
+        "task": "synonyms_and_antonyms",
+        "question": "¿Cuál palabra no es sinónimo de 'creativo'?",
+        "options": [
+            "inventivo",
+            "conservador",
+            "original",
+            "innovador",
+            "imaginativo"
+        ],
+        "answer": 1
+    },
+    {
+        "task": "synonyms_and_antonyms",
+        "question": "Indica el sinónimo de 'rápido'?",
+        "options": [
+            "lento",
+            "veloz",
+            "despacio",
+            "tardo",
+            "lentitudo"
+        ],
+        "answer": 1
+    },
+    {
+        "task": "synonyms_and_antonyms",
+        "question": "Elige el antónimo de 'luminoso'?",
+        "options": [
+            "oscuro",
+            "brillante",
+            "reluciente",
+            "resplandeciente",
+            "luminoso"
+        ],
+        "answer": 0
+    },
+    {
+        "task": "synonyms_and_antonyms",
+        "question": "¿Cuál es el sinónimo de 'fugaz'?",
+        "options": [
+            "breve",
+            "duradero",
+            "constante",
+            "permanente",
+            "eterno"
+        ],
+        "answer": 0
+    },
+    {
+        "task": "synonyms_and_antonyms",
+        "question": "Indica el sinónimo de 'fuerte'?",
+        "options": [
+            "débil",
+            "robusto",
+            "fuerte",
+            "resistente",
+            "poderoso"
+        ],
+        "answer": 1
+    },
+    {
+        "task": "synonyms_and_antonyms",
+        "question": "Elige la palabra que no significa lo mismo que 'deshonestidad'?",
+        "options": [
+            "honestidad",
+            "deshonestidad",
+            "falsedad",
+            "fraude",
+            "trampa"
+        ],
+        "answer": 0
+    },
+    {
+        "task": "synonyms_and_antonyms",
+        "question": "¿Cuál es el antónimo de 'denso'?",
+        "options": [
+            "ligero",
+            "compacto",
+            "espeso",
+            "concentrado",
+            "grueso"
+        ],
+        "answer": 0
+    },
+    {
+        "task": "synonyms_and_antonyms",
+        "question": "Indica el sinónimo de 'honrado'?",
+        "options": [
+            "dishonesto",
+            "íntegro",
+            "leal",
+            "recto",
+            "honrado"
+        ],
+        "answer": 1
+    },
+    {
+        "task": "synonyms_and_antonyms",
+        "question": "Elige el antónimo de 'transparente'?",
+        "options": [
+            "opaco",
+            "transparente",
+            "translúcido",
+            "diáfano",
+            "lucido"
+        ],
+        "answer": 0
+    },
+    {
+        "task": "synonyms_and_antonyms",
+        "question": "¿Cuál palabra no significa lo mismo que 'libertad'?",
+        "options": [
+            "autonomía",
+            "dependencia",
+            "independencia",
+            "emancipación",
+            "indiagencia"
+        ],
+        "answer": 1
+    }
+    ,
+    {
+        "task": "synonyms_and_antonyms",
+        "question": "Indica el sinónimo de 'fugaz'?",
+        "options": [
+            "breve",
+            "duradero",
+            "constante",
+            "permanente",
+            "eterno"
+        ],
+        "answer": 0
+    },
+    {
+        "task": "synonyms_and_antonyms",
+        "question": "Elige el antónimo de 'invisible'?",
+        "options": [
+            "transparente",
+            "oculto",
+            "visible",
+            "desaparecido",
+            "escondido"
+        ],
+        "answer": 2
+    },
+    {
+        "task": "synonyms_and_antonyms",
+        "question": "¿Cuál es el sinónimo de 'honesto'?",
+        "options": [
+            "dishonesto",
+            "íntegro",
+            "leal",
+            "recto",
+            "honesto"
+        ],
+        "answer": 1
+    },
+    {
+        "task": "synonyms_and_antonyms",
+        "question": "Indica el sinónimo de 'generoso'?",
+        "options": [
+            "tacaño",
+            "magnánimo",
+            "avaro",
+            "pródigo",
+            "egoísta"
+        ],
+        "answer": 1
+    },
+    {
+        "task": "synonyms_and_antonyms",
+        "question": "Elige el antónimo de 'fácil'?",
+        "options": [
+            "difícil",
+            "simple",
+            "complejo",
+            "fácil",
+            "intrincado"
+        ],
+        "answer": 0
+    },
+    {
+        "task": "synonyms_and_antonyms",
+        "question": "¿Cuál palabra no significa lo mismo que 'honor'?",
+        "options": [
+            "honra",
+            "deshonra",
+            "gloria",
+            "prestigio",
+            "reputación"
+        ],
+        "answer": 1
+    },
+    {
+        "task": "synonyms_and_antonyms",
+        "question": "Indica el sinónimo de 'fuerte'?",
+        "options": [
+            "débil",
+            "robusto",
+            "delgado",
+            "fuerte",
+            "resistente"
+        ],
+        "answer": 1
+    },
+    {
+        "task": "synonyms_and_antonyms",
+        "question": "Elige el antónimo de 'luminoso'?",
+        "options": [
+            "oscuro",
+            "brillante",
+            "reluciente",
+            "resplandeciente",
+            "luminoso"
+        ],
+        "answer": 0
+    },
+    {
+        "task": "synonyms_and_antonyms",
+        "question": "¿Cuál es el sinónimo de 'inmenso'?",
+        "options": [
+            "enorme",
+            "minúsculo",
+            "pequeño",
+            "compacto",
+            "breve"
+        ],
+        "answer": 0
+    },
+    {
+        "task": "synonyms_and_antonyms",
+        "question": "Indica el sinónimo de 'cauteloso'?",
+        "options": [
+            "imprudente",
+            "precavido",
+            "osado",
+            "prudent",
+            "cuidadoso"
+        ],
+        "answer": 1
+    },
+    {
+        "task": "synonyms_and_antonyms",
+        "question": "Elige el antónimo de 'necio'?",
+        "options": [
+            "sabio",
+            "ignorante",
+            "necio",
+            "erudito",
+            "letrado"
+        ],
+        "answer": 0
+    },
+    {
+        "task": "synonyms_and_antonyms",
+        "question": "¿Cuál palabra no significa lo mismo que 'deshonestidad'?",
+        "options": [
+            "honestidad",
+            "deshonestidad",
+            "falsedad",
+            "fraude",
+            "trampa"
+        ],
+        "answer": 0
+    },
+    {
+        "task": "synonyms_and_antonyms",
+        "question": "Indica el sinónimo de 'despreciativo'?",
+        "options": [
+            "despectivo",
+            "apreciativo",
+            "estimativo",
+            "respeto",
+            "despectivo"
+        ],
+        "answer": 0
+    },
+    {
+        "task": "synonyms_and_antonyms",
+        "question": "¿Cuál es el sinónimo de 'fugaz'?",
+        "options": [
+            "breve",
+            "duradero",
+            "constante",
+            "permanente",
+            "eterno"
+        ],
+        "answer": 0
+    },
+    {
+        "task": "synonyms_and_antonyms",
+        "question": "Elige el antónimo de 'invisible'?",
+        "options": [
+            "visible",
+            "transparente",
+            "oculto",
+            "desaparecido",
+            "escondido"
+        ],
+        "answer": 0
+    },
+    {
+        "task": "synonyms_and_antonyms",
+        "question": "Indica el sinónimo de 'honesto'?",
+        "options": [
+            "dishonesto",
+            "íntegro",
+            "leal",
+            "recto",
+            "honesto"
+        ],
+        "answer": 1
+    },
+    {
+        "task": "synonyms_and_antonyms",
+        "question": "Elige el sinónimo de 'generoso'?",
+        "options": [
+            "tacaño",
+            "magnánimo",
+            "avaro",
+            "pródigo",
+            "egoísta"
+        ],
+        "answer": 1
+    },
+    {
+        "task": "synonyms_and_antonyms",
+        "question": "¿Cuál palabra no significa lo mismo que 'sinceridad'?",
+        "options": [
+            "honestidad",
+            "veracidad",
+            "falsedad",
+            "franqueza",
+            "lealtad"
+        ],
+        "answer": 2
+    },
+    {
+        "task": "synonyms_and_antonyms",
+        "question": "Indica el antónimo de 'fácil'?",
+        "options": [
+            "difícil",
+            "simple",
+            "complejo",
+            "fácil",
+            "intrincado"
+        ],
+        "answer": 0
+    },
+    {
+        "task": "synonyms_and_antonyms",
+        "question": "Elige la palabra que no significa lo mismo que 'libertad'?",
+        "options": [
+            "dependencia",
+            "autonomía",
+            "independencia",
+            "emancipación",
+            "indiagencia"
+        ],
+        "answer": 0
+    },
+    {
+        "task": "synonyms_and_antonyms",
+        "question": "¿Cuál es el sinónimo de 'inmenso'?",
+        "options": [
+            "enorme",
+            "minúsculo",
+            "pequeño",
+            "compacto",
+            "breve"
+        ],
+        "answer": 0
+    },
+    {
+        "task": "synonyms_and_antonyms",
+        "question": "Indica el sinónimo de 'fuerte'?",
+        "options": [
+            "débil",
+            "robusto",
+            "fuerte",
+            "resistente",
+            "poderoso"
+        ],
+        "answer": 1
+    }
+    ,
+    {
+        "task": "synonyms_and_antonyms",
+        "question": "Elige el sinónimo de 'despreciativo'?",
+        "options": [
+            "despectivo",
+            "apreciativo",
+            "estimativo",
+            "respeto",
+            "despectivo"
+        ],
+        "answer": 0
+    },
+    {
+        "task": "synonyms_and_antonyms",
+        "question": "¿Cuál palabra no significa lo mismo que 'deshonestidad'?",
+        "options": [
+            "honestidad",
+            "deshonestidad",
+            "falsedad",
+            "fraude",
+            "trampa"
+        ],
+        "answer": 0
+    },
+    {
+        "task": "synonyms_and_antonyms",
+        "question": "Indica el antónimo de 'invisible'?",
+        "options": [
+            "transparente",
+            "oculto",
+            "visible",
+            "desaparecido",
+            "escondido"
+        ],
+        "answer": 2
+    },
+    {
+        "task": "synonyms_and_antonyms",
+        "question": "¿Cuál es el sinónimo de 'fugaz'?",
+        "options": [
+            "breve",
+            "duradero",
+            "constante",
+            "permanente",
+            "eterno"
+        ],
+        "answer": 0
+    }
+]
