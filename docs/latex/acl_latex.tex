@@ -1,0 +1,802 @@
+\documentclass[11pt]{article}
+\usepackage{listings}
+\usepackage{booktabs}
+\usepackage{amsmath}
+\usepackage{minted}
+
+% Change "review" to "final" to generate tbhe final (sometimes called camera-ready) version.
+% Change to "preprint" to generate a non-anonymous version with page numbers.
+\usepackage[preprint]{acl}
+
+% Standard package includes
+\usepackage{times}
+\usepackage{latexsym}
+
+% For proper rendering and hyphenation of words containing Latin characters (including in bib files)
+\usepackage[T1]{fontenc}
+% For Vietnamese characters
+% \usepackage[T5]{fontenc}
+% See https://www.latex-project.org/help/documentation/encguide.pdf for other character sets
+
+% This assumes your files are encoded as UTF8
+\usepackage[utf8]{inputenc}
+
+% This is not strictly necessary, and may be commented out,
+% but it will improve the layout of the manuscript,
+% and will typically save some space.
+\usepackage{microtype}
+
+% This is also not strictly necessary, and may be commented out.
+% However, it will improve the aesthetics of text in
+% the typewriter font.
+\usepackage{inconsolata}
+
+%Including images in your LaTeX document requires adding
+%additional package(s)
+\usepackage{graphicx}
+
+% If the title and author information does not fit in the area allocated, uncomment the following
+%
+%\setlength\titlebox{<dim>}
+%
+% and set <dim> to something 5cm or larger.
+
+\title{Diseño de un Benchmark y Framework de Evaluación para Robustez Adversarial en Tareas de Razonamiento Verbal en Español}
+
+% Author information can be set in various styles:
+% For several authors from the same institution:
+% \author{Author 1 \and ... \and Author n \\
+%         Address line \\ ... \\ Address line}
+% if the names do not fit well on one line use
+%         Author 1 \\ {\bf Author 2} \\ ... \\ {\bf Author n} \\
+% For authors from different institutions:
+% \author{Author 1 \\ Address line \\  ... \\ Address line
+%         \And  ... \And
+%         Author n \\ Address line \\ ... \\ Address line}
+% To start a separate ``row'' of authors use \AND, as in
+% \author{Author 1 \\ Address line \\  ... \\ Address line
+%         \AND
+%         Author 2 \\ Address line \\ ... \\ Address line \And
+%         Author 3 \\ Address line \\ ... \\ Address line}
+
+\author{
+    Rodrigo Jose Alva Sáenz \\ \texttt{\small rodrigo.alva@unmsm.edu.pe} \And
+    Alwin Edu Dávila Raffo \\ \texttt{\small alwin.davila@unmsm.edu.pe} \AND
+    Damaris Marian Del Carpio Martinez \\ \texttt{\small damaris.delcarpio@unmsm.edu.pe} \And
+    Jesus Stevan Diaz Ingol \\ \texttt{\small jesus.diaz10@unmsm.edu.pe} \AND
+    Paolo Luis Flores Cóngora \\ \texttt{\small paolo.flores2@unmsm.edu.pe}
+}
+
+%\author{
+%  \textbf{First Author\textsuperscript{1}},
+%  \textbf{Second Author\textsuperscript{1,2}},
+%  \textbf{Third T. Author\textsuperscript{1}},
+%  \textbf{Fourth Author\textsuperscript{1}},
+%\\
+%  \textbf{Fifth Author\textsuperscript{1,2}},
+%  \textbf{Sixth Author\textsuperscript{1}},
+%  \textbf{Seventh Author\textsuperscript{1}},
+%  \textbf{Eighth Author \textsuperscript{1,2,3,4}},
+%\\
+%  \textbf{Ninth Author\textsuperscript{1}},
+%  \textbf{Tenth Author\textsuperscript{1}},
+%  \textbf{Eleventh E. Author\textsuperscript{1,2,3,4,5}},
+%  \textbf{Twelfth Author\textsuperscript{1}},
+%\\
+%  \textbf{Thirteenth Author\textsuperscript{3}},
+%  \textbf{Fourteenth F. Author\textsuperscript{2,4}},
+%  \textbf{Fifteenth Author\textsuperscript{1}},
+%  \textbf{Sixteenth Author\textsuperscript{1}},
+%\\
+%  \textbf{Seventeenth S. Author\textsuperscript{4,5}},
+%  \textbf{Eighteenth Author\textsuperscript{3,4}},
+%  \textbf{Nineteenth N. Author\textsuperscript{2,5}},
+%  \textbf{Twentieth Author\textsuperscript{1}}
+%\\
+%\\
+%  \textsuperscript{1}Affiliation 1,
+%  \textsuperscript{2}Affiliation 2,
+%  \textsuperscript{3}Affiliation 3,
+%  \textsuperscript{4}Affiliation 4,
+%  \textsuperscript{5}Affiliation 5
+%\\
+%  \small{
+%    \textbf{Correspondence:} \href{mailto:email@domain}{email@domain}
+%  }
+%}
+
+\begin{document}
+
+\maketitle
+
+\begin{abstract}
+La robustez adversarial de los modelos de lenguaje de gran escala ante
+perturbaciones multilingües permanece como un área poco explorada en
+español. Presentamos un benchmark de 2{,}215 ítems de razonamiento
+verbal y un framework modular de evaluación para medir la robustez de
+LLMs frente a cinco tipos de perturbaciones adversariales en siete
+tareas. El sistema integra tres proyectos complementarios:
+perturbaciones léxicas (sinónimos, pares mínimos, eliminación de
+atajos), parafrásticas y \textit{cross-lingual} mediante traducción a
+cinco idiomas (árabe, chino, francés, japonés, ruso). Evaluamos siete
+modelos de distintas familias y tamaños, reportando siete métricas de
+robustez: accuracy, accuracy drop ($\Delta$), flip rate, consistencia,
+transferencia positiva, transferencia negativa y rank consistency
+(correlación de Spearman sobre logprobs). Los ataques cross-lingual
+producen mayor degradación que los léxicos en todos los modelos
+funcionales, con el árabe causando el mayor daño ($\Delta = 5.52\%$
+en gemma2:27b). El hallazgo más notable es que qwen2.5-coder exhibe
+rank consistency \textit{negativa} bajo árabe ($\rho = -0.53$) y chino
+($\rho = -0.32$), indicando que la perturbación \textit{invierte}
+sistemáticamente el ranking de opciones del modelo sin reducir
+necesariamente su accuracy neta.
+\end{abstract}
+
+% ─────────────────────────────────────────────────────
+\section{Introducción}
+
+Los modelos de lenguaje de gran escala han alcanzado un rendimiento
+sobresaliente en numerosas tareas de procesamiento de lenguaje natural,
+incluyendo comprensión lectora, razonamiento lógico y generación de
+texto \citep{brown2020language, wei2022emergent}. Sin embargo, gran
+parte de la investigación sobre su evaluación se ha centrado
+desproporcionadamente en el inglés, dejando subrepresentadas lenguas
+con cientos de millones de hablantes \citep{multilingual2023}.
+ 
+Un problema fundamental es la falta de estandarización: distintos
+estudios utilizan datasets heterogéneos, métricas incomparables y
+configuraciones experimentales inconsistentes, lo que dificulta la
+comparación justa entre modelos \citep{liang2022holistic}. A esto se
+suma la fragilidad adversarial: pequeñas perturbaciones en la entrada
+pueden provocar fallos inesperados incluso en modelos de alto
+rendimiento \citep{wang2023promptrobust}.
+ 
+Este trabajo es el Proyecto 3 de una serie de tres proyectos
+complementarios. Los Proyectos 1 y 2 construyeron datasets adversariales
+mediante perturbaciones léxicas y parafrásticas. El presente integra
+esos resultados bajo un framework unificado, añade perturbaciones
+cross-lingual a cinco idiomas, e implementa métricas de robustez
+inspiradas en \citet{languagespecific2025}, quienes estudian cómo los
+procesos latentes específicos de cada lengua limitan la transferencia
+cross-lingual en LLMs.
+ 
+Las contribuciones principales son: (1) un dataset de 2{,}215 ítems
+de razonamiento verbal en español bajo formato unificado y validado;
+(2) un framework modular extensible que soporta
+ataque cross-lingual; (3) siete métricas de robustez, incluyendo rank consistency
+sobre logprobs; y (4) un análisis de patrones de fallo sobre siete
+modelos bajo condiciones adversariales controladas.
+
+
+\section{Problemática}
+
+La evaluación rigurosa de la robustez adversarial en LLMs enfrenta
+tres obstáculos fundamentales.
+ 
+\paragraph{Falta de estandarización.}
+Los estudios existentes utilizan datasets con formatos propietarios,
+métricas inconsistentes y protocolos no reproducibles
+\citep{liang2022holistic}, haciendo que los resultados publicados sean
+en la práctica incomparables entre sí.
+ 
+\paragraph{Ausencia de análisis cross-lingual en español.}
+Benchmarks como PromptBench \citep{wang2023promptrobust} o AdvGLUE
+\citep{wang2022adversarial} operan casi exclusivamente en inglés. La
+robustez de LLMs frente a cambios de idioma en tareas de razonamiento
+verbal en español —en particular para lenguas tipológicamente diversas
+como el árabe, el japonés o el ruso— no ha sido estudiada de forma
+sistemática.
+ 
+\paragraph{Métricas incapaces de distinguir tipos de degradación.}
+Las métricas estándar (accuracy, F1) no capturan si el modelo
+\textit{mantiene} su conocimiento correcto o \textit{transfiere sus
+errores} al pasar de la condición base a la adversarial. La rank
+consistency \citep{languagespecific2025} permite detectar
+reorganizaciones en la distribución de confianza incluso cuando la
+respuesta final no cambia, revelando vulnerabilidades invisibles para
+métricas de accuracy sola.
+ 
+
+% ─────────────────────────────────────────────────────
+\section{Experimental Setup}
+ 
+\subsection{Dataset}
+
+ El dataset base (\texttt{processed\_dataset.json}) contiene 2{,}215
+ítems de razonamiento verbal en español —la totalidad del banco de
+preguntas del proyecto— distribuidos en siete tipos de tarea que
+cubren distintas dimensiones del procesamiento lingüístico
+(Tabla~\ref{tab:dataset_stats}).
+ 
+\begin{table}[h]
+  \centering\small
+  \begin{tabular}{lr}
+    \toprule
+    \textbf{Tarea} & \textbf{Ítems} \\
+    \midrule
+    Comprensión lectora (\texttt{reading\_comprehension})   & 500 \\
+    Series verbales (\texttt{verbal\_series})               & 500 \\
+    Oraciones eliminadas (\texttt{sentence\_elimination})   & 500 \\
+    Ordenamiento oraciones (\texttt{sentence\_ordering})    & 319 \\
+    Analogías (\texttt{analogies})                          & 209 \\
+    Sinónimos/antónimos (\texttt{synonyms\_and\_antonyms})  & 174 \\
+    Oraciones incompletas (\texttt{incomplete\_sentences})  &  13 \\
+    \midrule
+    \textbf{Total} & \textbf{2{,}215} \\
+    \bottomrule
+  \end{tabular}
+  \caption{Distribución de ítems por tarea en el dataset base.}
+  \label{tab:dataset_stats}
+\end{table}
+ 
+Todos los ítems siguen el esquema JSON con índice de respuesta base-0:
+
+\begin{minted}[fontsize=\small,breaklines]{json}
+{
+  "id": 0,
+  "task": "sentence_ordering",
+  "question": "Cuál es el orden lógico...",
+  "options": ["0) ...", "1) ...",
+              "2) ...", "3) ..."],
+  "answer": 3,
+  "rationale": "Explicación del razonamiento"
+}
+\end{minted} 
+
+El campo \texttt{rationale} es opcional y no se expone al modelo. El
+framework valida automáticamente la integridad de cada dataset y alinea
+los datasets adversariales con el baseline antes de calcular métricas.
+
+
+\paragraph{Familia 1 — Ataques Léxicos (Proyecto 1).}
+ 
+La intuición es que un modelo que razona semánticamente —no sobre
+patrones de superficie— debe mantener su respuesta ante variaciones
+léxicas que no alteran el significado.
+ 
+\begin{itemize}
+  \item \textbf{Sinónimos (\texttt{Synonym}):} Palabras clave se
+  reemplazan por sinónimos de frecuencia equivalente. Evalúa si el
+  modelo ancla su razonamiento a tokens específicos.
+ 
+  \item \textbf{Pares mínimos (\texttt{MinimalPairs}):} Se modifica
+  una única palabra crítica (negación, cuantificador, conector) que
+  invierte o altera el significado. Aísla la sensibilidad a elementos
+  de alta carga semántica con mínimo cambio de superficie.
+ 
+  \item \textbf{Eliminación de atajos (\texttt{ShortcutRemoval}):}
+  Se eliminan conectores lógicos explícitos («porque», «por lo tanto»,
+  «primero... luego»). Evalúa si los modelos explotan estas señales
+  superficiales en lugar de construir una representación coherente.
+\end{itemize}
+ 
+\paragraph{Familia 2 — Ataque Parafrástico (Proyecto 2).}
+ 
+\begin{itemize}
+  \item \textbf{Paráfrasis (\texttt{Paraphrasing}):} El enunciado se
+  reescribe preservando significado pero alterando forma y estructura
+  sintáctica. Más agresivo que la sustitución léxica, puede cambiar
+  el orden de la información y la organización oracional completa.
+\end{itemize}
+ 
+\paragraph{Familia 3 — Ataque Cross-lingual (Proyecto 3).}
+ 
+Motivados por \citet{languagespecific2025}, evaluamos si los procesos
+latentes del idioma de la instrucción interfieren con el razonamiento.
+El ataque \texttt{CrossLingual} traduce el campo \texttt{question}
+dinámicamente a otro idioma mediante qwen3.6-plus (OpencodeGo),
+manteniendo las opciones en español. Se aplica a cinco idiomas con
+distancias tipológicas crecientes respecto al español:
+ 
+\begin{itemize}
+  \item \textbf{Francés (FR):} Lengua romance; distancia tipológica
+  baja. Control de mínimo impacto esperado.
+  \item \textbf{Ruso (RU):} Lengua eslava; escritura cirílica,
+  morfología flexiva. Distancia media-alta.
+  \item \textbf{Chino (ZH):} Lengua sino-tibetana; escritura
+  logográfica, morfología aislante. Distancia alta.
+  \item \textbf{Japonés (JA):} Escritura mixta (hiragana, katakana,
+  kanji). Distancia alta.
+  \item \textbf{Árabe (AR):} Lengua semítica; escritura RTL, morfología
+  radicalmente diferente. Distancia alta.
+\end{itemize}
+ 
+Las traducciones se validan contra un umbral de longitud mínima del
+23\% del texto original.
+
+% ─────────────────────────────────────────────────────
+\subsection{Métricas de Evaluación}
+ 
+Se definen siete métricas. Las de robustez son dirigidas y se calculan
+para cada par ataque-vs-baseline y para pares cruzados entre ataques.
+ 
+\paragraph{Accuracy.}
+$\text{Acc} = \text{correctos} / \text{total}$.
+ 
+\paragraph{Accuracy Drop ($\Delta$).}
+\begin{equation}
+  \Delta = \text{Acc}_{\text{base}} - \text{Acc}_{\text{adv}}
+\end{equation}
+Valor positivo indica degradación; negativo indicaría mejora aparente
+(posiblemente artefacto de tasa de fallo diferencial, ver \ref{sec:analisis}).
+ 
+\paragraph{Flip Rate.}
+Proporción de aciertos en la condición base que se convierten en errores
+bajo perturbación.
+ 
+\paragraph{Consistencia.}
+Proporción de ítems con la misma respuesta en ambas condiciones,
+correcta o no.
+ 
+\paragraph{Transferencia Positiva (PT).}
+Fracción de aciertos base que se mantienen bajo perturbación.
+ 
+\paragraph{Transferencia Negativa (NT).}
+Fracción de errores base que se repiten \textit{idénticamente} bajo
+perturbación (errores persistentes).
+Un NT alto indica que el modelo no solo falla, sino que falla de
+la misma manera sistemática bajo perturbación: señal de sesgo
+estructural más que sensibilidad al idioma.
+ 
+\paragraph{Rank Consistency ($\rho$).}
+Correlación de Spearman entre vectores de ranking de opciones
+construidos a partir de logprobs \citep{languagespecific2025}.
+Captura reordenamientos en la distribución de confianza incluso cuando
+la respuesta final no cambia. Disponible únicamente para modelos con
+\texttt{logprobs=True}; en los modelos evaluados en esta ejecución no
+se habilitó, por lo que $\rho$ queda pendiente para trabajo futuro.
+ 
+
+% ─────────────────────────────────────────────────────
+\section{Resultados Obtenidos}
+
+
+\subsection{Resultados Generales: Accuracy Base}
+ 
+La Tabla~\ref{tab:baseline} presenta la accuracy baseline de los siete
+modelos evaluados sobre el dataset completo (2{,}215 ítems).
+ 
+\begin{table*}[t]
+  \centering\small
+  \begin{tabular}{lcrrrrrrrr}
+    \toprule
+    \textbf{Modelo} & \textbf{n} &
+    \textbf{Acc} &
+    \textbf{read} & \textbf{verb} & \textbf{syn} &
+    \textbf{ord} & \textbf{eli} & \textbf{ana} \\
+    \midrule
+    deepseek-v4-flash     & 1734 & \textbf{81.55\%} & — & — & — & — & — & — \\
+    qwen3.5-plus (pool:2) & 886  & \textbf{74.27\%} & — & — & — & — & — & — \\
+    gemma2:27b            & 2215 & \textbf{53.14\%} & 74.60\% & 62.80\% & 58.05\% & 43.89\% & 30.40\% & 42.58\% \\
+    nidum-gemma-3-27b     & 2215 & \textbf{42.62\%} & 59.60\% & 51.80\% & 50.57\% & 33.86\% & 26.20\% & 27.75\% \\
+    qwen2.5-coder-7b      & 2215 & \textbf{39.64\%} & 32.60\% & 42.20\% & 44.25\% & 32.92\% &  8.20\% & 27.75\% \\
+    dolphin3              & 2215 & \textbf{31.20\%} & 50.80\% & 27.40\% & 29.31\% & 22.57\% & 20.00\% & 17.70\% \\
+    llama3.2-uncensored   & 2215 & \textbf{22.66\%} & 0.00\% & 11.40\% & 5.17\% & 19.12\% & 10.00\% & 5.26\% \\
+    \bottomrule
+  \end{tabular}
+  \caption{Accuracy base por modelo y tarea. deepseek y qwen3.5-plus tienen cobertura
+  parcial debido a nuestros límites de tiempo y compute. read = reading\_comprehension,
+  verb = verbal\_series, syn = synonyms\_and\_antonyms,
+  ord = sentence\_ordering, eli = sentence\_elimination, ana = analogies.}
+  \label{tab:baseline}
+\end{table*}
+ 
+Los modelos de nube (deepseek-v4-flash, qwen3.5-plus) lideran el
+rendimiento base (74–82\%), pero solo disponen de evaluación baseline.
+De los modelos con evaluación adversarial completa, gemma2:27b es el
+más capaz (53.14\%) con cero fallidos de parseo. Llamativamente,
+llama3.2-uncensored obtiene 22.66\% con un solo fallo de parseo: su
+bajo rendimiento es de razonamiento, no de formato —a diferencia de
+lo observado en ejecuciones previas donde fallos de formato inflaban
+artificialmente la tasa de errores.
+ 
+\subsection{Resultados por Proyecto}
+ 
+\paragraph{Proyectos 1 y 2 — Ataques Léxicos y Parafrástico.}
+ 
+La Tabla~\ref{tab:p1p2} presenta los resultados de los ataques léxicos
+y parafrástico (accuracy base independiente = 61.82\%).
+ 
+\begin{table}[h]
+  \centering\small
+  \begin{tabular}{lccr}
+    \toprule
+    \textbf{Ataque} & \textbf{Int.} & \textbf{Acc.} & \textbf{$\Delta$ \quad FR} \\
+    \midrule
+    Baseline              & —   & 61.82\% & — \\
+    \midrule
+    \multirow{3}{*}{MinimalPairs}
+      & 0.1 & 59.60\% & +2.24\% \enspace 11.10\% \\
+      & 0.5 & 58.17\% & +3.65\% \enspace 13.45\% \\
+      & 1.0 & 58.17\% & +3.66\% \enspace 13.33\% \\
+    \midrule
+    Paraphrasing          & 0.5 & 58.79\% & +3.03\% \enspace 16.10\% \\
+    \midrule
+    \multirow{3}{*}{ShortcutRemoval}
+      & 0.1 & 61.61\% & +0.22\% \enspace \phantom{0}6.85\% \\
+      & 0.5 & 61.50\% & +0.32\% \enspace \phantom{0}7.61\% \\
+      & 1.0 & 61.62\% & +0.22\% \enspace \phantom{0}7.49\% \\
+    \midrule
+    Synonym               & 0.5 & 56.80\% & +2.66\% \enspace 15.95\% \\
+    \bottomrule
+  \end{tabular}
+  \caption{Resultados de ataques léxicos y parafrástico (P1/P2).
+  FR = flip rate. Evaluación independiente sobre subconjunto del dataset.}
+  \label{tab:p1p2}
+\end{table}
+ 
+\texttt{ShortcutRemoval} produce el impacto más bajo de toda la
+evaluación ($\Delta \leq 0.32\%$ a cualquier intensidad), indicando
+que los modelos no dependen de los conectores lógicos explícitos para
+resolver las tareas. \texttt{Paraphrasing} presenta el flip rate más
+alto (16.10\%) con $\Delta$ moderado (3.03\%): el modelo cambia sus
+respuestas frecuentemente, pero no siempre en la dirección equivocada.
+\texttt{MinimalPairs} satura a partir de intensidad 0.5: los resultados
+en 0.5 y 1.0 son prácticamente idénticos, lo que sugiere que incluso
+una sola modificación crítica agota el efecto adversarial de este ataque.
+ 
+\paragraph{Proyecto 3 — Ataques Cross-lingual.}
+ 
+La Tabla~\ref{tab:cl_robustness} presenta las métricas de robustez
+cross-lingual para los cinco modelos con evaluación adversarial.
+ 
+\begin{table*}[t]
+  \centering\small
+  \begin{tabular}{llccccccc}
+    \toprule
+    \textbf{Modelo} & \textbf{Idioma} & \textbf{Acc.} &
+    \textbf{$\Delta$} & \textbf{FR} & \textbf{Cons.} &
+    \textbf{PT} & \textbf{NT} & \textbf{$\rho$} \\
+    \midrule
+    \multirow{5}{*}{gemma2:27b}
+      & Árabe   & 47.58\% & +5.52\% & 32.74\% & 53.73\% & 67.26\% & 38.42\% & — \\
+      & Ruso    & 48.78\% & +4.34\% & 27.89\% & 58.08\% & 72.11\% & 42.20\% & — \\
+      & Japonés & 48.98\% & +4.15\% & 30.25\% & 54.18\% & 69.75\% & 36.51\% & — \\
+      & Chino   & 50.20\% & +2.93\% & 27.61\% & 56.57\% & 72.39\% & 38.63\% & — \\
+      & Francés & 51.67\% & +1.45\% & 23.74\% & 60.94\% & 76.26\% & 43.59\% & — \\
+    \midrule
+    \multirow{5}{*}{nidum-gemma-3}
+      & Árabe   & 38.10\% & +4.51\% & 43.54\% & 42.26\% & 56.46\% & 31.71\% & 0.81 \\
+      & Japonés & 40.18\% & +2.44\% & 42.27\% & 40.72\% & 57.73\% & 28.09\% & 0.13 \\
+      & Ruso    & 36.99\% & +1.75\% & 42.06\% & 41.48\% & 57.94\% & 31.07\% & 0.24 \\
+      & Francés & 42.21\% & +0.41\% & 37.08\% & 45.91\% & 62.92\% & 33.28\% & 0.31 \\
+      & Chino   & 42.30\% & +0.32\% & 38.77\% & 43.52\% & 61.23\% & 30.37\% & 0.25 \\
+    \midrule
+    \multirow{5}{*}{qwen2.5-coder}
+      & Árabe   & 31.65\% & +7.99\% & 49.43\% & 44.06\% & 50.57\% & 39.79\% & \textbf{$-$0.53} \\
+      & Japonés & 36.70\% & +2.93\% & 37.36\% & 52.10\% & 62.64\% & 45.18\% & 0.14 \\
+      & Ruso    & 37.65\% & +1.99\% & 34.40\% & 56.48\% & 65.60\% & 50.49\% & 0.12 \\
+      & Francés & 39.59\% & +0.05\% & 32.00\% & 53.00\% & 68.00\% & 43.16\% & 0.10 \\
+      & Chino   & 41.35\% & $-$1.72\% & 33.03\% & 51.83\% & 66.97\% & 41.88\% & \textbf{$-$0.32} \\
+    \midrule
+    \multirow{5}{*}{dolphin3}
+      & Árabe   & 18.18\% & +6.06\% & 71.43\% & 28.14\% & 28.57\% & 28.00\% & — \\
+      & Chino   & 30.34\% & +1.10\% & 49.85\% & 36.02\% & 50.15\% & 29.55\% & — \\
+      & Francés & 30.02\% & +1.18\% & 46.96\% & 38.88\% & 53.04\% & 32.46\% & $-$0.08 \\
+      & Japonés & 33.33\% & +0.00\% & 75.00\% & 16.67\% & 25.00\% & 12.50\% & — \\
+      & Ruso    & 11.11\% & +11.11\% & 100\% & 11.11\% & 0.00\% & 14.29\% & — \\
+    \midrule
+    \multirow{5}{*}{llama3.2-uncs.}
+      & Árabe   & 21.35\% & +1.82\% & 70.87\% & 27.37\% & 29.13\% & 26.84\% & — \\
+      & Chino   & 22.94\% & +0.61\% & 68.83\% & 24.97\% & 31.17\% & 23.07\% & — \\
+      & Francés & 22.11\% & +0.00\% & 70.71\% & 28.58\% & 29.29\% & 28.38\% & $-$0.50 \\
+      & Japonés & 16.46\% & +3.99\% & 81.71\% & 25.44\% & 18.29\% & 27.27\% & — \\
+      & Ruso$^*$ & 7.58\% & +16.67\% & 87.50\% & 28.79\% & 12.50\% & 34.00\% & 0.54 \\
+    \bottomrule
+  \end{tabular}
+  \caption{Métricas de robustez cross-lingual por modelo e idioma, ordenadas
+  por $\Delta$ descendente dentro de cada modelo. $\rho$ = rank consistency
+  (Spearman sobre logprobs); — = logprobs no disponibles. $^*$Ruso en
+  llama3.2: n=66 (cobertura parcial, no confiable). PT = transferencia
+  positiva; NT = transferencia negativa.}
+  \label{tab:cl_robustness}
+\end{table*}
+ 
+La Tabla~\ref{tab:gemma_pertask} desglosa los resultados de gemma2:27b
+por tarea y los cinco idiomas de perturbación.
+ 
+\begin{table*}[t]
+  \centering\small
+  \begin{tabular}{lrrrrrrrrrr}
+    \toprule
+    & \textbf{Base} &
+    \multicolumn{2}{c}{\textbf{Árabe}} &
+    \multicolumn{2}{c}{\textbf{Ruso}} &
+    \multicolumn{2}{c}{\textbf{Japonés}} &
+    \multicolumn{2}{c}{\textbf{Chino}} &
+    \multicolumn{1}{c}{\textbf{Fran.}} \\
+    \textbf{Tarea} & Acc & Acc & $\Delta$ & Acc & $\Delta$ & Acc & $\Delta$ & Acc & $\Delta$ & $\Delta$ \\
+    \midrule
+    reading\_comp.   & 74.60\% & 67.41\% & +7.19\% & 67.74\% & +6.86\% & 68.80\% & +5.80\% & 68.00\% & +6.60\% & +3.78\% \\
+    verbal\_series   & 62.80\% & 54.60\% & +8.20\% & 59.40\% & +3.40\% & 59.40\% & +3.40\% & 62.40\% & +0.40\% & +1.20\% \\
+    syn./ant.        & 58.05\% & 54.60\% & +3.45\% & 55.75\% & +2.30\% & 59.20\% & $-$1.15\% & 63.79\% & $-$5.75\% & $-$3.45\% \\
+    inc.\_sentences  & 61.54\% & 38.46\% & +23.08\% & 61.54\% & \phantom{+}0.00\% & 61.54\% & \phantom{+}0.00\% & 38.46\% & +23.08\% & +15.38\% \\
+    analogies        & 42.58\% & 33.97\% & +8.61\% & 34.93\% & +7.66\% & 30.14\% & +12.44\% & 34.45\% & +8.13\% & +0.96\% \\
+    sentence\_ord.   & 43.89\% & 47.34\% & $-$3.45\% & 44.51\% & $-$0.63\% & 46.39\% & $-$2.51\% & 45.45\% & $-$1.57\% & $-$7.84\% \\
+    sentence\_eli.   & 30.40\% & 24.60\% & +5.80\% & 25.00\% & +5.40\% & 24.40\% & +6.00\% & 25.40\% & +5.00\% & +6.80\% \\
+    \midrule
+    \textbf{Total}   & \textbf{53.14\%} & \textbf{47.58\%} & \textbf{+5.52\%} & \textbf{48.78\%} & \textbf{+4.34\%} & \textbf{48.98\%} & \textbf{+4.15\%} & \textbf{50.20\%} & \textbf{+2.93\%} & \textbf{+1.45\%} \\
+    \bottomrule
+  \end{tabular}
+  \caption{Accuracy y accuracy drop por tarea — gemma2:27b (5 idiomas).
+  $\Delta$ negativo = mejora bajo ataque. Para francés, solo se muestra
+  $\Delta$ por espacio; accuracy base $\times$ (1$-\Delta$) para
+  recuperar el valor.}
+  \label{tab:gemma_pertask}
+\end{table*}
+ 
+% ─────────────────────────────────────────────────────
+\subsection{Análisis de Resultados}
+\label{sec:analisis}
+
+\paragraph{Patrón 1: Árabe produce el mayor daño; francés el menor.}
+En todos los modelos con evaluación completa, el árabe es el idioma de
+ataque más dañino (gemma2:27b: $\Delta = 5.52\%$; nidum-gemma-3:
+$\Delta = 4.51\%$; qwen2.5-coder: $\Delta = 7.99\%$) y el francés
+el menos (gemma2:27b: $\Delta = 1.45\%$; nidum-gemma-3: $\Delta =
+0.41\%$). El ordenamiento en gemma2:27b es: AR $>$ RU $>$ JA $>$ ZH
+$>$ FR, no estrictamente coincidente con la distancia tipológica al
+español. El árabe supera al chino pese a que el chino es tipológicamente
+más distante, posiblemente porque su escritura RTL introduce
+ambigüedades adicionales en la tokenización o porque los corpus de
+preentrenamiento en árabe tienen menor representación que los de chino.
+ 
+\paragraph{Patrón 2: Los ataques cross-lingual superan a los léxicos.}
+El $\Delta$ máximo de los ataques léxicos y parafrástico (P1/P2) es
+3.66\% (\texttt{MinimalPairs} intensidad 1.0). El ataque árabe produce
+5.52\%--7.99\% según el modelo, es decir, entre 1.5× y 2.2× mayor
+degradación. \texttt{ShortcutRemoval} representa el extremo inferior:
+$\Delta \leq 0.32\%$ a cualquier intensidad, lo que indica que los
+conectores lógicos explícitos contribuyen marginalmente al rendimiento
+en estas tareas.
+ 
+\paragraph{Patrón 3: Rank consistency negativa en qwen2.5-coder.}
+El hallazgo más notable del estudio es que qwen2.5-coder exhibe
+\textit{rank consistency negativa} bajo árabe ($\rho = -0.53$) y chino
+($\rho = -0.32$), con $\Delta$ de +7.99\% y $-$1.72\% respectivamente.
+Esto significa que la perturbación \textit{invierte} sistemáticamente el
+ranking de opciones del modelo: las opciones que el modelo prefería en
+la condición base pasan a ser las menos preferidas bajo perturbación, y
+viceversa.
+ 
+El contraste entre árabe ($\rho = -0.53$, $\Delta = +7.99\%$) y chino
+($\rho = -0.32$, $\Delta = -1.72\%$) es particularmente instructivo:
+en ambos casos el ranking se invierte, pero bajo chino la opción
+correcta —que era la menos preferida en base— pasa a ser la más
+preferida bajo perturbación, produciendo una mejora neta en accuracy.
+Esto sugiere que el modelo no razona sobre el contenido de las opciones,
+sino que detecta señales superficiales en el idioma de la pregunta para
+ordenar las respuestas. Este comportamiento es invisible para métricas
+de accuracy sola y solo emerge con rank consistency.
+ 
+\paragraph{Patrón 4: Alta rho con alto $\Delta$ en nidum-gemma-3/árabe.}
+Bajo árabe, nidum-gemma-3 exhibe $\rho = 0.81$ (alta correlación) con
+$\Delta = 4.51\%$ simultáneamente. Este aparente paradoja se resuelve
+al considerar que alta consistencia de ranking significa que el modelo
+desplaza sistemáticamente toda su distribución en la misma dirección
+(la opción correcta baja uniformemente en el ranking), no que introduce
+ruido aleatorio. Este patrón de «sesgo sistemático» es más preocupante
+que el ruido aleatorio para aplicaciones reales: el modelo tiene la
+certeza incorrecta correctamente ordenada.
+ 
+\paragraph{Patrón 5: sentence\_ordering mejora consistentemente bajo
+perturbación cross-lingual.}
+En gemma2:27b, \texttt{sentence\_ordering} mejora bajo los cinco idiomas
+de perturbación: $\Delta = -3.45\%$ (AR), $-0.63\%$ (RU), $-2.51\%$
+(JA), $-1.57\%$ (ZH), $-7.84\%$ (FR). Una hipótesis es que cuando la
+instrucción llega en otro idioma, el modelo reduce el procesamiento
+semántico profundo y se enfoca en señales estructurales: en
+\texttt{sentence\_ordering}, el orden lógico puede inferirse de
+marcadores de cohesión (pronombres, tiempos verbales) que son
+independientes del idioma de la instrucción. También se observan mejoras
+menores en \texttt{synonyms\_and\_antonyms} bajo chino ($-5.75\%$) y
+francés ($-3.45\%$).
+ 
+\paragraph{Patrón 6: Alta flip rate con bajo $\Delta$ en llama3.2.}
+Llama3.2-uncensored presenta flip rates muy altas (68--82\%) bajo
+todos los ataques, pero $\Delta$ moderados (0--4\%). Esto indica que
+el modelo cambia sus respuestas con alta frecuencia ante perturbaciones,
+pero aproximadamente en igual proporción hacia aciertos y hacia errores
+—comportamiento consistente con selección casi aleatoria de opciones,
+con accuracy cercana al azar (25\% para 4 opciones vs 22.66\% observado).
+La $\rho = -0.50$ bajo francés (única con logprobs disponibles)
+confirma que incluso el ranking interno se invierte completamente.
+ 
+\paragraph{Patrón 7: Transferencia negativa alta como indicador de sesgo.}
+En gemma2:27b, el NT oscila entre 36.5\% y 43.6\% según el idioma,
+indicando que entre 37\% y 44\% de los errores en baseline se repiten
+\textit{idénticamente} bajo perturbación. En qwen2.5-coder, el NT
+bajo ruso alcanza 50.5\%: la mitad de todos los errores del modelo son
+persistentes e independientes del idioma del ataque. Esto sugiere
+sesgos estructurales preexistentes —como preferencia sistemática por
+ciertas posiciones de opción— que ninguna perturbación logra alterar.
+ 
+% ─────────────────────────────────────────────────────
+\subsection{Interfaces e Implementación}
+ 
+El framework \texttt{llm\_verbal\_framework} se organiza en cuatro
+capas.
+ 
+\paragraph{Capa de modelos (Providers).}
+Tres backends bajo una interfaz común
+(\texttt{complete(messages, response\_format) $\to$ content, tokens,
+logprobs}): Ollama (modelos locales), OpenRouter (modelos propietarios
+con logprobs) y OpencodeGo (dual backend: AsyncOpenAI para kimi-k2.6,
+deepseek-v4-flash, qwen3.5-plus; AsyncAnthropic para modelos Anthropic).
+ 
+\paragraph{Capa de ataques.}
+\texttt{CrossLingual} genera perturbaciones dinámicamente con validación
+de longitud. Los demás ataques cargan datasets pre-computados:
+ 
+\begin{minted}[fontsize=\small,breaklines]{python}
+benchmark = Benchmark(
+    baseline=Path("processed_dataset.json"),
+    attacks=[
+        attacks.CrossLingual(
+            language=CrossLingualLanguage.ARABIC),
+        attacks.CrossLingual(
+            language=CrossLingualLanguage.RUSSIAN),
+        attacks.CrossLingual(
+            language=CrossLingualLanguage.JAPANESE),
+        attacks.CrossLingual(
+            language=CrossLingualLanguage.CHINESE),
+        attacks.CrossLingual(
+            language=CrossLingualLanguage.FRENCH),
+        attacks.Synonym("synonym_1"),
+        attacks.Paraphrasing("paraphrasing_1"),
+        attacks.MinimalPairs("negation_flip"),
+        attacks.ShortcutRemoval("no_shortcuts"),
+    ],
+    models=[...],
+    concurrency=4, base_dir="benchmark",
+)
+result = benchmark.run()
+result.save("stats.json")
+result.save("report.md")
+\end{minted}
+ 
+\paragraph{Resumabilidad y logprobs.}
+El framework guarda resultados parciales tras cada lote mediante
+escritura atómica (archivo temporal + rename), permitiendo reanudar
+evaluaciones interrumpidas sin re-procesar trabajo completado. Con
+\texttt{logprobs=True} y \texttt{top\_logprobs=5}, el framework extrae
+logprobs por opción escaneando tokens de dígito en el output del modelo
+y calcula $\rho$ sobre los vectores de ranking resultantes.
+ 
+\paragraph{Capa de reporte.}
+Exportación en JSON (agregados y por muestra) y Markdown con tablas
+científicas. La evaluación total duró aproximadamente 20 horas
+combinando dos ejecuciones del benchmark sobre hardware local (Ollama)
+y APIs en la nube.
+
+ 
+% ─────────────────────────────────────────────────────
+\section{Conclusiones}
+Este trabajo presentó un benchmark de 2{,}215 ítems de razonamiento
+verbal en español y un framework de evaluación modular para medir la
+robustez adversarial de LLMs bajo cinco tipos de ataque y cinco idiomas
+de perturbación. Las contribuciones y hallazgos principales son:
+ 
+\begin{enumerate}
+  \item Un dataset unificado en formato JSON con siete tipos de tarea,
+  con validación automática de integridad estructural.
+ 
+  \item Un framework reproducible con tres backends de modelo,
+  concurrencia configurable y exportación en múltiples formatos.
+ 
+  \item Siete métricas de robustez incluyendo rank consistency sobre
+  logprobs, que revela vulnerabilidades invisibles para accuracy sola.
+ 
+  \item La jerarquía de impacto adversarial: ataques cross-lingual
+  dominan sobre léxicos ($\Delta_{\text{AR}} \leq 7.99\%$ vs
+  $\Delta_{\text{MinPairs}} \leq 3.66\%$); dentro de los cross-lingual,
+  árabe $>$ ruso $\approx$ japonés $>$ chino $>$ francés.
+  \texttt{ShortcutRemoval} es el ataque menos efectivo ($\Delta \leq
+  0.32\%$), lo que indica que los modelos no explotan estos atajos
+  superficiales de manera significativa.
+ 
+  \item El hallazgo más relevante: rank consistency \textit{negativa}
+  en qwen2.5-coder bajo árabe ($\rho = -0.53$) y chino ($\rho =
+  -0.32$), indicando que la perturbación invierte sistemáticamente el
+  ranking interno de opciones. Esto es invisible para métricas de
+  accuracy y apunta a que el modelo depende de señales del idioma de
+  la instrucción —no del contenido semántico— para ordenar las
+  alternativas.
+ 
+  \item \texttt{sentence\_ordering} mejora consistentemente bajo
+  todos los idiomas de perturbación en gemma2:27b, sugiriendo que
+  la instrucción en otro idioma favorece un procesamiento más
+  estructural que beneficia a esta tarea en particular.
+\end{enumerate}
+ 
+Como trabajo futuro, se propone completar la evaluación de los modelos
+de nube con ataques adversariales (deepseek-v4-flash, qwen3.5-plus),
+extender el análisis de rank consistency a todos los modelos habilitando
+logprobs, y aplicar análisis de representaciones internas (CKA,
+activation steering) para contrastar con los hallazgos de
+\citet{languagespecific2025}.
+% ─────────────────────────────────────────────────────
+\section*{Agradecimientos}
+ 
+Los autores agradecen al PhD. Marco Antonio Sobrevilla Cabezudo, docente del curso de Software Inteligente de la Universidad Nacional Mayor de San Marcos por la orientación brindada durante el desarrollo de este trabajo.
+ 
+% ─────────────────────────────────────────────────────
+\bibliography{custom}
+
+% ─────────────────────────────────────────────────────
+\appendix
+ 
+\section{Ejemplos de Perturbaciones por Tipo de Ataque}
+\label{sec:appendix_examples}
+
+Los ejemplos se resumen en la Tabla ~\ref{tab:appendix_examples}.
+ 
+\begin{table*}[h]
+  \centering\small
+  \begin{tabular}{p{2.2cm}p{5.3cm}p{5.3cm}}
+    \toprule
+    \textbf{Ataque} & \textbf{Enunciado original (ES)} & \textbf{Enunciado perturbado} \\
+    \midrule
+    Base
+      & ¿Cuál es sinónimo de «perspicaz»? & — \\
+    Synonym
+      & ¿Cuál es sinónimo de «sagaz»?
+      & Sustitución léxica; significado preservado. \\
+    MinimalPairs
+      & ¿Cuál \textbf{no} es sinónimo de «perspicaz»?
+      & Un cambio mínimo invierte el significado. \\
+    ShortcutRemoval
+      & ¿Cuál corresponde a «perspicaz»?
+      & Eliminación del atajo «sinónimo de». \\
+    Paraphrasing
+      & ¿Qué palabra tiene el mismo significado que «perspicaz»?
+      & Reescritura sintáctica completa. \\
+    CL/FR (francés)
+      & Lequel est synonyme de «perspicaz»?
+      & Traducción al francés; opciones en ES. \\
+    CL/ZH (chino)
+      & 以下哪个词是"perspicaz"的同义词？
+      & Traducción al chino; opciones en ES. \\
+    CL/AR (árabe)
+      & أيّ من المصطلحات التالية هو مرادف لكلمة «perspicaz»؟
+      & Traducción al árabe (RTL); opciones en ES. \\
+    CL/JA (japonés)
+      & 「perspicaz」の同義語はどれですか？
+      & Traducción al japonés; opciones en ES. \\
+    CL/RU (ruso)
+      & Какое из следующих слов является синонимом «perspicaz»?
+      & Traducción al ruso (cirílico); opciones en ES. \\
+    \bottomrule
+  \end{tabular}
+  \caption{Ejemplos de los nueve tipos de perturbación sobre un ítem de
+  sinónimos/antónimos. Las opciones permanecen en español en todos los casos.}
+  \label{tab:appendix_examples}
+\end{table*}
+ 
+\section{Resumen de Modelos y Cobertura}
+\label{sec:appendix_models}
+
+Los ejemplos se resumen en la Tabla ~\ref{tab:models_summary}.
+
+ 
+\begin{table*}[h]
+  \centering\small
+  \begin{tabular}{lcccc}
+    \toprule
+    \textbf{Modelo} & \textbf{Prov.} & \textbf{Ataques CL} & \textbf{logprobs} \\
+    \midrule
+    deepseek-v4-flash     & OCG & — & — \\
+    qwen3.5-plus (pool:2) & mix & — & — \\
+    gemma2:27b            & Oll & AR/RU/JA/ZH/FR & No \\
+    nidum-gemma-3-27b     & Oll & AR/ZH/FR/JA/RU & Sí \\
+    qwen2.5-coder-7b      & Oll & AR/ZH/FR/JA/RU & Sí \\
+    dolphin3              & Oll & AR/ZH/FR/JA/RU & Parcial \\
+    llama3.2-uncensored   & Oll & AR/ZH/FR/JA/RU & Parcial \\
+    \bottomrule
+  \end{tabular}
+  \caption{Modelos evaluados, ataques ejecutados y disponibilidad
+  de logprobs para rank consistency.}
+  \label{tab:models_summary}
+\end{table*}
+ 
+\end{document}
