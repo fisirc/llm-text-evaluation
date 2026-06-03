@@ -84,7 +84,7 @@ Every attack has a unique `label` used for disambiguation in reports.
 ### CrossLingual
 
 Translates the question stem to another language via an LLM (default:
-`qwen3.6-plus` via OpencodeGo). Options are preserved from the baseline.
+`qwen3.6-plus` via OpencodeGo). Options are preserved from baseline.
 Validates that translated text length is at least 23% of the original.
 
 ```py
