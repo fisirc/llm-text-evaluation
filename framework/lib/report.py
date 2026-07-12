@@ -128,6 +128,116 @@ class BenchmarkResult:
     finished_at: str = ""
     base_dir: str | None = None
 
+    @classmethod
+    def load(cls, path: str | Path, base_dir: str | Path | None = None) -> "BenchmarkResult":
+        """Reconstruct a BenchmarkResult from a previously saved JSON file.
+
+        The JSON must have been produced by :meth:`save` with ``per_sample=True``.
+
+        Args:
+            path: Path to the JSON file.
+            base_dir: Optional base directory for resolving partial files.
+
+        Returns:
+            A fully populated BenchmarkResult.
+        """
+        from .attacks import CrossLingual, CrossLingualLanguage
+        from .types import TaskType
+
+        path = Path(path)
+        with open(path, "r", encoding="utf-8") as f:
+            data = json.load(f)
+
+        info = data.get("benchmark_info", {})
+        per_sample = data.get("per_sample", {})
+
+        # Build a lookup: model -> {attack_label -> {sample_id -> sample_data}}
+        lookup: dict[str, dict[str, dict[int, dict]]] = {}
+        for sid_str, sample in per_sample.items():
+            sid = int(sid_str)
+            for model, attacks in sample.get("models", {}).items():
+                if model not in lookup:
+                    lookup[model] = {}
+                for attack_label, pred in attacks.items():
+                    if attack_label not in lookup[model]:
+                        lookup[model][attack_label] = {}
+                    lookup[model][attack_label][sid] = {
+                        "sample_id": sid,
+                        "task": sample["task"],
+                        "expected": sample["expected"],
+                        "predicted": pred.get("predicted"),
+                        "correct": pred.get("correct", False),
+                        "latency_ms": pred.get("latency_ms", 0.0),
+                        "logprobs": pred.get("logprobs"),
+                    }
+
+        models: list[ModelResult] = []
+        for md in data.get("aggregates", {}).get("models", []):
+            model_result = ModelResult(
+                model_name=md["model"],
+                provider=md.get("provider", ""),
+            )
+
+            for dsd in md.get("datasets", []):
+                attack = None
+                if dsd.get("attack"):
+                    atk_info = dsd["attack"]
+                    if atk_info.get("type") == "cross_lingual":
+                        label = atk_info.get("label", "")
+                        lang_str = label.replace("_base", "")
+                        try:
+                            lang = CrossLingualLanguage(lang_str)
+                        except ValueError:
+                            lang = CrossLingualLanguage.ENGLISH
+                        attack = CrossLingual(language=lang)
+
+                ds = DatasetResult(
+                    dataset_file=dsd["file"],
+                    attack=attack,
+                    results=[],
+                )
+
+                # Populate results from per_sample lookup
+                attack_label = ds.attack_label
+                model_preds = lookup.get(md["model"], {}).get(attack_label, {})
+                for sid, pred in sorted(model_preds.items()):
+                    lp = None
+                    lp_data = pred.get("logprobs")
+                    if isinstance(lp_data, dict):
+                        from .types import ChoiceLogprobs
+                        lp = ChoiceLogprobs(
+                            choice_logprobs={int(k): float(v) for k, v in lp_data.items()}
+                        )
+                    ds.results.append(
+                        EvaluatedSample(
+                            sample_id=pred["sample_id"],
+                            task=TaskType(pred["task"]),
+                            expected=pred["expected"],
+                            predicted=pred["predicted"],
+                            correct=pred["correct"],
+                            raw_response="",
+                            latency_ms=pred["latency_ms"],
+                            batch_id=0,
+                            timestamp="",
+                            logprobs=lp,
+                        )
+                    )
+
+                model_result.evaluated_datasets.append(ds)
+
+            models.append(model_result)
+
+        result = cls(
+            models=models,
+            is_finished=info.get("is_finished", False),
+            baseline_file=info.get("baseline_dataset", ""),
+            started_at=info.get("started_at", ""),
+            finished_at=info.get("finished_at", ""),
+            base_dir=str(base_dir) if base_dir else (str(path.parent) if path.parent else None),
+        )
+        result._compute_all_robustness()
+        return result
+
     def __iter__(self):
         return iter(self.models)
 
