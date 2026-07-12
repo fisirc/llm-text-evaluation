@@ -1,0 +1,460 @@
+[
+  {
+    "task": "sentence_ordering",
+    "question": "La inteligencia artificial\nI. La inteligencia artificial (IA) es una rama de la informática que busca crear sistemas capaces de realizar tareas que requieren inteligencia humana.\nII. Estos sistemas pueden aprender de la experiencia, adaptarse a nuevas situaciones y mejorar su rendimiento con el tiempo.\nIII. Uno de los mayores avances en IA ha sido el desarrollo de algoritmos de aprendizaje profundo.\nIV. Sin embargo, la IA también plantea desafíos éticos y sociales que deben ser abordados.\nV. Entre las aplicaciones más comunes de la IA se encuentran el reconocimiento de voz y la traducción automática.",
+    "options": [
+      "I - II - III - IV - V",
+      "I - III - II - V - IV",
+      "V - I - II - III - IV",
+      "I - V - II - III - IV",
+      "III - II - I - V - IV"
+    ],
+    "answer": 0
+  },
+  {
+    "task": "sentence_ordering",
+    "question": "El cambio climático\nI. El cambio climático es uno de los mayores desafíos que enfrenta la humanidad en el siglo XXI.\nII. Se refiere a los cambios a largo plazo en las temperaturas y patrones climáticos globales.\nIII. Estos cambios han sido impulsados principalmente por actividades humanas como la quema de combustibles fósiles.\nIV. Los efectos del cambio climático incluyen el aumento del nivel del mar y fenómenos meteorológicos extremos.\nV. Combatir el cambio climático requiere esfuerzos globales coordinados.",
+    "options": [
+      "I - II - III - IV - V",
+      "II - I - III - IV - V",
+      "I - III - II - IV - V",
+      "V - IV - III - II - I",
+      "II - III - IV - I - V"
+    ],
+    "answer": 0
+  },
+  {
+    "task": "sentence_ordering",
+    "question": "El Renacimiento\nI. El Renacimiento fue un período de florecimiento cultural en Europa.\nII. Este movimiento comenzó en Italia en el siglo XIV y se extendió por toda Europa.\nIII. Se caracterizó por un renovado interés en el arte, la ciencia y la filosofía clásica.\nIV. Figuras como Leonardo da Vinci y Miguel Ángel destacaron durante este período.\nV. El Renacimiento sentó las bases para la Edad Moderna.",
+    "options": [
+      "I - II - III - IV - V",
+      "II - I - III - IV - V",
+      "I - III - II - IV - V",
+      "V - IV - III - II - I",
+      "III - I - II - IV - V"
+    ],
+    "answer": 0
+  },
+  {
+    "task": "sentence_ordering",
+    "question": "La fotosíntesis\nI. La fotosíntesis es el proceso mediante el cual las plantas convierten la luz solar en energía química.\nII. Este proceso es vital para la vida en la Tierra, ya que produce oxígeno como subproducto.\nIII. Durante la fotosíntesis, las plantas absorben dióxido de carbono y liberan oxígeno.\nIV. El proceso ocurre principalmente en las hojas de las plantas.\nV. La fotosíntesis también es esencial para la cadena alimenticia global.",
+    "options": [
+      "I - II - III - IV - V",
+      "I - III - II - IV - V",
+      "IV - I - III - II - V",
+      "V - IV - III - II - I",
+      "II - I - III - IV - V"
+    ],
+    "answer": 0
+  },
+  {
+    "task": "sentence_ordering",
+    "question": "La Revolución Industrial\nI. La Revolución Industrial comenzó en Gran Bretaña a finales del siglo XVIII.\nII. Este período marcó un cambio radical en la producción de bienes, pasando de métodos manuales a maquinizados.\nIII. La invención de la máquina de vapor fue un hito clave en este proceso.\nIV. La Revolución Industrial transformó la economía global y sentó las bases del mundo moderno.\nV. Sin embargo, también trajo consigo problemas sociales como la explotación laboral.",
+    "options": [
+      "I - II - III - IV - V",
+      "I - III - II - V - IV",
+      "II - I - III - IV - V",
+      "V - IV - III - II - I",
+      "III - I - II - IV - V"
+    ],
+    "answer": 0
+  },
+  {
+    "task": "sentence_ordering",
+    "question": "La teoría de la evolución\nI. La teoría de la evolución fue propuesta por Charles Darwin en el siglo XIX.\nII. Esta teoría explica cómo las especies cambian a lo largo del tiempo a través de la selección natural.\nIII. Según Darwin, los individuos mejor adaptados a su entorno tienen más probabilidades de sobrevivir y reproducirse.\nIV. La teoría de la evolución es una de las bases fundamentales de la biología moderna.\nV. Sin embargo, en su época, esta teoría generó controversia por contradecir creencias religiosas.",
+    "options": [
+      "I - II - III - IV - V",
+      "II - I - III - IV - V",
+      "I - III - II - IV - V",
+      "V - IV - III - II - I",
+      "IV - III - II - I - V"
+    ],
+    "answer": 0
+  },
+  {
+    "task": "sentence_ordering",
+    "question": "La globalización\nI. La globalización es un proceso de integración económica, política y cultural a nivel mundial.\nII. Este fenómeno ha sido impulsado por avances en tecnología y comunicaciones.\nIII. La globalización ha facilitado el intercambio de bienes, servicios e ideas entre países.\nIV. Sin embargo, también ha generado desigualdades y desafíos para las economías locales.\nV. Uno de los principales efectos de la globalización es la interdependencia entre las naciones.",
+    "options": [
+      "I - II - III - IV - V",
+      "II - I - III - IV - V",
+      "I - III - II - V - IV",
+      "V - IV - III - II - I",
+      "III - II - I - IV - V"
+    ],
+    "answer": 0
+  },
+  {
+    "task": "sentence_ordering",
+    "question": "El sistema solar\nI. El sistema solar está compuesto por el Sol y los objetos celestes que orbitan a su alrededor.\nII. Entre estos objetos se encuentran ocho planetas, sus lunas y numerosos asteroides y cometas.\nIII. El Sol, una estrella de tipo G, es el centro del sistema solar y proporciona energía a todos sus componentes.\nIV. Los planetas del sistema solar se dividen en rocosos y gaseosos.\nV. La Tierra es el tercer planeta desde el Sol y el único conocido por albergar vida.",
+    "options": [
+      "I - II - III - IV - V",
+      "I - III - II - IV - V",
+      "III - I - II - IV - V",
+      "V - IV - III - II - I",
+      "IV - III - II - I - V"
+    ],
+    "answer": 0
+  },
+  {
+    "task": "sentence_ordering",
+    "question": "La democracia\nI. La democracia es un sistema político en el que el poder reside en el pueblo.\nII. Este sistema se basa en la participación ciudadana a través de elecciones libres y justas.\nIII. La democracia también promueve la protección de los derechos individuales y las libertades fundamentales.\nIV. Sin embargo, su implementación puede variar significativamente entre diferentes países.\nV. Uno de los mayores desafíos de la democracia es garantizar la igualdad y la justicia social.",
+    "options": [
+      "I - II - III - IV - V",
+      "II - I - III - IV - V",
+      "I - III - II - V - IV",
+      "V - IV - III - II - I",
+      "III - I - II - IV - V"
+    ],
+    "answer": 0
+  },
+  {
+    "task": "sentence_ordering",
+    "question": "La energía renovable\nI. La energía renovable proviene de fuentes naturales que son inagotables o se regeneran rápidamente.\nII. Entre las fuentes más comunes se encuentran la solar, eólica, hidroeléctrica y geotérmica.\nIII. El uso de energías renovables es clave para reducir la dependencia de los combustibles fósiles.\nIV. Además, estas fuentes de energía generan menos emisiones de gases de efecto invernadero.\nV. La transición hacia energías renovables es esencial para combatir el cambio climático.",
+    "options": [
+      "I - II - III - IV - V",
+      "II - I - III - IV - V",
+      "I - III - II - IV - V",
+      "V - IV - III - II - I",
+      "IV - III - II - I - V"
+    ],
+    "answer": 0
+  },
+  {
+    "task": "sentence_ordering",
+    "question": "La Segunda Guerra Mundial\nI. La Segunda Guerra Mundial fue un conflicto global que tuvo lugar entre 1939 y 1945.\nII. Este conflicto involucró a las principales potencias del mundo, divididas en dos alianzas: los Aliados y el Eje.\nIII. Las causas de la guerra incluyeron el Tratado de Versalles, el expansionismo de las potencias del Eje y el fracaso de la Liga de Naciones.\nIV. La guerra terminó con la rendición de Alemania y Japón en 1945.\nV. Este conflicto dejó un saldo de más de 60 millones de muertos y transformó el orden geopolítico mundial.",
+    "options": [
+      "I - II - III - IV - V",
+      "II - I - III - IV - V",
+      "I - III - II - IV - V",
+      "V - IV - III - II - I",
+      "III - II - I - IV - V"
+    ],
+    "answer": 0
+  },
+  {
+    "task": "sentence_ordering",
+    "question": "El ADN\nI. El ADN, o ácido desoxirribonucleico, es la molécula que contiene la información genética de los seres vivos.\nII. Esta molécula está compuesta por dos cadenas helicoidales que forman una estructura conocida como doble hélice.\nIII. El ADN se organiza en unidades llamadas genes, que determinan las características hereditarias.\nIV. La secuenciación del ADN ha permitido avances significativos en medicina y biotecnología.\nV. El descubrimiento de la estructura del ADN es atribuido a James Watson y Francis Crick en 1953.",
+    "options": [
+      "I - II - III - IV - V",
+      "I - III - II - IV - V",
+      "V - IV - III - II - I",
+      "II - I - III - IV - V",
+      "III - II - I - IV - V"
+    ],
+    "answer": 0
+  },
+  {
+    "task": "sentence_ordering",
+    "question": "El arte abstracto\nI. El arte abstracto es un movimiento artístico que prescinde de la representación fiel de la realidad.\nII. Este estilo se desarrolló a principios del siglo XX, con figuras como Wassily Kandinsky y Piet Mondrian.\nIII. El arte abstracto busca expresar emociones y conceptos a través de formas, colores y líneas.\nIV. A diferencia del arte figurativo, el arte abstracto no intenta imitar la apariencia externa de los objetos.\nV. Este movimiento tuvo un impacto duradero en la historia del arte moderno.",
+    "options": [
+      "I - II - III - IV - V",
+      "II - I - III - IV - V",
+      "I - III - II - IV - V",
+      "V - IV - III - II - I",
+      "IV - III - II - I - V"
+    ],
+    "answer": 0
+  },
+  {
+    "task": "sentence_ordering",
+    "question": "La Revolución Francesa\nI. La Revolución Francesa fue un período de profundos cambios políticos y sociales en Francia.\nII. Este movimiento comenzó en 1789 y marcó el fin del Antiguo Régimen.\nIII. Entre sus causas se encuentran la crisis económica, la desigualdad social y las ideas de la Ilustración.\nIV. La Revolución Francesa introdujo conceptos como la soberanía popular y los derechos humanos.\nV. Este evento tuvo un impacto duradero en la historia mundial y sentó las bases de la democracia moderna.",
+    "options": [
+      "I - II - III - IV - V",
+      "II - I - III - IV - V",
+      "I - III - II - IV - V",
+      "V - IV - III - II - I",
+      "III - II - I - IV - V"
+    ],
+    "answer": 0
+  },
+  {
+    "task": "sentence_ordering",
+    "question": "El sistema nervioso\nI. El sistema nervioso es el encargado de coordinar las funciones del cuerpo humano.\nII. Este sistema se divide en dos partes principales: el sistema nervioso central y el periférico.\nIII. El sistema nervioso central incluye el cerebro y la médula espinal.\nIV. El sistema nervioso periférico conecta el sistema central con los órganos y extremidades.\nV. Las neuronas son las células fundamentales del sistema nervioso y transmiten información a través de señales eléctricas.",
+    "options": [
+      "I - II - III - IV - V",
+      "II - I - III - IV - V",
+      "I - III - II - IV - V",
+      "V - IV - III - II - I",
+      "III - II - I - IV - V"
+    ],
+    "answer": 0
+  },
+  {
+    "task": "sentence_ordering",
+    "question": "La literatura medieval\nI. La literatura medieval abarca obras escritas en Europa entre los siglos V y XV.\nII. Este período se caracteriza por una fuerte influencia de la religión y la cultura caballeresca.\nIII. Entre los géneros más destacados se encuentran la épica, la lírica y el teatro religioso.\nIV. Obras como «El Cantar de Mio Cid» y «La Divina Comedia» son ejemplos representativos de este período.\nV. La literatura medieval sentó las bases para el desarrollo de la literatura moderna.",
+    "options": [
+      "I - II - III - IV - V",
+      "II - I - III - IV - V",
+      "I - III - II - IV - V",
+      "V - IV - III - II - I",
+      "III - II - I - IV - V"
+    ],
+    "answer": 0
+  },
+  {
+    "task": "sentence_ordering",
+    "question": "El método científico\nI. El método científico es un proceso sistemático utilizado para investigar fenómenos naturales.\nII. Este método se basa en la observación, la formulación de hipótesis y la experimentación.\nIII. La observación permite identificar un problema o fenómeno que requiere explicación.\nIV. A partir de la observación, se formula una hipótesis que debe ser probada mediante experimentos.\nV. Si los resultados de los experimentos confirman la hipótesis, esta puede convertirse en una teoría científica.",
+    "options": [
+      "I - II - III - IV - V",
+      "II - I - III - IV - V",
+      "I - III - II - IV - V",
+      "V - IV - III - II - I",
+      "III - I - II - IV - V"
+    ],
+    "answer": 0
+  },
+  {
+    "task": "sentence_ordering",
+    "question": "La contaminación ambiental\nI. La contaminación ambiental es uno de los mayores problemas que enfrenta el planeta.\nII. Este problema se refiere a la introducción de sustancias nocivas en el aire, agua o suelo.\nIII. Las principales causas de la contaminación incluyen la industrialización, el uso de combustibles fósiles y la deforestación.\nIV. Los efectos de la contaminación son devastadores para la salud humana y los ecosistemas.\nV. Combatir la contaminación requiere acciones coordinadas a nivel global.",
+    "options": [
+      "I - II - III - IV - V",
+      "II - I - III - IV - V",
+      "I - III - II - IV - V",
+      "V - IV - III - II - I",
+      "III - II - I - IV - V"
+    ],
+    "answer": 0
+  },
+  {
+    "task": "sentence_ordering",
+    "question": "La Ilustración\nI. La Ilustración fue un movimiento intelectual que surgió en Europa en el siglo XVIII.\nII. Este movimiento se caracterizó por la defensa de la razón, la ciencia y la libertad individual.\nIII. Filósofos como Voltaire, Rousseau y Montesquieu fueron figuras clave de la Ilustración.\nIV. Las ideas de la Ilustración influyeron en eventos como la Revolución Francesa y la independencia de los Estados Unidos.\nV. Este movimiento sentó las bases del pensamiento moderno y los derechos humanos.",
+    "options": [
+      "I - II - III - IV - V",
+      "II - I - III - IV - V",
+      "I - III - II - IV - V",
+      "V - IV - III - II - I",
+      "III - II - I - IV - V"
+    ],
+    "answer": 0
+  },
+  {
+    "task": "sentence_ordering",
+    "question": "La ecología\nI. La ecología es la ciencia que estudia las relaciones entre los seres vivos y su entorno.\nII. Esta disciplina analiza cómo los organismos interactúan entre sí y con su medio ambiente.\nIII. Uno de los conceptos clave en ecología es el de ecosistema, que incluye tanto a los seres vivos como a su hábitat.\nIV. La ecología también estudia los impactos de las actividades humanas en el medio ambiente.\nV. Esta ciencia es fundamental para abordar problemas como el cambio climático y la pérdida de biodiversidad.",
+    "options": [
+      "I - II - III - IV - V",
+      "II - I - III - IV - V",
+      "I - III - II - IV - V",
+      "V - IV - III - II - I",
+      "III - II - I - IV - V"
+    ],
+    "answer": 0
+  },
+  {
+    "task": "sentence_ordering",
+    "question": "El feudalismo\nI. El feudalismo fue un sistema político, económico y social que predominó en Europa durante la Edad Media.\nII. Este sistema se basaba en la relación entre señores feudales y vasallos.\nIII. Los señores feudales otorgaban tierras a los vasallos a cambio de lealtad y servicio militar.\nIV. La economía feudal dependía principalmente de la agricultura y el trabajo de los siervos.\nV. El feudalismo comenzó a declinar con el surgimiento de las monarquías nacionales y el comercio.",
+    "options": [
+      "I - II - III - IV - V",
+      "II - I - III - IV - V",
+      "I - III - II - IV - V",
+      "V - IV - III - II - I",
+      "III - II - I - IV - V"
+    ],
+    "answer": 0
+  },
+  {
+    "task": "sentence_ordering",
+    "question": "La genética\nI. La genética es la rama de la biología que estudia los genes y la herencia.\nII. Los genes son unidades de información hereditaria que determinan las características de los organismos.\nIII. Gregor Mendel es considerado el padre de la genética por sus experimentos con guisantes.\nIV. La genética moderna ha permitido avances como la secuenciación del ADN y la ingeniería genética.\nV. Esta disciplina es fundamental para entender enfermedades hereditarias y desarrollar tratamientos.",
+    "options": [
+      "I - II - III - IV - V",
+      "II - I - III - IV - V",
+      "I - III - II - IV - V",
+      "V - IV - III - II - I",
+      "III - II - I - IV - V"
+    ],
+    "answer": 0
+  },
+  {
+    "task": "sentence_ordering",
+    "question": "La poesía romántica\nI. La poesía romántica fue un movimiento literario que surgió a finales del siglo XVIII.\nII. Este movimiento se caracterizó por la exaltación de las emociones, la naturaleza y la individualidad.\nIII. Poetas como Gustavo Adolfo Bécquer y Lord Byron son representantes destacados de este período.\nIV. La poesía romántica también exploró temas como el amor, la melancolía y lo sobrenatural.\nV. Este movimiento tuvo una gran influencia en la literatura posterior.",
+    "options": [
+      "I - II - III - IV - V",
+      "II - I - III - IV - V",
+      "I - III - II - IV - V",
+      "V - IV - III - II - I",
+      "III - II - I - IV - V"
+    ],
+    "answer": 0
+  },
+  {
+    "task": "sentence_ordering",
+    "question": "La economía de mercado\nI. La economía de mercado es un sistema económico en el que las decisiones de producción y consumo son tomadas por individuos y empresas.\nII. Este sistema se basa en la oferta y la demanda como mecanismos reguladores.\nIII. La competencia entre empresas es un elemento clave de la economía de mercado.\nIV. Sin embargo, este sistema también puede generar desigualdades y fallos de mercado.\nV. La intervención del Estado es necesaria para corregir estos fallos y garantizar el bienestar social.",
+    "options": [
+      "I - II - III - IV - V",
+      "II - I - III - IV - V",
+      "I - III - II - IV - V",
+      "V - IV - III - II - I",
+      "III - II - I - IV - V"
+    ],
+    "answer": 0
+  },
+  {
+    "task": "sentence_ordering",
+    "question": "La mitología griega\nI. La mitología griega es un conjunto de mitos y leyendas que explican el origen del mundo y los fenómenos naturales.\nII. Estos mitos fueron creados por los antiguos griegos y transmitidos oralmente.\nIII. Los dioses griegos, como Zeus, Atenea y Apolo, son personajes centrales en estas historias.\nIV. La mitología griega ha tenido una gran influencia en la cultura occidental.\nV. Muchas obras de arte, literatura y filosofía han sido inspiradas por estos mitos.",
+    "options": [
+      "I - II - III - IV - V",
+      "II - I - III - IV - V",
+      "I - III - II - IV - V",
+      "V - IV - III - II - I",
+      "III - II - I - IV - V"
+    ],
+    "answer": 0
+  },
+  {
+    "task": "sentence_ordering",
+    "question": "La Revolución Rusa\nI. La Revolución Rusa fue un evento clave en la historia del siglo XX.\nII. Este proceso comenzó en 1917 con la caída del régimen zarista.\nIII. La Revolución Rusa fue liderada por los bolcheviques, encabezados por Vladimir Lenin.\nIV. Como resultado de la revolución, se estableció el primer estado socialista del mundo.\nV. Este evento tuvo un impacto duradero en la política global y la Guerra Fría.",
+    "options": [
+      "I - II - III - IV - V",
+      "II - I - III - IV - V",
+      "I - III - II - IV - V",
+      "V - IV - III - II - I",
+      "III - II - I - IV - V"
+    ],
+    "answer": 0
+  },
+  {
+    "task": "sentence_ordering",
+    "question": "La célula\nI. La célula es la unidad básica de la vida.\nII. Todos los seres vivos están compuestos por una o más células.\nIII. Las células se dividen en dos tipos principales: procariotas y eucariotas.\nIV. Las células eucariotas tienen un núcleo definido y orgánulos especializados.\nV. El estudio de las células es fundamental para entender procesos biológicos como la reproducción y el metabolismo.",
+    "options": [
+      "I - II - III - IV - V",
+      "II - I - III - IV - V",
+      "I - III - II - IV - V",
+      "V - IV - III - II - I",
+      "III - II - I - IV - V"
+    ],
+    "answer": 0
+  },
+  {
+    "task": "sentence_ordering",
+    "question": "El humanismo\nI. El humanismo fue un movimiento intelectual que surgió durante el Renacimiento.\nII. Este movimiento se centró en el estudio de las humanidades, como la literatura, la filosofía y el arte.\nIII. El humanismo promovió la idea de que el ser humano es el centro del universo.\nIV. Figuras como Erasmo de Róterdam y Leonardo da Vinci fueron representantes destacados del humanismo.\nV. Este movimiento sentó las bases del pensamiento moderno y la educación liberal.",
+    "options": [
+      "I - II - III - IV - V",
+      "II - I - III - IV - V",
+      "I - III - II - IV - V",
+      "V - IV - III - II - I",
+      "III - II - I - IV - V"
+    ],
+    "answer": 0
+  },
+  {
+    "task": "sentence_ordering",
+    "question": "La fotosíntesis artificial\nI. La fotosíntesis artificial es un campo de investigación que busca imitar el proceso natural de la fotosíntesis.\nII. Este proceso utiliza energía solar para convertir dióxido de carbono y agua en combustibles limpios.\nIII. La fotosíntesis artificial podría ser una solución sostenible para reducir las emisiones de CO2.\nIV. Sin embargo, aún enfrenta desafíos técnicos y económicos para su implementación a gran escala.\nV. Este campo de investigación es prometedor para la transición hacia energías renovables.",
+    "options": [
+      "I - II - III - IV - V",
+      "II - I - III - IV - V",
+      "I - III - II - IV - V",
+      "V - IV - III - II - I",
+      "III - II - I - IV - V"
+    ],
+    "answer": 0
+  },
+  {
+    "task": "sentence_ordering",
+    "question": "El cubismo\nI. El cubismo fue un movimiento artístico que surgió a principios del siglo XX.\nII. Este movimiento fue fundado por Pablo Picasso y Georges Braque.\nIII. El cubismo se caracteriza por la representación de objetos desde múltiples perspectivas.\nIV. A diferencia del arte tradicional, el cubismo fragmenta las formas en figuras geométricas.\nV. Este movimiento tuvo una gran influencia en el desarrollo del arte moderno.",
+    "options": [
+      "I - II - III - IV - V",
+      "II - I - III - IV - V",
+      "I - III - II - IV - V",
+      "V - IV - III - II - I",
+      "III - II - I - IV - V"
+    ],
+    "answer": 0
+  },
+  {
+    "task": "sentence_ordering",
+    "question": "La teoría de la relatividad\nI. La teoría de la relatividad fue desarrollada por Albert Einstein a principios del siglo XX.\nII. Esta teoría revolucionó la física al proponer que el espacio y el tiempo están interrelacionados.\nIII. La teoría de la relatividad se divide en dos partes: la relatividad especial y la relatividad general.\nIV. La relatividad especial se centra en los sistemas que se mueven a velocidades constantes.\nV. La relatividad general, por su parte, describe la gravedad como una curvatura del espacio-tiempo.",
+    "options": [
+      "I - II - III - IV - V",
+      "II - I - III - IV - V",
+      "I - III - II - IV - V",
+      "V - IV - III - II - I",
+      "III - IV - I - II - V"
+    ],
+    "answer": 0
+  },
+  {
+    "task": "sentence_ordering",
+    "question": "El surrealismo\nI. El surrealismo fue un movimiento artístico y literario que surgió en la década de 1920.\nII. Este movimiento fue influenciado por las teorías psicoanalíticas de Sigmund Freud.\nIII. El surrealismo buscaba explorar el subconsciente y los sueños a través del arte.\nIV. Artistas como Salvador Dalí y René Magritte son representantes destacados del surrealismo.\nV. Este movimiento tuvo un impacto duradero en el arte y la cultura moderna.",
+    "options": [
+      "I - II - III - IV - V",
+      "II - I - III - IV - V",
+      "I - III - II - IV - V",
+      "V - IV - III - II - I",
+      "III - II - I - IV - V"
+    ],
+    "answer": 0
+  },
+  {
+    "task": "sentence_ordering",
+    "question": "La Guerra Fría\nI. La Guerra Fría fue un conflicto político, económico e ideológico entre Estados Unidos y la Unión Soviética.\nII. Este período abarcó desde el final de la Segunda Guerra Mundial hasta la caída de la URSS en 1991.\nIII. Durante la Guerra Fría, ambas superpotencias compitieron por la influencia global sin enfrentarse directamente en un conflicto armado.\nIV. Este conflicto se manifestó en guerras proxy, como la Guerra de Corea y la Guerra de Vietnam.\nV. La Guerra Fría también impulsó la carrera espacial y el desarrollo tecnológico.",
+    "options": [
+      "I - II - III - IV - V",
+      "II - I - III - IV - V",
+      "I - III - II - IV - V",
+      "V - IV - III - II - I",
+      "III - II - I - IV - V"
+    ],
+    "answer": 0
+  },
+  {
+    "task": "sentence_ordering",
+    "question": "La biodiversidad\nI. La biodiversidad se refiere a la variedad de vida en la Tierra, desde genes hasta ecosistemas.\nII. Esta diversidad es esencial para el funcionamiento de los ecosistemas y el bienestar humano.\nIII. La biodiversidad proporciona servicios ecosistémicos como la polinización, la purificación del agua y la regulación del clima.\nIV. Sin embargo, la biodiversidad está amenazada por actividades humanas como la deforestación y la contaminación.\nV. La conservación de la biodiversidad es un desafío global que requiere acciones coordinadas.",
+    "options": [
+      "I - II - III - IV - V",
+      "II - I - III - IV - V",
+      "I - III - II - IV - V",
+      "V - IV - III - II - I",
+      "III - II - I - IV - V"
+    ],
+    "answer": 0
+  },
+  {
+    "task": "sentence_ordering",
+    "question": "La imprenta\nI. La imprenta fue inventada por Johannes Gutenberg en el siglo XV.\nII. Este invento revolucionó la difusión del conocimiento al permitir la producción masiva de libros.\nIII. Antes de la imprenta, los libros se copiaban a mano, lo que los hacía costosos y escasos.\nIV. La imprenta facilitó la difusión de ideas durante el Renacimiento y la Reforma Protestante.\nV. Este invento es considerado uno de los hitos más importantes en la historia de la humanidad.",
+    "options": [
+      "I - II - III - IV - V",
+      "II - I - III - IV - V",
+      "I - III - II - IV - V",
+      "V - IV - III - II - I",
+      "III - II - I - IV - V"
+    ],
+    "answer": 0
+  },
+  {
+    "task": "sentence_ordering",
+    "question": "La Revolución Científica\nI. La Revolución Científica fue un período de avances científicos que tuvo lugar entre los siglos XVI y XVII.\nII. Este movimiento transformó la forma en que los seres humanos entendían el universo.\nIII. Figuras como Galileo Galilei, Isaac Newton y Johannes Kepler fueron clave en este proceso.\nIV. La Revolución Científica sentó las bases del método científico moderno.\nV. Este período marcó el inicio de la ciencia como la conocemos hoy.",
+    "options": [
+      "I - II - III - IV - V",
+      "II - I - III - IV - V",
+      "I - III - II - IV - V",
+      "V - IV - III - II - I",
+      "III - II - I - IV - V"
+    ],
+    "answer": 0
+  },
+  {
+    "task": "sentence_ordering",
+    "question": "La psicología\nI. La psicología es la ciencia que estudia el comportamiento y los procesos mentales.\nII. Esta disciplina se divide en varias ramas, como la psicología clínica, social y cognitiva.\nIII. El estudio de la psicología ayuda a entender cómo las personas piensan, sienten y actúan.\nIV. La psicología también se aplica en áreas como la educación, el trabajo y la salud mental.\nV. Figuras como Sigmund Freud y B.F. Skinner han sido fundamentales en el desarrollo de esta ciencia.",
+    "options": [
+      "I - II - III - IV - V",
+      "II - I - III - IV - V",
+      "I - III - II - IV - V",
+      "V - IV - III - II - I",
+      "III - II - I - IV - V"
+    ],
+    "answer": 0
+  },
+  {
+    "task": "sentence_ordering",
+    "question": "El Barroco\nI. El Barroco fue un movimiento artístico y cultural que surgió en Europa en el siglo XVII.\nII. Este período se caracterizó por el uso de formas exageradas y dramáticas.\nIII. El Barroco se manifestó en diversas disciplinas, como la arquitectura, la pintura y la música.\nIV. Artistas como Caravaggio y Johann Sebastian Bach son representantes destacados del Barroco.\nV. Este movimiento reflejó los cambios sociales y religiosos de la época.",
+    "options": [
+      "I - II - III - IV - V",
+      "II - I - III - IV - V",
+      "I - III - II - IV - V",
+      "V - IV - III - II - I",
+      "III - II - I - IV - V"
+    ],
+    "answer": 0
+  },
+  {
+    "task": "sentence_ordering",
+    "question": "La nanotecnología\nI. La nanotecnología es un campo de la ciencia que manipula la materia a escala nanométrica.\nII. Esta tecnología tiene aplicaciones en áreas como la medicina, la electrónica y la energía.\nIII. Un nanómetro es una milmillonésima parte de un metro, lo que permite trabajar con
