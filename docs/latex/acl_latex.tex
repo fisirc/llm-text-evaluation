@@ -2,6 +2,7 @@
 \usepackage{listings}
 \usepackage{booktabs}
 \usepackage{amsmath}
+\usepackage{multirow}
 \usepackage{minted}
 
 % Change "review" to "final" to generate tbhe final (sometimes called camera-ready) version.
@@ -29,7 +30,7 @@
 % This is also not strictly necessary, and may be commented out.
 % However, it will improve the aesthetics of text in
 % the typewriter font.
-\usepackage{inconsolata}
+%\usepackage{inconsolata}
 
 %Including images in your LaTeX document requires adding
 %additional package(s)
@@ -124,12 +125,15 @@ robustez: accuracy, accuracy drop ($\Delta$), flip rate, consistencia,
 transferencia positiva, transferencia negativa y rank consistency
 (correlación de Spearman sobre logprobs). Los ataques cross-lingual
 producen mayor degradación que los léxicos en todos los modelos
-funcionales, con el árabe causando el mayor daño ($\Delta = 5.52\%$
-en gemma2:27b). El hallazgo más notable es que qwen2.5-coder exhibe
-rank consistency \textit{negativa} bajo árabe ($\rho = -0.53$) y chino
-($\rho = -0.32$), indicando que la perturbación \textit{invierte}
-sistemáticamente el ranking de opciones del modelo sin reducir
-necesariamente su accuracy neta.
+funcionales, con el árabe causando el mayor daño ($\Delta = 7.99\%$
+en qwen2.5-coder). El modelo con rendimiento cercano al azar
+(llama3.2-uncensored, accuracy basal 22.66\%) \textit{mejora} bajo
+todos los ataques cross-lingual ($\Delta$ negativo en los cinco
+idiomas), sugiriendo que la perturbación no degrada lo que ya es
+esencialmente selección aleatoria. Los valores de rank consistency
+calculados sobre muestras con logprobs suficientes ($n \geq 30$) se
+ubican cerca de cero, sin evidencia de inversión sistemática del
+ranking interno de opciones.
 \end{abstract}
 
 % ─────────────────────────────────────────────────────
@@ -183,8 +187,8 @@ en la práctica incomparables entre sí.
 Benchmarks como PromptBench \citep{wang2023promptrobust} o AdvGLUE
 \citep{wang2022adversarial} operan casi exclusivamente en inglés. La
 robustez de LLMs frente a cambios de idioma en tareas de razonamiento
-verbal en español —en particular para lenguas tipológicamente diversas
-como el árabe, el japonés o el ruso— no ha sido estudiada de forma
+verbal en español, en particular para lenguas tipológicamente diversas
+como el árabe, el japonés o el ruso, no ha sido estudiada de forma
 sistemática.
  
 \paragraph{Métricas incapaces de distinguir tipos de degradación.}
@@ -203,8 +207,8 @@ métricas de accuracy sola.
 \subsection{Dataset}
 
  El dataset base (\texttt{processed\_dataset.json}) contiene 2{,}215
-ítems de razonamiento verbal en español —la totalidad del banco de
-preguntas del proyecto— distribuidos en siete tipos de tarea que
+ítems de razonamiento verbal en español (la totalidad del banco de
+preguntas del proyecto), distribuidos en siete tipos de tarea que
 cubren distintas dimensiones del procesamiento lingüístico
 (Tabla~\ref{tab:dataset_stats}).
  
@@ -248,10 +252,10 @@ framework valida automáticamente la integridad de cada dataset y alinea
 los datasets adversariales con el baseline antes de calcular métricas.
 
 
-\paragraph{Familia 1 — Ataques Léxicos (Proyecto 1).}
+\paragraph{Familia 1: Ataques Léxicos (Proyecto 1).}
  
-La intuición es que un modelo que razona semánticamente —no sobre
-patrones de superficie— debe mantener su respuesta ante variaciones
+La intuición es que un modelo que razona semánticamente, no sobre
+patrones de superficie, debe mantener su respuesta ante variaciones
 léxicas que no alteran el significado.
  
 \begin{itemize}
@@ -270,7 +274,7 @@ léxicas que no alteran el significado.
   superficiales en lugar de construir una representación coherente.
 \end{itemize}
  
-\paragraph{Familia 2 — Ataque Parafrástico (Proyecto 2).}
+\paragraph{Familia 2: Ataque Parafrástico (Proyecto 2).}
  
 \begin{itemize}
   \item \textbf{Paráfrasis (\texttt{Paraphrasing}):} El enunciado se
@@ -279,7 +283,7 @@ léxicas que no alteran el significado.
   el orden de la información y la organización oracional completa.
 \end{itemize}
  
-\paragraph{Familia 3 — Ataque Cross-lingual (Proyecto 3).}
+\paragraph{Familia 3: Ataque Cross-lingual (Proyecto 3).}
  
 Motivados por \citet{languagespecific2025}, evaluamos si los procesos
 latentes del idioma de la instrucción interfieren con el razonamiento.
@@ -342,9 +346,13 @@ estructural más que sensibilidad al idioma.
 Correlación de Spearman entre vectores de ranking de opciones
 construidos a partir de logprobs \citep{languagespecific2025}.
 Captura reordenamientos en la distribución de confianza incluso cuando
-la respuesta final no cambia. Disponible únicamente para modelos con
-\texttt{logprobs=True}; en los modelos evaluados en esta ejecución no
-se habilitó, por lo que $\rho$ queda pendiente para trabajo futuro.
+la respuesta final no cambia. Requiere que el proveedor devuelva
+logprobs por token y un mínimo de 30 muestras con logprobs
+simultáneamente en baseline y ataque; cuando esta condición no se
+cumple, se reporta como «—». En esta evaluación, logprobs se habilitó
+para nidum-gemma-3, qwen2.5-coder, dolphin3, llama3.2-uncensored y
+qwen3.5-plus, con cobertura variable debido al muestreo parcial.
+gemma2:27b y deepseek-v4-flash no disponen de logprobs.
  
 
 % ─────────────────────────────────────────────────────
@@ -365,13 +373,13 @@ modelos evaluados sobre el dataset completo (2{,}215 ítems).
     \textbf{read} & \textbf{verb} & \textbf{syn} &
     \textbf{ord} & \textbf{eli} & \textbf{ana} \\
     \midrule
-    deepseek-v4-flash     & 1734 & \textbf{81.55\%} & — & — & — & — & — & — \\
-    qwen3.5-plus (pool:2) & 886  & \textbf{74.27\%} & — & — & — & — & — & — \\
+    deepseek-v4-flash     & 1734 & \textbf{81.55\%} & 82.79\% & 85.48\% & — & 88.03\% & 72.12\% & 81.60\% \\
+    qwen3.5-plus (pool:2) & 886  & \textbf{74.27\%} & 83.12\% & — & — & 85.89\% & 65.31\% & — \\
     gemma2:27b            & 2215 & \textbf{53.14\%} & 74.60\% & 62.80\% & 58.05\% & 43.89\% & 30.40\% & 42.58\% \\
-    nidum-gemma-3-27b     & 2215 & \textbf{42.62\%} & 59.60\% & 51.80\% & 50.57\% & 33.86\% & 26.20\% & 27.75\% \\
-    qwen2.5-coder-7b      & 2215 & \textbf{39.64\%} & 32.60\% & 42.20\% & 44.25\% & 32.92\% &  8.20\% & 27.75\% \\
-    dolphin3              & 2215 & \textbf{31.20\%} & 50.80\% & 27.40\% & 29.31\% & 22.57\% & 20.00\% & 17.70\% \\
-    llama3.2-uncensored   & 2215 & \textbf{22.66\%} & 0.00\% & 11.40\% & 5.17\% & 19.12\% & 10.00\% & 5.26\% \\
+    nidum-gemma-3-27b     & 2215 & \textbf{42.62\%} & 59.40\% & 51.80\% & 50.57\% & 32.92\% & 25.80\% & 29.19\% \\
+    qwen2.5-coder-7b      & 2215 & \textbf{39.64\%} & 60.40\% & 43.20\% & 42.53\% & 27.90\% & 25.40\% & 31.10\% \\
+    dolphin3              & 2215 & \textbf{31.20\%} & 48.80\% & 31.60\% & 34.48\% & 23.82\% & 21.00\% & 22.01\% \\
+    llama3.2-uncensored   & 2215 & \textbf{22.66\%} & 25.80\% & 26.60\% & 20.11\% & 19.75\% & 18.40\% & 23.44\% \\
     \bottomrule
   \end{tabular}
   \caption{Accuracy base por modelo y tarea. deepseek y qwen3.5-plus tienen cobertura
@@ -382,17 +390,18 @@ modelos evaluados sobre el dataset completo (2{,}215 ítems).
 \end{table*}
  
 Los modelos de nube (deepseek-v4-flash, qwen3.5-plus) lideran el
-rendimiento base (74–82\%), pero solo disponen de evaluación baseline.
-De los modelos con evaluación adversarial completa, gemma2:27b es el
-más capaz (53.14\%) con cero fallidos de parseo. Llamativamente,
-llama3.2-uncensored obtiene 22.66\% con un solo fallo de parseo: su
-bajo rendimiento es de razonamiento, no de formato —a diferencia de
+rendimiento base (74--82\%), pero solo disponen de evaluación baseline
+parcial debido a límites de tiempo y compute. De los modelos con
+evaluación adversarial completa, gemma2:27b es el
+más capaz (53.14\%) con cero fallidos de parseo. llama3.2-uncensored
+obtiene 22.66\% con un solo fallo de parseo: su
+bajo rendimiento es de razonamiento, no de formato, a diferencia de
 lo observado en ejecuciones previas donde fallos de formato inflaban
 artificialmente la tasa de errores.
  
 \subsection{Resultados por Proyecto}
  
-\paragraph{Proyectos 1 y 2 — Ataques Léxicos y Parafrástico.}
+\paragraph{Proyectos 1 y 2: Ataques Léxicos y Parafrástico.}
  
 La Tabla~\ref{tab:p1p2} presenta los resultados de los ataques léxicos
 y parafrástico (accuracy base independiente = 61.82\%).
@@ -435,7 +444,7 @@ respuestas frecuentemente, pero no siempre en la dirección equivocada.
 en 0.5 y 1.0 son prácticamente idénticos, lo que sugiere que incluso
 una sola modificación crítica agota el efecto adversarial de este ataque.
  
-\paragraph{Proyecto 3 — Ataques Cross-lingual.}
+\paragraph{Proyecto 3: Ataques Cross-lingual.}
  
 La Tabla~\ref{tab:cl_robustness} presenta las métricas de robustez
 cross-lingual para los cinco modelos con evaluación adversarial.
@@ -449,45 +458,45 @@ cross-lingual para los cinco modelos con evaluación adversarial.
     \textbf{PT} & \textbf{NT} & \textbf{$\rho$} \\
     \midrule
     \multirow{5}{*}{gemma2:27b}
-      & Árabe   & 47.58\% & +5.52\% & 32.74\% & 53.73\% & 67.26\% & 38.42\% & — \\
-      & Ruso    & 48.78\% & +4.34\% & 27.89\% & 58.08\% & 72.11\% & 42.20\% & — \\
+      & Árabe   & 47.67\% & +5.46\% & 32.63\% & 53.77\% & 67.37\% & 38.34\% & — \\
+      & Ruso    & 48.80\% & +4.33\% & 27.87\% & 58.10\% & 72.13\% & 42.20\% & — \\
       & Japonés & 48.98\% & +4.15\% & 30.25\% & 54.18\% & 69.75\% & 36.51\% & — \\
       & Chino   & 50.20\% & +2.93\% & 27.61\% & 56.57\% & 72.39\% & 38.63\% & — \\
-      & Francés & 51.67\% & +1.45\% & 23.74\% & 60.94\% & 76.26\% & 43.59\% & — \\
+      & Francés & 51.69\% & +1.44\% & 23.70\% & 60.99\% & 76.30\% & 43.64\% & — \\
     \midrule
     \multirow{5}{*}{nidum-gemma-3}
-      & Árabe   & 38.10\% & +4.51\% & 43.54\% & 42.26\% & 56.46\% & 31.71\% & 0.81 \\
+      & Árabe   & 38.10\% & +4.51\% & 43.54\% & 42.26\% & 56.46\% & 31.71\% & — \\
       & Japonés & 40.18\% & +2.44\% & 42.27\% & 40.72\% & 57.73\% & 28.09\% & 0.13 \\
-      & Ruso    & 36.99\% & +1.75\% & 42.06\% & 41.48\% & 57.94\% & 31.07\% & 0.24 \\
-      & Francés & 42.21\% & +0.41\% & 37.08\% & 45.91\% & 62.92\% & 33.28\% & 0.31 \\
-      & Chino   & 42.30\% & +0.32\% & 38.77\% & 43.52\% & 61.23\% & 30.37\% & 0.25 \\
+      & Ruso    & 41.13\% & +1.49\% & 39.51\% & 43.88\% & 60.49\% & 31.55\% & 0.23 \\
+      & Francés & 42.21\% & +0.41\% & 37.08\% & 45.91\% & 62.92\% & 33.28\% & — \\
+      & Chino   & 42.30\% & +0.32\% & 38.77\% & 43.52\% & 61.23\% & 30.37\% & — \\
     \midrule
     \multirow{5}{*}{qwen2.5-coder}
-      & Árabe   & 31.65\% & +7.99\% & 49.43\% & 44.06\% & 50.57\% & 39.79\% & \textbf{$-$0.53} \\
-      & Japonés & 36.70\% & +2.93\% & 37.36\% & 52.10\% & 62.64\% & 45.18\% & 0.14 \\
+      & Árabe   & 31.65\% & +7.99\% & 49.43\% & 44.06\% & 50.57\% & 39.79\% & — \\
+      & Japonés & 36.70\% & +2.93\% & 37.36\% & 52.10\% & 62.64\% & 45.18\% & — \\
       & Ruso    & 37.65\% & +1.99\% & 34.40\% & 56.48\% & 65.60\% & 50.49\% & 0.12 \\
-      & Francés & 39.59\% & +0.05\% & 32.00\% & 53.00\% & 68.00\% & 43.16\% & 0.10 \\
-      & Chino   & 41.35\% & $-$1.72\% & 33.03\% & 51.83\% & 66.97\% & 41.88\% & \textbf{$-$0.32} \\
+      & Francés & 39.59\% & +0.05\% & 32.00\% & 53.00\% & 68.00\% & 43.16\% & — \\
+      & Chino   & 41.35\% & $-$1.72\% & 33.03\% & 51.83\% & 66.97\% & 41.88\% & — \\
     \midrule
     \multirow{5}{*}{dolphin3}
-      & Árabe   & 18.18\% & +6.06\% & 71.43\% & 28.14\% & 28.57\% & 28.00\% & — \\
-      & Chino   & 30.34\% & +1.10\% & 49.85\% & 36.02\% & 50.15\% & 29.55\% & — \\
-      & Francés & 30.02\% & +1.18\% & 46.96\% & 38.88\% & 53.04\% & 32.46\% & $-$0.08 \\
-      & Japonés & 33.33\% & +0.00\% & 75.00\% & 16.67\% & 25.00\% & 12.50\% & — \\
-      & Ruso    & 11.11\% & +11.11\% & 100\% & 11.11\% & 0.00\% & 14.29\% & — \\
+      & Árabe   & 26.82\% & +4.38\% & 57.89\% & 34.72\% & 42.11\% & 31.36\% & 0.22 \\
+      & Japonés & 27.58\% & +3.61\% & 54.27\% & 35.85\% & 45.73\% & 31.36\% & 0.14 \\
+      & Ruso    & 28.08\% & +3.12\% & 52.82\% & 36.21\% & 47.18\% & 31.23\% & 0.04 \\
+      & Francés & 30.02\% & +1.17\% & 46.89\% & 38.92\% & 53.11\% & 32.48\% & — \\
+      & Chino   & 30.25\% & +0.95\% & 50.51\% & 35.58\% & 49.49\% & 29.27\% & — \\
     \midrule
     \multirow{5}{*}{llama3.2-uncs.}
-      & Árabe   & 21.35\% & +1.82\% & 70.87\% & 27.37\% & 29.13\% & 26.84\% & — \\
-      & Chino   & 22.94\% & +0.61\% & 68.83\% & 24.97\% & 31.17\% & 23.07\% & — \\
-      & Francés & 22.11\% & +0.00\% & 70.71\% & 28.58\% & 29.29\% & 28.38\% & $-$0.50 \\
-      & Japonés & 16.46\% & +3.99\% & 81.71\% & 25.44\% & 18.29\% & 27.27\% & — \\
-      & Ruso$^*$ & 7.58\% & +16.67\% & 87.50\% & 28.79\% & 12.50\% & 34.00\% & 0.54 \\
+      & Árabe   & 23.57\% & $-$0.90\% & 69.72\% & 26.28\% & 30.28\% & 25.10\% & $-$0.06 \\
+      & Francés & 25.06\% & $-$2.39\% & 64.94\% & 28.44\% & 35.06\% & 26.50\% & $-$0.01 \\
+      & Ruso    & 25.10\% & $-$2.44\% & 70.92\% & 25.10\% & 29.08\% & 23.93\% & $-$0.00 \\
+      & Chino   & 25.24\% & $-$2.57\% & 68.13\% & 25.19\% & 31.87\% & 23.23\% & 0.11 \\
+      & Japonés & 26.68\% & $-$4.02\% & 65.94\% & 26.68\% & 34.06\% & 24.52\% & $-$0.06 \\
     \bottomrule
   \end{tabular}
   \caption{Métricas de robustez cross-lingual por modelo e idioma, ordenadas
   por $\Delta$ descendente dentro de cada modelo. $\rho$ = rank consistency
-  (Spearman sobre logprobs); — = logprobs no disponibles. $^*$Ruso en
-  llama3.2: n=66 (cobertura parcial, no confiable). PT = transferencia
+  (Spearman sobre logprobs, $n \geq 30$); — = logprobs no disponibles
+  o muestra insuficiente. PT = transferencia
   positiva; NT = transferencia negativa.}
   \label{tab:cl_robustness}
 \end{table*}
@@ -507,7 +516,7 @@ por tarea y los cinco idiomas de perturbación.
     \multicolumn{1}{c}{\textbf{Fran.}} \\
     \textbf{Tarea} & Acc & Acc & $\Delta$ & Acc & $\Delta$ & Acc & $\Delta$ & Acc & $\Delta$ & $\Delta$ \\
     \midrule
-    reading\_comp.   & 74.60\% & 67.41\% & +7.19\% & 67.74\% & +6.86\% & 68.80\% & +5.80\% & 68.00\% & +6.60\% & +3.78\% \\
+    reading\_comp.   & 74.60\% & 67.60\% & +7.00\% & 67.80\% & +6.80\% & 68.80\% & +5.80\% & 68.00\% & +6.60\% & +3.80\% \\
     verbal\_series   & 62.80\% & 54.60\% & +8.20\% & 59.40\% & +3.40\% & 59.40\% & +3.40\% & 62.40\% & +0.40\% & +1.20\% \\
     syn./ant.        & 58.05\% & 54.60\% & +3.45\% & 55.75\% & +2.30\% & 59.20\% & $-$1.15\% & 63.79\% & $-$5.75\% & $-$3.45\% \\
     inc.\_sentences  & 61.54\% & 38.46\% & +23.08\% & 61.54\% & \phantom{+}0.00\% & 61.54\% & \phantom{+}0.00\% & 38.46\% & +23.08\% & +15.38\% \\
@@ -515,10 +524,10 @@ por tarea y los cinco idiomas de perturbación.
     sentence\_ord.   & 43.89\% & 47.34\% & $-$3.45\% & 44.51\% & $-$0.63\% & 46.39\% & $-$2.51\% & 45.45\% & $-$1.57\% & $-$7.84\% \\
     sentence\_eli.   & 30.40\% & 24.60\% & +5.80\% & 25.00\% & +5.40\% & 24.40\% & +6.00\% & 25.40\% & +5.00\% & +6.80\% \\
     \midrule
-    \textbf{Total}   & \textbf{53.14\%} & \textbf{47.58\%} & \textbf{+5.52\%} & \textbf{48.78\%} & \textbf{+4.34\%} & \textbf{48.98\%} & \textbf{+4.15\%} & \textbf{50.20\%} & \textbf{+2.93\%} & \textbf{+1.45\%} \\
+    \textbf{Total}   & \textbf{53.14\%} & \textbf{47.67\%} & \textbf{+5.46\%} & \textbf{48.80\%} & \textbf{+4.33\%} & \textbf{48.98\%} & \textbf{+4.15\%} & \textbf{50.20\%} & \textbf{+2.93\%} & \textbf{+1.44\%} \\
     \bottomrule
   \end{tabular}
-  \caption{Accuracy y accuracy drop por tarea — gemma2:27b (5 idiomas).
+  \caption{Accuracy y accuracy drop por tarea, gemma2:27b (5 idiomas).
   $\Delta$ negativo = mejora bajo ataque. Para francés, solo se muestra
   $\Delta$ por espacio; accuracy base $\times$ (1$-\Delta$) para
   recuperar el valor.}
@@ -530,54 +539,59 @@ por tarea y los cinco idiomas de perturbación.
 \label{sec:analisis}
 
 \paragraph{Patrón 1: Árabe produce el mayor daño; francés el menor.}
-En todos los modelos con evaluación completa, el árabe es el idioma de
-ataque más dañino (gemma2:27b: $\Delta = 5.52\%$; nidum-gemma-3:
-$\Delta = 4.51\%$; qwen2.5-coder: $\Delta = 7.99\%$) y el francés
-el menos (gemma2:27b: $\Delta = 1.45\%$; nidum-gemma-3: $\Delta =
-0.41\%$). El ordenamiento en gemma2:27b es: AR $>$ RU $>$ JA $>$ ZH
-$>$ FR, no estrictamente coincidente con la distancia tipológica al
-español. El árabe supera al chino pese a que el chino es tipológicamente
-más distante, posiblemente porque su escritura RTL introduce
-ambigüedades adicionales en la tokenización o porque los corpus de
-preentrenamiento en árabe tienen menor representación que los de chino.
+En los cuatro modelos con mayor capacidad (gemma2:27b, nidum-gemma-3,
+qwen2.5-coder, dolphin3), el árabe es el idioma de ataque más dañino
+(gemma2:27b: $\Delta = +5.46\%$; nidum-gemma-3: $\Delta = +4.51\%$;
+qwen2.5-coder: $\Delta = +7.99\%$; dolphin3: $\Delta = +4.38\%$) y el
+francés o chino el menos dañino (gemma2:27b: $\Delta = +1.44\%$;
+nidum-gemma-3: $\Delta = +0.32\%$ chino). El ordenamiento en gemma2:27b
+es: AR $>$ RU $>$ JA $>$ ZH $>$ FR, no estrictamente coincidente con la
+distancia tipológica al español. El árabe supera al chino pese a que el
+chino es tipológicamente más distante, posiblemente porque su escritura
+RTL introduce ambigüedades adicionales en la tokenización o porque los
+corpus de preentrenamiento en árabe tienen menor representación que los
+de chino. llama3.2-uncensored constituye una excepción a este patrón
+(ver Patrón 3).
  
 \paragraph{Patrón 2: Los ataques cross-lingual superan a los léxicos.}
 El $\Delta$ máximo de los ataques léxicos y parafrástico (P1/P2) es
 3.66\% (\texttt{MinimalPairs} intensidad 1.0). El ataque árabe produce
-5.52\%--7.99\% según el modelo, es decir, entre 1.5× y 2.2× mayor
+$+4.38\%$ a $+7.99\%$ según el modelo, es decir, entre 1.2× y 2.2× mayor
 degradación. \texttt{ShortcutRemoval} representa el extremo inferior:
 $\Delta \leq 0.32\%$ a cualquier intensidad, lo que indica que los
 conectores lógicos explícitos contribuyen marginalmente al rendimiento
 en estas tareas.
  
-\paragraph{Patrón 3: Rank consistency negativa en qwen2.5-coder.}
-El hallazgo más notable del estudio es que qwen2.5-coder exhibe
-\textit{rank consistency negativa} bajo árabe ($\rho = -0.53$) y chino
-($\rho = -0.32$), con $\Delta$ de +7.99\% y $-$1.72\% respectivamente.
-Esto significa que la perturbación \textit{invierte} sistemáticamente el
-ranking de opciones del modelo: las opciones que el modelo prefería en
-la condición base pasan a ser las menos preferidas bajo perturbación, y
-viceversa.
+\paragraph{Patrón 3: llama3.2-uncensored mejora bajo todos los ataques
+cross-lingual.}
+llama3.2-uncensored es el único modelo donde los cinco idiomas de
+perturbación producen $\Delta$ \textit{negativo}: AR ($-$0.90\%),
+FR ($-$2.39\%), RU ($-$2.44\%), ZH ($-$2.57\%), JA ($-$4.02\%). Es
+decir, el modelo obtiene \textit{mayor} accuracy bajo ataque que en
+baseline. Esto no indica robustez, sino lo contrario: con una accuracy
+basal de 22.66\%, cercana al azar (25\% para 4 opciones, 20\% para 5),
+el modelo no tiene un rendimiento significativo que degradar. Las
+flip rates altas (65--71\%) confirman que el modelo cambia sus
+respuestas con alta frecuencia, pero aproximadamente en igual proporción
+hacia aciertos y hacia errores. Este patrón es consistente con
+selección casi aleatoria de opciones, donde la perturbación no
+empeora ni mejora un razonamiento inexistente.
  
-El contraste entre árabe ($\rho = -0.53$, $\Delta = +7.99\%$) y chino
-($\rho = -0.32$, $\Delta = -1.72\%$) es particularmente instructivo:
-en ambos casos el ranking se invierte, pero bajo chino la opción
-correcta —que era la menos preferida en base— pasa a ser la más
-preferida bajo perturbación, produciendo una mejora neta en accuracy.
-Esto sugiere que el modelo no razona sobre el contenido de las opciones,
-sino que detecta señales superficiales en el idioma de la pregunta para
-ordenar las respuestas. Este comportamiento es invisible para métricas
-de accuracy sola y solo emerge con rank consistency.
- 
-\paragraph{Patrón 4: Alta rho con alto $\Delta$ en nidum-gemma-3/árabe.}
-Bajo árabe, nidum-gemma-3 exhibe $\rho = 0.81$ (alta correlación) con
-$\Delta = 4.51\%$ simultáneamente. Este aparente paradoja se resuelve
-al considerar que alta consistencia de ranking significa que el modelo
-desplaza sistemáticamente toda su distribución en la misma dirección
-(la opción correcta baja uniformemente en el ranking), no que introduce
-ruido aleatorio. Este patrón de «sesgo sistemático» es más preocupante
-que el ruido aleatorio para aplicaciones reales: el modelo tiene la
-certeza incorrecta correctamente ordenada.
+\paragraph{Patrón 4: Rank consistency cercana a cero.}
+Los valores de $\rho$ calculados sobre muestras con logprobs
+suficientes ($n \geq 30$) se ubican cerca de cero en todos los casos.
+El único modelo con cobertura completa de $\rho$ en los cinco idiomas
+es llama3.2-uncensored, con valores entre $-$0.06 y 0.11. Esto es
+coherente con su comportamiento cercano al azar: sin un ranking
+estable de opciones que preservar, la correlación entre baseline y
+ataque es nula. Los valores más altos de $\rho$ se observan en
+nidum-gemma-3/ruso ($\rho = 0.23$, $n = 162$) y dolphin3/árabe
+($\rho = 0.22$, $n = 140$), indicando correlación positiva moderada:
+el modelo mantiene parcialmente su ranking bajo perturbación. En
+qwen2.5-coder/ruso, $\rho = 0.12$ ($n = 212$), cercano al cero. Los
+valores de $\rho$ para varios pares modelo-idioma no pudieron
+calcularse debido a cobertura insuficiente de logprobs ($n < 30$),
+reportándose como «—» en la Tabla~\ref{tab:cl_robustness}.
  
 \paragraph{Patrón 5: sentence\_ordering mejora consistentemente bajo
 perturbación cross-lingual.}
@@ -592,15 +606,16 @@ independientes del idioma de la instrucción. También se observan mejoras
 menores en \texttt{synonyms\_and\_antonyms} bajo chino ($-5.75\%$) y
 francés ($-3.45\%$).
  
-\paragraph{Patrón 6: Alta flip rate con bajo $\Delta$ en llama3.2.}
-Llama3.2-uncensored presenta flip rates muy altas (68--82\%) bajo
-todos los ataques, pero $\Delta$ moderados (0--4\%). Esto indica que
-el modelo cambia sus respuestas con alta frecuencia ante perturbaciones,
-pero aproximadamente en igual proporción hacia aciertos y hacia errores
-—comportamiento consistente con selección casi aleatoria de opciones,
-con accuracy cercana al azar (25\% para 4 opciones vs 22.66\% observado).
-La $\rho = -0.50$ bajo francés (única con logprobs disponibles)
-confirma que incluso el ranking interno se invierte completamente.
+\paragraph{Patrón 6: Alta flip rate con $\Delta$ negativo en
+llama3.2-uncensored.}
+Como se observa en el Patrón 3, llama3.2-uncensored presenta flip rates
+altas (65--71\%) bajo todos los ataques, con $\Delta$ \textit{negativos}
+en los cinco idiomas ($-$0.90\% a $-$4.02\%). La combinación de alta
+flip rate con $\Delta$ negativo confirma que el modelo cambia sus
+respuestas frecuentemente, pero con un ligero sesgo hacia aciertos bajo
+perturbación. El $\rho \approx 0$ (entre $-$0.06 y 0.11) bajo los cinco
+idiomas indica que no hay un ranking interno estable que la perturbación
+pueda reordenar, consistente con selección casi aleatoria.
  
 \paragraph{Patrón 7: Transferencia negativa alta como indicador de sesgo.}
 En gemma2:27b, el NT oscila entre 36.5\% y 43.6\% según el idioma,
@@ -608,8 +623,8 @@ indicando que entre 37\% y 44\% de los errores en baseline se repiten
 \textit{idénticamente} bajo perturbación. En qwen2.5-coder, el NT
 bajo ruso alcanza 50.5\%: la mitad de todos los errores del modelo son
 persistentes e independientes del idioma del ataque. Esto sugiere
-sesgos estructurales preexistentes —como preferencia sistemática por
-ciertas posiciones de opción— que ninguna perturbación logra alterar.
+sesgos estructurales preexistentes, como preferencia sistemática por
+ciertas posiciones de opción, que ninguna perturbación logra alterar.
  
 % ─────────────────────────────────────────────────────
 \subsection{Interfaces e Implementación}
@@ -685,23 +700,29 @@ de perturbación. Las contribuciones y hallazgos principales son:
   concurrencia configurable y exportación en múltiples formatos.
  
   \item Siete métricas de robustez incluyendo rank consistency sobre
-  logprobs, que revela vulnerabilidades invisibles para accuracy sola.
+  logprobs, que requiere un mínimo de 30 muestras con logprobs
+  simultáneos para producir un valor fiable.
  
   \item La jerarquía de impacto adversarial: ataques cross-lingual
   dominan sobre léxicos ($\Delta_{\text{AR}} \leq 7.99\%$ vs
   $\Delta_{\text{MinPairs}} \leq 3.66\%$); dentro de los cross-lingual,
-  árabe $>$ ruso $\approx$ japonés $>$ chino $>$ francés.
+  árabe $>$ ruso $\approx$ japonés $>$ chino $>$ francés en los modelos
+  con mayor capacidad.
   \texttt{ShortcutRemoval} es el ataque menos efectivo ($\Delta \leq
   0.32\%$), lo que indica que los modelos no explotan estos atajos
   superficiales de manera significativa.
  
-  \item El hallazgo más relevante: rank consistency \textit{negativa}
-  en qwen2.5-coder bajo árabe ($\rho = -0.53$) y chino ($\rho =
-  -0.32$), indicando que la perturbación invierte sistemáticamente el
-  ranking interno de opciones. Esto es invisible para métricas de
-  accuracy y apunta a que el modelo depende de señales del idioma de
-  la instrucción —no del contenido semántico— para ordenar las
-  alternativas.
+  \item Los valores de rank consistency calculados sobre muestras
+  suficientes ($n \geq 30$) se ubican cerca de cero, sin evidencia de
+  inversión sistemática del ranking interno de opciones. La cobertura
+  parcial de logprobs limita el análisis a un subconjunto de pares
+  modelo-idioma.
+ 
+  \item llama3.2-uncensored, con accuracy basal cercana al azar
+  (22.66\%), \textit{mejora} bajo todos los ataques cross-lingual
+  ($\Delta$ negativo en los cinco idiomas). Esto no indica robustez
+  sino ausencia de razonamiento: la perturbación no puede degradar lo
+  que es esencialmente selección aleatoria.
  
   \item \texttt{sentence\_ordering} mejora consistentemente bajo
   todos los idiomas de perturbación en gemma2:27b, sugiriendo que
@@ -711,10 +732,10 @@ de perturbación. Las contribuciones y hallazgos principales son:
  
 Como trabajo futuro, se propone completar la evaluación de los modelos
 de nube con ataques adversariales (deepseek-v4-flash, qwen3.5-plus),
-extender el análisis de rank consistency a todos los modelos habilitando
-logprobs, y aplicar análisis de representaciones internas (CKA,
-activation steering) para contrastar con los hallazgos de
-\citet{languagespecific2025}.
+extender la cobertura de logprobs a todos los modelos y muestras para
+habilitar un análisis más robusto de rank consistency, y aplicar
+análisis de representaciones internas (CKA, activation steering) para
+contrastar con los hallazgos de \citet{languagespecific2025}.
 % ─────────────────────────────────────────────────────
 \section*{Agradecimientos}
  
@@ -776,8 +797,7 @@ Los ejemplos se resumen en la Tabla ~\ref{tab:appendix_examples}.
 \section{Resumen de Modelos y Cobertura}
 \label{sec:appendix_models}
 
-Los ejemplos se resumen en la Tabla ~\ref{tab:models_summary}.
-
+Los modelos evaluados se resumen en la Tabla~\ref{tab:models_summary}.
  
 \begin{table*}[h]
   \centering\small
@@ -785,17 +805,22 @@ Los ejemplos se resumen en la Tabla ~\ref{tab:models_summary}.
     \toprule
     \textbf{Modelo} & \textbf{Prov.} & \textbf{Ataques CL} & \textbf{logprobs} \\
     \midrule
-    deepseek-v4-flash     & OCG & — & — \\
-    qwen3.5-plus (pool:2) & mix & — & — \\
+    deepseek-v4-flash     & OCG & --- & No \\
+    qwen3.5-plus (pool:2) & mix & parcial & Parcial \\
     gemma2:27b            & Oll & AR/RU/JA/ZH/FR & No \\
-    nidum-gemma-3-27b     & Oll & AR/ZH/FR/JA/RU & Sí \\
-    qwen2.5-coder-7b      & Oll & AR/ZH/FR/JA/RU & Sí \\
-    dolphin3              & Oll & AR/ZH/FR/JA/RU & Parcial \\
-    llama3.2-uncensored   & Oll & AR/ZH/FR/JA/RU & Parcial \\
+    nidum-gemma-3-27b     & Oll & AR/RU/JA/ZH/FR & Parcial \\
+    qwen2.5-coder-7b      & Oll & AR/RU/JA/ZH/FR & Parcial \\
+    dolphin3              & Oll & AR/RU/JA/ZH/FR & Parcial \\
+    llama3.2-uncensored   & Oll & AR/RU/JA/ZH/FR & Parcial \\
     \bottomrule
   \end{tabular}
   \caption{Modelos evaluados, ataques ejecutados y disponibilidad
-  de logprobs para rank consistency.}
+  de logprobs para rank consistency. ``Parcial'' indica que los logprobs
+  se recolectaron solo para un subconjunto de muestras, por lo que
+  algunos pares modelo-idioma no alcanzan el mínimo de $n = 30$ para
+  $\rho$. qwen3.5-plus dispone de evaluación CL parcial
+  ($n = 308$--$476$ por idioma) debido a límites de compute.
+  OCG = OpencodeGo, Oll = Ollama, mix = pool Ollama+OpencodeGo.}
   \label{tab:models_summary}
 \end{table*}
  
